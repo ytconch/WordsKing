@@ -1,0 +1,6 @@
+2026/05/27-08:02:04.268 852c Reusing MANIFEST C:\Users\ytcon\server\server\WordsKingServer\data\codex-edge-headless\Default\EdgeCoupons/coupons_data.db/MANIFEST-000001
+2026/05/27-08:02:04.269 852c Recovering log #19
+2026/05/27-08:02:04.270 852c Reusing old log C:\Users\ytcon\server\server\WordsKingServer\data\codex-edge-headless\Default\EdgeCoupons/coupons_data.db/000019.log 
+2026/05/27-08:02:05.563 a23c Level-0 table #24: started
+2026/05/27-08:02:05.568 a23c Level-0 table #24: 682804 bytes OK
+2026/05/27-08:02:05.570 a23c Delete type=0 #19

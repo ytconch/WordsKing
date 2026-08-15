@@ -1,0 +1,1 @@
+function getViewerEventBus(e){e=e??window.PDFViewerApplication;return new Promise(((t,i)=>{if(!e)return void i("No PDF.js viewer found in the current exectution context!");const n=()=>t(e.eventBus);e.initializedPromise?n():document.addEventListener("webviewerloaded",n)}))}export{getViewerEventBus};

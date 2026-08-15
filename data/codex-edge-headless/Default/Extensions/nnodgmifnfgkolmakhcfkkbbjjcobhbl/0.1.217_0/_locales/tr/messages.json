@@ -1,0 +1,476 @@
+{
+   "ADVANCED": {
+      "message": "ADVANCED"
+   },
+   "ADVANCED______________________________________": {
+      "message": "ADVANCED                                      "
+   },
+   "About______________________________________": {
+      "message": "About                                      "
+   },
+   "Allow_Current_Site": {
+      "message": "Allow Current Site"
+   },
+   "Alt_Left": {
+      "message": "Sol Alt"
+   },
+   "Alt_Right": {
+      "message": "Sağ Alt"
+   },
+   "Always": {
+      "message": "Her Zaman"
+   },
+   "Auto": {
+      "message": "Otomatik"
+   },
+   "Auto_Reader_When": {
+      "message": "Otomatik Okuyucu Ne Zaman"
+   },
+   "BACKUP": {
+      "message": "YEDEKLE"
+   },
+   "BACKUP______________________________________": {
+      "message": "YEDEKLE                                      "
+   },
+   "Block_Current_Site": {
+      "message": "Block Current Site"
+   },
+   "Center": {
+      "message": "Merkez"
+   },
+   "Check_how_to_use_this_extension": {
+      "message": "Check how to use this extension"
+   },
+   "Check_source_code_in_github": {
+      "message": "Check source code in github"
+   },
+   "Click_Left": {
+      "message": "Sol Tıkla"
+   },
+   "Click_Middle": {
+      "message": "Ortaya Tıkla"
+   },
+   "Click_Right": {
+      "message": "Sağ Tıkla"
+   },
+   "Coffee______________________________________": {
+      "message": "Kahve                                      "
+   },
+   "Comment_on_this_extension": {
+      "message": "Comment on this extension"
+   },
+   "Container": {
+      "message": "Kapsayıcı"
+   },
+   "Ctrl_Left": {
+      "message": "Sol Control"
+   },
+   "Ctrl_Right": {
+      "message": "Sol Control"
+   },
+   "Default": {
+      "message": "Varsayılan"
+   },
+   "Detect_PDF": {
+      "message": "Detect PDF"
+   },
+   "Detect_Subtitle": {
+      "message": "Altyazı Algıla"
+   },
+   "Developer_love_criticism": {
+      "message": "Developer love criticism"
+   },
+   "Dual_Subtitle": {
+      "message": "Çift Altyazı"
+   },
+   "EXCLUDE": {
+      "message": "EXCLUDE"
+   },
+   "EXCLUDE______________________________________": {
+      "message": "EXCLUDE                                      "
+   },
+   "Ebook_Reader": {
+      "message": "Ebook Reader"
+   },
+   "Exclude_Language": {
+      "message": "Dili Hariç Tut"
+   },
+   "Exclude_Website": {
+      "message": "Veb Sitesini Hariç Tut"
+   },
+   "Export_Setting": {
+      "message": "Ayarları Dışarı Aktar"
+   },
+   "Fade": {
+      "message": "Karart"
+   },
+   "Fallback_Translator_Engine": {
+      "message": "Yedek Çevirmen Motoru"
+   },
+   "Feed_a_coffee_to_the_extension_devs": {
+      "message": "Uzantı geliştiricilerine bir kahve verin"
+   },
+   "Fixed": {
+      "message": "Düzeltildi"
+   },
+   "Follow": {
+      "message": "Takip Et"
+   },
+   "GRAPHIC": {
+      "message": "GRAPHIC"
+   },
+   "GRAPHIC______________________________________": {
+      "message": "GRAPHIC                                      "
+   },
+   "How_to_use": {
+      "message": "How to use"
+   },
+   "Import_Setting": {
+      "message": "Ayarları İçe Aktar"
+   },
+   "Justify": {
+      "message": "Yasla"
+   },
+   "KEYBOARD": {
+      "message": "KLAVYE"
+   },
+   "KEYBOARD______________________________________": {
+      "message": "KEYBOARD                                      "
+   },
+   "LLM_Api_Endpoint": {
+      "message": "LLM API Endpoint URL"
+   },
+   "LLM_Api_Key": {
+      "message": "LLM API Key"
+   },
+   "LLM_Model": {
+      "message": "LLM Model"
+   },
+   "LLM_Provider": {
+      "message": "LLM Provider"
+   },
+   "Left": {
+      "message": "Sol"
+   },
+   "MAIN": {
+      "message": "ANA PANEL"
+   },
+   "MAIN______________________________________": {
+      "message": "MAIN                                      "
+   },
+   "Meta_Left": {
+      "message": "Sol Meta"
+   },
+   "Meta_Right": {
+      "message": "Sağ Meta"
+   },
+   "Mouse_Tooltip_Translator": {
+      "message": "Fare İpucu Çevirisi"
+   },
+   "Mouseover": {
+      "message": "Fare Üstündeyken"
+   },
+   "Mouseover_Highlight_Text": {
+      "message": "Üzerine Gelince Metni Vurgula"
+   },
+   "Mouseover_Pause_Subtitle": {
+      "message": "Mouseover Pause Subtitle"
+   },
+   "Mouseover_Text_Highlight_Color": {
+      "message": "Üzerine Gelince Metin Vurgu Rengi"
+   },
+   "Mouseover_Text_Type": {
+      "message": "Fare Hareketi Yazı Tipi"
+   },
+   "Mouseover_Text_Type_2": {
+      "message": "Secondary Mouseover Text Type"
+   },
+   "Mouseover_Text_Type_Key_Hold": {
+      "message": "Mouseover Text Type Key Hold"
+   },
+   "Mouseover_Text_Type_Swap_Key": {
+      "message": "Üzerine Gelince Metin Türünü Değiştirme Tuşu"
+   },
+   "Mouseover_n_Select": {
+      "message": "Üzerine Gel & Seç"
+   },
+   "None": {
+      "message": "Yok"
+   },
+   "OCR_Language": {
+      "message": "OCR Dili"
+   },
+   "OCR_When": {
+      "message": "OCR Şu Durumda"
+   },
+   "Off": {
+      "message": "Kapalı"
+   },
+   "On": {
+      "message": "Açık"
+   },
+   "PDF_Viewer": {
+      "message": "PDF Viewer"
+   },
+   "Perspective": {
+      "message": "Perspektif"
+   },
+   "Privacy_Policy": {
+      "message": "Privacy Policy"
+   },
+   "Reset_Setting": {
+      "message": "Ayarları Sıfırla"
+   },
+   "Retweet_twitter_post": {
+      "message": "Retweet twitter post"
+   },
+   "Reverse_Translate_Language": {
+      "message": "Ters Çeviri Dili"
+   },
+   "Review_Page": {
+      "message": "Review Page"
+   },
+   "Review______________________________________": {
+      "message": "Review                                      "
+   },
+   "Review_this": {
+      "message": "Review this"
+   },
+   "Right": {
+      "message": "Sağ"
+   },
+   "SELECT_OPTION______________________________": {
+      "message": "SEÇENEĞİ SEÇ                              "
+   },
+   "SPEECH": {
+      "message": "Konuşma"
+   },
+   "Scale": {
+      "message": "Ölçek"
+   },
+   "Secondary_Language_When": {
+      "message": "Secondary Language When"
+   },
+   "Select": {
+      "message": "Seç"
+   },
+   "Sentence": {
+      "message": "Cümle"
+   },
+   "Shift_Left": {
+      "message": "Sol Shift"
+   },
+   "Shift_Right": {
+      "message": "Sağ Shift"
+   },
+   "Shift_away": {
+      "message": "Shift away"
+   },
+   "Shift_toward": {
+      "message": "Yaklaş"
+   },
+   "Show_Tooltip_When": {
+      "message": "İpucu Şu Durumda Gösterilsin"
+   },
+   "Source": {
+      "message": "Kaynak"
+   },
+   "Source_Single_Subtitle": {
+      "message": "Kaynak Tek Altyazı"
+   },
+   "Source_Text": {
+      "message": "Kaynak Metin"
+   },
+   "Source_code": {
+      "message": "Source code"
+   },
+   "Source_n_Translated": {
+      "message": "Kaynak & Çeviri"
+   },
+   "Speech_Recognition_Language": {
+      "message": "Konuşma Tanıma Dili"
+   },
+   "Speech_Recognition_When": {
+      "message": "Konuşma Tanıma Ne Zaman"
+   },
+   "Support_this_extension": {
+      "message": "Bu uzantıyı destekleyin"
+   },
+   "Target_Single_Subtitle": {
+      "message": "Hedef Tek Altyazı"
+   },
+   "Title______________________________________": {
+      "message": "Title                                      "
+   },
+   "Toggle_Mouseover_Text_Type_When": {
+      "message": "Toggle Mouseover Text Type When"
+   },
+   "Tooltip_Animation": {
+      "message": "İpucu Animasyonu"
+   },
+   "Tooltip_Background_Blur": {
+      "message": "İpucu Arkaplan Bulanıklığı"
+   },
+   "Tooltip_Background_Color": {
+      "message": "İpucu Arkaplan Rengi"
+   },
+   "Tooltip_Border_Color": {
+      "message": "İpucu Kenarlığı Rengi"
+   },
+   "Tooltip_Distance": {
+      "message": "İpucu Mesafesi"
+   },
+   "Tooltip_Font_Color": {
+      "message": "İpucu Yazı Rengi"
+   },
+   "Tooltip_Font_Size": {
+      "message": "İpucu Yazı Boyutu"
+   },
+   "Tooltip_Info_Source_Language": {
+      "message": "Tooltip Info Source Language"
+   },
+   "Tooltip_Info_Source_Text": {
+      "message": "İpucu Kaynak Metni"
+   },
+   "Tooltip_Info_Transliteration": {
+      "message": "Tooltip Info Transliteration"
+   },
+   "Tooltip_Interval_Time": {
+      "message": "İpucu Süre Aralığı"
+   },
+   "Tooltip_Position": {
+      "message": "İpucu Konumu"
+   },
+   "Tooltip_Text_Align": {
+      "message": "İpucu Metni Hizalama"
+   },
+   "Tooltip_Width": {
+      "message": "İpucu Genişliği"
+   },
+   "Tooltip_Word_Dictionary": {
+      "message": "Tooltip Kelime Sözlüğü"
+   },
+   "Translate_From": {
+      "message": "Çeviri Kaynağı"
+   },
+   "Translate_Into": {
+      "message": "Şuna Çevir"
+   },
+   "Translate_Into_2": {
+      "message": "Secondary Translate Into"
+   },
+   "Translate_Voice": {
+      "message": "Ses Çevir"
+   },
+   "Translate_When": {
+      "message": "Şu Durumda Çevir"
+   },
+   "Translate_Writing_When": {
+      "message": "Yazıyı Şu Durumda Çevir"
+   },
+   "Translate_local_PDF_file": {
+      "message": "Translate local PDF file"
+   },
+   "Translate_local_ebook_file": {
+      "message": "Translate local ebook file"
+   },
+   "Translated_Text": {
+      "message": "Çevirilmiş Metin"
+   },
+   "Translated_n_Source": {
+      "message": "Çeviri & Kaynak"
+   },
+   "Translator_Engine": {
+      "message": "Çeviri Motoru"
+   },
+   "Twitter": {
+      "message": "Twitter"
+   },
+   "User_privacy_policy": {
+      "message": "User privacy policy"
+   },
+   "VOICE": {
+      "message": "VOICE"
+   },
+   "VOICE______________________________________": {
+      "message": "VOICE                                      "
+   },
+   "Voice_Panel": {
+      "message": "Ses Paneli"
+   },
+   "Voice_Panel_Background_Color": {
+      "message": "Ses Paneli Arka Plan Rengi"
+   },
+   "Voice_Panel_Padding": {
+      "message": "Ses Paneli Dolgusu"
+   },
+   "Voice_Panel_Source_Border_Color": {
+      "message": "Ses Paneli Kaynak Kenarlık Rengi"
+   },
+   "Voice_Panel_Source_Font_Color": {
+      "message": "Ses Paneli Kaynak Yazı Tipi Rengi"
+   },
+   "Voice_Panel_Source_Font_Size": {
+      "message": "Ses Paneli Kaynak Yazı Tipi Boyutu"
+   },
+   "Voice_Panel_Target_Border_Color": {
+      "message": "Ses Paneli Hedef Kenarlık Rengi"
+   },
+   "Voice_Panel_Target_Font_Color": {
+      "message": "Ses Paneli Hedef Yazı Tipi Rengi"
+   },
+   "Voice_Panel_Target_Font_Size": {
+      "message": "Ses Paneli Hedef Yazı Tipi Boyutu"
+   },
+   "Voice_Panel_Text_Align": {
+      "message": "Ses Paneli Metin Hizalama"
+   },
+   "Voice_Panel_Text_Target": {
+      "message": "Ses Paneli Metin Hedefi"
+   },
+   "Voice_Panel_Translate_Language": {
+      "message": "Ses Paneli Dil Çevirme"
+   },
+   "Voice_Repeat": {
+      "message": "Ses Tekrarı"
+   },
+   "Voice_Speed": {
+      "message": "Ses Hızı"
+   },
+   "Voice_Target": {
+      "message": "Ses Hedefi"
+   },
+   "Voice_Translated_Speed": {
+      "message": "Sesli Çeviri Hızı"
+   },
+   "Voice_Volume": {
+      "message": "Ses Seviyesi"
+   },
+   "Voice_When": {
+      "message": "Şu Durumda Seslendir"
+   },
+   "Voice_for_": {
+      "message": "Şunun İçin Seslendirme"
+   },
+   "Whitelist_Website": {
+      "message": "Beyaz Liste Web Sitesi"
+   },
+   "Word": {
+      "message": "Kelime"
+   },
+   "Writing_Language": {
+      "message": "Yazım Dili"
+   },
+   "appDesc": {
+      "message": "Fare araç ipucu çevirmen google çevirisini kullanarak mouseover metnini çevir. Support OCR, TTS, manga translator & pdf translator"
+   },
+   "appName": {
+      "message": "Fare Araç İpucu Çevirmeni - PDF & Netflix Youtube çift alt yazı"
+   },
+   "bing": {
+      "message": "bing"
+   },
+   "google": {
+      "message": "Google"
+   }
+}

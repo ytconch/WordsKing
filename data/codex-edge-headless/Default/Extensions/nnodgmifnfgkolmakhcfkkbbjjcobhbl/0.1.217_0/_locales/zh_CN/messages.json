@@ -1,0 +1,476 @@
+{
+   "ADVANCED": {
+      "message": "高级"
+   },
+   "ADVANCED______________________________________": {
+      "message": "高级                                      "
+   },
+   "About______________________________________": {
+      "message": "关于                                      "
+   },
+   "Allow_Current_Site": {
+      "message": "Allow Current Site"
+   },
+   "Alt_Left": {
+      "message": "Alt + 左键"
+   },
+   "Alt_Right": {
+      "message": "Alt + 右键"
+   },
+   "Always": {
+      "message": "总是显示"
+   },
+   "Auto": {
+      "message": "自动"
+   },
+   "Auto_Reader_When": {
+      "message": "何时进行自动阅读"
+   },
+   "BACKUP": {
+      "message": "备份"
+   },
+   "BACKUP______________________________________": {
+      "message": "备份                                      "
+   },
+   "Block_Current_Site": {
+      "message": "Block Current Site"
+   },
+   "Center": {
+      "message": "居中"
+   },
+   "Check_how_to_use_this_extension": {
+      "message": "查看如何使用此扩展"
+   },
+   "Check_source_code_in_github": {
+      "message": "在 GitHub 上查看源代码"
+   },
+   "Click_Left": {
+      "message": "左键点击"
+   },
+   "Click_Middle": {
+      "message": "中键点击"
+   },
+   "Click_Right": {
+      "message": "右键点击"
+   },
+   "Coffee______________________________________": {
+      "message": "咖啡                                      "
+   },
+   "Comment_on_this_extension": {
+      "message": "评论此扩展"
+   },
+   "Container": {
+      "message": "容器"
+   },
+   "Ctrl_Left": {
+      "message": "Ctrl + 左键"
+   },
+   "Ctrl_Right": {
+      "message": "Ctrl + 右键"
+   },
+   "Default": {
+      "message": "默认"
+   },
+   "Detect_PDF": {
+      "message": "检测PDF"
+   },
+   "Detect_Subtitle": {
+      "message": "检测字幕"
+   },
+   "Developer_love_criticism": {
+      "message": "开发者欢迎批评"
+   },
+   "Dual_Subtitle": {
+      "message": "双语字幕"
+   },
+   "EXCLUDE": {
+      "message": "排除"
+   },
+   "EXCLUDE______________________________________": {
+      "message": "排除                                      "
+   },
+   "Ebook_Reader": {
+      "message": "电子书阅读器"
+   },
+   "Exclude_Language": {
+      "message": "排除语言"
+   },
+   "Exclude_Website": {
+      "message": "排除网站"
+   },
+   "Export_Setting": {
+      "message": "导出设置"
+   },
+   "Fade": {
+      "message": "淡入淡出"
+   },
+   "Fallback_Translator_Engine": {
+      "message": "备用翻译引擎"
+   },
+   "Feed_a_coffee_to_the_extension_devs": {
+      "message": "请开发者喝杯咖啡"
+   },
+   "Fixed": {
+      "message": "固定"
+   },
+   "Follow": {
+      "message": "跟随"
+   },
+   "GRAPHIC": {
+      "message": "图形"
+   },
+   "GRAPHIC______________________________________": {
+      "message": "图形                                      "
+   },
+   "How_to_use": {
+      "message": "如何使用"
+   },
+   "Import_Setting": {
+      "message": "导入设置"
+   },
+   "Justify": {
+      "message": "两端对齐"
+   },
+   "KEYBOARD": {
+      "message": "键盘"
+   },
+   "KEYBOARD______________________________________": {
+      "message": "键盘                                      "
+   },
+   "LLM_Api_Endpoint": {
+      "message": "LLM API Endpoint URL"
+   },
+   "LLM_Api_Key": {
+      "message": "LLM API Key"
+   },
+   "LLM_Model": {
+      "message": "LLM Model"
+   },
+   "LLM_Provider": {
+      "message": "LLM Provider"
+   },
+   "Left": {
+      "message": "左对齐"
+   },
+   "MAIN": {
+      "message": "主要"
+   },
+   "MAIN______________________________________": {
+      "message": "主要                                      "
+   },
+   "Meta_Left": {
+      "message": "Win/⌘ + 左键"
+   },
+   "Meta_Right": {
+      "message": "Win/⌘ + 右键"
+   },
+   "Mouse_Tooltip_Translator": {
+      "message": "鼠标工具提示翻译器"
+   },
+   "Mouseover": {
+      "message": "鼠标悬停"
+   },
+   "Mouseover_Highlight_Text": {
+      "message": "鼠标悬停高亮文本"
+   },
+   "Mouseover_Pause_Subtitle": {
+      "message": "鼠标悬停暂停字幕"
+   },
+   "Mouseover_Text_Highlight_Color": {
+      "message": "鼠标悬停文本高亮颜色"
+   },
+   "Mouseover_Text_Type": {
+      "message": "鼠标悬停文本类型"
+   },
+   "Mouseover_Text_Type_2": {
+      "message": "Secondary Mouseover Text Type"
+   },
+   "Mouseover_Text_Type_Key_Hold": {
+      "message": "Mouseover Text Type Key Hold"
+   },
+   "Mouseover_Text_Type_Swap_Key": {
+      "message": "鼠标悬停文本类型切换键"
+   },
+   "Mouseover_n_Select": {
+      "message": "悬停并选择"
+   },
+   "None": {
+      "message": "无"
+   },
+   "OCR_Language": {
+      "message": "OCR 语言"
+   },
+   "OCR_When": {
+      "message": "何时进行OCR"
+   },
+   "Off": {
+      "message": "关"
+   },
+   "On": {
+      "message": "开"
+   },
+   "PDF_Viewer": {
+      "message": "PDF 阅读器"
+   },
+   "Perspective": {
+      "message": "透视"
+   },
+   "Privacy_Policy": {
+      "message": "隐私政策"
+   },
+   "Reset_Setting": {
+      "message": "重置设置"
+   },
+   "Retweet_twitter_post": {
+      "message": "转发推特帖子"
+   },
+   "Reverse_Translate_Language": {
+      "message": "反向翻译语言"
+   },
+   "Review_Page": {
+      "message": "评论页面"
+   },
+   "Review______________________________________": {
+      "message": "评论                                      "
+   },
+   "Review_this": {
+      "message": "评论此"
+   },
+   "Right": {
+      "message": "右对齐"
+   },
+   "SELECT_OPTION______________________________": {
+      "message": "选择选项                              "
+   },
+   "SPEECH": {
+      "message": "语音"
+   },
+   "Scale": {
+      "message": "缩放"
+   },
+   "Secondary_Language_When": {
+      "message": "Secondary Language When"
+   },
+   "Select": {
+      "message": "选择"
+   },
+   "Sentence": {
+      "message": "句子"
+   },
+   "Shift_Left": {
+      "message": "Shift + 左键"
+   },
+   "Shift_Right": {
+      "message": "Shift + 右键"
+   },
+   "Shift_away": {
+      "message": "远移"
+   },
+   "Shift_toward": {
+      "message": "近移"
+   },
+   "Show_Tooltip_When": {
+      "message": "何时显示工具提示"
+   },
+   "Source": {
+      "message": "原文"
+   },
+   "Source_Single_Subtitle": {
+      "message": "原文字幕"
+   },
+   "Source_Text": {
+      "message": "原文文本"
+   },
+   "Source_code": {
+      "message": "源代码"
+   },
+   "Source_n_Translated": {
+      "message": "原文 + 翻译"
+   },
+   "Speech_Recognition_Language": {
+      "message": "语音识别语言"
+   },
+   "Speech_Recognition_When": {
+      "message": "何时进行语音识别"
+   },
+   "Support_this_extension": {
+      "message": "支持此扩展程序"
+   },
+   "Target_Single_Subtitle": {
+      "message": "译文字幕"
+   },
+   "Title______________________________________": {
+      "message": "标题                                      "
+   },
+   "Toggle_Mouseover_Text_Type_When": {
+      "message": "Toggle Mouseover Text Type When"
+   },
+   "Tooltip_Animation": {
+      "message": "工具提示动画"
+   },
+   "Tooltip_Background_Blur": {
+      "message": "工具提示背景模糊"
+   },
+   "Tooltip_Background_Color": {
+      "message": "工具提示背景颜色"
+   },
+   "Tooltip_Border_Color": {
+      "message": "工具提示边框颜色"
+   },
+   "Tooltip_Distance": {
+      "message": "工具提示距离"
+   },
+   "Tooltip_Font_Color": {
+      "message": "工具提示字体颜色"
+   },
+   "Tooltip_Font_Size": {
+      "message": "工具提示字体大小"
+   },
+   "Tooltip_Info_Source_Language": {
+      "message": "工具提示信息源语言"
+   },
+   "Tooltip_Info_Source_Text": {
+      "message": "工具提示信息源文本"
+   },
+   "Tooltip_Info_Transliteration": {
+      "message": "工具提示信息音译"
+   },
+   "Tooltip_Interval_Time": {
+      "message": "工具提示间隔时间"
+   },
+   "Tooltip_Position": {
+      "message": "工具提示位置"
+   },
+   "Tooltip_Text_Align": {
+      "message": "工具提示文本对齐"
+   },
+   "Tooltip_Width": {
+      "message": "工具提示宽度"
+   },
+   "Tooltip_Word_Dictionary": {
+      "message": "工具提示词典"
+   },
+   "Translate_From": {
+      "message": "翻译自"
+   },
+   "Translate_Into": {
+      "message": "翻译成"
+   },
+   "Translate_Into_2": {
+      "message": "次要翻译成"
+   },
+   "Translate_Voice": {
+      "message": "翻译语音"
+   },
+   "Translate_When": {
+      "message": "何时翻译"
+   },
+   "Translate_Writing_When": {
+      "message": "何时翻译书写"
+   },
+   "Translate_local_PDF_file": {
+      "message": "翻译本地 PDF 文件"
+   },
+   "Translate_local_ebook_file": {
+      "message": "翻译本地电子书文件"
+   },
+   "Translated_Text": {
+      "message": "翻译文本"
+   },
+   "Translated_n_Source": {
+      "message": "翻译 + 原文"
+   },
+   "Translator_Engine": {
+      "message": "翻译引擎"
+   },
+   "Twitter": {
+      "message": "推特"
+   },
+   "User_privacy_policy": {
+      "message": "用户隐私政策"
+   },
+   "VOICE": {
+      "message": "语音"
+   },
+   "VOICE______________________________________": {
+      "message": "语音                                      "
+   },
+   "Voice_Panel": {
+      "message": "语音面板"
+   },
+   "Voice_Panel_Background_Color": {
+      "message": "语音面板背景颜色"
+   },
+   "Voice_Panel_Padding": {
+      "message": "语音面板填充"
+   },
+   "Voice_Panel_Source_Border_Color": {
+      "message": "语音面板源边框颜色"
+   },
+   "Voice_Panel_Source_Font_Color": {
+      "message": "语音面板源字体颜色"
+   },
+   "Voice_Panel_Source_Font_Size": {
+      "message": "语音面板源字体大小"
+   },
+   "Voice_Panel_Target_Border_Color": {
+      "message": "语音面板目标边框颜色"
+   },
+   "Voice_Panel_Target_Font_Color": {
+      "message": "语音面板目标字体颜色"
+   },
+   "Voice_Panel_Target_Font_Size": {
+      "message": "语音面板目标字体大小"
+   },
+   "Voice_Panel_Text_Align": {
+      "message": "语音面板文本对齐"
+   },
+   "Voice_Panel_Text_Target": {
+      "message": "语音面板文本目标"
+   },
+   "Voice_Panel_Translate_Language": {
+      "message": "语音面板翻译语言"
+   },
+   "Voice_Repeat": {
+      "message": "语音重复"
+   },
+   "Voice_Speed": {
+      "message": "语音速度"
+   },
+   "Voice_Target": {
+      "message": "语音目标"
+   },
+   "Voice_Translated_Speed": {
+      "message": "语音翻译速度"
+   },
+   "Voice_Volume": {
+      "message": "语音音量"
+   },
+   "Voice_When": {
+      "message": "何时语音"
+   },
+   "Voice_for_": {
+      "message": "语音用于 "
+   },
+   "Whitelist_Website": {
+      "message": "网站白名单"
+   },
+   "Word": {
+      "message": "单词"
+   },
+   "Writing_Language": {
+      "message": "写作语言"
+   },
+   "appDesc": {
+      "message": "鼠标工具提示翻译器使用谷歌翻译对鼠标悬停文本进行翻译。支持OCR、TTS、漫画翻译和PDF翻译。"
+   },
+   "appName": {
+      "message": "鼠标工具提示翻译器 - PDF 和 Netflix Youtube 双字幕"
+   },
+   "bing": {
+      "message": "Bing"
+   },
+   "google": {
+      "message": "Google"
+   }
+}

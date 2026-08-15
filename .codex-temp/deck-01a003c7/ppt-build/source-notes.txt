@@ -1,0 +1,27 @@
+Words King special-selection deck source ledger
+
+External etymology sources
+- Merriam-Webster, distribute: https://www.merriam-webster.com/dictionary/distribute
+- Oxford Advanced Learner's Dictionary, distribute: https://www.oxfordlearnersdictionaries.com/definition/english/distribute
+
+Project evidence sources (local, read-only snapshot checked 2026-08-15)
+- data/Words.db: 3 sources, 71 units, 3,684 words, 763 exam meanings
+- data/Client.db: 77 account records, 38 unique visitors, 13 users with study logs, 10,011 study logs, 2,122 mastery rows
+- data/Server.db: 142 import batches, 277 practice sessions, 10,351 session questions, 6,295 server logs
+- tests/test_image_word_pipeline.py: 26 one-shot unit tests passed on 2026-08-15
+- Workspace metadata and database timestamps support the qualified timeline wording used in the deck
+
+Screenshot provenance
+- public-login.png: public HTTPS entrance at https://words.ytconch.duckdns.org/
+- student-words.png, student-practice.png, student-analytics.png, student-leaderboard.png:
+  captured from a temporary local clone using anonymized display names and a temporary student login
+- admin-overview.png: captured from the same temporary clone using a temporary admin login
+- No production account, password, IP address, recovery request, or personally identifying classmate information appears in the deck
+
+Claim guardrails
+- Do not equate 77 accounts with 77 active users
+- Do not claim the earliest practice-session row is proven to be the first classmate
+- Do not claim the 2026-05-28 one-unit refresh job completed a full 71-unit library rewrite
+- Do not use observed accuracy as proof that the product caused academic improvement
+- Describe Coding Agent participation transparently: applicant led problem definition, requirements, decisions, testing, and acceptance; agents implemented substantial code
+

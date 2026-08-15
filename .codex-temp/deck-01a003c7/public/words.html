@@ -1,0 +1,79 @@
+﻿<!DOCTYPE html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon.png?v=20260722a" />
+    <link rel="apple-touch-icon" sizes="192x192" href="/wordking-icon-192.png?v=20260722a" />
+    <title>Words King | 單字庫</title>
+    <link rel="stylesheet" href="/styles.css?v=20260723c" />
+  </head>
+  <body data-page="words">
+    <div id="siteHeader"></div>
+    <main class="page-shell">
+      <section class="page-heading">
+        <div>
+          <h1>單字庫</h1>
+        </div>
+      </section>
+
+      <section class="card">
+        <div class="toolbar compact-toolbar">
+          <select id="sourceFilter" aria-label="來源篩選"></select>
+          <details id="unitFilterDropdown" class="unit-filter-dropdown">
+            <summary aria-label="選擇單元">
+              <span id="unitFilterSummary">全部單元</span>
+              <span class="unit-filter-caret" aria-hidden="true"></span>
+            </summary>
+            <div id="unitFilter" class="unit-filter-pills" role="group" aria-label="單元篩選"></div>
+          </details>
+          <div id="wordOrderMode" class="word-order-switch" role="group" aria-label="排列方式">
+            <button type="button" class="word-order-option is-active" data-word-order="unit" aria-pressed="true">依單元</button>
+            <button type="button" class="word-order-option" data-word-order="alpha" aria-pressed="false">依字母</button>
+          </div>
+          <input id="searchInput" placeholder="搜尋英文單字或中文詞義" />
+          <button id="searchBtn" type="button">搜尋</button>
+        </div>
+      </section>
+
+      <section id="focusPanel" class="card focus-panel hidden">
+        <div class="section-title-row">
+          <h2>專注單字卡</h2>
+          <div class="practice-actions focus-actions">
+            <button id="focusPrevBtn" type="button" class="ghost-btn" aria-label="上一張單字卡">&lt;</button>
+            <button id="focusNextBtn" type="button" class="ghost-btn" aria-label="下一張單字卡">&gt;</button>
+            <button id="focusCloseBtn" type="button" class="ghost-btn">返回列表</button>
+          </div>
+        </div>
+        <div id="focusDetail"></div>
+      </section>
+
+      <section id="wordGrid" class="word-card-grid"></section>
+      <div id="loadMoreHint" class="small-text muted page-load-hint"></div>
+    </main>
+
+    <div id="focusFollowDock" class="focus-follow-dock hidden" aria-label="專注單字卡跟隨控制">
+      <button id="focusFollowPrevBtn" type="button" class="ghost-btn" aria-label="上一個單字">&lt;</button>
+      <button
+        id="wordListViewToggle"
+        type="button"
+        class="focus-list-view-toggle"
+        aria-label="切換為簡略英文列表"
+        aria-pressed="false"
+        title="切換為簡略英文列表"
+      >
+        <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+          <path d="M4.5 5.5A2.5 2.5 0 0 1 7 3h10.5a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H7A2.5 2.5 0 0 0 4.5 23Z" />
+          <path d="M4.5 5.5V20.5A2.5 2.5 0 0 1 7 18h12.5" />
+          <path d="M9 7.5h6M9 11h6M9 14.5h4" />
+        </svg>
+      </button>
+      <button id="focusFollowJumpBtn" type="button" aria-label="返回專注單字卡">返回專注卡</button>
+      <button id="focusFollowNextBtn" type="button" class="ghost-btn" aria-label="下一個單字">&gt;</button>
+    </div>
+
+    <div id="messageBar" class="message-bar"></div>
+    <script src="/shared.js?v=20260722e"></script>
+    <script src="/overview.js?v=20260723b"></script>
+  </body>
+</html>

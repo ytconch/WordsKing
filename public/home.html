@@ -1,0 +1,60 @@
+﻿<!DOCTYPE html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon.png?v=20260722a" />
+    <link rel="apple-touch-icon" sizes="192x192" href="/wordking-icon-192.png?v=20260722a" />
+    <title>Words King | 首頁</title>
+    <link rel="stylesheet" href="/styles.css?v=20260722b" />
+  </head>
+  <body data-page="home">
+    <div id="siteHeader"></div>
+    <main class="page-shell">
+      <section class="auth-shell">
+        <div class="card auth-switcher-card">
+          <div class="auth-tabs" role="tablist" aria-label="登入與註冊">
+            <button id="showLoginTab" type="button" class="auth-tab is-active" data-auth-tab="login" aria-selected="true">登入</button>
+            <button id="showRegisterTab" type="button" class="auth-tab" data-auth-tab="register" aria-selected="false">註冊</button>
+          </div>
+
+          <div id="loginPanel" class="auth-panel is-active" data-auth-panel="login">
+            <form id="loginForm" class="auth-card">
+              <h2>登入</h2>
+              <label>帳號<input name="username" required minlength="3" maxlength="24" /></label>
+              <label>密碼<input name="password" type="password" required minlength="6" maxlength="64" /></label>
+              <button type="submit">登入</button>
+            </form>
+            <button id="showRecoveryLink" type="button" class="text-link auth-help-link">忘記密碼？</button>
+          </div>
+
+          <div id="registerPanel" class="auth-panel" data-auth-panel="register">
+            <form id="registerForm" class="auth-card">
+              <h2>註冊</h2>
+              <label>名稱<input name="displayName" required maxlength="24" /></label>
+              <label>帳號<input name="username" required minlength="3" maxlength="24" /></label>
+              <label>密碼<input name="password" type="password" required minlength="6" maxlength="64" /></label>
+              <button type="submit">建立帳號</button>
+            </form>
+          </div>
+
+          <div id="recoveryPanel" class="auth-panel" data-auth-panel="recovery">
+            <form id="recoveryForm" class="auth-card">
+              <div class="section-title-row">
+                <h2>帳號救援</h2>
+                <button id="hideRecoveryLink" type="button" class="text-link">返回登入</button>
+              </div>
+              <label>帳號<input name="username" required minlength="3" maxlength="24" /></label>
+              <label>名稱<input name="displayName" maxlength="24" /></label>
+              <label>備註<input name="note" maxlength="160" placeholder="例如：最近一次登入時間、使用教材或其他辨識資訊" /></label>
+              <button type="submit">送出救援申請</button>
+            </form>
+          </div>
+        </div>
+      </section>
+    </main>
+    <div id="messageBar" class="message-bar"></div>
+    <script src="/shared.js?v=20260722e"></script>
+    <script src="/home.js?v=20260722h"></script>
+  </body>
+</html>

@@ -1,0 +1,476 @@
+{
+   "ADVANCED": {
+      "message": "উন্নীত"
+   },
+   "ADVANCED______________________________________": {
+      "message": "উন্নীত                                      "
+   },
+   "About______________________________________": {
+      "message": "About                                      "
+   },
+   "Allow_Current_Site": {
+      "message": "এই সাইটে অনুবাদ হবে"
+   },
+   "Alt_Left": {
+      "message": "Alt - বাম"
+   },
+   "Alt_Right": {
+      "message": "Alt - ডান"
+   },
+   "Always": {
+      "message": "সবসময়"
+   },
+   "Auto": {
+      "message": "Auto"
+   },
+   "Auto_Reader_When": {
+      "message": "অটো রিডার চলার শর্ত"
+   },
+   "BACKUP": {
+      "message": "ব্যাকআপ"
+   },
+   "BACKUP______________________________________": {
+      "message": "ব্যাকআপ                                      "
+   },
+   "Block_Current_Site": {
+      "message": "এই সাইটে অনুবাদ হবে না"
+   },
+   "Center": {
+      "message": "মাঝ বরাবর"
+   },
+   "Check_how_to_use_this_extension": {
+      "message": "কীভাবে এই এক্সটেনশন চালাতে হয় তা দেখে নিন"
+   },
+   "Check_source_code_in_github": {
+      "message": "গিটহাবে গিয়ে সোর্স কোড দেখুন"
+   },
+   "Click_Left": {
+      "message": "ক্লিক - লেফট"
+   },
+   "Click_Middle": {
+      "message": "ক্লিক - মিডল"
+   },
+   "Click_Right": {
+      "message": "ক্লিক - রাইট"
+   },
+   "Coffee______________________________________": {
+      "message": "কফি                                      "
+   },
+   "Comment_on_this_extension": {
+      "message": "এক্সটেনশনটি কেমন লাগল তা জানান"
+   },
+   "Container": {
+      "message": "ধারক"
+   },
+   "Ctrl_Left": {
+      "message": "Ctrl - বাম"
+   },
+   "Ctrl_Right": {
+      "message": "Ctrl - ডান"
+   },
+   "Default": {
+      "message": "ডিফল্ট"
+   },
+   "Detect_PDF": {
+      "message": "পিডিএফ শনাক্তকরণ"
+   },
+   "Detect_Subtitle": {
+      "message": "সাবটাইটেল শনাক্তকরণ"
+   },
+   "Developer_love_criticism": {
+      "message": "সমালোচনা ডেভেলপারদের কাছে সমাদৃত"
+   },
+   "Dual_Subtitle": {
+      "message": "দুই ভাষার সাবটাইটেল"
+   },
+   "EXCLUDE": {
+      "message": "বাদ"
+   },
+   "EXCLUDE______________________________________": {
+      "message": "বাদ                                      "
+   },
+   "Ebook_Reader": {
+      "message": "ইবুক রিডার"
+   },
+   "Exclude_Language": {
+      "message": "পরিহার্য ভাষা"
+   },
+   "Exclude_Website": {
+      "message": "পরিহার্য ওয়েবসাইট"
+   },
+   "Export_Setting": {
+      "message": "সেটিং এক্সপোর্ট করব"
+   },
+   "Fade": {
+      "message": "Fade"
+   },
+   "Fallback_Translator_Engine": {
+      "message": "অনুবাদের ফলব্যাক ইঞ্জিন\""
+   },
+   "Feed_a_coffee_to_the_extension_devs": {
+      "message": "এক্সটেনশনটির ডেভেলপারদের কফি খাওয়ান"
+   },
+   "Fixed": {
+      "message": "Fixed"
+   },
+   "Follow": {
+      "message": "Follow"
+   },
+   "GRAPHIC": {
+      "message": "রূপ"
+   },
+   "GRAPHIC______________________________________": {
+      "message": "রূপ                                      "
+   },
+   "How_to_use": {
+      "message": "ব্যবহারের উপায়"
+   },
+   "Import_Setting": {
+      "message": "সেটিং ইম্পোর্ট করব"
+   },
+   "Justify": {
+      "message": "দু’পাশ সমান"
+   },
+   "KEYBOARD": {
+      "message": "কিবোর্ড"
+   },
+   "KEYBOARD______________________________________": {
+      "message": "কিবোর্ড                                      "
+   },
+   "LLM_Api_Endpoint": {
+      "message": "LLM API Endpoint URL"
+   },
+   "LLM_Api_Key": {
+      "message": "LLM API Key"
+   },
+   "LLM_Model": {
+      "message": "LLM Model"
+   },
+   "LLM_Provider": {
+      "message": "LLM Provider"
+   },
+   "Left": {
+      "message": "বামে"
+   },
+   "MAIN": {
+      "message": "মূল"
+   },
+   "MAIN______________________________________": {
+      "message": "মূল                                      "
+   },
+   "Meta_Left": {
+      "message": "মেটা - বাম"
+   },
+   "Meta_Right": {
+      "message": "মেটা - ডান"
+   },
+   "Mouse_Tooltip_Translator": {
+      "message": "মাউস টুলটিপ ট্রান্সলেটর"
+   },
+   "Mouseover": {
+      "message": "মাউস ধরা"
+   },
+   "Mouseover_Highlight_Text": {
+      "message": "মাউস ধরার ফলে লেখা চিহ্নিতকরণ"
+   },
+   "Mouseover_Pause_Subtitle": {
+      "message": "মাউস ধরলে সাবটাইটেল থামবে"
+   },
+   "Mouseover_Text_Highlight_Color": {
+      "message": "মাউস ধরার ফলে লেখা চিহ্নিতকরণের রং"
+   },
+   "Mouseover_Text_Type": {
+      "message": "যেমন লেখায় মাউস ধরলে অনুবাদ হবে"
+   },
+   "Mouseover_Text_Type_2": {
+      "message": "Secondary Mouseover Text Type"
+   },
+   "Mouseover_Text_Type_Key_Hold": {
+      "message": "Mouseover Text Type Key Hold"
+   },
+   "Mouseover_Text_Type_Swap_Key": {
+      "message": "মাউস ধরার লেখার ধরন বদলের কি"
+   },
+   "Mouseover_n_Select": {
+      "message": "মাউস ধরা ও সিলেক্ট করা"
+   },
+   "None": {
+      "message": "প্রযোজ্য নয়"
+   },
+   "OCR_Language": {
+      "message": "ওসিআরের ভাষা"
+   },
+   "OCR_When": {
+      "message": "ওসিআর চলার শর্ত"
+   },
+   "Off": {
+      "message": "বন্ধ"
+   },
+   "On": {
+      "message": "চালু"
+   },
+   "PDF_Viewer": {
+      "message": "পিডিএফ ভিউয়ার"
+   },
+   "Perspective": {
+      "message": "Perspective"
+   },
+   "Privacy_Policy": {
+      "message": "গোপনীয়তা নীতি"
+   },
+   "Reset_Setting": {
+      "message": "সেটিং রিসেট করব"
+   },
+   "Retweet_twitter_post": {
+      "message": "টুইটারে পোস্ট রি-টুইট করুন"
+   },
+   "Reverse_Translate_Language": {
+      "message": "উল্টো অনুবাদের ভাষা"
+   },
+   "Review_Page": {
+      "message": "রিভিউয়ের পেইজ"
+   },
+   "Review______________________________________": {
+      "message": "রিভিউ                                      "
+   },
+   "Review_this": {
+      "message": "এটির রিভিউ দিন"
+   },
+   "Right": {
+      "message": "ডানে"
+   },
+   "SELECT_OPTION______________________________": {
+      "message": "SELECT OPTION                              "
+   },
+   "SPEECH": {
+      "message": "কথা"
+   },
+   "Scale": {
+      "message": "Scale"
+   },
+   "Secondary_Language_When": {
+      "message": "Secondary Language When"
+   },
+   "Select": {
+      "message": "সিলেক্ট করা"
+   },
+   "Sentence": {
+      "message": "বাক্য"
+   },
+   "Shift_Left": {
+      "message": "শিফট - বাম"
+   },
+   "Shift_Right": {
+      "message": "শিফট - ডান"
+   },
+   "Shift_away": {
+      "message": "Shift away"
+   },
+   "Shift_toward": {
+      "message": "Shift toward"
+   },
+   "Show_Tooltip_When": {
+      "message": "টুলটিপ ওঠার শর্ত"
+   },
+   "Source": {
+      "message": "Source"
+   },
+   "Source_Single_Subtitle": {
+      "message": "মূল ভাষার একক সাবটাইটেল"
+   },
+   "Source_Text": {
+      "message": "Source Text"
+   },
+   "Source_code": {
+      "message": "সোর্স কোড"
+   },
+   "Source_n_Translated": {
+      "message": "উদ্দিষ্ট ও অনূদিত"
+   },
+   "Speech_Recognition_Language": {
+      "message": "কথা শনাক্তকরণে ভাষা"
+   },
+   "Speech_Recognition_When": {
+      "message": "কথা শনাক্তকরণের শর্ত"
+   },
+   "Support_this_extension": {
+      "message": "সমর্থন জানান"
+   },
+   "Target_Single_Subtitle": {
+      "message": "উদ্দিষ্ট ভাষার একক সাবটাইটেল"
+   },
+   "Title______________________________________": {
+      "message": "Title                                      "
+   },
+   "Toggle_Mouseover_Text_Type_When": {
+      "message": "মাউস ধরার লক্ষ্যের ধরন পরিবর্তনের শর্ত"
+   },
+   "Tooltip_Animation": {
+      "message": "টুলটিপের অ্যানিমেশন"
+   },
+   "Tooltip_Background_Blur": {
+      "message": "টুলটিপের পটভূমির ব্লার"
+   },
+   "Tooltip_Background_Color": {
+      "message": "টুলটিপের পটভূমির রং"
+   },
+   "Tooltip_Border_Color": {
+      "message": "টুলটিপের সীমারেখার রং"
+   },
+   "Tooltip_Distance": {
+      "message": "টুলটিপের দূরত্ব"
+   },
+   "Tooltip_Font_Color": {
+      "message": "টুলটিপের লেখার রং"
+   },
+   "Tooltip_Font_Size": {
+      "message": "টুলটিপের ফন্টের সাইজ"
+   },
+   "Tooltip_Info_Source_Language": {
+      "message": "টুলটিপের তথ্যে মূল ভাষা"
+   },
+   "Tooltip_Info_Source_Text": {
+      "message": "টুলটিপের তথ্যে মূল লেখা"
+   },
+   "Tooltip_Info_Transliteration": {
+      "message": "টুলটিপের তথ্যে প্রতিবর্ণীকরণ"
+   },
+   "Tooltip_Interval_Time": {
+      "message": "টুলটিপ দেখা যাওয়ার আগে দেরি"
+   },
+   "Tooltip_Position": {
+      "message": "টুলটিপের অবস্থান"
+   },
+   "Tooltip_Text_Align": {
+      "message": "টুলটিপের লেখার অনুভূমিক অবস্থান"
+   },
+   "Tooltip_Width": {
+      "message": "টুলটিপের প্রস্থ"
+   },
+   "Tooltip_Word_Dictionary": {
+      "message": "টুলটিপের শব্দের ডিকশনারি"
+   },
+   "Translate_From": {
+      "message": "যে ভাষা থেকে করা হবে"
+   },
+   "Translate_Into": {
+      "message": "যে ভাষায় করা হবে"
+   },
+   "Translate_Into_2": {
+      "message": "দ্বিতীয় উদ্দিষ্ট ভাষা"
+   },
+   "Translate_Voice": {
+      "message": "সবাক অনুবাদ"
+   },
+   "Translate_When": {
+      "message": "অনুবাদের সময়"
+   },
+   "Translate_Writing_When": {
+      "message": "লেখা অনুবাদ হওয়ার শর্ত"
+   },
+   "Translate_local_PDF_file": {
+      "message": "লোকাল পিডিএফ ফাইল অনুবাদ করুন"
+   },
+   "Translate_local_ebook_file": {
+      "message": "লোকাল ইবুক ফাইল অনুবাদ করুন"
+   },
+   "Translated_Text": {
+      "message": "Translated Text"
+   },
+   "Translated_n_Source": {
+      "message": "Translated n Source"
+   },
+   "Translator_Engine": {
+      "message": "অনুবাদের ইঞ্জিন"
+   },
+   "Twitter": {
+      "message": "টুইটার"
+   },
+   "User_privacy_policy": {
+      "message": "ইউজার-সংক্রান্ত গোপনীয়তা নীতি"
+   },
+   "VOICE": {
+      "message": "কথা"
+   },
+   "VOICE______________________________________": {
+      "message": "কথা                                      "
+   },
+   "Voice_Panel": {
+      "message": "ভয়েস প্যানেল"
+   },
+   "Voice_Panel_Background_Color": {
+      "message": "ভয়েস প্যানেলের পটভূমির রং"
+   },
+   "Voice_Panel_Padding": {
+      "message": "ভয়েস প্যানেলের প্যাডিং"
+   },
+   "Voice_Panel_Source_Border_Color": {
+      "message": "ভয়েস প্যানেলে মূল লেখার সীমারেখার রং"
+   },
+   "Voice_Panel_Source_Font_Color": {
+      "message": "ভয়েস প্যানেলে মূল লেখার রং"
+   },
+   "Voice_Panel_Source_Font_Size": {
+      "message": "ভয়েস প্যানেলে মূল লেখার সাইজ"
+   },
+   "Voice_Panel_Target_Border_Color": {
+      "message": "ভয়েস প্যানেলে উদ্দিষ্ট লেখার সীমারেখার রং"
+   },
+   "Voice_Panel_Target_Font_Color": {
+      "message": "ভয়েস প্যানেলে উদ্দিষ্ট লেখার রং"
+   },
+   "Voice_Panel_Target_Font_Size": {
+      "message": "ভয়েস প্যানেলে উদ্দিষ্ট লেখার সাইজ"
+   },
+   "Voice_Panel_Text_Align": {
+      "message": "ভয়েস প্যানেলে লেখার অনুভূমিক অবস্থান"
+   },
+   "Voice_Panel_Text_Target": {
+      "message": "ভয়েস প্যানেলে উদ্দিষ্ট লেখা"
+   },
+   "Voice_Panel_Translate_Language": {
+      "message": "ভয়েস প্যানেলে অনুবাদের ভাষা"
+   },
+   "Voice_Repeat": {
+      "message": "কথার পুনরাবৃত্তির সংখ্যা"
+   },
+   "Voice_Speed": {
+      "message": "কথার গতি"
+   },
+   "Voice_Target": {
+      "message": "কথার লক্ষ্য"
+   },
+   "Voice_Translated_Speed": {
+      "message": "সবাক অনুবাদের গতি"
+   },
+   "Voice_Volume": {
+      "message": "কথার ভলিউম"
+   },
+   "Voice_When": {
+      "message": "কথা শোনা যাওয়ার শর্ত"
+   },
+   "Voice_for_": {
+      "message": "কণ্ঠ: "
+   },
+   "Whitelist_Website": {
+      "message": "হোয়াইটলিস্টকৃত ওয়েবসাইট"
+   },
+   "Word": {
+      "message": "শব্দ"
+   },
+   "Writing_Language": {
+      "message": "লেখার ভাষা"
+   },
+   "appDesc": {
+      "message": "লেখার ওপর মাউস ধরলে মাউস টুলটিপ ট্রান্সলেটরের মাধ্যমে তা গুগোল ট্রানস্লেট দিয়ে অনুবাদ হয়ে যায়। এছাড়া এতে আছে ওসিআর, টিটিএস, ম্যাঙ্গা ও পিডিএফ অনুবাদের ব্যবস্থাও।"
+   },
+   "appName": {
+      "message": "মাউস টুলটিপ ট্রান্সলেটর - পিডিএফ এবং ইউটিউবে দ্বিভাষী সাবটাইটেল"
+   },
+   "bing": {
+      "message": "বিং"
+   },
+   "google": {
+      "message": "গুগোল"
+   }
+}

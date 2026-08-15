@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon.png?v=20260722a" />
+    <link rel="apple-touch-icon" sizes="192x192" href="/wordking-icon-192.png?v=20260722a" />
+    <title>Words King | 通知</title>
+    <link rel="stylesheet" href="/styles.css?v=20260722b" />
+  </head>
+  <body data-page="notifications">
+    <div id="siteHeader"></div>
+    <main class="page-shell">
+      <section class="page-heading">
+        <div>
+          <p class="eyebrow dark">Notifications</p>
+          <h1>通知</h1>
+        </div>
+        <div class="practice-actions">
+          <button id="markAllNotificationsReadBtn" type="button" class="ghost-btn">全部已讀</button>
+        </div>
+      </section>
+
+      <section id="notificationMetrics" class="metrics-grid metrics-grid-compact"></section>
+
+      <section class="card notification-page-card">
+        <div class="section-title-row">
+          <div>
+            <h2>通知列表</h2>
+            <div id="notificationHint" class="muted small-text">載入中...</div>
+          </div>
+        </div>
+        <div id="notificationInboxList" class="notification-inbox-list"></div>
+      </section>
+    </main>
+    <div id="messageBar" class="message-bar"></div>
+    <script src="/shared.js?v=20260722e"></script>
+    <script src="/notifications-page.js?v=20260520g"></script>
+  </body>
+</html>

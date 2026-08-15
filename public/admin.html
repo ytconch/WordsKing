@@ -1,0 +1,304 @@
+﻿<!DOCTYPE html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon.png?v=20260722a" />
+    <link rel="apple-touch-icon" sizes="192x192" href="/wordking-icon-192.png?v=20260722a" />
+    <title>Words King | 管理後台</title>
+    <link rel="stylesheet" href="/styles.css?v=20260722f" />
+  </head>
+  <body data-page="admin">
+    <div id="siteHeader"></div>
+    <main class="page-shell">
+      <section class="page-heading">
+        <div>
+          <p class="eyebrow dark">Admin</p>
+          <h1>管理後台</h1>
+        </div>
+      </section>
+
+      <section class="grid two">
+        <form id="imageDraftForm" class="card auth-card">
+          <h2>圖片 OCR 草稿</h2>
+          <p class="muted small-text">上傳單字圖片，先做 OCR 與 AI 分析，再進入草稿審核後匯入。</p>
+          <label>
+            圖片檔案
+            <input name="images" type="file" accept=".png,.jpg,.jpeg,.bmp,.webp" multiple required />
+          </label>
+          <label class="check-row">
+            <input name="ocrReviewRequired" type="checkbox" value="true" />
+            <span>先人工核對 OCR 內容，再交給 AI 生成草稿</span>
+          </label>
+          <button type="submit">開始分析</button>
+        </form>
+      </section>
+
+      <section class="card auth-card">
+        <div class="section-title-row">
+          <div>
+            <h2>英文列表送 AI</h2>
+            <p class="muted small-text">直接貼上英文列表，AI 會補齊詞性、中文義項、分析與例句，再進入草稿審核。</p>
+          </div>
+          <button id="addTextDraftBatchBtn" type="button" class="ghost-btn">新增批次</button>
+        </div>
+        <form id="textDraftForm" class="auth-card">
+          <div id="textDraftBatchList" class="draft-text-batch-list"></div>
+          <button type="submit">送出分析</button>
+        </form>
+      </section>
+
+      <section class="card auth-card">
+        <div class="section-title-row">
+          <div>
+            <h2>單字庫額外新增單字</h2>
+            <p class="muted small-text">
+              當 OCR 漏掉既有單元的單字時，可在這裡直接補上英文列表。系統會先送 AI 分析，再進入草稿審核後追加到原單元。
+            </p>
+          </div>
+        </div>
+        <form id="extraWordForm" class="auth-card">
+          <div class="draft-text-batch-card">
+            <div class="draft-text-batch-grid admin-user-grid">
+              <label>
+                來源
+                <select id="extraWordSourceSelect" required>
+                  <option value="">請先選擇來源</option>
+                </select>
+              </label>
+              <label>
+                單元
+                <select id="extraWordUnitSelect" required>
+                  <option value="">請先選擇單元</option>
+                </select>
+              </label>
+            </div>
+            <p id="extraWordSummaryText" class="muted small-text">請先選擇要補字的單元。</p>
+            <label>
+              補充英文列表
+              <textarea
+                id="extraWordList"
+                rows="6"
+                placeholder="每行一個或用逗號分隔，例如：&#10;scrap&#10;haul&#10;yield"
+                required
+              ></textarea>
+            </label>
+          </div>
+          <button type="submit">送交 AI 分析補字</button>
+        </form>
+      </section>
+
+      <section class="card auth-card">
+        <div class="section-title-row">
+          <div>
+            <h2>單字庫全庫重掃</h2>
+            <p class="muted small-text">把既有來源或單元重新送進 AI 複審，適合 OCR 漏掃、舊資料需要整批校正時使用。</p>
+          </div>
+        </div>
+        <form id="libraryRefreshForm" class="auth-card">
+          <label>
+            來源篩選
+            <select id="libraryRefreshSourceSelect">
+              <option value="">全部來源</option>
+            </select>
+          </label>
+          <div class="input-group">
+            <div id="libraryRefreshSummaryText" class="muted small-text">未選單元時會重掃全庫。</div>
+            <div id="libraryRefreshUnitList" class="unit-pills-grid"></div>
+          </div>
+          <button type="submit">送出重掃</button>
+        </form>
+      </section>
+
+      <section class="card">
+        <div class="section-title-row">
+          <div>
+            <h2>頁面造訪分析</h2>
+            <p class="muted small-text">檢查近 14 天各頁面的造訪次數、停留時間與近期造訪紀錄。</p>
+          </div>
+          <button id="reloadVisitActivityBtn" type="button" class="ghost-btn">重新載入</button>
+        </div>
+        <div id="visitActivitySummary" class="leaderboard-metrics"></div>
+        <div id="visitActivityChart" class="visit-activity-chart-wrap"></div>
+        <details class="visit-activity-details">
+          <summary>查看更多細節</summary>
+          <div class="grid two visit-activity-detail-grid">
+            <div>
+              <h3>頁面分佈</h3>
+              <div id="visitBreakdownTable" class="activity-table-wrap"></div>
+            </div>
+            <div>
+              <h3>近期造訪</h3>
+              <div id="visitRecentList" class="list"></div>
+            </div>
+          </div>
+        </details>
+      </section>
+
+      <section class="card">
+        <div class="section-title-row">
+          <div>
+            <h2>站內通知</h2>
+            <p class="muted small-text">可對單一使用者或全體送出通知，通知會顯示在使用者的通知頁面。</p>
+          </div>
+        </div>
+        <form id="notificationForm" class="notification-form-grid">
+          <label>
+            收件者
+            <select id="notificationRecipient"></select>
+          </label>
+          <label>
+            標題
+            <input id="notificationTitle" placeholder="例如：本週單字更新" />
+          </label>
+          <label class="grid-span-two">
+            內容
+            <textarea id="notificationMessage" rows="4" placeholder="輸入要送出的通知內容" required></textarea>
+          </label>
+          <div class="grid-span-two practice-actions">
+            <button type="submit">送出通知</button>
+          </div>
+        </form>
+      </section>
+
+      <section id="imageDraftPanel" class="card hidden">
+        <div class="section-title-row">
+          <div>
+            <h2>AI 草稿審核</h2>
+            <p class="muted small-text">草稿完成後可在這裡校正來源、單元、詞性、中文義項、分析與例句，再決定是否寫入資料庫。</p>
+          </div>
+          <div class="practice-actions">
+            <button id="clearDraftBtn" type="button" class="ghost-btn">清除草稿</button>
+            <button id="saveDraftBtn" type="button">確認儲存</button>
+          </div>
+        </div>
+
+        <div id="draftProgressBox" class="result-box hidden">
+          <div class="word-topline">
+            <strong id="draftProgressTitle">處理進度</strong>
+            <span id="draftProgressPercent" class="pill">0%</span>
+          </div>
+          <div class="progress-track"><span id="draftProgressBar" style="width: 0%"></span></div>
+          <div id="draftProgressMessage" class="muted small-text">尚未開始</div>
+          <pre id="draftProgressLogs" class="cli-log-box"></pre>
+        </div>
+
+        <div class="grid two draft-review-grid">
+          <div class="draft-meta">
+            <div class="list-item compact-item">
+              <strong>草稿摘要</strong>
+              <div id="draftSummaryText" class="muted small-text">目前沒有待核對草稿。</div>
+            </div>
+            <div class="list-item compact-item">
+              <strong>草稿統計</strong>
+              <div id="draftCountText" class="muted small-text"></div>
+            </div>
+          </div>
+        </div>
+
+        <div id="draftWordEditor" class="draft-word-editor"></div>
+      </section>
+
+      <section class="card">
+        <div class="section-title-row">
+          <div>
+            <h2>活躍排行榜</h2>
+            <p class="muted small-text">查看近 14 天使用者作答量、正確率與作答走勢。</p>
+          </div>
+          <button id="reloadActivityBtn" type="button" class="ghost-btn">重新載入</button>
+        </div>
+
+        <div class="admin-activity-layout">
+          <div id="activityTableWrap" class="activity-table-wrap"></div>
+          <div class="activity-trend-card">
+            <div class="section-title-row">
+              <div>
+                <h3>個人走勢</h3>
+                <p class="muted small-text">切換使用者後，可檢視近 14 天的作答曲線與摘要。</p>
+              </div>
+            </div>
+            <label class="input-group">
+              使用者
+              <select id="activityUserSelect"></select>
+            </label>
+            <div id="activityTrendSummary" class="leaderboard-metrics"></div>
+            <div id="activityTrendChart" class="activity-line-chart-wrap"></div>
+          </div>
+        </div>
+      </section>
+
+      <section class="card">
+        <div class="section-title-row">
+          <div>
+            <h2>來源與單元管理</h2>
+            <p class="muted small-text">可調整來源名稱、移動單元、刪除單元，或設定每個單元的考試字義。</p>
+          </div>
+          <button id="reloadCatalogBtn" type="button" class="ghost-btn">重新載入</button>
+        </div>
+        <datalist id="sourceNameOptions"></datalist>
+        <div id="catalogList" class="list"></div>
+      </section>
+
+      <section class="card">
+        <div class="section-title-row">
+          <div>
+            <h2>Server Log</h2>
+            <p class="muted small-text">查看後端近期事件、錯誤、登入與管理操作紀錄。</p>
+          </div>
+          <button id="reloadServerLogsBtn" type="button" class="ghost-btn">重新載入</button>
+        </div>
+        <div id="serverLogSummary" class="leaderboard-metrics"></div>
+        <div id="serverLogCategorySummary" class="server-log-chip-row"></div>
+        <div id="serverLogTableWrap" class="activity-table-wrap"></div>
+      </section>
+
+      <section id="examMeaningPanel" class="card hidden">
+        <div class="section-title-row">
+          <div>
+            <h2>考試字義設定</h2>
+            <p class="muted small-text">為單元中的各個單字勾選要納入考試的中文義項。</p>
+          </div>
+          <div class="practice-actions">
+            <button id="closeExamMeaningBtn" type="button" class="ghost-btn">關閉</button>
+            <button id="saveExamMeaningBtn" type="button">儲存設定</button>
+          </div>
+        </div>
+        <div class="list-item compact-item">
+          <strong id="examMeaningPanelTitle">尚未選擇單元</strong>
+          <div id="examMeaningPanelSummary" class="muted small-text">請先從上方單元管理選擇一個單元。</div>
+        </div>
+        <div id="examMeaningEditor" class="draft-word-editor"></div>
+      </section>
+
+      <section class="card">
+        <div class="section-title-row">
+          <div>
+            <h2>使用者管理</h2>
+            <p class="muted small-text">可編輯顯示名稱、角色與主題，必要時也可刪除帳號。</p>
+          </div>
+          <div class="practice-actions">
+            <button id="toggleUsersBtn" type="button" class="ghost-btn">載入帳號</button>
+            <button id="reloadUsersBtn" type="button" class="ghost-btn hidden">重新載入</button>
+          </div>
+        </div>
+        <div id="userListHint" class="muted small-text">使用者資料量較大，點擊上方按鈕後才會載入。</div>
+        <div id="userList" class="list hidden"></div>
+      </section>
+
+      <section class="card">
+        <div class="section-title-row">
+          <div>
+            <h2>帳號復原申請</h2>
+            <p class="muted small-text">管理者可在此審核使用者提交的帳號復原需求。</p>
+          </div>
+          <button id="reloadRecoveryBtn" type="button" class="ghost-btn">重新載入</button>
+        </div>
+        <div id="recoveryList" class="list"></div>
+      </section>
+    </main>
+
+    <div id="messageBar" class="message-bar"></div>
+    <script src="/shared.js?v=20260722e"></script>
+    <script src="/admin.js?v=20260528a"></script>
+  </body>
+</html>

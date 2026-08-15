@@ -1,0 +1,476 @@
+{
+   "ADVANCED": {
+      "message": "AVANÇADO"
+   },
+   "ADVANCED______________________________________": {
+      "message": "AVANÇADO                                      "
+   },
+   "About______________________________________": {
+      "message": "Sobre                                      "
+   },
+   "Allow_Current_Site": {
+      "message": "Allow Current Site"
+   },
+   "Alt_Left": {
+      "message": "Alt Left"
+   },
+   "Alt_Right": {
+      "message": "Alt Right"
+   },
+   "Always": {
+      "message": "Always"
+   },
+   "Auto": {
+      "message": "Auto"
+   },
+   "Auto_Reader_When": {
+      "message": "Leitor Automático Quando"
+   },
+   "BACKUP": {
+      "message": "BACKUP"
+   },
+   "BACKUP______________________________________": {
+      "message": "BACKUP                                      "
+   },
+   "Block_Current_Site": {
+      "message": "Block Current Site"
+   },
+   "Center": {
+      "message": "Center"
+   },
+   "Check_how_to_use_this_extension": {
+      "message": "Cheque como usar essa extensão"
+   },
+   "Check_source_code_in_github": {
+      "message": "Checar o código-fonte no GitHub"
+   },
+   "Click_Left": {
+      "message": "Click Left"
+   },
+   "Click_Middle": {
+      "message": "Click Middle"
+   },
+   "Click_Right": {
+      "message": "Click Right"
+   },
+   "Coffee______________________________________": {
+      "message": "Café"
+   },
+   "Comment_on_this_extension": {
+      "message": "Avalie esta extensão"
+   },
+   "Container": {
+      "message": "Container"
+   },
+   "Ctrl_Left": {
+      "message": "Ctrl Left"
+   },
+   "Ctrl_Right": {
+      "message": "Ctrl Right"
+   },
+   "Default": {
+      "message": "Default"
+   },
+   "Detect_PDF": {
+      "message": "Detectar PDF"
+   },
+   "Detect_Subtitle": {
+      "message": "Detectar Legenda"
+   },
+   "Developer_love_criticism": {
+      "message": "Developer love criticism"
+   },
+   "Dual_Subtitle": {
+      "message": "Dual Subtitle"
+   },
+   "EXCLUDE": {
+      "message": "EXCLUIR"
+   },
+   "EXCLUDE______________________________________": {
+      "message": "EXCLUIR                                   "
+   },
+   "Ebook_Reader": {
+      "message": "Leitor de ebook"
+   },
+   "Exclude_Language": {
+      "message": "Excluir Idioma"
+   },
+   "Exclude_Website": {
+      "message": "Excluir site"
+   },
+   "Export_Setting": {
+      "message": "Export Setting"
+   },
+   "Fade": {
+      "message": "Fade"
+   },
+   "Fallback_Translator_Engine": {
+      "message": "Motor de tradução de Fallback"
+   },
+   "Feed_a_coffee_to_the_extension_devs": {
+      "message": "Doe um café para os desenvolvedores da extensão"
+   },
+   "Fixed": {
+      "message": "Fixed"
+   },
+   "Follow": {
+      "message": "Follow"
+   },
+   "GRAPHIC": {
+      "message": "GRÁFICO"
+   },
+   "GRAPHIC______________________________________": {
+      "message": "GRÁFICO                                      "
+   },
+   "How_to_use": {
+      "message": "Como usar"
+   },
+   "Import_Setting": {
+      "message": "Import Setting"
+   },
+   "Justify": {
+      "message": "Justify"
+   },
+   "KEYBOARD": {
+      "message": "TECLADO"
+   },
+   "KEYBOARD______________________________________": {
+      "message": "TECLADO                                      "
+   },
+   "LLM_Api_Endpoint": {
+      "message": "LLM API Endpoint URL"
+   },
+   "LLM_Api_Key": {
+      "message": "LLM API Key"
+   },
+   "LLM_Model": {
+      "message": "LLM Model"
+   },
+   "LLM_Provider": {
+      "message": "LLM Provider"
+   },
+   "Left": {
+      "message": "Left"
+   },
+   "MAIN": {
+      "message": "Principal"
+   },
+   "MAIN______________________________________": {
+      "message": "Principal                                      "
+   },
+   "Meta_Left": {
+      "message": "Meta Left"
+   },
+   "Meta_Right": {
+      "message": "Meta Right"
+   },
+   "Mouse_Tooltip_Translator": {
+      "message": "Mouse Tooltip Translator"
+   },
+   "Mouseover": {
+      "message": "Mouseover"
+   },
+   "Mouseover_Highlight_Text": {
+      "message": "Destaque do Texto ao Passar o Mouse"
+   },
+   "Mouseover_Pause_Subtitle": {
+      "message": "Legenda de Pausa ao Passar o Mouse"
+   },
+   "Mouseover_Text_Highlight_Color": {
+      "message": "Cor do Texto Destacado ao Passar o Mouse"
+   },
+   "Mouseover_Text_Type": {
+      "message": "Tipo de Texto ao Passar o Mouse"
+   },
+   "Mouseover_Text_Type_2": {
+      "message": "Secondary Mouseover Text Type"
+   },
+   "Mouseover_Text_Type_Key_Hold": {
+      "message": "Mouseover Text Type Key Hold"
+   },
+   "Mouseover_Text_Type_Swap_Key": {
+      "message": "Tipo de Texto ao Trocar de Chave ao Passar o Mouse"
+   },
+   "Mouseover_n_Select": {
+      "message": "Mouseover n Select"
+   },
+   "None": {
+      "message": "None"
+   },
+   "OCR_Language": {
+      "message": "Idioma de OCR"
+   },
+   "OCR_When": {
+      "message": "OCR Quando"
+   },
+   "Off": {
+      "message": "Off"
+   },
+   "On": {
+      "message": "On"
+   },
+   "PDF_Viewer": {
+      "message": "Visualizador de PDF"
+   },
+   "Perspective": {
+      "message": "Perspective"
+   },
+   "Privacy_Policy": {
+      "message": "Política de Privacidade"
+   },
+   "Reset_Setting": {
+      "message": "Reset Setting"
+   },
+   "Retweet_twitter_post": {
+      "message": "Respostar a postagem do Twitter"
+   },
+   "Reverse_Translate_Language": {
+      "message": "Idioma de Tradução Reversa"
+   },
+   "Review_Page": {
+      "message": "Avaliações"
+   },
+   "Review______________________________________": {
+      "message": "Revisão                                      "
+   },
+   "Review_this": {
+      "message": "Revise isso"
+   },
+   "Right": {
+      "message": "Right"
+   },
+   "SELECT_OPTION______________________________": {
+      "message": "SELECT OPTION                              "
+   },
+   "SPEECH": {
+      "message": "DISCURSO"
+   },
+   "Scale": {
+      "message": "Scale"
+   },
+   "Secondary_Language_When": {
+      "message": "Secondary Language When"
+   },
+   "Select": {
+      "message": "Select"
+   },
+   "Sentence": {
+      "message": "Sentence"
+   },
+   "Shift_Left": {
+      "message": "Shift Left"
+   },
+   "Shift_Right": {
+      "message": "Shift Right"
+   },
+   "Shift_away": {
+      "message": "Shift away"
+   },
+   "Shift_toward": {
+      "message": "Shift toward"
+   },
+   "Show_Tooltip_When": {
+      "message": "Mostrar Dica Quando"
+   },
+   "Source": {
+      "message": "Source"
+   },
+   "Source_Single_Subtitle": {
+      "message": "Source Single Subtitle"
+   },
+   "Source_Text": {
+      "message": "Source Text"
+   },
+   "Source_code": {
+      "message": "Código-fonte"
+   },
+   "Source_n_Translated": {
+      "message": "Source n Translated"
+   },
+   "Speech_Recognition_Language": {
+      "message": "Reconhecimento de Fala do Discurso"
+   },
+   "Speech_Recognition_When": {
+      "message": "Reconhecimento de fala quando"
+   },
+   "Support_this_extension": {
+      "message": "Apoie esta extensão"
+   },
+   "Target_Single_Subtitle": {
+      "message": "Target Single Subtitle"
+   },
+   "Title______________________________________": {
+      "message": "Título                                      "
+   },
+   "Toggle_Mouseover_Text_Type_When": {
+      "message": "Toggle Mouseover Text Type When"
+   },
+   "Tooltip_Animation": {
+      "message": "Animação da Dica"
+   },
+   "Tooltip_Background_Blur": {
+      "message": "Desfoque do Fundo da Dica"
+   },
+   "Tooltip_Background_Color": {
+      "message": "Cor do Fundo da Dica"
+   },
+   "Tooltip_Border_Color": {
+      "message": "Cor da Borda da Dica"
+   },
+   "Tooltip_Distance": {
+      "message": "Distância da Dica"
+   },
+   "Tooltip_Font_Color": {
+      "message": "Cor da Fonte da Dica"
+   },
+   "Tooltip_Font_Size": {
+      "message": "Tamanho da Fonte da Dica"
+   },
+   "Tooltip_Info_Source_Language": {
+      "message": "Idioma de Origem da Dica"
+   },
+   "Tooltip_Info_Source_Text": {
+      "message": "Texto de Origem da Fonte de Dica"
+   },
+   "Tooltip_Info_Transliteration": {
+      "message": "Transliteração da Informação da Dica"
+   },
+   "Tooltip_Interval_Time": {
+      "message": "Intervalo de Tempo da Dica"
+   },
+   "Tooltip_Position": {
+      "message": "Posição da Dica"
+   },
+   "Tooltip_Text_Align": {
+      "message": "Alinhamento do Texto da Dica"
+   },
+   "Tooltip_Width": {
+      "message": "Largura da Dica"
+   },
+   "Tooltip_Word_Dictionary": {
+      "message": "Dicionário de Palavras de Dicas"
+   },
+   "Translate_From": {
+      "message": "Traduzir De"
+   },
+   "Translate_Into": {
+      "message": "Traduzir Para"
+   },
+   "Translate_Into_2": {
+      "message": "Secondary Translate Into"
+   },
+   "Translate_Voice": {
+      "message": "Traduzir Voz"
+   },
+   "Translate_When": {
+      "message": "Traduzir Quando"
+   },
+   "Translate_Writing_When": {
+      "message": "Traduzir Escrita Quando"
+   },
+   "Translate_local_PDF_file": {
+      "message": "Traduza arquivo PDF local"
+   },
+   "Translate_local_ebook_file": {
+      "message": "Traduzir arquivo local de ebook"
+   },
+   "Translated_Text": {
+      "message": "Translated Text"
+   },
+   "Translated_n_Source": {
+      "message": "Translated n Source"
+   },
+   "Translator_Engine": {
+      "message": "Mecanismo de Tradução"
+   },
+   "Twitter": {
+      "message": "Twitter"
+   },
+   "User_privacy_policy": {
+      "message": "Política de Privacidade do usuário"
+   },
+   "VOICE": {
+      "message": "VOZ"
+   },
+   "VOICE______________________________________": {
+      "message": "VOZ                                      "
+   },
+   "Voice_Panel": {
+      "message": "Painel de Voz"
+   },
+   "Voice_Panel_Background_Color": {
+      "message": "Cor do fundo do painel de voz"
+   },
+   "Voice_Panel_Padding": {
+      "message": "Preenchimento do painel de voz"
+   },
+   "Voice_Panel_Source_Border_Color": {
+      "message": "Cor da fonte da borda do painel de voz"
+   },
+   "Voice_Panel_Source_Font_Color": {
+      "message": "Cor da fonte de origem do painel de voz"
+   },
+   "Voice_Panel_Source_Font_Size": {
+      "message": "Tamanho da fonte de origem do painel de voz"
+   },
+   "Voice_Panel_Target_Border_Color": {
+      "message": "Cor da fonte da borda do destino do painel de voz"
+   },
+   "Voice_Panel_Target_Font_Color": {
+      "message": "Cor da fonte do destino do painel de voz"
+   },
+   "Voice_Panel_Target_Font_Size": {
+      "message": "Tamanho da fonte destino do painel de voz"
+   },
+   "Voice_Panel_Text_Align": {
+      "message": "Alinhamento de texto do painel de voz"
+   },
+   "Voice_Panel_Text_Target": {
+      "message": "Texto destino do painel de voz"
+   },
+   "Voice_Panel_Translate_Language": {
+      "message": "Idioma de tradução do painel de voz"
+   },
+   "Voice_Repeat": {
+      "message": "Repetir Voz"
+   },
+   "Voice_Speed": {
+      "message": "Velocidade de Voz"
+   },
+   "Voice_Target": {
+      "message": "Voz alvo"
+   },
+   "Voice_Translated_Speed": {
+      "message": "Velocidade de voz traduzida"
+   },
+   "Voice_Volume": {
+      "message": "Volume de Voz"
+   },
+   "Voice_When": {
+      "message": "Voz Quando"
+   },
+   "Voice_for_": {
+      "message": "Voz para "
+   },
+   "Whitelist_Website": {
+      "message": "Lista de permissões"
+   },
+   "Word": {
+      "message": "Word"
+   },
+   "Writing_Language": {
+      "message": "Idioma de Escrita"
+   },
+   "appDesc": {
+      "message": "Tradução de Texto usando google tradutor do Mouse Tooltip Translator. Suporte ao OCR, TTS, tradutor de manga & tradutor de PDF."
+   },
+   "appName": {
+      "message": "Mouse Tooltip Translator - Legendas duplas em PDF, Netflix e YouTube"
+   },
+   "bing": {
+      "message": "bing"
+   },
+   "google": {
+      "message": "google"
+   }
+}

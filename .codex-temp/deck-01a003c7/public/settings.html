@@ -1,0 +1,149 @@
+﻿<!DOCTYPE html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon.png?v=20260722a" />
+    <link rel="apple-touch-icon" sizes="192x192" href="/wordking-icon-192.png?v=20260722a" />
+    <title>Words King | 設定</title>
+    <link rel="stylesheet" href="/styles.css?v=20260723e" />
+  </head>
+  <body data-page="settings">
+    <div id="siteHeader"></div>
+    <main class="page-shell">
+      <section class="page-heading">
+        <div>
+          <p class="eyebrow dark">Settings</p>
+          <h1>設定</h1>
+        </div>
+      </section>
+
+      <section class="grid two settings-page-grid">
+        <form id="profileForm" class="card auth-card">
+          <h2>個人設定</h2>
+
+          <label for="displayName">
+            名稱
+            <input id="displayName" required maxlength="24" />
+          </label>
+
+          <label for="theme">
+            主題
+            <select id="theme">
+              <option value="sage">Sage</option>
+              <option value="paper">Paper</option>
+              <option value="ocean">Ocean</option>
+              <option value="light">Light</option>
+              <option value="dark">Dark</option>
+            </select>
+          </label>
+
+          <label class="toggle-row" for="leaderboardVisible">
+            <input id="leaderboardVisible" type="checkbox" />
+            <span>在排行榜顯示名稱</span>
+          </label>
+
+          <label for="practiceNextQuestionDelayMs">
+            答題後自動切換下一題延遲
+            <span class="input-with-suffix">
+              <input
+                id="practiceNextQuestionDelayMs"
+                type="number"
+                min="0"
+                max="10000"
+                step="100"
+                inputmode="numeric"
+                required
+              />
+              <span aria-hidden="true">ms</span>
+            </span>
+            <span class="small-text muted">0 ms 代表立即切換；上限為 10000 ms。</span>
+          </label>
+
+          <section class="settings-subgrid" aria-labelledby="practiceTimerSettingsTitle">
+            <h3 id="practiceTimerSettingsTitle">練習倒數</h3>
+
+            <label for="practiceChoiceTimeLimitSeconds">
+              選擇題倒數
+              <span class="input-with-suffix">
+                <input
+                  id="practiceChoiceTimeLimitSeconds"
+                  type="number"
+                  min="0"
+                  max="40"
+                  step="1"
+                  inputmode="numeric"
+                  required
+                />
+                <span aria-hidden="true">秒</span>
+              </span>
+            </label>
+
+            <label for="practiceTypingTimeLimitSeconds">
+              手寫與克漏字倒數
+              <span class="input-with-suffix">
+                <input
+                  id="practiceTypingTimeLimitSeconds"
+                  type="number"
+                  min="0"
+                  max="40"
+                  step="1"
+                  inputmode="numeric"
+                  required
+                />
+                <span aria-hidden="true">秒</span>
+              </span>
+            </label>
+
+            <p class="small-text muted settings-practice-timer-note">
+              0 秒會關閉該類題型倒數；啟用時僅能設定 5 至 40 秒。
+            </p>
+          </section>
+
+          <button type="submit">儲存設定</button>
+        </form>
+
+        <div class="settings-side-stack">
+          <form id="passwordForm" class="card auth-card settings-action-card">
+            <h2>修改密碼</h2>
+
+            <label for="currentPassword">
+              目前密碼
+              <input id="currentPassword" type="password" required minlength="6" maxlength="64" />
+            </label>
+
+            <label for="newPassword">
+              新密碼
+              <input id="newPassword" type="password" required minlength="6" maxlength="64" />
+            </label>
+
+            <label for="confirmPassword">
+              確認新密碼
+              <input id="confirmPassword" type="password" required minlength="6" maxlength="64" />
+            </label>
+
+            <button type="submit">更新密碼</button>
+          </form>
+
+          <form id="deleteAccountForm" class="card auth-card settings-action-card danger-card">
+            <h2>註銷帳號</h2>
+            <p class="muted small-text settings-danger-note">
+              註銷後會刪除你的帳號與學習紀錄，且無法復原。送出前必須輸入目前密碼。
+            </p>
+
+            <label for="deleteAccountPassword">
+              目前密碼
+              <input id="deleteAccountPassword" type="password" required minlength="6" maxlength="64" />
+            </label>
+
+            <button type="submit" class="danger-btn">註銷帳號</button>
+          </form>
+
+        </div>
+      </section>
+    </main>
+    <div id="messageBar" class="message-bar"></div>
+    <script src="/shared.js?v=20260722e"></script>
+    <script src="/settings.js?v=20260723b"></script>
+  </body>
+</html>

@@ -1,0 +1,476 @@
+{
+   "ADVANCED": {
+      "message": "ADVANCED"
+   },
+   "ADVANCED______________________________________": {
+      "message": "متقدم                                      "
+   },
+   "About______________________________________": {
+      "message": "عن                                      "
+   },
+   "Allow_Current_Site": {
+      "message": "Allow Current Site"
+   },
+   "Alt_Left": {
+      "message": "Alt Left"
+   },
+   "Alt_Right": {
+      "message": "Alt Right"
+   },
+   "Always": {
+      "message": "Always"
+   },
+   "Auto": {
+      "message": "Auto"
+   },
+   "Auto_Reader_When": {
+      "message": "قارئ تلقائي عندما"
+   },
+   "BACKUP": {
+      "message": "BACKUP"
+   },
+   "BACKUP______________________________________": {
+      "message": "BACKUP                                      "
+   },
+   "Block_Current_Site": {
+      "message": "Block Current Site"
+   },
+   "Center": {
+      "message": "Center"
+   },
+   "Check_how_to_use_this_extension": {
+      "message": "تحقق من كيفية استخدام هذه الإضافة"
+   },
+   "Check_source_code_in_github": {
+      "message": "تحقق من كود المصدر في Github"
+   },
+   "Click_Left": {
+      "message": "Click Left"
+   },
+   "Click_Middle": {
+      "message": "Click Middle"
+   },
+   "Click_Right": {
+      "message": "Click Right"
+   },
+   "Coffee______________________________________": {
+      "message": "قهوة                                      "
+   },
+   "Comment_on_this_extension": {
+      "message": "التعليق على هذا التمديد"
+   },
+   "Container": {
+      "message": "Container"
+   },
+   "Ctrl_Left": {
+      "message": "Ctrl Left"
+   },
+   "Ctrl_Right": {
+      "message": "Ctrl Right"
+   },
+   "Default": {
+      "message": "Default"
+   },
+   "Detect_PDF": {
+      "message": "كشف PDF"
+   },
+   "Detect_Subtitle": {
+      "message": "Detect Subtitle"
+   },
+   "Developer_love_criticism": {
+      "message": "Developer love criticism"
+   },
+   "Dual_Subtitle": {
+      "message": "Dual Subtitle"
+   },
+   "EXCLUDE": {
+      "message": "EXCLUDE"
+   },
+   "EXCLUDE______________________________________": {
+      "message": "استبعاد                                      "
+   },
+   "Ebook_Reader": {
+      "message": "قارئ الكتاب الاليكتروني"
+   },
+   "Exclude_Language": {
+      "message": "استبعاد اللغة"
+   },
+   "Exclude_Website": {
+      "message": "استبعاد موقع الويب"
+   },
+   "Export_Setting": {
+      "message": "Export Setting"
+   },
+   "Fade": {
+      "message": "Fade"
+   },
+   "Fallback_Translator_Engine": {
+      "message": "Fallback Translator Engine"
+   },
+   "Feed_a_coffee_to_the_extension_devs": {
+      "message": "Feed a coffee to the extension devs"
+   },
+   "Fixed": {
+      "message": "Fixed"
+   },
+   "Follow": {
+      "message": "Follow"
+   },
+   "GRAPHIC": {
+      "message": "GRAPHIC"
+   },
+   "GRAPHIC______________________________________": {
+      "message": "GRAPHIC                                      "
+   },
+   "How_to_use": {
+      "message": "كيفية الاستعمال"
+   },
+   "Import_Setting": {
+      "message": "Import Setting"
+   },
+   "Justify": {
+      "message": "Justify"
+   },
+   "KEYBOARD": {
+      "message": "KEYBOARD"
+   },
+   "KEYBOARD______________________________________": {
+      "message": "KEYBOARD                                      "
+   },
+   "LLM_Api_Endpoint": {
+      "message": "LLM API Endpoint URL"
+   },
+   "LLM_Api_Key": {
+      "message": "LLM API Key"
+   },
+   "LLM_Model": {
+      "message": "LLM Model"
+   },
+   "LLM_Provider": {
+      "message": "LLM Provider"
+   },
+   "Left": {
+      "message": "Left"
+   },
+   "MAIN": {
+      "message": "MAIN"
+   },
+   "MAIN______________________________________": {
+      "message": "MAIN                                      "
+   },
+   "Meta_Left": {
+      "message": "Meta Left"
+   },
+   "Meta_Right": {
+      "message": "Meta Right"
+   },
+   "Mouse_Tooltip_Translator": {
+      "message": "Mouse Tooltip Translator"
+   },
+   "Mouseover": {
+      "message": "Mouseover"
+   },
+   "Mouseover_Highlight_Text": {
+      "message": "Mouseover Highlight Text"
+   },
+   "Mouseover_Pause_Subtitle": {
+      "message": "Mouseover Pause Subtitle"
+   },
+   "Mouseover_Text_Highlight_Color": {
+      "message": "Mouseover Text Highlight Color"
+   },
+   "Mouseover_Text_Type": {
+      "message": "Mouseover Text Type"
+   },
+   "Mouseover_Text_Type_2": {
+      "message": "Secondary Mouseover Text Type"
+   },
+   "Mouseover_Text_Type_Key_Hold": {
+      "message": "Mouseover Text Type Key Hold"
+   },
+   "Mouseover_Text_Type_Swap_Key": {
+      "message": "Mouseover Text Type Swap Key"
+   },
+   "Mouseover_n_Select": {
+      "message": "Mouseover n Select"
+   },
+   "None": {
+      "message": "None"
+   },
+   "OCR_Language": {
+      "message": "OCR Language"
+   },
+   "OCR_When": {
+      "message": "متى يقع التعرف الضوئي على الحروف OCR"
+   },
+   "Off": {
+      "message": "Off"
+   },
+   "On": {
+      "message": "On"
+   },
+   "PDF_Viewer": {
+      "message": "عارض PDF"
+   },
+   "Perspective": {
+      "message": "Perspective"
+   },
+   "Privacy_Policy": {
+      "message": "سياسة الخصوصية"
+   },
+   "Reset_Setting": {
+      "message": "Reset Setting"
+   },
+   "Retweet_twitter_post": {
+      "message": "Retweet twitter post"
+   },
+   "Reverse_Translate_Language": {
+      "message": "عكس لغة الترجمة"
+   },
+   "Review_Page": {
+      "message": "صفحة المراجعة"
+   },
+   "Review______________________________________": {
+      "message": "Review                                      "
+   },
+   "Review_this": {
+      "message": "Review this"
+   },
+   "Right": {
+      "message": "Right"
+   },
+   "SELECT_OPTION______________________________": {
+      "message": "SELECT OPTION                              "
+   },
+   "SPEECH": {
+      "message": "الكلام"
+   },
+   "Scale": {
+      "message": "Scale"
+   },
+   "Secondary_Language_When": {
+      "message": "Secondary Language When"
+   },
+   "Select": {
+      "message": "Select"
+   },
+   "Sentence": {
+      "message": "Sentence"
+   },
+   "Shift_Left": {
+      "message": "Shift Left"
+   },
+   "Shift_Right": {
+      "message": "Shift Right"
+   },
+   "Shift_away": {
+      "message": "Shift away"
+   },
+   "Shift_toward": {
+      "message": "Shift toward"
+   },
+   "Show_Tooltip_When": {
+      "message": "متى يظهر تلميح الأداة"
+   },
+   "Source": {
+      "message": "Source"
+   },
+   "Source_Single_Subtitle": {
+      "message": "Source Single Subtitle"
+   },
+   "Source_Text": {
+      "message": "Source Text"
+   },
+   "Source_code": {
+      "message": "كود المصدر"
+   },
+   "Source_n_Translated": {
+      "message": "Source n Translated"
+   },
+   "Speech_Recognition_Language": {
+      "message": "لغة التعرف على الكلام"
+   },
+   "Speech_Recognition_When": {
+      "message": "التعرف على الكلام عندما"
+   },
+   "Support_this_extension": {
+      "message": "Support this extension"
+   },
+   "Target_Single_Subtitle": {
+      "message": "Target Single Subtitle"
+   },
+   "Title______________________________________": {
+      "message": "عنوان                                      "
+   },
+   "Toggle_Mouseover_Text_Type_When": {
+      "message": "Toggle Mouseover Text Type When"
+   },
+   "Tooltip_Animation": {
+      "message": "Tooltip Animation"
+   },
+   "Tooltip_Background_Blur": {
+      "message": "طمس الخلفية تلميح الأداة"
+   },
+   "Tooltip_Background_Color": {
+      "message": "لون خلفية تلميح الأداة"
+   },
+   "Tooltip_Border_Color": {
+      "message": "Tooltip Border Color"
+   },
+   "Tooltip_Distance": {
+      "message": "مسافة تلميح الأداة"
+   },
+   "Tooltip_Font_Color": {
+      "message": "لون خط تلميح الأداة"
+   },
+   "Tooltip_Font_Size": {
+      "message": "حجم خط تلميح الأداة"
+   },
+   "Tooltip_Info_Source_Language": {
+      "message": "Tooltip Info Source Language"
+   },
+   "Tooltip_Info_Source_Text": {
+      "message": "Tooltip Info Source Text"
+   },
+   "Tooltip_Info_Transliteration": {
+      "message": "Tooltip Info Transliteration"
+   },
+   "Tooltip_Interval_Time": {
+      "message": "Tooltip Interval Time"
+   },
+   "Tooltip_Position": {
+      "message": "موضع تلميح الأداة"
+   },
+   "Tooltip_Text_Align": {
+      "message": "محاذاة نص تلميح الأداة"
+   },
+   "Tooltip_Width": {
+      "message": "عرض تلميح الأداة"
+   },
+   "Tooltip_Word_Dictionary": {
+      "message": "قاموس كلمات الأدوات"
+   },
+   "Translate_From": {
+      "message": "الترجمة من"
+   },
+   "Translate_Into": {
+      "message": "الترجمة إلى"
+   },
+   "Translate_Into_2": {
+      "message": "Secondary Translate Into"
+   },
+   "Translate_Voice": {
+      "message": "ترجمة الصوت"
+   },
+   "Translate_When": {
+      "message": "متى يترجم"
+   },
+   "Translate_Writing_When": {
+      "message": "Translate Writing When"
+   },
+   "Translate_local_PDF_file": {
+      "message": "ترجمة ملف PDF المحلي"
+   },
+   "Translate_local_ebook_file": {
+      "message": "ترجمة ملف الكتاب الإلكتروني المحلي"
+   },
+   "Translated_Text": {
+      "message": "Translated Text"
+   },
+   "Translated_n_Source": {
+      "message": "Translated n Source"
+   },
+   "Translator_Engine": {
+      "message": "محرك الترجمة"
+   },
+   "Twitter": {
+      "message": "Twitter"
+   },
+   "User_privacy_policy": {
+      "message": "سياسة خصوصية المستخدم"
+   },
+   "VOICE": {
+      "message": "VOICE"
+   },
+   "VOICE______________________________________": {
+      "message": "VOICE                                      "
+   },
+   "Voice_Panel": {
+      "message": "لوحة الصوت"
+   },
+   "Voice_Panel_Background_Color": {
+      "message": "لون خلفية لوحة الصوت"
+   },
+   "Voice_Panel_Padding": {
+      "message": "حشو لوحة الصوت"
+   },
+   "Voice_Panel_Source_Border_Color": {
+      "message": "لون حدود مصدر لوحة الصوت"
+   },
+   "Voice_Panel_Source_Font_Color": {
+      "message": "لون خط مصدر لوحة الصوت"
+   },
+   "Voice_Panel_Source_Font_Size": {
+      "message": "حجم خط مصدر لوحة الصوت"
+   },
+   "Voice_Panel_Target_Border_Color": {
+      "message": "لون حدود مصدر لوحة الصوت"
+   },
+   "Voice_Panel_Target_Font_Color": {
+      "message": "لون الخط المستهدف للوحة الصوت"
+   },
+   "Voice_Panel_Target_Font_Size": {
+      "message": "حجم الخط المستهدف للوحة الصوت"
+   },
+   "Voice_Panel_Text_Align": {
+      "message": "محاذاة نص لوحة الصوت"
+   },
+   "Voice_Panel_Text_Target": {
+      "message": "هدف نص لوحة الصوت"
+   },
+   "Voice_Panel_Translate_Language": {
+      "message": "لوحة الصوت لترجمة اللغة"
+   },
+   "Voice_Repeat": {
+      "message": "Voice Repeat"
+   },
+   "Voice_Speed": {
+      "message": "Voice Speed"
+   },
+   "Voice_Target": {
+      "message": "Voice Target"
+   },
+   "Voice_Translated_Speed": {
+      "message": "سرعة الترجمة الصوتية"
+   },
+   "Voice_Volume": {
+      "message": "Voice Volume"
+   },
+   "Voice_When": {
+      "message": "متى يقرأ النص صوتيا"
+   },
+   "Voice_for_": {
+      "message": "صوت ل "
+   },
+   "Whitelist_Website": {
+      "message": "Whitelist Website"
+   },
+   "Word": {
+      "message": "Word"
+   },
+   "Writing_Language": {
+      "message": "لغة الكتابة"
+   },
+   "appDesc": {
+      "message": "ترجمة نص تحت مؤشر الفأرة باستخدام محركات ترجمة مختلفة من ضمنها Googleو Bingو Yandexو DeepLو Naver Papago"
+   },
+   "appName": {
+      "message": "مترجم تلميحات الفأرة "
+   },
+   "bing": {
+      "message": "bing"
+   },
+   "google": {
+      "message": "google"
+   }
+}

@@ -1,0 +1,63 @@
+{
+   "action": {
+      "default_popup": "popup.html",
+      "default_title": "Mouse Tooltip Translator"
+   },
+   "background": {
+      "service_worker": "background.js"
+   },
+   "commands": {
+      "copy-translated-text": {
+         "description": "Copy Translated Text",
+         "suggested_key": {
+            "default": "Ctrl+Shift+1"
+         }
+      },
+      "save-translation": {
+         "description": "Save Translation",
+         "suggested_key": {
+            "default": "Ctrl+Shift+2"
+         }
+      }
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "css": [ "tippy.css" ],
+      "js": [ "contentScript.js" ],
+      "match_about_blank": true,
+      "matches": [ "\u003Call_urls>" ],
+      "run_at": "document_start"
+   } ],
+   "content_security_policy": {
+      "extension_pages": "script-src 'self' 'wasm-unsafe-eval' ;  object-src 'none'"
+   },
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "host_permissions": [ "\u003Call_urls>" ],
+   "icons": {
+      "128": "icons/icon_128.png",
+      "16": "icons/icon_16.png",
+      "32": "icons/icon_32.png",
+      "48": "icons/icon_48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzBZAd5NzH3rM5HRiBG4AjtXLbbeH7Per53xTGQd0qCw2kIzt/q/pSZIaZYUBDNoEfTNF5/ve2/tSIrUnEqg48yAWCLoG8HKz8lPaI8pxcJqop88SX7q1iErPfefnGsZPacafWZ6bsWLAG85SNq689Ac0mkOA1Mfk+KC8ZFVvDbBaxVgNtCI4pPWo/QlXEOtt5pO2PWopEkysuS2mMHt1VBseHwaw9YQjBT0eKVYx7uHrJT1srBICz0ZG/9phmjepN7FrDyUZg702yZD0Py151jgJWwQZp1eOilYEnSKnyiPSvdcK6PwthoKrtnueKjZRfeuXoqq4MhQcD6clnFyVBQIDAQAB",
+   "manifest_version": 3,
+   "name": "__MSG_appName__",
+   "omnibox": {
+      "keyword": "/"
+   },
+   "options_ui": {
+      "open_in_tab": true,
+      "page": "popup.html"
+   },
+   "permissions": [ "storage", "tts", "tabs", "scripting", "contextMenus", "offscreen", "search" ],
+   "sandbox": {
+      "pages": [ "opencvHandler.html" ]
+   },
+   "update_url": "https://edge.microsoft.com/extensionwebstorebase/v1/crx",
+   "version": "0.1.217",
+   "web_accessible_resources": [ {
+      "matches": [ "\u003Call_urls>" ],
+      "resources": [ "pdfjs/web/viewer.html", "ocr.html", "opencvHandler.html", "googleDocInject.js", "subtitle.js", "popup.html" ]
+   } ]
+}

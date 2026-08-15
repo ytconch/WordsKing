@@ -1,0 +1,14 @@
+2026/05/27-08:01:15.905 ab6c Reusing MANIFEST C:\Users\ytcon\server\server\WordsKingServer\data\codex-edge-headless\Default\IndexedDB\chrome-extension_pdffkfellgipmhklpdmokmckkkfcopbh_0.indexeddb.leveldb/MANIFEST-000001
+2026/05/27-08:01:15.906 ab6c Recovering log #18
+2026/05/27-08:01:15.906 ab6c Reusing old log C:\Users\ytcon\server\server\WordsKingServer\data\codex-edge-headless\Default\IndexedDB\chrome-extension_pdffkfellgipmhklpdmokmckkkfcopbh_0.indexeddb.leveldb/000018.log 
+2026/05/27-08:01:15.907 ab6c Delete type=2 #16
+2026/05/27-08:01:15.912 abb0 Level-0 table #23: started
+2026/05/27-08:01:15.915 abb0 Level-0 table #23: 88774 bytes OK
+2026/05/27-08:01:15.916 abb0 Delete type=0 #18
+2026/05/27-08:01:15.917 ab6c Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at '\x00\x07\x00\x00\x05' @ 693 : 1
+2026/05/27-08:01:15.917 ab6c Compacting 1@0 + 1@1 files
+2026/05/27-08:01:15.920 ab6c Generated table #24@0: 197 keys, 45640 bytes
+2026/05/27-08:01:15.920 ab6c Compacted 1@0 + 1@1 files => 45640 bytes
+2026/05/27-08:01:15.921 ab6c compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/05/27-08:01:15.922 ab6c Delete type=2 #23
+2026/05/27-08:01:15.922 ab6c Manual compaction at level-0 from '\x00\x07\x00\x00\x05' @ 693 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)

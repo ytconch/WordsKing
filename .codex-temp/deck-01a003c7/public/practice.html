@@ -1,0 +1,158 @@
+﻿<!DOCTYPE html>
+<html lang="zh-Hant">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon.png?v=20260722a" />
+    <link rel="apple-touch-icon" sizes="192x192" href="/wordking-icon-192.png?v=20260722a" />
+    <title>Words King | 練習</title>
+    <link rel="stylesheet" href="/styles.css?v=20260727a" />
+  </head>
+  <body data-page="practice">
+    <div id="siteHeader"></div>
+    <main class="page-shell">
+      <section class="page-heading">
+        <div>
+          <p class="eyebrow dark">Practice</p>
+          <h1>練習</h1>
+        </div>
+      </section>
+
+      <section id="setupCard" class="practice-layout">
+        <section class="card practice-config-card">
+          <div class="section-title-row">
+            <div>
+              <h2>範圍設定</h2>
+            </div>
+          </div>
+
+          <div class="toolbar compact-toolbar practice-filter-grid">
+            <label class="input-group">
+              來源
+              <select id="practiceSource" aria-label="來源"></select>
+            </label>
+
+            <label class="input-group">
+              題義範圍
+              <select id="meaningScope"></select>
+            </label>
+
+            <div id="unitSelectorContainer" class="custom-unit-selector">
+              <p class="small-text muted">單元</p>
+              <div id="practiceUnit" class="unit-pills-grid"></div>
+              <div id="practiceUnitSummary" class="small-text muted practice-summary-line"></div>
+            </div>
+          </div>
+        </section>
+
+        <section class="card practice-kind-card">
+          <div class="section-title-row practice-kind-head">
+            <div>
+              <h2>練習模式</h2>
+            </div>
+            <div class="practice-kind-switch" role="tablist" aria-label="練習模式切換">
+              <button
+                type="button"
+                role="tab"
+                class="practice-kind-tab is-active"
+                id="normalPracticeTab"
+                data-practice-kind="normal"
+                aria-selected="true"
+                aria-controls="normalPracticePanel"
+              >
+                一般練習
+              </button>
+              <button
+                type="button"
+                role="tab"
+                class="practice-kind-tab"
+                id="clozePracticeTab"
+                data-practice-kind="cloze"
+                aria-selected="false"
+                aria-controls="clozePracticePanel"
+              >
+                克漏字
+              </button>
+            </div>
+          </div>
+
+          <div class="practice-kind-panels">
+            <section
+              class="practice-kind-panel practice-mode-panel"
+              id="normalPracticePanel"
+              role="tabpanel"
+              aria-labelledby="normalPracticeTab"
+              data-practice-kind-panel="normal"
+            >
+              <div class="input-group practice-mode-section">
+                <span class="practice-mode-title">題型</span>
+                <div id="practiceModeSelector" class="practice-mode-grid">
+                  <label class="practice-mode-card">
+                    <input type="checkbox" name="practiceModes" value="zh_to_en" checked />
+                    <span class="practice-mode-check" aria-hidden="true"></span>
+                    <div class="practice-mode-copy">
+                      <strong>中翻英</strong>
+                    </div>
+                  </label>
+
+                  <label class="practice-mode-card">
+                    <input type="checkbox" name="practiceModes" value="en_to_zh" checked />
+                    <span class="practice-mode-check" aria-hidden="true"></span>
+                    <div class="practice-mode-copy">
+                      <strong>英翻中</strong>
+                    </div>
+                  </label>
+
+                  <label class="practice-mode-card">
+                    <input type="checkbox" name="practiceModes" value="type_en_from_zh" checked />
+                    <span class="practice-mode-check" aria-hidden="true"></span>
+                    <div class="practice-mode-copy">
+                      <strong>看中文拼字</strong>
+                    </div>
+                  </label>
+                </div>
+              </div>
+
+              <div class="practice-start-row">
+                <label class="input-group">
+                  題數
+                  <input type="number" id="practiceLimit" value="20" min="10" step="1" />
+                </label>
+                <button id="loadPracticeBtn" type="button">開始一般練習</button>
+              </div>
+              <div id="normalPracticeSummary" class="small-text muted practice-summary-line"></div>
+            </section>
+
+            <section
+              class="practice-kind-panel practice-mode-panel cloze-panel"
+              id="clozePracticePanel"
+              role="tabpanel"
+              aria-labelledby="clozePracticeTab"
+              data-practice-kind-panel="cloze"
+              hidden
+            >
+              <div class="practice-kind-copy">
+                <strong>克漏字</strong>
+                <span class="small-text muted">用例句缺字的方式練習拼字與語境判斷。</span>
+              </div>
+
+              <div class="practice-start-row">
+                <label class="input-group">
+                  題數
+                  <input type="number" id="clozeLimit" value="10" min="1" step="1" />
+                </label>
+                <button id="loadClozeBtn" type="button">開始克漏字</button>
+              </div>
+              <div id="clozeSummary" class="small-text muted practice-summary-line"></div>
+            </section>
+          </div>
+        </section>
+      </section>
+
+      <section id="practiceArea" class="card empty practice-stage"></section>
+    </main>
+    <div id="messageBar" class="message-bar"></div>
+    <script src="/shared.js?v=20260722e"></script>
+    <script src="/practice-page.js?v=20260727d"></script>
+  </body>
+</html>

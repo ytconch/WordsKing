@@ -1,0 +1,15 @@
+2026/05/27-08:01:17.544 a5c Reusing MANIFEST C:\Users\ytcon\server\server\WordsKingServer\data\codex-edge-headless\Default\EdgeCoupons/coupons_data.db/MANIFEST-000001
+2026/05/27-08:01:17.546 a5c Recovering log #16
+2026/05/27-08:01:17.546 a5c Reusing old log C:\Users\ytcon\server\server\WordsKingServer\data\codex-edge-headless\Default\EdgeCoupons/coupons_data.db/000016.log 
+2026/05/27-08:01:19.239 ab6c Level-0 table #20: started
+2026/05/27-08:01:19.245 ab6c Level-0 table #20: 682804 bytes OK
+2026/05/27-08:01:19.247 ab6c Delete type=0 #16
+2026/05/27-08:01:19.247 ab6c Compacting 4@0 + 1@1 files
+2026/05/27-08:01:19.251 ab6c Generated table #21@0: 4 keys, 682711 bytes
+2026/05/27-08:01:19.251 ab6c Compacted 4@0 + 1@1 files => 682711 bytes
+2026/05/27-08:01:19.252 ab6c compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/05/27-08:01:19.253 ab6c Delete type=2 #8
+2026/05/27-08:01:19.253 ab6c Delete type=2 #11
+2026/05/27-08:01:19.254 ab6c Delete type=2 #14
+2026/05/27-08:01:19.254 ab6c Delete type=2 #17
+2026/05/27-08:01:19.254 ab6c Delete type=2 #20
