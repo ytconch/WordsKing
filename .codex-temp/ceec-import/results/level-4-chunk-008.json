@@ -1,0 +1,1230 @@
+{
+  "level": 4,
+  "chunkIndex": 8,
+  "inputs": [
+    "embarrassment",
+    "embassy",
+    "emerge",
+    "emphasis",
+    "empire",
+    "enclose",
+    "encounter",
+    "endanger",
+    "endure",
+    "enforce",
+    "enforcement",
+    "engineering",
+    "enlarge",
+    "enlargement",
+    "enormous",
+    "ensure",
+    "entertain",
+    "entertainment",
+    "enthusiasm",
+    "equality",
+    "equip",
+    "equipment",
+    "era",
+    "essential",
+    "establish",
+    "establishment",
+    "estimate",
+    "ethnic",
+    "evaluate",
+    "evaluation",
+    "eventual",
+    "evidence",
+    "evident",
+    "exaggerate",
+    "exception",
+    "exhaust",
+    "exhibit",
+    "expand",
+    "expansion",
+    "experimental",
+    "explanation",
+    "explosion",
+    "explosive",
+    "expose",
+    "exposure",
+    "extend",
+    "extent",
+    "facial",
+    "facility",
+    "faithful"
+  ],
+  "rows": [
+    {
+      "eng": "embarrassment",
+      "kk": "ɪmˈbɛrəsmənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "尷尬",
+          "窘迫"
+        ],
+        [
+          "令人尷尬的事",
+          "難堪的局面",
+          "窘境"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由動詞 embarrass 的詞源基底（源自法語 embarrasser，意指「使受阻、使困惑」）加上名詞字尾 -ment 構成，表示狀態或結果。語意由早期「使人陷入阻礙或混亂」演變為現代心理上的「不知所措與羞怯」，進而延伸出「造成尷尬或窘困的人事物」之客觀名詞用法。",
+      "definition": "1. the feeling of being shy, awkward, or ashamed; 2. a person or situation that causes shame, awkwardness, or difficulty.",
+      "example": [
+        {
+          "eng": "He blushed with embarrassment when everyone stared at him.",
+          "ch": "當每個人都盯著他看時，他尷尬得臉紅了。"
+        },
+        {
+          "eng": "The sudden financial crisis became a major embarrassment to the company.",
+          "ch": "這場突如其來的財務危機成了公司的一大窘境。"
+        }
+      ]
+    },
+    {
+      "eng": "embassy",
+      "kk": "ˈɛmbəsi",
+      "tense": "n.",
+      "ch": [
+        [
+          "大使館"
+        ],
+        [
+          "大使及其隨員代表團",
+          "使節團"
+        ]
+      ],
+      "analysis": "此字源自古普羅旺斯語/古法語 ambassada，追溯至拉丁語 ambactus（僕人、使者），經由羅曼語族傳入英語。現代主要指派遣國派駐在首都的大使館建築群，或指派駐國外執行外交任務的大使官員整體。",
+      "definition": "1. the official office and residence of an ambassador in a foreign country; 2. a group of officials sent by a government to represent it in another country.",
+      "example": [
+        {
+          "eng": "She applied for a visa at the American embassy.",
+          "ch": "她在美國大使館申請了簽證。"
+        },
+        {
+          "eng": "The embassy issued a travel warning for its citizens abroad.",
+          "ch": "大使館向其在海外的公民發布了旅遊警告。"
+        }
+      ]
+    },
+    {
+      "eng": "emerge",
+      "kk": "ɪˈmɜrdʒ",
+      "tense": "vi.",
+      "ch": [
+        [
+          "出現",
+          "浮現",
+          "顯露"
+        ],
+        [
+          "擺脫（困境等）",
+          "脫穎而出"
+        ]
+      ],
+      "analysis": "此字由拉丁語字首 ex-（向外）與 mergere（浸入、沒入）結合而成的 emergere，字面原義為「從水中浮現、升起」。經由中世紀英語直接借入，語意從具象的「浮出水面」抽象化為事件、事實或個人的「顯露」與「脫穎而出」。",
+      "definition": "1. to come out into view or become known; 2. to survive or come through a difficult experience.",
+      "example": [
+        {
+          "eng": "The sun emerged from behind the dark clouds.",
+          "ch": "太陽從烏雲背後露出來了。"
+        },
+        {
+          "eng": "She emerged as the leading candidate after the debate.",
+          "ch": "她在辯論賽後脫穎而出，成為領先的候選人。"
+        }
+      ]
+    },
+    {
+      "eng": "emphasis",
+      "kk": "ˈɛmfəsɪs",
+      "tense": "n.",
+      "ch": [
+        [
+          "強調",
+          "重視"
+        ],
+        [
+          "語氣重音",
+          "重點"
+        ]
+      ],
+      "analysis": "此字直接借自希臘語 emphasis（展示、意義、語調重音），由 en-（在……之中）與 phainein（顯示）組成。經拉丁語進入英語，核心概念為「使某事物顯眼或清晰」，演變出說話時的「語氣加重」及抽象概念上的「重視與重點」。",
+      "definition": "1. special importance, value, or prominence given to something; 2. stress given to a word or syllable when speaking to give it importance.",
+      "example": [
+        {
+          "eng": "The school places a strong emphasis on academic excellence.",
+          "ch": "這所學校非常重視學術表現。"
+        },
+        {
+          "eng": "She spoke with emphasis to make her point clear.",
+          "ch": "她加重語氣說話，以表達清楚她的觀點。"
+        }
+      ]
+    },
+    {
+      "eng": "empire",
+      "kk": "ˈɛmpaɪər",
+      "tense": "n.",
+      "ch": [
+        [
+          "帝國"
+        ],
+        [
+          "龐大企業",
+          "王國"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 imperium（統帥權、帝國、最高權力），由 imperare（統治、命令）衍生而來。經由古法語 empire 進入英語。字義從古代由君主統治的廣大領土「帝國」，延伸轉化為現代商業或組織領域中龐大且具支配力的「企業王國」。",
+      "definition": "1. a group of countries or states ruled by a single monarch or a single supreme authority; 2. a large commercial organization controlled by one person or group.",
+      "example": [
+        {
+          "eng": "The Roman Empire stretched across much of Europe and the Mediterranean.",
+          "ch": "羅馬帝國橫跨歐洲及地中海大部分地區。"
+        },
+        {
+          "eng": "He built a massive media empire over the course of thirty years.",
+          "ch": "他在三十年間建立了一個龐大的媒體王國。"
+        }
+      ]
+    },
+    {
+      "eng": "enclose",
+      "kk": "ɪnˈkloʊz",
+      "tense": "vt.",
+      "ch": [
+        [
+          "圍住",
+          "圈起",
+          "封閉"
+        ],
+        [
+          "隨信附上"
+        ]
+      ],
+      "analysis": "此字由拉丁語字首 en-（進入、使成為）與 claudere（關閉、封鎖）之演變形結合，經古法語 enclore 進入英語。字面義為「關在裡面」，現代演變為實體空間的「圍欄包圍」，以及書信行政用語中「將文件裝入信封內附上」。",
+      "definition": "1. to surround or close off on all sides; 2. to put something in the same envelope or package as a letter.",
+      "example": [
+        {
+          "eng": "They decided to enclose the backyard with a wooden fence.",
+          "ch": "他們決定用木柵欄把後院圍起來。"
+        },
+        {
+          "eng": "Please find the requested document enclosed in this email.",
+          "ch": "請查收這封電子郵件中附上的要求文件。"
+        }
+      ]
+    },
+    {
+      "eng": "encounter",
+      "kk": "ɪnˈkaʊntər",
+      "tense": "vt.",
+      "ch": [
+        [
+          "遭遇",
+          "遇到（困難、危險等）"
+        ],
+        [
+          "偶然遇見",
+          "邂逅"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 *in-contra（面對面），經古法語 encontrer 進入英語。由字首 en-（向）與 contra（對面、對抗）複合而成。核心義為「在對面相遇」，現代常用於指「不期而遇地碰見某人」或「遭遇意料之外的阻礙與挑戰」。",
+      "definition": "1. to experience or meet with something, typically a problem or difficulty; 2. to meet someone unexpectedly.",
+      "example": [
+        {
+          "eng": "We did not expect to encounter such heavy traffic on the highway.",
+          "ch": "我們沒料到高速公路上會遇到這麼嚴重的交通堵塞。"
+        },
+        {
+          "eng": "She was surprised to encounter an old school friend at the bookstore.",
+          "ch": "她在書店意外遇到老同學，感到十分驚訝。"
+        }
+      ]
+    },
+    {
+      "eng": "endanger",
+      "kk": "ɪnˈdeɪndʒər",
+      "tense": "vt.",
+      "ch": [
+        [
+          "危及",
+          "使遭受危險"
+        ]
+      ],
+      "analysis": "此字為標準現代透明構詞，由動詞字首 en-（使成為、置於……狀態）加上名詞 danger（危險，源自拉丁語 dominarium）複合而成。字面義即為「使陷入危險之中」，屬於高產的動詞衍生形態。",
+      "definition": "1. to put someone or something at risk or in danger of being harmed.",
+      "example": [
+        {
+          "eng": "Industrial pollution continues to endanger local wildlife habitats.",
+          "ch": "工業污染持續危及當地的野生動物棲息地。"
+        }
+      ]
+    },
+    {
+      "eng": "endure",
+      "kk": "ɪnˈdʊr",
+      "tense": "v.",
+      "ch": [
+        [
+          "忍耐",
+          "忍受"
+        ],
+        [
+          "持久",
+          "持續存在"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 indurare（使堅硬），由 in-（加強語氣）與 durus（堅硬的）組合而成。經古法語 endurer 進入英語。語意從物質上的「堅固、耐用、禁得起」，演變為心理上的「承受痛苦或艱難」，以及時間上的「持久不衰」。",
+      "definition": "1. to suffer something painful or difficult with patience; 2. to remain in existence or last for a long time.",
+      "example": [
+        {
+          "eng": "The explorers had to endure freezing temperatures during the winter expedition.",
+          "ch": "探險家們在冬季遠征期間必須忍受極凍的低溫。"
+        },
+        {
+          "eng": "His classic novels will endure for generations to come.",
+          "ch": "他的經典小說將流傳後世，歷久不衰。"
+        }
+      ]
+    },
+    {
+      "eng": "enforce",
+      "kk": "ɪnˈfɔrs",
+      "tense": "vt.",
+      "ch": [
+        [
+          "實施",
+          "執行（法律、規定等）"
+        ],
+        [
+          "強迫",
+          "強制"
+        ]
+      ],
+      "analysis": "此字由拉丁語字首 in-（加強）與源自拉丁語 fortis（堅強的、有力的）的古法語 enforcier 結合而成。字面義為「使之強而有力」，早期含「強迫」之意，現代則專門用於法律與規則的「強制執行與落實」。",
+      "definition": "1. to make sure that people obey a law or rule; 2. to force or compel something to happen.",
+      "example": [
+        {
+          "eng": "Police officers are responsible for enforcing traffic laws.",
+          "ch": "警察負責執行交通法規。"
+        },
+        {
+          "eng": "It is difficult to enforce discipline in such a large classroom.",
+          "ch": "要在這麼大的教室裡強制維持紀律是很困難的。"
+        }
+      ]
+    },
+    {
+      "eng": "enforcement",
+      "kk": "ɪnˈfɔrsmənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "（法律、法規等的）強制執行",
+          "實施"
+        ]
+      ],
+      "analysis": "此字為透明構詞，由及物動詞 enforce 加上名詞字尾 -ment 衍生而來，用以指稱「執行法律或維持秩序」的行為或機制。",
+      "definition": "1. the act of making sure that people obey a law or rule.",
+      "example": [
+        {
+          "eng": "Stricter enforcement of safety regulations has reduced workplace accidents.",
+          "ch": "更嚴格執行安全規定減少了職場事故。"
+        }
+      ]
+    },
+    {
+      "eng": "engineering",
+      "kk": "ˌɛndʒəˈnɪrɪŋ",
+      "tense": "n.",
+      "ch": [
+        [
+          "工程學",
+          "工程"
+        ]
+      ],
+      "analysis": "此字由名詞 engineer（工程師，源自拉丁語 ingenium，意為天賦、發明）加上動名詞字尾 -ing 形成。原本指工程師的技能與工作，後來演變為一門結合科學與數學原理進行設計與建造的專業學科。",
+      "definition": "1. the branch of science and technology concerned with the design, building, and use of engines, machines, and structures.",
+      "example": [
+        {
+          "eng": "She is studying civil engineering at the university.",
+          "ch": "她正在大學主修土木工程學。"
+        }
+      ]
+    },
+    {
+      "eng": "enlarge",
+      "kk": "ɪnˈlɑrdʒ",
+      "tense": "v.",
+      "ch": [
+        [
+          "擴大",
+          "放大",
+          "擴建"
+        ]
+      ],
+      "analysis": "此字由動詞字首 en-（使成為）與形容詞 large（大的，源自拉丁語 larga）結合而成。字面義為「使變大」，現代廣泛應用於尺寸、空間、照片或規模的擴大。",
+      "definition": "1. to make or become larger or more extensive.",
+      "example": [
+        {
+          "eng": "The museum plans to enlarge its exhibition space next year.",
+          "ch": "博物館計劃在明年擴大其展覽空間。"
+        }
+      ]
+    },
+    {
+      "eng": "enlargement",
+      "kk": "ɪnˈlɑrdʒmənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "擴大",
+          "擴建",
+          "放大照片"
+        ]
+      ],
+      "analysis": "此字由動詞 enlarge 加上名詞字尾 -ment 構成，表示擴大的動作、過程或其產生的具體結果（如放大的照片）。",
+      "definition": "1. the action of making something larger or the state of being made larger.",
+      "example": [
+        {
+          "eng": "She ordered an enlargement of her favorite family photograph.",
+          "ch": "她訂做了一張她最喜歡的家庭照片放大版。"
+        }
+      ]
+    },
+    {
+      "eng": "enormous",
+      "kk": "ɪˈnɔrməs",
+      "tense": "adj.",
+      "ch": [
+        [
+          "巨大的",
+          "龐大的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 enormis（超出常規的、巨大的），由 e-（出）與 norma（規矩、標準）組成。字面原義為「超出一般規範的」，在歷史演變中，其「超出常規的大小」之意逐漸轉化為純粹形容體積、數量或程度的「巨大」。",
+      "definition": "1. very large in size, quantity, or extent.",
+      "example": [
+        {
+          "eng": "Dinosaurs were creatures of enormous size.",
+          "ch": "恐龍是體型巨大的生物。"
+        }
+      ]
+    },
+    {
+      "eng": "ensure",
+      "kk": "ɪnˈʃʊr",
+      "tense": "vt.",
+      "ch": [
+        [
+          "確保",
+          "保證"
+        ]
+      ],
+      "analysis": "此字由字首 en-（使成為）與形容詞 sure（確定的，源自拉丁語 secura）結合而成。拼字上與 insure 近義且常混用，ensure 側重於「使某事必然發生或得到保障」。",
+      "definition": "1. to make certain that something will occur or be the case.",
+      "example": [
+        {
+          "eng": "Please double-check your answers to ensure complete accuracy.",
+          "ch": "請再次檢查你的答案以確保完全正確。"
+        }
+      ]
+    },
+    {
+      "eng": "entertain",
+      "kk": "ˌɛntərˈteɪn",
+      "tense": "v.",
+      "ch": [
+        [
+          "娛樂",
+          "使快樂",
+          "款待"
+        ],
+        [
+          "抱有（想法、希望等）"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 intertenere（款待、維持），由 inter（在……之間）與 tenere（保持）組合而成，經由古法語 entretenir 進入英語。字面義為「在交往中保持聯繫、招待客人」，引申出提供消遣的「娛樂」義，以及在心中「保持、懷有」某種想法之抽象義。",
+      "definition": "1. to provide someone with amusement or enjoyment; 2. to keep an idea, feeling, or hope in one's mind.",
+      "example": [
+        {
+          "eng": "The magician's performance thoroughly entertained the children.",
+          "ch": "魔術師的表演把孩子們逗得非常開心。"
+        },
+        {
+          "eng": "She refused to entertain the possibility of failure.",
+          "ch": "她拒絕抱有任何會失敗的想法。"
+        }
+      ]
+    },
+    {
+      "eng": "entertainment",
+      "kk": "ˌɛntərˈteɪnmənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "娛樂",
+          "消遣",
+          "表演節目"
+        ]
+      ],
+      "analysis": "此字由動詞 entertain 加上名詞字尾 -ment 構成，指提供歡樂、消遣的活動、事業或表演節目。",
+      "definition": "1. the action of providing amusement or enjoyment, or a performance providing this.",
+      "example": [
+        {
+          "eng": "The coastal resort offers a wide variety of evening entertainment.",
+          "ch": "這個海濱度假村提供各式各樣的夜間娛樂活動。"
+        }
+      ]
+    },
+    {
+      "eng": "enthusiasm",
+      "kk": "ɪnˈθuziˌæzəm",
+      "tense": "n.",
+      "ch": [
+        [
+          "熱情",
+          "熱忱",
+          "熱心"
+        ]
+      ],
+      "analysis": "此字源自希臘語 enthousiasmos（神靈附體、狂熱），由 en-（在內）與 theos（神）結合而成。字面原義為「神明附身所帶來的激昂狀態」，後在英語中泛指對某項活動、事業或目標的高度「熱情與熱忱」。",
+      "definition": "1. intense and eager enjoyment, interest, or approval.",
+      "example": [
+        {
+          "eng": "She showed great enthusiasm for the new community project.",
+          "ch": "她對這個新的社區項目表現出極大的熱忱。"
+        }
+      ]
+    },
+    {
+      "eng": "equality",
+      "kk": "ɪˈkwɑləti",
+      "tense": "n.",
+      "ch": [
+        [
+          "平等",
+          "相等"
+        ]
+      ],
+      "analysis": "此字由形容詞 equal（平等的，源自拉丁語 aequus）加上名詞字尾 -ity（表示狀態或性質）構成，經由中古法語進入英語，用以指權利、地位或價值的「平等狀態」。",
+      "definition": "1. the state of being equal, especially in status, rights, and opportunities.",
+      "example": [
+        {
+          "eng": "The constitution guarantees social equality for all citizens.",
+          "ch": "憲法保障所有公民的社會平等。"
+        }
+      ]
+    },
+    {
+      "eng": "equip",
+      "kk": "ɪˈkwɪp",
+      "tense": "vt.",
+      "ch": [
+        [
+          "配備",
+          "裝備",
+          "使有能力"
+        ]
+      ],
+      "analysis": "此字源自古諾斯語 skipa（安排、配置船隻），經由古法語 equiper 進入英語。早期專指為航海船隻裝配帆具與物資，現代則擴大泛指為任何人事物「裝備器具」或「賦予知識與技能」。",
+      "definition": "1. to supply someone or something with the necessary items for a particular purpose.",
+      "example": [
+        {
+          "eng": "The school was fully equipped with modern computer facilities.",
+          "ch": "這所學校配備了完善的現代電腦設施。"
+        }
+      ]
+    },
+    {
+      "eng": "equipment",
+      "kk": "ɪˈkwɪpmənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "設備",
+          "裝備",
+          "器材"
+        ]
+      ],
+      "analysis": "此字為不可數名詞，由動詞 equip 加上名詞字尾 -ment 構成，用以指進行特定活動所需的整套器具、機械或裝備。",
+      "definition": "1. the necessary items for a particular purpose, activity, or expedition.",
+      "example": [
+        {
+          "eng": "Always check your safety equipment before climbing the mountain.",
+          "ch": "登山前務必檢查你的安全裝備。"
+        }
+      ]
+    },
+    {
+      "eng": "era",
+      "kk": "ˈɪrə",
+      "tense": "n.",
+      "ch": [
+        [
+          "時代",
+          "年代",
+          "紀元"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 aera（計時起點、年代，原為 aevum「年齡、世紀」的複數形）。經中世紀拉丁語進入歐洲各語言，現代用以指具有獨特歷史特徵或以某重要事件為起點的「時代或紀元」。",
+      "definition": "1. a long and distinct period of history with a particular feature or starting point.",
+      "example": [
+        {
+          "eng": "The invention of the internet marked a new era in global communication.",
+          "ch": "網際網路的發明標誌著全球通訊的新時代。"
+        }
+      ]
+    },
+    {
+      "eng": "essential",
+      "kk": "ɪˈsɛnʃəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "必要的",
+          "不可或缺的"
+        ],
+        [
+          "本質的",
+          "核心的"
+        ]
+      ],
+      "analysis": "此字源自中世紀拉丁語 essentialis，由拉丁語 essentia（本質、存在，源自 esse「是」）衍生而來。語意從哲學上的「構成事物本質的」，引申為實務上的「絕對不可或缺的、必要的」。",
+      "definition": "1. absolutely necessary; extremely important; 2. fundamental or intrinsic to the nature of something.",
+      "example": [
+        {
+          "eng": "Water and food are essential for human survival.",
+          "ch": "水和食物是人類生存不可或缺的。"
+        },
+        {
+          "eng": "Trust is an essential element of any successful partnership.",
+          "ch": "信任是任何成功合作夥伴關係的核心要素。"
+        }
+      ]
+    },
+    {
+      "eng": "establish",
+      "kk": "ɪˈstæblɪʃ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "建立",
+          "設立",
+          "創辦"
+        ],
+        [
+          "確立",
+          "證實"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 stabilire（使穩定、使堅固），由 stabilis（穩定的）演變而來，經由古法語 establir 進入英語。字面義為「使之穩固站立」，引申為「創立機構、建立制度」以及在觀念或事實上「予以確立或證實」。",
+      "definition": "1. to set up an organization, system, or business on a permanent basis; 2. to prove or show something to be true.",
+      "example": [
+        {
+          "eng": "The university was established in the early nineteenth century.",
+          "ch": "這所大學建立於十九世紀初。"
+        },
+        {
+          "eng": "The scientific study established a clear link between smoking and lung disease.",
+          "ch": "這項科學研究證實了吸煙與肺病之間有明確的關聯。"
+        }
+      ]
+    },
+    {
+      "eng": "establishment",
+      "kk": "ɪˈstæblɪʃmənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "建立",
+          "創立"
+        ],
+        [
+          "機構",
+          "營業場所"
+        ],
+        [
+          "當權派",
+          "統治階層"
+        ]
+      ],
+      "analysis": "此字由動詞 establish 加上名詞字尾 -ment 構成。除了表示建立的動作外，亦可指具體的「商業機構或機關場所」，在社會政治語境中則特指掌控社會權威與傳統的「當權派或體制」。",
+      "definition": "1. the action of establishing an organization or system; 2. a business, organization, or institution; 3. the dominant group of people in power and authority in a society.",
+      "example": [
+        {
+          "eng": "The establishment of the new health clinic benefited the rural community.",
+          "ch": "新衛生所的建立使農村社區受益。"
+        },
+        {
+          "eng": "They dined at a charming local restaurant establishment.",
+          "ch": "他們在一家迷人的當地餐館用餐。"
+        },
+        {
+          "eng": "Political reformers often challenge the existing establishment.",
+          "ch": "政治改革者經常挑戰現有的當權體制。"
+        }
+      ]
+    },
+    {
+      "eng": "estimate",
+      "kk": "ˈɛstəˌmeɪt",
+      "tense": "v.",
+      "ch": [
+        [
+          "估計",
+          "估算",
+          "評價"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 aestimatus（過去分詞形，意為估價、評價），由 aestimare 演變而來。進入英語後保留了動詞發音（尾音長 /eɪt/），用以指根據現有數據對數量、成本或價值進行大略的「估算與評判」。",
+      "definition": "1. to roughly calculate or judge the value, number, quantity, or extent of something.",
+      "example": [
+        {
+          "eng": "Experts estimate that the project will take two years to complete.",
+          "ch": "專家估計該項目需要兩年才能完成。"
+        }
+      ]
+    },
+    {
+      "eng": "ethnic",
+      "kk": "ˈɛθnɪk",
+      "tense": "adj.",
+      "ch": [
+        [
+          "種族的",
+          "民族的"
+        ],
+        [
+          "具有民族特色的",
+          "異國風情的"
+        ]
+      ],
+      "analysis": "此字源自希臘語 ethnikos（國家、外邦人、非希臘人的群體），由 ethnos（人民、種族）衍生而來。早期多指非希臘文化的「外邦人」，現代則廣泛指涉人類學上的「種族、民族特徵」，或是指特定文化的「民族傳統與異國風味」。",
+      "definition": "1. relating to a population of people who share a common cultural background or descent; 2. characteristic of a particular minority cultural group.",
+      "example": [
+        {
+          "eng": "The city is known for its rich cultural and ethnic diversity.",
+          "ch": "這座城市以其豐富的文化與種族多樣性而聞名。"
+        },
+        {
+          "eng": "They went to a small restaurant specializing in ethnic cuisine.",
+          "ch": "他們去了一家專門經營異國民族美食的小餐館。"
+        }
+      ]
+    },
+    {
+      "eng": "evaluate",
+      "kk": "ɪˈvæljuˌeɪt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "評估",
+          "評價",
+          "評量"
+        ]
+      ],
+      "analysis": "此字由拉丁語字首 e-（加強）與 valere（有價值、強壯）衍生出的名詞 valuta 結合，經由法語形成動詞。字面義為「確定……的價值」，現代廣泛用於對表現、成效、質量或重要性進行系統性的「評估與檢討」。",
+      "definition": "1. to form an idea of the amount, number, or value of something; to assess.",
+      "example": [
+        {
+          "eng": "Teachers evaluate students based on their coursework and exams.",
+          "ch": "老師根據學生的日常作業和考試來評量他們。"
+        }
+      ]
+    },
+    {
+      "eng": "evaluation",
+      "kk": "ɪˌvæljuˈeɪʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "評估",
+          "評價",
+          "評量結果"
+        ]
+      ],
+      "analysis": "此字由動詞 evaluate 加上名詞字尾 -ion 構成，指對某人事物之價值、表現或成效進行客觀審查的「評估過程或報告」。",
+      "definition": "1. the making of a judgment about the amount, number, or value of something; assessment.",
+      "example": [
+        {
+          "eng": "The annual performance evaluation determines employee salary increases.",
+          "ch": "年度績效評估決定了員工的加薪幅度。"
+        }
+      ]
+    },
+    {
+      "eng": "eventual",
+      "kk": "ɪˈvɛntʃuəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "最終的",
+          "最後的結果"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 eventus（結果、事件，源自 evenire「發生、結果」），加上形容詞字尾 -al 形成。核心義為「作為某過程之終點或結果所發生的」，專門指在經歷一番發展後「最終」達到的狀態。",
+      "definition": "1. occurring at the end of a process or period of time; final.",
+      "example": [
+        {
+          "eng": "Despite many setbacks, their eventual success was well deserved.",
+          "ch": "儘管遭遇許多挫折，他們最終的成功是實至名歸的。"
+        }
+      ]
+    },
+    {
+      "eng": "evidence",
+      "kk": "ˈɛvədəns",
+      "tense": "n.",
+      "ch": [
+        [
+          "證據",
+          "證物"
+        ],
+        [
+          "跡象",
+          "形跡"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 evidentia（明顯、顯露），由 evidere（顯露、看得見）演變而來，經古法語進入英語。由 ex-（徹底）與 videre（看見）組成，字面義為「看得清清楚楚的事實」，引申為法庭與科學上的「證據」，以及日常生活中表現出來的「跡象」。",
+      "definition": "1. the available body of facts or information indicating whether a belief or proposition is true; 2. signs or indications that something exists or is true.",
+      "example": [
+        {
+          "eng": "The police found clear physical evidence at the crime scene.",
+          "ch": "警方在犯罪現場找到了明確的物證。"
+        },
+        {
+          "eng": "There was no evidence of a struggle in the room.",
+          "ch": "房間裡沒有任何打鬥的跡象。"
+        }
+      ]
+    },
+    {
+      "eng": "evident",
+      "kk": "ˈɛvədənt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "明顯的",
+          "顯而易見的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 evidens（顯而易見的），為 evidence 的形容詞形式，由 evidere（清楚看見）派生而來。字面義即為「一眼就能看得很清楚的」，常用於客觀事實或情緒表露無遺的語境。",
+      "definition": "1. plain or obvious; clearly seen or understood.",
+      "example": [
+        {
+          "eng": "Her relief was evident when she heard the good news.",
+          "ch": "聽到這個好消息時，她如釋重負的神情是顯而易見的。"
+        }
+      ]
+    },
+    {
+      "eng": "exaggerate",
+      "kk": "ɪɡˈzædʒəˌreɪt",
+      "tense": "v.",
+      "ch": [
+        [
+          "誇大",
+          "誇張"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 exaggeratus（過去分詞，意為堆積、誇大），由 ex-（向上、徹底）與 aggerare（堆積土石，源自 agger「土堆」）組成。字面原義為「把土石堆得很高」，引申為在言語或描述中將事實「堆高、誇大」。",
+      "definition": "1. to represent something as being larger, better, or worse than it actually is.",
+      "example": [
+        {
+          "eng": "He tended to exaggerate the difficulties he faced during the trip.",
+          "ch": "他往往會誇大自己在旅行中面臨的困難。"
+        }
+      ]
+    },
+    {
+      "eng": "exception",
+      "kk": "ɪkˈsɛpʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "例外",
+          "除外"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 exceptio（排除、抗辯），由 excipere（取出、排除）衍生而來，由 ex-（向外）與 capere（拿取）組成。字面義為「被拿出來、排除在總體之外的事物」，演變為現代漢語中的「例外情況」。",
+      "definition": "1. a person or thing that is excluded from a general statement or does not follow a rule.",
+      "example": [
+        {
+          "eng": "Most shops are closed on Sundays, but this bakery is an exception.",
+          "ch": "大多數商店星期天都不營業，但這家麵包店是個例外。"
+        }
+      ]
+    },
+    {
+      "eng": "exhaust",
+      "kk": "ɪɡˈzɔst",
+      "tense": "v.",
+      "ch": [
+        [
+          "使筋疲力盡",
+          "耗盡",
+          "用盡"
+        ],
+        [
+          "排出（廢氣等）"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 exhaurire（抽乾、耗盡），由 ex-（完全、向外）與 haurire（汲取液體）組合而成。字面原義為「將水完全抽乾」，引申為抽象意義上的「體力耗盡、資源用盡」，以及機械運作產生的「廢氣排放」。",
+      "definition": "1. to drain of resources or physical energy; to make extremely tired; 2. to expel waste gas or steam from an engine.",
+      "example": [
+        {
+          "eng": "The long hike up the mountain exhausted all of us.",
+          "ch": "長途跋涉爬上那座山把我們大家都累壞了。"
+        },
+        {
+          "eng": "Older cars tend to exhaust thick black smoke.",
+          "ch": "舊車往往會排放濃厚的黑煙。"
+        }
+      ]
+    },
+    {
+      "eng": "exhibit",
+      "kk": "ɪɡˈzɪbɪt",
+      "tense": "v.",
+      "ch": [
+        [
+          "展出",
+          "展覽",
+          "顯示出（情感、特質等）"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 exhibitus（過去分詞，意為拿出來、展示），由 ex-（向外）與 habere（持有、擁有）結合而成。字面義為「把手裡的東西拿出來給人看」，現代演變為博物館的「公開展覽」以及人類或動物「展現出某種行為或特徵」。",
+      "definition": "1. to publicly display a work of art or item of interest; 2. to manifest or show a quality or feeling.",
+      "example": [
+        {
+          "eng": "The local museum is exhibiting ancient artifacts from the region.",
+          "ch": "當地博物館正在展出該地區的古代文物。"
+        },
+        {
+          "eng": "The young athlete exhibited remarkable skill and composure.",
+          "ch": "這位年輕運動員展現了非凡的技巧與沉著。"
+        }
+      ]
+    },
+    {
+      "eng": "expand",
+      "kk": "ɪkˈspænd",
+      "tense": "v.",
+      "ch": [
+        [
+          "擴大",
+          "擴展",
+          "膨脹"
+        ],
+        [
+          "詳述",
+          "發揮"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 expandere（展開、鋪開），由 ex-（向外）與 pandere（展開）複合而成。字面義為「將捲曲或收縮的東西向外攤開」，引申為實體規模的「擴大、膨脹」，以及討論話題時的「詳細申述」。",
+      "definition": "1. to become or make larger or more extensive; 2. to give a fuller account of something.",
+      "example": [
+        {
+          "eng": "The company plans to expand its operations into overseas markets.",
+          "ch": "公司計劃將其業務擴展到海外市場。"
+        },
+        {
+          "eng": "Could you please expand on your initial proposal?",
+          "ch": "你能詳細說明一下你最初的提議嗎？"
+        }
+      ]
+    },
+    {
+      "eng": "expansion",
+      "kk": "ɪkˈspænʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "擴大",
+          "擴張",
+          "膨脹"
+        ]
+      ],
+      "analysis": "此字由動詞 expand 的拉丁語過去分詞詞幹加上名詞字尾 -sion 構成，專門用來指空間、規模、經濟或業務的「擴張與膨脹過程」。",
+      "definition": "1. the action of becoming larger or more extensive.",
+      "example": [
+        {
+          "eng": "The rapid economic expansion brought new opportunities to the region.",
+          "ch": "快速的經濟擴張為該地區帶來了新的機遇。"
+        }
+      ]
+    },
+    {
+      "eng": "experimental",
+      "kk": "ɪkˌspɛrəˈmɛntəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "實驗性的",
+          "試驗的"
+        ]
+      ],
+      "analysis": "此字由名詞 experiment（實驗，源自拉丁語 experimentum）加上形容詞字尾 -al 構成，用以形容基於實驗目的、處於試驗階段或採用實驗方法的科學或藝術活動。",
+      "definition": "1. based on or used as an experiment; relating to scientific tests.",
+      "example": [
+        {
+          "eng": "The doctors used an experimental treatment for the rare disease.",
+          "ch": "醫生們對這種罕見疾病採用了一種試驗性的治療方法。"
+        }
+      ]
+    },
+    {
+      "eng": "explanation",
+      "kk": "ˌɛkspləˈneɪʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "解釋",
+          "說明",
+          "辯解"
+        ]
+      ],
+      "analysis": "此字由動詞 explain（源自拉丁語 explanare「使平坦、闡明」，由 ex- 加 planus「平的」組成）加上名詞字尾 -ation 構成。字面義為「把深奧皺褶的東西攤平解釋清楚」，現代指說明的言論、理由或藉口。",
+      "definition": "1. a statement or account that makes something clear; a reason given to justify an action.",
+      "example": [
+        {
+          "eng": "He offered a logical explanation for the strange noise.",
+          "ch": "他對那個奇怪的聲音給出了一個合乎邏輯的解釋。"
+        }
+      ]
+    },
+    {
+      "eng": "explosion",
+      "kk": "ɪkˈsploʊʒən",
+      "tense": "n.",
+      "ch": [
+        [
+          "爆炸",
+          "爆發"
+        ],
+        [
+          "（數量、情緒等的）急劇增加"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 explosio（原意為劇場中用拍手喝倒彩將演員趕下台），由 explodere（由 ex-「出」與 plaudere「拍手喝彩」組成）演變而來。語意在近代發生重大轉移，從「把人喝倒彩趕走」轉為形容火藥或氣體瞬間釋放能量的「爆炸」，並引申出數據、人口或情緒的「暴增與爆發」。",
+      "definition": "1. a violent and destructive bursting open caused by release of energy; 2. a sudden and rapid increase in the number or amount of something.",
+      "example": [
+        {
+          "eng": "The loud explosion shattered windows across the street.",
+          "ch": "巨大的爆炸聲震碎了街對面的窗戶。"
+        },
+        {
+          "eng": "There has been an explosive growth in online shopping recently.",
+          "ch": "最近網路購物出現了爆發性增長。"
+        }
+      ]
+    },
+    {
+      "eng": "explosive",
+      "kk": "ɪkˈsploʊsɪv",
+      "tense": "adj.",
+      "ch": [
+        [
+          "爆炸性的",
+          "易爆的"
+        ],
+        [
+          "（形勢等）一觸即發的",
+          "暴躁的"
+        ]
+      ],
+      "analysis": "此字由 explosion 的動詞來源 explodere 加上形容詞字尾 -ive 構成。除了用來形容物質具備「爆炸性」之外，也常引申形容局勢緊張、隨時可能失控，或脾氣極度火爆易怒。",
+      "definition": "1. able or likely to shatter violently; 2. easily triggered into violence or anger; highly tense.",
+      "example": [
+        {
+          "eng": "The police safely disposed of the explosive materials.",
+          "ch": "警方安全地處理了這些易爆物品。"
+        },
+        {
+          "eng": "The political situation reached an explosive stage.",
+          "ch": "政治局勢到了劍拔弩張、一觸即發的階段。"
+        }
+      ]
+    },
+    {
+      "eng": "expose",
+      "kk": "ɪkˈspoʊz",
+      "tense": "vt.",
+      "ch": [
+        [
+          "暴露",
+          "使顯露",
+          "揭露"
+        ],
+        [
+          "使接觸（危險、新事物等）"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 expositus（過去分詞，意為放置在外），由 ex-（向外）與 ponere（放置）結合而成。經由古法語進入英語。字面義為「把遮蔽物拿開放在外面」，引申為將醜聞「揭發」，或讓身體或事物「暴露在陽光、輻射、危險或特定環境之中」。",
+      "definition": "1. to make something visible by uncovering it; to reveal a secret or crime; 2. to make someone experience something or be affected by it.",
+      "example": [
+        {
+          "eng": "The investigative reporter exposed the widespread government corruption.",
+          "ch": "這位調查記者揭露了廣泛的政府腐敗。"
+        },
+        {
+          "eng": "Children should not be exposed to violent television programs.",
+          "ch": "不應該讓兒童接觸暴力電視節目。"
+        }
+      ]
+    },
+    {
+      "eng": "exposure",
+      "kk": "ɪkˈspoʊʒər",
+      "tense": "n.",
+      "ch": [
+        [
+          "暴露",
+          "接觸"
+        ],
+        [
+          "揭露",
+          "曝光"
+        ]
+      ],
+      "analysis": "此字由動詞 expose 加上名詞字尾 -ure 構成，指暴露於某種環境或危害中的狀態，或是醜聞被公眾所知的「曝光與揭露」。",
+      "definition": "1. the state of being exposed to contact with something; 2. the revelation of an identity or secret.",
+      "example": [
+        {
+          "eng": "Prolonged exposure to the sun can cause skin damage.",
+          "ch": "長時間暴露在陽光下會造成皮膚受損。"
+        },
+        {
+          "eng": "The scandal led to the politician's sudden exposure and resignation.",
+          "ch": "這起醜聞導致該政治人物的惡行曝光並被迫辭職。"
+        }
+      ]
+    },
+    {
+      "eng": "extend",
+      "kk": "ɪkˈstɛnd",
+      "tense": "v.",
+      "ch": [
+        [
+          "延伸",
+          "延長",
+          "擴大"
+        ],
+        [
+          "提供",
+          "給予（感謝、歡迎等）"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 extendere，由 ex-（向外）與 tendere（伸展、拉直）組合而成。字面義為「將物體向外拉長」，演變為實體空間或時間的「延長」，以及在抽象層面上向他人「表達、提供」歡迎或謝意。",
+      "definition": "1. to make something longer or larger in space or time; 2. to offer or extend a polite gesture, welcome, or thanks.",
+      "example": [
+        {
+          "eng": "The city council voted to extend the subway line to the suburbs.",
+          "ch": "市議會投票決定將地鐵線延長到郊區。"
+        },
+        {
+          "eng": "I would like to extend my deepest thanks to all the volunteers.",
+          "ch": "我想向所有志工致以最深切的謝意。"
+        }
+      ]
+    },
+    {
+      "eng": "extent",
+      "kk": "ɪkˈstɛnt",
+      "tense": "n.",
+      "ch": [
+        [
+          "程度",
+          "範圍",
+          "大小"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 extentus（過去分詞形，意為伸展出的範圍），由 extendere 派生而來。在中世紀英語中演變為名詞，專門指空間的廣度或抽象事物發展的「程度與範圍」。",
+      "definition": "1. the area covered by something; the degree or limit to which something extends.",
+      "example": [
+        {
+          "eng": "It is difficult to assess the full extent of the environmental damage.",
+          "ch": "很難評估環境損害的全面程度。"
+        }
+      ]
+    },
+    {
+      "eng": "facial",
+      "kk": "ˈfeɪʃəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "面部的",
+          "臉部的"
+        ]
+      ],
+      "analysis": "此字由名詞 face（臉，源自拉丁語 facies）加上形容詞字尾 -ial 構成，用以修飾與人類臉部或面部表情相關的事物。",
+      "definition": "1. of or relating to the face.",
+      "example": [
+        {
+          "eng": "She used a special cream for her facial skin care routine.",
+          "ch": "她在臉部護膚程序中使用了一款特殊的乳霜。"
+        }
+      ]
+    },
+    {
+      "eng": "facility",
+      "kk": "fəˈsɪləti",
+      "tense": "n.",
+      "ch": [
+        [
+          "設施",
+          "設備",
+          "場所"
+        ],
+        [
+          "（學習或做事的）才能",
+          "熟練",
+          "便利"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 facilitas（容易、順手），由 facilis（容易做到的，源自 facere「做」）演變而來。經由法語進入英語。字面義為「容易做某事的性質」，引申為「天生熟練的才能」，以及複數形常指提供特定服務的「硬體設施或場所」。",
+      "definition": "1. a place, amenity, or piece of equipment provided for a particular purpose; 2. a natural ability to do something easily or well.",
+      "example": [
+        {
+          "eng": "The sports facility includes a swimming pool and a gymnasium.",
+          "ch": "這座體育設施包含一個游泳池和一間健身房。"
+        },
+        {
+          "eng": "He spoke French with remarkable fluency and facility.",
+          "ch": "他說起法語流利且極具熟練的才能。"
+        }
+      ]
+    },
+    {
+      "eng": "faithful",
+      "kk": "ˈfeɪθfəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "忠實的",
+          "忠誠的"
+        ],
+        [
+          "如實的",
+          "忠於原著的"
+        ]
+      ],
+      "analysis": "此字為日耳曼語根源與羅曼語借詞融合的典型代表，由名詞 faith（信心、忠誠，源自拉丁語 fides）加上日耳曼語源的形容詞字尾 -ful（充滿……的）組合而成。字面義為「充滿信任與忠誠的」，既可用於形容人對伴侶或信仰的忠誠，也可形容翻譯或複製品「忠於原文或原型」。",
+      "definition": "1. loyal and steadfast in one's support or affections; 2. remaining true to the original fact, standard, or original text.",
+      "example": [
+        {
+          "eng": "The dog remained a faithful companion to his master for many years.",
+          "ch": "這隻狗多年來一直是牠主人忠實的夥伴。"
+        },
+        {
+          "eng": "The film adaptation is a faithful portrayal of the bestselling novel.",
+          "ch": "這部改編電影對這本暢銷小說進行了忠於原著的刻畫。"
+        }
+      ]
+    }
+  ]
+}

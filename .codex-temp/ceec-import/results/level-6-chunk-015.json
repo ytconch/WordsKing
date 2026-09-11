@@ -1,0 +1,1180 @@
+{
+  "level": 6,
+  "chunkIndex": 15,
+  "inputs": [
+    "populate",
+    "porter",
+    "posture",
+    "potent",
+    "poultry",
+    "preach",
+    "precede",
+    "precedent",
+    "precision",
+    "predecessor",
+    "prehistoric",
+    "premiere",
+    "preside",
+    "prestige",
+    "preventive",
+    "preview",
+    "priceless",
+    "privatize",
+    "probe",
+    "procession",
+    "proficiency",
+    "prohibition",
+    "propel",
+    "prose",
+    "prosecute",
+    "prospective",
+    "prototype",
+    "proverb",
+    "provincial",
+    "provisional",
+    "psychiatry",
+    "psychic",
+    "psychotherapy",
+    "publicize",
+    "puff",
+    "punctual",
+    "purify",
+    "purity",
+    "quake",
+    "qualification",
+    "radiant",
+    "radiate",
+    "radioactive",
+    "radish",
+    "radius",
+    "rap",
+    "rash",
+    "ratify",
+    "realization",
+    "reap"
+  ],
+  "rows": [
+    {
+      "eng": "populate",
+      "kk": "ˈpɑpjəˌlet",
+      "tense": "vt.",
+      "ch": [
+        [
+          "居住於",
+          "棲息於"
+        ],
+        [
+          "使人口稠密",
+          "移民至"
+        ],
+        [
+          "填入",
+          "輸入資料"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由名詞／形容詞字根 populus（意為人民、群眾）加上動詞字尾 -ate 構成。歷史上源自拉丁語 populare（使充滿人口），經由中古法語進入英語。語意從「使人民充滿某地」演變為實際居住、人口聚集，並在電腦科學中引申為向資料庫或表格中「填入資料」。",
+      "definition": "1. to inhabit or live in a particular area or place; 2. to form the population of or cause to be inhabited; 3. to fill a computer file or database with data.",
+      "example": [
+        {
+          "eng": "Various indigenous tribes populate the dense forest.",
+          "ch": "各原住民族群居住在這片茂密的森林中。"
+        },
+        {
+          "eng": "The government sought to populate the newly acquired territory.",
+          "ch": "政府試圖向這塊新獲得的領土移民以增加人口。"
+        },
+        {
+          "eng": "The script will automatically populate the form with user details.",
+          "ch": "該腳本會自動將使用者詳細資料填入表單中。"
+        }
+      ]
+    },
+    {
+      "eng": "porter",
+      "kk": "ˈpɔrtɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "搬運工",
+          "行李員"
+        ],
+        [
+          "門房",
+          "看門人"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自古法語 porteor，最終源自拉丁語 portare（攜帶、搬運），加上名詞字尾 -er 指稱從事該動作的人。基本語意為「負責搬運物品的人」，隨後引申出在旅館或大型建築物門口負責接待與看守門戶的「門房」職務。",
+      "definition": "1. a person whose job is to carry luggage, especially at a hotel, station, or airport; 2. a person stationed at a door or gate to guard it or admit visitors.",
+      "example": [
+        {
+          "eng": "The hotel porter brought our heavy suitcases up to the room.",
+          "ch": "旅館搬運工把我們沉重的行李箱拿到房間。"
+        },
+        {
+          "eng": "The porter opened the heavy iron gates for the visitors.",
+          "ch": "門房為訪客打開了沉重的鐵大門。"
+        }
+      ]
+    },
+    {
+      "eng": "posture",
+      "kk": "ˈpɑstʃɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "姿態",
+          "體態",
+          "姿勢"
+        ],
+        [
+          "態度",
+          "立場"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 positura（位置、擺放姿勢），由動詞 ponere（放置、擺放）的過去分詞詞幹加上名詞字尾構成。經由法語進入英語。核心語意從身體各部位的「擺放方式」抽象化，延伸用來指國家、組織或個人面對特定情勢時的「政策立場或應對姿態」。",
+      "definition": "1. a particular position of the body; 2. a particular attitude, position, or approach adopted toward a situation.",
+      "example": [
+        {
+          "eng": "Good posture helps prevent back pain and fatigue.",
+          "ch": "良好的體態有助於預防背痛和疲勞。"
+        },
+        {
+          "eng": "The country maintained a defensive military posture.",
+          "ch": "該國維持著防禦性的軍事立場。"
+        }
+      ]
+    },
+    {
+      "eng": "potent",
+      "kk": "ˈpotənt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "強效的",
+          "強力的"
+        ],
+        [
+          "有影響力的",
+          "權力強大的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 potentem（強大的、有力量的），為動詞 posse（能夠、有能力）的現在分詞形式。直接借入英語。語意從物理或化學上的「具有強大作用或效力」延伸至抽象層面，形容人、言論或組織具有「強大影響力或支配力」。",
+      "definition": "1. having great power, influence, or effect; 2. having strong chemical or medicinal efficacy.",
+      "example": [
+        {
+          "eng": "The medicine is potent and should be taken with care.",
+          "ch": "這種藥物藥效很強，服用時應多加小心。"
+        },
+        {
+          "eng": "She delivered a potent speech that moved the audience.",
+          "ch": "她發表了一場極具影響力的演說，感動了觀眾。"
+        }
+      ]
+    },
+    {
+      "eng": "poultry",
+      "kk": "ˈpoltri",
+      "tense": "n.",
+      "ch": [
+        [
+          "家禽",
+          "禽肉"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自中古法語 pouletri，衍生自 poulet（小雞），最終源自拉丁語 pullus（動物幼獸、小雞）。在英語中用作集合名詞，專指被人類飼養作為蛋或肉品來源的鳥類（如雞、鴨、鵝等）及其肉品。",
+      "definition": "1. domestic fowl, such as chickens, turkeys, ducks, or geese, raised for meat or eggs.",
+      "example": [
+        {
+          "eng": "The farm raises both cattle and various types of poultry.",
+          "ch": "這個農場既養牛也飼養各種家禽。"
+        }
+      ]
+    },
+    {
+      "eng": "preach",
+      "kk": "pritʃ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "講道",
+          "宣講宗教教義"
+        ],
+        [
+          "竭力宣揚",
+          "說教勸導"
+        ]
+      ],
+      "analysis": "此字源自古法語 prechier，最終源自拉丁語 praedicare（公開宣布、宣講），由前綴 prae-（在前、公開）與 dicare（宣告）組成。經由諾曼征服傳入英語。語意從最初宗教上的「公開講道」擴大為日常生活中「喋喋不休地勸導、向他人說教」或「大力宣揚某種價值觀」。",
+      "definition": "1. to deliver a sermon or religious address in a religious service; 2. to earnestly advocate or urge a moral or belief.",
+      "example": [
+        {
+          "eng": "The pastor will preach a special sermon this Sunday.",
+          "ch": "牧師將在星期日發表一場特別的講道。"
+        },
+        {
+          "eng": "Parents often preach patience to their children.",
+          "ch": "父母經常向孩子們說教要保持耐心。"
+        }
+      ]
+    },
+    {
+      "eng": "precede",
+      "kk": "prɪˈsid",
+      "tense": "vt.",
+      "ch": [
+        [
+          "在...之前發生",
+          "先於"
+        ],
+        [
+          "走在...前面",
+          "先於...入座"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自拉丁語 praecedere，由前綴 prae-（在...之前）與 cedere（走、行進）複合而成。字面義即「走在前面」。在現代英語中主要用於時間、順序上「發生在某事之前」或空間上「排列在前面」。",
+      "definition": "1. to come before something in time or order; 2. to go in front of or ahead of someone in rank or position.",
+      "example": [
+        {
+          "eng": "Lightning typically precedes thunder during a storm.",
+          "ch": "暴風雨中閃電通常在打雷之前出現。"
+        },
+        {
+          "eng": "The king was preceded by his royal guards.",
+          "ch": "國王走在皇家衛兵的前面。"
+        }
+      ]
+    },
+    {
+      "eng": "precedent",
+      "kk": "ˈprɛsɪdənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "先例",
+          "前例"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 praecedentem（走在前面的），為前綴動詞 praecedere 的現在分詞形式。經由法語進入英語。核心語意為「先前發生的、可作為後來類似事件依據的事件或判例」，在法律和行政體系中極為常見。",
+      "definition": "1. an earlier event or action that is regarded as an example or guide to be considered in subsequent similar circumstances.",
+      "example": [
+        {
+          "eng": "The court's decision set a crucial legal precedent.",
+          "ch": "法院的判決確立了一個關鍵的法律先例。"
+        }
+      ]
+    },
+    {
+      "eng": "precision",
+      "kk": "prɪˈsɪʒən",
+      "tense": "n.",
+      "ch": [
+        [
+          "精確",
+          "精準度"
+        ]
+      ],
+      "analysis": "此字源自法語 precision，最終源自拉丁語 praecisionem（切斷、精確），由前綴 prae- 與 caedere（切、割）的衍生詞組合成形。字面本義為「切得準確、修剪乾淨」，在現代英語中演變為指測量、計算或動作的「高度準確與精密度」。",
+      "definition": "1. the quality, condition, or fact of being exact and accurate.",
+      "example": [
+        {
+          "eng": "The mechanic repaired the engine with great precision.",
+          "ch": "技工以極高的精確度修理了發動機。"
+        }
+      ]
+    },
+    {
+      "eng": "predecessor",
+      "kk": "ˈprɛdɪˌsɛsɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "前任",
+          "前輩"
+        ],
+        [
+          "前身",
+          "原有事物"
+        ]
+      ],
+      "analysis": "此字由拉丁語前綴 prae-（在...之前）加上 decedere／antecessor 的同源衍生詞組合而成，經由中古法語進入英語。原意為「在某個職位或位置上走在前面的人」，後引申出指機器、機構等在歷史發展上的「前身」。",
+      "definition": "1. a person who held a job or office before the current holder; 2. a thing that has been followed or replaced by another.",
+      "example": [
+        {
+          "eng": "The new CEO thanked her predecessor for a smooth transition.",
+          "ch": "新任執行長感謝前任為平穩交接所做出的努力。"
+        },
+        {
+          "eng": "This computer model is much faster than its predecessor.",
+          "ch": "這款電腦型號比它的前一代機種快得多。"
+        }
+      ]
+    },
+    {
+      "eng": "prehistoric",
+      "kk": "ˌprihɪsˈtɔrɪk",
+      "tense": "adj.",
+      "ch": [
+        [
+          "史前的",
+          "歷史記載之前的"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由前綴 pre-（在...之前）加上形容詞 historic（歷史的）組合而成。用來描述在人類發明文字系統和有系統的歷史文字記錄流傳下來之前的年代或相關事物。",
+      "definition": "1. relating to or denoting the period before written records.",
+      "example": [
+        {
+          "eng": "Archaeologists uncovered prehistoric tools in the cave.",
+          "ch": "考古學家在山洞裡挖出了史前工具。"
+        }
+      ]
+    },
+    {
+      "eng": "premiere",
+      "kk": "prɪˈmɛr",
+      "tense": "n.",
+      "ch": [
+        [
+          "首映",
+          "首次公演"
+        ]
+      ],
+      "analysis": "此字直接借自法語 première（第一個的陰性形），源自拉丁語 primarius（主要的、第一的）。在英語中轉為名詞，專門指戲劇、電影或音樂會的「第一次正式公開演出或上映」。",
+      "definition": "1. the first performance of a movie, play, or other entertainment.",
+      "example": [
+        {
+          "eng": "Many famous actors attended the movie premiere.",
+          "ch": "許多著名演員出席了這部電影的首映會。"
+        }
+      ]
+    },
+    {
+      "eng": "preside",
+      "kk": "prɪˈzaɪd",
+      "tense": "vi.",
+      "ch": [
+        [
+          "主持",
+          "擔任主席",
+          "掌管"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自拉丁語 praesidere，由前綴 prae-（在...前面）與 sedere（坐）複合而成。字面義即「坐在最前面的人」，在現代英語中引申為在會議、法庭或儀式中「主持大局、擔任主席或主審法官」。",
+      "definition": "1. to be in charge of a meeting, ceremony, or trial; to act as chairperson or president.",
+      "example": [
+        {
+          "eng": "The judge will preside over the high-profile murder trial.",
+          "ch": "法官將主審這起備受矚目的謀殺案。"
+        }
+      ]
+    },
+    {
+      "eng": "prestige",
+      "kk": "prɛˈstiʒ",
+      "tense": "n.",
+      "ch": [
+        [
+          "聲望",
+          "威望",
+          "聲譽"
+        ]
+      ],
+      "analysis": "此字源自法語 prestige，最初源自拉丁語 praestigium（幻術、把戲），經由「令人眩惑的戲法」轉化為「令人讚嘆的魅力」，最終在近代法語與英語中演變成指社會地位帶來的「聲望、威信」。",
+      "definition": "1. widespread respect and admiration felt for someone or something on the basis of their achievements or quality.",
+      "example": [
+        {
+          "eng": "Graduating from a top university brings considerable prestige.",
+          "ch": "從頂尖大學畢業會帶來相當大的聲望。"
+        }
+      ]
+    },
+    {
+      "eng": "preventive",
+      "kk": "prɪˈvɛntɪv",
+      "tense": "adj.",
+      "ch": [
+        [
+          "預防性的",
+          "防範的"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由動詞 prevent（預防）加上形容詞字尾 -ive 構成。用來修飾採取行動以「防止不良事件、疾病或災害發生」的措施或手段。",
+      "definition": "1. designed to keep something undesirable such as illness or harm from occurring.",
+      "example": [
+        {
+          "eng": "The government took preventive measures against the flu outbreak.",
+          "ch": "政府採取了預防流感大流行的防範措施。"
+        }
+      ]
+    },
+    {
+      "eng": "preview",
+      "kk": "ˈpriˌvju",
+      "tense": "n.",
+      "ch": [
+        [
+          "預告片",
+          "預覽",
+          "試映"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由前綴 pre-（在...之前）與名詞 view（觀看、視察）複合而成。字面義即「在正式展出或上映前先行觀看」，泛指電影預告或展覽預覽。",
+      "definition": "1. an inspection or viewing of something before it is officially bought, released, or shown to the public.",
+      "example": [
+        {
+          "eng": "We watched the movie preview before the main feature.",
+          "ch": "我們在正片開始前看了電影預告片。"
+        }
+      ]
+    },
+    {
+      "eng": "priceless",
+      "kk": "ˈpraɪslɪs",
+      "tense": "adj.",
+      "ch": [
+        [
+          "無價的",
+          "極珍貴的"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由名詞 price（價格）加上否定形容詞字尾 -less（無、缺乏）構成。字面意思是「價值高到無法用金錢定價」，因此形容人事物極其珍貴。",
+      "definition": "1. having a value that is beyond all price; extremely precious.",
+      "example": [
+        {
+          "eng": "The museum houses a collection of priceless ancient artifacts.",
+          "ch": "博物館收藏了一批無價的古代文物。"
+        }
+      ]
+    },
+    {
+      "eng": "privatize",
+      "kk": "ˈpraɪvəˌtaɪz",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使私有化",
+          "將國營轉為民營"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由形容詞 private（私人的、私有的）加上動詞化字尾 -ize（使成為...）構成。專門用於經濟與政治語境，指政府將公營事業或國有資產轉讓給私人企業或大眾所有。",
+      "definition": "1. to transfer a business, industry, or service from public to private control or ownership.",
+      "example": [
+        {
+          "eng": "The parliament voted to privatize the national railway system.",
+          "ch": "國會投票決定將國家鐵路系統私有化。"
+        }
+      ]
+    },
+    {
+      "eng": "probe",
+      "kk": "prob",
+      "tense": "vt.",
+      "ch": [
+        [
+          "探查",
+          "調查",
+          "用探針檢查"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 probare（檢驗、試驗），經由中古法語與拉丁醫學詞彙演變而來。基本義為用金屬探針深入傷口檢查，後抽象化廣泛用於科學探測宇宙太空，以及警察或記者對犯罪與醜聞進行「深入調查」。",
+      "definition": "1. to physically explore or examine something with a tool or the hands; 2. to seek to uncover hidden information through close investigation.",
+      "example": [
+        {
+          "eng": "The doctor used a medical instrument to probe the wound.",
+          "ch": "醫生用醫療器械探查傷口。"
+        },
+        {
+          "eng": "Detectives continue to probe the suspicious financial transactions.",
+          "ch": "偵探們繼續調查這些可疑的金融交易。"
+        }
+      ]
+    },
+    {
+      "eng": "procession",
+      "kk": "prəˈsɛʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "隊伍",
+          "行列",
+          "遊行"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 processionem（前進、行列），由前進動詞 procedere 衍生而來。經由法語進入英語。核心語意指一群人整齊地向前行進的「遊行隊伍」或宗教儀式行列。",
+      "definition": "1. a number of people or vehicles moving forward in an orderly, formal way, especially as part of a ceremony.",
+      "example": [
+        {
+          "eng": "A long funeral procession slowly made its way down the street.",
+          "ch": "長長的葬禮隊伍緩緩沿著街道前行。"
+        }
+      ]
+    },
+    {
+      "eng": "proficiency",
+      "kk": "prəˈfɪʃənsi",
+      "tense": "n.",
+      "ch": [
+        [
+          "熟練",
+          "精通",
+          "能力"
+        ]
+      ],
+      "analysis": "此字由形容詞 proficient（熟練的）加上名詞字尾 -cy 構成，源自拉丁語 proficere（有所進步、精通）。用來指一個人透過學習和練習，在語言、樂器或專業技能上達到的「純熟與精通程度」。",
+      "definition": "1. a high degree of competence or skill in a particular area.",
+      "example": [
+        {
+          "eng": "The job advertisement requires high proficiency in English and Spanish.",
+          "ch": "這則工作廣告要求具備英語和西班牙語的高水準熟練度。"
+        }
+      ]
+    },
+    {
+      "eng": "prohibition",
+      "kk": "ˌproəˈbɪʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "禁止",
+          "禁令"
+        ],
+        [
+          "美國禁酒令時期"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 prohibitionem（禁止），由動詞 prohibere（阻止、禁止）衍生而來。經由法語進入英語。除了一般法律或規章上的「明令禁止」外，首字母大寫時專指美國在 1920 至 1933 年間實施全國性「禁酒令」的歷史時期。",
+      "definition": "1. the action of forbidding something, especially by law; 2. the prevention by law of the manufacture and sale of alcohol, especially in the US (1920–1933).",
+      "example": [
+        {
+          "eng": "There is a strict prohibition against smoking in the building.",
+          "ch": "該棟大樓內有嚴格的禁煙令。"
+        },
+        {
+          "eng": "Gang activity rose significantly during the Prohibition era.",
+          "ch": "黑幫活動在禁酒令時期顯著增加。"
+        }
+      ]
+    },
+    {
+      "eng": "propel",
+      "kk": "prəˈpɛl",
+      "tense": "vt.",
+      "ch": [
+        [
+          "推進",
+          "驅使",
+          "推動"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自拉丁語 propellere，由前綴 pro-（向前）與 pellere（推、擊）複合而成。字面義即「向前推」。在現代英語中用於機械動力推動船隻飛機，或抽象地「驅使」某人採取行動。",
+      "definition": "1. to drive or push something forward; 2. to spur or drive someone into a particular situation or course of action.",
+      "example": [
+        {
+          "eng": "Strong winds helped propel the sailboat across the lake.",
+          "ch": "強風幫助帆船在湖面上向前推進。"
+        },
+        {
+          "eng": "Her ambition and talent propelled her to international fame.",
+          "ch": "她的野心與才華將她推向了國際名聲。"
+        }
+      ]
+    },
+    {
+      "eng": "prose",
+      "kk": "proz",
+      "tense": "n.",
+      "ch": [
+        [
+          "散文"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 prosa oratio（直言的演說、散文），由 oratio recta 演變而來。經由法語進入英語。用來指不具備詩歌押韻和格律限制的普通自然書寫或口語表達形式。",
+      "definition": "1. written or spoken language in its ordinary form, without metrical structure.",
+      "example": [
+        {
+          "eng": "The author is famous for his elegant and expressive prose.",
+          "ch": "這位作家以其優美且富有表現力的散文而聞名。"
+        }
+      ]
+    },
+    {
+      "eng": "prosecute",
+      "kk": "ˈprɑsəˌkjut",
+      "tense": "vt.",
+      "ch": [
+        [
+          "起訴",
+          "依法檢控"
+        ],
+        [
+          "繼續從事",
+          "執行"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 prosecutus（追逐、跟隨），由前綴 pro- 與 sequi（跟隨）複合而成。字面意思是「緊追不捨地跟隨到底」。在法律上指「對嫌疑人提起訴訟進行起訴」，在較舊或書面語中則指「堅持到底、執行某項事業」。",
+      "definition": "1. to institute legal proceedings against a person; 2. to continue and complete a course of action.",
+      "example": [
+        {
+          "eng": "The district attorney decided to prosecute the suspect for theft.",
+          "ch": "地方檢察官決定因竊盜罪起訴該嫌疑人。"
+        },
+        {
+          "eng": "They were determined to prosecute the war to a decisive end.",
+          "ch": "他們決心將這場戰爭打到取得決定性勝利為止。"
+        }
+      ]
+    },
+    {
+      "eng": "prospective",
+      "kk": "prəˈspɛktɪv",
+      "tense": "adj.",
+      "ch": [
+        [
+          "預期的",
+          "未來的",
+          "可能的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 prospectus（展望、遠景），由前綴 pro- 與 specere（看）複合衍生而來的形容詞。字面意思是「向前看的」。在現代英語中主要用來形容「未來可能會發生、可能成為客戶或買家」的人或事物。",
+      "definition": "1. expected or likely to happen or become in the future.",
+      "example": [
+        {
+          "eng": "The university hosted an open house for prospective students.",
+          "ch": "大學為未來的準學生舉辦了開放日活動。"
+        }
+      ]
+    },
+    {
+      "eng": "prototype",
+      "kk": "ˈprotoˌtaɪp",
+      "tense": "n.",
+      "ch": [
+        [
+          "原型",
+          "原始樣品"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由希臘語字根 protos（第一位、最先的）加上 typos（模型、印記）複合而成。在現代工業、科技與設計中，專指量產前製作的第一個「試驗性樣品或模型」。",
+      "definition": "1. a first, typical or preliminary model of something, especially a machine, from which other forms are developed or copied.",
+      "example": [
+        {
+          "eng": "Engineers are currently testing the prototype of the new electric car.",
+          "ch": "工程師們目前正在測試新款電動車的原型。"
+        }
+      ]
+    },
+    {
+      "eng": "proverb",
+      "kk": "ˈprɑvɚb",
+      "tense": "n.",
+      "ch": [
+        [
+          "諺語",
+          "俗語",
+          "格言"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 proverbium，由前綴 pro-（代替、公開）與 verbum（話語、詞）複合而成。經由法語進入英語。字面意思是「大眾公開常說的話」，指代流傳在民間、蘊含智慧或生活哲理的短小語句。",
+      "definition": "1. a short, traditional saying that expresses a general truth or piece of advice.",
+      "example": [
+        {
+          "eng": "As the old proverb goes, \"Actions speak louder than words.\"",
+          "ch": "正如老諺語所說：「事實勝於雄辯。」"
+        }
+      ]
+    },
+    {
+      "eng": "provincial",
+      "kk": "prəˈvɪnʃəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "省的",
+          "地方性的"
+        ],
+        [
+          "偏狹的",
+          "民風淳樸但眼界狹隘的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 provincialis，衍生自 provincia（省、行政區）。經由法語進入英語。本義指「屬於某個行省的」，因古代行省相對於首都而言較為偏遠落後，因此引申出形容人「見識狹隘、思想保守或土氣」的貶義或中性描述。",
+      "definition": "1. of or concerning a province of a country or empire; 2. narrow-minded or unsophisticated in outlook.",
+      "example": [
+        {
+          "eng": "The candidate promised to allocate more funds for provincial development.",
+          "ch": "該候選人承諾撥出更多資金用於省級發展。"
+        },
+        {
+          "eng": "He found the town's social life rather provincial.",
+          "ch": "他覺得這個小鎮的社交生活相當狹隘保守。"
+        }
+      ]
+    },
+    {
+      "eng": "provisional",
+      "kk": "prəˈvɪʒənəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "臨時的",
+          "暫時性的"
+        ]
+      ],
+      "analysis": "此字由名詞 provision（準備、條款）加上形容詞字尾 -al 構成，源自拉丁語 providere（預先防範、準備）。用來形容在正式、永久方案出爐之前所採取的「暫時性或過渡性質」的安排或協議。",
+      "definition": "1. arranged or existing for the present, possibly to be changed later; temporary.",
+      "example": [
+        {
+          "eng": "The two countries reached a provisional agreement on trade.",
+          "ch": "兩國就貿易達成了臨時協議。"
+        }
+      ]
+    },
+    {
+      "eng": "psychiatry",
+      "kk": "səˈkaɪətri",
+      "tense": "n.",
+      "ch": [
+        [
+          "精神病學",
+          "精神醫學"
+        ]
+      ],
+      "analysis": "此字為近代醫學複合詞，由希臘語 psyche（靈魂、心智）加上 iatria（治療、醫學）結合而成。專門指研究、診斷與治療精神疾病及心理障礙的醫學分支。",
+      "definition": "1. the branch of medicine focused on the diagnosis, treatment, and prevention of mental, emotional, and behavioral disorders.",
+      "example": [
+        {
+          "eng": "She decided to specialize in psychiatry during her medical residency.",
+          "ch": "她在住院醫師實習期間決定專攻精神醫學。"
+        }
+      ]
+    },
+    {
+      "eng": "psychic",
+      "kk": "ˈsaɪkɪk",
+      "tense": "adj.",
+      "ch": [
+        [
+          "心靈的",
+          "精神的"
+        ],
+        [
+          "具超能力的",
+          "靈媒的"
+        ]
+      ],
+      "analysis": "此字源自希臘語 psychikos（靈魂的、心智的），衍生自 psyche（心靈）。在現代英語中除了解剖與心理學上的「心靈精神層面」外，也常用來形容人擁有「超越常理的超感知覺、通靈或預知能力」。",
+      "definition": "1. relating to the soul or mind; 2. denoting faculties or phenomena that are apparently inexplicable by natural laws, such as telepathy.",
+      "example": [
+        {
+          "eng": "Meditation can bring a deep sense of psychic peace.",
+          "ch": "冥想能帶來深層的心靈平靜。"
+        },
+        {
+          "eng": "She claims to have psychic abilities that allow her to foresee events.",
+          "ch": "她聲稱自己擁有能預見未來事件的超能力。"
+        }
+      ]
+    },
+    {
+      "eng": "psychotherapy",
+      "kk": "ˌsaɪkoʊˈθɛrəpi",
+      "tense": "n.",
+      "ch": [
+        [
+          "心理治療"
+        ]
+      ],
+      "analysis": "此字為現代醫學複合詞，由希臘語 psyche（心靈）加上 therapeia（治療、療養）組合而成。指透過心理學方法與對話來治療精神官能症、情緒困擾或心理創傷的專業醫療過程。",
+      "definition": "1. the treatment of mental disorder by psychological rather than medical means.",
+      "example": [
+        {
+          "eng": "Psychotherapy helped him overcome his severe anxiety and depression.",
+          "ch": "心理治療幫助他克服了嚴重的焦慮與憂鬱。"
+        }
+      ]
+    },
+    {
+      "eng": "publicize",
+      "kk": "ˈpʌblɪˌsaɪz",
+      "tense": "vt.",
+      "ch": [
+        [
+          "宣傳",
+          "公布",
+          "廣為宣傳"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由形容詞 public（公眾的、公開的）加上動詞化字尾 -ize 構成。字面意思是「使大眾知道」，指透過廣告、新聞或媒體向社會大眾宣傳某項活動、產品或消息。",
+      "definition": "1. to make something widely known; to advertise or promote.",
+      "example": [
+        {
+          "eng": "The charity used social media to publicize the fundraising event.",
+          "ch": "該慈善機構使用社群媒體來宣傳募款活動。"
+        }
+      ]
+    },
+    {
+      "eng": "puff",
+      "kk": "pʌf",
+      "tense": "vi.",
+      "ch": [
+        [
+          "喘氣",
+          "呼出陣陣氣體"
+        ],
+        [
+          "抽煙",
+          "吸一口"
+        ]
+      ],
+      "analysis": "此字為擬聲詞，模仿用力吹氣或呼吸急促時發出的聲音。在動詞用法中，既可形容因勞累而「呼哧呼哧喘氣」，也可指抽雪茄或煙斗時「吞雲吐霧、抽一口煙」的動作。",
+      "definition": "1. to breathe rapidly and with difficulty, typically as a result of physical exertion; 2. to smoke a cigarette, pipe, or cigar.",
+      "example": [
+        {
+          "eng": "He arrived at the top of the stairs, puffing heavily.",
+          "ch": "他到達樓梯頂端時，大口喘著粗氣。"
+        },
+        {
+          "eng": "He sat on the porch, quietly puffing on his pipe.",
+          "ch": "他坐在門廊上，安靜地抽著煙斗。"
+        }
+      ]
+    },
+    {
+      "eng": "punctual",
+      "kk": "ˈpʌŋktʃuəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "準時的",
+          "守時的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 punctum（點、時刻），經由中古拉丁語 punctualis 演變而來。字面意思是「抓住精確時間點的」，在現代英語中用來形容人或交通工具「嚴格遵守約定時間、不遲到」。",
+      "definition": "1. happening or doing something at the agreed or proper time; prompt.",
+      "example": [
+        {
+          "eng": "Please be punctual for the meeting tomorrow morning.",
+          "ch": "明天早上的會議請務必準時。"
+        }
+      ]
+    },
+    {
+      "eng": "purify",
+      "kk": "ˈpjʊrəˌfaɪ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "淨化",
+          "提純",
+          "使純淨"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由形容詞 pure（純淨的）加上動詞字尾 -ify（使成為...）構成，源自拉丁語 purificare。核心義為去除雜質或污染物，使水、空氣、物質或精神達到純淨狀態。",
+      "definition": "1. to remove contaminants, impurities, or dirt from something to make it pure.",
+      "example": [
+        {
+          "eng": "Special filters are used to purify drinking water.",
+          "ch": "使用特殊的過濾器來淨化飲用水。"
+        }
+      ]
+    },
+    {
+      "eng": "purity",
+      "kk": "ˈpjʊrəti",
+      "tense": "n.",
+      "ch": [
+        [
+          "純淨",
+          "純度",
+          "純潔"
+        ]
+      ],
+      "analysis": "此字由形容詞 pure（純的）加上名詞字尾 -ity 構成，源自拉丁語 puritas。指物質不含雜質的物理純度，或引申指道德、思想上的「純潔與無瑕」。",
+      "definition": "1. the state or quality of being pure, free from contamination or adulteration.",
+      "example": [
+        {
+          "eng": "The jeweler tested the gold for purity.",
+          "ch": "珠寶商檢驗黃金的純度。"
+        }
+      ]
+    },
+    {
+      "eng": "quake",
+      "kk": "kwek",
+      "tense": "vi.",
+      "ch": [
+        [
+          "顫抖",
+          "搖晃",
+          "地震"
+        ]
+      ],
+      "analysis": "此字為古英語繼承詞（源自 cwacian），屬於日耳曼語族源頭。原意為因寒冷或恐懼而劇烈發抖，後來也作為 earthquake 的簡稱，指大地因地殼運動而產生的「劇烈搖晃與地震」。",
+      "definition": "1. to shake or tremble, typically with a sudden rapid motion; 2. to experience an earthquake.",
+      "example": [
+        {
+          "eng": "The frightened child began to quake with fear.",
+          "ch": "受驚嚇的孩子開始害怕得全身發抖。"
+        }
+      ]
+    },
+    {
+      "eng": "qualification",
+      "kk": "ˌkwɑlɪfɪˈkeʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "資格",
+          "學歷",
+          "合格證書"
+        ],
+        [
+          "限制條件",
+          "限定"
+        ]
+      ],
+      "analysis": "此字由動詞 qualify（使勝任、取得資格）加上名詞字尾 -cation 構成，源自拉丁語 qualis（哪一種、性質）。除了指從事某職位所需的「學經歷與合格證明」外，在論述中也指對某種說法提出的「限制性條件或保留意見」。",
+      "definition": "1. a quality or accomplishment that makes someone suitable for a particular job or activity; 2. a restriction or limitation on a statement.",
+      "example": [
+        {
+          "eng": "A degree in computer science is a basic qualification for this role.",
+          "ch": "電腦科學學位是擔任此職位的基本學歷資格。"
+        },
+        {
+          "eng": "He accepted the proposal without any qualification.",
+          "ch": "他毫無保留地接受了這項提案。"
+        }
+      ]
+    },
+    {
+      "eng": "radiant",
+      "kk": "ˈrediənt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "發光的",
+          "輻射的"
+        ],
+        [
+          "容光煥發的",
+          "喜氣洋洋的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 radiantem（發光的），為動詞 radiare（放射光芒）的現在分詞形式。本義指物理上向外發射光線或熱能，隨後引申用來形容人因幸福、健康而「容光煥發、笑容燦爛」的模樣。",
+      "definition": "1. sending out bright light, heat, or radiation; 2. shining brightly, especially with health, joy, or happiness.",
+      "example": [
+        {
+          "eng": "The sun provides radiant energy to the Earth.",
+          "ch": "太陽為地球提供輻射能量。"
+        },
+        {
+          "eng": "The bride looked radiant on her wedding day.",
+          "ch": "新娘在婚禮當天看起來容光煥發。"
+        }
+      ]
+    },
+    {
+      "eng": "radiate",
+      "kk": "ˈrediˌet",
+      "tense": "vi.",
+      "ch": [
+        [
+          "散發",
+          "輻射",
+          "流露出"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 radiatus（放射狀的），由 radius（光線、半徑）衍生而來的動詞。基本義為光或熱從中心點向四面八方「輻射散發」，也可引申用來形容人「流露出」自信或喜悅的情感。",
+      "definition": "1. to emit energy, light, or heat in the form of rays or waves; 2. to clearly emit or show a strong feeling or quality.",
+      "example": [
+        {
+          "eng": "Hot coals radiate warmth into the cold room.",
+          "ch": "熱碳向寒冷的房間散發著溫暖。"
+        },
+        {
+          "eng": "She seemed to radiate confidence during the presentation.",
+          "ch": "她在簡報過程中似乎流露出無比的自信。"
+        }
+      ]
+    },
+    {
+      "eng": "radioactive",
+      "kk": "ˌredi.oʊˈæktɪv",
+      "tense": "adj.",
+      "ch": [
+        [
+          "放射性的"
+        ]
+      ],
+      "analysis": "此字為現代近代科學複合詞，由名詞 radio（無線電、輻射）加上形容詞 active（活躍的、活動的）組合而成。專門用於物理與化學領域，指原子核不穩定而會自發性釋放游離輻射的特性。",
+      "definition": "1. emitting ionizing radiation as a result of the decay of atomic nuclei.",
+      "example": [
+        {
+          "eng": "The power plant safely disposed of radioactive waste.",
+          "ch": "發電廠安全地處理了放射性廢棄物。"
+        }
+      ]
+    },
+    {
+      "eng": "radish",
+      "kk": "ˈrædɪʃ",
+      "tense": "n.",
+      "ch": [
+        [
+          "蘿蔔",
+          "小紅蘿蔔"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 radicem（根），經由古法語與日耳曼語接觸演變進入英語。字面意思是「根部可食用的植物」，在現代英語中專指那種帶有辛辣口感、根部紅色或白色的十字花科蔬菜。",
+      "definition": "1. a small, crisp, edible root vegetable with a pungent taste, typically red or white.",
+      "example": [
+        {
+          "eng": "She sliced some fresh radishes to add color to the salad.",
+          "ch": "她切了一些新鮮小紅蘿蔔來為沙拉增添色彩。"
+        }
+      ]
+    },
+    {
+      "eng": "radius",
+      "kk": "ˈrediəs",
+      "tense": "n.",
+      "ch": [
+        [
+          "半徑",
+          "半徑範圍"
+        ]
+      ],
+      "analysis": "此字直接借自拉丁語 radius（圓的半徑、手杖、輻條）。在幾何學中指圓心到圓周的距離，在日常生活中則引申為以某中心點為圓心向外擴散的「周邊活動範圍」。",
+      "definition": "1. a straight line from the center to the circumference of a circle; 2. a specified distance from a central point.",
+      "example": [
+        {
+          "eng": "The radius of the circle is five centimeters.",
+          "ch": "這個圓的半徑是五公分。"
+        },
+        {
+          "eng": "Many residents living within a five-mile radius were evacuated.",
+          "ch": "居住在五英里半徑範圍內的許多居民都被疏散了。"
+        }
+      ]
+    },
+    {
+      "eng": "rap",
+      "kk": "ræp",
+      "tense": "vt.",
+      "ch": [
+        [
+          "輕敲",
+          "急擊"
+        ],
+        [
+          "嚴厲斥責",
+          "斥責"
+        ]
+      ],
+      "analysis": "此字為擬聲詞，模仿手指或硬物快速、清脆敲擊表面時發出的聲音。在動詞用法中除了表示快速輕敲外，也引申有「訓斥、申斥」的非正式用法。",
+      "definition": "1. to strike a hard surface with a quick, sharp blow; 2. to criticize or reprimand sharply.",
+      "example": [
+        {
+          "eng": "He used his knuckles to rap sharply on the wooden door.",
+          "ch": "他用指關節用力敲擊木門。"
+        },
+        {
+          "eng": "The committee decided to rap the official over the improper comments.",
+          "ch": "委員會決定因不當言論而訓斥該官員。"
+        }
+      ]
+    },
+    {
+      "eng": "rash",
+      "kk": "ræʃ",
+      "tense": "adj.",
+      "ch": [
+        [
+          "輕率的",
+          "魯莽的"
+        ]
+      ],
+      "analysis": "此字源自日耳曼語源（與德語 rasch「快速的」同源），經由中古荷蘭語或古法語進入英語。原意為動作過快、缺乏深思熟慮，在現代英語中用來形容人或決定「過於衝動、魯莽」。",
+      "definition": "1. displaying or characterized by a lack of careful consideration of the possible consequences of an action; imprudent.",
+      "example": [
+        {
+          "eng": "Buying an expensive car on a whim was a rash decision.",
+          "ch": "一時興起買下一輛昂貴的汽車是一個魯莽的決定。"
+        }
+      ]
+    },
+    {
+      "eng": "ratify",
+      "kk": "ˈrætəˌfaɪ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "批准",
+          "正式認可"
+        ]
+      ],
+      "analysis": "此字源自中古拉丁語 ratificare，由 ratus（確定的、有效的）加上 facere（使成為）複合而成。經由法語進入英語。專門用於政治與法律語境，指最高權力機構或政府「正式批准、簽署並生效」條約或協定。",
+      "definition": "1. to sign or give formal consent to a treaty, contract, or agreement, making it officially valid.",
+      "example": [
+        {
+          "eng": "Both nations need to ratify the trade agreement before it takes effect.",
+          "ch": "兩國都需要在貿易協定生效前予以正式批准。"
+        }
+      ]
+    },
+    {
+      "eng": "realization",
+      "kk": "ˌriəlɪˈzeʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "實現",
+          "達成"
+        ],
+        [
+          "領悟",
+          "意識到"
+        ]
+      ],
+      "analysis": "此字由動詞 realize（實現、意識到）加上名詞字尾 -ation 構成。兼具兩個主要語義：一是將計畫或夢想付諸行動的「實現」，二是心智上突然「深刻體會或領悟到」某個真相。",
+      "definition": "1. the achievement of something desired or planned; 2. an act of becoming fully aware of something as a fact.",
+      "example": [
+        {
+          "eng": "The successful project was the realization of a lifelong dream.",
+          "ch": "這個成功專案是一個終身夢想的實現。"
+        },
+        {
+          "eng": "A sudden realization hit her that she had left her keys at home.",
+          "ch": "她突然意識到自己把鑰匙忘在家裡了。"
+        }
+      ]
+    },
+    {
+      "eng": "reap",
+      "kk": "rip",
+      "tense": "vt.",
+      "ch": [
+        [
+          "收割",
+          "收穫"
+        ],
+        [
+          "獲得",
+          "取得（回報或成果）"
+        ]
+      ],
+      "analysis": "此字為古英語繼承詞（源自 rīpan），屬於日耳曼語族源頭。本義指在農田裡用鐮刀「收割莊稼」，隨後在農業社會的文化背景下，抽象引申出「付出努力後獲得應有的成果或惡果」。",
+      "definition": "1. to cut or gather a crop such as grain; 2. to receive a reward or benefit as a consequence of one's actions.",
+      "example": [
+        {
+          "eng": "Farmers work hard to reap the wheat before the autumn rains.",
+          "ch": "農夫們努力在秋雨來臨前收割小麥。"
+        },
+        {
+          "eng": "If you study hard now, you will reap the rewards in the future.",
+          "ch": "如果你現在努力讀書，將來就會獲得回報。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1356 @@
+{
+  "level": 2,
+  "chunkIndex": 6,
+  "inputs": [
+    "description",
+    "desert",
+    "design",
+    "detail",
+    "develop",
+    "development",
+    "dial",
+    "dialogue",
+    "diamond",
+    "diary",
+    "diet",
+    "difference",
+    "difficulty",
+    "direct",
+    "direction",
+    "director",
+    "disagree",
+    "disagreement",
+    "disappear",
+    "discover",
+    "discovery",
+    "discuss",
+    "discussion",
+    "disease",
+    "display",
+    "distance",
+    "distant",
+    "divide",
+    "division",
+    "domestic",
+    "dot",
+    "double",
+    "doubt",
+    "dove",
+    "download",
+    "downstairs",
+    "dragon",
+    "drama",
+    "drawer",
+    "drawing",
+    "drug",
+    "dryer",
+    "due",
+    "dull",
+    "duty",
+    "eagle",
+    "earn",
+    "earring",
+    "earrings",
+    "earthquake"
+  ],
+  "rows": [
+    {
+      "eng": "description",
+      "kk": "dɪˈskrɪpʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "描述",
+          "描寫"
+        ],
+        [
+          "形容",
+          "種類"
+        ]
+      ],
+      "analysis": "此字為名詞，對應動詞 describe。由拉丁語前綴 de-（向下、加強）加上詞根 scribere（書寫）的派生名詞形 -scription（源自拉丁語 -scriptio）。歷史上經由古法語進入英語，字面義為「向下寫下、詳細記錄」。語意從具體的「文字圖畫與描寫」演變為「事物的詳細描述」，再延伸出「各種類別、形形色色」的用法。",
+      "definition": "1. a statement that gives details about what someone or something is like; 2. a sort, kind, or category of person or thing.",
+      "example": [
+        {
+          "eng": "The police asked for a detailed description of the suspect.",
+          "ch": "警察要求提供嫌疑人的詳細描述。"
+        },
+        {
+          "eng": "People of every description attended the public meeting.",
+          "ch": "形形色色各種各樣的人都參加了公開會議。"
+        }
+      ]
+    },
+    {
+      "eng": "desert",
+      "kk": "ˈdɛzərt",
+      "tense": "n.",
+      "ch": [
+        [
+          "沙漠",
+          "荒漠"
+        ]
+      ],
+      "analysis": "此字為名詞，與動詞 desert 同形異源，源自拉丁語 desertum（荒蕪之地、廢墟），為 deserere（拋棄、使荒蕪）的過去分詞中性名詞化。歷史上指無人居住、荒涼乾旱的地區，語義穩定無顯著改變。",
+      "definition": "1. a large, dry, barren area of land with little rainfall and sparse vegetation.",
+      "example": [
+        {
+          "eng": "The Sahara is the largest hot desert in the world.",
+          "ch": "撒哈拉沙漠是世界上最大的熱帶沙漠。"
+        }
+      ]
+    },
+    {
+      "eng": "desert",
+      "kk": "dɪˈzɜrt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "捨棄",
+          "遺棄",
+          "拋棄"
+        ],
+        [
+          "開小差",
+          "逃跑"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自古法語 deserter，最終源自拉丁語 desertare（荒廢、遺棄），由前綴 de-（否定、離開）與sertare（結合、接合，源自 serere）結合而成。核心義為「切斷與某人或某事的連結而離去」，演變出「遺棄家人、工作」以及軍事上的「開小差、逃兵」。",
+      "definition": "1. to leave a person, place, or organization permanently and without permission; 2. to run away from military service without permission.",
+      "example": [
+        {
+          "eng": "He was accused of trying to desert his family.",
+          "ch": "他被指控企圖拋棄他的家庭。"
+        },
+        {
+          "eng": "Several soldiers chose to desert during the hard winter.",
+          "ch": "幾名士兵選擇在嚴冬中開小差逃跑。"
+        }
+      ]
+    },
+    {
+      "eng": "design",
+      "kk": "dɪˈzaɪn",
+      "tense": "n.",
+      "ch": [
+        [
+          "設計",
+          "設計圖"
+        ],
+        [
+          "意圖",
+          "圖謀"
+        ]
+      ],
+      "analysis": "此字為名詞，對應同形動詞 design，經由中古法語和義大利語影響進入英語。指具體規劃的成果（設計圖、圖樣）或背後抽象的計畫與意圖。",
+      "definition": "1. a plan or drawing produced to show the look and function of a building or object; 2. a deliberate purpose or intention.",
+      "example": [
+        {
+          "eng": "She studied graphic design at university.",
+          "ch": "她在大學主修平面設計。"
+        },
+        {
+          "eng": "It was by design rather than by accident that they met.",
+          "ch": "他們相遇是刻意安排而非偶然。"
+        }
+      ]
+    },
+    {
+      "eng": "design",
+      "kk": "dɪˈzaɪn",
+      "tense": "vt.",
+      "ch": [
+        [
+          "設計",
+          "構思"
+        ],
+        [
+          "意圖",
+          "籌劃"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自拉丁語 designare（標示出、指派、設計），由 de-（向下、加強）與 signare（標記、簽名，源自 signum 標記）複合而成。歷史上從「在地圖或圖面上作記號、規劃」演變出「繪製設計圖」與「心懷意圖、籌劃某事」的雙重現代義。",
+      "definition": "1. to plan and make decisions about the structure and appearance of something before it is built; 2. to intend a plan or object for a specific purpose.",
+      "example": [
+        {
+          "eng": "The architect was hired to design a new museum.",
+          "ch": "這位建築師被聘來設計一座新博物館。"
+        },
+        {
+          "eng": "The course is designed to help beginners learn the basics.",
+          "ch": "這門課程旨在幫助初學者學習基礎知識。"
+        }
+      ]
+    },
+    {
+      "eng": "detail",
+      "kk": "dɪˈteɪl",
+      "tense": "n.",
+      "ch": [
+        [
+          "細節",
+          "詳情"
+        ],
+        [
+          "小節",
+          "瑣事"
+        ]
+      ],
+      "analysis": "此字為名詞，源自中古法語 detail（切碎、細項），由前綴 de-（向下、徹底）與 tailler（切割，源自拉丁語 taliare）複合而成。字面義為「被切成小塊的部分」，現代引申為構成整體的小部分、細節或無關緊要的瑣事。",
+      "definition": "1. an individual fact or item considered separately; 2. a small or minor particular.",
+      "example": [
+        {
+          "eng": "Please give me all the details of the accident.",
+          "ch": "請把這起事故的所有細節告訴我。"
+        },
+        {
+          "eng": "Do not get bogged down in unnecessary detail.",
+          "ch": "不要陷入不必要的瑣事中。"
+        }
+      ]
+    },
+    {
+      "eng": "develop",
+      "kk": "dɪˈvɛləp",
+      "tense": "vt.",
+      "ch": [
+        [
+          "發展",
+          "開發"
+        ],
+        [
+          "研製",
+          "沖洗照片"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自古法語 desveloper（解開、展開），由前綴 des-（相反動作、解除）加上 veloper（包裹、覆蓋，源自日耳曼語源）組成。字面義為「把包覆的東西打開」，引申為使潛力展現、使事物逐步成長、發展出新產品，以及攝影中將底片顯影沖洗。",
+      "definition": "1. to grow or cause to grow and become more advanced or mature; 2. to process photographic film to make images visible, or to create a new product.",
+      "example": [
+        {
+          "eng": "The city hopes to develop the old port area.",
+          "ch": "該市希望開發舊港口區域。"
+        },
+        {
+          "eng": "He took his camera to the shop to develop the film.",
+          "ch": "他把相機拿到店裡去沖洗底片。"
+        }
+      ]
+    },
+    {
+      "eng": "development",
+      "kk": "dɪˈvɛləpmənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "發展",
+          "成長"
+        ],
+        [
+          "開發案",
+          "新進展"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 develop 加上名詞字尾 -ment 構成。指事物成長、演變的過程，或具體的新情況、新進展及土地與建物的開發案。",
+      "definition": "1. the process of developing or being developed, growth or progression; 2. a new event or a newly built housing or commercial area.",
+      "example": [
+        {
+          "eng": "Economic development is crucial for reducing poverty.",
+          "ch": "經濟發展對於減少貧困至關重要。"
+        },
+        {
+          "eng": "Local residents protested against the new housing development.",
+          "ch": "當地居民抗議新的住宅開發案。"
+        }
+      ]
+    },
+    {
+      "eng": "dial",
+      "kk": "ˈdaɪəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "圓盤面",
+          "錶盤",
+          "撥號盤"
+        ]
+      ],
+      "analysis": "此字為名詞，源自中世紀拉丁語 dialis（每日的），源自 dies（日子）。早期指日晷（日用盤面），後來泛指任何帶有刻度或數字的圓形盤面，如時鐘錶盤、儀器面板及舊式電話的轉動撥號盤。",
+      "definition": "1. the face of a clock, watch, or measuring instrument marked with numbers or indicators.",
+      "example": [
+        {
+          "eng": "The watch has a clear black dial with luminous hands.",
+          "ch": "這隻手錶有清晰的黑色錶盤和夜光指針。"
+        }
+      ]
+    },
+    {
+      "eng": "dial",
+      "kk": "ˈdaɪəl",
+      "tense": "vt.",
+      "ch": [
+        [
+          "撥號",
+          "打電話"
+        ]
+      ],
+      "analysis": "此字為及物動詞，由名詞 dial 轉品而來。原本指轉動舊式電話的圓盤撥號器，現代延伸泛指在電話機或手機上輸入數字來撥打電話。",
+      "definition": "1. to operate a telephone or make a phone call by pressing buttons or turning a dial.",
+      "example": [
+        {
+          "eng": "Dial 911 in case of an emergency.",
+          "ch": "若遇緊急情況請撥打911。"
+        }
+      ]
+    },
+    {
+      "eng": "dialogue",
+      "kk": "ˈdaɪəˌlɔɡ",
+      "tense": "n.",
+      "ch": [
+        [
+          "對話",
+          "交談"
+        ],
+        [
+          "對白"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古法語 dialogue，源自拉丁語 dialogus，最終源自希臘語 dialogos（由 dia- 透過、之間 + logos 言談、理性）。字面義為「在兩人或多人之間流通的話語」，指真實生活中的對話交流，或文學戲劇作品中的角色對白。",
+      "definition": "1. a conversation between two or more people; 2. the lines spoken by characters in a play or movie.",
+      "example": [
+        {
+          "eng": "The two countries opened a formal political dialogue.",
+          "ch": "兩國開啟了正式的政治對話。"
+        },
+        {
+          "eng": "The movie was praised for its witty and realistic dialogue.",
+          "ch": "這部電影因其機智且寫實的對白而受到讚賞。"
+        }
+      ]
+    },
+    {
+      "eng": "diamond",
+      "kk": "ˈdaɪmənd",
+      "tense": "n.",
+      "ch": [
+        [
+          "鑽石",
+          "金剛石"
+        ],
+        [
+          "菱形",
+          "方塊牌"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古法語 diamant，最終源自希臘語 adamas（不可征服的、堅硬的石墨或金剛石，由 a- 不 + daman 征服組成）。歷史上字音經大眾訛變加上 d- 前綴。指世界上最堅硬的天然寶石鑽石，並引申指幾何圖形中的菱形及撲克牌的方塊。",
+      "definition": "1. a precious gemstone consisting of a clear and colourless crystalline form of pure carbon; 2. a geometric shape with four equal sides or a suit in playing cards.",
+      "example": [
+        {
+          "eng": "He bought a diamond ring to propose to his girlfriend.",
+          "ch": "他買了一枚鑽戒向女朋友求婚。"
+        },
+        {
+          "eng": "The baseball field is designed in the shape of a diamond.",
+          "ch": "棒球場設計成菱形。"
+        }
+      ]
+    },
+    {
+      "eng": "diary",
+      "kk": "ˈdaɪəri",
+      "tense": "n.",
+      "ch": [
+        [
+          "日記",
+          "日誌"
+        ]
+      ],
+      "analysis": "此字為名詞，源自拉丁語 diarium（每日的口糧或紀錄），源自 dies（日子）。經由拉丁語字尾轉化為指按日記錄個人經歷與想法的本子，即日記。",
+      "definition": "1. a book in which one keeps a daily record of events and personal experiences.",
+      "example": [
+        {
+          "eng": "She writes in her diary every night before going to sleep.",
+          "ch": "她每天晚上睡覺前都會寫日記。"
+        }
+      ]
+    },
+    {
+      "eng": "diet",
+      "kk": "ˈdaɪət",
+      "tense": "n.",
+      "ch": [
+        [
+          "飲食",
+          "日常食物"
+        ],
+        [
+          "節食",
+          "規定飲食"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古法語 diete，源自拉丁語 diaeta，源自希臘語 diaita（生活方式、飲食起居）。歷史上從「健康的生活起居與飲食調理」演變為現代專指「一個人日常吃的食物」或為了健康、減肥而進行的「節食」。",
+      "definition": "1. the kinds of food that a person, animal, or community habitually eats; 2. a special course of food restricted to oneself for medical or weight-loss reasons.",
+      "example": [
+        {
+          "eng": "A balanced diet should include plenty of fruits and vegetables.",
+          "ch": "均衡的飲食應包含豐富的水果和蔬菜。"
+        },
+        {
+          "eng": "She went on a strict diet to lose weight before summer.",
+          "ch": "為了在夏天之前減肥，她開始嚴格節食。"
+        }
+      ]
+    },
+    {
+      "eng": "diet",
+      "kk": "ˈdaɪət",
+      "tense": "vi.",
+      "ch": [
+        [
+          "節食"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，由名詞 diet 轉品而來，指為了健康或減重目的而控制飲食、進行節食。",
+      "definition": "1. to restrict oneself to small amounts or special kinds of food in order to lose weight.",
+      "example": [
+        {
+          "eng": "He is trying to diet by cutting out all sugary snacks.",
+          "ch": "他正試圖藉由戒掉所有含糖零食來節食。"
+        }
+      ]
+    },
+    {
+      "eng": "difference",
+      "kk": "ˈdɪfərəns",
+      "tense": "n.",
+      "ch": [
+        [
+          "差別",
+          "不同之處"
+        ],
+        [
+          "意見分歧",
+          "爭執"
+        ]
+      ],
+      "analysis": "此字為名詞，對應動詞 differ 與形容詞 different。源自拉丁語 differentia（分開、不同），由 dis-（分散、分開）與 ferre（帶、攜帶）結合而成。字面義為「分道揚鑣、帶開」，引申為事物之間的差異，以及人與人之間的意見分歧或爭端。",
+      "definition": "1. a point or way in which things are not the same; 2. a disagreement or quarrel between people.",
+      "example": [
+        {
+          "eng": "Can you spot the difference between the two pictures?",
+          "ch": "你能看出這兩張圖片的不同之處嗎？"
+        },
+        {
+          "eng": "It is time for the two sides to put aside their differences.",
+          "ch": "雙方是時候拋開歧見了。"
+        }
+      ]
+    },
+    {
+      "eng": "difficulty",
+      "kk": "ˈdɪfəˌkʌlti",
+      "tense": "n.",
+      "ch": [
+        [
+          "困難",
+          "艱難"
+        ],
+        [
+          "困境",
+          "難題"
+        ]
+      ],
+      "analysis": "此字為名詞，由形容詞 difficult 加上名詞字尾 -y 構成。difficult 源自拉丁語 difficilis（由 dis- 不 + facilis 容易的），字面義為「不容易做到的」。名詞則指這種狀態，或具體遭遇的困境與難題。",
+      "definition": "1. the state or quality of being hard to do; 2. a problem, trouble, or obstacle.",
+      "example": [
+        {
+          "eng": "She completed the exam with great difficulty.",
+          "ch": "她費了很大的力氣才完成考試。"
+        },
+        {
+          "eng": "The company is facing serious financial difficulties.",
+          "ch": "這家公司正面臨嚴重的財務困境。"
+        }
+      ]
+    },
+    {
+      "eng": "direct",
+      "kk": "dəˈrɛkt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "指導",
+          "指揮"
+        ],
+        [
+          "指引",
+          "導演"
+        ]
+      ],
+      "analysis": "此字為及物動詞，與形容詞同源，源自拉丁語 dirigere。核心義為「給予方向指引」，引申為指揮樂團、指導工作、為他人指路，以及在電影或戲劇中擔任導演。",
+      "definition": "1. to control, manage, or guide the operations of something or someone; 2. to show or tell someone how to get somewhere, or to direct a movie or play.",
+      "example": [
+        {
+          "eng": "The manager will direct the new marketing campaign.",
+          "ch": "經理將指揮這項新的行銷活動。"
+        },
+        {
+          "eng": "Steven Spielberg has directed many famous movies.",
+          "ch": "史蒂芬·史匹柏執導過許多著名的電影。"
+        }
+      ]
+    },
+    {
+      "eng": "direct",
+      "kk": "dəˈrɛkt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "直接的",
+          "直截了當的"
+        ],
+        [
+          "直達的",
+          "筆直的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自拉丁語 directus（直的、引導的），為 dirigere 的過去分詞（di- 加強 + regere引導、使直）。字面義為「筆直導向目標的」，引申為做事不繞彎子的直接、路線直達的或態度坦率的。",
+      "definition": "1. extending or moving from one place to another without changing direction or stopping; 2. straightforward and honest in expression.",
+      "example": [
+        {
+          "eng": "There is a direct flight from Taipei to Tokyo.",
+          "ch": "有一班從台北直飛東京的航班。"
+        },
+        {
+          "eng": "She gave me a very direct answer to my question.",
+          "ch": "她對我的問題給了一個非常直截了當的回答。"
+        }
+      ]
+    },
+    {
+      "eng": "direction",
+      "kk": "dəˈrɛkʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "方向",
+          "方位"
+        ],
+        [
+          "指導",
+          "說明書"
+        ]
+      ],
+      "analysis": "此字為名詞，對應動詞 direct。源自拉丁語 directio。指物體移動或朝向的方位，或引申為上級的指揮指導以及產品的操作說明書（通常用複數）。",
+      "definition": "1. the course along which someone or something moves or points; 2. management, supervision, or instructions on how to do something.",
+      "example": [
+        {
+          "eng": "Which direction did the thief run?",
+          "ch": "小偷往哪個方向跑了？"
+        },
+        {
+          "eng": "Always read the directions before taking medicine.",
+          "ch": "服藥前務必閱讀說明書。"
+        }
+      ]
+    },
+    {
+      "eng": "director",
+      "kk": "dəˈrɛktər",
+      "tense": "n.",
+      "ch": [
+        [
+          "主管",
+          "董事"
+        ],
+        [
+          "導演"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 direct 加上代理者字尾 -or 構成。字面義為「進行指導或管理的人」，現代主要指企業的董事、部門主管，或電影、戲劇的導演。",
+      "definition": "1. a person who is in charge of an organization or a department; 2. a person who supervises the making of a film or play.",
+      "example": [
+        {
+          "eng": "She was appointed as the new managing director.",
+          "ch": "她被任命為新的常務董事。"
+        },
+        {
+          "eng": "The film director won several international awards.",
+          "ch": "這位電影導演贏得了數個國際獎項。"
+        }
+      ]
+    },
+    {
+      "eng": "disagree",
+      "kk": "ˌdɪsəˈɡri",
+      "tense": "vi.",
+      "ch": [
+        [
+          "不同意",
+          "持不同意見"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，由否定前綴 dis-（不、相反）加上動詞 agree（同意）複合而成。字面義為「不一致、不贊同」，語意穩定。",
+      "definition": "1. to have a different opinion, or fail to agree.",
+      "example": [
+        {
+          "eng": "I have to disagree with your assessment of the situation.",
+          "ch": "我不得不對你對局勢的評估持不同意見。"
+        }
+      ]
+    },
+    {
+      "eng": "disagreement",
+      "kk": "ˌdɪsəˈɡrimənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "意見不合",
+          "爭論"
+        ]
+      ],
+      "analysis": "此字為名詞，由不及物動詞 disagree 加上名詞字尾 -ment 構成。指雙方意見不一致、衝突或爭論。",
+      "definition": "1. a failure or refusal to agree; a dispute or argument.",
+      "example": [
+        {
+          "eng": "The negotiation failed because of a sharp disagreement over costs.",
+          "ch": "由於在成本問題上存在嚴重分歧，談判破裂了。"
+        }
+      ]
+    },
+    {
+      "eng": "disappear",
+      "kk": "ˌdɪsəˈpɪr",
+      "tense": "vi.",
+      "ch": [
+        [
+          "消失",
+          "不見"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，由否定前綴 dis-（不、解除）加上動詞 appear（出現，源自拉丁語 apparere）複合而成。字面義為「不再出現、從視線中消失」。",
+      "definition": "1. to cease to be visible; to pass out of sight.",
+      "example": [
+        {
+          "eng": "The sun disappeared behind the thick clouds.",
+          "ch": "太陽消失在厚厚的雲層後面。"
+        }
+      ]
+    },
+    {
+      "eng": "discover",
+      "kk": "dɪˈskʌvər",
+      "tense": "vt.",
+      "ch": [
+        [
+          "發現",
+          "發覺"
+        ]
+      ],
+      "analysis": "此字為及物動詞，由否定與反向前綴 dis-（解除、打開）加上動詞 cover（覆蓋，源自古法語 covrir）複合而成。字面義為「把遮蓋物拿開、揭開面紗」，引申為發現本已存在但未知的事物或真相。",
+      "definition": "1. to find something or someone unexpectedly or in the course of a search.",
+      "example": [
+        {
+          "eng": "Scientists have discovered a new species of deep-sea fish.",
+          "ch": "科學家發現了一種新的深海魚類。"
+        }
+      ]
+    },
+    {
+      "eng": "discovery",
+      "kk": "dɪˈskʌvəri",
+      "tense": "n.",
+      "ch": [
+        [
+          "發現",
+          "被發現的事物"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 discover 加上名詞字尾 -y 構成。指發現的行為過程，或科學與地理上新發現的成果與事物。",
+      "definition": "1. the act or process of discovering something, or the fact of being discovered.",
+      "example": [
+        {
+          "eng": "Penicillin was a major discovery in modern medicine.",
+          "ch": "盤尼西林是現代醫學的一項重大發現。"
+        }
+      ]
+    },
+    {
+      "eng": "discuss",
+      "kk": "dɪˈskʌs",
+      "tense": "vt.",
+      "ch": [
+        [
+          "討論",
+          "商討"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自拉丁語 discutere（打碎、驅散、徹底檢驗），由 dis-（分散）與 quatere（搖晃、敲打）複合而成。歷史上經由古法語與中古拉丁語演變，語義從「把問題敲碎分析」轉為「就某議題交換意見、討論」。",
+      "definition": "1. to talk about something with someone in order to reach a decision or exchange ideas.",
+      "example": [
+        {
+          "eng": "The board of directors will discuss the new proposal tomorrow.",
+          "ch": "董事會明天將討論這項新提案。"
+        }
+      ]
+    },
+    {
+      "eng": "discussion",
+      "kk": "dɪˈskʌʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "討論",
+          "商討會"
+        ]
+      ],
+      "analysis": "此字為名詞，對應動詞 discuss，字尾 -sion 為拉丁語 -sio 的變體。指針對特定議題進行的對話、商討或討論會。",
+      "definition": "1. the action or process of talking about something in order to reach a decision or exchange ideas.",
+      "example": [
+        {
+          "eng": "After a long discussion, they finally reached an agreement.",
+          "ch": "經過長時間的討論，他們終於達成協議。"
+        }
+      ]
+    },
+    {
+      "eng": "disease",
+      "kk": "dɪˈziz",
+      "tense": "n.",
+      "ch": [
+        [
+          "疾病",
+          "病害"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古法語 desaise（不舒適、不安），由 des-（不、缺乏）加上 aise（舒適、安逸）複合而成。字面義為「身體失去安適狀態」，現代專指各種生理或心理疾病。",
+      "definition": "1. a disorder of structure or function in a human, animal, or plant, especially one that produces specific symptoms.",
+      "example": [
+        {
+          "eng": "Heart disease is one of the leading causes of death worldwide.",
+          "ch": "心臟病是全球主要的致死原因之一。"
+        }
+      ]
+    },
+    {
+      "eng": "display",
+      "kk": "dɪˈsple",
+      "tense": "vt.",
+      "ch": [
+        [
+          "顯示",
+          "陳列",
+          "展現"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自古法語 despleier（展開、攤開），由 dis-（開、展開）加上 plicare（摺疊，源自拉丁語）複合而成。字面義為「把摺疊的東西攤開展示」，現代指陳列商品、展示螢幕畫面或流露出某種情感與才華。",
+      "definition": "1. to put something in a place where it can easily be seen; to show a feeling, quality, or skill.",
+      "example": [
+        {
+          "eng": "The museum is displaying ancient Egyptian artifacts.",
+          "ch": "博物館正在陳列古埃及文物。"
+        },
+        {
+          "eng": "He did not display any emotion when he heard the news.",
+          "ch": "聽到這消息時，他沒有流露出任何情緒。"
+        }
+      ]
+    },
+    {
+      "eng": "distance",
+      "kk": "ˈdɪstəns",
+      "tense": "n.",
+      "ch": [
+        [
+          "距離",
+          "遠處"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古法語 distance，源自拉丁語 distantia（遠離、間隔），由 distare（相距，由 dis- 分開 + stare 站立）衍生而來。字面義為「兩地各自站開的間隔」，指空間或時間上的距離，或遠處。",
+      "definition": "1. the amount of space between two places or things; 2. a far-off place.",
+      "example": [
+        {
+          "eng": "What is the distance between New York and Boston?",
+          "ch": "紐約和波士頓之間的距離是多少？"
+        },
+        {
+          "eng": "We could see a light shining in the distance.",
+          "ch": "我們可以看見遠處閃爍的光芒。"
+        }
+      ]
+    },
+    {
+      "eng": "distant",
+      "kk": "ˈdɪstənt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "遙遠的",
+          "遠親的"
+        ],
+        [
+          "冷漠的",
+          "疏遠的"
+        ]
+      ],
+      "analysis": "此字為形容詞，對應名詞 distance，源自拉丁語 distans（相距的）。指空間或時間上很遠的遠方事物，或引申指血緣關係較遠的親戚，以及人際態度上的冷漠與疏離。",
+      "definition": "1. far away in space or time, or related only slightly; 2. aloof or uncommunicative in manner.",
+      "example": [
+        {
+          "eng": "They plan to travel to a distant country next year.",
+          "ch": "他們計畫明年去一個遙遠的國家旅遊。"
+        },
+        {
+          "eng": "She seemed rather distant and cold at the party.",
+          "ch": "她在派對上顯得相當冷漠疏遠。"
+        }
+      ]
+    },
+    {
+      "eng": "divide",
+      "kk": "dəˈvaɪd",
+      "tense": "vt.",
+      "ch": [
+        [
+          "分割",
+          "分開"
+        ],
+        [
+          "分配",
+          "除以"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自拉丁語 dividere（分開、分配），由 di-（分離）與 -videre（分開、區分，與 uidere 看相關）複合而成。字面義為「分開看、切開」，現代泛指將整體分成多個部分、分配資源，以及數學上的除法。",
+      "definition": "1. to separate into parts or groups, or to share out; 2. to calculate how many times one number goes into another.",
+      "example": [
+        {
+          "eng": "The teacher decided to divide the class into four groups.",
+          "ch": "老師決定把全班分成四個組。"
+        },
+        {
+          "eng": "If you divide ten by two, you get five.",
+          "ch": "十除以二等於五。"
+        }
+      ]
+    },
+    {
+      "eng": "division",
+      "kk": "dəˈvɪʒən",
+      "tense": "n.",
+      "ch": [
+        [
+          "分開",
+          "分割"
+        ],
+        [
+          "部門",
+          "師（軍事）",
+          "除法"
+        ]
+      ],
+      "analysis": "此字為名詞，對應動詞 divide，源自拉丁語 divisio。指分割的行為、企業或政府內部的行政部門、軍隊編制中的師，以及數學除法運算。",
+      "definition": "1. the action of separating something into parts; 2. a major administrative or operational unit of an organization, a military division, or mathematical division.",
+      "example": [
+        {
+          "eng": "She works in the sales division of a multinational company.",
+          "ch": "她在一家跨國公司的業務部門工作。"
+        },
+        {
+          "eng": "Children learn basic division in elementary school.",
+          "ch": "小朋友在小學學習基本的除法。"
+        }
+      ]
+    },
+    {
+      "eng": "domestic",
+      "kk": "dəˈmɛstɪk",
+      "tense": "adj.",
+      "ch": [
+        [
+          "國內的",
+          "本國的"
+        ],
+        [
+          "家庭的",
+          "家養的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自拉丁語 domesticus（屬於家或家庭的），源自 domus（房屋、家）。歷史上從「屋內、家裡的、被馴養的動物」延伸出「國家內部的、國內航班或經濟」的現代用法。",
+      "definition": "1. relating to the running of a home or to family relations, or kept as a pet or farm animal; 2. existing or occurring inside a particular country; not foreign.",
+      "example": [
+        {
+          "eng": "The airline operates both international and domestic flights.",
+          "ch": "這家航空公司經營國際和國內航班。"
+        },
+        {
+          "eng": "Dogs and cats are common domestic animals.",
+          "ch": "狗和貓是常見的家養動物。"
+        }
+      ]
+    },
+    {
+      "eng": "dot",
+      "kk": "dɑt",
+      "tense": "n.",
+      "ch": [
+        [
+          "點",
+          "圓點"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古英語 dott（小圓斑、膿包），屬於日耳曼語源。指小而圓的斑點或記號，現代廣泛用於網址和標點符號中的點。",
+      "definition": "1. a small, round mark or spot.",
+      "example": [
+        {
+          "eng": "Type the address with a dot com at the end.",
+          "ch": "輸入網址並在結尾加上點com。"
+        }
+      ]
+    },
+    {
+      "eng": "double",
+      "kk": "ˈdʌbəl",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使加倍",
+          "翻倍"
+        ]
+      ],
+      "analysis": "此字為及物動詞，由形容詞 double 轉品而來，指使數量或程度增加一倍。",
+      "definition": "1. to make or become twice as much or as many.",
+      "example": [
+        {
+          "eng": "The company managed to double its profits this year.",
+          "ch": "這家公司今年成功讓利潤翻倍。"
+        }
+      ]
+    },
+    {
+      "eng": "double",
+      "kk": "ˈdʌbəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "雙倍的",
+          "兩倍的"
+        ],
+        [
+          "雙人的",
+          "雙重的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自古法語 double，源自拉丁語 duplus（由 duo 兩個 + -plus 倍數尾）。字面義為「兩倍的」，指數量加倍、雙人房或具備雙重意義。",
+      "definition": "1. consisting of two equal, identical, or similar parts; 2. twice in number or amount.",
+      "example": [
+        {
+          "eng": "We booked a double room for our weekend trip.",
+          "ch": "我們為週末旅行預訂了一間雙人房。"
+        },
+        {
+          "eng": "Her salary is double what it was five years ago.",
+          "ch": "她的薪水是五年前的兩倍。"
+        }
+      ]
+    },
+    {
+      "eng": "doubt",
+      "kk": "daʊt",
+      "tense": "n.",
+      "ch": [
+        [
+          "懷疑",
+          "疑慮"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古法語 doute，源自拉丁語 dubitare（猶豫、懷疑），源自 dubius（兩可的、不確定的，源自 duo 兩個）。字面義為「在兩種選擇之間猶豫不決」，演變為心中的懷疑與不確定感。",
+      "definition": "1. a feeling of uncertainty or lack of conviction.",
+      "example": [
+        {
+          "eng": "I have some doubts about his ability to finish the project.",
+          "ch": "我對他完成這個專案的能力有些懷疑。"
+        }
+      ]
+    },
+    {
+      "eng": "doubt",
+      "kk": "daʊt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "懷疑",
+          "不相信"
+        ]
+      ],
+      "analysis": "此字為及物動詞，與名詞同源，指心存懷疑、不相信某事的真實性。",
+      "definition": "1. to feel uncertain about something; to hesitate to believe.",
+      "example": [
+        {
+          "eng": "I doubt whether he will come to the party tonight.",
+          "ch": "我懷疑他今晚會不會來參加派對。"
+        }
+      ]
+    },
+    {
+      "eng": "dove",
+      "kk": "dʌv",
+      "tense": "n.",
+      "ch": [
+        [
+          "鴿子",
+          "斑鳩"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古英語 dufe，屬於日耳曼語源（與德語 Taube 同源）。指中小型鴿科鳥類，在西方文化中常被視為和平的象徵。",
+      "definition": "1. a stocky bird with a small head, short legs, and a cooing voice, often seen as a symbol of peace.",
+      "example": [
+        {
+          "eng": "A white dove flew across the blue sky.",
+          "ch": "一隻白鴿飛越藍天。"
+        }
+      ]
+    },
+    {
+      "eng": "download",
+      "kk": "ˈdaʊnˌloʊd",
+      "tense": "vt.",
+      "ch": [
+        [
+          "下載"
+        ]
+      ],
+      "analysis": "此字為及物動詞，由副詞／介系詞 down（向下）加上動詞 load（裝載）現代複合而成。電腦網路用語，指將資料從遠端伺服器傳輸並「裝載」到本地裝置上。",
+      "definition": "1. to copy data from one computer system to another, typically over the internet.",
+      "example": [
+        {
+          "eng": "You can download the application for free from our website.",
+          "ch": "您可以從我們的網站免費下載該應用程式。"
+        }
+      ]
+    },
+    {
+      "eng": "downstairs",
+      "kk": "ˌdaʊnˈstɛrz",
+      "tense": "adv.",
+      "ch": [
+        [
+          "在樓下",
+          "往樓下"
+        ]
+      ],
+      "analysis": "此字為副詞，由向下 down 加上樓梯複數形 stairs 結合而成。指位置在建築物的下一層或往樓下移動。",
+      "definition": "1. to or on a lower floor of a building.",
+      "example": [
+        {
+          "eng": "She went downstairs to answer the front door.",
+          "ch": "她下樓去開大門。"
+        }
+      ]
+    },
+    {
+      "eng": "dragon",
+      "kk": "ˈdræɡən",
+      "tense": "n.",
+      "ch": [
+        [
+          "龍"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古法語 dragon，源自拉丁語 draco，最終源自希臘語 drakon（巨蛇、幻獸，源自 dark- 看見的過去分詞，意指目光銳利的巨蛇）。神話傳說中的巨型爬行類神獸，在東方與西方文化中各有不同的象徵意義。",
+      "definition": "1. a mythical monster resembling a giant reptile, typically breathing fire in Western traditions.",
+      "example": [
+        {
+          "eng": "In Chinese mythology, the dragon brings rain and good fortune.",
+          "ch": "在中國神話中，龍會帶來雨水和好運。"
+        }
+      ]
+    },
+    {
+      "eng": "drama",
+      "kk": "ˈdrɑmə",
+      "tense": "n.",
+      "ch": [
+        [
+          "戲劇",
+          "劇本"
+        ],
+        [
+          "戲劇性事件",
+          "情感衝突"
+        ]
+      ],
+      "analysis": "此字為名詞，源自拉丁語 drama，源自希臘語 drāma（行動、戲劇作品，源自 dran 做、行動）。指舞台劇、電影劇本，或日常生活中具有高度張力、戲劇性的事件與情感衝突。",
+      "definition": "1. a play for theater, television, or radio; 2. an exciting, emotional, or unexpected event or series of events.",
+      "example": [
+        {
+          "eng": "She has a great passion for acting in television dramas.",
+          "ch": "她對演電視劇充滿熱情。"
+        },
+        {
+          "eng": "I am so tired of all the office drama lately.",
+          "ch": "我最近對辦公室裡的所有勾心鬥角感到厭煩。"
+        }
+      ]
+    },
+    {
+      "eng": "drawer",
+      "kk": "drɔr",
+      "tense": "n.",
+      "ch": [
+        [
+          "抽屜"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 draw（拉、拖）加上代理者字尾 -er 構成。字面義為「可以被拉出來的箱格結構」，指桌子或櫃子裡的抽屜。",
+      "definition": "1. a box-shaped container in a piece of furniture that is slid in and out horizontally.",
+      "example": [
+        {
+          "eng": "He kept his passport safely locked in the desk drawer.",
+          "ch": "他把護照安全地鎖在書桌抽屜裡。"
+        }
+      ]
+    },
+    {
+      "eng": "drawing",
+      "kk": "ˈdrɔɪŋ",
+      "tense": "n.",
+      "ch": [
+        [
+          "圖畫",
+          "繪圖"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 draw（畫畫、拉線條）加上動名詞字尾 -ing 構成。指用筆描繪出的圖畫或素描作品。",
+      "definition": "1. a picture or diagram made with a pencil, pen, or crayon.",
+      "example": [
+        {
+          "eng": "The child showed me a colorful drawing of his family.",
+          "ch": "這孩子拿了一幅他畫的彩色全家福給我看。"
+        }
+      ]
+    },
+    {
+      "eng": "drug",
+      "kk": "drʌɡ",
+      "tense": "n.",
+      "ch": [
+        [
+          "藥物",
+          "藥品"
+        ],
+        [
+          "毒品"
+        ]
+      ],
+      "analysis": "此字為名詞，源自中古法語 drogue（藥材、乾草），可能源自日耳曼語源（荷蘭語 droog 乾的）。歷史上指用於醫療的藥材，近代泛指治療疾病的合法藥物以及非法管制的麻醉毒品。",
+      "definition": "1. a medicine or other substance which has a physiological effect when ingested; 2. an illegal substance taken for pleasure or euphoria.",
+      "example": [
+        {
+          "eng": "The new cancer drug has shown promising clinical results.",
+          "ch": "這種新的抗癌藥物已經顯示出有希望的臨床結果。"
+        },
+        {
+          "eng": "The government launched a campaign against drug abuse.",
+          "ch": "政府發起了一場反對濫用毒品的運動。"
+        }
+      ]
+    },
+    {
+      "eng": "dryer",
+      "kk": "ˈdraɪər",
+      "tense": "n.",
+      "ch": [
+        [
+          "烘乾機",
+          "吹風機"
+        ]
+      ],
+      "analysis": "此字為名詞，由形容詞 dry（乾的）轉為動詞後加上代理者字尾 -er 構成。指用於去除水分的機器，如衣物烘乾機或頭髮吹風機。",
+      "definition": "1. a machine or device for drying something, such as a hair dryer or clothes dryer.",
+      "example": [
+        {
+          "eng": "She put the wet clothes into the dryer.",
+          "ch": "她把濕衣服放進烘乾機裡。"
+        }
+      ]
+    },
+    {
+      "eng": "due",
+      "kk": "du",
+      "tense": "adj.",
+      "ch": [
+        [
+          "預期的",
+          "到期的"
+        ],
+        [
+          "應付的",
+          "應得的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自古法語 du，源自拉丁語 debitus（應支付的，為 debere 欠債的過去分詞）。核心義為「理應給予的、期限到了應當償還的」，引申為預期抵達的時間或應得的權利。",
+      "definition": "1. expected or required at a certain time; 2. owed or owing as a debt or right.",
+      "example": [
+        {
+          "eng": "The train is due to arrive in ten minutes.",
+          "ch": "火車預計在十分鐘內抵達。"
+        },
+        {
+          "eng": "Employees are due to receive a bonus at the end of the year.",
+          "ch": "員工們預期在年底領到獎金。"
+        }
+      ]
+    },
+    {
+      "eng": "dull",
+      "kk": "dʌl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "枯燥的",
+          "無聊的"
+        ],
+        [
+          "遲鈍的",
+          "昏暗的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自古英語 dol（愚蠢的、遲鈍的），屬於日耳曼語源。語義從早期的「智力遲鈍、感官不敏銳（刀刃不鋒利）」擴展出「光線昏暗、天氣陰沉」以及現代最常用的「生活或文章枯燥乏味」。",
+      "definition": "1. lacking interest or excitement; boring; 2. slow in understanding, or not bright or sharp.",
+      "example": [
+        {
+          "eng": "I found the lecture extremely long and dull.",
+          "ch": "我覺得這個講座非常漫長又無聊。"
+        },
+        {
+          "eng": "The knife is too dull to cut through the meat.",
+          "ch": "這把刀太鈍了，切不開肉。"
+        }
+      ]
+    },
+    {
+      "eng": "duty",
+      "kk": "ˈduti",
+      "tense": "n.",
+      "ch": [
+        [
+          "職責",
+          "義務"
+        ],
+        [
+          "關稅"
+        ]
+      ],
+      "analysis": "此字為名詞，源自中古法語 duete（應盡的義務），源自古法語 du（應得的，即 due）。字面義為「一個人基於身分或契約所必須履行的責任」，並在經濟貿易上引申為進口貨物必須繳納的「關稅」。",
+      "definition": "1. a moral or legal obligation; a responsibility; 2. a tax paid on imports.",
+      "example": [
+        {
+          "eng": "It is the duty of the police to protect citizens.",
+          "ch": "保護公民是警察的職責。"
+        },
+        {
+          "eng": "Passengers must pay duty on goods exceeding the allowance.",
+          "ch": "旅客必須為超出額度的貨物繳納關稅。"
+        }
+      ]
+    },
+    {
+      "eng": "eagle",
+      "kk": "ˈiɡəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "鷹",
+          "鵰"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古法語 egle，源自拉丁語 aquila（可能源自 aquilus 暗褐色）。指大型猛禽老鷹，象徵力量與敏銳的視力。",
+      "definition": "1. a large bird of prey with a massive hooked bill and long broad wings, known for keen eyesight.",
+      "example": [
+        {
+          "eng": "An eagle soared high above the mountain peaks.",
+          "ch": "一隻老鷹在山峰高處翱翔。"
+        }
+      ]
+    },
+    {
+      "eng": "earn",
+      "kk": "ɜrn",
+      "tense": "vt.",
+      "ch": [
+        [
+          "賺取",
+          "贏得",
+          "獲得"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自古英語 earnian（賺取、獲得勞動報酬），屬於日耳曼語源。原意指透過耕作或勞動獲得收穫，現代泛指工作賺錢，或因表現優異而贏得聲譽與尊重。",
+      "definition": "1. to obtain money in return for labor or services; 2. to gain something as a result of one's behavior or efforts.",
+      "example": [
+        {
+          "eng": "She works hard to earn a living for her family.",
+          "ch": "她努力工作來為家庭謀生。"
+        },
+        {
+          "eng": "His dedication earned him the respect of his colleagues.",
+          "ch": "他的奉獻贏得了同事們的尊敬。"
+        }
+      ]
+    },
+    {
+      "eng": "earring",
+      "kk": "ˈɪrˌrɪŋ",
+      "tense": "n.",
+      "ch": [
+        [
+          "耳環",
+          "耳飾"
+        ]
+      ],
+      "analysis": "此字為名詞，由古英語 eare（耳朵）加上 hring（環狀物、戒指）複合而成。字面義為「戴在耳朵上的環」，指各種耳部裝飾品。",
+      "definition": "1. a piece of jewelry worn on the lobe or edge of the ear.",
+      "example": [
+        {
+          "eng": "She wore a pair of diamond earrings to the party.",
+          "ch": "她戴了一副鑽石耳環去參加派對。"
+        }
+      ]
+    },
+    {
+      "eng": "earrings",
+      "kk": "ˈɪrˌrɪŋz",
+      "tense": "n.",
+      "ch": [
+        [
+          "耳環（複數）"
+        ]
+      ],
+      "analysis": "此字為名詞的複數形式，對應單數名詞 earring。日常生活中耳環通常成對佩戴，因此常以複數形態出現。",
+      "definition": "1. pieces of jewelry worn on both ears.",
+      "example": [
+        {
+          "eng": "These silver earrings match your necklace perfectly.",
+          "ch": "這副銀耳環跟你的項鍊非常搭。"
+        }
+      ]
+    },
+    {
+      "eng": "earthquake",
+      "kk": "ˈɜrθˌkweɪk",
+      "tense": "n.",
+      "ch": [
+        [
+          "地震"
+        ]
+      ],
+      "analysis": "此字為名詞，由古英語 eorþe（大地、地球）加上 cwacian（顫抖、震動）複合而成。字面義為「大地的劇烈顫抖」，指地殼板塊運動造成的地震災害。",
+      "definition": "1. a sudden and violent shaking of the ground, sometimes causing great destruction, as a result of movements within the earth's crust.",
+      "example": [
+        {
+          "eng": "A major earthquake struck the island late last night.",
+          "ch": "昨深夜該島發生了一場大地震。"
+        }
+      ]
+    }
+  ]
+}

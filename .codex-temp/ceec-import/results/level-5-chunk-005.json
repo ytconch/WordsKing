@@ -1,0 +1,1244 @@
+{
+  "level": 5,
+  "chunkIndex": 5,
+  "inputs": [
+    "confidential",
+    "confine",
+    "conform",
+    "confront",
+    "confrontation",
+    "consecutive",
+    "consensus",
+    "consent",
+    "conservation",
+    "considerate",
+    "constitutional",
+    "constraint",
+    "consultation",
+    "consumption",
+    "contagious",
+    "contaminate",
+    "contemplate",
+    "contemporary",
+    "contempt",
+    "contend",
+    "continental",
+    "contractor",
+    "contradiction",
+    "controversial",
+    "controversy",
+    "conversion",
+    "convert",
+    "convict",
+    "conviction",
+    "coordinate",
+    "copyright",
+    "core",
+    "corporate",
+    "corporation",
+    "correlation",
+    "correspondent",
+    "corridor",
+    "corrupt",
+    "corruption",
+    "counsel",
+    "counselor",
+    "courteous",
+    "coverage",
+    "credibility",
+    "creek",
+    "cripple",
+    "criterion",
+    "criteria",
+    "crucial",
+    "crude"
+  ],
+  "rows": [
+    {
+      "eng": "confidential",
+      "kk": "ˌkɑːnfɪˈdɛnʃəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "機密的",
+          "保密的"
+        ],
+        [
+          "表示信任的",
+          "吐露心事的"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由名詞 confidence 去掉 e 加形容詞字尾 -ial 構成；源自拉丁語 confidentia。歷史上由拉丁語 confidere（信任、信賴）演變而來。語義演變從「充滿信任的」延伸出「基於信任而不可洩漏的」即機密，再到形容態度或關係上的私密、吐露心事。",
+      "definition": "1. spoken or written in private and expected to be kept secret; 2. showing a willingness to share private matters or trust someone.",
+      "example": [
+        {
+          "eng": "The documents contain highly confidential information about the company's finances.",
+          "ch": "這些文件包含關於公司財務高度機密的資訊。"
+        },
+        {
+          "eng": "She spoke in a confidential tone, sharing her personal worries.",
+          "ch": "她用一種吐露心事的語調說話，分享了她個人的擔憂。"
+        }
+      ]
+    },
+    {
+      "eng": "confine",
+      "kk": "kənˈfaɪn",
+      "tense": "vt.",
+      "ch": [
+        [
+          "限制",
+          "侷限"
+        ],
+        [
+          "禁閉",
+          "監禁"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自拉丁語 confinis（共同邊界的），由 com-（共同）與 finis（界線、終點）組成。進入法語後演變為動詞。語義從「共同界線」演變為「劃定界線、加以侷限」，進一步引申為「限制在特定範圍內」或「關在狹小空間內即禁閉」。",
+      "definition": "1. to keep someone or something within certain limits; 2. to shut or keep in, typically in prison or a restricted space.",
+      "example": [
+        {
+          "eng": "Please confine your discussion to the main topic.",
+          "ch": "請把你的討論限制在主要主題上。"
+        },
+        {
+          "eng": "The suspect was confined in a local jail pending trial.",
+          "ch": "嫌疑人被禁閉在當地看守所等待審判。"
+        }
+      ]
+    },
+    {
+      "eng": "conform",
+      "kk": "kənˈfɔːrm",
+      "tense": "vi.",
+      "ch": [
+        [
+          "遵守",
+          "服從"
+        ],
+        [
+          "符合",
+          "一致"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自拉丁語 conformare，由 com-（共同、加強）與 formare（形塑、造形）組成。語義從「塑造出相同的形狀」演變為「使行為或標準與大眾一致」即遵守與服從，或「事物在形狀或標準上符合、相符」。",
+      "definition": "1. to comply with rules, standards, or laws; 2. to be similar or identical to something in form or character.",
+      "example": [
+        {
+          "eng": "All students must conform to the school dress code.",
+          "ch": "所有學生都必須遵守學校的服裝規定。"
+        },
+        {
+          "eng": "The building does not conform to safety regulations.",
+          "ch": "這棟建築物不符合安全法規。"
+        }
+      ]
+    },
+    {
+      "eng": "confront",
+      "kk": "kənˈfrʌnt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "勇敢面對",
+          "正視"
+        ],
+        [
+          "對質",
+          "對抗"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自中世紀拉丁語 confrontare，由 com-（共同、面對面）與 frons（額頭、前額、正面）組成。語義從「使兩者額頭相對、正面相對」演變為「勇敢面對困難或問題」，以及「直接與某人對質或對抗」。",
+      "definition": "1. to deal with a difficult problem or situation in a direct way; 2. to face up to and challenge someone face-to-face.",
+      "example": [
+        {
+          "eng": "We must confront our fears if we want to succeed.",
+          "ch": "如果我們想要成功，就必須正視我們的恐懼。"
+        },
+        {
+          "eng": "She decided to confront her colleague about the rumor.",
+          "ch": "她決定就那個謠言與同事對質。"
+        }
+      ]
+    },
+    {
+      "eng": "confrontation",
+      "kk": "ˌkɑːnfrʌnˈteɪʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "衝突",
+          "對抗"
+        ],
+        [
+          "對質",
+          "面對"
+        ]
+      ],
+      "analysis": "此字為動詞 confront 加上名詞字尾 -ation 構成的現代透明構詞。語義從動詞的「正面相對、對質」延伸為名詞狀態的「公開衝突、對抗」或「雙方對質的行為」。",
+      "definition": "1. a hostile or argumentative disagreement or clash; 2. an act of confronting someone or something directly.",
+      "example": [
+        {
+          "eng": "Diplomats are trying to avoid a military confrontation.",
+          "ch": "外交官們正試圖避免軍事衝突。"
+        },
+        {
+          "eng": "The confrontation between the two leaders resolved nothing.",
+          "ch": "兩位領導人之間的對質沒有解決任何問題。"
+        }
+      ]
+    },
+    {
+      "eng": "consecutive",
+      "kk": "kənˈsɛkjʊtɪv",
+      "tense": "adj.",
+      "ch": [
+        [
+          "連續的",
+          "相繼的"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自拉丁語 consecutivus，由 con-（共同）與 sequi（跟隨）衍生而來。語義從「一個接一個緊密跟隨」演變為現代的「連續的、相繼發生的」。",
+      "definition": "1. following continuously; happening one after another without interruption.",
+      "example": [
+        {
+          "eng": "It has rained for three consecutive days.",
+          "ch": "已經連續下了三天雨。"
+        }
+      ]
+    },
+    {
+      "eng": "consensus",
+      "kk": "kənˈsɛnsəs",
+      "tense": "n.",
+      "ch": [
+        [
+          "共識",
+          "一致意見"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自拉丁語 consensus，由 consentire（意見一致，參見 consent）的過去分詞詞幹衍生而來，字根含 con-（共同）與 sentire（感受、思考）。語義從「大家有一致的感受或看法」演變為團體中的「共識、一致意見」。",
+      "definition": "1. a general agreement among a group of people.",
+      "example": [
+        {
+          "eng": "The committee reached a consensus on the new budget.",
+          "ch": "委員會就新預算達成了共識。"
+        }
+      ]
+    },
+    {
+      "eng": "consent",
+      "kk": "kənˈsɛnt",
+      "tense": "vi.",
+      "ch": [
+        [
+          "同意",
+          "准許"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自拉丁語 consentire，由 com-（共同）與 sentire（感覺、感知）組成。語義從「有共同的感覺或想法」演變為「對某事表示同意、准許」。",
+      "definition": "1. to give permission for something to happen or agree to do something.",
+      "example": [
+        {
+          "eng": "He finally consented to sign the contract.",
+          "ch": "他終於同意簽署合約。"
+        }
+      ]
+    },
+    {
+      "eng": "conservation",
+      "kk": "ˌkɑːnsərˈveɪʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "保育",
+          "保護"
+        ],
+        [
+          "節約",
+          "保存"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由動詞 conserve 加上名詞字尾 -ation 構成；源自拉丁語 conservatio。語義從「妥善保管、不讓其毀壞」演變為現代環境與資源脈絡下的「自然保育」以及日常的「能源節約」。",
+      "definition": "1. the protection of natural resources, animals, and plants; 2. the careful preservation and protection of something, especially energy or resources.",
+      "example": [
+        {
+          "eng": "Wildlife conservation is essential for maintaining ecological balance.",
+          "ch": "野生動物保育對於維持生態平衡至關重要。"
+        },
+        {
+          "eng": "Water conservation is crucial during the dry summer months.",
+          "ch": "在乾旱的夏季月份中，節約用水至關重要。"
+        }
+      ]
+    },
+    {
+      "eng": "considerate",
+      "kk": "kənˈsɪdərət",
+      "tense": "adj.",
+      "ch": [
+        [
+          "體貼的",
+          "考慮周到的"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由動詞 consider 加上形容詞字尾 -ate 構成；源自拉丁語 consideratus。語義從「經過仔細思考的」引申為「顧及他人感受、替人著想的」體貼。因已有專門詞典化的形容詞義，故獨立為 adj. row。",
+      "definition": "1. careful not to inconvenience or hurt others; showing kindness and respect for others' feelings.",
+      "example": [
+        {
+          "eng": "It was very considerate of you to help me with the heavy boxes.",
+          "ch": "你幫我搬沈重的箱子，真是太體貼了。"
+        }
+      ]
+    },
+    {
+      "eng": "constitutional",
+      "kk": "ˌkɑːnstɪˈtuːʃənəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "憲法的",
+          "合乎憲法的"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由名詞 constitution 加上形容詞字尾 -al 構成。語義從「與國家憲法相關的」或「符合憲法規定的」延伸而來。因已有專門詞典化的形容詞義，故獨立為 adj. row。",
+      "definition": "1. relating to an established set of principles governing a state; allowed by or contained in a constitution.",
+      "example": [
+        {
+          "eng": "The Supreme Court declared the new law constitutional.",
+          "ch": "最高法院宣告該項新法律合乎憲法。"
+        }
+      ]
+    },
+    {
+      "eng": "constraint",
+      "kk": "kənˈstreɪnt",
+      "tense": "n.",
+      "ch": [
+        [
+          "限制",
+          "約束"
+        ],
+        [
+          "拘束",
+          "窘迫"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自古法語 constrainte，由動詞 constrain（源自拉丁語 constringere，綁緊、束縛）的名詞化形演變而來。語義從「緊緊綁住的物理約束」延伸為抽象的「制度或預算限制」，以及心理上的「拘束感」。",
+      "definition": "1. a limitation or restriction; 2. a feeling of natural shyness or forced restriction in one's behavior.",
+      "example": [
+        {
+          "eng": "Budget constraints forced us to cut back on research.",
+          "ch": "預算限制迫使我們削減研究經費。"
+        },
+        {
+          "eng": "She spoke without constraint, expressing her true feelings.",
+          "ch": "她毫無拘束地發言，表達了真實的感受。"
+        }
+      ]
+    },
+    {
+      "eng": "consultation",
+      "kk": "ˌkɑːnsəlˈteɪʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "諮詢",
+          "商議"
+        ],
+        [
+          "會診",
+          "磋商會"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由動詞 consult 加上名詞字尾 -ation 構成；源自拉丁語 consultatio。語義從「共同商量、請教意見」演變為「正式諮詢、商議的過程」或是醫療上的「會診」。",
+      "definition": "1. a meeting with an expert, such as a doctor or lawyer, to ask for advice; 2. the action or process of formally consulting or discussing.",
+      "example": [
+        {
+          "eng": "You should schedule a consultation with a specialist.",
+          "ch": "你應該安排一次與專家的諮詢。"
+        },
+        {
+          "eng": "The decision was made after close consultation with union leaders.",
+          "ch": "這項決定是在與工會領袖密切磋商後做出的。"
+        }
+      ]
+    },
+    {
+      "eng": "consumption",
+      "kk": "kənˈsʌmpʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "消耗",
+          "消費"
+        ],
+        [
+          "吃喝",
+          "攝取"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自拉丁語 consumptio，由 consumere（消耗、吃光）的名詞化形演變而來。語義從「徹底用盡、消耗」延伸為日常的「能源或商品消費」以及食物的「攝取與吃喝」。",
+      "definition": "1. the using up of a resource; 2. the eating, drinking, or ingesting of something.",
+      "example": [
+        {
+          "eng": "The government is trying to reduce energy consumption.",
+          "ch": "政府正試圖減少能源消耗。"
+        },
+        {
+          "eng": "This meat is not suitable for human consumption.",
+          "ch": "這肉不適合人類食用。"
+        }
+      ]
+    },
+    {
+      "eng": "contagious",
+      "kk": "kənˈteɪdʒəs",
+      "tense": "adj.",
+      "ch": [
+        [
+          "接觸傳染性的",
+          "具傳染性的"
+        ],
+        [
+          "具有感染力的（情緒等）"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自中世紀拉丁語 contagiosus，由拉丁語 contagio（接觸、感染）加上形容詞字尾 -ous 構成。語義從「透過接觸傳播的疾病」引申為比喻義「情緒或笑聲極具感染力」。",
+      "definition": "1. (of a disease) spread from one person or organism to another by direct or indirect contact; 2. (of an emotion, feeling, or attitude) likely to spread to others.",
+      "example": [
+        {
+          "eng": "The flu is highly contagious during the first few days.",
+          "ch": "流感在最初幾天極具接觸傳染性。"
+        },
+        {
+          "eng": "Her enthusiasm was contagious and motivated the whole team.",
+          "ch": "她的熱情極具感染力，激勵了整個團隊。"
+        }
+      ]
+    },
+    {
+      "eng": "contaminate",
+      "kk": "kənˈtæmɪneɪt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "汙染",
+          "弄髒"
+        ],
+        [
+          "玷汙",
+          "腐蝕（道德等）"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自拉丁語 contaminatus（弄髒的），由 con-（共同）與根源與 templum 或汙染相關詞幹衍生。語義從「使純淨物變得不潔或受汙染」延伸為字面上的「環境或水源汙染」，以及抽象道德上的「玷汙」。",
+      "definition": "1. to pollute or make impure by adding toxic or unwanted substances; 2. to spoil, corrupt, or taint morally.",
+      "example": [
+        {
+          "eng": "Industrial waste has contaminated the local water supply.",
+          "ch": "工業廢料已經汙染了當地供水。"
+        },
+        {
+          "eng": "Scandals can contaminate the reputation of an organization.",
+          "ch": "醜聞會玷汙一個組織的名譽。"
+        }
+      ]
+    },
+    {
+      "eng": "contemplate",
+      "kk": "ˈkɑːntəmpleɪt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "沉思",
+          "凝視"
+        ],
+        [
+          "考慮",
+          "打算"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自拉丁語 contemplatus，由 com- 與 templum（原指占卜的觀察區或聖殿）衍生而來。語義從「在聖殿中專心觀察或凝視」演變為「深思熟慮、沉思」，進一步引申為「考慮或打算做某事」。",
+      "definition": "1. to look thoughtfully for a long time at; to think profoundly and at length; 2. to think about as a possible course of action; intend.",
+      "example": [
+        {
+          "eng": "He sat on the bench, quietly contemplating the sunset.",
+          "ch": "他坐在長椅上，靜靜地沉思著日落。"
+        },
+        {
+          "eng": "She is contemplating moving to a different city for a new job.",
+          "ch": "她正考慮搬到別的城市去尋找新工作。"
+        }
+      ]
+    },
+    {
+      "eng": "contemporary",
+      "kk": "kənˈtɛmpəreri",
+      "tense": "adj.",
+      "ch": [
+        [
+          "當代的",
+          "現代的"
+        ],
+        [
+          "同時代的"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自中世紀拉丁語 contemporarius，由 com-（共同）與 tempor-（時間 tempus 的詞幹）加上形容詞字尾 -ary 構成。語義從「屬於同一時代的」演變為「與現代同時代的即當代、現代風格的」。",
+      "definition": "1. belonging to or occurring in the present; modern; 2. belonging to or occurring in the same period of time.",
+      "example": [
+        {
+          "eng": "The museum exhibits contemporary art from around the world.",
+          "ch": "這座博物館展出世界各地的當代藝術。"
+        },
+        {
+          "eng": "Shakespeare and Cervantes were contemporary writers.",
+          "ch": "莎士比亞與塞凡提斯是同時代的作家。"
+        }
+      ]
+    },
+    {
+      "eng": "contempt",
+      "kk": "kənˈtɛmpt",
+      "tense": "n.",
+      "ch": [
+        [
+          "輕視",
+          "蔑視"
+        ],
+        [
+          "侮辱法庭罪",
+          "藐視法庭"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自拉丁語 contemptus，由 con- 與 temnere（輕視、看不起）的過去分詞衍生而來。語義從「將某人視為無價值而鄙視」演變為一般輕蔑，以及法律用語中的「藐視法庭」。",
+      "definition": "1. the feeling that a person or a thing is beneath consideration, worthless, or deserving scorn; 2. the offense of being disobedient to or disrespectful of a court of law.",
+      "example": [
+        {
+          "eng": "She looked at him with utter contempt.",
+          "ch": "她用極度輕蔑的眼神看著他。"
+        },
+        {
+          "eng": "He was held in contempt of court for shouting at the judge.",
+          "ch": "他因對法官大喊而被裁定藐視法庭。"
+        }
+      ]
+    },
+    {
+      "eng": "contend",
+      "kk": "kənˈtɛnd",
+      "tense": "vi.",
+      "ch": [
+        [
+          "競爭",
+          "爭奪"
+        ],
+        [
+          "堅稱",
+          "主張"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自拉丁語 contendere，由 com-（共同）與 tendere（伸展、用力）組成。語義從「雙方緊繃用力、爭奪同一目標」演變為「競爭」，在語意轉折中也引申為「在言語中據理力爭、堅稱」。",
+      "definition": "1. to struggle in opposition to a rival; compete for something; 2. to assert something as a position in an argument.",
+      "example": [
+        {
+          "eng": "Several athletes are contending for the gold medal.",
+          "ch": "幾位運動員正在爭奪金牌。"
+        },
+        {
+          "eng": "Lawyers contend that their client was not at the scene.",
+          "ch": "律師堅稱他們的委託人不在現場。"
+        }
+      ]
+    },
+    {
+      "eng": "continental",
+      "kk": "ˌkɑːntɪˈnɛntəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "大陸的",
+          "洲的"
+        ],
+        [
+          "歐洲大陸的"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由名詞 continent 加上形容詞字尾 -al 構成。語義從「屬於巨大陸地的」延伸為專指「歐洲大陸的（相對於英國等島嶼）」或地理學上的「大陸氣候、大陸板塊」。因已有專門詞典化的形容詞義，故獨立為 adj. row。",
+      "definition": "1. relating to or characteristic of a continent; 2. characteristic of or coming from the mainland of Europe.",
+      "example": [
+        {
+          "eng": "The country has a typical continental climate with cold winters.",
+          "ch": "該國具有典型的大陸性氣候，冬季寒冷。"
+        },
+        {
+          "eng": "He ordered a traditional continental breakfast.",
+          "ch": "他點了一份傳統的歐洲大陸式早餐。"
+        }
+      ]
+    },
+    {
+      "eng": "contractor",
+      "kk": "kənˈtræktər",
+      "tense": "n.",
+      "ch": [
+        [
+          "承包商",
+          "立契約者"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由動詞 contract 加上表示人的名詞字尾 -or 構成；源自中世紀拉丁語 contractor。語義從「簽訂契約、承接工程的人」演變為現代建築或商業領域的「承包商」。",
+      "definition": "1. a person or company that undertakes a contract to provide materials or labor to do a job.",
+      "example": [
+        {
+          "eng": "We hired a general contractor to remodel our kitchen.",
+          "ch": "我們聘請了一位總承包商來改建我們的廚房。"
+        }
+      ]
+    },
+    {
+      "eng": "contradiction",
+      "kk": "ˌkɑːntrəˈdɪkʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "矛盾",
+          "不一致"
+        ],
+        [
+          "反駁",
+          "否認"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自拉丁語 contradictio，由 contra-（相反）與 dicere（說）組合而成的動詞 contradicere 的名詞化形。語義從「說出與前言相反的話」演變為邏輯上的「矛盾、不一致」，以及言語上的「反駁」。",
+      "definition": "1. a combination of statements, ideas, or features that are opposed to one another; 2. the statement of the truth or falsity of something opposite.",
+      "example": [
+        {
+          "eng": "There is a clear contradiction between his words and his actions.",
+          "ch": "他的言行之間存在著明顯的矛盾。"
+        },
+        {
+          "eng": "Her statement was issued without contradiction from the committee.",
+          "ch": "她的聲明發表後，委員會並未予以反駁。"
+        }
+      ]
+    },
+    {
+      "eng": "controversial",
+      "kk": "ˌkɑːntrəˈvɜːrʃəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "具爭議性的",
+          "引起爭論的"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由名詞 controversy 去掉 y 加 -ial 構成；源自拉丁語 controversia。語義從「引起雙方反方向轉頭爭辯的」演變為現代的「具爭議性的」。因已有專門詞典化的形容詞義，故獨立為 adj. row。",
+      "definition": "1. giving rise to public disagreement; tending to cause controversy.",
+      "example": [
+        {
+          "eng": "The politician made a controversial speech about immigration.",
+          "ch": "這位政治人物發表了一場關於移民的爭議性演說。"
+        }
+      ]
+    },
+    {
+      "eng": "controversy",
+      "kk": "ˈkɑːntrəvɜːrsi",
+      "tense": "n.",
+      "ch": [
+        [
+          "爭議",
+          "爭論"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自拉丁語 controversia，由 contra-（相反）與 vertere（轉動）組成，字面義為「向相反方向轉動、爭辯」。語義從「針對某一議題的公開強烈爭論」演變為現代的「爭議」。",
+      "definition": "1. prolonged public disagreement or heated discussion, typically concerning a matter of opinion.",
+      "example": [
+        {
+          "eng": "The new policy sparked a major controversy among citizens.",
+          "ch": "這項新政策在市民中引發了巨大的爭議。"
+        }
+      ]
+    },
+    {
+      "eng": "conversion",
+      "kk": "kənˈvɜːrʒən",
+      "tense": "n.",
+      "ch": [
+        [
+          "轉變",
+          "轉換"
+        ],
+        [
+          "宗教信仰改變",
+          "皈依"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自拉丁語 conversio，由 convertere（轉向、轉變，參見 convert）的過去分詞詞幹衍生而來。語義從「物理上的轉向或改變」延伸為技術上的「資料或貨幣轉換」，以及精神上的「宗教信仰皈依」。",
+      "definition": "1. the process of changing or being converted from one form to another; 2. the act of changing one's religion, belief, or purpose.",
+      "example": [
+        {
+          "eng": "The conversion of the old warehouse into lofts was successful.",
+          "ch": "老倉庫改造為閣樓公寓的轉換相當成功。"
+        },
+        {
+          "eng": "His conversion to Buddhism changed his outlook on life.",
+          "ch": "他皈依佛教改變了他的人生觀。"
+        }
+      ]
+    },
+    {
+      "eng": "convert",
+      "kk": "kənˈvɜːrt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "轉變",
+          "轉換"
+        ],
+        [
+          "改變信仰",
+          "皈依"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自拉丁語 convertere，由 con-（加強）與 vertere（轉動、轉向）組成。語義從「把方向轉過來」演變為「將物體、貨幣或單位轉換成另一種形式」，以及引申為「改變宗教或思想信仰」。",
+      "definition": "1. to change or make something change from one form, purpose, or system to another; 2. to change one's religion, belief, or opinions.",
+      "example": [
+        {
+          "eng": "You can convert US dollars into euros at the bank.",
+          "ch": "你可以在銀行把美元兌換成歐元。"
+        },
+        {
+          "eng": "She converted to Christianity in her twenties.",
+          "ch": "她在二十幾歲時皈依了基督教。"
+        }
+      ]
+    },
+    {
+      "eng": "convict",
+      "kk": "kənˈvɪkt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "宣判有罪",
+          "定罪"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自拉丁語 convictus，由 convincere（證明有罪、說服）的過去分詞衍生而來，由 con- 與 vincere（征服、證明）組成。語義從「在法律辯論中徹底證明對方理虧或有罪」演變為現代法庭上的「宣判有罪」。",
+      "definition": "1. to declare someone to be guilty of a criminal offense by the verdict of a jury or the decision of a judge in a court of law.",
+      "example": [
+        {
+          "eng": "The jury voted to convict the defendant of theft.",
+          "ch": "陪審團投票裁定被告竊盜罪名成立。"
+        }
+      ]
+    },
+    {
+      "eng": "conviction",
+      "kk": "kənˈvɪkʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "深信",
+          "確信"
+        ],
+        [
+          "定罪",
+          "判決有罪"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自拉丁語 convictio，由動詞 convict 的相關詞幹衍生而來。語義從法律上的「定罪、判決有罪」經由「被說服確信有罪」的過程，演變為心理上的「堅定的信念、深信」。",
+      "definition": "1. a firmly held belief or opinion; 2. a formal declaration that someone is guilty of a criminal offense, made by the verdict of a jury or the decision of a judge.",
+      "example": [
+        {
+          "eng": "She spoke with deep conviction about the need for social reform.",
+          "ch": "她以堅定的信念談論社會改革的必要性。"
+        },
+        {
+          "eng": "This was his third conviction for drunk driving.",
+          "ch": "這是他第三次因酒駕被定罪。"
+        }
+      ]
+    },
+    {
+      "eng": "coordinate",
+      "kk": "koʊˈɔːrdɪneɪt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "協調",
+          "使配合"
+        ],
+        [
+          "統籌",
+          "整合"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自中世紀拉丁語 coordinatus，由 co-（com- 的同化形，共同）與 ordinare（排列、使有秩序，源自 ordo 順序）組成。語義從「將不同部分排列在同一層級或使之有序」演變為現代商業或組織中的「協調各方行動、統籌整合」。",
+      "definition": "1. to bring the different elements of a complex activity or organization into a harmonious relationship; 2. to organize various parts or people so that they work well together.",
+      "example": [
+        {
+          "eng": "The government agency will coordinate relief efforts in the disaster zone.",
+          "ch": "政府機構將協調災區的救援工作。"
+        },
+        {
+          "eng": "She has to coordinate schedules with several different departments.",
+          "ch": "她必須與好幾個不同的部門統籌行程。"
+        }
+      ]
+    },
+    {
+      "eng": "copyright",
+      "kk": "ˈkɑːpiˌraɪt",
+      "tense": "n.",
+      "ch": [
+        [
+          "版權",
+          "著作權"
+        ]
+      ],
+      "analysis": "此字為現代透明複合成詞，由 copy（原指抄本、複製品，此處指文字或創作的複寫權）與 right（權利）結合而成。語義從「印刷或複製創作物的合法權利」演變為現代的「版權、著作權」。",
+      "definition": "1. the exclusive legal right, given to an originator or an assignee to print, publish, perform, film, or record literary, artistic, or musical material.",
+      "example": [
+        {
+          "eng": "The book is protected by copyright law.",
+          "ch": "這本書受著作權法保護。"
+        }
+      ]
+    },
+    {
+      "eng": "core",
+      "kk": "kɔːr",
+      "tense": "n.",
+      "ch": [
+        [
+          "核心",
+          "果核"
+        ],
+        [
+          "精髓",
+          "最重要部分"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自中古英語 cor，可能源自古法語 cœur（心臟）或拉丁語 cor（心），但語源演變複雜。語義從植物的「果核（如蘋果心）」延伸為物體的「中心、核心」，再引申為抽象事物的「精髓、最重要部分」。",
+      "definition": "1. the central or innermost part of something, especially of fruit; 2. the basic or most important part of something.",
+      "example": [
+        {
+          "eng": "He threw away the apple core.",
+          "ch": "他把蘋果核丟掉了。"
+        },
+        {
+          "eng": "Honesty is at the core of our company values.",
+          "ch": "誠實是我们公司價值觀的核心。"
+        }
+      ]
+    },
+    {
+      "eng": "corporate",
+      "kk": "ˈkɔːrpərət",
+      "tense": "adj.",
+      "ch": [
+        [
+          "公司的",
+          "法人團體的"
+        ],
+        [
+          "共同的",
+          "全體一致的"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自拉丁語 corporatus（組成法人的），由 corpus（身體、軀幹、法人）衍生而來。語義從「組成一個共同體的、法人的」演變為現代商業用語的「公司的」，以及引申為集體「共同的、全體一致的」。因已有專門詞典化的形容詞義，故獨立為 adj. row。",
+      "definition": "1. relating to a large company or group; 2. shared by all the members of a group; collective.",
+      "example": [
+        {
+          "eng": "She secured a high-paying job in corporate finance.",
+          "ch": "她在企業金融界找到了一份高薪的工作。"
+        },
+        {
+          "eng": "We need a corporate effort to solve this environmental problem.",
+          "ch": "我們需要全體共同的努力來解決這個環境問題。"
+        }
+      ]
+    },
+    {
+      "eng": "corporation",
+      "kk": "ˌkɔːrpəˈreɪʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "股份有限公司",
+          "大企業"
+        ],
+        [
+          "法人團體"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自中世紀拉丁語 corporatio，由 corpus（身體、法人）衍生而來。語義從法律上的「由多個人組成的合法法人團體」演變為現代商業中的「大型企業、股份有限公司」。",
+      "definition": "1. a large company or group of companies authorized to act as a single entity and recognized as such in law; 2. a legal entity created under the laws of a state.",
+      "example": [
+        {
+          "eng": "He works as an engineer for a multinational corporation.",
+          "ch": "他是一家跨國大企業的工程師。"
+        }
+      ]
+    },
+    {
+      "eng": "correlation",
+      "kk": "ˌkɔːrəˈleɪʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "相關性",
+          "關聯"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由前綴 co-（共同）與 relation（關係，源自拉丁語 relatio）結合而成。語義從「兩個事物或變量之間彼此對應的關係」演變為統計學與科學上的「相關性、關聯」。",
+      "definition": "1. a mutual relationship or connection between two or more things.",
+      "example": [
+        {
+          "eng": "Studies show a strong correlation between smoking and lung cancer.",
+          "ch": "研究顯示抽菸與肺癌之間有強烈的相關性。"
+        }
+      ]
+    },
+    {
+      "eng": "correspondent",
+      "kk": "ˌkɔːrəˈspɑːndənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "記者",
+          "特派員"
+        ],
+        [
+          "通訊者",
+          "通信者"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自中古法語 correspondent，由 correspondre（通信、對應，由 com- 與 respondere 回應組成）的現在分詞衍生而來。語義從「互相寫信往來的通訊者」演變為媒體專職的「戰地或駐外記者、特派員」。",
+      "definition": "1. a journalist or reporter employed to report on a particular story or from a particular country; 2. a person with whom one communicates by letter.",
+      "example": [
+        {
+          "eng": "She works as a foreign correspondent based in London.",
+          "ch": "她是常駐倫敦的國外特派員。"
+        }
+      ]
+    },
+    {
+      "eng": "corridor",
+      "kk": "ˈkɔːrɪdər",
+      "tense": "n.",
+      "ch": [
+        [
+          "走廊",
+          "過道"
+        ],
+        [
+          "狹長通道（地帶）"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，透過法語 corridor 借自義大利語 corridoio（跑道、走廊），最終源自拉丁語 currere（奔跑）。語義從「供人奔跑或行走的長通道」演變為建築物內的「走廊」，以及地理或政治上連接兩地的「狹長通道地帶」。",
+      "definition": "1. a long passage in a building from which doors lead into rooms; 2. a long narrow strip of land, especially one connecting two other areas.",
+      "example": [
+        {
+          "eng": "His office is at the end of the corridor on the second floor.",
+          "ch": "他的辦公室在二樓走廊的盡頭。"
+        }
+      ]
+    },
+    {
+      "eng": "corrupt",
+      "kk": "kəˈrʌpt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "貪腐的",
+          "腐敗的"
+        ],
+        [
+          "墮落的",
+          "邪惡的"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自拉丁語 corruptus（崩壞的、腐敗的），由 con-（加強）與 rumpere（打破、破壞）的過去分詞組成。語義從物質上的「完全破損、腐爛」延伸為道德和政治上的「貪腐、收賄」，或心智上的「墮落」。因已有專門詞典化的形容詞義，故獨立為 adj. row。",
+      "definition": "1. (of a person) having or showing a willingness to act dishonestly in return for money or personal gain; 2. dishonest, wicked, or morally depraved.",
+      "example": [
+        {
+          "eng": "The investigation exposed a network of corrupt officials.",
+          "ch": "調查揭發了一個貪腐官員的網絡。"
+        }
+      ]
+    },
+    {
+      "eng": "corruption",
+      "kk": "kəˈrʌpʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "貪腐",
+          "腐敗"
+        ],
+        [
+          "墮落",
+          "（資料等）損壞"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自拉丁語 corruptio，由動詞 corrupt 的詞幹衍生而來。語義從物質腐爛或道德崩壞，延伸為現代政治經濟上的「貪腐、收賄」，以及電腦科學中的「資料損壞」。",
+      "definition": "1. dishonest or fraudulent conduct by those in power, typically involving bribery; 2. the destruction or spoiling of something, or data corruption in computing.",
+      "example": [
+        {
+          "eng": "The new president promised to crack down on government corruption.",
+          "ch": "新總統承諾要嚴厲打擊政府貪腐。"
+        }
+      ]
+    },
+    {
+      "eng": "counsel",
+      "kk": "ˈkaʊnsəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "建議",
+          "忠告"
+        ],
+        [
+          "法律顧問",
+          "律師"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，透過古法語 conseil 源自拉丁語 consilium（商議、計畫、建議），由 con- 與基於根源的動詞詞幹構成。語義從「共同商議出的意見」演變為「建議、忠告」，在法律語境中引申為「訴訟代理人、律師」。",
+      "definition": "1. guidance or advice given to someone, especially on social or personal problems; 2. a lawyer or lawyers conducting a case in court.",
+      "example": [
+        {
+          "eng": "Thank you for your wise counsel and support.",
+          "ch": "謝謝你明智的建議與支持。"
+        },
+        {
+          "eng": "The defense counsel presented new evidence in court.",
+          "ch": "辯護律師在法庭上提出了新證據。"
+        }
+      ]
+    },
+    {
+      "eng": "counselor",
+      "kk": "ˈkaʊnsələr",
+      "tense": "n.",
+      "ch": [
+        [
+          "顧問",
+          "輔導員"
+        ],
+        [
+          "法律顧問"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由名詞 counsel 加上表示人的名詞字尾 -or 構成。語義從「提供諮詢建議或心理輔導的人」演變為校園輔導員、心理諮商師或法律顧問。因已有專門詞典化的名詞義，故獨立為 n. row。",
+      "definition": "1. a person who gives professional advice and guidance; 2. a lawyer.",
+      "example": [
+        {
+          "eng": "She spoke with the school counselor about her career plans.",
+          "ch": "她與學校輔導員談了她的職涯計畫。"
+        }
+      ]
+    },
+    {
+      "eng": "courteous",
+      "kk": "ˈkɜːrtiəs",
+      "tense": "adj.",
+      "ch": [
+        [
+          "有禮貌的",
+          "謙恭的"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自古法語 corteis（源自法語 cour 宮廷），指具備宮廷式良好教養。語義從「宮廷貴族的優雅舉止」演變為一般日常社交中的「有禮貌的、謙恭的」。因已有專門詞典化的形容詞義，故獨立為 adj. row。",
+      "definition": "1. polite, respectful, or considerate in manner.",
+      "example": [
+        {
+          "eng": "The hotel staff were extremely courteous and helpful.",
+          "ch": "飯店員工極其有禮貌且樂於助人。"
+        }
+      ]
+    },
+    {
+      "eng": "coverage",
+      "kk": "ˈkʌvərɪdʒ",
+      "tense": "n.",
+      "ch": [
+        [
+          "新聞報導",
+          "覆蓋範圍"
+        ],
+        [
+          "（保險等）承保範圍"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由動詞 cover 加上名詞字尾 -age 構成。語義從「覆蓋的區域範圍」延伸為媒體的「新聞報導範圍」，以及保險契約的「理賠與承保範圍」。",
+      "definition": "1. the treatment of an issue or event in the news media; the extent to which something is covered; 2. the protection given by an insurance policy.",
+      "example": [
+        {
+          "eng": "The election received extensive coverage on television.",
+          "ch": "這次選舉在電視上獲得了廣泛的新聞報導。"
+        },
+        {
+          "eng": "Does your health insurance policy provide dental coverage?",
+          "ch": "你的健康保險合約有提供牙科承保範圍嗎？"
+        }
+      ]
+    },
+    {
+      "eng": "credibility",
+      "kk": "ˌkrɛdəˈbɪləti",
+      "tense": "n.",
+      "ch": [
+        [
+          "可信度",
+          "信用"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由形容詞 credible 轉化名詞字尾 -ity 構成；源自拉丁語 credibilitas。語義從「能夠被相信的特質」演變為現代的「可信度、公信力」。",
+      "definition": "1. the quality of being trusted and believed in.",
+      "example": [
+        {
+          "eng": "The scandal seriously damaged the politician's credibility.",
+          "ch": "這起醜聞嚴重損害了該政治人物的可信度。"
+        }
+      ]
+    },
+    {
+      "eng": "creek",
+      "kk": "kriːk",
+      "tense": "n.",
+      "ch": [
+        [
+          "小溪",
+          "小河"
+        ],
+        [
+          "海灣",
+          "小港"
+        ]
+      ],
+      "analysis": "此字為歷史繼承詞，源自古諾斯語 kriki（彎曲處、角落），經由中古英語進入英語。語義從早期地理上的「水流彎曲處的小河灣」演變為美國與其他地區常見的「小溪、小河」，或沿海的「小海灣」。",
+      "definition": "1. a narrow, sheltered waterway or a small stream; 2. a small inlet or bay.",
+      "example": [
+        {
+          "eng": "We caught small fish in the shallow creek behind the house.",
+          "ch": "我們在房子後面淺淺的小溪裡抓小魚。"
+        }
+      ]
+    },
+    {
+      "eng": "cripple",
+      "kk": "ˈkrɪpəl",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使癱瘓",
+          "嚴重損害"
+        ],
+        [
+          "使殘疾"
+        ]
+      ],
+      "analysis": "此字為歷史繼承詞，源自古英語 crypel（殘疾人），與 creep（爬行）同源。語義從早期字面上的「使人肢體殘疾、行動不便」，延伸為現代廣泛比喻的「使經濟、系統或計畫癱瘓、嚴重損害」。",
+      "definition": "1. to cause severe damage to something, making it unable to work properly; 2. to cause someone to be unable to walk or move normally.",
+      "example": [
+        {
+          "eng": "The cyberattack crippled the company's computer system.",
+          "ch": "這場網路攻擊使該公司的電腦系統癱瘓。"
+        },
+        {
+          "eng": "The accident left him crippled for life.",
+          "ch": "這場意外使他終身殘疾。"
+        }
+      ]
+    },
+    {
+      "eng": "criterion",
+      "kk": "kraɪˈtɪriən",
+      "tense": "n.",
+      "ch": [
+        [
+          "標準",
+          "準則"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，直接源自古希臘語 kritērion（標準、判斷標準），由 krinein（評判、決定）衍生而來。語義從「用來評判或檢驗事物真偽、優劣的標準」演變為現代的「標準、評選準則」。",
+      "definition": "1. a principle or standard by which something may be judged or decided.",
+      "example": [
+        {
+          "eng": "Academic excellence is the main criterion for admission.",
+          "ch": "學術優異是入學的主要標準。"
+        }
+      ]
+    },
+    {
+      "eng": "criteria",
+      "kk": "kraɪˈtɪriə",
+      "tense": "n.",
+      "ch": [
+        [
+          "標準",
+          "準則（複數形）"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，為希臘語單數 criterion 的標準希臘語複數形，直接借入英語作為複數名詞使用。語義與單數相同，指多個「標準、評選準則」。因其複數形態與單數不同，且在當代用法中極為固定，故獨立為 n. row。",
+      "definition": "1. plural form of criterion: principles or standards by which something may be judged or decided.",
+      "example": [
+        {
+          "eng": "The committee has set clear criteria for evaluating the proposals.",
+          "ch": "委員會已經為評估提案設定了明確的標準。"
+        }
+      ]
+    },
+    {
+      "eng": "crucial",
+      "kk": "ˈkruːʃəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "至關重要的",
+          "決定性的"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自中世紀拉丁語 crucialis，由 crux（十字架）衍生而來（法語稱 cruci-）。歷史上源於法蘭西斯·培根等學者將十字路口比喻為「面臨抉擇的十字路口」。語義從「處於十字路口需做決定性的」演變為「至關重要的」。因已有專門詞典化的形容詞義，故獨立為 adj. row。",
+      "definition": "1. extremely important; decisive or critical.",
+      "example": [
+        {
+          "eng": "Good communication is crucial for a successful marriage.",
+          "ch": "良好的溝通對於美滿的婚姻至關重要。"
+        }
+      ]
+    },
+    {
+      "eng": "crude",
+      "kk": "kruːd",
+      "tense": "adj.",
+      "ch": [
+        [
+          "天然的",
+          "未加工的"
+        ],
+        [
+          "粗糙的",
+          "粗俗的"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自拉丁語 crudus（未煮熟的、生疏的、殘酷的）。語義從「生肉、未經加工的天然狀態」衍生出「未提煉的原油等」，也引申為行為或言談上的「粗糙、粗俗的」。因已有專門詞典化的形容詞義，故獨立為 adj. row。",
+      "definition": "1. in a natural or raw state; not yet processed or refined; 2. offensive or rude; lacking sophistication or taste.",
+      "example": [
+        {
+          "eng": "Crude oil prices rose sharply in global markets today.",
+          "ch": "原油價格今天在全球市場上急遽上漲。"
+        },
+        {
+          "eng": "He apologized for making a crude joke.",
+          "ch": "他為開了一個粗俗的玩笑而道歉。"
+        }
+      ]
+    }
+  ]
+}

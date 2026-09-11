@@ -1,0 +1,1363 @@
+{
+  "level": 3,
+  "chunkIndex": 11,
+  "inputs": [
+    "lick",
+    "lifetime",
+    "lighthouse",
+    "lightning",
+    "lily",
+    "limb",
+    "litter",
+    "lively",
+    "loaf",
+    "lobby",
+    "locate",
+    "location",
+    "lock",
+    "log",
+    "lollipop",
+    "loose",
+    "lord",
+    "loser",
+    "lover",
+    "luggage",
+    "lung",
+    "magical",
+    "magician",
+    "magnet",
+    "maid",
+    "majority",
+    "mall",
+    "mankind",
+    "humankind",
+    "marble",
+    "march",
+    "marker",
+    "marvelous",
+    "mathematical",
+    "mayor",
+    "meadow",
+    "meaningful",
+    "meanwhile",
+    "medal",
+    "medium",
+    "media",
+    "melon",
+    "melt",
+    "mend",
+    "mental",
+    "merry",
+    "mess",
+    "microphone",
+    "mike",
+    "microwave"
+  ],
+  "rows": [
+    {
+      "eng": "lick",
+      "kk": "/lɪk/",
+      "tense": "n.",
+      "ch": [
+        [
+          "舔",
+          "少量"
+        ],
+        [
+          "短暫而快速的動作",
+          "一段短音樂"
+        ]
+      ],
+      "analysis": "由動詞 lick 轉品而來的名詞，保留了舔的動作意義，並在口語中衍生指極少量的物質或音樂演奏的一小段樂句（lick）。",
+      "definition": "1. an act of licking, or a small amount of something; 2. a short phrase or pattern of notes played by a musician.",
+      "example": [
+        {
+          "eng": "He gave the ice cream cone a quick lick.",
+          "ch": "他快速地舔了一下冰淇淋甜筒。"
+        },
+        {
+          "eng": "The guitarist played a brilliant blues lick.",
+          "ch": "吉他手彈奏了一段精彩的藍調樂句。"
+        }
+      ]
+    },
+    {
+      "eng": "lick",
+      "kk": "/lɪk/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "舔",
+          "舐"
+        ],
+        [
+          "輕拂",
+          "掠過"
+        ],
+        [
+          "擊敗",
+          "戰勝"
+        ]
+      ],
+      "analysis": "此字為直接繼承自古英語的日耳曼語族詞彙（源自古英語 lician），作為及物動詞保留了原始的物理接觸與動作義，並在日常口語中延伸出擊敗或戰勝的隱喻用法。",
+      "definition": "1. to pass the tongue over something; 2. to touch or pass lightly over; 3. to defeat or thrash someone in a contest or fight.",
+      "example": [
+        {
+          "eng": "The cat likes to lick its fur clean.",
+          "ch": "這隻貓喜歡舔乾淨牠的毛。"
+        },
+        {
+          "eng": "A cool breeze began to lick her face.",
+          "ch": "一陣涼爽的微風開始輕拂她的臉龐。"
+        },
+        {
+          "eng": "Our team managed to lick the champions in the final match.",
+          "ch": "我們隊在決賽中設法擊敗了冠軍隊。"
+        }
+      ]
+    },
+    {
+      "eng": "lick",
+      "kk": "/lɪk/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "舔",
+          "伸出舌頭"
+        ]
+      ],
+      "analysis": "此字為 lick 的不及物動詞用法，指動作主體進行舔的動作或舌頭碰觸物體表面。",
+      "definition": "1. to make a quick movement with the tongue.",
+      "example": [
+        {
+          "eng": "The flames began to lick at the dry wood.",
+          "ch": "火焰開始舔舐乾木頭。"
+        }
+      ]
+    },
+    {
+      "eng": "lifetime",
+      "kk": "/ˈlaɪfˌtaɪm/",
+      "tense": "n.",
+      "ch": [
+        [
+          "一生",
+          "終身",
+          "有生之年"
+        ]
+      ],
+      "analysis": "由 life（生命、生活）與 time（時間）結合而成的現代透明複合名詞，指一個人從出生到死亡的整個存續期間。",
+      "definition": "1. the duration of a person's life, or the period during which something functions or exists.",
+      "example": [
+        {
+          "eng": "She dedicated her entire lifetime to medical research.",
+          "ch": "她將一生的時間奉獻給了醫學研究。"
+        }
+      ]
+    },
+    {
+      "eng": "lighthouse",
+      "kk": "/ˈlaɪtˌhaʊs/",
+      "tense": "n.",
+      "ch": [
+        [
+          "燈塔"
+        ]
+      ],
+      "analysis": "由 light（光線、燈光）與 house（房屋、建築）組成的現代透明複合名詞，指建在海岸或島嶼上用強光指引船隻航行的塔狀建築。",
+      "definition": "1. a tower or other structure containing a beacon light to warn or guide ships at sea.",
+      "example": [
+        {
+          "eng": "The old lighthouse guided the ships safely through the storm.",
+          "ch": "古老的燈塔引導船隻安全度過暴風雨。"
+        }
+      ]
+    },
+    {
+      "eng": "lightning",
+      "kk": "/ˈlaɪtnɪŋ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "閃電"
+        ]
+      ],
+      "analysis": "源自古英語 lȳhtning，由動詞 lighten（發光、照亮，源自 lēoht 光）加上名詞化字尾 -ing 形成，指雲層之間或雲地之間發生的劇烈放電發光現象。",
+      "definition": "1. the occurrence of a natural electrical discharge of very short duration and high voltage between a cloud and the ground or within a cloud.",
+      "example": [
+        {
+          "eng": "A flash of lightning lit up the dark sky.",
+          "ch": "一道閃電照亮了黑暗的天空。"
+        }
+      ]
+    },
+    {
+      "eng": "lily",
+      "kk": "/ˈlɪli/",
+      "tense": "n.",
+      "ch": [
+        [
+          "百合花"
+        ]
+      ],
+      "analysis": "經由古法語借自拉丁語 lilium，最終源自希臘語 leirion，指百合科植物及其具有大而顯眼花朵的花卉。",
+      "definition": "1. a bulbous plant with large trumpet-shaped flowers.",
+      "example": [
+        {
+          "eng": "White lilies bloomed gracefully in the spring garden.",
+          "ch": "白色的百合花在春天的花園裡優雅地盛開。"
+        }
+      ]
+    },
+    {
+      "eng": "limb",
+      "kk": "/lɪm/",
+      "tense": "n.",
+      "ch": [
+        [
+          "肢",
+          "臂",
+          "腿"
+        ],
+        [
+          "大樹枝"
+        ]
+      ],
+      "analysis": "直接繼承自古英語 lim（源自日耳曼語族），原義即指身體的四肢，後來引申指樹木的主大枝幹。",
+      "definition": "1. an arm or leg of a person or four-legged animal; 2. a large main branch of a tree.",
+      "example": [
+        {
+          "eng": "He injured a limb during the skiing accident.",
+          "ch": "他在滑雪意外中傷了一隻肢體。"
+        },
+        {
+          "eng": "A heavy tree limb broke off during the heavy storm.",
+          "ch": "一根粗重的樹枝在暴風雨中斷裂了。"
+        }
+      ]
+    },
+    {
+      "eng": "litter",
+      "kk": "/ˈlɪtər/",
+      "tense": "n.",
+      "ch": [
+        [
+          "垃圾",
+          "廢棄物"
+        ],
+        [
+          "一胎所產的小動物"
+        ],
+        [
+          "擔架",
+          "轎子"
+        ]
+      ],
+      "analysis": "經由中古英語借自古法語 litere（意為床上用品、稻草堆，源自拉丁語 lectus 床），早期指鋪在地上供動物休息的稻草或垃圾，後來引申出動物一胎所產的幼獸群，以及供人躺臥搬運的擔架或轎子。",
+      "definition": "1. rubbish scattered carelessly; 2. a number of young animals born to an animal at one time; 3. a stretcher for carrying a sick or injured person.",
+      "example": [
+        {
+          "eng": "Please do not leave litter on the park grass.",
+          "ch": "請不要把垃圾留在公園草地上。"
+        },
+        {
+          "eng": "The cat gave birth to a litter of four kittens.",
+          "ch": "這隻貓生了一胎四隻小貓。"
+        },
+        {
+          "eng": "The wounded soldier was carried away on a litter.",
+          "ch": "受傷的士兵被放在擔架上抬走了。"
+        }
+      ]
+    },
+    {
+      "eng": "litter",
+      "kk": "/ˈlɪtər/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "亂丟垃圾",
+          "使凌亂",
+          "布滿"
+        ]
+      ],
+      "analysis": "由名詞 litter 轉化而來的及物動詞，原義指在地上鋪滿雜物，現代多指隨意丟棄垃圾造成環境凌亂，或指物品散落各處。",
+      "definition": "1. to make a place untidy with rubbish or a large number of objects.",
+      "example": [
+        {
+          "eng": "Plastic wrappers littered the sandy beach.",
+          "ch": "塑膠包裝紙散落滿了沙灘。"
+        }
+      ]
+    },
+    {
+      "eng": "lively",
+      "kk": "/ˈlaɪvli/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "充滿活力的",
+          "熱鬧的",
+          "生動的"
+        ]
+      ],
+      "analysis": "由古英語 līflīc（由 līf 生命 + -līc 形容詞字尾）演變而來，字面即「充滿生命的」，現代指人、活動或氣氛十分活躍且充滿生氣。",
+      "definition": "1. full of life and energy; outgoing and enthusiastically cheerful.",
+      "example": [
+        {
+          "eng": "The party had a lively atmosphere with great music.",
+          "ch": "派對有著伴隨美妙音樂的熱鬧氣氛。"
+        }
+      ]
+    },
+    {
+      "eng": "loaf",
+      "kk": "/loʊf/",
+      "tense": "n.",
+      "ch": [
+        [
+          "一條（麵包等）"
+        ]
+      ],
+      "analysis": "直接繼承自古英語 hlāf（意為麵包、食物），為日耳曼語族特有的古老詞彙（與 lord 的字源有深遠歷史連結），現代專指烘烤成整塊的麵包條或塊。",
+      "definition": "1. a shaped mass of bread baked as a single piece.",
+      "example": [
+        {
+          "eng": "She bought a fresh loaf of whole wheat bread from the bakery.",
+          "ch": "她在麵包店買了一條新鮮的全麥麵包。"
+        }
+      ]
+    },
+    {
+      "eng": "lobby",
+      "kk": "/ˈlɑbi/",
+      "tense": "n.",
+      "ch": [
+        [
+          "大廳",
+          "休息室"
+        ],
+        [
+          "遊說團體"
+        ]
+      ],
+      "analysis": "源自中古英語 loby（修道院的走廊或休息室，源自中世紀拉丁語 lobium），後來指議會大廈的走廊，並引申出在走廊或休息室向議員施加影響力的「遊說團體」。",
+      "definition": "1. an entrance hall or reception area; 2. a group of people seeking to influence politicians on a particular issue.",
+      "example": [
+        {
+          "eng": "We agreed to meet in the hotel lobby at noon.",
+          "ch": "我們約好中午在飯店大廳見面。"
+        },
+        {
+          "eng": "The environmental lobby pressured the government for stricter laws.",
+          "ch": "環保遊說團體向政府施壓以爭取更嚴格的法律。"
+        }
+      ]
+    },
+    {
+      "eng": "lobby",
+      "kk": "/ˈlɑbi/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "遊說"
+        ]
+      ],
+      "analysis": "由名詞 lobby 轉化而來的及物動詞，指試圖影響政府官員或議員通過或反對特定法案。",
+      "definition": "1. to seek to influence a politician or public official on an issue.",
+      "example": [
+        {
+          "eng": "Activists are lobbying lawmakers to protect endangered species.",
+          "ch": "活動人士正在遊說立法者保護瀕危物種。"
+        }
+      ]
+    },
+    {
+      "eng": "locate",
+      "kk": "/ˈloʊkeɪt/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "找出……的位置",
+          "定位"
+        ],
+        [
+          "設置",
+          "坐落於"
+        ]
+      ],
+      "analysis": "由拉丁語 locare（放置、安置，源自 locus 地點）的過去分詞詞幹加上英文動詞字尾 -ate 構成，原義為安置在某處，現代多指尋找並確定人或物的位置，或指機構的設立地點。",
+      "definition": "1. to discover the exact place or position of; 2. to place or establish in a particular place.",
+      "example": [
+        {
+          "eng": "Rescue teams worked hard to locate the missing hikers.",
+          "ch": "救援隊努力尋找失蹤登山客的位置。"
+        },
+        {
+          "eng": "The company decided to locate its headquarters in New York.",
+          "ch": "公司決定將總部設在紐約。"
+        }
+      ]
+    },
+    {
+      "eng": "location",
+      "kk": "/loʊˈkeɪʃən/",
+      "tense": "n.",
+      "ch": [
+        [
+          "地點",
+          "位置",
+          "場所"
+        ]
+      ],
+      "analysis": "由動詞 locate 加上名詞字尾 -ion 構成，指某物或某事所處的地方或特定場所。",
+      "definition": "1. a particular place or position.",
+      "example": [
+        {
+          "eng": "This scenic spot is an ideal location for filming movies.",
+          "ch": "這個風景優美的景點是拍攝電影的理想地點。"
+        }
+      ]
+    },
+    {
+      "eng": "lock",
+      "kk": "/lɑk/",
+      "tense": "n.",
+      "ch": [
+        [
+          "鎖"
+        ],
+        [
+          "（運河的）船閘"
+        ],
+        [
+          "一束（頭髮、毛髮）"
+        ]
+      ],
+      "analysis": "此字有兩個不同歷史來源的同形異源義：1. 門鎖與船閘源自古英語 loc（扣件、圍欄）；2. 一束頭髮源自古英語 locc（捲曲的毛髮），兩者在現代拼字上合流為同一詞。",
+      "definition": "1. a mechanical fastening device; 2. a section of a canal with gates used to raise and lower boats; 3. a tress or lock of hair.",
+      "example": [
+        {
+          "eng": "He turned the key in the lock and opened the door.",
+          "ch": "他轉動鎖裡的鑰匙並打開了門。"
+        },
+        {
+          "eng": "The ship slowly passed through the canal lock.",
+          "ch": "船隻緩緩穿過運河船閘。"
+        },
+        {
+          "eng": "A stray lock of hair fell across her forehead.",
+          "ch": "一縷散亂的頭髮垂在她的額頭上。"
+        }
+      ]
+    },
+    {
+      "eng": "lock",
+      "kk": "/lɑk/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "鎖上",
+          "鎖住"
+        ],
+        [
+          "卡住",
+          "固定"
+        ]
+      ],
+      "analysis": "由名詞 lock 衍生而來的及物動詞，指用鎖把門窗等扣上，或指機構、身體部位緊緊卡住不動。",
+      "definition": "1. to fasten something securely with a lock; 2. to become firmly fixed in one position.",
+      "example": [
+        {
+          "eng": "Don't forget to lock the front door before you leave.",
+          "ch": "離開前別忘了把大門鎖上。"
+        },
+        {
+          "eng": "Fear seemed to lock his knees, making him unable to run.",
+          "ch": "恐懼似乎卡住了他的膝蓋，使他跑不動。"
+        }
+      ]
+    },
+    {
+      "eng": "lock",
+      "kk": "/lɑk/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "被鎖上",
+          "扣緊",
+          "卡住不動"
+        ]
+      ],
+      "analysis": "動詞 lock 的不及物用法，指門窗等自動扣上或零件因故卡死無法轉動。",
+      "definition": "1. to become fastened with a lock; 2. to become tightly engaged or stuck together.",
+      "example": [
+        {
+          "eng": "The safety mechanism on the gun locked securely.",
+          "ch": "槍的安全機制牢牢地卡扣上了。"
+        }
+      ]
+    },
+    {
+      "eng": "log",
+      "kk": "/lɔɡ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "原木",
+          "木段"
+        ],
+        [
+          "航海日誌",
+          "工作記錄"
+        ]
+      ],
+      "analysis": "此字源自中世紀英語，原義指砍伐下來的原木；早期航海家用原木測速（繫繩拋入水中計算漂流），因而衍生出記錄航行數據的「航海日誌（logbook）」，再擴大為各種系統或工作的正式記錄。",
+      "definition": "1. a cut piece of the trunk or a large branch of a tree; 2. an official record of events, operations, or navigation.",
+      "example": [
+        {
+          "eng": "We burned heavy oak logs in the fireplace to keep warm.",
+          "ch": "我們在壁爐裡燃燒厚重的橡木原木來取暖。"
+        },
+        {
+          "eng": "The captain checked the ship's log for weather updates.",
+          "ch": "船長查看了船隻的航海日誌以了解天氣更新。"
+        }
+      ]
+    },
+    {
+      "eng": "log",
+      "kk": "/lɔɡ/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "伐木",
+          "記錄",
+          "登入"
+        ]
+      ],
+      "analysis": "由名詞 log 轉化而來的及物動詞，原義指砍伐樹木成原木，後引申出記錄數據或在電腦系統中「登入（log in）」的操作。",
+      "definition": "1. to cut down trees for wood; 2. to enter an item in a log or record; 3. to officially register access to a computer system.",
+      "example": [
+        {
+          "eng": "The company was permitted to log a specific section of the forest.",
+          "ch": "該公司獲准砍伐森林中的特定區域。"
+        },
+        {
+          "eng": "Pilots must log every flight hour accurately.",
+          "ch": "飛行員必須精確記錄每一個飛行小時。"
+        }
+      ]
+    },
+    {
+      "eng": "lollipop",
+      "kk": "/ˈlɑliˌpɑp/",
+      "tense": "n.",
+      "ch": [
+        [
+          "棒棒糖"
+        ]
+      ],
+      "analysis": "由方言詞 lolly（舌頭、舔）與 pop（糖果或彈舌聲）組成的複合詞，指黏在小棍子上的硬糖果。",
+      "definition": "1. a large, hard candy on a stick.",
+      "example": [
+        {
+          "eng": "The little boy happily licked his strawberry lollipop.",
+          "ch": "小男孩開心地舔著他的草莓棒棒糖。"
+        }
+      ]
+    },
+    {
+      "eng": "loose",
+      "kk": "/luːs/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "鬆的",
+          "寬鬆的"
+        ],
+        [
+          "未栓住的",
+          "自由的"
+        ]
+      ],
+      "analysis": "直接繼承自古英語lēas（源自日耳曼語族，意為空虛的、缺少的），在中古英語中受古諾斯語 lauss 影響演變為現代的「鬆動、不緊密」之義。",
+      "definition": "1. not tightly fixed, attached, or rigid; 2. not tied up or confined.",
+      "example": [
+        {
+          "eng": "He wore a loose shirt to stay cool in the summer heat.",
+          "ch": "他穿了一件寬鬆的襯衫好在夏日炎熱中保持涼爽。"
+        },
+        {
+          "eng": "A dangerous dog was running loose in the neighborhood.",
+          "ch": "一隻具危險性的狗在鄰里間四處游蕩未被栓住。"
+        }
+      ]
+    },
+    {
+      "eng": "lord",
+      "kk": "/lɔrd/",
+      "tense": "n.",
+      "ch": [
+        [
+          "領主",
+          "貴族",
+          "主（尊稱）"
+        ]
+      ],
+      "analysis": "源自古英語 hlāford，由 hlāf（麵包、糧食）與 weard（守衛、管理者）複合而成，原義為「提供糧食的管理者」或「家長、主人」，後來演變為封建領主、貴族尊稱及對神明的尊稱。",
+      "definition": "1. a master, leader, or ruler; a nobleman; 2. a title of respect for a peer or deity.",
+      "example": [
+        {
+          "eng": "The medieval lord ruled over a vast territory and many peasants.",
+          "ch": "中古世紀的領主統治著廣袤的領土和許多農民。"
+        }
+      ]
+    },
+    {
+      "eng": "loser",
+      "kk": "/ˈluːzər/",
+      "tense": "n.",
+      "ch": [
+        [
+          "失敗者",
+          "輸家"
+        ]
+      ],
+      "analysis": "由動詞 lose（失敗、遺失）加上名詞化字尾 -er 構成，指在競賽、遊戲或賭博中輸掉的人。",
+      "definition": "1. a person or thing that loses a game, race, or contest.",
+      "example": [
+        {
+          "eng": "A good sport shakes hands with the winner even when he is the loser.",
+          "ch": "有運動家風範的人即使身為輸家也會與贏家握手。"
+        }
+      ]
+    },
+    {
+      "eng": "lover",
+      "kk": "/ˈlʌvər/",
+      "tense": "n.",
+      "ch": [
+        [
+          "戀人",
+          "情侶"
+        ],
+        [
+          "愛好者"
+        ]
+      ],
+      "analysis": "由動詞 love（愛）加上名詞化字尾 -er 構成，原義指談戀愛的人或伴侶，後來也廣泛用於複合詞中表示對某事物的熱愛者（如 art lover）。",
+      "definition": "1. a romantic partner; 2. a person who has a strong liking for a specified thing.",
+      "example": [
+        {
+          "eng": "The two young lovers walked hand in hand along the beach.",
+          "ch": "兩位年輕戀人手牽著手沿著海灘散步。"
+        },
+        {
+          "eng": "She is a great lover of classical music and literature.",
+          "ch": "她是一位古典音樂與文學的熱愛者。"
+        }
+      ]
+    },
+    {
+      "eng": "luggage",
+      "kk": "/ˈlʌɡɪdʒ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "行李"
+        ]
+      ],
+      "analysis": "由動詞 lug（拖、拉，源自斯堪地那維亞語族）加上名詞字尾 -age 構成，原意指「拖拉的笨重負擔」，現代專指旅行時攜帶的箱子和包裹。",
+      "definition": "1. suitcases, trunks, and other bags in which to pack personal belongings for traveling.",
+      "example": [
+        {
+          "eng": "Passengers are allowed two pieces of checked luggage.",
+          "ch": "乘客獲准攜帶兩件託運行李。"
+        }
+      ]
+    },
+    {
+      "eng": "lung",
+      "kk": "/lʌŋ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "肺",
+          "肺臟"
+        ]
+      ],
+      "analysis": "直接繼承自古英語 lunge（源自日耳曼語族，原義與「輕的、有彈性的」有關，因肺部在水中會浮起而得名），指脊椎動物進行呼吸作用的器官。",
+      "definition": "1. each of the pair of organs situated within the rib cage, consisting of elastic sacs with branching passages into which air is drawn.",
+      "example": [
+        {
+          "eng": "Fresh mountain air filled his lungs as he took a deep breath.",
+          "ch": "當他深吸一口氣時，清新的山間空氣充滿了他的雙肺。"
+        }
+      ]
+    },
+    {
+      "eng": "magical",
+      "kk": "/ˈmædʒɪkəl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "神奇的",
+          "有魔力的",
+          "美妙的"
+        ]
+      ],
+      "analysis": "由名詞 magic（源自拉丁語 magicus，希臘語 magikos）加上形容詞字尾 -al 構成，指具有超自然法術的，或引申為極其美妙、令人驚嘆的。",
+      "definition": "1. produced by or relating to magic; 2. wonderful, enchanting, or seemingly supernatural.",
+      "example": [
+        {
+          "eng": "The children listened to the fairy tale about a magical kingdom.",
+          "ch": "孩子們聽著關於神奇王國的童話故事。"
+        }
+      ]
+    },
+    {
+      "eng": "magician",
+      "kk": "/məˈdʒɪʃən/",
+      "tense": "n.",
+      "ch": [
+        [
+          "魔術師",
+          "幻術師"
+        ]
+      ],
+      "analysis": "由 magic 經由中世紀拉丁語演變，加上職業名詞字尾 -ian 構成，指表演幻術、障眼法或精通神祕法術的人。",
+      "definition": "1. a person who performs magic tricks to entertain an audience.",
+      "example": [
+        {
+          "eng": "The magician pulled a live rabbit out of his empty hat.",
+          "ch": "魔術師從他的空帽子裡拉出了一隻活兔子。"
+        }
+      ]
+    },
+    {
+      "eng": "magnet",
+      "kk": "/ˈmæɡnət/",
+      "tense": "n.",
+      "ch": [
+        [
+          "磁鐵",
+          "磁石"
+        ],
+        [
+          "有吸引力的人或物"
+        ]
+      ],
+      "analysis": "經由古法語借自拉丁語 magnes，最終源自希臘語 (lithos) Magnes「來自馬格尼西亞（Magnesia，小亞細亞地名）的石頭」，該地盛產天然磁鐵礦，後來引申指任何能吸引鐵磁性物質的物體或具強大吸引力的事物。",
+      "definition": "1. a piece of iron or other material that has its component atoms so ordered that the material exhibits properties of magnetism; 2. a person or thing that has a powerful attraction.",
+      "example": [
+        {
+          "eng": "A magnet sticks firmly to the metal refrigerator door.",
+          "ch": "磁鐵牢牢地貼在金屬冰箱門上。"
+        },
+        {
+          "eng": "The sunny beach resort is a magnet for tourists.",
+          "ch": "這個陽光普照的海灘度假勝地是吸引遊客的磁石。"
+        }
+      ]
+    },
+    {
+      "eng": "maid",
+      "kk": "/meɪd/",
+      "tense": "n.",
+      "ch": [
+        [
+          "女僕",
+          "女傭"
+        ],
+        [
+          "少女",
+          "未婚女子（多用於文學或特定詞組）"
+        ]
+      ],
+      "analysis": "直接繼承自古英語 mæged（少女、處女），為 maiden 的簡寫形式，後來歷史演變中主要指從事家務清潔的女僕或女傭。",
+      "definition": "1. a female domestic servant; 2. an unmarried young woman (chiefly literary).",
+      "example": [
+        {
+          "eng": "The hotel maid came in to clean the room and change the sheets.",
+          "ch": "飯店女傭進來打掃房間並更換床單。"
+        }
+      ]
+    },
+    {
+      "eng": "majority",
+      "kk": "/məˈdʒɔrəti/",
+      "tense": "n.",
+      "ch": [
+        [
+          "大多數",
+          "大部分"
+        ],
+        [
+          "成年"
+        ]
+      ],
+      "analysis": "經由中古法語借自中世紀拉丁語 majoritas（源自拉丁語 major 較大的），指數量或比例上佔大半的部分，亦引申為達到法律規定的法定成年年齡。",
+      "definition": "1. the greater number or part of something; 2. the age at which a person is legally an adult.",
+      "example": [
+        {
+          "eng": "The majority of students voted in favor of the new school policy.",
+          "ch": "大多數學生投票贊成這項新校規。"
+        }
+      ]
+    },
+    {
+      "eng": "mall",
+      "kk": "/mɔl/",
+      "tense": "n.",
+      "ch": [
+        [
+          "購物中心",
+          "大型商場"
+        ]
+      ],
+      "analysis": "源自 17 世紀倫敦的 Pall Mall（一條原本玩球戲的林蔭大道），後來指供行人步行休憩的林蔭步行街（mall），現代美式英語中則專指大型室內購物中心（shopping mall）。",
+      "definition": "1. a large enclosed shopping area from which traffic is excluded.",
+      "example": [
+        {
+          "eng": "Teenagers like to hang out at the local shopping mall on weekends.",
+          "ch": "青少年喜歡在週末去當地的購物中心閒逛。"
+        }
+      ]
+    },
+    {
+      "eng": "mankind",
+      "kk": "/ˈmænˌkaɪnd/",
+      "tense": "n.",
+      "ch": [
+        [
+          "人類"
+        ]
+      ],
+      "analysis": "由 man（人、人類）與 kind（種類、本性）結合而成的現代透明複合名詞，統稱全體人類。",
+      "definition": "1. human beings considered collectively; the human race.",
+      "example": [
+        {
+          "eng": "The invention of the wheel was a huge milestone for mankind.",
+          "ch": "輪子的發明對人類而言是一大里程碑。"
+        }
+      ]
+    },
+    {
+      "eng": "humankind",
+      "kk": "/ˈhjuːmənˌkaɪnd/",
+      "tense": "n.",
+      "ch": [
+        [
+          "人類"
+        ]
+      ],
+      "analysis": "由 human（人類的）與 kind（種類）組成的現代透明複合名詞，為近代為避免性別偏見（man 原意兼指男人與人類）而廣泛使用的性別中立詞彙。",
+      "definition": "1. human beings considered collectively, used as a gender-neutral equivalent to mankind.",
+      "example": [
+        {
+          "eng": "Protecting the environment is the shared responsibility of all humankind.",
+          "ch": "保護環境是全人類的共同責任。"
+        }
+      ]
+    },
+    {
+      "eng": "marble",
+      "kk": "/ˈmɑrbəl/",
+      "tense": "n.",
+      "ch": [
+        [
+          "大理石"
+        ],
+        [
+          "彈珠"
+        ]
+      ],
+      "analysis": "經由古法語借自拉丁語 marmor，最終源自希臘語 marmaros（閃閃發光的石頭），原指經變質作用形成的建築裝飾石材大理石，後因其光滑圓潤的質感，也用來指兒童玩的玻璃彈珠。",
+      "definition": "1. a hard crystalline metamorphic rock that takes a high polish; 2. a small sphere of glass used in children's games.",
+      "example": [
+        {
+          "eng": "The palace floors were made of polished white marble.",
+          "ch": "宮殿的地板是用拋光的白色大理石鋪成的。"
+        },
+        {
+          "eng": "The boy knelt on the ground to play marbles with his friends.",
+          "ch": "男孩跪在地上和朋友玩彈珠。"
+        }
+      ]
+    },
+    {
+      "eng": "march",
+      "kk": "/mɑrtʃ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "行軍",
+          "遊行示威"
+        ],
+        [
+          "進行曲"
+        ],
+        [
+          "三月（大寫 March）"
+        ]
+      ],
+      "analysis": "此字有兩個不同來源的歷史詞源：1. 行進與進行曲源自古法語 marcher（行走、踏步）；2. 三月（March）源自拉丁語 Martius（獻給戰神 Mars 的月份）。",
+      "definition": "1. an organized walk by a large group of people to support a cause; 2. a piece of music with a steady rhythm suitable for marching; 3. the third month of the year.",
+      "example": [
+        {
+          "eng": "Thousands of citizens joined the peace march in the capital.",
+          "ch": "數千名市民參加了首都的和平遊行。"
+        },
+        {
+          "eng": "The band played a lively military march.",
+          "ch": "樂隊演奏了一首輕快的軍事進行曲。"
+        },
+        {
+          "eng": "Spring flowers begin to blossom in March.",
+          "ch": "春天的花朵在三月開始綻放。"
+        }
+      ]
+    },
+    {
+      "eng": "march",
+      "kk": "/mɑrtʃ/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "行軍",
+          "遊行",
+          "昂首闊步前進"
+        ]
+      ],
+      "analysis": "源自古法語 marcher 的不及物動詞用法，指軍隊整齊步伐行進、群眾列隊遊行，或指人自信而堅定地行走。",
+      "definition": "1. to walk in a military manner with regular measured steps; 2. to walk steadily and purposefully.",
+      "example": [
+        {
+          "eng": "Soldiers marched through the city gates in formation.",
+          "ch": "士兵們整隊列陣穿過城門。"
+        }
+      ]
+    },
+    {
+      "eng": "marker",
+      "kk": "/ˈmɑrkər/",
+      "tense": "n.",
+      "ch": [
+        [
+          "記號筆",
+          "麥克筆"
+        ],
+        [
+          "標記",
+          "路標"
+        ]
+      ],
+      "analysis": "由名詞 mark（記號、標誌）加上名詞化字尾 -er 構成，指用來做記號的筆、牌子或任何標記物。",
+      "definition": "1. a felt-tip pen with a broad tip; 2. an object used to indicate a position, place, or limit.",
+      "example": [
+        {
+          "eng": "She used a yellow highlighter marker to emphasize important sentences.",
+          "ch": "她用黃色螢光筆來強調重要的句子。"
+        }
+      ]
+    },
+    {
+      "eng": "marvelous",
+      "kk": "/ˈmɑrvələs/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "不可思議的",
+          "極好的",
+          "美妙的"
+        ]
+      ],
+      "analysis": "經由中古法語 merveillos 衍生自拉丁語 mirabilis（令人驚奇的，源自 mirari 驚嘆），加上形容詞字尾構成，指令人驚嘆、讚嘆的極佳事物。",
+      "definition": "1. causing great wonder; extraordinary; excellent.",
+      "example": [
+        {
+          "eng": "We had a marvelous time exploring the ancient castle.",
+          "ch": "我們在探索這座古老城堡時度過了一段美妙的時光。"
+        }
+      ]
+    },
+    {
+      "eng": "mathematical",
+      "kk": "/ˌmæθəˈmætɪkəl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "數學的",
+          "精確的"
+        ]
+      ],
+      "analysis": "由名詞 mathematics（源自希臘語 mathematike）截短並加上形容詞字尾 -ical 構成，指與數學學科相關的，或形容邏輯與計算極其精確。",
+      "definition": "1. relating to mathematics; 2. precise and logically certain.",
+      "example": [
+        {
+          "eng": "He solved the complex mathematical equation in just a few minutes.",
+          "ch": "他在短短幾分鐘內解開了這個複雜的數學方程式。"
+        }
+      ]
+    },
+    {
+      "eng": "mayor",
+      "kk": "/ˈmeɪər/",
+      "tense": "n.",
+      "ch": [
+        [
+          "市長"
+        ]
+      ],
+      "analysis": "經由中古法語 maire 借自拉丁語 maior（較大者、長官），指城市或城鎮行政首長。",
+      "definition": "1. the elected head of a city, town, or other municipal corporation.",
+      "example": [
+        {
+          "eng": "The mayor gave a speech at the opening ceremony of the new park.",
+          "ch": "市長在新公園的開幕典禮上發表了演說。"
+        }
+      ]
+    },
+    {
+      "eng": "meadow",
+      "kk": "/ˈmɛdoʊ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "草地",
+          "牧場"
+        ]
+      ],
+      "analysis": "直接繼承自古英語 mēdwe（源自日耳曼語族），指長滿青草供動物放牧或割草的平坦天然草地。",
+      "definition": "1. a piece of grassland, especially one used for hay or grazing.",
+      "example": [
+        {
+          "eng": "Cows were grazing peacefully in the green mountain meadow.",
+          "ch": "乳牛在青翠的山間草地上安詳地吃草。"
+        }
+      ]
+    },
+    {
+      "eng": "meaningful",
+      "kk": "/ˈminɪŋfəl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "有意義的",
+          "意味深長的"
+        ]
+      ],
+      "analysis": "由動詞 mean 的現在分詞化名詞 meaning（意義）加上形容詞字尾 -ful 構成，指具有深刻含意、價值或重要性的事物。",
+      "definition": "1. having a serious, important, or useful quality; full of meaning.",
+      "example": [
+        {
+          "eng": "They had a meaningful conversation about their future plans.",
+          "ch": "他們就彼此的未來計劃進行了一次有意義的對話。"
+        }
+      ]
+    },
+    {
+      "eng": "meanwhile",
+      "kk": "/ˈminˌwaɪl/",
+      "tense": "adv.",
+      "ch": [
+        [
+          "同時",
+          "在此期間"
+        ]
+      ],
+      "analysis": "由 mean（中間的、同時的）與 while（一段時間）結合而成的副詞，指在某一事件發生的同時或期間。",
+      "definition": "1. in the time between two things happening, or while something else is happening.",
+      "example": [
+        {
+          "eng": "Dad was fixing the car; meanwhile, mom prepared dinner.",
+          "ch": "爸爸在修理汽車；同時，媽媽準備了晚餐。"
+        }
+      ]
+    },
+    {
+      "eng": "medal",
+      "kk": "/ˈmɛdəl/",
+      "tense": "n.",
+      "ch": [
+        [
+          "獎牌",
+          "紀念章"
+        ]
+      ],
+      "analysis": "經由法語 médaille 借自義大利語 medaglia，最終源自拉丁語 metallum（金屬），原指金屬鑄造的錢幣或紀念徽章，後演變為表彰傑出成就或體育競賽得獎的獎牌。",
+      "definition": "1. a metal disk with an inscription or design, awarded to commemorate an event or earned as a reward for bravery or achievement.",
+      "example": [
+        {
+          "eng": "The Olympic swimmer proudly wore her gold medal around her neck.",
+          "ch": "這位奧運游泳選手驕傲地將金牌掛在脖子上。"
+        }
+      ]
+    },
+    {
+      "eng": "medium",
+      "kk": "/ˈmidiəm/",
+      "tense": "n.",
+      "ch": [
+        [
+          "媒介",
+          "傳播媒介",
+          "手段"
+        ],
+        [
+          "中等（尺寸、程度等）"
+        ]
+      ],
+      "analysis": "直接借自拉丁語 medium（中間、中介物，為 medius 中間的形容詞中性名詞化形式），指處於兩者之間的居中狀態，或指傳遞信息的媒介、藝術創作的物質材料。",
+      "definition": "1. an agency or means of doing something, or a channel of mass communication; 2. a middle state or degree.",
+      "example": [
+        {
+          "eng": "Television is a powerful medium for advertising products.",
+          "ch": "電視是廣告宣傳產品的強大媒介。"
+        },
+        {
+          "eng": "I would like to order a steak cooked medium.",
+          "ch": "我想點一份煎到五分熟（中等熟度）的牛排。"
+        }
+      ]
+    },
+    {
+      "eng": "media",
+      "kk": "/ˈmidiə/",
+      "tense": "n.",
+      "ch": [
+        [
+          "媒體",
+          "大眾傳播媒介"
+        ]
+      ],
+      "analysis": "拉丁語 medium 的複數形式（media），在現代英語中作為集合名詞使用，專指報紙、電視、廣播、網路等大眾傳播媒介的總稱。",
+      "definition": "1. the main means of mass communication regarded collectively.",
+      "example": [
+        {
+          "eng": "The news spread quickly across social media platforms.",
+          "ch": "這則新聞迅速在社群媒體平台上傳播開來。"
+        }
+      ]
+    },
+    {
+      "eng": "melon",
+      "kk": "/ˈmɛlən/",
+      "tense": "n.",
+      "ch": [
+        [
+          "瓜",
+          "甜瓜",
+          "西瓜等瓜果"
+        ]
+      ],
+      "analysis": "經由古法語和拉丁語 melopepon，最終源自希臘語 melon（蘋果、圓形水果）與 pepon（一種熟瓜），指多汁且帶有甜味的葫蘆科果實。",
+      "definition": "1. the large, round, fleshy fruit of a plant of the gourd family, with sweet juicy pulp.",
+      "example": [
+        {
+          "eng": "We ate slices of cold, sweet melon on a hot summer afternoon.",
+          "ch": "我們在炎熱的夏日午後吃著冰涼香甜的瓜片。"
+        }
+      ]
+    },
+    {
+      "eng": "melt",
+      "kk": "/mɛlt/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使融化",
+          "使熔化"
+        ],
+        [
+          "使柔化",
+          "使感動"
+        ]
+      ],
+      "analysis": "直接繼承自古英語 meltan（不及物，意為溶解），後發展出及物用法，指加熱使固體變為液體，或引申為使人的心變柔軟或感動。",
+      "definition": "1. to make something change from a solid to a liquid by heating; 2. to soften a person's feelings with affection or pity.",
+      "example": [
+        {
+          "eng": "The warm sun quickly melted the winter snow.",
+          "ch": "溫暖的太陽迅速融化了冬雪。"
+        },
+        {
+          "eng": "Her sweet smile instantly melted his heart.",
+          "ch": "她甜美的微笑瞬間融化了他的心。"
+        }
+      ]
+    },
+    {
+      "eng": "melt",
+      "kk": "/mɛlt/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "融化",
+          "熔化"
+        ],
+        [
+          "消散",
+          "逐漸消失"
+        ]
+      ],
+      "analysis": "動詞 melt 的不及物用法，指固體物質因溫度升高轉化為液體，或抽象地指霧氣、人群等逐漸消散。",
+      "definition": "1. to become liquefied by heat; 2. to dissolve or fade away gradually.",
+      "example": [
+        {
+          "eng": "Butter melts quickly in a hot frying pan.",
+          "ch": "奶油在熱平底鍋中很快就會融化。"
+        },
+        {
+          "eng": "The morning mist began to melt in the bright sunlight.",
+          "ch": "早晨的薄霧在燦爛的陽光下開始消散。"
+        }
+      ]
+    },
+    {
+      "eng": "mend",
+      "kk": "/mɛnd/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "修理",
+          "修補",
+          "改善"
+        ]
+      ],
+      "analysis": "為拉丁語源單字 emendare（改良、糾正，由 ex- 外 + mendum 缺點）在中古英語中截短而成的本土化動詞，指修補破損衣物、器物或改善不好的情況。",
+      "definition": "1. to repair something that is broken or damaged; 2. to improve or correct a bad situation.",
+      "example": [
+        {
+          "eng": "Grandma knows how to mend torn clothes with a needle and thread.",
+          "ch": "奶奶知道如何用針線修補破了的衣服。"
+        }
+      ]
+    },
+    {
+      "eng": "mental",
+      "kk": "/ˈmɛntəl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "精神上的",
+          "心理的",
+          "智力的"
+        ]
+      ],
+      "analysis": "由拉丁語 mens（心智、思考，屬格 mentis）加上形容詞字尾 -al 構成，指與人的心智、大腦活動或心理狀態相關的事物。",
+      "definition": "1. relating to the mind, or involving the process of thinking.",
+      "example": [
+        {
+          "eng": "Reading books regularly is beneficial for maintaining good mental health.",
+          "ch": "定期閱讀書籍有益於保持良好的心理健康。"
+        }
+      ]
+    },
+    {
+      "eng": "merry",
+      "kk": "/ˈmɛri/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "歡樂的",
+          "愉快的"
+        ]
+      ],
+      "analysis": "直接繼承自古英語 myrige（使人愉快的、短暫歡樂的），常見於傳統祝賀詞（如 Merry Christmas）。",
+      "definition": "1. cheerful and lively; full of high spirits.",
+      "example": [
+        {
+          "eng": "The children sang merry songs around the Christmas tree.",
+          "ch": "孩子們在聖誕樹旁唱著歡樂的歌曲。"
+        }
+      ]
+    },
+    {
+      "eng": "mess",
+      "kk": "/mɛs/",
+      "tense": "n.",
+      "ch": [
+        [
+          "凌亂",
+          "髒亂"
+        ],
+        [
+          "困境",
+          "糟糕的局面"
+        ]
+      ],
+      "analysis": "經由中古法語 mes（一份食物、餐點，源自拉丁語 missus 送出的東西）演變而來；早期指軍營中共同用餐的一群人或一份食物，因多人用餐常伴隨殘渣雜亂，進而演變成現代「雜亂、髒亂」或「糟糕局面」之義。",
+      "definition": "1. a dirty or untidy state of things; 2. a difficult or confused situation.",
+      "example": [
+        {
+          "eng": "The children left a big mess in the living room after playing.",
+          "ch": "孩子們玩耍過後在客廳留下了一團大雜亂。"
+        },
+        {
+          "eng": "He made a financial mess by spending money recklessly.",
+          "ch": "他胡亂花錢，搞得財務狀況一團糟。"
+        }
+      ]
+    },
+    {
+      "eng": "microphone",
+      "kk": "/ˈmaɪkrəˌfoʊn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "麥克風",
+          "微音器"
+        ]
+      ],
+      "analysis": "由希臘語 mikros（微小的）與 phone（聲音）組成的現代科學複合詞，指將聲音轉換成電訊號的音頻輸入設備。",
+      "definition": "1. an instrument for converting sound waves into electrical energy variations.",
+      "example": [
+        {
+          "eng": "The singer spoke directly into the microphone.",
+          "ch": "歌手對著麥克風直接發言。"
+        }
+      ]
+    },
+    {
+      "eng": "mike",
+      "kk": "/maɪk/",
+      "tense": "n.",
+      "ch": [
+        [
+          "麥克風（口語簡稱）"
+        ]
+      ],
+      "analysis": "為 microphone 的常見口語縮寫形式，多用於非正式語境或廣播、表演界。",
+      "definition": "1. an informal abbreviation for microphone.",
+      "example": [
+        {
+          "eng": "Check one, two, testing the stage mike.",
+          "ch": "試音一、二，測試舞台麥克風。"
+        }
+      ]
+    },
+    {
+      "eng": "microwave",
+      "kk": "/ˈmaɪkrəˌweɪv/",
+      "tense": "n.",
+      "ch": [
+        [
+          "微波"
+        ],
+        [
+          "微波爐（簡稱 microwave oven）"
+        ]
+      ],
+      "analysis": "由 micro（微小的）與 wave（波）組成的現代科技複合名詞，原指波長極短的電磁波，後來日常中也常用來指利用微波加熱食物的「微波爐」。",
+      "definition": "1. an electromagnetic wave of high frequency; 2. a kitchen appliance that cooks food using microwaves.",
+      "example": [
+        {
+          "eng": "She quickly heated the leftover pizza in the microwave.",
+          "ch": "她迅速用微波爐加熱了吃剩的披薩。"
+        }
+      ]
+    }
+  ]
+}

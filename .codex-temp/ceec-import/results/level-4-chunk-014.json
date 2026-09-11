@@ -1,0 +1,1164 @@
+{
+  "level": 4,
+  "chunkIndex": 14,
+  "inputs": [
+    "mere",
+    "merit",
+    "messenger",
+    "messy",
+    "microscope",
+    "mild",
+    "mill",
+    "millionaire",
+    "miner",
+    "mineral",
+    "minimum",
+    "minister",
+    "ministry",
+    "mischief",
+    "miserable",
+    "misfortune",
+    "mislead",
+    "misunderstand",
+    "moderate",
+    "modest",
+    "modesty",
+    "monitor",
+    "monument",
+    "moreover",
+    "motivate",
+    "motivation",
+    "mountainous",
+    "muddy",
+    "mule",
+    "multiple",
+    "murderer",
+    "murmur",
+    "mutual",
+    "mysterious",
+    "namely",
+    "nationality",
+    "needy",
+    "neglect",
+    "negotiate",
+    "nevertheless",
+    "nightmare",
+    "noble",
+    "nonsense",
+    "nowadays",
+    "nuclear",
+    "numerous",
+    "nursery",
+    "nutritious",
+    "obedience",
+    "obedient"
+  ],
+  "rows": [
+    {
+      "eng": "mere",
+      "kk": "mɪr",
+      "tense": "adj.",
+      "ch": [
+        [
+          "僅僅的",
+          "只不過"
+        ],
+        [
+          "純粹的",
+          "全無其他成分的"
+        ]
+      ],
+      "analysis": "此字為歷史上直接由拉丁語演變而來的形容詞，源自拉丁語 merus（意為純粹的、無雜質的）。在英語發展過程中，其語義從「純粹無攙雜」逐漸轉移並收窄為強調微不足道或僅此而已的「僅僅的」。",
+      "definition": "1. used to emphasize that something is small or insignificant; 2. that is solely or purely what is specified without any addition.",
+      "example": [
+        {
+          "eng": "A mere child could understand these simple instructions.",
+          "ch": "一個小孩子都能聽懂這些簡單的指示。"
+        },
+        {
+          "eng": "She resigned for the mere sake of a change.",
+          "ch": "她辭職純粹是為了求變。"
+        }
+      ]
+    },
+    {
+      "eng": "merit",
+      "kk": "ˈmɛrɪt",
+      "tense": "n.",
+      "ch": [
+        [
+          "優點",
+          "長處",
+          "價值"
+        ],
+        [
+          "功績",
+          "功勞"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 meritum（意為功勞、價值、報酬），由動詞 merere（贏得、應得）派生而來。進入英語後作為名詞使用，保留了指人或事物的優良特質、客觀價值以及應受讚賞的功績等核心義。",
+      "definition": "1. the quality of being particularly good or worthy, especially of praise or reward; 2. a good quality or feature that deserves praise.",
+      "example": [
+        {
+          "eng": "His proposal has considerable merit.",
+          "ch": "他的提案有相當大的價值。"
+        },
+        {
+          "eng": "She was awarded a prize for academic merit.",
+          "ch": "她因學業上的優異表現而獲獎。"
+        }
+      ]
+    },
+    {
+      "eng": "merit",
+      "kk": "ˈmɛrɪt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "值得",
+          "應受"
+        ]
+      ],
+      "analysis": "此動詞用法直接源自拉丁語動詞 merere（贏得、值得），經由名詞 merit 轉化或直接借入。在現代英語中作為及物動詞，後面直接接名詞或動名詞，表示某事因優點或重要性而理應獲得某種對待。",
+      "definition": "1. to deserve or be worthy of something, typically reward, punishment, or attention.",
+      "example": [
+        {
+          "eng": "The complex situation merits a detailed investigation.",
+          "ch": "複雜的情況值得進行詳細的調查。"
+        }
+      ]
+    },
+    {
+      "eng": "messenger",
+      "kk": "ˈmɛsəndʒər",
+      "tense": "n.",
+      "ch": [
+        [
+          "送信人",
+          "使者",
+          "信差"
+        ]
+      ],
+      "analysis": "此字為中世紀英語中由古法語訊息 messenger（源自通俗拉丁語 *missionicarius）演變而來，結合了源自拉丁語 mittere（送出、派遣）的詞幹與名詞字尾，指專門負責傳遞口信或書信的人。",
+      "definition": "1. a person who carries a message or goes on a errand for someone.",
+      "example": [
+        {
+          "eng": "The king sent a trusted messenger to the neighboring country.",
+          "ch": "國王派了一位親信使者去鄰國。"
+        }
+      ]
+    },
+    {
+      "eng": "messy",
+      "kk": "ˈmɛsi",
+      "tense": "adj.",
+      "ch": [
+        [
+          "凌亂的",
+          "髒亂的"
+        ],
+        [
+          "麻煩的",
+          "棘手的"
+        ]
+      ],
+      "analysis": "此字由名詞 mess（源自古法語 mes，意指一份食物或雜亂狀況）加上形容詞字尾 -y 構成現代透明構詞。語義從原本與食物相關的狀態，引申為實體環境的凌亂，再進一步抽象化為情況或關係的棘手與混亂。",
+      "definition": "1. untidy or dirty; 2. confused, difficult, or unpleasant to deal with.",
+      "example": [
+        {
+          "eng": "His bedroom is always extremely messy.",
+          "ch": "他的臥室總是極其凌亂。"
+        },
+        {
+          "eng": "They are going through a very messy divorce.",
+          "ch": "他們正在經歷一場非常棘手的離婚訴訟。"
+        }
+      ]
+    },
+    {
+      "eng": "microscope",
+      "kk": "ˈmaɪkrəˌskoʊp",
+      "tense": "n.",
+      "ch": [
+        [
+          "顯微鏡"
+        ]
+      ],
+      "analysis": "此字為現代學術與科學複合詞，由希臘語微小字根 mikro-（源自 mikros）與代表觀察或看見的字根 -skopein（源自 skopein）結合而成，指用於觀察肉眼看不見的微小物體的科學儀器。",
+      "definition": "1. an optical instrument used for viewing very small objects, such as mineral crystals or animal or plant cells.",
+      "example": [
+        {
+          "eng": "The biology student examined the bacteria under a microscope.",
+          "ch": "生物系學生用顯微鏡檢視了這些細菌。"
+        }
+      ]
+    },
+    {
+      "eng": "mild",
+      "kk": "maɪld",
+      "tense": "adj.",
+      "ch": [
+        [
+          "溫和的",
+          "溫柔的"
+        ],
+        [
+          "微溫的",
+          "不濃烈的"
+        ]
+      ],
+      "analysis": "此字為日耳曼語族繼承詞，源自古英語 milde（溫和的、仁慈的），與德語 milde 同源。在歷史演變中，其核心義從性格上的溫柔仁慈，擴展到氣候的溫和宜人以及食物或味道的不刺激。",
+      "definition": "1. gentle in nature or behavior; 2. not severe, harsh, or strong in flavor or climate.",
+      "example": [
+        {
+          "eng": "She has a very mild and pleasant personality.",
+          "ch": "她有著非常溫和愉快的性格。"
+        },
+        {
+          "eng": "This type of cheese has a mild flavor.",
+          "ch": "這種起司的味道很溫和。"
+        }
+      ]
+    },
+    {
+      "eng": "mill",
+      "kk": "mɪl",
+      "tense": "n.",
+      "ch": [
+        [
+          "磨坊",
+          "磨碎機"
+        ],
+        [
+          "工廠",
+          "製造廠"
+        ]
+      ],
+      "analysis": "此字源自古英語 myln（源自拉丁語 molina，最終追溯至動詞 molere「磨碎」）。歷史上原指用水力或風力磨碎穀物的磨坊，隨後因工業革命中大型機械化生產設施的出現，引申泛指各類工廠與製造廠。",
+      "definition": "1. a building equipped with machinery for grinding grain into flour; 2. a factory equipped with large machinery for manufacturing a particular product.",
+      "example": [
+        {
+          "eng": "The old water mill still grinds corn today.",
+          "ch": "那座古老的水磨坊今天仍在磨玉米。"
+        },
+        {
+          "eng": "My grandfather worked in a steel mill for forty years.",
+          "ch": "我祖父在鋼鐵廠工作了四十年。"
+        }
+      ]
+    },
+    {
+      "eng": "millionaire",
+      "kk": "ˌmɪljəˈnɛr",
+      "tense": "n.",
+      "ch": [
+        [
+          "百萬富翁",
+          "富豪"
+        ]
+      ],
+      "analysis": "此字由數詞 million（百萬）加上法語來源的名詞字尾 -aire 構成。源於 18 世紀的法國，隨後借入英語，指擁有至少一百萬美元、英鎊或其他貨幣資產的極富裕人士。",
+      "definition": "1. a person whose net worth is one million or more units of currency.",
+      "example": [
+        {
+          "eng": "He became a self-made millionaire before the age of thirty.",
+          "ch": "他在三十歲之前成為白手起家的百萬富翁。"
+        }
+      ]
+    },
+    {
+      "eng": "miner",
+      "kk": "ˈmaɪnər",
+      "tense": "n.",
+      "ch": [
+        [
+          "礦工"
+        ]
+      ],
+      "analysis": "此字由名詞基底 mine（礦坑、採礦，源自中古法語）加上表示人的構詞字尾 -er 組合而成的現代透明構詞，指在地下或露天礦場從事採掘礦物工作的工人。",
+      "definition": "1. a person who works in a mine to extract coal, gold, or other minerals.",
+      "example": [
+        {
+          "eng": "The trapped miners were rescued after two days.",
+          "ch": "受困的礦工在兩天後獲救。"
+        }
+      ]
+    },
+    {
+      "eng": "mineral",
+      "kk": "ˈmɪnərəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "礦物",
+          "礦物質"
+        ]
+      ],
+      "analysis": "此字源自中古拉丁語 minerale（由 minera「礦坑、礦石」派生而來）。在英語發展中，用來指自然界中天然產生的無機固體物質，或人體營養所需的多種無機營養素。",
+      "definition": "1. a solid inorganic substance of natural occurrence; 2. an essential inorganic nutrient required by the human body.",
+      "example": [
+        {
+          "eng": "Quartz is a very common mineral found in the Earth's crust.",
+          "ch": "石英是地殼中非常常見的一種礦物。"
+        },
+        {
+          "eng": "Milk is rich in calcium and other essential minerals.",
+          "ch": "牛奶富含鈣質及其他必要的礦物質。"
+        }
+      ]
+    },
+    {
+      "eng": "minimum",
+      "kk": "ˈmɪnəməm",
+      "tense": "n.",
+      "ch": [
+        [
+          "最小值",
+          "最低限度"
+        ]
+      ],
+      "analysis": "此字直接借自拉丁語 minimum（形容詞 minimus「最小的」之中性形式）。在英語中作為名詞使用，指在數量、程度或標準上所能允許或達到的最低極限。",
+      "definition": "1. the least or smallest amount or quantity possible attainable or allowable.",
+      "example": [
+        {
+          "eng": "You need a minimum of three years of experience for this job.",
+          "ch": "這項工作要求至少三年的經驗。"
+        }
+      ]
+    },
+    {
+      "eng": "minister",
+      "kk": "ˈmɪnɪstər",
+      "tense": "n.",
+      "ch": [
+        [
+          "部長",
+          "大臣"
+        ],
+        [
+          "牧師",
+          "神職人員"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 minister（僕人、助理，由 minus「較小」派生）。在中世紀教會拉丁語中指服務神職的人，隨後在政治行政體系中引申為襄助君主或首長管理國家政務的內閣大臣或部長。",
+      "definition": "1. a head of a government department; 2. a member of the clergy, especially in Protestant churches.",
+      "example": [
+        {
+          "eng": "The foreign minister attended the international peace summit.",
+          "ch": "外交部長出席了國際和平峰會。"
+        },
+        {
+          "eng": "The church minister delivered an inspiring Sunday sermon.",
+          "ch": "教堂牧師發表了一場鼓舞人心的週日佈道。"
+        }
+      ]
+    },
+    {
+      "eng": "ministry",
+      "kk": "ˈmɪnɪstri",
+      "tense": "n.",
+      "ch": [
+        [
+          "（政府的）部"
+        ],
+        [
+          "牧師職責",
+          "神職工作"
+        ]
+      ],
+      "analysis": "此字由 minister 加上名詞抽象字尾 -y 構成。在政治上指政府中由部長領導的行政部門（如教育部、外交部）；在宗教上則指神職人員的職責與傳道工作。",
+      "definition": "1. a government department headed by a minister; 2. the work or profession of a minister of religion.",
+      "example": [
+        {
+          "eng": "The Ministry of Education announced new school guidelines.",
+          "ch": "教育部公佈了新的學校指導方針。"
+        },
+        {
+          "eng": "He dedicated his whole life to the ministry.",
+          "ch": "他將自己的一生奉獻給了神職工作。"
+        }
+      ]
+    },
+    {
+      "eng": "mischief",
+      "kk": "ˈmɪstʃɪf",
+      "tense": "n.",
+      "ch": [
+        [
+          "惡作劇",
+          "調皮搗蛋"
+        ],
+        [
+          "損害",
+          "禍害"
+        ]
+      ],
+      "analysis": "此字源自古法語 meschef（由前綴 mes-「壞、惡」加上 chef「頭部、結果」組成，原意為不幸的結果）。英語借入後，語義逐漸從嚴重的不幸災害演變為兒童或年輕人無惡意的調皮搗蛋與惡作劇。",
+      "definition": "1. playful misbehavior, especially in children; 2. trouble or damage caused by someone's actions.",
+      "example": [
+        {
+          "eng": "The children were quiet, which usually meant they were up to some mischief.",
+          "ch": "孩子們很安靜，這通常意味著他們在搞什麼惡作劇。"
+        },
+        {
+          "eng": "Rumors like that can do serious mischief to a person's reputation.",
+          "ch": "那種謠言會對一個人的名譽造成嚴重的損害。"
+        }
+      ]
+    },
+    {
+      "eng": "miserable",
+      "kk": "ˈmɪzərəbəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "痛苦的",
+          "悲慘的"
+        ],
+        [
+          "令人難受的",
+          "糟糕的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 miserabilis（由 miser「悲慘的、痛苦的」加上形容詞字尾 -abilis 構成）。進入英語後，保留了形容人身處極大痛苦與悲傷中的狀態，亦可延伸形容天氣或環境令人極度不舒適。",
+      "definition": "1. wretchedly unhappy or uncomfortable; 2. extremely poor in quality or uncomfortable.",
+      "example": [
+        {
+          "eng": "She felt completely miserable after failing the exam.",
+          "ch": "考試不及格後，她感到萬分悲慘。"
+        },
+        {
+          "eng": "We had to walk home in the miserable cold rain.",
+          "ch": "我們不得不在令人難受的冷雨中步行回家。"
+        }
+      ]
+    },
+    {
+      "eng": "misfortune",
+      "kk": "mɪsˈfɔːrtʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "不幸",
+          "災難",
+          "逆境"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由表示否定或相反的字首 mis- 加上名詞 fortune（幸運、運氣）結合而成。指遭遇不好的運氣、不幸的事件或逆境。",
+      "definition": "1. bad luck or an unfortunate event.",
+      "example": [
+        {
+          "eng": "He suffered a great misfortune when his business went bankrupt.",
+          "ch": "當他的生意破產時，他遭受了巨大的不幸。"
+        }
+      ]
+    },
+    {
+      "eng": "mislead",
+      "kk": "mɪsˈliːd",
+      "tense": "vt.",
+      "ch": [
+        [
+          "誤導",
+          "欺騙"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由表示錯誤的字首 mis- 加上動詞 lead（引導）組合而成。指提供錯誤的資訊或方向，使人產生誤解或走入歧途。",
+      "definition": "1. to cause someone to have a wrong idea or impression about something.",
+      "example": [
+        {
+          "eng": "The advertisement was designed to mislead consumers.",
+          "ch": "這則廣告旨在誤導消費者。"
+        }
+      ]
+    },
+    {
+      "eng": "misunderstand",
+      "kk": "ˌmɪsʌndərˈstænd",
+      "tense": "vt.",
+      "ch": [
+        [
+          "誤解",
+          "誤會"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由表示錯誤的字首 mis- 結合動詞 understand（理解）而成。指未能正確理解他人的話語、意圖或行為，因而產生錯誤的認知。",
+      "definition": "1. to fail to interpret or understand something correctly.",
+      "example": [
+        {
+          "eng": "I'm afraid you misunderstood my instructions.",
+          "ch": "恐怕你誤解了我的指示。"
+        }
+      ]
+    },
+    {
+      "eng": "moderate",
+      "kk": "ˈmɑːdərət",
+      "tense": "adj.",
+      "ch": [
+        [
+          "適度的",
+          "中等的"
+        ],
+        [
+          "溫和的",
+          "不激進的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 moderatus（動詞 moderari「節制、管理」的過去分詞）。在英語中形容數量、程度、大小或政治立場處於中間、適中、不走極端的狀態。",
+      "definition": "1. average in amount, intensity, quality, or degree; 2. keeping within reasonable limits, not extreme.",
+      "example": [
+        {
+          "eng": "The hotel is available at a moderate price.",
+          "ch": "這家旅館的價格適中。"
+        },
+        {
+          "eng": "He holds moderate political views and dislikes extremes.",
+          "ch": "他抱持溫和的政治觀點，討厭極端。"
+        }
+      ]
+    },
+    {
+      "eng": "modest",
+      "kk": "ˈmɑːdɪst",
+      "tense": "adj.",
+      "ch": [
+        [
+          "謙虛的",
+          "謙遜的"
+        ],
+        [
+          "適度的",
+          "不夸大的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 modestus（由 modus「尺度、界線」派生）。其歷史演變涵蓋了行為上的自我節制、不居功自傲的謙虛，以及形容規模、數量或成就較為保守、不誇張。",
+      "definition": "1. unassuming or moderate in the estimation of one's abilities or achievements; 2. relatively moderate, limited, or small in size or amount.",
+      "example": [
+        {
+          "eng": "Despite his great success, he remains remarkably modest.",
+          "ch": "儘管取得了巨大的成功，他依然非常謙虛。"
+        },
+        {
+          "eng": "They live in a modest house in the suburbs.",
+          "ch": "他們住在郊區一棟規模不大的房子裡。"
+        }
+      ]
+    },
+    {
+      "eng": "modesty",
+      "kk": "ˈmɑːdɪsti",
+      "tense": "n.",
+      "ch": [
+        [
+          "謙虛",
+          "謙遜"
+        ]
+      ],
+      "analysis": "此字由形容詞 modest 加上名詞抽象字尾 -y 構成。指一個人不自大、不愛炫耀自己成就或能力的良好品德。",
+      "definition": "1. the quality or state of being unassuming or unpretentious in the estimation of one's abilities.",
+      "example": [
+        {
+          "eng": "Her natural modesty prevents her from boasting about her awards.",
+          "ch": "她天性謙虛，這使她從不誇耀自己的獎項。"
+        }
+      ]
+    },
+    {
+      "eng": "monitor",
+      "kk": "ˈmɑːnɪtər",
+      "tense": "n.",
+      "ch": [
+        [
+          "監視器",
+          "顯示器"
+        ],
+        [
+          "班長",
+          "監督員"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 monitor（勸告者、監視者，由 monere「警告、提醒」派生）。在現代英語中，指用於監控系統狀況的電子螢幕、電腦顯示器，或學校中協助老師維持秩序的班長。",
+      "definition": "1. a screen used to output images from a computer or security camera; 2. a student appointed to assist a teacher, or a person who observes a situation.",
+      "example": [
+        {
+          "eng": "He connected a second monitor to his laptop computer.",
+          "ch": "他將第二台顯示器連接到他的筆記型電腦上。"
+        },
+        {
+          "eng": "She was chosen as the class monitor for this semester.",
+          "ch": "她被選為這學期的班長。"
+        }
+      ]
+    },
+    {
+      "eng": "monument",
+      "kk": "ˈmɑːnjumənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "紀念碑",
+          "歷史遺跡"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 monumentum（由 monere「提醒、使人記起」派生）。指為了使後人紀念偉人、重大歷史事件或英雄事蹟而建造的雕像、建築或紀念碑。",
+      "definition": "1. a statue, building, or other structure erected to commemorate a notable person or event.",
+      "example": [
+        {
+          "eng": "The national monument was built to honor fallen soldiers.",
+          "ch": "這座國家紀念碑是為了紀念陣亡將士而建的。"
+        }
+      ]
+    },
+    {
+      "eng": "moreover",
+      "kk": "mɔːrˈoʊvər",
+      "tense": "adv.",
+      "ch": [
+        [
+          "而且",
+          "此外"
+        ]
+      ],
+      "analysis": "此字為歷史上由副詞 more（更多）加上介系詞片語 over（在……之上）組合而成的連接副詞。用於句首或句中，用來補充說明更進一步、支持前述觀點的理由或事實。",
+      "definition": "1. as a matter of fact; besides or in addition to what has been said.",
+      "example": [
+        {
+          "eng": "The plan is too expensive; moreover, it is impractical.",
+          "ch": "這個計劃太昂貴了；而且，它並不切實際。"
+        }
+      ]
+    },
+    {
+      "eng": "motivate",
+      "kk": "ˈmoʊtəˌveɪt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "激發",
+          "激勵",
+          "促使"
+        ]
+      ],
+      "analysis": "此字由名詞基底 motive（動機，源自拉丁語 motivus）加上動詞字尾 -ate 構成。指激起某人的興趣與熱情，促使對方採取行動去達成某個目標。",
+      "definition": "1. to provide someone with a reason for doing something; to stimulate interest or enthusiasm.",
+      "example": [
+        {
+          "eng": "The coach gave a speech to motivate the team before the game.",
+          "ch": "教練在賽前發表講話以激勵全隊。"
+        }
+      ]
+    },
+    {
+      "eng": "motivation",
+      "kk": "ˌmoʊtəˈveɪʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "動機",
+          "積極性",
+          "動力"
+        ]
+      ],
+      "analysis": "此字由動詞 motivate 加上名詞字尾 -ion 構成。指一個人去做某事的內在原因、熱忱，或驅使人努力達成目標的心理動力。",
+      "definition": "1. the reason or reasons one has for acting or behaving in a particular way; enthusiasm for doing something.",
+      "example": [
+        {
+          "eng": "Lack of motivation is the main reason he failed to finish the project.",
+          "ch": "缺乏積極性是他未能完成這個專案的主要原因。"
+        }
+      ]
+    },
+    {
+      "eng": "mountainous",
+      "kk": "ˈmaʊntɪnəs",
+      "tense": "adj.",
+      "ch": [
+        [
+          "多山的",
+          "山脈縱橫的"
+        ]
+      ],
+      "analysis": "此字由名詞 mountain（山，源自古法語）加上形容詞字尾 -ous 構成的現代透明構詞。用於形容某個地區地形佈滿高山、山巒起伏。",
+      "definition": "1. having many mountains.",
+      "example": [
+        {
+          "eng": "Switzerland is a heavily populated mountainous country in Europe.",
+          "ch": "瑞士是歐洲一個人口稠密的多山國家。"
+        }
+      ]
+    },
+    {
+      "eng": "muddy",
+      "kk": "ˈmʌdi",
+      "tense": "adj.",
+      "ch": [
+        [
+          "泥濘的",
+          "沾滿泥土的"
+        ]
+      ],
+      "analysis": "此字由名詞 mud（泥土、淤泥，源自日耳曼語族）加上形容詞字尾 -y 構成的現代透明構詞。形容地面因下雨或潮濕而充滿泥漿，或物體表面沾滿泥巴。",
+      "definition": "1. covered in or full of mud.",
+      "example": [
+        {
+          "eng": "The dog ran inside with muddy paws.",
+          "ch": "那隻狗帶著沾滿泥巴的爪子跑進了屋內。"
+        }
+      ]
+    },
+    {
+      "eng": "mule",
+      "kk": "mjuːl",
+      "tense": "n.",
+      "ch": [
+        [
+          "騾子"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 mūlus（意指公驢與母馬交配所生之雜交動物）。在英語中指這種耐力強、常用作驮獸的動物，亦可引申比喻固執的人。",
+      "definition": "1. the offspring of a donkey and a horse, typically sterile and known for its stubbornness.",
+      "example": [
+        {
+          "eng": "The farmer used a mule to carry supplies up the steep mountain trail.",
+          "ch": "農夫用一頭騾子把補給品運上陡峭的山徑。"
+        }
+      ]
+    },
+    {
+      "eng": "multiple",
+      "kk": "ˈmʌltɪpəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "多個的",
+          "多種的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 multiplex（由 multus「許多」與 -plex「摺疊、重」複合而成）。在英語中形容事物數量不只一個、分佈在多處或涉及多個層面。",
+      "definition": "1. having or involving several parts, elements, or members.",
+      "example": [
+        {
+          "eng": "She suffered multiple injuries in the car accident.",
+          "ch": "她在車禍中受到了多處傷害。"
+        }
+      ]
+    },
+    {
+      "eng": "murderer",
+      "kk": "ˈmɜːrdərər",
+      "tense": "n.",
+      "ch": [
+        [
+          "殺人犯",
+          "兇手"
+        ]
+      ],
+      "analysis": "此字由動詞 murder（謀殺，源自古英語 morthor）加上表示人的字尾 -er 構成的現代透明構詞。指蓄意殺害他人生命罪名的犯罪者。",
+      "definition": "1. a person who has committed murder.",
+      "example": [
+        {
+          "eng": "The police finally caught the dangerous murderer.",
+          "ch": "警方終於抓獲了那名危險的殺人犯。"
+        }
+      ]
+    },
+    {
+      "eng": "murmur",
+      "kk": "ˈmɜːrmər",
+      "tense": "vi.",
+      "ch": [
+        [
+          "低語",
+          "喃喃自語"
+        ]
+      ],
+      "analysis": "此字為擬聲詞，源自拉丁語 murmur（模仿低沉、持續不斷的流水聲或說話聲）。在英語中作為不及物動詞，指用低沉、含糊不清的聲音私下交談或抱怨。",
+      "definition": "1. to make a low, soft, continuous sound; to speak in a low voice that is difficult to hear.",
+      "example": [
+        {
+          "eng": "The students began to murmur in frustration when the test was announced.",
+          "ch": "宣佈考試時，學生們開始沮喪地低聲抱怨。"
+        }
+      ]
+    },
+    {
+      "eng": "mutual",
+      "kk": "ˈmjuːtʃuəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "相互的",
+          "彼此的"
+        ],
+        [
+          "共同的",
+          "共有的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 mūtuus（由 mūtāre「交換」派生）。在英語發展中，其核心義指雙方或多方之間對彼此具備相同情感、行為或利益，亦可延伸指共同擁有的關係或朋友。",
+      "definition": "1. (of a feeling or action) experienced or done by each of two or more parties towards the other; 2. held in common by two or more parties.",
+      "example": [
+        {
+          "eng": "Their relationship is built on mutual trust and respect.",
+          "ch": "他們的關係建立在相互信任與尊重的基礎上。"
+        },
+        {
+          "eng": "We were introduced to each other by a mutual friend.",
+          "ch": "我們經由一位共同的朋友互相認識。"
+        }
+      ]
+    },
+    {
+      "eng": "mysterious",
+      "kk": "mɪˈstɪriəs",
+      "tense": "adj.",
+      "ch": [
+        [
+          "神秘的",
+          "難解的"
+        ]
+      ],
+      "analysis": "此字由名詞 mystery（奧秘、神秘，源自希臘語 mystērion）加上形容詞字尾 -ous 構成。用來形容某事令人無法理解、充滿謎團或無法解釋。",
+      "definition": "1. difficult or impossible to understand, explain, or identify.",
+      "example": [
+        {
+          "eng": "The police are investigating the mysterious disappearance of the painting.",
+          "ch": "警方正在調查這幅畫作的神秘失蹤案。"
+        }
+      ]
+    },
+    {
+      "eng": "namely",
+      "kk": "ˈneɪmli",
+      "tense": "adv.",
+      "ch": [
+        [
+          "也就是",
+          "即"
+        ]
+      ],
+      "analysis": "此字為歷史化合物，由名詞 name（名字）加上副詞字尾 -ly 構成。用於句中或引導片語，用來詳細列出或具體指明前面所提及的人事物。",
+      "definition": "1. used to introduce more precise details or specific examples about what has just been mentioned.",
+      "example": [
+        {
+          "eng": "Two students were awarded scholarships, namely John and Mary.",
+          "ch": "兩名學生獲頒獎學金，也就是約翰和瑪麗。"
+        }
+      ]
+    },
+    {
+      "eng": "nationality",
+      "kk": "ˌnæʃəˈnæləti",
+      "tense": "n.",
+      "ch": [
+        [
+          "國籍",
+          "民族"
+        ]
+      ],
+      "analysis": "此字源自中古法語 nationalité，由形容詞 national（屬於國家的）加上抽象名詞字尾 -ity 構成。指一個人所屬的國家法律公民身份，或所屬的民族群體。",
+      "definition": "1. the status of belonging to a particular nation by birth or naturalization; 2. an ethnic group forming a nation.",
+      "example": [
+        {
+          "eng": "Regardless of their nationality, all people deserve basic human rights.",
+          "ch": "無論國籍為何，所有人都應享有基本人權。"
+        }
+      ]
+    },
+    {
+      "eng": "needy",
+      "kk": "ˈniːdi",
+      "tense": "adj.",
+      "ch": [
+        [
+          "貧窮的",
+          "生活困窘的"
+        ]
+      ],
+      "analysis": "此字由名詞動詞基底 need（需要、貧乏，源自古英語 nēd）加上形容詞字尾 -y 構成的現代透明構詞。指長期缺乏金錢、食物等基本生活物資的貧困狀態。",
+      "definition": "1. being in need, poverty-stricken, or lacking the necessities of life.",
+      "example": [
+        {
+          "eng": "The charity organization distributes food to needy families every week.",
+          "ch": "該慈善機構每週向貧困家庭發放食物。"
+        }
+      ]
+    },
+    {
+      "eng": "neglect",
+      "kk": "nɪˈɡlɛkt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "忽略",
+          "疏忽",
+          "遺漏"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 neglectus（動詞 negligere「忽視、不顧」的過去分詞，由 nec-「不」與 legere「挑選、注意」複合而成）。在英語中作為及物動詞，指未能給予應有的照顧、關注或履行該做的事情。",
+      "definition": "1. to fail to care for properly; to give too little attention or effort to something.",
+      "example": [
+        {
+          "eng": "He neglected his studies and failed his final exams.",
+          "ch": "他荒廢了學業，期末考不及格。"
+        }
+      ]
+    },
+    {
+      "eng": "negotiate",
+      "kk": "nɪˈɡoʊʃiˌeɪt",
+      "tense": "vi.",
+      "ch": [
+        [
+          "談判",
+          "協商"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 negotiāt-（動詞 negotiārī「經商、忙碌」，由 neg-「不」與 otium「閒暇」複合而成，原意為忙於業務）。進入英語後語義轉變為各方坐下來透過對話達成協議的談判與協商。",
+      "definition": "1. to try to reach an agreement or compromise by discussion with others.",
+      "example": [
+        {
+          "eng": "The union representatives met with management to negotiate a new contract.",
+          "ch": "工會代表與管理階層開會，商討新合約。"
+        }
+      ]
+    },
+    {
+      "eng": "nevertheless",
+      "kk": "ˌnɛvərðəˈlɛs",
+      "tense": "adv.",
+      "ch": [
+        [
+          "然而",
+          "儘管如此"
+        ]
+      ],
+      "analysis": "此字為歷史複合詞，由 never（從不）、the（定冠詞）與 less（更少）按字面組合而成（意為「即使如此也沒有減少」）。用作連接副詞，表達儘管有前述狀況，但情況依然如此或事實依然成立。",
+      "definition": "1. in spite of that; notwithstanding; however.",
+      "example": [
+        {
+          "eng": "The weather was stormy; nevertheless, they continued their journey.",
+          "ch": "天氣風雨交加；儘管如此，他們還是繼續了行程。"
+        }
+      ]
+    },
+    {
+      "eng": "nightmare",
+      "kk": "ˈnaɪtˌmɛr",
+      "tense": "n.",
+      "ch": [
+        [
+          "惡夢",
+          "可怕的經歷"
+        ]
+      ],
+      "analysis": "此字由古英語 night（夜晚）與 mare（古代日耳曼神話中壓在人胸口帶來噩夢的惡魔，源自 mære）複合而成。歷史上指睡眠中恐怖的夢境，現代廣泛引申用來形容現實生活中任何極度恐怖或痛苦的經歷。",
+      "definition": "1. a frightening or unpleasant dream; 2. a terrifying or very unpleasant experience or situation.",
+      "example": [
+        {
+          "eng": "She woke up sweating after having a terrible nightmare.",
+          "ch": "她做了一個可怕的惡夢後流著汗醒來。"
+        },
+        {
+          "eng": "Dealing with the complex tax paperwork was an absolute nightmare.",
+          "ch": "處理這些複雜的稅務文件簡直是一場惡夢。"
+        }
+      ]
+    },
+    {
+      "eng": "noble",
+      "kk": "ˈnoʊbəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "高貴的",
+          "崇高的"
+        ],
+        [
+          "貴族的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 nōbilis（著名的、品格高尚的或出身貴族的，由 nōscere「知道」派生）。在英語中，既指人的品德崇高、慷慨高尚，也指歐洲封建制度下屬於特權階級的貴族身份。",
+      "definition": "1. having fine personal qualities or high moral principles and ideals; 2. belonging to a hereditary class with high social or political status.",
+      "example": [
+        {
+          "eng": "Rescuing the trapped hikers was a very noble act.",
+          "ch": "營救受困的登山客是一個非常崇高的行為。"
+        },
+        {
+          "eng": "He was born into a noble family with a long history.",
+          "ch": "他出生於一個歷史悠久的貴族家庭。"
+        }
+      ]
+    },
+    {
+      "eng": "nonsense",
+      "kk": "ˈnɑːnsɛns",
+      "tense": "n.",
+      "ch": [
+        [
+          "胡說八道",
+          "廢話"
+        ]
+      ],
+      "analysis": "此字為歷史複合詞，由表示否定或相反的字首 non- 結合名詞 sense（意義、道理）而成。指完全沒有道理、荒謬且不合邏輯的言語或行為。",
+      "definition": "1. spoken or written words that have no meaning or make no sense; foolish behavior or ideas.",
+      "example": [
+        {
+          "eng": "Don't listen to him; he's just talking absolute nonsense.",
+          "ch": "別聽他胡說八道；他只是在講一堆廢話。"
+        }
+      ]
+    },
+    {
+      "eng": "nowadays",
+      "kk": "ˈnaʊəˌdeɪz",
+      "tense": "adv.",
+      "ch": [
+        [
+          "現今",
+          "現在",
+          "當今"
+        ]
+      ],
+      "analysis": "此字由古英語片語 on dæge（在日子裡）演變而來，現代拼法結合了 now（現在）與 days（日子們）。用作副詞，指與過去相比的現代或現今普遍的情況。",
+      "definition": "1. at the present time, in contrast with the past.",
+      "example": [
+        {
+          "eng": "Nowadays, most people use smartphones instead of traditional cameras.",
+          "ch": "現今大多數人都使用智慧型手機，而不是傳統相機。"
+        }
+      ]
+    },
+    {
+      "eng": "nuclear",
+      "kk": "ˈnuːkliər",
+      "tense": "adj.",
+      "ch": [
+        [
+          "原子核的",
+          "核能的"
+        ],
+        [
+          "核心的",
+          "家庭核心的"
+        ]
+      ],
+      "analysis": "此字由名詞 nucleus（核心、原子核，源自拉丁語 nux「堅果」）加上形容詞字尾 -ar 構成。最初用於物理學指涉原子核與核能相關技術，隨後在社會學中引申出核心家庭（nuclear family）的概念。",
+      "definition": "1. relating to the nucleus of an atom or the energy produced by nuclear reactions; 2. consisting of a mother, father, and children living together.",
+      "example": [
+        {
+          "eng": "The country generates a large portion of its electricity from nuclear power.",
+          "ch": "該國的大部分電力來自核能發電。"
+        },
+        {
+          "eng": "The traditional nuclear family structure has changed over the decades.",
+          "ch": "傳統的核心家庭結構幾十年來已經發生了變化。"
+        }
+      ]
+    },
+    {
+      "eng": "numerous",
+      "kk": "ˈnuːmərəs",
+      "tense": "adj.",
+      "ch": [
+        [
+          "許多的",
+          "為數眾多的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 numerōsus（由 numerus「數字、數量」派生）。在英語中形容數量極多或次數頻繁的人事物。",
+      "definition": "1. great in number; many.",
+      "example": [
+        {
+          "eng": "She has received numerous awards for her research work.",
+          "ch": "她因研究工作獲得了無數獎項。"
+        }
+      ]
+    },
+    {
+      "eng": "nursery",
+      "kk": "ˈnɜːrsəri",
+      "tense": "n.",
+      "ch": [
+        [
+          "托兒所",
+          "育兒室"
+        ],
+        [
+          "苗圃"
+        ]
+      ],
+      "analysis": "此字由動詞 nurse（照顧、哺乳，源自拉丁語 nutrire）加上名詞字尾 -ery 構成。最初指照顧幼兒的房間或場所，隨後引申用來指培育幼樹和花草的苗圃。",
+      "definition": "1. a room or place set apart for the care of babies or young children; 2. a place where plants are grown for sale or planting elsewhere.",
+      "example": [
+        {
+          "eng": "Both parents work, so they send their toddler to a local nursery.",
+          "ch": "雙親都要上班，所以他們把幼兒送到了當地的托兒所。"
+        },
+        {
+          "eng": "We bought several fruit trees at the garden nursery.",
+          "ch": "我們在園藝苗圃買了幾棵果樹。"
+        }
+      ]
+    },
+    {
+      "eng": "nutritious",
+      "kk": "nuˈtrɪʃəs",
+      "tense": "adj.",
+      "ch": [
+        [
+          "營養豐富的",
+          "滋養的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 nūtrīcius（由 nūtrīre「餵養、滋養」派生），加上形容詞字尾構成。用來形容食物富含身體生長與維持健康所需的營養成分。",
+      "definition": "1. efficient as food; nourishing and healthy.",
+      "example": [
+        {
+          "eng": "Beans and lentils are cheap and highly nutritious foods.",
+          "ch": "豆類是便宜且營養豐富的食物。"
+        }
+      ]
+    },
+    {
+      "eng": "obedience",
+      "kk": "oʊˈbiːdiəns",
+      "tense": "n.",
+      "ch": [
+        [
+          "服從",
+          "順從"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 obedientia（由 oboedire「服從、聽從」派生，由 ob-「朝向」與 audire「聽」複合而成）。指遵從權威、法律、規則或長輩要求的行為與態度。",
+      "definition": "1. compliance with an order, request, or law or submission to another's authority.",
+      "example": [
+        {
+          "eng": "The military training emphasizes strict obedience to commands.",
+          "ch": "軍事訓練強調對命令的嚴格服從。"
+        }
+      ]
+    },
+    {
+      "eng": "obedient",
+      "kk": "oʊˈbiːdiənt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "服從的",
+          "聽話的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 obediens（動詞 oboedire 的現在分詞）。在英語中用來形容人或動物樂於聽從指令、遵守規則、不背叛權威的特質。",
+      "definition": "1. complying or willing to comply with an order or law; submitting to another's authority.",
+      "example": [
+        {
+          "eng": "The well-trained dog is very obedient to its master.",
+          "ch": "那隻訓練有素的狗對主人非常聽話。"
+        }
+      ]
+    }
+  ]
+}

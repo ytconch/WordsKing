@@ -1,0 +1,1324 @@
+{
+  "level": 5,
+  "chunkIndex": 12,
+  "inputs": [
+    "mock",
+    "mode",
+    "modify",
+    "molecule",
+    "monopoly",
+    "morality",
+    "mortality",
+    "mortgage",
+    "motive",
+    "mount",
+    "mumble",
+    "municipal",
+    "muscular",
+    "mustard",
+    "myth",
+    "naive",
+    "narrative",
+    "nasty",
+    "negotiation",
+    "neutral",
+    "nominate",
+    "nomination",
+    "nominee",
+    "nonprofit",
+    "norm",
+    "noticeable",
+    "notify",
+    "notion",
+    "nowhere",
+    "nutrient",
+    "nutrition",
+    "obligation",
+    "obscure",
+    "observer",
+    "odds",
+    "offering",
+    "olive",
+    "operational",
+    "opponent",
+    "opposition",
+    "opt",
+    "optimism",
+    "optional",
+    "orchard",
+    "organism",
+    "originality",
+    "outfit",
+    "outlet",
+    "output",
+    "outsider"
+  ],
+  "rows": [
+    {
+      "eng": "mock",
+      "kk": "/mɑk/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "嘲弄",
+          "戲弄",
+          "取笑"
+        ],
+        [
+          "模仿",
+          "仿效"
+        ]
+      ],
+      "analysis": "此字為現代透明單音節動詞，兼具 vt. 與 vi. 用法。作為 vt. 時，源自中古英語 mocken，經由古法語 moquer（意為嘲弄、愚弄），最終可追溯至日耳曼語族源頭。語義演變從早期的「愚弄、戲弄」發展為現代的「嘲笑、蔑視」與「模擬、仿效（如 mock exam）」。",
+      "definition": "1. To tease or laugh at someone or something in a scornful or contemptuous manner; 2. To imitate someone or something closely, often in a playful or disrespectful way.",
+      "example": [
+        {
+          "eng": "It is unkind to mock people who make mistakes.",
+          "ch": "嘲笑犯錯的人是不厚道的。"
+        },
+        {
+          "eng": "The students like to mock the teacher's strict accent.",
+          "ch": "學生們喜歡模仿老師嚴格的口音。"
+        }
+      ]
+    },
+    {
+      "eng": "mock",
+      "kk": "/mɑk/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "嘲弄",
+          "戲弄"
+        ]
+      ],
+      "analysis": "此字為 mock 的不及物動詞用法，源自動詞詞根經中古英語與古法語演變而來。作為 vi. 時通常與介詞連用，表示對某人或某事發出嘲笑或輕蔑的態度。",
+      "definition": "1. To make fun of or deride someone or something, typically used with a preposition.",
+      "example": [
+        {
+          "eng": "He tends to mock at anything he does not fully understand.",
+          "ch": "他往往會嘲笑任何他沒有完全理解的事物。"
+        }
+      ]
+    },
+    {
+      "eng": "mock",
+      "kk": "/mɑk/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "模擬的",
+          "演習的"
+        ],
+        [
+          "假裝的",
+          "仿製的"
+        ]
+      ],
+      "analysis": "此形容詞用法由動詞轉化而來，保持了「模仿、模擬」的核心概念。在現代英語中常作定語修飾名詞，如 mock exam（模擬考）或 mock leather（人造皮革）。",
+      "definition": "1. Designed to imitate something real; practiced or conducted as training or trial; 2. Not authentic or real; artificial or sham.",
+      "example": [
+        {
+          "eng": "The high school seniors are preparing for the upcoming mock exams.",
+          "ch": "高三學生正在準備即將到來的模擬考試。"
+        },
+        {
+          "eng": "The jacket is made of mock leather.",
+          "ch": "這件夾克是用人造皮革製成的。"
+        }
+      ]
+    },
+    {
+      "eng": "mode",
+      "kk": "/moʊd/",
+      "tense": "n.",
+      "ch": [
+        [
+          "模式",
+          "方式",
+          "風格"
+        ],
+        [
+          "（操作）狀態",
+          "（設備）模式"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自拉丁語 modus（意為尺度、方式、界限），經由法語進入英語。核心語義從抽象的「方式、方法」延伸至現代科技與設備中的「操作狀態」或「模式」。",
+      "definition": "1. A way or manner in which something occurs or is experienced, expressed, or done; 2. A particular functioning condition or setting on a machine or device.",
+      "example": [
+        {
+          "eng": "Travelers can choose their preferred mode of transportation.",
+          "ch": "旅客可以選擇他們偏好的交通方式。"
+        },
+        {
+          "eng": "Please switch your mobile phone to silent mode during the meeting.",
+          "ch": "開會期間請將你的手機切換成靜音模式。"
+        }
+      ]
+    },
+    {
+      "eng": "modify",
+      "kk": "/ˈmɑdɪˌfaɪ/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "修改",
+          "更改",
+          "修正"
+        ],
+        [
+          "修飾",
+          "限定"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞動詞，由拉丁語 modus（方式、尺度）衍生的動詞 modificare（參照 -ify 作動詞字尾）經由法語傳入英語。字面組合具有「改變方式、調整尺度」之意。語義演變涵蓋一般事物的「修改、調整」以及文法學中用詞語來「修飾」另一個詞的專業義。",
+      "definition": "1. To make partial or minor changes to something in order to improve it or make it more suitable; 2. To limit, qualify, or restrict the meaning of another word in grammar.",
+      "example": [
+        {
+          "eng": "Engineers need to modify the design to improve fuel efficiency.",
+          "ch": "工程師需要修改設計以提高燃油效率。"
+        },
+        {
+          "eng": "An adjective is a word used to modify a noun.",
+          "ch": "形容詞是用來修飾名詞的詞。"
+        }
+      ]
+    },
+    {
+      "eng": "molecule",
+      "kk": "/ˈmɑlɪˌkjul/",
+      "tense": "n.",
+      "ch": [
+        [
+          "分子"
+        ]
+      ],
+      "analysis": "此字為現代科學詞彙，源自新拉丁語 molecula，由拉丁語 moles（質量、大塊）加上指小詞綴 -ecula 組合而成。歷史上於 17 世紀引入科學論述中，指物質中能保持化學性質的最小微粒。",
+      "definition": "1. The smallest fundamental unit of a chemical compound that can take part in a chemical reaction.",
+      "example": [
+        {
+          "eng": "A water molecule consists of two hydrogen atoms and one oxygen atom.",
+          "ch": "一個水分子由兩個氫原子和一個氧原子組成。"
+        }
+      ]
+    },
+    {
+      "eng": "monopoly",
+      "kk": "/məˈnɑpəli/",
+      "tense": "n.",
+      "ch": [
+        [
+          "壟斷",
+          "專賣"
+        ],
+        [
+          "獨佔物",
+          "專有權"
+        ]
+      ],
+      "analysis": "此字源自希臘語 monos（單獨、唯一）加上 polein（出售、交易），經由拉丁語進入英語。字面義為「單獨販售」。語義從經濟學上的「市場壟斷權」延伸至日常生活中對某種資源或活動的「獨佔與專有」。",
+      "definition": "1. The exclusive possession or control of the supply of or trade in a commodity or service; 2. Something that is exclusively possessed or controlled by one party.",
+      "example": [
+        {
+          "eng": "The government passed laws to prevent market monopoly.",
+          "ch": "政府通過了法律以防止市場壟斷。"
+        },
+        {
+          "eng": "Education should not be the monopoly of the wealthy.",
+          "ch": "教育不應當是富人的專利。"
+        }
+      ]
+    },
+    {
+      "eng": "morality",
+      "kk": "/mɔˈrælɪti/",
+      "tense": "n.",
+      "ch": [
+        [
+          "道德",
+          "美德",
+          "道德規範"
+        ]
+      ],
+      "analysis": "此字由形容詞 moral 加上名詞字尾 -ity 構成。其根源可追溯至拉丁語 moralis（源自 mos，意為習俗、品行）。語義指人類行為的對錯準則、道德標準或品德高尚的狀態。",
+      "definition": "1. Principles concerning the distinction between right and wrong or good and bad behavior.",
+      "example": [
+        {
+          "eng": "Stealing is a clear violation of basic public morality.",
+          "ch": "偷竊是對基本公眾道德的明顯違反。"
+        }
+      ]
+    },
+    {
+      "eng": "mortality",
+      "kk": "/mɔrˈtæləti/",
+      "tense": "n.",
+      "ch": [
+        [
+          "死亡率"
+        ],
+        [
+          "必死性",
+          "終有一死"
+        ]
+      ],
+      "analysis": "此字由形容詞 mortal（必死的，源自拉丁語 mortalis，根源為 mors 意即死亡）加上名詞字尾 -ity 構成。語義一方面指人口統計中的「死亡率」，另一方面指生命終將死亡的哲學本質。",
+      "definition": "1. The state of being subject to death; 2. The number of deaths in a given area or period, or from a particular cause.",
+      "example": [
+        {
+          "eng": "Advances in modern medicine have significantly reduced infant mortality.",
+          "ch": "現代醫學的進步大幅降低了嬰兒死亡率。"
+        },
+        {
+          "eng": "Facing a serious illness made him deeply aware of his own mortality.",
+          "ch": "面對一場重病，使他深深體認到自己終究一死。"
+        }
+      ]
+    },
+    {
+      "eng": "mortgage",
+      "kk": "/ˈmɔrɡɪdʒ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "抵押貸款",
+          "房貸"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自中古英語，借自古法語 mortgage，由 mort（死、死亡）加上 gage（抵押物、保證金）組成。歷史字面原義為「死押」，即當債務償清或期限到期時失效的抵押。現代英語中主要指購買不動產時向銀行辦理的「抵押貸款」。",
+      "definition": "1. A legal agreement by which a bank or other creditor lends money at interest in exchange for taking title of the debtor's property, with the condition that the conveyance of title becomes void upon the payment of the debt.",
+      "example": [
+        {
+          "eng": "They took out a thirty-year mortgage to buy their first home.",
+          "ch": "他們貸了三十年房貸來買下第一棟房子。"
+        }
+      ]
+    },
+    {
+      "eng": "mortgage",
+      "kk": "/ˈmɔrɡɪdʒ/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "抵押（房屋或土地）"
+        ]
+      ],
+      "analysis": "此字為 mortgage 的動詞用法，由名詞轉化而來。指將不動產作為抵押品向金融機構借款。",
+      "definition": "1. To convey or pledge property to a creditor as security for the payment of a debt.",
+      "example": [
+        {
+          "eng": "They had to mortgage their house to pay off mounting business debts.",
+          "ch": "他們不得不抵押房屋來償還日益增加的商業債務。"
+        }
+      ]
+    },
+    {
+      "eng": "motive",
+      "kk": "/ˈmoʊtɪv/",
+      "tense": "n.",
+      "ch": [
+        [
+          "動機",
+          "原因",
+          "目的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 motivus（移動的、推動的，源自 movere，意為移動），經由中古法語進入英語。核心語義從物理上的「推動力」引申為心理學與法律上的「行為動機或目的」。",
+      "definition": "1. A reason for doing something, especially one that is hidden or not stated.",
+      "example": [
+        {
+          "eng": "The police are still trying to determine the suspect's motive for the crime.",
+          "ch": "警方仍在努力查明嫌疑人作案的動機。"
+        }
+      ]
+    },
+    {
+      "eng": "mount",
+      "kk": "/maʊnt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "山峰",
+          "山（常置於專有名詞前）"
+        ],
+        [
+          "底座",
+          "支架"
+        ]
+      ],
+      "analysis": "此字為 mount 的名詞用法，源自古法語與拉丁語 montem。主要用作地理名稱中的「山峰」（簡寫為 Mt.），亦可指固定機件的支架或底座。",
+      "definition": "1. A mountain or hill, used especially before a proper name; 2. A support or backing on which something is placed or fixed.",
+      "example": [
+        {
+          "eng": "Mount Everest is the highest mountain in the world.",
+          "ch": "聖母峰是世界上最高的山。"
+        },
+        {
+          "eng": "The telescope comes with a sturdy tripod mount.",
+          "ch": "這架望遠鏡附帶一個堅固的三腳架底座。"
+        }
+      ]
+    },
+    {
+      "eng": "mount",
+      "kk": "/maʊnt/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "攀登",
+          "爬上"
+        ],
+        [
+          "發起",
+          "組織",
+          "舉辦"
+        ],
+        [
+          "安裝",
+          "架設"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自古法語 monter（上升、爬上），最終可追溯至拉丁語 montem（山丘）。作為 vt. 時，語義從原來的「上馬、登上」擴展至「策劃或發起活動（如 mount an exhibition）」以及「安裝設備（如 mount a camera）」。",
+      "definition": "1. To climb up or get up on something; 2. To organize, initiate, or launch an activity, campaign, or exhibition; 3. To fix something firmly onto a support or backing.",
+      "example": [
+        {
+          "eng": "The hikers managed to mount the steep peak before sunset.",
+          "ch": "登山客趕在日落前成功攀登了這座陡峭的山峰。"
+        },
+        {
+          "eng": "The museum plans to mount a major retrospective exhibition next year.",
+          "ch": "博物館計劃明年舉辦一場大型回顧展。"
+        },
+        {
+          "eng": "Technicians need to securely mount the projector to the ceiling.",
+          "ch": "技術人員需要將投影機牢固地安裝在天花板上。"
+        }
+      ]
+    },
+    {
+      "eng": "mount",
+      "kk": "/maʊnt/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "增加",
+          "上升",
+          "逐漸增多"
+        ]
+      ],
+      "analysis": "此字為 mount 的不及物動詞用法，源自古法語 monter。常指數量、壓力或情緒隨著時間不斷增長或爬升。",
+      "definition": "1. To increase in amount, extent, or intensity.",
+      "example": [
+        {
+          "eng": "Tensions began to mount as the deadline approached.",
+          "ch": "隨著期限逼近，緊張局勢開始升高。"
+        }
+      ]
+    },
+    {
+      "eng": "mumble",
+      "kk": "/ˈmʌmbəl/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "含糊不清地說出"
+        ]
+      ],
+      "analysis": "此字為 mumble 的及物動詞用法，接具體話語為受詞，表示含混不清地吐出字句。",
+      "definition": "1. To utter something in a low, indistinct voice.",
+      "example": [
+        {
+          "eng": "He mumbled an apology before walking out of the room.",
+          "ch": "他含糊不清地嘟囔了一聲道歉，然後走出了房間。"
+        }
+      ]
+    },
+    {
+      "eng": "mumble",
+      "kk": "/ˈmʌmbəl/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "含糊不清地說",
+          "咕噥"
+        ]
+      ],
+      "analysis": "此字為擬聲詞（onomatopoeia）演變而來的動詞，帶有表示反覆或微弱動作的字尾 -ble。指發音不清楚、含糊地說話，使人難以聽懂。",
+      "definition": "1. To say something quietly and indistinctly, making it difficult for others to hear.",
+      "example": [
+        {
+          "eng": "Stop mumbling and speak clearly so everyone can understand you.",
+          "ch": "別再咕噥了，大聲清楚地說，好讓大家都聽得懂。"
+        }
+      ]
+    },
+    {
+      "eng": "municipal",
+      "kk": "/mjuˈnɪsəpəl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "市的",
+          "市立的",
+          "市政的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 municipalis，由 municipium（自治市）加上形容詞字尾 -al 構成。在現代英語中主要用來形容與城市政府、公共設施或市政管理相關的事物。",
+      "definition": "1. Relating to a city, town, or its governing body.",
+      "example": [
+        {
+          "eng": "The city council is responsible for maintaining municipal parks.",
+          "ch": "市議會負責維護市政公園。"
+        }
+      ]
+    },
+    {
+      "eng": "muscular",
+      "kk": "/ˈmʌskjələr/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "肌肉的",
+          "肌肉發達的"
+        ]
+      ],
+      "analysis": "此字由拉丁語 musculus（小老鼠，引申為肌肉，因形似與收縮狀）經由法語或直接衍生出 muscle，再加形容詞字尾 -ar 構成。語義指身體肌肉構造相關的，或形容人健壯、肌肉發達的。",
+      "definition": "1. Relating to or affecting the muscles; 2. Having well-developed muscles; strong.",
+      "example": [
+        {
+          "eng": "Regular strength training helps relieve muscular tension.",
+          "ch": "規律的力量訓練有助於緩解肌肉緊張。"
+        },
+        {
+          "eng": "He is a muscular athlete who excels in sprinting.",
+          "ch": "他是一位擅長短跑、肌肉發達的運動員。"
+        }
+      ]
+    },
+    {
+      "eng": "mustard",
+      "kk": "/ˈmʌstərd/",
+      "tense": "n.",
+      "ch": [
+        [
+          "芥末",
+          "芥菜醬"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自中古英語，借自古法語 moustarde，最終源自拉丁語 mustum（葡萄汁），因早期法語常將磨碎的芥菜籽與未發酵葡萄汁混合製成調味醬而得名。現代指由芥菜籽製成的黃色辛辣調味料。",
+      "definition": "1. A hot-tasting yellow or brown paste made from the crushed seeds of certain plants, typically eaten with meat or sandwiches.",
+      "example": [
+        {
+          "eng": "Would you like some ketchup and mustard on your hot dog?",
+          "ch": "你的熱狗想要加番茄醬和芥末醬嗎？"
+        }
+      ]
+    },
+    {
+      "eng": "myth",
+      "kk": "/mɪθ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "神話"
+        ],
+        [
+          "迷思",
+          "謬論",
+          "錯誤的看法"
+        ]
+      ],
+      "analysis": "此字源自希臘語 mythos（話語、故事、神話），經由拉丁語進入近代英語。語義從早期的傳統「神話故事」演變擴大，現代廣泛用於指廣受流傳但實際上錯誤的「迷思或謬論」。",
+      "definition": "1. A traditional story, especially one concerning the early history of a people or explaining a natural or social phenomenon, typically involving supernatural beings; 2. A widely held but false belief or idea.",
+      "example": [
+        {
+          "eng": "Ancient Greek myths often feature gods with human emotions.",
+          "ch": "古希臘神話經常以具有人類情感的神靈為特色。"
+        },
+        {
+          "eng": "It is a common myth that humans only use ten percent of their brains.",
+          "ch": "人類只使用了大腦百分之十是一個常見的迷思。"
+        }
+      ]
+    },
+    {
+      "eng": "naive",
+      "kk": "/naɪˈiv/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "天真的",
+          "幼稚的",
+          "單純的"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，直接借自法語 naïve（陰性形，源自拉丁語 nativus，意為天生的、純樸的）。在英語中保留了原汁原味的拼法（常寫作 naïve），用來形容缺乏社會經驗、容易相信別人的天真或幼稚心態。",
+      "definition": "1. Showing a lack of experience, wisdom, or judgment; innocent and easily deceived.",
+      "example": [
+        {
+          "eng": "It was naive of her to trust a stranger with all her money.",
+          "ch": "她竟然把所有的錢都交給一個陌生人保管，實在是太天真了。"
+        }
+      ]
+    },
+    {
+      "eng": "narrative",
+      "kk": "/ˈnærətɪv/",
+      "tense": "n.",
+      "ch": [
+        [
+          "敘述",
+          "故事",
+          "記敘文"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 narrare（講述、說明）的過去分詞詞幹 narratus，加上名詞字尾構成。語義指對一連串事件的文字或口頭描繪、敘述文體或故事。",
+      "definition": "1. A spoken or written account of connected events; a story.",
+      "example": [
+        {
+          "eng": "The novel weaves multiple narratives into a single compelling story.",
+          "ch": "這部小說將多條敘事線交織成一個引人入勝的故事。"
+        }
+      ]
+    },
+    {
+      "eng": "narrative",
+      "kk": "/ˈnærətɪv/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "敘事的",
+          "記敘的"
+        ]
+      ],
+      "analysis": "此字為 narrative 的形容詞用法，源自拉丁語。用來修飾具有敘述性質的文學、結構或風格。",
+      "definition": "1. Relating to or characterized by the telling of a story.",
+      "example": [
+        {
+          "eng": "The film relies heavily on strong visual elements rather than traditional narrative structure.",
+          "ch": "這部電影高度依賴強烈的視覺元素，而非傳統的敘事結構。"
+        }
+      ]
+    },
+    {
+      "eng": "nasty",
+      "kk": "/ˈnæsti/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "令人不快的",
+          "討厭的",
+          "惡劣的"
+        ],
+        [
+          "惡毒的",
+          "令人反感的"
+        ]
+      ],
+      "analysis": "此字源自中古英語 nastig，其起源可能與古諾斯語（Old Norse）中表示髒亂的詞彙有關。語義從早期的「骯髒、污穢」演變為現代泛指「令人極不舒服的天氣、傷口、情況」，或形容人性格「刻薄、惡毒」。",
+      "definition": "1. Very bad, unpleasant, or offensive; 2. Cruel, malicious, or unkind.",
+      "example": [
+        {
+          "eng": "We had to cancel the picnic because of the nasty weather.",
+          "ch": "因為惡劣的天氣，我們不得不取消野餐。"
+        },
+        {
+          "eng": "There is no need to make such nasty comments about his work.",
+          "ch": "沒必要對他的工作發表這麼惡毒的評論。"
+        }
+      ]
+    },
+    {
+      "eng": "negotiation",
+      "kk": "/nɪˌɡoʊʃiˈeɪʃən/",
+      "tense": "n.",
+      "ch": [
+        [
+          "談判",
+          "協商",
+          "磋商"
+        ]
+      ],
+      "analysis": "此字由動詞 negotiate（源自拉丁語 negotiari，意為做生意、經商，由 neg- 不 + otium 閒暇組成）加上名詞字尾 -ation 構成。語義指雙方或多方為了達成協議而進行的正式討論與交涉。",
+      "definition": "1. Discussion aimed at reaching an agreement.",
+      "example": [
+        {
+          "eng": "The labor union entered into tense negotiations with the management.",
+          "ch": "工會與資方展開了緊張的談判。"
+        }
+      ]
+    },
+    {
+      "eng": "neutral",
+      "kk": "/ˈnutrəl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "中立的",
+          "不偏不倚的"
+        ],
+        [
+          "中性的",
+          "無色無味的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 neutralis，由 ne-（不）加 uter（兩者中的哪一個）構成，意即「兩者皆非」。經由法語進入英語。語義從政治或衝突中的「中立、不選邊站」延伸至科學上的「中性（如化學酸鹼值中性、色彩中性）」。",
+      "definition": "1. Not supporting or helping either side in a conflict, disagreement, etc.; impartial; 2. Having no strongly marked or positive characteristics; chemically or physically neither acid nor alkaline, or lacking bright color.",
+      "example": [
+        {
+          "eng": "Switzerland has remained a neutral country for centuries.",
+          "ch": "瑞士多個世紀以來一直保持中立國的地位。"
+        },
+        {
+          "eng": "Paint the walls in neutral colors so they match any furniture.",
+          "ch": "把牆壁漆成中性色調，這樣它們就能搭配任何家具。"
+        }
+      ]
+    },
+    {
+      "eng": "nominate",
+      "kk": "/ˈnɑmɪˌneɪt/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "提名",
+          "任命",
+          "推薦"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 nominatus（過去分詞，意為指名、命名），源自 nomen（名字）。在現代英語中作為及物動詞，指正式提出某人作為候選人或職務的任命人選。",
+      "definition": "1. To propose or formally enter as a candidate for election or an honor.",
+      "example": [
+        {
+          "eng": "The committee decided to nominate her for the annual science award.",
+          "ch": "委員會決定提名她競選年度科學獎。"
+        }
+      ]
+    },
+    {
+      "eng": "nomination",
+      "kk": "/ˌnɑmɪˈneɪʃən/",
+      "tense": "n.",
+      "ch": [
+        [
+          "提名",
+          "任命"
+        ]
+      ],
+      "analysis": "此字由動詞 nominate 加上名詞字尾 -ation 構成。指被提名為候選人的狀態或獲得提名的行為。",
+      "definition": "1. The act of officially suggesting someone or something for a position, duty, or award.",
+      "example": [
+        {
+          "eng": "She was thrilled to receive an Oscar nomination for best actress.",
+          "ch": "她獲得奧斯卡最佳女主角提名，感到非常興奮。"
+        }
+      ]
+    },
+    {
+      "eng": "nominee",
+      "kk": "/ˌnɑmɪˈni/",
+      "tense": "n.",
+      "ch": [
+        [
+          "被提名人",
+          "候選人"
+        ]
+      ],
+      "analysis": "此字由動詞 nominate 加上表受詞的法語來源字尾 -ee 構成。指被正式推薦或提名參與競選、獎項的人。",
+      "definition": "1. A person who is proposed as a candidate for an office or award.",
+      "example": [
+        {
+          "eng": "All the nominees attended the gala dinner before the awards ceremony.",
+          "ch": "所有被提名人都出席了頒獎典禮前的晚宴。"
+        }
+      ]
+    },
+    {
+      "eng": "nonprofit",
+      "kk": "/nɑnˈprɑfɪt/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "非營利的"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由否定字首 non- 加上名詞 profit（利潤）轉化的形容詞構成。專門用來形容不以營利為目的、將盈餘用於公益或組織宗旨的機構。",
+      "definition": "1. Not making or conducted to make a profit; established for charitable, educational, or public service purposes.",
+      "example": [
+        {
+          "eng": "She works for a nonprofit organization that helps homeless animals.",
+          "ch": "她在一家救助流浪動物的非營利組織工作。"
+        }
+      ]
+    },
+    {
+      "eng": "norm",
+      "kk": "/nɔrm/",
+      "tense": "n.",
+      "ch": [
+        [
+          "規範",
+          "常態",
+          "標準"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 norma（直角尺、標準、規範）。透過學術與社會科學領域進入英語。語義指社會群體中普遍接受的行為準則、標準或常態現象。",
+      "definition": "1. Something that is usual, typical, or standard; a standard or pattern of social behavior that is accepted in a particular group.",
+      "example": [
+        {
+          "eng": "Working from home has become the norm for many office employees.",
+          "ch": "在家辦公已經成為許多辦公室員工的常態。"
+        }
+      ]
+    },
+    {
+      "eng": "noticeable",
+      "kk": "/ˈnoʊtɪsəbəl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "顯而易見的",
+          "引人注目的",
+          "顯著的"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由動詞 notice（注意到）加上形容詞字尾 -able（可…的）構成。語義指某事物非常明顯，輕易就能被感官或心智察覺。",
+      "definition": "1. Easily seen or noticed; clear or apparent.",
+      "example": [
+        {
+          "eng": "There was a noticeable improvement in his health after he started exercising.",
+          "ch": "他開始運動後，健康狀況有了明顯的改善。"
+        }
+      ]
+    },
+    {
+      "eng": "notify",
+      "kk": "/ˈnoʊtɪˌfaɪ/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "通知",
+          "告知",
+          "通報"
+        ]
+      ],
+      "analysis": "此字由拉丁語 notus（已知的）衍生的動詞 notificare（通知）經由法語或直接借入英語，字尾為 -ify（使成為）。及物動詞用法表示正式向某人提供訊息或發出通知。",
+      "definition": "1. To officially or formally inform someone of something.",
+      "example": [
+        {
+          "eng": "The airline will notify passengers if the flight is delayed.",
+          "ch": "如果航班延誤，航空公司會通知乘客。"
+        }
+      ]
+    },
+    {
+      "eng": "notion",
+      "kk": "/ˈnoʊʃən/",
+      "tense": "n.",
+      "ch": [
+        [
+          "概念",
+          "想法",
+          "見解"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 notio（概念、意念，源自 noscere，意為得知、認識）。經由法語進入英語。語義指心智中對某事物的理解、概念、看法或突發的念頭。",
+      "definition": "1. A conception of or belief about something; an impulse or desire.",
+      "example": [
+        {
+          "eng": "He rejected the notion that success is purely a matter of luck.",
+          "ch": "他駁斥了成功純粹是運氣問題的這種看法。"
+        }
+      ]
+    },
+    {
+      "eng": "nowhere",
+      "kk": "/ˈnoʊˌwɛr/",
+      "tense": "adv.",
+      "ch": [
+        [
+          "任何地方都不",
+          "無處"
+        ]
+      ],
+      "analysis": "此字為日耳曼語族繼承詞，由否定副詞 no 加代名詞或副詞 where 組合成的複合詞。字面意即「在任何地方都沒有」，用作表示完全找不到或不存在任何地點。",
+      "definition": "1. Not in or to any place; in no place.",
+      "example": [
+        {
+          "eng": "I searched everywhere for my keys, but they were nowhere to be found.",
+          "ch": "我到處找我的鑰匙，但哪裡都找不到。"
+        }
+      ]
+    },
+    {
+      "eng": "nutrient",
+      "kk": "/ˈnutriənt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "營養素",
+          "養分"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 nutriens（現在分詞，意為滋養的，源自 nutrire，意為哺育、養育）。在現代英語中作為名詞，指食物中提供生物生長與生存所必需的化學物質或養分。",
+      "definition": "1. A substance that provides nourishment essential for the growth and the maintenance of life.",
+      "example": [
+        {
+          "eng": "Vegetables are rich in vitamins, minerals, and other vital nutrients.",
+          "ch": "蔬菜富含維生素、礦物質和其他重要的營養素。"
+        }
+      ]
+    },
+    {
+      "eng": "nutrition",
+      "kk": "/nuˈtrɪʃən/",
+      "tense": "n.",
+      "ch": [
+        [
+          "營養",
+          "營養學",
+          "營養物質"
+        ]
+      ],
+      "analysis": "此字由拉丁語 nutritio（滋養）經由法語或直接進入英語，字尾為 -tion（名詞字尾）。語義涵蓋生物吸收養分的過程、飲食營養學，以及食物整體的營養價值。",
+      "definition": "1. The process of providing or obtaining the food necessary for health and growth; the branch of science that deals with nutrients in food.",
+      "example": [
+        {
+          "eng": "Proper nutrition is essential for a child's physical and mental development.",
+          "ch": "適當的營養對兒童的身心發展至關重要。"
+        }
+      ]
+    },
+    {
+      "eng": "obligation",
+      "kk": "/ˌɑbləˈɡeɪʃən/",
+      "tense": "n.",
+      "ch": [
+        [
+          "義務",
+          "責任",
+          "承諾"
+        ]
+      ],
+      "analysis": "此字由拉丁語 obligatio（束縛、債務，源自 ob- 加 ligare 捆綁、繫緊）經由法語進入英語，字尾為 -ation。語義從法律或道德上的「約束」演變為個人必須履行的「責任或義務」。",
+      "definition": "1. An act or course of action to which a person is morally or legally bound; a duty or commitment.",
+      "example": [
+        {
+          "eng": "Parents have a legal obligation to provide care and education for their children.",
+          "ch": "父母對子女負有提供照顧和教育的法律義務。"
+        }
+      ]
+    },
+    {
+      "eng": "obscure",
+      "kk": "/əbˈskjʊr/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "費解的",
+          "模糊的",
+          "默默無聞的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 obscurus（暗的、不明顯的，由 ob- 遮蔽 + caurus 暗）。經由法語進入英語。語義從物理上的「黑暗、不明亮」延伸至抽象的「意義晦澀難懂」或「人事物不為人知、默默無聞」。",
+      "definition": "1. Not discovered or known about; uncertain; 2. Not clearly expressed or easily understood; hard to make out.",
+      "example": [
+        {
+          "eng": "He spent years studying an obscure poet from the nineteenth century.",
+          "ch": "他花了好幾年研究一位十九世紀默默無聞的詩人。"
+        },
+        {
+          "eng": "The instructions provided with the device were vague and obscure.",
+          "ch": "該設備附帶的說明書含糊不清且令人費解。"
+        }
+      ]
+    },
+    {
+      "eng": "observer",
+      "kk": "/əbˈzɜrvər/",
+      "tense": "n.",
+      "ch": [
+        [
+          "觀察員",
+          "目擊者",
+          "遵守者"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由動詞 observe（觀察，源自拉丁語 observare）加上代表人的名詞字尾 -er 構成。語義指進行觀察、監看的人，或在某些語境中指遵守法規、習俗的人（較少用）。",
+      "definition": "1. A person who watches, observes, or notices something; a person attending a meeting or event in a non-voting or watching capacity.",
+      "example": [
+        {
+          "eng": "International observers were sent to monitor the general election.",
+          "ch": "國際觀察員被派去監督大選。"
+        }
+      ]
+    },
+    {
+      "eng": "odds",
+      "kk": "/ɑdz/",
+      "tense": "n.",
+      "ch": [
+        [
+          "機率",
+          "勝算",
+          "可能性"
+        ],
+        [
+          "不和",
+          "困難",
+          "逆境"
+        ]
+      ],
+      "analysis": "此字源自中古英語 odd（奇數的、剩餘的，源自古諾斯語 oddi），複數形式 odds 在博弈與數學中演變為指「雙方獲勝的機率或賠率」，並進一步引申在片語 against the odds 中表示面對的「逆境或困難」。",
+      "definition": "1. The ratio between the amounts staked by opposing parties to a wager, representing the likelihood of a particular outcome; chances or probability; 2. Difficulties or problems that make success unlikely.",
+      "example": [
+        {
+          "eng": "The odds of winning the lottery are extremely low.",
+          "ch": "中彩券的機率極低。"
+        },
+        {
+          "eng": "She managed to succeed against all odds.",
+          "ch": "她在重重逆境與困難中設法取得了成功。"
+        }
+      ]
+    },
+    {
+      "eng": "offering",
+      "kk": "/ˈɔfərɪŋ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "祭品",
+          "貢品"
+        ],
+        [
+          "提供的事物",
+          "作品"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由動詞 offer（提供，源自拉丁語 offerre）加上名詞化字尾 -ing 構成。語義從宗教儀式上向神明獻上的「祭品、供品」擴展為商業或文化領域中推出的「新產品、新節目或服務」。",
+      "definition": "1. A thing offered as a gift, contribution, or religious sacrifice; 2. A piece of work, product, or service presented for acceptance or sale.",
+      "example": [
+        {
+          "eng": "Ancient civilizations made ritual offerings to appease the gods.",
+          "ch": "古代文明會進行儀式性的祭品奉獻以安撫神靈。"
+        },
+        {
+          "eng": "The company's latest software offering has received rave reviews.",
+          "ch": "該公司推出的最新軟體產品獲得了高度好評。"
+        }
+      ]
+    },
+    {
+      "eng": "offering",
+      "kk": "/ˈɔfərɪŋ/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "提供",
+          "給予",
+          "提出"
+        ]
+      ],
+      "analysis": "此字為 offer 的現在分詞／動名詞形式（作 vt. row 保留及物動詞性質，需帶直接受詞），源自拉丁語 offerre。在句中展現動詞的支配性，表示正在進行或持續性的「提供」動作。",
+      "definition": "1. Presenting or tendering something for acceptance or rejection.",
+      "example": [
+        {
+          "eng": "She is offering financial assistance to anyone who needs help with their taxes.",
+          "ch": "她正在為任何需要報稅協助的人提供財務幫助。"
+        }
+      ]
+    },
+    {
+      "eng": "olive",
+      "kk": "/ˈɑlɪv/",
+      "tense": "n.",
+      "ch": [
+        [
+          "橄欖",
+          "橄欖樹"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自拉丁語 oliva，最終可追溯至希臘語 elaia。經由古法語進入英語。指地中海地區常見的橄欖樹及其結出的果實。",
+      "definition": "1. A small oval fruit with a hard stone and bitter flesh, green when unripe and black when ripe, used as food and for making oil.",
+      "example": [
+        {
+          "eng": "Greek salad is usually topped with feta cheese and black olives.",
+          "ch": "希臘沙拉通常會在上面放上費達起司和黑橄欖。"
+        }
+      ]
+    },
+    {
+      "eng": "operational",
+      "kk": "/ˌɑpəˈreɪʃənəl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "運作中的",
+          "營運中的",
+          "可使用的"
+        ]
+      ],
+      "analysis": "此字由名詞 operation（源自拉丁語 operatio，由 operari 工作衍生）加上形容詞字尾 -ional 構成。語義指系統、機器或機構處於「正常運作、可隨時使用」的狀態。",
+      "definition": "1. In operation or working order; ready for use.",
+      "example": [
+        {
+          "eng": "The new factory is expected to be fully operational by next month.",
+          "ch": "這座新工廠預計在下個月就能全面投入營運。"
+        }
+      ]
+    },
+    {
+      "eng": "opponent",
+      "kk": "/əˈpoʊnənt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "對手",
+          "敵手",
+          "反對者"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 opponens（現在分詞，意為對立的、反對的，由 ob- 面對 + ponere 放置構成）。經由法語進入英語。語義指在競賽、辯論或政治鬥爭中站在對立面的「對手或反對者」。",
+      "definition": "1. Someone who competes against or fights another in a contest, game, or argument; a person who disagrees with something and speaks against it.",
+      "example": [
+        {
+          "eng": "She easily defeated her opponent in the final match.",
+          "ch": "她在決賽中輕易擊敗了對手。"
+        }
+      ]
+    },
+    {
+      "eng": "opposition",
+      "kk": "/ˌɑpəˈzɪʃən/",
+      "tense": "n.",
+      "ch": [
+        [
+          "反對",
+          "敵對",
+          "反對黨"
+        ]
+      ],
+      "analysis": "此字由動詞 oppose（源自拉丁語 opponere）加上名詞字尾 -ition 構成。語義指對某項政策、行動的強烈「反對或抗拒」，大寫時常指議會中的「反對黨」。",
+      "definition": "1. Resistance or dissent, expressed in action or argument; the main party in parliament opposed to the government.",
+      "example": [
+        {
+          "eng": "The plan faced fierce opposition from local residents.",
+          "ch": "這項計畫遭到當地居民的強烈反對。"
+        }
+      ]
+    },
+    {
+      "eng": "opt",
+      "kk": "/ɑpt/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "選擇",
+          "挑選"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 optare（渴望、選擇），經由法語 opter 進入英語。在現代英語中作為不及物動詞，常與介詞 for 連用，表示從多個選項中「做出選擇」。",
+      "definition": "1. To make a choice from a range of possibilities, typically used with 'for'.",
+      "example": [
+        {
+          "eng": "Many employees prefer to opt for health insurance coverage provided by the company.",
+          "ch": "許多員工傾向於選擇公司提供的健康保險方案。"
+        }
+      ]
+    },
+    {
+      "eng": "optimism",
+      "kk": "/ˈɑptəˌmɪzəm/",
+      "tense": "n.",
+      "ch": [
+        [
+          "樂觀",
+          "樂觀主義"
+        ]
+      ],
+      "analysis": "此字由拉丁語 optimus（最好的）加上抽象名詞字尾 -ism 構成。由法國哲學家伏爾泰等人在啟蒙時代推廣並引入英語中。語義指傾向於看到事物光明面、對未來抱持希望的心理態度。",
+      "definition": "1. Hopefulness and confidence about the future or the successful outcome of something.",
+      "example": [
+        {
+          "eng": "Despite the economic downturn, the CEO expressed cautious optimism for the future.",
+          "ch": "儘管經濟低迷，執行長對未來仍表達了審慎的樂觀態度。"
+        }
+      ]
+    },
+    {
+      "eng": "optional",
+      "kk": "/ˈɑpʃənəl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "選修的",
+          "可選擇的",
+          "非強制性的"
+        ]
+      ],
+      "analysis": "此字由名詞 option（源自拉丁語 optio，選擇）加上形容詞字尾 -al 構成。語義指某事物不是強制規定的，而是可以根據個人意願自由「選擇」的。",
+      "definition": "1. Available to be chosen but not obligatory; left to individual choice.",
+      "example": [
+        {
+          "eng": "Attendance at Friday's workshop is optional, but strongly recommended.",
+          "ch": "周五的工作坊出席與否是自由選擇的，但強烈建議參加。"
+        }
+      ]
+    },
+    {
+      "eng": "orchard",
+      "kk": "/ˈɔrtʃərd/",
+      "tense": "n.",
+      "ch": [
+        [
+          "果園"
+        ]
+      ],
+      "analysis": "此字為古英語繼承詞 (ortgeard)，由 wyrt（植物、香草）加 geard（庭院、圍場，現代 yard 的同源詞）複合而成。歷史上拼法經由拉丁語 hortus 的影響演變為 orchard。專門指栽種果樹的園地。",
+      "definition": "1. A piece of land planted with fruit trees.",
+      "example": [
+        {
+          "eng": "In autumn, visitors can pick fresh apples directly from the orchard.",
+          "ch": "秋天時，遊客可以直接從果園裡採摘新鮮的蘋果。"
+        }
+      ]
+    },
+    {
+      "eng": "organism",
+      "kk": "/ˈɔrɡəˌnɪzəm/",
+      "tense": "n.",
+      "ch": [
+        [
+          "生物",
+          "有機體"
+        ]
+      ],
+      "analysis": "此字由希臘語 organon（器官、工具）衍生的現代科學拉丁語 organizare，加上名詞字尾 -ism 構成。在生物學中指任何具有獨立生命活動的單細胞或多細胞「有機體或生物」。",
+      "definition": "1. An individual animal, plant, or single-celled life form.",
+      "example": [
+        {
+          "eng": "Even the smallest microscopic organism plays a vital role in the ecosystem.",
+          "ch": "即使是最小的微觀生物也在生態系統中扮演著至關重要的角色。"
+        }
+      ]
+    },
+    {
+      "eng": "originality",
+      "kk": "/əˌrɪdʒəˈnæləti/",
+      "tense": "n.",
+      "ch": [
+        [
+          "獨創性",
+          "原創性",
+          "新穎"
+        ]
+      ],
+      "analysis": "此字由形容詞 original（最初的、原創的，源自拉丁語 originalis）加上名詞字尾 -ity 構成。語義指思想、藝術或發明中展現出獨一無二、不落俗套的「原創精神與獨創性」。",
+      "definition": "1. The ability to think independently and creatively; the quality of being novel or unusual.",
+      "example": [
+        {
+          "eng": "The judges praised the young artist for the originality of her paintings.",
+          "ch": "評審們讚賞這位年輕畫家畫作的獨創性。"
+        }
+      ]
+    },
+    {
+      "eng": "outfit",
+      "kk": "/ˈaʊtˌfɪt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "全套服裝",
+          "裝備",
+          "組織團體"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由副詞／介詞 out（向外、完全）加上動詞 fit（配備、適合）組成的名詞。最初指為出海或遠行準備的全套裝備，現代主要指整套「穿搭服裝」，亦可口語用來指某個「小型組織或團隊」。",
+      "definition": "1. A set of clothes worn together, especially for a particular occasion or purpose; 2. An organization, group, or team.",
+      "example": [
+        {
+          "eng": "She bought a stylish new outfit for the wedding reception.",
+          "ch": "她為婚宴買了一套時尚的新衣服。"
+        },
+        {
+          "eng": "He runs a small tech outfit specializing in mobile apps.",
+          "ch": "他經營著一家專門從事行動應用程式的小型科技團隊。"
+        }
+      ]
+    },
+    {
+      "eng": "outlet",
+      "kk": "/ˈaʊtˌlɛt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "出路",
+          "排水口",
+          "發洩途徑"
+        ],
+        [
+          "零售店",
+          "專賣店",
+          "插座"
+        ]
+      ],
+      "analysis": "此字由副詞 out（出）加動詞 let（放、讓）組成的複合名詞。語義從物理上的「液體流出管道、出口」引申為心理上的「情緒發洩管道」、商業上的「商品零售店或outlet過季商場」，以及電力上的「牆壁插座」。",
+      "definition": "1. A pipe, vent, or opening through which something may escape; a means of expressing or venting feelings or energies; 2. A store that sells goods directly from the manufacturer; an electrical socket.",
+      "example": [
+        {
+          "eng": "Painting and writing serve as a wonderful creative outlet for her.",
+          "ch": "繪畫和寫作對她來說是極佳的創作發洩與表現管道。"
+        },
+        {
+          "eng": "They spent the afternoon shopping at the designer outlet mall.",
+          "ch": "他們整個下午都在設計師品牌暢貨中心購物。"
+        },
+        {
+          "eng": "Please plug the lamp into the wall outlet.",
+          "ch": "請把檯燈插在牆上的插座上。"
+        }
+      ]
+    },
+    {
+      "eng": "output",
+      "kk": "/ˈaʊtˌpʊt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "產量",
+          "輸出",
+          "產出"
+        ]
+      ],
+      "analysis": "此字由副詞 out（向外）加動詞 put（放置、給予）組成的複合名詞。源自工業生產領域，現代廣泛應用於製造業的「產品產量」以及電腦科學中的「數據輸出」。",
+      "definition": "1. The amount of something produced by a person, machine, or industry; the information produced by a computer.",
+      "example": [
+        {
+          "eng": "The factory aims to increase its daily industrial output by twenty percent.",
+          "ch": "該工廠的目標是將每日工業產量提高百分之二十。"
+        }
+      ]
+    },
+    {
+      "eng": "outsider",
+      "kk": "/ˈaʊtˌsaɪdər/",
+      "tense": "n.",
+      "ch": [
+        [
+          "局外人",
+          "外人",
+          "不具資格者"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由複合詞 outside（外面）加上表人的名詞字尾 -er 構成。語義指不屬於某個特定團體、社群或組織的「局外人」。",
+      "definition": "1. A person who does not belong to a particular organization, group, or set.",
+      "example": [
+        {
+          "eng": "As an outsider to the industry, he brought a fresh perspective to the project.",
+          "ch": "作為這個行業的局外人，他為該專案帶來了全新的視角。"
+        }
+      ]
+    }
+  ]
+}

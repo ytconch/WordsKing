@@ -1,0 +1,1386 @@
+{
+  "level": 6,
+  "chunkIndex": 19,
+  "inputs": [
+    "stroll",
+    "stun",
+    "stutter",
+    "stylish",
+    "subjective",
+    "subordinate",
+    "subscribe",
+    "subscription",
+    "subsidize",
+    "succession",
+    "successive",
+    "suffocate",
+    "suitcase",
+    "summon",
+    "superficial",
+    "superintendent",
+    "superiority",
+    "superstitious",
+    "supplement",
+    "suppress",
+    "surge",
+    "surgical",
+    "surname",
+    "surpass",
+    "suspense",
+    "suspension",
+    "swamp",
+    "swarm",
+    "symbolize",
+    "symmetry",
+    "sympathize",
+    "symphony",
+    "synonym",
+    "synthetic",
+    "syrup",
+    "tan",
+    "tedious",
+    "telecommunications",
+    "teller",
+    "tempo",
+    "tenant",
+    "tentative",
+    "terrace",
+    "textile",
+    "thereafter",
+    "thermometer",
+    "tilt",
+    "tiptoe",
+    "tiresome",
+    "token"
+  ],
+  "rows": [
+    {
+      "eng": "stroll",
+      "kk": "stroʊl",
+      "tense": "n.",
+      "ch": [
+        [
+          "散步",
+          "溜達"
+        ]
+      ],
+      "analysis": "由同形動詞轉品而來的可數名詞，維持「輕鬆緩慢步行」的核心語義，常與動詞 take 搭配使用（如 take a stroll）。",
+      "definition": "1. a short, leisurely walk.",
+      "example": [
+        {
+          "eng": "Let's take a stroll in the park after dinner.",
+          "ch": "我們晚飯後去公園散步吧。"
+        }
+      ]
+    },
+    {
+      "eng": "stroll",
+      "kk": "stroʊl",
+      "tense": "vi.",
+      "ch": [
+        [
+          "散步",
+          "溜達"
+        ],
+        [
+          "閒逛",
+          "漫步"
+        ]
+      ],
+      "analysis": "此字為歷史源流較晚出現的動詞，無複雜詞綴可拆。作為不及物動詞使用時，主要表達輕鬆緩慢地步行，可引申指在某處閒晃。過去式與過去分詞為 strolled，現在分詞為 strolling。",
+      "definition": "1. to walk in a slow, relaxed way, for pleasure or exercise; 2. to wander about in a casual or leisurely manner.",
+      "example": [
+        {
+          "eng": "They like to stroll along the beach in the evening.",
+          "ch": "他們喜歡傍晚在海灘上散步。"
+        },
+        {
+          "eng": "He spent the afternoon strolling through the city center.",
+          "ch": "他度過了一個下午在市中心閒逛。"
+        }
+      ]
+    },
+    {
+      "eng": "stun",
+      "kk": "stʌn",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使昏迷",
+          "把…打暈"
+        ],
+        [
+          "使驚呆",
+          "震驚"
+        ]
+      ],
+      "analysis": "源自中古英語 stunen，更早可溯至古英語 ġestunian（製造喧鬧或使暈眩）。作為及物動詞，其核心義為透過強烈打擊使人失去知覺，引申為心理上的震撼或驚嚇。變化形為 stunned, stunning。",
+      "definition": "1. to make someone unconscious or dazed, typically by a blow; 2. to shock or surprise someone greatly.",
+      "example": [
+        {
+          "eng": "The heavy blow to the head could stun a person.",
+          "ch": "頭部的重擊會把人打暈。"
+        },
+        {
+          "eng": "The sudden news of her resignation would stun the whole team.",
+          "ch": "她辭職的突然消息會震驚整個團隊。"
+        }
+      ]
+    },
+    {
+      "eng": "stutter",
+      "kk": "ˈstʌtər",
+      "tense": "n.",
+      "ch": [
+        [
+          "口吃",
+          "結巴的習慣"
+        ]
+      ],
+      "analysis": "由同形動詞轉品而來的可數或單數名詞，指口吃這種言語障礙或說話結巴的現象。",
+      "definition": "1. a speech disorder involving hesitations and repetitions.",
+      "example": [
+        {
+          "eng": "Speech therapy helped him overcome his childhood stutter.",
+          "ch": "言語治療幫助他克服了童年的口吃。"
+        }
+      ]
+    },
+    {
+      "eng": "stutter",
+      "kk": "ˈstʌtər",
+      "tense": "vi.",
+      "ch": [
+        [
+          "口吃",
+          "結結巴巴地說"
+        ]
+      ],
+      "analysis": "此字具擬聲性質（onomatopoeia），模仿說話不順暢、重複子音的聲音。作為不及物動詞，指說話時因緊張或生理因素而結巴。變化形為 stuttered, stuttering。",
+      "definition": "1. to speak with difficulty, repeating sounds or syllables.",
+      "example": [
+        {
+          "eng": "He began to stutter when he spoke in front of the large audience.",
+          "ch": "當他在大批觀眾面前發言時，他開始結巴起來。"
+        }
+      ]
+    },
+    {
+      "eng": "stylish",
+      "kk": "ˈstaɪlɪʃ",
+      "tense": "adj.",
+      "ch": [
+        [
+          "時髦的",
+          "流線型的",
+          "有型而高雅的"
+        ]
+      ],
+      "analysis": "由名詞 style 加上形容詞字尾 -ish 構成，字面意思是「帶有風格的」。在現代英語中專指符合當前流行趨勢、設計優雅且品味高尚的物品或外表。",
+      "definition": "1. fashionable and elegant in appearance or design.",
+      "example": [
+        {
+          "eng": "She wore a stylish black dress to the evening party.",
+          "ch": "她穿了一件時髦的黑色洋裝去參加晚宴。"
+        }
+      ]
+    },
+    {
+      "eng": "subjective",
+      "kk": "səbˈdʒɛktɪv",
+      "tense": "adj.",
+      "ch": [
+        [
+          "主觀的",
+          "個人感官或意見的"
+        ]
+      ],
+      "analysis": "源自拉丁語 subiectivus，由 sub-（在…之下）與 iacere（投擲、放置）衍生的 subject 加上形容詞字尾 -ive 結合而成。原意為「屬於主體（心靈或個人）的」，與客觀（objective）相對，指基於個人感受、觀點或偏見。",
+      "definition": "1. based on or influenced by personal feelings, tastes, or opinions.",
+      "example": [
+        {
+          "eng": "Art appreciation is deeply subjective and varies from person to person.",
+          "ch": "藝術欣賞具有高度的主觀性，因人而異。"
+        }
+      ]
+    },
+    {
+      "eng": "subordinate",
+      "kk": "səˈbɔrdənɪt",
+      "tense": "n.",
+      "ch": [
+        [
+          "下屬",
+          "部下"
+        ]
+      ],
+      "analysis": "由同源形容詞轉用或名詞化的詞彙，指組織中階級較低、受上司領導的成員。",
+      "definition": "1. a person under the authority or control of another within an organization.",
+      "example": [
+        {
+          "eng": "A good manager should listen to the feedback from subordinates.",
+          "ch": "一個好的經理應該傾聽下屬的反饋。"
+        }
+      ]
+    },
+    {
+      "eng": "subordinate",
+      "kk": "səˈbɔrdənɪt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "下級的",
+          "從屬的",
+          "次要的"
+        ]
+      ],
+      "analysis": "源自拉丁語 subordinatus（sub-「在…下方」+ ordinare「編排等級」）。作形容詞時，指在職位、權力或重要性上低於他人或他物。",
+      "definition": "1. lower in rank or position; secondary.",
+      "example": [
+        {
+          "eng": "She treated all her subordinate staff with respect and kindness.",
+          "ch": "她以尊重和友善態度對待所有下屬員工。"
+        }
+      ]
+    },
+    {
+      "eng": "subscribe",
+      "kk": "səbˈskraɪb",
+      "tense": "vt.",
+      "ch": [
+        [
+          "捐助",
+          "認捐（款項）"
+        ]
+      ],
+      "analysis": "作為及物動詞時，保留「在文件下簽名以認購股份或捐款」的歷史義，指正式簽署承諾捐贈或投入特定金錢。變化形為 subscribed, subscribing。",
+      "definition": "1. to promise or contribute money to a cause or fund by signing a list.",
+      "example": [
+        {
+          "eng": "Several local businesses will subscribe funds to build the new community center.",
+          "ch": "幾家當地企業將捐資建設新的社區中心。"
+        }
+      ]
+    },
+    {
+      "eng": "subscribe",
+      "kk": "səbˈskraɪb",
+      "tense": "vi.",
+      "ch": [
+        [
+          "訂閱",
+          "定期訂購"
+        ],
+        [
+          "認同",
+          "同意（看法等，常與 to 併用）"
+        ]
+      ],
+      "analysis": "源自拉丁語 subscribere（sub-「在…下面」+ scribere「寫」），原義為「在文件下方簽名」以表示承諾或贊同。演變至現代，主要用於定期付費購買出版品或服務，或抽象地表示贊同、支持某種觀點（常與 to 連用）。變化形為 subscribed, subscribing。",
+      "definition": "1. to pay a sum of money regularly to receive a publication or service; 2. to agree with or support an idea or theory.",
+      "example": [
+        {
+          "eng": "Many readers subscribe to this online technology magazine.",
+          "ch": "許多讀者訂閱了這份線上科技雜誌。"
+        },
+        {
+          "eng": "I do not subscribe to the theory that human behavior is entirely genetic.",
+          "ch": "我不認同人類行為完全由基因決定的理論。"
+        }
+      ]
+    },
+    {
+      "eng": "subscription",
+      "kk": "səbˈskrɪpʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "訂閱費",
+          "定期訂閱"
+        ],
+        [
+          "捐款",
+          "認捐"
+        ]
+      ],
+      "analysis": "由 subscribe 加上名詞字尾 -ion 構成的名詞。指為了獲得服務、出版物或支持某項事業而定期支付的款項或訂閱行為。",
+      "definition": "1. an amount of money paid regularly to receive a service or publication; 2. the act of subscribing to a fund or publication.",
+      "example": [
+        {
+          "eng": "The annual subscription for this streaming service is quite affordable.",
+          "ch": "這項串流服務的年度訂閱費相當實惠。"
+        },
+        {
+          "eng": "The charity depends entirely on public subscriptions.",
+          "ch": "這家慈善機構完全依賴公眾的捐款。"
+        }
+      ]
+    },
+    {
+      "eng": "subsidize",
+      "kk": "ˈsʌbsəˌdaɪz",
+      "tense": "vt.",
+      "ch": [
+        [
+          "補貼",
+          "資助"
+        ]
+      ],
+      "analysis": "源自名詞 subsidy（源自拉丁語 subsidium「預備軍、援助」），加上動詞字尾 -ize 構成。指政府或機構透過金錢補助來降低某項成本或支持特定產業。變化形為 subsidized, subsidizing。",
+      "definition": "1. to support an organization or activity financially through a subsidy.",
+      "example": [
+        {
+          "eng": "The government decided to subsidize public transport to reduce traffic congestion.",
+          "ch": "政府決定補貼大眾運輸以減少交通擁堵。"
+        }
+      ]
+    },
+    {
+      "eng": "succession",
+      "kk": "səkˈsɛʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "連續",
+          "一連串"
+        ],
+        [
+          "繼承",
+          "繼位"
+        ]
+      ],
+      "analysis": "源自拉丁語 successio，由 succedere（sub-「在…之後」+ cedere「走、跟隨」）衍生的名詞。核心意指人或事物的相繼發生或地位的遞補。",
+      "definition": "1. a number of people or things of a similar kind following one after the other; 2. the action or process of inheriting a title, office, or property.",
+      "example": [
+        {
+          "eng": "A succession of bad weather ruined our summer holiday plans.",
+          "ch": "一連串的壞天氣毀了我們的暑假計畫。"
+        },
+        {
+          "eng": "The crown prince is first in the line of succession to the throne.",
+          "ch": "王太子是王位的第一順位繼承人。"
+        }
+      ]
+    },
+    {
+      "eng": "successive",
+      "kk": "səkˈsɛsɪv",
+      "tense": "adj.",
+      "ch": [
+        [
+          "連續的",
+          "相繼的"
+        ]
+      ],
+      "analysis": "由 successio 的形容詞形式演變而來（succedere + 形容詞字尾 -ive）。專門用來修飾一個接一個、緊密相連的事物。",
+      "definition": "1. following one another or every other without an interruption.",
+      "example": [
+        {
+          "eng": "The team won the championship for three successive years.",
+          "ch": "該隊連續三年贏得冠軍。"
+        }
+      ]
+    },
+    {
+      "eng": "suffocate",
+      "kk": "ˈsʌfəˌkeɪt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使窒息",
+          "悶死"
+        ],
+        [
+          "扼殺",
+          "壓制"
+        ]
+      ],
+      "analysis": "源自拉丁語 suffocatus（sub-「在…下面」+ faux/fauces「咽喉、喉嚨」），原義為「掐住喉嚨」。及物動詞用法指因缺氧而使人無法呼吸，或引申為在精神或發展上加以扼殺。變化形為 suffocated, suffocating。",
+      "definition": "1. to kill someone by depriving them of air; 2. to prevent something from developing, growing, or succeeding.",
+      "example": [
+        {
+          "eng": "Thick smoke from the fire can suffocate victims within minutes.",
+          "ch": "火災產生的濃煙可能在幾分鐘內使受害者窒息。"
+        },
+        {
+          "eng": "Strict bureaucratic rules can suffocate small business innovation.",
+          "ch": "嚴格的官僚規則會扼殺小企業的創新。"
+        }
+      ]
+    },
+    {
+      "eng": "suffocate",
+      "kk": "ˈsʌfəˌkeɪt",
+      "tense": "vi.",
+      "ch": [
+        [
+          "窒息",
+          "悶得慌"
+        ]
+      ],
+      "analysis": "不及物動詞用法，指主體自身因缺乏氧氣或空氣不流通而感到窒息或快要悶死。變化形為 suffocated, suffocating。",
+      "definition": "1. to die or feel weak from a lack of air or oxygen.",
+      "example": [
+        {
+          "eng": "Without proper ventilation, people inside the sealed room will suffocate.",
+          "ch": "如果沒有適當的通風，密閉室內的人會窒息。"
+        }
+      ]
+    },
+    {
+      "eng": "suitcase",
+      "kk": "ˈsutˌkeɪs",
+      "tense": "n.",
+      "ch": [
+        [
+          "手提行李箱",
+          "衣箱"
+        ]
+      ],
+      "analysis": "現代複合詞，由 suit（西裝、衣物）與 case（箱子、盒）結合而成。原指用來裝西裝等衣物的便攜旅行箱，現泛指一般旅行用的大小型行李箱。",
+      "definition": "1. a portable rectangular case used for carrying clothes while traveling.",
+      "example": [
+        {
+          "eng": "He packed all his clothes into a large suitcase before leaving.",
+          "ch": "他離開前把所有衣服打包進一個大行李箱裡。"
+        }
+      ]
+    },
+    {
+      "eng": "summon",
+      "kk": "ˈsʌmən",
+      "tense": "vt.",
+      "ch": [
+        [
+          "召喚",
+          "傳喚"
+        ],
+        [
+          "鼓起（勇氣等）",
+          "振作"
+        ]
+      ],
+      "analysis": "源自古法語 somondre，最終源自拉丁語 summonere（sub-「在下方、祕密地」+ monere「提醒、警告」），原義為「私下傳喚」。及物動詞指官方命令某人出庭或到場，或引申為鼓起、振作內心力量（通常搭配 courage 等詞）。變化形為 summoned, summoning。",
+      "definition": "1. to officially order someone to attend a place or court; 2. to gather or manage to call upon courage, strength, or energy.",
+      "example": [
+        {
+          "eng": "The manager decided to summon the employee to his office for an explanation.",
+          "ch": "經理決定傳喚該員工到辦公室說明情況。"
+        },
+        {
+          "eng": "She had to summon all her courage to speak in front of the crowd.",
+          "ch": "她必須鼓起全部勇氣才能在眾人面前發言。"
+        }
+      ]
+    },
+    {
+      "eng": "superficial",
+      "kk": "ˌsupərˈfɪʃəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "表面的",
+          "膚淺的"
+        ],
+        [
+          "粗略的",
+          "僅及皮毛的"
+        ]
+      ],
+      "analysis": "源自拉丁語 superficialis，由 superficies（super-「在…上面」+ facies「臉、面」）衍生而來。形容詞意指只停留在事物表面、缺乏深度或僅及皮毛。",
+      "definition": "1. existing or occurring at or on the surface; 2. lacking depth or thoroughness; trivial or shallow.",
+      "example": [
+        {
+          "eng": "He only suffered superficial cuts and bruises in the car accident.",
+          "ch": "他在車禍中只受了表面的割傷和瘀傷。"
+        },
+        {
+          "eng": "Her analysis of the complex economic problem was rather superficial.",
+          "ch": "她對這個複雜經濟問題的分析相當膚淺。"
+        }
+      ]
+    },
+    {
+      "eng": "superintendent",
+      "kk": "ˌsupərɪnˈtɛndənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "主管",
+          "監督人",
+          "大樓管理員"
+        ]
+      ],
+      "analysis": "源自中世紀拉丁語 superintendentem，由 super-（在…之上）與 intendere（注意、照料）結合成 superintend（監督），再加名詞字尾 -ent 構成。指負責管理、監督某一機構、建築或地區的人員。",
+      "definition": "1. a person who manages or oversees an organization, building, or activity.",
+      "example": [
+        {
+          "eng": "The apartment building superintendent fixed the broken elevator quickly.",
+          "ch": "公寓大樓管理員很快修好了壞掉的電梯。"
+        }
+      ]
+    },
+    {
+      "eng": "superiority",
+      "kk": "suˌpɪriˈɔrəti",
+      "tense": "n.",
+      "ch": [
+        [
+          "優越",
+          "優勢",
+          "高人一等"
+        ]
+      ],
+      "analysis": "由形容詞 superior（源自拉丁語，意為「較高的」）加上名詞抽象字尾 -ity 構成。指在品質、地位或能力上勝過他人的狀態。",
+      "definition": "1. the state of being higher in rank, status, or quality than others.",
+      "example": [
+        {
+          "eng": "Their technological superiority allowed them to dominate the global market.",
+          "ch": "他們在技術上的優勢使他們得以主導全球市場。"
+        }
+      ]
+    },
+    {
+      "eng": "superstitious",
+      "kk": "ˌsupərˈstɪʃəs",
+      "tense": "adj.",
+      "ch": [
+        [
+          "迷信的",
+          "受迷信影響的"
+        ]
+      ],
+      "analysis": "源自拉丁語 superstitiosus（superstitio「迷信」+ 形容詞字尾 -ous），指相信超自然力量、運氣或禁忌的人或態度。",
+      "definition": "1. having or showing a belief in superstitions; influenced by unreasoned fears or magic.",
+      "example": [
+        {
+          "eng": "He is very superstitious and refuses to walk under ladders.",
+          "ch": "他非常迷信，拒絕從梯子底下走過。"
+        }
+      ]
+    },
+    {
+      "eng": "supplement",
+      "kk": "ˈsʌpləˌmɛnt",
+      "tense": "n.",
+      "ch": [
+        [
+          "補充物",
+          "營養品",
+          "增刊"
+        ]
+      ],
+      "analysis": "源自拉丁語 supplementum，由 supplere（sub-「在下方、補足」+ plere「填滿」）衍生而來的名詞。指為了填補不足或增加豐富度而額外加入的東西（如維他命或報紙副刊）。",
+      "definition": "1. a thing added to something else in order to improve or complete it; 2. a separate section added to a newspaper or magazine.",
+      "example": [
+        {
+          "eng": "He takes a daily vitamin supplement to stay healthy.",
+          "ch": "他每天服用維生素補充劑以保持健康。"
+        },
+        {
+          "eng": "The Sunday newspaper comes with a special travel supplement.",
+          "ch": "星期日的報紙附帶一份特別的旅遊副刊。"
+        }
+      ]
+    },
+    {
+      "eng": "supplement",
+      "kk": "ˈsʌpləˌmɛnt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "補充",
+          "增補"
+        ]
+      ],
+      "analysis": "源自動詞 supplere 的派生動詞。作及物動詞時，指透過添加額外成分來補足原先的不足。變化形為 supplemented, supplementing。",
+      "definition": "1. to add something to something else in order to improve or complete it.",
+      "example": [
+        {
+          "eng": "She works part-time to supplement her regular income.",
+          "ch": "她兼職以補充她的固定收入。"
+        }
+      ]
+    },
+    {
+      "eng": "suppress",
+      "kk": "səˈprɛs",
+      "tense": "vt.",
+      "ch": [
+        [
+          "鎮壓",
+          "壓制"
+        ],
+        [
+          "忍住",
+          "抑制（情緒、笑容等）"
+        ]
+      ],
+      "analysis": "源自拉丁語 suppressus，由 sub-（在…下方）與 premere（壓）結合而成，原義為「向下壓」。及物動詞指以武力或權力鎮壓叛亂，或在心理上壓抑、不表現出特定情緒。變化形為 suppressed, suppressing。",
+      "definition": "1. to put an end to an activity or a rebellion by force; 2. to prevent the development, expression, or mention of something (such as feelings).",
+      "example": [
+        {
+          "eng": "The authoritarian government tried to suppress the political protests.",
+          "ch": "威權政府試圖鎮壓政治抗議活動。"
+        },
+        {
+          "eng": "She tried hard to suppress a laugh during the serious lecture.",
+          "ch": "她在嚴肅的講座中努力忍住不笑。"
+        }
+      ]
+    },
+    {
+      "eng": "surge",
+      "kk": "sɝdʒ",
+      "tense": "n.",
+      "ch": [
+        [
+          "急增",
+          "激增"
+        ],
+        [
+          "洶湧",
+          "澎湃的心情"
+        ]
+      ],
+      "analysis": "由同形動詞轉品而來的可數名詞，指數量、水流或情感的突然大幅上揚與湧現。",
+      "definition": "1. a sudden, powerful forward or upward movement; 2. a sudden large increase.",
+      "example": [
+        {
+          "eng": "A sudden surge in electricity demand caused a partial blackout.",
+          "ch": "電力需求的突然激增導致了部分地區停電。"
+        }
+      ]
+    },
+    {
+      "eng": "surge",
+      "kk": "sɝdʒ",
+      "tense": "vi.",
+      "ch": [
+        [
+          "急遽上升",
+          "激增"
+        ],
+        [
+          "洶湧澎湃",
+          "湧動"
+        ]
+      ],
+      "analysis": "源自拉丁語 surgere（sub-「向上」+ regere「使直立、引導」）。不及物動詞指水流、人群或數據、價格等猛烈地向前方或高處湧動、暴增。變化形為 surged, surging。",
+      "definition": "1. to move suddenly and powerfully forward or upward; 2. to increase suddenly and significantly.",
+      "example": [
+        {
+          "eng": "Large waves began to surge against the rocky shore during the storm.",
+          "ch": "風暴期間，巨浪開始向岩石海岸洶湧拍打。"
+        },
+        {
+          "eng": "Stock prices began to surge after the unexpected corporate earnings report.",
+          "ch": "在意外的企業財報發布後，股價開始急遽飆升。"
+        }
+      ]
+    },
+    {
+      "eng": "surgical",
+      "kk": "ˈsɝdʒɪkəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "外科的",
+          "手術的"
+        ],
+        [
+          "精準的",
+          "嚴密的"
+        ]
+      ],
+      "analysis": "源自名詞 surgeon（經由古法語源自希臘語 kheirourgos「外科醫生」，kheir「手」+ ergon「工作」），加上形容詞字尾 -ical 構成。指與手術相關的工具或房間，或引申形容行動極為精準、迅速。",
+      "definition": "1. relating to or used in surgery; 2. extremely precise and targeted.",
+      "example": [
+        {
+          "eng": "He had to undergo a surgical operation on his knee.",
+          "ch": "他的膝蓋必須接受外科手術。"
+        },
+        {
+          "eng": "The military carried out a surgical strike against the enemy base.",
+          "ch": "軍隊對敵方基地發動了精準打擊。"
+        }
+      ]
+    },
+    {
+      "eng": "surname",
+      "kk": "ˈsɝˌneɪm",
+      "tense": "n.",
+      "ch": [
+        [
+          "姓",
+          "姓氏"
+        ]
+      ],
+      "analysis": "由 sur-（源自拉丁語 super「在…之上、附加」）與 name（名字）結合而成，歷史原義為「附加在名之上的稱呼」，即家族的共同姓氏。",
+      "definition": "1. a hereditary name common to all members of a family, as distinct from a given name.",
+      "example": [
+        {
+          "eng": "Please write your given name and surname clearly on the application form.",
+          "ch": "請在申請表上清楚寫下您的名字和姓氏。"
+        }
+      ]
+    },
+    {
+      "eng": "surpass",
+      "kk": "sɚˈpæs",
+      "tense": "vt.",
+      "ch": [
+        [
+          "勝過",
+          "超越",
+          "優於"
+        ]
+      ],
+      "analysis": "由 sur-（超、過，源自拉丁語 super）與 pass（通過、走）複合而成的及物動詞。字面意為「走在上方或超越過去」，指在能力、成就或數量上超越某人或某物。變化形為 surpassed, surpassing。",
+      "definition": "1. to be greater than, better than, or stronger than someone or something.",
+      "example": [
+        {
+          "eng": "Her performance in the competition surpassed all our expectations.",
+          "ch": "她在比賽中的表現超出了我們所有人的預期。"
+        }
+      ]
+    },
+    {
+      "eng": "suspense",
+      "kk": "səˈspɛns",
+      "tense": "n.",
+      "ch": [
+        [
+          "懸疑",
+          "緊張不安",
+          "懸念"
+        ]
+      ],
+      "analysis": "源自拉丁語 suspensus（suspendere「懸掛、使懸而未決」的過去分詞轉名詞）。字面原義為「懸掛在空中、不上不下」的狀態，引申為對未來結果未知所產生的焦慮與興奮感。",
+      "definition": "1. a state or feeling of excited or anxious uncertainty about what may happen.",
+      "example": [
+        {
+          "eng": "The thrilling mystery novel kept the readers in suspense until the very last page.",
+          "ch": "這本緊張刺激的懸疑小說讓讀者一直懸著心直到最後一頁。"
+        }
+      ]
+    },
+    {
+      "eng": "suspension",
+      "kk": "səˈspɛnʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "暫停",
+          "中止"
+        ],
+        [
+          "停職",
+          "停學"
+        ],
+        [
+          "懸浮狀態",
+          "懸吊系統（車輛）"
+        ]
+      ],
+      "analysis": "由動詞 suspend 加上名詞字尾 -ion 構成。核心義為使懸掛、使暫停，引申為處罰性質的停職、暫停某項合約或權利，以及物理學上的懸浮液或車輛懸吊。",
+      "definition": "1. the action of temporarily stopping something; 2. the official temporary removal of someone from a job or school; 3. a system of springs and dampers supporting a vehicle.",
+      "example": [
+        {
+          "eng": "The government announced the immediate suspension of flights to the region.",
+          "ch": "政府宣布立即暫停飛往該地區的航班。"
+        },
+        {
+          "eng": "He received a three-day suspension from school for fighting.",
+          "ch": "他因打架而被學校停學三天。"
+        },
+        {
+          "eng": "The car's advanced suspension smooths out bumpy roads.",
+          "ch": "這輛車先進的懸吊系統能撫平顛簸的路面。"
+        }
+      ]
+    },
+    {
+      "eng": "swamp",
+      "kk": "swɑmp",
+      "tense": "n.",
+      "ch": [
+        [
+          "沼澤",
+          "澤地"
+        ]
+      ],
+      "analysis": "日耳曼語源詞。作為名詞時，指積水且長滿草木的低濕軟泥地。",
+      "definition": "1. an area of low-lying, uncultivated ground where water collects; a bog or marsh.",
+      "example": [
+        {
+          "eng": "Alligators and various birds inhabit the deep southern swamp.",
+          "ch": "短吻鱷和各種鳥類棲息在南方的深處沼澤中。"
+        }
+      ]
+    },
+    {
+      "eng": "swamp",
+      "kk": "swɑmp",
+      "tense": "vt.",
+      "ch": [
+        [
+          "淹沒",
+          "使陷入沒頂之災"
+        ],
+        [
+          "使應接不暇",
+          "使忙得不可開交"
+        ]
+      ],
+      "analysis": "由同形名詞轉用而來的及物動詞，原義指水流湧入並淹沒船隻或陸地，現常引申為工作、信件等蜂擁而至，使人無法招架。變化形為 swamped, swamping。",
+      "definition": "1. to overwhelm with a large amount of water or things; 2. to overwhelm someone with too much work or business.",
+      "example": [
+        {
+          "eng": "Heavy rain and tidal waves could swamp the low-lying coastal village.",
+          "ch": "大雨和大潮可能會淹沒低窪的沿海村莊。"
+        },
+        {
+          "eng": "Customer service agents were swamped with complaints after the product failure.",
+          "ch": "產品故障後，客服人員被客訴電話淹沒，應接不暇。"
+        }
+      ]
+    },
+    {
+      "eng": "swarm",
+      "kk": "swɔrm",
+      "tense": "n.",
+      "ch": [
+        [
+          "蜂群",
+          "一大群（昆蟲或人群）"
+        ]
+      ],
+      "analysis": "源自古英語 swearm，為日耳曼語源詞，專門指蜜蜂或其他昆蟲離開蜂巢時成群飛舞的狀態，後來也泛指密集成群移動的人群。",
+      "definition": "1. a large or dense group of flying insects or other moving creatures.",
+      "example": [
+        {
+          "eng": "A swarm of bees gathered around the blooming flowers in the garden.",
+          "ch": "一大群蜜蜂聚集在花園裡盛開的花朵周圍。"
+        }
+      ]
+    },
+    {
+      "eng": "swarm",
+      "kk": "swɔrm",
+      "tense": "vi.",
+      "ch": [
+        [
+          "雲集",
+          "蜂擁",
+          "成群移動"
+        ]
+      ],
+      "analysis": "由同形名詞轉用而來的不及物動詞，指昆蟲、動物或人群大量且密集地四處移動或聚集。變化形為 swarmed, swarming。",
+      "definition": "1. to move or gather in a large or dense crowd.",
+      "example": [
+        {
+          "eng": "Fans began to swarm around the famous actor as he stepped out of the car.",
+          "ch": "當這位知名演員下車時，粉絲們開始蜂擁圍了上去。"
+        }
+      ]
+    },
+    {
+      "eng": "symbolize",
+      "kk": "ˈsɪmbəˌlaɪz",
+      "tense": "vt.",
+      "ch": [
+        [
+          "象徵",
+          "標誌",
+          "代表"
+        ]
+      ],
+      "analysis": "源自名詞 symbol（源自希臘語 symbolon「標記、信物」），加上動詞字尾 -ize 構成。及物動詞指某物作為另一抽象概念或物體的具體象徵。變化形為 symbolized, symbolizing。",
+      "definition": "1. to be a symbol of something; to represent something by means of symbols.",
+      "example": [
+        {
+          "eng": "The white dove is widely used to symbolize peace and harmony.",
+          "ch": "白鴿被廣泛用來象徵和平與和諧。"
+        }
+      ]
+    },
+    {
+      "eng": "symmetry",
+      "kk": "ˈsɪmətri",
+      "tense": "n.",
+      "ch": [
+        [
+          "對稱",
+          "勻稱"
+        ]
+      ],
+      "analysis": "源自拉丁語 symmetria，更早源自希臘語 symmetria（syn-「共同」+ metron「測量、度量」），字面意為「量度相合」，指物體左右或上下兩部分在大小、形狀和相對位置上完美對應。",
+      "definition": "1. the quality of being made up of exactly similar parts facing each other or around an axis.",
+      "example": [
+        {
+          "eng": "The grand palace was designed with strict architectural symmetry.",
+          "ch": "這座宏偉的宮殿在設計上具有嚴格的建築對稱性。"
+        }
+      ]
+    },
+    {
+      "eng": "sympathize",
+      "kk": "ˈsɪmpəˌθaɪz",
+      "tense": "vi.",
+      "ch": [
+        [
+          "同情",
+          "體諒"
+        ],
+        [
+          "贊同",
+          "支持（常與 with 併用）"
+        ]
+      ],
+      "analysis": "源自名詞 sympathy（希臘語 sympatheia，syn-「共同」+ pathos「感受、痛苦」），加上動詞字尾 -ize 構成。不及物動詞指對他人的不幸感同身受或表示理解與同情，亦可指理念上的支持。變化形為 sympathized, sympathizing。",
+      "definition": "1. to feel or express sympathy or compassion; 2. to agree with or support a sentiment or opinion.",
+      "example": [
+        {
+          "eng": "It is easy to sympathize with families who lost their homes in the fire.",
+          "ch": "人們很容易同情在火災中失去家園的家庭。"
+        },
+        {
+          "eng": "He does not sympathize with the current company policies.",
+          "ch": "他並不贊同公司目前的政策。"
+        }
+      ]
+    },
+    {
+      "eng": "symphony",
+      "kk": "ˈsɪmfəni",
+      "tense": "n.",
+      "ch": [
+        [
+          "交響樂",
+          "交響曲"
+        ]
+      ],
+      "analysis": "源自拉丁語 symphonia，更早源自希臘語 symphonia（syn-「共同」+ phone「聲音」），原意為「聲音的調和或齊奏」。在現代音樂中專指大型管弦樂團演奏的交響樂作品。",
+      "definition": "1. an elaborate musical composition for a full orchestra, typically in four movements.",
+      "example": [
+        {
+          "eng": "The local orchestra will perform Beethoven's Fifth Symphony tonight.",
+          "ch": "當地管弦樂團今晚將演奏貝多芬第五號交響曲。"
+        }
+      ]
+    },
+    {
+      "eng": "synonym",
+      "kk": "ˈsɪnəˌnɪm",
+      "tense": "n.",
+      "ch": [
+        [
+          "同義字",
+          "同義詞"
+        ]
+      ],
+      "analysis": "源自拉丁語 synonymum，更早源自希臘語 synonymon（syn-「共同」+ onoma「名字」），字面意為「同名的詞」。指語義相同或高度相近的詞彙。",
+      "definition": "1. a word or phrase that means exactly or nearly the same as another word or phrase in the same language.",
+      "example": [
+        {
+          "eng": "'Enormous' is a common synonym for the word 'huge'.",
+          "ch": "「Enormous」是「huge」這個詞的常見同義字。"
+        }
+      ]
+    },
+    {
+      "eng": "synthetic",
+      "kk": "sɪnˈθɛtɪk",
+      "tense": "adj.",
+      "ch": [
+        [
+          "合成的",
+          "人造的"
+        ],
+        [
+          "綜合的"
+        ]
+      ],
+      "analysis": "源自希臘語 synthetikos（syn-「一起」+ tithenai「放置」），原意為「綜合性的」。在現代主要指透過化學合成或人工製造而非天然形成的物質（如人造纖維）。",
+      "definition": "1. made by chemical synthesis, especially to imitate a natural product; 2. relating to or involving synthesis.",
+      "example": [
+        {
+          "eng": "Most modern outdoor jackets are made of synthetic waterproof materials.",
+          "ch": "大多數現代戶外夾克都是用人造防水材料製成的。"
+        },
+        {
+          "eng": "The philosopher presented a synthetic overview of human knowledge.",
+          "ch": "這位哲學家對人類知識提出了綜合性的概述。"
+        }
+      ]
+    },
+    {
+      "eng": "syrup",
+      "kk": "ˈsɪrəp",
+      "tense": "n.",
+      "ch": [
+        [
+          "糖漿",
+          "果汁糖漿"
+        ]
+      ],
+      "analysis": "經由中世紀拉丁語 syropus 與古法語，最終源自阿拉伯語 sharāb（飲品、糖漿）。指高濃度糖分的黏稠液體，常用於調味或淋在鬆餅上。",
+      "definition": "1. a thick, sweet liquid made by dissolving sugar in water or fruit juice.",
+      "example": [
+        {
+          "eng": "He poured warm maple syrup all over his pancakes.",
+          "ch": "他在鬆餅上倒滿了溫熱的楓糖漿。"
+        }
+      ]
+    },
+    {
+      "eng": "tan",
+      "kk": "tæn",
+      "tense": "n.",
+      "ch": [
+        [
+          "曬黑的膚色",
+          "黃褐色",
+          "棕褐色"
+        ]
+      ],
+      "analysis": "源自古英語 tanna（指橡樹皮，用於鞣製皮革），後來因鞣革產生的棕色而轉指顏色，並因皮膚在陽光下曬後呈現類似棕褐色而指曬黑的膚色。",
+      "definition": "1. a brown or yellowish-brown color; 2. a golden-brown coloration of the skin developed by exposure to the sun.",
+      "example": [
+        {
+          "eng": "She returned from her tropical vacation with a lovely golden tan.",
+          "ch": "她帶著美麗的小麥色皮膚從熱帶假期回來了。"
+        }
+      ]
+    },
+    {
+      "eng": "tan",
+      "kk": "tæn",
+      "tense": "adj.",
+      "ch": [
+        [
+          "黃褐色的",
+          "棕褐色的"
+        ]
+      ],
+      "analysis": "由名詞轉用而來的形容詞，用來形容物體或衣物的顏色為黃褐或棕褐色。",
+      "definition": "1. of a yellowish-brown color.",
+      "example": [
+        {
+          "eng": "He wore a pair of tan leather shoes with his blue suit.",
+          "ch": "他穿了一雙黃褐色皮鞋搭配他的藍色西裝。"
+        }
+      ]
+    },
+    {
+      "eng": "tedious",
+      "kk": "ˈtidiəs",
+      "tense": "adj.",
+      "ch": [
+        [
+          "冗長的",
+          "沉悶的",
+          "令人厭煩的"
+        ]
+      ],
+      "analysis": "源自中世紀拉丁語 tediosus，源自拉丁語 taedium（厭倦、疲勞）。形容詞用來修飾令人感到無聊、單調且耗時的工作或過程。",
+      "definition": "1. too long, slow, or dull; tiresome or monotonous.",
+      "example": [
+        {
+          "eng": "Entering all the data into the computer system manually is a tedious task.",
+          "ch": "手動將所有數據輸入電腦系統是一項沉悶乏味的工作。"
+        }
+      ]
+    },
+    {
+      "eng": "telecommunications",
+      "kk": "ˌtɛlɪkəmjuːnɪˈkeɪʃənz",
+      "tense": "n.",
+      "ch": [
+        [
+          "電信",
+          "遠距離通訊（通常用複數）"
+        ]
+      ],
+      "analysis": "現代複合詞，由 tele-（遠，源自希臘語）與 communications（通訊、傳播）結合而成。指利用電氣、電子或光學設備進行遠距離資訊傳遞的技術與產業。",
+      "definition": "1. communication over a distance by cable, telegraph, telephone, or broadcasting.",
+      "example": [
+        {
+          "eng": "Rapid advances in telecommunications have transformed how people do business globally.",
+          "ch": "電信技術的飛速進步已經改變了人們在全球做生意的方式。"
+        }
+      ]
+    },
+    {
+      "eng": "teller",
+      "kk": "ˈtɛlər",
+      "tense": "n.",
+      "ch": [
+        [
+          "出納員",
+          "銀行櫃員"
+        ],
+        [
+          "講述者"
+        ]
+      ],
+      "analysis": "由動詞 tell（講述、計算）加上名詞字尾 -er 構成。歷史上原本指計算或數錢的人，在現代金融中專指銀行櫃檯負責收付款項的行員，或複合詞中如 storyteller（故事講述者）。",
+      "definition": "1. a bank employee who deals directly with customers, receiving and paying out money; 2. a person who tells or relates something.",
+      "example": [
+        {
+          "eng": "She stood in line at the bank to speak with a teller about her account.",
+          "ch": "她在銀行排隊，準備跟櫃員談談她的帳戶問題。"
+        },
+        {
+          "eng": "He is a brilliant teller of traditional folktales.",
+          "ch": "他是一位優秀的傳統民間故事講述者。"
+        }
+      ]
+    },
+    {
+      "eng": "tempo",
+      "kk": "ˈtɛmpoʊ",
+      "tense": "n.",
+      "ch": [
+        [
+          "速度",
+          "節奏（音樂或活動的快慢）"
+        ]
+      ],
+      "analysis": "直接借自義大利語 tempo（源自拉丁語 tempus「時間」）。在音樂中專指演奏的速度快慢，在日常生活中引申為抽象活動的節奏。",
+      "definition": "1. the speed at which a passage of music is played; 2. the pace or speed of any activity or process.",
+      "example": [
+        {
+          "eng": "The conductor increased the tempo of the orchestra during the final movement.",
+          "ch": "指揮在最後一個樂章時加快了樂團演奏的節奏。"
+        },
+        {
+          "eng": "The fast tempo of city life can sometimes be overwhelming.",
+          "ch": "城市生活緊湊的步調有時會讓人感到難以負荷。"
+        }
+      ]
+    },
+    {
+      "eng": "tenant",
+      "kk": "ˈtɛnənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "房客",
+          "承租人"
+        ]
+      ],
+      "analysis": "源自古法語 tenant（動詞 tenir「持有、握住」的現在分詞），字面意為「持有土地或房屋的人」。指租賃房屋、土地或辦公室並定期支付租金的人。",
+      "definition": "1. a person who occupies land or property rented from a landlord.",
+      "example": [
+        {
+          "eng": "The landlord raised the rent for all the tenants in the building.",
+          "ch": "房東調高了大樓裡所有房客的租金。"
+        }
+      ]
+    },
+    {
+      "eng": "tentative",
+      "kk": "ˈtɛntətɪv",
+      "tense": "adj.",
+      "ch": [
+        [
+          "試探性的",
+          "暫時的",
+          "不確定的"
+        ]
+      ],
+      "analysis": "源自中世紀拉丁語 tentativus，源自拉丁語 tentare（嘗試、試驗）。形容詞用來形容尚未最終確定、仍可修改或帶有試驗性質的計畫或安排。",
+      "definition": "1. not certain or fixed; provisional; done as a trial or attempt.",
+      "example": [
+        {
+          "eng": "We have made tentative plans for a summer trip, but nothing is confirmed yet.",
+          "ch": "我們已經做了夏季旅行的暫定計畫，但還沒有確認任何事情。"
+        }
+      ]
+    },
+    {
+      "eng": "terrace",
+      "kk": "ˈtɛrɪs",
+      "tense": "n.",
+      "ch": [
+        [
+          "露台",
+          "陽台",
+          "梯田"
+        ]
+      ],
+      "analysis": "源自古法語 terrasse，更早源自拉丁語 terra（土地、地面）。指房屋外側平坦的露天平台，或山坡上修築成階梯狀的耕地（梯田）。",
+      "definition": "1. a level paved area next to a building; a patio; 2. each of a series of flat areas made on a slope.",
+      "example": [
+        {
+          "eng": "They sat on the hotel terrace, enjoying the breathtaking view of the sea.",
+          "ch": "他們坐在飯店露台上，欣賞令人驚嘆的海景。"
+        },
+        {
+          "eng": "Farmers grow rice on the steep mountain terrace.",
+          "ch": "農夫在陡峭的山地梯田上種植水稻。"
+        }
+      ]
+    },
+    {
+      "eng": "textile",
+      "kk": "ˈtɛkstaɪl",
+      "tense": "n.",
+      "ch": [
+        [
+          "紡織品",
+          "織物"
+        ]
+      ],
+      "analysis": "源自拉丁語 textiles，由 texere（織、編）加上形容詞／名詞字尾 -ile 構成，原義為「可織造的」。在現代主要作名詞，指各類紡織原料或織物製品。",
+      "definition": "1. a type of cloth or woven fabric.",
+      "example": [
+        {
+          "eng": "The region is famous for producing high-quality silk and cotton textiles.",
+          "ch": "該地區以生產高品質的絲綢與棉質紡織品而聞名。"
+        }
+      ]
+    },
+    {
+      "eng": "thereafter",
+      "kk": "ðɛrˈæftɚ",
+      "tense": "adv.",
+      "ch": [
+        [
+          "此後",
+          "之後"
+        ]
+      ],
+      "analysis": "複合副詞，由 there（那裡、當時）與 after（在…之後）結合而成。指在某個特定事件或時間點發生之後。",
+      "definition": "1. after that time; afterwards.",
+      "example": [
+        {
+          "eng": "They moved to London in 2010 and lived there happily ever thereafter.",
+          "ch": "他們在2010年搬到倫敦，此後便在那裡過著快樂的生活。"
+        }
+      ]
+    },
+    {
+      "eng": "thermometer",
+      "kk": "θɚˈmɑmətɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "溫度計",
+          "體溫計"
+        ]
+      ],
+      "analysis": "近代科學複合詞，由希臘語 therme（熱）與 metron（測量工具）結合而成。指用來測量溫度或體溫的儀器。",
+      "definition": "1. an instrument for measuring and indicating temperature.",
+      "example": [
+        {
+          "eng": "She checked the thermometer and saw that the outdoor temperature had dropped significantly.",
+          "ch": "她看了看溫度計，發現室外溫度已經顯著下降。"
+        }
+      ]
+    },
+    {
+      "eng": "tilt",
+      "kk": "tɪlt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使傾斜",
+          "使翹起"
+        ]
+      ],
+      "analysis": "源自古英語 tieltan（傾斜、搖晃）。及物動詞指將某物的一端抬高或使之向一側傾斜。變化形為 tilted, tilting。",
+      "definition": "1. to move or cause to move into a sloping position.",
+      "example": [
+        {
+          "eng": "He had to tilt his head slightly to look through the microscope.",
+          "ch": "他必須微微將頭傾斜才能透過顯微鏡觀察。"
+        }
+      ]
+    },
+    {
+      "eng": "tilt",
+      "kk": "tɪlt",
+      "tense": "vi.",
+      "ch": [
+        [
+          "傾斜",
+          "傾側"
+        ]
+      ],
+      "analysis": "不及物動詞用法，指物體自身發生傾斜或歪向一邊。變化形為 tilted, tilting。",
+      "definition": "1. to be in a sloping position or lean towards one side.",
+      "example": [
+        {
+          "eng": "The old wooden fence began to tilt after the heavy storm.",
+          "ch": "這扇老舊的木柵欄在強烈暴風雨過後開始傾斜。"
+        }
+      ]
+    },
+    {
+      "eng": "tiptoe",
+      "kk": "ˈtɪpˌtoʊ",
+      "tense": "vi.",
+      "ch": [
+        [
+          "踮起腳尖走路",
+          "躡手躡腳地走"
+        ]
+      ],
+      "analysis": "複合字，由 tip（尖端、前端）與 toe（腳趾）結合而成。作為不及物動詞時，指用腳趾尖走路以避免發出聲音。變化形為 tiptoed, tiptoeing。",
+      "definition": "1. to walk quietly and carefully on your toes so that nobody hears you.",
+      "example": [
+        {
+          "eng": "She tried to tiptoe into the bedroom so as not to wake the sleeping baby.",
+          "ch": "她試圖躡手躡腳地走進臥室，以免吵醒睡著的寶寶。"
+        }
+      ]
+    },
+    {
+      "eng": "tiresome",
+      "kk": "ˈtaɪərsəm",
+      "tense": "adj.",
+      "ch": [
+        [
+          "令人厭倦的",
+          "煩人的"
+        ]
+      ],
+      "analysis": "由動詞 tire（使疲勞）加上形容詞字尾 -some（充滿…傾向的）構成。形容某事或某人反覆出現、令人感到疲憊與心煩。",
+      "definition": "1. causing fatigue or annoyance; tedious and irritating.",
+      "example": [
+        {
+          "eng": "Listening to his endless complaints can be quite tiresome.",
+          "ch": "聽他無休止的抱怨會讓人感到相當煩人。"
+        }
+      ]
+    },
+    {
+      "eng": "token",
+      "kk": "ˈtoʊkən",
+      "tense": "n.",
+      "ch": [
+        [
+          "代幣",
+          "紀念品",
+          "表徵",
+          "象徵性標誌"
+        ]
+      ],
+      "analysis": "源自古英語 tācen（標誌、記號），為日耳曼語源詞。指作為憑證、代幣或情感象徵的小物件。",
+      "definition": "1. a voucher or disk that can be exchanged for goods or services; 2. a thing done or given as a symbol of feeling.",
+      "example": [
+        {
+          "eng": "Passengers need a plastic token to pass through the subway turnstile.",
+          "ch": "乘客需要一個塑膠代幣才能通過地鐵閘門。"
+        },
+        {
+          "eng": "She gave him a small gift as a token of her gratitude.",
+          "ch": "她送了他一個小禮物作為她感激的表徵。"
+        }
+      ]
+    }
+  ]
+}

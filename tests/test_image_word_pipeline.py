@@ -88,6 +88,19 @@ class PromptContractTests(unittest.TestCase):
         self.assertIn("非重讀母音弱化", prompt)
         self.assertIn("沒有把握時輸出空字串", prompt)
 
+    def test_prompt_and_api_schema_use_canonical_nested_ch(self):
+        prompt = pipeline.build_words_only_prompt(["accelerate"])
+
+        self.assertIn('單一語義群組使用 [["譯義", "同群近義"]]', prompt)
+        self.assertEqual(pipeline.GENERATION_CONFIG.response_mime_type, "application/json")
+        self.assertEqual(pipeline.GENERATION_CONFIG.max_output_tokens, 65_536)
+        self.assertIsNone(pipeline.GENERATION_CONFIG.temperature)
+        self.assertEqual(pipeline.WORD_ROWS_SCHEMA["minItems"], 1)
+        self.assertEqual(
+            pipeline.WORD_ROWS_SCHEMA["items"]["properties"]["ch"]["items"]["type"],
+            "array"
+        )
+
 
 class GeneratedOutputValidatorTests(unittest.TestCase):
     def test_valid_rows_pass_and_normalize(self):
@@ -418,12 +431,17 @@ class GeminiRetryTests(unittest.TestCase):
         client = SimpleNamespace(
             models=SimpleNamespace(generate_content=generate_content)
         )
+        before_calls = pipeline.PIPELINE_METRICS["modelCalls"]
 
         with patch.object(pipeline, "create_gemini_client", return_value=client):
             with self.assertRaises(Exception):
                 pipeline.call_gemini_with_retry("prompt", ["key-1"], retries=15)
 
         self.assertEqual(generate_content.call_count, 1)
+        self.assertEqual(pipeline.PIPELINE_METRICS["modelCalls"], before_calls + 1)
+        call_kwargs = generate_content.call_args.kwargs
+        self.assertIs(call_kwargs["config"], pipeline.GENERATION_CONFIG)
+        self.assertIsNone(call_kwargs["config"].temperature)
 
     def test_standalone_multi_key_mode_rotates_after_429(self):
         first_generate = Mock(side_effect=Exception("429 RESOURCE_EXHAUSTED"))
@@ -433,6 +451,7 @@ class GeminiRetryTests(unittest.TestCase):
             SimpleNamespace(models=SimpleNamespace(generate_content=first_generate)),
             SimpleNamespace(models=SimpleNamespace(generate_content=second_generate))
         ]
+        before_calls = pipeline.PIPELINE_METRICS["modelCalls"]
 
         with patch.object(pipeline, "create_gemini_client", side_effect=clients):
             response = pipeline.call_gemini_with_retry(
@@ -444,6 +463,28 @@ class GeminiRetryTests(unittest.TestCase):
         self.assertIs(response, expected_response)
         self.assertEqual(first_generate.call_count, 1)
         self.assertEqual(second_generate.call_count, 1)
+        self.assertEqual(pipeline.PIPELINE_METRICS["modelCalls"], before_calls + 2)
+
+    def test_successful_call_collects_usage_metadata(self):
+        usage = SimpleNamespace(
+            prompt_token_count=120,
+            candidates_token_count=30,
+            cached_content_token_count=20,
+            thoughts_token_count=10
+        )
+        response = SimpleNamespace(text="[]", usage_metadata=usage)
+        generate_content = Mock(return_value=response)
+        client = SimpleNamespace(models=SimpleNamespace(generate_content=generate_content))
+        before = dict(pipeline.PIPELINE_METRICS)
+
+        with patch.object(pipeline, "create_gemini_client", return_value=client):
+            self.assertIs(pipeline.call_gemini_with_retry("prompt", ["key-1"]), response)
+
+        self.assertEqual(pipeline.PIPELINE_METRICS["modelCalls"], before["modelCalls"] + 1)
+        self.assertEqual(pipeline.PIPELINE_METRICS["promptTokens"], before["promptTokens"] + 120)
+        self.assertEqual(pipeline.PIPELINE_METRICS["outputTokens"], before["outputTokens"] + 30)
+        self.assertEqual(pipeline.PIPELINE_METRICS["cachedTokens"], before["cachedTokens"] + 20)
+        self.assertEqual(pipeline.PIPELINE_METRICS["thoughtTokens"], before["thoughtTokens"] + 10)
 
 
 if __name__ == "__main__":

@@ -23,9 +23,67 @@ const OverviewPage = (() => {
     pendingWordRefFromRestore: false,
     restoreSnapshot: null,
     persistTimer: 0,
-    persistenceSuspended: false
+    persistenceSuspended: false,
+    starredWordKeys: new Set(),
+    starredOnly: false
   };
   const OVERVIEW_STATE_PREFIX = "wordsKingOverviewState";
+
+  function buildWordStarKey(eng, tense) {
+    return `${String(eng || "").trim().toLowerCase()}::${String(tense || "").trim().toLowerCase()}`;
+  }
+
+  async function loadStarredKeys() {
+    try {
+      if (appState.user && !appState.user.isGuest) {
+        const data = await api("/api/words/starred");
+        state.starredWordKeys = new Set(data.starredWordKeys || []);
+      } else {
+        const raw = sessionStorage.getItem("wordsKingGuestStars");
+        state.starredWordKeys = new Set(raw ? JSON.parse(raw) : []);
+      }
+    } catch {
+      state.starredWordKeys = new Set();
+    }
+  }
+
+  async function toggleStar(eng, tense, wordRef) {
+    const starKey = buildWordStarKey(eng, tense);
+    const isCurrentlyStarred = state.starredWordKeys.has(starKey);
+    const nextStarred = !isCurrentlyStarred;
+
+    if (nextStarred) {
+      state.starredWordKeys.add(starKey);
+    } else {
+      state.starredWordKeys.delete(starKey);
+    }
+
+    renderFocusDetail();
+    renderWordGrid();
+
+    if (appState.user && !appState.user.isGuest) {
+      try {
+        await api("/api/words/starred/toggle", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ eng, tense, wordRef, starred: nextStarred })
+        });
+      } catch (error) {
+        if (isCurrentlyStarred) {
+          state.starredWordKeys.add(starKey);
+        } else {
+          state.starredWordKeys.delete(starKey);
+        }
+        renderFocusDetail();
+        renderWordGrid();
+        showMessage(`標記失敗：${error.message}`);
+      }
+    } else {
+      try {
+        sessionStorage.setItem("wordsKingGuestStars", JSON.stringify([...state.starredWordKeys]));
+      } catch {}
+    }
+  }
 
   function getOverviewStateKey() {
     const userKey = appState.user?.id || appState.user?.username || "guest";
@@ -204,7 +262,7 @@ const OverviewPage = (() => {
         ${visibleEntries
           .map(
             (entry, index) => `
-              <div class="meaning-item ${highlightTexts.has(String(entry).trim()) ? "exam-highlight" : ""}">
+              <div class="meaning-item">
                 <span class="meaning-index">${buildMeaningMarker(index)}</span>
                 <span class="meaning-text">${escapeHtml(entry)}</span>
               </div>
@@ -232,14 +290,6 @@ const OverviewPage = (() => {
       [incomingWord.source_name, incomingWord.unit_name].filter(Boolean).join(" / ")
     ].filter(Boolean));
     const wordRefs = new Set([...(baseWord.wordRefs || []), incomingWord.wordRef].filter(Boolean));
-    const examMeaningIndexes = new Set([
-      ...(baseWord.examMeaningIndexes || []),
-      ...(incomingWord.examMeaningIndexes || [])
-    ]);
-    const examMeaningTexts = new Set([
-      ...(baseWord.examMeaningTexts || []),
-      ...(incomingWord.examMeaningTexts || [])
-    ]);
 
     return {
       ...baseWord,
@@ -252,9 +302,7 @@ const OverviewPage = (() => {
       sourceNames: [...sourceNames],
       unitNames: [...unitNames],
       sourceUnitPairs: [...sourceUnitPairs],
-      wordRefs: [...wordRefs],
-      examMeaningIndexes: [...examMeaningIndexes],
-      examMeaningTexts: [...examMeaningTexts]
+      wordRefs: [...wordRefs]
     };
   }
 
@@ -285,8 +333,6 @@ const OverviewPage = (() => {
         group.variants.push({
           ...word,
           chEntries: Array.isArray(word.chEntries) ? word.chEntries : parseMeaningEntries(word.ch),
-          examMeaningIndexes: Array.isArray(word.examMeaningIndexes) ? word.examMeaningIndexes : [],
-          examMeaningTexts: Array.isArray(word.examMeaningTexts) ? word.examMeaningTexts : [],
           sourceNames: [word.source_name].filter(Boolean),
           unitNames: [word.unit_name].filter(Boolean),
           sourceUnitPairs: [[word.source_name, word.unit_name].filter(Boolean).join(" / ")].filter(Boolean),
@@ -558,6 +604,7 @@ const OverviewPage = (() => {
     if (query.unitIds?.length) params.set("unitIds", query.unitIds.join(","));
     params.set("order", query.orderMode || "unit");
     if (query.search) params.set("search", query.search);
+    if (state.starredOnly) params.set("starredOnly", "true");
     return query;
   }
 
@@ -601,11 +648,14 @@ const OverviewPage = (() => {
   function renderWordCard(group) {
     const word = group.variants[0];
     const sourceText = (word.sourceUnitPairs || []).join(" · ");
+    const hasStarredVariant = group.variants.some((v) =>
+      state.starredWordKeys.has(buildWordStarKey(v.eng, v.tense))
+    );
 
     return `
       <article id="word-card-${group.id}" class="word-preview-card ${state.activeWordId === group.id ? "active" : ""}" data-word-id="${group.id}">
         <h3>
-          ${escapeHtml(group.eng)}
+          ${escapeHtml(group.eng)}${hasStarredVariant ? '<span class="card-star-badge" title="包含已標記的詞性">⭐</span>' : ""}
           <span>${escapeHtml(word.kk || "未提供 KK")}</span>
         </h3>
         <p class="small-text muted">${escapeHtml(sourceText || "未提供來源")}</p>
@@ -616,6 +666,10 @@ const OverviewPage = (() => {
   }
 
   function renderCompactWordCard(group) {
+    const hasStarredVariant = group.variants.some((v) =>
+      state.starredWordKeys.has(buildWordStarKey(v.eng, v.tense))
+    );
+
     return `
       <article
         id="word-card-${group.id}"
@@ -625,7 +679,7 @@ const OverviewPage = (() => {
         tabindex="0"
         aria-label="開啟 ${escapeHtml(group.eng)} 的單字詳情"
       >
-        <h3>${escapeHtml(group.eng)}</h3>
+        <h3>${escapeHtml(group.eng)}${hasStarredVariant ? '<span class="card-star-badge" title="包含已標記的詞性">⭐</span>' : ""}</h3>
       </article>
     `;
   }
@@ -651,7 +705,6 @@ const OverviewPage = (() => {
     });
 
     syncFocusFollowDock();
-    window.WordsApp.tutorial?.refresh?.();
   }
 
   function getGroupPronunciationWord(group) {
@@ -682,114 +735,25 @@ const OverviewPage = (() => {
       <div class="detail-actions">
         ${group.variants
           .map(
-            (variant, index) => `
+            (variant, index) => {
+              const starKey = buildWordStarKey(variant.eng, variant.tense);
+              const isStarred = state.starredWordKeys.has(starKey);
+              return `
               <button
                 type="button"
                 class="ghost-btn ${index === state.activeVariantIndex ? "active" : ""}"
                 data-variant-index="${index}"
               >
-                ${escapeHtml(variant.tense || `版本 ${index + 1}`)}
+                ${escapeHtml(variant.tense || `版本 ${index + 1}`)}${isStarred ? ' <span class="tab-star-badge" title="已標記星星">⭐</span>' : ""}
               </button>
-            `
+            `;
+            }
           )
           .join("")}
       </div>
     `;
   }
 
-  function renderExamples(example) {
-    const examples = parseExamples(example);
-    if (!examples.length) {
-      return '<div class="detail-value">未提供例句</div>';
-    }
-
-    return `
-      <div class="detail-value">
-        ${examples
-          .map(
-            (item) => `
-              <div class="meaning-item">
-                <span class="meaning-text">${escapeHtml(item.eng || "")}</span>
-              </div>
-              <div class="small-text muted">${escapeHtml(item.ch || "")}</div>
-            `
-          )
-          .join("")}
-      </div>
-    `;
-  }
-
-  function renderFocusDetail() {
-    const group = getActiveGroup();
-    const word = getActiveVariant(group);
-    const detail = document.getElementById("focusDetail");
-    const panel = document.getElementById("focusPanel");
-
-    if (!group || !word) {
-      panel.classList.add("hidden");
-      detail.innerHTML = "";
-      return;
-    }
-
-    panel.classList.remove("hidden");
-    const sourceSummary = [...new Set([...(word.sourceNames || []), ...(word.unitNames || [])].filter(Boolean))].join(" / ");
-    const examHighlightTexts = Array.isArray(word.examMeaningTexts) ? word.examMeaningTexts : [];
-    const detailModeSection = `
-        <section class="detail-section">
-          <span class="detail-label">分析</span>
-          <div class="detail-value">${escapeHtml(word.analysis || "未提供")}</div>
-        </section>
-      `;
-
-    detail.innerHTML = `
-      <div class="word-detail-card">
-        <div class="section-title-row">
-          <div>
-            <h2>${escapeHtml(group.eng)}</h2>
-            <p class="small-text muted">${escapeHtml(sourceSummary || "未提供來源")}</p>
-          </div>
-          <button type="button" id="speakWordBtn" class="ghost-btn">播放單字</button>
-        </div>
-        ${renderVariantTabs(group)}
-        <section class="detail-section">
-          <span class="detail-label">詞性 / KK</span>
-          <div class="detail-value">${escapeHtml(word.tense || "未提供詞性")} / ${escapeHtml(word.kk || "未提供")}</div>
-        </section>
-        <section class="detail-section">
-          <span class="detail-label">中文解釋</span>
-          ${renderMeaningList(word.chEntries || word.ch, {
-            className: "meaning-list",
-            highlightTexts: examHighlightTexts,
-            ensureHighlightsVisible: true
-          })}
-          ${examHighlightTexts.length ? '<p class="small-text muted exam-highlight-hint">螢光底表示已標記的考試字義。</p>' : ""}
-        </section>
-        <section class="detail-section">
-          <span class="detail-label">分析</span>
-          <div class="detail-value">${escapeHtml(word.analysis || "未提供")}</div>
-        </section>
-        <section class="detail-section">
-          <span class="detail-label">英文定義</span>
-          <div class="detail-value">${escapeHtml(word.definition || "未提供")}</div>
-        </section>
-        <section class="detail-section">
-          <span class="detail-label">例句</span>
-          ${renderExamples(word.example)}
-        </section>
-      </div>
-    `;
-
-    detail.querySelectorAll("[data-variant-index]").forEach((button) => {
-      button.addEventListener("click", () => {
-        state.activeVariantIndex = Number(button.dataset.variantIndex || 0);
-        renderFocusDetail();
-      });
-    });
-
-    document.getElementById("speakWordBtn")?.addEventListener("click", () => speakWord(word));
-    panel.scrollIntoView({ behavior: "smooth", block: "start" });
-    window.WordsApp.tutorial?.refresh?.();
-  }
 
   function findGroupIndexById(groupId) {
     return state.groupedWords.findIndex((item) => item.id === groupId);
@@ -890,7 +854,11 @@ const OverviewPage = (() => {
     if (!rows.length) return;
 
     state.words.push(...rows);
-    state.groupedWords = groupWords(state.words);
+    let wordsToGroup = state.words;
+    if (state.starredOnly && (!appState.user || appState.user.isGuest)) {
+      wordsToGroup = wordsToGroup.filter((w) => state.starredWordKeys.has(buildWordStarKey(w.eng, w.tense)));
+    }
+    state.groupedWords = groupWords(wordsToGroup);
     renderWordGrid();
     preloadPronunciationsAroundFocus();
   }
@@ -899,7 +867,11 @@ const OverviewPage = (() => {
     if (!rows.length) return;
 
     state.words = [...rows, ...state.words];
-    state.groupedWords = groupWords(state.words);
+    let wordsToGroup = state.words;
+    if (state.starredOnly && (!appState.user || appState.user.isGuest)) {
+      wordsToGroup = wordsToGroup.filter((w) => state.starredWordKeys.has(buildWordStarKey(w.eng, w.tense)));
+    }
+    state.groupedWords = groupWords(wordsToGroup);
     renderWordGrid();
     preloadPronunciationsAroundFocus();
   }
@@ -1070,69 +1042,12 @@ const OverviewPage = (() => {
     state.sources = sources || [];
     renderSourceOptions();
     renderUnitOptions("");
-    window.WordsApp.tutorial?.refresh?.();
-  }
-
-  async function loadOverview() {
-    const data = await api("/api/words/overview");
-    renderOverviewStats(data.totals || {});
   }
 
   function renderSourceOptions() {
     document.getElementById("sourceFilter").innerHTML =
       '<option value="">全部來源</option>' +
       state.sources.map((source) => `<option value="${source.id}">${escapeHtml(source.name)}</option>`).join("");
-  }
-
-  function renderUnitOptions(sourceId, selectedUnitIds = getSelectedUnitIds()) {
-    const unitFilter = getUnitFilterElement();
-    if (!unitFilter) {
-      return;
-    }
-
-    const source = state.sources.find((item) => String(item.id) === String(sourceId));
-    const units = source ? source.units : state.sources.flatMap((item) => item.units);
-    const selected = new Set((selectedUnitIds || []).map((item) => String(item)));
-    unitFilter.innerHTML =
-      `<button type="button" class="unit-filter-clear ${selected.size ? "" : "active"}" data-clear-unit-filter>全部單元</button>` +
-      units
-        .map(
-          (unit) => `
-            <label class="unit-filter-pill">
-              <input type="checkbox" name="unitIds" value="${unit.id}" ${selected.has(String(unit.id)) ? "checked" : ""} />
-              <span>${escapeHtml(unit.name)}</span>
-            </label>
-          `
-        )
-        .join("");
-  }
-
-  function renderOverviewStats(totals) {
-    const target = document.getElementById("overviewStats");
-    if (!target) return;
-
-    target.innerHTML = `
-      <div class="stat subtle-stat"><span>來源數</span><strong>${totals.source_count || 0}</strong></div>
-      <div class="stat subtle-stat"><span>單元數</span><strong>${totals.unit_count || 0}</strong></div>
-      <div class="stat subtle-stat"><span>單字總數</span><strong>${totals.word_count || 0}</strong></div>
-    `;
-  }
-
-  function setWordListStatus(message) {
-    const target = document.getElementById("loadMoreHint");
-    if (target) {
-      target.textContent = message || "";
-    }
-  }
-
-  function renderWordListStatus() {
-    if (state.totalGroups === 0) {
-      setWordListStatus("目前沒有符合條件的單字。");
-    } else if (state.hasMore) {
-      setWordListStatus(`已載入 ${state.groupedWords.length} / ${state.totalGroups} 個單字，向下滑動可繼續載入。`);
-    } else {
-      setWordListStatus(`已載入全部 ${state.groupedWords.length} 個單字。`);
-    }
   }
 
   function getFocusPanelElement() {
@@ -1232,11 +1147,14 @@ const OverviewPage = (() => {
   function renderWordCard(group) {
     const word = group.variants[0];
     const sourceText = (word.sourceUnitPairs || []).join("・");
+    const hasStarredVariant = group.variants.some((v) =>
+      state.starredWordKeys.has(buildWordStarKey(v.eng, v.tense))
+    );
 
     return `
       <article id="word-card-${group.id}" class="word-preview-card ${state.activeWordId === group.id ? "active" : ""}" data-word-id="${group.id}">
         <h3>
-          ${escapeHtml(group.eng)}
+          ${escapeHtml(group.eng)}${hasStarredVariant ? '<span class="card-star-badge" title="包含已標記的詞性">★</span>' : ""}
           <span>${escapeHtml(word.kk || "未提供 KK")}</span>
         </h3>
         <p class="small-text muted">${escapeHtml(sourceText || "未標示來源")}</p>
@@ -1283,7 +1201,7 @@ const OverviewPage = (() => {
 
     panel.classList.remove("hidden");
     const sourceSummary = [...new Set([...(word.sourceNames || []), ...(word.unitNames || [])].filter(Boolean))].join(" / ");
-    const examHighlightTexts = Array.isArray(word.examMeaningTexts) ? word.examMeaningTexts : [];
+    const isWordStarred = state.starredWordKeys.has(buildWordStarKey(word.eng, word.tense));
     const detailModeSection = `
         <section class="detail-section">
           <span class="detail-label">分析</span>
@@ -1294,8 +1212,18 @@ const OverviewPage = (() => {
     detail.innerHTML = `
       <div class="word-detail-card">
         <div class="section-title-row">
-          <div>
+          <div style="display: flex; align-items: center; gap: 10px; flex-wrap: wrap;">
             <h2>${escapeHtml(group.eng)}</h2>
+            <button
+              type="button"
+              id="starWordBtn"
+              class="star-btn ${isWordStarred ? "is-starred" : ""}"
+              title="${isWordStarred ? `已標記（點擊取消「${escapeHtml(word.tense || "此詞性")}」的標記）` : `點擊將「${escapeHtml(word.tense || "此詞性")}」標記`}"
+              aria-label="${isWordStarred ? "已標記（點擊取消）" : "未標記（點擊標記）"}"
+            >
+              <span class="focus-star-icon">${isWordStarred ? "⭐" : "☆"}</span>
+              <span class="focus-star-text">${isWordStarred ? "已標記" : "標記"}</span>
+            </button>
             <p class="small-text muted focus-source-summary">${escapeHtml(sourceSummary || "未標示來源")}</p>
           </div>
           <button type="button" id="speakWordBtn" class="ghost-btn">播放單字</button>
@@ -1308,11 +1236,8 @@ const OverviewPage = (() => {
         <section class="detail-section">
           <span class="detail-label">中文解釋</span>
           ${renderMeaningList(word.chEntries || word.ch, {
-            className: "meaning-list",
-            highlightTexts: examHighlightTexts,
-            ensureHighlightsVisible: true
+            className: "meaning-list"
           })}
-          ${examHighlightTexts.length ? '<p class="small-text muted exam-highlight-hint">螢光底代表已標記為考試字義。</p>' : ""}
         </section>
         ${detailModeSection}
         <section class="detail-section">
@@ -1334,6 +1259,9 @@ const OverviewPage = (() => {
       });
     });
 
+    document.getElementById("starWordBtn")?.addEventListener("click", () => {
+      toggleStar(word.eng, word.tense, word.wordRef);
+    });
     document.getElementById("speakWordBtn")?.addEventListener("click", () => speakWord(word));
     if (state.focusShouldScroll) {
       panel.scrollIntoView({ behavior: "smooth", block: "start" });
@@ -1342,7 +1270,6 @@ const OverviewPage = (() => {
     syncFocusFollowDock();
     queueSaveOverviewState();
     preloadPronunciationsAroundFocus();
-    window.WordsApp.tutorial?.refresh?.();
   }
 
   function openFocusByGroupId(groupId, options = {}) {
@@ -1527,6 +1454,15 @@ const OverviewPage = (() => {
       queueSaveOverviewState();
     });
 
+    document.getElementById("starFilterBtn")?.addEventListener("click", () => {
+      state.starredOnly = !state.starredOnly;
+      const btn = document.getElementById("starFilterBtn");
+      btn?.classList.toggle("is-active", state.starredOnly);
+      btn?.setAttribute("aria-pressed", state.starredOnly ? "true" : "false");
+      saveOverviewStateNow();
+      loadWords({ reset: true });
+    });
+
     document.getElementById("focusPrevBtn").addEventListener("click", () => goFocusStep(-1));
     document.getElementById("focusNextBtn").addEventListener("click", () => goFocusStep(1));
     document.getElementById("focusCloseBtn").addEventListener("click", closeFocus);
@@ -1537,7 +1473,7 @@ const OverviewPage = (() => {
     if (!enforcePageAccess()) return;
 
     state.persistenceSuspended = true;
-    await Promise.all([loadSources(), loadOverview()]);
+    await Promise.all([loadSources(), loadOverview(), loadStarredKeys()]);
     state.restoreSnapshot = readSavedOverviewState();
     applySavedOverviewFilters(state.restoreSnapshot);
     if (!state.pendingWordRef && state.restoreSnapshot?.activeWordRef) {

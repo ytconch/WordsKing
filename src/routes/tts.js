@@ -1241,7 +1241,7 @@ router.get("/pronunciation", requireAuth, pronunciationRateLimit, async (req, re
 
     await enqueuePronunciationPrefetch(word, {
       priority: 100,
-      requestedBy: req.user
+      requestedBy: req.user.isGuest ? null : req.user
     });
     return res.json({
       available: false,
@@ -1264,7 +1264,7 @@ router.post("/pronunciation/prefetch", requireAuth, pronunciationPrefetchRateLim
 
     await Promise.all(words.map((word, index) => enqueuePronunciationPrefetch(word, {
       priority: PREFETCH_BATCH_LIMIT - index,
-      requestedBy: req.user
+      requestedBy: req.user.isGuest ? null : req.user
     })));
     return res.status(202).json({ queued: true, words });
   } catch (error) {
@@ -1309,7 +1309,7 @@ router.get("/pronunciation/audio/:cacheKey", requireAuth, pronunciationRateLimit
         await enqueuePronunciationPrefetch(row.word_normalized, {
           priority: 100,
           refresh: true,
-          requestedBy: req.user
+          requestedBy: req.user.isGuest ? null : req.user
         });
       }
     }

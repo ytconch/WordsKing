@@ -1,0 +1,1261 @@
+{
+  "level": 5,
+  "chunkIndex": 19,
+  "inputs": [
+    "theft",
+    "theology",
+    "theoretical",
+    "therapist",
+    "therapy",
+    "thereby",
+    "thesis",
+    "thigh",
+    "threshold",
+    "thrill",
+    "thriller",
+    "thrive",
+    "throne",
+    "thrust",
+    "tick",
+    "tile",
+    "tin",
+    "toll",
+    "torch",
+    "torment",
+    "tournament",
+    "toxic",
+    "trait",
+    "traitor",
+    "transaction",
+    "transformation",
+    "transit",
+    "transition",
+    "transmission",
+    "transparent",
+    "trauma",
+    "treaty",
+    "tribute",
+    "trigger",
+    "trim",
+    "triple",
+    "trivial",
+    "trophy",
+    "tuition",
+    "tumor",
+    "tuna",
+    "ultimate",
+    "uncover",
+    "undergo",
+    "undergraduate",
+    "underline",
+    "undermine",
+    "undertake",
+    "undo",
+    "undoubtedly"
+  ],
+  "rows": [
+    {
+      "eng": "theft",
+      "kk": "/θɛft/",
+      "tense": "n.",
+      "ch": [
+        [
+          "偷竊",
+          "盜竊"
+        ],
+        [
+          "贓物",
+          "盜得之物"
+        ]
+      ],
+      "analysis": "此字為源自古英語的繼承詞，由動詞 thief（小偷）演變而來的抽象名詞，詞尾 -t 為日耳曼語族的名詞化後綴。語義從「偷竊的行為」引申出「被偷的物品」。",
+      "definition": "1. the dishonest taking of property belonging to another person; 2. stolen goods or the proceeds of a theft.",
+      "example": [
+        {
+          "eng": "The police are investigating a series of thefts in the neighborhood.",
+          "ch": "警方正在調查社區內的一系列盜竊案。"
+        },
+        {
+          "eng": "The stolen jewels were recovered as part of the evidence linked to the theft.",
+          "ch": "失竊的珠寶作為與該起盜竊案有關的證據被尋獲。"
+        }
+      ]
+    },
+    {
+      "eng": "theology",
+      "kk": "/θiˈɑlədʒi/",
+      "tense": "n.",
+      "ch": [
+        [
+          "神學"
+        ],
+        [
+          "宗教體系",
+          "宗派教義"
+        ]
+      ],
+      "analysis": "此字經由中世紀拉丁語 theologia 借自古希臘語 theologia，由 theo-（神、上帝，源自 theos）與 -logy（學問、研究，源自 -logia）複合而成。語義從「關於神的研究」演變為特定宗教或宗派的「教義與信仰體系」。",
+      "definition": "1. the study of the nature of God and religious belief; 2. a particular system or school of religious beliefs.",
+      "example": [
+        {
+          "eng": "She is pursuing a degree in theology at the university.",
+          "ch": "她正在該大學攻讀神學學位。"
+        },
+        {
+          "eng": "Christian theology emphasizes grace and redemption.",
+          "ch": "基督教神學強調恩典與救贖。"
+        }
+      ]
+    },
+    {
+      "eng": "theoretical",
+      "kk": "/ˌθiəˈrɛtɪkəl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "理論上的",
+          "假說的"
+        ]
+      ],
+      "analysis": "此字由名詞 theory 加上形容詞後綴 -ical 構成，其歷史源頭可追溯至古希臘語 theoretikos（與觀看、思辨有關）。現代主要指基於理論推導而非實際經驗或應用的事物。",
+      "definition": "1. concerned with or involving the theory of a subject or area of study rather than its practical application.",
+      "example": [
+        {
+          "eng": "The physicist proposed a theoretical model to explain the phenomenon.",
+          "ch": "這位物理學家提出了一個理論模型來解釋這種現象。"
+        }
+      ]
+    },
+    {
+      "eng": "therapist",
+      "kk": "/ˈθɛrəpɪst/",
+      "tense": "n.",
+      "ch": [
+        [
+          "治療師",
+          "心理治療師"
+        ]
+      ],
+      "analysis": "此字由 therapy（治療）去掉字尾並加上表示人的名詞後綴 -ist 構成。專指受過專業訓練、從事各種心理或身體治療工作的專業人員。",
+      "definition": "1. a person specialized in the treatment of a particular disease or condition, or in psychotherapy.",
+      "example": [
+        {
+          "eng": "She visits a physical therapist twice a week for her back injury.",
+          "ch": "她因為背部受傷，每週去看兩次物理治療師。"
+        }
+      ]
+    },
+    {
+      "eng": "therapy",
+      "kk": "/ˈθɛrəpi/",
+      "tense": "n.",
+      "ch": [
+        [
+          "治療",
+          "療法"
+        ],
+        [
+          "心理治療",
+          "心理輔導"
+        ]
+      ],
+      "analysis": "此字經由拉丁語 therapeia 借自古希臘語 therapeia（治療、侍奉），源自動詞 therapeuein（照顧、治癒）。語義從廣義的「醫療照顧」延伸出針對心理或特定疾病的「治療方式」。",
+      "definition": "1. the treatment of a physical or mental illness; 2. treatment intended to relieve or heal a psychological disorder.",
+      "example": [
+        {
+          "eng": "Physical therapy helps patients recover their mobility after surgery.",
+          "ch": "物理治療幫助病人在手術後恢復活動能力。"
+        },
+        {
+          "eng": "He has been attending regular talk therapy to cope with stress.",
+          "ch": "他一直在參加常態的談話心理治療來應對壓力。"
+        }
+      ]
+    },
+    {
+      "eng": "thereby",
+      "kk": "/ˌðɛrˈbaɪ/",
+      "tense": "adv.",
+      "ch": [
+        [
+          "因此",
+          "藉此",
+          "從而"
+        ]
+      ],
+      "analysis": "此字為古英語以來固有的複合副詞，由 there（那裡、其）與 by（藉由、透過）結合而成。在現代英語中主要用作連接詞性副詞，表示透過前述的行動或情況而產生某種結果。",
+      "definition": "1. by means of that or this; as a result of that.",
+      "example": [
+        {
+          "eng": "He signed the contract and thereby secured the partnership.",
+          "ch": "他簽署了合約，藉此確保了合作關係。"
+        }
+      ]
+    },
+    {
+      "eng": "thesis",
+      "kk": "/ˈθisɪs/",
+      "tense": "n.",
+      "ch": [
+        [
+          "論文",
+          "學位論文"
+        ],
+        [
+          "論點",
+          "命題"
+        ]
+      ],
+      "analysis": "此字直接借自古希臘語 thesis（原意為「放置、陳述」），源自動詞 tithenai（放置）。在學術發展中，演變出「提出的主張或命題」以及「為取得學位而撰寫的研究論文」等義項。",
+      "definition": "1. a long essay or dissertation involving personal research, written by a candidate for a college degree; 2. a statement or theory that is put forward as a premise to be proved.",
+      "example": [
+        {
+          "eng": "She is spending the entire semester writing her master's thesis.",
+          "ch": "她花費整個學期撰寫碩士畢業論文。"
+        },
+        {
+          "eng": "The author's central thesis is that technology improves education.",
+          "ch": "作者的核心論點是科技能改善教育。"
+        }
+      ]
+    },
+    {
+      "eng": "thigh",
+      "kk": "/θaɪ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "大腿"
+        ]
+      ],
+      "analysis": "此字為源自古英語 theoh 的繼承詞，屬於日耳曼語族的身體部位名稱。歷經中英語音變後拼寫固定為 thigh，指人體或動物臀部與膝蓋之間的部位。",
+      "definition": "1. the part of the human leg between the hip and the knee.",
+      "example": [
+        {
+          "eng": "He felt a sharp pain in his thigh while running.",
+          "ch": "他在跑步時感到大腿一陣劇痛。"
+        }
+      ]
+    },
+    {
+      "eng": "threshold",
+      "kk": "/ˈθrɛʃˌhoʊld/",
+      "tense": "n.",
+      "ch": [
+        [
+          "門檻",
+          "門限"
+        ],
+        [
+          "開端",
+          "起點",
+          "臨界點"
+        ]
+      ],
+      "analysis": "此字為古英語複合詞 þrescold，由 þrescan（踏、打穀）與 ceald/hold（木頭、橫梁）組成，原指防止穀物外漏或踩踏的門檻木。語義從建築結構上的「門檻」抽象化為事件發生的「起點」或引起反應的「臨界點」。",
+      "definition": "1. a strip of wood or stone forming the bottom of a doorway and crossed in entering a house; 2. the magnitude or intensity that must be exceeded for a certain reaction, phenomenon, or result to occur or be manifested.",
+      "example": [
+        {
+          "eng": "He paused for a moment on the threshold before entering.",
+          "ch": "他在進入之前在門檻上停留了一會兒。"
+        },
+        {
+          "eng": "The noise level exceeded the safety threshold.",
+          "ch": "噪音水準超過了安全臨界點。"
+        }
+      ]
+    },
+    {
+      "eng": "thrill",
+      "kk": "/θrɪl/",
+      "tense": "n.",
+      "ch": [
+        [
+          "興奮",
+          "刺激",
+          "快感"
+        ]
+      ],
+      "analysis": "此字源自古英語 þryllian（穿孔、刺透），經歷中英語義變，從「身體上的刺痛感」演變為情感上因驚險或喜悅而產生的「強烈激動與興奮感」。此處為名詞用法。",
+      "definition": "1. a sudden feeling of excitement and pleasure.",
+      "example": [
+        {
+          "eng": "She felt a great thrill when she rode the roller coaster.",
+          "ch": "她坐雲霄飛車時感到無比刺激與興奮。"
+        }
+      ]
+    },
+    {
+      "eng": "thrill",
+      "kk": "/θrɪl/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使興奮",
+          "使激動"
+        ]
+      ],
+      "analysis": "此字源自古英語 þryllian（穿孔、刺透），為動詞用法。語義從具體的「穿刺」轉為抽象的「深深觸動、使人感到激動或興奮」。",
+      "definition": "1. cause (someone) to have a sudden feeling of excitement and pleasure.",
+      "example": [
+        {
+          "eng": "The acrobatic performance thrilled the audience.",
+          "ch": "特技表演讓觀眾興奮不已。"
+        }
+      ]
+    },
+    {
+      "eng": "thriller",
+      "kk": "/ˈθrɪlɚ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "驚悚片",
+          "驚悚小說"
+        ]
+      ],
+      "analysis": "此字由動詞 thrill 加上表示事物的名詞後綴 -er 構成，原意指「使人感到刺激的事物」，在現代英語中專指帶有強烈懸疑與緊張感的文學或影視作品。",
+      "definition": "1. a book, play, or film that has an exciting story, often about crime or espionage.",
+      "example": [
+        {
+          "eng": "He loves reading psychological thrillers before going to bed.",
+          "ch": "他喜歡在睡前閱讀心理驚悚小說。"
+        }
+      ]
+    },
+    {
+      "eng": "thrive",
+      "kk": "/θraɪv/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "繁榮",
+          "興旺",
+          "茁壯成長"
+        ]
+      ],
+      "analysis": "此字借自古諾斯語 þrífask（意為抓取、繁榮），在中古英語時期進入英語。作為不及物動詞，用以描述生物生長茂盛或企業、組織、個人蓬勃發展。",
+      "definition": "1. (of a child, animal, or plant) grow or develop well or vigorously.",
+      "example": [
+        {
+          "eng": "These tropical plants thrive in warm and humid environments.",
+          "ch": "這些熱帶植物在溫暖潮濕的環境中蓬勃生長。"
+        }
+      ]
+    },
+    {
+      "eng": "throne",
+      "kk": "/θroʊn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "寶座",
+          "王位"
+        ]
+      ],
+      "analysis": "此字經由古法語 trone 借自拉丁語 thronus，源自古希臘語 thronos（高腳椅、座位）。專指君王登基時坐的寶座，並常引申借代為「王位」或統治權力。",
+      "definition": "1. a ceremonial chair for a sovereign, bishop, or other high figure; 2. the office or power of a sovereign.",
+      "example": [
+        {
+          "eng": "The king sat on his golden throne to address the court.",
+          "ch": "國王坐在他的金色寶座上向朝廷發言。"
+        },
+        {
+          "eng": "The young prince ascended to the throne after his father's death.",
+          "ch": "年輕的王子在父親逝世後登基繼承王位。"
+        }
+      ]
+    },
+    {
+      "eng": "thrust",
+      "kk": "/θrʌst/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "猛推",
+          "刺",
+          "插"
+        ]
+      ],
+      "analysis": "此字源自古諾斯語 þrýsta（壓迫、推擠），在中古英語時期取代了部分古英語同義詞。作為及物動詞，指用力、迅速地向前推、刺或塞入某處。",
+      "definition": "1. push (someone or something) suddenly or violently in a specified direction.",
+      "example": [
+        {
+          "eng": "He thrust his hands into his pockets to keep warm.",
+          "ch": "他把雙手猛塞進口袋裡以保持溫暖。"
+        }
+      ]
+    },
+    {
+      "eng": "tick",
+      "kk": "/tɪk/",
+      "tense": "n.",
+      "ch": [
+        [
+          "滴答聲"
+        ],
+        [
+          "勾號",
+          "打勾記號"
+        ],
+        [
+          "壁蝨",
+          "蜱"
+        ]
+      ],
+      "analysis": "此字為多源同形詞：聲音義為擬聲詞（模仿時鐘的滴答聲）；勾號義可能源自動詞 tick 的速記記號；昆蟲義則源自日耳曼語支的古英語 ticia（蜱）。三個義項在現代英語中各自獨立為常見名詞。",
+      "definition": "1. a short, regular clicking sound, such as that made by a clock; 2. a mark (✓) used to indicate that something is correct or has been checked; 3. a small blood-sucking arachnid that bites animals and humans.",
+      "example": [
+        {
+          "eng": "I could hear the steady tick of the grandfather clock.",
+          "ch": "我聽得見落地鐘穩定規律的滴答聲。"
+        },
+        {
+          "eng": "Put a tick in the box next to your preferred option.",
+          "ch": "在你偏好的選項旁邊的方框裡打勾。"
+        },
+        {
+          "eng": "The dog picked up a tick while walking through the tall grass.",
+          "ch": "這隻狗在穿過高草叢時沾上了一隻壁蝨。"
+        }
+      ]
+    },
+    {
+      "eng": "tick",
+      "kk": "/tɪk/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "發出滴答聲"
+        ],
+        [
+          "運轉",
+          "運作"
+        ]
+      ],
+      "analysis": "此字源自擬聲詞，指時鐘等計時器發出規律的滴答聲，並引申出比喻用法指機械或系統持續運轉。",
+      "definition": "1. (of a clock or other mechanical device) make a regular clicking sound; 2. function or operate in a specified way.",
+      "example": [
+        {
+          "eng": "The clock on the wall continued to tick in the silent room.",
+          "ch": "牆上的時鐘在寂靜的房間裡繼續發出滴答聲。"
+        },
+        {
+          "eng": "Psychologists study how the human mind ticks.",
+          "ch": "心理學家研究人類的心智是如何運作的。"
+        }
+      ]
+    },
+    {
+      "eng": "tile",
+      "kk": "/taɪl/",
+      "tense": "n.",
+      "ch": [
+        [
+          "磁磚",
+          "瓦片"
+        ]
+      ],
+      "analysis": "此字經由古英語 tigele 借自拉丁語 tegula（屋瓦），源自動詞 tegere（覆蓋）。歷史上指燒製的屋頂瓦片，現代則擴大指各種鋪在牆面、地面或屋頂的磁磚與片狀建材。",
+      "definition": "1. a thin slab of baked clay, concrete, or other material used for covering roofs, floors, or walls.",
+      "example": [
+        {
+          "eng": "The kitchen floor is covered with white ceramic tiles.",
+          "ch": "廚房的地板鋪滿了白色的磁磚。"
+        }
+      ]
+    },
+    {
+      "eng": "tin",
+      "kk": "/tɪn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "錫"
+        ],
+        [
+          "罐頭",
+          "馬口鐵罐"
+        ]
+      ],
+      "analysis": "此字為日耳曼語族的古英語繼承詞（源自日耳曼語 *tinam）。原指金屬元素「錫」，後因馬口鐵鍍錫技術的普及，引申指用馬口鐵製成的「罐頭」或容器。",
+      "definition": "1. a chemical element with the atomic number 50, a silvery-white metal; 2. a sealed airtight container made of tinplate or aluminum for preserving food.",
+      "example": [
+        {
+          "eng": "Tin is often used as a coating to prevent corrosion in other metals.",
+          "ch": "錫常被用作塗層來防止其他金屬腐蝕。"
+        },
+        {
+          "eng": "She opened a tin of tuna to make a quick sandwich.",
+          "ch": "她打開了一罐鮪魚來做個快速的三明治。"
+        }
+      ]
+    },
+    {
+      "eng": "toll",
+      "kk": "/toʊl/",
+      "tense": "n.",
+      "ch": [
+        [
+          "通行費",
+          "路費"
+        ],
+        [
+          "傷亡人數",
+          "死傷代價"
+        ]
+      ],
+      "analysis": "此字經由古英語 toll 借自晚期拉丁語 toloneum / teloneum（關稅、稅收），源自古希臘語 telonion。原指通過關卡或橋樑時徵收的「通行稅」，後引申為災難、衝突或疾病所造成的「慘重代價或死傷人數」。",
+      "definition": "1. a charge payable for the use of a bridge or road; 2. the number of deaths, injuries, or casualties caused by an accident, disaster, or war.",
+      "example": [
+        {
+          "eng": "Drivers must pay a toll to cross the suspension bridge.",
+          "ch": "駕駛人通過這座懸索橋必須支付通行費。"
+        },
+        {
+          "eng": "The earthquake's death toll continues to rise as rescuers search.",
+          "ch": "隨著搜救人員的搜索，地震的死亡人數持續上升。"
+        }
+      ]
+    },
+    {
+      "eng": "torch",
+      "kk": "/tɔrtʃ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "火把"
+        ],
+        [
+          "手電筒"
+        ]
+      ],
+      "analysis": "此字經由古法語 torche 借自俗拉丁語 *torpicula（捲曲之物），源自拉丁語 torquere（扭轉、旋轉），原指浸透樹脂且扭轉的麻布火把。現代英國英語中也常借指手電筒。",
+      "definition": "1. a burning stick of wood held in the hand, used as a source of light; 2. a portable battery-powered electric lamp (chiefly British).",
+      "example": [
+        {
+          "eng": "The villagers carried torches to light their way through the dark forest.",
+          "ch": "村民們手持火把照亮穿過黑暗森林的路。"
+        },
+        {
+          "eng": "He used a torch to look for his keys under the dark car.",
+          "ch": "他用手電筒在黑漆漆的車子底下找鑰匙。"
+        }
+      ]
+    },
+    {
+      "eng": "torment",
+      "kk": "/ˈtɔrmɛnt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "折磨",
+          "痛苦",
+          "苦惱"
+        ]
+      ],
+      "analysis": "此字經由古法語 torment 借自拉丁語 tormentum（絞刑架、劇烈痛苦），源自動詞 torquere（扭轉）。作為名詞，指精神或肉體上極大的痛苦與折磨。",
+      "definition": "1. severe physical or mental suffering.",
+      "example": [
+        {
+          "eng": "Waiting for the test results was a period of absolute torment.",
+          "ch": "等待考試結果的過程是一段絕對折磨的時期。"
+        }
+      ]
+    },
+    {
+      "eng": "torment",
+      "kk": "/tɔrˈmɛnt/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "折磨",
+          "使痛苦"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 tormentum 的動詞形式 tormentare，經由古法語進入英語。作為及物動詞，指施予肉體或精神上的劇烈痛苦。",
+      "definition": "1. cause severe physical or mental suffering to.",
+      "example": [
+        {
+          "eng": "He was tormented by guilt after making the critical mistake.",
+          "ch": "犯下關鍵錯誤後，他一直受著內疚的折磨。"
+        }
+      ]
+    },
+    {
+      "eng": "tournament",
+      "kk": "/ˈtʊrnəmənt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "錦標賽",
+          "聯賽"
+        ]
+      ],
+      "analysis": "此字經由古法語 tournoiement（旋轉、比武）進入英語，源自動詞 tourner（旋轉）。中世紀原指騎士騎馬進行的馬術競技比武大會，現代引申為各類體育或棋藝的「錦標賽」。",
+      "definition": "1. a sporting competition in which many competitors play against each other in a series of games to decide the champion.",
+      "example": [
+        {
+          "eng": "She is training hard to prepare for the national tennis tournament.",
+          "ch": "她正努力訓練，為全國網球錦標賽做準備。"
+        }
+      ]
+    },
+    {
+      "eng": "toxic",
+      "kk": "/ˈtɑksɪk/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "有毒的",
+          "劇毒的"
+        ],
+        [
+          "有害的",
+          "毒性的"
+        ]
+      ],
+      "analysis": "此字經由中世紀拉丁語 toxicus（帶有毒素的）借自古希臘語 toxikon（弓箭用的毒藥），源自 toxon（弓）。現代除指實質化學毒物外，也廣泛用於形容對人際關係或工作環境有害的「有毒」狀態。",
+      "definition": "1. poisonous; relating to or caused by poison; 2. very harmful or unpleasant in a pervasive or insidious way.",
+      "example": [
+        {
+          "eng": "Some wild mushrooms contain toxic chemicals that can be fatal.",
+          "ch": "有些野生蘑菇含有致命的有毒化學物質。"
+        },
+        {
+          "eng": "She decided to leave the toxic work environment for her own well-being.",
+          "ch": "為了自身的健康，她決定離開這個有毒的工作環境。"
+        }
+      ]
+    },
+    {
+      "eng": "trait",
+      "kk": "/treɪt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "特徵",
+          "特性",
+          "特質"
+        ]
+      ],
+      "analysis": "此字借自法語 trait（線條、特點），源自拉丁語 tractus（拉、繪製），源自動詞 trahere。在法語中演變出「面部輪廓或人格特點」的意義，進入英語後專指個人的性格特質或遺傳特徵。",
+      "definition": "1. a distinguishing quality or characteristic, typically one belonging to a person.",
+      "example": [
+        {
+          "eng": "Patience is a key leadership trait in managing a large team.",
+          "ch": "耐心是管理大型團隊的一項關鍵領導特質。"
+        }
+      ]
+    },
+    {
+      "eng": "traitor",
+      "kk": "/ˈtreɪtɚ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "叛徒",
+          "賣國賊",
+          "背叛者"
+        ]
+      ],
+      "analysis": "此字經由古法語 traitour 借自拉丁語 traditor（背叛者、交付者），源自動詞 tradere（交出、背叛，由 trans- 加 dare 組成）。歷史上指背叛國家、組織或信任的人。",
+      "definition": "1. a person who betrays a friend, country, or principle.",
+      "example": [
+        {
+          "eng": "He was branded as a traitor for leaking classified state documents.",
+          "ch": "他因洩露國家機密文件而被打上叛徒的烙印。"
+        }
+      ]
+    },
+    {
+      "eng": "transaction",
+      "kk": "/trænˈzækʃən/",
+      "tense": "n.",
+      "ch": [
+        [
+          "交易",
+          "業務"
+        ]
+      ],
+      "analysis": "此字由拉丁語 transactio（完成、協議），源自動詞 transigere（穿過、辦妥，由 trans- 加 agere 組成）加上名詞後綴 -tion 構成。指商業上的買賣交易或日常事務的處理過程。",
+      "definition": "1. an instance of buying or selling something; a business deal.",
+      "example": [
+        {
+          "eng": "All online banking transactions are encrypted for security.",
+          "ch": "所有網路銀行交易都經過加密以確保安全。"
+        }
+      ]
+    },
+    {
+      "eng": "transformation",
+      "kk": "/ˌtrænsfɚˈmeɪʃən/",
+      "tense": "n.",
+      "ch": [
+        [
+          "轉變",
+          "變革",
+          "改造"
+        ]
+      ],
+      "analysis": "此字由動詞 transform 加上名詞後綴 -ion 構成，其拉丁語源頭為 transformatio（由 trans- 跨越、formare 成形組合而成）。指外表、性質、結構或形態上徹底的轉變與改造。",
+      "definition": "1. a thorough or dramatic change in form or appearance.",
+      "example": [
+        {
+          "eng": "The city underwent a massive economic transformation over the decade.",
+          "ch": "該城市在這十年內經歷了巨大的經濟轉型。"
+        }
+      ]
+    },
+    {
+      "eng": "transit",
+      "kk": "/ˈtrænsɪt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "運輸",
+          "載運"
+        ],
+        [
+          "過境",
+          "公共運輸"
+        ]
+      ],
+      "analysis": "此字借自拉丁語 transitus（橫越、通過），源自動詞 transire（由 trans- 穿過 + ire 行走）。指人或貨物從一個地方運送到另一個地方的過程或公共運輸系統。",
+      "definition": "1. the carrying of people or things from one place to another; 2. the system of public transport.",
+      "example": [
+        {
+          "eng": "The fragile goods were damaged in transit.",
+          "ch": "易碎貨物在運輸過程中受損了。"
+        },
+        {
+          "eng": "Urban areas rely heavily on efficient mass transit systems.",
+          "ch": "都市地區極度依賴高效的大眾運輸系統。"
+        }
+      ]
+    },
+    {
+      "eng": "transition",
+      "kk": "/trænˈzɪʃən/",
+      "tense": "n.",
+      "ch": [
+        [
+          "轉變",
+          "過渡期",
+          "變遷"
+        ]
+      ],
+      "analysis": "此字由拉丁語 transitio（過渡、越過），源自動詞 transire 加上名詞後綴 -tion 構成。指從一種狀態、階段或風格平穩或動盪地轉變為另一種狀態的過程。",
+      "definition": "1. the process or a period of changing from one state or condition to another.",
+      "example": [
+        {
+          "eng": "The transition from high school to university can be challenging.",
+          "ch": "從高中到大學的過渡期可能會充滿挑戰。"
+        }
+      ]
+    },
+    {
+      "eng": "transmission",
+      "kk": "/trænzˈmɪʃən/",
+      "tense": "n.",
+      "ch": [
+        [
+          "傳播",
+          "傳送",
+          "發射"
+        ],
+        [
+          "變速箱",
+          "傳動系統"
+        ]
+      ],
+      "analysis": "此字由拉丁語 transmissio（傳送、傳遞），源自動詞 transmittere（由 trans- 跨越 + mittere 送出）加上名詞後綴構成。語義從訊號或疾病的「傳播、發射」延伸出機械工程中的汽車「變速箱」。",
+      "definition": "1. the action or process of transmitting something or the state of being transmitted; 2. the mechanism that transmits power from an engine to the wheels in a motor vehicle.",
+      "example": [
+        {
+          "eng": "Good ventilation helps prevent the airborne transmission of the virus.",
+          "ch": "良好的通風有助於防止病毒的空氣傳播。"
+        },
+        {
+          "eng": "The car has a manual transmission with six forward gears.",
+          "ch": "這輛車配備有六個前進檔的手排變速箱。"
+        }
+      ]
+    },
+    {
+      "eng": "transparent",
+      "kk": "/trænsˈpɛrənt/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "透明的",
+          "清澈的"
+        ],
+        [
+          "公開透明的",
+          "易懂的"
+        ]
+      ],
+      "analysis": "此字由中世紀拉丁語 transparentem（由 trans- 透過 + parere 出現、看見組合而成）演變而來。物理上指光線能完全穿透的「透明」，引申指運作公開、不隱瞞的「透明化」。",
+      "definition": "1. (of a material or article) allowing light to pass through so that objects behind can be distinctly seen; 2. (of a process or organization) open to public scrutiny; clear and easy to understand.",
+      "example": [
+        {
+          "eng": "Glass is a transparent material commonly used for windows.",
+          "ch": "玻璃是用於窗戶的常見透明材料。"
+        },
+        {
+          "eng": "The government promised to make the decision-making process more transparent.",
+          "ch": "政府承諾讓決策過程更加公開透明。"
+        }
+      ]
+    },
+    {
+      "eng": "trauma",
+      "kk": "/ˈtrɑmə/",
+      "tense": "n.",
+      "ch": [
+        [
+          "創傷",
+          "精神創傷"
+        ],
+        [
+          "外傷",
+          "嚴重損傷"
+        ]
+      ],
+      "analysis": "此字直接借自古希臘語 trauma（傷口、損傷）。醫學上原指身體受到的「嚴重外傷」，在心理學發展後，廣泛用來指經歷重大打擊後造成的「心理創傷」。",
+      "definition": "1. a deeply distressing or disturbing experience that causes psychological damage; 2. a physical injury or wound caused by an external force.",
+      "example": [
+        {
+          "eng": "She is undergoing therapy to heal from childhood trauma.",
+          "ch": "她正在接受治療以撫平童年創傷。"
+        },
+        {
+          "eng": "The accident victim was rushed to the emergency room with severe head trauma.",
+          "ch": "這名車禍受害者因頭部嚴重創傷被緊急送往急診室。"
+        }
+      ]
+    },
+    {
+      "eng": "treaty",
+      "kk": "/ˈtriti/",
+      "tense": "n.",
+      "ch": [
+        [
+          "條約",
+          "協定",
+          "國際公約"
+        ]
+      ],
+      "analysis": "此字經由古法語 treite 借自中世紀拉丁語 tractatus（協議、論文），源自動詞 tractare（處理、商議）。專指國家之間經過正式談判後簽署具法律約束力的「國際條約」。",
+      "definition": "1. a formally concluded and ratified agreement between countries.",
+      "example": [
+        {
+          "eng": "The two neighboring countries signed a peace treaty to end the war.",
+          "ch": "兩個鄰國簽署了一項和平條約以結束戰爭。"
+        }
+      ]
+    },
+    {
+      "eng": "tribute",
+      "kk": "/ˈtrɪbjut/",
+      "tense": "n.",
+      "ch": [
+        [
+          "致敬",
+          "頌詞",
+          "悼詞"
+        ],
+        [
+          "貢品",
+          "進貢"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 tributum（賦稅、貢品），源自動詞 tribuere（給予、分配，源自 tribus 部落）。歷史上指戰敗國向宗主國繳納的「貢品」，現代引申為對某人傑出成就表達「致敬或讚頌」的行動。",
+      "definition": "1. an act, statement, or gift that is intended to show gratitude, respect, or admiration; 2. a payment made by one state or ruler to another, especially as a sign of dependence.",
+      "example": [
+        {
+          "eng": "Friends and family gathered to pay tribute to the late artist.",
+          "ch": "親朋好友齊聚一堂，向已故的藝術家致敬。"
+        },
+        {
+          "eng": "Ancient kingdoms were forced to pay heavy annual tributes to the empire.",
+          "ch": "古代王國被迫向帝國支付沉重的年度貢品。"
+        }
+      ]
+    },
+    {
+      "eng": "trigger",
+      "kk": "/ˈtrɪɡɚ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "扳機"
+        ],
+        [
+          "引爆點",
+          "觸發器",
+          "誘因"
+        ]
+      ],
+      "analysis": "此字源自荷蘭語 trekker（拉動物件的槓桿），透過早期火器技術傳入英語。原指槍械上扣動擊發的「扳機」，現代廣泛引申為觸發某種強烈情緒、事件或反應的「誘因」。",
+      "definition": "1. a small device that is released to fire a gun; 2. an event or circumstance that causes a particular action, process, or situation to happen.",
+      "example": [
+        {
+          "eng": "He pulled the trigger of the rifle during the shooting practice.",
+          "ch": "他在射擊練習中扣動了步槍的扳機。"
+        },
+        {
+          "eng": "Stress can be a major trigger for migraines.",
+          "ch": "壓力可能是引發偏頭痛的主要誘因。"
+        }
+      ]
+    },
+    {
+      "eng": "trim",
+      "kk": "/trɪm/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "修剪",
+          "修整"
+        ],
+        [
+          "削減",
+          "修飾"
+        ]
+      ],
+      "analysis": "此字源自古英語 trymian（使穩固、準備好），經歷中英語義演變，從「整頓、排列」轉為「整理、修剪（頭髮或植物）」及「削減（預算等）」。此處為及物動詞用法。",
+      "definition": "1. make (something) neat or of the required size by cutting away irregular or unwanted parts; 2. reduce the size, amount, or number of (something), typically sharply.",
+      "example": [
+        {
+          "eng": "The gardener used shears to trim the hedges neatly.",
+          "ch": "園丁用大剪刀把樹籬修剪得很整齊。"
+        },
+        {
+          "eng": "The company needs to trim its budget to stay profitable.",
+          "ch": "公司需要削減預算以保持盈利。"
+        }
+      ]
+    },
+    {
+      "eng": "triple",
+      "kk": "/ˈtrɪpəl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "三倍的",
+          "三重的"
+        ]
+      ],
+      "analysis": "此字經由古法語 triple 借自拉丁語 triplus（由 tri- 三 + plus 倍數字尾組成）。用以形容數量、規模或部分為三倍的。此處為形容詞用法。",
+      "definition": "1. consisting of three parts, elements, or generations; three times as much or as many.",
+      "example": [
+        {
+          "eng": "The factory achieved triple production capacity after the upgrade.",
+          "ch": "工廠升級後實現了三倍的產能。"
+        }
+      ]
+    },
+    {
+      "eng": "trivial",
+      "kk": "/ˈtrɪviəl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "瑣碎的",
+          "微不足道的",
+          "不重要的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 trivialis（十字路口匯聚之處的、平庸的、大眾化的），源自 trivium（三叉路口，由 tres 三 + via 道路組成）。中世紀學術中指初級的「三藝」（文法、修辭、邏輯），後引申演變為「微不足道、瑣碎的」。",
+      "definition": "1. of little value or importance.",
+      "example": [
+        {
+          "eng": "Don't waste your time arguing over such trivial matters.",
+          "ch": "不要浪費時間爭論這種微不足道的小事。"
+        }
+      ]
+    },
+    {
+      "eng": "trophy",
+      "kk": "/ˈtroʊfi/",
+      "tense": "n.",
+      "ch": [
+        [
+          "獎盃",
+          "戰利品"
+        ]
+      ],
+      "analysis": "此字經由法語 trophée 借自拉丁語 tropaeum，源自古希臘語 tropaion（敵軍潰敗逃跑的紀念碑），源自 trepein（轉彎、擊潰）。歷史上指戰爭中獲取的敵方戰利品，現代專指體育或競賽中頒發的「獎盃」。",
+      "definition": "1. a cup or other decorative object awarded as a prize for a victory or success.",
+      "example": [
+        {
+          "eng": "The winning team proudly lifted the championship trophy.",
+          "ch": "獲勝的隊伍驕傲地舉起了冠軍獎盃。"
+        }
+      ]
+    },
+    {
+      "eng": "tuition",
+      "kk": "/tuˈɪʃən/",
+      "tense": "n.",
+      "ch": [
+        [
+          "學費"
+        ],
+        [
+          "講授",
+          "指導",
+          "教學"
+        ]
+      ],
+      "analysis": "此字經由中世紀拉丁語 tuitionem（保護、監護），源自動詞 tueri（看守、保護）。在中英語中原指「監護與指導」，近代演變出「學費」以及個別或小班的「學業指導、授課」等義項。",
+      "definition": "1. a sum of money charged for teaching or instruction by a school, college, or university; 2. teaching or instruction, especially of individual pupils or small groups.",
+      "example": [
+        {
+          "eng": "Many students struggle to pay rising college tuition fees.",
+          "ch": "許多學生難以支付不斷上漲的大學學費。"
+        },
+        {
+          "eng": "She received extra tuition in mathematics to improve her grades.",
+          "ch": "她接受了額外的數學指導以提高成績。"
+        }
+      ]
+    },
+    {
+      "eng": "tumor",
+      "kk": "/ˈtumɚ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "腫瘤"
+        ]
+      ],
+      "analysis": "此字直接借自拉丁語 tumor（腫脹、腫塊），源自動詞 tumere（腫脹）。在醫學上專指身體組織異常增生形成的「腫瘤」（可分為良性或惡性）。",
+      "definition": "1. a swelling of a part of the body, generally without inflammation, caused by an abnormal growth of tissue.",
+      "example": [
+        {
+          "eng": "The doctors successfully removed the benign tumor from her brain.",
+          "ch": "醫生成功地從她腦部切除了良性腫瘤。"
+        }
+      ]
+    },
+    {
+      "eng": "tuna",
+      "kk": "/ˈtunə/",
+      "tense": "n.",
+      "ch": [
+        [
+          "鮪魚",
+          "金槍魚"
+        ]
+      ],
+      "analysis": "此字經由西班牙語 atún 或美洲西班牙語借自阿拉伯語 al-thun（源自古希臘語 thynnos）。指廣泛分佈於溫帶和熱帶海洋的大型食用魚類鮪魚。",
+      "definition": "1. a large and active predatory sea fish of the mackerel family, widely fished for food.",
+      "example": [
+        {
+          "eng": "Tuna is a popular ingredient in sushi and salads.",
+          "ch": "鮪魚是壽司和沙拉中常見的熱門食材。"
+        }
+      ]
+    },
+    {
+      "eng": "ultimate",
+      "kk": "/ˈʌltəmɪt/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "最終的",
+          "根本的"
+        ],
+        [
+          "極致的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 ultimus（最後的、最遠的，為 superl. 形容詞）。在現代英語中，指發展到極限的「最終、極致」或事物最根本的本質。",
+      "definition": "1. being or happening at the end of a process; final; 2. being the best or most extreme example of its kind.",
+      "example": [
+        {
+          "eng": "The ultimate decision rests with the board of directors.",
+          "ch": "最終決定權在董事會手中。"
+        },
+        {
+          "eng": "This sports car offers the ultimate driving experience.",
+          "ch": "這輛跑車提供了極致的駕駛體驗。"
+        }
+      ]
+    },
+    {
+      "eng": "uncover",
+      "kk": "/ʌnˈkʌvɚ/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "揭開",
+          "發現",
+          "揭露"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由否定字首 un-（解除、相反）與動詞 cover（覆蓋）複合而成。字面義為「去覆蓋」，引申指揭開遮蓋物或透過調查「發現、揭露」真相。",
+      "definition": "1. discover (something hidden or secret).",
+      "example": [
+        {
+          "eng": "Journalists managed to uncover a major financial scandal.",
+          "ch": "記者們設法揭發了一樁重大的金融醜聞。"
+        }
+      ]
+    },
+    {
+      "eng": "undergo",
+      "kk": "/ˌʌndɚˈɡoʊ/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "經歷",
+          "遭受",
+          "接受"
+        ]
+      ],
+      "analysis": "此字為日耳曼語族的古英語繼承詞 undergān（在……之下行走、承擔），由 under（在下方）與 go（走、經受）複合而成。在現代英語中用作及物動詞，指經歷某種過程、變化或試煉。",
+      "definition": "1. experience or be subjected to (a process, change, or treatment).",
+      "example": [
+        {
+          "eng": "Patients must undergo a series of medical tests before surgery.",
+          "ch": "病人在手術前必須接受一系列的醫學檢查。"
+        }
+      ]
+    },
+    {
+      "eng": "undergraduate",
+      "kk": "/ˌʌndɚˈɡrædʒuət/",
+      "tense": "n.",
+      "ch": [
+        [
+          "大學部學生",
+          "大學生"
+        ]
+      ],
+      "analysis": "此字由字首 under-（在……之下）與 graduate（畢業生、學士）組合而成。歷史上指尚未獲得學士學位、仍在大學部就讀的學生。",
+      "definition": "1. a university or college student who has not yet received a first degree.",
+      "example": [
+        {
+          "eng": "The library offers special study spaces for undergraduates.",
+          "ch": "圖書館為大學部學生提供專門的學習空間。"
+        }
+      ]
+    },
+    {
+      "eng": "underline",
+      "kk": "/ˌʌndɚˈlaɪn/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "在……下面畫線"
+        ],
+        [
+          "強調",
+          "凸顯"
+        ]
+      ],
+      "analysis": "此字由字首 under-（在下方）與動詞 line（畫線）複合而成。字面義為在文字下方畫線，引申在言論或行動中「強調、凸顯」某事的重要性。",
+      "definition": "1. draw a line under (a word or phrase); 2. emphasize or stress (something).",
+      "example": [
+        {
+          "eng": "Please underline the key terms in the textbook passage.",
+          "ch": "請把課本段落中的關鍵術語畫線標出。"
+        },
+        {
+          "eng": "Recent events underline the urgent need for better security measures.",
+          "ch": "最近發生的事件凸顯了加強安全措施的迫切需求。"
+        }
+      ]
+    },
+    {
+      "eng": "undermine",
+      "kk": "/ˌʌndɚˈmaɪn/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "暗中破壞",
+          "逐漸削弱"
+        ]
+      ],
+      "analysis": "此字由字首 under-（在下方）與動詞 mine（挖礦、挖地道）複合而成。中世紀原指在城牆或建築物下方挖地道以使之倒塌，後廣泛引申為暗中「破壞或逐漸削弱」某人的權威、信心或計劃。",
+      "definition": "1. erode the base or foundation of (a property or structure); 2. lessen the effectiveness, power, or ability of, especially gradually or insidiously.",
+      "example": [
+        {
+          "eng": "Continuous criticism can seriously undermine a child's confidence.",
+          "ch": "持續的批評會嚴重削弱孩子的自信心。"
+        }
+      ]
+    },
+    {
+      "eng": "undertake",
+      "kk": "/ˌʌndɚˈteɪk/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "承擔",
+          "著手做",
+          "進行"
+        ]
+      ],
+      "analysis": "此字由古英語 under-（在下方/承接）與 take（拿取、承擔）複合而成。作為及物動詞，指承接任務、著手進行一項工作或研究計畫。",
+      "definition": "1. commit oneself to and begin (an enterprise or responsibility); take on.",
+      "example": [
+        {
+          "eng": "The research team will undertake a comprehensive study on climate change.",
+          "ch": "研究團隊將著手進行一項關於氣候變遷的全面研究。"
+        }
+      ]
+    },
+    {
+      "eng": "undo",
+      "kk": "/ʌnˈdu/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "解開",
+          "鬆開"
+        ],
+        [
+          "撤銷",
+          "消除"
+        ]
+      ],
+      "analysis": "此字由否定與反轉字首 un- 與動詞 do（做）複合而成。字面義為「取消所做之事」或「將結、扣解開」，在電腦軟體與日常語境中常用於指「撤銷」上一步動作。",
+      "definition": "1. unfasten, untie, or loosen (something); 2. cancel or reverse the effects of (an action).",
+      "example": [
+        {
+          "eng": "He stopped to undo his shoelaces before entering the house.",
+          "ch": "他在進屋前停下來解開鞋帶。"
+        },
+        {
+          "eng": "I wish I could undo the mistake I made yesterday.",
+          "ch": "我真希望能夠撤銷昨天犯下的錯誤。"
+        }
+      ]
+    },
+    {
+      "eng": "undoubtedly",
+      "kk": "/ʌnˈdaʊtɪdli/",
+      "tense": "adv.",
+      "ch": [
+        [
+          "無疑地",
+          "必定",
+          "確鑿地"
+        ]
+      ],
+      "analysis": "此字由動詞 doubt 轉成的形容詞 doubtful/doubted，加上否定字首 un- 與副詞字尾 -edly 複合而成。指毫無疑問、確信不疑的狀態。",
+      "definition": "1. without a doubt; certainly.",
+      "example": [
+        {
+          "eng": "This discovery is undoubtedly one of the most important scientific breakthroughs of the decade.",
+          "ch": "這一發現無疑是這十年中最重要的科學突破之一。"
+        }
+      ]
+    }
+  ]
+}

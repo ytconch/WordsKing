@@ -1,0 +1,1306 @@
+{
+  "level": 3,
+  "chunkIndex": 8,
+  "inputs": [
+    "freeze",
+    "freezer",
+    "frequent",
+    "fright",
+    "frighten",
+    "fuel",
+    "fund",
+    "fur",
+    "gallon",
+    "gamble",
+    "gang",
+    "gap",
+    "garage",
+    "gasoline",
+    "gas",
+    "geography",
+    "gesture",
+    "glance",
+    "global",
+    "glory",
+    "glow",
+    "golf",
+    "gossip",
+    "governor",
+    "grab",
+    "graduate",
+    "grasp",
+    "grasshopper",
+    "grassy",
+    "greedy",
+    "greenhouse",
+    "grin",
+    "grocery",
+    "guidance",
+    "gum",
+    "hairdresser",
+    "hallway",
+    "hammer",
+    "handful",
+    "handkerchief",
+    "handy",
+    "hanger",
+    "harbor",
+    "harm",
+    "harmful",
+    "harvest",
+    "hasty",
+    "hatch",
+    "hateful",
+    "hay"
+  ],
+  "rows": [
+    {
+      "eng": "freeze",
+      "kk": "friz",
+      "tense": "n.",
+      "ch": [
+        [
+          "冰凍期",
+          "嚴寒"
+        ],
+        [
+          "凍結",
+          "限制令"
+        ]
+      ],
+      "analysis": "此字為由動詞 freeze 轉品而來的可數與不可數名詞。保留了動詞的核心概念，在現代英語中主要用來指氣溫降至冰點以下的嚴寒天氣或波段，亦可用於引申指價格、工資或招聘等的官方凍結或限制措施。",
+      "definition": "1. a period of very cold weather when temperatures drop below freezing; 2. an official restriction or control that stops prices, wages, or activities from increasing.",
+      "example": [
+        {
+          "eng": "The late spring freeze damaged many local orchards.",
+          "ch": "晚春的冰凍期損害了許多當地果園。"
+        },
+        {
+          "eng": "The company announced a hiring freeze for the rest of the year.",
+          "ch": "公司宣布在今年剩餘時間內實施招聘凍結。"
+        }
+      ]
+    },
+    {
+      "eng": "freeze",
+      "kk": "friz",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使結冰",
+          "冷凍"
+        ],
+        [
+          "使凍結",
+          "使寒冷"
+        ],
+        [
+          "凍結",
+          "固定"
+        ]
+      ],
+      "analysis": "此字源自日耳曼語族的強變化動詞，對應古英語 frēosan（意為結冰、凍結）。現代作及物動詞時，主要用於表示將液體冷凍、使人 or 物因寒冷而凍僵，以及將價格、資產或計費等制度予以凍結或固定。其過去式為 froze，過去分詞為 frozen。",
+      "definition": "1. to turn into ice or cause a liquid to become solid through cooling; 2. to make someone feel very cold or suffer from extreme cold; 3. to fix or hold prices, wages, or assets at a specific level and prevent them from changing.",
+      "example": [
+        {
+          "eng": "You can freeze fresh berries to preserve them for the winter.",
+          "ch": "你可以冷凍新鮮莓果以便在冬天保存。"
+        },
+        {
+          "eng": "The sudden drop in temperature will freeze the crops tonight.",
+          "ch": "氣溫驟降將會在今晚凍傷農作物。"
+        },
+        {
+          "eng": "The government decided to freeze the prices of essential goods.",
+          "ch": "政府決定凍結基本物資的價格。"
+        }
+      ]
+    },
+    {
+      "eng": "freeze",
+      "kk": "friz",
+      "tense": "vi.",
+      "ch": [
+        [
+          "結冰",
+          "凍結"
+        ],
+        [
+          "凍僵",
+          "感到極冷"
+        ],
+        [
+          "停住",
+          "呆住"
+        ]
+      ],
+      "analysis": "此字為源自日耳曼語族的強變化動詞 freeze 的不及物用法，對應古英語 frēosan。作不及物動詞時，指氣溫降至冰點以下使水結冰、人體因寒冷而感到極度冰冷，或因驚嚇、恐懼而突然停住不動。",
+      "definition": "1. to reach or be at a temperature below freezing point so that liquids turn to ice; 2. to become very cold or feel extremely chilled; 3. to stop moving suddenly, often because of fear or surprise.",
+      "example": [
+        {
+          "eng": "The lake will freeze over if this cold weather continues.",
+          "ch": "如果這種寒冷的天氣持續下去，湖水就會結冰。"
+        },
+        {
+          "eng": "We forgot our coats and began to freeze in the wind.",
+          "ch": "我們忘帶外套，在風中開始感到凍僵。"
+        },
+        {
+          "eng": "He told the children to freeze when they heard the noise.",
+          "ch": "他叫孩子們聽到聲音時要呆住別動。"
+        }
+      ]
+    },
+    {
+      "eng": "freezer",
+      "kk": "ˈfrizɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "冷凍庫",
+          "冰櫃"
+        ]
+      ],
+      "analysis": "此字由動詞 freeze 加上表示工具的名詞字尾 -er 構成，現代構詞透明。用來指專門用於冷凍食物的家電或設備。",
+      "definition": "1. a large piece of electrical equipment used for keeping food frozen for a long time.",
+      "example": [
+        {
+          "eng": "She stored the extra meat in the deep freezer.",
+          "ch": "她把多餘的肉存放在深層冷凍櫃裡。"
+        }
+      ]
+    },
+    {
+      "eng": "frequent",
+      "kk": "frɪˈkwɛnt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "常去",
+          "時常出入"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 frequentare（意為經常造訪、充滿），透過中古英語進入英語。作為及物動詞時，表示經常去某個特定場所或常出入某地。",
+      "definition": "1. to visit a particular place often or regularly.",
+      "example": [
+        {
+          "eng": "Local artists tend to frequent this cozy cafe.",
+          "ch": "當地藝術家往往經常光顧這家溫馨的咖啡館。"
+        }
+      ]
+    },
+    {
+      "eng": "frequent",
+      "kk": "ˈfrikwənt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "頻繁的",
+          "經常發生的"
+        ]
+      ],
+      "analysis": "此字透過中古英語借自拉丁語 frequens（意為擁擠的、密集的、經常發生的）。現代英語中作為形容詞，用來形容某事經常發生或反覆出現。",
+      "definition": "1. happening often or on a regular basis.",
+      "example": [
+        {
+          "eng": "Heavy rain is a frequent occurrence during this season.",
+          "ch": "這季節經常發生大雨。"
+        }
+      ]
+    },
+    {
+      "eng": "fright",
+      "kk": "fraɪt",
+      "tense": "n.",
+      "ch": [
+        [
+          "驚嚇",
+          "恐懼"
+        ]
+      ],
+      "analysis": "此字源自日耳曼語族，對應古英語 ġefryht，與 frighten 同源。現代英語中主要作名詞，指突然發生的強烈驚嚇、恐懼或受驚的狀態。",
+      "definition": "1. a sudden feeling of fear or shock.",
+      "example": [
+        {
+          "eng": "The loud noise gave the cat a terrible fright.",
+          "ch": "巨大的噪音把貓嚇了一大跳。"
+        }
+      ]
+    },
+    {
+      "eng": "frighten",
+      "kk": "ˈfraɪtən",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使驚嚇",
+          "嚇唬"
+        ]
+      ],
+      "analysis": "此字由名詞 fright 加上動詞化字尾 -en 構成，屬於現代及歷史上皆透明的構詞。作及物動詞時，意為使人或動物感到驚嚇、害怕或惶恐。",
+      "definition": "1. to make someone or something feel afraid or anxious.",
+      "example": [
+        {
+          "eng": "Thunder and lightning can frighten small children.",
+          "ch": "雷電會嚇壞小孩子。"
+        }
+      ]
+    },
+    {
+      "eng": "fuel",
+      "kk": "ˈfjuəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "燃料"
+        ]
+      ],
+      "analysis": "此字經由中古英語與古法語 fuile 借自中世紀拉丁語 focale（原義為薪柴、爐灶所用之物），源自拉丁語 focus（爐灶、火塘）。現代英語中作名詞，指燃燒以產生熱能或動力的物質，亦可引申比喻為提供動力或激發情緒的因素。",
+      "definition": "1. a substance such as coal, gas, or oil that is burned to produce heat or power.",
+      "example": [
+        {
+          "eng": "The rocket requires a massive amount of fuel to reach orbit.",
+          "ch": "這枚火箭需要大量的燃料才能進入軌道。"
+        }
+      ]
+    },
+    {
+      "eng": "fuel",
+      "kk": "ˈfjuəl",
+      "tense": "vt.",
+      "ch": [
+        [
+          "加燃料",
+          "供應燃料"
+        ],
+        [
+          "助長",
+          "加劇"
+        ]
+      ],
+      "analysis": "此字由名詞 fuel 轉品為動詞。作及物動詞時，除了實體上為引擎或爐火添加燃料外，也常引申用於抽象語境，指為某種情緒、爭論或行動提供發展的動能或火上加油。",
+      "definition": "1. to supply a vehicle, machine, or fire with material to burn for power or heat; 2. to increase or strengthen something such as feelings, anger, or a debate.",
+      "example": [
+        {
+          "eng": "We need to stop and fuel the car before continuing the trip.",
+          "ch": "我們得先停下來給車子加油，然後再繼續行程。"
+        },
+        {
+          "eng": "False rumors can fuel public panic during a crisis.",
+          "ch": "假謠言會在危機期間助長公眾的恐慌。"
+        }
+      ]
+    },
+    {
+      "eng": "fund",
+      "kk": "fʌnd",
+      "tense": "n.",
+      "ch": [
+        [
+          "資金",
+          "基金"
+        ],
+        [
+          "資金儲備",
+          "儲備"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 fundus（意為土地底層、地基、農場），透過法語演變，後在英語中發展出「累積的財產或儲備金」之義。現代英語中作名詞，主要指用於特定目的的資金、基金，或可動用的資金儲備。",
+      "definition": "1. a sum of money saved or made available for a particular purpose; 2. a large stock or supply of something.",
+      "example": [
+        {
+          "eng": "The school is raising a fund to build a new library.",
+          "ch": "學校正在籌集資金來建造一座新圖書館。"
+        },
+        {
+          "eng": "She has a vast fund of knowledge about ancient history.",
+          "ch": "她擁有豐富的古代歷史知識儲備。"
+        }
+      ]
+    },
+    {
+      "eng": "fund",
+      "kk": "fʌnd",
+      "tense": "vt.",
+      "ch": [
+        [
+          "資助",
+          "為……提供資金"
+        ]
+      ],
+      "analysis": "此字由名詞 fund 轉品為及物動詞。用來表示提供金錢以支援某個專案、研究、機構或活動的營運與發展。",
+      "definition": "1. to provide the money needed for an event, project, or organization.",
+      "example": [
+        {
+          "eng": "The government agreed to fund the scientific research project.",
+          "ch": "政府同意資助這項科學研究計畫。"
+        }
+      ]
+    },
+    {
+      "eng": "fur",
+      "kk": "fɝ",
+      "tense": "n.",
+      "ch": [
+        [
+          "毛皮",
+          "軟毛"
+        ]
+      ],
+      "analysis": "此字源自日耳曼語族，透過古法語 forre、fuerre（鞘、覆蓋物）進入中古英語。現代英語中作名詞，指哺乳動物身上柔軟、濃密的毛髮，或指加工製成的獸皮衣物。",
+      "definition": "1. the thick, soft hair that covers the bodies of some animals, or the processed skin of such animals used for clothing.",
+      "example": [
+        {
+          "eng": "The cat's fur was soft and glossy in the sunlight.",
+          "ch": "貓的毛皮在陽光下柔軟而有光澤。"
+        }
+      ]
+    },
+    {
+      "eng": "gallon",
+      "kk": "ˈɡælən",
+      "tense": "n.",
+      "ch": [
+        [
+          "加侖"
+        ]
+      ],
+      "analysis": "此字透過古法語 galon、galeon 進入英語，最終源自中世紀拉丁語 galleta（一種液體容量單位）。現代英語中作名詞，為英美制容量單位（加侖），常用於計量液體。",
+      "definition": "1. a unit of measurement for volume, equal to 4 quarts (about 3.78 liters in the US).",
+      "example": [
+        {
+          "eng": "Gas prices are calculated per gallon at this station.",
+          "ch": "這家加油站的汽油價格是以加侖計算的。"
+        }
+      ]
+    },
+    {
+      "eng": "gamble",
+      "kk": "ˈɡæmbəl",
+      "tense": "vi.",
+      "ch": [
+        [
+          "賭博",
+          "打賭"
+        ]
+      ],
+      "analysis": "此字源自古英語 gamenian（意為嬉戲、玩耍、參與遊戲），受到中古英語變體與後綴影響演變而來。作為不及物動詞時，指在賭場或透過賽事、彩券等押注金錢以期贏取財物，亦可指冒險行事。",
+      "definition": "1. to risk money on a game, race, or event in the hope of winning more money; 2. to take a risky chance in order to gain a benefit.",
+      "example": [
+        {
+          "eng": "He likes to gamble at the casino on weekends.",
+          "ch": "他喜歡在週末去賭場賭博。"
+        },
+        {
+          "eng": "She decided to gamble on a new career path.",
+          "ch": "她決定在新的職涯道路上冒險一搏。"
+        }
+      ]
+    },
+    {
+      "eng": "gang",
+      "kk": "ɡæŋ",
+      "tense": "n.",
+      "ch": [
+        [
+          "幫派",
+          "犯罪團夥"
+        ],
+        [
+          "一夥人",
+          "群"
+        ]
+      ],
+      "analysis": "此字源自古英語 ġang（意為走路、行程、去處），源自日耳曼語族。在歷史演變中，由「同行的人群」語義逐漸定型為現代常見的「犯罪幫派」或「特定工作、活動的一夥人」。",
+      "definition": "1. an organized group of criminals, especially young people; 2. a group of friends or people working together.",
+      "example": [
+        {
+          "eng": "The police launched a campaign against local street gangs.",
+          "ch": "警方發起了一項針對當地街頭幫派的行動。"
+        },
+        {
+          "eng": "My friends and I—the whole gang—went camping last weekend.",
+          "ch": "我和我的朋友們——整幫人——上週末去露營了。"
+        }
+      ]
+    },
+    {
+      "eng": "gap",
+      "kk": "ɡæp",
+      "tense": "n.",
+      "ch": [
+        [
+          "缺口",
+          "縫隙"
+        ],
+        [
+          "差距",
+          "隔閡"
+        ]
+      ],
+      "analysis": "此字源自古諾斯語 gop 或相關北歐語源（意為開口、深淵）。現代英語中作名詞，既可指實體物體之間的空間缺口或縫隙，也可引申指觀念、年齡、能力或數據之間的差距與鴻溝。",
+      "definition": "1. a break or opening in something, such as a wall, fence, or line; 2. a difference or separation between two things, people, or amounts.",
+      "example": [
+        {
+          "eng": "The dog managed to squeeze through a gap in the fence.",
+          "ch": "那隻狗設法從柵欄的縫隙中擠了過去。"
+        },
+        {
+          "eng": "There is a significant digital gap between generations.",
+          "ch": "世代之間存在著顯著的數位差距。"
+        }
+      ]
+    },
+    {
+      "eng": "garage",
+      "kk": "ɡəˈrɑʒ",
+      "tense": "n.",
+      "ch": [
+        [
+          "車庫"
+        ],
+        [
+          "汽車修理廠"
+        ]
+      ],
+      "analysis": "此字為直接借自法語 garage（源自 garer，意為保護、停放車輛）。現代英語中作名詞，指停放汽車的建築物（車庫），或指修理汽車的商業場所（修車廠）。",
+      "definition": "1. a building for housing a motor vehicle or vehicles; 2. a repair shop for cars.",
+      "example": [
+        {
+          "eng": "He parked his car in the garage to protect it from the rain.",
+          "ch": "他把車停在車庫裡以免淋雨。"
+        },
+        {
+          "eng": "I need to take my car to the garage for a routine checkup.",
+          "ch": "我需要把車送到修車廠做例行檢查。"
+        }
+      ]
+    },
+    {
+      "eng": "gasoline",
+      "kk": "ˈɡæsəˌlin",
+      "tense": "n.",
+      "ch": [
+        [
+          "汽油"
+        ]
+      ],
+      "analysis": "此字是由化學名詞 gas（氣體）加上化學物質後綴 -oline 組合而成的近代專有名詞（通常簡稱為 gas）。指自石油提煉出的易燃液體混合物，用作內燃機的燃料。",
+      "definition": "1. a volatile, flammable liquid mixture of hydrocarbons derived from petroleum, used as fuel for internal-combustion engines.",
+      "example": [
+        {
+          "eng": "Prices for gasoline have risen steadily over the past month.",
+          "ch": "過去一個月汽油價格穩步上漲。"
+        }
+      ]
+    },
+    {
+      "eng": "gas",
+      "kk": "ɡæs",
+      "tense": "n.",
+      "ch": [
+        [
+          "氣體"
+        ],
+        [
+          "瓦斯",
+          "燃料氣體"
+        ],
+        [
+          "汽油"
+        ]
+      ],
+      "analysis": "此字由17世紀比利時化學家范海爾門仿造希臘語 chaos（混沌）創造的近代科學詞彙。現代英語中作名詞，可指物質的三態之一（氣體）、作為燃氣供應的瓦斯，在美式英語中也常用作 gasoline 的口語簡稱。",
+      "definition": "1. a substance in a physical state in which it expands freely to fill the whole of a container; 2. gas used for heating or cooking; 3. short for gasoline (North American English).",
+      "example": [
+        {
+          "eng": "Carbon dioxide is a colorless gas.",
+          "ch": "二氧化碳是一種無色氣體。"
+        },
+        {
+          "eng": "Make sure the gas stove is turned off before you leave.",
+          "ch": "離開前確保瓦斯爐已經關閉。"
+        },
+        {
+          "eng": "We need to stop for gas before driving on the highway.",
+          "ch": "我們在開上高速公路前需要停下來加油。"
+        }
+      ]
+    },
+    {
+      "eng": "geography",
+      "kk": "dʒiˈɑɡrəfi",
+      "tense": "n.",
+      "ch": [
+        [
+          "地理學"
+        ],
+        [
+          "地理",
+          "地形"
+        ]
+      ],
+      "analysis": "此字源自希臘語 geōgraphia（geō- 地球 + graphē 寫作、描述）。經由中世紀拉丁語與法語進入英語。現代英語中作名詞，指研究地球表面地形、氣候、人口與資源分布的學科，亦可泛指某地區的地理環境或地形特徵。",
+      "definition": "1. the study of the physical features of the earth and its atmosphere; 2. the physical characteristics and layout of a specific area.",
+      "example": [
+        {
+          "eng": "She is studying geography to better understand world cultures.",
+          "ch": "她正在學習地理學以更好地理解世界文化。"
+        },
+        {
+          "eng": "The rugged geography of the region makes travel difficult.",
+          "ch": "該地區崎嶇的地形使得旅行變得困難。"
+        }
+      ]
+    },
+    {
+      "eng": "gesture",
+      "kk": "ˈdʒɛstʃɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "手勢",
+          "姿態"
+        ],
+        [
+          "表示",
+          "舉動"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 gestura（意為姿勢、動作），源自 gerere（攜帶、舉止、表現）。現代英語中作名詞，指透過手部或身體動作來表達意思的手勢，亦可引申指為表達友好、誠意或抗議而做的具體舉動。",
+      "definition": "1. a movement of part of the body, especially a hand or the head, to express an idea or meaning; 2. an action performed to indicate intention, feeling, or politeness.",
+      "example": [
+        {
+          "eng": "He made a polite gesture with his hand to invite her in.",
+          "ch": "他用手做了一個禮貌的手勢請她進來。"
+        },
+        {
+          "eng": "Sending flowers was a lovely gesture of sympathy.",
+          "ch": "送花是一個表達慰問的溫馨舉動。"
+        }
+      ]
+    },
+    {
+      "eng": "glance",
+      "kk": "ɡlæns",
+      "tense": "vi.",
+      "ch": [
+        [
+          "瞥一眼",
+          "迅速看一眼"
+        ]
+      ],
+      "analysis": "此字源自日耳曼語族，透過古法語 glancier（滑動、斜視）進入英語。現代英語中作不及物動詞時，指迅速、短暫地看某人或某物一眼。",
+      "definition": "1. to look quickly at someone or something.",
+      "example": [
+        {
+          "eng": "She glanced at her watch to check the time.",
+          "ch": "她看了一眼手錶來確認時間。"
+        }
+      ]
+    },
+    {
+      "eng": "global",
+      "kk": "ˈɡlobəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "全球的",
+          "全世界的"
+        ],
+        [
+          "總體的",
+          "全面的"
+        ]
+      ],
+      "analysis": "此字由名詞 globe（球體、地球）加上形容詞字尾 -al 構成。現代英語中作形容詞，指涉及整個地球的（全球的），或指涵蓋各個面向、整體的（全面性的）。",
+      "definition": "1. relating to the whole world; worldwide; 2. covering all aspects; comprehensive.",
+      "example": [
+        {
+          "eng": "Climate change is a major global challenge.",
+          "ch": "氣候變遷是一項重大的全球挑戰。"
+        },
+        {
+          "eng": "The company needs a global strategy to improve its market share.",
+          "ch": "公司需要一項全方位的策略來提高其市占率。"
+        }
+      ]
+    },
+    {
+      "eng": "glory",
+      "kk": "ˈɡlori",
+      "tense": "n.",
+      "ch": [
+        [
+          "榮譽",
+          "光榮"
+        ],
+        [
+          "壯麗",
+          "美景"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 gloria（光榮、讚譽），透過古法語 glorie 進入英語。現代英語中作名詞，指因重大成就而獲得的崇高榮譽與讚賞，亦可指建築、自然景觀或色彩的壯麗與雄偉。",
+      "definition": "1. high renown or honor won by notable achievements; 2. magnificent beauty or splendor.",
+      "example": [
+        {
+          "eng": "The athletes fought hard for the glory of their country.",
+          "ch": "運動員們為國家的榮譽努力奮戰。"
+        },
+        {
+          "eng": "We watched the sunset in all its natural glory.",
+          "ch": "我們欣賞了日落那大自然全部的壯麗景色。"
+        }
+      ]
+    },
+    {
+      "eng": "glow",
+      "kk": "ɡlo",
+      "tense": "vi.",
+      "ch": [
+        [
+          "發微光",
+          "發熱"
+        ],
+        [
+          "面色紅潤",
+          "容光煥發"
+        ]
+      ],
+      "analysis": "此字源自古英語 glōwan（意為發光、發熱），屬日耳曼語源。現代英語中作不及物動詞，指持續發出柔和的光芒或熱氣，不帶火焰；亦可指人因運動或情緒激動而面色紅潤、容光煥發。",
+      "definition": "1. to emit a steady, warm, and gentle light without flames; 2. to have a healthy, warm, or reddish color in the face, typically from exercise or emotion.",
+      "example": [
+        {
+          "eng": "The embers in the fireplace continued to glow in the dark.",
+          "ch": "壁爐裡的餘燼在黑暗中繼續散發著微光。"
+        },
+        {
+          "eng": "Her cheeks began to glow after the brisk walk in the cold.",
+          "ch": "在寒冷中輕快散步後，她的雙頰開始泛起紅潤的光彩。"
+        }
+      ]
+    },
+    {
+      "eng": "golf",
+      "kk": "ɡɑlf",
+      "tense": "n.",
+      "ch": [
+        [
+          "高爾夫球運動"
+        ]
+      ],
+      "analysis": "此字源自蘇格蘭中世紀詞彙，其確切詞源不明，可能與荷蘭語 kolf（球棒、棍棒）有關。現代英語中作名詞，指使用球桿將小球擊入草坪洞口中的戶外體育運動。",
+      "definition": "1. a game played on a large open-air course in which players try to hit a small ball into a series of holes using various clubs.",
+      "example": [
+        {
+          "eng": "He likes to play a round of golf with his friends on Sunday mornings.",
+          "ch": "他喜歡在週日早晨和朋友打一場高爾夫球。"
+        }
+      ]
+    },
+    {
+      "eng": "gossip",
+      "kk": "ˈɡɑsəp",
+      "tense": "n.",
+      "ch": [
+        [
+          "流言",
+          "八卦"
+        ],
+        [
+          "愛說長道短的人"
+        ]
+      ],
+      "analysis": "此字源自古英語 god-sibb（god 上帝 + sibb 親屬，原義為「教父、教母」或親密的摯友），在歷史演變中由「女性聚在一起閒聊的密友」轉變為「流言蜚語、八卦」以及「喜歡說長道短的人」。",
+      "definition": "1. casual or unverified conversation or reports about other people's private lives; 2. a person who habitually chatters or spreads rumors about others.",
+      "example": [
+        {
+          "eng": "Don't believe every piece of gossip you hear in the office.",
+          "ch": "不要相信你在辦公室裡聽到的每一個八卦。"
+        },
+        {
+          "eng": "She is known around the neighborhood as a bit of a gossip.",
+          "ch": "她在鄰里間有點愛說長道短。"
+        }
+      ]
+    },
+    {
+      "eng": "governor",
+      "kk": "ˈɡʌvɚnɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "州長",
+          "省長"
+        ],
+        [
+          "主管",
+          "理事"
+        ]
+      ],
+      "analysis": "此字由動詞 govern（統治、管理）加上表示人的名詞字尾 -or 構成，經由古法語 gouverneur 進入英語。現代英語中作名詞，主要指美國等聯邦制國家的州長、省長，或指機構、企業的行政主管與董事會成員。",
+      "definition": "1. the elected head of a state in the US or other federal countries; 2. a person charged with the direction or control of an institution.",
+      "example": [
+        {
+          "eng": "The governor announced a new plan to improve public education.",
+          "ch": "州長宣布了一項改善公共教育的新計畫。"
+        },
+        {
+          "eng": "The board of governors approved the university's budget.",
+          "ch": "理事會批准了該大學的預算。"
+        }
+      ]
+    },
+    {
+      "eng": "grab",
+      "kk": "ɡræb",
+      "tense": "vt.",
+      "ch": [
+        [
+          "抓取",
+          "奪取"
+        ],
+        [
+          "吸引",
+          "佔用"
+        ]
+      ],
+      "analysis": "此字源自日耳曼語族（類似荷蘭語 grabben 或德語 grabben，意為抓、挖）。現代英語中作及物動詞，指粗魯、突然地伸手抓住或奪取某物，亦常引申用於抽象語境，指吸引注意力或迅速取得某物。",
+      "definition": "1. to take hold of something suddenly and roughly; 2. to capture attention or quickly manage to get something.",
+      "example": [
+        {
+          "eng": "He tried to grab my bag as he ran past.",
+          "ch": "他跑過去時試圖搶走我的包包。"
+        },
+        {
+          "eng": "Let's grab a quick lunch before the meeting starts.",
+          "ch": "我們在會議開始前趕快吃個簡單的午餐吧。"
+        }
+      ]
+    },
+    {
+      "eng": "graduate",
+      "kk": "ˈɡrædʒuˌet",
+      "tense": "vi.",
+      "ch": [
+        [
+          "畢業"
+        ]
+      ],
+      "analysis": "此字源自中世紀拉丁語 graduare（授予學位），源自拉丁語 gradus（台階、級別）。作為不及物動詞時，指完成學校或大學的課程並取得學位或畢業資格。",
+      "definition": "1. to successfully complete a course of academic study at a school or university and receive a degree or diploma.",
+      "example": [
+        {
+          "eng": "She plans to graduate from college next spring.",
+          "ch": "她計畫明年春天從大學畢業。"
+        }
+      ]
+    },
+    {
+      "eng": "grasp",
+      "kk": "ɡræsp",
+      "tense": "vt.",
+      "ch": [
+        [
+          "緊抓",
+          "緊握"
+        ],
+        [
+          "理解",
+          "領會"
+        ]
+      ],
+      "analysis": "此字源自日耳曼語源，在英語中演變出抓握之義。作為及物動詞，既可指用手緊緊抓握實體物品，也可引申指腦海中徹底理解、領會複雜的概念或知識。",
+      "definition": "1. to grip or hold something firmly with the hands; 2. to comprehend or understand a complex idea or concept fully.",
+      "example": [
+        {
+          "eng": "He grasped the rope tightly to avoid falling.",
+          "ch": "他緊緊抓住繩子以免摔倒。"
+        },
+        {
+          "eng": "It took me a while to grasp the main points of the lecture.",
+          "ch": "我花了一點時間才理解講座的重點。"
+        }
+      ]
+    },
+    {
+      "eng": "grasshopper",
+      "kk": "ˈɡræsˌhɑpɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "蚱蜢",
+          "蝗蟲"
+        ]
+      ],
+      "analysis": "此字為複合詞，由 grass（草）加上 hopper（跳躍者，源自 hop 跳躍）組合而成，現代構詞極為透明。指一種善於在草叢中跳躍的昆蟲。",
+      "definition": "1. a plant-eating insect with long hind legs that are adapted for jumping, often making a chirping sound.",
+      "example": [
+        {
+          "eng": "We heard the grasshoppers chirping in the tall grass.",
+          "ch": "我們聽到蚱蜢在高高的草叢中唧唧叫。"
+        }
+      ]
+    },
+    {
+      "eng": "grassy",
+      "kk": "ˈɡræsi",
+      "tense": "adj.",
+      "ch": [
+        [
+          "長滿草的",
+          "草地般的"
+        ]
+      ],
+      "analysis": "此字由名詞 grass（草）加上形容詞字尾 -y 構成，現代構詞完全透明。作形容詞，用來形容某個地方覆蓋著青草或長滿了草。",
+      "definition": "1. covered with grass or abounding in grass.",
+      "example": [
+        {
+          "eng": "They sat down on the grassy slope to enjoy the view.",
+          "ch": "他們坐在長滿草的斜坡上欣賞風景。"
+        }
+      ]
+    },
+    {
+      "eng": "greedy",
+      "kk": "ˈɡridi",
+      "tense": "adj.",
+      "ch": [
+        [
+          "貪婪的",
+          "貪心的"
+        ],
+        [
+          "貪吃的"
+        ]
+      ],
+      "analysis": "此字源自古英語 grēdíg（意為貪婪的、渴望的），源自日耳曼語根。現代英語中作形容詞，用來形容人貪圖財富、權力（貪婪），或是對食物有過度的渴望（貪吃）。",
+      "definition": "1. having or showing an intense and selfish desire for wealth, power, or possessions; 2. having a strong desire for food or drink.",
+      "example": [
+        {
+          "eng": "The greedy businessman wanted to control all the local markets.",
+          "ch": "那個貪婪的商人想控制所有當地市場。"
+        },
+        {
+          "eng": "The dog was greedy and ate all the food in one go.",
+          "ch": "那隻狗很貪吃，一下子就把所有的食物都吃光了。"
+        }
+      ]
+    },
+    {
+      "eng": "greenhouse",
+      "kk": "ˈɡrinˌhaʊs",
+      "tense": "n.",
+      "ch": [
+        [
+          "溫室",
+          "玻璃溫室"
+        ]
+      ],
+      "analysis": "此字為複合詞，由 green（綠色的、植物生長的）加上 house（房屋）組成，現代構詞透明。指四周及屋頂以玻璃或塑膠建造、用於培育需保溫植物的建築物。",
+      "definition": "1. a building with glass walls and roof in which plants that require regulated temperatures are grown.",
+      "example": [
+        {
+          "eng": "Tropical plants are cultivated in the university's greenhouse.",
+          "ch": "熱帶植物在大學的溫室中培育。"
+        }
+      ]
+    },
+    {
+      "eng": "grin",
+      "kk": "ɡrɪn",
+      "tense": "vi.",
+      "ch": [
+        [
+          "露齒而笑",
+          "咧嘴笑"
+        ]
+      ],
+      "analysis": "此字源自古英語 grinνan（意為露齒、齜牙裂嘴），屬日耳曼語源。現代英語中作不及物動詞，指嘴巴微微張開、露出牙齒地微笑。",
+      "definition": "1. to smile broadly, especially in a way that shows your teeth.",
+      "example": [
+        {
+          "eng": "He couldn't help but grin when he received the prize.",
+          "ch": "當他領到獎品時，忍不住咧嘴笑了起來。"
+        }
+      ]
+    },
+    {
+      "eng": "grocery",
+      "kk": "ˈɡrosəri",
+      "tense": "n.",
+      "ch": [
+        [
+          "食品雜貨",
+          "食品雜貨店"
+        ]
+      ],
+      "analysis": "此字由古法語 grossier（批發商）衍生出 grocer（雜貨商），再由 grocer 加上名詞字尾 -y 構成。現代英語中作名詞，複數型 (groceries) 通常指日常購買的食品與雜貨，單數型亦可指販售這些商品的商店。",
+      "definition": "1. food and other commodities sold by a grocer; 2. a retail store that sells food and household goods.",
+      "example": [
+        {
+          "eng": "She went to the supermarket to buy some groceries for the week.",
+          "ch": "她去超市買一些本週的食品雜貨。"
+        },
+        {
+          "eng": "There is a small family-run grocery down the street.",
+          "ch": "街頭有一家小型家族經營的雜貨店。"
+        }
+      ]
+    },
+    {
+      "eng": "guidance",
+      "kk": "ˈɡaɪdns",
+      "tense": "n.",
+      "ch": [
+        [
+          "指導",
+          "引導"
+        ],
+        [
+          "諮詢",
+          "建議"
+        ]
+      ],
+      "analysis": "此字由動詞 guide（引導、指導）加上名詞字尾 -ance 構成，屬於現代與歷史上皆透明的構詞。作名詞，指提供方向、建議或幫助的行為，亦可指針對學業、心理或生涯的諮詢服務。",
+      "definition": "1. advice or information aimed at resolving a problem or difficulty, given by someone in authority; 2. leadership or direction provided for an activity or project.",
+      "example": [
+        {
+          "eng": "Students can seek career guidance from the university counselor.",
+          "ch": "學生可以向大學輔導員尋求職涯指導。"
+        },
+        {
+          "eng": "The project was completed successfully under his expert guidance.",
+          "ch": "在專家的指導下，該專案順利完成了。"
+        }
+      ]
+    },
+    {
+      "eng": "gum",
+      "kk": "ɡʌm",
+      "tense": "n.",
+      "ch": [
+        [
+          "口香糖"
+        ],
+        [
+          "牙齦"
+        ]
+      ],
+      "analysis": "此字在歷史上有兩個不同來源的同形異義詞。其一是樹膠、樹脂（源自拉丁語 gummum），並引申出 chewing gum（口香糖）的簡稱；其二是口腔內的牙齦（源自古英語 gōma 上顎、咽喉）。現代英語中將兩者同列為常見名詞。",
+      "definition": "1. short for chewing gum, a flavored substance for chewing; 2. the firm, fleshy tissue that covers the jaws around the base of the teeth.",
+      "example": [
+        {
+          "eng": "He offered me a piece of mint gum after lunch.",
+          "ch": "他在午餐後給了我一塊薄荷口香糖。"
+        },
+        {
+          "eng": "Her gums were bleeding slightly when she brushed her teeth.",
+          "ch": "她刷牙時牙齦有點出血。"
+        }
+      ]
+    },
+    {
+      "eng": "hairdresser",
+      "kk": "ˈhɛrˌdrɛsɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "美髮師",
+          "理髮師"
+        ]
+      ],
+      "analysis": "此字為複合與派生詞，由 hair（頭髮）加上 dresser（整理者、裝扮者，源自動詞 dress）構成，現代構詞極為透明。指專門為顧客修剪、染燙或造型頭髮的美髮師。",
+      "definition": "1. a person whose job is to cut, color, and style people's hair.",
+      "example": [
+        {
+          "eng": "She booked an appointment with her favorite hairdresser for a new haircut.",
+          "ch": "她預約了她最喜歡的美髮師剪個新髮型。"
+        }
+      ]
+    },
+    {
+      "eng": "hallway",
+      "kk": "ˈhɔlˌwe",
+      "tense": "n.",
+      "ch": [
+        [
+          "走廊",
+          "門廳"
+        ]
+      ],
+      "analysis": "此字為複合詞，由 hall（大廳、走廊）加上 way（道路、通道）組合而成，現代構詞透明。指建築物內部連接不同房間的通道或進門處的門廳。",
+      "definition": "1. an interior passage or corridor connecting different rooms in a building, or the entrance hall.",
+      "example": [
+        {
+          "eng": "Please leave your muddy shoes in the hallway.",
+          "ch": "請把沾滿泥土的鞋子留在走廊上。"
+        }
+      ]
+    },
+    {
+      "eng": "hammer",
+      "kk": "ˈhæmɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "鐵鎚",
+          "鎚子"
+        ]
+      ],
+      "analysis": "此字源自日耳曼語族，對應古英語 hamor。現代英語中作名詞，指一種帶有金屬重頭和柄、用於敲擊、釘釘子或鍛造的手工具。",
+      "definition": "1. a tool with a heavy metal head mounted at right angles at the end of a handle, used for hitting nails or breaking things.",
+      "example": [
+        {
+          "eng": "He used a hammer to secure the loose nail in the fence.",
+          "ch": "他用鐵鎚把柵欄裡鬆動的釘子固定好。"
+        }
+      ]
+    },
+    {
+      "eng": "handful",
+      "kk": "ˈhændˌfʊl",
+      "tense": "n.",
+      "ch": [
+        [
+          "一把（的量）"
+        ],
+        [
+          "少數"
+        ],
+        [
+          "難纏的人或事"
+        ]
+      ],
+      "analysis": "此字由名詞 hand（手）加上量詞及字尾 -ful（充滿……的量）構成，現代構詞透明。作名詞，既可指一手能抓取的數量，也可指數量很少的人事物，或指極難管教的小孩或情況。",
+      "definition": "1. an amount that can be held in one hand; 2. a small number of people or things; 3. a person or thing that is very difficult to control or manage.",
+      "example": [
+        {
+          "eng": "She grabbed a handful of peanuts from the bowl.",
+          "ch": "她從碗裡抓了一把花生。"
+        },
+        {
+          "eng": "Only a handful of people attended the extra lecture.",
+          "ch": "只有少數人參加了這場額外的講座。"
+        },
+        {
+          "eng": "Their toddler is full of energy and can be a real handful.",
+          "ch": "他們的幼兒精力充沛，有時真難管教。"
+        }
+      ]
+    },
+    {
+      "eng": "handkerchief",
+      "kk": "ˈhæŋkɚˌtʃɪf",
+      "tense": "n.",
+      "ch": [
+        [
+          "手帕"
+        ]
+      ],
+      "analysis": "此字為中古英語的複合詞，由 hand（手）與 kerchief（頭巾、覆蓋巾，源自古法語 cuevrechief）組合而成，保留了用於擦拭面部或手部的布料之義。現代英語中作名詞，指隨身攜帶的小方布。",
+      "definition": "1. a small square piece of cloth used for wiping the nose, face, or hands.",
+      "example": [
+        {
+          "eng": "He pulled a clean linen handkerchief from his pocket.",
+          "ch": "他從口袋裡掏出一塊乾淨的亞麻手帕。"
+        }
+      ]
+    },
+    {
+      "eng": "handy",
+      "kk": "ˈhændi",
+      "tense": "adj.",
+      "ch": [
+        [
+          "手巧的",
+          "擅長修理的"
+        ],
+        [
+          "方便的",
+          "實用的"
+        ]
+      ],
+      "analysis": "此字由名詞 hand（手）加上形容詞字尾 -y 構成，現代構詞透明。作形容詞，可用來形容人靈巧、擅長動手修理雜物；也可用來形容工具、物品非常方便實用或隨手可得。",
+      "definition": "1. clever with one's hands; skilled at making or repairing things; 2. useful or convenient for a particular purpose.",
+      "example": [
+        {
+          "eng": "My father is very handy around the house and fixes everything himself.",
+          "ch": "我父親在家裡很手巧，每樣東西都自己修。"
+        },
+        {
+          "eng": "Keep a flashlight handy in case the power goes out.",
+          "ch": "準備一把手電筒放在手邊以防停電。"
+        }
+      ]
+    },
+    {
+      "eng": "hanger",
+      "kk": "ˈhæŋɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "衣架"
+        ]
+      ],
+      "analysis": "此字由動詞 hang（懸掛）加上表示工具的名詞字尾 -er 構成，現代構詞透明。指用於掛衣服的弧形金屬、木頭或塑膠架子。",
+      "definition": "1. a shaped piece of wood, plastic, or metal with a hook by which clothes may be hung.",
+      "example": [
+        {
+          "eng": "Please hang your coat up on a hanger in the closet.",
+          "ch": "請把你的外套掛在衣櫥的衣架上。"
+        }
+      ]
+    },
+    {
+      "eng": "harbor",
+      "kk": "ˈhɑrbɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "港口",
+          "避風港"
+        ]
+      ],
+      "analysis": "此字源自古英語 herebeorg（here 軍隊 + beorg 庇護所），在歷史演變中由軍隊宿營地轉為船隻停泊的港口或安全的避風港。現代英語中作名詞使用。",
+      "definition": "1. a place on the coast where ships may moor in safety, sheltered from rough water.",
+      "example": [
+        {
+          "eng": "Several fishing boats returned safely to the harbor before the storm.",
+          "ch": "幾艘漁船在暴風雨來臨前安全返回港口。"
+        }
+      ]
+    },
+    {
+      "eng": "harm",
+      "kk": "hɑrm",
+      "tense": "n.",
+      "ch": [
+        [
+          "傷害",
+          "損害"
+        ]
+      ],
+      "analysis": "此字源自古英語 hearm（意為傷害、痛苦、悲傷），屬於日耳曼語源。現代英語中作名詞，指對身體、精神或物質財產造成的實質損害或不良影響。",
+      "definition": "1. physical or mental damage or injury.",
+      "example": [
+        {
+          "eng": "Eating too much processed food can do harm to your health.",
+          "ch": "吃太多加工食品會對你的健康造成傷害。"
+        }
+      ]
+    },
+    {
+      "eng": "harmful",
+      "kk": "ˈhɑrmfəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "有害的"
+        ]
+      ],
+      "analysis": "此字由名詞 harm（傷害）加上形容詞字尾 -ful（充滿……的）構成，現代構詞完全透明。作形容詞，用來形容會對人、環境或事物造成損害的。",
+      "definition": "1. causing or likely to cause damage or harm.",
+      "example": [
+        {
+          "eng": "Ultraviolet rays from the sun can be harmful to your skin.",
+          "ch": "來自太陽的紫外線對你的皮膚有害。"
+        }
+      ]
+    },
+    {
+      "eng": "harvest",
+      "kk": "ˈhɑrvɪst",
+      "tense": "n.",
+      "ch": [
+        [
+          "收成",
+          "收穫期"
+        ]
+      ],
+      "analysis": "此字源自古英語 hærfest（意為秋季、收穫季節），源自日耳曼語根。現代英語中作名詞，指農作物的收成季節或採收所得的農作物總量。",
+      "definition": "1. the process or period of gathering in crops; the yield of crops harvested.",
+      "example": [
+        {
+          "eng": "Farmers are busy preparing for the autumn corn harvest.",
+          "ch": "農民們正忙著為秋季的玉米收成做準備。"
+        }
+      ]
+    },
+    {
+      "eng": "hasty",
+      "kk": "ˈhesti",
+      "tense": "adj.",
+      "ch": [
+        [
+          "倉促的",
+          "草率的"
+        ]
+      ],
+      "analysis": "此字源自古法語 hastif（源自 haste 匆忙），透過中古英語進入英語。現代英語中作形容詞，用來形容動作或決定過於匆忙、缺乏深思熟慮。",
+      "definition": "1. done with excessive speed or insufficient consideration; rushed.",
+      "example": [
+        {
+          "eng": "He later regretted making such a hasty decision.",
+          "ch": "他後來後悔做出如此倉促的決定。"
+        }
+      ]
+    },
+    {
+      "eng": "hatch",
+      "kk": "hætʃ",
+      "tense": "vi.",
+      "ch": [
+        [
+          "孵化",
+          "出殼"
+        ]
+      ],
+      "analysis": "此字源自日耳曼語族，透過中古英語演變而來。作為不及物動詞時，指鳥類、爬行動物或昆蟲破殼而出。",
+      "definition": "1. to emerge from an egg by breaking the shell.",
+      "example": [
+        {
+          "eng": "The baby chicks are expected to hatch out tomorrow morning.",
+          "ch": "小雞預計明天早晨孵化出殼。"
+        }
+      ]
+    },
+    {
+      "eng": "hateful",
+      "kk": "ˈhetfəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "可恨的",
+          "充滿仇恨的"
+        ]
+      ],
+      "analysis": "此字由動詞 hate（恨）或名詞 hate 加上形容詞字尾 -ful 構成，現代構詞透明。作形容詞，用來形容某事令人厭惡、可恨，或指人帶有強烈的敵意與仇恨。",
+      "definition": "1. arousing or deserving hatred; bitterly hostile or malevolent.",
+      "example": [
+        {
+          "eng": "She received several hateful messages online and reported them.",
+          "ch": "她在網路上收到幾則充滿仇恨的訊息並進行了舉報。"
+        }
+      ]
+    },
+    {
+      "eng": "hay",
+      "kk": "he",
+      "tense": "n.",
+      "ch": [
+        [
+          "乾草"
+        ]
+      ],
+      "analysis": "此字源自古英語 hīeg（意為被割下的草、乾草），屬日耳曼語源。現代英語中作名詞，指割下並曬乾後用作牲畜飼料的草。",
+      "definition": "1. grass that has been mown and dried for use as fodder for cattle and other farm animals.",
+      "example": [
+        {
+          "eng": "The farmer stored bales of hay in the barn for the winter.",
+          "ch": "農夫把一捆捆的乾草儲存在穀倉裡過冬。"
+        }
+      ]
+    }
+  ]
+}

@@ -3,6 +3,7 @@ const { wordsDb, clientDb, serverDb } = require("../db/connections");
 const { requireAuth } = require("../middleware/auth");
 const { syncStudyData } = require("../utils/studySync");
 const { parseMeaningEntries } = require("../utils/wordHelpers");
+const { getLearningTrends } = require("../utils/growthTrend");
 const {
   TAIWAN_SQL_LAST_7_DAYS_START,
   taiwanDateExpr,
@@ -156,6 +157,30 @@ function computeStreaks(days) {
 
 router.get("/summary", requireAuth, async (req, res, next) => {
   try {
+    const range = req.query?.range ?? "30";
+    if (!["7", "30", "all"].includes(range)) {
+      return res.status(400).json({ message: "時間範圍必須是 7、30 或 all。" });
+    }
+    if (req.user.isGuest) {
+      return res.json({
+        overview: {
+          totalAttempts: 0,
+          totalCorrect: 0,
+          totalWrong: 0,
+          accuracy: 0,
+          activeDays: 0
+        },
+        streaks: { currentStreak: 0, longestStreak: 0 },
+        dailyTrend: [],
+        growthTrend: { range, startDate: null, endDate: null, baselineWords: 0,
+          totalWords: 0, newWords: 0, points: [] },
+        modeBreakdown: [],
+        unitPerformance: [],
+        weakWords: [],
+        reviewSummary: { needsReview: 0, masteredWords: 0, trackedWords: 0 }
+      });
+    }
+
     await syncStudyData(req.user.id);
 
     const overview = await clientDb.get(
@@ -177,18 +202,7 @@ router.get("/summary", requireAuth, async (req, res, next) => {
       [req.user.id]
     );
 
-    const dailyTrend = await clientDb.all(
-      `SELECT
-         ${taiwanDateExpr("created_at")} AS study_date,
-         COUNT(*) AS attempts,
-         SUM(CASE WHEN is_correct = 1 THEN 1 ELSE 0 END) AS correct_count
-       FROM study_logs
-       WHERE user_id = ?
-       GROUP BY ${taiwanDateExpr("created_at")}
-       ORDER BY study_date DESC
-       LIMIT 14`,
-      [req.user.id]
-    );
+    const { dailyTrend, growthTrend } = await getLearningTrends(clientDb, req.user.id, range);
 
     const modeBreakdown = await clientDb.all(
       `SELECT
@@ -278,14 +292,8 @@ router.get("/summary", requireAuth, async (req, res, next) => {
         activeDays: overview?.active_days || 0
       },
       streaks,
-      dailyTrend: dailyTrend.reverse().map((item) => ({
-        studyDate: item.study_date,
-        attempts: item.attempts,
-        correctCount: item.correct_count || 0,
-        accuracy: item.attempts
-          ? Number((((item.correct_count || 0) / item.attempts) * 100).toFixed(1))
-          : 0
-      })),
+      dailyTrend: dailyTrend.map((item) => ({ ...item, accuracy: item.accuracy ?? 0 })),
+      growthTrend,
       modeBreakdown: modeBreakdown.map((item) => ({
         mode: item.mode,
         attempts: item.attempts,

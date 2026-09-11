@@ -1,0 +1,1561 @@
+{
+  "level": 5,
+  "chunkIndex": 13,
+  "inputs": [
+    "overall",
+    "overhead",
+    "oversee",
+    "overtake",
+    "overturn",
+    "overwhelm",
+    "parallel",
+    "participant",
+    "particle",
+    "partly",
+    "passionate",
+    "pastry",
+    "patch",
+    "patent",
+    "pathetic",
+    "patrol",
+    "patron",
+    "peasant",
+    "pedal",
+    "pedestrian",
+    "penetrate",
+    "pension",
+    "perceive",
+    "perception",
+    "performer",
+    "persist",
+    "personnel",
+    "perspective",
+    "pessimism",
+    "petition",
+    "petty",
+    "phase",
+    "photographic",
+    "pickup",
+    "pier",
+    "pillar",
+    "pipeline",
+    "pirate",
+    "pitcher",
+    "placement",
+    "plea",
+    "plead",
+    "pledge",
+    "plunge",
+    "plural",
+    "poetic",
+    "poke",
+    "porch",
+    "portfolio",
+    "practitioner"
+  ],
+  "rows": [
+    {
+      "eng": "overall",
+      "kk": "ˌoʊvərˈɔl",
+      "tense": "n.",
+      "ch": [
+        [
+          "連身工作褲",
+          "吊帶褲"
+        ]
+      ],
+      "analysis": "此名詞通常以複數形 overalls 出現，源自其設計特點：罩在其他衣物外面的全身式防護衣物。由 over- 結合 all 構成，特指附有胸前擋布與吊帶的長褲。",
+      "definition": "1. loose-fitting trousers with a chest piece and shoulder straps, worn over regular clothes for protection.",
+      "example": [
+        {
+          "eng": "He wore a pair of blue denim overalls while working in the garage.",
+          "ch": "他在車庫工作時穿著一件藍色丹寧連身工作褲。"
+        }
+      ]
+    },
+    {
+      "eng": "overall",
+      "kk": "ˌoʊvərˈɔl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "全面的",
+          "整體的",
+          "綜合的"
+        ],
+        [
+          "大體上的",
+          "大致的"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由副詞／介系詞 over（在……上方、全面）與形容詞 all（全部的）結合而成。原意為「涵蓋各個面向的」，經由空間上的覆蓋延伸至抽象的整體概括。句法上常作定語修飾名詞，或作表語。",
+      "definition": "1. covering or including everything; comprehensive and complete; 2. general and considering the whole rather than details.",
+      "example": [
+        {
+          "eng": "The overall cost of the project exceeded our initial budget.",
+          "ch": "這個專案的總體成本超出了我們的最初預算。"
+        },
+        {
+          "eng": "There was an overall improvement in student performance.",
+          "ch": "學生的整體表現有了大體上的進步。"
+        }
+      ]
+    },
+    {
+      "eng": "overall",
+      "kk": "ˌoʊvərˈɔl",
+      "tense": "adv.",
+      "ch": [
+        [
+          "總體而言",
+          "大體上",
+          "大致"
+        ]
+      ],
+      "analysis": "由形容詞 overall 轉品為副詞，表示在全面考量各種因素之後的結論。句法上通常置於句首、句中或句尾，用以修飾整個句子或表示綜合評估。",
+      "definition": "1. on the whole; taking everything into account.",
+      "example": [
+        {
+          "eng": "Overall, it was a very successful conference.",
+          "ch": "總體而言，這是一場非常成功的會議。"
+        }
+      ]
+    },
+    {
+      "eng": "overhead",
+      "kk": "ˈoʊvərˌhɛd",
+      "tense": "n.",
+      "ch": [
+        [
+          "營運費用",
+          "經常開支"
+        ]
+      ],
+      "analysis": "通常使用複數形 overheads，源自商業會計用語，指企業不論生產是否進行都必須持續支付的固定成本（如租金、水電等），這些費用如同 overhead（頭頂上的負擔）般持續存在。",
+      "definition": "1. the regular and necessary costs of running a business, such as rent, heating, and lighting.",
+      "example": [
+        {
+          "eng": "The company moved to a smaller office to reduce its overhead.",
+          "ch": "公司搬到較小的辦公室以減少營運開支。"
+        }
+      ]
+    },
+    {
+      "eng": "overhead",
+      "kk": "ˈoʊvərˌhɛd",
+      "tense": "adj.",
+      "ch": [
+        [
+          "頭頂上的",
+          "高架的"
+        ]
+      ],
+      "analysis": "由副詞／介系詞 over（在上方）與名詞 head（頭部）結合而成的複合形容詞。字面義為「位於頭部之上的」，常用於形容架設在空中的設施或位於上方的空間。",
+      "definition": "1. located above the level of the head; situated in the sky or ceiling.",
+      "example": [
+        {
+          "eng": "The airplane flew high in the overhead sky.",
+          "ch": "飛機在頭頂的天空中高高飛過。"
+        }
+      ]
+    },
+    {
+      "eng": "overhead",
+      "kk": "ˈoʊvərˌhɛd",
+      "tense": "adv.",
+      "ch": [
+        [
+          "在頭頂上方",
+          "在空中"
+        ]
+      ],
+      "analysis": "由 overhead 形容詞用法轉化而來的副詞，表示位置高於頭頂或天花板。用以修飾動詞，描述動作發生的空間高度。",
+      "definition": "1. above head height; in the sky or ceiling.",
+      "example": [
+        {
+          "eng": "Dark clouds gathered overhead, threatening a heavy rain.",
+          "ch": "烏雲在頭頂上方聚集，預示著會有一場大雨。"
+        }
+      ]
+    },
+    {
+      "eng": "oversee",
+      "kk": "ˌoʊvərˈsiː",
+      "tense": "vt.",
+      "ch": [
+        [
+          "監督",
+          "監察",
+          "管理"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由 over（在上方、從高處）與動詞 see（看）組成。字面義為「從高處往下看」或「俯視」，引申為「從旁監督、管理工作或活動的進行」。過去式為 oversaw，過去分詞為 overseen。",
+      "definition": "1. to watch and direct a process, activity, or workers to ensure it is done correctly.",
+      "example": [
+        {
+          "eng": "She was hired to oversee the construction of the new bridge.",
+          "ch": "她被雇用來監督新橋的建設。"
+        }
+      ]
+    },
+    {
+      "eng": "overtake",
+      "kk": "ˌoʊvərˈteɪk",
+      "tense": "vt.",
+      "ch": [
+        [
+          "趕上",
+          "超過"
+        ],
+        [
+          "突然襲擊",
+          "壓倒"
+        ]
+      ],
+      "analysis": "由 over-（超越）與動詞 take（拿取、抓住）複合而成。原意為在行進中從後方追上並超越，進一步引申為災難或情感突然襲擊、降臨於某人。過去式為 overtook，過去分詞為 overtaken。",
+      "definition": "1. to catch up with and pass someone or something while moving; 2. to happen to someone suddenly and unexpectedly.",
+      "example": [
+        {
+          "eng": "The sports car sped up to overtake the truck on the highway.",
+          "ch": "跑車加速以在高速公路上超越那輛卡車。"
+        },
+        {
+          "eng": "A deep sense of panic overtook her when she heard the news.",
+          "ch": "當她聽到這個消息時，一股深深的恐慌感湧上心頭。"
+        }
+      ]
+    },
+    {
+      "eng": "overturn",
+      "kk": "ˌoʊvərˈtɜrn",
+      "tense": "vt.",
+      "ch": [
+        [
+          "推翻",
+          "撤銷"
+        ],
+        [
+          "使翻覆",
+          "打翻"
+        ]
+      ],
+      "analysis": "由 over-（翻轉、顛倒）與動詞 turn（旋轉、轉動）結合而成。本義為使物體上下顛倒或翻覆，抽象引申為法律判決被推翻或撤銷。可作及物動詞使用。",
+      "definition": "1. to officially change a legal decision or ruling; 2. to turn something over or upside down.",
+      "example": [
+        {
+          "eng": "The higher court decided to overturn the original verdict.",
+          "ch": "高等法院決定推翻原判決。"
+        },
+        {
+          "eng": "The strong wind managed to overturn the empty garbage cans.",
+          "ch": "強風把空垃圾桶吹翻了。"
+        }
+      ]
+    },
+    {
+      "eng": "overwhelm",
+      "kk": "ˌoʊvərˈwɛlm",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使受不了",
+          "擊敗",
+          "淹沒"
+        ]
+      ],
+      "analysis": "源自中古英語 overwhelmen，由 over-（加強語氣、覆蓋）與古英語源頭（意為翻覆、淹沒）複合而成。字面義為「巨浪覆蓋並淹沒」，現代多用於形容情緒、工作量或武力壓倒、使人難以負荷。",
+      "definition": "1. to affect someone so strongly that they cannot cope; to overpower completely.",
+      "example": [
+        {
+          "eng": "She was completely overwhelmed by grief after the loss.",
+          "ch": "失去親人後，她完全被悲傷壓垮了。"
+        }
+      ]
+    },
+    {
+      "eng": "parallel",
+      "kk": "ˈpɛrəˌlɛl",
+      "tense": "n.",
+      "ch": [
+        [
+          "平行線",
+          "相似處",
+          "緯線"
+        ]
+      ],
+      "analysis": "由平行形容詞轉化而來的名詞，指一組平行線、地理上的緯線，或指兩件相似事物之間的對應點、共同點。",
+      "definition": "1. a person, thing, or situation that is very similar to another; 2. a line of latitude on the earth's surface.",
+      "example": [
+        {
+          "eng": "It is hard to find a historical parallel to this economic crisis.",
+          "ch": "很難找到與這次經濟危機相似的歷史事件。"
+        }
+      ]
+    },
+    {
+      "eng": "parallel",
+      "kk": "ˈpɛrəˌlɛl",
+      "tense": "vt.",
+      "ch": [
+        [
+          "與……平行",
+          "與……相似",
+          "比得上"
+        ]
+      ],
+      "analysis": "由 parallel 名詞或形容詞轉品而來的及物動詞，表示在空間上與之平行，或在質量、成就上與之相匹敵、相似。",
+      "definition": "1. to be similar to or happen at the same time as something else.",
+      "example": [
+        {
+          "eng": "His career success does not parallel his personal happiness.",
+          "ch": "他在事業上的成功比不上他的個人幸福。"
+        }
+      ]
+    },
+    {
+      "eng": "parallel",
+      "kk": "ˈpɛrəˌlɛl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "平行的",
+          "類似的",
+          "相應的"
+        ]
+      ],
+      "analysis": "源自古希臘語 parallēlos（para- 旁 + allēlōn 互相），經由拉丁語與法語進入英語。原意為「並排延伸、永不相交的線」，引申為情況相似、可相互對照的事物。",
+      "definition": "1. extending in the same direction and remaining the same distance apart; 2. very similar or happening at the same time.",
+      "example": [
+        {
+          "eng": "The two railway tracks run parallel to each other.",
+          "ch": "這兩條鐵路軌道彼此平行延伸。"
+        },
+        {
+          "eng": "The two companies share a parallel history of innovation.",
+          "ch": "這兩家公司有著類似的創新歷史。"
+        }
+      ]
+    },
+    {
+      "eng": "participant",
+      "kk": "pɑrˈtɪsəpənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "參與者",
+          "參加者"
+        ]
+      ],
+      "analysis": "源自拉丁語 participant-（動詞 participare 的現在分詞詞幹，由 pars 部分 + capere 拿取組成，意為「分一份、參與」）。字面義為「在其中分得一部分的人」，即參與活動的人。",
+      "definition": "1. a person who takes part in something.",
+      "example": [
+        {
+          "eng": "All seminar participants received a certificate of attendance.",
+          "ch": "所有研討會參與者都收到了一份出席證書。"
+        }
+      ]
+    },
+    {
+      "eng": "particle",
+      "kk": "ˈpɑrtɪkəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "微粒",
+          "粒子",
+          "小品詞"
+        ]
+      ],
+      "analysis": "源自拉丁語 particula（pars 部分的指小詞，意為「小部分」）。經由法語進入英語，本義為微小的物質碎片，在物理學中指基本粒子，在語言學中指功能性的小詞（如片語動詞中的副詞或介系詞）。",
+      "definition": "1. an extremely small piece or part of matter; 2. a word that has little or no independent meaning but expresses a grammatical relationship.",
+      "example": [
+        {
+          "eng": "The air filter trapped dust and tiny pollution particles.",
+          "ch": "空氣濾網過濾了灰塵和小汙染微粒。"
+        }
+      ]
+    },
+    {
+      "eng": "partly",
+      "kk": "ˈpɑrtli",
+      "tense": "adv.",
+      "ch": [
+        [
+          "部分地",
+          "在一定程度上"
+        ]
+      ],
+      "analysis": "由名詞 part（部分）加上副詞字尾 -ly 構成。用以修飾動詞、形容詞或其他副詞，表示某事並非完全或全面，而僅佔其中一部分。",
+      "definition": "1. to some extent; not completely.",
+      "example": [
+        {
+          "eng": "Her success was partly due to luck and partly to hard work.",
+          "ch": "她的成功部分歸功於運氣，部分歸功於努力工作。"
+        }
+      ]
+    },
+    {
+      "eng": "passionate",
+      "kk": "ˈpæʃənət",
+      "tense": "adj.",
+      "ch": [
+        [
+          "熱情的",
+          "激昂的",
+          "酷愛的"
+        ]
+      ],
+      "analysis": "源自中古英語，根源於拉丁語 passio（受難、強烈的情感，源於 pati 忍受、經歷）。原本指容易動感情的，後來演變為對某事充滿強烈熱愛、激情的。",
+      "definition": "1. having or showing strong feelings or a strong belief in something.",
+      "example": [
+        {
+          "eng": "She is a passionate advocate for environmental protection.",
+          "ch": "她是個熱情的環境保護倡導者。"
+        }
+      ]
+    },
+    {
+      "eng": "pastry",
+      "kk": "ˈpeɪstri",
+      "tense": "n.",
+      "ch": [
+        [
+          "糕點",
+          "酥皮點心",
+          "酥皮"
+        ]
+      ],
+      "analysis": "源自中古英語 pastrie，衍生自 paste（麵團、膏狀物，源自希臘語 pastē 稀粥）。指用麵粉、水和大量油脂（如奶油）混合烘焙而成的酥脆麵糰或各類精緻甜點。",
+      "definition": "1. a baked food made of dough rich in butter or fat; a sweet baked good.",
+      "example": [
+        {
+          "eng": "He enjoyed a fresh croissant and a fruit pastry for breakfast.",
+          "ch": "他早餐享用了新鮮的可頌和一份水果酥皮點心。"
+        }
+      ]
+    },
+    {
+      "eng": "patch",
+      "kk": "pætʃ",
+      "tense": "n.",
+      "ch": [
+        [
+          "補丁",
+          "小塊土地",
+          "眼罩"
+        ]
+      ],
+      "analysis": "起源不明的日耳曼語族詞彙（可能與中古荷蘭語 pace 或方言有關）。本義為用來修補破洞的碎布塊，引申為一小塊與周圍不同的土地、斑塊或醫療用眼罩。",
+      "definition": "1. a small piece of material used to mend a torn or worn spot; 2. a small distinct area.",
+      "example": [
+        {
+          "eng": "She sewed a colorful patch onto the knee of his jeans.",
+          "ch": "她在他的牛仔褲膝蓋處縫了一個彩色補丁。"
+        }
+      ]
+    },
+    {
+      "eng": "patch",
+      "kk": "pætʃ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "縫補",
+          "修補",
+          "平息（爭端）"
+        ]
+      ],
+      "analysis": "由 patch 名詞轉化而來的及物動詞，表示用補丁修補衣物，或引申為修補破裂的關係（如 patch up differences）。",
+      "definition": "1. to mend a torn or damaged item by putting a patch on it.",
+      "example": [
+        {
+          "eng": "He tried to patch up the hole in his old tent before the camping trip.",
+          "ch": "他在露營之旅前試著修補舊帳篷上的洞。"
+        }
+      ]
+    },
+    {
+      "eng": "patent",
+      "kk": "ˈpætənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "專利",
+          "專利證書"
+        ]
+      ],
+      "analysis": "源自拉丁語 litterae patentes（意為「公開的信件」或「特許狀」，源自 patere 敞開、顯露）。中世紀指國王頒發給個人的公開特許狀，後來演變成保護發明專有權的專利證書。",
+      "definition": "1. a government authority or licence conferring a right or title for a set period, especially the sole right to exclude others from making, using, or selling an invention.",
+      "example": [
+        {
+          "eng": "She filed a patent for her new smartphone design.",
+          "ch": "她為她的新款智慧型手機設計申請了專利。"
+        }
+      ]
+    },
+    {
+      "eng": "patent",
+      "kk": "ˈpætənt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "顯而易見的",
+          "明顯的"
+        ]
+      ],
+      "analysis": "保留拉丁語 patere（敞開、明顯）的形容詞用法，指某事像公開的特許狀一樣昭然若揭、毫無疑問。",
+      "definition": "1. easily recognizable; obvious or apparent.",
+      "example": [
+        {
+          "eng": "It was a patent lie, and everyone knew it.",
+          "ch": "這是一個顯而易見的謊言，大家都心知肚明。"
+        }
+      ]
+    },
+    {
+      "eng": "pathetic",
+      "kk": "pəˈθɛtɪk",
+      "tense": "adj.",
+      "ch": [
+        [
+          "可憐的",
+          "悲慘的",
+          "令人洩氣的"
+        ]
+      ],
+      "analysis": "源自希臘語 pathetikos（源於 pathos 情感、痛苦）。原意為「引起情感共鳴的、動人的」，但在現代英語中，貶義色彩加重，多用來形容人或事物因無能、軟弱而令人感到可憐、鄙視或差勁。",
+      "definition": "1. arousing pity, especially through vulnerability or sadness; 2. miserably inadequate.",
+      "example": [
+        {
+          "eng": "The stray dog looked so pathetic in the cold rain.",
+          "ch": "那隻流浪狗在冰冷的雨中看起來好可憐。"
+        }
+      ]
+    },
+    {
+      "eng": "patrol",
+      "kk": "pəˈtroʊl",
+      "tense": "n.",
+      "ch": [
+        [
+          "巡邏",
+          "巡邏隊"
+        ]
+      ],
+      "analysis": "源自法語 patrouiller（早期法語意為在泥地中踩踏、蹣跚，源自 patte 爪子）。後演變為軍警為了維護安全而在特定區域來回巡視的行動或隊伍。",
+      "definition": "1. the action of moving around an area to guard and supervise it; a group of people doing this.",
+      "example": [
+        {
+          "eng": "The police car went on its routine night patrol.",
+          "ch": "警車進行例行的夜間巡邏。"
+        }
+      ]
+    },
+    {
+      "eng": "patrol",
+      "kk": "pəˈtroʊl",
+      "tense": "vt.",
+      "ch": [
+        [
+          "巡邏",
+          "巡視"
+        ]
+      ],
+      "analysis": "由 patrol 名詞轉化而來的及物動詞，指警察、保全或軍隊在區域內定期巡視以確保安全。",
+      "definition": "1. to keep watch over an area by regularly walking or traveling around it.",
+      "example": [
+        {
+          "eng": "Security guards patrol the building every hour.",
+          "ch": "保全人員每小時巡邏這棟建築一次。"
+        }
+      ]
+    },
+    {
+      "eng": "patron",
+      "kk": "ˈpeɪtrən",
+      "tense": "n.",
+      "ch": [
+        [
+          "贊助人",
+          "資助者"
+        ],
+        [
+          "老主顧",
+          "常客"
+        ]
+      ],
+      "analysis": "源自拉丁語 patronus（保護人、主人，源自 pater 父親）。古羅馬時期指保護釋放奴隸或客戶的貴族；中世紀後演變為藝術、慈善事業的贊助人，亦指商店或餐廳的常客、老顧客。",
+      "definition": "1. a person who gives financial or other support to a person, organization, or cause; 2. a regular customer of a store, restaurant, or hotel.",
+      "example": [
+        {
+          "eng": "The museum relies heavily on wealthy patrons for financial support.",
+          "ch": "該博物館在財務支持上高度依賴富有的贊助人。"
+        },
+        {
+          "eng": "The cafe is a popular meeting place for local patrons.",
+          "ch": "這間咖啡館是當地常客熱門的聚會場所。"
+        }
+      ]
+    },
+    {
+      "eng": "peasant",
+      "kk": "ˈpɛzənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "農夫",
+          "佃農",
+          "鄉下人"
+        ]
+      ],
+      "analysis": "源自古法語 paisant（源自 pays 國家、鄉村，根源於拉丁語 pagus 鄉村）。在中世紀歐洲指擁有小塊土地或耕作維生的貧苦農民或鄉下居民。",
+      "definition": "1. a poor smallholder or agricultural laborer of low social status in a historical or developing society.",
+      "example": [
+        {
+          "eng": "Medieval peasants worked long hours on the lord's land.",
+          "ch": "中古時期農夫在領主的土地上長時間勞動。"
+        }
+      ]
+    },
+    {
+      "eng": "pedal",
+      "kk": "ˈpɛdəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "踏板",
+          "腳踏板"
+        ]
+      ],
+      "analysis": "源自法語，根源於拉丁語 pes（屬格 pedis，意為「腳」）。指用腳踩踏以控制機械、樂器（如鋼琴）或自行車運作的部件。",
+      "definition": "1. a foot-operated lever or control used to power or regulate a mechanism, vehicle, or instrument.",
+      "example": [
+        {
+          "eng": "She pressed the brake pedal to slow down the car.",
+          "ch": "她踩下煞車踏板讓車子減速。"
+        }
+      ]
+    },
+    {
+      "eng": "pedal",
+      "kk": "ˈpɛdəl",
+      "tense": "vi.",
+      "ch": [
+        [
+          "踩踏板",
+          "騎自行車"
+        ]
+      ],
+      "analysis": "由 pedal 名詞轉化而來的不及物動詞，指踩動腳踏板以驅動自行車或類似機械前進。",
+      "definition": "1. to push the pedals of a bicycle or other machine to move it forward.",
+      "example": [
+        {
+          "eng": "He pedalled hard to get up the steep hill.",
+          "ch": "他用力踩踏板以爬上陡峭的小山丘。"
+        }
+      ]
+    },
+    {
+      "eng": "pedestrian",
+      "kk": "pəˈdɛstriən",
+      "tense": "n.",
+      "ch": [
+        [
+          "行人",
+          "步行者"
+        ]
+      ],
+      "analysis": "源自拉丁語 pedester（步行的人，源於 pes 腳）。最初指步行者，後來演變為交通法規與城市規劃中專指走在路上的行人。",
+      "definition": "1. a person walking along a road or in a developed area rather than traveling in a vehicle.",
+      "example": [
+        {
+          "eng": "Pedestrians must use the crosswalk to cross the busy street safely.",
+          "ch": "行人必須使用斑馬線以安全穿越繁忙的街道。"
+        }
+      ]
+    },
+    {
+      "eng": "pedestrian",
+      "kk": "pəˈdɛstriən",
+      "tense": "adj.",
+      "ch": [
+        [
+          "行人的",
+          "步行的"
+        ],
+        [
+          "平淡無奇的",
+          "乏味的"
+        ]
+      ],
+      "analysis": "由名詞轉化而來的形容詞。字面義為「與步行相關的」，引申為「像走路一樣緩慢、缺乏創意、平凡乏味的」。",
+      "definition": "1. relating to walking; 2. lacking imagination; commonplace, dull, or ordinary.",
+      "example": [
+        {
+          "eng": "The city center features wide pedestrian zones for shoppers.",
+          "ch": "市中心設有供購物者使用的寬闊步行區。"
+        },
+        {
+          "eng": "Despite the high budget, the movie had a rather pedestrian plot.",
+          "ch": "儘管預算很高，這部電影的劇情卻相當平淡乏味。"
+        }
+      ]
+    },
+    {
+      "eng": "penetrate",
+      "kk": "ˈpɛnəˌtreɪt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "穿透",
+          "滲入"
+        ],
+        [
+          "看穿",
+          "洞察"
+        ]
+      ],
+      "analysis": "源自拉丁語 penetratus（動詞 penetrare 的過去分詞，由 penitus 內部、深處複合而成）。本義為進入內部、穿透物質表面，抽象引申為深入理解、看穿偽裝。",
+      "definition": "1. to go into or through something, often with force; 2. to understand or see through something complex.",
+      "example": [
+        {
+          "eng": "The bullet failed to penetrate the thick glass window.",
+          "ch": "子彈未能穿透厚實的玻璃窗。"
+        },
+        {
+          "eng": "It is difficult to penetrate the secrecy surrounding the organization.",
+          "ch": "很難看穿圍繞著該組織的重重神祕。"
+        }
+      ]
+    },
+    {
+      "eng": "pension",
+      "kk": "ˈpɛnʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "退休金",
+          "養老金"
+        ]
+      ],
+      "analysis": "源自拉丁語 pensio（支付、款項，源自 pendere 支付、懸掛衡量）。在中世紀歐洲原指支付給某人的定期津貼或學費，後來演變成雇主或政府支付給退休人員的養老金。",
+      "definition": "1. a regular payment made during a person's retirement from an investment fund to which that person has contributed.",
+      "example": [
+        {
+          "eng": "He retired last year and now lives comfortably on his pension.",
+          "ch": "他去年退休，現在靠著退休金過著舒適的生活。"
+        }
+      ]
+    },
+    {
+      "eng": "perceive",
+      "kk": "pərˈsiːv",
+      "tense": "vt.",
+      "ch": [
+        [
+          "察覺",
+          "感知"
+        ],
+        [
+          "理解",
+          "視為"
+        ]
+      ],
+      "analysis": "源自古法語 perceiver，根源於拉丁語 percipere（per- 強調 + capere 拿取、捕捉）。原意為「完全掌握、在心中捕捉」，引申為透過感官察覺事物，或在心智上理解、看待某事。",
+      "definition": "1. to become aware or conscious of something; 2. to come to realize or understand in a specific way.",
+      "example": [
+        {
+          "eng": "She could perceive a faint light in the distance through the fog.",
+          "ch": "她能透過霧氣察覺遠處的一絲微光。"
+        },
+        {
+          "eng": "Many people perceive the new tax policy as unfair.",
+          "ch": "許多人把這項新稅收政策視為不公。"
+        }
+      ]
+    },
+    {
+      "eng": "perception",
+      "kk": "pərˈsɛpʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "感知",
+          "洞察力"
+        ],
+        [
+          "觀念",
+          "看法"
+        ]
+      ],
+      "analysis": "源自拉丁語 perceptio（動詞 percipere 的名詞形式）。指感官對外界事物的接收與解釋，或指大眾對於某人、某事物的心理觀感與看法。",
+      "definition": "1. the ability to see, hear, or become aware of something through the senses; 2. a way of regarding, understanding, or interpreting something.",
+      "example": [
+        {
+          "eng": "Art enhances our visual perception of the world around us.",
+          "ch": "藝術提升了我們對周遭世界的視覺感知。"
+        },
+        {
+          "eng": "The politician is trying to change public perception of his scandals.",
+          "ch": "這位政治人物正試圖改變大眾對他醜聞的觀感。"
+        }
+      ]
+    },
+    {
+      "eng": "performer",
+      "kk": "pərˈfɔrmər",
+      "tense": "n.",
+      "ch": [
+        [
+          "表演者",
+          "演出者"
+        ],
+        [
+          "表現者"
+        ]
+      ],
+      "analysis": "由動詞 perform（履行、表演，源自古法語 parformer）加上名詞字尾 -er 構成。指在舞台上表演的藝人，或指在工作、學業中有特定表現水準的人。",
+      "definition": "1. a person who entertains an audience, such as an actor, musician, or dancer; 2. a person who performs in a specified way.",
+      "example": [
+        {
+          "eng": "The street performer captivated the crowd with his magic tricks.",
+          "ch": "這位街頭表演者以他的魔術把戲吸引了眾人目光。"
+        },
+        {
+          "eng": "She is a top performer in our sales department.",
+          "ch": "她是我們業務部門表現頂尖的員工。"
+        }
+      ]
+    },
+    {
+      "eng": "persist",
+      "kk": "pərˈsɪst",
+      "tense": "vi.",
+      "ch": [
+        [
+          "堅持",
+          "執意"
+        ],
+        [
+          "持續",
+          "存留"
+        ]
+      ],
+      "analysis": "源自拉丁語 persistere（per- 持續 + sistere 站立、使停止）。字面義為「堅定地站著不動」，引申為在困難或勸阻下依然堅持某個行為或觀點，或指不良情況持續存在。",
+      "definition": "1. to continue firmly in an opinion or a course of action in spite of difficulty or opposition; 2. to continue to exist.",
+      "example": [
+        {
+          "eng": "If symptoms persist, you should consult a doctor immediately.",
+          "ch": "如果症狀持續，你應該立即就醫。"
+        },
+        {
+          "eng": "Why do you persist in blaming yourself for the mistake?",
+          "ch": "你為什麼堅持要把這個錯誤怪罪在自己身上？"
+        }
+      ]
+    },
+    {
+      "eng": "personnel",
+      "kk": "ˌpɜrsəˈnɛl",
+      "tense": "n.",
+      "ch": [
+        [
+          "全體人員",
+          "員工"
+        ],
+        [
+          "人事部門"
+        ]
+      ],
+      "analysis": "源自法語 personnel（源於法語 personne 個人）。在英語中作為集合名詞使用，指機構、公司或軍隊中的全體工作人員，或指負責管理員工的人事部門。",
+      "definition": "1. the people employed in an organization or engaged in a military service; 2. the department dealing with staff.",
+      "example": [
+        {
+          "eng": "All military personnel are required to report for duty on Monday.",
+          "ch": "所有軍事人員都被要求在周一報到值勤。"
+        },
+        {
+          "eng": "Please submit your resume to the personnel department.",
+          "ch": "請將您的履歷提交給人事部門。"
+        }
+      ]
+    },
+    {
+      "eng": "perspective",
+      "kk": "pərˈspɛktɪv",
+      "tense": "n.",
+      "ch": [
+        [
+          "觀點",
+          "視角"
+        ],
+        [
+          "透視法"
+        ]
+      ],
+      "analysis": "源自中古拉丁語 perspectiva（optica）（源於拉丁語 perspicere 看穿、透視）。原意為美術上的透視畫法（在平面上呈現遠近空間感），引申為心智上的觀察視角、看事情的角度。",
+      "definition": "1. a particular attitude toward or way of regarding something; a point of view; 2. the art of representing three-dimensional objects on a two-dimensional surface.",
+      "example": [
+        {
+          "eng": "Traveling abroad gives you a fresh perspective on life.",
+          "ch": "出國旅遊能帶給你對生活全新的觀點。"
+        },
+        {
+          "eng": "The artist used linear perspective to create depth in the painting.",
+          "ch": "這位藝術家利用線代透視法在畫作中創造出深遠感。"
+        }
+      ]
+    },
+    {
+      "eng": "pessimism",
+      "kk": "ˈpɛsəˌmɪzəm",
+      "tense": "n.",
+      "ch": [
+        [
+          "悲觀",
+          "悲觀主義"
+        ]
+      ],
+      "analysis": "源自法語 pessimisme，由拉丁語 pessimus（最壞的，形容詞 malus 的最高級）加上名詞字尾 -ism 構成。指傾向於看到事物最壞一面、對未來抱持消極看法的心理狀態或哲學思潮。",
+      "definition": "1. a tendency to see the worst aspect of things or believe that the worst will happen.",
+      "example": [
+        {
+          "eng": "Economic stagnation has led to widespread pessimism among investors.",
+          "ch": "經濟停滯導致投資人之間出現普遍的悲觀情緒。"
+        }
+      ]
+    },
+    {
+      "eng": "petition",
+      "kk": "pəˈtɪʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "請願書",
+          "請願",
+          "訴狀"
+        ]
+      ],
+      "analysis": "源自拉丁語 petitio（請求、尋求，源於 petere 尋求、攻擊）。指由群眾簽署、向政府或權威機構提交的正式請願書，或法律上的訴狀。",
+      "definition": "1. a formal written request, typically one signed by many people, appealing to authority with respect to a particular cause.",
+      "example": [
+        {
+          "eng": "Citizens gathered signatures for a petition to save the historic park.",
+          "ch": "市民們為一份旨在拯救歷史公園的請願書收集簽名。"
+        }
+      ]
+    },
+    {
+      "eng": "petition",
+      "kk": "pəˈtɪʃən",
+      "tense": "vt.",
+      "ch": [
+        [
+          "請願",
+          "向……正式請求"
+        ]
+      ],
+      "analysis": "由 petition 名詞轉化而來的及物動詞，指透過遞交請願書或正式文件向政府、法院提出請求。",
+      "definition": "1. to make a formal written request to someone in authority.",
+      "example": [
+        {
+          "eng": "Local residents petitioned the council to install traffic lights.",
+          "ch": "當地居民向市議會請願安裝紅綠燈。"
+        }
+      ]
+    },
+    {
+      "eng": "petty",
+      "kk": "ˈpɛti",
+      "tense": "adj.",
+      "ch": [
+        [
+          "瑣碎的",
+          "小規模的"
+        ],
+        [
+          "氣量小的",
+          "小肚雞腸的"
+        ]
+      ],
+      "analysis": "源自古法語 petit（小的）。在現代英語中多用來形容微不足道的小事，或指人心胸狹窄、計較小事的性格。",
+      "definition": "1. of little importance; trivial; 2. of secondary importance or narrow-minded.",
+      "example": [
+        {
+          "eng": "He always gets angry over petty matters.",
+          "ch": "他總是為了微不足道的小事生氣。"
+        },
+        {
+          "eng": "She refused to engage in petty workplace gossip.",
+          "ch": "她拒絕參與職場上的無聊八卦。"
+        }
+      ]
+    },
+    {
+      "eng": "phase",
+      "kk": "feɪz",
+      "tense": "n.",
+      "ch": [
+        [
+          "階段",
+          "時期"
+        ],
+        [
+          "月相",
+          "盈虧"
+        ]
+      ],
+      "analysis": "源自近代法語或直接由希臘語 phasis（出現、天體盈虧，源於 phainein 顯現）演變而來。最初指月亮或行星的盈虧圓缺狀態，後引申為發展過程中的不同階段或時期。",
+      "definition": "1. a distinct period or stage in a process of development or chain of events; 2. any stage in a series of changes, such as the moon's phases.",
+      "example": [
+        {
+          "eng": "The construction project is now entering its final phase.",
+          "ch": "這項建設工程目前正進入最後階段。"
+        },
+        {
+          "eng": "We can observe the different phases of the moon through a telescope.",
+          "ch": "我們可以透過望遠鏡觀察月亮的各種月相。"
+        }
+      ]
+    },
+    {
+      "eng": "photographic",
+      "kk": "ˌfoʊtəˈɡræfɪk",
+      "tense": "adj.",
+      "ch": [
+        [
+          "攝影的",
+          "照相的"
+        ],
+        [
+          "影像的",
+          "記憶力極佳的"
+        ]
+      ],
+      "analysis": "由名詞 photograph（照片，由希臘語 phōs 光 + graphein 書寫組成）加上形容詞字尾 -ic 構成。指與攝影技術相關的，或形容記憶力像相片般精確清晰（photographic memory）。",
+      "definition": "1. relating to or made by photography; 2. resembling a photograph in detail and accuracy.",
+      "example": [
+        {
+          "eng": "She captured stunning photographic evidence of the rare wildlife.",
+          "ch": "她拍下了珍貴野生動物令人驚嘆的攝影證據。"
+        },
+        {
+          "eng": "He has a photographic memory and can recall every detail of the book.",
+          "ch": "他擁有過目不忘的記憶力，能記起書中的每一個細節。"
+        }
+      ]
+    },
+    {
+      "eng": "pickup",
+      "kk": "ˈpɪkˌʌp",
+      "tense": "n.",
+      "ch": [
+        [
+          "皮卡車",
+          "小型貨車"
+        ],
+        [
+          "拾起",
+          "增加",
+          "改善"
+        ]
+      ],
+      "analysis": "由片語動詞 pick up（拾起、接載、車輛加速）轉化而來的複合名詞。最常見於指貨卡車（pickup truck），亦可指接人、拾起或生意回溫。",
+      "definition": "1. a truck with an enclosed cab and an open body with low sides; 2. an improvement or increase in something.",
+      "example": [
+        {
+          "eng": "He loaded the boxes into the back of his pickup truck.",
+          "ch": "他把箱子裝進他的皮卡車後斗。"
+        },
+        {
+          "eng": "There was a sudden pickup in sales during the holiday season.",
+          "ch": "假期期間銷售額突然出現了回升。"
+        }
+      ]
+    },
+    {
+      "eng": "pier",
+      "kk": "pɪr",
+      "tense": "n.",
+      "ch": [
+        [
+          "碼頭",
+          "棧橋"
+        ],
+        [
+          "橋墩"
+        ]
+      ],
+      "analysis": "源自中古英語 pier，根源於古法語 piere 或拉丁語 petra（石頭）。原本指用石頭建造的橋墩或深入水中的石造碼頭，後來泛指伸入水中的木造或石造棧橋。",
+      "definition": "1. a structure built out into the water, used as a landing place for boats or for walking on; 2. a solid support for a bridge.",
+      "example": [
+        {
+          "eng": "We took a romantic evening stroll along the wooden pier.",
+          "ch": "我們在木造碼頭上散步，度過了一個浪漫的夜晚。"
+        },
+        {
+          "eng": "Engineers reinforced the concrete piers supporting the bridge.",
+          "ch": "工程師加固了支撐橋梁的混凝土橋墩。"
+        }
+      ]
+    },
+    {
+      "eng": "pillar",
+      "kk": "ˈpɪlər",
+      "tense": "n.",
+      "ch": [
+        [
+          "柱子",
+          "支柱"
+        ],
+        [
+          "中流砥柱",
+          "核心支柱"
+        ]
+      ],
+      "analysis": "源自中古英語 piler，根源於古法語 piler 或拉丁語 pila（石柱、堤壩支柱）。本義為建築物中用以承重的石柱或木柱，抽象引申為支撐某個團體或機構的重要人物或核心價值（如社會的中流砥柱）。",
+      "definition": "1. a tall vertical structure of stone, wood, or metal used as a support for a building; 2. an important person or principle that supports a system.",
+      "example": [
+        {
+          "eng": "Marble pillars supported the grand entrance of the museum.",
+          "ch": "大理石柱支撐著博物館宏偉的入口。"
+        },
+        {
+          "eng": "He has been a pillar of the local community for decades.",
+          "ch": "數十年來，他一直是當地社區的中流砥柱。"
+        }
+      ]
+    },
+    {
+      "eng": "pipeline",
+      "kk": "ˈpaɪˌplaɪn",
+      "tense": "n.",
+      "ch": [
+        [
+          "管線",
+          "輸送管"
+        ],
+        [
+          "籌備中",
+          "進行中"
+        ]
+      ],
+      "analysis": "由名詞 pipe（管子）與 line（線條、路徑）複合而成的現代名詞。原指長距離輸送石油或天然氣的地下管線，引申為計畫、產品正在籌備或審核中的管道（in the pipeline）。",
+      "definition": "1. a long pipe for transporting oil, gas, etc. over long distances; 2. a route or process through which something is supplied or developed.",
+      "example": [
+        {
+          "eng": "Workers inspected the oil pipeline for potential leaks.",
+          "ch": "工人們檢查輸油管線是否有潛在的洩漏。"
+        },
+        {
+          "eng": "Several new software products are currently in the pipeline.",
+          "ch": "幾款新的軟體產品目前正在籌備開發中。"
+        }
+      ]
+    },
+    {
+      "eng": "pirate",
+      "kk": "ˈpaɪrət",
+      "tense": "n.",
+      "ch": [
+        [
+          "海盜"
+        ],
+        [
+          "盜版商",
+          "侵權者"
+        ]
+      ],
+      "analysis": "源自拉丁語 pirata，源於希臘語 peiratēs（海盜，源於 peiran 嘗試、襲擊）。原指在海上劫掠船隻的海盜，現代引申為非法複製、販售智慧財產權的盜版者。",
+      "definition": "1. a person who attacks and robs ships at sea; 2. a person who illegally copies and sells software, videos, or books.",
+      "example": [
+        {
+          "eng": "Classic pirate stories often feature characters searching for hidden treasure.",
+          "ch": "經典的海盜故事常以尋找隱藏寶藏的角色為特色。"
+        },
+        {
+          "eng": "The software company cracked down hard on digital pirates.",
+          "ch": "該軟體公司大力打擊數位盜版商。"
+        }
+      ]
+    },
+    {
+      "eng": "pirate",
+      "kk": "ˈpaɪrət",
+      "tense": "vt.",
+      "ch": [
+        [
+          "盜版",
+          "非法複製",
+          "掠奪"
+        ]
+      ],
+      "analysis": "由 pirate 名詞轉化而來的及物動詞，指非法複製或散布受版權保護的軟體、書籍、音樂或影片。",
+      "definition": "1. to illegally reproduce and sell copyrighted material.",
+      "example": [
+        {
+          "eng": "The website was shut down for pirating Hollywood movies.",
+          "ch": "該網站因盜版好萊塢電影而被查封。"
+        }
+      ]
+    },
+    {
+      "eng": "pitcher",
+      "kk": "ˈpɪtʃər",
+      "tense": "n.",
+      "ch": [
+        [
+          "投手",
+          "投球手"
+        ],
+        [
+          "水罐",
+          "大口瓶"
+        ]
+      ],
+      "analysis": "此字為同形異源詞的合併：1. 棒球中的「投手」，源自動詞 pitch（投、擲）；2. 裝水的大口水罐，源自中古英語 picher（源於古法語 pichier 或希臘語 bikos 酒罐）。",
+      "definition": "1. the player in baseball who throws the ball to the batter; 2. a large jug with a handle and a spout for holding and pouring liquids.",
+      "example": [
+        {
+          "eng": "The starting pitcher struck out ten batters in the game.",
+          "ch": "先發投手在這場比賽中三振了十名打者。"
+        },
+        {
+          "eng": "She filled the glass pitcher with ice water and lemonade.",
+          "ch": "她把玻璃水罐裝滿冰水和檸檬汁。"
+        }
+      ]
+    },
+    {
+      "eng": "placement",
+      "kk": "ˈpleɪsmənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "放置",
+          "安置"
+        ],
+        [
+          "實習工作安排"
+        ]
+      ],
+      "analysis": "由動詞 place（放置，源自古法語 place）加上名詞字尾 -ment 構成。指將人或物妥善安置在特定位置的行為，或指學生獲得的短期實習工作機會。",
+      "definition": "1. the action of putting someone or something in a particular place or position; 2. a temporary job obtained to gain work experience.",
+      "example": [
+        {
+          "eng": "The correct placement of furniture can make a room look bigger.",
+          "ch": "家具的正確擺放能讓房間看起來更大。"
+        },
+        {
+          "eng": "She secured a summer work placement at a major law firm.",
+          "ch": "她在一家大型律師事務所獲得了一份暑期實習工作。"
+        }
+      ]
+    },
+    {
+      "eng": "plea",
+      "kk": "pliː",
+      "tense": "n.",
+      "ch": [
+        [
+          "懇求",
+          "請求"
+        ],
+        [
+          "抗辯",
+          "答辯"
+        ]
+      ],
+      "analysis": "源自古法語 plait（訴訟、協議，源於拉丁語 placitum 決定、法令）。最初指法庭上的抗辯理由或答辯，後來引申為向大眾或權威發出的強烈懇求、哀求。",
+      "definition": "1. an urgent and emotional request; 2. a defendant's answer to a charge in a law court.",
+      "example": [
+        {
+          "eng": "The charity issued a desperate plea for food and clothing donations.",
+          "ch": "該慈善機構發出了一項迫切的食物與衣物捐贈懇求。"
+        },
+        {
+          "eng": "The defendant entered a plea of not guilty.",
+          "ch": "被告做出了無罪抗辯。"
+        }
+      ]
+    },
+    {
+      "eng": "plead",
+      "kk": "pliːd",
+      "tense": "v.",
+      "ch": [
+        [
+          "懇求",
+          "乞求"
+        ],
+        [
+          "認罪",
+          "抗辯"
+        ]
+      ],
+      "analysis": "源自中古英語 pleden，源於古法語 pledier（進行訴訟）。本義為在法庭上為自己辯護、認罪（如 plead guilty），引申為向某人低聲下氣地懇求。",
+      "definition": "1. to make an emotional appeal; to beg; 2. to state formally in court whether one is guilty or not guilty.",
+      "example": [
+        {
+          "eng": "He had to plead with his parents for permission to go on the trip.",
+          "ch": "他不得不懇求父母允許他去旅行。"
+        },
+        {
+          "eng": "The accused chose to plead not guilty to the charges.",
+          "ch": "被告選擇對指控做無罪抗辯。"
+        }
+      ]
+    },
+    {
+      "eng": "pledge",
+      "kk": "plɛdʒ",
+      "tense": "n.",
+      "ch": [
+        [
+          "保證",
+          "誓言"
+        ],
+        [
+          "抵押品"
+        ]
+      ],
+      "analysis": "源自古法語 plevine（保證、擔保），拉丁語源頭與日耳曼語族有關。原指借貸時留下的質押物或人質保證，後演變為莊嚴的承諾、誓言或捐款保證。",
+      "definition": "1. a solemn promise or undertaking; 2. a thing given as security for the fulfillment of a contract.",
+      "example": [
+        {
+          "eng": "The government made a pledge to reduce carbon emissions.",
+          "ch": "政府做出了減少碳排放的保證。"
+        }
+      ]
+    },
+    {
+      "eng": "pledge",
+      "kk": "plɛdʒ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "發誓",
+          "保證",
+          "發起捐款承諾"
+        ]
+      ],
+      "analysis": "由 pledge 名詞轉化而來的及物動詞，指莊嚴承諾提供金錢、支持或忠誠。",
+      "definition": "1. to make a solemn promise to do something or give something.",
+      "example": [
+        {
+          "eng": "Several companies pledged millions of dollars to earthquake relief.",
+          "ch": "幾家公司承諾捐贈數百萬美元用於地震救援。"
+        }
+      ]
+    },
+    {
+      "eng": "plunge",
+      "kk": "plʌndʒ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使陷入",
+          "將……插入"
+        ]
+      ],
+      "analysis": "由 plunge 的不及物義延伸而來的及物用法，表示將某物猛力刺入，或使人、國家突然陷入某種困境中。",
+      "definition": "1. to push or thrust something forcefully into something.",
+      "example": [
+        {
+          "eng": "The scandal plunged the entire political system into crisis.",
+          "ch": "這場醜聞使整個政治體系陷入危機。"
+        }
+      ]
+    },
+    {
+      "eng": "plunge",
+      "kk": "plʌndʒ",
+      "tense": "vi.",
+      "ch": [
+        [
+          "暴跌",
+          "驟降"
+        ],
+        [
+          "投入",
+          "跳入"
+        ]
+      ],
+      "analysis": "源自古法語 plongier（源於拉丁語 plumbum 鉛，意為「像鉛錘一樣沉入水中」）。本義為猛然跳入水中，引申為價格、數據的直線暴跌，或勇於投入某項困難的事務中。",
+      "definition": "1. to decrease suddenly and quickly; 2. to jump or dive quickly and energetically.",
+      "example": [
+        {
+          "eng": "Stock prices plunged following the unexpected economic news.",
+          "ch": "在未預期的經濟消息公布後，股價暴跌。"
+        },
+        {
+          "eng": "He took a deep breath and decided to plunge into the cold water.",
+          "ch": "他深吸了一口氣，決定跳進冰冷的水中。"
+        }
+      ]
+    },
+    {
+      "eng": "plural",
+      "kk": "ˈplʊrəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "複數",
+          "複數形"
+        ]
+      ],
+      "analysis": "由形容詞 plural 轉化而來的名詞，指單字表達兩個或以上概念時的語法型態。",
+      "definition": "1. the plural form of a word.",
+      "example": [
+        {
+          "eng": "Remember to use the plural when there are two or more items.",
+          "ch": "當有兩個或更多項目時，記得使用複數形。"
+        }
+      ]
+    },
+    {
+      "eng": "plural",
+      "kk": "ˈplʊrəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "複數的",
+          "多數的"
+        ]
+      ],
+      "analysis": "源自拉丁語 pluralis（源於 plus 更多）。在語法學中專指「代表兩個或兩個以上事物的複數形」，在社會學中指多元的（pluralistic）。",
+      "definition": "1. denoting a form of a word used to refer to more than one person or thing.",
+      "example": [
+        {
+          "eng": "The plural form of 'child' is 'children'.",
+          "ch": "「child」的複數形是「children」。"
+        }
+      ]
+    },
+    {
+      "eng": "poetic",
+      "kk": "poʊˈɛtɪk",
+      "tense": "adj.",
+      "ch": [
+        [
+          "詩的",
+          "富有詩意的",
+          "美妙的"
+        ]
+      ],
+      "analysis": "源自希臘語 poiētikos（源於 poiētēs 詩人、製造者，源自 poiein 創作）。指與詩歌創作相關的，或引申為景物、文字具有如同詩歌般優美感人的特質。",
+      "definition": "1. relating to poetry; 2. having an imaginative or expressive quality characteristic of poetry.",
+      "example": [
+        {
+          "eng": "The novel is written in a rich and poetic style.",
+          "ch": "這部小說以豐富且富有詩意的文風寫成。"
+        }
+      ]
+    },
+    {
+      "eng": "poke",
+      "kk": "poʊk",
+      "tense": "vt.",
+      "ch": [
+        [
+          "戳",
+          "刺",
+          "撥弄"
+        ]
+      ],
+      "analysis": "源自中古英語 poken 或中荷蘭語 pochen。本義為用手指、棍棒等尖銳物戳刺，引申為探頭探腦（poke one's nose into）。",
+      "definition": "1. to jab or prod someone or something with a finger or a sharp object.",
+      "example": [
+        {
+          "eng": "He poked his friend in the ribs to wake him up.",
+          "ch": "他戳了朋友的肋骨把他叫醒。"
+        }
+      ]
+    },
+    {
+      "eng": "poke",
+      "kk": "poʊk",
+      "tense": "vi.",
+      "ch": [
+        [
+          "探出",
+          "伸出"
+        ]
+      ],
+      "analysis": "poke 的不及物用法，常用於形容某物從縫隙中凸顯、探出頭來（如 poke out）。",
+      "definition": "1. to protrude or stick out from a surface.",
+      "example": [
+        {
+          "eng": "A small kitten's head poked out from the box.",
+          "ch": "一隻小貓的頭從箱子裡探了出來。"
+        }
+      ]
+    },
+    {
+      "eng": "porch",
+      "kk": "pɔrtʃ",
+      "tense": "n.",
+      "ch": [
+        [
+          "門廊",
+          "走廊",
+          "入口處"
+        ]
+      ],
+      "analysis": "源自古法語 porche，源於拉丁語 porticus（柱廊，源於 porta 門）。指房屋正門外有屋頂遮蔽、供人歇息或進出的建築結構。",
+      "definition": "1. a covered shelter projecting in front of the entrance of a building.",
+      "example": [
+        {
+          "eng": "They sat on the front porch enjoying the cool evening breeze.",
+          "ch": "他們坐在前門廊享受涼爽的晚風。"
+        }
+      ]
+    },
+    {
+      "eng": "portfolio",
+      "kk": "pɔrtˈfoʊliˌoʊ",
+      "tense": "n.",
+      "ch": [
+        [
+          "作品集",
+          "公事包"
+        ],
+        [
+          "投資組合"
+        ]
+      ],
+      "analysis": "源自義大利語 portafogli（porta 攜帶 + fogli 紙張，源於拉丁語 folium 葉子、頁）。原指用來攜帶紙張、文件的大型扁平文件夾或公事包，後來引申為藝術家的作品集，或投資人的股票、資產組合。",
+      "definition": "1. a large, thin flat case for carrying loose sheets of paper or artwork; 2. a collection of financial investments.",
+      "example": [
+        {
+          "eng": "The graphic designer brought her portfolio to the job interview.",
+          "ch": "這位平面設計師帶著她的作品集去參加求職面試。"
+        },
+        {
+          "eng": "Investors are advised to diversify their financial portfolio.",
+          "ch": "建議投資人分散他們的投資組合。"
+        }
+      ]
+    },
+    {
+      "eng": "practitioner",
+      "kk": "prækˈtɪʃənər",
+      "tense": "n.",
+      "ch": [
+        [
+          "從業者",
+          "開業醫生",
+          "實踐者"
+        ]
+      ],
+      "analysis": "由名詞 practice（實踐、業務）加上字尾 -tioner（從事……的人）構成。指實際從事某種專業領域（如醫療、法律或特定技藝）工作的人。",
+      "definition": "1. a person actively engaged in an art, discipline, or profession, especially medicine.",
+      "example": [
+        {
+          "eng": "She is a licensed medical practitioner with years of clinic experience.",
+          "ch": "她是一位擁有多年診所經驗的合格醫師。"
+        }
+      ]
+    }
+  ]
+}

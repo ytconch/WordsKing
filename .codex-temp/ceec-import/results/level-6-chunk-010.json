@@ -1,0 +1,1282 @@
+{
+  "level": 6,
+  "chunkIndex": 10,
+  "inputs": [
+    "illuminate",
+    "imminent",
+    "imperative",
+    "imperial",
+    "implicit",
+    "imposing",
+    "imprison",
+    "imprisonment",
+    "incline",
+    "inclusive",
+    "incur",
+    "indifference",
+    "indignant",
+    "induce",
+    "industrialize",
+    "infectious",
+    "infer",
+    "inflict",
+    "inhabit",
+    "inhabitant",
+    "injustice",
+    "inland",
+    "innumerable",
+    "inquire",
+    "insistence",
+    "instinctive",
+    "intake",
+    "intellect",
+    "interpreter",
+    "intersection",
+    "intervene",
+    "intimacy",
+    "intimidate",
+    "intonation",
+    "intrigue",
+    "intrude",
+    "intruder",
+    "invaluable",
+    "invariably",
+    "inventory",
+    "ironic",
+    "irritable",
+    "irritate",
+    "isle",
+    "itch",
+    "ivy",
+    "jade",
+    "janitor",
+    "jasmine",
+    "jingle"
+  ],
+  "rows": [
+    {
+      "eng": "illuminate",
+      "kk": "/ɪˈluːmɪˌneɪt/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "照亮",
+          "使明亮"
+        ],
+        [
+          "闡明",
+          "啟發",
+          "解釋"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由字首 il-（in- 的同化形式，表示「進入、向內」）加上拉丁語基底 lumen（意為「光」）與動詞字尾 -ate 結合而成。歷史上源自拉丁語 illuminare。語意從字面上的「用光照亮物理空間」，抽象延伸為「使暗沉、艱澀的事物明朗化」，即闡明觀念或啟發心智。",
+      "definition": "1. To light up a space or make something visible with light; 2. To clarify, explain, or make a difficult subject easier to understand.",
+      "example": [
+        {
+          "eng": "The full moon illuminated the dark path.",
+          "ch": "滿月照亮了黑暗的小徑。"
+        },
+        {
+          "eng": "The expert's report illuminated the complex issues.",
+          "ch": "專家的報告闡明了這些複雜的問題。"
+        }
+      ]
+    },
+    {
+      "eng": "imminent",
+      "kk": "/ˈɪmɪnənt/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "即將發生的",
+          "迫近的"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自拉丁語 imminentem（imminere 的現在分詞，意為「懸在上方、逼近」），由 in-（在……上方）與 minere（突出、懸掛）組成。語意演變從具體的「懸在頭頂上方」延伸為抽象的「危險或事件即將發生、迫在眉睫」。",
+      "definition": "1. About to happen very soon, especially of something dangerous or unpleasant.",
+      "example": [
+        {
+          "eng": "The dark clouds suggested that a storm was imminent.",
+          "ch": "烏雲暗示一場暴風雨即將來臨。"
+        }
+      ]
+    },
+    {
+      "eng": "imperative",
+      "kk": "/ɪmˈpɛrətɪv/",
+      "tense": "n.",
+      "ch": [
+        [
+          "必要的事",
+          "當務之急"
+        ],
+        [
+          "祈使句",
+          "命令"
+        ]
+      ],
+      "analysis": "由形容詞轉化而來的名詞，保留了「具有強烈命令性或不可避免之義務」的核心概念，指生活中必須完成的要務，或語法學中的祈使語氣結構。",
+      "definition": "1. Something that is extremely important and must be done; 2. A grammatical mood that expresses commands.",
+      "example": [
+        {
+          "eng": "Protecting the environment has become an ecological imperative.",
+          "ch": "保護環境已成為一項生態上的當務之急。"
+        },
+        {
+          "eng": "The verb in this clause is in the imperative.",
+          "ch": "這個子句中的動詞是祈使語氣。"
+        }
+      ]
+    },
+    {
+      "eng": "imperative",
+      "kk": "/ɪmˈpɛrətɪv/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "必要的",
+          "極重要的",
+          "緊急的"
+        ],
+        [
+          "祈使的",
+          "命令式的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 imperativus，由 imperare（命令、統治）加上形容詞字尾組成。語意從「具備命令性質的」引申為「不容違抗、極為重要且必須優先處理的」，在文法中則指稱祈使句或祈使語氣。",
+      "definition": "1. Extremely important and urgent, needing immediate action; 2. Expressing a command or authoritative instruction.",
+      "example": [
+        {
+          "eng": "It is imperative that we finish the project on time.",
+          "ch": "我們必須按時完成這個專案。"
+        },
+        {
+          "eng": "An imperative sentence gives a direct command.",
+          "ch": "祈使句給出直接的命令。"
+        }
+      ]
+    },
+    {
+      "eng": "imperial",
+      "kk": "/ɪmˈpɪriəl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "帝國的",
+          "皇帝的"
+        ],
+        [
+          "宏大的",
+          "威嚴的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 imperialis，衍生自 imperium（帝國、統治權）。經由中古英語進入現代英語。語意從「屬於皇帝或帝國的」延伸為形容規模宏大、氣勢雄偉的風格。",
+      "definition": "1. Relating to an empire or an emperor; 2. Majestic, grand, or magnificent in scale.",
+      "example": [
+        {
+          "eng": "The museum is housed in an old imperial palace.",
+          "ch": "這座博物館坐落在一座古老的皇宮內。"
+        },
+        {
+          "eng": "The building features an imperial staircase.",
+          "ch": "這棟建築有一座宏偉壯觀的樓梯。"
+        }
+      ]
+    },
+    {
+      "eng": "implicit",
+      "kk": "/ɪmˈplɪsɪt/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "含蓄的",
+          "不言明的",
+          "暗含的"
+        ],
+        [
+          "無條件的",
+          "絕對的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 implicitus（implicare 的過去分詞，意為「纏繞在裡面、交織」），由 in-（進入）與 plicare（折疊）組成。字面意為「折疊在內部的」，語意從「未明說但隱含其中」演變出「不懷疑、完全信任的無條件狀態」。",
+      "definition": "1. Suggested though not plainly expressed; 2. Absolute and unquestioning.",
+      "example": [
+        {
+          "eng": "There was an implicit agreement between them.",
+          "ch": "他們之間存在著一項默契。"
+        },
+        {
+          "eng": "She had implicit faith in her teacher's advice.",
+          "ch": "她對老師的建議有絕對的信任。"
+        }
+      ]
+    },
+    {
+      "eng": "imposing",
+      "kk": "/ɪmˈpoʊzɪŋ/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "壯麗的",
+          "宏偉的",
+          "威風凜凜的"
+        ]
+      ],
+      "analysis": "此字為動詞 impose（強加、施加）的現在分詞轉化而來的形容詞。字面意為「給人深刻印象、施加影響的」，現代英語中專門用來形容建築、外表或氣勢因巨大、莊嚴而令人敬畏。",
+      "definition": "1. Grand and impressive in appearance, size, or style.",
+      "example": [
+        {
+          "eng": "The castle has an imposing stone gateway.",
+          "ch": "這座城堡有一個宏偉的石造大門。"
+        }
+      ]
+    },
+    {
+      "eng": "imprison",
+      "kk": "/ɪmˈprɪzən/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "監禁",
+          "關押",
+          "禁錮"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由字首 im-（in- 的同化形式，表示「進入、置於……之中」）與名詞 prison（監獄）結合而成的動詞。歷史上經由古法語傳入。語意為「將某人置於監獄中或剝奪其自由」。",
+      "definition": "1. To put someone in prison or keep them in a place from which they cannot escape.",
+      "example": [
+        {
+          "eng": "The corrupt official was finally imprisoned for fraud.",
+          "ch": "這名貪腐官員最終因詐欺罪被判入獄。"
+        }
+      ]
+    },
+    {
+      "eng": "imprisonment",
+      "kk": "/ɪmˈprɪzənmənt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "監禁",
+          "坐牢",
+          "有限自由的剝奪"
+        ]
+      ],
+      "analysis": "此字為動詞 imprison 加上名詞字尾 -ment 構成的衍生名詞，用來表示「被監禁的狀態或過程」。",
+      "definition": "1. The state of being kept in prison, or the penalty of being put in prison.",
+      "example": [
+        {
+          "eng": "He faces a maximum sentence of five years' imprisonment.",
+          "ch": "他面臨最高五年的有期徒刑。"
+        }
+      ]
+    },
+    {
+      "eng": "incline",
+      "kk": "/ɪnˈklaɪn/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使傾向於",
+          "使意欲"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 inclinare，由 in-（向內、朝向）與 clinare（彎曲、傾斜）組成。作為及物動詞時，常指心理或意向上的引導，使人傾向於某種想法或決定。",
+      "definition": "1. To influence someone to lean towards a particular opinion or course of action.",
+      "example": [
+        {
+          "eng": "Current research inclines me to believe the theory is correct.",
+          "ch": "目前的研究所得傾向於讓我相信該理論是正確的。"
+        }
+      ]
+    },
+    {
+      "eng": "incline",
+      "kk": "/ˈɪŋklaɪn/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "傾向",
+          "意向於"
+        ],
+        [
+          "傾斜",
+          "傾向於某角度"
+        ]
+      ],
+      "analysis": "作為不及物動詞，保留字源「彎曲、傾斜」的物理意義，並引申為心理上對某種立場或行為的傾向、讚同。",
+      "definition": "1. To tend to lean towards a particular opinion, attitude, or choice; 2. To slope at an angle from the horizontal or vertical.",
+      "example": [
+        {
+          "eng": "I incline to the view that we should wait.",
+          "ch": "我傾向於我們應該等待的看法。"
+        },
+        {
+          "eng": "The road inclines upward as it approaches the mountain.",
+          "ch": "道路在接近山區時向上傾斜。"
+        }
+      ]
+    },
+    {
+      "eng": "inclusive",
+      "kk": "/ɪnˈkluːsɪv/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "包括首尾在內的",
+          "包含範圍廣泛的"
+        ],
+        [
+          "具包容性的",
+          "不排外的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 inclusus（includere 的過去分詞，意為「關在裡面」），由 in-（在裡面）與 claudere（關閉）組成。語意從「把所有相關部分都關在同一個範圍內」演變為「費用全包的」或「社會上不排斥任何特定群體的包容性」。",
+      "definition": "1. Including everything or everyone concerned; 2. Adopting a broad approach that does not exclude any group of people.",
+      "example": [
+        {
+          "eng": "The tour price is all-inclusive, covering meals and accommodation.",
+          "ch": "旅遊價格是全包式的，涵蓋餐食與住宿。"
+        },
+        {
+          "eng": "The school strives to create an inclusive learning environment.",
+          "ch": "學校致力於營造一個具包容性的學習環境。"
+        }
+      ]
+    },
+    {
+      "eng": "incur",
+      "kk": "/ɪnˈkɜːr/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "招致",
+          "惹上",
+          "帶來（不良後果等）"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 incurrere，由 in-（跑向、朝向）與 currere（奔跑）組成。字面意為「跑進某個狀況中」，歷史演變為「由於自身的行為而招致不好的結果、債務或懲罰」。",
+      "definition": "1. To bring upon oneself something unpleasant, such as debt, blame, or loss, as a result of one's actions.",
+      "example": [
+        {
+          "eng": "He incurred heavy debts due to poor investments.",
+          "ch": "他由於投資失利而招致了沉重的債務。"
+        }
+      ]
+    },
+    {
+      "eng": "indifference",
+      "kk": "/ɪnˈdɪfrəns/",
+      "tense": "n.",
+      "ch": [
+        [
+          "漠不關心",
+          "冷漠",
+          "無所謂"
+        ]
+      ],
+      "analysis": "此字由形容詞 indifferent（冷漠的、不關心的）加上抽象名詞字尾 -ce 構成。indifferent 源自拉丁語 indifferens（in- 否定 + differens 不同），本義為「沒有差別、無關緊要」，進而演變為對人或事毫不在意、冷漠的態度。",
+      "definition": "1. Lack of interest, concern, or sympathy towards someone or something.",
+      "example": [
+        {
+          "eng": "She showed complete indifference to his complaints.",
+          "ch": "她對他的抱怨表現出完全的漠不關心。"
+        }
+      ]
+    },
+    {
+      "eng": "indignant",
+      "kk": "/ɪnˈdɪɡnənt/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "憤慨的",
+          "義憤填膺的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 indignantem（indignari 的現在分詞），由 in-（否定）與 dignus（值得的、尊嚴的）組成。字面意為「認為某事不符合尊嚴、不合理的」，引申為因遭受不公或侮辱而產生的憤怒與憤慨。",
+      "definition": "1. Feeling or showing anger and surprise at something considered unfair, unjust, or unworthy.",
+      "example": [
+        {
+          "eng": "The workers were indignant at the sudden wage cuts.",
+          "ch": "工人們對突如其來的減薪感到憤慨。"
+        }
+      ]
+    },
+    {
+      "eng": "induce",
+      "kk": "/ɪnˈduːs/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "引誘",
+          "勸說",
+          "促使"
+        ],
+        [
+          "引起",
+          "導致"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 inducere，由 in-（進入、向內）與 ducere（引導）組成。字面意為「引導進去」，語意分化為兩大主線：一是勸說、引導某人做出決定；二是物理或醫學上引起、促成某種反應或現象發生。",
+      "definition": "1. To persuade or influence someone to do something; 2. To bring about, cause, or stimulate a condition or reaction.",
+      "example": [
+        {
+          "eng": "Nothing would induce me to take such a risk.",
+          "ch": "什麼也無法引誘我去冒這種險。"
+        },
+        {
+          "eng": "Certain foods can induce allergic reactions in some people.",
+          "ch": "某些食物會引起某些人的過敏反應。"
+        }
+      ]
+    },
+    {
+      "eng": "industrialize",
+      "kk": "/ɪnˈdʌstriəˌlaɪz/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使工業化"
+        ]
+      ],
+      "analysis": "此字由名詞 industry（工業）轉成的形容詞 industrial，加上動詞化字尾 -ize 構成。語意指將一個地區或國家推向以機器生產和大工業為主導的經濟體制。",
+      "definition": "1. To develop industries on a wide scale in a country or region.",
+      "example": [
+        {
+          "eng": "The government sought to industrialize the rural regions.",
+          "ch": "政府力求使農村地區實現工業化。"
+        }
+      ]
+    },
+    {
+      "eng": "industrialize",
+      "kk": "/ɪnˈdʌstriəˌlaɪz/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "工業化",
+          "發展工業"
+        ]
+      ],
+      "analysis": "作為不及物動詞時，主語通常為國家或地區本身，表示其經濟結構轉型為以工業為主導。",
+      "definition": "1. To undergo industrialization and develop a modern industrial economy.",
+      "example": [
+        {
+          "eng": "Many developing nations rapidly industrialized in the late 20th century.",
+          "ch": "許多發展中國家在二十世紀末迅速實現了工業化。"
+        }
+      ]
+    },
+    {
+      "eng": "infectious",
+      "kk": "/ɪnˈfɛkʃəs/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "傳染性的",
+          "具感染力的"
+        ],
+        [
+          "（情緒等）極具感染力的",
+          "易擴散的"
+        ]
+      ],
+      "analysis": "此字由動詞 infect（感染，源自拉丁語 inficere，in- + facere 浸染）加上形容詞字尾 -ious 構成。語意從醫學上的「透過空氣或接觸傳播病菌的」，引申為情緒、笑容或熱情迅速感染周圍人群的非醫療用法。",
+      "definition": "1. Capable of spreading disease from one person to another through the environment or contact; 2. Spreading or capable of spreading rapidly to others, especially of emotions or enthusiasm.",
+      "example": [
+        {
+          "eng": "The common cold is a highly infectious viral illness.",
+          "ch": "普通感冒是一種高度傳染性的病毒性疾病。"
+        },
+        {
+          "eng": "Her infectious laughter made everyone in the room smile.",
+          "ch": "她那極具感染力的笑聲讓房間裡的每個人都笑了起來。"
+        }
+      ]
+    },
+    {
+      "eng": "infer",
+      "kk": "/ɪnˈfɜːr/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "推斷",
+          "推論",
+          "猜想"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 inferre，由 in-（進入、向內）與 ferre（帶、攜帶）組成。字面意為「帶入結論中」，語意演變為從已知的證據或事實中推導出潛在的結論。",
+      "definition": "1. To deduce or conclude information from evidence and reasoning rather than from explicit statements.",
+      "example": [
+        {
+          "eng": "From her facial expression, we can infer that she was upset.",
+          "ch": "從她的表情，我們可以推斷她很不開心。"
+        }
+      ]
+    },
+    {
+      "eng": "inflict",
+      "kk": "/ɪnˈflɪkt/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使遭受",
+          "使承受（痛苦、傷害等）",
+          "給予（懲罰）"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 infligere，由 in-（打擊、針對）與 fligere（擊打）組成。字面意為「用力打上去」，歷史演變為施加痛苦、打擊或懲罰於某人身上。",
+      "definition": "1. To force someone to experience something very unpleasant, painful, or damaging.",
+      "example": [
+        {
+          "eng": "The storm inflicted severe damage on coastal towns.",
+          "ch": "風暴對沿海城鎮造成了嚴重的破壞。"
+        }
+      ]
+    },
+    {
+      "eng": "inhabit",
+      "kk": "/ɪnˈhæbɪt/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "居住於",
+          "棲息於"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 inhabitare，由 in-（在……之中）與 habitare（居住，源自 habere 擁有、保持）組成。語意為生物在某個地區定居或生活。",
+      "definition": "1. To live in or occupy a particular place, region, or environment.",
+      "example": [
+        {
+          "eng": "Various rare species inhabit the dense rainforest.",
+          "ch": "多種珍稀物種棲息在濃密的雨林中。"
+        }
+      ]
+    },
+    {
+      "eng": "inhabitant",
+      "kk": "/ɪnˈhæbɪtənt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "居民",
+          "棲息動物"
+        ]
+      ],
+      "analysis": "此字由動詞 inhabit 加上名詞字尾 -ant（表示主動者）構成，指居住在某個地方的人或動物。",
+      "definition": "1. A person or animal that lives in a particular place or region.",
+      "example": [
+        {
+          "eng": "The island's inhabitants are mostly fishermen.",
+          "ch": "這座島嶼的居民大多是漁民。"
+        }
+      ]
+    },
+    {
+      "eng": "injustice",
+      "kk": "/ɪnˈdʒʌstɪs/",
+      "tense": "n.",
+      "ch": [
+        [
+          "不公",
+          "不公正",
+          "不公平的行為"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由否定字首 in- 與名詞 justice（公正、正義）結合而成。指違反公平原則或正義的行為或狀態。",
+      "definition": "1. Lack of fairness or justice; an unfair act or treatment.",
+      "example": [
+        {
+          "eng": "She fought all her life against social injustice.",
+          "ch": "她一生都在為反對社會不公而戰。"
+        }
+      ]
+    },
+    {
+      "eng": "inland",
+      "kk": "/ˈɪnlənd/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "內地的",
+          "內陸的"
+        ]
+      ],
+      "analysis": "此字為透明複合詞，由 in（在內部）與 land（土地、陸地）結合而成。指遠離海岸或邊境、位於國家內部的地區。",
+      "definition": "1. Situated in the interior of a country, away from the coast or borders.",
+      "example": [
+        {
+          "eng": "Temperatures are usually higher in inland areas during summer.",
+          "ch": "夏季時內陸地區的氣溫通常較高。"
+        }
+      ]
+    },
+    {
+      "eng": "inland",
+      "kk": "/ˈɪnlənd/",
+      "tense": "adv.",
+      "ch": [
+        [
+          "向內地",
+          "向內陸"
+        ]
+      ],
+      "analysis": "由形容詞轉化的副詞，用來修飾動詞，表示方向朝向內陸或內地移動。",
+      "definition": "1. Towards the interior of a country, away from the coast.",
+      "example": [
+        {
+          "eng": "The storm moved further inland, losing some of its strength.",
+          "ch": "風暴向內陸更深處移動，強度有所減弱。"
+        }
+      ]
+    },
+    {
+      "eng": "innumerable",
+      "kk": "/ɪˈnuːmərəbəl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "數不清的",
+          "無數的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 innumerabilis，由 in-（否定）與 numerare（計數，源自 numerus 數字）以及形容詞字尾 -able 組成。字面意為「無法被數盡的」。",
+      "definition": "1. Too many to be counted; countless.",
+      "example": [
+        {
+          "eng": "She has faced innumerable challenges throughout her career.",
+          "ch": "她在整個職業生涯中面臨了無數的挑戰。"
+        }
+      ]
+    },
+    {
+      "eng": "inquire",
+      "kk": "/ɪnˈkwaɪər/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "詢問",
+          "打聽",
+          "調查"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 inquirere，由 in-（向、針對）與 quaerere（尋找、尋求）組成。歷史演變為尋求真相或索取資訊的動作。",
+      "definition": "1. To ask for information from someone; to seek answers about something.",
+      "example": [
+        {
+          "eng": "I called the hotel to inquire about room availability.",
+          "ch": "我打電話給飯店詢問房間空房情況。"
+        }
+      ]
+    },
+    {
+      "eng": "insistence",
+      "kk": "/ɪnˈsɪstəns/",
+      "tense": "n.",
+      "ch": [
+        [
+          "堅持",
+          "堅決主張"
+        ]
+      ],
+      "analysis": "此字由動詞 insist（堅持，源自拉丁語 insistere，in- + sistere 站立）轉成的形容詞 insistent，再變化為抽象名詞字尾 -ence 構成。指堅決要求或主張某事的態度。",
+      "definition": "1. The act of demanding something firmly and refusing to accept alternatives.",
+      "example": [
+        {
+          "eng": "It was largely due to his insistence that the project went ahead.",
+          "ch": "這項專案得以推進，很大程度上是由於他的堅持。"
+        }
+      ]
+    },
+    {
+      "eng": "instinctive",
+      "kk": "/ɪnˈstɪŋktɪv/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "本能的",
+          "直覺的"
+        ]
+      ],
+      "analysis": "此字由名詞 instinct（本能，源自拉丁語 instinctus 刺激、衝動）加上形容詞字尾 -ive 構成。指不經理性思考、由生物本能自然流露的反應。",
+      "definition": "1. Relating to or prompted by instinct; done automatically without conscious thought.",
+      "example": [
+        {
+          "eng": "His instinctive reaction was to duck when he saw the ball flying towards him.",
+          "ch": "他看到球朝自己飛來時，本能的反應是躲閃。"
+        }
+      ]
+    },
+    {
+      "eng": "intake",
+      "kk": "/ˈɪnteɪk/",
+      "tense": "n.",
+      "ch": [
+        [
+          "吸入量",
+          "攝取量",
+          "納入的人數"
+        ]
+      ],
+      "analysis": "此字為現代透明複合詞，由動詞 in（進入）與 take（拿取）反序組合而成。指一段時間內吸收、攝取或招收進來的人、物質或能量總量。",
+      "definition": "1. The amount of food, air, or liquid that is taken into the body; 2. The number of people admitted to an organization or institution.",
+      "example": [
+        {
+          "eng": "Reducing your sugar intake is essential for good health.",
+          "ch": "減少糖分攝取對於保持健康至關重要。"
+        },
+        {
+          "eng": "The university announced a larger student intake this year.",
+          "ch": "這所大學宣佈今年招收更多的新生。"
+        }
+      ]
+    },
+    {
+      "eng": "intellect",
+      "kk": "/ˈɪntəˌlɛkt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "智力",
+          "才智",
+          "知識分子"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 intellectus（理解、識別），由 inter-（在……之間）與 legere（選擇、閱讀）組成。字面意為「在眾多事物中進行分辨與理解的能力」，引申為人的理性思維能力或指聰明傑出的人。",
+      "definition": "1. The faculty of reasoning and understanding objectively, especially with a high level of intelligence; 2. A person of great intellectual ability.",
+      "example": [
+        {
+          "eng": "She was a woman of rare intellect and insight.",
+          "ch": "她是一位擁有罕見才智與見識的女性。"
+        },
+        {
+          "eng": "The conference brought together the leading intellects of our time.",
+          "ch": "這次會議匯聚了我們這個時代的頂尖智者。"
+        }
+      ]
+    },
+    {
+      "eng": "interpreter",
+      "kk": "/ɪnˈtɜːrprɪtər/",
+      "tense": "n.",
+      "ch": [
+        [
+          "口譯員",
+          "解說員",
+          "詮釋者"
+        ]
+      ],
+      "analysis": "此字由動詞 interpret（口譯、解釋，源自拉丁語 interpretari）加上表示人的名詞字尾 -er 構成。指負責將不同語言進行口頭轉換的人，或對藝術、文本進行詮釋的解說者。",
+      "definition": "1. A person who translates speech orally from one language to another; 2. Someone who explains the meaning of something complex, such as a piece of art or music.",
+      "example": [
+        {
+          "eng": "The diplomat spoke through an interpreter during the meeting.",
+          "ch": "外交官在會議期間透過口譯員發言。"
+        }
+      ]
+    },
+    {
+      "eng": "intersection",
+      "kk": "/ˌɪntərˈsɛkʃən/",
+      "tense": "n.",
+      "ch": [
+        [
+          "十字路口",
+          "交會點",
+          "交集"
+        ]
+      ],
+      "analysis": "此字由動詞 intersect（相交，源自拉丁語 inter- 在……之間 + secare 切割）加上名詞字尾 -ion 構成。字面意為「兩條線或道路互相切割交會的地方」。",
+      "definition": "1. A place where two or more roads meet, cross, or intersect; 2. A point or set of points common to two or more geometric figures or sets.",
+      "example": [
+        {
+          "eng": "Stop your car before the traffic light at the intersection.",
+          "ch": "在十字路口的紅綠燈前把車停下來。"
+        }
+      ]
+    },
+    {
+      "eng": "intervene",
+      "kk": "/ˌɪntərˈviːn/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "干涉",
+          "介入",
+          "調停"
+        ],
+        [
+          "（時間等）發生於其間"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 intervenire，由 inter-（在……之間）與 venire（來）組成。字面意為「夾在中間到來」，語意引申為介入他人事務以進行調解，或是時間上發生在兩件事件之間。",
+      "definition": "1. To come between so as to prevent or alter a result or course of events; 2. To occur between two events or points in time.",
+      "example": [
+        {
+          "eng": "The teacher had to intervene when the two students began to argue.",
+          "ch": "當兩名學生開始爭吵時，老師不得不介入調停。"
+        },
+        {
+          "eng": "Many changes occurred in the years intervening between the two wars.",
+          "ch": "在兩次大戰之間的那些年裡發生了許多變化。"
+        }
+      ]
+    },
+    {
+      "eng": "intimacy",
+      "kk": "/ˈɪntəməsi/",
+      "tense": "n.",
+      "ch": [
+        [
+          "親密",
+          "熟悉",
+          "親密行為"
+        ]
+      ],
+      "analysis": "此字由形容詞 intimate（親密的，源自拉丁語 intimus 最內部的、最深處的）加上抽象名詞字尾 -acy 構成。指人與人之間非常親近、毫無隔閡的關係或狀態。",
+      "definition": "1. A close, familiar, and affectionate relationship or state involving deep personal understanding.",
+      "example": [
+        {
+          "eng": "Long years of sharing hardships built a deep intimacy between them.",
+          "ch": "多年共患難建立了他們之間深厚的親密感。"
+        }
+      ]
+    },
+    {
+      "eng": "intimidate",
+      "kk": "/ɪnˈtɪməˌdeɪt/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "恐嚇",
+          "威脅",
+          "脅迫"
+        ]
+      ],
+      "analysis": "此字源自中世紀拉丁語 intimidare，由 in-（使成為）與 timidus（膽小的、害怕的，源自 timere 害怕）組成。字面意為「使人感到害怕或膽怯」，進而演變成透過威脅手段逼迫他人屈服。",
+      "definition": "1. To frighten or overawe someone, especially in order to make them do what you want.",
+      "example": [
+        {
+          "eng": "The bullies tried to intimidate the younger students into giving them money.",
+          "ch": "惡霸們試圖恐嚇低年級學生交出錢來。"
+        }
+      ]
+    },
+    {
+      "eng": "intonation",
+      "kk": "/ˌɪntəˈneɪʃən/",
+      "tense": "n.",
+      "ch": [
+        [
+          "語調",
+          "聲調",
+          "音準"
+        ]
+      ],
+      "analysis": "此字源自中世紀拉丁語 intonatio，由 intonare（高聲發音，源自 in- 強調 + tonus 音調、聲調）加上名詞字尾 -ion 構成。語意指說話時聲音的高低起伏（語調），或音樂演奏時的音準狀況。",
+      "definition": "1. The rise and fall of the voice in speaking, which can convey meaning or emotion; 2. The accuracy of pitch in singing or playing musical instruments.",
+      "example": [
+        {
+          "eng": "Her natural English intonation made her sound like a native speaker.",
+          "ch": "她自然的英語語調聽起來就像母語人士一樣。"
+        }
+      ]
+    },
+    {
+      "eng": "intrigue",
+      "kk": "/ɪnˈtriːɡ/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "激起……的好奇心",
+          "迷住"
+        ]
+      ],
+      "analysis": "此字經由法語 intrigue 借自義大利語 intrigare（源自拉丁語 intricare 纏繞、使困惑）。作為及物動詞時，語意從早期的「陰謀策劃」轉變為現代常見的「以神祕或新奇之處激起某人的強烈興趣」。",
+      "definition": "1. To arouse the curiosity or interest of someone by being unusual, mysterious, or fascinating.",
+      "example": [
+        {
+          "eng": "The mysterious letter intrigued detective Miller.",
+          "ch": "這封神祕的信件勾起了米勒偵探的好奇心。"
+        }
+      ]
+    },
+    {
+      "eng": "intrude",
+      "kk": "/ɪnˈtruːd/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "闖入",
+          "侵入",
+          "打擾"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 intrudere，由 in-（進入、向內）與 trudere（推、擠）組成。字面意為「用力擠進去」，歷史演變為未經邀請或許可便闖入他人私人領域或打擾他人。",
+      "definition": "1. To put oneself deliberately into a place or situation where one is unwelcome or uninvited; to trespass.",
+      "example": [
+        {
+          "eng": "I'm sorry to intrude on your private conversation.",
+          "ch": "我很抱歉打擾了你們的私人談話。"
+        }
+      ]
+    },
+    {
+      "eng": "intruder",
+      "kk": "/ɪnˈtruːdər/",
+      "tense": "n.",
+      "ch": [
+        [
+          "入侵者",
+          "闖入者",
+          "不速之客"
+        ]
+      ],
+      "analysis": "此字由動詞 intrude 加上表示人的名詞字尾 -er 構成。指擅自闖入私人住宅、領地或禁止進入區域的人。",
+      "definition": "1. A person who enters a building, area, or situation illegally, uninvited, or without permission.",
+      "example": [
+        {
+          "eng": "The home security alarm went off when an intruder tried to break in.",
+          "ch": "當有闖入者試圖闖入時，家庭保全警報器響起了。"
+        }
+      ]
+    },
+    {
+      "eng": "invaluable",
+      "kk": "/ɪnˈvæljʊəbəl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "無價的",
+          "極寶貴的",
+          "備受珍視的"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由否定字首 in- 加上形容詞 valuable（有價值的）構成。字面容易被誤解為「沒有價值」，但實際上其意為「價值高到無法估量、極為寶貴」。",
+      "definition": "1. Extremely useful; indispensable or possessing a value too great to measure.",
+      "example": [
+        {
+          "eng": "Her guidance provided invaluable support during my research.",
+          "ch": "她的指導在我的研究期間提供了無價的支援。"
+        }
+      ]
+    },
+    {
+      "eng": "invariably",
+      "kk": "/ɪnˈvɛriəbəli/",
+      "tense": "adv.",
+      "ch": [
+        [
+          "總是",
+          "不變地",
+          "每次都"
+        ]
+      ],
+      "analysis": "此字由形容詞 invariable（不變的，源自 in- 否定 + variabilis 可變的）加上副詞字尾 -ly 構成。字面意為「毫無例外地、每次都以相同方式發生」。",
+      "definition": "1. In every case or on every occasion; always without exception.",
+      "example": [
+        {
+          "eng": "He invariably arrives late for important meetings.",
+          "ch": "他參加重要會議時總是遲到。"
+        }
+      ]
+    },
+    {
+      "eng": "inventory",
+      "kk": "/ˈɪnvənˌtɔːri/",
+      "tense": "n.",
+      "ch": [
+        [
+          "庫存",
+          "存貨清單",
+          "詳細目錄"
+        ]
+      ],
+      "analysis": "此字源自中古拉丁語 inventarium（意為「清單、財產目錄」），根源於拉丁語 invenire（發現、找到，in- + venire）。本義指清點並記錄所發現的財產，現代引申為商店或企業倉庫中的「庫存清單」或「存貨」。",
+      "definition": "1. A complete list of items such as property, goods in stock, or the contents of a building.",
+      "example": [
+        {
+          "eng": "The store manager is conducting a weekly inventory check.",
+          "ch": "店經理正在進行每週的庫存盤點。"
+        }
+      ]
+    },
+    {
+      "eng": "ironic",
+      "kk": "/aɪˈrɑːnɪk/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "諷刺的",
+          "具反諷意味的",
+          "出乎意料且帶有戲劇性諷刺的"
+        ]
+      ],
+      "analysis": "此字源自希臘語 eirōneia（意為「佯裝不知、說反話」），經由拉丁語與法語進入英語，字尾加上 -ic 轉為形容詞。用來形容現實狀況與預期結果恰好相反、充滿諷刺意味的現象。",
+      "definition": "1. Characterized by irony; happening in a way that is contrary to what was expected, often resulting in an amusing or tragic irony.",
+      "example": [
+        {
+          "eng": "It is ironic that the weather forecaster got caught in a heavy rain without an umbrella.",
+          "ch": "諷刺的是，氣象預報員竟然沒帶傘就被困在大雨中。"
+        }
+      ]
+    },
+    {
+      "eng": "irritable",
+      "kk": "/ˈɪrɪtəbəl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "易怒的",
+          "急躁的",
+          "過敏的（生理上）"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 irritabilis，由 irritare（激怒、刺激）加上形容詞字尾 -able 構成。語意指人容易因微小的事物而感到生氣、煩躁，或器官組織對刺激敏感的生理狀態。",
+      "definition": "1. Having or showing a tendency to be easily annoyed or angered; 2. Sensitive to physical stimuli.",
+      "example": [
+        {
+          "eng": "Lack of sleep can make people feel tired and irritable.",
+          "ch": "睡眠不足會讓人感到疲倦且脾氣暴躁。"
+        }
+      ]
+    },
+    {
+      "eng": "irritate",
+      "kk": "/ˈɪrɪˌteɪt/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "激怒",
+          "使惱怒",
+          "刺激（身體部位）"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 irritatus（irritare 的過去分詞，意為「挑起怒火、刺激」）。語意涵蓋心理上的惹惱他人，以及物理上對皮膚或眼睛造成過敏、發癢等刺激。",
+      "definition": "1. To make someone angry, annoyed, or impatient; 2. To cause physical discomfort, pain, or inflammation to a part of the body.",
+      "example": [
+        {
+          "eng": "His constant complaining began to irritate everyone.",
+          "ch": "他不斷的抱怨開始惹惱了每個人。"
+        },
+        {
+          "eng": "Dust and smoke can irritate your eyes and throat.",
+          "ch": "灰塵和煙霧會刺激你的眼睛和喉嚨。"
+        }
+      ]
+    },
+    {
+      "eng": "isle",
+      "kk": "/aɪl/",
+      "tense": "n.",
+      "ch": [
+        [
+          "小島",
+          "島嶼（多用於詩歌或地名）"
+        ]
+      ],
+      "analysis": "此字源自古法語 isle（現代法語 île），最終源自拉丁語 insula（島嶼）。在現代英語中，通常用於詩意表達或特定的島嶼名稱中，日常口語多用 island。",
+      "definition": "1. An island, especially a small one.",
+      "example": [
+        {
+          "eng": "They spent their vacation exploring a remote tropical isle.",
+          "ch": "他們度過假期探索了一個偏遠的熱帶小島。"
+        }
+      ]
+    },
+    {
+      "eng": "itch",
+      "kk": "/ɪtʃ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "癢",
+          "發癢的感覺"
+        ],
+        [
+          "強烈的渴望",
+          "熱望"
+        ]
+      ],
+      "analysis": "由同形動詞演變而來的名詞，保留了皮膚發癢的生理感受，以及心理上對某事的急切渴望。",
+      "definition": "1. An uncomfortable sensation on the skin that causes a desire to scratch; 2. A restless strong desire to do something.",
+      "example": [
+        {
+          "eng": "Applying lotion can help soothe the itch.",
+          "ch": "塗抹乳液有助於舒緩癢感。"
+        },
+        {
+          "eng": "After working indoors all winter, he had an itch to travel.",
+          "ch": "在室內工作了整個冬天後，他渴望去旅行。"
+        }
+      ]
+    },
+    {
+      "eng": "itch",
+      "kk": "/ɪtʃ/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "發癢",
+          "感到癢"
+        ],
+        [
+          "渴望",
+          "熱切想做某事"
+        ]
+      ],
+      "analysis": "此字源自古英語 gīce（名詞）與 gīcan（動詞），屬於日耳曼語源的繼承詞。語意從身體皮膚的「發癢感」，引申為心理上因按捺不住而產生的「強烈渴望與手癢」。",
+      "definition": "1. To feel an uncomfortable sensation on the skin that makes you want to scratch; 2. To have a strong restless desire to do something.",
+      "example": [
+        {
+          "eng": "My arm is beginning to itch from the mosquito bites.",
+          "ch": "我的手臂被蚊子叮咬的地方開始發癢了。"
+        },
+        {
+          "eng": "He was itching to share the exciting news with his friends.",
+          "ch": "他急著想把這個令人興奮的消息分享給他的朋友。"
+        }
+      ]
+    },
+    {
+      "eng": "ivy",
+      "kk": "/ˈaɪvi/",
+      "tense": "n.",
+      "ch": [
+        [
+          "常春藤"
+        ]
+      ],
+      "analysis": "此字源自古英語 īfig，屬於日耳曼語源的繼承詞，指一種常見的常綠攀援灌木植物，經常生長在牆壁或樹幹上。",
+      "definition": "1. A climbing evergreen woody plant that has dark green shiny leaves and clings to walls and trees.",
+      "example": [
+        {
+          "eng": "The old stone walls of the university were covered in thick green ivy.",
+          "ch": "大學古老的石牆上覆蓋著厚厚的綠色常春藤。"
+        }
+      ]
+    },
+    {
+      "eng": "jade",
+      "kk": "/dʒeɪd/",
+      "tense": "n.",
+      "ch": [
+        [
+          "玉",
+          "翡翠",
+          "玉器"
+        ]
+      ],
+      "analysis": "此字經由西班牙語 piedra de la ijada（意為「腰痛石」，因古人認為此石能治腰痛）透過法語進入英語。現代專指硬度高、質地細膩溫潤的寶玉石（如軟玉或硬玉）。",
+      "definition": "1. A hard, typically green gemstone that is used for carving ornaments and jewelry.",
+      "example": [
+        {
+          "eng": "She wore an exquisite green jade pendant around her neck.",
+          "ch": "她脖子上戴著一塊精緻的綠玉墜子。"
+        }
+      ]
+    },
+    {
+      "eng": "janitor",
+      "kk": "/ˈdʒænɪtər/",
+      "tense": "n.",
+      "ch": [
+        [
+          "看門人",
+          "大樓管理員",
+          "清潔工"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 janitor（門房、看守人），衍生自 janua（門，源自雙面神 Janus）。在美式英語中，通常指負責學校、辦公大樓日常清潔與維護的管理人員。",
+      "definition": "1. A person employed as a caretaker of a building; a custodian or cleaner.",
+      "example": [
+        {
+          "eng": "The school janitor helped us unlock the classroom door.",
+          "ch": "學校的管理員幫我們打開了教室的門。"
+        }
+      ]
+    },
+    {
+      "eng": "jasmine",
+      "kk": "/ˈdʒæzmɪn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "茉莉",
+          "茉莉花"
+        ]
+      ],
+      "analysis": "此字經由中古法語與阿拉伯語 yāsamīn 借自波斯語 yāsaman，指一種花朵芳香、常被用於製作香水或茶葉的灌木植物。",
+      "definition": "1. A climbing shrub with fragrant white or yellow flowers, often used in perfumes and teas.",
+      "example": [
+        {
+          "eng": "The night air was filled with the sweet scent of blooming jasmine.",
+          "ch": "夜空中充滿了盛開茉莉花的甜美香氣。"
+        }
+      ]
+    },
+    {
+      "eng": "jingle",
+      "kk": "/ˈdʒɪŋɡəl/",
+      "tense": "n.",
+      "ch": [
+        [
+          "叮噹聲",
+          "清脆響聲",
+          "廣告歌曲（短而輕快）"
+        ]
+      ],
+      "analysis": "由同形動詞演變而來的名詞，除了指金屬碰撞的叮噹聲外，也引申為廣播或電視廣告中常見、旋律輕快易記的廣告歌。",
+      "definition": "1. A light ringing sound; 2. A short, catchy song or tune used in advertising.",
+      "example": [
+        {
+          "eng": "We heard the jingle of bells on the cat's collar.",
+          "ch": "我們聽到貓咪脖子上鈴鐺的叮噹聲。"
+        },
+        {
+          "eng": "The catchy TV commercial jingle stayed in my head all day.",
+          "ch": "那首洗腦的電視廣告歌在我腦海裡盤旋了一整天。"
+        }
+      ]
+    },
+    {
+      "eng": "jingle",
+      "kk": "/ˈdʒɪŋɡəl/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使叮噹作響",
+          "搖動發出清脆聲"
+        ]
+      ],
+      "analysis": "作為及物動詞時，表示刻意搖晃或碰撞金屬物品使其發出叮噹聲。",
+      "definition": "1. To cause metal objects to ring or shake together, making a light ringing sound.",
+      "example": [
+        {
+          "eng": "He jingled the loose coins in his pocket while waiting.",
+          "ch": "他在等待時，把口袋裡的零錢搖得叮噹作響。"
+        }
+      ]
+    },
+    {
+      "eng": "jingle",
+      "kk": "/ˈdʒɪŋɡəl/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "發出叮噹聲",
+          "發出清脆的鈴聲"
+        ]
+      ],
+      "analysis": "此字為擬聲詞（onomatopoeia），模仿金屬或玻璃相互碰撞時發出的清脆、連續短促聲音，加上動詞反覆字尾 -le 構成。",
+      "definition": "1. To make a light, ringing sound like small pieces of metal or glass hitting together.",
+      "example": [
+        {
+          "eng": "The keys jingled in his pocket as he walked.",
+          "ch": "他走路時，口袋裡的鑰匙發出叮噹的響聲。"
+        }
+      ]
+    }
+  ]
+}

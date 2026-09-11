@@ -1,4 +1,9 @@
 (function bootstrapShared() {
+  const TOKEN_KEY = "wordsKingToken";
+  const USER_KEY = "wordsKingUser";
+  const GUEST_TOKEN_KEY = "wordsKingGuestToken";
+  const GUEST_USER_KEY = "wordsKingGuestUser";
+
   function escapeHtml(value) {
     return String(value || "")
       .replaceAll("&", "&amp;")
@@ -7,8 +12,8 @@
       .replaceAll('"', "&quot;");
   }
 
-  function readStoredUser() {
-    const raw = localStorage.getItem("wordsKingUser");
+  function readStoredUser(storage, key) {
+    const raw = storage.getItem(key);
     if (!raw || raw === "undefined" || raw === "null") {
       return null;
     }
@@ -16,14 +21,16 @@
     try {
       return JSON.parse(raw);
     } catch {
-      localStorage.removeItem("wordsKingUser");
+      storage.removeItem(key);
       return null;
     }
   }
 
+  const guestToken = sessionStorage.getItem(GUEST_TOKEN_KEY) || "";
+  const guestUser = readStoredUser(sessionStorage, GUEST_USER_KEY);
   const state = {
-    token: localStorage.getItem("wordsKingToken") || "",
-    user: readStoredUser(),
+    token: guestToken && guestUser ? guestToken : localStorage.getItem(TOKEN_KEY) || "",
+    user: guestToken && guestUser ? guestUser : readStoredUser(localStorage, USER_KEY),
     unreadCount: 0
   };
 
@@ -32,6 +39,7 @@
     overlay: null,
     title: null,
     detail: null,
+    cancel: null,
     active: new Map()
   };
   const ttsState = {
@@ -79,162 +87,12 @@
     "settings"
   ]);
 
-  const TUTORIAL_STEP_KEY = "wordsKingTutorialStep";
-  const TUTORIAL_ACTIVE_KEY = "wordsKingTutorialActive";
-  const TUTORIAL_PAUSED_KEY = "wordsKingTutorialPaused";
+  try {
+    sessionStorage.removeItem("wordsKingTutorialStep");
+    sessionStorage.removeItem("wordsKingTutorialActive");
+    sessionStorage.removeItem("wordsKingTutorialPaused");
+  } catch {}
 
-  const BASE_TUTORIAL_STEPS = [
-    {
-      id: "words-menu",
-      page: "words",
-      selector: "#siteMenuShell",
-      title: "上方選單",
-      body: "上方導覽已改成三條槓選單，手機或空間較小時可點開下拉選單，桌機空間足夠時會自動展開。"
-    },
-    {
-      id: "words-source",
-      page: "words",
-      selector: "#sourceFilter",
-      title: "來源篩選",
-      body: "先選來源，縮小目前教材範圍。"
-    },
-    {
-      id: "words-unit",
-      page: "words",
-      selector: "#unitFilter",
-      title: "單元篩選",
-      body: "接著選單元，讓單字庫更聚焦。"
-    },
-    {
-      id: "words-card",
-      page: "words",
-      selector: "#wordGrid .word-preview-card",
-      title: "打開單字卡",
-      body: "點一張單字卡，進入專注單字卡。",
-      requireClick: true
-    },
-    {
-      id: "words-speak",
-      page: "words",
-      selector: "#speakWordBtn",
-      title: "播放單字",
-      body: "點語音按鈕播放發音。",
-      requireClick: true
-    },
-    {
-      id: "words-finish",
-      page: "words",
-      selector: "#focusPanel",
-      title: "單字庫完成",
-      body: "再點一次高光區塊，前往練習頁。"
-    },
-    {
-      id: "practice-mode",
-      page: "practice",
-      selector: "#practiceModeSelector",
-      title: "題型選擇",
-      body: "這裡可以複選題型。"
-    },
-    {
-      id: "practice-scope",
-      page: "practice",
-      selector: "#meaningScope",
-      title: "字義範圍",
-      body: "如果老師只考螢光字義，就選僅考試字義。"
-    },
-    {
-      id: "practice-start",
-      page: "practice",
-      selector: "#loadPracticeBtn",
-      title: "開始練習",
-      body: "點開始練習建立題目。",
-      requireClick: true,
-      afterClickDelay: 280
-    },
-    {
-      id: "practice-finish",
-      page: "practice",
-      selector: "#practiceArea",
-      title: "練習頁完成",
-      body: "點高光區塊，前往趨勢頁。"
-    },
-    {
-      id: "analytics-overview",
-      page: "analytics",
-      selector: "#analyticsOverview",
-      title: "整體趨勢",
-      body: "這裡可以看總作答量與正確率。"
-    },
-    {
-      id: "analytics-weak",
-      page: "analytics",
-      selector: "#weakWords",
-      title: "錯題重點",
-      body: "這裡會列出近期較弱的單字。"
-    },
-    {
-      id: "analytics-finish",
-      page: "analytics",
-      selector: "#unitPerformance",
-      title: "趨勢頁完成",
-      body: "點高光區塊，前往排行榜。"
-    },
-    {
-      id: "leaderboard-main",
-      page: "leaderboard",
-      selector: "#leaderboardPageList",
-      title: "排行榜",
-      body: "排行榜顯示本週學習表現。"
-    },
-    {
-      id: "leaderboard-finish",
-      page: "leaderboard",
-      selector: "#leaderboardPageList",
-      title: "排行榜完成",
-      body: "再點一次高光區塊，前往設定頁。"
-    },
-    {
-      id: "settings-theme",
-      page: "settings",
-      selector: "#theme",
-      title: "主題設定",
-      body: "這裡可以切換網站主題。"
-    },
-    {
-      id: "settings-tts",
-      page: "settings",
-      selector: "#ttsSettingsBlock",
-      title: "語音設定",
-      body: "這裡可以調整語速、聲音偏好與播放次數。"
-    },
-    {
-      id: "settings-restart",
-      page: "settings",
-      selector: "#tutorialCard",
-      title: "重新查看導覽",
-      body: "之後可從這裡重新開始導覽。"
-    },
-    {
-      id: "settings-finish",
-      page: "settings",
-      selector: "#tutorialCard",
-      title: "導覽完成",
-      body: "點高光區塊即可完成導覽。"
-    }
-  ];
-
-  const tutorialState = {
-    overlay: null,
-    tip: null,
-    highlightedTarget: null,
-    highlightedCleanup: null,
-    refreshTimer: 0,
-    missingTargetStepId: "",
-    missingTargetSince: 0,
-    pageOverrides: new Map()
-  };
-
-  const TUTORIAL_MISSING_TARGET_FALLBACK_DELAY = 2400;
   const TTS_PREFERRED_ENGLISH_LOCALES = ["en-us", "en-gb", "en-au", "en-ca", "en-ie", "en-nz", "en-in", "en-sg"];
   const TTS_TRUSTED_ENGINE_HINTS = [
     "google",
@@ -270,6 +128,10 @@
     "moira"
   ];
   const TTS_AVOID_NOVELTY_HINTS = [
+    "albert",
+    "bahh",
+    "bubbles",
+    "wobble",
     "zarvox",
     "trinoids",
     "bells",
@@ -500,7 +362,7 @@
       }))
       .sort((left, right) => right.score - left.score);
 
-    const safeBest = ranked.find((entry) => !isAvoidedSpeechVoice(entry.voice)) || ranked[0] || null;
+    const safeBest = ranked.find((entry) => !isAvoidedSpeechVoice(entry.voice)) || null;
     ttsState.preferredVoiceCacheKey = cacheKey;
     ttsState.preferredVoiceUri = safeBest?.voice?.voiceURI || "";
     return safeBest?.voice || null;
@@ -1494,6 +1356,7 @@
             <strong id="requestLoadingTitle">資料處理中</strong>
             <p id="requestLoadingDetail">正在與伺服器同步資料，請稍候。</p>
           </div>
+          <button type="button" id="requestLoadingCancel" class="ghost-btn request-loading-cancel" hidden>取消</button>
         </section>
       </div>
     `;
@@ -1503,6 +1366,17 @@
     requestLoadingState.overlay = shell.querySelector(".request-loading-overlay");
     requestLoadingState.title = shell.querySelector("#requestLoadingTitle");
     requestLoadingState.detail = shell.querySelector("#requestLoadingDetail");
+    requestLoadingState.cancel = shell.querySelector("#requestLoadingCancel");
+    requestLoadingState.cancel.addEventListener("click", () => {
+      const entry = getLatestLoadingEntry({ revealedOnly: true }) || getLatestLoadingEntry();
+      if (typeof entry?.config?.onCancel !== "function") {
+        return;
+      }
+
+      requestLoadingState.cancel.disabled = true;
+      requestLoadingState.cancel.textContent = "正在取消…";
+      entry.config.onCancel();
+    });
     return shell;
   }
 
@@ -1536,6 +1410,9 @@
 
     requestLoadingState.title.textContent = config.title || "資料處理中";
     requestLoadingState.detail.textContent = config.detail || "正在與伺服器同步資料，請稍候。";
+    requestLoadingState.cancel.hidden = typeof config.onCancel !== "function";
+    requestLoadingState.cancel.disabled = false;
+    requestLoadingState.cancel.textContent = config.cancelLabel || "取消";
 
     const showOverlay = [...requestLoadingState.active.values()].some(
       (entry) => entry.revealed && entry.config.showOverlay !== false
@@ -1651,12 +1528,6 @@
     }, 2600);
   }
 
-  function clearTutorialStorage() {
-    sessionStorage.removeItem(TUTORIAL_STEP_KEY);
-    sessionStorage.removeItem(TUTORIAL_ACTIVE_KEY);
-    sessionStorage.removeItem(TUTORIAL_PAUSED_KEY);
-  }
-
   function setAuth(data) {
     const previousUserId = state.user?.id || "";
     state.token = data?.token || "";
@@ -1667,16 +1538,21 @@
       clearPronunciationObjectUrlCache();
     }
 
-    if (state.token && state.user) {
-      localStorage.setItem("wordsKingToken", state.token);
-      localStorage.setItem("wordsKingUser", JSON.stringify(state.user));
+    localStorage.removeItem(TOKEN_KEY);
+    localStorage.removeItem(USER_KEY);
+    sessionStorage.removeItem(GUEST_TOKEN_KEY);
+    sessionStorage.removeItem(GUEST_USER_KEY);
+
+    if (state.token && state.user?.isGuest) {
+      sessionStorage.setItem(GUEST_TOKEN_KEY, state.token);
+      sessionStorage.setItem(GUEST_USER_KEY, JSON.stringify(state.user));
+    } else if (state.token && state.user) {
+      localStorage.setItem(TOKEN_KEY, state.token);
+      localStorage.setItem(USER_KEY, JSON.stringify(state.user));
     } else {
       cancelSpeechPlayback();
       clearPronunciationObjectUrlCache();
-      localStorage.removeItem("wordsKingToken");
-      localStorage.removeItem("wordsKingUser");
       state.unreadCount = 0;
-      clearTutorialStorage();
       clearVisitHeartbeat();
       visitLoggingState.loggedPage = "";
       visitLoggingState.sessionId = 0;
@@ -1712,6 +1588,7 @@
   async function startVisitSession() {
     if (
       !state.token ||
+      state.user?.isGuest ||
       !protectedPages.has(page) ||
       visitLoggingState.loggedPage === page ||
       visitLoggingState.sessionId ||
@@ -1829,6 +1706,18 @@
     if (state.token) {
       headers.Authorization = `Bearer ${state.token}`;
     }
+    if (
+      fetchOptions.body &&
+      typeof fetchOptions.body === "object" &&
+      !(fetchOptions.body instanceof FormData) &&
+      !(fetchOptions.body instanceof Blob) &&
+      !(fetchOptions.body instanceof URLSearchParams)
+    ) {
+      fetchOptions.body = JSON.stringify(fetchOptions.body);
+      if (!headers["Content-Type"]) {
+        headers["Content-Type"] = "application/json";
+      }
+    }
 
     const loadingToken = beginRequestLoading(resolveLoadingConfig(method, loading));
 
@@ -1850,7 +1739,7 @@
   }
 
   async function refreshUnreadCount({ rerender = true } = {}) {
-    if (!state.token) {
+    if (!state.token || state.user?.isGuest) {
       state.unreadCount = 0;
       if (rerender) renderHeader();
       return 0;
@@ -2027,10 +1916,12 @@
     ];
 
     const subtitle = state.user
-      ? `${state.user.displayName || state.user.username}${state.user.role === "admin" ? " / 管理員" : ""}`
+      ? state.user.isGuest
+        ? "訪客 / 不儲存學習紀錄"
+        : `${state.user.displayName || state.user.username}${state.user.role === "admin" ? " / 管理員" : ""}`
       : "登入後可使用單字庫、練習、趨勢與排行榜。";
 
-    const notificationLink = state.user
+    const notificationLink = state.user && !state.user.isGuest
       ? `
           <a
             id="notificationBellBtn"
@@ -2094,7 +1985,7 @@
                   ${notificationLink}
                   ${
                     state.user
-                      ? '<button type="button" id="logoutBtn" class="ghost-btn">登出</button>'
+                      ? `<button type="button" id="logoutBtn" class="ghost-btn">${state.user.isGuest ? "離開訪客" : "登出"}</button>`
                       : `<a class="nav-link ${page === "home" ? "active" : ""}" href="/home.html">登入</a>`
                   }
                 </div>
@@ -2110,577 +2001,37 @@
     positionMessageBar();
   }
 
-  function getTutorialSteps() {
-    return BASE_TUTORIAL_STEPS.map((step) => ({
-      ...step,
-      ...(tutorialState.pageOverrides.get(step.id) || {})
-    }));
-  }
-
-  function getStepIndexById(stepId) {
-    return getTutorialSteps().findIndex((step) => step.id === stepId);
-  }
-
-  function getCurrentTutorialStep() {
-    const steps = getTutorialSteps();
-    const stepId = sessionStorage.getItem(TUTORIAL_STEP_KEY) || steps[0]?.id || "";
-    return steps.find((step) => step.id === stepId) || steps[0] || null;
-  }
-
-  function isTutorialEligible() {
-    return false;
-  }
-
-  function ensureTutorialOverlay() {
-    if (tutorialState.overlay && tutorialState.tip) {
-      return tutorialState.overlay;
-    }
-
-    const overlay = document.createElement("div");
-    overlay.id = "tutorialOverlay";
-    overlay.className = "tutorial-overlay";
-    overlay.innerHTML = `
-      <div class="tutorial-backdrop" aria-hidden="true"></div>
-    `;
-
-    const tip = document.createElement("section");
-    tip.className = "tutorial-tip";
-    tip.setAttribute("aria-live", "polite");
-    tip.hidden = true;
-    tip.innerHTML = `
-      <div id="tutorialStepLabel" class="tutorial-step-label"></div>
-      <h2 id="tutorialTitle" class="tutorial-tip-title"></h2>
-      <p id="tutorialBody" class="tutorial-tip-body"></p>
-      <div id="tutorialActionHint" class="tutorial-action-hint"></div>
-      <div class="tutorial-tip-actions">
-        <button type="button" id="tutorialNextBtn" class="tutorial-tip-next">下一步</button>
-        <button type="button" id="tutorialLaterBtn" class="tutorial-tip-secondary">稍後再看</button>
-        <button type="button" id="tutorialSkipBtn" class="tutorial-tip-secondary">略過導覽</button>
-      </div>
-    `;
-
-    document.body.appendChild(overlay);
-    document.body.appendChild(tip);
-    tutorialState.overlay = overlay;
-    tutorialState.tip = tip;
-
-    tip.querySelector("#tutorialNextBtn").addEventListener("click", () => {
-      tutorial.goNext();
-    });
-    tip.querySelector("#tutorialLaterBtn").addEventListener("click", () => {
-      tutorial.pause();
-    });
-    tip.querySelector("#tutorialSkipBtn").addEventListener("click", () => {
-      tutorial.skip();
-    });
-
-    return overlay;
-  }
-
-  function getTutorialOverlayParts() {
-    ensureTutorialOverlay();
-    const overlay = tutorialState.overlay;
-    const tip = tutorialState.tip;
-    return {
-      overlay,
-      tip,
-      stepLabel: tip.querySelector("#tutorialStepLabel"),
-      title: tip.querySelector("#tutorialTitle"),
-      body: tip.querySelector("#tutorialBody"),
-      actionHint: tip.querySelector("#tutorialActionHint"),
-      nextBtn: tip.querySelector("#tutorialNextBtn")
-    };
-  }
-
-  function clearTutorialHighlight() {
-    if (typeof tutorialState.highlightedCleanup === "function") {
-      tutorialState.highlightedCleanup();
-      tutorialState.highlightedCleanup = null;
-    }
-
-    if (tutorialState.highlightedTarget) {
-      tutorialState.highlightedTarget.classList.remove("tutorial-target");
-      tutorialState.highlightedTarget.style.scrollMarginTop = "";
-      tutorialState.highlightedTarget.style.scrollMarginBottom = "";
-      tutorialState.highlightedTarget = null;
-    }
-  }
-
-  function positionTutorialTip(target) {
-    const { tip } = getTutorialOverlayParts();
-    const isMobile = window.innerWidth <= 760;
-
-    if (isMobile) {
-      const header = document.querySelector(".site-header-wrap");
-      const headerBottom = header ? Math.round(header.getBoundingClientRect().bottom) : 56;
-      const topSafe = Math.max(12, headerBottom + 8);
-      const bottomSafe = 12;
-      const gap = 14;
-
-      tip.style.left = "12px";
-      tip.style.right = "12px";
-      tip.style.top = "auto";
-      tip.style.bottom = `calc(env(safe-area-inset-bottom, 0px) + ${bottomSafe}px)`;
-      tip.style.transform = "none";
-
-      if (!target) {
-        return;
-      }
-
-      const rect = target.getBoundingClientRect();
-      const tipRect = tip.getBoundingClientRect();
-      const tipHeight = tipRect.height || 144;
-      const availableBottom = window.innerHeight - rect.bottom;
-      const availableTop = rect.top - topSafe;
-      const needsTopPlacement =
-        availableBottom < tipHeight + gap + bottomSafe &&
-        availableTop > availableBottom;
-
-      if (needsTopPlacement) {
-        tip.style.top = `${topSafe}px`;
-        tip.style.bottom = "auto";
-      }
-      return;
-    }
-
-    if (!target) {
-      tip.style.left = "20px";
-      tip.style.right = "auto";
-      tip.style.top = "96px";
-      tip.style.bottom = "auto";
-      tip.style.transform = "none";
-      return;
-    }
-
-    const rect = target.getBoundingClientRect();
-    const gap = 14;
-    const padding = 16;
-    const tipWidth = Math.min(280, window.innerWidth - padding * 2);
-
-    tip.style.width = `${tipWidth}px`;
-    tip.style.left = `${padding}px`;
-    tip.style.top = `${padding}px`;
-    tip.style.right = "auto";
-    tip.style.bottom = "auto";
-
-    const tipRect = tip.getBoundingClientRect();
-    const tipHeight = tipRect.height || 128;
-
-    const candidates = [
-      {
-        left: rect.right + gap,
-        top: Math.max(
-          padding,
-          Math.min(rect.top + rect.height / 2 - tipHeight / 2, window.innerHeight - tipHeight - padding)
-        )
-      },
-      {
-        left: rect.left - tipWidth - gap,
-        top: Math.max(
-          padding,
-          Math.min(rect.top + rect.height / 2 - tipHeight / 2, window.innerHeight - tipHeight - padding)
-        )
-      },
-      {
-        left: Math.max(
-          padding,
-          Math.min(rect.left + rect.width / 2 - tipWidth / 2, window.innerWidth - tipWidth - padding)
-        ),
-        top: rect.bottom + gap
-      },
-      {
-        left: Math.max(
-          padding,
-          Math.min(rect.left + rect.width / 2 - tipWidth / 2, window.innerWidth - tipWidth - padding)
-        ),
-        top: rect.top - tipHeight - gap
-      }
-    ];
-
-    const chosen =
-      candidates.find((candidate) => {
-        return (
-          candidate.left >= padding &&
-          candidate.left + tipWidth <= window.innerWidth - padding &&
-          candidate.top >= padding &&
-          candidate.top + tipHeight <= window.innerHeight - padding
-        );
-      }) || {
-        left: window.innerWidth - tipWidth - padding,
-        top: padding
-      };
-
-    tip.style.left = `${Math.round(chosen.left)}px`;
-    tip.style.top = `${Math.round(chosen.top)}px`;
-  }
-
-  function highlightTutorialTarget(step) {
-    clearTutorialHighlight();
-    if (!step?.selector || step.page !== page) {
-      return null;
-    }
-
-    const target = document.querySelector(step.selector);
-    if (!target) {
-      return null;
-    }
-
-    target.classList.add("tutorial-target");
-    if (window.innerWidth <= 760) {
-      target.style.scrollMarginTop = "150px";
-      target.style.scrollMarginBottom = "220px";
-    } else {
-      target.style.scrollMarginTop = "110px";
-      target.style.scrollMarginBottom = "180px";
-    }
-    tutorialState.highlightedTarget = target;
-
-    target.scrollIntoView({
-      behavior: "smooth",
-      block: window.innerWidth <= 760 ? "center" : "nearest",
-      inline: "nearest"
-    });
-
-    positionTutorialTip(target);
-
-    const stepId = step.id;
-    let advanced = false;
-    const advance = () => {
-      if (advanced) {
-        return;
-      }
-
-      advanced = true;
-      window.setTimeout(() => {
-        const currentStep = getCurrentTutorialStep();
-        if (currentStep?.id === stepId) {
-          tutorial.goNext();
-        }
-      }, step.afterClickDelay || 180);
-    };
-
-    const isDropdownTarget =
-      target.matches("select") ||
-      target.matches("[role='combobox']") ||
-      target.closest("select, [role='combobox']");
-
-    const onPointerDown = (event) => {
-      const currentTarget = tutorialState.highlightedTarget;
-      if (!currentTarget || !(event.target instanceof Node)) {
-        return;
-      }
-
-      if (!(currentTarget === event.target || currentTarget.contains(event.target))) {
-        return;
-      }
-
-      if (isDropdownTarget) {
-        event.preventDefault();
-        event.stopPropagation();
-        advance();
-      }
-    };
-
-    const onClick = (event) => {
-      const currentTarget = tutorialState.highlightedTarget;
-      if (!currentTarget || !(event.target instanceof Node)) {
-        return;
-      }
-
-      if (!(currentTarget === event.target || currentTarget.contains(event.target))) {
-        return;
-      }
-
-      if (isDropdownTarget) {
-        event.preventDefault();
-        event.stopPropagation();
-        return;
-      }
-
-      advance();
-    };
-
-    document.addEventListener("pointerdown", onPointerDown, true);
-    document.addEventListener("click", onClick, true);
-    tutorialState.highlightedCleanup = () => {
-      document.removeEventListener("pointerdown", onPointerDown, true);
-      document.removeEventListener("click", onClick, true);
-    };
-
-    return target;
-  }
-
-  function hideTutorialOverlay() {
-    clearTutorialHighlight();
-    tutorialState.missingTargetStepId = "";
-    tutorialState.missingTargetSince = 0;
-    if (tutorialState.overlay) {
-      tutorialState.overlay.classList.remove("show");
-    }
-    if (tutorialState.tip) {
-      tutorialState.tip.hidden = true;
-    }
-  }
-
-  function trackTutorialTarget(stepId, found) {
-    if (!stepId) {
-      tutorialState.missingTargetStepId = "";
-      tutorialState.missingTargetSince = 0;
-      return 0;
-    }
-
-    if (found) {
-      tutorialState.missingTargetStepId = "";
-      tutorialState.missingTargetSince = 0;
-      return 0;
-    }
-
-    if (tutorialState.missingTargetStepId !== stepId) {
-      tutorialState.missingTargetStepId = stepId;
-      tutorialState.missingTargetSince = Date.now();
-      return 0;
-    }
-
-    if (!tutorialState.missingTargetSince) {
-      tutorialState.missingTargetSince = Date.now();
-      return 0;
-    }
-
-    return Date.now() - tutorialState.missingTargetSince;
-  }
-
-  function renderTutorial() {
-    window.clearTimeout(tutorialState.refreshTimer);
-
-    if (!isTutorialEligible()) {
-      hideTutorialOverlay();
-      return;
-    }
-
-    if (state.user?.studentTutorialCompletedAt) {
-      hideTutorialOverlay();
-      return;
-    }
-
-    if (sessionStorage.getItem(TUTORIAL_ACTIVE_KEY) !== "1") {
-      hideTutorialOverlay();
-      return;
-    }
-
-    const step = getCurrentTutorialStep();
-    if (!step || step.page !== page) {
-      hideTutorialOverlay();
-      return;
-    }
-
-    const steps = getTutorialSteps();
-    const stepIndex = getStepIndexById(step.id);
-    const target = highlightTutorialTarget(step);
-    const { overlay, tip, stepLabel, title, body, actionHint, nextBtn } = getTutorialOverlayParts();
-    const hasSelector = Boolean(step.selector);
-    const missingTargetDuration = trackTutorialTarget(step.id, Boolean(target));
-    const allowManualAdvance = hasSelector && !target && missingTargetDuration >= TUTORIAL_MISSING_TARGET_FALLBACK_DELAY;
-
-    stepLabel.textContent = `新手導覽 ${stepIndex + 1} / ${steps.length}`;
-    title.textContent = step.title;
-    body.textContent = step.body;
-
-    if (target) {
-      actionHint.textContent =
-        stepIndex >= steps.length - 1
-          ? "點擊高亮區域即可完成導覽。"
-          : "點擊高亮區域即可前往下一步。";
-    } else if (hasSelector) {
-      actionHint.textContent = "正在等待高亮區域出現。若這一步沒有出現，請使用略過或稍後再看。";
-    } else {
-      actionHint.textContent = "這一步沒有指定高亮區域，可直接按下一步。";
-    }
-
-    nextBtn.hidden = hasSelector;
-    if (!hasSelector) {
-      nextBtn.textContent = stepIndex >= steps.length - 1 ? "完成" : "下一步";
-    }
-
-    if (allowManualAdvance) {
-      actionHint.textContent =
-        "目前找不到這一步的導覽目標，可能是頁面內容尚未載入或功能版面已調整。你可以先略過這一步，導覽不會卡住。";
-      nextBtn.hidden = false;
-      nextBtn.textContent = stepIndex >= steps.length - 1 ? "摰?" : "略過這一步";
-    }
-
-    overlay.classList.add("show");
-    tip.hidden = false;
-    tip.classList.toggle("requires-click", hasSelector && !allowManualAdvance);
-    positionTutorialTip(target);
-
-    if (!target && hasSelector) {
-      tutorialState.refreshTimer = window.setTimeout(renderTutorial, 400);
-    }
-  }
-
-  const tutorial = {
-    registerPage(stepId, override) {
-      if (!stepId || !override || typeof override !== "object") {
-        return;
-      }
-      tutorialState.pageOverrides.set(stepId, override);
-      this.refresh();
-    },
-
-    refresh() {
-      renderTutorial();
-    },
-
-    isActive() {
-      return (
-        isTutorialEligible() &&
-        !state.user?.studentTutorialCompletedAt &&
-        sessionStorage.getItem(TUTORIAL_ACTIVE_KEY) === "1"
-      );
-    },
-
-    getCurrentStepId() {
-      return getCurrentTutorialStep()?.id || "";
-    },
-
-    isCurrentStep(stepId) {
-      return Boolean(stepId) && this.isActive() && this.getCurrentStepId() === stepId;
-    },
-
-    async complete() {
-      try {
-        if (state.token) {
-          const response = await api("/api/auth/me/tutorial/complete", { method: "POST" });
-          state.user = response.user;
-          localStorage.setItem("wordsKingUser", JSON.stringify(state.user));
-        }
-      } catch (error) {
-        showMessage(error.message);
-      } finally {
-        clearTutorialStorage();
-        hideTutorialOverlay();
-      }
-    },
-
-    async skip() {
-      await this.complete();
-      showMessage("已略過新手導覽。");
-    },
-
-    pause() {
-      sessionStorage.removeItem(TUTORIAL_ACTIVE_KEY);
-      sessionStorage.setItem(TUTORIAL_PAUSED_KEY, "1");
-      hideTutorialOverlay();
-      showMessage("已暫停導覽，之後可從設定頁重新開啟。");
-    },
-
-    async reset() {
-      if (!state.token) {
-        return;
-      }
-
-      const response = await api("/api/auth/me/tutorial/reset", { method: "POST" });
-      state.user = response.user;
-      localStorage.setItem("wordsKingUser", JSON.stringify(state.user));
-      clearTutorialStorage();
-      hideTutorialOverlay();
-    },
-
-    async start(options = {}) {
-      if (!isTutorialEligible()) {
-        return;
-      }
-
-      if (options.resetRemote) {
-        await this.reset();
-      }
-
-      sessionStorage.removeItem(TUTORIAL_PAUSED_KEY);
-      sessionStorage.setItem(TUTORIAL_ACTIVE_KEY, "1");
-      sessionStorage.setItem(TUTORIAL_STEP_KEY, getTutorialSteps()[0].id);
-
-      if (page !== "words") {
-        window.location.href = "/words.html";
-        return;
-      }
-
-      renderTutorial();
-    },
-
-    goNext() {
-      const steps = getTutorialSteps();
-      const currentStep = getCurrentTutorialStep();
-      const currentIndex = getStepIndexById(currentStep?.id);
-      const nextStep = steps[currentIndex + 1];
-
-      if (!nextStep) {
-        this.complete();
-        return;
-      }
-
-      sessionStorage.setItem(TUTORIAL_ACTIVE_KEY, "1");
-      sessionStorage.setItem(TUTORIAL_STEP_KEY, nextStep.id);
-      sessionStorage.removeItem(TUTORIAL_PAUSED_KEY);
-
-      if (nextStep.page !== page) {
-        window.location.href = `/${nextStep.page}.html`;
-        return;
-      }
-
-      renderTutorial();
-    },
-
-    autoStartIfNeeded() {
-      if (!isTutorialEligible()) {
-        hideTutorialOverlay();
-        return;
-      }
-
-      if (state.user?.studentTutorialCompletedAt) {
-        clearTutorialStorage();
-        hideTutorialOverlay();
-        return;
-      }
-
-      if (sessionStorage.getItem(TUTORIAL_PAUSED_KEY) === "1") {
-        hideTutorialOverlay();
-        return;
-      }
-
-      if (!sessionStorage.getItem(TUTORIAL_STEP_KEY)) {
-        sessionStorage.setItem(TUTORIAL_STEP_KEY, getTutorialSteps()[0].id);
-        sessionStorage.setItem(TUTORIAL_ACTIVE_KEY, "1");
-
-        if (page !== "words") {
-          window.location.href = "/words.html";
-          return;
-        }
-      }
-
-      sessionStorage.setItem(TUTORIAL_ACTIVE_KEY, "1");
-      renderTutorial();
-    }
-  };
-
   async function refreshUser() {
     if (!state.token) {
       applyTheme(null);
       renderHeader();
-      hideTutorialOverlay();
       return null;
     }
 
     try {
       const data = await api("/api/auth/me");
-      state.user = data.user;
-      localStorage.setItem("wordsKingUser", JSON.stringify(state.user));
+      state.user = state.user?.isGuest && data.user?.isGuest
+        ? {
+            ...data.user,
+            displayName: state.user.displayName,
+            theme: state.user.theme,
+            leaderboardVisible: state.user.leaderboardVisible,
+            practiceNextQuestionDelayMs: state.user.practiceNextQuestionDelayMs,
+            practiceChoiceTimeLimitSeconds: state.user.practiceChoiceTimeLimitSeconds,
+            practiceTypingTimeLimitSeconds: state.user.practiceTypingTimeLimitSeconds
+          }
+        : data.user;
+      if (state.user?.isGuest) {
+        sessionStorage.setItem(GUEST_USER_KEY, JSON.stringify(state.user));
+      } else {
+        localStorage.setItem(USER_KEY, JSON.stringify(state.user));
+      }
       applyTheme(state.user?.theme);
       renderHeader();
       await refreshUnreadCount({ rerender: true });
       return data.user;
     } catch {
       renderHeader();
-      hideTutorialOverlay();
       if (page !== "home") {
         showMessage("登入狀態已失效，請重新登入。");
         window.location.href = "/home.html";

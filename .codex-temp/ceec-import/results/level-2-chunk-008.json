@@ -1,0 +1,1551 @@
+{
+  "level": 2,
+  "chunkIndex": 8,
+  "inputs": [
+    "eyebrow",
+    "brow",
+    "factor",
+    "failure",
+    "fair",
+    "false",
+    "fashion",
+    "fate",
+    "fault",
+    "favor",
+    "favorite",
+    "fear",
+    "feature",
+    "fee",
+    "feeling",
+    "fellow",
+    "female",
+    "fever",
+    "field",
+    "figure",
+    "final",
+    "fireman",
+    "firewoman",
+    "firm",
+    "fisherman",
+    "fit",
+    "fix",
+    "flag",
+    "flat",
+    "flight",
+    "flow",
+    "flu",
+    "focus",
+    "fog",
+    "folk",
+    "following",
+    "foolish",
+    "football",
+    "force",
+    "forest",
+    "forgive",
+    "form",
+    "formal",
+    "former",
+    "forth",
+    "forward",
+    "forwards",
+    "found",
+    "fox",
+    "freedom"
+  ],
+  "rows": [
+    {
+      "eng": "eyebrow",
+      "kk": "ˈaɪˌbraʊ",
+      "tense": "n.",
+      "ch": [
+        [
+          "眉毛"
+        ],
+        [
+          "眉骨",
+          "眼眉上方"
+        ]
+      ],
+      "analysis": "此字為現代透明複合詞，由名詞 eye（眼睛）與 brow（額、眉）組合而成，指眼睛上方的毛髮區域或隆起部位。古英語時期即有類似複合形式（brū-bræw），演變至今指眼眶上緣的眉毛。",
+      "definition": "1. the strip of hair growing on the ridge above the eye socket; 2. the bony ridge above the eye.",
+      "example": [
+        {
+          "eng": "She raised an eyebrow in surprise when she heard the news.",
+          "ch": "聽到這個消息時，她驚訝地挑起了一側眉毛。"
+        },
+        {
+          "eng": "Sweat dripped down from his forehead onto his thick eyebrow.",
+          "ch": "汗水從他的額頭滴落到濃密的眉骨上。"
+        }
+      ]
+    },
+    {
+      "eng": "brow",
+      "kk": "braʊ",
+      "tense": "n.",
+      "ch": [
+        [
+          "額頭",
+          "眉頭"
+        ],
+        [
+          "山頭",
+          "山脊邊緣"
+        ]
+      ],
+      "analysis": "此字源自古英語 brū（意為眉毛、額頭、眼瞼），屬於日耳曼語繼承詞，與古高地德語 brā 相關。語義從原指「眉毛」或「眼上緣」，引申出「額頭」以及地形上高處的「山脊、邊緣」。",
+      "definition": "1. the forehead or the arch of hair above either eye; 2. the summit or upper edge of a hill or steep slope.",
+      "example": [
+        {
+          "eng": "He wiped the sweat from his brow with a handkerchief.",
+          "ch": "他用手帕擦了擦額頭上的汗水。"
+        },
+        {
+          "eng": "They finally reached the brow of the hill and stopped to rest.",
+          "ch": "他們終於到達山頭並停下來休息。"
+        }
+      ]
+    },
+    {
+      "eng": "factor",
+      "kk": "ˈfæktɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "因素",
+          "要素"
+        ],
+        [
+          "代理人",
+          "經紀人"
+        ],
+        [
+          "因數",
+          "數學因子"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 factor（做事情的人、造物者），由動詞 facere（做、製造）加上名詞字尾 -tor 而成。經由中世紀拉丁語與法語進入英語，原義指「代理商或經紀人」，後在數學與科學語境中引申出「因數、導致結果的因素」等現代核心義。",
+      "definition": "1. a circumstance, fact, or influence that contributes to a result; 2. a person who acts for another, such as a business agent; 3. a number or quantity that multiplies another to produce a product.",
+      "example": [
+        {
+          "eng": "Cost is a major factor when deciding to buy a new car.",
+          "ch": "在決定買新車時，成本是一個主要因素。"
+        },
+        {
+          "eng": "The merchant appointed a trusted factor to handle his overseas trade.",
+          "ch": "那名商人指派了一位信得過的代理人來處理他的海外貿易。"
+        },
+        {
+          "eng": "Three and five are factors of fifteen.",
+          "ch": "三和五是十五的因數。"
+        }
+      ]
+    },
+    {
+      "eng": "failure",
+      "kk": "ˈfeɪljɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "失敗",
+          "不成功"
+        ],
+        [
+          "故障",
+          "失靈"
+        ],
+        [
+          "失敗者",
+          "無能的人"
+        ]
+      ],
+      "analysis": "此字源自古法語 failir（失敗、缺席、短缺），其拉丁語源為 fallere（欺騙、使失望、錯失）。進入英語後加上名詞字尾 -ure，演變出表示「未達成目標的狀態、機械停止運作（故障）」以及「指代失敗的人」等常見義項。",
+      "definition": "1. lack of success in achieving something; 2. the breakdown or cessation of the normal operation of a machine or body part; 3. a person or thing that has proved unsuccessful.",
+      "example": [
+        {
+          "eng": "His business venture ended in complete failure.",
+          "ch": "他的商業投資以徹底失敗告終。"
+        },
+        {
+          "eng": "The power failure plunged the entire neighborhood into darkness.",
+          "ch": "電力故障使得整個社區陷入一片黑暗。"
+        },
+        {
+          "eng": "He felt like a failure after missing all his interview opportunities.",
+          "ch": "在錯失所有面試機會後，他覺得自己是個失敗者。"
+        }
+      ]
+    },
+    {
+      "eng": "fair",
+      "kk": "fɛr",
+      "tense": "n.",
+      "ch": [
+        [
+          "集市",
+          "廟會"
+        ],
+        [
+          "博覽會",
+          "展覽會"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 feria（假日、神聖日子），經由古法語 feire、faie 演變而來。原本指宗教節日的集市與慶典，隨著商業發展，演變成定期舉辦的商品交易會、農業展覽會及遊樂集市。",
+      "definition": "1. a gathering of people for the sale of goods and entertainment; 2. an exhibition of products or services, often industrial, agricultural, or educational.",
+      "example": [
+        {
+          "eng": "The children love going to the summer fair to ride the Ferris wheel.",
+          "ch": "孩子們喜歡去夏日集市坐摩天輪。"
+        },
+        {
+          "eng": "She showcased her new software at the international tech fair.",
+          "ch": "她在國際科技博覽會上展示了她的新軟體。"
+        }
+      ]
+    },
+    {
+      "eng": "fair",
+      "kk": "fɛr",
+      "tense": "adj.",
+      "ch": [
+        [
+          "公平的",
+          "公正的"
+        ],
+        [
+          "晴朗的",
+          "美好的"
+        ],
+        [
+          "白皙的",
+          "金色的"
+        ]
+      ],
+      "analysis": "此字源自古英語 fæger（美麗的、愉悅的），屬於日耳曼語繼承詞。語義從早期的「外表美好、令人愉悅」逐步演變出「天氣晴朗」、「皮膚白皙或頭髮金黃」，並在社會互動與規則中發展出「符合正義、公平公正」的核心現代義。",
+      "definition": "1. treating people equally without favoritism or discrimination; 2. free from clouds or rain; pleasant and bright; 3. light in color, especially regarding skin or hair.",
+      "example": [
+        {
+          "eng": "The referee made a fair decision during the game.",
+          "ch": "裁判在比賽中做出了公平的判決。"
+        },
+        {
+          "eng": "We are hoping for fair weather during our weekend camping trip.",
+          "ch": "我們希望週末露營時能有好天氣。"
+        },
+        {
+          "eng": "She has fair skin and blue eyes.",
+          "ch": "她擁有白皙的皮膚和藍色的眼睛。"
+        }
+      ]
+    },
+    {
+      "eng": "false",
+      "kk": "fɔls",
+      "tense": "adj.",
+      "ch": [
+        [
+          "錯誤的"
+        ],
+        [
+          "虛假的"
+        ],
+        [
+          "不忠的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 falsus（欺騙的、錯誤的），為動詞 fallere（欺騙）的過去分詞。經由古法語假道傳入。語義從古代的「欺騙性、不真實」擴展至現代的「事實不符（錯誤）」以及「人際關係中的不忠實」。",
+      "definition": "1. not according with truth or fact; 2. made to look like something real in order to deceive; 3. unfaithful or disloyal to a person or commitment.",
+      "example": [
+        {
+          "eng": "He gave false information to the police during the investigation.",
+          "ch": "他在調查期間向警方提供了虛假訊息。"
+        },
+        {
+          "eng": "She was wearing a false mustache as part of her disguise.",
+          "ch": "她戴著假鬍子作為偽裝的一部分。"
+        },
+        {
+          "eng": "He proved to be a false friend when times got tough.",
+          "ch": "當日子艱難時，他證明了自己是個不忠的朋友。"
+        }
+      ]
+    },
+    {
+      "eng": "fashion",
+      "kk": "ˈfæʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "時尚",
+          "流行"
+        ],
+        [
+          "方式",
+          "樣子"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 factio（製作、黨派），後在古法語 façun 演變出「外觀、形狀、做法」之義。進入英語後，語義一方面保留了「以某種方式（in a... fashion）」的古義，另一方面演變為專指服飾與生活型態的「潮流、時尚」。",
+      "definition": "1. a popular trend, especially in styles of dress and behavior; 2. a particular way in which something is done or created.",
+      "example": [
+        {
+          "eng": "Paris is widely regarded as the capital of international fashion.",
+          "ch": "巴黎被普遍視為國際時尚之都。"
+        },
+        {
+          "eng": "The committee addressed the issue in a professional fashion.",
+          "ch": "委員會以專業的方式處理了這個問題。"
+        }
+      ]
+    },
+    {
+      "eng": "fate",
+      "kk": "fet",
+      "tense": "n.",
+      "ch": [
+        [
+          "命運",
+          "天命"
+        ],
+        [
+          "厄運",
+          "悲慘結局"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 fatum（神明的話、預言、命運），由動詞 fari（說話）衍生而來。經由古法語 fate 進入英語。語義從最初的「神聖宣告或註定之事」，引申為人生無法避免的最終歸宿或災難性結局。",
+      "definition": "1. the development of events outside a person's control, regarded as determined by a supernatural power; 2. the final outcome or ultimate destiny, often implying misfortune.",
+      "example": [
+        {
+          "eng": "They accepted their fate and tried to make the best of the situation.",
+          "ch": "他們接受了命運，並試圖把當前的局勢處理好。"
+        },
+        {
+          "eng": "The captain fought bravely to save his ship from a tragic fate.",
+          "ch": "船長勇敢作戰，企圖挽救他的船隻免於悲慘的結局。"
+        }
+      ]
+    },
+    {
+      "eng": "fault",
+      "kk": "fɔlt",
+      "tense": "n.",
+      "ch": [
+        [
+          "過錯",
+          "責任"
+        ],
+        [
+          "缺點",
+          "毛病"
+        ],
+        [
+          "斷層",
+          "地質斷層"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 fallere（使跌倒、欺騙），經由古法語 falte（缺點、錯誤）進入英語。語義從早期的「不足、缺點」延伸出「責任歸屬（過失）」以及地質學上的「地殼斷層」等專業與生活義項。",
+      "definition": "1. responsibility for an accident, mistake, or unfortunate event; 2. an unattractive or unsatisfactory feature; a defect; 3. a break in the continuity of a body of rock.",
+      "example": [
+        {
+          "eng": "It was my fault that we missed the train.",
+          "ch": "我們錯過火車是我的錯。"
+        },
+        {
+          "eng": "Everyone has their faults, but you must learn to accept them.",
+          "ch": "每個人都有缺點，但你必須學會接受它們。"
+        },
+        {
+          "eng": "The earthquake was caused by movement along a major geological fault.",
+          "ch": "這場地震是由一條主要地質斷層的位移所引起的。"
+        }
+      ]
+    },
+    {
+      "eng": "favor",
+      "kk": "ˈfevɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "恩惠",
+          "幫忙"
+        ],
+        [
+          "偏愛",
+          "支持"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 favor（善意、支持），由 favere（給予好感、支持）衍生而來。經由古法語 favor 進入英語。語義涵蓋實質的「好意幫助」以及心理上的「偏好、贊同與支持」。",
+      "definition": "1. an act of kindness or a helpful service; 2. approval, support, or liking for someone or something.",
+      "example": [
+        {
+          "eng": "Could you do me a favor and turn off the lights?",
+          "ch": "你可以幫我一個忙，把燈關掉嗎？"
+        },
+        {
+          "eng": "The proposal won the favor of the board members.",
+          "ch": "該提案獲得了董事會成員的支持與青睞。"
+        }
+      ]
+    },
+    {
+      "eng": "favorite",
+      "kk": "ˈfevərɪt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "最喜愛的",
+          "最中意的"
+        ]
+      ],
+      "analysis": "此字源自義大利語 favorito（被寵愛的），為 favorire（偏愛、支持）的過去分詞，其根本詞源同 favor。經由法語傳入英語，作形容詞用時專指「在同類中最受喜愛的」。",
+      "definition": "1. preferred above all others of the same kind.",
+      "example": [
+        {
+          "eng": "Reading science fiction is one of my favorite pastimes.",
+          "ch": "閱讀科幻小說是我最喜愛的消遣之一。"
+        }
+      ]
+    },
+    {
+      "eng": "fear",
+      "kk": "fɪr",
+      "tense": "n.",
+      "ch": [
+        [
+          "恐懼",
+          "害怕"
+        ],
+        [
+          "擔憂",
+          "憂慮"
+        ]
+      ],
+      "analysis": "此字源自古英語 fǣr（突然的危險、災難、恐懼），屬於日耳曼語繼承詞，與德語 Gefahr（危險）同源。語義從早期的「對突發危險的警惕與驚恐」，演變為對未來不確定狀況的「擔憂或恐懼心理」。",
+      "definition": "1. an unpleasant emotion caused by the threat of danger, pain, or harm; 2. a feeling of anxiety concerning the outcome of something or the safety of someone.",
+      "example": [
+        {
+          "eng": "He felt a sudden surge of fear as the door slowly opened.",
+          "ch": "當門緩緩打開時，他感到一陣突如其來的恐懼。"
+        },
+        {
+          "eng": "Her greatest fear is that she might fail the exam.",
+          "ch": "她最大的擔憂是自己可能會考試不及格。"
+        }
+      ]
+    },
+    {
+      "eng": "feature",
+      "kk": "ˈfitʃɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "特色",
+          "特徵"
+        ],
+        [
+          "面容部位",
+          "五官"
+        ],
+        [
+          "專題報導",
+          "特色節目"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 factura（製作、構造），由 facere（做）衍生。經由古法語 facture 演變出「外表造形、面部輪廓」之義，進入英語後進一步擴大，指事物的「顯著特色」以及新聞影視中的「專題報導」。",
+      "definition": "1. a distinctive attribute or aspect of something; 2. a part of the face, such as the mouth, nose, or eyes; 3. a prominent article in a newspaper or a full-length film in a cinema.",
+      "example": [
+        {
+          "eng": "One of the best features of this smartphone is its high-quality camera.",
+          "ch": "這款智慧型手機最好的特色之一就是其高品質的相機。"
+        },
+        {
+          "eng": "She has delicate facial features and a warm smile.",
+          "ch": "她有著清秀的五官和溫暖的微笑。"
+        },
+        {
+          "eng": "The magazine published a special feature on renewable energy.",
+          "ch": "該雜誌刊登了一篇關於再生能源的專題報導。"
+        }
+      ]
+    },
+    {
+      "eng": "fee",
+      "kk": "fi",
+      "tense": "n.",
+      "ch": [
+        [
+          "費用",
+          "酬金"
+        ],
+        [
+          "手續費",
+          "學費"
+        ]
+      ],
+      "analysis": "此字源自古英語 feoh（財產、牛隻、金錢），屬於日耳曼語繼承詞，與德語 Vieh（牲畜）同源。在日耳曼社會中，牲畜曾充當貨幣，因此在中古英語中演變為指「封地、報酬、服務費用」之義，現代則泛指各類專業服務或入會的固定收費。",
+      "definition": "1. a payment made to a professional person or organization for advice or services.",
+      "example": [
+        {
+          "eng": "The lawyer charged a high fee for her legal consultation.",
+          "ch": "這位律師為她的法律諮詢收取了高昂的費用。"
+        }
+      ]
+    },
+    {
+      "eng": "feeling",
+      "kk": "ˈfilɪŋ",
+      "tense": "n.",
+      "ch": [
+        [
+          "感覺",
+          "情緒"
+        ],
+        [
+          "觸覺",
+          "知覺"
+        ],
+        [
+          "同情",
+          "體諒"
+        ]
+      ],
+      "analysis": "此字由動詞 feel 加上名詞化字尾 -ing 形成。保留了感官上的「觸覺」、心理上的「情緒與感覺」，以及對他人處境的「同情心」等語義。",
+      "definition": "1. an emotional state or reaction; 2. the capacity to feel through touch; physical sensation; 3. sympathetic awareness or sensitivity toward others.",
+      "example": [
+        {
+          "eng": "She expressed a deep feeling of sadness after hearing the news.",
+          "ch": "聽到這個消息後，她表達了深深的悲傷情緒。"
+        },
+        {
+          "eng": "He lost all feeling in his fingers due to the freezing cold.",
+          "ch": "由於嚴寒，他的手指失去了所有觸覺。"
+        },
+        {
+          "eng": "She spoke with great feeling about the plight of the homeless.",
+          "ch": "她帶著極大的同情心談到了無家可歸者的困境。"
+        }
+      ]
+    },
+    {
+      "eng": "fellow",
+      "kk": "ˈfɛloʊ",
+      "tense": "n.",
+      "ch": [
+        [
+          "夥伴",
+          "同事"
+        ],
+        [
+          "男子",
+          "傢伙"
+        ],
+        [
+          "學者",
+          "研究員"
+        ]
+      ],
+      "analysis": "此字源自古諾斯語 félagi（合夥人、同伴），由 fé（財產、錢財）與 lag（法律、合夥）組合而成。進入中古英語後演變成泛指「同伴、男子」，在學術機構中則用來指稱獲得榮譽頭銜的「學者或研究員」。",
+      "definition": "1. a man or boy; 2. a person in the same position, group, or occupation; a companion; 3. a member of a learned society or a university researcher.",
+      "example": [
+        {
+          "eng": "He is a pleasant fellow to work with.",
+          "ch": "他是一個很好共事的夥伴。"
+        },
+        {
+          "eng": "She was appointed as a research fellow at the university.",
+          "ch": "她被任命為該大學的研究員。"
+        }
+      ]
+    },
+    {
+      "eng": "female",
+      "kk": "ˈfiˌmel",
+      "tense": "adj.",
+      "ch": [
+        [
+          "女性的",
+          "雌性的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 femella（小女性、雌性動物），為 femina（女人）的指小詞。經由古法語 femelle 進入英語（早期拼寫受 male 影響而調整）。現代用作形容詞，指屬於女性或雌性生物的生理或社會性別特徵。",
+      "definition": "1. of or denoting the sex that can bear offspring or produce eggs, distinguished biologically by the production of gametes.",
+      "example": [
+        {
+          "eng": "The female lion does most of the hunting for the pride.",
+          "ch": "母獅子負責獅群的大部分獵捕工作。"
+        }
+      ]
+    },
+    {
+      "eng": "fever",
+      "kk": "ˈfivɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "發燒",
+          "高熱"
+        ],
+        [
+          "狂熱",
+          "高度興奮"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 febris（發燒、熱病），其印歐語根與燃燒有關。經由古英語 fēfor 進入英語。語義從醫學上的「體溫升高、發燒」，引申為群體或社會中對某事狂熱、躁動的狀態（如 election fever）。",
+      "definition": "1. an abnormally high body temperature, usually accompanied by shivering and headache; 2. an intense state of nervous excitement or passion.",
+      "example": [
+        {
+          "eng": "The child had a high fever and needed to see a doctor immediately.",
+          "ch": "這孩子發高燒，需要立刻看醫生。"
+        },
+        {
+          "eng": "Football fever gripped the entire country during the World Cup.",
+          "ch": "世界盃期間，足球狂熱席捲了整個國家。"
+        }
+      ]
+    },
+    {
+      "eng": "field",
+      "kk": "fild",
+      "tense": "n.",
+      "ch": [
+        [
+          "田地",
+          "農田"
+        ],
+        [
+          "運動場",
+          "球場"
+        ],
+        [
+          "領域",
+          "專業範圍"
+        ]
+      ],
+      "analysis": "此字源自古英語 feld（開闊的土地、平原），屬於日耳曼語繼承詞，與德語 Feld 同源。語義從原始的「無樹木的開闊原野、農田」，擴展至「運動競技場」，並進一步抽象化為知識或工作的「領域、學術專長」。",
+      "definition": "1. an area of open land, especially one planted with crops or pasture; 2. an enclosed area of ground marked for playing a sport; 3. a particular branch of study or sphere of activity.",
+      "example": [
+        {
+          "eng": "The farmers worked hard in the green fields all day.",
+          "ch": "農夫們一整天都在綠色的農田裡辛苦工作。"
+        },
+        {
+          "eng": "The players walked onto the field as the crowd cheered.",
+          "ch": "在群眾的歡呼聲中，球員們走上了球場。"
+        },
+        {
+          "eng": "She is a leading expert in the field of artificial intelligence.",
+          "ch": "她是人工智慧領域的頂尖專家。"
+        }
+      ]
+    },
+    {
+      "eng": "figure",
+      "kk": "ˈfɪgjɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "數字",
+          "金額"
+        ],
+        [
+          "身形",
+          "身材"
+        ],
+        [
+          "人物",
+          "名人"
+        ],
+        [
+          "圖表",
+          "插圖"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 figura（形狀、外表、形象），由 fingere（形塑、捏造）衍生而來。經由古法語進入英語後，語義經歷多重擴展：從外在的「形體、身材」，到具體的「數字、圖形」，再到社會上的「重要人物」。",
+      "definition": "1. a number or amount, especially one that is official or calculated; 2. the shape of the human body, especially attractive; 3. a person of a particular kind, often prominent or influential; 4. a diagram or illustration in a book.",
+      "example": [
+        {
+          "eng": "Sales figures for the third quarter exceeded all expectations.",
+          "ch": "第三季的銷售數字超出了所有預期。"
+        },
+        {
+          "eng": "She jogs every morning to maintain her slim figure.",
+          "ch": "她每天早晨慢跑以維持苗條的身材。"
+        },
+        {
+          "eng": "He is considered a key historical figure in the fight for civil rights.",
+          "ch": "他被認為是爭取民權運動中的關鍵歷史人物。"
+        },
+        {
+          "eng": "Please refer to Figure 2 on page 45 for more details.",
+          "ch": "請參閱第45頁的圖表2以了解更多細節。"
+        }
+      ]
+    },
+    {
+      "eng": "final",
+      "kk": "ˈfaɪnəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "最終的",
+          "決定性的"
+        ],
+        [
+          "期末的",
+          "決賽的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 finalis（最後的、終結的），由 finis（終點、界線）衍生而來。經由古法語進入英語。用作形容詞時，指事情的「最後階段、不可更改的決定」，或教育與競賽中的「期末、決賽」。",
+      "definition": "1. coming at the end of a series or process; ultimate; 2. conclusive or decisive; leaving no room for further discussion.",
+      "example": [
+        {
+          "eng": "This is our final offer; we cannot lower the price any further.",
+          "ch": "這是我們的最終報價，我們無法再降價了。"
+        },
+        {
+          "eng": "Students are busy studying for their final exams next week.",
+          "ch": "學生們正忙著準備下週的期末考試。"
+        }
+      ]
+    },
+    {
+      "eng": "fireman",
+      "kk": "ˈfaɪrˌmæn",
+      "tense": "n.",
+      "ch": [
+        [
+          "消防員",
+          "救火員"
+        ]
+      ],
+      "analysis": "此字為現代透明複合詞，由 fire（火）與 man（人）組成。起初指負責維護蒸氣火車或工廠鍋爐火勢的人，現代英語中主要指「消防隊員、救火人員」。",
+      "definition": "1. a member of a fire brigade whose job is to extinguish fires.",
+      "example": [
+        {
+          "eng": "The brave fireman rushed into the burning building to rescue the trapped cat.",
+          "ch": "這位勇敢的消防員衝進燃燒的大樓中救援被困的小貓。"
+        }
+      ]
+    },
+    {
+      "eng": "firewoman",
+      "kk": "ˈfaɪrˌwʊmən",
+      "tense": "n.",
+      "ch": [
+        [
+          "女消防員"
+        ]
+      ],
+      "analysis": "此字為現代透明複合詞，由 fire（火）與 woman（女人）組成，是用於指稱女性消防人員的複合名詞。",
+      "definition": "1. a female member of a fire brigade.",
+      "example": [
+        {
+          "eng": "She is proud to serve as a dedicated firewoman in her hometown.",
+          "ch": "她為能在故鄉擔任盡職的女消防員感到自豪。"
+        }
+      ]
+    },
+    {
+      "eng": "firm",
+      "kk": "fɝm",
+      "tense": "n.",
+      "ch": [
+        [
+          "公司",
+          "商行"
+        ]
+      ],
+      "analysis": "此字源自義大利語 firma（簽名、商標），源於拉丁語 firmare（確認、簽署）。商人們在商業文書上簽署（firma）代表信譽與穩固，因此詞義從「簽名」轉化為「商業公司、商號」。",
+      "definition": "1. a business concern, especially one involving a partnership of two or more people.",
+      "example": [
+        {
+          "eng": "He works as an accountant for a prominent law firm in the city.",
+          "ch": "他在該市一家知名的法律事務所擔任會計師。"
+        }
+      ]
+    },
+    {
+      "eng": "firm",
+      "kk": "fɝm",
+      "tense": "adj.",
+      "ch": [
+        [
+          "堅固的",
+          "結實的"
+        ],
+        [
+          "堅定的",
+          "確定的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 firmus（堅固的、穩定的），其印歐語根與支撐有關。經由古法語 ferme 進入英語。語義從物理上的「堅硬、穩固」，引申為心理上的「態度堅定、決心不動搖」。",
+      "definition": "1. solidly rooted or hard; not easily moved or pressed down; 2. unwavering, resolute, or strictly fixed in intention or decision.",
+      "example": [
+        {
+          "eng": "Make sure the tent posts are driven into firm ground.",
+          "ch": "確定帳篷支柱已經釘入堅實的地面中。"
+        },
+        {
+          "eng": "She stood firm in her belief despite heavy criticism.",
+          "ch": "儘管面臨嚴厲批評，她對自己的信念依然堅定不移。"
+        }
+      ]
+    },
+    {
+      "eng": "fisherman",
+      "kk": "ˈfɪʃɚmən",
+      "tense": "n.",
+      "ch": [
+        [
+          "漁夫",
+          "漁民"
+        ]
+      ],
+      "analysis": "此字為現代透明複合詞，由 fish（魚、捕魚）與 man（人）組成，古英語即有類似結構（fiscere），指以捕魚為業或進行釣魚活動的人。",
+      "definition": "1. a person who catches fish for a living or as a sport.",
+      "example": [
+        {
+          "eng": "The fisherman cast his net into the calm waters of the lake.",
+          "ch": "漁夫把網撒入平靜的湖水中。"
+        }
+      ]
+    },
+    {
+      "eng": "fit",
+      "kk": "fɪt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "適合",
+          "合身"
+        ],
+        [
+          "安裝",
+          "配備"
+        ]
+      ],
+      "analysis": "作為及物動詞，fit 保持了源自日耳曼語支的動態用法，指衣物尺寸相符、物體吻合，或為設備「安裝、配備」零件。",
+      "definition": "1. to be of the right shape and size for someone or something; 2. to fix or put into place; equip.",
+      "example": [
+        {
+          "eng": "This jacket fits me perfectly.",
+          "ch": "這件夾克我穿起來非常合身。"
+        },
+        {
+          "eng": "The mechanic fitted a new battery into the car.",
+          "ch": "技師為汽車安裝了一顆新電瓶。"
+        }
+      ]
+    },
+    {
+      "eng": "fit",
+      "kk": "fɪt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "健康的",
+          "健壯的"
+        ],
+        [
+          "合適的",
+          "勝任的"
+        ]
+      ],
+      "analysis": "此字起源於中古英語，可能與北日耳曼語族有關，原意指「適合的尺寸、合身」。語義從服裝的「合身、恰當」，進一步演變出「身體狀況良好（健康、健壯）」以及「勝任某項工作」的現代義項。",
+      "definition": "1. in good physical health, especially as a result of exercise; 2. of a suitable quality, standard, or type to fulfill a required role.",
+      "example": [
+        {
+          "eng": "He runs three miles every day to stay fit.",
+          "ch": "他每天跑三英里以保持身體健康。"
+        },
+        {
+          "eng": "The building was declared fit for habitation after repairs.",
+          "ch": "修繕後，這棟建築物被宣布適合居住。"
+        }
+      ]
+    },
+    {
+      "eng": "fix",
+      "kk": "fɪks",
+      "tense": "vt.",
+      "ch": [
+        [
+          "修理",
+          "修補"
+        ],
+        [
+          "固定",
+          "安頓"
+        ],
+        [
+          "決定",
+          "確定（時間、地點等）"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 fixus（固定的），為 figere（釘牢、使固定）的過去分詞。經由中世紀拉丁語進入英語。動詞用法從最初的「釘牢、固定」，引申出「修理故障物件」、「固定排定時間、地點」等核心現代義。",
+      "definition": "1. to mend or repair something that is damaged or broken; 2. to fasten or position securely in a particular place; 3. to decide upon or set a time, date, or place.",
+      "example": [
+        {
+          "eng": "Can you help me fix this broken chair?",
+          "ch": "你可以幫我修理這張壞掉的椅子嗎？"
+        },
+        {
+          "eng": "He fixed the poster to the wall with some tape.",
+          "ch": "他用膠帶把海報固定在牆上。"
+        },
+        {
+          "eng": "We need to fix a date for the next team meeting.",
+          "ch": "我們需要敲定下次團隊會議的日期。"
+        }
+      ]
+    },
+    {
+      "eng": "flag",
+      "kk": "flæg",
+      "tense": "n.",
+      "ch": [
+        [
+          "旗子",
+          "國旗"
+        ]
+      ],
+      "analysis": "此字起源於日耳曼語族，中古英語指懸掛並隨風飄動的長條布料，現代泛指代表國家、組織或信號的旗幟。",
+      "definition": "1. a piece of cloth, typically rectangular, attached to a pole and used as a symbol of a country or organization.",
+      "example": [
+        {
+          "eng": "The national flag fluttered proudly in the morning breeze.",
+          "ch": "國旗在清晨的微風中驕傲地飄揚著。"
+        }
+      ]
+    },
+    {
+      "eng": "flat",
+      "kk": "flæt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "平的",
+          "平坦的"
+        ],
+        [
+          "扁平的",
+          "乏味的"
+        ]
+      ],
+      "analysis": "此字源自古諾斯語 flatr（平坦的），屬於日耳曼語繼承詞。作形容詞時，指表面平整無起伏、物體扁平，或抽象引申為聲音缺乏高低起伏（平板、乏味）。",
+      "definition": "1. smooth and level without raised areas or indentations; 2. lacking flavor, sparkle, or emotional resonance; dull.",
+      "example": [
+        {
+          "eng": "The football field is completely flat and well-maintained.",
+          "ch": "這座足球場非常平坦且維護良好。"
+        },
+        {
+          "eng": "The soda went flat after being left open all night.",
+          "ch": "汽水放了一整夜沒蓋蓋子，氣都消了（變得平淡無味）。"
+        }
+      ]
+    },
+    {
+      "eng": "flight",
+      "kk": "flaɪt",
+      "tense": "n.",
+      "ch": [
+        [
+          "飛行",
+          "航班"
+        ],
+        [
+          "逃跑",
+          "潰逃"
+        ],
+        [
+          "樓梯的一段"
+        ]
+      ],
+      "analysis": "此字源自古英語 flyht（飛行），由動詞 fleogan（飛）派生而來。另一同形異源詞源自古英語 fly-（逃跑）。語義分流為空中飛行（flight）、逃離（flight）以及階梯的一段（flight of stairs）。",
+      "definition": "1. the action or process of flying through the air; a scheduled journey by aircraft; 2. the act of running away, especially from danger; 3. a series of steps between floors.",
+      "example": [
+        {
+          "eng": "Our flight to London was delayed by two hours due to fog.",
+          "ch": "我們去倫敦的航班因為大霧延誤了兩個小時。"
+        },
+        {
+          "eng": "The enemy forces made a hasty flight across the border.",
+          "ch": "敵軍倉皇越過邊境潰逃。"
+        },
+        {
+          "eng": "He climbed three flights of stairs to reach the apartment.",
+          "ch": "他爬了三段樓梯才到達公寓。"
+        }
+      ]
+    },
+    {
+      "eng": "flow",
+      "kk": "floʊ",
+      "tense": "vi.",
+      "ch": [
+        [
+          "流動",
+          "川流不息"
+        ],
+        [
+          "順暢運作",
+          "湧現"
+        ]
+      ],
+      "analysis": "此字源自古英語 flōwan（流動），屬於日耳曼語繼承詞，與印歐語根表示水流的詞源相關。作不及物動詞時，指液體流動，或抽象引申為思緒、交通、時間的順暢進行與湧現。",
+      "definition": "1. to move steadily and continuously in a current or stream; 2. to circulate, proceed, or pour forth smoothly without obstruction.",
+      "example": [
+        {
+          "eng": "The river flows gently through the green valley.",
+          "ch": "河流溫和地流過翠綠的山谷。"
+        },
+        {
+          "eng": "Ideas began to flow freely during the creative brainstorming session.",
+          "ch": "在創意腦力激盪會議期間，各種想法開始源源不絕地湧現。"
+        }
+      ]
+    },
+    {
+      "eng": "flu",
+      "kk": "flu",
+      "tense": "n.",
+      "ch": [
+        [
+          "流行性感冒"
+        ]
+      ],
+      "analysis": "此字為 influenza 的現代截短縮寫形式（Clipping），源自義大利語 influenza（影響），經由法語進入英語。在19世紀末英語中逐漸普及，成為指稱流行性感冒（influenza）的日常慣用語。",
+      "definition": "1. a highly contagious viral infection of the respiratory passages causing fever and severe aching.",
+      "example": [
+        {
+          "eng": "He had to stay in bed all week because he caught a bad flu.",
+          "ch": "他得了嚴重的流感，被迫在床上躺了整整一週。"
+        }
+      ]
+    },
+    {
+      "eng": "focus",
+      "kk": "ˈfokəs",
+      "tense": "n.",
+      "ch": [
+        [
+          "焦點",
+          "中心"
+        ],
+        [
+          "焦距",
+          "清晰度"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 focus（爐火、壁爐），由天文學家克卜勒借用此詞指幾何與光學上的「焦點」（光線聚焦的爐火處）。進入現代英語後，引申為注意力的集中點以及攝影、光學中的「焦距與清晰度」。",
+      "definition": "1. the center of interest or activity; 2. the point at which light rays converge; the state of clear definition.",
+      "example": [
+        {
+          "eng": "Education was the main focus of the political conference.",
+          "ch": "教育是該政治會議的主要焦點。"
+        },
+        {
+          "eng": "Adjust the lens ring until the image comes into sharp focus.",
+          "ch": "調整鏡頭環直到影像完全清晰對焦。"
+        }
+      ]
+    },
+    {
+      "eng": "focus",
+      "kk": "ˈfokəs",
+      "tense": "vt.",
+      "ch": [
+        [
+          "集中",
+          "聚焦"
+        ],
+        [
+          "調節焦距"
+        ]
+      ],
+      "analysis": "作為及物動詞，focus 繼承自名詞的光學與注意力概念，指將目光、心力或光線「集中、聚焦於某處」。",
+      "definition": "1. to direct attention, effort, or light toward a specific point or purpose.",
+      "example": [
+        {
+          "eng": "You need to focus your attention on the road while driving.",
+          "ch": "你開車時必須把注意力集中在路面上。"
+        }
+      ]
+    },
+    {
+      "eng": "fog",
+      "kk": "fɔg",
+      "tense": "n.",
+      "ch": [
+        [
+          "霧",
+          "霧氣"
+        ]
+      ],
+      "analysis": "此字起源於斯堪地那維亞語支（源自古諾斯語），在中古英語晚期進入英語。指接近地面的微小水滴懸浮形成的濃霧或霧氣。",
+      "definition": "1. a thick cloud of tiny water droplets suspended in the atmosphere at or near the earth's surface.",
+      "example": [
+        {
+          "eng": "A dense fog rolled in from the sea and covered the harbor.",
+          "ch": "一陣濃霧從海面滾滾而來，籠罩了整個港口。"
+        }
+      ]
+    },
+    {
+      "eng": "folk",
+      "kk": "fok",
+      "tense": "n.",
+      "ch": [
+        [
+          "人們",
+          "民間"
+        ],
+        [
+          "親屬",
+          "家人"
+        ]
+      ],
+      "analysis": "此字源自古英語 folc（人群、民族、軍隊），屬於日耳曼語繼承詞，與德語 Volk 同源。語義從古代的「部族、人民」，演變為現代口語中的「人們（folks）」以及「父母、親戚（old folks）」。",
+      "definition": "1. people in general; 2. a person's family, especially parents.",
+      "example": [
+        {
+          "eng": "Most folk in this small town know each other well.",
+          "ch": "這個小鎮上的大多數人都互相熟識。"
+        },
+        {
+          "eng": "I am planning to visit my folks during the holiday.",
+          "ch": "我計畫在假期去拜訪我的父母家人。"
+        }
+      ]
+    },
+    {
+      "eng": "following",
+      "kk": "ˈfɑloʊɪŋ",
+      "tense": "adj.",
+      "ch": [
+        [
+          "接下來的",
+          "隨后的"
+        ]
+      ],
+      "analysis": "此字由動詞 follow 加上分詞字尾 -ing 形成。用作形容詞時，專門修飾時間或順序上「緊接在後面發生的」。",
+      "definition": "1. coming immediately after another in time or order.",
+      "example": [
+        {
+          "eng": "He resigned from his post, and the following week he left the country.",
+          "ch": "他辭去了職務，並在接下來的一週離開了這個國家。"
+        }
+      ]
+    },
+    {
+      "eng": "foolish",
+      "kk": "ˈfulɪʃ",
+      "tense": "adj.",
+      "ch": [
+        [
+          "愚蠢的",
+          "傻氣的"
+        ]
+      ],
+      "analysis": "此字源自名詞 fool（源自拉丁語 follis，風箱、傻子）加上形容詞字尾 -ish。用來形容行為、想法缺乏判斷力、顯得幼稚或愚蠢。",
+      "definition": "1. lacking good sense or judgment; unwise and somewhat ridiculous.",
+      "example": [
+        {
+          "eng": "It was foolish of him to drive without wearing a seatbelt.",
+          "ch": "他開車不繫安全帶真是太愚蠢了。"
+        }
+      ]
+    },
+    {
+      "eng": "football",
+      "kk": "ˈfʊtˌbɔl",
+      "tense": "n.",
+      "ch": [
+        [
+          "足球",
+          "美式足球"
+        ]
+      ],
+      "analysis": "此字為現代透明複合詞，由 foot（腳）與 ball（球）組成。原指用腳踢球的運動，在不同英語國家中演變出專指愛爾蘭式足球、英式足球（soccer）或北美洲的橄欖球（American football）。",
+      "definition": "1. a team game played with an oval ball in the US, or a round ball in most of the world, in which two teams try to kick or carry the ball into the opponent's goal.",
+      "example": [
+        {
+          "eng": "Millions of fans watched the exciting football match on television.",
+          "ch": "數百萬球迷在電視上觀看了這場精彩的足球賽。"
+        }
+      ]
+    },
+    {
+      "eng": "force",
+      "kk": "fɔrs",
+      "tense": "n.",
+      "ch": [
+        [
+          "力量",
+          "武力"
+        ],
+        [
+          "影響力",
+          "效力"
+        ],
+        [
+          "軍隊",
+          "武裝力量"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 fortis（強壯的、有力的）。經由古法語 force 進入英語。語義涵蓋物理上的「力、推力」、社會與法律上的「約束力與效力」，以及複數形指稱的「武裝部隊（forces）」。",
+      "definition": "1. strength or energy as an attribute of physical action or movement; 2. coercion, compulsion, or legal effectiveness; 3. an organized body of military personnel.",
+      "example": [
+        {
+          "eng": "The wind hit the coast with tremendous force.",
+          "ch": "強風以極大的威力襲擊了海岸。"
+        },
+        {
+          "eng": "The new safety regulations come into force next month.",
+          "ch": "新的安全法規將於下個月生效。"
+        },
+        {
+          "eng": "United Nations peacekeeping forces were sent to maintain order.",
+          "ch": "聯合國維和部隊被派遣去維持秩序。"
+        }
+      ]
+    },
+    {
+      "eng": "force",
+      "kk": "fɔrs",
+      "tense": "vt.",
+      "ch": [
+        [
+          "強迫",
+          "迫使"
+        ],
+        [
+          "硬推",
+          "勉力打開"
+        ]
+      ],
+      "analysis": "作為及物動詞，force 保留了拉丁源頭「強大力量」的動態意義，指透過施壓強迫某人做某事，或用力將物體推開、撬開。",
+      "definition": "1. to make someone do something against their will; 2. to break open or push through a barrier with physical effort.",
+      "example": [
+        {
+          "eng": "Don't force him to eat if he isn't feeling well.",
+          "ch": "如果他身體不舒服，就不要強迫他吃東西。"
+        },
+        {
+          "eng": "The burglar forced the back window to enter the house.",
+          "ch": "小偷撬開後窗闖入了屋內。"
+        }
+      ]
+    },
+    {
+      "eng": "forest",
+      "kk": "ˈfɔrɪst",
+      "tense": "n.",
+      "ch": [
+        [
+          "森林",
+          "林區"
+        ]
+      ],
+      "analysis": "此字源自中世紀拉丁語 forestis（皇家獵場、禁獵地），源於 foris（在外面、戶外）。經由古法語 forest 進入英語。原義指封閉保護的狩獵區（通常樹木繁茂），後演變為現代泛指大片樹木覆蓋的森林生態區。",
+      "definition": "1. a large area covered chiefly with trees and undergrowth.",
+      "example": [
+        {
+          "eng": "The hikers walked deep into the pine forest and lost their way.",
+          "ch": "遠足者走進松林深處，迷失了方向。"
+        }
+      ]
+    },
+    {
+      "eng": "forgive",
+      "kk": "fɚˈgɪv",
+      "tense": "vt.",
+      "ch": [
+        [
+          "原諒",
+          "寬恕"
+        ]
+      ],
+      "analysis": "此字源自古英語 forgiefan（給予、放棄、寬恕），由前綴 for-（表示徹底、完成）與 give（給予）組合而成。語義從古代的「放棄索賠或放棄懲罰」，演變為現代心理層面的「原諒某人的過錯」。",
+      "definition": "1. to stop feeling angry or resentful toward someone for an offense, flaw, or mistake.",
+      "example": [
+        {
+          "eng": "It is hard to forgive someone who has broken your trust.",
+          "ch": "要原諒一個背叛你信任的人是很困難的。"
+        }
+      ]
+    },
+    {
+      "eng": "form",
+      "kk": "fɔrm",
+      "tense": "n.",
+      "ch": [
+        [
+          "形式",
+          "形狀"
+        ],
+        [
+          "表格"
+        ],
+        [
+          "種類",
+          "類型"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 forma（造型、外表、模型）。經由古法語 forme 進入英語。語義涵蓋物理上的「形狀與外觀」、抽象的「表現形式」、日常辦公的「填寫表格」，以及生物或事物的「種類」。",
+      "definition": "1. the visible shape or configuration of something; 2. a printed document with spaces for information to be inserted; 3. a particular variety or type of something.",
+      "example": [
+        {
+          "eng": "Water can take the form of ice, liquid, or gas.",
+          "ch": "水可以呈現冰、液體或氣體的形態。"
+        },
+        {
+          "eng": "Please fill out this application form and return it to the desk.",
+          "ch": "請填寫這張申請表並將其交回櫃檯。"
+        },
+        {
+          "eng": "Jazz is a popular form of musical expression.",
+          "ch": "爵士樂是一種流行的音樂表達形式。"
+        }
+      ]
+    },
+    {
+      "eng": "form",
+      "kk": "fɔrm",
+      "tense": "vt.",
+      "ch": [
+        [
+          "形成",
+          "組成"
+        ],
+        [
+          "建立",
+          "成立"
+        ]
+      ],
+      "analysis": "作為及物動詞，form 指塑造外形、組合零件以「形成」整體，或指人與人之間「建立」友誼、聯盟或機構。",
+      "definition": "1. to bring together parts to create a whole; 2. to establish or create an organization, relationship, or idea.",
+      "example": [
+        {
+          "eng": "Dark clouds began to form in the sky before the storm.",
+          "ch": "暴風雨來臨前，天空中開始形成烏雲。"
+        },
+        {
+          "eng": "The two companies decided to form a strategic partnership.",
+          "ch": "這兩家公司決定建立策略夥伴關係。"
+        }
+      ]
+    },
+    {
+      "eng": "formal",
+      "kk": "ˈfɔrməl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "正式的",
+          "正規的"
+        ],
+        [
+          "拘泥於形式的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 formalis（依據外形或規則的），源於 forma（形狀）。經由古法語進入英語。用作形容詞時，指符合官方規定、禮儀或結構嚴謹的「正式場合或程序」。",
+      "definition": "1. done in accordance with rules of convention or etiquette; official; 2. characterized by strict adherence to established forms and ceremonies.",
+      "example": [
+        {
+          "eng": "All guests attending the dinner party are required to wear formal attire.",
+          "ch": "所有出席晚宴的賓客都被要求穿著正式服裝。"
+        },
+        {
+          "eng": "The government made a formal statement regarding the trade agreement.",
+          "ch": "政府針對該貿易協議發表了正式聲明。"
+        }
+      ]
+    },
+    {
+      "eng": "former",
+      "kk": "ˈfɔrmɚ",
+      "tense": "adj.",
+      "ch": [
+        [
+          "前者的",
+          "從前的"
+        ]
+      ],
+      "analysis": "此字源自古英語 forma（最早的、最前面的）的比較級 formra，後來因受 first 影響而拼寫調整。專門用來指時間上「先前的、以前的」，或在列舉兩者時指代「前者」。",
+      "definition": "1. existing in the past; previous; 2. denoting the first of two mentioned things or people.",
+      "example": [
+        {
+          "eng": "She is a former president of the university.",
+          "ch": "她是該大學的前校長。"
+        },
+        {
+          "eng": "Between coffee and tea, I prefer the former.",
+          "ch": "在咖啡和茶之間，我比較喜歡前者。"
+        }
+      ]
+    },
+    {
+      "eng": "forth",
+      "kk": "fɔrθ",
+      "tense": "adv.",
+      "ch": [
+        [
+          "向前",
+          "向外"
+        ],
+        [
+          "往後",
+          "自此以後"
+        ]
+      ],
+      "analysis": "此字源自古英語 forth（向前、向外、向前進），屬於日耳曼語繼承詞，與前綴 fore- 同源。多用於書面或片語中，表示動作「向前方移動」或「向外發出」。",
+      "definition": "1. out into view or forth from a starting point; 2. forward.",
+      "example": [
+        {
+          "eng": "Spring has come, and the flowers are bursting forth in the garden.",
+          "ch": "春天來了，花朵在花園裡競相綻放。"
+        }
+      ]
+    },
+    {
+      "eng": "forward",
+      "kk": "ˈfɔrwɚd",
+      "tense": "adj.",
+      "ch": [
+        [
+          "向前的",
+          "前進的"
+        ],
+        [
+          "急躁的",
+          "冒失的"
+        ]
+      ],
+      "analysis": "作為形容詞，forward 指實體位置的向前，或性格上過於積極、魯莽（冒失）。",
+      "definition": "1. directed or moving ahead; 2. overly bold, confident, or forward in behavior.",
+      "example": [
+        {
+          "eng": "The company is making forward steps in technological innovation.",
+          "ch": "該公司在技術創新方面正邁出前進的步伐。"
+        }
+      ]
+    },
+    {
+      "eng": "forward",
+      "kk": "ˈfɔrwɚd",
+      "tense": "adv.",
+      "ch": [
+        [
+          "向前",
+          "往後（時間）"
+        ],
+        [
+          "提前",
+          "向前方"
+        ]
+      ],
+      "analysis": "此字由古英語 fore（在前）與 -weard（朝向...的）複合而成。作副詞時，指空間或時間上的「向前推進」。",
+      "definition": "1. toward a place or position that is in front; 2. onward in time or space.",
+      "example": [
+        {
+          "eng": "Please step forward when your name is called.",
+          "ch": "叫到你的名字時，請向前跨一步。"
+        }
+      ]
+    },
+    {
+      "eng": "forwards",
+      "kk": "ˈfɔrwɚdz",
+      "tense": "adv.",
+      "ch": [
+        [
+          "向前",
+          "順著方向"
+        ]
+      ],
+      "analysis": "此字為 forward 的副詞變體（帶有副詞屬格 -s），在許多英語地區與 forward 通用，表示朝前方運動。",
+      "definition": "1. toward the front or in the direction that one is facing or traveling.",
+      "example": [
+        {
+          "eng": "He leaned forwards to hear what she was whispering.",
+          "ch": "他向前傾身以聽清她耳語的內容。"
+        }
+      ]
+    },
+    {
+      "eng": "found",
+      "kk": "faʊnd",
+      "tense": "vt.",
+      "ch": [
+        [
+          "創辦",
+          "建立"
+        ],
+        [
+          "打下基礎"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 fundare（建立基礎），源於 fundus（底部、土地）。經由古法語 fonder 進入英語。注意：此字與動詞 find 的過去式同形，但詞源完全不同，專指「創立機構、建設城市或奠定基礎」。",
+      "definition": "1. to establish or originate an institution, organization, or city; 2. to base something on a particular principle or ground.",
+      "example": [
+        {
+          "eng": "The university was founded in the late nineteenth century.",
+          "ch": "這所大學創辦於十九世紀末。"
+        },
+        {
+          "eng": "Their partnership was founded on mutual trust and respect.",
+          "ch": "他們的合作關係建立在相互信任與尊重的基礎上。"
+        }
+      ]
+    },
+    {
+      "eng": "fox",
+      "kk": "fɑks",
+      "tense": "n.",
+      "ch": [
+        [
+          "狐狸"
+        ],
+        [
+          "狡猾的人"
+        ]
+      ],
+      "analysis": "此字源自古英語 fox（狐狸），屬於日耳曼語繼承詞，與德語 Fuchs 同源。在傳統文化與文學中，因狐狸的機警習性而引申出「狡猾、機智的人」之喻義。",
+      "definition": "1. a carnivorous mammal of the dog family with a pointed muzzle and bushy tail; 2. a cunning or sly person.",
+      "example": [
+        {
+          "eng": "A clever fox managed to sneak into the henhouse at night.",
+          "ch": "一隻狡猾的狐狸設法在夜裡溜進了雞舍。"
+        }
+      ]
+    },
+    {
+      "eng": "freedom",
+      "kk": "ˈfridəm",
+      "tense": "n.",
+      "ch": [
+        [
+          "自由",
+          "自主權"
+        ],
+        [
+          "免除（負擔、限制等）"
+        ]
+      ],
+      "analysis": "此字由古英語 frēo（自由的）加上名詞抽象字尾 -dom（地位、狀態）複合而成。古英語即有 frēodōm，指免除奴役、享有自主決策的政治與人身狀態。",
+      "definition": "1. the power or right to act, speak, or think as one wants without hindrance or restraint; 2. the state of being free from oppressive restrictions.",
+      "example": [
+        {
+          "eng": "Citizens fought bravely for their freedom and democracy.",
+          "ch": "公民們為了他們的自由與民主勇敢奮戰。"
+        },
+        {
+          "eng": "Retirement gives her the freedom to travel wherever she wants.",
+          "ch": "退休賦予了她隨心所欲去任何地方旅遊的自由。"
+        }
+      ]
+    }
+  ]
+}

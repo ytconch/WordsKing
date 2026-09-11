@@ -1,0 +1,1263 @@
+{
+  "level": 3,
+  "chunkIndex": 4,
+  "inputs": [
+    "chimney",
+    "chin",
+    "chip",
+    "chop",
+    "cigarette",
+    "cinema",
+    "circus",
+    "citizen",
+    "civil",
+    "clay",
+    "cleaner",
+    "client",
+    "clinic",
+    "clip",
+    "closet",
+    "clothe",
+    "clown",
+    "clue",
+    "coach",
+    "cock",
+    "cocktail",
+    "coconut",
+    "collar",
+    "collection",
+    "colony",
+    "colorful",
+    "column",
+    "comfort",
+    "comma",
+    "committee",
+    "communicate",
+    "comparison",
+    "compete",
+    "complain",
+    "complaint",
+    "concert",
+    "conclusion",
+    "cone",
+    "confirm",
+    "confuse",
+    "connect",
+    "conscious",
+    "considerable",
+    "constant",
+    "continent",
+    "controller",
+    "cooker",
+    "costly",
+    "cotton",
+    "cough"
+  ],
+  "rows": [
+    {
+      "eng": "chimney",
+      "kk": "/ˈtʃɪm.ni/",
+      "tense": "n.",
+      "ch": [
+        [
+          "煙囪",
+          "排煙管"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 皆為 chimney。歷史上源自古法語 chimenée，再上溯至拉丁語 caminata（意為「有壁爐的房間」），源自 caminus（爐、火爐），最終借自希臘語 kaminos。語義從最初的「壁爐」演變為現代專指屋頂上導引排煙的「煙囪」。",
+      "definition": "1. a vertical channel or pipe that conducts smoke and gases up from a fire or furnace and through the roof of a building.",
+      "example": [
+        {
+          "eng": "Smoke rose from the chimney of the small cottage.",
+          "ch": "小別墅的煙囪冒出了煙。"
+        }
+      ]
+    },
+    {
+      "eng": "chin",
+      "kk": "/tʃɪn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "下巴",
+          "頦"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 皆為 chin。源自古英語 cinn，屬於日耳曼語族繼承詞，與德語 Kinn、荷蘭語 kin 同源，最終可上溯至印歐語系詞根，指臉部嘴唇下方、下顎前端的部位。",
+      "definition": "1. the protruding part of the face below the lower lip.",
+      "example": [
+        {
+          "eng": "He rested his chin in his hands and looked thoughtfully out the window.",
+          "ch": "他雙手托著下巴，若有所思地望向窗外。"
+        }
+      ]
+    },
+    {
+      "eng": "chip",
+      "kk": "/tʃɪp/",
+      "tense": "n.",
+      "ch": [
+        [
+          "碎片",
+          "缺口"
+        ],
+        [
+          "晶片",
+          "微晶片"
+        ],
+        [
+          "炸薯條"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 皆為 chip。源自中古英語，意指木頭削下的碎片。隨著工業與科技發展，語義延伸出木片、石片等碎片或器物缺口，烹飪中的炸薯條，以及電子學中微小的半導體「晶片」。各群組語義互不重疊。",
+      "definition": "1. a small, thin piece broken off a larger object; 2. a very small piece of silicon containing electronic circuits, used in computers; 3. a long, thin strip of potato fried in oil or fat.",
+      "example": [
+        {
+          "eng": "There is a small chip on the edge of this coffee mug.",
+          "ch": "這隻咖啡杯的邊緣有一個小缺口。"
+        },
+        {
+          "eng": "Modern smartphones rely on powerful microchips to process data quickly.",
+          "ch": "現代智慧型手機依賴強大的微晶片來快速處理資料。"
+        },
+        {
+          "eng": "He ordered a plate of fish and chips for lunch.",
+          "ch": "他午餐點了一盤炸魚薯條。"
+        }
+      ]
+    },
+    {
+      "eng": "chip",
+      "kk": "/tʃɪp/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "削下",
+          "鑿出"
+        ],
+        [
+          "使破損",
+          "使敲出缺口"
+        ]
+      ],
+      "analysis": "此字為及物動詞，表面詞形與 lemma 皆為 chip。源自日耳曼語族，本義指用工具砍擊或削木頭使之產生碎片，現代引申為在堅硬物體表面敲出缺口，或使物品本身邊緣受損。各群組句型與語義明確區分。",
+      "definition": "1. to cut or break a small piece off from a hard object; 2. to damage something by breaking a small piece off its edge.",
+      "example": [
+        {
+          "eng": "Be careful not to chip the expensive china plates when washing them.",
+          "ch": "洗昂貴的瓷盤時，小心不要敲缺口了。"
+        },
+        {
+          "eng": "He accidentally chipped the windshield of his car with a flying pebble.",
+          "ch": "他開車時不小心被飛起的小石子砸裂了擋風玻璃。"
+        }
+      ]
+    },
+    {
+      "eng": "chop",
+      "kk": "/tʃɑːp/",
+      "tense": "n.",
+      "ch": [
+        [
+          "排骨",
+          "帶骨肉塊"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 皆為 chop。源自動詞 chop 的名詞化，指切砍的動作或被砍切下來的一塊帶骨肉（如豬排、羊排）。",
+      "definition": "1. a cut of meat, typically containing a rib, from an animal such as a pig or sheep.",
+      "example": [
+        {
+          "eng": "She seasoned the pork chops with salt and pepper before grilling.",
+          "ch": "她在烤豬排前先撒上了鹽和胡椒調味。"
+        }
+      ]
+    },
+    {
+      "eng": "chop",
+      "kk": "/tʃɑːp/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "砍",
+          "剁",
+          "切碎"
+        ]
+      ],
+      "analysis": "此字為及物動詞，表面詞形與 lemma 皆為 chop。屬於音譯自日耳曼語源的動詞，本義即為用斧頭或刀具猛力砍劈、剁碎物品。",
+      "definition": "1. to cut something into pieces with a sharp tool such as an axe or a knife.",
+      "example": [
+        {
+          "eng": "He used a sharp knife to chop the onions for the soup.",
+          "ch": "他用快刀把煮湯用的洋蔥切碎。"
+        }
+      ]
+    },
+    {
+      "eng": "cigarette",
+      "kk": "/ˌsɪɡ.əˈrɛt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "香菸",
+          "紙菸"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 皆為 cigarette。由法語 cigarette 借入英語，其結構為 cigar（雪茄）加上指小詞後綴 -ette（意為「小型的」），字面義即為「小雪茄」。",
+      "definition": "1. a thin cylinder of finely cut tobacco rolled in paper for smoking.",
+      "example": [
+        {
+          "eng": "He stepped outside the building to smoke a cigarette.",
+          "ch": "他走到建築物外抽菸。"
+        }
+      ]
+    },
+    {
+      "eng": "cinema",
+      "kk": "/ˈsɪn.ə.mə/",
+      "tense": "n.",
+      "ch": [
+        [
+          "電影院"
+        ],
+        [
+          "電影業",
+          "電影藝術"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 皆為 cinema。源自法語 cinéma，為 cinématographe 的縮寫，其根源來自希臘語 kinēma（意為「運動」）與 graphein（書寫、記錄），合起來指動態攝影與放映。現代主要指實體電影院或抽象的電影藝術與產業。",
+      "definition": "1. a theater where movies are shown; 2. the art or industry of making movies.",
+      "example": [
+        {
+          "eng": "They decided to go to the local cinema to watch the new sci-fi film.",
+          "ch": "他們決定去當地的電影院看那部新的科幻電影。"
+        },
+        {
+          "eng": "French cinema has a long and influential history in the world of art.",
+          "ch": "法國電影在藝術界擁有悠久且深具影響力的歷史。"
+        }
+      ]
+    },
+    {
+      "eng": "circus",
+      "kk": "/ˈsɝː.kəs/",
+      "tense": "n.",
+      "ch": [
+        [
+          "馬戲團",
+          "馬戲表演"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 皆為 circus。源自拉丁語 circus（意為「圓形競技場、賽車場」），與 circle 同源，源自印歐語系詞根「圓」。古代指圓形競技場，現代轉指巡迴演出的馬戲團及雜技表演。",
+      "definition": "1. a traveling company of acrobats, clowns, and trained animals that gives performances in a large tent.",
+      "example": [
+        {
+          "eng": "The children were thrilled by the amazing acrobats at the circus.",
+          "ch": "孩子們對馬戲團裡精彩的特技表演感到興奮不已。"
+        }
+      ]
+    },
+    {
+      "eng": "citizen",
+      "kk": "/ˈsɪt.ə.zən/",
+      "tense": "n.",
+      "ch": [
+        [
+          "公民",
+          "國民"
+        ],
+        [
+          "市民",
+          "居民"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 皆為 citizen。源自中古英語 citezein，經由古法語 citeceen（源自 cite「城市」）演變而來，附加代表居民的後綴。現代指享有法律權利與義務的國家公民或特定城市的市民。",
+      "definition": "1. a legally recognized subject or national of a state or commonwealth, either native or naturalized; 2. an inhabitant of a particular town or city.",
+      "example": [
+        {
+          "eng": "Every adult citizen has the right and duty to vote in the election.",
+          "ch": "每一位成年公民都有在選舉中投票的權利與義務。"
+        },
+        {
+          "eng": "The local mayor thanked the citizens for their support during the crisis.",
+          "ch": "當地市長感謝市民在危機期間的支持。"
+        }
+      ]
+    },
+    {
+      "eng": "civil",
+      "kk": "/ˈsɪv.əl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "國民的",
+          "民事的"
+        ],
+        [
+          "客氣的",
+          "有禮貌的"
+        ]
+      ],
+      "analysis": "此字為形容詞，表面詞形與 lemma 皆為 civil。源自拉丁語 civilis（屬於公民或城市的），源自 civis（公民）。語義從「公民的」延伸出相對於刑事的「民事的」，以及市民之間應有的「客氣的、有禮貌的」。",
+      "definition": "1. relating to ordinary citizens and their concerns, or pertaining to private legal disputes between individuals rather than criminal law; 2. courteous and polite, but not necessarily friendly.",
+      "example": [
+        {
+          "eng": "The two sides managed to reach a peaceful settlement in the civil dispute.",
+          "ch": "雙方在民事糾紛中成功達成和平協議。"
+        },
+        {
+          "eng": "Even though they disagreed, both kept a civil tone during the meeting.",
+          "ch": "儘管他們意見不合，但在會議中仍保持了客氣的語調。"
+        }
+      ]
+    },
+    {
+      "eng": "clay",
+      "kk": "/kleɪ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "黏土",
+          "陶土"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 皆為 clay。源自古英語 clæg，屬於日耳曼語族繼承詞，本義即指濕潤時具可塑性、乾燥後堅硬的黏土或泥土。",
+      "definition": "1. a stiff, sticky fine-grained earth, typically consisting of an hydrated aluminum silicate, that can be molded when wet and baked to make brick or pottery.",
+      "example": [
+        {
+          "eng": "The art student shaped the soft clay into a small bowl.",
+          "ch": "那名美術系學生把柔軟的黏土捏成了一個小碗。"
+        }
+      ]
+    },
+    {
+      "eng": "cleaner",
+      "kk": "/ˈkliː.nɚ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "清潔工",
+          "清潔人員"
+        ],
+        [
+          "清潔劑",
+          "清潔用品"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 皆為 cleaner。由形容詞 clean 加上名詞化後綴 -er 構成，指從事清潔工作的人員，或是用於洗滌、清除污垢的化學清潔劑。",
+      "definition": "1. a person whose job is to clean houses, offices, or public places; 2. a substance or chemical used for cleaning things.",
+      "example": [
+        {
+          "eng": "The office cleaner comes in every evening after the staff leave.",
+          "ch": "辦公室清潔工會在每天傍晚員工離開後來打掃。"
+        },
+        {
+          "eng": "She used a strong multi-purpose cleaner to remove the grease stains.",
+          "ch": "她用強效的多功能清潔劑來去除油漬。"
+        }
+      ]
+    },
+    {
+      "eng": "client",
+      "kk": "/ˈklaɪ.ənt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "客戶",
+          "委託人"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 皆為 client。源自拉丁語 cliens（保護人的屬下、門客、訴訟委託人），經由古法語進入英語。現代指接受專業服務的客戶、顧客或委託人。",
+      "definition": "1. a person or organization using the services of a lawyer, professional person, or company.",
+      "example": [
+        {
+          "eng": "The lawyer met with her client to discuss the details of the contract.",
+          "ch": "律師與她的客戶會面，討論合約的細節。"
+        }
+      ]
+    },
+    {
+      "eng": "clinic",
+      "kk": "/ˈklɪn.ɪk/",
+      "tense": "n.",
+      "ch": [
+        [
+          "診所",
+          "門診部"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 皆為 clinic。源自法語 clinique，源自希臘語 klinikē（意為「病床相關的」），源自 klinē（床）。最初指醫學教授在病床前為學生進行的床邊教學，後來演變成提供醫療服務的小型診所。",
+      "definition": "1. an establishment or hospital department where medical care is given to outpatients.",
+      "example": [
+        {
+          "eng": "She went to the local health clinic for a routine check-up.",
+          "ch": "她去當地的健康診所進行例行檢查。"
+        }
+      ]
+    },
+    {
+      "eng": "clip",
+      "kk": "/klɪp/",
+      "tense": "n.",
+      "ch": [
+        [
+          "夾子",
+          "迴紋針"
+        ],
+        [
+          "短片",
+          "剪輯片段"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 皆為 clip。源自日耳曼語源（意為夾緊、扣住），其名詞涵蓋夾子、迴紋針，以及由動詞 clip（修剪）引申出的報紙剪輯或電視電影短片。兩個群組語義互不重疊。",
+      "definition": "1. a device, typically made of metal or plastic, used for holding things together; 2. a short extract from a film or broadcast.",
+      "example": [
+        {
+          "eng": "He used a metal paper clip to hold the documents together.",
+          "ch": "他用一個金屬迴紋針把文件夾在一起。"
+        },
+        {
+          "eng": "The teacher showed a short video clip to illustrate the lesson.",
+          "ch": "老師放了一段短影片來輔助說明課程內容。"
+        }
+      ]
+    },
+    {
+      "eng": "clip",
+      "kk": "/klɪp/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "夾住",
+          "別上"
+        ],
+        [
+          "修剪",
+          "剪短"
+        ]
+      ],
+      "analysis": "此字為及物動詞，表面詞形與 lemma 皆為 clip。源自古英語 clyppan（擁抱、緊抱，演變為夾住）與另一源自古諾斯語的同形詞（意為剪短、修剪），現代合流為夾緊與修剪兩個主要動詞義。",
+      "definition": "1. to fasten something with a clip; 2. to cut or trim something with shears or scissors.",
+      "example": [
+        {
+          "eng": "Please clip your identification badge to your jacket.",
+          "ch": "請把你的識別證夾在夾克上。"
+        },
+        {
+          "eng": "He likes to clip his hedge every weekend.",
+          "ch": "他喜歡每個週末修剪自家的樹籬。"
+        }
+      ]
+    },
+    {
+      "eng": "closet",
+      "kk": "/ˈklɑː.zɪt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "壁櫥",
+          "衣櫥"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 皆為 closet。源自中古英語 closat，源自拉丁語 claudere（關閉）的衍生詞，本義指小型私密房間、內室，現代主要指牆壁內建用來放置衣物或雜物的壁櫥、衣櫃。",
+      "definition": "1. a tall, upright piece of furniture or a small room used for storing clothes and other household items.",
+      "example": [
+        {
+          "eng": "She hung her winter coats neatly in the bedroom closet.",
+          "ch": "她把冬衣整齊地掛在臥室的衣櫥裡。"
+        }
+      ]
+    },
+    {
+      "eng": "clothe",
+      "kk": "/kloʊð/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "給…穿衣",
+          "為…提供衣服"
+        ]
+      ],
+      "analysis": "此字為及物動詞，表面詞形與 lemma 皆為 clothe。源自古英語 clāthian，源自 clāth（布料，即 cloth）。本義即為用織物包裹身體，提供衣物穿著。",
+      "definition": "1. to put clothes on someone; to provide someone with clothes.",
+      "example": [
+        {
+          "eng": "Parents work hard to feed and clothe their children.",
+          "ch": "父母努力工作以養活和撫養孩子。"
+        }
+      ]
+    },
+    {
+      "eng": "clown",
+      "kk": "/klaʊn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "小丑"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 皆為 clown。源自斯堪地那維亞語源，原意指粗野、笨拙的鄉下人，後在文藝復興時期的戲劇中演變成舞台上滑稽、扮鬼臉的喜劇演員（小丑）。",
+      "definition": "1. a comic entertainer, especially in a circus, wearing a traditional costume and makeup.",
+      "example": [
+        {
+          "eng": "The clown made balloon animals for all the children at the party.",
+          "ch": "那個小丑在派對上為所有孩子製作了氣球動物。"
+        }
+      ]
+    },
+    {
+      "eng": "clue",
+      "kk": "/kluː/",
+      "tense": "n.",
+      "ch": [
+        [
+          "線索",
+          "提示"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 皆為 clue。本寫作 clew（意為線球），源自古英語 cliwen。源自神話中希臘英雄忒修斯用線球（clew）走出迷宮的故事，因此引申出解開謎團的「線索」或「提示」。",
+      "definition": "1. a piece of evidence or information used in the detection of a crime or solving of a mystery.",
+      "example": [
+        {
+          "eng": "Detectives searched the room carefully for any hidden clues.",
+          "ch": "偵探仔細搜查了房間，尋找任何隱藏的線索。"
+        }
+      ]
+    },
+    {
+      "eng": "coach",
+      "kk": "/koʊtʃ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "教練",
+          "指導員"
+        ],
+        [
+          "長途客車",
+          "遊覽車"
+        ],
+        [
+          "經濟艙"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 皆為 coach。源自匈牙利地名 Kocs（曾製造知名四輪馬車），本義為大型四輪馬車。後來延伸出私人導師（因為像車夫一樣帶領學員）、運動隊伍的「教練」，以及火車或飛機的「客車廂 / 經濟艙」。各語義分屬不同生活情境。",
+      "definition": "1. an instructor or trainer in sport; 2. a large motor bus used for long-distance travel; 3. the economy class seating on an airplane.",
+      "example": [
+        {
+          "eng": "The basketball coach praised the team for their hard work.",
+          "ch": "籃球教練稱讚了球隊的努力。"
+        },
+        {
+          "eng": "They took a long-distance coach to travel across the country.",
+          "ch": "他們搭乘長途客車去橫跨全國旅行。"
+        },
+        {
+          "eng": "He booked a cheap coach ticket for his flight to New York.",
+          "ch": "他訂了一張飛往紐約的便宜經濟艙機票。"
+        }
+      ]
+    },
+    {
+      "eng": "cock",
+      "kk": "/kɑːk/",
+      "tense": "n.",
+      "ch": [
+        [
+          "公雞",
+          "雄鳥"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 皆為 cock。源自古英語 cocc，為擬聲詞，模仿公雞的啼叫聲。本義為成年公雞，亦可泛指其他鳥類的雄性。",
+      "definition": "1. an adult male domestic fowl; a rooster.",
+      "example": [
+        {
+          "eng": "The farmer woke up early when he heard the cock crowing.",
+          "ch": "農夫聽到公雞啼叫，便早早醒來了。"
+        }
+      ]
+    },
+    {
+      "eng": "cocktail",
+      "kk": "/ˈkɑːk.teɪl/",
+      "tense": "n.",
+      "ch": [
+        [
+          "雞尾酒"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 皆為 cocktail。由 cock（公雞）與 tail（尾巴）複合而成，原意指尾羽豎起像公雞尾巴的馬，18世紀末起轉指混合多種烈酒與調味品的酒類飲品（雞尾酒）。",
+      "definition": "1. an alcoholic drink consisting of a spirit or spirits mixed with other ingredients, such as fruit juice or cream.",
+      "example": [
+        {
+          "eng": "She ordered a refreshing fruit cocktail at the hotel bar.",
+          "ch": "她在飯店酒吧點了一杯清爽的水果調酒。"
+        }
+      ]
+    },
+    {
+      "eng": "coconut",
+      "kk": "/ˈkoʊ.kə.nʌt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "椰子"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 皆為 coconut。由 coco（源自葡萄牙語或西班牙語 coco，意指鬼怪、骷髏，因椰子殼上的三個凹洞形似人臉面孔）與 nut（堅果）複合而成。",
+      "definition": "1. the large, oval, brown seed of a tropical palm, consisting of a woody husk, a thick white edible meat, and a central fluid.",
+      "example": [
+        {
+          "eng": "He drank fresh coconut water straight from the shell on the beach.",
+          "ch": "他在海灘上直接從椰子殼裡喝新鮮的椰子水。"
+        }
+      ]
+    },
+    {
+      "eng": "collar",
+      "kk": "/ˈkɑː.lɚ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "衣領"
+        ],
+        [
+          "項圈"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 皆為 collar。源自拉丁語 collum（頸部、脖子），經由古法語進入英語。指衣服圍繞脖子的「衣領」，或套在動物頸部的「項圈」。",
+      "definition": "1. the part of a shirt, jacket, or dress that fastens around or folds over the neck; 2. a band of leather, metal, or other material put around the neck of a dog or cat.",
+      "example": [
+        {
+          "eng": "He adjusted the stiff collar of his formal white shirt.",
+          "ch": "他調整了一下正式白襯衫硬挺的衣領。"
+        },
+        {
+          "eng": "The stray dog was wearing a red collar with its owner's phone number.",
+          "ch": "那隻流浪狗戴著一條印有主人電話號碼的紅色項圈。"
+        }
+      ]
+    },
+    {
+      "eng": "collection",
+      "kk": "/kəˈlɛk.ʃən/",
+      "tense": "n.",
+      "ch": [
+        [
+          "收藏品",
+          "合集"
+        ],
+        [
+          "收集",
+          "採集"
+        ],
+        [
+          "募捐",
+          "募集"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 皆為 collection。由動詞 collect 加上名詞化後綴 -ion 構成，源自拉丁語 collectio。本義指聚集的行為，延伸出聚集起來的一批物品（收藏品）、收集動作或金錢的募捐。",
+      "definition": "1. a group of objects of a particular type accumulated in one place by someone; 2. the action or process of gathering things together; 3. an act of collecting money for a charity.",
+      "example": [
+        {
+          "eng": "He has an impressive collection of vintage stamps from around the world.",
+          "ch": "他收藏了大量令人印象深刻的各國古董郵票。"
+        },
+        {
+          "eng": "The team conducted a data collection process before starting the analysis.",
+          "ch": "團隊在開始分析前進行了資料收集的過程。"
+        },
+        {
+          "eng": "The church organized a clothing collection for the local homeless shelter.",
+          "ch": "教堂為當地遊民收容所組織了一場衣物募捐活動。"
+        }
+      ]
+    },
+    {
+      "eng": "colony",
+      "kk": "/ˈkɑː.lə.ni/",
+      "tense": "n.",
+      "ch": [
+        [
+          "殖民地"
+        ],
+        [
+          "群落",
+          "聚居地"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 皆為 colony。源自拉丁語 colonia（農莊、墾地），源自 colonus（農夫），源自 colere（耕種）。本義指國家在海外建立的墾居地（殖民地），生物學上則引申指同種動物聚居的群落（如蟻群、蜂群）。",
+      "definition": "1. a country or area under the full or partial political control of another country; 2. a community of animals or plants of one kind living closely together.",
+      "example": [
+        {
+          "eng": "Many former colonies gained their independence in the twentieth century.",
+          "ch": "許多前殖民地在二十世紀獲得了獨立。"
+        },
+        {
+          "eng": "Researchers studied the complex social behavior of a penguin colony in Antarctica.",
+          "ch": "研究人員在南極洲研究了一個企鵝群落複雜的社會行為。"
+        }
+      ]
+    },
+    {
+      "eng": "colorful",
+      "kk": "/ˈkʌl.ɚ.fəl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "色彩豐富的",
+          "鮮豔的"
+        ],
+        [
+          "生動有趣的",
+          "多采多姿的"
+        ]
+      ],
+      "analysis": "此字為形容詞，表面詞形與 lemma 皆為 colorful。由名詞 color 加上形容詞後綴 -ful 構成，本義指顏色鮮豔、多彩的，引申指情節或言詞生動、豐富多彩的。兩個群組各自獨立。",
+      "definition": "1. having much or varied color; bright; 2. full of interest; lively and varied.",
+      "example": [
+        {
+          "eng": "The artist used bright, colorful paints to create the mural.",
+          "ch": "藝術家使用鮮豔多彩的顏料來創作這幅壁畫。"
+        },
+        {
+          "eng": "He shared many colorful stories about his travels across South America.",
+          "ch": "他分享了許多關於他遊歷南美洲的生動有趣故事。"
+        }
+      ]
+    },
+    {
+      "eng": "column",
+      "kk": "/ˈkɑː.ləm/",
+      "tense": "n.",
+      "ch": [
+        [
+          "柱子",
+          "圓柱"
+        ],
+        [
+          "專欄"
+        ],
+        [
+          "直行",
+          "縱行"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 皆為 column。源自拉丁語 columna（圓柱、石柱）。其垂直延伸的形狀在現代引申出建築物支撐用的圓柱、報章雜誌的固定專欄，以及表格或文字排列的直行。",
+      "definition": "1. an upright pillar, typically cylindrical and made of stone or concrete, supporting a structure; 2. a regular section of a newspaper or magazine devoted to a particular subject; 3. a vertical arrangement of text or numbers on a page.",
+      "example": [
+        {
+          "eng": "The ancient temple was supported by grand marble columns.",
+          "ch": "那座古老的神廟由宏偉的大理石柱支撐著。"
+        },
+        {
+          "eng": "She writes a weekly advice column for a popular national newspaper.",
+          "ch": "她為一家全國性暢銷報紙撰寫每週的生活建議專欄。"
+        },
+        {
+          "eng": "Please enter your personal information in the second column of the table.",
+          "ch": "請在表格的第二直行輸入您的個人資料。"
+        }
+      ]
+    },
+    {
+      "eng": "comfort",
+      "kk": "/ˈkʌm.fɚt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "舒適",
+          "安逸"
+        ],
+        [
+          "安慰",
+          "慰藉"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 皆為 comfort。源自古法語 conforter，源自拉丁語 confortare（加強、慰藉），由 con-（加強語氣）與 fortis（堅強的、強壯的）組成。本義為給予力量與安慰，現代引申為身心舒適與安逸。",
+      "definition": "1. the state of physical ease and freedom from pain or constraint, or a state of quiet enjoyment; 2. consolation given to someone in distress or grief.",
+      "example": [
+        {
+          "eng": "After a long hike, she looked forward to the comfort of her cozy bed.",
+          "ch": "經過長途跋涉後，她很期待舒適溫馨的床鋪。"
+        },
+        {
+          "eng": "Kind words of comfort from his friends helped him through the difficult time.",
+          "ch": "朋友溫暖的安慰話語幫助他度過了那段艱難的時期。"
+        }
+      ]
+    },
+    {
+      "eng": "comma",
+      "kk": "/ˈkɑː.mə/",
+      "tense": "n.",
+      "ch": [
+        [
+          "逗號"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 皆為 comma。源自希臘語 komma（意為「切斷的一段、短句」），源自 koptein（切割）。在語法學中指句子中用來區隔短句或成分的標點符號——逗號。",
+      "definition": "1. a punctuation mark (,) indicating a pause between parts of a sentence or separating items in a list.",
+      "example": [
+        {
+          "eng": "Remember to place a comma after the introductory clause.",
+          "ch": "記得在引導子句後面放一個逗號。"
+        }
+      ]
+    },
+    {
+      "eng": "committee",
+      "kk": "/kəˈmɪt.i/",
+      "tense": "n.",
+      "ch": [
+        [
+          "委員會"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 皆為 committee。由動詞 commit 加上名詞後綴 -ee（表示受託者）構成，原意指被委託執行特定任務的一群人，現代指組織或政府內部負責特定事務的「委員會」。",
+      "definition": "1. a group of people appointed for a specific function by a larger group, typically consisting of members of that group.",
+      "example": [
+        {
+          "eng": "The organizing committee decided to postpone the annual conference.",
+          "ch": "籌備委員會決定延後年度會議。"
+        }
+      ]
+    },
+    {
+      "eng": "communicate",
+      "kk": "/kəˈmyuː.nəˌkeɪt/",
+      "tense": "v.",
+      "ch": [
+        [
+          "溝通",
+          "交流"
+        ],
+        [
+          "傳達",
+          "傳遞"
+        ]
+      ],
+      "analysis": "此字為動詞，表面詞形與 lemma 皆為 communicate。源自拉丁語 communicatus（分享、使共有），源自 communis（共同的）。本義為分享、使共通，現代引申為透過語言、文字或行為傳遞訊息、進行交流。",
+      "definition": "1. to share or exchange information, news, or ideas with others; 2. to convey or transmit thoughts, feelings, or data.",
+      "example": [
+        {
+          "eng": "It is important for team members to communicate clearly with one another.",
+          "ch": "團隊成員之間進行清晰的溝通非常重要。"
+        },
+        {
+          "eng": "Body language can often communicate confidence and authority.",
+          "ch": "肢體語言往往能傳達出自信與權威。"
+        }
+      ]
+    },
+    {
+      "eng": "comparison",
+      "kk": "/kəmˈper.ə.sən/",
+      "tense": "n.",
+      "ch": [
+        [
+          "比較",
+          "對照"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 皆為 comparison。由動詞 compare 加上名詞後綴 -ison 構成，源自拉丁語 comparatio。指衡量或檢視事物之間相似性與差異性的行為（比較）。",
+      "definition": "1. a consideration or estimate of the similarities and differences between two or more things.",
+      "example": [
+        {
+          "eng": "A careful comparison of the two reports revealed several discrepancies.",
+          "ch": "仔細比較這兩份報告後，發現了幾處不一致的地方。"
+        }
+      ]
+    },
+    {
+      "eng": "compete",
+      "kk": "/kəmˈpiːt/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "競爭",
+          "比賽"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，表面詞形與 lemma 皆為 compete。源自拉丁語 competere（共同追求、爭奪），由 com-（共同）與 petere（尋求、攻擊）組成。現代指在商業、體育或學術中互相爭取勝利或優勢。",
+      "definition": "1. to strive to gain or win something by defeating or establishing superiority over others.",
+      "example": [
+        {
+          "eng": "Hundreds of athletes from around the world gathered to compete in the Olympics.",
+          "ch": "來自世界各地的數百名運動員齊聚一堂參加奧運競賽。"
+        }
+      ]
+    },
+    {
+      "eng": "complain",
+      "kk": "/kəmˈpleɪn/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "抱怨",
+          "訴苦"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，表面詞形與 lemma 皆為 complain。源自拉丁語 complangere（拍胸痛哭、哀悼），經由古法語進入英語。語義從悲痛哀嘆演變成對現狀、服務或品質不滿的「抱怨、發牢騷」。",
+      "definition": "1. to express dissatisfaction or annoyance about something.",
+      "example": [
+        {
+          "eng": "Customers have the right to complain if the service is poor.",
+          "ch": "如果服務糟糕，顧客有權利抱怨。"
+        }
+      ]
+    },
+    {
+      "eng": "complaint",
+      "kk": "/kəmˈpleɪnt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "抱怨",
+          "投訴"
+        ],
+        [
+          "疾病",
+          "病痛"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 皆為 complaint。由動詞 complain 加上名詞後綴 -t 構成，指對某事表達不滿的陳述（投訴、抱怨），醫學上也可用於指身體上的輕微病痛。兩個群組語義獨立。",
+      "definition": "1. a statement that something is unsatisfactory or unacceptable; 2. an illness or medical condition, typically a minor one.",
+      "example": [
+        {
+          "eng": "The manager promised to address the customer's complaint immediately.",
+          "ch": "經理承諾會立即處理客戶的投訴。"
+        },
+        {
+          "eng": "He went to the doctor to treat a chronic stomach complaint.",
+          "ch": "他去看醫生治療慢性的胃部不適。"
+        }
+      ]
+    },
+    {
+      "eng": "concert",
+      "kk": "/ˈkɑːn.sɚt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "音樂會",
+          "演奏會"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 皆為 concert。源自義大利語 concerto 或拉丁語 concertare（協商、爭辯，後演變為音樂上的協調合奏）。現代指公開演奏音樂的「音樂會」或「演奏會」。",
+      "definition": "1. a musical performance given in public, typically by several performers or of several compositions.",
+      "example": [
+        {
+          "eng": "They bought tickets to see their favorite rock band perform in concert.",
+          "ch": "他們買了票去看他們最喜歡的搖滾樂團現場音樂會。"
+        }
+      ]
+    },
+    {
+      "eng": "conclusion",
+      "kk": "/kənˈkluː.ʒən/",
+      "tense": "n.",
+      "ch": [
+        [
+          "結論",
+          "推論結果"
+        ],
+        [
+          "結束",
+          "結尾"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 皆為 conclusion。由動詞 conclude 經由拉丁語轉換而來，源自 claudere（關閉、終結）。本義為事情的完結、推論出來的結果（結論）。兩個群組語義互不重疊。",
+      "definition": "1. a judgment or decision reached by reasoning; 2. the end or finish of an event or process.",
+      "example": [
+        {
+          "eng": "Based on the available evidence, the detective reached a logical conclusion.",
+          "ch": "基於現有的證據，偵探得出了合乎邏輯的結論。"
+        },
+        {
+          "eng": "Everyone applauded at the conclusion of the moving theatrical performance.",
+          "ch": "在感人的戲劇表演結束時，每個人都鼓掌了。"
+        }
+      ]
+    },
+    {
+      "eng": "cone",
+      "kk": "/koʊn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "圓錐體",
+          "圓錐形物"
+        ],
+        [
+          "冰淇淋筒",
+          "甜筒"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 皆為 cone。源自拉丁語 conus，源自希臘語 kōnos（松果、圓錐體）。幾何學上指圓錐，日常中指交通錐或裝冰淇淋的脆皮筒（甜筒）。",
+      "definition": "1. a solid or hollow object that tapers from a circular base to a point; 2. a crisp edible cone-shaped wafer used for holding ice cream.",
+      "example": [
+        {
+          "eng": "Orange traffic cones were placed on the road to mark the construction zone.",
+          "ch": "路上擺放了橘色的交通錐來標示施工區域。"
+        },
+        {
+          "eng": "She ordered two scoops of chocolate ice cream in a waffle cone.",
+          "ch": "她點了兩球巧克力冰淇淋，裝在格子脆皮甜筒裡。"
+        }
+      ]
+    },
+    {
+      "eng": "confirm",
+      "kk": "/kənˈfɝːm/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "證實",
+          "證明"
+        ],
+        [
+          "確認",
+          "妥辦"
+        ]
+      ],
+      "analysis": "此字為及物動詞，表面詞形與 lemma 皆為 confirm。源自拉丁語 confirmare，由 con-（加強語氣）與 firmus（堅固的、堅定的）組成。本義為使堅固，引申為透過證據或回覆來「證實」或「確認」事實與預約。",
+      "definition": "1. to establish the truth or correctness of something previously believed or suspected; 2. to state or prove the truth of; to make certain, such as a reservation.",
+      "example": [
+        {
+          "eng": "The laboratory test results will confirm whether the patient has the infection.",
+          "ch": "實驗室檢驗結果將會證實患者是否受到感染。"
+        },
+        {
+          "eng": "Please call the hotel to confirm your room reservation before Friday.",
+          "ch": "請在星期五之前打電話給飯店確認您的房間預約。"
+        }
+      ]
+    },
+    {
+      "eng": "confuse",
+      "kk": "/kənˈfjuːz/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使困惑",
+          "把…搞糊塗"
+        ]
+      ],
+      "analysis": "此字為及物動詞，表面詞形與 lemma 皆為 confuse。源自拉丁語 confusus（混雜的、迷亂的），由 con-（共同）與 fundere（傾倒、熔化）組成，原意為將不同事物混在一起，現代引申為使人思緒混亂、分不清是非（使困惑）。",
+      "definition": "1. to make someone bewildered or perplexed.",
+      "example": [
+        {
+          "eng": "The complicated instructions only served to confuse the students further.",
+          "ch": "複雜的說明反而把學生們搞得更糊塗了。"
+        }
+      ]
+    },
+    {
+      "eng": "connect",
+      "kk": "/kəˈnɛkt/",
+      "tense": "v.",
+      "ch": [
+        [
+          "連接",
+          "聯結"
+        ]
+      ],
+      "analysis": "此字為動詞，表面詞形與 lemma 皆為 connect。源自拉丁語 connectere，由 con-（共同）與 nectere（綁、繫）組成。本義為綁在一起，現代指實體物件的連接、網路的連線，或概念上的關聯。",
+      "definition": "1. to bring together or into contact so that a real or notional link is established.",
+      "example": [
+        {
+          "eng": "You need to connect the printer to the computer using a USB cable.",
+          "ch": "你需要用 USB 線把印表機連接到電腦上。"
+        }
+      ]
+    },
+    {
+      "eng": "conscious",
+      "kk": "/ˈkɑːn.ʃəs/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "意識清醒的",
+          "有知覺的"
+        ]
+      ],
+      "analysis": "此字為形容詞，表面詞形與 lemma 皆為 conscious。源自拉丁語 conscius（知情的、共享知識的），由 con-（共同）與 scire（知道）組成。本義為心裡知道的，現代指清醒有知覺的，或是對某事有意識、有察覺的。",
+      "definition": "1. awake and able to understand what is happening around you.",
+      "example": [
+        {
+          "eng": "Although he was injured in the accident, he remained fully conscious.",
+          "ch": "雖然他在事故中受傷了，但意識依然非常清醒。"
+        }
+      ]
+    },
+    {
+      "eng": "considerable",
+      "kk": "/kənˈsɪd.ɚ.ə.bəl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "相當大的",
+          "相當多的"
+        ]
+      ],
+      "analysis": "此字為形容詞，表面詞形與 lemma 皆為 considerable。由動詞 consider 加上形容詞後綴 -able 構成，本義為值得考慮的，後來引申為數量、程度或規模上「相當大、相當可觀的」。",
+      "definition": "1. notably large in size, amount, or extent.",
+      "example": [
+        {
+          "eng": "The construction project required a considerable amount of time and money.",
+          "ch": "這項建設工程需要相當可觀的時間與金錢。"
+        }
+      ]
+    },
+    {
+      "eng": "constant",
+      "kk": "/ˈkɑːn.stənt/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "持續不斷的",
+          "經常發生的"
+        ]
+      ],
+      "analysis": "此字為形容詞，表面詞形與 lemma 皆為 constant。源自拉丁語 constans（堅定的、站得穩的），由 constare（站立、保持一致）組成。本義為堅定不移的，現代引申為持續不斷發生或保持不變的。",
+      "definition": "1. occurring continuously over a period of time or happening repeatedly.",
+      "example": [
+        {
+          "eng": "The loud noise from the street became a constant distraction while he worked.",
+          "ch": "街上刺耳的噪音成了他工作時持續不斷的干擾。"
+        }
+      ]
+    },
+    {
+      "eng": "continent",
+      "kk": "/ˈkɑːn.tɪ.nənt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "大陸",
+          "洲"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 皆為 continent。源自拉丁語 continens terra（連綿不斷的土地），源自 continere（保持、連接）。現代專指地球上面積廣大的陸塊——洲或大陸。",
+      "definition": "1. one of the world's main continuous expanses of land (Africa, Antarctica, Asia, Europe, North America, Australia, South America).",
+      "example": [
+        {
+          "eng": "Asia is the largest and most populous continent in the world.",
+          "ch": "亞洲是世界上最大且人口最多的洲。"
+        }
+      ]
+    },
+    {
+      "eng": "controller",
+      "kk": "/kənˈtroʊ.lɚ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "控制器",
+          "控制器械"
+        ],
+        [
+          "管理員",
+          "管制員"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 皆為 controller。由動詞 control 加上名詞化後綴 -ler 構成，指用來控制機器的控制器（如遊戲手把）、負責財務管控的主管，或航空交通管制員。兩個群組互不重疊。",
+      "definition": "1. a device used to operate or control a machine, video game, or system; 2. an official who directs or regulates something, such as financial accounts or air traffic.",
+      "example": [
+        {
+          "eng": "He picked up the wireless game controller to start playing.",
+          "ch": "他拿起無線遊戲控制器開始玩遊戲。"
+        },
+        {
+          "eng": "Air traffic controllers work long shifts to ensure safe flights.",
+          "ch": "空中交通管制員值班時間很長，以確保飛行安全。"
+        }
+      ]
+    },
+    {
+      "eng": "cooker",
+      "kk": "/ˈkʊk.ɚ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "爐具",
+          "炊具"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 皆為 cooker。由動詞 cook 加上名詞後綴 -er 構成，主要指用於烹煮食物的廚房爐具、電鍋或壓力鍋等廚房電器。",
+      "definition": "1. an appliance used for cooking food, such as a stove, oven, or rice cooker.",
+      "example": [
+        {
+          "eng": "She placed the pot of soup on the electric cooker to simmer.",
+          "ch": "她把湯鍋放在電爐上文火慢燉。"
+        }
+      ]
+    },
+    {
+      "eng": "costly",
+      "kk": "/ˈkɑːst.li/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "昂貴的",
+          "花費很大的"
+        ],
+        [
+          "代價高的",
+          "損失慘重的"
+        ]
+      ],
+      "analysis": "此字為形容詞，表面詞形與 lemma 皆為 costly。由名詞 cost 加上形容詞後綴 -ly 構成，本義指花費很高的、價格昂貴的，亦可引申指造成重大損失或嚴重代價的。兩個群組語義獨立。",
+      "definition": "1. costing a lot of money; expensive; 2. resulting in great loss or negative consequences.",
+      "example": [
+        {
+          "eng": "Buying a brand-new sports car can be extremely costly.",
+          "ch": "買一輛全新的跑車可能會非常昂貴。"
+        },
+        {
+          "eng": "A simple mistake in the calculation proved to be costly for the company.",
+          "ch": "計算上的一個小錯誤證明對公司來說代價十分高昂。"
+        }
+      ]
+    },
+    {
+      "eng": "cotton",
+      "kk": "/ˈkɑː.tən/",
+      "tense": "n.",
+      "ch": [
+        [
+          "棉",
+          "棉花",
+          "棉布"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 皆為 cotton。源自阿拉伯語 qutn，經由義大利語或舊法語進入英語。指棉花植物、從中提取的棉纖維，或是由棉紗織成的棉布。",
+      "definition": "1. a soft white fibrous substance that surrounds the seeds of a tropical plant, used to make thread and fabric, or cloth made from cotton fiber.",
+      "example": [
+        {
+          "eng": "She prefers wearing breathable cotton clothes during the hot summer months.",
+          "ch": "她喜歡在炎熱的夏天穿透氣的棉質衣服。"
+        }
+      ]
+    },
+    {
+      "eng": "cough",
+      "kk": "/kɑːf/",
+      "tense": "n.",
+      "ch": [
+        [
+          "咳嗽",
+          "咳嗽聲"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 皆為 cough。源自中古英語 coughen，為擬聲詞，模仿氣管受刺激而發出的咳嗽聲音。作為名詞時指咳嗽的動作或病情。",
+      "definition": "1. an act or sound of coughing; an illness characterized by coughing.",
+      "example": [
+        {
+          "eng": "He has had a persistent cough for the past few days.",
+          "ch": "他過去幾天一直持續咳嗽。"
+        }
+      ]
+    }
+  ]
+}

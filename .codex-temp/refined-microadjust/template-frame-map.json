@@ -1,0 +1,137 @@
+{
+  "outputSlides": [
+    {
+      "outputSlide": 1,
+      "sourceSlide": 1,
+      "narrativeRole": "opening thesis",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        { "action": "rewrite", "sourceElementId": "sh/0bmd476t", "reason": "tighten title punctuation" }
+      ]
+    },
+    {
+      "outputSlide": 2,
+      "sourceSlide": 2,
+      "narrativeRole": "origin story",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        { "action": "rewrite", "sourceElementId": "sh/tw7ud0va", "reason": "correct typo and explain the memory logic naturally" }
+      ]
+    },
+    {
+      "outputSlide": 3,
+      "sourceSlide": 3,
+      "narrativeRole": "development timeline",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        { "action": "rewrite", "sourceElementId": "sh/v29cfu18", "reason": "state elapsed time precisely" },
+        { "action": "rewrite", "sourceElementId": "sh/6tkve90v", "reason": "use a precise first-usable-version label" },
+        { "action": "rewrite", "sourceElementId": "sh/psfeh83u", "reason": "describe AI pipeline creation without overclaim" },
+        { "action": "rewrite", "sourceElementId": "sh/dgfyls3q", "reason": "use a precise deployment label" },
+        { "action": "rewrite", "sourceElementId": "sh/6xkvytkb", "reason": "correct public-link wording" }
+      ]
+    },
+    {
+      "outputSlide": 4,
+      "sourceSlide": 4,
+      "narrativeRole": "system overview",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        { "action": "rewrite", "sourceElementId": "sh/na18b2tc", "reason": "fix grammar and shorten title to prevent clipping" }
+      ]
+    },
+    {
+      "outputSlide": 5,
+      "sourceSlide": 5,
+      "narrativeRole": "product experience",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        { "action": "rewrite", "sourceElementId": "sh/jalojqxk", "reason": "make title describe the learning flow" },
+        { "action": "rewrite", "sourceElementId": "sh/grm103ah", "reason": "remove inflated outcome language and focus on the actual loop" }
+      ]
+    },
+    {
+      "outputSlide": 6,
+      "sourceSlide": 6,
+      "narrativeRole": "learning loop",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        { "action": "rewrite", "sourceElementId": "sh/nahwbutw", "reason": "shorten title to prevent clipping" },
+        { "action": "rewrite", "sourceElementId": "sh/298f2psb", "reason": "condense workflow explanation" }
+      ]
+    },
+    {
+      "outputSlide": 7,
+      "sourceSlide": 7,
+      "narrativeRole": "AI reliability design",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        { "action": "rewrite", "sourceElementId": "sh/ls76t83e", "reason": "make quality gate concrete" },
+        { "action": "rewrite", "sourceElementId": "sh/ypwnyd4n", "reason": "use applicant voice and disclose human approval" },
+        { "action": "rewrite", "sourceElementId": "sh/crihgru9", "reason": "standardize JSON and validation copy" }
+      ]
+    },
+    {
+      "outputSlide": 8,
+      "sourceSlide": 8,
+      "narrativeRole": "usage evidence",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        { "action": "rewrite", "sourceElementId": "sh/s3utw361", "reason": "add snapshot date" },
+        { "action": "rewrite", "sourceElementId": "sh/va1sve58", "reason": "clarify visitor label" },
+        { "action": "rewrite", "sourceElementId": "sh/b2pwz2p0", "reason": "clarify answer-record user label" }
+      ]
+    },
+    {
+      "outputSlide": 9,
+      "sourceSlide": 9,
+      "narrativeRole": "feedback-driven iteration",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        { "action": "rewrite", "sourceElementId": "sh/fyx8jmhw", "reason": "replace external audit language with direct owner voice" },
+        { "action": "rewrite", "sourceElementId": "sh/na94jixg", "reason": "standardize pronunciation fallback wording" },
+        { "action": "rewrite", "sourceElementId": "sh/wf25gnex", "reason": "remove repetition and condense takeaway" }
+      ]
+    },
+    {
+      "outputSlide": 10,
+      "sourceSlide": 10,
+      "narrativeRole": "reflection and growth",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        { "action": "rewrite", "sourceElementId": "sh/jmd072hs", "reason": "focus reflection on learned responsibility" },
+        { "action": "rewrite", "sourceElementId": "sh/ilkzex07", "reason": "write an honest AI-assisted development reflection" },
+        { "action": "rewrite", "sourceElementId": "sh/vitg3ihg", "reason": "simplify before state" },
+        { "action": "rewrite", "sourceElementId": "sh/loredofe", "reason": "state current capability and ownership" }
+      ]
+    },
+    {
+      "outputSlide": 11,
+      "sourceSlide": 11,
+      "narrativeRole": "engineering decision appendix",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        { "action": "rewrite", "sourceElementId": "sh/p4zu947u", "reason": "naturalize title" },
+        { "action": "rewrite", "sourceElementId": "sh/vmlw3uxk", "reason": "simplify database decision" },
+        { "action": "rewrite", "sourceElementId": "sh/7i1wzax8", "reason": "correct deployment wording" },
+        { "action": "rewrite", "sourceElementId": "sh/2xobu1cj", "reason": "clarify review-before-import" },
+        { "action": "rewrite", "sourceElementId": "sh/l8n6hkjy", "reason": "correct 部署 typo" },
+        { "action": "rewrite", "sourceElementId": "sh/xknmd0j2", "reason": "simplify deployment purpose" }
+      ]
+    },
+    {
+      "outputSlide": 12,
+      "sourceSlide": 1,
+      "narrativeRole": "public service closing",
+      "reuseMode": "duplicate-slide",
+      "editTargets": [
+        { "action": "rewrite", "sourceElementId": "sh/1cvuxc7e", "reason": "convert subtitle to public-service label" },
+        { "action": "rewrite", "sourceElementId": "sh/0bmd476t", "reason": "convert bumper title to invitation" },
+        { "action": "rewrite", "sourceElementId": "sh/e94v2hon", "reason": "fill inherited applicant block with clickable URL and instruction" }
+      ]
+    }
+  ],
+  "omittedSourceSlides": [
+    { "sourceSlide": 12, "reason": "blank placeholder replaced by source slide 1 brand bumper for the closing link page" }
+  ]
+}

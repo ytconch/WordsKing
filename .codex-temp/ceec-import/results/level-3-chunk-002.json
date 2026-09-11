@@ -1,0 +1,1318 @@
+{
+  "level": 3,
+  "chunkIndex": 2,
+  "inputs": [
+    "attractive",
+    "audience",
+    "automatic",
+    "automobile",
+    "auto",
+    "avenue",
+    "awake",
+    "awaken",
+    "award",
+    "aware",
+    "awful",
+    "awkward",
+    "background",
+    "bacon",
+    "bacteria",
+    "badly",
+    "baggage",
+    "bait",
+    "bamboo",
+    "bang",
+    "banker",
+    "bare",
+    "barely",
+    "barn",
+    "barrel",
+    "basement",
+    "bay",
+    "bead",
+    "beam",
+    "beast",
+    "beetle",
+    "beneath",
+    "benefit",
+    "berry",
+    "besides",
+    "bet",
+    "bind",
+    "bitter",
+    "bleed",
+    "bless",
+    "bloody",
+    "blouse",
+    "bold",
+    "bomb",
+    "bookcase",
+    "boot",
+    "bore",
+    "bowling",
+    "brake",
+    "brass"
+  ],
+  "rows": [
+    {
+      "eng": "attractive",
+      "kk": "əˋtræktɪv",
+      "tense": "adj.",
+      "ch": [
+        [
+          "有吸引力的",
+          "迷人的"
+        ],
+        [
+          "引起興趣的",
+          "有誘惑力的"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由動詞 attract 加上形容詞字尾 -ive 構成。源自拉丁語 attrahere（at- 朝向 + trahere 拉），本義為「吸引、拉向」。引申出吸引目光或心思的特質，演變為現代的「有吸引力的」與「引起興趣的」。",
+      "definition": "1. having the power or quality of attracting; pleasing, charming, or pretty; 2. arousing interest, desire, or approval.",
+      "example": [
+        {
+          "eng": "She wore an attractive red dress to the party.",
+          "ch": "她穿了一件吸引人的紅洋裝去參加派對。"
+        },
+        {
+          "eng": "The company offers an attractive salary and benefits package.",
+          "ch": "該公司提供具吸引力的薪資與福利配套。"
+        }
+      ]
+    },
+    {
+      "eng": "audience",
+      "kk": "ˋɔdɪəns",
+      "tense": "n.",
+      "ch": [
+        [
+          "觀眾",
+          "聽眾",
+          "讀者群"
+        ],
+        [
+          "正式會見",
+          "謁見"
+        ]
+      ],
+      "analysis": "此字源自古法語 audience，最終源自拉丁語 audientia（聽、聽覺），由 audire（聱、聽）衍生而來。本義為「聽取、聆聽」，後演變指聽取表演或演講的人群（觀眾、聽眾），亦指政要或高層接見訪客的「正式會見」。",
+      "definition": "1. the assembled spectators or listeners at a public event such as a play, concert, or speech; 2. a formal interview or meeting, especially with a person of high rank.",
+      "example": [
+        {
+          "eng": "The audience applauded warmly as the curtain fell.",
+          "ch": "當大幕落下時，觀眾熱烈鼓掌。"
+        },
+        {
+          "eng": "The ambassador was granted an audience with the queen.",
+          "ch": "該大使獲准謁見女王。"
+        }
+      ]
+    },
+    {
+      "eng": "automatic",
+      "kk": "ˌɔtəˋmætɪk",
+      "tense": "adj.",
+      "ch": [
+        [
+          "自動的",
+          "機械式的"
+        ],
+        [
+          "無意識的",
+          "不由自主的"
+        ]
+      ],
+      "analysis": "源自希臘語 automatos（自發的），由 autos（自己）與 matos（動、生動）組成。進入近代科學語境後形成自動化概念，現代用以形容機器「自動運作的」或是人類生理、心理「無意識的」反應。",
+      "definition": "1. working by itself with little or no direct human control; 2. done or occurring spontaneously, without conscious thought or intention.",
+      "example": [
+        {
+          "eng": "The factory uses automatic machines to package the goods.",
+          "ch": "這間工廠使用自動化機械來包裝貨物。"
+        },
+        {
+          "eng": "Blinking in bright light is an automatic reflex.",
+          "ch": "強光下的眨眼是一種無意識的反射動作。"
+        }
+      ]
+    },
+    {
+      "eng": "automobile",
+      "kk": "ˋɔtəmə͵bil",
+      "tense": "n.",
+      "ch": [
+        [
+          "汽車"
+        ]
+      ],
+      "analysis": "此字為複合詞，結合希臘語 autos（自己）與法語 mobile（移動的，源自拉丁語 mobilis），字面義為「自己移動的載具」。19 世紀末期工業革命時期創造出此詞，用以指稱現代機動車輛（汽車）。",
+      "definition": "1. a road motor vehicle, typically with four wheels, designed for carrying a small number of passengers.",
+      "example": [
+        {
+          "eng": "The invention of the automobile changed modern transportation forever.",
+          "ch": "汽車的發明永遠改變了現代交通。"
+        }
+      ]
+    },
+    {
+      "eng": "auto",
+      "kk": "ˋɔto",
+      "tense": "n.",
+      "ch": [
+        [
+          "汽車"
+        ]
+      ],
+      "analysis": "此字為 automobile 的截短形式（abbreviation），在美式英語中廣泛作為汽車的口語簡稱。同時在複合詞中作為字首，表示「自動、自主、自己」。",
+      "definition": "1. a car or automobile.",
+      "example": [
+        {
+          "eng": "He parked his auto in the garage.",
+          "ch": "他把車停在車庫裡。"
+        }
+      ]
+    },
+    {
+      "eng": "avenue",
+      "kk": "ˋævə͵nju",
+      "tense": "n.",
+      "ch": [
+        [
+          "林蔭大道",
+          "大街"
+        ],
+        [
+          "途徑",
+          "方法"
+        ]
+      ],
+      "analysis": "源自古法語 avenue（到達、接近），由venir（來，源自拉丁語venire）衍生。原意為通往某處的道路或通道，後來演變指城市中的「林蔭大道」或「寬闊街道」，並引申為達成目標的「途徑或方法」。",
+      "definition": "1. a broad road or path, typically lined with trees; 2. a way of approaching a problem or making progress.",
+      "example": [
+        {
+          "eng": "They walked down the tree-lined avenue in the afternoon.",
+          "ch": "他們在午後沿著林蔭大道散步。"
+        },
+        {
+          "eng": "We need to explore every possible avenue to solve this issue.",
+          "ch": "我們需要探索每一個可能的途徑來解決這個問題。"
+        }
+      ]
+    },
+    {
+      "eng": "awake",
+      "kk": "əˋwek",
+      "tense": "vt.",
+      "ch": [
+        [
+          "喚醒",
+          "使覺醒"
+        ]
+      ],
+      "analysis": "源自古英語 ġewæcan，為動詞 awake 的及物用法，接直接受詞，表示使某人從睡眠中醒來或喚起某人的意識與情感。",
+      "definition": "1. rouse from sleep; make someone aware of or sensitive to something.",
+      "example": [
+        {
+          "eng": "The loud noise outside awoke the sleeping baby.",
+          "ch": "外面巨大的噪音喚醒了睡著的嬰兒。"
+        }
+      ]
+    },
+    {
+      "eng": "awake",
+      "kk": "əˋwek",
+      "tense": "vi.",
+      "ch": [
+        [
+          "醒來",
+          "覺醒"
+        ]
+      ],
+      "analysis": "源自古英語 ġewæcan，屬於日耳曼語傳承詞。作不及物動詞時表示從睡眠中醒來，或對某種情勢、感受產生覺悟。",
+      "definition": "1. stop sleeping or cause to stop sleeping; become alert or conscious.",
+      "example": [
+        {
+          "eng": "He usually awakes at six o'clock every morning.",
+          "ch": "他通常每天早上六點醒來。"
+        }
+      ]
+    },
+    {
+      "eng": "awake",
+      "kk": "əˋwek",
+      "tense": "adj.",
+      "ch": [
+        [
+          "清醒的",
+          "醒着的"
+        ]
+      ],
+      "analysis": "源自古英語 ġewæcan 或相關日耳曼語根，與動詞 awake 同源。保留形容詞用法，表示睡眠狀態的結束、保持清醒或警覺的狀態。",
+      "definition": "1. not sleeping; conscious and alert.",
+      "example": [
+        {
+          "eng": "She lay awake in bed, thinking about the upcoming test.",
+          "ch": "她躺在床上清醒著，思考著即將到來的考試。"
+        }
+      ]
+    },
+    {
+      "eng": "awaken",
+      "kk": "əˋwekən",
+      "tense": "vt.",
+      "ch": [
+        [
+          "喚醒",
+          "引起"
+        ]
+      ],
+      "analysis": "awaken 的及物用法，接直接受詞。除了字面上的叫醒睡者外，也常用於抽象情感或記憶的喚起。",
+      "definition": "1. cause (someone) to wake up; cause a feeling or emotion to stir.",
+      "example": [
+        {
+          "eng": "The smell of coffee awakened pleasant memories of childhood.",
+          "ch": "咖啡的香味喚起了童年美好的記憶。"
+        }
+      ]
+    },
+    {
+      "eng": "awaken",
+      "kk": "əˋwekən",
+      "tense": "vi.",
+      "ch": [
+        [
+          "醒來",
+          "覺醒"
+        ]
+      ],
+      "analysis": "由 awake 加上動詞字尾 -en 構成的衍生動詞，為古英語發音與構詞的延續。作不及物動詞時表示從睡眠中甦醒或情感、意識的覺醒。",
+      "definition": "1. emerge or cause to emerge from sleep; stop sleeping.",
+      "example": [
+        {
+          "eng": "Nature begins to awaken as spring arrives.",
+          "ch": "隨著春天到來，大自然開始甦醒。"
+        }
+      ]
+    },
+    {
+      "eng": "award",
+      "kk": "əˋwɔrd",
+      "tense": "n.",
+      "ch": [
+        [
+          "獎",
+          "獎品",
+          "獎金"
+        ]
+      ],
+      "analysis": "源自盎格魯-諾曼語 awarder（裁決、判定），最終源自日耳曼語源。中古英語原指法律上的正式裁決或判決，後來演變為經評審後「授予的獎項、獎品或獎金」。",
+      "definition": "1. a prize or other mark of recognition given in honor of an achievement.",
+      "example": [
+        {
+          "eng": "She received an award for her outstanding research work.",
+          "ch": "她因傑出的研究工作而獲得獎項。"
+        }
+      ]
+    },
+    {
+      "eng": "award",
+      "kk": "əˋwɔrd",
+      "tense": "vt.",
+      "ch": [
+        [
+          "授予",
+          "頒發",
+          "判給"
+        ]
+      ],
+      "analysis": "源自盎格魯-諾曼語動詞，作及物動詞使用，接雙受詞或直接受詞，表示法庭裁決給予或官方正式「頒發、授予」獎項、補償金等。",
+      "definition": "1. give or order the giving of (something, such as a prize or a penalty) as an official payment or reward.",
+      "example": [
+        {
+          "eng": "The committee decided to award the first prize to him.",
+          "ch": "委員會決定將首獎頒發給他。"
+        }
+      ]
+    },
+    {
+      "eng": "aware",
+      "kk": "əˋwɛr",
+      "tense": "adj.",
+      "ch": [
+        [
+          "知道的",
+          "意識到的",
+          "察覺到的"
+        ]
+      ],
+      "analysis": "源自古英語 ġewǣre（心安的、警惕的），由前綴 ġe- 與 wǣre（警覺的、謹慎的）結合。在中世紀英語中演變為表示對周遭環境或事實的「知情與察覺」。",
+      "definition": "1. having knowledge or perception of a situation or fact.",
+      "example": [
+        {
+          "eng": "Are you aware of the potential risks involved in this project?",
+          "ch": "你知道這個專案所涉及的潛在風險嗎？"
+        }
+      ]
+    },
+    {
+      "eng": "awful",
+      "kk": "ˋɔfəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "糟糕的",
+          "可怕的",
+          "極大的"
+        ]
+      ],
+      "analysis": "由名詞 awe（敬畏）加上形容詞字尾 -ful 構成。原義為「令人敬畏的、莊嚴的」，歷經語義貶義化（pejoration），現代主要用來形容「糟糕的、可怕的」或程度極端的。",
+      "definition": "1. very bad or unpleasant; 2. extremely great or excessive (informal).",
+      "example": [
+        {
+          "eng": "We had awful weather throughout our entire vacation.",
+          "ch": "我們整個假期都遇到糟糕的天氣。"
+        },
+        {
+          "eng": "I made an awful mistake by forgetting the meeting.",
+          "ch": "我忘記開會，犯了一個極大的錯誤。"
+        }
+      ]
+    },
+    {
+      "eng": "awkward",
+      "kk": "ˋɔkwɚd",
+      "tense": "adj.",
+      "ch": [
+        [
+          "笨拙的",
+          "不順手的操作"
+        ],
+        [
+          "尷尬的",
+          "棘手的狀況"
+        ]
+      ],
+      "analysis": "由古諾斯語（Old Norse）字根 afugr（反方向的、朝後的）加上中古英語方向字尾 -ward 構成。本義為「朝反方向的、彆扭的」，引申為身體動作的「笨拙」、工具的「不順手」以及社交情境的「尷尬」。",
+      "definition": "1. causing or feeling embarrassment; lacking skill or grace; 2. difficult to use, handle, or deal with.",
+      "example": [
+        {
+          "eng": "There was an awkward silence after his strange comment.",
+          "ch": "他奇怪的評論過後，出現了一陣尷尬的沉默。"
+        },
+        {
+          "eng": "She felt awkward trying to dance in front of everyone.",
+          "ch": "她試圖在眾人面前跳舞，覺得動作很笨拙。"
+        }
+      ]
+    },
+    {
+      "eng": "background",
+      "kk": "ˋbæk͵graʊnd",
+      "tense": "n.",
+      "ch": [
+        [
+          "背景",
+          "底色"
+        ],
+        [
+          "出身背景",
+          "經歷"
+        ]
+      ],
+      "analysis": "現代複合詞，由 back（後方、背後）與 ground（地面、底子）組合而成。原指繪畫中遠離觀者的「背景」，後引申指事物的來龍去脈、環境，或是個人的「學經歷、出身背景」。",
+      "definition": "1. the part of a scene or picture that is farthest from the viewer; 2. the circumstances, events, or background information of a person or situation.",
+      "example": [
+        {
+          "eng": "The mountains stood out clearly against the blue background of the sky.",
+          "ch": "群山在藍天背景的襯托下格外清晰。"
+        },
+        {
+          "eng": "Candidates from all educational backgrounds are welcome to apply.",
+          "ch": "歡迎所有教育背景的應徵者申請。"
+        }
+      ]
+    },
+    {
+      "eng": "bacon",
+      "kk": "ˋbekən",
+      "tense": "n.",
+      "ch": [
+        [
+          "培根",
+          "燻豬肉"
+        ]
+      ],
+      "analysis": "源自古法語 bako，最終源自日耳曼語根（與古高地德語 bahho「豬后腿」有關）。指經過醃製或燻製的豬肋條或腹部肉（培根）。",
+      "definition": "1. cured meat from the sides and belly of a pig, typically smoked and eaten in thin strips.",
+      "example": [
+        {
+          "eng": "He likes to have eggs and bacon for breakfast.",
+          "ch": "他喜歡早餐吃蛋和培根。"
+        }
+      ]
+    },
+    {
+      "eng": "bacteria",
+      "kk": "bækˋtɪrɪə",
+      "tense": "n.",
+      "ch": [
+        [
+          "細菌"
+        ]
+      ],
+      "analysis": "近代科學借詞，為拉丁語 bacterium 的複數形，源自希臘語 bakterion（小棍子），因其顯微鏡下常見的桿狀外形而得名。用以指稱單細胞原核微生物（細菌）。",
+      "definition": "1. microscopic living organisms, typically one-celled, that can exist everywhere and cause disease or fermentation.",
+      "example": [
+        {
+          "eng": "Boiling water kills harmful bacteria and makes it safe to drink.",
+          "ch": "煮沸的水可以殺死有害細菌，使其安全可飲用。"
+        }
+      ]
+    },
+    {
+      "eng": "badly",
+      "kk": "ˋbædli",
+      "tense": "adv.",
+      "ch": [
+        [
+          "糟糕地",
+          "拙劣地"
+        ],
+        [
+          "非常",
+          "極度地（強烈需要）"
+        ]
+      ],
+      "analysis": "由形容詞 bad 加上副詞字尾 -ly 構成。除了表示行為或品質的「糟糕地」之外，在英語口語與書面中也常引申為表示強烈需求的「非常、急切地」。",
+      "definition": "1. in an unsatisfactory, inadequate, or unsuccessful way; 2. to a great degree or extent; very much.",
+      "example": [
+        {
+          "eng": "The team played badly and lost the championship game.",
+          "ch": "這支球隊表現糟糕，輸掉了冠軍賽。"
+        },
+        {
+          "eng": "She needs her friends' support very badly right now.",
+          "ch": "她現在非常需要朋友的支持。"
+        }
+      ]
+    },
+    {
+      "eng": "baggage",
+      "kk": "ˋbægɪdʒ",
+      "tense": "n.",
+      "ch": [
+        [
+          "行李"
+        ]
+      ],
+      "analysis": "源自古法語 bagege，由 bage（行囊、包袱）加上名詞字尾 -age 構成。現代主要用來統稱旅客出遊時攜帶的「行李」。",
+      "definition": "1. personal belongings packed in suitcases for traveling; luggage.",
+      "example": [
+        {
+          "eng": "Passengers are allowed two pieces of checked baggage.",
+          "ch": "乘客可以託運兩件行李。"
+        }
+      ]
+    },
+    {
+      "eng": "bait",
+      "kk": "bet",
+      "tense": "n.",
+      "ch": [
+        [
+          "誘餌",
+          "引誘物"
+        ]
+      ],
+      "analysis": "源自古諾斯語 beita（使之咬餌、牧食），與 bite（咬）同源。原義為釣魚或捕獸時用的「誘餌」，後引申為任何誘惑或引人上鉤的手段。",
+      "definition": "1. food used to entice fish or other animals as prey into a trap.",
+      "example": [
+        {
+          "eng": "He put a small piece of worm on the hook as bait.",
+          "ch": "他在鉤子上放了一小塊蠕蟲當作誘餌。"
+        }
+      ]
+    },
+    {
+      "eng": "bamboo",
+      "kk": "bæmˋbu",
+      "tense": "n.",
+      "ch": [
+        [
+          "竹子"
+        ]
+      ],
+      "analysis": "借自馬來語 bambu（或透過荷蘭語或葡萄牙語中介傳入歐洲）。用以指稱禾本科竹亞科的多年生木本植物（竹子）。",
+      "definition": "1. a giant woody grass with hollow stems that grows thickly in tropical and subtropical regions.",
+      "example": [
+        {
+          "eng": "Pandas feed almost exclusively on fresh bamboo shoots and leaves.",
+          "ch": "貓熊幾乎完全以新鮮的竹筍和竹葉為食。"
+        }
+      ]
+    },
+    {
+      "eng": "bang",
+      "kk": "bæŋ",
+      "tense": "n.",
+      "ch": [
+        [
+          "砰的一聲",
+          "巨響"
+        ],
+        [
+          "猛擊",
+          "撞擊"
+        ]
+      ],
+      "analysis": "擬聲詞（onomatopoeia），源自斯堪地那維亞語支，用以模擬爆炸、關門或撞擊時產生的突發性巨響，亦可指猛烈的撞擊。",
+      "definition": "1. a sudden, loud, sharp noise; 2. a violent blow or strike.",
+      "example": [
+        {
+          "eng": "We heard a loud bang and saw smoke coming from the engine.",
+          "ch": "我們聽到一聲巨響，並看到引擎冒出煙霧。"
+        },
+        {
+          "eng": "He shut the door with a bang in anger.",
+          "ch": "他氣憤地砰的一聲關上門。"
+        }
+      ]
+    },
+    {
+      "eng": "bang",
+      "kk": "bæŋ",
+      "tense": "vi.",
+      "ch": [
+        [
+          "發出巨響",
+          "猛拍",
+          "猛撞"
+        ]
+      ],
+      "analysis": "由擬聲名詞轉化而來的不及物動詞，表示發出砰砰聲響或猛力敲打、撞擊某物。",
+      "definition": "1. strike or make a loud, repetitive noise.",
+      "example": [
+        {
+          "eng": "The shutter began to bang against the wall in the strong wind.",
+          "ch": "百葉窗在強風中開始砰砰地撞擊牆壁。"
+        }
+      ]
+    },
+    {
+      "eng": "banker",
+      "kk": "ˋbæŋkɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "銀行家",
+          "銀行高級主管"
+        ]
+      ],
+      "analysis": "由名詞 bank（銀行，源自義大利語 banca）加上表示從事該職業者的字尾 -er 構成。指經營銀行業務或擔任銀行高級管理職務的人員。",
+      "definition": "1. an officer or owner of a bank.",
+      "example": [
+        {
+          "eng": "He works as an investment banker in New York City.",
+          "ch": "他在紐約市擔任投資銀行家。"
+        }
+      ]
+    },
+    {
+      "eng": "bare",
+      "kk": "bɛr",
+      "tense": "adj.",
+      "ch": [
+        [
+          "赤裸的",
+          "光禿的"
+        ],
+        [
+          "僅有的",
+          "最低限度的"
+        ]
+      ],
+      "analysis": "源自古英語 bær（赤裸的），為日耳曼語傳承詞。本義指沒有衣物覆蓋的「赤裸的」或沒有植物生長的「光禿的」，引申出「僅有的、勉強足夠的」意思。",
+      "definition": "1. (of a person or part of the body) not clothed or covered; 2. basic and simple; without any excess.",
+      "example": [
+        {
+          "eng": "It is bad for your feet to walk on the hot sand bare.",
+          "ch": "赤腳走在熱沙上對腳不好。"
+        },
+        {
+          "eng": "They managed to survive with only the bare necessities.",
+          "ch": "他們僅靠著最低限度的必需品勉強生存。"
+        }
+      ]
+    },
+    {
+      "eng": "barely",
+      "kk": "ˋbɛrli",
+      "tense": "adv.",
+      "ch": [
+        [
+          "僅僅",
+          "幾乎不"
+        ]
+      ],
+      "analysis": "由形容詞 bare 加上副詞字尾 -ly 構成。表示某事勉強達成、幾乎沒有餘裕（幾近否定）。",
+      "definition": "1. only just; almost not.",
+      "example": [
+        {
+          "eng": "She was so tired that she could barely keep her eyes open.",
+          "ch": "她累得眼睛幾乎睜不開。"
+        }
+      ]
+    },
+    {
+      "eng": "barn",
+      "kk": "bɑrn",
+      "tense": "n.",
+      "ch": [
+        [
+          "穀倉",
+          "畜舍"
+        ]
+      ],
+      "analysis": "源自古英語 bereærn（穀倉），由 bere（大麥）與 ærn（房屋、藏所）複合而成。演變至今專指農場中用來存放穀物、飼料或飼養牲畜的大型建築（穀倉）。",
+      "definition": "1. a large agricultural building used for storing grain, hay, or straw or for housing livestock.",
+      "example": [
+        {
+          "eng": "The farmer stored the harvested hay inside the red barn.",
+          "ch": "農夫將收割的乾草存放在紅色的穀倉裡。"
+        }
+      ]
+    },
+    {
+      "eng": "barrel",
+      "kk": "ˋbærəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "桶",
+          "槍管",
+          "圓筒狀物"
+        ]
+      ],
+      "analysis": "源自古法語 baril，最終來源不詳。原指木製的圓柱形容器（桶），因形狀相似，後來也用來指槍械的「槍管」或其他圓筒狀結構。",
+      "definition": "1. a cylindrical container bulging in the middle, traditionally made of wooden staves; 2. the tube of a gun.",
+      "example": [
+        {
+          "eng": "The rainwater was collected in a large wooden barrel.",
+          "ch": "雨水被收集在一個大木桶裡。"
+        },
+        {
+          "eng": "The hunter carefully cleaned the barrel of his rifle.",
+          "ch": "獵人小心翼翼地清理步槍的槍管。"
+        }
+      ]
+    },
+    {
+      "eng": "basement",
+      "kk": "ˋbesmənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "地下室"
+        ]
+      ],
+      "analysis": "由形容詞 base（基底、底部，源自拉丁語 basis）加上名詞字尾 -ment 構成。指建築物位於地面以下的底層結構（地下室）。",
+      "definition": "1. the floor of a building that is partly or entirely below ground level.",
+      "example": [
+        {
+          "eng": "They store old holiday decorations and furniture in the basement.",
+          "ch": "他們將舊的節日裝飾和家具存放在地下室裡。"
+        }
+      ]
+    },
+    {
+      "eng": "bay",
+      "kk": "be",
+      "tense": "n.",
+      "ch": [
+        [
+          "海灣",
+          "港灣"
+        ]
+      ],
+      "analysis": "源自古法語 baie，最終源自拉丁語 baia（海灣）。指海岸線向內凹入、海水環抱的平靜水域（海灣）。",
+      "definition": "1. a broad inlet of the sea where the land curves inward.",
+      "example": [
+        {
+          "eng": "Several fishing boats were anchored safely in the calm bay.",
+          "ch": "幾艘漁船安全地停泊在平靜的海灣裡。"
+        }
+      ]
+    },
+    {
+      "eng": "bead",
+      "kk": "bid",
+      "tense": "n.",
+      "ch": [
+        [
+          "珠子",
+          "小水滴"
+        ]
+      ],
+      "analysis": "源自古英語 bēd（祈禱文、禱告串珠），與 bid（祈禱）同源。因為早期的珠子主要用作唸珠（rosary beads）計算禱告次數，後來演變成泛指所有穿孔裝飾的「珠子」，並引申形容圓形的小水滴（如汗珠）。",
+      "definition": "1. a small, pierced piece of glass, wood, or other material used for threading on a string or sewing on to clothing; 2. a small drop of a liquid.",
+      "example": [
+        {
+          "eng": "She strung colorful wooden beads to make a necklace.",
+          "ch": "她把彩色木珠串起來做成一條項鍊。"
+        },
+        {
+          "eng": "Beads of sweat formed on his forehead after the hard workout.",
+          "ch": "劇烈運動後，他額頭上冒出了一顆顆的汗珠。"
+        }
+      ]
+    },
+    {
+      "eng": "beam",
+      "kk": "bim",
+      "tense": "n.",
+      "ch": [
+        [
+          "橫樑",
+          "棟樑"
+        ],
+        [
+          "光束",
+          "無線電波束"
+        ]
+      ],
+      "analysis": "源自古英語 bēam（樹木、橫樑），為日耳曼語傳承詞。原指樹木或木材，引申為建築結構中的「橫樑」，近代再因光線直線投射的形象引申為「光束、波束」。",
+      "definition": "1. a long, sturdy piece of squared timber or metal spanning an opening or part of a structure; 2. a ray or shaft of light.",
+      "example": [
+        {
+          "eng": "The ceiling was supported by heavy oak wooden beams.",
+          "ch": "天花板由厚重的橡木橫樑支撐著。"
+        },
+        {
+          "eng": "A bright beam of light cut through the dark night.",
+          "ch": "一道明亮的光束劃破了漆黑的夜晚。"
+        }
+      ]
+    },
+    {
+      "eng": "beast",
+      "kk": "bist",
+      "tense": "n.",
+      "ch": [
+        [
+          "野獸",
+          "獸性大發的人"
+        ]
+      ],
+      "analysis": "源自古法語 beste，最終源自拉丁語 bestia（野獸）。用以指稱四足動物、野生動物，或比喻殘忍、野蠻的人。",
+      "definition": "1. an animal, especially a large or dangerous four-footed one; 2. a brutal, savage, or obnoxious person.",
+      "example": [
+        {
+          "eng": "Lions and tigers are fierce beasts of the African and Asian wild.",
+          "ch": "獅子和老虎是非洲與亞洲野外凶猛的野獸。"
+        }
+      ]
+    },
+    {
+      "eng": "beetle",
+      "kk": "ˋbitl",
+      "tense": "n.",
+      "ch": [
+        [
+          "甲蟲"
+        ]
+      ],
+      "analysis": "源自古英語 bītel（咬東西的昆蟲），由 bītan（咬，見 bite）衍生而來。指具有硬鞘翅膀的昆蟲類（甲蟲）。",
+      "definition": "1. an insect of an order distinguished by forewings that are typically modified to form hard, tough cases covering the hindwings.",
+      "example": [
+        {
+          "eng": "We found a shiny black beetle crawling on the garden path.",
+          "ch": "我們在花園小徑上發現了一隻發光的黑甲蟲。"
+        }
+      ]
+    },
+    {
+      "eng": "beneath",
+      "kk": "bɪˋniθ",
+      "tense": "prep.",
+      "ch": [
+        [
+          "在...下方",
+          "低於...水準"
+        ]
+      ],
+      "analysis": "由古英語前綴 be-（在...旁邊／加強語氣）與 neothan（在下方）複合而成。作介系詞時表示位置的「在...下方」，或抽象地表示身份、尊嚴或品質「低於...」。",
+      "definition": "1. at a lower level or layer than; under; 2. unworthy of someone's dignity or status.",
+      "example": [
+        {
+          "eng": "She hid the spare key safely beneath the doormat.",
+          "ch": "她把備用鑰匙安全地藏在門墊下方。"
+        },
+        {
+          "eng": "He felt that such petty tasks were beneath his dignity.",
+          "ch": "他覺得這種瑣碎的工作有失他的身份。"
+        }
+      ]
+    },
+    {
+      "eng": "benefit",
+      "kk": "ˋbɛnəfɪt",
+      "tense": "n.",
+      "ch": [
+        [
+          "利益",
+          "好處"
+        ],
+        [
+          "津貼",
+          "福利"
+        ]
+      ],
+      "analysis": "源自古法語 bien-fait，最終源自拉丁語 bene（好）+ facere（做），字面義為「做好事、善行」。進入英語後演變為名詞，指獲得的「好處、利益」或勞工保險、公司提供的「福利、津貼」。",
+      "definition": "1. an advantage or profit gained from something; 2. a payment or gift made by an employer or the state.",
+      "example": [
+        {
+          "eng": "Regular physical exercise brings great benefits to your health.",
+          "ch": "規律的體育運動對你的健康帶來莫大好處。"
+        },
+        {
+          "eng": "Medical insurance is one of the key employee benefits.",
+          "ch": "醫療保險是主要的員工福利之一。"
+        }
+      ]
+    },
+    {
+      "eng": "benefit",
+      "kk": "ˋbɛnəfɪt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "對...有益",
+          "使受益"
+        ]
+      ],
+      "analysis": "由 benefit 名詞轉化而來的及物動詞，接直接受詞，表示某事物對某人或群體帶來正面助益。",
+      "definition": "1. bring an advantage or profit to.",
+      "example": [
+        {
+          "eng": "The new public transit system will greatly benefit local residents.",
+          "ch": "新的大眾運輸系統將大大造福當地居民。"
+        }
+      ]
+    },
+    {
+      "eng": "berry",
+      "kk": "ˋbɛri",
+      "tense": "n.",
+      "ch": [
+        [
+          "莓果",
+          "漿果"
+        ]
+      ],
+      "analysis": "源自古英語 berie（小水果），為日耳曼語傳承詞。泛指體積小、多汁且無硬核的肉質果實（漿果、莓果）。",
+      "definition": "1. a small, juicy, round fruit without a stone.",
+      "example": [
+        {
+          "eng": "Fresh strawberries and blueberries are delicious summer berries.",
+          "ch": "新鮮的草莓和藍莓是美味的夏日莓果。"
+        }
+      ]
+    },
+    {
+      "eng": "besides",
+      "kk": "bɪˋsaɪdz",
+      "tense": "prep.",
+      "ch": [
+        [
+          "除...之外（還有）"
+        ]
+      ],
+      "analysis": "由介系詞 by + side（旁邊）加上副詞屬格字尾 -s 構成，演變出「在...旁邊」到「除...之外尚有」的累加義。",
+      "definition": "1. in addition to; apart from.",
+      "example": [
+        {
+          "eng": "Besides English, she speaks two other foreign languages fluently.",
+          "ch": "除了英語，她還流利地說另外兩種外語。"
+        }
+      ]
+    },
+    {
+      "eng": "bet",
+      "kk": "bɛt",
+      "tense": "n.",
+      "ch": [
+        [
+          "打賭",
+          "賭注"
+        ]
+      ],
+      "analysis": "源頭較不確定，可能源自中古英語 bette（較好，見 better），或與古法語 abetter 有關。指雙方對不確定結果進行金錢或條件押注的「打賭」或「賭注」。",
+      "definition": "1. an agreement to risk money on the outcome of an unpredictable event.",
+      "example": [
+        {
+          "eng": "He made a ten-dollar bet with his friend on the football match.",
+          "ch": "他和朋友針對這場足球賽打賭十塊錢。"
+        }
+      ]
+    },
+    {
+      "eng": "bet",
+      "kk": "bɛt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "打賭",
+          "確信"
+        ]
+      ],
+      "analysis": "bet 的及物動詞用法，接直接受詞或子句，表示「押注於...」或口語中表示「我敢說、確信」。",
+      "definition": "1. risk a sum of money on the outcome of a prediction; 2. be certain or confident.",
+      "example": [
+        {
+          "eng": "I bet you will win the speech competition.",
+          "ch": "我敢說你一定會贏得演講比賽。"
+        }
+      ]
+    },
+    {
+      "eng": "bind",
+      "kk": "baɪnd",
+      "tense": "vt.",
+      "ch": [
+        [
+          "捆綁",
+          "繫住"
+        ],
+        [
+          "裝訂",
+          "使結合"
+        ]
+      ],
+      "analysis": "源自古英語 bindan（綁、繫），為日耳曼語傳承詞。本義為用繩索「捆綁」，引申出書本的「裝訂」或人際、合約關係的「約束、結合」。",
+      "definition": "1. tie or fasten (something) tightly; 2. fasten the pages of a book together and put a cover on them.",
+      "example": [
+        {
+          "eng": "They used strong ropes to bind the boxes together securely.",
+          "ch": "他們用粗繩子將箱子牢牢捆綁在一起。"
+        },
+        {
+          "eng": "The report was neatly bound with a blue plastic cover.",
+          "ch": "這份報告用藍色塑膠封面整齊地裝訂好。"
+        }
+      ]
+    },
+    {
+      "eng": "bitter",
+      "kk": "ˋbɪtɚ",
+      "tense": "adj.",
+      "ch": [
+        [
+          "苦的",
+          "有苦味的"
+        ],
+        [
+          "痛苦的",
+          "激烈的（寒冷或仇恨）"
+        ]
+      ],
+      "analysis": "源自古英語 biter（銳利的、苦的），與 bite（咬）同源。原義指刺痛舌頭的「苦味」，引申為刺骨的「嚴寒」或情緒、關係上的「痛苦、怨恨」。",
+      "definition": "1. having a sharp, pungent taste; lacking sweetness; 2. (of feelings or situations) angry, hurt, or deeply resentful.",
+      "example": [
+        {
+          "eng": "The herbal medicine left a bitter taste in her mouth.",
+          "ch": "這家中藥在她嘴裡留下苦味。"
+        },
+        {
+          "eng": "They ended their long partnership after a bitter dispute.",
+          "ch": "他們在經歷一場激烈的爭執後，結束了長期的合作關係。"
+        }
+      ]
+    },
+    {
+      "eng": "bleed",
+      "kk": "blid",
+      "tense": "vi.",
+      "ch": [
+        [
+          "流血",
+          "滲血"
+        ]
+      ],
+      "analysis": "源自古英語 blēdan（流血），由名词 blōd（血液）衍生而來。為日耳曼語傳承詞，表示傷口出血或流出體液。現代多作不及物動詞。",
+      "definition": "1. lose blood from the body as a result of injury or illness.",
+      "example": [
+        {
+          "eng": "His scratched knee began to bleed slightly after the fall.",
+          "ch": "他跌倒後，擦傷的膝蓋開始微微流血。"
+        }
+      ]
+    },
+    {
+      "eng": "bless",
+      "kk": "blɛs",
+      "tense": "vt.",
+      "ch": [
+        [
+          "祝福",
+          "保佑"
+        ]
+      ],
+      "analysis": "源自古英語 blēdsian（獻祭、奉獻、祝福），源自 blōd（血），原指以血祝聖。後來在基督教影響下演變為上帝或神職人員給予信徒的「祝福、保佑」。",
+      "definition": "1. pronounce words invoking divine favor upon someone or something.",
+      "example": [
+        {
+          "eng": "The priest raised his hands to bless the congregation.",
+          "ch": "神父舉起雙手祝福全體會眾。"
+        }
+      ]
+    },
+    {
+      "eng": "bloody",
+      "kk": "ˋblʌdi",
+      "tense": "adj.",
+      "ch": [
+        [
+          "流血的",
+          "帶血的"
+        ],
+        [
+          "血腥的",
+          "殘暴的"
+        ]
+      ],
+      "analysis": "由名詞 blood（血）加上形容詞字尾 -y 構成。原義為沾滿血跡的「流血的」，引申為大規模死傷的「血腥衝突」。在英式英語中也常用作加強語氣的粗俗修飾語。",
+      "definition": "1. covered with, stained with, or involving bloodshed.",
+      "example": [
+        {
+          "eng": "The soldiers fought a bloody battle in the muddy trench.",
+          "ch": "士兵們在泥濘的戰壕裡進行了一場血腥的戰鬥。"
+        }
+      ]
+    },
+    {
+      "eng": "blouse",
+      "kk": "blaʊs",
+      "tense": "n.",
+      "ch": [
+        [
+          "女裝襯衫",
+          "寬鬆上衣"
+        ]
+      ],
+      "analysis": "借自法語 blouse（原指法國農夫或工人穿的寬鬆罩衫）。19 世紀末演變為指女性穿著的輕便上衣（女裝襯衫）。",
+      "definition": "1. a woman's loose-fitting upper garment resembling a shirt.",
+      "example": [
+        {
+          "eng": "She paired a silk white blouse with a dark blue skirt.",
+          "ch": "她用一件白色絲綢女衫搭配深藍色裙子。"
+        }
+      ]
+    },
+    {
+      "eng": "bold",
+      "kk": "bold",
+      "tense": "adj.",
+      "ch": [
+        [
+          "勇敢的",
+          "無畏的"
+        ],
+        [
+          "醒目的",
+          "粗體的"
+        ]
+      ],
+      "analysis": "源自古英語 bald（勇敢的），為日耳曼語傳承詞。本義為精神上的「勇敢、無畏」，在印刷術發明後，引申用來形容線條或字體「粗黑的、醒目的」。",
+      "definition": "1. showing a willingness to take risks; confident and courageous; 2. (of print or type) having thick, heavy lines that are easy to read.",
+      "example": [
+        {
+          "eng": "It was a bold decision to start a new business during a recession.",
+          "ch": "在經濟衰退期間創業是一個勇敢的決定。"
+        },
+        {
+          "eng": "Key terms in the textbook are printed in bold type.",
+          "ch": "教科書中的關鍵詞彙是以粗體字印刷的。"
+        }
+      ]
+    },
+    {
+      "eng": "bomb",
+      "kk": "bɑm",
+      "tense": "n.",
+      "ch": [
+        [
+          "炸彈"
+        ]
+      ],
+      "analysis": "源自義大利語 bomba，最終源自拉丁語 bombus（重擊聲、嗡嗡聲）。原指發出巨響的爆裂物，演變為現代軍事武器中的「炸彈」。",
+      "definition": "1. a container filled with explosive, incendiary material, or gas, designed to explode on impact or when detonated.",
+      "example": [
+        {
+          "eng": "The bomb squad safely defused the device found in the building.",
+          "ch": "拆彈小組安全拆除了在大樓裡發現的裝置。"
+        }
+      ]
+    },
+    {
+      "eng": "bomb",
+      "kk": "bɑm",
+      "tense": "vt.",
+      "ch": [
+        [
+          "轟炸",
+          "投彈"
+        ]
+      ],
+      "analysis": "由名詞 bomb 轉化而來的及物動詞，接直接受詞，表示用炸彈進行攻擊（轟炸）。",
+      "definition": "1. attack (a place or target) with bombs.",
+      "example": [
+        {
+          "eng": "Enemy planes came over to bomb the strategic railway station.",
+          "ch": "敵機飛來轟炸戰略要地火車站。"
+        }
+      ]
+    },
+    {
+      "eng": "bookcase",
+      "kk": "ˋbʊk͵kes",
+      "tense": "n.",
+      "ch": [
+        [
+          "書架",
+          "書櫃"
+        ]
+      ],
+      "analysis": "現代複合詞，由 book（書本）與 case（箱子、框櫃，源自古法語 chasse）組合而成。指用來放置與收納書籍的家具（書櫃、書架）。",
+      "definition": "1. a piece of furniture with shelves for storing books.",
+      "example": [
+        {
+          "eng": "His study room is lined with tall wooden bookcases filled with novels.",
+          "ch": "他的書房裡排滿了裝滿小說的高大木製書櫃。"
+        }
+      ]
+    },
+    {
+      "eng": "boot",
+      "kk": "but",
+      "tense": "n.",
+      "ch": [
+        [
+          "靴子"
+        ],
+        [
+          "汽車行李箱（英式）"
+        ]
+      ],
+      "analysis": "源自古法語 bote，最終來源不詳。原義為包覆腳踝與小腿的鞋類（靴子）。在英式英語中，也引申用來指汽車後方的置物空間（行李箱）。",
+      "definition": "1. a sturdy item of footwear covering the foot, ankle, and sometimes part of the leg; 2. a space at the back of a car for luggage (British).",
+      "example": [
+        {
+          "eng": "He wore muddy leather boots for hiking in the mountains.",
+          "ch": "他穿著沾滿泥土的皮靴去山裡健行。"
+        },
+        {
+          "eng": "They loaded the groceries into the car boot.",
+          "ch": "他們把雜貨裝進汽車的行李箱。"
+        }
+      ]
+    },
+    {
+      "eng": "bore",
+      "kk": "bɔr",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使厭煩",
+          "使無聊"
+        ]
+      ],
+      "analysis": "源頭歷史較複雜，可能與古英語 boriian（鑽孔）無關，而是一個獨立的近代動詞，意指使人感到乏味、疲倦。作為及物動詞，接受詞表示使人無聊。",
+      "definition": "1. feel weary and impatient through lack of interest.",
+      "example": [
+        {
+          "eng": "The long, repetitive lecture began to bore the students.",
+          "ch": "漫長且重複的演講開始使學生感到無聊。"
+        }
+      ]
+    },
+    {
+      "eng": "bowling",
+      "kk": "ˋbolɪŋ",
+      "tense": "n.",
+      "ch": [
+        [
+          "保齡球運動"
+        ]
+      ],
+      "analysis": "由動詞 bowl（滾球，源自古法語 bouler）加上名詞化字尾 -ing 構成。指滾動球擊倒瓶柱的室內球類運動（保齡球）。",
+      "definition": "1. a game in which players roll a heavy ball down a wooden lane to knock down pins.",
+      "example": [
+        {
+          "eng": "They spent Saturday evening playing bowling with friends.",
+          "ch": "他們週六晚上和朋友一起打保齡球。"
+        }
+      ]
+    },
+    {
+      "eng": "brake",
+      "kk": "brek",
+      "tense": "n.",
+      "ch": [
+        [
+          "煞車",
+          "制動器"
+        ]
+      ],
+      "analysis": "源自中世紀日耳曼語支（與古撒克遜語 brāka「壓碎器、麻折機」有關）。原指用於壓碎植物纖維的工具，後引申為控制車輪轉動的「煞車」裝置。",
+      "definition": "1. a device for slowing or stopping a moving vehicle, typically by applying friction.",
+      "example": [
+        {
+          "eng": "He jammed on the brakes to avoid hitting the stray dog.",
+          "ch": "他猛踩煞車以避免撞到流浪狗。"
+        }
+      ]
+    },
+    {
+      "eng": "brake",
+      "kk": "brek",
+      "tense": "vi.",
+      "ch": [
+        [
+          "煞車",
+          "減速"
+        ]
+      ],
+      "analysis": "由名詞 brake 轉化而來的不及物動詞，表示操作煞車使車輛減速或停止。",
+      "definition": "1. apply a brake to slow or stop a vehicle.",
+      "example": [
+        {
+          "eng": "The driver had to brake suddenly when the traffic light turned red.",
+          "ch": "當紅燈亮起時，駕駛不得不緊急煞車。"
+        }
+      ]
+    },
+    {
+      "eng": "brass",
+      "kk": "bræs",
+      "tense": "n.",
+      "ch": [
+        [
+          "黃銅",
+          "銅管樂器"
+        ]
+      ],
+      "analysis": "源自古英語 bræs（黃銅），為日耳曼語傳承詞。指銅與鋅的合金（黃銅），因常用於製造管樂器，亦可統稱交響樂團中的銅管樂器。",
+      "definition": "1. a yellow alloy of copper and zinc; 2. brass wind instruments in a band or orchestra.",
+      "example": [
+        {
+          "eng": "The antique door handle is made of solid polished brass.",
+          "ch": "古董門把是由實心拋光黃銅製成的。"
+        },
+        {
+          "eng": "The orchestra features a powerful section of brass and strings.",
+          "ch": "該樂團具有強大的銅管與弦樂樂器組。"
+        }
+      ]
+    }
+  ]
+}

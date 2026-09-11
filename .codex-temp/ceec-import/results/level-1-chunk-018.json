@@ -1,0 +1,1518 @@
+{
+  "level": 1,
+  "chunkIndex": 18,
+  "inputs": [
+    "speak",
+    "special",
+    "spell",
+    "spend",
+    "spring",
+    "square",
+    "stair",
+    "stand",
+    "star",
+    "start",
+    "station",
+    "stay",
+    "still",
+    "stop",
+    "store",
+    "story",
+    "straight",
+    "strange",
+    "street",
+    "string",
+    "strong",
+    "student",
+    "study",
+    "stupid",
+    "subject",
+    "successful",
+    "sugar",
+    "sun",
+    "sunny",
+    "supermarket",
+    "sure",
+    "surprise",
+    "surprised",
+    "sweet",
+    "table",
+    "tail",
+    "take",
+    "talk",
+    "tall",
+    "tape",
+    "taste",
+    "taxicab",
+    "taxi",
+    "cab",
+    "tea",
+    "teach",
+    "teacher",
+    "team",
+    "teenager",
+    "telephone"
+  ],
+  "rows": [
+    {
+      "eng": "speak",
+      "kk": "spik",
+      "tense": "vt.",
+      "ch": [
+        [
+          "說",
+          "講（語言）"
+        ],
+        [
+          "談論",
+          "商談"
+        ]
+      ],
+      "analysis": "此字為現代不透明繼承詞，源自古英語 sprecan。作為及物動詞時，後方直接接語言名稱作為受詞，表示「使用某種語言溝通」；亦可接特定話題表示「談論或討論某事」。",
+      "definition": "1. To be able to use a particular language for communication; 2. To discuss or talk about a specific subject.",
+      "example": [
+        {
+          "eng": "She can speak three languages fluently.",
+          "ch": "她能流利地說三種語言。"
+        },
+        {
+          "eng": "We need to speak about the upcoming project.",
+          "ch": "我們需要談談即將到來的專案。"
+        }
+      ]
+    },
+    {
+      "eng": "speak",
+      "kk": "spik",
+      "tense": "vi.",
+      "ch": [
+        [
+          "說話",
+          "講話"
+        ],
+        [
+          "演講",
+          "發言"
+        ]
+      ],
+      "analysis": "此字為現代不透明繼承詞，源自古英語 sprecan（原始日耳曼語 *sprekanan）。作為不及物動詞，其核心語義為使用聲音表達語言或發表言論。語義演變從「發出言語聲響」拓展至「在公開場合演講或發言」。",
+      "definition": "1. To say words in order to express thoughts, feelings, or information; 2. To give a formal talk or address to an audience.",
+      "example": [
+        {
+          "eng": "Please speak clearly so everyone can hear you.",
+          "ch": "請說清楚，這樣每個人才能聽到你的聲音。"
+        },
+        {
+          "eng": "The principal will speak at the graduation ceremony.",
+          "ch": "校長將在畢業典禮上發言。"
+        }
+      ]
+    },
+    {
+      "eng": "special",
+      "kk": "ˈspɛʃəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "特別的",
+          "專門的"
+        ],
+        [
+          "特優的",
+          "珍貴的"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自拉丁語 specialis（衍生自 species「種類、外貌」），經由古法語特別借入英語。現代結構上可視為 root speci- 加上形容詞字尾 -al。語義從「屬於特定種類的」演變為「不同尋常的、具獨特價值的或專門用途的」。",
+      "definition": "1. Better, greater, or otherwise different from what is usual; 2. Designed or used for a particular purpose.",
+      "example": [
+        {
+          "eng": "Today is a special day for our family.",
+          "ch": "對於我們家來說，今天是個特別的日子。"
+        },
+        {
+          "eng": "The restaurant offers a special menu for children.",
+          "ch": "這家餐廳為兒童提供專門的菜單。"
+        }
+      ]
+    },
+    {
+      "eng": "spell",
+      "kk": "spɛl",
+      "tense": "vt.",
+      "ch": [
+        [
+          "拼字",
+          "拼寫"
+        ]
+      ],
+      "analysis": "此字為現代不透明繼承詞，源自古英語 spellian（意指講故事、宣講），後經中古英語語義轉變為「按順序說出或寫出構成單字的字母」。作為及物動詞，其後必須接單字或字母作為直接受詞。",
+      "definition": "1. To write or name the letters that form a word in the correct order.",
+      "example": [
+        {
+          "eng": "Can you spell your last name for me?",
+          "ch": "你能為我拼一下你的姓氏嗎？"
+        }
+      ]
+    },
+    {
+      "eng": "spend",
+      "kk": "spɛnd",
+      "tense": "vt.",
+      "ch": [
+        [
+          "花費（金錢）",
+          "消耗"
+        ],
+        [
+          "度過（時間）"
+        ]
+      ],
+      "analysis": "此字為歷史借詞與繼承詞的複合發展，源自古英語 spendan，最終源自拉丁語 expendere（ex-「出」+ pendere「支付、秤重」）。作為及物動詞，其後可接金錢或時間作為受詞，語義由「支付金錢」引申出「耗費時間或精力」的用法。",
+      "definition": "1. To give money to pay for goods, services, or events; 2. To pass time in a particular way or place.",
+      "example": [
+        {
+          "eng": "I don't like to spend too much money on clothes.",
+          "ch": "我不喜歡在衣服上花太多錢。"
+        },
+        {
+          "eng": "We decided to spend our vacation in the mountains.",
+          "ch": "我們決定去山上度過假期。"
+        }
+      ]
+    },
+    {
+      "eng": "spring",
+      "kk": "sprɪŋ",
+      "tense": "n.",
+      "ch": [
+        [
+          "春天",
+          "春季"
+        ],
+        [
+          "彈簧",
+          "彈力"
+        ],
+        [
+          "泉水",
+          "水源"
+        ]
+      ],
+      "analysis": "此字為現代不透明繼承詞，源自古英語 springan（意為跳躍、湧出）。作為名詞，保留了多重歷史衍生義：由「萬物萌發的季節」指稱春天；由「向上躍起」的動作引申為彈簧；由「地下水湧出」指稱泉水。",
+      "definition": "1. The season of the year between winter and summer when plants begin to grow; 2. A coiled piece of metal that returns to its original shape after being pressed or pulled; 3. A place where water wells up from the underground.",
+      "example": [
+        {
+          "eng": "Flowers bloom everywhere in spring.",
+          "ch": "春天裡處處百花盛開。"
+        },
+        {
+          "eng": "The mattress lost its bounce because the springs are worn out.",
+          "ch": "這個床墊失去彈性，因為彈簧磨損了。"
+        },
+        {
+          "eng": "They drank cool water straight from the mountain spring.",
+          "ch": "他們直接喝著山泉湧出的清涼泉水。"
+        }
+      ]
+    },
+    {
+      "eng": "spring",
+      "kk": "sprɪŋ",
+      "tense": "vi.",
+      "ch": [
+        [
+          "跳躍",
+          "躍起"
+        ],
+        [
+          "湧現",
+          "突然出現"
+        ]
+      ],
+      "analysis": "此字為現代不透明繼承詞，源自古英語 springan。作為不及物動詞，核心義為「迅速且猛烈地向上或向前移動」，進一步引申為「突然湧現或產生」，句型上不接受直接受詞。",
+      "definition": "1. To move quickly and suddenly upwards or forwards; 2. To appear or come into existence suddenly.",
+      "example": [
+        {
+          "eng": "The cat leaped to spring across the narrow alley.",
+          "ch": "那隻貓縱身跳過狹窄的小巷。"
+        },
+        {
+          "eng": "New coffee shops spring up all over the city.",
+          "ch": "新的咖啡館在全城各處如雨後春筍般湧現。"
+        }
+      ]
+    },
+    {
+      "eng": "square",
+      "kk": "skwɛr",
+      "tense": "n.",
+      "ch": [
+        [
+          "正方形",
+          "方塊"
+        ],
+        [
+          "廣場"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自拉丁語 exquadrare（使成方形），經由古法語 esquare 傳入英語。名詞用法包含幾何圖形的「正方形」以及都市規劃中的「城市廣場」。",
+      "definition": "1. A flat geometric shape with four equal sides and four right angles; 2. An open public area in the center of a town or city.",
+      "example": [
+        {
+          "eng": "Draw a square and a circle on the paper.",
+          "ch": "在紙上畫一個正方形和一個圓形。"
+        },
+        {
+          "eng": "Tourists gathered in the central square to take photos.",
+          "ch": "遊客們聚集在中央廣場拍照。"
+        }
+      ]
+    },
+    {
+      "eng": "square",
+      "kk": "skwɛr",
+      "tense": "adj.",
+      "ch": [
+        [
+          "正方形的",
+          "平方的"
+        ],
+        [
+          "平直的",
+          "公正的"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自拉丁語 exquadrare 的形容詞形式，經由古法語進入英語。形容詞義主要指形狀呈「正方形」或數學上的「平方」，亦可延伸指角度呈九十度直角或公平正直。",
+      "definition": "1. Having four equal sides and four right angles; 2. Forming a right angle.",
+      "example": [
+        {
+          "eng": "The table top is perfectly square.",
+          "ch": "這個桌面是完全正方形的。"
+        },
+        {
+          "eng": "Make sure the corners are square before nailing them.",
+          "ch": "在釘釘子之前，確保各個角落都是直角的。"
+        }
+      ]
+    },
+    {
+      "eng": "stair",
+      "kk": "stɛr",
+      "tense": "n.",
+      "ch": [
+        [
+          "樓梯",
+          "階梯"
+        ]
+      ],
+      "analysis": "此字為現代不透明繼承詞，源自古英語 stǣger（意為階梯、登高處），與動詞 stay 或 ascend 的根源相關。通常以複數形 stairs 使用，指連接不同樓層的階梯結構。",
+      "definition": "1. A set of steps leading from one level or floor to another.",
+      "example": [
+        {
+          "eng": "Be careful not to fall down the stairs.",
+          "ch": "小心不要從樓梯上摔下來。"
+        }
+      ]
+    },
+    {
+      "eng": "stand",
+      "kk": "stænd",
+      "tense": "vt.",
+      "ch": [
+        [
+          "忍受",
+          "容忍"
+        ],
+        [
+          "設置",
+          "豎立"
+        ]
+      ],
+      "analysis": "此字為現代不透明繼承詞，源自古英語 standan。及物動詞用法常與否定詞連用，表示「忍受或承受（不愉快的事物）」，亦可指將物品直立放置。",
+      "definition": "1. To bear or tolerate an unpleasant situation or person; 2. To place something in an upright position.",
+      "example": [
+        {
+          "eng": "I cannot stand the loud noise from the street.",
+          "ch": "我無法忍受街上的喧鬧聲。"
+        },
+        {
+          "eng": "Stand the ladder firmly against the wall.",
+          "ch": "把梯子穩固地靠在牆上。"
+        }
+      ]
+    },
+    {
+      "eng": "stand",
+      "kk": "stænd",
+      "tense": "vi.",
+      "ch": [
+        [
+          "站立",
+          "直立"
+        ],
+        [
+          "處於某種狀態",
+          "座落於"
+        ]
+      ],
+      "analysis": "此字為現代不透明繼承詞，源自古英語 standan（原始日耳曼語 *standaną）。作為不及物動詞，核心義為「保持雙腿直立的姿勢」，並引申為「建築物座落於某處」或「處於特定情況或立場中」。",
+      "definition": "1. To be in a vertical upright position supported by one's feet; 2. To be situated in a particular place or condition.",
+      "example": [
+        {
+          "eng": "Please stand up when the national anthem plays.",
+          "ch": "國歌播放時請起立。"
+        },
+        {
+          "eng": "The old castle stands on top of the hill.",
+          "ch": "那座古老城堡座落在山頂上。"
+        }
+      ]
+    },
+    {
+      "eng": "star",
+      "kk": "stɑr",
+      "tense": "n.",
+      "ch": [
+        [
+          "星星",
+          "恆星"
+        ],
+        [
+          "明星",
+          "巨星"
+        ]
+      ],
+      "analysis": "此字為現代不透明繼承詞，源自古英語 steorra（原始日耳曼語 *stērnōn）。名詞核心義為夜空中的天體「星星」，因其閃耀奪目，引申指演藝界或體育界的「明星、知名人物」。",
+      "definition": "1. A massive luminous ball of plasma in outer space, visible as a point of light in the night sky; 2. A famous and successful singer, actor, or athlete.",
+      "example": [
+        {
+          "eng": "Millions of stars twinkled in the clear night sky.",
+          "ch": "數百萬顆星星在晴朗的夜空中閃爍。"
+        },
+        {
+          "eng": "The movie stars a famous Hollywood actor.",
+          "ch": "這部電影由一位著名的好萊塢演員主演。"
+        }
+      ]
+    },
+    {
+      "eng": "start",
+      "kk": "stɑrt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "開始",
+          "發動（機器）"
+        ]
+      ],
+      "analysis": "此字為現代不透明繼承詞，源自古英語 styrtan。作為及物動詞時，後方接活動、計畫或機器作為直接受詞，表示「著手進行」或「使引擎運轉」。",
+      "definition": "1. To begin doing something, or to cause a machine or process to begin working.",
+      "example": [
+        {
+          "eng": "He wants to start a new business next year.",
+          "ch": "他想在明年創辦一項新業務。"
+        },
+        {
+          "eng": "Can you help me start the car engine?",
+          "ch": "你能幫我發動汽車引擎嗎？"
+        }
+      ]
+    },
+    {
+      "eng": "start",
+      "kk": "stɑrt",
+      "tense": "vi.",
+      "ch": [
+        [
+          "開始",
+          "起程"
+        ],
+        [
+          "驚跳",
+          "驚動"
+        ]
+      ],
+      "analysis": "此字為現代不透明繼承詞，源自古英語 styrtan（意為跳起、動搖）。作為不及物動詞，主要指活動或行程的「開始啟動」，亦保留了因受驚而「猛然一跳」的古義。",
+      "definition": "1. To begin an action, process, or journey; 2. To make a sudden startled movement.",
+      "example": [
+        {
+          "eng": "The meeting will start at ten o'clock sharp.",
+          "ch": "會議將在十點整開始。"
+        },
+        {
+          "eng": "She gave a start when the telephone rang unexpectedly.",
+          "ch": "電話無預警響起時，她嚇得驚跳了一下。"
+        }
+      ]
+    },
+    {
+      "eng": "station",
+      "kk": "ˈsteʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "車站",
+          "所"
+        ],
+        [
+          "電台",
+          "頻道"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自拉丁語 statio（站立之處、位置，源自 stare「站立」），經由古法語或直接進入英語。名詞核心義為「停駐、停靠之處」，如火車站、警察局，或現代廣播電視的「電台」。",
+      "definition": "1. A place where trains or buses stop for passengers; 2. A broadcasting company that sends out television or radio programs.",
+      "example": [
+        {
+          "eng": "We waited for the train at the railway station.",
+          "ch": "我們在火車站等火車。"
+        },
+        {
+          "eng": "Tune in to this radio station for classical music.",
+          "ch": "調到這個廣播電台來聽古典音樂。"
+        }
+      ]
+    },
+    {
+      "eng": "stay",
+      "kk": "ste",
+      "tense": "vi.",
+      "ch": [
+        [
+          "停留",
+          "待在"
+        ],
+        [
+          "保持（某種狀態）"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自古法語 ester（源自拉丁語 stare「站立」）。作為不及物動詞，核心義為「不離開某個地方」，亦可作為連綴動詞表示「維持某種狀態」。",
+      "definition": "1. To continue to be in a particular place and not leave; 2. To continue to be in a specified state or condition.",
+      "example": [
+        {
+          "eng": "Please stay at home while it is raining heavily.",
+          "ch": "外面雨下得很大時，請待在家裡。"
+        },
+        {
+          "eng": "Try to stay calm during an emergency.",
+          "ch": "在緊急情況下，試著保持冷靜。"
+        }
+      ]
+    },
+    {
+      "eng": "still",
+      "kk": "stɪl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "靜止的",
+          "不動的"
+        ],
+        [
+          "平靜的",
+          "無風的"
+        ]
+      ],
+      "analysis": "此字為現代不透明繼承詞，源自古英語 stille（安靜的、不動的）。作為形容詞，核心義為「沒有移動或發出聲響的」，亦可用來形容水面或空氣平靜無波。",
+      "definition": "1. Not moving or making a sound; 2. Calm and free from disturbance or wind.",
+      "example": [
+        {
+          "eng": "The child sat still while the doctor examined him.",
+          "ch": "醫生為那個孩子檢查時，他靜靜地坐著。"
+        },
+        {
+          "eng": "The lake surface was as still as a mirror.",
+          "ch": "湖面平靜得像一面鏡子。"
+        }
+      ]
+    },
+    {
+      "eng": "still",
+      "kk": "stɪl",
+      "tense": "adv.",
+      "ch": [
+        [
+          "仍然",
+          "還"
+        ],
+        [
+          "甚至更……"
+        ]
+      ],
+      "analysis": "此字為現代不透明繼承詞，源自古英語 stille 的副詞用法。副詞核心義表示某個動作或狀態「持續到現在沒有改變」，亦可加在比較級前表示「程度更進一步」。",
+      "definition": "1. Continuing to happen or existing up to the present time; 2. Even more (used with comparatives).",
+      "example": [
+        {
+          "eng": "It is still raining outside, so bring an umbrella.",
+          "ch": "外面還在下雨，所以帶把傘吧。"
+        },
+        {
+          "eng": "This book is even better and still more interesting.",
+          "ch": "這本書更好，而且更有趣。"
+        }
+      ]
+    },
+    {
+      "eng": "stop",
+      "kk": "stɑp",
+      "tense": "vt.",
+      "ch": [
+        [
+          "阻止",
+          "停止（動作等）"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自日耳曼語源。作為及物動詞時，後方直接接動作、過程或人作為受詞，表示「使之停止進行」或「阻撓某事發生」。",
+      "definition": "1. To cause an action, process, or movement to come to an end.",
+      "example": [
+        {
+          "eng": "Please try to stop making that annoying noise.",
+          "ch": "請試著停止製造那種討厭的噪音。"
+        }
+      ]
+    },
+    {
+      "eng": "stop",
+      "kk": "stɑp",
+      "tense": "vi.",
+      "ch": [
+        [
+          "停止",
+          "停下"
+        ],
+        [
+          "停留",
+          "駐足"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自古德語或荷蘭語（源自日耳曼語族），亦受拉丁語 stupere 影響。作為不及物動詞，核心義為「動作或行進中斷、不再繼續」，亦可指暫時停留。",
+      "definition": "1. To cease moving, operating, or progressing; 2. To stay somewhere temporarily during a journey.",
+      "example": [
+        {
+          "eng": "The bus will stop at the next corner.",
+          "ch": "公車將在下一個轉角停下來。"
+        },
+        {
+          "eng": "We decided to stop at a small town along the way.",
+          "ch": "我們決定沿途在一個小鎮停留。"
+        }
+      ]
+    },
+    {
+      "eng": "store",
+      "kk": "stɔr",
+      "tense": "n.",
+      "ch": [
+        [
+          "商店",
+          "店舖"
+        ],
+        [
+          "儲藏",
+          "倉庫"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自拉丁語 instaurare（恢復、裝備），經由古法語 estorer 演變而來。名詞核心義由「儲存物資之處」演變為現代的「商店」，亦可指物資的儲藏量。",
+      "definition": "1. A retail establishment where goods are sold to the public; 2. A quantity or supply of something kept for future use.",
+      "example": [
+        {
+          "eng": "She went to the grocery store to buy some fresh milk.",
+          "ch": "她去雜貨店買了一些鮮乳。"
+        },
+        {
+          "eng": "Squirrels keep a store of nuts for the cold winter.",
+          "ch": "松鼠儲藏堅果以度過寒冷的冬天。"
+        }
+      ]
+    },
+    {
+      "eng": "store",
+      "kk": "stɔr",
+      "tense": "vt.",
+      "ch": [
+        [
+          "儲存",
+          "貯藏"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自古法語 estorer。作為及物動詞，核心義為「將物品或資料收集並保存起來以備將來使用」。",
+      "definition": "1. To keep or accumulate something for future use.",
+      "example": [
+        {
+          "eng": "We store extra blankets in the closet upstairs.",
+          "ch": "我們將多餘的毯子儲存在樓上的衣櫥裡。"
+        }
+      ]
+    },
+    {
+      "eng": "story",
+      "kk": "ˈstɔri",
+      "tense": "n.",
+      "ch": [
+        [
+          "故事",
+          "小說"
+        ],
+        [
+          "報導",
+          "樓層（英式常用 storey）"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自拉丁語 historia（經由法語 estorie 演變）。在語義演變中，原本指歷史記載或傳奇敘述，進而分化出「虛構或真實的故事」、「新聞報導」，以及建築物的「樓層」義。",
+      "definition": "1. An account of imaginary or real people and events told for entertainment; 2. A report of news in a newspaper or broadcast.",
+      "example": [
+        {
+          "eng": "Grandma read an interesting bedtime story to the children.",
+          "ch": "奶奶給孩子們讀了一個有趣的睡前故事。"
+        },
+        {
+          "eng": "The local newspaper published a front-page story about the fire.",
+          "ch": "當地報紙刊登了一篇關於這場火災的頭版報導。"
+        }
+      ]
+    },
+    {
+      "eng": "straight",
+      "kk": "stret",
+      "tense": "adj.",
+      "ch": [
+        [
+          "直線的",
+          "筆直的"
+        ],
+        [
+          "整齊的",
+          "坦率的"
+        ]
+      ],
+      "analysis": "此字為現代不透明繼承詞，源自古英語 streht（動詞 streccan 的過去分詞，意為伸展）。作為形容詞，核心義為「沒有彎曲或傾斜的」，亦可引申指整理得井井有條或性格坦率。",
+      "definition": "1. Extending in one direction without bending or curving; 2. Properly positioned, arranged, or level.",
+      "example": [
+        {
+          "eng": "Draw a straight line using a ruler.",
+          "ch": "用尺畫一條直線。"
+        },
+        {
+          "eng": "Make sure your picture frame hangs straight on the wall.",
+          "ch": "確保你的畫框在牆上掛得端正。"
+        }
+      ]
+    },
+    {
+      "eng": "straight",
+      "kk": "stret",
+      "tense": "adv.",
+      "ch": [
+        [
+          "筆直地",
+          "直接地"
+        ]
+      ],
+      "analysis": "此字為現代不透明繼承詞，源自古英語 streht 的副詞用法。核心義為「不彎曲、不繞路地直接朝某個方向前進」。",
+      "definition": "1. Without turning, stopping, or delaying; directly.",
+      "example": [
+        {
+          "eng": "Go straight down this road and you will find the museum.",
+          "ch": "沿著這條路直走，你就會找到博物館。"
+        }
+      ]
+    },
+    {
+      "eng": "strange",
+      "kk": "strendʒ",
+      "tense": "adj.",
+      "ch": [
+        [
+          "奇怪的",
+          "奇特的"
+        ],
+        [
+          "陌生的",
+          "生疏的"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自拉丁語 extraneus（外面的、外部的），經由古法語 estranges 傳入英語。語義由「外部的、外來的」引申為「不熟悉的（陌生）」以及「不尋常的（奇怪）」。",
+      "definition": "1. Unusual or surprising in a way that is hard to understand; 2. Not known, familiar, or previously experienced.",
+      "example": [
+        {
+          "eng": "I heard a strange noise coming from the basement.",
+          "ch": "我聽到地下室傳來奇怪的聲音。"
+        },
+        {
+          "eng": "Never talk to strange people on the internet.",
+          "ch": "絕不要跟網路上不認識的陌生人交談。"
+        }
+      ]
+    },
+    {
+      "eng": "street",
+      "kk": "strit",
+      "tense": "n.",
+      "ch": [
+        [
+          "街道",
+          "馬路"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自拉丁語 strata（via strata「鋪有石塊的道路」，源自 sternere「鋪平」），在古英語時期借入（strǣt）。名詞專指城鎮中兩側有建築物的鋪面道路。",
+      "definition": "1. A public road in a city or town, usually with buildings on one or both sides.",
+      "example": [
+        {
+          "eng": "Children should not play ball in the busy street.",
+          "ch": "孩子們不應該在繁忙的街道上踢球。"
+        }
+      ]
+    },
+    {
+      "eng": "string",
+      "kk": "strɪŋ",
+      "tense": "n.",
+      "ch": [
+        [
+          "細繩",
+          "線"
+        ],
+        [
+          "弦（樂器）"
+        ]
+      ],
+      "analysis": "此字為現代不透明繼承詞，源自古英語 streng（原始日耳曼語 *strangiz「強韌的、繩索」）。名詞核心義指細而強韌的「繩子或線」，亦指樂器上發聲用的「弦」。",
+      "definition": "1. A thin piece of twisted fiber, cord, or twine used for tying or fastening; 2. A cord of wire or gut on a musical instrument that produces sound when vibrated.",
+      "example": [
+        {
+          "eng": "Tie the package securely with a piece of strong string.",
+          "ch": "用一根粗繩把包裹捆紮牢固。"
+        },
+        {
+          "eng": "One of the guitar strings snapped while he was tuning it.",
+          "ch": "他在調音時，其中一根吉他弦斷了。"
+        }
+      ]
+    },
+    {
+      "eng": "strong",
+      "kk": "strɔŋ",
+      "tense": "adj.",
+      "ch": [
+        [
+          "強壯的",
+          "強大的"
+        ],
+        [
+          "強烈的",
+          "濃的"
+        ]
+      ],
+      "analysis": "此字為現代不透明繼承詞，源自古英語 strang（原始日耳曼語 *strangaz「強韌的、嚴厲的」）。作為形容詞，核心義為體力或國力「強大、強壯」，亦可引申指氣味、味道或情感「強烈」。",
+      "definition": "1. Having great physical power or capability; 2. Having a powerful effect on the senses, such as taste, smell, or force.",
+      "example": [
+        {
+          "eng": "He exercises every day to stay healthy and strong.",
+          "ch": "他每天運動以保持健康與強壯。"
+        },
+        {
+          "eng": "I prefer to drink strong coffee in the morning.",
+          "ch": "我喜歡在早晨喝濃咖啡。"
+        }
+      ]
+    },
+    {
+      "eng": "student",
+      "kk": "ˈstudənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "學生",
+          "學者"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自拉丁語 studens（動詞 studere「努力學習、熱衷」的現在分詞），經由中古法語進入英語。名詞指在學校、大學或學習機構中求學的人。",
+      "definition": "1. A person who is studying at a school, college, or university.",
+      "example": [
+        {
+          "eng": "The university library is full of hardworking students.",
+          "ch": "大學圖書館裡坐滿了認真學習的學生。"
+        }
+      ]
+    },
+    {
+      "eng": "study",
+      "kk": "ˈstʌdi",
+      "tense": "vt.",
+      "ch": [
+        [
+          "研讀",
+          "研究"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自拉丁語 studere。作為及物動詞，後方接學科、書籍或特定現象作為直接受詞，表示「深入探究或學習某個領域」。",
+      "definition": "1. To examine or investigate something carefully in detail.",
+      "example": [
+        {
+          "eng": "Scientists study animal behavior in their natural habitats.",
+          "ch": "科學家在自然棲息地研究動物行為。"
+        }
+      ]
+    },
+    {
+      "eng": "study",
+      "kk": "ˈstʌdi",
+      "tense": "vi.",
+      "ch": [
+        [
+          "學習",
+          "讀書"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自拉丁語 studere（努力、專心），經由古法語 estudiar 傳入英語。作為不及物動詞，核心義為「專心吸收知識或準備考試」，句型上不直接接受受詞。",
+      "definition": "1. To devote time and attention to acquiring knowledge on an academic subject.",
+      "example": [
+        {
+          "eng": "You need to study hard if you want to pass the exam.",
+          "ch": "如果你想通過考試，你需要努力讀書。"
+        }
+      ]
+    },
+    {
+      "eng": "stupid",
+      "kk": "ˈstupɪd",
+      "tense": "adj.",
+      "ch": [
+        [
+          "愚蠢的",
+          "笨的"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自拉丁語 stupidus（麻木的、呆滯的，源自 stupere「呆若木雞」），經由中古法語或義大利語進入英語。語義由「因震驚或呆滯而反應遲鈍」演變為現代的「缺乏智力或判斷力（愚蠢的）」。",
+      "definition": "1. Lacking intelligence, common sense, or judgment; foolish.",
+      "example": [
+        {
+          "eng": "It would be stupid to drive without wearing a seatbelt.",
+          "ch": "開車不繫安全帶是很愚蠢的。"
+        }
+      ]
+    },
+    {
+      "eng": "subject",
+      "kk": "ˈsʌbdʒɪkt",
+      "tense": "n.",
+      "ch": [
+        [
+          "主題",
+          "學科"
+        ],
+        [
+          "主詞",
+          "國民"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自拉丁語 subiectus（sub-「在……之下」+ iacere「投擲」），意指「被置於統治之下或討論之下的事物」。名詞用法衍生出多重專業語義：討論的「主題」、學校課程的「學科」、文法上的「主詞」，以及君主制下的「國民」。",
+      "definition": "1. A branch of knowledge studied in a school or college; 2. The main idea or topic of a discussion, book, or work of art.",
+      "example": [
+        {
+          "eng": "Mathematics is my favorite school subject.",
+          "ch": "數學是我最喜歡的學校科目。"
+        },
+        {
+          "eng": "The teacher changed the subject of conversation.",
+          "ch": "老師改變了對話的主題。"
+        }
+      ]
+    },
+    {
+      "eng": "successful",
+      "kk": "səkˈsɛsfəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "成功的",
+          "有成就的"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由名詞 success（源自拉丁語 succedere）加上形容詞字尾 -ful 組成。核心義為「達成預期目標或獲得繁榮成就的」。",
+      "definition": "1. Achieving a desired aim or resulting in a favorable outcome.",
+      "example": [
+        {
+          "eng": "She is a very successful businesswoman in her field.",
+          "ch": "她是她領域中一位非常成功的女商人。"
+        }
+      ]
+    },
+    {
+      "eng": "sugar",
+      "kk": "ˈʃʊɡər",
+      "tense": "n.",
+      "ch": [
+        [
+          "糖"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，經由古法語 sucre、阿拉伯語 sukkar、梵文 śarkarā 最終傳入英語。名詞專指從甘蔗或甜菜中提取的甜味結晶調味品。",
+      "definition": "1. A sweet crystalline substance obtained from various plants, especially sugarcane and sugar beet.",
+      "example": [
+        {
+          "eng": "I like to add two spoons of sugar to my black tea.",
+          "ch": "我喜歡在我的紅茶裡加兩匙糖。"
+        }
+      ]
+    },
+    {
+      "eng": "sun",
+      "kk": "sʌn",
+      "tense": "n.",
+      "ch": [
+        [
+          "太陽",
+          "陽光"
+        ]
+      ],
+      "analysis": "此字為現代不透明繼承詞，源自古英語 sunne（原始日耳曼語 *sunnōn）。名詞核心義指太陽系中心的恆星，亦可引申指陽光照射的光線。類似的日耳曼語源可見於德語 Sonne。",
+      "definition": "1. The star around which the earth orbits, providing light and heat; 2. The radiance or rays of light coming from the sun.",
+      "example": [
+        {
+          "eng": "The sun rises in the east every morning.",
+          "ch": "太陽每天早晨從東方升起。"
+        },
+        {
+          "eng": "We sat outside in the warm sun to relax.",
+          "ch": "我們坐在室內的溫暖陽光下放鬆。"
+        }
+      ]
+    },
+    {
+      "eng": "sunny",
+      "kk": "ˈsʌni",
+      "tense": "adj.",
+      "ch": [
+        [
+          "陽光充足的",
+          "晴朗的"
+        ],
+        [
+          "開朗的",
+          "愉快的"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由名詞 sun 加上形容詞字尾 -y 組成。形容詞義除了指天氣「晴朗、充滿陽光」外，亦可引申形容人的性格「開朗、充滿朝氣」。",
+      "definition": "1. Bright with sunlight; free from clouds; 2. Cheerful and bright in disposition.",
+      "example": [
+        {
+          "eng": "It is a beautiful and sunny day for a picnic.",
+          "ch": "今天是個野餐的晴朗好日子。"
+        },
+        {
+          "eng": "She always greets everyone with a sunny smile.",
+          "ch": "她總是帶著開朗的微笑迎接每個人。"
+        }
+      ]
+    },
+    {
+      "eng": "supermarket",
+      "kk": "ˈsupərˌmɑrkɪt",
+      "tense": "n.",
+      "ch": [
+        [
+          "超級市場",
+          "超市"
+        ]
+      ],
+      "analysis": "此字為現代透明複合詞，由字首 super-（超級、大）與名詞 market（市場）結合而成。20世紀初隨現代零售業興起而創造，指規模大、採自助式購物的零售商店。",
+      "definition": "1. A large self-service store selling foods and household goods.",
+      "example": [
+        {
+          "eng": "I need to go to the supermarket to buy vegetables and fruits.",
+          "ch": "我需要去超級市場買蔬菜和水果。"
+        }
+      ]
+    },
+    {
+      "eng": "sure",
+      "kk": "ʃʊr",
+      "tense": "adj.",
+      "ch": [
+        [
+          "確信的",
+          "有把握的"
+        ],
+        [
+          "必然的",
+          "可靠的"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自拉丁語 securus（安全的、無憂的），經由古法語 seur 演變進入英語。形容詞核心義為心裡「確信無疑的」，亦可指情況「必然會發生的」。",
+      "definition": "1. Completely confident or certain about something; 2. Inevitable or bound to happen.",
+      "example": [
+        {
+          "eng": "Are you sure you locked the front door?",
+          "ch": "你確定你鎖了大門嗎？"
+        },
+        {
+          "eng": "Hard work is a sure way to achieve success.",
+          "ch": "努力工作是獲得成功的穩妥途徑。"
+        }
+      ]
+    },
+    {
+      "eng": "surprise",
+      "kk": "sərˈpraɪz",
+      "tense": "n.",
+      "ch": [
+        [
+          "驚奇",
+          "驚喜"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自古法語 surprise（動詞 surprendre「從上方抓取、突襲」的過去分詞，由 sur-「上」+ prendere「抓住」組成）。名詞核心義指突如其來的事情所引起的「驚訝或驚喜」。",
+      "definition": "1. An unexpected or astonishing event, fact, or thing.",
+      "example": [
+        {
+          "eng": "The birthday party was a complete surprise for him.",
+          "ch": "這場生日派對對他來說完全是一個驚喜。"
+        }
+      ]
+    },
+    {
+      "eng": "surprise",
+      "kk": "sərˈpraɪz",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使驚奇",
+          "使出乎意料"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自古法語 surprendre。作為及物動詞，核心義為「使某人感到意外或驚奇」。",
+      "definition": "1. To cause someone to feel mild astonishment or shock by being unexpected.",
+      "example": [
+        {
+          "eng": "Her sudden visit will definitely surprise her parents.",
+          "ch": "她突然的造訪絕對會給父母一個驚喜。"
+        }
+      ]
+    },
+    {
+      "eng": "surprised",
+      "kk": "sərˈpraɪzd",
+      "tense": "adj.",
+      "ch": [
+        [
+          "感到驚訝的",
+          "感到出乎意料的"
+        ]
+      ],
+      "analysis": "此字為動詞 surprise 的分詞轉品形容詞，保留了原動詞的歷史字源。作為形容詞，專門用來修飾人「內心感到驚奇或意外的狀態」。",
+      "definition": "1. Feeling or showing surprise because something unexpected has happened.",
+      "example": [
+        {
+          "eng": "We were surprised to hear the wonderful news.",
+          "ch": "聽到這個好消息，我們都感到很驚訝。"
+        }
+      ]
+    },
+    {
+      "eng": "sweet",
+      "kk": "swit",
+      "tense": "adj.",
+      "ch": [
+        [
+          "甜的",
+          "甜美的"
+        ],
+        [
+          "溫柔的",
+          "可愛的"
+        ]
+      ],
+      "analysis": "此字為現代不透明繼承詞，源自古英語 swēte（原始日耳曼語 *swōtijaz）。形容詞核心義指味覺上的「甜的」，亦可引申形容聲音、笑容或性格「甜美、溫柔、討人喜歡」。",
+      "definition": "1. Having a taste like sugar or honey; 2. Pleasing, kind, or charming in disposition or appearance.",
+      "example": [
+        {
+          "eng": "Ripe strawberries taste very sweet and juicy.",
+          "ch": "成熟的草莓吃起來非常香甜多汁。"
+        },
+        {
+          "eng": "Thank you for your sweet and thoughtful help.",
+          "ch": "謝謝你貼心又溫柔的幫助。"
+        }
+      ]
+    },
+    {
+      "eng": "table",
+      "kk": "ˈteɪbəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "桌子",
+          "餐桌"
+        ],
+        [
+          "表格",
+          "目錄"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自拉丁語 tabula（木板、平坦表面），經由古法語 table 傳入英語。名詞核心義由「平坦的木板」演變出「桌子」以及印刷或文件中的「表格、圖表」。",
+      "definition": "1. A piece of furniture with a flat top supported by legs; 2. A set of facts or figures arranged in rows and columns.",
+      "example": [
+        {
+          "eng": "We sat around the wooden table to have dinner.",
+          "ch": "我們圍坐在木桌旁吃晚餐。"
+        },
+        {
+          "eng": "Please look at the price table on page ten.",
+          "ch": "請看第十頁的價格表。"
+        }
+      ]
+    },
+    {
+      "eng": "tail",
+      "kk": "teɪl",
+      "tense": "n.",
+      "ch": [
+        [
+          "尾巴"
+        ]
+      ],
+      "analysis": "此字為現代不透明繼承詞，源自古英語 tægl（原始日耳曼語 *taglaz「毛髮、尾巴」）。名詞核心義指動物身體後端延伸的尾部 appendage。類似的日耳曼語源見於德語 Zagel（古語）。",
+      "definition": "1. The hindmost part of an animal's body, usually extending beyond its torso.",
+      "example": [
+        {
+          "eng": "The happy dog wagged its tail when its owner returned.",
+          "ch": "主人回來時，那隻快樂的狗搖了搖尾巴。"
+        }
+      ]
+    },
+    {
+      "eng": "take",
+      "kk": "teɪk",
+      "tense": "vt.",
+      "ch": [
+        [
+          "拿取",
+          "帶走"
+        ],
+        [
+          "花費（時間）",
+          "搭乘（交通工具）"
+        ],
+        [
+          "接受",
+          "服用（藥物）"
+        ]
+      ],
+      "analysis": "此字為歷史借詞（源自古諾斯語 taka「抓住、接受」，與古英語 tēon 部分融合）。作為高頻及物動詞，其核心語義為「用手抓住、拿取」，並透過隱喻與搭配衍生出「帶走、花費時間、搭乘交通工具、接受建議或服用藥物」等多重核心語義。",
+      "definition": "1. To reach out and get hold of something; to carry something with you; 2. To require a certain amount of time, or to use a vehicle for travel; 3. To accept something offered or take medicine.",
+      "example": [
+        {
+          "eng": "Please take your umbrella before you go out.",
+          "ch": "你出去之前請帶上傘。"
+        },
+        {
+          "eng": "It will take twenty minutes to walk to the station.",
+          "ch": "走到車站需要花費二十分鐘。"
+        },
+        {
+          "eng": "Take this medicine three times a day after meals.",
+          "ch": "這種藥一天飯後服用三次。"
+        }
+      ]
+    },
+    {
+      "eng": "talk",
+      "kk": "tɔk",
+      "tense": "vi.",
+      "ch": [
+        [
+          "談話",
+          "交談"
+        ],
+        [
+          "演講",
+          "討論"
+        ]
+      ],
+      "analysis": "此字為現代不透明構詞與繼承演變，源自中古英語 talken（與 tale「故事」同源）。作為不及物動詞，核心義為「彼此交流言語、交談」，句型上通常不接直接受詞。",
+      "definition": "1. To speak in order to give information or express ideas; converse; 2. To give a lecture or discussion.",
+      "example": [
+        {
+          "eng": "The two friends sat in the café and talked for hours.",
+          "ch": "那兩個朋友坐在咖啡館裡聊了幾個小時。"
+        },
+        {
+          "eng": "The professor will talk about ancient history tomorrow.",
+          "ch": "教授明天將會談論古代歷史。"
+        }
+      ]
+    },
+    {
+      "eng": "tall",
+      "kk": "tɔl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "高的",
+          "身材高挑的"
+        ]
+      ],
+      "analysis": "此字為歷史演變詞，源自古英語 getæl（意為迅速的、靈敏的），在中古英語時期語義轉變為「高大的、修長的」。形容詞專門用來形容人或物（如建築物、樹木）在垂直方向上高度顯著。",
+      "definition": "1. Of great or more than average height.",
+      "example": [
+        {
+          "eng": "Basketball players are usually very tall.",
+          "ch": "籃球運動員通常身材非常高大。"
+        }
+      ]
+    },
+    {
+      "eng": "tape",
+      "kk": "teɪp",
+      "tense": "n.",
+      "ch": [
+        [
+          "膠帶",
+          "帶子"
+        ],
+        [
+          "錄音帶",
+          "錄影帶"
+        ]
+      ],
+      "analysis": "此字為現代不透明繼承詞，源自古英語 tæppe（意為狹窄的布條、帶子）。名詞核心義由「狹窄的紡織帶」演變出「黏性膠帶」，並在20世紀因科技發展引申出「錄音帶或錄影帶」。",
+      "definition": "1. A narrow strip of material, typically adhesive, used for binding or sticking things; 2. A long, narrow strip of magnetic film used for recording sound or video.",
+      "example": [
+        {
+          "eng": "Seal the cardboard box securely with adhesive tape.",
+          "ch": "用黏性膠帶把紙箱封好。"
+        },
+        {
+          "eng": "They listened to old music recorded on magnetic tape.",
+          "ch": "他們聽著錄在磁帶上的老音樂。"
+        }
+      ]
+    },
+    {
+      "eng": "taste",
+      "kk": "teɪst",
+      "tense": "vt.",
+      "ch": [
+        [
+          "嚐",
+          "品嚐"
+        ],
+        [
+          "體驗",
+          "略嘗"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自古法語 taster。作為及物動詞，核心義為「用舌頭試吃或品嚐食物的味道」，亦可引申指親身體驗某種滋味。",
+      "definition": "1. To test or experience the flavor of something by eating or drinking a small amount; 2. To experience something personally.",
+      "example": [
+        {
+          "eng": "Taste the sauce to see if it needs more salt.",
+          "ch": "嚐一下醬汁，看看是不是需要更多鹽。"
+        },
+        {
+          "eng": "She finally got to taste success after years of hard work.",
+          "ch": "經過多年努力，她終於品嚐到成功的滋味。"
+        }
+      ]
+    },
+    {
+      "eng": "taste",
+      "kk": "teɪst",
+      "tense": "vi.",
+      "ch": [
+        [
+          "有……的味道",
+          "品嚐起來"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自拉丁語 taxare（估價、評估），經由古法語 taster 傳入英語。作為不及物動詞（常接形容詞作主詞補語），核心義為「食物在口中產生的味覺特徵」。",
+      "definition": "1. To have a particular flavor when eaten or drunk.",
+      "example": [
+        {
+          "eng": "This homemade soup tastes delicious and comforting.",
+          "ch": "這碗自製的湯喝起來美味又暖心。"
+        }
+      ]
+    },
+    {
+      "eng": "taxicab",
+      "kk": "ˈtæksiˌkæb",
+      "tense": "n.",
+      "ch": [
+        [
+          "計程車",
+          "出租汽車"
+        ]
+      ],
+      "analysis": "此字為現代透明複合詞，由 taxi（計程車的簡稱，源自 taximeter「計程儀」）與 cab（出租馬車、車輛的簡稱）組合而成，指付費載客的汽車。",
+      "definition": "1. A motor vehicle licensed to transport passengers for a fee.",
+      "example": [
+        {
+          "eng": "We hailed a taxicab outside the hotel to catch our flight.",
+          "ch": "我們在飯店外攔了一輛計程車去趕班機。"
+        }
+      ]
+    },
+    {
+      "eng": "taxi",
+      "kk": "ˈtæksi",
+      "tense": "n.",
+      "ch": [
+        [
+          "計程車",
+          "出租汽車"
+        ]
+      ],
+      "analysis": "此字為縮寫借詞，源自 taximeter（源自德語 Taxameter，結合法語 taxe「稅、費用」與希臘語 metron「測量」）。名詞指計程車。",
+      "definition": "1. A car with a driver that you pay to take you somewhere.",
+      "example": [
+        {
+          "eng": "It started to rain, so we decided to take a taxi home.",
+          "ch": "開始下雨了，所以我們決定搭計程車回家。"
+        }
+      ]
+    },
+    {
+      "eng": "cab",
+      "kk": "kæb",
+      "tense": "n.",
+      "ch": [
+        [
+          "計程車",
+          "駕駛室"
+        ]
+      ],
+      "analysis": "此字為截短詞（Clipping），源自 cabriolet（輕型雙輪馬車，源自拉丁語 capra「山羊」的跳躍義）。名詞指計程車，或指卡車、火車機車頭的駕駛室。",
+      "definition": "1. A taxi; 2. The driver's compartment in a truck, train, or heavy machinery.",
+      "example": [
+        {
+          "eng": "She waved her hand to call a cab on the busy street.",
+          "ch": "她在繁忙的街道上揮手叫了一輛計程車。"
+        },
+        {
+          "eng": "The truck driver climbed into the cab to start the engine.",
+          "ch": "卡車司機爬進駕駛室發動引擎。"
+        }
+      ]
+    },
+    {
+      "eng": "tea",
+      "kk": "ti",
+      "tense": "n.",
+      "ch": [
+        [
+          "茶",
+          "茶葉"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自閩南語「茶」（tê），經由17世紀荷蘭東印度公司貿易引入歐洲與英語世界。名詞專指茶樹葉製成的飲品或茶葉本身。",
+      "definition": "1. A hot drink made by infusing dried crushed leaves of the tea plant in boiling water.",
+      "example": [
+        {
+          "eng": "Would you like a cup of hot green tea?",
+          "ch": "你想來杯熱綠茶嗎？"
+        }
+      ]
+    },
+    {
+      "eng": "teach",
+      "kk": "titʃ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "教",
+          "教授",
+          "教導"
+        ]
+      ],
+      "analysis": "此字為現代不透明繼承詞，源自古英語 tǣcan（意為展示、指導、教授，與 token 同源）。作為及物動詞，核心義為「將知識、技能或道理傳授給學生或他人」。",
+      "definition": "1. To impart knowledge, skill, or understanding to someone.",
+      "example": [
+        {
+          "eng": "My mother taught me how to cook traditional dishes.",
+          "ch": "我媽媽教我如何烹調傳統菜餚。"
+        }
+      ]
+    },
+    {
+      "eng": "teacher",
+      "kk": "ˈtitʃər",
+      "tense": "n.",
+      "ch": [
+        [
+          "老師",
+          "教師"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由動詞 teach 加上表示人的名詞字尾 -er 組成。名詞專指以教書為職業或傳授知識的人。",
+      "definition": "1. A person whose job is to teach, especially in a school.",
+      "example": [
+        {
+          "eng": "The math teacher explained the difficult problem patiently.",
+          "ch": "數學老師耐心地解釋那個難題。"
+        }
+      ]
+    },
+    {
+      "eng": "team",
+      "kk": "tim",
+      "tense": "n.",
+      "ch": [
+        [
+          "隊",
+          "團隊",
+          "合作小組"
+        ]
+      ],
+      "analysis": "此字為現代不透明繼承詞，源自古英語 tēam（意為家族、成群結隊的動物隊伍，源自原始日耳曼語 *taumaz「牽引、一隊」）。名詞核心義由「一同拉車的動物群」演變為現代的「運動隊伍或工作團隊」。",
+      "definition": "1. A group of players forming one side in a competitive game or sport; 2. A group of people working together on a common task.",
+      "example": [
+        {
+          "eng": "Our school basketball team won the championship trophy.",
+          "ch": "我們學校的籃球隊贏得了冠軍獎盃。"
+        },
+        {
+          "eng": "The marketing team is holding a meeting to discuss the new plan.",
+          "ch": "行銷團隊正在開會討論新計畫。"
+        }
+      ]
+    },
+    {
+      "eng": "teenager",
+      "kk": "ˈtinˌeɪdʒər",
+      "tense": "n.",
+      "ch": [
+        [
+          "青少年"
+        ]
+      ],
+      "analysis": "此字為現代透明複合詞，由複合數字字尾 -teen（thirteen 至 nineteen）與名詞 age（年齡）結合，再加上表人的字尾 -er 構成。20世紀中葉開始廣泛流行，指年齡介於13至19歲之間的年輕人。",
+      "definition": "1. A person aged between 13 and 19 years old.",
+      "example": [
+        {
+          "eng": "Many teenagers enjoy listening to popular music and sports.",
+          "ch": "許多青少年喜歡聽流行音樂與從事運動。"
+        }
+      ]
+    },
+    {
+      "eng": "telephone",
+      "kk": "ˈtɛləˌfoʊn",
+      "tense": "n.",
+      "ch": [
+        [
+          "電話",
+          "電話機"
+        ]
+      ],
+      "analysis": "此字為近代學術複合詞，由希臘語字首 tēle-（遠距離）與 phōnē（聲音）結合創造而成。名詞專指傳輸聲音的通訊設備。",
+      "definition": "1. A system that converts acoustic sound into electrical signals for transmission, used for talking to someone far away.",
+      "example": [
+        {
+          "eng": "He answered the telephone when it rang in the office.",
+          "ch": "辦公室裡的電話響時，他去接了電話。"
+        }
+      ]
+    }
+  ]
+}

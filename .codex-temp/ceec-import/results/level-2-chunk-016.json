@@ -1,0 +1,1257 @@
+{
+  "level": 2,
+  "chunkIndex": 16,
+  "inputs": [
+    "relationship",
+    "religion",
+    "remove",
+    "rent",
+    "repair",
+    "reply",
+    "require",
+    "requirement",
+    "respect",
+    "respond",
+    "responsible",
+    "restroom",
+    "result",
+    "return",
+    "review",
+    "riches",
+    "rocky",
+    "role",
+    "roof",
+    "rooster",
+    "royal",
+    "rub",
+    "rubber",
+    "rude",
+    "runner",
+    "safety",
+    "sail",
+    "sailor",
+    "salesperson",
+    "salesman",
+    "saleswoman",
+    "salty",
+    "sample",
+    "sand",
+    "sandwich",
+    "satisfy",
+    "saw",
+    "scare",
+    "scared",
+    "scene",
+    "schedule",
+    "scooter",
+    "score",
+    "screen",
+    "seafood",
+    "search",
+    "secondary",
+    "secret",
+    "section",
+    "seek"
+  ],
+  "rows": [
+    {
+      "eng": "relationship",
+      "kk": "/rɪˈleɪʃənʃɪp/",
+      "tense": "n.",
+      "ch": [
+        [
+          "關係",
+          "關聯"
+        ],
+        [
+          "戀愛關係",
+          "交往"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由名詞 relation 加上名詞字尾 -ship（表示狀態、身份或關係）組合而成。relation 借自古法語，源於拉丁語 relatio（回報、敘述），由 referre（帶回、提及）的過去分詞詞幹 relat- 衍生而來。在現代英語中，主要指人與人之間的親疏、情感聯繫，或事物之間的邏輯對應關係。",
+      "definition": "1. the way in which two or more people or things are connected, or the state of being connected; 2. a romantic or sexual involvement between two people.",
+      "example": [
+        {
+          "eng": "A good teacher-student relationship is built on mutual trust.",
+          "ch": "良好的師生關係建立在相互信任之上。"
+        },
+        {
+          "eng": "They have been in a serious relationship for two years.",
+          "ch": "他們已經穩定交往兩年了。"
+        }
+      ]
+    },
+    {
+      "eng": "religion",
+      "kk": "/rɪˈlɪdʒən/",
+      "tense": "n.",
+      "ch": [
+        [
+          "宗教",
+          "信仰"
+        ]
+      ],
+      "analysis": "此字經由古法語與中古英語直接借自拉丁語 religio（敬虔、宗教義務、良心），其最終詞源學說紛紜，古羅馬辭源學家西塞羅認為源自 relegere（重新讀取、謹慎思考），而基督教作家拉克坦提烏斯則認為源自 religare（綁回、繫緊，即人與神重新建立聯繫）。在現代英語中，泛指對超自然力量的信仰與崇拜體系。",
+      "definition": "1. the belief in and worship of a superhuman controlling power, especially a personal God or gods.",
+      "example": [
+        {
+          "eng": "Freedom of religion is a fundamental human right.",
+          "ch": "宗教自由是一項基本人權。"
+        }
+      ]
+    },
+    {
+      "eng": "remove",
+      "kk": "/rɪˈmuːv/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "移除",
+          "拿開"
+        ],
+        [
+          "開除",
+          "免職"
+        ]
+      ],
+      "analysis": "此動詞源自拉丁語 removere（re- 表示向後或反向 + movere 移動），經由古法語 remover 進入英語。基本語義為「將某物從原位移開」，引申出物理上的拔除、衣物的脫下，以及政治或職位上的解除職務。",
+      "definition": "1. to take something away from a position where it is; 2. to dismiss someone from a job or office.",
+      "example": [
+        {
+          "eng": "Please remove your shoes before entering the temple.",
+          "ch": "進入寺廟前請脫鞋。"
+        },
+        {
+          "eng": "The corrupt official was removed from office.",
+          "ch": "該名貪腐官員遭到免職。"
+        }
+      ]
+    },
+    {
+      "eng": "rent",
+      "kk": "/rɛnt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "租金",
+          "房租"
+        ]
+      ],
+      "analysis": "此名詞源自古法語 rente，最終源自拉丁語 reddita（被給予的事物、收入），為動詞 reddere（歸還、給予）的過去分詞陰性形。在中古英語中演變為定期支付的租賃費用。",
+      "definition": "1. a regular payment made by a tenant to a landlord for the use of land or property.",
+      "example": [
+        {
+          "eng": "Landlords usually collect rent at the beginning of each month.",
+          "ch": "房東通常在每個月初收取房租。"
+        }
+      ]
+    },
+    {
+      "eng": "rent",
+      "kk": "/rɛnt/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "租用",
+          "租進"
+        ],
+        [
+          "出租",
+          "租出"
+        ]
+      ],
+      "analysis": "此動詞與名詞 rent 同源，源自古法語 renter。在現代英語中兼具「付費使用他人財產（租入）」與「允許他人付費使用自己財產（租出）」雙向語義，需依上下文判斷。",
+      "definition": "1. to pay someone for the use of something, such as a property or car; 2. to allow someone to use property or land in exchange for regular payments.",
+      "example": [
+        {
+          "eng": "They decided to rent an apartment near the city center.",
+          "ch": "他們決定在市中心附近租一間公寓。"
+        },
+        {
+          "eng": "She rents out her spare bedroom to college students.",
+          "ch": "她把多餘的臥室租給大學生。"
+        }
+      ]
+    },
+    {
+      "eng": "repair",
+      "kk": "/rɪˈpɛr/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "修理",
+          "修補"
+        ],
+        [
+          "彌補",
+          "糾正"
+        ]
+      ],
+      "analysis": "此動詞源自古法語 reparer，源於拉丁語 reparare（re- 再次 + parare 準備、使停妥），原意為「重新使之就緒」。在現代英語中用於修復損壞物品或彌補受損的關係與局面。",
+      "definition": "1. to fix something that is broken, damaged, or torn; 2. to restore something damaged, such as a relationship or a bad situation, to a good condition.",
+      "example": [
+        {
+          "eng": "He took his broken watch to a specialist to repair it.",
+          "ch": "他把壞掉的手錶拿給專家修理。"
+        },
+        {
+          "eng": "They are trying to repair their damaged relationship.",
+          "ch": "他們正試圖修補破裂的關係。"
+        }
+      ]
+    },
+    {
+      "eng": "reply",
+      "kk": "/rɪˈplaɪ/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "回答",
+          "回覆"
+        ]
+      ],
+      "analysis": "此動詞源自古法語 replier（重疊、折回），源於拉丁語 replicare（re- 回 + plicare 折疊），本義為「將話折回或反駁」，在中古英語中語義轉化為「回應、回答」。",
+      "definition": "1. to say, write, or do something as an answer to someone or something.",
+      "example": [
+        {
+          "eng": "Please reply to this email by tomorrow afternoon.",
+          "ch": "請於明天下午前回覆這封電子郵件。"
+        }
+      ]
+    },
+    {
+      "eng": "require",
+      "kk": "/rɪˈkwαɪər/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "需要",
+          "要求"
+        ]
+      ],
+      "analysis": "此動詞源自古法語 requirer，源於拉丁語 requirere（re- 強調 + quaerere 尋求、尋找），原意為「尋找所需之物」。在現代英語中表示客觀上的需要或規則上的強制要求。",
+      "definition": "1. to need something for a particular purpose; 2. to make it necessary for someone to do something.",
+      "example": [
+        {
+          "eng": "Learning a new language requires patience and consistent practice.",
+          "ch": "學習新語言需要耐心與持續的練習。"
+        },
+        {
+          "eng": "The rules require all employees to wear safety helmets.",
+          "ch": "規定要求所有員工佩戴安全帽。"
+        }
+      ]
+    },
+    {
+      "eng": "requirement",
+      "kk": "/rɪˈkwαɪərmənt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "必要條件",
+          "要求"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由動詞 require 加上名詞字尾 -ment（表示行為或結果）組合而成。指某事得以完成或達成所不可或缺的條件或規定。",
+      "definition": "1. a thing that is needed or wanted; a necessary condition.",
+      "example": [
+        {
+          "eng": "Fluency in English is a basic requirement for the job.",
+          "ch": "流利的英語能力是該職位的基本要求。"
+        }
+      ]
+    },
+    {
+      "eng": "respect",
+      "kk": "/rɪˈspɛkt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "尊敬",
+          "敬意"
+        ],
+        [
+          "方面",
+          "細節"
+        ]
+      ],
+      "analysis": "此名詞源自拉丁語 respectus（回顧、關注），由 respicere（re- 回頭 + specere 看）衍生而來，本義為「回頭看一眼、給予關注」。在語義上延伸出「因重視而產生的敬意」，以及「關注事物的某個面向」。",
+      "definition": "1. a feeling of deep admiration for someone elicited by their abilities, qualities, or achievements; 2. a particular detail, point, or aspect.",
+      "example": [
+        {
+          "eng": "Students should show respect to their teachers.",
+          "ch": "學生應該對老師表示尊敬。"
+        },
+        {
+          "eng": "The two proposals are similar in every respect.",
+          "ch": "這兩個提案在各方面都很相似。"
+        }
+      ]
+    },
+    {
+      "eng": "respect",
+      "kk": "/rɪˈspɛkt/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "尊敬",
+          "尊重"
+        ]
+      ],
+      "analysis": "此動詞與名詞 respect 同源，源自拉丁語 respicere。在現代英語中表示對他人的品格、權利或意見給予高度評價與禮遇。",
+      "definition": "1. to admire someone or their qualities deeply, or to treat someone with consideration.",
+      "example": [
+        {
+          "eng": "A good leader respects the opinions of all team members.",
+          "ch": "好的領導者會尊重所有團隊成員的意見。"
+        }
+      ]
+    },
+    {
+      "eng": "respond",
+      "kk": "/rɪˈspɑnd/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "回答",
+          "反應"
+        ]
+      ],
+      "analysis": "此動詞源自拉丁語 respondere（re- 回應 + spondere 嚴肅許諾、保證），本義為「在法庭上作出相對應的陳述或答辯」。在現代英語中泛指對言語、刺激或治療作出反應。",
+      "definition": "1. to say something in reply; 2. to do something as a reaction to something that has been said or done.",
+      "example": [
+        {
+          "eng": "He refused to respond to the allegations made by the press.",
+          "ch": "他拒絕回應媒體的指控。"
+        },
+        {
+          "eng": "The patient is responding well to the new medication.",
+          "ch": "該病患對新藥物的反應良好。"
+        }
+      ]
+    },
+    {
+      "eng": "responsible",
+      "kk": "/rɪˈspɑnsəbəl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "負責任的",
+          "承擔責任的"
+        ]
+      ],
+      "analysis": "此形容詞源自拉丁語 responsibilis，由 respondere（回應、答辯）衍生而來，加上形容詞字尾 -ible。本義為「有能力或有義務對自己的行為作出交代與回應的」。",
+      "definition": "1. having an obligation to do something, or having control over or care for someone, as part of one's job or role.",
+      "example": [
+        {
+          "eng": "Parents are responsible for the upbringing of their children.",
+          "ch": "父母有扶養教育子女的責任。"
+        }
+      ]
+    },
+    {
+      "eng": "restroom",
+      "kk": "/ˈrɛstˌruːm/",
+      "tense": "n.",
+      "ch": [
+        [
+          "洗手間",
+          "廁所"
+        ]
+      ],
+      "analysis": "此字為美式英語中常見的現代複合詞，由 rest（休息）與 room（房間）組成。最初指公共場所中供人休息與梳洗的房間，後來轉化為廁所的婉稱。",
+      "definition": "1. a room with a toilet in a public building such as a restaurant, store, or theater.",
+      "example": [
+        {
+          "eng": "Excuse me, could you tell me where the restroom is?",
+          "ch": "請打擾一下，可以告訴我洗手間在哪裡嗎？"
+        }
+      ]
+    },
+    {
+      "eng": "result",
+      "kk": "/rɪˈzʌlt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "結果",
+          "成果"
+        ]
+      ],
+      "analysis": "此名詞源自拉丁語 resultare（跳回、反彈），由 resilire（re- 回 + salire 跳躍）衍生而來，其過去分詞結果 resultus 在中古拉丁語中轉化為名詞，指事情發展到終點時產生的「反彈效應或結局」。",
+      "definition": "1. a consequence, effect, or outcome of an action, operation, or course of events.",
+      "example": [
+        {
+          "eng": "Hard work is usually the result of success.",
+          "ch": "努力通常是成功的結果。"
+        }
+      ]
+    },
+    {
+      "eng": "result",
+      "kk": "/rɪˈzʌlt/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "導致",
+          "產生結果"
+        ]
+      ],
+      "analysis": "此動詞與名詞 result 同源，源自拉丁語 resultare。在現代英語中常與介系詞 in 搭配，表示某個原因引發了特定的結果。",
+      "definition": "1. to occur or follow as the consequence of something.",
+      "example": [
+        {
+          "eng": "Careless driving often results in serious traffic accidents.",
+          "ch": "粗心駕駛常導致嚴重的交通事故。"
+        }
+      ]
+    },
+    {
+      "eng": "return",
+      "kk": "/rɪˈtɜrn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "返回",
+          "歸還"
+        ],
+        [
+          "收益",
+          "回報"
+        ]
+      ],
+      "analysis": "此名詞與動詞 return 同源，保留了動詞的返回義，並在商業與日常語境中衍生出「歸還物品」及「投資獲得的利潤或回報」之意。",
+      "definition": "1. the act of coming or going back to a place or person; 2. a profit from an investment.",
+      "example": [
+        {
+          "eng": "His return from abroad was celebrated by his family.",
+          "ch": "他自國外歸來受到了家人的慶祝。"
+        },
+        {
+          "eng": "This business venture promises a high return on investment.",
+          "ch": "這項商業投資承諾有高額的回報。"
+        }
+      ]
+    },
+    {
+      "eng": "return",
+      "kk": "/rɪˈtɜrn/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "返回",
+          "回到"
+        ]
+      ],
+      "analysis": "此動詞源自古法語 retorner（re- 回 + torner 轉動），源於拉丁語 re-（回）加 tornare（轉動、車旋）。本義為「轉身返回」，在現代英語中指人或物回到原出發地或先前狀態。",
+      "definition": "1. to come or go back to a place or person.",
+      "example": [
+        {
+          "eng": "She plans to return to her hometown next week.",
+          "ch": "她計劃下週返回家鄉。"
+        }
+      ]
+    },
+    {
+      "eng": "review",
+      "kk": "/rɪˈvjuː/",
+      "tense": "n.",
+      "ch": [
+        [
+          "複習",
+          "評論"
+        ]
+      ],
+      "analysis": "此名詞與動詞 review 同源，指重新檢視的動作、發布的影評書評，或是軍事上的校閱。",
+      "definition": "1. a formal assessment or examination of something with the possibility or intention of instituting change; 2. a critical appraisal of a book, play, film, etc.",
+      "example": [
+        {
+          "eng": "The movie received glowing reviews from major critics.",
+          "ch": "這部電影獲得各大影評人的一致好評。"
+        }
+      ]
+    },
+    {
+      "eng": "review",
+      "kk": "/rɪˈvjuː/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "複習",
+          "溫習"
+        ],
+        [
+          "審查",
+          "評論"
+        ]
+      ],
+      "analysis": "此動詞源自古法語 reviewe（re- 再次 + veoir 看），源於拉丁語 re- 加 videre（看）。本義為「再次檢視」，引申出學生溫習功課、官方對政策或案情的審查，以及文藝評論家對作品的評鑑。",
+      "definition": "1. to study a subject again, especially in preparation for an exam; 2. to examine or assess something formally with the possibility or intention of instituting change.",
+      "example": [
+        {
+          "eng": "Students need to review their notes before the final exam.",
+          "ch": "學生需要在期末考前複習筆記。"
+        },
+        {
+          "eng": "The committee will review the proposal next Monday.",
+          "ch": "委員會將於下週一審查該提案。"
+        }
+      ]
+    },
+    {
+      "eng": "riches",
+      "kk": "/ˈrɪtʃɪz/",
+      "tense": "n.",
+      "ch": [
+        [
+          "財富",
+          "錢財"
+        ]
+      ],
+      "analysis": "此名詞源自古法語 richesse（豐富、財富），由日耳曼語源的形容詞 *rīki（強大的、富有的）演變而來。在英語中通常以複數形式出現，指大量的金錢、財產或珍貴資源。",
+      "definition": "1. a large amount of money, property, or valuable possessions.",
+      "example": [
+        {
+          "eng": "He accumulated great riches through successful business ventures.",
+          "ch": "他透過成功的商業投資累積了巨大的財富。"
+        }
+      ]
+    },
+    {
+      "eng": "rocky",
+      "kk": "/ˈrɑki/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "多岩石的",
+          "佈滿岩石的"
+        ],
+        [
+          "艱難不穩的"
+        ]
+      ],
+      "analysis": "此形容詞為現代透明構詞，由名詞 rock（岩石）加上形容詞字尾 -y（充滿……的）組合而成。除了解釋為地形佈滿岩石外，也常引申比喻關係或情勢「充滿波折、不穩定」。",
+      "definition": "1. full of or covered with rocks; 2. tending to be unsteady, unstable, or full of difficulties.",
+      "example": [
+        {
+          "eng": "They hiked along a rocky path up to the mountain top.",
+          "ch": "他們沿著佈滿岩石的小徑健行到山頂。"
+        },
+        {
+          "eng": "Their marriage went through a rocky period last year.",
+          "ch": "他們的婚姻在去年經歷了一段波折的時期。"
+        }
+      ]
+    },
+    {
+      "eng": "role",
+      "kk": "/roʊl/",
+      "tense": "n.",
+      "ch": [
+        [
+          "角色",
+          "職責"
+        ]
+      ],
+      "analysis": "此名詞源自法語 rôle，最初源自拉丁語 rotulus（小圓卷軸），因中世紀戲劇演員將台詞寫在圓形紙卷上而得名。在現代英語中，引申指戲劇中的角色、社會職務或個人在團隊中所扮演的功能。",
+      "definition": "1. the function assumed or part played by a person or thing in a particular situation.",
+      "example": [
+        {
+          "eng": "Parents play a crucial role in shaping a child's character.",
+          "ch": "父母在塑造孩子性格方面扮演著至關重要的角色。"
+        }
+      ]
+    },
+    {
+      "eng": "roof",
+      "kk": "/ruːf/",
+      "tense": "n.",
+      "ch": [
+        [
+          "屋頂",
+          "頂部"
+        ]
+      ],
+      "analysis": "此名詞源自古英語 hrōf，屬於日耳曼語源（源自原始日耳曼語 *hrōfą），與荷蘭語 roof 同源。在現代英語中指房屋或車輛的最上方覆蓋結構，亦可引申指口蓋等部位。",
+      "definition": "1. the structure forming the upper covering of a building or vehicle.",
+      "example": [
+        {
+          "eng": "Heavy snow accumulated on the roof during the winter storm.",
+          "ch": "冬季暴風雪期間，厚厚的積雪堆積在屋頂上。"
+        }
+      ]
+    },
+    {
+      "eng": "rooster",
+      "kk": "/ˈruːstər/",
+      "tense": "n.",
+      "ch": [
+        [
+          "公雞"
+        ]
+      ],
+      "analysis": "此名詞由動詞 roost（棲息、鳥宿）加上名詞字尾 -er（表人或物）組合而成，字面意思是「在夜間棲息處休息的鳥」。在北美英語中尤指成年公雞（cock）。",
+      "definition": "1. an adult male chicken.",
+      "example": [
+        {
+          "eng": "The farmer was awakened by the loud crowing of the rooster.",
+          "ch": "農夫被公雞宏亮的啼叫聲吵醒了。"
+        }
+      ]
+    },
+    {
+      "eng": "royal",
+      "kk": "/ˈrɔɪəl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "皇室的",
+          "王室的"
+        ]
+      ],
+      "analysis": "此形容詞源自古法語 roial，最終源自拉丁語 regalis（國王的），由 rex（國王）的詞幹 reg- 衍生而來。在現代英語中指屬於國王、女王或皇室成員所有或相關的事物。",
+      "definition": "1. of, produced by, or typical of a king or queen or an royal family.",
+      "example": [
+        {
+          "eng": "The royal family attended the national anniversary celebration.",
+          "ch": "皇室成員出席了國慶週年慶典。"
+        }
+      ]
+    },
+    {
+      "eng": "rub",
+      "kk": "/rʌb/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "摩擦",
+          "擦拭"
+        ]
+      ],
+      "analysis": "此動詞源自中古英語 rubben，可能源自低地德語或荷蘭語 rubben（擦拭）。在現代英語中指施加壓力並在表面來回推動、摩擦的動作。",
+      "definition": "1. to move your hand or an object repeatedly back and forth over the surface of something.",
+      "example": [
+        {
+          "eng": "She rubbed her tired eyes with the back of her hand.",
+          "ch": "她用手背揉了揉疲憊的雙眼。"
+        }
+      ]
+    },
+    {
+      "eng": "rubber",
+      "kk": "/ˈrʌbər/",
+      "tense": "n.",
+      "ch": [
+        [
+          "橡膠"
+        ],
+        [
+          "橡皮擦"
+        ]
+      ],
+      "analysis": "此名詞為現代透明構詞，由動詞 rub（摩擦）加上名詞字尾 -er 構成。最初指「用來擦拭或摩擦的工具」（英式英語中的橡皮擦），後來因為橡膠材質具有極佳的擦除效果，轉而用來指稱從橡膠樹汁液提煉或人工合成的彈性高分子材料（橡膠）。",
+      "definition": "1. a tough elastic polymeric substance made from the latex of a tropical plant or synthesized artificially; 2. a piece of rubber used for erasing pencil marks.",
+      "example": [
+        {
+          "eng": "Car tires are primarily made of vulcanized rubber.",
+          "ch": "汽車輪帶主要由硫化橡膠製成。"
+        },
+        {
+          "eng": "Could you lend me your rubber to correct this mistake?",
+          "ch": "你可以借我你的橡皮擦來修正這個錯誤嗎？"
+        }
+      ]
+    },
+    {
+      "eng": "rude",
+      "kk": "/ruːd/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "粗魯的",
+          "無禮的"
+        ]
+      ],
+      "analysis": "此形容詞源自拉丁語 rudis（粗糙的、未開墾的、未受教育的）。在中古英語中最初指「未經雕琢的粗糙狀態」，後來在語義上逐漸演變為指人的言行舉止粗俗、缺乏禮貌。",
+      "definition": "1. offensively polite or bad-mannered; lacking manners.",
+      "example": [
+        {
+          "eng": "It is rude to interrupt someone while they are speaking.",
+          "ch": "打斷別人說話是無禮的。"
+        }
+      ]
+    },
+    {
+      "eng": "runner",
+      "kk": "/ˈrʌnər/",
+      "tense": "n.",
+      "ch": [
+        [
+          "賽跑選手",
+          "跑者"
+        ]
+      ],
+      "analysis": "此名詞為現代透明構詞，由動詞 run（跑步）加上代表執行者的字尾 -er 構成。指從事跑步運動或賽跑的人。",
+      "definition": "1. a person who runs, especially as a sport or hobby.",
+      "example": [
+        {
+          "eng": "Marathon runners require incredible physical and mental endurance.",
+          "ch": "馬拉松跑者需要驚人的體力與心理耐力。"
+        }
+      ]
+    },
+    {
+      "eng": "safety",
+      "kk": "/ˈseɪfti/",
+      "tense": "n.",
+      "ch": [
+        [
+          "安全",
+          "安全性"
+        ]
+      ],
+      "analysis": "此名詞由形容詞 safe（安全的）加上名詞抽象字尾 -ty 組合而成。指免受傷害、危險或損失的狀態。",
+      "definition": "1. the condition of being protected from or unlikely to cause danger, risk, or injury.",
+      "example": [
+        {
+          "eng": "The miners were finally brought to safety after the rescue operation.",
+          "ch": "在救援行動之後，礦工們終於被帶到了安全地帶。"
+        }
+      ]
+    },
+    {
+      "eng": "sail",
+      "kk": "/seɪl/",
+      "tense": "n.",
+      "ch": [
+        [
+          "帆",
+          "風帆"
+        ]
+      ],
+      "analysis": "此名詞源自古英語 segl，屬於日耳曼語源，與德語 Segel 同源。原指懸掛在船桅上利用風力推進的布幕。",
+      "definition": "1. a piece of material extended on a mast to catch the wind and propel a boat or ship.",
+      "example": [
+        {
+          "eng": "The strong wind filled the white sails of the yacht.",
+          "ch": "強風吹滿了遊艇的白帆。"
+        }
+      ]
+    },
+    {
+      "eng": "sail",
+      "kk": "/seɪl/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "航行",
+          "起航"
+        ]
+      ],
+      "analysis": "此動詞源自古英語 seglian，由名詞 segl 衍生而來。指船隻利用風帆或動力在水面上航行，或引申為搭乘船隻出海。",
+      "definition": "1. to travel on water in a ship or boat.",
+      "example": [
+        {
+          "eng": "The cruise ship will set sail for the Caribbean tomorrow.",
+          "ch": "這艘郵輪明天將啟航前往加勒比海。"
+        }
+      ]
+    },
+    {
+      "eng": "sailor",
+      "kk": "/ˈseɪlər/",
+      "tense": "n.",
+      "ch": [
+        [
+          "水手",
+          "海員"
+        ]
+      ],
+      "analysis": "此名詞由動詞 sail 加上代表人的字尾 -or 構成，亦受古法語 seilor 影響。指在船上工作或服役的水手。",
+      "definition": "1. a person who works as a member of the crew of a ship or boat.",
+      "example": [
+        {
+          "eng": "Experienced sailors know how to navigate through rough storms.",
+          "ch": "經驗豐富的水手知道如何在狂風暴雨中航行。"
+        }
+      ]
+    },
+    {
+      "eng": "salesperson",
+      "kk": "/ˈseɪlzˌpɜrsən/",
+      "tense": "n.",
+      "ch": [
+        [
+          "推銷員",
+          "售貨員"
+        ]
+      ],
+      "analysis": "此名詞為現代複合詞，由 sales（銷售的複數所有格或修飾用法）與 salesperson（人員）組成，為性別中立的詞彙，用以取代傳統的 salesman。",
+      "definition": "1. a salesman or saleswoman; a person whose job is to sell goods or services.",
+      "example": [
+        {
+          "eng": "The salesperson politely explained the features of the new smartphone.",
+          "ch": "店員客氣地解釋了這款新智慧型手機的功能。"
+        }
+      ]
+    },
+    {
+      "eng": "salesman",
+      "kk": "/ˈseɪlzmən/",
+      "tense": "n.",
+      "ch": [
+        [
+          "男推銷員",
+          "男售貨員"
+        ]
+      ],
+      "analysis": "此名詞為傳統複合詞，由 sales 與 man（男人）組成，指男性銷售人員。",
+      "definition": "1. a man whose job is to sell goods or services.",
+      "example": [
+        {
+          "eng": "He worked as an insurance salesman for over ten years.",
+          "ch": "他當了十多年的保險業務員。"
+        }
+      ]
+    },
+    {
+      "eng": "saleswoman",
+      "kk": "/ˈseɪlzˌwʊmən/",
+      "tense": "n.",
+      "ch": [
+        [
+          "女推銷員",
+          "女售貨員"
+        ]
+      ],
+      "analysis": "此名詞為傳統複合詞，由 sales 與 woman（女人）組成，指女性銷售人員。",
+      "definition": "1. a woman whose job is to sell goods or services.",
+      "example": [
+        {
+          "eng": "The saleswoman helped her find the right dress size.",
+          "ch": "女店員幫她找到了合適的洋裝尺寸。"
+        }
+      ]
+    },
+    {
+      "eng": "salty",
+      "kk": "/ˈsɔlti/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "鹹的",
+          "含鹽的"
+        ]
+      ],
+      "analysis": "此形容詞為現代透明構詞，由名詞 salt（鹽）加上形容詞字尾 -y 構成。指食物含有鹽分或味道偏鹹。",
+      "definition": "1. tasting of salt or containing a lot of salt.",
+      "example": [
+        {
+          "eng": "This soup is a bit too salty for my taste.",
+          "ch": "這道湯對我的口味來說有點太鹹了。"
+        }
+      ]
+    },
+    {
+      "eng": "sample",
+      "kk": "/ˈsæmpəl/",
+      "tense": "n.",
+      "ch": [
+        [
+          "樣本",
+          "樣品"
+        ]
+      ],
+      "analysis": "此名詞是 example 的古老變體及縮寫形式（源自拉丁語 exemplum）。在歷史演變中獨立出來，專門指從整體中抽取出來用以代表或檢驗的「樣品」。",
+      "definition": "1. a small part or quantity intended to show what the whole is like.",
+      "example": [
+        {
+          "eng": "The scientist collected water samples from the polluted river.",
+          "ch": "科學家從受污染的河流中採集了水樣本。"
+        }
+      ]
+    },
+    {
+      "eng": "sand",
+      "kk": "/sænd/",
+      "tense": "n.",
+      "ch": [
+        [
+          "沙",
+          "沙子"
+        ]
+      ],
+      "analysis": "此名詞源自古英語 sand，屬於日耳曼語源（源自原始日耳曼語 *sandam），與德語 Sand、荷蘭語 zand 同源。指岩石風化後形成的細小顆粒。",
+      "definition": "1. a loose granular substance, typically pale yellowish brown, resulting from the erosion of siliceous and other rocks.",
+      "example": [
+        {
+          "eng": "The children spent the afternoon building castles in the sand.",
+          "ch": "孩子們在沙子裡建造城堡，度過了一個下午。"
+        }
+      ]
+    },
+    {
+      "eng": "sandwich",
+      "kk": "/ˈsænwɪtʃ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "三明治"
+        ]
+      ],
+      "analysis": "此名詞源自18世紀的歷史人物——英國第四代三明治伯爵（John Montagu, 4th Earl of Sandwich），傳說他因為沈迷於紙牌遊戲不願離桌吃飯，而發明瞭將肉夾在兩片麵包中間的吃法，因而得名。",
+      "definition": "1. an item of food consisting of two pieces of bread with meat, cheese, or other filling between them.",
+      "example": [
+        {
+          "eng": "She packed a turkey sandwich and an apple for her lunch.",
+          "ch": "她為午餐準備了一個火雞三明治和一顆蘋果。"
+        }
+      ]
+    },
+    {
+      "eng": "satisfy",
+      "kk": "/ˈsætəsˌfαɪ/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "滿足",
+          "使滿意"
+        ],
+        [
+          "符合",
+          "達到要求"
+        ]
+      ],
+      "analysis": "此動詞源自古法語 satisfier，源於拉丁語 satisfacere（satis 足夠 + facere 做），本義為「做得足夠以使人飽足或滿意」。在現代英語中引申為滿足人的願望或符合條件要求。",
+      "definition": "1. to please someone by giving them what they want or need; 2. to meet the expectations, needs, or requirements of something.",
+      "example": [
+        {
+          "eng": "Nothing could satisfy his endless ambition.",
+          "ch": "沒有什麼能夠滿足他無盡的野心。"
+        },
+        {
+          "eng": "The applicant must satisfy all the entry requirements.",
+          "ch": "申請人必須符合所有的入學條件。"
+        }
+      ]
+    },
+    {
+      "eng": "saw",
+      "kk": "/sɔ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "鋸子"
+        ]
+      ],
+      "analysis": "此名詞源自古英語 saga，屬於日耳曼語源，與德語 Säge 同源。指用於切割木材或金屬的帶齒手工具。",
+      "definition": "1. a tool with a harsh metal blade having a series of sharp teeth, used for cutting wood or other hard materials.",
+      "example": [
+        {
+          "eng": "He used a hand saw to cut the wooden board into pieces.",
+          "ch": "他用手鋸把木板鋸成幾段。"
+        }
+      ]
+    },
+    {
+      "eng": "saw",
+      "kk": "/sɔ/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "鋸",
+          "鋸掉"
+        ]
+      ],
+      "analysis": "此動詞源自古英語 sagian，由名詞 saga 衍生而來。指使用鋸子切割物品的動作。",
+      "definition": "1. to cut something using a saw.",
+      "example": [
+        {
+          "eng": "He carefully sawed the log in half.",
+          "ch": "他小心翼翼地把木頭鋸成兩半。"
+        }
+      ]
+    },
+    {
+      "eng": "scare",
+      "kk": "/skɛr/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "驚嚇",
+          "使害怕"
+        ]
+      ],
+      "analysis": "此動詞源自古諾斯語 skirra（避開、畏懼），與日耳曼語族源頭相關。在中古英語中演變為使人驚慌、害怕。",
+      "definition": "1. to frighten or make someone feel sudden fear.",
+      "example": [
+        {
+          "eng": "The sudden loud noise in the dark scared the little girl.",
+          "ch": "黑暗中突然響起的巨響嚇壞了小女孩。"
+        }
+      ]
+    },
+    {
+      "eng": "scared",
+      "kk": "/skɛrd/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "害怕的",
+          "受驚嚇的"
+        ]
+      ],
+      "analysis": "此形容詞由動詞 scare 的過去分詞轉化而來，用以形容人處於恐懼或受驚嚇的狀態。",
+      "definition": "1. fearful; frightened or terrified.",
+      "example": [
+        {
+          "eng": "The little boy is scared of the dark.",
+          "ch": "這個小男孩怕黑。"
+        }
+      ]
+    },
+    {
+      "eng": "scene",
+      "kk": "/siːn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "場景",
+          "現場"
+        ],
+        [
+          "業界",
+          "活動領域"
+        ]
+      ],
+      "analysis": "此名詞源自拉丁語 scena（舞臺、佈景），最終源自希臘語 skēnē（帳篷、舞臺）。在歷史演變中，從戲劇舞臺的「場景」延伸出犯罪「現場」，以及特定文化或藝術圈的「活動圈子（如音樂界、時尚界）」。",
+      "definition": "1. the place where an incident in real life or fiction occurs or occurred; 2. a particular sphere or activity, especially one showing a characteristic layout or set of conditions.",
+      "example": [
+        {
+          "eng": "Police quickly arrived at the scene of the accident.",
+          "ch": "警察迅速趕到了事故現場。"
+        },
+        {
+          "eng": "He is a well-known figure in the local indie music scene.",
+          "ch": "他是當地獨立音樂圈中的知名人物。"
+        }
+      ]
+    },
+    {
+      "eng": "schedule",
+      "kk": "/ˈskɛdʒuːl/",
+      "tense": "n.",
+      "ch": [
+        [
+          "時間表",
+          "行程表"
+        ]
+      ],
+      "analysis": "此名詞源自拉丁語 schedula（小紙條、書信草稿），由 scheda 衍生而來。在現代英語中演變為規劃時間與任務的清單或時間表。",
+      "definition": "1. a plan for carrying out a process or procedure, giving lists of intended events and times.",
+      "example": [
+        {
+          "eng": "We need to stick to our busy schedule to finish the project on time.",
+          "ch": "我們必須遵守緊湊的行程表，才能如期完成專案。"
+        }
+      ]
+    },
+    {
+      "eng": "scooter",
+      "kk": "/ˈskuːtər/",
+      "tense": "n.",
+      "ch": [
+        [
+          "滑板車",
+          "機車（輕型機車）"
+        ]
+      ],
+      "analysis": "此名詞源自動詞 scoot（快速奔跑、溜走）加上名詞字尾 -er 構成。最初指兒童玩的滑板車，後來引申指配備小型引擎、座位平坦便於跨騎的輕型機車。",
+      "definition": "1. a child's toy consisting of a footboard mounted on two wheels and a long steering handle; 2. a light motorcycle with a small engine and a stepped frame.",
+      "example": [
+        {
+          "eng": "Many commuters in Taiwan ride scooters to avoid heavy traffic.",
+          "ch": "台灣許多通勤族騎機車來避開壅塞的交通。"
+        }
+      ]
+    },
+    {
+      "eng": "score",
+      "kk": "/skɔr/",
+      "tense": "n.",
+      "ch": [
+        [
+          "得分",
+          "比分"
+        ],
+        [
+          "二十"
+        ]
+      ],
+      "analysis": "此名詞源自古諾斯語 skor（刻痕、記號），早期日耳曼人計算牲畜數量時，會在木棍上每隔二十道刻痕作記號，因此引申出「得分」以及代表數字「二十」的特殊歷史含義。",
+      "definition": "1. the number of points, goals, runs, etc., achieved in a game or competition; 2. a group or set of twenty.",
+      "example": [
+        {
+          "eng": "The final score of the basketball game was 98 to 95.",
+          "ch": "這場籃球比賽的最終比分是98比95。"
+        },
+        {
+          "eng": "Scores of people attended the outdoor music festival.",
+          "ch": "許多（好幾十）人參加了戶外音樂節。"
+        }
+      ]
+    },
+    {
+      "eng": "screen",
+      "kk": "/skriːn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "螢幕",
+          "屏幕"
+        ],
+        [
+          "紗窗",
+          "屏風"
+        ]
+      ],
+      "analysis": "此名詞源自古法語 escrean，可能源自日耳曼語源。最初指用來遮擋風寒或視線的「屏風」，隨著科技發展，演變成顯示影像的「螢幕」或防止蚊蟲進入的「紗窗」。",
+      "definition": "1. a flat surface on which a picture or text is projected or displayed, as on a television, computer, or phone; 2. an upright structure used to hide, protect, or divide something, such as a wire mesh on a window.",
+      "example": [
+        {
+          "eng": "Staring at a computer screen for too long can strain your eyes.",
+          "ch": "盯著電腦螢幕太久會讓眼睛疲勞。"
+        },
+        {
+          "eng": "Please close the screen door to keep the mosquitoes out.",
+          "ch": "請關好紗門，以免蚊子飛進來。"
+        }
+      ]
+    },
+    {
+      "eng": "seafood",
+      "kk": "/ˈsiːˌfuːd/",
+      "tense": "n.",
+      "ch": [
+        [
+          "海鮮"
+        ]
+      ],
+      "analysis": "此名詞為現代透明複合詞，由 sea（海洋）與 food（食物）組成。泛指所有來自海洋的魚類、貝類等可食用海產。",
+      "definition": "1. fish or shellfish regarded as food.",
+      "example": [
+        {
+          "eng": "The coastal town is famous for its fresh and delicious seafood.",
+          "ch": "這個沿海城鎮以新鮮美味的海鮮聞名。"
+        }
+      ]
+    },
+    {
+      "eng": "search",
+      "kk": "/sɜrtʃ/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "搜尋",
+          "搜查"
+        ]
+      ],
+      "analysis": "此動詞源自古法語 cerchier，源於拉丁語 circare（環繞、走遍），由 circus（圓圈）衍生而來。本義為「走遍周遭以尋找某物」，在現代英語中指仔細尋找失物或對人身進行搜查。",
+      "definition": "1. to try to find something by looking or otherwise seeking carefully; 2. to look through a place or person's clothes thoroughly in order to find something hidden.",
+      "example": [
+        {
+          "eng": "Police searched the entire building for clues.",
+          "ch": "警察搜查了整棟大樓以尋找線索。"
+        }
+      ]
+    },
+    {
+      "eng": "secondary",
+      "kk": "/ˈsɛkənˌdɛri/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "次要的",
+          "第二位的"
+        ],
+        [
+          "中等教育的"
+        ]
+      ],
+      "analysis": "此形容詞源自拉丁語 secundarius，由 secundus（第二、隨後的）加上形容詞字尾 -arius 構成。本義為「居於第二位的、次要的」，在教育體系中引申為繼初等教育之後的「中學教育（secondary education）」。",
+      "definition": "1. coming after, less important than, or resulting from something else; 2. relating to or denoting the education of children between the ages of approximately 11 and 16 or 18.",
+      "example": [
+        {
+          "eng": "Cost is a secondary consideration compared to safety.",
+          "ch": "與安全性相比，成本是次要考量。"
+        },
+        {
+          "eng": "She is a secondary school teacher in London.",
+          "ch": "她是倫敦的一名中學教師。"
+        }
+      ]
+    },
+    {
+      "eng": "secret",
+      "kk": "/ˈsikrət/",
+      "tense": "n.",
+      "ch": [
+        [
+          "秘密",
+          "機密"
+        ]
+      ],
+      "analysis": "此名詞源自拉丁語 secretum（隱蔽處、祕密），由 secernere（se- 分開 + cernere 分辨、篩選）的過去分詞衍生而來，本義為「被隔開、不公開的事物」。",
+      "definition": "1. something that is kept or meant to be kept unknown or unseen by others.",
+      "example": [
+        {
+          "eng": "Can you promise to keep this a secret?",
+          "ch": "你能答應保守這個秘密嗎？"
+        }
+      ]
+    },
+    {
+      "eng": "section",
+      "kk": "/ˈsɛkʃən/",
+      "tense": "n.",
+      "ch": [
+        [
+          "部分",
+          "部門",
+          "路段"
+        ]
+      ],
+      "analysis": "此名詞源自拉丁語 sectio（切割、切開），由 secare（切割）衍生而來。本義為「被切開的一部分」，在現代英語中廣泛用於文件章節、組織部門或道路區段。",
+      "definition": "1. any of the distinct parts into which something is divided or from which it is made up.",
+      "example": [
+        {
+          "eng": "Read the sports section of the newspaper every morning.",
+          "ch": "每天早上閱讀報紙的體育版面。"
+        }
+      ]
+    },
+    {
+      "eng": "seek",
+      "kk": "/siːk/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "尋找",
+          "尋求"
+        ]
+      ],
+      "analysis": "此動詞源自古英語 sēcan，屬於日耳曼語源（源自原始日耳曼語 *sōkijaną），與德語 suchen 同源。在現代英語中指努力尋找某物，或尋求抽象的協助、建議。",
+      "definition": "1. to attempt to find something; 2. to ask for something, such as help or advice.",
+      "example": [
+        {
+          "eng": "Investors are constantly seeking new business opportunities.",
+          "ch": "投資者不斷在尋找新的商業機會。"
+        },
+        {
+          "eng": "If symptoms persist, you should seek medical advice.",
+          "ch": "如果症狀持續，你應該尋求醫療建議。"
+        }
+      ]
+    }
+  ]
+}

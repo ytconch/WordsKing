@@ -1,0 +1,1174 @@
+{
+  "level": 6,
+  "chunkIndex": 5,
+  "inputs": [
+    "coral",
+    "corpse",
+    "correspondence",
+    "cosmetic",
+    "cosmetics",
+    "counterpart",
+    "coupon",
+    "courtyard",
+    "cowardly",
+    "cozy",
+    "crackdown",
+    "cracker",
+    "cram",
+    "cramp",
+    "crater",
+    "credible",
+    "crocodile",
+    "crossing",
+    "crutch",
+    "cub",
+    "cucumber",
+    "cultivate",
+    "cumulative",
+    "curb",
+    "curfew",
+    "curry",
+    "customary",
+    "cynical",
+    "dazzle",
+    "deafen",
+    "decisive",
+    "dedication",
+    "deduct",
+    "deem",
+    "default",
+    "defect",
+    "defiance",
+    "definitive",
+    "dental",
+    "deplete",
+    "deprive",
+    "descent",
+    "despise",
+    "destined",
+    "detach",
+    "detain",
+    "detention",
+    "deter",
+    "detergent",
+    "devour"
+  ],
+  "rows": [
+    {
+      "eng": "coral",
+      "kk": "ˈkɔrəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "珊瑚",
+          "珊瑚蟲"
+        ],
+        [
+          "珊瑚色",
+          "橘紅色"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自古法語 corall，再上溯至拉丁語 corallum，最終源自希臘語 korallion。在現代英語中作為名詞使用，包含海洋刺胞動物所分泌的鈣質骨骼，以及由此延伸的鮮豔橘紅色調。",
+      "definition": "1. A hard stony substance secreted by marine polyps, typically forming reefs or atolls in warm waters; 2. A bright pinkish-orange or red color resembling that of certain corals.",
+      "example": [
+        {
+          "eng": "Divers explored the vibrant coral reef off the coast.",
+          "ch": "潛水員探索了海岸邊充滿生機的珊瑚礁。"
+        },
+        {
+          "eng": "She wore a stunning dress in a vibrant shade of coral.",
+          "ch": "她穿了一件散發著鮮豔珊瑚色光彩的迷人洋裝。"
+        }
+      ]
+    },
+    {
+      "eng": "corpse",
+      "kk": "kɔrps",
+      "tense": "n.",
+      "ch": [
+        [
+          "屍體",
+          "遺體"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自中古法語 corps（身體、屍體），其根本上溯至拉丁語 corpus（身體）。在現代英語中主要專門指人類或動物的死屍、遺體，字首的 p 雖在法語中不發音但在英語保留。",
+      "definition": "1. A dead body, especially of a human being.",
+      "example": [
+        {
+          "eng": "The detectives examined the corpse found at the abandoned warehouse.",
+          "ch": "偵探們檢視了在廢棄倉庫發現的屍體。"
+        }
+      ]
+    },
+    {
+      "eng": "correspondence",
+      "kk": "ˌkɔrəˈspɑndəns",
+      "tense": "n.",
+      "ch": [
+        [
+          "信件",
+          "往來書信",
+          "通信"
+        ],
+        [
+          "一致",
+          "符合",
+          "對應關係"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞與歷史借詞的結合，由動詞 correspond 加上名詞字尾 -ence 構成。根本上溯至拉丁語 correspondere（co- 共同 + respondere 回應、對應）。在現代英語中保留了「以信件往來交流」與「兩者之間的對應或一致性」兩種核心義項。",
+      "definition": "1. Communication by exchanging letters, emails, or messages; 2. A close similarity, connection, or equivalence between two things.",
+      "example": [
+        {
+          "eng": "He kept all the correspondence from his time in college.",
+          "ch": "他保留了他大學時期所有的往來書信。"
+        },
+        {
+          "eng": "There is a clear correspondence between the two theories.",
+          "ch": "這兩個理論之間存在著明顯的對應關係。"
+        }
+      ]
+    },
+    {
+      "eng": "cosmetic",
+      "kk": "kɑzˈmɛtɪk",
+      "tense": "adj.",
+      "ch": [
+        [
+          "化妝用的",
+          "美容的"
+        ],
+        [
+          "表面的",
+          "裝飾性的",
+          "不痛不癢的"
+        ]
+      ],
+      "analysis": "此字源自希臘語 kosmetikós（裝飾的、打扮的），源自 kosmos（秩序、裝飾、世界）。在現代英語中作為形容詞，除指直接用於美化容貌的化妝品外，也常引申形容僅僅流於表面、未觸及實質問題的修飾。",
+      "definition": "1. Concerning the treatment of the skin, hair, and face to improve one's appearance; 2. Affecting only the surface of something rather than its substance or core.",
+      "example": [
+        {
+          "eng": "She bought a new range of natural cosmetic products.",
+          "ch": "她買了一系列新的天然美容護膚產品。"
+        },
+        {
+          "eng": "The company made only cosmetic changes to the software interface.",
+          "ch": "這家公司對軟體介面僅做了表面的修改。"
+        }
+      ]
+    },
+    {
+      "eng": "cosmetics",
+      "kk": "kɑzˈmɛtɪks",
+      "tense": "n.",
+      "ch": [
+        [
+          "化妝品",
+          "美容品"
+        ]
+      ],
+      "analysis": "此字為形容詞 cosmetic 的複數形式轉化而成的獨立名詞，泛指各類塗抹在臉部或身體上用以美化或改善外觀的產品，通常以複數形式呈現。",
+      "definition": "1. Substances or products used to enhance or alter the appearance of the face or body.",
+      "example": [
+        {
+          "eng": "She spends a large portion of her monthly budget on cosmetics.",
+          "ch": "她每個月的預算中有很大一部分花在化妝品上。"
+        }
+      ]
+    },
+    {
+      "eng": "counterpart",
+      "kk": "ˈkaʊntərˌpɑrt",
+      "tense": "n.",
+      "ch": [
+        [
+          "對應的人",
+          "相對應的物",
+          "同行"
+        ]
+      ],
+      "analysis": "此字為現代透明複合物，由 counter-（相對、對應，源自拉丁語 contra）與 part（部分）結合而成。原意指原本契約或檔案中相配的另一半副本，現代則廣泛指在不同機構、職位或情況下，具有相同職責或地位的對應人物或事物。",
+      "definition": "1. A person or thing that corresponds to or has the same function as another in a different place or situation.",
+      "example": [
+        {
+          "eng": "The Prime Minister met with his French counterpart in Paris.",
+          "ch": "總理在巴黎會見了他的法國對口官員。"
+        }
+      ]
+    },
+    {
+      "eng": "coupon",
+      "kk": "ˈkupɑn",
+      "tense": "n.",
+      "ch": [
+        [
+          "優惠券",
+          "折價券",
+          "票券"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自法語 coupon（切下來的一塊），由動詞 couper（切、割）加上名詞字尾 -on 構成。原指債券上可剪下領息的憑證，現代則泛指可在購物時享優惠或折扣的紙本或電子憑證。",
+      "definition": "1. A voucher or certificate that can be redeemed for a financial discount or rebate when purchasing goods or services.",
+      "example": [
+        {
+          "eng": "She used a coupon to get twenty percent off her grocery bill.",
+          "ch": "她用優惠券在雜貨帳單上打八折。"
+        }
+      ]
+    },
+    {
+      "eng": "courtyard",
+      "kk": "ˈkɔrtˌjɑrd",
+      "tense": "n.",
+      "ch": [
+        [
+          "庭院",
+          "中庭",
+          "天井"
+        ]
+      ],
+      "analysis": "此字為現代透明複合物，由 court（庭院、宮廷，源自拉丁語 cohors）與 yard（院子、場地，源自日耳曼語族）結合而成。指四周被牆壁或建築物環繞的露天開放空間。",
+      "definition": "1. An open, unroofed area surrounded by walls or buildings, typically situated inside or attached to a large house or complex.",
+      "example": [
+        {
+          "eng": "Tables and chairs were set up in the sunny courtyard.",
+          "ch": "桌椅擺放在陽光普照的中庭裡。"
+        }
+      ]
+    },
+    {
+      "eng": "cowardly",
+      "kk": "ˈkaʊərdli",
+      "tense": "adj.",
+      "ch": [
+        [
+          "膽小的",
+          "懦弱的",
+          "卑怯的"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由名詞 coward（膽小鬼，源自古法語 coe，指尾巴）加上形容詞字尾 -ly 構成。在現代英語中作為形容詞使用，用以描述缺乏勇氣、面對威脅或挑戰時退縮的行為或特質。",
+      "definition": "1. Lacking courage; characterized by fear and willingness to avoid danger or difficulty.",
+      "example": [
+        {
+          "eng": "Stealing from the charity is a cowardly act.",
+          "ch": "從慈善機構偷竊是一種懦弱的行為。"
+        }
+      ]
+    },
+    {
+      "eng": "cozy",
+      "kk": "ˈkoʊzi",
+      "tense": "adj.",
+      "ch": [
+        [
+          "舒適的",
+          "溫馨的",
+          "愜意的"
+        ]
+      ],
+      "analysis": "此字起源於蘇格蘭語或北方方言 cosie，可能與古斯堪地那維亞語相關。在現代英語中作為形容詞，用以形容環境或氛圍帶來的溫暖、舒適、安全且令人放鬆的感受。",
+      "definition": "1. Giving a sense of comfort, warmth, and relaxation; snug and cozy.",
+      "example": [
+        {
+          "eng": "They sat by the fireplace in the cozy living room.",
+          "ch": "他們坐在溫馨客廳的壁爐旁。"
+        }
+      ]
+    },
+    {
+      "eng": "crackdown",
+      "kk": "ˈkrækˌdaʊn",
+      "tense": "n.",
+      "ch": [
+        [
+          "鎮壓",
+          "嚴厲取締",
+          "打擊行動"
+        ]
+      ],
+      "analysis": "此字為現代透明複合物，由動詞片語 crack down（嚴厲處置、打擊）轉化而成的複合名詞。用以指稱當權者對違法行為、抗議活動或犯罪現象採取的高壓、全面性取締行動。",
+      "definition": "1. A series of severe measures to restrict or suppress illegal activities, protests, or crime.",
+      "example": [
+        {
+          "eng": "The government announced a major crackdown on illegal parking.",
+          "ch": "政府宣布了一項針對違規停車的大規模取締行動。"
+        }
+      ]
+    },
+    {
+      "eng": "cracker",
+      "kk": "ˈkrækər",
+      "tense": "n.",
+      "ch": [
+        [
+          "蘇打餅乾",
+          "薄脆餅乾"
+        ],
+        [
+          "鞭炮",
+          "爆竹"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由動詞 crack（破裂、發出爆裂聲）加上名詞字尾 -er 構成。原意指會發出爆裂聲響的物品（如鞭炮），後來也指烘焙時會裂開或口感酥脆乾硬的薄餅乾。",
+      "definition": "1. A thin, crisp, dry baked biscuit, often eaten with cheese or soup; 2. A firecracker or small explosive device that makes a loud noise.",
+      "example": [
+        {
+          "eng": "She spread some cheese on a salted cracker.",
+          "ch": "她在鹹脆餅乾上抹了一些起司。"
+        },
+        {
+          "eng": "Children lit firecrackers during the festive celebration.",
+          "ch": "孩子們在節慶慶祝活動中點燃了鞭炮。"
+        }
+      ]
+    },
+    {
+      "eng": "cram",
+      "kk": "kræm",
+      "tense": "vt.",
+      "ch": [
+        [
+          "把……塞滿",
+          "擠進"
+        ],
+        [
+          "死記硬背",
+          "惡補"
+        ]
+      ],
+      "analysis": "此字源自日耳曼語源（比較古英語 crammian），屬於日耳曼傳承詞。在現代英語中作為及物動詞，本義指將過量物品用力塞進狹小空間，引申為學生在考試前夕密集背誦、惡補知識。",
+      "definition": "1. To force something into a small space beyond its normal capacity; 2. To study intensively for an upcoming examination over a short period.",
+      "example": [
+        {
+          "eng": "He had to cram all his clothes into a single suitcase.",
+          "ch": "他必須把所有的衣服塞進一個行李箱裡。"
+        },
+        {
+          "eng": "She stayed up all night to cram for her chemistry exam.",
+          "ch": "她熬夜惡補化學考試。"
+        }
+      ]
+    },
+    {
+      "eng": "cramp",
+      "kk": "kræmp",
+      "tense": "n.",
+      "ch": [
+        [
+          "抽筋",
+          "痙攣"
+        ],
+        [
+          "束縛",
+          "限制",
+          "障礙"
+        ]
+      ],
+      "analysis": "此字源自日耳曼語源（比較中古荷蘭語 krampe、德語 Krampf），屬於日耳曼傳承詞。在現代英語中作為名詞，主要指肌肉突發性且痛苦的收縮（抽筋），亦可引申指限制自由發展的束縛或障礙。",
+      "definition": "1. A painful, involuntary contraction of a muscle or muscles; 2. A constraint or restriction that impedes physical movement or progress.",
+      "example": [
+        {
+          "eng": "He suffered a severe leg cramp while swimming in the deep end.",
+          "ch": "他在深水區游泳時遭遇了嚴重的腿部抽筋。"
+        },
+        {
+          "eng": "Lack of funds put a cramp on their expansion plans.",
+          "ch": "資金匱乏限制了他們的擴張計畫。"
+        }
+      ]
+    },
+    {
+      "eng": "crater",
+      "kk": "ˈkretər",
+      "tense": "n.",
+      "ch": [
+        [
+          "火山口",
+          "坑",
+          "隕石坑"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 crater，其根本上溯至希臘語 krātēr（大型調酒缽），因形似而轉指地面或火山頂部凹陷的盆狀大坑。在現代英語中主要指火山口或因隕石撞擊、爆炸形成的深坑。",
+      "definition": "1. A bowl-shaped depression at the mouth of a volcano or formed by the impact of a meteorite or explosion.",
+      "example": [
+        {
+          "eng": "The helicopter flew over the smoking volcanic crater.",
+          "ch": "直升機飛越了冒著煙的火山口。"
+        }
+      ]
+    },
+    {
+      "eng": "credible",
+      "kk": "ˈkrɛdəbəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "可信的",
+          "可靠的",
+          "可信賴的"
+        ]
+      ],
+      "analysis": "此字為歷史借詞與現代可識別構詞，由拉丁語詞根 cred-（相信、信任，源自 credere）加上形容詞字尾 -ible（能夠……的）結合而成。在現代英語中作為形容詞，用以形容說法、證據或證人值得相信或採信。",
+      "definition": "1. Able to be believed; convincing, reliable, and trustworthy.",
+      "example": [
+        {
+          "eng": "The witness provided a credible account of the accident.",
+          "ch": "該目擊者對這起事故提供了可信的說法。"
+        }
+      ]
+    },
+    {
+      "eng": "crocodile",
+      "kk": "ˈkrɑkəˌdaɪl",
+      "tense": "n.",
+      "ch": [
+        [
+          "鱷魚"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 crocodilus，最終上溯至希臘語 krokokdilos（原意指尼羅河蜥蜴）。在現代英語中作為名詞，專指一種大型半水棲的掠食性爬行動物。",
+      "definition": "1. A large, predatory, semi-aquatic reptile with long jaws, short legs, and a thick tail, native to the tropics.",
+      "example": [
+        {
+          "eng": "Several large crocodiles basked lazily on the muddy riverbank.",
+          "ch": "好幾隻大鱷魚懶洋洋地趴在泥濘的河岸上晒太陽。"
+        }
+      ]
+    },
+    {
+      "eng": "crossing",
+      "kk": "ˈkrɔsɪŋ",
+      "tense": "n.",
+      "ch": [
+        [
+          "十字路口",
+          "人行橫道",
+          "平交道"
+        ],
+        [
+          "橫渡",
+          "橫越"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由動詞 cross 加上名詞字尾 -ing 構成。在現代英語中作為名詞，指道路交會處或行人過馬路的地點（如斑馬線、平交道），亦可指橫渡海洋或河流的航程。",
+      "definition": "1. A place where roads, lines, or tracks intersect, or a designated place for pedestrians to cross a street; 2. The action or journey of traveling across a sea, river, or large area.",
+      "example": [
+        {
+          "eng": "Pedestrians should always use the marked crossing.",
+          "ch": "行人應隨時走標示清晰的人行橫道。"
+        },
+        {
+          "eng": "The ferry crossing took about forty minutes in calm weather.",
+          "ch": "在風平浪靜的天氣裡，渡輪橫渡大約花了四十分鐘。"
+        }
+      ]
+    },
+    {
+      "eng": "crutch",
+      "kk": "krʌtʃ",
+      "tense": "n.",
+      "ch": [
+        [
+          "拐杖"
+        ],
+        [
+          "依靠",
+          "支柱",
+          "精神寄託"
+        ]
+      ],
+      "analysis": "此字源自日耳曼語源（比較古高地德語 cruccil、中古荷蘭語 cruce），屬於日耳曼傳承詞。本義為支撐身體行走的拐杖，現代常引申為心理上依賴、用來應付困難的權宜之計或精神支柱。",
+      "definition": "1. A long stick with a crossbar at the top, used as a support under the armpit by injured persons; 2. Something depended on heavily for support, relief, or reassurance in times of difficulty.",
+      "example": [
+        {
+          "eng": "He had to walk on crutches for six weeks after breaking his leg.",
+          "ch": "他摔斷腿後靠拐杖走了六個星期。"
+        },
+        {
+          "eng": "She used alcohol as a crutch to cope with her anxiety.",
+          "ch": "她把酒精當作應付焦慮的精神寄託。"
+        }
+      ]
+    },
+    {
+      "eng": "cub",
+      "kk": "kʌb",
+      "tense": "n.",
+      "ch": [
+        [
+          "幼獸",
+          "猛獸幼崽"
+        ]
+      ],
+      "analysis": "此字起源不明，可能源自斯堪地那維亞語源，屬於早期日耳曼語系傳入的詞彙。在現代英語中作為名詞，專門指獅、熊、狼、狐狸等肉食性哺乳動物的幼獸。",
+      "definition": "1. The young of a carnivorous animal, such as a bear, lion, wolf, or fox.",
+      "example": [
+        {
+          "eng": "A mother bear fiercely protected her newborn cub from intruders.",
+          "ch": "母熊誓死保護剛出生的幼獸免受入侵者侵害。"
+        }
+      ]
+    },
+    {
+      "eng": "cucumber",
+      "kk": "ˈkyukəmbər",
+      "tense": "n.",
+      "ch": [
+        [
+          "黃瓜",
+          "小黃瓜"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自中世紀拉丁語 cucu-merem（經由古法語或日耳曼語演變入英語）。在現代英語中作為名詞，指一種常見的長條形綠皮蔬菜，通常生吃或醃製食用。",
+      "definition": "1. A long, cylindrical green vegetable with watery flesh and edible seeds, typically eaten raw in salads or pickled.",
+      "example": [
+        {
+          "eng": "She sliced some fresh cucumber to add to the green salad.",
+          "ch": "她切了一些新鮮小黃瓜放入蔬菜沙拉中。"
+        }
+      ]
+    },
+    {
+      "eng": "cultivate",
+      "kk": "ˈkʌltəˌvet",
+      "tense": "vt.",
+      "ch": [
+        [
+          "耕種",
+          "栽培",
+          "培育"
+        ],
+        [
+          "培養",
+          "琢磨",
+          "建立"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自中世紀拉丁語 cultivat-（耕耘過的，源自 colere）。在現代英語中作為及物動詞，本義指翻土、種植農作物，引申為透過後天努力培養技能、關係或品格。",
+      "definition": "1. To prepare and use land for crops or gardening; 2. To try to acquire or develop a quality, skill, relationship, or sentiment.",
+      "example": [
+        {
+          "eng": "Farmers cultivate the fertile soil before planting the seeds.",
+          "ch": "農夫在播種前耕耘肥沃的土壤。"
+        },
+        {
+          "eng": "He worked hard to cultivate a good relationship with his clients.",
+          "ch": "他努力與客戶培養良好的關係。"
+        }
+      ]
+    },
+    {
+      "eng": "cumulative",
+      "kk": "ˈkyumyəˌletɪv",
+      "tense": "adj.",
+      "ch": [
+        [
+          "累積的",
+          "漸增的"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞與歷史借詞，由拉丁語 cumulare（堆積、累積）加上形容詞字尾 -ive 構成。在現代英語中作為形容詞，用以形容透過逐年或逐次增加而累積起來的效果或總量。",
+      "definition": "1. Increasing or growing in quantity, force, or effect by successive additions.",
+      "example": [
+        {
+          "eng": "The cumulative effect of stress can lead to burnout.",
+          "ch": "壓力的累積效應可能會導致過勞。"
+        }
+      ]
+    },
+    {
+      "eng": "curb",
+      "kk": "kɜrb",
+      "tense": "vt.",
+      "ch": [
+        [
+          "控制",
+          "約束",
+          "抑制"
+        ]
+      ],
+      "analysis": "此字源自古諾斯語 krūpr 或與拉丁語 curvus（彎曲的）相關。在現代英語中作為及物動詞，本義指用馬勒拉住馬匹，現代引申為對不良習慣、情緒或負面現象進行約束、限制或壓制。",
+      "definition": "1. To restrain, control, or keep something undesirable in check.",
+      "example": [
+        {
+          "eng": "The government introduced new measures to curb inflation.",
+          "ch": "政府推出了控制通貨膨脹的新措施。"
+        }
+      ]
+    },
+    {
+      "eng": "curfew",
+      "kk": "ˈkɜrfyu",
+      "tense": "n.",
+      "ch": [
+        [
+          "宵禁",
+          "戒嚴令",
+          "門禁時間"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自中古法語 cueurfeude（字面義為「掩蓋火源」），由 couvrir（覆蓋）與 feu（火）複合而成。中世紀歐洲規定夜晚某時熄燈以防火災，後來演變為限制民眾夜間出門的宵禁或青少年晚歸的門禁。",
+      "definition": "1. A regulation requiring people to remain indoors at a specified time, typically at night; 2. A designated time by which children or teenagers must be home in the evening.",
+      "example": [
+        {
+          "eng": "The city imposed a strict nighttime curfew due to civil unrest.",
+          "ch": "由於國內動亂，該市實施了嚴格的夜間宵禁。"
+        },
+        {
+          "eng": "Her parents set a strict curfew of 10 p.m. on weekends.",
+          "ch": "她的父母規定週末晚上十點為嚴格的門禁時間。"
+        }
+      ]
+    },
+    {
+      "eng": "curry",
+      "kk": "ˈkɜri",
+      "tense": "n.",
+      "ch": [
+        [
+          "咖哩",
+          "咖哩料理"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自坦米爾語 karī（醬汁、以香料燉煮的菜餚），經由英國殖民時期傳入英語。在現代英語中作為名詞，泛指使用多種香料調配而成的南亞風格濃郁醬汁或烹調料理。",
+      "definition": "1. A dish of meat, vegetables, or fish cooked in a sauce made with a complex mixture of pungent spices.",
+      "example": [
+        {
+          "eng": "They ordered a spicy chicken curry with steamed rice for dinner.",
+          "ch": "他們晚餐點了一道香辣的雞肉咖哩搭配蒸飯。"
+        }
+      ]
+    },
+    {
+      "eng": "customary",
+      "kk": "ˈkʌstəˌmɛri",
+      "tense": "adj.",
+      "ch": [
+        [
+          "習慣上的",
+          "慣常的",
+          "合乎習俗的"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞與歷史借詞，由名詞 custom（習俗、慣例）加上形容詞字尾 -ary 構成，根本上溯至拉丁語 consuetudo。在現代英語中作為形容詞，用以描述符合某個社群或個人一貫作法、慣例的行為。",
+      "definition": "1. According to the customs or usual practices of a particular society, group, or individual.",
+      "example": [
+        {
+          "eng": "It is customary to leave a tip for the waiter in this restaurant.",
+          "ch": "在這家餐廳給服務生小費是習慣作法。"
+        }
+      ]
+    },
+    {
+      "eng": "cynical",
+      "kk": "ˈsɪnɪkəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "憤世嫉俗的",
+          "認為人性自私的",
+          "冷嘲熱諷的"
+        ]
+      ],
+      "analysis": "此字源自希臘語 kynikos（犬儒學派的，字面義為「像狗一樣的」），後演變為指懷疑他人動機、認為人性皆私的態度。在現代英語中作為形容詞，用以形容不相信人類美德、對權威或理想抱持懷疑冷漠的人。",
+      "definition": "1. Believing that people are motivated purely by self-interest; distrustful of human sincerity or integrity.",
+      "example": [
+        {
+          "eng": "She grew cynical about politics after years of broken promises.",
+          "ch": "在經歷多年無法兌現的承諾後，她對政治變得憤世嫉俗。"
+        }
+      ]
+    },
+    {
+      "eng": "dazzle",
+      "kk": "ˈdæzəl",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使目眩",
+          "耀眼",
+          "驚豔"
+        ]
+      ],
+      "analysis": "此字源自日耳曼語源（與 daze 相關，表示眩暈、昏眩），加上動詞反覆字尾 -le。在現代英語中作為及物動詞，本義指強烈光線刺得人眼睛發花，引申為某人的才華或外表極為出色、令人讚嘆不已。",
+      "definition": "1. To blind someone temporarily with a very bright light; 2. To amaze or impress someone deeply with outstanding ability, beauty, or skill.",
+      "example": [
+        {
+          "eng": "The oncoming car's headlights dazzled him in the dark.",
+          "ch": "迎面而來的車燈在黑暗中刺得他睜不開眼。"
+        },
+        {
+          "eng": "Her stellar performance on stage never failed to dazzle the audience.",
+          "ch": "她在舞台上的精湛演出總能讓觀眾驚豔不已。"
+        }
+      ]
+    },
+    {
+      "eng": "deafen",
+      "kk": "ˈdɛfən",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使聾",
+          "震耳欲聾"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由形容詞 deaf（聾的，源自日耳曼語族）加上動詞化字尾 -en（使變得……）構成。在現代英語中作為及物動詞，指因極大噪音導致短暫或永久性聽力受損，或形容聲音極為宏亮。",
+      "definition": "1. To make someone deaf, either temporarily or permanently, by an extremely loud noise.",
+      "example": [
+        {
+          "eng": "The roar of the jet engine nearly deafened the bystanders.",
+          "ch": "噴射引擎的轟鳴聲差點把旁觀者的耳朵震聾。"
+        }
+      ]
+    },
+    {
+      "eng": "decisive",
+      "kk": "dɪˈsaɪsɪv",
+      "tense": "adj.",
+      "ch": [
+        [
+          "決定性的",
+          "關鍵的"
+        ],
+        [
+          "果斷的",
+          "決斷力強的"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞與歷史借詞，由動詞 decide（決定）的過去分詞詞幹加上形容詞字尾 -ive 構成。在現代英語中作為形容詞，既可指某事對結果具關鍵影響力，也可指人做事明快、不拖泥帶水。",
+      "definition": "1. Settling an issue; producing a definitive result; 2. Having or showing the ability to make decisions quickly and effectively.",
+      "example": [
+        {
+          "eng": "His penalty kick proved to be the decisive moment of the match.",
+          "ch": "他的罰球被證明是這場比賽的決定性時刻。"
+        },
+        {
+          "eng": "A successful manager must be decisive in times of crisis.",
+          "ch": "一位成功的經理人在危機時刻必須果斷。"
+        }
+      ]
+    },
+    {
+      "eng": "dedication",
+      "kk": "ˌdɛdəˈkeʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "奉獻",
+          "投入",
+          "專心"
+        ],
+        [
+          "落成典禮",
+          "題獻"
+        ]
+      ],
+      "analysis": "此字為歷史借詞與現代可識別構詞，由動詞 dedicate（奉獻、致力於）加上名詞字尾 -ion 構成，上溯至拉丁語 dedicare。在現代英語中主要指對事業、目標的全力投入與奉獻，亦可指建築物落成啟用典禮或書籍的題獻詞。",
+      "definition": "1. The quality of being dedicated or committed to a task or purpose; 2. The ceremonial opening or consecration of a building or monument.",
+      "example": [
+        {
+          "eng": "Her unwavering dedication to medical research earned her international acclaim.",
+          "ch": "她對醫學研究堅定不移的奉獻為她贏得了國際讚譽。"
+        },
+        {
+          "eng": "The mayor gave a speech at the dedication of the new civic center.",
+          "ch": "市長在新市民中心落成典禮上發表了講話。"
+        }
+      ]
+    },
+    {
+      "eng": "deduct",
+      "kk": "dɪˈdʌkt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "扣除",
+          "減去"
+        ]
+      ],
+      "analysis": "此字為歷史借詞與現代可識別構詞，由拉丁語前綴 de-（向下、去除）與 ducere（引導、帶走）複合而成的 deducere。在現代英語中作為及物動詞，指從總額中減去或扣除特定金額、分數。",
+      "definition": "1. To subtract or take away an amount or part from a total.",
+      "example": [
+        {
+          "eng": "The company will deduct taxes directly from your monthly paycheck.",
+          "ch": "公司將直接從你的月薪中扣除稅款。"
+        }
+      ]
+    },
+    {
+      "eng": "deem",
+      "kk": "dim",
+      "tense": "vt.",
+      "ch": [
+        [
+          "認為",
+          "視為",
+          "覺得"
+        ]
+      ],
+      "analysis": "此字源自古英語 dēman（評判、判定），屬於日耳曼傳承詞（與 doom 同源）。在現代英語中作為及物動詞，多用於正式或書面語體中，表示經考慮後做出某種主觀判斷或認定。",
+      "definition": "1. To regard or consider in a specified way; to judge or think.",
+      "example": [
+        {
+          "eng": "The committee will take action as they deem appropriate.",
+          "ch": "委員會將視他們認為合適的情況採取行動。"
+        }
+      ]
+    },
+    {
+      "eng": "default",
+      "kk": "dɪˈfɔlt",
+      "tense": "n.",
+      "ch": [
+        [
+          "預設值",
+          "系統預設"
+        ],
+        [
+          "違約",
+          "拖欠債務",
+          "棄權"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自中古法語 defalt（缺乏、未履行），由前綴 de- 與 fallere（欺騙、失敗）複合而成。在現代英語中作為名詞，既指科技產品在無人為幹預時自動套用的預設設定，也指法律或財務上的違約、未履行義務。",
+      "definition": "1. A pre-selected option adopted by a computer program or other mechanism when no alternative is specified; 2. Failure to fulfill an obligation, especially to repay a loan or appear in a court of law.",
+      "example": [
+        {
+          "eng": "The software reverts to its default settings whenever it restarts.",
+          "ch": "該軟體每次重新啟動時都會恢復其預設設定。"
+        },
+        {
+          "eng": "The company faced bankruptcy due to continuous loan default.",
+          "ch": "該公司因持續貸款違約而面臨破產。"
+        }
+      ]
+    },
+    {
+      "eng": "defect",
+      "kk": "ˈdifɛkt",
+      "tense": "n.",
+      "ch": [
+        [
+          "缺點",
+          "瑕疵",
+          "缺陷"
+        ]
+      ],
+      "analysis": "此字為歷史借詞與現代可識別構詞，源自拉丁語 defectus（不足、缺損），由 de-（向下、不足）與 facere（做）的過去分詞結合而成。在現代英語中作為名詞，指物品構造上的瑕疵或人體生理、性格上的缺陷。",
+      "definition": "1. A shortcoming, imperfection, or lack of something necessary for completeness or safety.",
+      "example": [
+        {
+          "eng": "Engineers discovered a structural defect in the newly built bridge.",
+          "ch": "工程師們在剛建好的橋樑中發現了一個結構缺陷。"
+        }
+      ]
+    },
+    {
+      "eng": "defiance",
+      "kk": "dɪˈfaɪəns",
+      "tense": "n.",
+      "ch": [
+        [
+          "反抗",
+          "違抗",
+          "蔑視"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞與歷史借詞，由動詞 defy（違抗、挑戰）加上名詞字尾 -ance 構成，上溯至古法語 defier。在現代英語中作為名詞，指公開且毫無懼色地對抗權威、法律或命令的態度。",
+      "definition": "1. Open resistance; bold disobedience toward authority, rules, or power.",
+      "example": [
+        {
+          "eng": "The protesters marched through the streets in open defiance of the new law.",
+          "ch": "抗議者公然違抗新法，在街頭遊行。"
+        }
+      ]
+    },
+    {
+      "eng": "definitive",
+      "kk": "dɪˈfɪnətɪv",
+      "tense": "adj.",
+      "ch": [
+        [
+          "決定性的",
+          "最權威的",
+          "最終的"
+        ]
+      ],
+      "analysis": "此字為歷史借詞與現代可識別構詞，由拉丁語 definire（下定義、限定）衍生的定型形容詞。在現代英語中作為形容詞，用以形容研究、版本或答案具備最終定論、最全面且無可取代的權威性。",
+      "definition": "1. Conclusive and providing a final answer or standard; authoritative and not subject to further question.",
+      "example": [
+        {
+          "eng": "The historian published the definitive biography of Abraham Lincoln.",
+          "ch": "該歷史學家出版了亞伯拉罕·林肯最權威的傳記。"
+        }
+      ]
+    },
+    {
+      "eng": "dental",
+      "kk": "ˈdɛntəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "牙齒的",
+          "牙科的"
+        ]
+      ],
+      "analysis": "此字為歷史借詞與現代可識別構詞，由拉丁語 dens/dent-（牙齒）加上形容詞字尾 -al 構成。在現代英語中作為形容詞，專門用於修飾與牙齒保健、牙醫治療相關的事物。",
+      "definition": "1. Relating to the teeth or to the practice of dentistry.",
+      "example": [
+        {
+          "eng": "Regular dental checkups are essential for maintaining good oral hygiene.",
+          "ch": "定期進行牙科檢查對維護良好的口腔衛生至關重要。"
+        }
+      ]
+    },
+    {
+      "eng": "deplete",
+      "kk": "dɪˈplit",
+      "tense": "vt.",
+      "ch": [
+        [
+          "耗盡",
+          "使枯竭",
+          "大減"
+        ]
+      ],
+      "analysis": "此字為歷史借詞與現代可識別構詞，由拉丁語前綴 de-（向下、去除）與 delere（使空、清空）演變而來的 depletus。在現代英語中作為及物動詞，指資源、能量或資金被大量消耗、所剩無幾。",
+      "definition": "1. To use up the supply or resources of something to a severe degree; to exhaust or reduce greatly.",
+      "example": [
+        {
+          "eng": "Overfishing has severely depleted the fish population in the region.",
+          "ch": "過度捕撈已使該地區的魚類資源大幅枯竭。"
+        }
+      ]
+    },
+    {
+      "eng": "deprive",
+      "kk": "dɪˈpraɪv",
+      "tense": "vt.",
+      "ch": [
+        [
+          "剝奪",
+          "使喪失"
+        ]
+      ],
+      "analysis": "此字為歷史借詞與現代可識別構詞，由拉丁語前綴 de-（加強語氣）與 privare（使私有、剝奪，源自 privus 單獨）複合而成。在現代英語中作為及物動詞，指使某人失去原本應享有或維持生存必需的事物。",
+      "definition": "1. To prevent someone from having or obtaining something essential or desirable; to dispossess.",
+      "example": [
+        {
+          "eng": "Working night shifts can deprive workers of adequate sleep.",
+          "ch": "上夜班可能會剝奪工人充足的睡眠。"
+        }
+      ]
+    },
+    {
+      "eng": "descent",
+      "kk": "dɪˈsɛnt",
+      "tense": "n.",
+      "ch": [
+        [
+          "下降",
+          "下坡",
+          "下沉"
+        ],
+        [
+          "血統",
+          "世系",
+          "傳承"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自古法語 descente，根本上溯至拉丁語 descendere（向下爬、落下）。在現代英語中作為名詞，一方面指實體位置由高處往低處移動，另一方面引申為家族血統與祖先淵源。",
+      "definition": "1. An act of moving downward, sloping, or falling from a higher to a lower place; 2. One's family origin, lineage, or ancestry.",
+      "example": [
+        {
+          "eng": "The climbers began their steep descent before nightfall.",
+          "ch": "登山者在夜幕降臨前開始了陡峭的下山路程。"
+        },
+        {
+          "eng": "She is an artist of Italian descent living in New York.",
+          "ch": "她是住在紐約的一位具義大利血統的藝術家。"
+        }
+      ]
+    },
+    {
+      "eng": "despise",
+      "kk": "dɪˈspaɪz",
+      "tense": "vt.",
+      "ch": [
+        [
+          "鄙視",
+          "看不起",
+          "極度厭惡"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自古法語 despitier，根本上溯至拉丁語 despicere（向下看、輕視，de- 向下 + specere 看）。在現代英語中作為及物動詞，表示對某人或某事的卑劣行徑感到強烈的輕蔑與嫌惡。",
+      "definition": "1. To feel contempt or a deep repugnance for someone or something; to regard as worthless.",
+      "example": [
+        {
+          "eng": "He despises people who lie and cheat to get ahead.",
+          "ch": "他鄙視那些為了出人頭地而說謊作弊的人。"
+        }
+      ]
+    },
+    {
+      "eng": "destined",
+      "kk": "ˈdɛstɪnd",
+      "tense": "adj.",
+      "ch": [
+        [
+          "註定的",
+          "預定前往的",
+          "命中注定的"
+        ]
+      ],
+      "analysis": "此字為動詞 destine（註定、預定）的過去分詞轉化而來的形容詞，上溯至拉丁語 destinare。在現代英語中作為形容詞，用以形容命運早已安排好的結局，或即將前往某個特定目的地的狀態。",
+      "definition": "1. Developing or bound to happen in a particular way as if by fate; 2. Heading or intended for a particular destination.",
+      "example": [
+        {
+          "eng": "They believed their meeting was destined from the very beginning.",
+          "ch": "他們相信他們的相遇打一開始就是命中注定的。"
+        },
+        {
+          "eng": "The cargo ship was destined for a port in South America.",
+          "ch": "這艘貨輪預定開往南美洲的一個港口。"
+        }
+      ]
+    },
+    {
+      "eng": "detach",
+      "kk": "dɪˈtætʃ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "拆下",
+          "卸下",
+          "使分離"
+        ]
+      ],
+      "analysis": "此字為歷史借詞與現代可識別構詞，由法語前綴 de-（分離）與 tachier（釘牢、繫上，源自法語 tache）結合而成。在現代英語中作為及物動詞，指將相連或固定在一起的物體分開、拆卸下來。",
+      "definition": "1. To disconnect, separate, or remove something from something else to which it is attached.",
+      "example": [
+        {
+          "eng": "You can detach the keyboard from the tablet when using it as a screen.",
+          "ch": "當你把它當作螢幕使用時，可以將鍵盤從平板上拆下來。"
+        }
+      ]
+    },
+    {
+      "eng": "detain",
+      "kk": "dɪˈteɪn",
+      "tense": "vt.",
+      "ch": [
+        [
+          "扣留",
+          "拘留",
+          "留住"
+        ]
+      ],
+      "analysis": "此字為歷史借詞與現代可識別構詞，由拉丁語前綴 de-（向下、加強）與 tenere（拿住、保持）複合而成的 detinere。在現代英語中作為及物動詞，指依法限制嫌疑人自由（拘留），或因故耽擱某人的時間。",
+      "definition": "1. To keep someone in official custody, typically for questioning or a suspected crime; 2. To delay someone or keep them from leaving on time.",
+      "example": [
+        {
+          "eng": "Police detained two suspects for questioning regarding the robbery.",
+          "ch": "警方拘留了兩名涉嫌搶劫的嫌疑人進行訊問。"
+        },
+        {
+          "eng": "I apologize if unexpected traffic detained me for a while.",
+          "ch": "如果突如其來的交通讓我耽擱了一會兒，我深表歉意。"
+        }
+      ]
+    },
+    {
+      "eng": "detention",
+      "kk": "dɪˈtɛnʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "拘留",
+          "扣留"
+        ],
+        [
+          "留校察看",
+          "放學後留校反省"
+        ]
+      ],
+      "analysis": "此字為歷史借詞與現代可識別構詞，由動詞 detain（拘留、留住）的名詞衍生字尾 -ion 結合而成。在現代英語中作為名詞，既指司法或行政機關的拘留，也指學校對違規學生的放學後留校處罰。",
+      "definition": "1. The state of being officially detained, especially in military or police custody; 2. A form of punishment in school where students are kept after hours.",
+      "example": [
+        {
+          "eng": "The political activists faced prolonged detention without trial.",
+          "ch": "這些政治活動人士面臨未經審判的長期拘留。"
+        },
+        {
+          "eng": "He had to stay in detention for throwing paper airplanes in class.",
+          "ch": "他因為在課堂上丟紙飛機而必須留校反省。"
+        }
+      ]
+    },
+    {
+      "eng": "deter",
+      "kk": "dɪˈtɜr",
+      "tense": "vt.",
+      "ch": [
+        [
+          "阻止",
+          "嚇阻",
+          "勸阻"
+        ]
+      ],
+      "analysis": "此字為歷史借詞與現代可識別構詞，由拉丁語前綴 de-（自……離開、免除）與 terrere（嚇唬、驚嚇）複合而成的 deterrere。在現代英語中作為及物動詞，指透過威懾、警告或提高代價，使人打消做某事的念頭。",
+      "definition": "1. To discourage someone from doing something, typically by instilling doubt or fear of the dangerous or undesirable consequences.",
+      "example": [
+        {
+          "eng": "High security fences are designed to deter potential burglars.",
+          "ch": "高規格的安全圍籬旨在嚇阻潛在的強盜。"
+        }
+      ]
+    },
+    {
+      "eng": "detergent",
+      "kk": "dɪˈtɜrdʒənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "洗滌劑",
+          "清潔劑"
+        ]
+      ],
+      "analysis": "此字為歷史借詞與現代可識別構詞，由拉丁語 detergere（擦淨、清除，de- + tergere 擦拭）衍生的名詞。在現代英語中作為名詞，專指用於去除油汙和髒汙的液體或粉末狀化學清潔劑（如洗衣粉、洗碗精）。",
+      "definition": "1. A water-soluble cleansing substance that combines with impurities and dirt to isolate them, typically made from chemical compounds.",
+      "example": [
+        {
+          "eng": "She poured a capful of liquid detergent into the washing machine.",
+          "ch": "她往洗衣機裡倒了一瓶蓋的液體洗衣精。"
+        }
+      ]
+    },
+    {
+      "eng": "devour",
+      "kk": "dɪˈvaʊər",
+      "tense": "vt.",
+      "ch": [
+        [
+          "吞食",
+          "狼吞虎咽",
+          "吞噬"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自古法語 devorer，根本上溯至拉丁語 devorare（de- 向下 + vorare 吞吃）。在現代英語中作為及物動詞，本義指猛獸或飢餓的人大口吞吃食物，亦可比喻火勢、毀滅性力量或熱情閱讀將事物「吞噬」。",
+      "definition": "1. To eat food or prey hungrily or quickly; 2. To destroy or consume something completely, such as by fire, or to read something with intense eagerness.",
+      "example": [
+        {
+          "eng": "The starving wolf quickly devoured its prey.",
+          "ch": "飢餓的野狼迅速吞食了獵物。"
+        },
+        {
+          "eng": "He devoured every science fiction book he could find in the library.",
+          "ch": "他狼吞虎咽般地閱讀圖書館裡所有找得到的科幻小說。"
+        }
+      ]
+    }
+  ]
+}

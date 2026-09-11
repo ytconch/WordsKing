@@ -7,6 +7,7 @@ const PracticePage = (() => {
     type_en_from_zh: { label: "看中打英", questionType: "typing" },
     cloze_en: { label: "克漏字", questionType: "typing" }
   };
+  const PRACTICE_MAX_QUESTIONS = 5000;
 
   const state = {
     sources: [],
@@ -20,6 +21,7 @@ const PracticePage = (() => {
     questionTimerLimitSeconds: 0,
     questionTimerIndex: -1,
     nextQuestionTimerId: null,
+    generationAbortController: null,
     typingTtsEnabled: true,
     lastSuggestedNormalLimit: 10,
     lastSuggestedClozeLimit: 10,
@@ -29,11 +31,7 @@ const PracticePage = (() => {
     availability: {
       wordCount: 0,
       allMeaningCount: 0,
-      examMeaningCount: 0,
-      examWordCount: 0,
-      clozeAllCount: 0,
-      clozeExamCount: 0,
-      hasExamMeanings: false
+      clozeAllCount: 0
     }
   };
 
@@ -317,6 +315,34 @@ const PracticePage = (() => {
     refreshPracticeAvailability(true, { force: true }).catch((error) => showMessage(error.message));
   }
 
+  function getGuestStarredKeys() {
+    try {
+      return JSON.parse(sessionStorage.getItem("wordsKingGuestStars") || "[]");
+    } catch {
+      return [];
+    }
+  }
+
+  function isStarredOnlySelected() {
+    return Boolean(state.starredOnly || document.getElementById("practiceStarredOnly")?.checked);
+  }
+
+  function setStarredOnly(starred) {
+    state.starredOnly = Boolean(starred);
+    const checkbox = document.getElementById("practiceStarredOnly");
+    if (checkbox) {
+      checkbox.checked = state.starredOnly;
+    }
+
+    document.querySelectorAll("#practiceScopeSwitch .practice-scope-option").forEach((btn) => {
+      const isTarget = (btn.dataset.scope === "starred") === state.starredOnly;
+      btn.classList.toggle("is-active", isTarget);
+      btn.setAttribute("aria-pressed", String(isTarget));
+    });
+
+    refreshPracticeAvailability(true, { force: true }).catch((error) => showMessage(error.message));
+  }
+
   function buildAvailabilityParams() {
     const params = new URLSearchParams();
     const sourceId = document.getElementById("practiceSource")?.value || "";
@@ -328,7 +354,12 @@ const PracticePage = (() => {
     } else if (selectedUnitIds.length > 1) {
       params.set("unitIds", selectedUnitIds.join(","));
     }
-    params.set("meaningScope", getMeaningScope());
+    if (isStarredOnlySelected()) {
+      params.set("starredOnly", "true");
+      if (!appState.user || appState.user.isGuest) {
+        params.set("guestStarredKeys", JSON.stringify(getGuestStarredKeys()));
+      }
+    }
     return params;
   }
 
@@ -338,23 +369,17 @@ const PracticePage = (() => {
       .map((input) => String(input.value))
       .sort()
       .join(",");
-    return `${sourceId}::${selectedUnitIds}::${getMeaningScope()}`;
-  }
-
-  function getMeaningScope() {
-    return document.getElementById("meaningScope")?.value === "exam_only" ? "exam_only" : "all_meanings";
+    const starredOnly = isStarredOnlySelected();
+    const guestKeys = starredOnly && (!appState.user || appState.user.isGuest) ? getGuestStarredKeys().sort().join(",") : "";
+    return `${sourceId}::${selectedUnitIds}::${starredOnly}::${guestKeys}`;
   }
 
   function getNormalAvailableCount() {
-    return getMeaningScope() === "exam_only"
-      ? state.availability.examMeaningCount
-      : state.availability.allMeaningCount;
+    return state.availability.allMeaningCount;
   }
 
   function getClozeAvailableCount() {
-    return getMeaningScope() === "exam_only"
-      ? state.availability.clozeExamCount
-      : state.availability.clozeAllCount;
+    return state.availability.clozeAllCount;
   }
 
   function getSelectedModes() {
@@ -384,10 +409,11 @@ const PracticePage = (() => {
 
   function applyLimitState(inputId, availableCount, stateKey, autofillLimit, minLimit = 10) {
     const input = document.getElementById(inputId);
-    const defaultLimit = availableCount > 0 ? availableCount : minLimit;
+    const maximumLimit = Math.min(availableCount, PRACTICE_MAX_QUESTIONS);
+    const defaultLimit = availableCount > 0 ? maximumLimit : minLimit;
     const minValue = availableCount > 0 && availableCount < minLimit ? 1 : minLimit;
 
-    input.max = availableCount > 0 ? String(availableCount) : "";
+    input.max = availableCount > 0 ? String(maximumLimit) : String(PRACTICE_MAX_QUESTIONS);
     input.min = String(minValue);
 
     const numericValue = Number(input.value);
@@ -404,39 +430,25 @@ const PracticePage = (() => {
     state[stateKey] = defaultLimit;
   }
 
-  function renderMeaningScopeOptions() {
-    const select = document.getElementById("meaningScope");
-    const previousValue = select.value === "exam_only" ? "exam_only" : "all_meanings";
-    const options = state.availability.hasExamMeanings
-      ? [
-          { value: "exam_only", label: "僅考試字義" },
-          { value: "all_meanings", label: "包含拓展字義" }
-        ]
-      : [{ value: "all_meanings", label: "包含拓展字義" }];
-
-    select.innerHTML = options.map((option) => `<option value="${option.value}">${option.label}</option>`).join("");
-    select.value = state.availability.hasExamMeanings && previousValue === "exam_only" ? "exam_only" : "all_meanings";
-  }
-
   function updatePracticeSummaries(autofillLimit = false) {
-    renderMeaningScopeOptions();
-
     const selectedCount = getSelectedUnitInputs().length;
-    const scopeText = getMeaningScope() === "exam_only" ? "僅考試字義" : "包含拓展字義";
     const normalAvailable = getNormalAvailableCount();
     const clozeAvailable = getClozeAvailableCount();
-    const examHint = state.availability.hasExamMeanings
-      ? `已標記 ${state.availability.examWordCount} 個單字、${state.availability.examMeaningCount} 個考試字義。`
-      : "目前範圍沒有標記考試字義。";
     const rangePrefix = selectedCount
       ? `已選 ${selectedCount} 個單元`
       : "未勾選單元時會使用目前來源下全部單元";
+    const isStarred = isStarredOnlySelected();
+    const starPrefix = isStarred ? "【⭐ 僅標記單字】" : "";
+    const starHint = isStarred && normalAvailable === 0
+      ? "（目前範圍尚無標記單字，請至單字庫或專注單字卡中標記）"
+      : "";
 
     document.getElementById("practiceUnitSummary").textContent =
-      `${rangePrefix}，共 ${state.availability.wordCount} 個單字、${state.availability.allMeaningCount} 個可練習字義。${examHint}`;
+      `${rangePrefix}，共 ${state.availability.wordCount} 個單字、${state.availability.allMeaningCount} 個可練習字義。${starHint}`;
     document.getElementById("normalPracticeSummary").textContent =
-      `${scopeText}：一般練習可出 ${normalAvailable} 題。`;
-    document.getElementById("clozeSummary").textContent = `${scopeText}：克漏字可出 ${clozeAvailable} 題。`;
+      `${starPrefix}一般練習可出 ${normalAvailable} 題，單次最多 ${PRACTICE_MAX_QUESTIONS} 題。`;
+    document.getElementById("clozeSummary").textContent =
+      `${starPrefix}克漏字可出 ${clozeAvailable} 題，單次最多 ${PRACTICE_MAX_QUESTIONS} 題。`;
 
     applyLimitState("practiceLimit", normalAvailable, "lastSuggestedNormalLimit", autofillLimit, 10);
     applyLimitState("clozeLimit", clozeAvailable, "lastSuggestedClozeLimit", autofillLimit, 1);
@@ -457,11 +469,7 @@ const PracticePage = (() => {
     state.availability = {
       wordCount: Number(data.wordCount || 0),
       allMeaningCount: Number(data.allMeaningCount || 0),
-      examMeaningCount: Number(data.examMeaningCount || 0),
-      examWordCount: Number(data.examWordCount || 0),
-      clozeAllCount: Number(data.clozeAllCount || data.clozeCount || 0),
-      clozeExamCount: Number(data.clozeExamCount || 0),
-      hasExamMeanings: Boolean(data.hasExamMeanings)
+      clozeAllCount: Number(data.clozeAllCount || data.clozeCount || 0)
     };
     state.availabilityLoaded = true;
     state.availabilitySignature = signature;
@@ -833,8 +841,11 @@ const PracticePage = (() => {
     if (availableQuestionCount < 1) {
       return "目前範圍沒有可出題目。";
     }
-    if (Number.isNaN(limitValue) || limitValue < 1) {
-      return "題數至少需要 1 題。";
+    if (!Number.isInteger(limitValue) || limitValue < 1) {
+      return "題數需為大於 0 的整數。";
+    }
+    if (limitValue > PRACTICE_MAX_QUESTIONS) {
+      return `單次練習最多 ${PRACTICE_MAX_QUESTIONS} 題。`;
     }
     if (limitValue < minLimit && availableQuestionCount >= minLimit) {
       return `題數至少需要 ${minLimit} 題。`;
@@ -845,70 +856,16 @@ const PracticePage = (() => {
     return "";
   }
 
-  function renderTutorialPracticePreview() {
-    const area = document.getElementById("practiceArea");
-    if (!area) {
+  async function loadPractice(kind = "normal") {
+    clearPracticeTimers();
+
+    if (state.generationAbortController) {
       return;
     }
 
-    state.questions = [];
-    state.answers = [];
-    state.index = 0;
-    state.retryQuestions = [];
-    state.locked = false;
-    state.currentPracticeKind = "normal";
-
-    area.classList.remove("empty");
-    area.innerHTML = `
-      <div class="practice-question">
-        <div class="practice-meta">
-          <span class="pill">導覽示範</span>
-          <span class="muted">這裡只示範題目畫面，不會真的生成題目或記錄成績。</span>
-        </div>
-        <div class="progress-track"><span style="width: 36%"></span></div>
-        <div class="question-panel">
-          <div class="practice-meta">
-            <h2>一般練習</h2>
-          </div>
-          <div class="question-prompt">
-            <span class="practice-text-line">請選出 apple 的中文意思</span>
-          </div>
-          <div class="muted small-text">正式練習時，這裡會顯示題目、作答按鈕與進度。</div>
-          <div class="choice-grid" aria-hidden="true">
-            <button type="button" class="choice-btn" disabled>
-              <span class="choice-label-block">
-                <span class="practice-text-line">蘋果</span>
-              </span>
-            </button>
-            <button type="button" class="choice-btn" disabled>
-              <span class="choice-label-block">
-                <span class="practice-text-line">香蕉</span>
-              </span>
-            </button>
-            <button type="button" class="choice-btn" disabled>
-              <span class="choice-label-block">
-                <span class="practice-text-line">葡萄</span>
-              </span>
-            </button>
-          </div>
-        </div>
-      </div>
-    `;
-
-    area.scrollIntoView({
-      behavior: "smooth",
-      block: "start",
-      inline: "nearest"
-    });
-  }
-
-  async function loadPractice(kind = "normal") {
-    clearPracticeTimers();
-    await refreshPracticeAvailability(false, { force: true });
-
     const isCloze = kind === "cloze";
-    let limitInput = document.getElementById(isCloze ? "clozeLimit" : "practiceLimit");
-    let limitValue = parseInt(limitInput.value, 10);
+    const limitInput = document.getElementById(isCloze ? "clozeLimit" : "practiceLimit");
+    const limitValue = Number(limitInput.value);
     const selectedModes = isCloze ? ["cloze_en"] : getSelectedModes();
     let availableQuestionCount = isCloze ? getClozeAvailableCount() : getNormalAvailableCount();
 
@@ -926,15 +883,31 @@ const PracticePage = (() => {
     const params = buildAvailabilityParams();
     params.set("limit", String(limitValue));
     params.set("modes", selectedModes.join(","));
+    const controller = new AbortController();
+    state.generationAbortController = controller;
     try {
       const data = await api(`/api/practice/session?${params.toString()}`, {
+        signal: controller.signal,
         loading: {
           title: isCloze ? "正在生成克漏字題目" : "正在生成練習題目",
           detail: "題數較多時需要一點時間。",
           showOverlay: true,
-          revealDelay: 0
+          revealDelay: 0,
+          cancelLabel: "取消生成",
+          onCancel: () => controller.abort()
         }
       });
+
+      if (data.availability) {
+        state.availability = {
+          wordCount: Number(data.availability.wordCount || 0),
+          allMeaningCount: Number(data.availability.allMeaningCount || 0),
+          clozeAllCount: Number(data.availability.clozeAllCount || data.availability.clozeCount || 0)
+        };
+        state.availabilityLoaded = true;
+        state.availabilitySignature = getAvailabilitySignature();
+        updatePracticeSummaries(false);
+      }
 
       state.questions = data.questions || [];
       state.answers = [];
@@ -952,7 +925,11 @@ const PracticePage = (() => {
 
       renderQuestion();
     } catch (error) {
-      showMessage(error.message);
+      showMessage(controller.signal.aborted ? "已取消題目生成。" : error.message);
+    } finally {
+      if (state.generationAbortController === controller) {
+        state.generationAbortController = null;
+      }
     }
   }
 
@@ -994,13 +971,24 @@ const PracticePage = (() => {
       renderUnitOptions(event.target.value);
     });
 
-    document.getElementById("meaningScope").addEventListener("change", () => {
-      refreshPracticeAvailability(true, { force: true }).catch((error) => showMessage(error.message));
+    document.getElementById("practiceScopeSwitch")?.addEventListener("click", (event) => {
+      const button = event.target?.closest?.(".practice-scope-option");
+      if (!button) return;
+      const isStarred = button.dataset.scope === "starred";
+      if (isStarred === Boolean(state.starredOnly)) return;
+      setStarredOnly(isStarred);
+    });
+
+    document.getElementById("practiceStarredOnly")?.addEventListener("change", (event) => {
+      setStarredOnly(event.target.checked);
     });
 
     document.getElementById("loadPracticeBtn").addEventListener("click", () => loadPractice("normal"));
     document.getElementById("loadClozeBtn").addEventListener("click", () => loadPractice("cloze"));
-    window.addEventListener("pagehide", clearPracticeTimers);
+    window.addEventListener("pagehide", () => {
+      clearPracticeTimers();
+      state.generationAbortController?.abort();
+    });
   }
 
   return { init };

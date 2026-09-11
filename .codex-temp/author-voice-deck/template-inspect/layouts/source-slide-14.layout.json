@@ -1,0 +1,1106 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/6lsnupw7",
+    "id": "6lsnupw7",
+    "slide": 14,
+    "layoutId": "/ppt/slideLayouts/slideLayout1.xml",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#F6F8F2",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri Light",
+        "eastAsianTypeface": "Calibri Light",
+        "complexScriptTypeface": "Calibri Light"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri",
+        "eastAsianTypeface": "Calibri",
+        "complexScriptTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "Calibri",
+      "Calibri Light",
+      "Microsoft JhengHei"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout1.xml",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/y5wjitgj",
+      "id": "16",
+      "name": "top-rule-14",
+      "bbox": [
+        0,
+        0,
+        1280,
+        10
+      ],
+      "geometry": "rect",
+      "fillColor": "#315F45",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xc7eds76",
+      "id": "2",
+      "name": "section-14",
+      "bbox": [
+        72,
+        38,
+        360,
+        24
+      ],
+      "geometry": "rect",
+      "text": "APPENDIX D",
+      "textPreview": "APPENDIX D",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "APPENDIX D"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "APPENDIX D",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Microsoft JhengHei",
+            "color": "#315F45",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "APPENDIX D",
+              "fontSize": 15,
+              "typeface": "Microsoft JhengHei",
+              "color": "#315F45",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wbydknq1",
+      "id": "3",
+      "name": "title-14",
+      "bbox": [
+        72,
+        72,
+        1136,
+        62
+      ],
+      "geometry": "rect",
+      "text": "AI 協作透明揭露：主導權放在決策與驗收",
+      "textPreview": "AI 協作透明揭露：主導權放在決策與驗收",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "AI 協作透明揭露：主導權放在決策與驗收"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "AI 協作透明揭露：主導權放在決策與驗收",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "fontSize": 43,
+            "typeface": "Microsoft JhengHei",
+            "color": "#1F2D25",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "AI 協作透明揭露：主導權放在決策與驗收",
+              "fontSize": 43,
+              "typeface": "Microsoft JhengHei",
+              "color": "#1F2D25",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/jepwf2pc",
+      "id": "4",
+      "name": "subtitle-14",
+      "bbox": [
+        72,
+        132,
+        1136,
+        32
+      ],
+      "geometry": "rect",
+      "text": "Coding Agent 執行大量程式實作；我的責任是讓系統方向、規則與品質可被解釋。",
+      "textPreview": "Coding Agent 執行大量程式實作；我的責任是讓系統方向、規則與品質可被解釋。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Coding Agent 執行大量程式實作；我的責任是讓系統方向、規則與品質可被解釋。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Coding Agent 執行大量程式實作；我的責任是讓系統方向、規則與品質可被解釋。",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Microsoft JhengHei",
+            "color": "#5D6B62",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Coding Agent 執行大量程式實作；我的責任是讓系統方向、規則與品質可被解釋。",
+              "fontSize": 20,
+              "typeface": "Microsoft JhengHei",
+              "color": "#5D6B62"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/idgvmx8r",
+      "id": "5",
+      "name": "footer-brand-14",
+      "bbox": [
+        72,
+        686,
+        360,
+        18
+      ],
+      "geometry": "rect",
+      "text": "WORDS KING · 詹秉睿",
+      "textPreview": "WORDS KING · 詹秉睿",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "WORDS KING · 詹秉睿"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "WORDS KING · 詹秉睿",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "typeface": "Microsoft JhengHei",
+            "color": "#5D6B62",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "WORDS KING · 詹秉睿",
+              "fontSize": 13,
+              "typeface": "Microsoft JhengHei",
+              "color": "#5D6B62",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5grehs7i",
+      "id": "6",
+      "name": "footer-page-14",
+      "bbox": [
+        1170,
+        686,
+        38,
+        18
+      ],
+      "geometry": "rect",
+      "text": "14",
+      "textPreview": "14",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "14"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "14",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "typeface": "Microsoft JhengHei",
+            "color": "#5D6B62",
+            "bold": true,
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "14",
+              "fontSize": 13,
+              "typeface": "Microsoft JhengHei",
+              "color": "#5D6B62",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kfidonqx",
+      "id": "7",
+      "name": "human-panel",
+      "bbox": [
+        80,
+        214,
+        500,
+        350
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#102B4E",
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zi5c3y98",
+      "id": "8",
+      "name": "human-kicker",
+      "bbox": [
+        116,
+        250,
+        160,
+        34
+      ],
+      "geometry": "rect",
+      "text": "我負責",
+      "textPreview": "我負責",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "我負責"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "我負責",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Microsoft JhengHei",
+            "color": "#D4A94E",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "我負責",
+              "fontSize": 18,
+              "typeface": "Microsoft JhengHei",
+              "color": "#D4A94E",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ehwvat8n",
+      "id": "9",
+      "name": "human-title",
+      "bbox": [
+        116,
+        304,
+        390,
+        48
+      ],
+      "geometry": "rect",
+      "text": "問題定義與工程判斷",
+      "textPreview": "問題定義與工程判斷",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "問題定義與工程判斷"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "問題定義與工程判斷",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "fontSize": 31,
+            "typeface": "Microsoft JhengHei",
+            "color": "#FFFFFF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "問題定義與工程判斷",
+              "fontSize": 31,
+              "typeface": "Microsoft JhengHei",
+              "color": "#FFFFFF",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/c3e1gjyd",
+      "id": "10",
+      "name": "human-items",
+      "bbox": [
+        116,
+        382,
+        390,
+        138
+      ],
+      "geometry": "rect",
+      "text": "• 找出學習痛點與使用情境\n• 拆解需求、決定優先順序\n• 設定資料規則與失敗策略\n• 測試、驗收並要求修正",
+      "textPreview": "• 找出學習痛點與使用情境 | • 拆解需求、決定優先順序 | • 設定資料規則與失敗策略 | • 測試、驗收並要求修正",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 4,
+        "lines": [
+          {
+            "index": 1,
+            "text": "• 找出學習痛點與使用情境"
+          },
+          {
+            "index": 2,
+            "text": "• 拆解需求、決定優先順序"
+          },
+          {
+            "index": 3,
+            "text": "• 設定資料規則與失敗策略"
+          },
+          {
+            "index": 4,
+            "text": "• 測試、驗收並要求修正"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "• 找出學習痛點與使用情境",
+          "lineSpacingPercent": 138000,
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Microsoft JhengHei",
+            "color": "#E5ECF3",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "• 找出學習痛點與使用情境",
+              "fontSize": 20,
+              "typeface": "Microsoft JhengHei",
+              "color": "#E5ECF3"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "• 拆解需求、決定優先順序",
+          "lineSpacingPercent": 138000,
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Microsoft JhengHei",
+            "color": "#E5ECF3",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "• 拆解需求、決定優先順序",
+              "fontSize": 20,
+              "typeface": "Microsoft JhengHei",
+              "color": "#E5ECF3"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "• 設定資料規則與失敗策略",
+          "lineSpacingPercent": 138000,
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Microsoft JhengHei",
+            "color": "#E5ECF3",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "• 設定資料規則與失敗策略",
+              "fontSize": 20,
+              "typeface": "Microsoft JhengHei",
+              "color": "#E5ECF3"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 4,
+          "text": "• 測試、驗收並要求修正",
+          "lineSpacingPercent": 138000,
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Microsoft JhengHei",
+            "color": "#E5ECF3",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "• 測試、驗收並要求修正",
+              "fontSize": 20,
+              "typeface": "Microsoft JhengHei",
+              "color": "#E5ECF3"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/x4ni9ofy",
+      "id": "11",
+      "name": "agent-panel",
+      "bbox": [
+        650,
+        214,
+        550,
+        350
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#CBD6C7",
+      "lineWidth": 1
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/a1wze9g7",
+      "id": "12",
+      "name": "agent-kicker",
+      "bbox": [
+        686,
+        250,
+        220,
+        34
+      ],
+      "geometry": "rect",
+      "text": "Coding Agent 負責",
+      "textPreview": "Coding Agent 負責",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Coding Agent 負責"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Coding Agent 負責",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "typeface": "Microsoft JhengHei",
+            "color": "#315F45",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Coding Agent 負責",
+              "fontSize": 18,
+              "typeface": "Microsoft JhengHei",
+              "color": "#315F45",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/b2507exs",
+      "id": "13",
+      "name": "agent-title",
+      "bbox": [
+        686,
+        304,
+        450,
+        48
+      ],
+      "geometry": "rect",
+      "text": "大量程式實作與修正執行",
+      "textPreview": "大量程式實作與修正執行",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "大量程式實作與修正執行"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "大量程式實作與修正執行",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "fontSize": 31,
+            "typeface": "Microsoft JhengHei",
+            "color": "#1F2D25",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "大量程式實作與修正執行",
+              "fontSize": 31,
+              "typeface": "Microsoft JhengHei",
+              "color": "#1F2D25",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kre1k3y9",
+      "id": "14",
+      "name": "agent-items",
+      "bbox": [
+        686,
+        382,
+        450,
+        138
+      ],
+      "geometry": "rect",
+      "text": "• 依規格產生與調整程式\n• 協助除錯、重構與補測試\n• 執行重複性高的修改\n• 由我檢查結果是否符合目的",
+      "textPreview": "• 依規格產生與調整程式 | • 協助除錯、重構與補測試 | • 執行重複性高的修改 | • 由我檢查結果是否符合目的",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 4,
+        "lines": [
+          {
+            "index": 1,
+            "text": "• 依規格產生與調整程式"
+          },
+          {
+            "index": 2,
+            "text": "• 協助除錯、重構與補測試"
+          },
+          {
+            "index": 3,
+            "text": "• 執行重複性高的修改"
+          },
+          {
+            "index": 4,
+            "text": "• 由我檢查結果是否符合目的"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "• 依規格產生與調整程式",
+          "lineSpacingPercent": 138000,
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Microsoft JhengHei",
+            "color": "#5D6B62",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "• 依規格產生與調整程式",
+              "fontSize": 20,
+              "typeface": "Microsoft JhengHei",
+              "color": "#5D6B62"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "• 協助除錯、重構與補測試",
+          "lineSpacingPercent": 138000,
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Microsoft JhengHei",
+            "color": "#5D6B62",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "• 協助除錯、重構與補測試",
+              "fontSize": 20,
+              "typeface": "Microsoft JhengHei",
+              "color": "#5D6B62"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "• 執行重複性高的修改",
+          "lineSpacingPercent": 138000,
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Microsoft JhengHei",
+            "color": "#5D6B62",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "• 執行重複性高的修改",
+              "fontSize": 20,
+              "typeface": "Microsoft JhengHei",
+              "color": "#5D6B62"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 4,
+          "text": "• 由我檢查結果是否符合目的",
+          "lineSpacingPercent": 138000,
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Microsoft JhengHei",
+            "color": "#5D6B62",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "• 由我檢查結果是否符合目的",
+              "fontSize": 20,
+              "typeface": "Microsoft JhengHei",
+              "color": "#5D6B62"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ls7idofu",
+      "id": "15",
+      "name": "ai-disclosure-close",
+      "bbox": [
+        112,
+        606,
+        1056,
+        38
+      ],
+      "geometry": "rect",
+      "text": "我不把 AI 產出的程式冒充為全數手寫；我呈現的是如何運用工具完成可驗證的工程成果。",
+      "textPreview": "我不把 AI 產出的程式冒充為全數手寫；我呈現的是如何運用工具完成可驗證的工程成果。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "我不把 AI 產出的程式冒充為全數手寫；我呈現的是如何運用工具完成可驗證的工程成果。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "我不把 AI 產出的程式冒充為全數手寫；我呈現的是如何運用工具完成可驗證的工程成果。",
+          "lineSpacingPercent": 105000,
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Microsoft JhengHei",
+            "color": "#315F45",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "我不把 AI 產出的程式冒充為全數手寫；我呈現的是如何運用工具完成可驗證的工程成果。",
+              "fontSize": 20,
+              "typeface": "Microsoft JhengHei",
+              "color": "#315F45",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

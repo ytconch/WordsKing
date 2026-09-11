@@ -1,0 +1,258 @@
+{"kind":"deck","id":"pr/5ftcc9","name":"Deck"}
+{"kind":"layout","layoutId":"/ppt/slideMasters/slideMaster1.xml","name":"","type":"master"}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout1.xml","name":"TITLE","type":"title"}
+{"kind":"slide","id":"sl/t52atj","slide":1,"title":"WORDS KING","textShapes":4}
+{"kind":"shape","id":"sh/upcf2t4z","slide":1,"name":"Google Shape;16;p3","bbox":[0,0,430,720]}
+{"kind":"shape","id":"sh/vqlwvy5k","slide":1,"name":"Google Shape;17;p3","bbox":[72,86,64,8]}
+{"kind":"textbox","id":"sh/9o3etone","slide":1,"name":"Google Shape;19;p3","text":"WORDS KING","textPreview":"WORDS KING","textChars":10,"textLines":1,"bbox":[116.01,337.01,197.98,45.98]}
+{"kind":"textbox","id":"sh/9kvuxkf2","slide":1,"name":"Google Shape;20;p3","text":"專案作品報告","textPreview":"專案作品報告","textChars":6,"textLines":1,"bbox":[160.34,382.99,109.32,34.02]}
+{"kind":"textbox","id":"sh/ojmdofex","slide":1,"name":"Google Shape;21;p3","text":"從學習痛點出發\n\t建立單字學習網站。\n","textPreview":"從學習痛點出發 | \t建立單字學習網站。 |","textChars":19,"textLines":3,"bbox":[500,128,721.86,185.01]}
+{"kind":"shape","id":"sh/nidcvaxc","slide":1,"name":"Google Shape;22;p3","bbox":[504,472,610,0]}
+{"kind":"textbox","id":"sh/mhkvmpwr","slide":1,"name":"Google Shape;23;p3","text":"詹秉睿\n清水高中 · 高三","textPreview":"詹秉睿 | 清水高中 · 高三","textChars":13,"textLines":2,"bbox":[504,505,340,78]}
+{"kind":"image","id":"im/25kjmtcn","slide":1,"name":"Google Shape;18;p3","bbox":[148.02,200.84,133.95,131.16]}
+{"kind":"notes","id":"nt/t52atj","slide":1,"text":"[Sources]\n- 本專案識別與申請人資料。"}
+{"kind":"slide","id":"sl/lzias2","slide":2,"title":"ORIGIN","textShapes":12}
+{"kind":"shape","id":"sh/hkbyxknq","slide":2,"name":"Google Shape;29;p4","bbox":[0,0,1280,10]}
+{"kind":"textbox","id":"sh/ze907upc","slide":2,"name":"Google Shape;30;p4","text":"ORIGIN","textPreview":"ORIGIN","textChars":6,"textLines":1,"bbox":[72,38,360,24]}
+{"kind":"textbox","id":"sh/yd0zep8r","slide":2,"name":"Google Shape;31;p4","text":"我不想再逐字詢問 AI","textPreview":"我不想再逐字詢問 AI","textChars":11,"textLines":1,"bbox":[72,72,1136,62]}
+{"kind":"textbox","id":"sh/lgri9k7i","slide":2,"name":"Google Shape;32;p4","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1170,686,38,18]}
+{"kind":"textbox","id":"sh/kfihgf6x","slide":2,"name":"Google Shape;33;p4","text":"以前，我會把每個單字逐一問 AI：\n它的拉丁字根是什麼？詞源如何演變？","textPreview":"以前，我會把每個單字逐一問 AI： | 它的拉丁字根是什麼？詞源如何演變？","textChars":35,"textLines":2,"bbox":[78,200,510,120]}
+{"kind":"textbox","id":"sh/7i90bupo","slide":2,"name":"Google Shape;34;p4","text":"這種方法能讓我理解單字，卻無法規模化；\n我也觀察到，同學多半仍靠重複背誦來記憶單字。\n於是我把個人的查詢流程，\n改造成可以整理、練習與追蹤的系統。","textPreview":"這種方法能讓我理解單字，卻無法規模化； | 我也觀察到，同學多半仍靠重複背誦來記憶單字。 | 於是我把個人的查詢流程， | 改造成可以整理、練習與追蹤的系統。","textChars":73,"textLines":4,"bbox":[78,352,510,145]}
+{"kind":"shape","id":"sh/mh0zipo3","slide":2,"name":"Google Shape;35;p4","bbox":[650,192,490,350]}
+{"kind":"textbox","id":"sh/9kbid47e","slide":2,"name":"Google Shape;36;p4","text":"distribute","textPreview":"distribute","textChars":10,"textLines":1,"bbox":[690.01,221.37,390.02,58.02]}
+{"kind":"textbox","id":"sh/8jihkz69","slide":2,"name":"Google Shape;37;p4","text":"dis-","textPreview":"dis-","textChars":4,"textLines":1,"bbox":[715.03,325.51,120,44]}
+{"kind":"textbox","id":"sh/v6t0fepk","slide":2,"name":"Google Shape;38;p4","text":"+","textPreview":"+","textChars":1,"textLines":1,"bbox":[855.26,326.52,38.02,41.98]}
+{"kind":"textbox","id":"sh/u5kzm9oz","slide":2,"name":"Google Shape;39;p4","text":"tribuere","textPreview":"tribuere","textChars":8,"textLines":1,"bbox":[895.59,325.51,189.98,44]}
+{"kind":"textbox","id":"sh/e1cbyx0n","slide":2,"name":"Google Shape;40;p4","text":"apart／分開","textPreview":"apart／分開","textChars":8,"textLines":1,"bbox":[702.53,384,145.01,34.02]}
+{"kind":"textbox","id":"sh/f2ls7218","slide":2,"name":"Google Shape;41;p4","text":"assign／分配","textPreview":"assign／分配","textChars":9,"textLines":1,"bbox":[883.08,384,214.99,34.02]}
+{"kind":"textbox","id":"sh/gnut07id","slide":2,"name":"Google Shape;42;p4","text":"拉丁字跟的背誦與搭配，使的記憶量減少與英語單字邏輯化。","textPreview":"拉丁字跟的背誦與搭配，使的記憶量減少與英語單字邏輯化。","textChars":27,"textLines":1,"bbox":[690.01,444.49,390.02,42.02]}
+{"kind":"notes","id":"nt/lzias2","slide":2,"text":"[Sources]\n- Merriam-Webster — https://www.merriam-webster.com/dictionary/distribute\n- Oxford Advanced Learner's Dictionary — https://www.oxfordlearnersdictionaries.com/definition/english/distribute\n- 本專案開發動機。"}
+{"kind":"slide","id":"sl/xbc23p","slide":3,"title":"EVOLUTION","textShapes":18}
+{"kind":"shape","id":"sh/fm14b2to","slide":3,"name":"Google Shape;48;p5","bbox":[0,0,1280,10]}
+{"kind":"textbox","id":"sh/uls3ixs3","slide":3,"name":"Google Shape;49;p5","text":"EVOLUTION","textPreview":"EVOLUTION","textChars":9,"textLines":1,"bbox":[72,38,360,24]}
+{"kind":"textbox","id":"sh/krq1s3q1","slide":3,"name":"Google Shape;50;p5","text":"四個月內，把想法架構做成公開服務","textPreview":"四個月內，把想法架構做成公開服務","textChars":16,"textLines":1,"bbox":[72,72,1136,62]}
+{"kind":"textbox","id":"sh/5sz2l8rm","slide":3,"name":"Google Shape;51;p5","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1170,686,38,18]}
+{"kind":"shape","id":"sh/ip8jqt8v","slide":3,"name":"Google Shape;52;p5","bbox":[104,342,1050,0]}
+{"kind":"shape","id":"sh/jqh0jy9g","slide":3,"name":"Google Shape;53;p5","bbox":[114,327,30,30]}
+{"kind":"textbox","id":"sh/svq1wnqd","slide":3,"name":"Google Shape;54;p5","text":"04/24","textPreview":"04/24","textChars":5,"textLines":1,"bbox":[79,254,100,42]}
+{"kind":"textbox","id":"sh/tgj2p8ry","slide":3,"name":"Google Shape;55;p5","text":"開始開發","textPreview":"開始開發","textChars":4,"textLines":1,"bbox":[39,382,180,50]}
+{"kind":"textbox","id":"sh/6t8jud87","slide":3,"name":"Google Shape;56;p5","text":"完成專案骨架","textPreview":"完成專案骨架","textChars":6,"textLines":1,"bbox":[36,442,186,66]}
+{"kind":"shape","id":"sh/7uhkni9s","slide":3,"name":"Google Shape;57;p5","bbox":[336,327,30,30]}
+{"kind":"textbox","id":"sh/8z61kjqt","slide":3,"name":"Google Shape;58;p5","text":"04/25","textPreview":"04/25","textChars":5,"textLines":1,"bbox":[301,254,100,42]}
+{"kind":"textbox","id":"sh/9kfidore","slide":3,"name":"Google Shape;59;p5","text":"beta版本釋出\n基本單字功能與練習","textPreview":"beta版本釋出 | 基本單字功能與練習","textChars":18,"textLines":2,"bbox":[255.02,374.5,180,50.02]}
+{"kind":"textbox","id":"sh/pg7yhkji","slide":3,"name":"Google Shape;60;p5","text":"開始累積練習紀錄","textPreview":"開始累積練習紀錄","textChars":8,"textLines":1,"bbox":[258,442,186,66]}
+{"kind":"shape","id":"sh/ofyh8fix","slide":3,"name":"Google Shape;61;p5","bbox":[558,327,30,30]}
+{"kind":"textbox","id":"sh/3epgfa1c","slide":3,"name":"Google Shape;62;p5","text":"04/29","textPreview":"04/29","textChars":5,"textLines":1,"bbox":[523,254,100,42]}
+{"kind":"textbox","id":"sh/2dgz650r","slide":3,"name":"Google Shape;63;p5","text":"OCR掃描資料\nAI擬合分析資料匯入","textPreview":"OCR掃描資料 | AI擬合分析資料匯入","textChars":18,"textLines":2,"bbox":[471.05,374.51,203.91,49.98]}
+{"kind":"textbox","id":"sh/xk7ylkje","slide":3,"name":"Google Shape;64;p5","text":"建立內容處理管線","textPreview":"建立內容處理管線","textChars":8,"textLines":1,"bbox":[480,442,186,66]}
+{"kind":"shape","id":"sh/cjyhcfit","slide":3,"name":"Google Shape;65;p5","bbox":[780,327,30,30]}
+{"kind":"textbox","id":"sh/bipgja18","slide":3,"name":"Google Shape;66;p5","text":"05/25","textPreview":"05/25","textChars":5,"textLines":1,"bbox":[745,254,100,42]}
+{"kind":"textbox","id":"sh/ahgza50n","slide":3,"name":"Google Shape;67;p5","text":"公測版本發布","textPreview":"公測版本發布","textChars":6,"textLines":1,"bbox":[705,382,180,50]}
+{"kind":"textbox","id":"sh/lorip4ja","slide":3,"name":"Google Shape;68;p5","text":"同學可透過公網鏈結使用","textPreview":"同學可透過公網鏈結使用","textChars":11,"textLines":1,"bbox":[702,442,186,66]}
+{"kind":"shape","id":"sh/knihgzi5","slide":3,"name":"Google Shape;69;p5","bbox":[1002,327,30,30]}
+{"kind":"textbox","id":"sh/ihsnuxcb","slide":3,"name":"Google Shape;70;p5","text":"08/15","textPreview":"08/15","textChars":5,"textLines":1,"bbox":[967,254,100,42]}
+{"kind":"textbox","id":"sh/ji14n2dw","slide":3,"name":"Google Shape;71;p5","text":"持續維運","textPreview":"持續維運","textChars":4,"textLines":1,"bbox":[927,382,180,50]}
+{"kind":"textbox","id":"sh/kja5w7u1","slide":3,"name":"Google Shape;72;p5","text":"持續補充內容與功能","textPreview":"持續補充內容與功能","textChars":9,"textLines":1,"bbox":[924,442,186,66]}
+{"kind":"notes","id":"nt/xbc23p","slide":3,"text":"[Sources]\n- 本專案開發紀錄。"}
+{"kind":"slide","id":"sl/ho00oj","slide":4,"title":"ENGINEERING","textShapes":12}
+{"kind":"shape","id":"sh/apoji1sf","slide":4,"name":"Google Shape;78;p6","bbox":[0,0,1280,10]}
+{"kind":"textbox","id":"sh/bqx0r6t0","slide":4,"name":"Google Shape;79;p6","text":"ENGINEERING","textPreview":"ENGINEERING","textChars":11,"textLines":1,"bbox":[72,38,360,24]}
+{"kind":"textbox","id":"sh/felcnm5g","slide":4,"name":"Google Shape;80;p6","text":"我把重複化的查詢學習做成了高效且方便的網頁","textPreview":"我把重複化的查詢學習做成了高效且方便的網頁","textChars":21,"textLines":1,"bbox":[72,72,1136,62]}
+{"kind":"textbox","id":"sh/edcbu14v","slide":4,"name":"Google Shape;81;p6","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1170,686,38,18]}
+{"kind":"shape","id":"sh/10nupwn6","slide":4,"name":"Google Shape;82;p6","bbox":[338,330,90,0]}
+{"kind":"shape","id":"sh/gzetwrm1","slide":4,"name":"Google Shape;83;p6","bbox":[788,330,90,0]}
+{"kind":"shape","id":"sh/325cr65c","slide":4,"name":"Google Shape;84;p6","bbox":[76,210,262,326]}
+{"kind":"shape","id":"sh/21wby14r","slide":4,"name":"Google Shape;85;p6","bbox":[76,210,262,12]}
+{"kind":"shape","id":"sh/p4nutgni","slide":4,"name":"Google Shape;86;p6","bbox":[104,250,58,58]}
+{"kind":"textbox","id":"sh/o3et0bmx","slide":4,"name":"Google Shape;87;p6","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[104,266,58,24]}
+{"kind":"textbox","id":"sh/j61sf258","slide":4,"name":"Google Shape;88;p6","text":"使用者體驗","textPreview":"使用者體驗","textChars":5,"textLines":1,"bbox":[104,336,206,44]}
+{"kind":"textbox","id":"sh/i5sbmh4n","slide":4,"name":"Google Shape;89;p6","text":"單字庫\n多模式練習\n趨勢與排行榜","textPreview":"單字庫 | 多模式練習 | 趨勢與排行榜","textChars":16,"textLines":3,"bbox":[104,404,206,110]}
+{"kind":"shape","id":"sh/8bq9w32l","slide":4,"name":"Google Shape;90;p6","bbox":[428,210,360,326]}
+{"kind":"shape","id":"sh/9czqp836","slide":4,"name":"Google Shape;91;p6","bbox":[428,210,360,12]}
+{"kind":"shape","id":"sh/m987udkf","slide":4,"name":"Google Shape;92;p6","bbox":[456,250,58,58]}
+{"kind":"textbox","id":"sh/nah8nil0","slide":4,"name":"Google Shape;93;p6","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[456,266,58,24]}
+{"kind":"textbox","id":"sh/0n6ps329","slide":4,"name":"Google Shape;94;p6","text":"服務與資料","textPreview":"服務與資料","textChars":5,"textLines":1,"bbox":[456,336,304,44]}
+{"kind":"textbox","id":"sh/lofql83u","slide":4,"name":"Google Shape;95;p6","text":"Express API／JWT 權限\nSQLite 三庫分工\n學習同步、通知","textPreview":"Express API／JWT 權限 | SQLite 三庫分工 | 學習同步、通知","textChars":38,"textLines":3,"bbox":[456,408,304,110.02]}
+{"kind":"shape","id":"sh/ylo7qtkj","slide":4,"name":"Google Shape;96;p6","bbox":[878,210,326,326]}
+{"kind":"shape","id":"sh/zmx8jylo","slide":4,"name":"Google Shape;97;p6","bbox":[878,210,326,12]}
+{"kind":"shape","id":"sh/4ja94n2t","slide":4,"name":"Google Shape;98;p6","bbox":[906,250,58,58]}
+{"kind":"textbox","id":"sh/5kjqxs3y","slide":4,"name":"Google Shape;99;p6","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[906,266,58,24]}
+{"kind":"textbox","id":"sh/6xwv6pof","slide":4,"name":"Google Shape;100;p6","text":"內容與維運","textPreview":"內容與維運","textChars":5,"textLines":1,"bbox":[906,336,270,44]}
+{"kind":"textbox","id":"sh/7ypcfu5k","slide":4,"name":"Google Shape;101;p6","text":"OCR／Gemini 匯入\n管理後台與人工審核\n發音快取與 fallback","textPreview":"OCR／Gemini 匯入 | 管理後台與人工審核 | 發音快取與 fallback","textChars":38,"textLines":3,"bbox":[906,404,270,110]}
+{"kind":"notes","id":"nt/ho00oj","slide":4,"text":"[Sources]\n- 本專案原始碼：server.js、src/routes、src/db、src/middleware、src/utils、public。"}
+{"kind":"slide","id":"sl/mmy8n2","slide":5,"title":"PRODUCT","textShapes":7}
+{"kind":"shape","id":"sh/gved4jap","slide":5,"name":"Google Shape;107;p7","bbox":[0,0,1280,10]}
+{"kind":"textbox","id":"sh/76lc7et8","slide":5,"name":"Google Shape;108;p7","text":"PRODUCT","textPreview":"PRODUCT","textChars":7,"textLines":1,"bbox":[72,38,360,24]}
+{"kind":"textbox","id":"sh/65cvy9sn","slide":5,"name":"Google Shape;109;p7","text":"完整的學習功能與監測","textPreview":"完整的學習功能與監測","textChars":10,"textLines":1,"bbox":[72,72,1136,62]}
+{"kind":"textbox","id":"sh/czq1sbm9","slide":5,"name":"Google Shape;110;p7","text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1170,686,38,18]}
+{"kind":"shape","id":"sh/k3q1wvm5","slide":5,"name":"Google Shape;114;p7","bbox":[76.29,522.73,248,33.83]}
+{"kind":"textbox","id":"sh/l4z2p0nq","slide":5,"name":"Google Shape;115;p7","text":"理解：單字庫","textPreview":"理解：單字庫","textChars":6,"textLines":1,"bbox":[76.29,527.24,248,24.82]}
+{"kind":"shape","id":"sh/y18jul4z","slide":5,"name":"Google Shape;116;p7","bbox":[504.66,522.73,270.55,33.83]}
+{"kind":"textbox","id":"sh/z2hknq5k","slide":5,"name":"Google Shape;117;p7","text":"練習：三模式訓練","textPreview":"練習：三模式訓練","textChars":8,"textLines":1,"bbox":[504.66,527.24,270.55,24.82]}
+{"kind":"shape","id":"sh/g761krm1","slide":5,"name":"Google Shape;118;p7","bbox":[953.33,522.73,248,33.83]}
+{"kind":"textbox","id":"sh/18fidwnm","slide":5,"name":"Google Shape;119;p7","text":"追蹤：學習趨勢","textPreview":"追蹤：學習趨勢","textChars":7,"textLines":1,"bbox":[953.33,527.24,248,24.82]}
+{"kind":"textbox","id":"sh/ho7yhsfa","slide":5,"name":"Google Shape;120;p7","text":"Words King 的核心目的並非單純提供單字庫，\n而是引導使用者透過實作練習發現個人學習盲點。\n系統隨後進行數據分析並提供精準練題，協助使用者徹底克服難點、提升學習效率。 ","textPreview":"Words King 的核心目的並非單純提供單字庫， | 而是引導使用者透過實作練習發現個人學習盲點。 | 系統隨後進行數據分析並提供精準練題，協助使用者徹底克服難點、提升學習效率。","textChars":88,"textLines":3,"bbox":[72,143.32,1044.82,110.8]}
+{"kind":"image","id":"im/94jehc3y","slide":5,"name":"Google Shape;111;p7","geometry":"roundRect","bbox":[0,263.45,400.57,225.45]}
+{"kind":"image","id":"im/m1sv6x47","slide":5,"name":"Google Shape;112;p7","geometry":"roundRect","bbox":[439.65,263.45,400.57,225.45]}
+{"kind":"image","id":"im/n21wf2ls","slide":5,"name":"Google Shape;113;p7","geometry":"roundRect","bbox":[879.18,263.45,400.82,225.45]}
+{"kind":"notes","id":"nt/mmy8n2","slide":5,"text":"[Sources]\n- 本專案展示畫面。"}
+{"kind":"slide","id":"sl/ei4bl8","slide":6,"title":"PROBLEM FRAMING","textShapes":13}
+{"kind":"shape","id":"sh/adwf654v","slide":6,"name":"Google Shape;126;p8","bbox":[0,0,1280,10]}
+{"kind":"textbox","id":"sh/be5gza5g","slide":6,"name":"Google Shape;127;p8","text":"PROBLEM FRAMING","textPreview":"PROBLEM FRAMING","textChars":15,"textLines":1,"bbox":[72,38,360,24]}
+{"kind":"textbox","id":"sh/obex4vm5","slide":6,"name":"Google Shape;128;p8","text":"趨勢功能把『會背』變成能看見的『掌握程度』","textPreview":"趨勢功能把『會背』變成能看見的『掌握程度』","textChars":21,"textLines":1,"bbox":[72,72,1136,62]}
+{"kind":"textbox","id":"sh/9cnyx0na","slide":6,"name":"Google Shape;129;p8","text":"使用者於單字庫完成單字複習後，\n可進入練習區選擇單元與模式進行測驗。\n測驗完畢後，系統會彙整答題數據並傳送至後端儲存。\n下次使用者再次測驗時，系統將依據先前的答題表現，\n結合錯題演算法精準推送並調整題目。 ","textPreview":"使用者於單字庫完成單字複習後， | 可進入練習區選擇單元與模式進行測驗。 | 測驗完畢後，系統會彙整答題數據並傳送至後端儲存。 | 下次使用者再次測驗時，系統將依據先前的答題表現， | 結合錯題演算法精準推送並調整題目。","textChars":103,"textLines":5,"bbox":[72,144.49,1136,154.14]}
+{"kind":"textbox","id":"sh/r6lgnqpc","slide":6,"name":"Google Shape;130;p8","text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1170,686,38,18]}
+{"kind":"shape","id":"sh/qlczel8r","slide":6,"name":"Google Shape;131;p8","bbox":[356,383.96,80,0]}
+{"kind":"shape","id":"sh/d83yp07i","slide":6,"name":"Google Shape;132;p8","bbox":[746,383.96,80,0]}
+{"kind":"shape","id":"sh/c7uhgvqx","slide":6,"name":"Google Shape;133;p8","bbox":[76,310.96,280,248]}
+{"kind":"shape","id":"sh/za5grap8","slide":6,"name":"Google Shape;134;p8","bbox":[100,334.96,54.02,54.02]}
+{"kind":"textbox","id":"sh/e9czi583","slide":6,"name":"Google Shape;135;p8","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[100,346.96,54.02,28]}
+{"kind":"textbox","id":"sh/1cnyd07e","slide":6,"name":"Google Shape;136;p8","text":"理解","textPreview":"理解","textChars":2,"textLines":1,"bbox":[100,414.96,232,48]}
+{"kind":"textbox","id":"sh/0behkv6t","slide":6,"name":"Google Shape;137;p8","text":"以字根、詞源、詞義與例句建立記憶線索。","textPreview":"以字根、詞源、詞義與例句建立記憶線索。","textChars":19,"textLines":1,"bbox":[100,474.96,232,68]}
+{"kind":"shape","id":"sh/ne50fapk","slide":6,"name":"Google Shape;138;p8","bbox":[436,310.96,310.02,248]}
+{"kind":"shape","id":"sh/mdwzm5oz","slide":6,"name":"Google Shape;139;p8","bbox":[460,334.96,54.02,54.02]}
+{"kind":"textbox","id":"sh/mh4ji9wb","slide":6,"name":"Google Shape;140;p8","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[460,346.96,54.02,28]}
+{"kind":"textbox","id":"sh/7id0rexw","slide":6,"name":"Google Shape;141;p8","text":"練習","textPreview":"練習","textChars":2,"textLines":1,"bbox":[460,414.96,262.02,48]}
+{"kind":"textbox","id":"sh/8jm1kje1","slide":6,"name":"Google Shape;142;p8","text":"用中選英、看中打英、克漏字等模式練習。","textPreview":"用中選英、看中打英、克漏字等模式練習。","textChars":19,"textLines":1,"bbox":[460,474.96,262.02,68]}
+{"kind":"shape","id":"sh/9kv2tofm","slide":6,"name":"Google Shape;143;p8","bbox":[826,310.96,378.02,248]}
+{"kind":"shape","id":"sh/ul4jmtw7","slide":6,"name":"Google Shape;144;p8","bbox":[850,334.96,54.02,54.02]}
+{"kind":"textbox","id":"sh/vmxkvyxs","slide":6,"name":"Google Shape;145;p8","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[850,346.96,54.02,28]}
+{"kind":"textbox","id":"sh/gn61o3ed","slide":6,"name":"Google Shape;146;p8","text":"追蹤","textPreview":"追蹤","textChars":2,"textLines":1,"bbox":[850,414.96,330.02,48]}
+{"kind":"textbox","id":"sh/hof2x8fy","slide":6,"name":"Google Shape;147;p8","text":"保留作答、錯題與熟練度，讓下一次複習可以做出更精準的題目推送。","textPreview":"保留作答、錯題與熟練度，讓下一次複習可以做出更精準的題目推送。","textChars":31,"textLines":1,"bbox":[850,474.96,330.02,68]}
+{"kind":"notes","id":"nt/ei4bl8","slide":6,"text":"[Sources]\n- 本專案功能流程與資料結構。"}
+{"kind":"slide","id":"sl/k7lbnf","slide":7,"title":"AI RELIABILITY","textShapes":14}
+{"kind":"shape","id":"sh/ehsbyp87","slide":7,"name":"Google Shape;153;p9","bbox":[0,0,1280,10]}
+{"kind":"textbox","id":"sh/p83ux47u","slide":7,"name":"Google Shape;154;p9","text":"AI RELIABILITY","textPreview":"AI RELIABILITY","textChars":14,"textLines":1,"bbox":[72,38,360,24]}
+{"kind":"textbox","id":"sh/o7ut4z6p","slide":7,"name":"Google Shape;155;p9","text":"單字庫入庫品質控制讓優質 AI 內容才能進入資料系統","textPreview":"單字庫入庫品質控制讓優質 AI 內容才能進入資料系統","textChars":26,"textLines":1,"bbox":[72,72,1136,62]}
+{"kind":"textbox","id":"sh/n6lcvup4","slide":7,"name":"Google Shape;156;p9","text":"針對 AI 輸出內容的不確定性，我們設計了「AI 自我核查」與「人工最終把關」的雙重防線。\n資料經由 AI 內部的「初審、複審、最終仲裁」三重自我審查與格式過濾，能有效收斂異常；\n最終再經由人工專業審核，確保進入資料庫的每一筆資料皆具備高穩定度與檢索價值。 ","textPreview":"針對 AI 輸出內容的不確定性，我們設計了「AI 自我核查」與「人工最終把關」的雙重防線。 | 資料經由 AI 內部的「初審、複審、最終仲裁」三重自我審查與格式過濾，能有效收斂異常； | 最終再經由人工專業審核，確保進入資料庫的每一筆資料皆具備高穩定度與檢索價值。","textChars":129,"textLines":3,"bbox":[72,139.85,1136,103.18]}
+{"kind":"textbox","id":"sh/25sb2poj","slide":7,"name":"Google Shape;157;p9","text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[1170,686,38,18]}
+{"kind":"shape","id":"sh/5czalk7q","slide":7,"name":"Google Shape;158;p9","bbox":[636,328,500,0]}
+{"kind":"shape","id":"sh/4bqtsfq5","slide":7,"name":"Google Shape;159;p9","bbox":[630,280,96,96]}
+{"kind":"textbox","id":"sh/wvut8fy1","slide":7,"name":"Google Shape;160;p9","text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[630,304,96,42]}
+{"kind":"textbox","id":"sh/hw3uhkfm","slide":7,"name":"Google Shape;161;p9","text":"生成","textPreview":"生成","textChars":2,"textLines":1,"bbox":[602,398,152,38]}
+{"kind":"textbox","id":"sh/utcb65gv","slide":7,"name":"Google Shape;162;p9","text":"建立初稿","textPreview":"建立初稿","textChars":4,"textLines":1,"bbox":[602,442,152,30]}
+{"kind":"shape","id":"sh/vulsfaxg","slide":7,"name":"Google Shape;163;p9","bbox":[820,280,96,96]}
+{"kind":"textbox","id":"sh/4jetcfyd","slide":7,"name":"Google Shape;164;p9","text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[820,304,96,42]}
+{"kind":"textbox","id":"sh/5knulkfi","slide":7,"name":"Google Shape;165;p9","text":"兩次複核","textPreview":"兩次複核","textChars":4,"textLines":1,"bbox":[792,398,152,38]}
+{"kind":"textbox","id":"sh/ixcbapg7","slide":7,"name":"Google Shape;166;p9","text":"檢查缺漏","textPreview":"檢查缺漏","textChars":4,"textLines":1,"bbox":[792,442,152,30]}
+{"kind":"shape","id":"sh/jylcjuxs","slide":7,"name":"Google Shape;167;p9","bbox":[1010,280,96,96]}
+{"kind":"textbox","id":"sh/snetgzy9","slide":7,"name":"Google Shape;168;p9","text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[1010,304,96,42]}
+{"kind":"textbox","id":"sh/tonup4fu","slide":7,"name":"Google Shape;169;p9","text":"仲裁","textPreview":"仲裁","textChars":2,"textLines":1,"bbox":[982,398,152,38]}
+{"kind":"textbox","id":"sh/nu94vil8","slide":7,"name":"Google Shape;170;p9","text":"決定最終稿","textPreview":"決定最終稿","textChars":5,"textLines":1,"bbox":[982,442,152,30]}
+{"kind":"shape","id":"sh/2t0n2x4n","slide":7,"name":"Google Shape;171;p9","bbox":[636,510,500,86]}
+{"kind":"textbox","id":"sh/pwb6xs3e","slide":7,"name":"Google Shape;172;p9","text":"最後仍要通過：\njson格式驗證 · 詞性規則 · 漏字／重複檢查 · 失敗回退","textPreview":"最後仍要通過： | json格式驗證 · 詞性規則 · 漏字／重複檢查 · 失敗回退","textChars":40,"textLines":2,"bbox":[636.99,522,498.02,62.02]}
+{"kind":"image","id":"im/pkni1sve","slide":7,"name":"Google Shape;173;p9","bbox":[20.75,249.69,603.38,272.31]}
+{"kind":"notes","id":"nt/k7lbnf","slide":7,"text":"[Sources]\n- 本專案 AI 匯入流程：scripts/image_word_pipeline.py、src/routes/import.js。"}
+{"kind":"slide","id":"sl/vk3aiu","slide":8,"title":"EVIDENCE","textShapes":13}
+{"kind":"shape","id":"sh/d8v29w7i","slide":8,"name":"Google Shape;179;p10","bbox":[0,0,1280,10]}
+{"kind":"textbox","id":"sh/hsrihcna","slide":8,"name":"Google Shape;180;p10","text":"EVIDENCE","textPreview":"EVIDENCE","textChars":8,"textLines":1,"bbox":[72,38,360,24]}
+{"kind":"textbox","id":"sh/gri1876p","slide":8,"name":"Google Shape;181;p10","text":"Words King 已累積真實使用紀錄","textPreview":"Words King 已累積真實使用紀錄","textChars":20,"textLines":1,"bbox":[72,72,1136,62]}
+{"kind":"textbox","id":"sh/fq90f254","slide":8,"name":"Google Shape;182;p10","text":"內容規模與作答資料，讓我能觀察系統運作並持續調整功能。","textPreview":"內容規模與作答資料，讓我能觀察系統運作並持續調整功能。","textChars":27,"textLines":1,"bbox":[75,137,1136,32]}
+{"kind":"textbox","id":"sh/up0j6xoj","slide":8,"name":"Google Shape;183;p10","text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[1170,686,38,18]}
+{"kind":"textbox","id":"sh/to7idsny","slide":8,"name":"Google Shape;184;p10","text":"3,684 ","textPreview":"3,684","textChars":6,"textLines":1,"bbox":[78,230,230.02,62.02]}
+{"kind":"shape","id":"sh/snyh4n6t","slide":8,"name":"Google Shape;185;p10","bbox":[78,296,230,0]}
+{"kind":"textbox","id":"sh/7mp0bi58","slide":8,"name":"Google Shape;186;p10","text":"個單字\n分布於 71 個單元","textPreview":"個單字 | 分布於 71 個單元","textChars":14,"textLines":2,"bbox":[78,308,230,52]}
+{"kind":"textbox","id":"sh/6lgz2don","slide":8,"name":"Google Shape;187;p10","text":"38","textPreview":"38","textChars":2,"textLines":1,"bbox":[362,230,230,62]}
+{"kind":"shape","id":"sh/dkbipwni","slide":8,"name":"Google Shape;188;p10","bbox":[362,296,230,0]}
+{"kind":"textbox","id":"sh/cj21grmx","slide":8,"name":"Google Shape;189;p10","text":"位造訪者\n公開服務使用紀錄","textPreview":"位造訪者 | 公開服務使用紀錄","textChars":13,"textLines":2,"bbox":[362,308,230,52]}
+{"kind":"textbox","id":"sh/apwfat4f","slide":8,"name":"Google Shape;190;p10","text":"37","textPreview":"37","textChars":2,"textLines":1,"bbox":[646,230,230,62]}
+{"kind":"shape","id":"sh/vq5gjel0","slide":8,"name":"Google Shape;191;p10","bbox":[646,296,230,0]}
+{"kind":"textbox","id":"sh/wrexcjml","slide":8,"name":"Google Shape;192;p10","text":"位產生作答紀錄者\n已留下實際學習資料","textPreview":"位產生作答紀錄者 | 已留下實際學習資料","textChars":18,"textLines":2,"bbox":[646,308,230,52]}
+{"kind":"textbox","id":"sh/xsnylo3q","slide":8,"name":"Google Shape;193;p10","text":"10,011","textPreview":"10,011","textChars":6,"textLines":1,"bbox":[930,230,278,62]}
+{"kind":"shape","id":"sh/m1cf6943","slide":8,"name":"Google Shape;194;p10","bbox":[930,296,278,0]}
+{"kind":"textbox","id":"sh/n2lgfelo","slide":8,"name":"Google Shape;195;p10","text":"筆作答紀錄\n可追蹤錯題與熟練度","textPreview":"筆作答紀錄 | 可追蹤錯題與熟練度","textChars":15,"textLines":2,"bbox":[930,308,278,52]}
+{"kind":"shape","id":"sh/8nux8jm9","slide":8,"name":"Google Shape;196;p10","bbox":[82,472,1122,102]}
+{"kind":"textbox","id":"sh/9o3yho3u","slide":8,"name":"Google Shape;197;p10","text":"142 批AI單字資料匯入 · 277 場使用者單字練習 · 2,122 筆熟練度資料","textPreview":"142 批AI單字資料匯入 · 277 場使用者單字練習 · 2,122 筆熟練度資料","textChars":43,"textLines":1,"bbox":[118,498,995.94,44]}
+{"kind":"notes","id":"nt/vk3aiu","slide":8,"text":"[Sources]\n- 本專案資料庫統計，2026/08/15。"}
+{"kind":"slide","id":"sl/riekqf","slide":9,"title":"ITERATION","textShapes":11}
+{"kind":"shape","id":"sh/k7qh4fe5","slide":9,"name":"Google Shape;203;p11","bbox":[0,0,1280,10]}
+{"kind":"textbox","id":"sh/b2xg7axo","slide":9,"name":"Google Shape;204;p11","text":"ITERATION","textPreview":"ITERATION","textChars":9,"textLines":1,"bbox":[72,38,360,24]}
+{"kind":"textbox","id":"sh/a1ofy5w3","slide":9,"name":"Google Shape;205;p11","text":"以反饋為導向，推動系統持續迭代 ","textPreview":"以反饋為導向，推動系統持續迭代","textChars":16,"textLines":1,"bbox":[72,72,1136,62]}
+{"kind":"textbox","id":"sh/x4fy9kfu","slide":9,"name":"Google Shape;206;p11","text":"結合使用者回報與自主邊界測試精準定位問題，並導入工程化標準流程進行修復與版本更新。 ","textPreview":"結合使用者回報與自主邊界測試精準定位問題，並導入工程化標準流程進行修復與版本更新。","textChars":42,"textLines":1,"bbox":[72,132,1136,32]}
+{"kind":"textbox","id":"sh/c36x0fe9","slide":9,"name":"Google Shape;207;p11","text":"09","textPreview":"09","textChars":2,"textLines":1,"bbox":[1170,686,38,18]}
+{"kind":"shape","id":"sh/vyhgjexs","slide":9,"name":"Google Shape;208;p11","bbox":[78,214,528,332]}
+{"kind":"textbox","id":"sh/ux8za9wn","slide":9,"name":"Google Shape;209;p11","text":"語音模型發音不正確","textPreview":"語音模型發音不正確","textChars":9,"textLines":1,"bbox":[110,275,430.02,48]}
+{"kind":"textbox","id":"sh/sj2d4bup","slide":9,"name":"Google Shape;210;p11","text":"↓","textPreview":"↓","textChars":1,"textLines":1,"bbox":[110,333,36,34.02]}
+{"kind":"textbox","id":"sh/t4bedwva","slide":9,"name":"Google Shape;211;p11","text":"優先抓取API字典真人發音；\n無合適來源時，再以 TTS模組 作為 fallback。","textPreview":"優先抓取API字典真人發音； | 無合適來源時，再以 TTS模組 作為 fallback。","textChars":43,"textLines":2,"bbox":[110,385,430.02,88]}
+{"kind":"shape","id":"sh/6hkv21cz","slide":9,"name":"Google Shape;212;p11","bbox":[674,214,528,332]}
+{"kind":"textbox","id":"sh/ritwb6dk","slide":9,"name":"Google Shape;213;p11","text":"單次生成會留下分析錯誤","textPreview":"單次生成會留下分析錯誤","textChars":11,"textLines":1,"bbox":[706,275,430.02,48]}
+{"kind":"textbox","id":"sh/g72d8bu1","slide":9,"name":"Google Shape;214;p11","text":"↓","textPreview":"↓","textChars":1,"textLines":1,"bbox":[706,333,36,34.02]}
+{"kind":"textbox","id":"sh/18vehgvm","slide":9,"name":"Google Shape;215;p11","text":"拆成生成、複核、仲裁，並用規則驗證與回退避免錯誤直接進入單字庫。","textPreview":"拆成生成、複核、仲裁，並用規則驗證與回退避免錯誤直接進入單字庫。","textChars":32,"textLines":1,"bbox":[706,385,430.02,88]}
+{"kind":"textbox","id":"sh/e5kv61cv","slide":9,"name":"Google Shape;216;p11","text":"我透過實際使用與自行測試\n持續推動下一輪迭代\n公測發布後我也持續的蒐集使用者回饋\n來持續的優化前後端","textPreview":"我透過實際使用與自行測試 | 持續推動下一輪迭代 | 公測發布後我也持續的蒐集使用者回饋 | 來持續的優化前後端","textChars":50,"textLines":4,"bbox":[389.5,560.46,501.01,137.83]}
+{"kind":"notes","id":"nt/riekqf","slide":9,"text":"[Sources]\n- 本專案發音服務與內容審查功能。"}
+{"kind":"slide","id":"sl/aya7rx","slide":10,"title":"REFLECTION","textShapes":9}
+{"kind":"shape","id":"sh/h4nuxgvu","slide":10,"name":"Google Shape;222;p12","bbox":[0,0,1280,10]}
+{"kind":"textbox","id":"sh/g3et4bu9","slide":10,"name":"Google Shape;223;p12","text":"REFLECTION","textPreview":"REFLECTION","textChars":10,"textLines":1,"bbox":[72,38,360,24]}
+{"kind":"textbox","id":"sh/365czqd0","slide":10,"name":"Google Shape;224;p12","text":"從寫程式到做系統決策","textPreview":"從寫程式到做系統決策","textChars":10,"textLines":1,"bbox":[72,72,1136,62]}
+{"kind":"textbox","id":"sh/i5wv6lcf","slide":10,"name":"Google Shape;225;p12","text":"過往我主要運用 C++ 與 TypeScript 開發基礎專案；\n如今隨著 AI 工具的普及，我將開發重點從單純的「寫碼」轉化為「工程大局觀」的展現。\n結合對系統架構的理解與程式扎實度，我不僅能快速整合新技術，\n更能在注重可用性與資訊安全的前提下，獨立建構出高品質、高穩定度的 Web 應用程式。","textPreview":"過往我主要運用 C++ 與 TypeScript 開發基礎專案； | 如今隨著 AI 工具的普及，我將開發重點從單純的「寫碼」轉化為「工程大局觀」的展現。 | 結合對系統架構的理解與程式扎實度，我不僅能快速整合新技術， | 更能在注重可用性與資訊安全的前提下，獨立建構出高品...","textChars":148,"textLines":4,"bbox":[72,156.33,1136,112.47]}
+{"kind":"textbox","id":"sh/p8nu1gv6","slide":10,"name":"Google Shape;226;p12","text":"10","textPreview":"10","textChars":2,"textLines":1,"bbox":[1170,686,38,18]}
+{"kind":"textbox","id":"sh/47ed8bul","slide":10,"name":"Google Shape;227;p12","text":"BEFORE","textPreview":"BEFORE","textChars":6,"textLines":1,"bbox":[72,324.37,161.7,42.33]}
+{"kind":"textbox","id":"sh/jalcnmdg","slide":10,"name":"Google Shape;228;p12","text":"具備程式基礎\n做過小型專案","textPreview":"具備程式基礎 | 做過小型專案","textChars":13,"textLines":2,"bbox":[72,396.97,381.1,154.33]}
+{"kind":"textbox","id":"sh/y9sbuhwb","slide":10,"name":"Google Shape;229;p12","text":"→","textPreview":"→","textChars":1,"textLines":1,"bbox":[483.13,415.12,115.5,105.89]}
+{"kind":"textbox","id":"sh/ofq94nat","slide":10,"name":"Google Shape;230;p12","text":"NOW","textPreview":"NOW","textChars":3,"textLines":1,"bbox":[633.26,324.37,161.7,42.33]}
+{"kind":"textbox","id":"sh/9gzqxsbe","slide":10,"name":"Google Shape;231;p12","text":"定義問題 · 拆解需求\n制定規則 · 測試驗收","textPreview":"定義問題 · 拆解需求 | 制定規則 · 測試驗收","textChars":23,"textLines":2,"bbox":[633.26,396.97,646.74,154.33]}
+{"kind":"notes","id":"nt/aya7rx","slide":10,"text":"[Sources]\n- 本專案學習反思、公開服務與未來規劃。\n- https://words.ytconch.duckdns.org/"}
+{"kind":"slide","id":"sl/ikoqxx","slide":11,"title":"APPENDIX C","textShapes":27}
+{"kind":"shape","id":"sh/3yd8z6xk","slide":11,"name":"Google Shape;237;p13","bbox":[0,0,1280,10]}
+{"kind":"textbox","id":"sh/ovq94ve9","slide":11,"name":"Google Shape;238;p13","text":"APPENDIX C","textPreview":"APPENDIX C","textChars":10,"textLines":1,"bbox":[72,38,360,24]}
+{"kind":"textbox","id":"sh/9wzqd0vu","slide":11,"name":"Google Shape;239;p13","text":"五項工程決策支撐系統持續運作","textPreview":"五項工程決策支撐系統持續運作","textChars":14,"textLines":1,"bbox":[72,72,1136,62]}
+{"kind":"textbox","id":"sh/5grmpsv6","slide":11,"name":"Google Shape;240;p13","text":"11","textPreview":"11","textChars":2,"textLines":1,"bbox":[1170,686,38,18]}
+{"kind":"shape","id":"sh/kfi5wnul","slide":11,"name":"Google Shape;241;p13","bbox":[78,204,160,48]}
+{"kind":"textbox","id":"sh/je94nid0","slide":11,"name":"Google Shape;242;p13","text":"面向","textPreview":"面向","textChars":2,"textLines":1,"bbox":[90,217,136,24]}
+{"kind":"shape","id":"sh/id0nudcf","slide":11,"name":"Google Shape;243;p13","bbox":[238,204,250,48]}
+{"kind":"textbox","id":"sh/t4b6tsv2","slide":11,"name":"Google Shape;244;p13","text":"我的選擇","textPreview":"我的選擇","textChars":4,"textLines":1,"bbox":[250,217,226,24]}
+{"kind":"shape","id":"sh/s32507uh","slide":11,"name":"Google Shape;245;p13","bbox":[488,204,180,48]}
+{"kind":"textbox","id":"sh/729or2dc","slide":11,"name":"Google Shape;246;p13","text":"技術組合","textPreview":"技術組合","textChars":4,"textLines":1,"bbox":[500,217,156,24]}
+{"kind":"shape","id":"sh/610nyxcr","slide":11,"name":"Google Shape;247;p13","bbox":[668,204,480,48]}
+{"kind":"textbox","id":"sh/h8b6xcve","slide":11,"name":"Google Shape;248;p13","text":"目的","textPreview":"目的","textChars":2,"textLines":1,"bbox":[680,217,456,24]}
+{"kind":"shape","id":"sh/g72547ut","slide":11,"name":"Google Shape;249;p13","bbox":[78,252,160,68]}
+{"kind":"textbox","id":"sh/e1cb25oz","slide":11,"name":"Google Shape;250;p13","text":"帳號與權限","textPreview":"帳號與權限","textChars":5,"textLines":1,"bbox":[90,268,136,40]}
+{"kind":"shape","id":"sh/f2lcbapk","slide":11,"name":"Google Shape;251;p13","bbox":[238,252,250,68]}
+{"kind":"textbox","id":"sh/03ut4f65","slide":11,"name":"Google Shape;252;p13","text":"依角色控管功能","textPreview":"依角色控管功能","textChars":7,"textLines":1,"bbox":[250,268,226,40]}
+{"kind":"shape","id":"sh/143udk7q","slide":11,"name":"Google Shape;253;p13","bbox":[488,252,180,68]}
+{"kind":"textbox","id":"sh/25cb6pov","slide":11,"name":"Google Shape;254;p13","text":"JWT／中介層","textPreview":"JWT／中介層","textChars":7,"textLines":1,"bbox":[500,268,156,40]}
+{"kind":"shape","id":"sh/n6lcfupg","slide":11,"name":"Google Shape;255;p13","bbox":[668,252,480,68]}
+{"kind":"textbox","id":"sh/o7et8z61","slide":11,"name":"Google Shape;256;p13","text":"區分學生與管理功能","textPreview":"區分學生與管理功能","textChars":9,"textLines":1,"bbox":[680,268,456,40]}
+{"kind":"shape","id":"sh/p8nuhk7m","slide":11,"name":"Google Shape;257;p13","bbox":[78,320,160,68]}
+{"kind":"textbox","id":"sh/a9wbapo7","slide":11,"name":"Google Shape;258;p13","text":"學習資料","textPreview":"學習資料","textChars":4,"textLines":1,"bbox":[90,336,136,40]}
+{"kind":"shape","id":"sh/ba5cjups","slide":11,"name":"Google Shape;259;p13","bbox":[238,320,250,68]}
+{"kind":"textbox","id":"sh/7yps7ul0","slide":11,"name":"Google Shape;260;p13","text":"輕量型資料庫與三個資料庫分工","textPreview":"輕量型資料庫與三個資料庫分工","textChars":14,"textLines":1,"bbox":[250,336,226,40]}
+{"kind":"shape","id":"sh/6xwby94f","slide":11,"name":"Google Shape;261;p13","bbox":[488,320,180,68]}
+{"kind":"textbox","id":"sh/t07a943q","slide":11,"name":"Google Shape;262;p13","text":"SQLite 三庫","textPreview":"SQLite 三庫","textChars":9,"textLines":1,"bbox":[500,336,156,40]}
+{"kind":"shape","id":"sh/8zyt0zm5","slide":11,"name":"Google Shape;263;p13","bbox":[668,320,480,68]}
+{"kind":"textbox","id":"sh/ja5s3ulo","slide":11,"name":"Google Shape;264;p13","text":"快速部屬與降低耦合","textPreview":"快速部屬與降低耦合","textChars":9,"textLines":1,"bbox":[680,336,456,40]}
+{"kind":"shape","id":"sh/y9wrup43","slide":11,"name":"Google Shape;265;p13","bbox":[78,388,160,68]}
+{"kind":"textbox","id":"sh/lcna543u","slide":11,"name":"Google Shape;266;p13","text":"內容匯入","textPreview":"內容匯入","textChars":4,"textLines":1,"bbox":[90,404,136,40]}
+{"kind":"shape","id":"sh/kbetwzm9","slide":11,"name":"Google Shape;267;p13","bbox":[238,388,250,68]}
+{"kind":"textbox","id":"sh/b6lszals","slide":11,"name":"Google Shape;268;p13","text":"辨識後進入三階段審查","textPreview":"辨識後進入三階段審查","textChars":10,"textLines":1,"bbox":[250,404,226,40]}
+{"kind":"shape","id":"sh/a5crqp47","slide":11,"name":"Google Shape;269;p13","bbox":[488,388,180,68]}
+{"kind":"textbox","id":"sh/0bap0b2p","slide":11,"name":"Google Shape;270;p13","text":"OCR／Gemini","textPreview":"OCR／Gemini","textChars":10,"textLines":1,"bbox":[500,404,156,40]}
+{"kind":"shape","id":"sh/1cjq9gja","slide":11,"name":"Google Shape;271;p13","bbox":[668,388,480,68]}
+{"kind":"textbox","id":"sh/e9s7ylkz","slide":11,"name":"Google Shape;272;p13","text":"多資料來源與嚴格AI審核並入庫","textPreview":"多資料來源與嚴格AI審核並入庫","textChars":15,"textLines":1,"bbox":[680,404,456,40]}
+{"kind":"shape","id":"sh/fa18761k","slide":11,"name":"Google Shape;273;p13","bbox":[78,456,160,68]}
+{"kind":"textbox","id":"sh/ofup4v21","slide":11,"name":"Google Shape;274;p13","text":"發音服務","textPreview":"發音服務","textChars":4,"textLines":1,"bbox":[90,472,136,40]}
+{"kind":"shape","id":"sh/pg3qd0jm","slide":11,"name":"Google Shape;275;p13","bbox":[238,456,250,68]}
+{"kind":"textbox","id":"sh/2ds72lkv","slide":11,"name":"Google Shape;276;p13","text":"字典音源優先，TTS 備援","textPreview":"字典音源優先，TTS 備援","textChars":13,"textLines":1,"bbox":[250,472,226,40]}
+{"kind":"shape","id":"sh/ne18bq1g","slide":11,"name":"Google Shape;277;p13","bbox":[488,456,180,68]}
+{"kind":"textbox","id":"sh/4jqpsr2x","slide":11,"name":"Google Shape;278;p13","text":"快取／fallback","textPreview":"快取／fallback","textChars":11,"textLines":1,"bbox":[500,472,156,40]}
+{"kind":"shape","id":"sh/5kz61wj2","slide":11,"name":"Google Shape;279;p13","bbox":[668,456,480,68]}
+{"kind":"textbox","id":"sh/tofmtszu","slide":11,"name":"Google Shape;280;p13","text":"兼顧正確性與可用性","textPreview":"兼顧正確性與可用性","textChars":9,"textLines":1,"bbox":[680,472,456,40]}
+{"kind":"shape","id":"sh/8nm50nip","slide":11,"name":"Google Shape;281;p13","bbox":[78,524,160,68]}
+{"kind":"textbox","id":"sh/7md4r2h4","slide":11,"name":"Google Shape;282;p13","text":"公開部署","textPreview":"公開部署","textChars":4,"textLines":1,"bbox":[90,540,136,40]}
+{"kind":"shape","id":"sh/6l4nyx0j","slide":11,"name":"Google Shape;283;p13","bbox":[238,524,250,68]}
+{"kind":"textbox","id":"sh/lkvmpsjy","slide":11,"name":"Google Shape;284;p13","text":"將服務部屬至公開網域","textPreview":"將服務部屬至公開網域","textChars":10,"textLines":1,"bbox":[250,540,226,40]}
+{"kind":"shape","id":"sh/kjmlwnid","slide":11,"name":"Google Shape;285;p13","bbox":[488,524,180,68]}
+{"kind":"textbox","id":"sh/jid4ni1s","slide":11,"name":"Google Shape;286;p13","text":"Nginx／DuckDNS","textPreview":"Nginx／DuckDNS","textChars":13,"textLines":1,"bbox":[500,540,156,40]}
+{"kind":"shape","id":"sh/yx43ud07","slide":11,"name":"Google Shape;287;p13","bbox":[668,524,480,68]}
+{"kind":"textbox","id":"sh/5gzm1cz2","slide":11,"name":"Google Shape;288;p13","text":"架設網頁使其多裝置支援與快速迭代","textPreview":"架設網頁使其多裝置支援與快速迭代","textChars":16,"textLines":1,"bbox":[680,540,456,40]}
+{"kind":"notes","id":"nt/ikoqxx","slide":11,"text":"[Sources]\n- 本專案原始碼、資料庫分工與部署架構。"}
+{"kind":"slide","id":"sl/zx5u9y","slide":12,"title":"WORDS KING","textShapes":4}
+{"kind":"shape","id":"sh/w3mtgby1","slide":12,"name":"Google Shape;16;p3","bbox":[0,0,430,720]}
+{"kind":"shape","id":"sh/h4vupgfm","slide":12,"name":"Google Shape;17;p3","bbox":[72,86,64,8]}
+{"kind":"textbox","id":"sh/j6xcr6xs","slide":12,"name":"Google Shape;19;p3","text":"WORDS KING","textPreview":"WORDS KING","textChars":10,"textLines":1,"bbox":[116.01,337.01,197.98,45.98]}
+{"kind":"textbox","id":"sh/faxsf6d0","slide":12,"name":"Google Shape;20;p3","text":"專案作品報告","textPreview":"專案作品報告","textChars":6,"textLines":1,"bbox":[160.34,382.99,109.32,34.02]}
+{"kind":"textbox","id":"sh/e9ob6lwf","slide":12,"name":"Google Shape;21;p3","text":"從學習痛點出發\n\t建立單字學習網站。\n","textPreview":"從學習痛點出發 | \t建立單字學習網站。 |","textChars":19,"textLines":3,"bbox":[500,128,721.86,185.01]}
+{"kind":"shape","id":"sh/1czahgvq","slide":12,"name":"Google Shape;22;p3","bbox":[504,472,610,0]}
+{"kind":"textbox","id":"sh/gb6t8bu5","slide":12,"name":"Google Shape;23;p3","text":"詹秉睿\n清水高中 · 高三","textPreview":"詹秉睿 | 清水高中 · 高三","textChars":13,"textLines":2,"bbox":[504,505,340,78]}
+{"kind":"image","id":"im/8fmt07ut","slide":12,"name":"Google Shape;18;p3","bbox":[148.02,200.84,133.95,131.16]}
+{"kind":"notes","id":"nt/zx5u9y","slide":12,"text":"[Sources]\n- 本專案識別與申請人資料。"}

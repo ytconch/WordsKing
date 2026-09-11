@@ -1,0 +1,1364 @@
+{
+  "level": 2,
+  "chunkIndex": 12,
+  "inputs": [
+    "marriage",
+    "marry",
+    "mask",
+    "mass",
+    "master",
+    "mat",
+    "match",
+    "mate",
+    "material",
+    "mature",
+    "meaning",
+    "means",
+    "measure",
+    "measurement",
+    "medical",
+    "melody",
+    "membership",
+    "memory",
+    "mention",
+    "message",
+    "metal",
+    "meter",
+    "method",
+    "midnight",
+    "mile",
+    "military",
+    "minor",
+    "minority",
+    "mirror",
+    "mix",
+    "mixture",
+    "model",
+    "mood",
+    "mop",
+    "motion",
+    "motorcycle",
+    "mug",
+    "musical",
+    "musician",
+    "nail",
+    "narrow",
+    "nation",
+    "natural",
+    "naughty",
+    "nearby",
+    "nearly",
+    "necessary",
+    "necklace",
+    "needle",
+    "negative"
+  ],
+  "rows": [
+    {
+      "eng": "marriage",
+      "kk": "/ˈmærɪdʒ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "婚姻",
+          "結婚"
+        ],
+        [
+          "結婚典禮",
+          "婚禮"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形為 marriage，是由動詞 marry 加上名詞字尾 -age（表示行為、狀態或結果）複合而成，經由中古英語進入英語。語義從「結婚的狀態或行為」演變為「婚姻關係」及具體的「結婚典禮」。",
+      "definition": "1. the legally or formally recognized union of two people as partners in a personal relationship; 2. a wedding ceremony.",
+      "example": [
+        {
+          "eng": "Their marriage has lasted for thirty happy years.",
+          "ch": "他們的婚姻已經持續了三十個幸福的年頭。"
+        },
+        {
+          "eng": "They are planning a simple beach marriage next month.",
+          "ch": "他們正計劃下個月舉辦一個簡單的海灘婚禮。"
+        }
+      ]
+    },
+    {
+      "eng": "marry",
+      "kk": "/ˈmæri/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "娶",
+          "嫁",
+          "結婚"
+        ],
+        [
+          "為...福婚",
+          "主持婚禮"
+        ]
+      ],
+      "analysis": "此字為及物動詞，表面詞形為 marry。源自古法語 marrier，最終源自拉丁語 maritare（意為提供丈夫、結婚），由 maritus（丈夫）衍生而來。作為及物動詞時，可用於指男女雙方與某人結婚，或由神職人員為新人證婚。",
+      "definition": "1. to take someone as a husband or wife in a legal or religious ceremony; 2. to perform the marriage ceremony for a couple.",
+      "example": [
+        {
+          "eng": "He decided to marry his childhood sweetheart.",
+          "ch": "他決定娶他的青梅竹馬為妻。"
+        },
+        {
+          "eng": "The local priest will marry them in the old church.",
+          "ch": "當地神父將在古老的教堂為他們福婚。"
+        }
+      ]
+    },
+    {
+      "eng": "marry",
+      "kk": "/ˈmæri/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "結婚",
+          "成婚"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，表面詞形為 marry。與及物用法同源，源自拉丁語 maritare。作為不及物動詞時，專門用來表示「結婚」這一動作本身，不接直接受詞。",
+      "definition": "1. to enter into a legally or formally recognized union as a husband and wife.",
+      "example": [
+        {
+          "eng": "They plan to marry next spring after graduation.",
+          "ch": "他們計劃在畢業後的明年春天結婚。"
+        }
+      ]
+    },
+    {
+      "eng": "mask",
+      "kk": "/mæsk/",
+      "tense": "n.",
+      "ch": [
+        [
+          "面具",
+          "面罩"
+        ],
+        [
+          "偽裝",
+          "掩飾"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形為 mask。透過法語 masque 或義大利語 maschera 進入英語，其源頭可追溯至阿拉伯語 maskharah（丑角、笑柄），後演變為遮蓋面部的面具或面罩，引申出抽象的偽裝與掩飾之意。",
+      "definition": "1. a covering for all or part of the face, worn for disguise, protection, or entertainment; 2. a false show or pretense that conceals someone's true character or feelings.",
+      "example": [
+        {
+          "eng": "The actors wore colorful masks during the traditional play.",
+          "ch": "演員們在傳統戲劇演出時戴著色彩繽紛的面具。"
+        },
+        {
+          "eng": "He wore a mask of indifference to hide his true sadness.",
+          "ch": "他戴著冷漠的面具來掩飾真正的悲傷。"
+        }
+      ]
+    },
+    {
+      "eng": "mask",
+      "kk": "/mæsk/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "掩飾",
+          "隱藏"
+        ],
+        [
+          "戴面具"
+        ]
+      ],
+      "analysis": "此字為及物動詞，表面詞形為 mask，由同形名詞轉化而來。指用面具遮蓋，或引申為隱藏真實面貌、情感或聲音等。",
+      "definition": "1. to conceal, cover, or disguise something; 2. to cover the face with a mask.",
+      "example": [
+        {
+          "eng": "She tried to mask her disappointment with a weak smile.",
+          "ch": "她試圖用勉強的微笑來掩飾心中的失望。"
+        },
+        {
+          "eng": "The performers masked their faces for the masquerade ball.",
+          "ch": "表演者們為了化妝舞會而把臉遮掩起來。"
+        }
+      ]
+    },
+    {
+      "eng": "mass",
+      "kk": "/mæs/",
+      "tense": "n.",
+      "ch": [
+        [
+          "塊",
+          "團",
+          "大量"
+        ],
+        [
+          "質量",
+          "物理量"
+        ],
+        [
+          "彌撒"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形為 mass。歷史上有兩個主要來源：一是源自拉丁語 massa（塊、團），演變出一般的大量與物理學上的質量；二是源自教會拉丁語 missa（遣散、彌撒），指天主教的禮拜儀式。三者在現代英語中作為不同義項存在。",
+      "definition": "1. a large coherent body of matter with no definite shape, or a large amount of something; 2. the quantity of matter in a body regardless of its volume or of any forces acting on it; 3. a liturgical celebration of the Eucharist in the Roman Catholic Church.",
+      "example": [
+        {
+          "eng": "A dark mass of clouds gathered on the horizon.",
+          "ch": "一團烏雲在地平線上聚攏起來。"
+        },
+        {
+          "eng": "Mass and acceleration determine the force of an object.",
+          "ch": "質量與加速度決定了一個物體的力。"
+        },
+        {
+          "eng": "She attends Sunday mass every week without fail.",
+          "ch": "她每週必定參加星期日的彌撒。"
+        }
+      ]
+    },
+    {
+      "eng": "mass",
+      "kk": "/mæs/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "大規模的",
+          "群眾的"
+        ]
+      ],
+      "analysis": "此字為形容詞，表面詞形為 mass，由名詞 mass 轉化用作修飾語，指涉及廣大群眾或大規模的行動、生產等。",
+      "definition": "1. affecting or involving a large number of people; done on a large scale.",
+      "example": [
+        {
+          "eng": "The company announced mass layoffs due to financial trouble.",
+          "ch": "該公司因財務問題宣布了大規模裁員。"
+        }
+      ]
+    },
+    {
+      "eng": "master",
+      "kk": "/ˈmæstər/",
+      "tense": "n.",
+      "ch": [
+        [
+          "主人",
+          "雇主"
+        ],
+        [
+          "大師",
+          "能手"
+        ],
+        [
+          "碩士"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形為 master。源自古英語 mægester，最終源自拉丁語 magister（主管、教師、長官），由 magnus（大）衍生而來。語義從掌控者、老師，演變為精通某領域的大師以及學位名稱的碩士。",
+      "definition": "1. a man who has people working for him, or an owner of an animal or slave; 2. a person who is very skilled in a particular area; 3. a holder of a university degree above a bachelor's.",
+      "example": [
+        {
+          "eng": "The dog was very obedient to its master.",
+          "ch": "這隻狗對它的主人非常服從。"
+        },
+        {
+          "eng": "He is a true master of classical piano music.",
+          "ch": "他是古典鋼琴音樂真正的名家。"
+        },
+        {
+          "eng": "She is pursuing a master's degree in economics.",
+          "ch": "她正在攻讀經濟學碩士學位。"
+        }
+      ]
+    },
+    {
+      "eng": "master",
+      "kk": "/ˈmæstər/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "精通",
+          "掌握",
+          "控制"
+        ]
+      ],
+      "analysis": "此字為及物動詞，表面詞形為 master，由名詞 master 轉化而來。意指成為……的主人，引申為徹底學會、掌握技能或克服控制情感與困難。",
+      "definition": "1. to acquire complete knowledge or skill in something; to control or overcome.",
+      "example": [
+        {
+          "eng": "It takes years of practice to master a foreign language.",
+          "ch": "精通一門外語需要多年的練習。"
+        }
+      ]
+    },
+    {
+      "eng": "mat",
+      "kk": "/mæt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "墊子",
+          "地墊"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形為 mat。源自古英語 matta，最終借自拉丁語 matta（草席、墊子），指由編織材料製成的平坦小塊鋪墊物。",
+      "definition": "1. a small piece of material placed on the floor or a surface to protect it or for people to wipe their feet on.",
+      "example": [
+        {
+          "eng": "Please wipe your shoes on the doormat before entering.",
+          "ch": "進入前請在門口的擦鞋墊上擦乾淨鞋子。"
+        }
+      ]
+    },
+    {
+      "eng": "match",
+      "kk": "/mætʃ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "比賽",
+          "競賽"
+        ],
+        [
+          "相配的人或物",
+          "對手"
+        ],
+        [
+          "火柴"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形為 match。歷史上有兩個不同來源：一是源自古英語 gemæcca（伴侶、相配者），演變出比賽、對手及相配的事物；二是源自古法語 miche（小蠟燭），後指用於點火的火柴，兩者在現代拼寫合併。",
+      "definition": "1. an organized contest in a sport; 2. a person or thing that is equal to another or looks good with another; 3. a small stick of wood or cardboard with a sulfur tip used for producing fire.",
+      "example": [
+        {
+          "eng": "The football match ended in a thrilling draw.",
+          "ch": "這場足球比賽以刺激的平局結束。"
+        },
+        {
+          "eng": "Her red shoes are a perfect match for her handbag.",
+          "ch": "她的紅色鞋子和手提包是絕配。"
+        },
+        {
+          "eng": "He struck a match to light the campfire.",
+          "ch": "他擦了一根火柴來點燃營火。"
+        }
+      ]
+    },
+    {
+      "eng": "match",
+      "kk": "/mætʃ/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "相配",
+          "使匹配"
+        ],
+        [
+          "比得上",
+          "敵得過"
+        ]
+      ],
+      "analysis": "此字為及物動詞，表面詞形為 match，由名詞 match 演變而來。指使兩者相合、尋找相配之物，或在能力、質量上與某人匹敵。",
+      "definition": "1. to correspond with or be similar to something; to put together things that fit; 2. to be equal to someone in quality or ability.",
+      "example": [
+        {
+          "eng": "Can you match this color with another piece of cloth?",
+          "ch": "你能把這個顏色跟另一塊布匹配起來嗎？"
+        },
+        {
+          "eng": "No one can match her skill in traditional painting.",
+          "ch": "沒有人在傳統繪畫的技巧上能比得上她。"
+        }
+      ]
+    },
+    {
+      "eng": "match",
+      "kk": "/mætʃ/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "相配",
+          "一致"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，表面詞形為 match。指事物之間彼此協調、顏色或款式相配，不接直接受詞。",
+      "definition": "1. to correspond or harmonize in color, design, or style.",
+      "example": [
+        {
+          "eng": "Your tie and shirt do not match very well.",
+          "ch": "你的領帶和襯衫搭配得不太好。"
+        }
+      ]
+    },
+    {
+      "eng": "mate",
+      "kk": "/meɪt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "伙伴",
+          "同事",
+          "配偶"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形為 mate。源自中低地德語或中古荷蘭語 gemate（合夥人、同伴），與古英語 gemaecca 同源，意指共同生活或工作的人、伴侶或動物的配偶。",
+      "definition": "1. a friend, companion, or colleague; a husband, wife, or sexual partner of an animal.",
+      "example": [
+        {
+          "eng": "He went to the local pub with his mates.",
+          "ch": "他和伙伴們一起去了當地的小酒館。"
+        }
+      ]
+    },
+    {
+      "eng": "mate",
+      "kk": "/meɪt/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使配對",
+          "交配"
+        ]
+      ],
+      "analysis": "此字為及物動詞，表面詞形為 mate，由名詞 mate 轉化而來。指使動物進行交配或將物品成對組合。",
+      "definition": "1. to bring animals together for breeding, or to join things in a pair.",
+      "example": [
+        {
+          "eng": "Farmers use specific breeding programs to mate their cattle.",
+          "ch": "農民使用特定的繁殖計畫來讓他們的牛隻交配。"
+        }
+      ]
+    },
+    {
+      "eng": "material",
+      "kk": "/məˈtɪriəl/",
+      "tense": "n.",
+      "ch": [
+        [
+          "材料",
+          "原料"
+        ],
+        [
+          "素材",
+          "資料"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形為 material。源自中古英語，經由古法語源自拉丁語 materialis（物質的），源頭為 materia（物質、木材、原木）。演變出製作物品的實體材料，以及寫作或研究用的資料、素材。",
+      "definition": "1. the matter from which a thing is or can be made; 2. information or ideas used in creating a book, speech, or other work.",
+      "example": [
+        {
+          "eng": "Cotton is a breathable material for summer clothing.",
+          "ch": "棉花是夏季服裝透氣的材料。"
+        },
+        {
+          "eng": "The author gathered a lot of historical material for his new novel.",
+          "ch": "這位作家為他的新小說收集了大量的歷史素材。"
+        }
+      ]
+    },
+    {
+      "eng": "material",
+      "kk": "/məˈtɪriəl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "物質的",
+          "實質的"
+        ]
+      ],
+      "analysis": "此字為形容詞，表面詞形為 material。指與物質世界、肉體或實體相關的，相對於精神層面而言。",
+      "definition": "1. consisting of physical objects rather than the mind or spirit; physical.",
+      "example": [
+        {
+          "eng": "He was more concerned with material wealth than spiritual growth.",
+          "ch": "他比起精神成長更關心物質財富。"
+        }
+      ]
+    },
+    {
+      "eng": "mature",
+      "kk": "/məˈtʊr/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "成熟",
+          "到期"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，表面詞形為 mature，由形容詞 mature 轉化而來。指生物、心智長大成熟，或指債券、支票等財務票據到期。",
+      "definition": "1. to become fully developed physically or mentally; to reach the time when a financial note becomes due.",
+      "example": [
+        {
+          "eng": "Children mature at different rates during their teenage years.",
+          "ch": "孩子在青少年時期成熟的速率各有不同。"
+        }
+      ]
+    },
+    {
+      "eng": "mature",
+      "kk": "/məˈtʊr/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "成熟的",
+          "成年人樣的"
+        ]
+      ],
+      "analysis": "此字為形容詞，表面詞形為 mature。源自拉丁語 maturus（及時的、成熟的）。原指果實長成可採摘，後引申用來形容人的心智成熟、思想周全或計畫完善。",
+      "definition": "1. fully developed physically or mentally; adult.",
+      "example": [
+        {
+          "eng": "She is very mature for her age and handles crises well.",
+          "ch": "以她的年紀來說她非常成熟，且能妥善處理危機。"
+        }
+      ]
+    },
+    {
+      "eng": "meaning",
+      "kk": "/ˈminɪŋ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "意義",
+          "意思",
+          "意圖"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形為 meaning，由動詞 mean 加上現在分詞／動名詞字尾 -ing 構成。指字詞所表達的概念、行為背後的意圖或生命的重要價值。",
+      "definition": "1. the meaning, significance, or intent of a word, phrase, action, or concept.",
+      "example": [
+        {
+          "eng": "I am trying to understand the deeper meaning of this poem.",
+          "ch": "我正試圖理解這首詩更深層的意義。"
+        }
+      ]
+    },
+    {
+      "eng": "means",
+      "kk": "/minz/",
+      "tense": "n.",
+      "ch": [
+        [
+          "手段",
+          "方法",
+          "財力"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形為 means，本質上源自動詞 mean 的古老複數形式，但在現代英語中通常作為單複數同形的名詞使用，用來表示達成目的的手段、方法，或個人的財力、收入狀況。",
+      "definition": "1. an action or method used to achieve a particular result; 2. money or financial resources.",
+      "example": [
+        {
+          "eng": "Education is the best means to improve one's life.",
+          "ch": "教育是改善生活最好的手段。"
+        },
+        {
+          "eng": "They live beyond their means and have huge debts.",
+          "ch": "他們過著超出自己財力的生活，負債累累。"
+        }
+      ]
+    },
+    {
+      "eng": "measure",
+      "kk": "/ˈmɛʒər/",
+      "tense": "n.",
+      "ch": [
+        [
+          "措施",
+          "方法"
+        ],
+        [
+          "尺寸",
+          "計量單位"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形為 measure。源自古法語 mesure，最終源自拉丁語 mensura（度量），由 metiri（測量）衍生而來。演變出物理測量的尺寸、標準，以及為達成某目的而採取的行動或措施。",
+      "definition": "1. a plan or course of action taken to achieve a particular purpose; 2. the size, amount, or degree of something as determined by measuring.",
+      "example": [
+        {
+          "eng": "The government took strict security measures at the airport.",
+          "ch": "政府在機場採取了嚴格的安全措施。"
+        },
+        {
+          "eng": "Take accurate measurements before cutting the wood.",
+          "ch": "在切割木頭之前要先進行準確的測量。"
+        }
+      ]
+    },
+    {
+      "eng": "measure",
+      "kk": "/ˈmɛʒər/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "測量",
+          "計量",
+          "估量"
+        ]
+      ],
+      "analysis": "此字為及物動詞，表面詞形為 measure。源自古法語 mesurer，最終源自拉丁語 metiri。指用標準工具計算尺寸、數量，或引申為評估價值與重要性。",
+      "definition": "1. to ascertain the size, amount, or degree of something by using a standard instrument or unit.",
+      "example": [
+        {
+          "eng": "She used a ruler to measure the length of the table.",
+          "ch": "她用尺來測量桌子的長度。"
+        }
+      ]
+    },
+    {
+      "eng": "measurement",
+      "kk": "/ˈmɛʒərmənt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "測量",
+          "尺寸",
+          "大小"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形為 measurement，由動詞 measure 加上名詞字尾 -ment 構成。指測量的動作、過程，或具體的測量結果與尺寸大小。",
+      "definition": "1. the dimension, capacity, or amount of something ascertained by measuring.",
+      "example": [
+        {
+          "eng": "The tailor took precise measurements of my chest and waist.",
+          "ch": "裁縫精確地量了我的胸圍和腰圍尺寸。"
+        }
+      ]
+    },
+    {
+      "eng": "medical",
+      "kk": "/ˈmɛdɪkəl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "醫療的",
+          "醫學的"
+        ]
+      ],
+      "analysis": "此字為形容詞，表面詞形為 medical，由拉丁語 medicus（醫學的、醫生的）加上形容詞字尾 -al 構成。指與疾病治療、醫療保健或醫學專業相關的。",
+      "definition": "1. relating to the science or practice of medicine and the treatment of diseases.",
+      "example": [
+        {
+          "eng": "He received immediate medical attention after the accident.",
+          "ch": "他在事故發生後立即得到了醫療救治。"
+        }
+      ]
+    },
+    {
+      "eng": "melody",
+      "kk": "/ˈmɛlədi/",
+      "tense": "n.",
+      "ch": [
+        [
+          "旋律",
+          "曲調"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形為 melody。經由中古英語 melodie、古法語，源自晚期拉丁語 melodia，最終源自希臘語 melōidia（由 melos 曲調 + aoide 歌曲組成）。指悅耳的音樂音符排列與旋律。",
+      "definition": "1. a sequence of single notes that is musically satisfying; a tune.",
+      "example": [
+        {
+          "eng": "The song has a sweet and memorable melody.",
+          "ch": "這首歌有著甜美且令人難忘的旋律。"
+        }
+      ]
+    },
+    {
+      "eng": "membership",
+      "kk": "/ˈmɛmbərʃɪp/",
+      "tense": "n.",
+      "ch": [
+        [
+          "會員資格",
+          "全體會員"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形為 membership，由名詞 member（成員）加上名詞字尾 -ship（表示身分、狀態）複合而成。指成為某組織成員的身分，或指該組織全體成員的總稱。",
+      "definition": "1. the state or status of being a member of a group, organization, or club; the body of members.",
+      "example": [
+        {
+          "eng": "Club membership includes free access to the swimming pool.",
+          "ch": "俱樂部會員資格包含免費使用游泳池。"
+        }
+      ]
+    },
+    {
+      "eng": "memory",
+      "kk": "/ˈmɛməri/",
+      "tense": "n.",
+      "ch": [
+        [
+          "記憶",
+          "記憶力",
+          "回憶"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形為 memory。源自古法語 memorie，最終源自拉丁語 memoria（記憶、回憶），由 memor（記得的）衍生而來。指腦海中保存經歷的能力，或過去事件的具體回憶。",
+      "definition": "1. the faculty by which the mind stores and remembers information; something remembered from the past.",
+      "example": [
+        {
+          "eng": "She has a good memory for faces and names.",
+          "ch": "她對面孔和名字有很好的記憶力。"
+        },
+        {
+          "eng": "Living in that old house brought back happy childhood memories.",
+          "ch": "住在那個老房子裡喚起了快樂的童年回憶。"
+        }
+      ]
+    },
+    {
+      "eng": "mention",
+      "kk": "/ˈmɛnʃən/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "提及",
+          "說起"
+        ]
+      ],
+      "analysis": "此字為及物動詞，表面詞形為 mention。源自古法語 mention，源自拉丁語 mentio（提及、提及的名字），由 mens（心智）衍生而來。意指在談話或寫作中短暫地提及某事。",
+      "definition": "1. to refer to something or someone briefly in speech or writing without going into detail.",
+      "example": [
+        {
+          "eng": "Did she mention when she would be back?",
+          "ch": "她有提到她什麼時候回來嗎？"
+        }
+      ]
+    },
+    {
+      "eng": "message",
+      "kk": "/ˈmɛsɪdʒ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "訊息",
+          "留言",
+          "教訓"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形為 message。源自中古英語，經由古法語源自中世紀拉丁語 missaticum（使者的派遣），由 mittere（派遣）衍生而來。原指傳遞的口信或書信，後引申為通訊軟體中的文字訊息以及作品想表達的核心寓意。",
+      "definition": "1. a written, spoken, or electronic communication sent to someone; 2. a significant point or central theme of a speech, book, or movie.",
+      "example": [
+        {
+          "eng": "I left a voice message for him when he didn't answer.",
+          "ch": "他不接電話時，我留了語音訊息給他。"
+        },
+        {
+          "eng": "The movie carries a strong environmental message.",
+          "ch": "這部電影傳遞了強烈的環保訊息。"
+        }
+      ]
+    },
+    {
+      "eng": "metal",
+      "kk": "/ˈmɛtəl/",
+      "tense": "n.",
+      "ch": [
+        [
+          "金屬"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形為 metal。源自古法語 metal，源自拉丁語 metallum，最終源自希臘語 métallon（礦山、金屬）。指一類具有光澤、導電、導熱等特性的化學元素或物質。",
+      "definition": "1. a solid material such as gold, silver, iron, or copper that is typically hard, shiny, and a good conductor of heat and electricity.",
+      "example": [
+        {
+          "eng": "Gold and silver are precious metals used in jewelry.",
+          "ch": "黃金和白銀是用於珠寶的貴金屬。"
+        }
+      ]
+    },
+    {
+      "eng": "meter",
+      "kk": "/ˈmitər/",
+      "tense": "n.",
+      "ch": [
+        [
+          "公尺",
+          "米"
+        ],
+        [
+          "儀表",
+          "計量器"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形為 meter。源自法語 mètre，源自希臘語 metron（度量、測量）。在現代英語中作為長度單位（公尺），也指用於測量水、電、氣或速度的各種計量儀表。",
+      "definition": "1. the fundamental unit of length in the metric system, equal to approximately 39.37 inches; 2. an instrument designed to measure and record the amount of something such as gas, electricity, or water.",
+      "example": [
+        {
+          "eng": "The runner finished the hundred-meter race in ten seconds.",
+          "ch": "這位賽跑選手在十秒內跑完了百米賽跑。"
+        },
+        {
+          "eng": "The utility worker came to check the electricity meter.",
+          "ch": "公用事業工人來檢查電錶。"
+        }
+      ]
+    },
+    {
+      "eng": "method",
+      "kk": "/ˈmɛθəd/",
+      "tense": "n.",
+      "ch": [
+        [
+          "方法",
+          "條理"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形為 method。源自拉丁語 methodus，源自希臘語 methodos（追尋、探究），由 meta-（沿著、朝向）+ hodos（道路）複合而成。本義為「探求真理的道路」，演變為做事、研究的方法與系統化程序。",
+      "definition": "1. a particular procedure for accomplishing or approaching something, especially a systematic or established one.",
+      "example": [
+        {
+          "eng": "Scientists use a scientific method to test their hypotheses.",
+          "ch": "科學家使用科學方法來檢驗他們的假設。"
+        }
+      ]
+    },
+    {
+      "eng": "midnight",
+      "kk": "/ˈmɪdˌnaɪt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "午夜",
+          "半夜十二點"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形為 midnight，由古英語 mid（中間的）+ niht（夜晚）複合而成。指夜晚正中央的十二點時刻。",
+      "definition": "1. twelve o'clock at night; the middle of the night.",
+      "example": [
+        {
+          "eng": "Cinderella had to return home before midnight.",
+          "ch": "灰姑娘必須在午夜之前回家。"
+        }
+      ]
+    },
+    {
+      "eng": "mile",
+      "kk": "/maɪl/",
+      "tense": "n.",
+      "ch": [
+        [
+          "英里"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形為 mile。源自古英語 mīl，最終源自拉丁語 milia passuum（千步），由 milia（一千）+ passus（步）組成，為古羅馬軍隊行軍的距離單位，後演變為英美制長度單位。",
+      "definition": "1. a unit of linear measure equal to 5,280 feet or 1,609.34 meters.",
+      "example": [
+        {
+          "eng": "He runs three miles every morning to stay fit.",
+          "ch": "他每天早晨跑三英里來保持身材。"
+        }
+      ]
+    },
+    {
+      "eng": "military",
+      "kk": "/ˈmɪləˌtɛri/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "軍事的",
+          "軍隊的"
+        ]
+      ],
+      "analysis": "此字為形容詞，表面詞形為 military。源自拉丁語 militaris，由 miles（士兵）衍生而來。指與軍隊、戰爭或防衛武力相關的事物。",
+      "definition": "1. relating to or characteristic of soldiers or armed forces.",
+      "example": [
+        {
+          "eng": "The two countries signed a military cooperation agreement.",
+          "ch": "兩國簽署了一項軍事合作協議。"
+        }
+      ]
+    },
+    {
+      "eng": "minor",
+      "kk": "/ˈmaɪnər/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "較小的",
+          "次要的",
+          "輕微的"
+        ]
+      ],
+      "analysis": "此字為形容詞，表面詞形為 minor。源自拉丁語 minor（較小的、更小的，parvus 的比較級）。在現代英語中用於指規模、重要性較低的事物，或音樂中的小調。",
+      "definition": "1. lesser in importance, seriousness, or significance; smaller.",
+      "example": [
+        {
+          "eng": "She only suffered minor injuries in the car crash.",
+          "ch": "她在車禍中只受到輕微的傷。"
+        }
+      ]
+    },
+    {
+      "eng": "minority",
+      "kk": "/maɪˈnɔrəti/",
+      "tense": "n.",
+      "ch": [
+        [
+          "少數",
+          "少數民族",
+          "未成年"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形為 minority，由形容詞 minor 加上名詞字尾 -ity（表示狀態或性質）構成。指總體中數量較少的部分、少數族群，或法律上的未成年狀態。",
+      "definition": "1. the smaller number or part, especially a number that is less than half the whole; a racial or ethnic group smaller than the majority; 2. the state of being under the legal age of adulthood.",
+      "example": [
+        {
+          "eng": "Only a minority of students voted in favor of the new rule.",
+          "ch": "只有少數學生投票贊成這項新規定。"
+        },
+        {
+          "eng": "The government aims to protect the rights of ethnic minorities.",
+          "ch": "政府旨在保護少數民族的權利。"
+        }
+      ]
+    },
+    {
+      "eng": "mirror",
+      "kk": "/ˈmɪrər/",
+      "tense": "n.",
+      "ch": [
+        [
+          "鏡子",
+          "反映"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形為 mirror。源自古法語 mireor，源自 mirer（看），最終源自拉丁語 mirari（驚嘆、凝視）。指能照出影像的鏡面，也引申為反映現實狀況的事物。",
+      "definition": "1. a reflective surface that reflects a clear image; something that depicts or reflects real life or conditions.",
+      "example": [
+        {
+          "eng": "She checked her hair in the mirror before leaving the house.",
+          "ch": "她出門前在鏡子裡整理了頭髮。"
+        }
+      ]
+    },
+    {
+      "eng": "mix",
+      "kk": "/mɪks/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "混合",
+          "配製"
+        ]
+      ],
+      "analysis": "此字為及物動詞，表面詞形為 mix。源自拉丁語 mixtus（混合的，miscere 的過去分詞），經由背向衍生或名詞回溯造詞進入英語。指將不同的物質、成分或元素攪拌融合在一起。",
+      "definition": "1. to combine or put together two or more substances so that they form a single mass or substance.",
+      "example": [
+        {
+          "eng": "Mix the flour and sugar together in a large bowl.",
+          "ch": "把麵粉和糖在大碗裡混合在一起。"
+        }
+      ]
+    },
+    {
+      "eng": "mixture",
+      "kk": "/ˈmɪkstʃər/",
+      "tense": "n.",
+      "ch": [
+        [
+          "混合物",
+          "混合"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形為 mixture，由動詞 mix 加上名詞字尾 -ture 構成。指多種成分融合後形成的混合體。",
+      "definition": "1. a substance made by mixing other substances together.",
+      "example": [
+        {
+          "eng": "Concrete is a mixture of cement, sand, water, and gravel.",
+          "ch": "混凝土是水泥、沙子、水和碎石的混合物。"
+        }
+      ]
+    },
+    {
+      "eng": "model",
+      "kk": "/ˈmɑdəl/",
+      "tense": "n.",
+      "ch": [
+        [
+          "模型",
+          "模範",
+          "模特兒"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形為 model。源自中古法語 modele，源自義大利語 modello，最終源自拉丁語 modulus（小度量、標準）。引申出縮小比例的模型、表現優良的模範，以及穿著展示服裝的時裝模特兒。",
+      "definition": "1. a three-dimensional representation of a person or thing, typically on a smaller scale; 2. a person considered worthy of imitation; 3. a person employed to display clothes or pose for artists.",
+      "example": [
+        {
+          "eng": "The boy built a detailed wooden model of a sailing ship.",
+          "ch": "這男孩製作了一個精細的帆船木製模型。"
+        },
+        {
+          "eng": "She works as a professional fashion model in Paris.",
+          "ch": "她在巴黎擔任專業時尚模特兒。"
+        }
+      ]
+    },
+    {
+      "eng": "mood",
+      "kk": "/mud/",
+      "tense": "n.",
+      "ch": [
+        [
+          "情緒",
+          "心情",
+          "氣氛"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形為 mood。源自古英語 mōd（心智、精神、勇氣），屬於日耳曼語源的繼承詞。語義從早期的心智狀態演變為現代的心情、情緒以及環境或作品的氣氛。",
+      "definition": "1. a temporary state of mind or feeling; the atmosphere or general feeling of a place or event.",
+      "example": [
+        {
+          "eng": "He is in a very good mood today after passing the exam.",
+          "ch": "他今天考試及格後心情非常好。"
+        }
+      ]
+    },
+    {
+      "eng": "mop",
+      "kk": "/mɑp/",
+      "tense": "n.",
+      "ch": [
+        [
+          "拖把"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形為 mop。可能源自凱爾特語族或中古荷蘭語，指用於擦洗地板或清理液體的工具。",
+      "definition": "1. a tool consisting of a bundle of thick strings or a sponge attached to a pole, used for washing floors.",
+      "example": [
+        {
+          "eng": "She used a mop to clean up the spilled juice on the kitchen floor.",
+          "ch": "她用拖把清理廚房地板上灑出的果汁。"
+        }
+      ]
+    },
+    {
+      "eng": "motion",
+      "kk": "/ˈmoʊʃən/",
+      "tense": "n.",
+      "ch": [
+        [
+          "運動",
+          "移動",
+          "提議"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形為 motion。源自古法語 motion，源自拉丁語 motio（移動），由 movere（移動）衍生而來。指物理上的移動、動作，或在會議中正式提出的動議、提議。",
+      "definition": "1. the action or process of moving or being moved; 2. a formal proposal put to a legislature or committee for discussion and vote.",
+      "example": [
+        {
+          "eng": "The smooth motion of the train helped her fall asleep.",
+          "ch": "火車平穩的晃動幫助她入睡。"
+        },
+        {
+          "eng": "The chairman called for a vote on the motion.",
+          "ch": "主席要求對這項提議進行投票。"
+        }
+      ]
+    },
+    {
+      "eng": "motorcycle",
+      "kk": "/ˈmoʊtərˌsaɪkəl/",
+      "tense": "n.",
+      "ch": [
+        [
+          "摩托車",
+          "機車"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形為 motorcycle，由 motor（發動機）+ cycle（輪車、自行車）複合而成，於19世紀末期創造，指配備引擎的兩輪機動車輛。",
+      "definition": "1. a two-wheeled motor vehicle powered by an engine.",
+      "example": [
+        {
+          "eng": "He rides his motorcycle to work every sunny morning.",
+          "ch": "他每個晴朗的早晨都騎機車去上班。"
+        }
+      ]
+    },
+    {
+      "eng": "mug",
+      "kk": "/mʌɡ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "馬克杯",
+          "大杯子"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形為 mug。源自斯堪地那維亞語源（例如斯堪地那維亞方言 mugg，意指陶罐），原指帶有把手的大口喝水杯。",
+      "definition": "1. a large drinking cup with a handle, typically used for hot drinks.",
+      "example": [
+        {
+          "eng": "She drank a warm mug of cocoa before going to bed.",
+          "ch": "她在睡前喝了一大馬克杯溫熱的可可。"
+        }
+      ]
+    },
+    {
+      "eng": "musical",
+      "kk": "/ˈmjuzɪkəl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "音樂的",
+          "美妙的"
+        ]
+      ],
+      "analysis": "此字為形容詞，表面詞形為 musical，由名詞 music 加上形容詞字尾 -al 構成。指與音樂藝術相關的，或形容聲音像音樂般悅耳動聽。",
+      "definition": "1. relating to or played on music; sweet-sounding like music.",
+      "example": [
+        {
+          "eng": "She comes from a very musical family and plays the violin.",
+          "ch": "她來自一個極具音樂天賦的家庭，會拉小提琴。"
+        }
+      ]
+    },
+    {
+      "eng": "musician",
+      "kk": "/mjuˈzɪʃən/",
+      "tense": "n.",
+      "ch": [
+        [
+          "音樂家",
+          "樂手"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形為 musician，由 music 加上表示人的名詞字尾 -ician（仿效法語 -icien 結構）構成。指專業從事音樂創作、演奏或演唱的人。",
+      "definition": "1. a person who plays a musical instrument or writes music, especially as a profession.",
+      "example": [
+        {
+          "eng": "The street musician played a lively tune on his guitar.",
+          "ch": "這位街頭藝人用他的吉他彈奏了一首輕快的曲子。"
+        }
+      ]
+    },
+    {
+      "eng": "nail",
+      "kk": "/neɪl/",
+      "tense": "n.",
+      "ch": [
+        [
+          "指甲",
+          "趾甲"
+        ],
+        [
+          "釘子"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形為 nail。源自古英語 nægl，屬於日耳曼語源的繼承詞。指手指或腳趾末端的角質層（指甲），以及固定木材的金屬尖銳釘子。",
+      "definition": "1. the thin, hard layer covering the outer tip of the fingers and toes; 2. a small metal spike with a flat head used for driving into wood.",
+      "example": [
+        {
+          "eng": "She painted her fingernails with bright red polish.",
+          "ch": "她用鮮紅色的指甲油塗了指甲。"
+        },
+        {
+          "eng": "He used a hammer to drive the nail into the wooden board.",
+          "ch": "他用錘子把釘子敲進木板裡。"
+        }
+      ]
+    },
+    {
+      "eng": "narrow",
+      "kk": "/ˈnæroʊ/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "狹窄的",
+          "狹隘的"
+        ]
+      ],
+      "analysis": "此字為形容詞，表面詞形為 narrow。源自古英語 nearu（狹窄的、緊密的），屬於日耳曼語源。指寬度小、距離近，或引申為思想、觀點狹隘。",
+      "definition": "1. of small width in comparison to length; limited in extent, scope, or amount.",
+      "example": [
+        {
+          "eng": "The car could barely pass through the narrow alley.",
+          "ch": "這輛車勉強能通過那條狹窄的巷子。"
+        }
+      ]
+    },
+    {
+      "eng": "nation",
+      "kk": "/ˈneɪʃən/",
+      "tense": "n.",
+      "ch": [
+        [
+          "國家",
+          "民族"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形為 nation。源自古法語 nation，源自拉丁語 natio（出生、種族、部落），由 nasci（出生）衍生而來。語義從早期的血緣部落演變為現代擁有共同政府與領土的國家或民族。",
+      "definition": "1. a large body of people united by common descent, history, culture, or language, inhabiting a particular country or territory.",
+      "example": [
+        {
+          "eng": "The Olympic Games bring athletes from every nation together.",
+          "ch": "奧林匹克運動會將來自各國的運動員聚集在一起。"
+        }
+      ]
+    },
+    {
+      "eng": "natural",
+      "kk": "/ˈnætʃərəl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "自然的",
+          "天然的",
+          "天生的"
+        ]
+      ],
+      "analysis": "此字為形容詞，表面詞形為 natural，由名詞 nature 加上形容詞字尾 -al 構成。指存在於大自然中而非人造的，或指天生具備的特質。",
+      "definition": "1. existing in or caused by nature; not made or caused by humankind; inherent or inborn.",
+      "example": [
+        {
+          "eng": "Honey is a natural sweetener with many health benefits.",
+          "ch": "蜂蜜是一種具有許多健康益處的天然甜味劑。"
+        },
+        {
+          "eng": "She has a natural talent for playing the piano.",
+          "ch": "她具有彈鋼琴的天賦。"
+        }
+      ]
+    },
+    {
+      "eng": "naughty",
+      "kk": "/ˈnɔti/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "頑皮的",
+          "淘氣的",
+          "不乖的"
+        ]
+      ],
+      "analysis": "此字為形容詞，表面詞形為 naughty。源自古英語 nāwiht（什麼也沒有、毫無價值），由 nā（不）+ wiht（人、物）組成。早期意指貧窮或邪惡的，後語義轉變為形容小孩調皮搗蛋、不聽話。",
+      "definition": "1. disobedient or behaving badly, especially used to describe children.",
+      "example": [
+        {
+          "eng": "The naughty puppy chewed up my favorite pair of shoes.",
+          "ch": "這隻頑皮的小狗把我都最喜歡的那雙鞋給咬壞了。"
+        }
+      ]
+    },
+    {
+      "eng": "nearby",
+      "kk": "/ˈnɪrˌbaɪ/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "附近的",
+          "鄰近的"
+        ]
+      ],
+      "analysis": "此字為形容詞，表面詞形為 nearby，由副詞／介系詞 near + by 複合而成。置於名詞前作修飾語，指距離不遠的。",
+      "definition": "1. close at hand; not far away.",
+      "example": [
+        {
+          "eng": "We parked our car in a nearby parking lot.",
+          "ch": "我們把車停在附近的停車場。"
+        }
+      ]
+    },
+    {
+      "eng": "nearly",
+      "kk": "/ˈnɪrli/",
+      "tense": "adv.",
+      "ch": [
+        [
+          "幾乎",
+          "差不多"
+        ]
+      ],
+      "analysis": "此字為副詞，表面詞形為 nearly，由 near 加上副詞字尾 -ly 構成。意指差一點就達到、幾乎要發生。",
+      "definition": "1. very close to; almost.",
+      "example": [
+        {
+          "eng": "It is nearly midnight; we should go home now.",
+          "ch": "快半夜十二點了，我們現在應該回家了。"
+        }
+      ]
+    },
+    {
+      "eng": "necessary",
+      "kk": "/ˈnɛsəˌsɛri/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "必要的",
+          "必須的"
+        ]
+      ],
+      "analysis": "此字為形容詞，表面詞形為 necessary。源自拉丁語 necessarius，由 necesse（不可避免的、必要的）衍生而來。指不可或缺、不做不行的事物。",
+      "definition": "1. required to be done, achieved, or present; essential.",
+      "example": [
+        {
+          "eng": "Water and food are necessary for human survival.",
+          "ch": "水和食物是人類生存所必需的。"
+        }
+      ]
+    },
+    {
+      "eng": "necklace",
+      "kk": "/ˈnɛklɪs/",
+      "tense": "n.",
+      "ch": [
+        [
+          "項鍊"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形為 necklace，由 neck（脖子）+ lace（帶子、花邊，此處指裝飾品或鏈條）複合而成，指戴在脖子上的珠寶飾品。",
+      "definition": "1. an ornamental chain or string of jewels, beads, or other items worn around the neck.",
+      "example": [
+        {
+          "eng": "He bought a silver necklace as a birthday gift for his wife.",
+          "ch": "他買了一條銀項鍊作為給太太的生日禮物。"
+        }
+      ]
+    },
+    {
+      "eng": "needle",
+      "kk": "/ˈnidəl/",
+      "tense": "n.",
+      "ch": [
+        [
+          "針",
+          "指針",
+          "針狀物"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形為 needle。源自古英語 nēdl，屬於日耳曼語源的繼承詞。本義指縫紉用的細長金屬針，後引申指羅盤指針、松針等形狀相似的物體。",
+      "definition": "1. a very thin, sharp piece of steel with a hole for thread, used in sewing; 2. a pointer on a dial or compass; 3. a sharp leaf of a pine tree.",
+      "example": [
+        {
+          "eng": "She threaded the needle carefully to mend the torn shirt.",
+          "ch": "她小心翼翼地把線穿過針眼來補破襯衫。"
+        },
+        {
+          "eng": "The compass needle pointed steadily to the north.",
+          "ch": "指南針的指針穩穩地指向北方。"
+        }
+      ]
+    },
+    {
+      "eng": "negative",
+      "kk": "/ˈnɛgətɪv/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "負面的",
+          "消極的",
+          "陰性的"
+        ]
+      ],
+      "analysis": "此字為形容詞，表面詞形為 negative。源自拉丁語 negativus，由 negare（否定）衍生而來。指表達否定、反對、悲觀的態度，或在醫學檢驗中表示未檢出（陰性）。",
+      "definition": "1. expressing denial, refusal, or unenthusiastic attitude; pessimistic; 2. showing the absence of a particular substance or condition in medical tests.",
+      "example": [
+        {
+          "eng": "Try to maintain a positive attitude and avoid negative thoughts.",
+          "ch": "試著保持積極的態度，避免負面的想法。"
+        },
+        {
+          "eng": "The COVID-19 test result came back negative.",
+          "ch": "新冠病毒檢測結果呈陰性。"
+        }
+      ]
+    }
+  ]
+}

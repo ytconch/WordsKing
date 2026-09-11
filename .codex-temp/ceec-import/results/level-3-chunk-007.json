@@ -1,0 +1,1429 @@
+{
+  "level": 3,
+  "chunkIndex": 7,
+  "inputs": [
+    "enjoyable",
+    "entry",
+    "envy",
+    "erase",
+    "excellence",
+    "exchange",
+    "exhibition",
+    "expectation",
+    "experiment",
+    "explode",
+    "explore",
+    "export",
+    "expressive",
+    "extreme",
+    "fade",
+    "faint",
+    "fairly",
+    "fairy",
+    "faith",
+    "fake",
+    "familiar",
+    "fancy",
+    "fare",
+    "farther",
+    "fashionable",
+    "faucet",
+    "fearful",
+    "feather",
+    "fence",
+    "fighter",
+    "firework",
+    "fist",
+    "flame",
+    "flash",
+    "flashlight",
+    "flavor",
+    "flesh",
+    "float",
+    "flock",
+    "flood",
+    "flour",
+    "flute",
+    "foggy",
+    "fold",
+    "follower",
+    "fond",
+    "forever",
+    "fortune",
+    "fountain",
+    "frank"
+  ],
+  "rows": [
+    {
+      "eng": "enjoyable",
+      "kk": "/ɪnˈdʒɔɪəbəl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "令人愉快的",
+          "快樂的",
+          "舒適的"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由動詞 enjoy 加上形容詞字尾 -able（表示「可……的」、「具有……性質的」）結合而成。字面原意為「可享受的、能帶來樂趣的」，演變為現代常見的形容詞，用以形容事物帶給人愉悅、快樂或滿足的感受。語意上直接延續 enjoy 的核心意涵。",
+      "definition": "1. giving pleasure or enjoyment; pleasant and satisfying.",
+      "example": [
+        {
+          "eng": "We had a very enjoyable evening at the restaurant.",
+          "ch": "我們在餐廳度過了一個非常愉快的晚上。"
+        }
+      ]
+    },
+    {
+      "eng": "entry",
+      "kk": "/ˈɛntri/",
+      "tense": "n.",
+      "ch": [
+        [
+          "進入",
+          "入學",
+          "加入"
+        ],
+        [
+          "入口",
+          "門口"
+        ],
+        [
+          "登記",
+          "條目",
+          "項目"
+        ]
+      ],
+      "analysis": "此字源自中古英語 entrie，最終源自拉丁語 *initrare（衍生自 intra「在內部」），經古法語 entrée 進入英語。其現代構詞可視為動詞 enter 加上名詞字尾 -y。語意從最早的「行動上的進入、入口處」，引申出「參加某組織或比賽」，再進一步指「帳冊、字典或電腦系統中的記錄條目或項目」。",
+      "definition": "1. the act of entering a place or joining a group; 2. a door, gate, or other opening through which you can enter; 3. an item written or entered in a list, book, or computer program.",
+      "example": [
+        {
+          "eng": "Unauthorized entry into the building is strictly prohibited.",
+          "ch": "嚴禁未經授權進入該建築物。"
+        },
+        {
+          "eng": "We found the side entry locked.",
+          "ch": "我們發現側門入口上鎖了。"
+        },
+        {
+          "eng": "Please check your dictionary entry for the correct spelling.",
+          "ch": "請檢查你的字典條目以確認正確拼寫。"
+        }
+      ]
+    },
+    {
+      "eng": "envy",
+      "kk": "/ˈɛnvi/",
+      "tense": "n.",
+      "ch": [
+        [
+          "嫉妒",
+          "羨慕"
+        ],
+        [
+          "羨慕的對象"
+        ]
+      ],
+      "analysis": "此字源自中古英語 envie，借自古法語 envie，再上溯至拉丁語 invidia（由 invidere「嫉妒、惡意注視」衍生，由 in-「朝向」與 videre「看」組成，原意為「惡毒地盯著看別人的好處」）。名詞與動詞同形，此 row 為名詞，指因他人擁有某物而產生的嫉妒情感，或引申為眾人羨慕的目標。",
+      "definition": "1. a feeling of discontent or covetousness with regard to another's advantages, success, or possessions; 2. a person or thing that is envied.",
+      "example": [
+        {
+          "eng": "He looked at her new car with envy.",
+          "ch": "他帶著嫉妒的眼神看著她的新車。"
+        },
+        {
+          "eng": "Her beautiful garden is the envy of the neighborhood.",
+          "ch": "她美麗的花園是鄰近居民羨慕的對象。"
+        }
+      ]
+    },
+    {
+      "eng": "envy",
+      "kk": "/ˈɛnvi/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "嫉妒",
+          "羨慕"
+        ]
+      ],
+      "analysis": "此動詞形式源自古法語 envier，對應拉丁語 invidare，與名詞同源。及物動詞用法表示對他人的成就、才能或所有物感到羨慕或嫉妒，句型上須接直接受詞。",
+      "definition": "1. to feel a desire to have what someone else has; to feel envious of.",
+      "example": [
+        {
+          "eng": "I really envy you for having such a long vacation.",
+          "ch": "我真的很羨慕你有這麼長的假期。"
+        }
+      ]
+    },
+    {
+      "eng": "erase",
+      "kk": "/ɪˈreɪs/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "擦掉",
+          "抹去",
+          "消除"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 eradere（由 e-/ex-「出、向外」與 radere「刮、擦」組成，字面義為「刮掉」）。經由拉丁語過去分詞 erasus 進入英語，形成動詞 erase。語意從最初實體上的「刮除字跡」，擴展到現代的「擦除鉛筆字、抹去磁帶錄音或清除電腦資料」。",
+      "definition": "1. to rub or scratch out writing or marks; to eliminate or remove completely.",
+      "example": [
+        {
+          "eng": "Please erase the pencil marks on the whiteboard.",
+          "ch": "請擦掉白板上的鉛筆痕跡。"
+        }
+      ]
+    },
+    {
+      "eng": "excellence",
+      "kk": "/ˈɛksələns/",
+      "tense": "n.",
+      "ch": [
+        [
+          "優秀",
+          "傑出",
+          "卓越"
+        ]
+      ],
+      "analysis": "此字源自中古英語 excellence，借自古法語，源自拉丁語 excellentia，由形容詞 excellens（動詞 excellere「高出、勝過」的分詞形式）衍生而來。現代構詞為形容詞 excellent 的名詞化形式，用以指品質、表現或水準極高、非常優秀的狀態。",
+      "definition": "1. the quality of being outstanding or extremely good.",
+      "example": [
+        {
+          "eng": "The university is known for its academic excellence.",
+          "ch": "這所大學以學術卓越而聞名。"
+        }
+      ]
+    },
+    {
+      "eng": "exchange",
+      "kk": "/ɪksˈtʃeɪndʒ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "交換",
+          "交流"
+        ],
+        [
+          "交易所",
+          "兌換處"
+        ]
+      ],
+      "analysis": "此字源自中古英語 excaungen，借自古法語 exchangier，由 ex-（「出、加強」）與法語字根 changier（源自晚期拉丁語 cambiare「改變、交換」）結合而成。名詞用法指人與人之間物品或意見的互換、交流，亦可指特定金融或商業交易場所。",
+      "definition": "1. an act of giving one thing and receiving another; reciprocal giving and receiving; 2. a place where things are exchanged, such as a stock exchange or currency exchange office.",
+      "example": [
+        {
+          "eng": "They had a friendly exchange of views on the project.",
+          "ch": "他們就該計畫進行了友好的意見交流。"
+        },
+        {
+          "eng": "She went to the bank to use the currency exchange.",
+          "ch": "她去銀行使用外幣兌換服務。"
+        }
+      ]
+    },
+    {
+      "eng": "exchange",
+      "kk": "/ɪksˈtʃeɪndʒ/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "交換",
+          "交流",
+          "兌換"
+        ]
+      ],
+      "analysis": "此為 exchange 的及物動詞用法，語源同名詞。表示將某物交給對方並從中換取另一物，或進行貨幣、意見的雙向轉換，句型上須接直接受詞。",
+      "definition": "1. to give something in return for something else; to trade or swap.",
+      "example": [
+        {
+          "eng": "We exchanged phone numbers before saying goodbye.",
+          "ch": "我們在道別前交換了電話號碼。"
+        }
+      ]
+    },
+    {
+      "eng": "exhibition",
+      "kk": "/ˌɛksəˈbɪʃən/",
+      "tense": "n.",
+      "ch": [
+        [
+          "展覽",
+          "展覽會",
+          "表現"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 exhibitio（由 exhibere「展示、拿出」，由 ex-「向外」與 habere「持有、擁有」組合而成）。經由中古法語或直接借入英語。現代構詞上對應動詞 exhibit 加上名詞字尾 -ion。語意指將藝術品、商品或成果公開展示給大眾參觀的活動，或指某種情感、才能的流露表現。",
+      "definition": "1. a public display of works of art, items of interest, or produce; 2. a clear outward display of a feeling, quality, or skill.",
+      "example": [
+        {
+          "eng": "We visited a modern art exhibition downtown.",
+          "ch": "我們參觀了市中心的現代藝術展覽。"
+        },
+        {
+          "eng": "His patience during the crisis was an exhibition of true leadership.",
+          "ch": "他在危機中的耐心展現了真正的領導能力。"
+        }
+      ]
+    },
+    {
+      "eng": "expectation",
+      "kk": "/ˌɛkspɛkˈteɪʃən/",
+      "tense": "n.",
+      "ch": [
+        [
+          "期待",
+          "期望",
+          "預期"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 exspectatio（由 exspectare「等待、盼望」，由 ex- 與 spectare「觀看、注視」組成）。現代構詞對應動詞 expect 加上名詞字尾 -ion。語意指心中對於未來某事即將發生或應有表現的強烈盼望與預期心理。",
+      "definition": "1. a strong belief that something will happen or be the case; a standard or goal that is anticipated.",
+      "example": [
+        {
+          "eng": "The movie exceeded our expectations in every way.",
+          "ch": "這部電影在各方面都超出了我們的預期。"
+        }
+      ]
+    },
+    {
+      "eng": "experiment",
+      "kk": "/ɪkˈspɛrəmənt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "實驗",
+          "試驗"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 experimentum（由 experiri「試驗、嘗試」，源自古印歐語根 *per-「試圖、冒險」）。經由中古法語進入英語。名詞用法指為了檢驗某項科學假說、觀察某種現象或測試新方法而進行的系統性操作或試驗。",
+      "definition": "1. a scientific procedure undertaken to make a discovery, test a hypothesis, or demonstrate a known fact.",
+      "example": [
+        {
+          "eng": "The scientists conducted a series of experiments in the lab.",
+          "ch": "科學家在實驗室裡進行了一系列實驗。"
+        }
+      ]
+    },
+    {
+      "eng": "experiment",
+      "kk": "/ɪkˈspɛrəmɛnt/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "進行實驗",
+          "嘗試",
+          "試驗"
+        ]
+      ],
+      "analysis": "此為 experiment 的不及物動詞用法，語源同名詞。表示進行科學實驗或在生活、藝術中嘗試新的方法、材料或風格，常與介詞 with 搭配使用。",
+      "definition": "1. to perform a scientific procedure or try out new ideas, methods, or activities.",
+      "example": [
+        {
+          "eng": "She loves to experiment with different ingredients in the kitchen.",
+          "ch": "她喜歡在廚房裡嘗試用不同的食材做菜。"
+        }
+      ]
+    },
+    {
+      "eng": "explode",
+      "kk": "/ɪkˈsploʊd/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使爆炸",
+          "駁倒",
+          "破除（迷信等）"
+        ]
+      ],
+      "analysis": "此為 explode 的及物動詞用法，語源同下。除了物理上「使某物爆炸」之外，亦引申自「喝倒彩將觀點趕下台」的古義，指用證據有力地「駁倒、推翻」錯誤的觀念、神話或迷信，句型上須接直接受詞。",
+      "definition": "1. to cause something to explode; 2. to show a belief, myth, or theory to be false.",
+      "example": [
+        {
+          "eng": "Modern science has exploded many ancient superstitions.",
+          "ch": "現代科學已經破除了許多古代的迷信。"
+        }
+      ]
+    },
+    {
+      "eng": "explode",
+      "kk": "/ɪkˈsploʊd/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "爆炸",
+          "爆發",
+          "激增"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 explodere（由 ex-「向外」與 plaudere「鼓掌、喝倒彩」組成，原意為「以喝倒彩聲把演員趕下台」）。後來在文藝復興時期語意轉變，指因內部壓力釋放而像劇院騷動般「猛烈炸開、爆發」，形成現代不及物動詞用法。",
+      "definition": "1. to burst or shatter violently and noisily as a result of rapid combustion or internal pressure; 2. to increase rapidly and suddenly.",
+      "example": [
+        {
+          "eng": "The old fireworks can be dangerous if they explode unexpectedly.",
+          "ch": "舊煙火如果意外爆炸會很危險。"
+        },
+        {
+          "eng": "The town's population began to explode in the 1990s.",
+          "ch": "這座城鎮的人口在1990年代開始激增。"
+        }
+      ]
+    },
+    {
+      "eng": "explore",
+      "kk": "/ɪkˈsplɔːr/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "探索",
+          "探勘",
+          "仔細檢查"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 explorare（由 ex-「加強」與 explorare 的基礎動詞可能與獵人呼喊驅趕野獸有關，原意為「大聲搜查、偵察」）。經由法語 explorer 進入英語。及物動詞用法指為了深入了解而實地探查未知地區，或引申為深入探討、研究某個問題或想法，句型上須接直接受詞。",
+      "definition": "1. to travel through an unfamiliar area in order to learn about it; 2. to inquire into or discuss something in detail.",
+      "example": [
+        {
+          "eng": "Early navigators set out to explore unknown oceans.",
+          "ch": "早期的航海家出發去探索未知的海洋。"
+        },
+        {
+          "eng": "The committee will explore new ways to reduce costs.",
+          "ch": "委員會將深入探討降低成本的新方法。"
+        }
+      ]
+    },
+    {
+      "eng": "export",
+      "kk": "/ˈɛkspɔːrt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "出口",
+          "出口商品"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 exportare（由 ex-「向外」與 portare「攜帶、運送」組成）。名詞用法重音在第一音節，指將本國商品運送到國外販售的行為，或指出口的商品本身。",
+      "definition": "1. the action of sending goods or services to another country for sale; 2. a commodity, article, or service sold abroad.",
+      "example": [
+        {
+          "eng": "Electronics are the country's main export.",
+          "ch": "電子產品是該國的主要出口商品。"
+        }
+      ]
+    },
+    {
+      "eng": "export",
+      "kk": "/ɪkˈspɔːrt/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "出口",
+          "輸出"
+        ]
+      ],
+      "analysis": "此為 export 的動詞用法，重音移至第二音節 /ɪkˈspɔːrt/。字面義為「向外運送」，指將商品、技術或文化價值輸出到其他國家，句型上須接直接受詞。",
+      "definition": "1. to send goods or services to another country for sale.",
+      "example": [
+        {
+          "eng": "The farm exports high-quality tea to Europe.",
+          "ch": "這個農場將高品質的茶葉出口到歐洲。"
+        }
+      ]
+    },
+    {
+      "eng": "expressive",
+      "kk": "/ɪkˈsprɛsɪv/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "富有表情的",
+          "表現力的",
+          "意味深長的"
+        ]
+      ],
+      "analysis": "此字由動詞 express 加上形容詞字尾 -ive（表示「具備某種性質或傾向的」）構成。現代構詞與歷史根源均透明清晰，用以形容人的面部表情、聲音、藝術作品或文字能生動、貼切地傳達情感、思想或意義。",
+      "definition": "1. effectively conveying thought, feeling, or meaning; full of expression.",
+      "example": [
+        {
+          "eng": "The dancer has a very expressive face.",
+          "ch": "這位舞者有一張非常富有表情的臉。"
+        }
+      ]
+    },
+    {
+      "eng": "extreme",
+      "kk": "/ɪkˈstriːm/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "極端的",
+          "極度的",
+          "偏激的"
+        ]
+      ],
+      "analysis": "此字源自中古英語 extreme，借自拉丁語 extremus（為 exter「外面的」之最高級形式，字面義為「最外面的、最遠端的」）。經由法語進入英語。作為形容詞，用以形容程度極大、超出常規或地理位置處於最邊緣的狀態。",
+      "definition": "1. reaching a high or the highest degree; very great in amount or effect; 2. furthest away from the center or a given point.",
+      "example": [
+        {
+          "eng": "The climbers faced extreme weather conditions on the mountain.",
+          "ch": "登山者在山上遇到了極端的天氣狀況。"
+        }
+      ]
+    },
+    {
+      "eng": "fade",
+      "kk": "/feɪd/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "褪色",
+          "逐漸消失",
+          "枯萎",
+          "衰弱"
+        ]
+      ],
+      "analysis": "此字源自中古英語 faden，可能源自古法語 fader 或拉丁語 *fatidus（由 fatere「枯萎、衰弱」衍生）。作為不及物動詞，用以描述顏色因日曬或水洗而變淡、聲音或記憶隨時間逐漸模糊消失，以及植物枯萎或體力減弱的自然過程。",
+      "definition": "1. to lose brightness or color; 2. to gradually disappear, fade away, or grow faint; 3. to lose strength or vigor.",
+      "example": [
+        {
+          "eng": "The bright red curtains began to fade in the strong sunlight.",
+          "ch": "鮮紅色的窗簾在強烈的陽光下開始褪色。"
+        },
+        {
+          "eng": "The sounds of the footsteps slowly faded away.",
+          "ch": "腳步聲慢慢地消失了。"
+        }
+      ]
+    },
+    {
+      "eng": "faint",
+      "kk": "/feɪnt/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "昏倒",
+          "暈厥"
+        ]
+      ],
+      "analysis": "此為 faint 的不及物動詞用法，語源同形容詞。表示因血壓下降、缺氧、驚嚇或過度疲勞而短暫失去意識、昏厥過去。",
+      "definition": "1. to lose consciousness briefly because of a temporary drop in blood supply to the brain.",
+      "example": [
+        {
+          "eng": "The heat was so intense that several people fainted during the ceremony.",
+          "ch": "天氣太熱了，典禮中有好幾個人昏倒。"
+        }
+      ]
+    },
+    {
+      "eng": "faint",
+      "kk": "/feɪnt/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "微弱的",
+          "模糊的",
+          "頭暈目眩的"
+        ]
+      ],
+      "analysis": "此字源自中古英語 feynt，借自古法語 feint（為 faindre「假裝、軟弱、沮喪」的過去分詞，最終源自拉丁語 fingere）。在英語中語意轉變為指感官上「微弱的、看不清或聽不清的」，或指人因虛弱而感到「暈眩的、快要昏厥的」。",
+      "definition": "1. scarcely perceptible; slight or dim in sound, sight, or smell; 2. feeling weak, dizzy, and about to faint.",
+      "example": [
+        {
+          "eng": "We heard a faint sound coming from the next room.",
+          "ch": "我們聽到隔壁房間傳來微弱的聲音。"
+        },
+        {
+          "eng": "She felt faint from the summer heat and lack of water.",
+          "ch": "她因為夏日酷熱和缺水而感到頭暈目眩。"
+        }
+      ]
+    },
+    {
+      "eng": "fairly",
+      "kk": "/ˈfɛrli/",
+      "tense": "adv.",
+      "ch": [
+        [
+          "相當",
+          "還算",
+          "公正地"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由形容詞 fair（公平的、相當好的）加上副詞字尾 -ly 結合而成。其語意一方面保留自 fair 的「公正地、平心論地」，另一方面在現代英語中高度演變為程度副詞，表示「相當、尚可、過得去」，常用於修飾形容詞或動詞。",
+      "definition": "1. to a moderately high degree; quite; 2. in a fair, just, or honest manner.",
+      "example": [
+        {
+          "eng": "The test was fairly difficult, but most students passed.",
+          "ch": "這場考試相當難，但大多數學生都及格了。"
+        },
+        {
+          "eng": "The manager treated all employees fairly.",
+          "ch": "經理公平地對待所有員工。"
+        }
+      ]
+    },
+    {
+      "eng": "fairy",
+      "kk": "/ˈfɛri/",
+      "tense": "n.",
+      "ch": [
+        [
+          "小精靈",
+          "仙女"
+        ]
+      ],
+      "analysis": "此字源自中古英語 faerie，借自古法語 faerie（由 faie「仙女」加上抽象名詞字尾 -erie 組成，最終源自拉丁語 fata「命運、女神」）。語意指歐洲民間傳說中具有超自然力量、常帶有翅膀且身形嬌小的小精靈或仙女。",
+      "definition": "1. a mythical being of folklore and romance, usually having magical powers and represented as a tiny human being, often with wings.",
+      "example": [
+        {
+          "eng": "In the story, the fairy granted three wishes to the poor woodcutter.",
+          "ch": "故事中，小精靈答應了貧窮伐木工的三個願望。"
+        }
+      ]
+    },
+    {
+      "eng": "faith",
+      "kk": "/feɪθ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "信心",
+          "信念",
+          "宗教信仰"
+        ]
+      ],
+      "analysis": "此字源自中古英語 feith，經由盎格魯-諾曼語 feid，最終源自拉丁語 fides（意為「忠誠、信任、信仰」）。名詞用法指對某人、某事的堅定信任、信心，或指特定的宗教信仰體系。",
+      "definition": "1. complete trust or confidence in someone or something; 2. strong belief in God or in the doctrines of a religion.",
+      "example": [
+        {
+          "eng": "She has great faith in her students' abilities.",
+          "ch": "她對學生的能力有很大的信心。"
+        },
+        {
+          "eng": "People of many different faiths live peacefully in this city.",
+          "ch": "許多不同宗教信仰的人在這座城市和平共處。"
+        }
+      ]
+    },
+    {
+      "eng": "fake",
+      "kk": "/feɪk/",
+      "tense": "n.",
+      "ch": [
+        [
+          "假貨",
+          "騙子",
+          "冒牌貨"
+        ]
+      ],
+      "analysis": "此為 fake 的名詞用法，語源同上。指任何冒牌的商品、偽造的文書，或指行為虛偽、假裝成專家的騙子。",
+      "definition": "1. a thing that is not genuine; a counterfeit or imitation; 2. a person who pretends to be someone they are not.",
+      "example": [
+        {
+          "eng": "He bought a fake watch at the street market.",
+          "ch": "他在街頭市場買了一支仿冒手錶。"
+        }
+      ]
+    },
+    {
+      "eng": "fake",
+      "kk": "/feɪk/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "偽造",
+          "假裝",
+          "冒充"
+        ]
+      ],
+      "analysis": "此為 fake 的及物動詞用法，語源同上。指製造假貨、偽造文件簽名，或是故意裝出某種表情或病情，句型上須接直接受詞。",
+      "definition": "1. to forge or counterfeit something; to pretend to have a feeling or illness.",
+      "example": [
+        {
+          "eng": "He tried to fake his illness to avoid the exam.",
+          "ch": "他試圖裝病來逃避考試。"
+        }
+      ]
+    },
+    {
+      "eng": "fake",
+      "kk": "/feɪk/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "假的",
+          "偽造的",
+          "人造的"
+        ]
+      ],
+      "analysis": "此字起源於18世紀英國犯罪黑話（cant），可能源自德語 fegen「打磨、清掃」或荷蘭語 feicken，原意為改變贓物外觀使其看起來像新貨。現代作為形容詞，泛指所有假冒的、偽造的、非真實的物品或身份。",
+      "definition": "1. not genuine; counterfeit, imitation, or forged.",
+      "example": [
+        {
+          "eng": "The painting turned out to be a fake.",
+          "ch": "這幅畫後來被證明是假的。"
+        }
+      ]
+    },
+    {
+      "eng": "familiar",
+      "kk": "/fəˈmɪljər/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "熟悉的",
+          "常見的",
+          "親密的"
+        ]
+      ],
+      "analysis": "此字源自中古英語 familier，借自拉丁語 familiaris（由 familia「家庭、家族」衍生，字面原意為「屬於家庭的、如家人般親近的」）。經由法語進入英語。現代語意從最初的「如家人般的親密」，演變為「因為常接觸而覺得熟悉的、常見的」。",
+      "definition": "1. well known from long or close association; easily recognized; 2. closely acquainted with something; having good knowledge of.",
+      "example": [
+        {
+          "eng": "Her face looked familiar, but I couldn't remember her name.",
+          "ch": "她的臉看起來很眼熟，但我記不得她的名字了。"
+        },
+        {
+          "eng": "Are you familiar with this computer software?",
+          "ch": "你熟悉這套電腦軟體嗎？"
+        }
+      ]
+    },
+    {
+      "eng": "fancy",
+      "kk": "/ˈfænsi/",
+      "tense": "n.",
+      "ch": [
+        [
+          "幻想",
+          "想像力",
+          "喜好"
+        ]
+      ],
+      "analysis": "此為 fancy 的名詞用法，語源同上。指心中的幻想、一時的興致、喜好，或是非理性的想像。",
+      "definition": "1. an imagination or delusion; a sudden desire or inclination.",
+      "example": [
+        {
+          "eng": "She took a fancy to the old wooden chair in the antique shop.",
+          "ch": "她看上了古董店裡的那張舊木椅。"
+        }
+      ]
+    },
+    {
+      "eng": "fancy",
+      "kk": "/ˈfænsi/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "想像",
+          "想要",
+          "愛慕"
+        ]
+      ],
+      "analysis": "此為 fancy 的及物動詞用法，語源同上。在英式英語中常用於表示「想要某物」或「愛慕某人」，或在心中想像某種情景，句型上須接直接受詞。",
+      "definition": "1. to feel a desire or liking for; to imagine or picture in one's mind.",
+      "example": [
+        {
+          "eng": "Do you fancy a cup of tea?",
+          "ch": "你想來杯茶嗎？"
+        }
+      ]
+    },
+    {
+      "eng": "fancy",
+      "kk": "/ˈfænsi/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "花俏的",
+          "昂貴的",
+          "精緻的"
+        ]
+      ],
+      "analysis": "此字為 fantasy 的截斷形式（apocope），源自古法語 fantasie，最終源自希臘語 phantasia。在中古英語中原意為「幻想、喜好」，後來形容詞化，用以形容裝飾繁複、華麗、價格不菲或做工精緻的事物。",
+      "definition": "1. elaborate in structure or decoration; expensive, luxurious, or of high quality.",
+      "example": [
+        {
+          "eng": "They went to a very fancy restaurant to celebrate their anniversary.",
+          "ch": "他們去了一家非常高級的餐廳慶祝結婚紀念日。"
+        }
+      ]
+    },
+    {
+      "eng": "fare",
+      "kk": "/fɛr/",
+      "tense": "n.",
+      "ch": [
+        [
+          "車費",
+          "船費",
+          "票價"
+        ]
+      ],
+      "analysis": "此字源自古英語 faran（意為「去、旅行」），屬於日耳曼語源。名詞用法演變為指搭乘公車、火車、計程車或飛機等交通工具所需的費用或票價。",
+      "definition": "1. the money a passenger has to pay for traveling on public transport.",
+      "example": [
+        {
+          "eng": "Bus fares have increased by ten percent this year.",
+          "ch": "今年公車票價已經調漲了百分之十。"
+        }
+      ]
+    },
+    {
+      "eng": "farther",
+      "kk": "/ˈfɑːrðər/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "更遠的"
+        ]
+      ],
+      "analysis": "此字為 far 的比較級形式（由古英語 ferr 衍生，受 further 影響拼寫調整）。專門用於指實體空間、距離上「更遠的、更深處的」。",
+      "definition": "1. at or to a greater distance (used especially for physical distance).",
+      "example": [
+        {
+          "eng": "We walked a bit farther until we reached the lake.",
+          "ch": "我們再往前走了遠一點，直到抵達湖邊。"
+        }
+      ]
+    },
+    {
+      "eng": "fashionable",
+      "kk": "/ˈfæʃənəbəl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "流行的",
+          "時髦的",
+          "時尚的"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由名詞 fashion 加上形容詞字尾 -able 結合而成。字面原意為「符合時尚風潮的」，演變為形容服飾、生活方式、地點符合當前流行趨勢的。",
+      "definition": "1. characteristic of, influenced by, or currently conforming to a fashion.",
+      "example": [
+        {
+          "eng": "She always wears the most fashionable clothes.",
+          "ch": "她總是穿著最時髦的衣服。"
+        }
+      ]
+    },
+    {
+      "eng": "faucet",
+      "kk": "/ˈfɔːsɪt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "水龍頭",
+          "閥門"
+        ]
+      ],
+      "analysis": "此字源自中古英語 fauconet，借自古法語 fausset（源自 fausser「使漏、造假」或源自日耳曼語源，原意指酒桶上用來調節流出液體的栓塞）。後來語意轉移，在美式英語中成為控制自來水流出的「水龍頭」之標準稱呼。",
+      "definition": "1. a device that controls the flow of liquid from a pipe, especially water in a sink or bathtub.",
+      "example": [
+        {
+          "eng": "Turn off the faucet tightly so that the water doesn't drip.",
+          "ch": "把水龍頭關緊，這樣水才不會滴漏。"
+        }
+      ]
+    },
+    {
+      "eng": "fearful",
+      "kk": "/ˈfɪrfəl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "害怕的",
+          "擔心的"
+        ],
+        [
+          "可怕的"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由名詞 fear 加上形容詞字尾 -ful（充滿……的）組成。一方面用以形容人內心「感到恐懼或擔心的」，另一方面亦可形容事物本身「令人感到可怕的」。",
+      "definition": "1. feeling afraid; showing fear or anxiety; 2. causing fear; terrible.",
+      "example": [
+        {
+          "eng": "The little boy was fearful of the dark.",
+          "ch": "小男孩害怕黑暗。"
+        },
+        {
+          "eng": "There was a fearful crash on the highway last night.",
+          "ch": "昨晚高速公路上發生了一起可怕的撞車事故。"
+        }
+      ]
+    },
+    {
+      "eng": "feather",
+      "kk": "/ˈfɛðər/",
+      "tense": "n.",
+      "ch": [
+        [
+          "羽毛"
+        ]
+      ],
+      "analysis": "此字源自古英語 feðer，屬於日耳曼語源（源自原始日耳曼語 *fiþrō，與拉丁語 penna 同源）。指覆蓋在鳥類皮膚表面、具有飛行和保溫功能的羽毛。",
+      "definition": "1. any of the flat, light pieces that cover a bird's skin, consisting of a central shaft and a fringe of fine barbs.",
+      "example": [
+        {
+          "eng": "The peacock has beautiful green and blue feathers.",
+          "ch": "孔雀擁有美麗的綠色與藍色羽毛。"
+        }
+      ]
+    },
+    {
+      "eng": "fence",
+      "kk": "/fɛns/",
+      "tense": "n.",
+      "ch": [
+        [
+          "柵欄",
+          "圍欄",
+          "籬笆"
+        ]
+      ],
+      "analysis": "此字為 defense 的截斷形式（apocope），中古英語中意為「防禦、護城河」，後來語意專門縮小為用來圍繞土地、防止外人或動物侵入的實體「柵欄、籬笆」。",
+      "definition": "1. a barrier made of wood, wire, or metal used to enclose an area of land.",
+      "example": [
+        {
+          "eng": "We painted the wooden fence around our backyard white.",
+          "ch": "我們把後院周圍的木柵欄漆成了白色。"
+        }
+      ]
+    },
+    {
+      "eng": "fighter",
+      "kk": "/ˈfaɪtər/",
+      "tense": "n.",
+      "ch": [
+        [
+          "戰士",
+          "鬥士"
+        ],
+        [
+          "戰鬥機"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由動詞 fight 加上名詞字尾 -er（表示「從事……動作的人或物」）組成。字面原意為「作戰者、鬥士」，在現代語境中也廣泛指軍用「戰鬥機」。",
+      "definition": "1. a person who fights or struggles; a soldier; 2. a fast military aircraft designed for attacking other aircraft.",
+      "example": [
+        {
+          "eng": "He is a real fighter who never gives up in difficult times.",
+          "ch": "他是一個在困境中從不放棄的真正的鬥士。"
+        },
+        {
+          "eng": "Several fighter jets flew across the sky during the air show.",
+          "ch": "在飛行表演期間，數架戰鬥機飛越天空。"
+        }
+      ]
+    },
+    {
+      "eng": "firework",
+      "kk": "/ˈfaɪərwɜːrk/",
+      "tense": "n.",
+      "ch": [
+        [
+          "煙火",
+          "煙花"
+        ]
+      ],
+      "analysis": "此字為現代複合詞，由 fire（火）與 work（作品、製品）組合而成。字面原意為「燃燒發光的製品」，在現代固定指慶祝活動中施放、能在空中產生燦爛光芒與聲響的煙火。",
+      "definition": "1. a device containing explosive chemicals that burns with colored lights and loud noises, used for celebrations.",
+      "example": [
+        {
+          "eng": "We watched the brilliant fireworks display on New Year's Eve.",
+          "ch": "我們在跨年夜觀賞了精彩的煙火表演。"
+        }
+      ]
+    },
+    {
+      "eng": "fist",
+      "kk": "/fɪst/",
+      "tense": "n.",
+      "ch": [
+        [
+          "拳頭"
+        ]
+      ],
+      "analysis": "此字源自古英語 fȳst，屬於日耳曼語源（源自原始日耳曼語 *funstiz）。指手指緊緊握攏的手部狀態。",
+      "definition": "1. the hand with the fingers curled tightly into the palm.",
+      "example": [
+        {
+          "eng": "He clenched his fist in anger.",
+          "ch": "他氣得握緊了拳頭。"
+        }
+      ]
+    },
+    {
+      "eng": "flame",
+      "kk": "/fleɪm/",
+      "tense": "n.",
+      "ch": [
+        [
+          "火焰",
+          "火苗"
+        ]
+      ],
+      "analysis": "此字源自中古英語 flame，借自古法語 flame，最終源自拉丁語 flamma（與 flagrare「燃燒」同源）。指燃燒時發光發熱的氣體火焰。",
+      "definition": "1. a hot, glowing body of ignited gas that is generated by something on fire.",
+      "example": [
+        {
+          "eng": "The candle flame flickered in the evening breeze.",
+          "ch": "蠟燭的火苗在晚風中閃爍。"
+        }
+      ]
+    },
+    {
+      "eng": "flash",
+      "kk": "/flæʃ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "閃光",
+          "閃現"
+        ],
+        [
+          "瞬間"
+        ]
+      ],
+      "analysis": "此字為擬聲詞或具象表現詞源（音同 splash、crash），在16世紀英語中出現。名詞用法指突然亮起的光芒、短暫的閃現，或形容極短的時間（如 in a flash）。",
+      "definition": "1. a sudden, brief burst of bright light; 2. a very short period of time.",
+      "example": [
+        {
+          "eng": "We saw a bright flash of lightning across the sky.",
+          "ch": "我們看到一道耀眼的閃電劃過天空。"
+        }
+      ]
+    },
+    {
+      "eng": "flash",
+      "kk": "/flæʃ/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "閃爍",
+          "閃光"
+        ],
+        [
+          "掠過"
+        ]
+      ],
+      "analysis": "此為 flash 的不及物動詞用法，語源同名詞。指燈光、閃電等突然發出耀眼但短暫的光芒，或指思緒、影像在腦海中快速閃過。",
+      "definition": "1. to shine with a sudden, bright light that comes and goes quickly; 2. to pass or move very quickly.",
+      "example": [
+        {
+          "eng": "The warning light began to flash on the dashboard.",
+          "ch": "儀表板上的警示燈開始閃爍。"
+        }
+      ]
+    },
+    {
+      "eng": "flashlight",
+      "kk": "/ˈflæʃˌlaɪt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "手電筒"
+        ]
+      ],
+      "analysis": "此字為美式英語複合詞，由 flash（閃光）與 light（光、燈）組合而成。原本指能發出短暫閃光的設備，現代專指可手持、以電池供電的照明工具「手電筒」（英式英語通常稱為 torch）。",
+      "definition": "1. a small, portable electric lamp powered by batteries.",
+      "example": [
+        {
+          "eng": "I used a flashlight to find my way through the dark basement.",
+          "ch": "我用手電筒照亮，摸索著穿過黑暗的地下室。"
+        }
+      ]
+    },
+    {
+      "eng": "flavor",
+      "kk": "/ˈfleɪvər/",
+      "tense": "n.",
+      "ch": [
+        [
+          "口味",
+          "味道"
+        ],
+        [
+          "風味"
+        ]
+      ],
+      "analysis": "此字源自中古英語 flavour，借自盎格魯-諾曼語 flaour 或古法語，最終源自拉丁語 flare（吹氣、散發氣味）或動詞 *fragrare。名詞用法指食物在口中帶有的滋味、氣味，或引申為某個地方、文化的獨特「風味」。",
+      "definition": "1. the distinctive taste of a food or drink; 2. a particular quality or characteristic of something.",
+      "example": [
+        {
+          "eng": "Vanilla is my favorite ice cream flavor.",
+          "ch": "香草是我最喜歡的冰淇淋口味。"
+        }
+      ]
+    },
+    {
+      "eng": "flesh",
+      "kk": "/flɛʃ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "肉",
+          "肌肉",
+          "肉體"
+        ]
+      ],
+      "analysis": "此字源自古英語 flǣsc，屬於日耳曼語源（源自原始日耳曼語 *flaiski-）。指人類或動物骨骼之外的軟組織、肌肉，或泛指肉體、血肉之軀。",
+      "definition": "1. the soft substance consisting of muscle and fat that is found between the skin and bones of an animal or human.",
+      "example": [
+        {
+          "eng": "The wound healed, but a small scar remained on his flesh.",
+          "ch": "傷口癒合了，但他的皮肉上留下了一道小疤痕。"
+        }
+      ]
+    },
+    {
+      "eng": "float",
+      "kk": "/floʊt/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使漂浮",
+          "提出（想法）"
+        ]
+      ],
+      "analysis": "此為 float 的及物動詞用法，語源同上。表示使某物浮在水面上，或引申為在會議中「提出一項初步的構想或計畫」供大家討論，句型上須接直接受詞。",
+      "definition": "1. to cause something to rest or move on the surface of a liquid; 2. to suggest a plan or idea for consideration.",
+      "example": [
+        {
+          "eng": "He floated a new business idea during the meeting.",
+          "ch": "他在會議中提出了一個新的商業構想。"
+        }
+      ]
+    },
+    {
+      "eng": "float",
+      "kk": "/floʊt/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "漂浮",
+          "浮動"
+        ]
+      ],
+      "analysis": "此字源自古英語 flōtan（意為「漂浮、游泳」），屬於日耳曼語源，與 fly 同源。不及物動詞用法指物體因比重較輕而停留在水面或其他液體、氣體表面，不會下沉。",
+      "definition": "1. to rest on the surface of a liquid without sinking; to drift gently through the air.",
+      "example": [
+        {
+          "eng": "A few autumn leaves were floating on the surface of the pond.",
+          "ch": "幾片秋葉漂浮在池塘水面上。"
+        }
+      ]
+    },
+    {
+      "eng": "flock",
+      "kk": "/flɑːk/",
+      "tense": "n.",
+      "ch": [
+        [
+          "群",
+          "羊群",
+          "鳥群"
+        ]
+      ],
+      "analysis": "此字源自古英語 flocc，屬於日耳曼語源。名詞用法專門指羊群、鳥群或山羊等動物聚集在一起的群體。",
+      "definition": "1. a number of birds of one kind feeding, resting, or traveling together; a group of sheep, goats, or domestic animals.",
+      "example": [
+        {
+          "eng": "A flock of birds flew across the golden sunset.",
+          "ch": "一群鳥飛越金黃色的夕陽。"
+        }
+      ]
+    },
+    {
+      "eng": "flock",
+      "kk": "/flɑːk/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "聚集",
+          "成群結隊而行"
+        ]
+      ],
+      "analysis": "此為 flock 的不及物動詞用法，語源同名詞。指人們或動物像鳥群羊群般「成群結隊地聚集、湧向」某個地方。",
+      "definition": "1. to congregate or mass together in a flock or large group.",
+      "example": [
+        {
+          "eng": "Fans flocked to the stadium to see the rock concert.",
+          "ch": "歌迷們成群結隊地湧向體育場觀看搖滾演唱會。"
+        }
+      ]
+    },
+    {
+      "eng": "flood",
+      "kk": "/flʌd/",
+      "tense": "n.",
+      "ch": [
+        [
+          "洪水",
+          "水災"
+        ],
+        [
+          "大量"
+        ]
+      ],
+      "analysis": "此字源自古英語 flōd，屬於日耳曼語源（源自原始日耳曼語 *flōdu-，與 flow 同源）。名詞用法指河水氾濫或暴雨造成的「洪水、水災」，亦可引申為某種事物的「大量湧現」。",
+      "definition": "1. an overflowing of a large amount of water beyond its normal confines, especially over what is normally dry land; 2. a large or overwhelming amount of something.",
+      "example": [
+        {
+          "eng": "Heavy rains caused severe floods in the southern part of the country.",
+          "ch": "暴雨導致該國南部地區發生嚴重水災。"
+        },
+        {
+          "eng": "The office received a flood of complaints after the price increase.",
+          "ch": "漲價後，辦公室收到了大量的投訴。"
+        }
+      ]
+    },
+    {
+      "eng": "flood",
+      "kk": "/flʌd/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "淹沒",
+          "使泛濫",
+          "充滿"
+        ]
+      ],
+      "analysis": "此為 flood 的及物動詞用法，語源同名詞。指水流溢出並「淹沒」陸地或房屋，或引申為人潮、情感、信件「充滿、大量湧入」某個地方，句型上須接直接受詞。",
+      "definition": "1. to cover or submerge an area with water; 2. to arrive or fill in overwhelming quantities.",
+      "example": [
+        {
+          "eng": "The broken pipe flooded the basement within minutes.",
+          "ch": "破裂的水管在幾分鐘內淹沒了地下室。"
+        }
+      ]
+    },
+    {
+      "eng": "flour",
+      "kk": "/ˈflaʊər/",
+      "tense": "n.",
+      "ch": [
+        [
+          "麵粉"
+        ]
+      ],
+      "analysis": "此字源自中古英語 flour，源自古法語 flour（本義為「花朵」，也是 flower 的同源異形詞，比喻為麥子最精華的部分）。指將穀物（特別是小麥）磨成細粉狀、用於製作麵包與糕點的「麵粉」。",
+      "definition": "1. a powder obtained by grinding grain, typically wheat, used to make bread, cakes, and pastry.",
+      "example": [
+        {
+          "eng": "She mixed the flour, sugar, and eggs to make the cake dough.",
+          "ch": "她把麵粉、糖和雞蛋混合起來做蛋糕麵糰。"
+        }
+      ]
+    },
+    {
+      "eng": "flute",
+      "kk": "/fluːt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "長笛",
+          "橫笛"
+        ]
+      ],
+      "analysis": "此字源自中古英語 floute，借自古法語 fleute，最終可能源自拉丁語 flare（吹氣）。名詞指一種吹奏的高音木管樂器「長笛」。",
+      "definition": "1. a woodwind instrument in the form of a tube with holes that are stopped by the fingers or keys, played by blowing across a mouthpiece.",
+      "example": [
+        {
+          "eng": "She plays the flute in the school orchestra.",
+          "ch": "她在學校管弦樂團裡吹長笛。"
+        }
+      ]
+    },
+    {
+      "eng": "foggy",
+      "kk": "/ˈfɑːɡi/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "有霧的",
+          "霧茫茫的",
+          "模糊的"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由名詞 fog（霧）加上形容詞字尾 -y（充滿……的）組成。用以形容天氣氣候「起霧的、能見度低的」，亦可引申比喻記憶或印象「模糊不清的」。",
+      "definition": "1. full of or obscured by fog; 2. confused or vague in memory or understanding.",
+      "example": [
+        {
+          "eng": "Driving is dangerous on foggy mornings.",
+          "ch": "在有霧的早晨開車很危險。"
+        }
+      ]
+    },
+    {
+      "eng": "fold",
+      "kk": "/foʊld/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "摺疊",
+          "對折",
+          "交疊（雙手）"
+        ]
+      ],
+      "analysis": "此字源自古英語 fealdan，屬於日耳曼語源（源自原始日耳曼語 *falþanān）。作為及物動詞，指將紙張、衣物等平整材質「摺疊」起來，或將雙臂交叉抱在胸前，句型上須接直接受詞。",
+      "definition": "1. to bend something over on itself so that one part of it covers another.",
+      "example": [
+        {
+          "eng": "She folded the clean laundry and put it in the drawer.",
+          "ch": "她把洗好的乾淨衣物摺疊好，放進抽屜裡。"
+        }
+      ]
+    },
+    {
+      "eng": "fold",
+      "kk": "/foʊld/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "摺疊起來",
+          "倒閉",
+          "歇業"
+        ]
+      ],
+      "analysis": "此為 fold 的不及物動詞用法，語源同上。除了指物體本身可以被折起外，在現代商業語境中常引申用來形容公司、企業或計畫因經營不善而「倒閉、歇業」。",
+      "definition": "1. to be capable of being folded; 2. (of a business or organization) to fail and close down.",
+      "example": [
+        {
+          "eng": "The company was forced to fold after suffering heavy financial losses.",
+          "ch": "該公司在遭受沉重財務虧損後被迫倒閉。"
+        }
+      ]
+    },
+    {
+      "eng": "follower",
+      "kk": "/ˈfɑːloʊər/",
+      "tense": "n.",
+      "ch": [
+        [
+          "追隨者",
+          "信徒",
+          "粉絲"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由動詞 follow 加上名詞字尾 -er 構成。指追隨某位領袖、宗教導師、哲學思想的人，或在社交媒體上關注某個帳號的「粉絲」。",
+      "definition": "1. an adherent of a particular leader, religion, or philosophy; 2. a person who subscribes to a social media account to updates.",
+      "example": [
+        {
+          "eng": "The politician spoke to a large group of loyal followers.",
+          "ch": "這位政治人物向一大群忠實的追隨者發表了談話。"
+        }
+      ]
+    },
+    {
+      "eng": "fond",
+      "kk": "/fɑːnd/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "喜愛的",
+          "深情的",
+          "慈愛的"
+        ]
+      ],
+      "analysis": "此字源自中古英語 fonde（原意為「愚蠢的、天真的」，源自動詞 fonnen「發呆、愚弄」）。後來語意發生劇烈轉變，從「愚蠢的愛」演變成現代正向的「喜愛某事物的」或「溫柔、深情懷念的」，常與介詞 of 搭配。",
+      "definition": "1. having an affection or liking for someone or something; 2. affectionate and loving.",
+      "example": [
+        {
+          "eng": "I am very fond of traditional Chinese paintings.",
+          "ch": "我非常喜歡中國傳統繪畫。"
+        }
+      ]
+    },
+    {
+      "eng": "forever",
+      "kk": "/fərˈɛvər/",
+      "tense": "adv.",
+      "ch": [
+        [
+          "永遠",
+          "長久地",
+          "總是"
+        ]
+      ],
+      "analysis": "此字為現代複合詞，由副詞結構 for（對於、歷時）與名詞 ever（總是、曾經）結合而成。字面義為「歷時直到永遠」，用以指時間上永無止境的狀態，或口語中形容頻繁發生的「總是」。",
+      "definition": "1. for all future time; eternally; 2. continually or always.",
+      "example": [
+        {
+          "eng": "True friends will stay in your heart forever.",
+          "ch": "真正的朋友會永遠留在你心中。"
+        }
+      ]
+    },
+    {
+      "eng": "fortune",
+      "kk": "/ˈfɔːrtʃən/",
+      "tense": "n.",
+      "ch": [
+        [
+          "財富",
+          "大筆錢財"
+        ],
+        [
+          "運氣",
+          "命運"
+        ]
+      ],
+      "analysis": "此字源自中古英語 fortune，借自拉丁語 fortuna（由 fors「機會、運氣」衍生，人格化為掌管命運的女神 Fortuna）。名詞用法指人生的機運、命運，或引申為龐大的「財富、巨款」。",
+      "definition": "1. a large amount of money or assets; wealth; 2. chance or luck as an external force affecting human affairs.",
+      "example": [
+        {
+          "eng": "He inherited a huge fortune from his grandfather.",
+          "ch": "他從祖父那裡繼承了一大筆財富。"
+        },
+        {
+          "eng": "They had the good fortune to find seats on the crowded train.",
+          "ch": "他們很幸運地在擁擠的火車上找到了座位。"
+        }
+      ]
+    },
+    {
+      "eng": "fountain",
+      "kk": "/ˈfaʊntɪn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "噴泉",
+          "噴水池",
+          "源泉"
+        ]
+      ],
+      "analysis": "此字源自中古英語 fontayne，借自古法語 fontaine，最終源自拉丁語 fontana（由 fons「泉水、源頭」衍生）。名詞指公園或廣場上噴射水柱的裝飾性水池，或比喻知識、智慧的「源泉」。",
+      "definition": "1. an ornamental structure in a pool or lake from which one or more jets of water are pumped into the air; 2. a source or origin of something.",
+      "example": [
+        {
+          "eng": "Children were playing around the large fountain in the park square.",
+          "ch": "孩子們在公園廣場的大噴泉周圍玩耍。"
+        }
+      ]
+    },
+    {
+      "eng": "frank",
+      "kk": "/fræŋk/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "坦誠的",
+          "直率的",
+          "坦白的"
+        ]
+      ],
+      "analysis": "此字源自中古英語 frank，借自古法語 franc（原意為「自由的、免除稅賦的」，源自日耳曼部族名稱「法蘭克人 Franks」，因法蘭克征服者在征服高盧後享有自由人身份而轉為形容詞）。語意從「享有特權的自由人」演變成「光明磊落、毫無隱藏的坦誠態度」。",
+      "definition": "1. open, honest, and direct in speech or writing, especially when dealing with difficult matters.",
+      "example": [
+        {
+          "eng": "To be frank, I didn't enjoy the movie at all.",
+          "ch": "坦白說，我一點也不喜歡這部電影。"
+        }
+      ]
+    }
+  ]
+}

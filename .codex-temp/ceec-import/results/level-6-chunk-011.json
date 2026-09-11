@@ -1,0 +1,1195 @@
+{
+  "level": 6,
+  "chunkIndex": 11,
+  "inputs": [
+    "jockey",
+    "jolly",
+    "joyous",
+    "junction",
+    "kin",
+    "kindle",
+    "knowledgeable",
+    "lad",
+    "landlady",
+    "landslide",
+    "latitude",
+    "lavish",
+    "layman",
+    "layout",
+    "lease",
+    "legislator",
+    "lengthy",
+    "lesbian",
+    "lessen",
+    "lethal",
+    "liable",
+    "liberate",
+    "liberation",
+    "lieutenant",
+    "lifelong",
+    "lighten",
+    "limp",
+    "liner",
+    "linger",
+    "lining",
+    "liter",
+    "literacy",
+    "literal",
+    "literate",
+    "livestock",
+    "lizard",
+    "locker",
+    "lodge",
+    "lofty",
+    "logo",
+    "lonesome",
+    "longevity",
+    "longitude",
+    "lotion",
+    "lottery",
+    "lotus",
+    "loudspeaker",
+    "lucrative",
+    "lullaby",
+    "lunar"
+  ],
+  "rows": [
+    {
+      "eng": "jockey",
+      "kk": "ˈdʒɑki",
+      "tense": "n.",
+      "ch": [
+        [
+          "賽馬騎師",
+          "騎手"
+        ],
+        [
+          "操作員",
+          "駕駛員"
+        ]
+      ],
+      "analysis": "此字源自中古英語 jacke（意為小漢、男僕，即人名 John 的暱稱 Jack 的衍生形），帶有 diminutive 字尾 -y，原指放牛娃或馬伕，後來專指「賽馬騎師」。現代也延伸用來指稱操作某種機器或設備的人。語意演變從一般僕役、馬伕，縮小並專門化為賽馬場上的騎師，再進一步引申為操作員。",
+      "definition": "1. A professional rider of horses in races.; 2. An operator or driver of a specific machine or vehicle.",
+      "example": [
+        {
+          "eng": "The veteran jockey guided the horse skillfully to win the race.",
+          "ch": "這位資深騎師精湛地引導馬匹贏得了比賽。"
+        },
+        {
+          "eng": "He is a computer jockey who spends all night writing code.",
+          "ch": "他是一個整晚寫程式的電腦操作員。"
+        }
+      ]
+    },
+    {
+      "eng": "jockey",
+      "kk": "ˈdʒɑki",
+      "tense": "vt.",
+      "ch": [
+        [
+          "策騎",
+          "駕馭"
+        ],
+        [
+          "巧妙爭取",
+          "機警爭奪"
+        ]
+      ],
+      "analysis": "由名詞 jockey 轉品而來的及物動詞。原義為「騎師般地駕馭馬匹」，在現代英語中廣泛引申為「在競爭中機警地透過占位或謀略爭取有利位置」。語意從具體的騎馬操控，抽象化為商業、政治或競賽中的謀略博弈。",
+      "definition": "1. To ride or drive as a jockey.; 2. To maneuver or struggle skillfully for a position or advantage.",
+      "example": [
+        {
+          "eng": "She jockeys her horse with great confidence.",
+          "ch": "她以極大的自信策騎她的馬。"
+        },
+        {
+          "eng": "The two politicians jockeyed for position before the election.",
+          "ch": "這兩位政治人物在選舉前巧妙地爭取有利位置。"
+        }
+      ]
+    },
+    {
+      "eng": "jolly",
+      "kk": "ˈdʒɑli",
+      "tense": "adj.",
+      "ch": [
+        [
+          "快樂的",
+          "歡樂的",
+          "興高采烈的"
+        ]
+      ],
+      "analysis": "此字經由中古法語 jolif（意為慶祝的、愉快的、漂亮的）借入英語，其更早的根源可追溯至古諾斯語 jól（意為冬至節慶，即 Yule）。語意從古代與節慶相關的意涵，演變為現代泛指情緒開朗、快樂、充滿歡樂氛圍的形容詞。",
+      "definition": "1. Happy and cheerful in disposition or appearance.",
+      "example": [
+        {
+          "eng": "The children sang jolly songs around the campfire.",
+          "ch": "孩子們在營火旁唱著歡樂的歌曲。"
+        }
+      ]
+    },
+    {
+      "eng": "joyous",
+      "kk": "ˈdʒɔɪəs",
+      "tense": "adj.",
+      "ch": [
+        [
+          "快樂的",
+          "喜悅的"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由名詞 joy 加上形容詞字尾 -ous（充滿…的）組成。joy 借自古法語 joie，源自拉丁語 gaudia（歡樂）。整個字在中古英語時期成形，用以形容充滿喜悅或令人高興的事物。",
+      "definition": "1. Full of or characterized by joy; happy.",
+      "example": [
+        {
+          "eng": "They celebrated the joyous occasion with a grand party.",
+          "ch": "他們舉辦盛大的派對來慶祝這個喜悅的時刻。"
+        }
+      ]
+    },
+    {
+      "eng": "junction",
+      "kk": "ˈdʒʌŋkʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "交叉口",
+          "交會點",
+          "樞紐"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 iunctio（結合、連接），由動詞 iungere（結合、連接，其過去分詞詞幹為 iunct-）加上名詞字尾 -ion 構成。經由中世紀拉丁語進入英語。語意從抽象的「連接、結合的動作」演變為具體的「道路、鐵路或河流交會的樞紐或交叉口」。",
+      "definition": "1. A point where two or more things are joined, especially roads, railways, or rivers.",
+      "example": [
+        {
+          "eng": "Turn left at the next junction to reach the highway.",
+          "ch": "在下一個交叉口向左轉即可到達高速公路。"
+        }
+      ]
+    },
+    {
+      "eng": "kin",
+      "kk": "kɪn",
+      "tense": "n.",
+      "ch": [
+        [
+          "親屬",
+          "家屬",
+          "家族"
+        ]
+      ],
+      "analysis": "此字為日耳曼語繼承詞，源自古英語 cynn（家族、種族、親屬），其原始日耳曼語根源可追溯至印歐語系，與拉丁語 genus 及希臘語 genos 同源。語意長期保持指稱血緣親屬、族人或家族成員的核心概念。",
+      "definition": "1. One's relatives or family.",
+      "example": [
+        {
+          "eng": "He gathered all his kin to celebrate the harvest.",
+          "ch": "他聚集了所有的親屬來慶祝豐收。"
+        }
+      ]
+    },
+    {
+      "eng": "kindle",
+      "kk": "ˈkɪndəl",
+      "tense": "vt.",
+      "ch": [
+        [
+          "點燃",
+          "著火"
+        ],
+        [
+          "激起",
+          "引燃（情感、興趣等）"
+        ]
+      ],
+      "analysis": "此字源自中古英語 kynlen，可能借自古諾斯語 kynda（點燃）。帶有動詞反覆或持續意味的字尾 -le。語意從具體的「點燃火堆、木柴」，自然延伸並抽象化為「激起熱情、興趣或情感」。",
+      "definition": "1. To start a fire, or cause something to start burning.; 2. To arouse or inspire an emotion, feeling, or interest.",
+      "example": [
+        {
+          "eng": "We tried to kindle a fire using dry leaves and twigs.",
+          "ch": "我們試圖用乾樹葉和小樹枝生火。"
+        },
+        {
+          "eng": "The inspiring speech kindled a new hope in their hearts.",
+          "ch": "這場鼓舞人心的演說在他們心中激起了新的希望。"
+        }
+      ]
+    },
+    {
+      "eng": "knowledgeable",
+      "kk": "ˈnɑlɪdʒəbəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "博學的",
+          "見識廣博的",
+          "知情的"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由名詞 knowledge（知識）加上形容詞字尾 -able（能夠的、具有…性質的）組成。knowledge 本身由古英語 cnāwan（知道）的衍生形與字尾結合而成。形容詞字尾賦予其「具有豐富知識或深厚見解的」語意。",
+      "definition": "1. Well-informed, intelligent, or having a great deal of knowledge.",
+      "example": [
+        {
+          "eng": "She is very knowledgeable about ancient history.",
+          "ch": "她對古代歷史非常博學。"
+        }
+      ]
+    },
+    {
+      "eng": "lad",
+      "kk": "læd",
+      "tense": "n.",
+      "ch": [
+        [
+          "少年",
+          "小夥子"
+        ]
+      ],
+      "analysis": "此字為中古英語時期出現的方言詞彙，起源於日耳曼語族，確切上源不詳，可能與古諾斯語的某些年輕人稱呼有關。歷史上長期用來指稱年輕男子、男孩或小夥子，現代英語中常用於親切或非正式場合。",
+      "definition": "1. A boy or young man.",
+      "example": [
+        {
+          "eng": "The local lads were playing football in the park.",
+          "ch": "當地的年輕小夥子們正在公園裡踢足球。"
+        }
+      ]
+    },
+    {
+      "eng": "landlady",
+      "kk": "ˈlændˌleɪdi",
+      "tense": "n.",
+      "ch": [
+        [
+          "女房東",
+          "女地主"
+        ]
+      ],
+      "analysis": "此字為現代透明複合詞，由 land（土地、房屋）與 lady（女士、女主人）組合而成。字面義即「擁有土地或房屋的女主人」。自中世紀以來指稱出租房屋或土地給房客的女性擁有者。",
+      "definition": "1. A woman who rents out a room, building, or piece of land to a tenant.",
+      "example": [
+        {
+          "eng": "The landlady collected the monthly rent from the tenants.",
+          "ch": "女房東向房客們收取每月的房租。"
+        }
+      ]
+    },
+    {
+      "eng": "landslide",
+      "kk": "ˈlændˌslaɪd",
+      "tense": "n.",
+      "ch": [
+        [
+          "山崩",
+          "塌方"
+        ],
+        [
+          "壓倒性勝利"
+        ]
+      ],
+      "analysis": "此字為現代透明複合詞，由 land（陸地、地面）與 slide（滑動）組合而成。原意指土石順著山坡滑落的自然災害「山崩、塌方」，後來在政治與競賽語境中，借用其「全面快速傾倒、壓倒一切」的特性，引申為選舉中的「壓倒性勝利」。",
+      "definition": "1. A collapse of a mass of earth or rock from a mountain or cliff.; 2. An overwhelming victory in an election.",
+      "example": [
+        {
+          "eng": "Heavy rains triggered a massive landslide that blocked the mountain road.",
+          "ch": "大雨引發了大規模的山崩，堵塞了山路。"
+        },
+        {
+          "eng": "The ruling party won the election by a landslide.",
+          "ch": "執政黨以壓倒性勝利贏得選舉。"
+        }
+      ]
+    },
+    {
+      "eng": "latitude",
+      "kk": "ˈlætəˌtud",
+      "tense": "n.",
+      "ch": [
+        [
+          "緯度"
+        ],
+        [
+          "（言行或行動的）自由度",
+          "自主權"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 latitudo（寬度），由形容詞 latus（寬的）加上名詞字尾 -tudo 構成。在中世紀地理學中，地圖上的東西向橫線被視為地表的「寬度」，因而演變成「緯度」之意；現代英語進一步引申為空間、選擇或行動上的「自由度與彈性」。",
+      "definition": "1. The angular distance of a place north or south of the earth's equator.; 2. Scope for freedom of action or thought.",
+      "example": [
+        {
+          "eng": "The ship's navigator calculated their current latitude and longitude.",
+          "ch": "船上的航海員計算了他們當前的緯度和經度。"
+        },
+        {
+          "eng": "The manager gave the research team wide latitude in designing the project.",
+          "ch": "經理給了研究團隊在設計專案時很大的自由度。"
+        }
+      ]
+    },
+    {
+      "eng": "lavish",
+      "kk": "ˈlævɪʃ",
+      "tense": "adj.",
+      "ch": [
+        [
+          "奢華的",
+          "揮霍的",
+          "慷慨的"
+        ]
+      ],
+      "analysis": "此字源自中古英語 lavas（過多、豐富），借自古法語 lavasse（傾盆大雨、大量湧出），其動詞源頭為 laver（清洗，源自拉丁語 lavare）。語意從「像水般大量傾倒、過度滿溢」，演變成形容花費或生活「過度奢華、揮霍」或「極其慷慨、豐富」。",
+      "definition": "1. Sumptuously rich, elaborate, or luxurious.; 2. Giving or using something in a generous or large quantity.",
+      "example": [
+        {
+          "eng": "They hosted a lavish wedding reception for hundreds of guests.",
+          "ch": "他們為數百名賓客舉辦了一場奢華的婚宴。"
+        },
+        {
+          "eng": "She was lavish with her praise for the young artists.",
+          "ch": "她對年輕藝術家們毫不吝嗇地給予讚美。"
+        }
+      ]
+    },
+    {
+      "eng": "layman",
+      "kk": "ˈleɪmən",
+      "tense": "n.",
+      "ch": [
+        [
+          "外行",
+          "門外漢"
+        ],
+        [
+          "信徒",
+          "俗人"
+        ]
+      ],
+      "analysis": "此字由形容詞 lay（世俗的，源自晚期拉丁語 laicus，希臘語 laikos「屬於民眾的」）與名詞 man 組合而成。歷史上最初指基督教中相對於神職人員的「一般信徒、俗人」；因為俗人對神學或專業宗教事務而言屬於非專業人士，進而引申出現代廣泛使用的「各行各業的外行、門外漢」之義。",
+      "definition": "1. A person without professional or specialized knowledge in a particular subject.; 2. A non-ordained member of a church.",
+      "example": [
+        {
+          "eng": "The scientific report was written in terms that a layman could easily understand.",
+          "ch": "這份科學報告是用外行也能輕鬆理解的術語寫成的。"
+        },
+        {
+          "eng": "He explained the complex theology in terms suitable for a layman.",
+          "ch": "他用適合一般信徒的術語解釋了複雜的神學。"
+        }
+      ]
+    },
+    {
+      "eng": "layout",
+      "kk": "ˈleɪˌaʊt",
+      "tense": "n.",
+      "ch": [
+        [
+          "佈局",
+          "版面設計",
+          "規劃"
+        ]
+      ],
+      "analysis": "此字為現代透明複合詞，由動詞片語 lay out（鋪開、安排、設計）轉化而來的名詞。由 lay（放置）與副詞 out（出、向外）結合。用以指書籍版面、建築平面或城市規劃中各元素的空間安排與佈局。",
+      "definition": "1. The way in which something is arranged or laid out, such as the design of a page, building, or town.",
+      "example": [
+        {
+          "eng": "The editor approved the new layout for the magazine's front page.",
+          "ch": "主編批准了雜誌封面的新版面設計。"
+        }
+      ]
+    },
+    {
+      "eng": "lease",
+      "kk": "lis",
+      "tense": "n.",
+      "ch": [
+        [
+          "租約",
+          "租賃契約"
+        ]
+      ],
+      "analysis": "此字源自盎格魯-諾曼語 leser 或古法語 laissier（放棄、允許、出租），源自拉丁語 laxare（放鬆、釋放）。在中世紀法律用語中，指將土地或房屋的權利「放手」交給他人使用。語意固定為法律上的「租約、租賃契約」。",
+      "definition": "1. A legal contract by which one party agrees to rent property to another.",
+      "example": [
+        {
+          "eng": "We signed a two-year lease for the apartment downtown.",
+          "ch": "我們簽署了一份市中心公寓的兩年租約。"
+        }
+      ]
+    },
+    {
+      "eng": "lease",
+      "kk": "lis",
+      "tense": "vt.",
+      "ch": [
+        [
+          "出租",
+          "租賃",
+          "租得"
+        ]
+      ],
+      "analysis": "由名詞 lease 同形轉化而來的及物動詞，保留其源自古法語與拉丁語「放鬆、交出使用權」的法律契約核心，指屋主將財產出租，或房客租用財產的行為。",
+      "definition": "1. To grant or take property by lease; to rent.",
+      "example": [
+        {
+          "eng": "The company decided to lease a new fleet of delivery trucks.",
+          "ch": "公司決定租賃一批新的送貨卡車。"
+        }
+      ]
+    },
+    {
+      "eng": "legislator",
+      "kk": "ˈlɛdʒəsˌleɪtər",
+      "tense": "n.",
+      "ch": [
+        [
+          "立法委員",
+          "議員",
+          "立法者"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 legislator，由 lex（法律，屬格為 legis）與 lator（提出者、帶路者，源自 ferre「攜帶、提出」）組合而成的複合字。經由中世紀拉丁語進入英語。指負責起草、審議並制定法律的人員。",
+      "definition": "1. A person who makes laws, such as a member of a legislature.",
+      "example": [
+        {
+          "eng": "The legislators voted overwhelmingly in favor of the new environmental bill.",
+          "ch": "立法委員們以壓倒性票數贊成這項新的環境法案。"
+        }
+      ]
+    },
+    {
+      "eng": "lengthy",
+      "kk": "ˈlɛŋθi",
+      "tense": "adj.",
+      "ch": [
+        [
+          "漫長的",
+          "冗長的"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由名詞 length（長度，源自古英語 lencu）加上形容詞字尾 -y（充滿…的、具…特質的）組成。用以形容時間、過程或發言異常冗長、漫長。",
+      "definition": "1. Of great and often tedious length; prolonged.",
+      "example": [
+        {
+          "eng": "After a lengthy discussion, the committee reached a final agreement.",
+          "ch": "經過一番漫長的討論後，委員會達成了最終協議。"
+        }
+      ]
+    },
+    {
+      "eng": "lesbian",
+      "kk": "ˈlɛzbiən",
+      "tense": "adj.",
+      "ch": [
+        [
+          "女同性戀的"
+        ]
+      ],
+      "analysis": "此字源自希臘地名 Lesbos（萊斯bos島），該島古代因女詩人莎孚（Sappho）在詩歌中表達對女性的強烈愛慕而聞名。19世紀末起，學者與心理學家開始用此地名衍生出指稱女性同性戀者的詞彙。現代英語中作為標準形容詞使用。",
+      "definition": "1. Pertaining to or involving female homosexuals.",
+      "example": [
+        {
+          "eng": "She is an active advocate for the lesbian and gay community.",
+          "ch": "她是女同性戀與男同性戀社群的積極倡導者。"
+        }
+      ]
+    },
+    {
+      "eng": "lessen",
+      "kk": "ˈlɛsən",
+      "tense": "vt.",
+      "ch": [
+        [
+          "減輕",
+          "減少",
+          "縮小"
+        ]
+      ],
+      "analysis": "此字為歷史上形成的構詞，由形容詞 less（更少的，源自古英語 lǣs）加上動詞化字尾 -en 構成。指使某事物的程度、數量或強度變得更少或更輕。",
+      "definition": "1. To make or become smaller, fewer, or less in size, intensity, or degree.",
+      "example": [
+        {
+          "eng": "Taking this medication will help lessen the pain.",
+          "ch": "服用這種藥物有助於減輕疼痛。"
+        }
+      ]
+    },
+    {
+      "eng": "lethal",
+      "kk": "ˈliθəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "致命的",
+          "致死的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 letalis，由 letum（死亡）加上形容詞字尾 -alis 構成。經由拉丁語進入英語醫學與科學詞彙中，專門用來形容足以導致死亡的毒物、武器或傷勢。",
+      "definition": "1. Sufficient to cause death; deadly.",
+      "example": [
+        {
+          "eng": "The snake venom contains a lethal dose of neurotoxins.",
+          "ch": "這種蛇毒含有致死劑量的神經毒素。"
+        }
+      ]
+    },
+    {
+      "eng": "liable",
+      "kk": "ˈlaɪəbəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "負有法律責任的",
+          "應負責的"
+        ],
+        [
+          "易於…的",
+          "很可能會…的"
+        ]
+      ],
+      "analysis": "此字源自中古法語 lïable，其源頭為法語 lier（綑綁、繫緊，源自拉丁語 ligare）。字面義為「被法律綑綁住、有義務的」。在法律語境中指「負有責任的」；在一般語境中引申為「很有可能發生或容易發生某種不良情況的」。",
+      "definition": "1. Legally responsible for something.; 2. Likely to do or to be something, usually something undesirable.",
+      "example": [
+        {
+          "eng": "The company is held liable for any damage caused by its products.",
+          "ch": "該公司須對其產品造成的任何損害承擔法律責任。"
+        },
+        {
+          "eng": "Wet roads are slick and drivers are liable to skid.",
+          "ch": "濕滑的路面很滑，駕駛人很可能會打滑。"
+        }
+      ]
+    },
+    {
+      "eng": "liberate",
+      "kk": "ˈlɪbəˌreɪt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "解放",
+          "釋放",
+          "使自由"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 liberare（使自由），由 liber（自由的）加上動詞字尾構成。經由16世紀的拉丁語學術借詞進入英語。專門用來指將被壓迫的人民、國土或受囚禁者從束縛中解放出來。",
+      "definition": "1. To set someone or something free from imprisonment, slavery, or oppression.",
+      "example": [
+        {
+          "eng": "The allied troops fought bravely to liberate the occupied city.",
+          "ch": "盟軍英勇作戰以解放這座被佔領的城市。"
+        }
+      ]
+    },
+    {
+      "eng": "liberation",
+      "kk": "ˌlɪbəˈreɪʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "解放",
+          "脫離束縛"
+        ]
+      ],
+      "analysis": "此字由動詞 liberate 加上名詞字尾 -ion 構成（源自拉丁語 liberationem）。指將人、城市或群體從奴役、壓迫或限制中徹底解放出來的過程與狀態。",
+      "definition": "1. The act of setting someone free from imprisonment, slavery, or oppression; release.",
+      "example": [
+        {
+          "eng": "The national liberation movement changed the political landscape of the country.",
+          "ch": "國家解放運動改變了該國的政治格局。"
+        }
+      ]
+    },
+    {
+      "eng": "lieutenant",
+      "kk": "luˈtɛnənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "中尉",
+          "副官",
+          "助理指揮官"
+        ]
+      ],
+      "analysis": "此字源自古法語 lieutenant，由 lieu（地方、職位，源自拉丁語 locus）與 tenant（持有人、保持者，源自 tenir「持有」，源自拉丁語 tenere）組合而成。字面義即「代替他人職位的人、副手、代理人」。在軍事體系中演變成特定的軍銜（如陸軍中尉、海軍中尉）。",
+      "definition": "1. A commissioned officer in the armed forces, ranking above a second lieutenant and below a captain.; 2. A principal assistant to a leader.",
+      "example": [
+        {
+          "eng": "The lieutenant led his platoon through the difficult terrain.",
+          "ch": "中尉帶領他的排穿過艱難的地形。"
+        }
+      ]
+    },
+    {
+      "eng": "lifelong",
+      "kk": "ˈlaɪfˌlɔŋ",
+      "tense": "adj.",
+      "ch": [
+        [
+          "終身的",
+          "一輩子的"
+        ]
+      ],
+      "analysis": "此字為現代透明複合詞，由 life（生命、一生）與 long（長的）組合而成。字面義即「長達一整段生命的」。用以形容持續一輩子的友情、承諾或熱情。",
+      "definition": "1. Lasting or continuing through life.",
+      "example": [
+        {
+          "eng": "They formed a lifelong friendship during their university years.",
+          "ch": "他們在大學期間建立了一生的友誼。"
+        }
+      ]
+    },
+    {
+      "eng": "lighten",
+      "kk": "ˈlaɪtən",
+      "tense": "vt.",
+      "ch": [
+        [
+          "減輕",
+          "使輕鬆"
+        ],
+        [
+          "照亮",
+          "使明亮"
+        ]
+      ],
+      "analysis": "此字由形容詞 light（輕的或明亮的，源自古英語 lēoht）加上動詞字尾 -en 構成。在歷史發展中分化出兩個主要語境：一是從「輕」引申的「減輕負擔、使心情輕鬆」；二是從「明亮」引申的「照亮、使發光」。",
+      "definition": "1. To make less heavy or burdensome; to make cheerful.; 2. To make or become bright or brighter.",
+      "example": [
+        {
+          "eng": "Sharing your worries with a friend can lighten your burden.",
+          "ch": "與朋友分享你的煩惱可以減輕你的負擔。"
+        },
+        {
+          "eng": "The morning sun began to lighten the eastern sky.",
+          "ch": "早晨的太陽開始照亮東方的天空。"
+        }
+      ]
+    },
+    {
+      "eng": "limp",
+      "kk": "lɪmp",
+      "tense": "vi.",
+      "ch": [
+        [
+          "跛行",
+          "一瘸一拐地走"
+        ]
+      ],
+      "analysis": "此字為日耳曼語族繼承詞，源自中古英語 limp(en)，與古英語 limpan（發生、適合）或日耳曼語源中表示柔軟、無力的詞根相關。歷史上固定用來形容因腳部受傷或身體殘疾而導致的「跛行、一瘸一拐地走」的動作。",
+      "definition": "1. To walk with difficulty, typically because of a damaged or stiff leg or foot.",
+      "example": [
+        {
+          "eng": "The injured player had to limp off the soccer field.",
+          "ch": "受傷的球員不得不一瘸一拐地離開足球場。"
+        }
+      ]
+    },
+    {
+      "eng": "liner",
+      "kk": "ˈlaɪnər",
+      "tense": "n.",
+      "ch": [
+        [
+          "定期客輪",
+          "班機"
+        ],
+        [
+          "襯裡",
+          "內襯"
+        ]
+      ],
+      "analysis": "此字由動詞 line（鋪襯裡或排隊、航行路線）加上名詞化字尾 -er 構成。在航運與航空語境中，指按固定路線行駛的「定期航行客輪或客機」；在服裝或容器語境中，指衣物或箱包內部的「襯裡、內襯」。",
+      "definition": "1. A large passenger ship or aircraft belonging to a regular line and making regular trips.; 2. A layer of material placed on the inside of something, such as a garment or container.",
+      "example": [
+        {
+          "eng": "The luxury liner sailed across the Atlantic Ocean.",
+          "ch": "這艘豪華客輪橫渡了大西洋。"
+        },
+        {
+          "eng": "The winter coat has a removable fleece liner for extra warmth.",
+          "ch": "這件冬衣有一個可拆卸的刷毛內襯以提供額外的保暖。"
+        }
+      ]
+    },
+    {
+      "eng": "linger",
+      "kk": "ˈlɪŋɡər",
+      "tense": "vi.",
+      "ch": [
+        [
+          "逗留",
+          "徘徊",
+          "持續不去"
+        ]
+      ],
+      "analysis": "此字源自中古英語 lingeren，是古英語 lingian（持續、停留）的頻動詞形式。原意為「延長、拖延」，後來語意轉化為人在某個地方依依不捨地「逗留、徘徊」，或氣味、感覺、記憶在時間中「久久不散、持續存在」。",
+      "definition": "1. To stay in a place longer than necessary because of a reluctance to leave.; 2. To persist or continue for a long time.",
+      "example": [
+        {
+          "eng": "Some guests continued to linger in the lobby after the party ended.",
+          "ch": "派對結束後，有些賓客仍然在大廳裡逗留。"
+        },
+        {
+          "eng": "The sweet scent of flowers lingered in the garden.",
+          "ch": "花朵的甜美香氣在花園裡久久不散。"
+        }
+      ]
+    },
+    {
+      "eng": "lining",
+      "kk": "ˈlaɪnɪŋ",
+      "tense": "n.",
+      "ch": [
+        [
+          "內襯",
+          "襯裡"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由動詞 line（鋪襯裡，源自古英語 līnan）加上名詞化字尾 -ing 構成。專指縫在衣服、包包或容器內側的布料或保護層。",
+      "definition": "1. A layer of different material placed on the inside of a garment or container.",
+      "example": [
+        {
+          "eng": "The silk lining of the jacket was soft and smooth.",
+          "ch": "夾克的絲綢內襯柔軟而平滑。"
+        }
+      ]
+    },
+    {
+      "eng": "liter",
+      "kk": "ˈlitər",
+      "tense": "n.",
+      "ch": [
+        [
+          "公升"
+        ]
+      ],
+      "analysis": "此字源自法語 litre，其上源為中世紀拉丁語 litra（一種古希臘羅馬的重量與容量單位，源自希臘語 litra）。在公制單位系統中被定為容量單位。美式拼法為 liter（英式拼法為 litre）。",
+      "definition": "1. A metric unit of capacity, equal to one cubic decimeter.",
+      "example": [
+        {
+          "eng": "She bought two liters of milk at the grocery store.",
+          "ch": "她在雜貨店買了兩公升的牛奶。"
+        }
+      ]
+    },
+    {
+      "eng": "literacy",
+      "kk": "ˈlɪtərəsi",
+      "tense": "n.",
+      "ch": [
+        [
+          "讀寫能力",
+          "識字率"
+        ]
+      ],
+      "analysis": "此字由形容詞 literate（有讀寫能力的）類推仿造出名詞字尾 -acy 而成。在近代社會學與教育語境中，用來指一個人閱讀與書寫文字的能力，或國家整體的識字率。",
+      "definition": "1. The ability to read and write.",
+      "example": [
+        {
+          "eng": "The government launched a national campaign to improve adult literacy.",
+          "ch": "政府發起了一項全國性運動以提高成人的讀寫能力。"
+        }
+      ]
+    },
+    {
+      "eng": "literal",
+      "kk": "ˈlɪtərəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "字面上的",
+          "照字面的",
+          "如實的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 litteralis（文字的），由 littera（字母、文字）加上形容詞字尾 -alis 構成。經由中古法語進入英語。原意指「依照字母或字面的」，在現代英語中用來區分字面意義與比喻意義。",
+      "definition": "1. Taking words in their usual or most basic sense without metaphor or exaggeration.",
+      "example": [
+        {
+          "eng": "What is the literal translation of this idiom?",
+          "ch": "這個成語的字面翻譯是什麼？"
+        }
+      ]
+    },
+    {
+      "eng": "literate",
+      "kk": "ˈlɪtərət",
+      "tense": "adj.",
+      "ch": [
+        [
+          "有讀寫能力的",
+          "識字的"
+        ],
+        [
+          "通曉某領域的",
+          "具備…知識的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 literatus（有學問的、通曉文學的），由 littera（字母、文字）衍生而來。在現代英語中，基本義指「受過教育、能讀會寫的」，也常延伸複合使用（如 computer literate「懂電腦的」）。",
+      "definition": "1. Able to read and write.; 2. Well-educated or knowledgeable in a particular subject.",
+      "example": [
+        {
+          "eng": "Educational programs have helped more children become literate.",
+          "ch": "教育計畫幫助了更多的孩子具備讀寫能力。"
+        },
+        {
+          "eng": "In today's job market, it is essential to be computer literate.",
+          "ch": "在當今的就業市場中，懂電腦是基本要求。"
+        }
+      ]
+    },
+    {
+      "eng": "livestock",
+      "kk": "ˈlaɪvˌstɑk",
+      "tense": "n.",
+      "ch": [
+        [
+          "家畜",
+          "牲畜"
+        ]
+      ],
+      "analysis": "此字為現代透明複合詞，由 live（活著的，源自古英語 lifian）與 stock（樹幹、族群、存貨，源自古英語 stocc）組合而成。字面義即「農場中活著的畜群資產」，專門用來指牛、羊、豬等農場家畜。",
+      "definition": "1. Farm animals regarded as an asset, such as cattle, sheep, and pigs.",
+      "example": [
+        {
+          "eng": "The farmers raised various livestock, including cattle and sheep.",
+          "ch": "農夫們飼養了各種家畜，包括牛和羊。"
+        }
+      ]
+    },
+    {
+      "eng": "lizard",
+      "kk": "ˈlɪzərd",
+      "tense": "n.",
+      "ch": [
+        [
+          "蜥蜴"
+        ]
+      ],
+      "analysis": "此字源自中古英語 lisard，借自古法語 liserd，其最終源頭為拉丁語 lacertus（蜥蜴）。在歷史音變過程中，英語加入了複數或字尾的變化，最終固定為指稱這類爬蟲動物的名稱。",
+      "definition": "1. A reptile with a scaly body, four legs, and a tapered tail.",
+      "example": [
+        {
+          "eng": "A small green lizard scurried across the warm rock.",
+          "ch": "一隻綠色的小蜥蜴快步跑過溫暖的岩石。"
+        }
+      ]
+    },
+    {
+      "eng": "locker",
+      "kk": "ˈlɑkər",
+      "tense": "n.",
+      "ch": [
+        [
+          "置物櫃",
+          "儲藏櫃"
+        ]
+      ],
+      "analysis": "此字由動詞 lock（鎖上，源自古英語 loc）加上名詞化字尾 -er 構成。原意指「可以上鎖的箱子或隔間」，現代廣泛用於學校、體育館或車站中供人存放個人物品的「置物櫃」。",
+      "definition": "1. A small lockable compartment or cupboard for storing personal possessions.",
+      "example": [
+        {
+          "eng": "He stored his textbooks in the school locker before going to gym class.",
+          "ch": "他在去上體育課前把教科書存放在學校的置物櫃裡。"
+        }
+      ]
+    },
+    {
+      "eng": "lodge",
+      "kk": "lɑdʒ",
+      "tense": "n.",
+      "ch": [
+        [
+          "小屋",
+          "鄉間別墅",
+          "度假屋"
+        ]
+      ],
+      "analysis": "此字源自中古英語 loge，借自古法語 loge（小型住所、小屋），其日耳曼語根源與森林中用木頭搭蓋的臨時住所（如 log）有關。歷史上指森林小屋、獵人小屋，現代泛指風景區或滑雪場附近的度假旅館與鄉間小屋。",
+      "definition": "1. A small house at the gates of a park or in the country; a rustic hotel or resort.",
+      "example": [
+        {
+          "eng": "We stayed at a cozy ski lodge in the mountains during the winter.",
+          "ch": "冬天時我們住在山裡一家舒適的滑雪度假屋。"
+        }
+      ]
+    },
+    {
+      "eng": "lodge",
+      "kk": "lɑdʒ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "提出（抗議、申訴等）",
+          "正式呈遞"
+        ],
+        [
+          "容納",
+          "提供住宿"
+        ]
+      ],
+      "analysis": "由名詞 lodge 衍生而來的及物動詞。原意為「提供臨時住所或寄宿」，在行政與法律語境中引申為「正式提出（控告、抗議或申訴）」，意指將文件或意見「安放、呈遞」到官方機構。",
+      "definition": "1. To present a formal complaint, protest, or claim to an authority.; 2. To provide someone with temporary accommodation.",
+      "example": [
+        {
+          "eng": "The consumer decided to lodge a formal complaint against the company.",
+          "ch": "消費者決定對該公司提出正式申訴。"
+        },
+        {
+          "eng": "The hotel can lodge up to two hundred guests.",
+          "ch": "這家飯店最多可以容納兩百位賓客。"
+        }
+      ]
+    },
+    {
+      "eng": "lofty",
+      "kk": "ˈlɔfti",
+      "tense": "adj.",
+      "ch": [
+        [
+          "崇高的",
+          "高尚的"
+        ],
+        [
+          "高聳的",
+          "極高的"
+        ]
+      ],
+      "analysis": "此字源自中古英語 lofti，由名詞 loft（高處、閣樓，源自古英語 lof 或古諾斯語 lopt）加上形容詞字尾 -y 構成。原意指地理位置或物理高度上「高聳的」，後來在精神與抽象語境中引申為理想或思想「崇高的、高尚的」。",
+      "definition": "1. Of high moral standards or noble ideals.; 2. Of imposing height; towering.",
+      "example": [
+        {
+          "eng": "He set lofty goals for his career and worked hard to achieve them.",
+          "ch": "他為自己的事業設定了崇高的目標，並努力去實現它們。"
+        },
+        {
+          "eng": "The climbers marveled at the lofty peaks of the Himalayas.",
+          "ch": "登山者對喜馬拉雅山高聳的山峰驚嘆不已。"
+        }
+      ]
+    },
+    {
+      "eng": "logo",
+      "kk": "ˈloʊɡoʊ",
+      "tense": "n.",
+      "ch": [
+        [
+          "標誌",
+          "商標",
+          "識別標識"
+        ]
+      ],
+      "analysis": "此字為 logotype（文字標誌、商標字體）的截短縮寫形式，由希臘語 logos（言詞、理性）與 typos（印記、模具）組合而成的複合詞。現代英語中作為企業、品牌或組織的圖形標誌或識別商標的通稱。",
+      "definition": "1. A symbol or other small design adopted by an organization to identify its products.",
+      "example": [
+        {
+          "eng": "The company redesigned its corporate logo to look more modern.",
+          "ch": "該公司重新設計了其企業標誌，使其看起來更現代化。"
+        }
+      ]
+    },
+    {
+      "eng": "lonesome",
+      "kk": "ˈloʊnsəm",
+      "tense": "adj.",
+      "ch": [
+        [
+          "寂寞的",
+          "孤獨的"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由形容詞 lone（孤獨的，源自 alone 的截短形）加上形容詞字尾 -some（充滿…傾向的）組成。用以形容人內心感到孤獨、寂寞，或地方顯得荒涼、無人煙。",
+      "definition": "1. Lonely; solitary; depressing or isolated.",
+      "example": [
+        {
+          "eng": "He felt a bit lonesome after his friends all moved away.",
+          "ch": "在朋友都搬走之後，他感到有點寂寞。"
+        }
+      ]
+    },
+    {
+      "eng": "longevity",
+      "kk": "lɑnˈdʒɛvəti",
+      "tense": "n.",
+      "ch": [
+        [
+          "長壽",
+          "壽命"
+        ],
+        [
+          "持久性",
+          "長久性"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 longaevitas，由 longus（長的）與 aevum（時代、生命、壽命，與英文 age 同源）組合而成的複合概念，經由中古法語或文藝復興時期進入英語。基本義指「生命長久、長壽」，現代也引申應用於產品、組織或事業的「持久性、長久性」。",
+      "definition": "1. Long life; long duration of life.; 2. Long service, existence, or validity.",
+      "example": [
+        {
+          "eng": "A healthy diet and regular exercise are key factors in achieving longevity.",
+          "ch": "健康的飲食與規律的運動是實現長壽的關鍵因素。"
+        },
+        {
+          "eng": "The brand is known for the durability and longevity of its products.",
+          "ch": "這個品牌以其產品的耐用度與長久性而聞名。"
+        }
+      ]
+    },
+    {
+      "eng": "longitude",
+      "kk": "ˈlɑndʒəˌtud",
+      "tense": "n.",
+      "ch": [
+        [
+          "經度"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 longitudo（長度），由 longus（長的）加上名詞字尾 -tudo 構成。在中世紀地理學中，地圖上的南北向縱線被視為地表的「長度」，因而演變成地圖學上的「經度」之意。",
+      "definition": "1. The angular distance of a place east or west of the Greenwich meridian.",
+      "example": [
+        {
+          "eng": "The captain recorded the exact latitude and longitude of the ship.",
+          "ch": "船長記錄了這艘船確切的緯度和經度。"
+        }
+      ]
+    },
+    {
+      "eng": "lotion",
+      "kk": "ˈloʊʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "乳液",
+          "洗劑"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 lotio（洗滌），由 lavare（清洗）的過去分詞詞幹衍生而來的名詞。在中世紀及早期近代醫學中，原指用於清洗傷口或皮膚的藥水，後來演變成現代塗抹在皮膚上保養或治療的「乳液、化妝水」。",
+      "definition": "1. A low-viscosity topical preparation intended for application to skin.",
+      "example": [
+        {
+          "eng": "She applied moisturizing lotion to her dry hands.",
+          "ch": "她把保濕乳液塗抹在乾燥的雙手上。"
+        }
+      ]
+    },
+    {
+      "eng": "lottery",
+      "kk": "ˈlɑtəri",
+      "tense": "n.",
+      "ch": [
+        [
+          "彩券",
+          "獎券遊戲"
+        ],
+        [
+          "抽獎",
+          "碰運氣的事"
+        ]
+      ],
+      "analysis": "此字源自義大利語 lotteria（基於命運或籤運的遊戲），其更早的日耳曼語根源與 lot（鬮、籤，源自古英語 hlōt）有關。經由文藝復興時期的義大利及法語傳入英語。原意指抽籤分配物品的活動，現代指發行彩券的博彩活動或充滿隨機性的碰運氣事件。",
+      "definition": "1. A means of raising money by selling numbered tickets and giving prizes to the holders of numbers drawn at random.; 2. A process or thing whose success is decided by chance.",
+      "example": [
+        {
+          "eng": "He won a large cash prize playing the national lottery.",
+          "ch": "他透過玩國家彩券贏得了一大筆現金獎金。"
+        },
+        {
+          "eng": "Job interviews can sometimes feel like a total lottery.",
+          "ch": "求職面試有時候感覺就像是一場完全碰運氣的事。"
+        }
+      ]
+    },
+    {
+      "eng": "lotus",
+      "kk": "ˈloʊtəs",
+      "tense": "n.",
+      "ch": [
+        [
+          "蓮花",
+          "荷花"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 lotus，其源頭為希臘語 lōtos（古希臘神話中提及的某種植物或非洲蓮霧樹，後來在植物學分類中被借用來指水生荷花與睡蓮屬植物）。在東西方文化中均具有重要的象徵意義。",
+      "definition": "1. Any of various water lilies, especially the sacred lotus of ancient Egypt and Asia.",
+      "example": [
+        {
+          "eng": "Pink lotus flowers bloomed gracefully in the muddy pond.",
+          "ch": "粉紅色的蓮花在泥濘的池塘中優雅地盛開著。"
+        }
+      ]
+    },
+    {
+      "eng": "loudspeaker",
+      "kk": "ˈlaʊdˌspikər",
+      "tense": "n.",
+      "ch": [
+        [
+          "擴音器",
+          "揚聲器"
+        ]
+      ],
+      "analysis": "此字為現代透明複合詞，由 loud（大聲的）與 speaker（說話者、發聲裝置，源自動詞 speak）組合而成。字面義即「使聲音變大的發聲裝置」，即電子擴音器或揚聲器。",
+      "definition": "1. An electroacoustic transducer that converts an electrical audio signal into a corresponding sound.",
+      "example": [
+        {
+          "eng": "The announcement was broadcast clearly through the station's loudspeakers.",
+          "ch": "廣播透過車站的擴音器清晰地播送出來。"
+        }
+      ]
+    },
+    {
+      "eng": "lucrative",
+      "kk": "ˈlukrətɪv",
+      "tense": "adj.",
+      "ch": [
+        [
+          "賺錢的",
+          "獲利豐厚的",
+          "有利可圖的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 lucrativus（帶來利潤的），由 lucrum（利潤、財富）加上形容詞字尾構成。經由中古法語或拉丁語學術借詞進入英語。專門用來形容能帶來大量金錢或豐厚利潤的商業機會、合約或工作。",
+      "definition": "1. Producing a great deal of profit.",
+      "example": [
+        {
+          "eng": "She signed a lucrative contract with a major software corporation.",
+          "ch": "她與一家大型軟體公司簽署了一份獲利豐厚的合約。"
+        }
+      ]
+    },
+    {
+      "eng": "lullaby",
+      "kk": "ˈlələˌbaɪ",
+      "tense": "n.",
+      "ch": [
+        [
+          "搖籃曲",
+          "催眠曲"
+        ]
+      ],
+      "analysis": "此字為歷史上形成的擬聲與複合組合詞，由早期英語中用來哄小孩睡覺的疊字 lull（安撫、平靜，源自日耳曼語源）與古老的副詞或感嘆詞 byby（可能源自 bye）組合而成。字面義即「哄寶寶睡覺的安撫歌謠」。",
+      "definition": "1. A quiet, gentle song sung to send a child to sleep.",
+      "example": [
+        {
+          "eng": "The mother sang a sweet lullaby to help her baby fall asleep.",
+          "ch": "母親唱了一首甜美的搖籃曲來幫助她的寶寶入睡。"
+        }
+      ]
+    },
+    {
+      "eng": "lunar",
+      "kk": "ˈlunər",
+      "tense": "adj.",
+      "ch": [
+        [
+          "月亮的",
+          "陰曆的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 lunaris（月亮的），由 luna（月亮，源自印歐語根）加上形容詞字尾 -ar 構成。經由文藝復興時期進入英語。在天文學與曆法語境中，專門用來形容與月球相關的事物或以月相盈虧計算的陰曆。",
+      "definition": "1. Pertaining to the moon; measured by the moon's revolutions.",
+      "example": [
+        {
+          "eng": "The traditional festival is celebrated according to the lunar calendar.",
+          "ch": "這個傳統節日是根據陰曆來慶祝的。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1736 @@
+{
+  "level": 1,
+  "chunkIndex": 15,
+  "inputs": [
+    "pot",
+    "potato",
+    "power",
+    "practice",
+    "prepare",
+    "present",
+    "pretty",
+    "price",
+    "probably",
+    "problem",
+    "program",
+    "proud",
+    "public",
+    "pull",
+    "push",
+    "put",
+    "quarter",
+    "queen",
+    "question",
+    "quick",
+    "quiet",
+    "quite",
+    "rabbit",
+    "race",
+    "radio",
+    "rain",
+    "rainbow",
+    "rainy",
+    "raise",
+    "reach",
+    "read",
+    "ready",
+    "real",
+    "really",
+    "reason",
+    "red",
+    "relative",
+    "remember",
+    "repeat",
+    "report",
+    "reporter",
+    "rest",
+    "restaurant",
+    "rice",
+    "rich",
+    "ride",
+    "right",
+    "ring",
+    "rise",
+    "river"
+  ],
+  "rows": [
+    {
+      "eng": "pot",
+      "kk": "/pɑt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "鍋",
+          "壺",
+          "罐"
+        ],
+        [
+          "一鍋之量"
+        ],
+        [
+          "大麻"
+        ]
+      ],
+      "analysis": "此字為古英語繼承詞（源自古英語 pott），屬日耳曼語源。現代構詞為單純基本詞。語意演變從早期泛指各種深口容器，延伸出烹調用的鍋具、裝盛份量，以及現代俚語中指稱大麻。",
+      "definition": "1. a deep, round container used for cooking, boiling, or storing things; 2. the amount contained in such a container; 3. marijuana.",
+      "example": [
+        {
+          "eng": "She put a pot of water on the stove to boil.",
+          "ch": "她在爐子上放了一壺水準備燒開。"
+        },
+        {
+          "eng": "They ate a whole pot of soup for dinner.",
+          "ch": "他們晚餐吃掉了一整鍋湯。"
+        },
+        {
+          "eng": "He was caught carrying a small amount of pot.",
+          "ch": "他被抓到攜帶少量的大麻。"
+        }
+      ]
+    },
+    {
+      "eng": "potato",
+      "kk": "/pəˈteɪtoʊ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "馬鈴薯",
+          "土豆"
+        ]
+      ],
+      "analysis": "此字為歷史外來語，經由西班牙語（patata）借自泰諾語（batata，指甘薯），後於英語中轉而指稱馬鈴薯。現代為不可透明拆解的單一外來詞彙。",
+      "definition": "1. a starchy round root vegetable with brown skin, which is a staple food in many countries.",
+      "example": [
+        {
+          "eng": "We had mashed potatoes and steak for dinner.",
+          "ch": "我們晚餐吃了馬鈴薯泥和牛排。"
+        }
+      ]
+    },
+    {
+      "eng": "power",
+      "kk": "/ˈpaʊər/",
+      "tense": "n.",
+      "ch": [
+        [
+          "力量",
+          "能力",
+          "權力"
+        ],
+        [
+          "電力",
+          "能源"
+        ]
+      ],
+      "analysis": "此字經由古法語（poeir）借自拉丁語（potere「能夠」的俗拉丁語形式 *posere / *potere）。現代構詞為單一基礎名詞，語意從「具備能力或權威」擴展至物理上的「電力」與「能源」。",
+      "definition": "1. the ability or authority to do something, or control over others; 2. energy, especially electricity, used to operate machines.",
+      "example": [
+        {
+          "eng": "The president has the power to sign new laws.",
+          "ch": "總統有權簽署新法律。"
+        },
+        {
+          "eng": "The storm knocked out power to thousands of homes.",
+          "ch": "暴風雨切斷了數千戶家庭的電力。"
+        }
+      ]
+    },
+    {
+      "eng": "power",
+      "kk": "/ˈpaʊər/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "驅動",
+          "供電給"
+        ]
+      ],
+      "analysis": "此動詞由名詞 power 轉品而來（零轉品）。語意直接延續名詞的能量與電力概念，指提供動力使機器運作。",
+      "definition": "1. to supply the energy needed for an engine or device to work.",
+      "example": [
+        {
+          "eng": "The engine is powered by a large battery.",
+          "ch": "這具引擎由一顆大電池驅動。"
+        }
+      ]
+    },
+    {
+      "eng": "practice",
+      "kk": "/ˈpræktɪs/",
+      "tense": "n.",
+      "ch": [
+        [
+          "練習",
+          "實踐"
+        ],
+        [
+          "業務",
+          "慣例"
+        ]
+      ],
+      "analysis": "此字經由中古英語及古法語（practise / pratique）借自中世紀拉丁語（practica），源自希臘語 praktikos（源於 prassein「做、實踐」）。現代為基礎名詞，用以指重複進行以求熟練的行為，或專業人士的實際執業與慣常做法。",
+      "definition": "1. the repeated performance of an activity to improve skill; 2. the actual application or exercise of a profession or custom.",
+      "example": [
+        {
+          "eng": "Daily piano practice is essential for progress.",
+          "ch": "每日的鋼琴練習對進步至關重要。"
+        },
+        {
+          "eng": "She opened her own legal practice downtown.",
+          "ch": "她在市中心開了自己的律師事務所。"
+        }
+      ]
+    },
+    {
+      "eng": "practice",
+      "kk": "/ˈpræktɪs/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "練習",
+          "實踐",
+          "執業"
+        ]
+      ],
+      "analysis": "此動詞對應名詞 practice（英式拼法名詞常作 practice，動詞作 practise，美式則兩者皆用 practice）。構詞源自希臘語字根 praks- 經拉丁語傳入，指實際去做或反覆演練某事。",
+      "definition": "1. to do something repeatedly to gain skill, or to work in a profession.",
+      "example": [
+        {
+          "eng": "You need to practice speaking English every day.",
+          "ch": "你需要每天練習說英語。"
+        }
+      ]
+    },
+    {
+      "eng": "prepare",
+      "kk": "/prɪˈpɛr/",
+      "tense": "v.",
+      "ch": [
+        [
+          "準備",
+          "預備"
+        ]
+      ],
+      "analysis": "此字經由中古法語（preparer）借自拉丁語 praeparare（由 prae-「在前、預先」+ parare「使準備好、製造」組成）。現代英語中作為及物與不及物動詞使用，表事先做好安排或訓練。",
+      "definition": "1. to make something or oneself ready for a future event or task.",
+      "example": [
+        {
+          "eng": "She is preparing dinner for her family.",
+          "ch": "她正在為家人準備晚餐。"
+        }
+      ]
+    },
+    {
+      "eng": "present",
+      "kk": "/ˈprɛzənt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "禮物"
+        ],
+        [
+          "目前",
+          "現在"
+        ]
+      ],
+      "analysis": "由形容詞／動詞轉化而來的名詞，指「在眼前的事物」（禮物）或「當下的時間」（目前）。",
+      "definition": "1. a gift given to someone; 2. the current period of time.",
+      "example": [
+        {
+          "eng": "Thank you for the wonderful birthday present.",
+          "ch": "謝謝你送的精彩生日禮物。"
+        },
+        {
+          "eng": "Let us focus on the present rather than the past.",
+          "ch": "讓我們專注於當下而不是過去。"
+        }
+      ]
+    },
+    {
+      "eng": "present",
+      "kk": "/prɪˈzɛnt/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "呈現",
+          "頒發",
+          "介紹"
+        ]
+      ],
+      "analysis": "此字經由古法語借自拉丁語 praesentare（源自 praesens「在場的、面前的」）。作為動詞時，指將某物擺在人前、正式展示、頒發獎項或介紹人物。",
+      "definition": "1. to give or show something formally, or to introduce someone.",
+      "example": [
+        {
+          "eng": "The mayor will present the award to the winner.",
+          "ch": "市長將把獎項頒發給獲勝者。"
+        }
+      ]
+    },
+    {
+      "eng": "present",
+      "kk": "/ˈprɛzənt/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "出席的",
+          "在場的"
+        ],
+        [
+          "目前的",
+          "現存的"
+        ]
+      ],
+      "analysis": "源自拉丁語 praesentem（praesens 的賓格，意為「在面前的、當下的」）。作形容詞時指人出席或時間屬於現在。",
+      "definition": "1. being in a particular place; 2. existing or happening now.",
+      "example": [
+        {
+          "eng": "All members were present at the meeting.",
+          "ch": "所有成員都出席了會議。"
+        },
+        {
+          "eng": "The present situation requires careful handling.",
+          "ch": "目前的局勢需要小心處理。"
+        }
+      ]
+    },
+    {
+      "eng": "pretty",
+      "kk": "/ˈprɪti/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "漂亮的",
+          "秀麗的"
+        ]
+      ],
+      "analysis": "源自古英語prætīg「狡猾的、機靈的」，經語意演變（由「精巧的」轉為「討人喜歡的、美麗的」）。現代為穩定形容詞。",
+      "definition": "1. attractive and pleasant to look at, in a delicate or charming way.",
+      "example": [
+        {
+          "eng": "She wore a pretty pink dress to the party.",
+          "ch": "她穿了一件漂亮的粉紅色洋裝去參加派對。"
+        }
+      ]
+    },
+    {
+      "eng": "pretty",
+      "kk": "/ˈprɪti/",
+      "tense": "adv.",
+      "ch": [
+        [
+          "相當",
+          "頗"
+        ]
+      ],
+      "analysis": "由形容詞 pretty 經副詞化用法演變而來，表示程度「相當地、頗具規模地」。",
+      "definition": "1. to a moderately high degree; quite.",
+      "example": [
+        {
+          "eng": "The movie was pretty good, though a bit long.",
+          "ch": "這部電影相當好看，雖然有點長。"
+        }
+      ]
+    },
+    {
+      "eng": "price",
+      "kk": "/praɪs/",
+      "tense": "n.",
+      "ch": [
+        [
+          "價格"
+        ],
+        [
+          "代價"
+        ]
+      ],
+      "analysis": "此字經由古法語（pris）借自拉丁語 pretium（價值、價格）。現代為基本名詞，指商品金錢代價或抽象付出的代價。",
+      "definition": "1. the amount of money expected, required, or given in payment for something; 2. an unpleasant consequence suffered for obtaining something.",
+      "example": [
+        {
+          "eng": "The price of gasoline has increased again.",
+          "ch": "汽油價格又上漲了。"
+        },
+        {
+          "eng": "Fame often comes at a high personal price.",
+          "ch": "名聲往往伴隨著高昂的個人代價。"
+        }
+      ]
+    },
+    {
+      "eng": "probably",
+      "kk": "/ˈprɑbəbli/",
+      "tense": "adv.",
+      "ch": [
+        [
+          "很可能",
+          "大概"
+        ]
+      ],
+      "analysis": "由形容詞 probable（源自拉丁語 probabilis「可證實的、可能的」）加上副詞字尾 -ly 構成。現代為表達高概率的常見副詞。",
+      "definition": "1. almost certainly; according to what is likely.",
+      "example": [
+        {
+          "eng": "It will probably rain this afternoon, so take an umbrella.",
+          "ch": "今天下午很可能會下雨，帶把傘吧。"
+        }
+      ]
+    },
+    {
+      "eng": "problem",
+      "kk": "/ˈprɑbləm/",
+      "tense": "n.",
+      "ch": [
+        [
+          "問題",
+          "難題"
+        ]
+      ],
+      "analysis": "此字經由中古法語借自拉丁語 problema，源自希臘語 problēma（字面義為「拋在前方的事物、障礙」），由 pro-「在前」+ ballein「拋」組成。現代指待解決的困難狀況或數學習題。",
+      "definition": "1. a matter or situation that is difficult to deal with or overcome.",
+      "example": [
+        {
+          "eng": "We need to find a solution to this problem quickly.",
+          "ch": "我們需要快點找到解決這個問題的辦法。"
+        }
+      ]
+    },
+    {
+      "eng": "program",
+      "kk": "/ˈproʊɡræm/",
+      "tense": "n.",
+      "ch": [
+        [
+          "節目",
+          "計畫",
+          "程式"
+        ]
+      ],
+      "analysis": "此字經由法語或中世紀拉丁語 programma，源自希臘語 programma（公告、節目單），由 pro-「在前」+ graphein「書寫」組成。現代泛指廣播電視節目、行動計畫或電腦軟體程式。",
+      "definition": "1. a broadcast or staged performance, a planned series of events, or a set of coded instructions for a computer.",
+      "example": [
+        {
+          "eng": "I love watching science programs on television.",
+          "ch": "我喜歡看電視上的科學節目。"
+        },
+        {
+          "eng": "He wrote a computer program to analyze the data.",
+          "ch": "他寫了一個電腦程式來分析數據。"
+        }
+      ]
+    },
+    {
+      "eng": "proud",
+      "kk": "/praʊd/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "自豪的",
+          "驕傲的"
+        ]
+      ],
+      "analysis": "源自古英語 prūd（可能借自古法語 prud「勇敢的、正直的」，其源自晚期拉丁語 prodesse）。現代指因成就而感到光榮或自負。",
+      "definition": "1. feeling deeply satisfied as a result of own achievements, qualities, or possessions.",
+      "example": [
+        {
+          "eng": "Her parents were very proud of her graduation.",
+          "ch": "她的父母為她的畢業感到非常驕傲。"
+        }
+      ]
+    },
+    {
+      "eng": "public",
+      "kk": "/ˈpʌblɪk/",
+      "tense": "n.",
+      "ch": [
+        [
+          "大眾",
+          "公眾"
+        ]
+      ],
+      "analysis": "由形容詞 public 轉品而成的名詞，指一般民眾的整體集合。",
+      "definition": "1. ordinary people in general; the community.",
+      "example": [
+        {
+          "eng": "The politician tried to win the support of the public.",
+          "ch": "這名政治人物試圖贏得大眾的支持。"
+        }
+      ]
+    },
+    {
+      "eng": "public",
+      "kk": "/ˈpʌblɪk/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "公眾的",
+          "公開的",
+          "公立的"
+        ]
+      ],
+      "analysis": "此字經由中古法語借自拉丁語 publicus（源自 poplicus，與 populus「人民」有關）。現代形容詞指涉全體大眾、非私人的或政府資助的公立體系。",
+      "definition": "1. concerning the people as a whole; open to or shared by everyone; established or funded by the government.",
+      "example": [
+        {
+          "eng": "The museum is open to the general public.",
+          "ch": "這座博物館對一般大眾開放。"
+        },
+        {
+          "eng": "She attended public school before going to university.",
+          "ch": "她在上大學前就讀公立學校。"
+        }
+      ]
+    },
+    {
+      "eng": "pull",
+      "kk": "/pʊl/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "拉",
+          "拖"
+        ]
+      ],
+      "analysis": "源自古英語 pullian（意為拔、拉），屬日耳曼語源。現代為基礎及物動詞，指施力將物體朝自己方向移動。",
+      "definition": "1. to exert force on something so as to cause it to move toward the person pulling.",
+      "example": [
+        {
+          "eng": "He pulled the heavy door open.",
+          "ch": "他把沉重的大門拉開了。"
+        }
+      ]
+    },
+    {
+      "eng": "pull",
+      "kk": "/pʊl/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "拉",
+          "出力"
+        ]
+      ],
+      "analysis": "pull 的不及物動詞用法，指進行拉的動作或施力。",
+      "definition": "1. to apply force in order to move something or oneself.",
+      "example": [
+        {
+          "eng": "Pull on the rope as hard as you can.",
+          "ch": "盡你最大力氣拉繩子。"
+        }
+      ]
+    },
+    {
+      "eng": "push",
+      "kk": "/pʊʃ/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "推",
+          "按"
+        ],
+        [
+          "催促"
+        ]
+      ],
+      "analysis": "此字經由中古英語（pusshen）借自古法語 pousser，源自拉丁語 pulsare（意為擊打、驅使）。現代用作及物動詞，指施力使物體遠離，或推動某人前進與催促。",
+      "definition": "1. to exert force on something in order to move it away; 2. to encourage or urge someone strongly.",
+      "example": [
+        {
+          "eng": "She pushed the shopping cart down the aisle.",
+          "ch": "她推著購物車走過走道。"
+        },
+        {
+          "eng": "His coach pushed him to train harder.",
+          "ch": "他的教練督促他更努力訓練。"
+        }
+      ]
+    },
+    {
+      "eng": "push",
+      "kk": "/pʊʃ/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "推",
+          "推擠"
+        ]
+      ],
+      "analysis": "push 的不及物用法，指進行推的動作或在人群中推擠前進。",
+      "definition": "1. to apply a steady force to move something or make one's way forward.",
+      "example": [
+        {
+          "eng": "Please push against the door to open it.",
+          "ch": "請用力推門以將其打開。"
+        }
+      ]
+    },
+    {
+      "eng": "put",
+      "kk": "/pʊt/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "放",
+          "擺"
+        ],
+        [
+          "表達"
+        ]
+      ],
+      "analysis": "源自中古英語 putten，可能源自古英語時期未記錄的方言形式或斯堪地那維亞借詞。現代為高頻不規則及物動詞，指放置物品或用特定方式表達言論。",
+      "definition": "1. to move something to a particular place or position; 2. to express something in a specific way.",
+      "example": [
+        {
+          "eng": "Please put your keys on the table.",
+          "ch": "請把你的鑰匙放在桌上。"
+        },
+        {
+          "eng": "Let me put it another way so you understand.",
+          "ch": "讓我換個方式表達，好讓你明白。"
+        }
+      ]
+    },
+    {
+      "eng": "quarter",
+      "kk": "/ˈkwɔrtər/",
+      "tense": "n.",
+      "ch": [
+        [
+          "四分之一"
+        ],
+        [
+          "一刻鐘"
+        ],
+        [
+          "硬幣（25美分）"
+        ]
+      ],
+      "analysis": "此字經由中古法語（quartier）借自拉丁語 quartarius（由 quartus「第四」衍生）。現代表示四等分中的一份、15分鐘或美國的25分硬幣。",
+      "definition": "1. each of four equal parts into which something is divided; 2. a period of 15 minutes; 3. a US or Canadian coin worth 25 cents.",
+      "example": [
+        {
+          "eng": "She cut the apple into four quarters.",
+          "ch": "她把蘋果切成四等分。"
+        },
+        {
+          "eng": "The meeting will start at a quarter past three.",
+          "ch": "會議將在三點十五分開始。"
+        },
+        {
+          "eng": "He used a quarter to pay for the parking meter.",
+          "ch": "他用一個25美分硬幣支付停車費。"
+        }
+      ]
+    },
+    {
+      "eng": "queen",
+      "kk": "/kwin/",
+      "tense": "n.",
+      "ch": [
+        [
+          "女王",
+          "王后"
+        ]
+      ],
+      "analysis": "源自古英語 cwēn（意為女人、妻子、王后），屬日耳曼語源（源自原始日耳曼語 *kweniz「女性、妻」）。現代指國王的妻子或女性君主。",
+      "definition": "1. the wife of a king, or a female sovereign ruler of a country.",
+      "example": [
+        {
+          "eng": "Queen Elizabeth II reigned for over seventy years.",
+          "ch": "伊莉莎白二世女王在位超過七十年。"
+        }
+      ]
+    },
+    {
+      "eng": "question",
+      "kk": "/ˈkwɛstʃən/",
+      "tense": "n.",
+      "ch": [
+        [
+          "問題",
+          "疑問"
+        ]
+      ],
+      "analysis": "此字經由古法語借自拉丁語 quaestionem（主格 quaestio，源自 quaerere「尋求、詢問」）。現代指為了獲得答案而提出的詢問或難題。",
+      "definition": "1. a sentence or phrase used to find out information or test someone's knowledge.",
+      "example": [
+        {
+          "eng": "If you have any questions, please raise your hand.",
+          "ch": "如果你有任何問題，請舉手。"
+        }
+      ]
+    },
+    {
+      "eng": "question",
+      "kk": "/ˈkwɛstʃən/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "詢問",
+          "質疑"
+        ]
+      ],
+      "analysis": "由名詞 question 衍生而來的動詞，指對某人提出盤問或對某事表達懷疑。",
+      "definition": "1. to ask someone questions, or to express doubt about something.",
+      "example": [
+        {
+          "eng": "The police questioned the suspect for hours.",
+          "ch": "警方對嫌疑人盤問了數小時。"
+        }
+      ]
+    },
+    {
+      "eng": "quick",
+      "kk": "/kwɪk/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "快的",
+          "迅速的"
+        ]
+      ],
+      "analysis": "源自古英語 cwic（意為活著的、有生氣的），古日耳曼語源。語意從「有生命的」演變為「動作敏捷、充滿生氣的」。",
+      "definition": "1. moving fast or doing something in a short time.",
+      "example": [
+        {
+          "eng": "She made a quick phone call before leaving.",
+          "ch": "她在離開前打了一通快速的電話。"
+        }
+      ]
+    },
+    {
+      "eng": "quiet",
+      "kk": "/ˈkwaɪət/",
+      "tense": "n.",
+      "ch": [
+        [
+          "安靜",
+          "平靜"
+        ]
+      ],
+      "analysis": "由形容詞 quiet 轉化而來的名詞，指沒有聲音或紛擾的狀態。",
+      "definition": "1. absence of noise or bustle; calmness.",
+      "example": [
+        {
+          "eng": "She enjoyed the peace and quiet of the countryside.",
+          "ch": "她享受著鄉村的寧靜與安詳。"
+        }
+      ]
+    },
+    {
+      "eng": "quiet",
+      "kk": "/ˈkwaɪət/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "安靜的",
+          "平靜的"
+        ]
+      ],
+      "analysis": "此字經由中古法語借自拉丁語 quietus（平靜的、休息的，源自 quies「休息」）。現代作形容詞指沒有噪音或心境平穩。",
+      "definition": "1. making little or no noise, or calm and peaceful.",
+      "example": [
+        {
+          "eng": "The library is a quiet place to study.",
+          "ch": "圖書館是個讀書的安靜地方。"
+        }
+      ]
+    },
+    {
+      "eng": "quite",
+      "kk": "/kwaɪt/",
+      "tense": "adv.",
+      "ch": [
+        [
+          "相當",
+          "完全"
+        ]
+      ],
+      "analysis": "源自中古英語 quite（即 quit 的變體，意為完全地、徹底地），源自古法語 quiter。現代用作程度副詞，表示「相當」或「完全」。",
+      "definition": "1. to a certain extent or degree; completely.",
+      "example": [
+        {
+          "eng": "I am quite sure that I locked the door.",
+          "ch": "我十分確定我有鎖門。"
+        }
+      ]
+    },
+    {
+      "eng": "rabbit",
+      "kk": "/ˈræbɪt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "兔子"
+        ]
+      ],
+      "analysis": "此字源自中古荷蘭語 (robbe, robbekijn 幼兔)，經由中低地德語或早期英語貿易接觸傳入。現代為動物名詞。",
+      "definition": "1. a small burrowing mammal with long ears and a short tail.",
+      "example": [
+        {
+          "eng": "We saw a wild rabbit hopping across the lawn.",
+          "ch": "我們看到一隻野生兔子在草坪上跳躍。"
+        }
+      ]
+    },
+    {
+      "eng": "race",
+      "kk": "/reɪs/",
+      "tense": "n.",
+      "ch": [
+        [
+          "競賽",
+          "賽跑"
+        ],
+        [
+          "種族"
+        ]
+      ],
+      "analysis": "此字有兩個同形異源詞。競賽義源自古諾斯語 rás（奔跑、流動）；種族義經由法語 race 借自義大利語 razza。現代依語境分為競技比賽與人類群體分類。",
+      "definition": "1. a competition in which people, animals, or vehicles try to win by being the fastest; 2. a major grouping of humans based on shared physical or social qualities.",
+      "example": [
+        {
+          "eng": "He won the 100-meter race at the sports meeting.",
+          "ch": "他在運動會上贏得了百米賽跑冠軍。"
+        },
+        {
+          "eng": "Laws were passed to protect people from discrimination based on race.",
+          "ch": "通過了法律以保護人們免受基於種族的歧視。"
+        }
+      ]
+    },
+    {
+      "eng": "race",
+      "kk": "/reɪs/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "賽跑",
+          "急速奔跑"
+        ]
+      ],
+      "analysis": "由競賽名詞衍生或直接源自日耳曼語源的動詞用法，指全力競速或快速移動。",
+      "definition": "1. to compete in a race, or move at high speed.",
+      "example": [
+        {
+          "eng": "The children raced each other across the park.",
+          "ch": "孩子們在公園裡互相賽跑。"
+        }
+      ]
+    },
+    {
+      "eng": "radio",
+      "kk": "/ˈreɪdioʊ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "無線電",
+          "收音機"
+        ]
+      ],
+      "analysis": "現代新詞，由拉丁語 radius（光線、輻射）衍生出的 prefix/combining form 形容詞無線電波（radiotelegraphy）簡化而來。現代指無線電通訊技術或收音機接收器。",
+      "definition": "1. the transmission and reception of electromagnetic waves, or a device used for listening to audio broadcasts.",
+      "example": [
+        {
+          "eng": "She listens to the morning news on the radio while driving.",
+          "ch": "她開車時一邊聽收音機裡的早晨新聞。"
+        }
+      ]
+    },
+    {
+      "eng": "rain",
+      "kk": "/reɪn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "雨"
+        ]
+      ],
+      "analysis": "源自古英語 regn，屬日耳曼語源（源自原始日耳曼語 *regnam）。現代指自空中降落的水滴。",
+      "definition": "1. moisture condensed from the atmosphere that falls in separate drops.",
+      "example": [
+        {
+          "eng": "The plants need a good rain to grow well.",
+          "ch": "這些植物需要一場好雨才能長得好。"
+        }
+      ]
+    },
+    {
+      "eng": "rain",
+      "kk": "/reɪn/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "下雨"
+        ]
+      ],
+      "analysis": "由名詞 rain 轉化而來的無主詞氣象動詞。",
+      "definition": "1. to fall as rain from the sky.",
+      "example": [
+        {
+          "eng": "It started to rain just as we left the house.",
+          "ch": "我們一出門就開始下雨了。"
+        }
+      ]
+    },
+    {
+      "eng": "rainbow",
+      "kk": "/ˈreɪnboʊ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "彩虹"
+        ]
+      ],
+      "analysis": "現代透明複合詞，由 rain（雨）+ bow（弓）組成，因形狀如弓且出現於雨後而得名。",
+      "definition": "1. a arch of multicolored light visible in the sky, caused by the refraction and reflection of the sun's rays in rain.",
+      "example": [
+        {
+          "eng": "A double rainbow appeared in the sky after the storm.",
+          "ch": "暴風雨過後天空中出現了一道雙彩虹。"
+        }
+      ]
+    },
+    {
+      "eng": "rainy",
+      "kk": "/ˈreɪni/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "多雨的",
+          "下雨的"
+        ]
+      ],
+      "analysis": "由名詞 rain 加上形容詞字尾 -y 構成的透明派生詞。指天氣多雨或常下雨。",
+      "definition": "1. having a lot of rain.",
+      "example": [
+        {
+          "eng": "We stayed indoors and played board games on a rainy afternoon.",
+          "ch": "我們在一個下雨的下午待在室內玩桌遊。"
+        }
+      ]
+    },
+    {
+      "eng": "raise",
+      "kk": "/reɪz/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "舉起"
+        ],
+        [
+          "提高"
+        ],
+        [
+          "撫養"
+        ],
+        [
+          "籌集"
+        ]
+      ],
+      "analysis": "源自古諾斯語 reisa（使升起，與古英語 rīsan 相對應的使役動詞）。現代作為及物動詞，有多種延伸義，包括提高物理位置、增加數值、養育子女或籌募資金。",
+      "definition": "1. to lift or move something to a higher position; 2. to increase the amount or level of something; 3. to bring up a child or animal; 4. to collect money or resources.",
+      "example": [
+        {
+          "eng": "Please raise your hand if you know the answer.",
+          "ch": "如果你知道答案請舉手。"
+        },
+        {
+          "eng": "The company decided to raise prices next month.",
+          "ch": "公司決定下個月調高價格。"
+        },
+        {
+          "eng": "She raised three children on her own.",
+          "ch": "她獨自撫養大了三個孩子。"
+        },
+        {
+          "eng": "They organized a charity concert to raise money for the hospital.",
+          "ch": "他們舉辦了一場慈善音樂會為醫院籌款。"
+        }
+      ]
+    },
+    {
+      "eng": "reach",
+      "kk": "/ritʃ/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "到達"
+        ],
+        [
+          "伸手夠到"
+        ],
+        [
+          "達成"
+        ]
+      ],
+      "analysis": "源自古英語 rǣcan（延伸、伸出），屬日耳曼語源。現代作為及物動詞，指抵達某地點、用手觸及或達成協議。",
+      "definition": "1. to arrive at a destination; 2. to stretch out one's hand to touch something; 3. to achieve an agreement or goal.",
+      "example": [
+        {
+          "eng": "We hope to reach the summit before noon.",
+          "ch": "我們希望在中午前登頂。"
+        },
+        {
+          "eng": "She stretched out her hand to reach the book on the shelf.",
+          "ch": "她伸出手去拿架子上的書。"
+        },
+        {
+          "eng": "Both sides finally reached an agreement.",
+          "ch": "雙方終於達成了協議。"
+        }
+      ]
+    },
+    {
+      "eng": "reach",
+      "kk": "/ritʃ/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "伸手",
+          "延伸"
+        ]
+      ],
+      "analysis": "reach 的不及物用法，指伸出手或空間無限延伸。",
+      "definition": "1. to stretch one's arm or hand in a specified direction.",
+      "example": [
+        {
+          "eng": "He reached into his pocket for his wallet.",
+          "ch": "他把手伸進口袋拿皮夾。"
+        }
+      ]
+    },
+    {
+      "eng": "read",
+      "kk": "/rid/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "閱讀",
+          "讀懂"
+        ]
+      ],
+      "analysis": "源自古英語 rǣdan（勸告、解釋、讀），屬日耳曼語源。現代為高頻不規則動詞（原形 read 發音 /rid/，過去式與過去分詞拼法相同但發音為 /rɛd/），指辨識並理解文字符號。",
+      "definition": "1. to look at and comprehend the meaning of written or printed characters.",
+      "example": [
+        {
+          "eng": "She likes to read novels before going to sleep.",
+          "ch": "她喜歡在睡前看小說。"
+        }
+      ]
+    },
+    {
+      "eng": "read",
+      "kk": "/rid/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "閱讀",
+          "讀書"
+        ]
+      ],
+      "analysis": "read 的不及物動詞用法，指從事閱讀活動。",
+      "definition": "1. to look at and understand written words as a general activity.",
+      "example": [
+        {
+          "eng": "He sat by the window and read for hours.",
+          "ch": "他坐在窗邊讀了好幾個小時的書。"
+        }
+      ]
+    },
+    {
+      "eng": "ready",
+      "kk": "/ˈrɛdi/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "準備好的",
+          "現成的"
+        ]
+      ],
+      "analysis": "源自古英語 rǣde（準備好的、快速的），源自原始日耳曼語 *raidijaz。現代形容詞指人或事物已完成準備，隨時可使用或出發。",
+      "definition": "1. fully prepared for action or use.",
+      "example": [
+        {
+          "eng": "Are you ready to leave for the airport?",
+          "ch": "你準備好出發去機場了嗎？"
+        }
+      ]
+    },
+    {
+      "eng": "real",
+      "kk": "/ˈriəl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "真實的",
+          "真的"
+        ]
+      ],
+      "analysis": "此字經由中古英語及古法語借自拉丁語 realis（源自 res「事物」）。現代形容詞指客觀存在、非虛構的真實事物。",
+      "definition": "1. actually existing as a thing or occurring in fact; not imaginary.",
+      "example": [
+        {
+          "eng": "Is this diamond ring real or fake?",
+          "ch": "這枚鑽戒是真的還是假的？"
+        }
+      ]
+    },
+    {
+      "eng": "really",
+      "kk": "/ˈriəli/",
+      "tense": "adv.",
+      "ch": [
+        [
+          "真正地",
+          "非常"
+        ]
+      ],
+      "analysis": "由形容詞 real 加上副詞字尾 -ly 構成的派生副詞。現代用於強調事實的真實性或加強形容詞／動詞的程度。",
+      "definition": "1. in actual fact; very or truly.",
+      "example": [
+        {
+          "eng": "I am really sorry for being late.",
+          "ch": "我真的非常抱歉遲到了。"
+        }
+      ]
+    },
+    {
+      "eng": "reason",
+      "kk": "/ˈrizən/",
+      "tense": "n.",
+      "ch": [
+        [
+          "理由",
+          "原因"
+        ],
+        [
+          "理性"
+        ]
+      ],
+      "analysis": "此字經由古法語 (raison) 借自拉丁語 rationem（主格 ratio，意為計算、理由、理性）。現代指行為的動機、事情發生的原因或人類的理性思考能力。",
+      "definition": "1. a cause, explanation, or justification for an action or event; 2. the power of the mind to think and understand logically.",
+      "example": [
+        {
+          "eng": "Can you explain the reason for your decision?",
+          "ch": "你能解釋一下你做出這個決定的理由嗎？"
+        },
+        {
+          "eng": "Humans are capable of thought and reason.",
+          "ch": "人類具備思考與理性的能力。"
+        }
+      ]
+    },
+    {
+      "eng": "reason",
+      "kk": "/ˈrizən/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "推理",
+          "勸說"
+        ]
+      ],
+      "analysis": "由名詞 reason 轉化而來的動詞，指運用邏輯推理或試圖以理服人。",
+      "definition": "1. to think, understand, and form judgments by a logical process.",
+      "example": [
+        {
+          "eng": "It is hard to reason with someone who refuses to listen.",
+          "ch": "跟一個拒絕傾聽的人講道理是很難的。"
+        }
+      ]
+    },
+    {
+      "eng": "red",
+      "kk": "/rɛd/",
+      "tense": "n.",
+      "ch": [
+        [
+          "紅色"
+        ]
+      ],
+      "analysis": "由形容詞 red 轉化而來的名詞，指紅色色彩。",
+      "definition": "1. a red color or pigment.",
+      "example": [
+        {
+          "eng": "Red is often used to signal a warning or stop.",
+          "ch": "紅色經常被用來發出警告或停止信號。"
+        }
+      ]
+    },
+    {
+      "eng": "red",
+      "kk": "/rɛd/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "紅色的"
+        ]
+      ],
+      "analysis": "源自古英語 rēad，屬日耳曼語源（源自原始日耳曼語 *raudaz）。現代指光譜中波長最長的紅色。",
+      "definition": "1. of a color like that of blood or ripe tomatoes.",
+      "example": [
+        {
+          "eng": "She wore a bright red coat in the winter.",
+          "ch": "她在冬天穿了一件鮮紅色的外套。"
+        }
+      ]
+    },
+    {
+      "eng": "relative",
+      "kk": "/ˈrɛlətɪv/",
+      "tense": "n.",
+      "ch": [
+        [
+          "親戚",
+          "親屬"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 relativus（具有相對關係的），經由中古法語進入英語。名詞義由「血緣相關的人」演變而來。",
+      "definition": "1. a person connected by blood or marriage; a family member.",
+      "example": [
+        {
+          "eng": "All our relatives gathered for the family reunion.",
+          "ch": "我們所有的親戚都聚在一起參加家庭聚會。"
+        }
+      ]
+    },
+    {
+      "eng": "relative",
+      "kk": "/ˈrɛlətɪv/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "相對的",
+          "比較的"
+        ]
+      ],
+      "analysis": "形容詞用法，指某事物相對於其他事物而言，並非絕對。",
+      "definition": "1. considered in comparison with or in relation to something else.",
+      "example": [
+        {
+          "eng": "Comfort is relative; what is comfortable for one may not be for another.",
+          "ch": "舒適是相對的；對一個人舒適的對另一個人未必舒適。"
+        }
+      ]
+    },
+    {
+      "eng": "remember",
+      "kk": "/rɪˈmɛmbər/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "記得",
+          "記起"
+        ]
+      ],
+      "analysis": "此字經由古法語 (remembrer) 借自拉丁語 rememorari（由 re-「反覆、加強」+ memor「記住的」組成）。現代作為及物動詞，指將記憶中的事物喚回腦海。",
+      "definition": "1. to bring back to one's mind an awareness of a past event, fact, or experience.",
+      "example": [
+        {
+          "eng": "I don't remember where I left my car keys.",
+          "ch": "我不記得把車鑰匙放哪裡了。"
+        }
+      ]
+    },
+    {
+      "eng": "remember",
+      "kk": "/rɪˈmɛmbər/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "記得",
+          "記起"
+        ]
+      ],
+      "analysis": "remember 的不及物用法，指發揮記憶功能、想起事情。",
+      "definition": "1. to have a memory return to one's mind.",
+      "example": [
+        {
+          "eng": "Try to think carefully, and you will remember.",
+          "ch": "試著仔細想想，你就會想起來了。"
+        }
+      ]
+    },
+    {
+      "eng": "repeat",
+      "kk": "/rɪˈpit/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "重複",
+          "重說"
+        ]
+      ],
+      "analysis": "此字經由中古英語借自古法語 repeter，源自拉丁語 repetere（由 re-「再次」+ petere「追求、去」組成）。現代指再次做某事或再次說出某話。",
+      "definition": "1. to say or do something again.",
+      "example": [
+        {
+          "eng": "Could you please repeat that question?",
+          "ch": "你能再說一次那個問題嗎？"
+        }
+      ]
+    },
+    {
+      "eng": "repeat",
+      "kk": "/rɪˈpit/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "重複",
+          "複述"
+        ]
+      ],
+      "analysis": "repeat 的不及物用法，指重演或再次發生。",
+      "definition": "1. to happen or be done again.",
+      "example": [
+        {
+          "eng": "History tends to repeat itself.",
+          "ch": "歷史往往會重演。"
+        }
+      ]
+    },
+    {
+      "eng": "report",
+      "kk": "/rɪˈpɔrt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "報告",
+          "報導"
+        ]
+      ],
+      "analysis": "由動詞 report 轉化而成的名詞，指書面或口頭的正式調查結果或新聞報導。",
+      "definition": "1. an account given of a particular matter, especially in the form of an official document.",
+      "example": [
+        {
+          "eng": "He submitted his final research report before the deadline.",
+          "ch": "他在截止日期前交出了最終的研究報告。"
+        }
+      ]
+    },
+    {
+      "eng": "report",
+      "kk": "/rɪˈpɔrt/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "報導",
+          "匯報"
+        ],
+        [
+          "舉報"
+        ]
+      ],
+      "analysis": "此字經由古法語報告源自拉丁語 reportare（由 re-「回」+ portare「攜帶」組成，字面義為「帶回訊息」）。現代指正式向公眾或上級傳遞消息或違法事件。",
+      "definition": "1. to give an account of something in a news medium, or to inform authorities about an event or crime.",
+      "example": [
+        {
+          "eng": "The journalist reported on the ongoing peace talks.",
+          "ch": "該記者報導了正在進行的和談。"
+        },
+        {
+          "eng": "She reported the stolen bicycle to the police.",
+          "ch": "她向警方報案腳踏車被偷了。"
+        }
+      ]
+    },
+    {
+      "eng": "report",
+      "kk": "/rɪˈpɔrt/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "報導",
+          "報到"
+        ]
+      ],
+      "analysis": "report 的不及物用法，指擔任記者報導或依規定前往某地報到。",
+      "definition": "1. to present oneself formally at a place or to an authority.",
+      "example": [
+        {
+          "eng": "New employees must report to the HR office on Monday morning.",
+          "ch": "新進員工必須在週一早晨向人力資源辦公室報到。"
+        }
+      ]
+    },
+    {
+      "eng": "reporter",
+      "kk": "/rɪˈpɔrtər/",
+      "tense": "n.",
+      "ch": [
+        [
+          "記者",
+          "通訊員"
+        ]
+      ],
+      "analysis": "由動詞 report 加上名詞字尾 -er 構成的透明派生詞，指負責調查並撰寫新聞報導的人。",
+      "definition": "1. a person who collects and reports news for newspapers, radio, or television.",
+      "example": [
+        {
+          "eng": "The reporter asked the politician tough questions.",
+          "ch": "記者向這位政治人物提出了棘手的問題。"
+        }
+      ]
+    },
+    {
+      "eng": "rest",
+      "kk": "/rɛst/",
+      "tense": "n.",
+      "ch": [
+        [
+          "休息",
+          "歇息"
+        ]
+      ],
+      "analysis": "源自古英語 rēst，與動詞同源，指放鬆或睡眠的狀態。",
+      "definition": "1. a period of time spent relaxing, sleeping, or recovering strength.",
+      "example": [
+        {
+          "eng": "A good night's rest is important for your health.",
+          "ch": "良好的夜間睡眠對你的健康很重要。"
+        }
+      ]
+    },
+    {
+      "eng": "rest",
+      "kk": "/rɛst/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "休息",
+          "歇息"
+        ]
+      ],
+      "analysis": "源自古英語 rēstan，屬日耳曼語源。現代作不及物動詞，指停止工作或活動以恢復體力。",
+      "definition": "1. to cease work or movement in order to relax, sleep, or recover strength.",
+      "example": [
+        {
+          "eng": "You look tired; you should rest for a while.",
+          "ch": "你看起來很累；你應該休息一會兒。"
+        }
+      ]
+    },
+    {
+      "eng": "restaurant",
+      "kk": "/ˈrɛstərənt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "餐廳",
+          "餐館"
+        ]
+      ],
+      "analysis": "此字源自法語 restaurant（原意為「使恢復體力的食物／滋補品」，由 restaurer「修復、恢復」的分詞形式演變而來）。現代指提供餐點供顧客付費享用的場所。",
+      "definition": "1. a place where people pay to sit and eat meals that are cooked and served on the premises.",
+      "example": [
+        {
+          "eng": "They celebrated their anniversary at a nice Italian restaurant.",
+          "ch": "他們在一家不錯的義大利餐廳慶祝他們的結婚紀念日。"
+        }
+      ]
+    },
+    {
+      "eng": "rice",
+      "kk": "/raɪs/",
+      "tense": "n.",
+      "ch": [
+        [
+          "米",
+          "稻米",
+          "米飯"
+        ]
+      ],
+      "analysis": "此字經由中古英語及古法語 (ris) 借自義大利語 riso 或古希臘語 oruza（源自古波斯語或更早的東方語源）。現代指作為主食的穀物及米飯。",
+      "definition": "1. the starchy seeds of a cereal plant that are cooked and eaten as a staple food.",
+      "example": [
+        {
+          "eng": "Steamed rice is a staple food in many Asian countries.",
+          "ch": "蒸米飯是許多亞洲國家的主食。"
+        }
+      ]
+    },
+    {
+      "eng": "rich",
+      "kk": "/rɪtʃ/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "富有的"
+        ],
+        [
+          "豐富的"
+        ],
+        [
+          "油膩的",
+          "濃郁的"
+        ]
+      ],
+      "analysis": "源自古英語 rīce（強大的、富有的），屬日耳曼語源（源自原始日耳曼語 *rīkijaz）。現代形容詞指擁有大量財富、資源豐富，或食物濃郁滋補。",
+      "definition": "1. having a great deal of money or assets; 2. abundantly supplied with something; 3. containing a lot of butter, cream, or sugar.",
+      "example": [
+        {
+          "eng": "He became one of the richest men in the country.",
+          "ch": "他成了國內最富有的人之一。"
+        },
+        {
+          "eng": "The soil in this valley is rich and fertile.",
+          "ch": "這個山谷的土壤肥沃。"
+        },
+        {
+          "eng": "The chocolate cake was too rich for me.",
+          "ch": "這塊巧克力蛋糕對我來說太濃郁油膩了。"
+        }
+      ]
+    },
+    {
+      "eng": "ride",
+      "kk": "/raɪd/",
+      "tense": "n.",
+      "ch": [
+        [
+          "搭乘",
+          "行程"
+        ]
+      ],
+      "analysis": "由動詞 ride 轉化而成的名詞，指搭乘交通工具的過程或遊樂設施。",
+      "definition": "1. a journey made on a horse, bicycle, or in a vehicle.",
+      "example": [
+        {
+          "eng": "Thank you for giving me a ride to the station.",
+          "ch": "謝謝你載我去車站。"
+        }
+      ]
+    },
+    {
+      "eng": "ride",
+      "kk": "/raɪd/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "騎",
+          "乘坐"
+        ]
+      ],
+      "analysis": "ride 的及物動詞用法，直接接受詞（如 bicycle, horse, bus）。",
+      "definition": "1. to travel by sitting on or in something and controlling it.",
+      "example": [
+        {
+          "eng": "He rides his bike to school every day.",
+          "ch": "他每天騎單車上學。"
+        }
+      ]
+    },
+    {
+      "eng": "ride",
+      "kk": "/raɪd/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "騎",
+          "乘車"
+        ]
+      ],
+      "analysis": "源自古英語 rīdan（騎馬、乘車出行），屬日耳曼語源。現代作不及物動詞，指騎馬、騎單車或搭乘交通工具。",
+      "definition": "1. to sit on and control the movement of a horse or bicycle, or travel as a passenger in a vehicle.",
+      "example": [
+        {
+          "eng": "She learned how to ride a horse when she was young.",
+          "ch": "她年輕時學會了騎馬。"
+        }
+      ]
+    },
+    {
+      "eng": "right",
+      "kk": "/raɪt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "權利"
+        ],
+        [
+          "右邊"
+        ]
+      ],
+      "analysis": "源自古英語 riht 的名詞用法，指法律或道德賦予個人的權利，或空間上的右側。",
+      "definition": "1. a moral or legal entitlement to have or do something; 2. the right-hand side or direction.",
+      "example": [
+        {
+          "eng": "Every citizen has the right to free speech.",
+          "ch": "每個公民都有言論自由的權利。"
+        }
+      ]
+    },
+    {
+      "eng": "right",
+      "kk": "/raɪt/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "正確的",
+          "恰當的"
+        ],
+        [
+          "右邊的"
+        ]
+      ],
+      "analysis": "源自古英語 riht（正的、直的、正當的），屬日耳曼語源（源自印歐語根 *reg-「直線引導」）。現代形容詞有多重義，包括數學計算正確、方向朝右、或符合道德標準。",
+      "definition": "1. morally good, justified, or acceptable, or true and correct as a fact; 2. located on the side of the body that is toward the east when one is facing north.",
+      "example": [
+        {
+          "eng": "You made the right decision to quit that job.",
+          "ch": "你做出了辭掉那份工作的正確決定。"
+        },
+        {
+          "eng": "Turn right at the next traffic light.",
+          "ch": "在下一個紅綠燈右轉。"
+        }
+      ]
+    },
+    {
+      "eng": "right",
+      "kk": "/raɪt/",
+      "tense": "adv.",
+      "ch": [
+        [
+          "準確地",
+          "直接地"
+        ]
+      ],
+      "analysis": "由形容詞 right 衍生而來的副詞，表示剛好、直接或精確的方位。",
+      "definition": "1. exactly or precisely; directly.",
+      "example": [
+        {
+          "eng": "She parked the car right in front of the building.",
+          "ch": "她把車停在大樓正前方。"
+        }
+      ]
+    },
+    {
+      "eng": "ring",
+      "kk": "/rɪŋ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "戒指",
+          "環形物"
+        ],
+        [
+          "鈴聲"
+        ]
+      ],
+      "analysis": "源自古英語 hring（環狀飾物）與 hringan（發出鐘聲），屬日耳曼語源。名詞涵蓋飾品戒指、環形場地與電話或鈴的響聲。",
+      "definition": "1. a small circular band, typically of precious metal, worn on a finger; 2. a sound made by a bell or telephone.",
+      "example": [
+        {
+          "eng": "He gave her a diamond engagement ring.",
+          "ch": "他送了她一枚鑽石訂婚戒。"
+        },
+        {
+          "eng": "I heard the phone ring, but I missed the call.",
+          "ch": "我聽到電話鈴響，但我漏接了那通電話。"
+        }
+      ]
+    },
+    {
+      "eng": "ring",
+      "kk": "/rɪŋ/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "打電話給",
+          "使發出鈴聲"
+        ]
+      ],
+      "analysis": "ring 的及物動詞用法，指撥打電話給某人或使鈴鐺作響。",
+      "definition": "1. to make a bell sound, or to telephone someone.",
+      "example": [
+        {
+          "eng": "I will ring you up later this evening.",
+          "ch": "我今天傍晚再打電話給你。"
+        }
+      ]
+    },
+    {
+      "eng": "ring",
+      "kk": "/rɪŋ/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "鳴響",
+          "打電話"
+        ]
+      ],
+      "analysis": "ring 的不及物動詞用法（過去式 rang, 過去分詞 rung），指鈴聲響起或通話響鈴。",
+      "definition": "1. to make a clear resonant sound like that of a bell, or to make a phone call.",
+      "example": [
+        {
+          "eng": "The school bell rang to signal the end of class.",
+          "ch": "學校的鐘聲響起，標誌著下課。"
+        }
+      ]
+    },
+    {
+      "eng": "rise",
+      "kk": "/raɪz/",
+      "tense": "n.",
+      "ch": [
+        [
+          "上升",
+          "增加"
+        ]
+      ],
+      "analysis": "由動詞 rise 轉化而成的名詞，指數量、價格或地位的提升。",
+      "definition": "1. an upward movement; an increase in number, amount, or value.",
+      "example": [
+        {
+          "eng": "There has been a steady rise in temperatures this summer.",
+          "ch": "今年夏天氣溫持續上升。"
+        }
+      ]
+    },
+    {
+      "eng": "rise",
+      "kk": "/raɪz/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "升起",
+          "上升"
+        ],
+        [
+          "起床"
+        ]
+      ],
+      "analysis": "源自古英語 rīsan（升起、起立），屬日耳曼語源。現代作不及物動詞，指天體升起、數值上升或人從床上站起來。",
+      "definition": "1. to move from a lower position to a higher one; 2. to get up from sleep or a sitting position.",
+      "example": [
+        {
+          "eng": "The sun rises in the east every morning.",
+          "ch": "太陽每天早晨從東方升起。"
+        },
+        {
+          "eng": "She usually rises at six o'clock to exercise.",
+          "ch": "她通常在六點起床運動。"
+        }
+      ]
+    },
+    {
+      "eng": "river",
+      "kk": "/ˈrɪvər/",
+      "tense": "n.",
+      "ch": [
+        [
+          "河流"
+        ]
+      ],
+      "analysis": "此字經由中古英語借自古法語 rivière，源自晚期拉丁語 riparia（河岸，由 ripa「岸」衍生而來）。現代指大型天然水道。",
+      "definition": "1. a large natural stream of water flowing in a channel to the sea, a lake, or another such stream.",
+      "example": [
+        {
+          "eng": "The Amazon River is the largest river in the world by water volume.",
+          "ch": "亞馬遜河是世界上水量最大的河流。"
+        }
+      ]
+    }
+  ]
+}

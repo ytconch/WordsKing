@@ -1,0 +1,1189 @@
+{
+  "level": 5,
+  "chunkIndex": 9,
+  "inputs": [
+    "fraction",
+    "fragment",
+    "framework",
+    "franchise",
+    "fraud",
+    "freight",
+    "frontier",
+    "galaxy",
+    "gasp",
+    "gathering",
+    "generate",
+    "generator",
+    "genetic",
+    "genetics",
+    "genre",
+    "glare",
+    "gloomy",
+    "gorgeous",
+    "grant",
+    "graphic",
+    "gravity",
+    "greed",
+    "grieve",
+    "grill",
+    "grim",
+    "grip",
+    "gross",
+    "guideline",
+    "gut",
+    "habitat",
+    "haul",
+    "hazard",
+    "heir",
+    "hence",
+    "herb",
+    "heritage",
+    "highlight",
+    "hockey",
+    "honorable",
+    "horizontal",
+    "hormone",
+    "hostage",
+    "hostile",
+    "hostility",
+    "housing",
+    "howl",
+    "hypothesis",
+    "icon",
+    "ideology",
+    "idiot"
+  ],
+  "rows": [
+    {
+      "eng": "fraction",
+      "kk": "[ˈfrækʃən]",
+      "tense": "n.",
+      "ch": [
+        [
+          "分數",
+          "數學分數"
+        ],
+        [
+          "小部分",
+          "部分",
+          "碎片"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞或經由中古法語借自拉丁語的名詞，源自拉丁語 frangere（意為 to break，打破、折斷），加上名詞字尾 -ion（表示動作或結果）。歷史語義由「打破的動作或狀態」演變為「被打破後的一小部分」，在數學領域則引申指「分子與分母構成的分數」。",
+      "definition": "1. a numerical quantity that is not a whole number; 2. a small part or amount of something.",
+      "example": [
+        {
+          "eng": "One-half is written as the fraction 1/2.",
+          "ch": "二分之一寫作分數 1/2。"
+        },
+        {
+          "eng": "She finished the work in a fraction of the time.",
+          "ch": "她只花了極小部分的時間就完成了工作。"
+        }
+      ]
+    },
+    {
+      "eng": "fragment",
+      "kk": "[ˈfræɡmənt]",
+      "tense": "n.",
+      "ch": [
+        [
+          "碎片",
+          "破片",
+          "殘片"
+        ]
+      ],
+      "analysis": "此字為名詞，源自拉丁語 fragmentum（意為 piece broken off，碎片），其根本源自動詞 frangere（打破、折斷），加上名詞字尾 -ment（表示工具或結果）。語義直接延續自根源的「打破、破裂後的殘留物」，可指實體物品的碎片，亦可抽象指資訊、語言的片段。",
+      "definition": "1. a small part broken or separated off something.",
+      "example": [
+        {
+          "eng": "Fragments of glass were scattered on the floor.",
+          "ch": "玻璃碎片散落在地板上。"
+        }
+      ]
+    },
+    {
+      "eng": "framework",
+      "kk": "[ˈfreɪmˌwɝk]",
+      "tense": "n.",
+      "ch": [
+        [
+          "框架",
+          "結構",
+          "體系"
+        ]
+      ],
+      "analysis": "此字為現代透明複合詞，由 frame（名詞，框架、構架）與 work（名詞，工作、結構物）組合而成。字面義為「支撐結構的構架」，引申為支撐理論、系統、計畫或組織的基本結構或準則體系。",
+      "definition": "1. an underlying structure or set of rules used as a basis for supporting or enclosing something.",
+      "example": [
+        {
+          "eng": "The new law provides a legal framework for the industry.",
+          "ch": "新法律為該產業提供了法律框架。"
+        }
+      ]
+    },
+    {
+      "eng": "franchise",
+      "kk": "[ˈfrænˌtʃaɪz]",
+      "tense": "n.",
+      "ch": [
+        [
+          "經銷權",
+          "加盟店",
+          "特許經營權"
+        ],
+        [
+          "選舉權",
+          "投票權"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古法語 franchise（意為 freedom、liberty，自由、特權），衍生自法語形容詞 franc（自由的、免除的）。歷史演變上，原指免除賦稅或獲得特定自由權利的法律特權，現代主要指商業上的「特許經營權、加盟店」以及政治學上的「選舉權、投票權」。",
+      "definition": "1. authorization granted by a company to sell its goods or services in a particular format; 2. the right to vote in public elections.",
+      "example": [
+        {
+          "eng": "He owns several fast-food franchises in the city.",
+          "ch": "他在城裡擁有幾家速食加盟店。"
+        },
+        {
+          "eng": "The expansion of the franchise allowed more citizens to vote.",
+          "ch": "選舉權的擴大允許更多公民投票。"
+        }
+      ]
+    },
+    {
+      "eng": "fraud",
+      "kk": "[frɔd]",
+      "tense": "n.",
+      "ch": [
+        [
+          "詐欺",
+          "欺騙",
+          "騙子"
+        ]
+      ],
+      "analysis": "此字為名詞，經由中古法語 fraude 借自拉丁語 fraus（屬格 fraudis，意為 deceit、injury，欺騙、損害）。歷史語義指蓄意透過欺騙手段獲取不當利益的行為，亦可指犯下詐欺罪的騙子本人。",
+      "definition": "1. wrongful or criminal deception intended to result in financial or personal gain.",
+      "example": [
+        {
+          "eng": "He was convicted of credit card fraud.",
+          "ch": "他因信用卡詐欺被判有罪。"
+        }
+      ]
+    },
+    {
+      "eng": "freight",
+      "kk": "[fret]",
+      "tense": "n.",
+      "ch": [
+        [
+          "貨運",
+          "貨物"
+        ]
+      ],
+      "analysis": "此字為名詞，源自中古荷蘭語或中古低地德語 vrecht，與中世紀拉丁語釋義或古法語有歷史交錯。歷史語義原指海上或陸上運輸的貨物，或指運送貨物的費用，現代廣泛用於指透過火車、貨車、船隻等運送的大宗貨物或貨運服務。",
+      "definition": "1. goods transported in bulk by truck, train, ship, or aircraft.",
+      "example": [
+        {
+          "eng": "The factory ships its products by freight train.",
+          "ch": "這家工廠透過貨運火車運送他們的產品。"
+        }
+      ]
+    },
+    {
+      "eng": "frontier",
+      "kk": "[frʌnˈtɪr]",
+      "tense": "n.",
+      "ch": [
+        [
+          "邊境",
+          "邊界"
+        ],
+        [
+          "前沿",
+          "未開發領域"
+        ]
+      ],
+      "analysis": "此字為名詞，源自中古法語 frontière，基於 front（額頭、前部，源自拉丁語 frons）。歷史語義由「軍隊或國家的最前端、正面」演變為「國家之間的邊界、邊境」，進一步在美國歷史與學術脈絡中引申為「尚未完全開發的地區」或「科學與知識的前沿領域」。",
+      "definition": "1. a border separating two countries; 2. the extreme limit of settled land or scientific understanding.",
+      "example": [
+        {
+          "eng": "They traveled to the remote frontier between the two nations.",
+          "ch": "他們旅行到兩國之間的偏遠邊境。"
+        },
+        {
+          "eng": "Space is often called the final frontier.",
+          "ch": "太空常被稱為最後的未開發領域。"
+        }
+      ]
+    },
+    {
+      "eng": "galaxy",
+      "kk": "[ˈɡæləksi]",
+      "tense": "n.",
+      "ch": [
+        [
+          "星系",
+          "銀河系"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古希臘語 galaxias（ κύκλος，意為 milky circle，乳白色的圓圈），源自 gala（奶、乳）。歷史語義最初專指夜空中的「銀河」（Milky Way），因其外觀如灑落的乳汁；現代科學發展後，泛指由數百億甚至數千億顆恆星、氣體和塵埃組成的巨大「星系」。",
+      "definition": "1. a system of millions or billions of stars, together with gas and dust, held together by gravitational attraction.",
+      "example": [
+        {
+          "eng": "Our solar system is located in the Milky Way galaxy.",
+          "ch": "我們的太陽系位於銀河系中。"
+        }
+      ]
+    },
+    {
+      "eng": "gasp",
+      "kk": "[ɡæsp]",
+      "tense": "vi.",
+      "ch": [
+        [
+          "喘氣",
+          "倒抽一口氣",
+          "喘息"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，源自斯堪地那維亞語源（與古諾斯語 geispa 相關）。歷史語義指因驚訝、恐懼、疼痛或呼吸困難而突然用力吸氣或喘息的生理動作，句型上為不及物用法，不接直接受詞。",
+      "definition": "1. catch one's breath with an open mouth, often due to pain, shock, or exhaustion.",
+      "example": [
+        {
+          "eng": "She gasped in astonishment when she saw the gift.",
+          "ch": "她看到禮物時驚訝得倒抽了一口氣。"
+        }
+      ]
+    },
+    {
+      "eng": "gathering",
+      "kk": "[ˈɡæðərɪŋ]",
+      "tense": "n.",
+      "ch": [
+        [
+          "聚會",
+          "集會"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 gather（聚集）加上名詞化字尾 -ing 形成。歷史語義由「聚集的動作」演變為「人們聚集在一起的活動或社交聚會」。",
+      "definition": "1. an assembly or meeting of people for a particular purpose.",
+      "example": [
+        {
+          "eng": "Family gatherings are always joyful during the holidays.",
+          "ch": "假日期間的家庭聚會總是令人愉快的。"
+        }
+      ]
+    },
+    {
+      "eng": "generate",
+      "kk": "[ˈdʒɛnəˌreɪt]",
+      "tense": "vt.",
+      "ch": [
+        [
+          "產生",
+          "引起",
+          "發電"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自拉丁語 generatus（動詞 generare 的過去分詞，意為 to beget, produce，生育、產生），根源為 genus（種、類）。歷史語義由生物學上的「繁衍、生育」擴大為一般抽象或物理上的「產生、引起、發出（如熱能、電能、收入等）」，為及物動詞，須接直接受詞。",
+      "definition": "1. cause something, especially an action, process, or feeling, to arise or come about; 2. produce energy.",
+      "example": [
+        {
+          "eng": "The new wind farm will generate electricity for thousands of homes.",
+          "ch": "這座新的風力發電場將為數千戶家庭發電。"
+        }
+      ]
+    },
+    {
+      "eng": "generator",
+      "kk": "[ˈdʒɛnəˌreɪtɚ]",
+      "tense": "n.",
+      "ch": [
+        [
+          "發電機",
+          "產生器"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 generate（產生、發電）加上表示人的字尾或工具名詞字尾 -or 形成。歷史語義指「產生某物的事物」，在現代技術中專門指將機械能轉換為電能的「發電機」。",
+      "definition": "1. a machine by which mechanical energy is changed into electrical energy.",
+      "example": [
+        {
+          "eng": "The hospital turned on the backup generator during the blackout.",
+          "ch": "停電期間醫院啟動了備用發電機。"
+        }
+      ]
+    },
+    {
+      "eng": "genetic",
+      "kk": "[dʒəˈnɛtɪk]",
+      "tense": "adj.",
+      "ch": [
+        [
+          "基因的",
+          "遺傳學的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自希臘語 genesis（起源、發生），搭配形容詞字尾 -ic。近代科學中衍生出專門指涉生物「基因（gene）」與「遺傳」相關的形容詞，用以修飾疾病、工程或特徵。",
+      "definition": "1. relating to genes or heredity.",
+      "example": [
+        {
+          "eng": "Scientists are studying the genetic code of the virus.",
+          "ch": "科學家們正在研究該病毒的基因密碼。"
+        }
+      ]
+    },
+    {
+      "eng": "genetics",
+      "kk": "[dʒəˈnɛtɪks]",
+      "tense": "n.",
+      "ch": [
+        [
+          "遺傳學"
+        ]
+      ],
+      "analysis": "此字為名詞，由 genetic 加上表示學科的複數形名詞字尾 -ics 形成。歷史語義專門指研究生物遺傳與基因變異的科學學科。",
+      "definition": "1. the study of heredity and the variation of inherited characteristics.",
+      "example": [
+        {
+          "eng": "She is a professor of genetics at the university.",
+          "ch": "她是該大學的遺傳學教授。"
+        }
+      ]
+    },
+    {
+      "eng": "genre",
+      "kk": "[ˈʒɑnrə]",
+      "tense": "n.",
+      "ch": [
+        [
+          "類型",
+          "流派",
+          "體裁"
+        ]
+      ],
+      "analysis": "此字為名詞，直接借自法語 genre（意為 kind, sort, gender，種類、性別），與拉丁語 genus 同源。在英語中專門用來指文學、藝術、音樂或電影等創作形式的「類型、流派或體裁」。",
+      "definition": "1. a category of artistic composition, as in music or literature, characterized by similarities in form, style, or subject matter.",
+      "example": [
+        {
+          "eng": "Science fiction is my favorite literary genre.",
+          "ch": "科幻小說是我最喜歡的文學類型。"
+        }
+      ]
+    },
+    {
+      "eng": "glare",
+      "kk": "[ɡlɛr]",
+      "tense": "vi.",
+      "ch": [
+        [
+          "怒視",
+          "瞪"
+        ],
+        [
+          "發出刺眼的光",
+          "強烈反光"
+        ]
+      ],
+      "analysis": "此字為動詞，早期日耳曼語源。作為不及物動詞時，主要有兩個核心義：一是「憤怒地瞪視、怒視」，二是「發出刺眼、強烈的強光」。作為不及物動詞，不直接接賓語，常搭配介詞如 at。",
+      "definition": "1. stare in an angry or fierce way; 2. shine with a strong or dazzling light.",
+      "example": [
+        {
+          "eng": "He glared at the man who cut in front of him.",
+          "ch": "他怒視著插隊的那個人。"
+        },
+        {
+          "eng": "The sun glared down on the desert sand.",
+          "ch": "太陽猛烈地照射著沙漠的沙子。"
+        }
+      ]
+    },
+    {
+      "eng": "gloomy",
+      "kk": "[ˈɡlumi]",
+      "tense": "adj.",
+      "ch": [
+        [
+          "陰暗的",
+          "陰沉的"
+        ],
+        [
+          "沮喪的",
+          "悲觀的"
+        ]
+      ],
+      "analysis": "此字為形容詞，由名詞 gloom（陰暗、憂鬱）加上形容詞字尾 -y 形成。語義由物理上的「光線不足、陰暗晦澀」延伸至心理上的「心情低落、悲觀絕望或氣氛陰沉」。",
+      "definition": "1. dark or poorly lit, especially so as to appear depressing or frightening; 2. feeling distressed or pessimistic.",
+      "example": [
+        {
+          "eng": "They walked through the gloomy forest under a cloudy sky.",
+          "ch": "他們在多雲的天空下走過陰暗的森林。"
+        },
+        {
+          "eng": "The economic report painted a gloomy picture for the future.",
+          "ch": "經濟報告為未來描繪了一幅悲觀的景象。"
+        }
+      ]
+    },
+    {
+      "eng": "gorgeous",
+      "kk": "[ˈɡɔrdʒəs]",
+      "tense": "adj.",
+      "ch": [
+        [
+          "華麗的",
+          "美麗動人的",
+          "極好的"
+        ]
+      ],
+      "analysis": "此字為形容詞，經由中古法語 gorgias（意為 elegant, fond of finery，愛裝飾的、漂亮的）演變而來。歷史語義由最初的「衣着華麗、過分裝飾」演變為現代泛指外表極其美麗動人、風景壯麗或事物非常棒、令人愉悅。",
+      "definition": "1. very attractive and beautiful; magnificent.",
+      "example": [
+        {
+          "eng": "We had gorgeous weather during our vacation.",
+          "ch": "我們度假期間遇到了極好的天氣。"
+        }
+      ]
+    },
+    {
+      "eng": "grant",
+      "kk": "[ɡrænt]",
+      "tense": "vt.",
+      "ch": [
+        [
+          "准許",
+          "給予",
+          "授予"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自古法語 granter、creanter（意為 to agree, permit, guarantee，同意、允許）。歷史語義由古代法律或官方文件中的「正式同意請求、特許或給予權利／經費」，演變為現代日常的「准許、授予或承認（某事為真）」，為及物動詞，須接直接受詞。",
+      "definition": "1. agree to give or allow something requested to someone.",
+      "example": [
+        {
+          "eng": "The university granted her a scholarship for her studies.",
+          "ch": "大學授予她一份獎學金以供學業之用。"
+        }
+      ]
+    },
+    {
+      "eng": "graphic",
+      "kk": "[ˈɡræfɪk]",
+      "tense": "adj.",
+      "ch": [
+        [
+          "圖表的",
+          "繪圖的"
+        ],
+        [
+          "生動的",
+          "寫實的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自希臘語 graphikos（與寫字、繪畫有關），源自 graphein（書寫、繪畫）。歷史語義由「與書寫、圖畫相關的」演變為「用圖像或圖表表達的」，並引申出描述文字或畫面極其「生動逼真、歷歷在目」（特別是用於描述暴力或性愛場景時的寫實）。",
+      "definition": "1. relating to visual art, especially involving drawing, engraving, or lettering; 2. vividly or graphically descriptive.",
+      "example": [
+        {
+          "eng": "The report includes graphic charts to illustrate the data.",
+          "ch": "該報告包含用以說明數據的圖表。"
+        },
+        {
+          "eng": "The movie contains graphic scenes of violence.",
+          "ch": "這部電影包含血腥寫實的暴力鏡頭。"
+        }
+      ]
+    },
+    {
+      "eng": "gravity",
+      "kk": "[ˈɡrævəti]",
+      "tense": "n.",
+      "ch": [
+        [
+          "重力",
+          "引力"
+        ],
+        [
+          "嚴重性",
+          "嚴肅"
+        ]
+      ],
+      "analysis": "此字為名詞，經由中古法語借自拉丁語 gravitas（意為 weight, heaviness, dignity，重量、嚴肅），源自 gravis（重、沉重）。歷史語義最初指物理上的「重量與地球引力」，隨後在抽象語境中引申指形勢或問題的「嚴重性、嚴肅性」。",
+      "definition": "1. the force that attracts a body toward the center of the earth; 2. extreme importance or seriousness.",
+      "example": [
+        {
+          "eng": "Objects fall to the ground due to gravity.",
+          "ch": "物體因為重力而落向地面。"
+        },
+        {
+          "eng": "Few people understood the gravity of the situation.",
+          "ch": "很少人理解局勢的嚴重性。"
+        }
+      ]
+    },
+    {
+      "eng": "greed",
+      "kk": "[ɡrid]",
+      "tense": "n.",
+      "ch": [
+        [
+          "貪婪",
+          "貪心"
+        ]
+      ],
+      "analysis": "此字為名詞，是由古英語動詞 grēdigan 或形容詞類推派生而來的名詞形式。歷史語義指對財食、權力或物質財富無止境的強烈渴望與貪婪。",
+      "definition": "1. intense and selfish desire for something, especially wealth, power, or food.",
+      "example": [
+        {
+          "eng": "His financial crimes were driven by sheer greed.",
+          "ch": "他的金融犯罪是由純粹的貪婪所驅使的。"
+        }
+      ]
+    },
+    {
+      "eng": "grieve",
+      "kk": "[ɡriv]",
+      "tense": "vi.",
+      "ch": [
+        [
+          "悲傷",
+          "哀痛",
+          "悼念"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，經由中古法語 grever（意為 to burden, afflict，加重負擔、使痛苦）源自拉丁語 gravare（使沉重、使受苦）。歷史語義由「使人痛苦」轉變為主動的「感到悲傷、哀悼（通常搭配介詞 over 或 for）」，為不及物動詞用法。",
+      "definition": "1. feel or show intense sorrow, especially over someone's death.",
+      "example": [
+        {
+          "eng": "She needed time to grieve after the loss of her pet.",
+          "ch": "她在失去寵物後需要時間來悲傷。"
+        }
+      ]
+    },
+    {
+      "eng": "grill",
+      "kk": "[ɡrɪl]",
+      "tense": "vt.",
+      "ch": [
+        [
+          "烤",
+          "燒烤"
+        ],
+        [
+          "嚴厲盤問",
+          "審訊"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自古法語 gril（烤架），源自拉丁語 craticulum（小柵欄、烤架）。作為及物動詞，一義指在金屬烤架上「炙烤食物」，二義由烤架的金屬條聯想引申為比喻義的「長時間嚴厲盤問、審訊」，均為及物動詞，須接直接受詞。",
+      "definition": "1. cook food on a metal frame over a fire; 2. subject someone to intense questioning.",
+      "example": [
+        {
+          "eng": "He likes to grill steaks for his friends in the summer.",
+          "ch": "他喜歡在夏天為朋友烤牛排。"
+        },
+        {
+          "eng": "The police continued to grill the suspect for hours.",
+          "ch": "警察連續幾個小時嚴厲盤問嫌疑人。"
+        }
+      ]
+    },
+    {
+      "eng": "grim",
+      "kk": "[ɡrɪm]",
+      "tense": "adj.",
+      "ch": [
+        [
+          "嚴厲的",
+          "冷酷的"
+        ],
+        [
+          "令人沮喪的",
+          "殘酷的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自古英語 grim（意為 fierce, savage, severe，兇猛的、嚴厲的），屬日耳曼語源。歷史語義由「外表凶惡、面目可憎或嚴厲無情」演變為形勢「殘酷、令人沮喪或不容樂觀」。",
+      "definition": "1. forbidding or uninviting; 2. serious or alarming in appearance or effect.",
+      "example": [
+        {
+          "eng": "The commander had a grim expression on his face.",
+          "ch": "指揮官臉上帶著嚴肅冷酷的表情。"
+        },
+        {
+          "eng": "The economic forecast looks grim for small businesses.",
+          "ch": "經濟預測對小型企業來說顯得相當嚴峻令人沮喪。"
+        }
+      ]
+    },
+    {
+      "eng": "grip",
+      "kk": "[ɡrɪp]",
+      "tense": "vt.",
+      "ch": [
+        [
+          "緊握",
+          "抓緊"
+        ],
+        [
+          "吸引",
+          "扣人心弦"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自古英語 grippan 或相關日耳曼語源（意為 to seize，抓取）。作為及物動詞，一義指用手「緊緊抓住、握牢」，二義抽象引申為情感或情勢「深深吸引、扣人心弦或緊緊控制（某人）」，須接直接受詞。",
+      "definition": "1. take and keep a firm hold of; 2. hold the attention or interest strongly.",
+      "example": [
+        {
+          "eng": "He gripped the steering wheel tightly as the car skidded.",
+          "ch": "車子打滑時他緊緊握住方向盤。"
+        },
+        {
+          "eng": "The mystery novel gripped readers from the very first page.",
+          "ch": "這本懸疑小說從第一頁就緊緊吸引了讀者的目光。"
+        }
+      ]
+    },
+    {
+      "eng": "gross",
+      "kk": "[ɡros]",
+      "tense": "adj.",
+      "ch": [
+        [
+          "總的",
+          "毛的（指未扣除成本）"
+        ],
+        [
+          "令人作嘔的",
+          "粗俗的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自中古法語 gros，源自低拉丁語 grossus（厚重的、粗大的）。歷史語義從最初的「大而厚重的、粗魯的」發展出雙重主要現代義：在商業財經中指「總計的、未扣除成本的（如 gross income）」，在日常口語中指「極度討厭、令人作嘔的或粗俗不堪的」。",
+      "definition": "1. (of income, profit, etc.) overall, without deduction; 2. unattractive, vulgar, or extremely unpleasant.",
+      "example": [
+        {
+          "eng": "Her gross annual salary is higher than she expected.",
+          "ch": "她每年的稅前總薪資比預期的要高。"
+        },
+        {
+          "eng": "Eating raw bugs sounds absolutely gross.",
+          "ch": "吃生昆蟲聽起來簡直令人作嘔。"
+        }
+      ]
+    },
+    {
+      "eng": "guideline",
+      "kk": "[ˈɡaɪdˌlaɪn]",
+      "tense": "n.",
+      "ch": [
+        [
+          "指導方針",
+          "準則",
+          "參考原則"
+        ]
+      ],
+      "analysis": "此字為現代透明複合詞，由 guide（指導、引導）與 line（線條、界線）組成。最初指用於測量或引導建築作業的實體線，後引申為在決策、行動或學術研究中提供方向的「指導方針、準則」。",
+      "definition": "1. a general rule, principle, or piece of advice guiding actions or behavior.",
+      "example": [
+        {
+          "eng": "The committee issued new guidelines for workplace safety.",
+          "ch": "委員會發布了工作場所安全的新指導方針。"
+        }
+      ]
+    },
+    {
+      "eng": "gut",
+      "kk": "[ɡʌt]",
+      "tense": "n.",
+      "ch": [
+        [
+          "腸",
+          "消化道"
+        ],
+        [
+          "直覺",
+          "膽識"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古英語 guttas（複數形，意為 guts, intestines，腸子），屬日耳曼語源。歷史語義由實體的「動物或人體的腸子」引申為代表內在情感與本能的「直覺、膽識」（如 gut feeling），在複數形中亦可指勇氣與魄力。",
+      "definition": "1. the stomach or belly, or the intestines; 2. one's innermost feeling or instinct.",
+      "example": [
+        {
+          "eng": "He felt a sharp pain in his gut.",
+          "ch": "他感覺腹部一陣劇痛。"
+        },
+        {
+          "eng": "My gut feeling tells me we should trust her.",
+          "ch": "我的直覺告訴我們應該信任她。"
+        }
+      ]
+    },
+    {
+      "eng": "habitat",
+      "kk": "[ˈhæbəˌtæt]",
+      "tense": "n.",
+      "ch": [
+        [
+          "棲息地",
+          "自然環境"
+        ]
+      ],
+      "analysis": "此字為名詞，直接借自拉丁語 habitat（意為 it dwells, it inhabits，居住），源自動詞 habitare（居住）。歷史語義專指植物或動物自然生長、繁衍的「棲息地或自然環境」。",
+      "definition": "1. the natural home or environment of an animal, plant, or other organism.",
+      "example": [
+        {
+          "eng": "Deforestation destroys the natural habitat of many wild animals.",
+          "ch": "森林砍伐破壞了許多野生動物的自然棲息地。"
+        }
+      ]
+    },
+    {
+      "eng": "haul",
+      "kk": "[hɔl]",
+      "tense": "n.",
+      "ch": [
+        [
+          "獲得的贓物",
+          "漁獲量",
+          "路程"
+        ]
+      ],
+      "analysis": "此字作為名詞時，源自中古英語 halen（經由古法語或日耳曼語源）。歷史語義由「拖拉的動作」演變為指一次拖拉所獲得的收穫（如漁獲量、贓物、戰利品）或運送的過程與路程。",
+      "definition": "1. an amount of stolen goods, fish, or something obtained by a strenuous effort.",
+      "example": [
+        {
+          "eng": "The police recovered a huge haul of stolen jewelry.",
+          "ch": "警方尋獲了一大批被竊珠寶。"
+        }
+      ]
+    },
+    {
+      "eng": "haul",
+      "kk": "[hɔl]",
+      "tense": "vt.",
+      "ch": [
+        [
+          "拖運",
+          "用力拉",
+          "載運"
+        ]
+      ],
+      "analysis": "此字作為及物動詞時，源自中古英語 halen。歷史語義指用大力氣將重物「拖拉、移動或載運」，句型上為及物動詞，須接直接受詞。",
+      "definition": "1. pull or drag with a lot of effort; transport heavy loads.",
+      "example": [
+        {
+          "eng": "They had to haul the broken car off the road.",
+          "ch": "他們不得不把故障的汽車拖離道路。"
+        }
+      ]
+    },
+    {
+      "eng": "haul",
+      "kk": "[hɔl]",
+      "tense": "vi.",
+      "ch": [
+        [
+          "進行拖運",
+          "改變航向"
+        ]
+      ],
+      "analysis": "此字作為不及物動詞時，源自中古英語 halen。歷史語義指進行拖拉、載運作業，或在航海中指船隻改變航向，為不及物動詞用法。",
+      "definition": "1. engage in pulling or transporting loads, or change direction (of a ship or wind).",
+      "example": [
+        {
+          "eng": "The heavy trucks haul along the coastal highway every night.",
+          "ch": "大卡車每晚都在沿海公路上進行載運作業。"
+        }
+      ]
+    },
+    {
+      "eng": "hazard",
+      "kk": "[ˈhæzɚd]",
+      "tense": "n.",
+      "ch": [
+        [
+          "危險",
+          "危害物"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古法語 hasard，最早可追溯至阿拉伯語（源自西班牙語發音的骰子遊戲名），在中世紀指一種擲骰子遊戲，因充滿不確定性與風險，後來語義演變為「危險、冒險、可能導致危害的因素」。",
+      "definition": "1. a danger or risk.",
+      "example": [
+        {
+          "eng": "Icy roads are a major hazard for drivers in winter.",
+          "ch": "結冰的道路是冬天駕駛的一大危險因素。"
+        }
+      ]
+    },
+    {
+      "eng": "heir",
+      "kk": "[ɛr]",
+      "tense": "n.",
+      "ch": [
+        [
+          "繼承人"
+        ]
+      ],
+      "analysis": "此字為名詞（字首 h 不發音），源自中古法語 heir，源自拉丁語 heres（遺產繼承人）。歷史語義指依法有權繼承他人財產、頭銜或王位的人。",
+      "definition": "1. a person legally entitled to the property or rank of another on that person's death.",
+      "example": [
+        {
+          "eng": "He is the sole heir to a vast fortune.",
+          "ch": "他是龐大財產的唯一繼承人。"
+        }
+      ]
+    },
+    {
+      "eng": "hence",
+      "kk": "[hɛns]",
+      "tense": "adv.",
+      "ch": [
+        [
+          "因此",
+          "所以",
+          "從此以後"
+        ]
+      ],
+      "analysis": "此字為副詞，源自古英語 heonan（意為 from here，從這裡、從此）。歷史語義由空間上的「從此處出發」演變為時間上的「從現在起」，並進一步在邏輯上引申為「因此、所以、基於這個原因」，常用於正式或學術寫作中。",
+      "definition": "1. as a consequence; for this reason.",
+      "example": [
+        {
+          "eng": "Prices have increased; hence, fewer people are buying new cars.",
+          "ch": "價格上漲了；因此，買新車的人變少了。"
+        }
+      ]
+    },
+    {
+      "eng": "herb",
+      "kk": "[ɝb]",
+      "tense": "n.",
+      "ch": [
+        [
+          "草本植物",
+          "香草"
+        ]
+      ],
+      "analysis": "此字為名詞（美式發音不發 h 音），源自中古法語 erbe（現代法語 herbe），源自拉丁語 herba（草、青草）。歷史語義指莖部柔軟、不具木質的草本植物，特別是用於烹飪調味或藥用的「香草」。",
+      "definition": "1. any plant with leaves, seeds, or flowers used for flavoring, food, medicine, or perfume.",
+      "example": [
+        {
+          "eng": "Add some fresh herbs like basil and rosemary to the soup.",
+          "ch": "在湯裡加一些羅勒和迷迭香等新鮮香草。"
+        }
+      ]
+    },
+    {
+      "eng": "heritage",
+      "kk": "[ˈhɛrətɪdʒ]",
+      "tense": "n.",
+      "ch": [
+        [
+          "遺產",
+          "傳統"
+        ]
+      ],
+      "analysis": "此字為名詞，源自中古法語 heritage，基於 heir（繼承人）加上名詞字尾 -itage。歷史語義最初指由祖先或法律繼承的實體財產，現代廣泛引申指一個國家、群體或文化所代代相傳的歷史「傳統、文化遺產」。",
+      "definition": "1. property that is or can be inherited; valued objects and qualities such as cultural traditions passed down from previous generations.",
+      "example": [
+        {
+          "eng": "The old town is recognized for its rich architectural heritage.",
+          "ch": "這座古鎮以其豐富的建築遺產而聞名。"
+        }
+      ]
+    },
+    {
+      "eng": "highlight",
+      "kk": "[ˈhaɪˌlaɪt]",
+      "tense": "vt.",
+      "ch": [
+        [
+          "突顯",
+          "強調",
+          "使醒目"
+        ]
+      ],
+      "analysis": "此字為及物動詞，由高處的 high 與光線的 light 結合而成。歷史語義由繪畫上「用強光照射以使局部最亮」演變為比喻義的「在演講或文章中突顯、強調某個重點或精彩部分」，為及物動詞，須接直接受詞。",
+      "definition": "1. pick out and emphasize to give particular attention to.",
+      "example": [
+        {
+          "eng": "The report highlights the urgent need for better education funding.",
+          "ch": "該報告突顯了對更好教育資金的迫切需求。"
+        }
+      ]
+    },
+    {
+      "eng": "hockey",
+      "kk": "[ˈhɑki]",
+      "tense": "n.",
+      "ch": [
+        [
+          "曲棍球"
+        ]
+      ],
+      "analysis": "此字為名詞，其確切來源歷史有些爭議，可能源自中古法語 hoquet（牧羊人的彎棍）。在英語中專門用來指以曲棍擊球得分的團隊運動項目（如冰球 ice hockey 或草地曲棍球 field hockey）。",
+      "definition": "1. a game played on grass or ice between two teams, the object being to drive a ball or puck into the opponents' goal.",
+      "example": [
+        {
+          "eng": "Ice hockey is extremely popular in Canada.",
+          "ch": "冰球運動在加拿大極受歡迎。"
+        }
+      ]
+    },
+    {
+      "eng": "honorable",
+      "kk": "[ˈɑnərəbəl]",
+      "tense": "adj.",
+      "ch": [
+        [
+          "高尚的",
+          "光榮的",
+          "值得尊敬的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自中古法語 honorable，源自拉丁語 honorabilis，根源為 honor（榮譽）。歷史語義指具有崇高道德標準、行為正派、光明磊落而「值得尊敬或光榮的」。",
+      "definition": "1. bringing or deserving honor; conforming to moral principles.",
+      "example": [
+        {
+          "eng": "He made an honorable decision to admit his mistake.",
+          "ch": "他做出了承認錯誤的高尚決定。"
+        }
+      ]
+    },
+    {
+      "eng": "horizontal",
+      "kk": "[ˌhɔrəˈzɑntəl]",
+      "tense": "adj.",
+      "ch": [
+        [
+          "水平的",
+          "橫向的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自近代拉丁語 horizontalis，源自 horizon（地平線）。歷史語義由「平行於地平線的、橫向的」引申為幾何與日常建築學上的水平狀態。",
+      "definition": "1. parallel to the plane of the horizon; at right angles to the vertical.",
+      "example": [
+        {
+          "eng": "Draw a horizontal line across the center of the page.",
+          "ch": "在頁面中央畫一條水平線。"
+        }
+      ]
+    },
+    {
+      "eng": "hormone",
+      "kk": "[ˈhɔrˌmon]",
+      "tense": "n.",
+      "ch": [
+        [
+          "荷爾蒙",
+          "激素"
+        ]
+      ],
+      "analysis": "此字為名詞，由20世紀初科學家以希臘語 horman（意為 to excite, set in motion，激起、使運動）創造出的現代科技詞彙，加上名詞字尾 -one。專門指生物體內由內分泌腺分泌、用以調節生理機能的化學物質「荷爾蒙或激素」。",
+      "definition": "1. a regulatory substance produced in an organism and transported in tissue fluids to stimulate specific cells or tissues.",
+      "example": [
+        {
+          "eng": "Insulin is an important hormone that regulates blood sugar levels.",
+          "ch": "胰島素是調節血糖水準的重要荷爾蒙。"
+        }
+      ]
+    },
+    {
+      "eng": "hostage",
+      "kk": "[ˈhɑstɪdʒ]",
+      "tense": "n.",
+      "ch": [
+        [
+          "人質"
+        ]
+      ],
+      "analysis": "此字為名詞，源自中古法語 hostage，源自拉丁語 obsidaticus（源自 obses，人質）。歷史語義由古代戰爭中為保證協議履行而被扣押的抵押人物，演變為現代被綁架或非法扣押以強迫某方答應條件的「人質」。",
+      "definition": "1. a person seized or held as security for the fulfillment of a condition.",
+      "example": [
+        {
+          "eng": "The kidnappers held the bank teller hostage for several hours.",
+          "ch": "綁匪將銀行出納員挾持為人質數小時。"
+        }
+      ]
+    },
+    {
+      "eng": "hostile",
+      "kk": "[ˈhɑstəl]",
+      "tense": "adj.",
+      "ch": [
+        [
+          "敵對的",
+          "懷敵意的"
+        ],
+        [
+          "不友善的",
+          "惡劣的（環境）"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自拉丁語 hostilis，源自 hostis（敵人）。歷史語義最初指戰爭中「敵方的、充滿敵意的」，後延伸指人際交往中極度「不友善的、反對的」，或環境氣候等「惡劣而不適宜生存的」。",
+      "definition": "1. showing or feeling opposition or hostility; unfriendly; 2. (of an environment) harsh and difficult to live in.",
+      "example": [
+        {
+          "eng": "The two countries have maintained hostile relations for decades.",
+          "ch": "這兩個國家維持了數十年的敵對關係。"
+        },
+        {
+          "eng": "Desert plants have adapted to survive in a hostile environment.",
+          "ch": "沙漠植物已經適應在惡劣環境中生存。"
+        }
+      ]
+    },
+    {
+      "eng": "hostility",
+      "kk": "[hɑˈstɪləti]",
+      "tense": "n.",
+      "ch": [
+        [
+          "敵意",
+          "敵對狀態"
+        ],
+        [
+          "交戰",
+          "衝突（常用複數）"
+        ]
+      ],
+      "analysis": "此字為名詞，源自中古法語 hostilite，源自拉丁語 hostilitas，根源為 hostilis（敵對的）。歷史語義指心裡的「敵意、惡意」，或者國家、群體之間爆發的武裝衝突、交戰狀態（在軍事脈絡中常用複數 hostilities）。",
+      "definition": "1. hostile behavior; unfriendliness or opposition; 2. acts of warfare.",
+      "example": [
+        {
+          "eng": "There is a deep-rooted hostility between the two rival gangs.",
+          "ch": "兩個敵對幫派之間存在著根深蒂固的敵意。"
+        },
+        {
+          "eng": "Both sides agreed to a ceasefire to end hostilities.",
+          "ch": "雙方同意停火以結束交戰衝突。"
+        }
+      ]
+    },
+    {
+      "eng": "housing",
+      "kk": "[ˈhaʊzɪŋ]",
+      "tense": "n.",
+      "ch": [
+        [
+          "房屋",
+          "住房供應",
+          "外殼護套"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 house（提供住處）加上名詞字尾 -ing 形成。歷史語義一指社會上的「住房、住宅供應」，二指機械或設備用以保護內部零件的「外殼、護套」。",
+      "definition": "1. houses and apartments considered collectively; 2. a rigid casing that encloses and protects something.",
+      "example": [
+        {
+          "eng": "The government is trying to solve the city's housing shortage.",
+          "ch": "政府正試圖解決該市的住房短缺問題。"
+        },
+        {
+          "eng": "The camera lens is protected by a waterproof housing.",
+          "ch": "相機鏡頭由防水外殼保護著。"
+        }
+      ]
+    },
+    {
+      "eng": "howl",
+      "kk": "[haʊl]",
+      "tense": "vi.",
+      "ch": [
+        [
+          "嚎叫",
+          "長嚎"
+        ],
+        [
+          "呼嘯",
+          "怒吼（風聲）"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，具擬聲詞（imitative origin）特徵。作為不及物動詞時，用以形容狼、狗等動物發出長而悲傷的叫聲，或指風及人在痛苦或憤怒時發出的高亢呼嘯聲，句型上為不及物用法，不接直接受詞。",
+      "definition": "1. (of a dog, wolf, etc.) utter a loud, mournful cry; 2. (of the wind) blow fiercely and make a long, loud sound.",
+      "example": [
+        {
+          "eng": "Wolves began to howl in the distance as night fell.",
+          "ch": "夜幕降臨時，遠處的狼開始嚎叫。"
+        },
+        {
+          "eng": "The cold wind howled through the empty streets.",
+          "ch": "冷風在空曠的街道上呼嘯。"
+        }
+      ]
+    },
+    {
+      "eng": "hypothesis",
+      "kk": "[haɪˈpɑθəsɪs]",
+      "tense": "n.",
+      "ch": [
+        [
+          "假設",
+          "假說"
+        ]
+      ],
+      "analysis": "此字為名詞，源自希臘語 hypothesis（意為 foundation, basis，基礎、假設），由 hypo-（在下方）與 thesis（放置、命題）組合而成。歷史語義指在科學研究或邏輯推理中，作為進一步實驗與驗證基礎的「暫定假設或假說」。",
+      "definition": "1. a supposition or proposed explanation made on the basis of limited evidence as a starting point for further investigation.",
+      "example": [
+        {
+          "eng": "The scientist designed an experiment to test her hypothesis.",
+          "ch": "科學家設計了一項實驗來檢驗她的假設。"
+        }
+      ]
+    },
+    {
+      "eng": "icon",
+      "kk": "[ˈaɪkɑn]",
+      "tense": "n.",
+      "ch": [
+        [
+          "圖標",
+          "標誌性人物",
+          "聖像"
+        ]
+      ],
+      "analysis": "此字為名詞，源自拜占庭希臘語 eikon（意為 likeness, image，圖像、肖像）。歷史語義由東正教的「宗教聖像」演變為現代文化中的「代表性標誌、偶像、名人」，在電腦科技中則指代表程式或檔案的「圖標」。",
+      "definition": "1. a painting of Jesus Christ or another holy figure, typically in a traditional style on wood; 2. a person or thing regarded as a representative symbol of something; 3. a computer icon.",
+      "example": [
+        {
+          "eng": "Click on the desktop icon to open the program.",
+          "ch": "點擊桌面圖標以開啟程式。"
+        },
+        {
+          "eng": "Audrey Hepburn remains a timeless fashion icon.",
+          "ch": "奧黛麗·赫本依然是永恆的時尚標誌性人物。"
+        }
+      ]
+    },
+    {
+      "eng": "ideology",
+      "kk": "[ˌaɪdiˈɑlədʒi]",
+      "tense": "n.",
+      "ch": [
+        [
+          "意識形態",
+          "思想體系"
+        ]
+      ],
+      "analysis": "此字為名詞，由法語 idéologie 衍生而來，結合了希臘語 idea（觀念）與 -logy（學說、學門）。歷史語義原指法國大革命時期起源的「觀念科學」，後來演變為指特定政黨、階級或社會群體背後支撐其政治、經濟政策的整體「意識形態與思想體系」。",
+      "definition": "1. a system of ideas and ideals, especially one that forms the basis of economic or political theory and policy.",
+      "example": [
+        {
+          "eng": "The two countries were divided by conflicting political ideologies.",
+          "ch": "這兩個國家被相互衝突的政治意識形態所分割。"
+        }
+      ]
+    },
+    {
+      "eng": "idiot",
+      "kk": "[ˈɪdiət]",
+      "tense": "n.",
+      "ch": [
+        [
+          "笨蛋",
+          "白痴"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古法語 idiot，源自拉丁語 idiota，源自希臘語 idiotes（意為 private person, unskilled person，平民、無專業知識者，根源為 idios，個人的）。歷史語義最初指缺乏公職經驗或專業知識的平民，後在中古醫學與日常中演變為指智力低下者，現代日常口語中則泛指行為愚蠢的「笨蛋、白痴」。",
+      "definition": "1. a stupid person.",
+      "example": [
+        {
+          "eng": "He felt like an idiot when he realized he locked his keys inside the car.",
+          "ch": "當他意識到自己把鑰匙鎖在車內時，他覺得自己像個笨蛋。"
+        }
+      ]
+    }
+  ]
+}

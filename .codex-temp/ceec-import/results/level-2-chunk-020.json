@@ -1,0 +1,1679 @@
+{
+  "level": 2,
+  "chunkIndex": 20,
+  "inputs": [
+    "title",
+    "toast",
+    "tofu",
+    "tone",
+    "tongue",
+    "toothache",
+    "toothbrush",
+    "tour",
+    "toward",
+    "towards",
+    "track",
+    "trade",
+    "tradition",
+    "traditional",
+    "trap",
+    "trash",
+    "travel",
+    "treasure",
+    "trial",
+    "triangle",
+    "trick",
+    "true",
+    "trust",
+    "truth",
+    "tube",
+    "turtle",
+    "typhoon",
+    "typical",
+    "ugly",
+    "umbrella",
+    "unit",
+    "universe",
+    "university",
+    "unless",
+    "upload",
+    "upon",
+    "upper",
+    "upset",
+    "upstairs",
+    "used",
+    "user",
+    "usual",
+    "vacation",
+    "valley",
+    "valuable",
+    "value",
+    "victory",
+    "view",
+    "village",
+    "vote"
+  ],
+  "rows": [
+    {
+      "eng": "title",
+      "kk": "ˈtaɪtəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "標題",
+          "篇名"
+        ],
+        [
+          "頭銜",
+          "稱號"
+        ],
+        [
+          "冠軍"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古法語 title，最終源自拉丁語 titulus（標題、標牌、榮譽）。歷史上經中古英語進入現代英語，本義指標明內容的標示，隨後引申出人的社會地位頭銜以及體育競賽的冠軍稱號。",
+      "definition": "1. The name of a book, composition, or other artistic work.; 2. A word or words denoting a person's status, rank, or respectful designation.; 3. The position of champion in a sport or competition.",
+      "example": [
+        {
+          "eng": "The book has a catchy title.",
+          "ch": "這本書有一個引人注目的標題。"
+        },
+        {
+          "eng": "He holds the title of professor.",
+          "ch": "他擁有教授的頭銜。"
+        },
+        {
+          "eng": "She is defending her world title tonight.",
+          "ch": "她今晚要保衛她的世界冠軍頭銜。"
+        }
+      ]
+    },
+    {
+      "eng": "title",
+      "kk": "ˈtaɪtəl",
+      "tense": "vt.",
+      "ch": [
+        [
+          "給…加標題",
+          "給予…稱號"
+        ]
+      ],
+      "analysis": "此字為及物動詞，由名詞 title 轉品而來，指賦予某作品標題或給予某人事物特定稱號。",
+      "definition": "1. To give a title to a book, work, or person.",
+      "example": [
+        {
+          "eng": "He titled his new painting 'Sunset'.",
+          "ch": "他將他的新畫作命名為《日落》。"
+        }
+      ]
+    },
+    {
+      "eng": "toast",
+      "kk": "toʊst",
+      "tense": "n.",
+      "ch": [
+        [
+          "烤吐司",
+          "吐司麵包"
+        ],
+        [
+          "乾杯",
+          "祝酒"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古法語 toster（烘烤），最終源自拉丁語 torrere（烤乾）。在英語中發展出「烤過的麵包」與「舉杯祝酒」兩個核心義，後者源於早期將香料吐司放入酒杯增添風味的傳統。",
+      "definition": "1. Sliced bread browned by heat.; 2. An expression of good wishes or respect made before drinking a glass of alcohol together.",
+      "example": [
+        {
+          "eng": "I like to have butter and jam on my toast.",
+          "ch": "我喜歡在吐司上抹奶油和果醬。"
+        },
+        {
+          "eng": "Let's raise a glass for a toast to the bride and groom.",
+          "ch": "讓我們舉杯向新郎新娘祝酒。"
+        }
+      ]
+    },
+    {
+      "eng": "toast",
+      "kk": "toʊst",
+      "tense": "vt.",
+      "ch": [
+        [
+          "烤",
+          "烘烤"
+        ],
+        [
+          "為…乾杯",
+          "向…祝酒"
+        ]
+      ],
+      "analysis": "此字為及物動詞，對應名詞 toast 的動作，指將麵包等食物加熱烤黃，或在飲酒聚會中舉杯向某人或某事祝酒。",
+      "definition": "1. To make bread or other food brown and crisp by heating it.; 2. To drink to the health or success of someone as an expression of respect.",
+      "example": [
+        {
+          "eng": "She likes to toast her bread until it is golden brown.",
+          "ch": "她喜歡把麵包烤到金黃酥脆。"
+        },
+        {
+          "eng": "He toasted his colleagues for their hard work.",
+          "ch": "他舉杯感謝同事們的辛勤工作。"
+        }
+      ]
+    },
+    {
+      "eng": "tofu",
+      "kk": "ˈtoʊfuː",
+      "tense": "n.",
+      "ch": [
+        [
+          "豆腐"
+        ]
+      ],
+      "analysis": "此字為名詞，是近代透過日語（tofu）或直接自漢語借入英語的詞彙，源自中文的「豆腐」，指以黃豆為主要原料製成的食品。",
+      "definition": "1. A soft, white food made from curdled soybean milk, widely used in Asian cuisine.",
+      "example": [
+        {
+          "eng": "Tofu is a great source of plant-based protein.",
+          "ch": "豆腐是極佳的植物性蛋白質來源。"
+        }
+      ]
+    },
+    {
+      "eng": "tone",
+      "kk": "toʊn",
+      "tense": "n.",
+      "ch": [
+        [
+          "語氣",
+          "腔調",
+          "口吻"
+        ],
+        [
+          "色調",
+          "色相"
+        ],
+        [
+          "音調",
+          "音色"
+        ]
+      ],
+      "analysis": "此字為名詞，源自拉丁語 tonus（音調、聲調），經古法語與拉丁語中音響學、音樂的意義演變而來。現代英語中廣泛延伸至說話語氣、視覺色彩的深淺明暗，以及聲音的音高與音質。",
+      "definition": "1. The general character or attitude of a piece of writing, a speaking voice, etc.; 2. A shade of a color.; 3. A musical sound with a particular pitch and quality.",
+      "example": [
+        {
+          "eng": "Her tone of voice was very polite.",
+          "ch": "她的說話語氣非常客氣。"
+        },
+        {
+          "eng": "The room was painted in soft blue tones.",
+          "ch": "房間漆成了柔和的藍色調。"
+        },
+        {
+          "eng": "He played a clear tone on his violin.",
+          "ch": "他在小提琴上奏出清脆的音調。"
+        }
+      ]
+    },
+    {
+      "eng": "tongue",
+      "kk": "tʌŋ",
+      "tense": "n.",
+      "ch": [
+        [
+          "舌頭"
+        ],
+        [
+          "語言",
+          "口語"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古英語 tunge（舌頭、語言），屬於日耳曼語族繼承詞。除了解剖學上的口腔器官外，歷史上很早就借用「舌頭」來代指人類的語言或口音。",
+      "definition": "1. The fleshy muscular organ in the mouth used for tasting, licking, and swallowing, and in humans, for speaking.; 2. A language or a particular manner of speaking.",
+      "example": [
+        {
+          "eng": "She bit her tongue to stop herself from laughing.",
+          "ch": "她咬住舌頭忍住不笑。"
+        },
+        {
+          "eng": "English is his native tongue.",
+          "ch": "英語是他的母語。"
+        }
+      ]
+    },
+    {
+      "eng": "toothache",
+      "kk": "ˈtuːθ.eɪk",
+      "tense": "n.",
+      "ch": [
+        [
+          "牙痛"
+        ]
+      ],
+      "analysis": "此字為現代透明複合詞，由 tooth（牙齒）與 ache（疼痛，源自古英語 æce）組合而成，指牙齒內部或周圍發生的疼痛不適。",
+      "definition": "1. Pain in or around a tooth.",
+      "example": [
+        {
+          "eng": "He had to visit the dentist because of a severe toothache.",
+          "ch": "他因為嚴重的牙痛不得不去看牙醫。"
+        }
+      ]
+    },
+    {
+      "eng": "toothbrush",
+      "kk": "ˈtuːθ.brʌʃ",
+      "tense": "n.",
+      "ch": [
+        [
+          "牙刷"
+        ]
+      ],
+      "analysis": "此字為現代透明複合詞，由 tooth（牙齒）與 brush（刷子）結合而成，指用於清潔牙齒的小型刷子。",
+      "definition": "1. A small brush with a long handle, used for cleaning the teeth.",
+      "example": [
+        {
+          "eng": "Remember to pack your toothbrush for the trip.",
+          "ch": "旅行記得帶你的牙刷。"
+        }
+      ]
+    },
+    {
+      "eng": "tour",
+      "kk": "tʊr",
+      "tense": "n.",
+      "ch": [
+        [
+          "旅遊",
+          "旅行",
+          "觀光"
+        ],
+        [
+          "巡迴演出",
+          "巡迴訪問"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古法語 tour（轉動、散步、旅程），最終源自拉丁語 tornare（轉動、用旋床加工）。本義指繞行一周的旅程，現代多指觀光旅行或藝人、政要的巡迴行程。",
+      "definition": "1. A journey for pleasure in which several different places are visited.; 2. A series of performances or visits made by a performer, team, or official in different places.",
+      "example": [
+        {
+          "eng": "They went on a guided tour of Europe.",
+          "ch": "他們參加了歐洲導覽旅遊。"
+        },
+        {
+          "eng": "The rock band is currently on a world tour.",
+          "ch": "這支搖滾樂團目前正在進行世界巡迴演出。"
+        }
+      ]
+    },
+    {
+      "eng": "tour",
+      "kk": "tʊr",
+      "tense": "vi.",
+      "ch": [
+        [
+          "旅行",
+          "觀光"
+        ],
+        [
+          "巡迴演出",
+          "巡迴訪問"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，源自名詞 tour 的動作化，指進行觀光旅行或到各地巡迴演出、訪問。",
+      "definition": "1. To make a journey for pleasure, visiting various places.; 2. To travel around performing or giving exhibitions.",
+      "example": [
+        {
+          "eng": "They plan to tour around Asia next summer.",
+          "ch": "他們計畫明年夏天到亞洲各地旅行。"
+        },
+        {
+          "eng": "The musicians are touring across the country.",
+          "ch": "音樂家們正在全國各地巡迴演出。"
+        }
+      ]
+    },
+    {
+      "eng": "toward",
+      "kk": "tɔːrd",
+      "tense": "prep.",
+      "ch": [
+        [
+          "向",
+          "朝",
+          "接近"
+        ],
+        [
+          "對於",
+          "關於"
+        ]
+      ],
+      "analysis": "此字為介系詞，源自古英語 tōweard（朝向、將要發生的），由 tō（向）與 weard（朝向的方向詞尾）複合而成。主要表達空間上的移動方向，或抽象的情感與態度對象。",
+      "definition": "1. In the direction of.; 2. In relation to; regarding or with respect to.",
+      "example": [
+        {
+          "eng": "She walked slowly toward the door.",
+          "ch": "她緩慢地朝門口走去。"
+        },
+        {
+          "eng": "He showed great kindness toward the children.",
+          "ch": "他對孩子們展現了極大的仁慈。"
+        }
+      ]
+    },
+    {
+      "eng": "towards",
+      "kk": "tɔːrdz",
+      "tense": "prep.",
+      "ch": [
+        [
+          "向",
+          "朝",
+          "接近"
+        ],
+        [
+          "對於",
+          "關於"
+        ]
+      ],
+      "analysis": "此字為介系詞，是 toward 的變體形式，帶有副詞屬性的所有格詞尾 -s（常見於英國英語），用法與 toward 完全相同，表示方向或對象。",
+      "definition": "1. In the direction of.; 2. In relation to; regarding.",
+      "example": [
+        {
+          "eng": "The ship sailed towards the harbor.",
+          "ch": "那艘船朝著港口航行。"
+        },
+        {
+          "eng": "Her attitude towards work has changed completely.",
+          "ch": "她對工作的態度已經完全改變了。"
+        }
+      ]
+    },
+    {
+      "eng": "track",
+      "kk": "træk",
+      "tense": "n.",
+      "ch": [
+        [
+          "小徑",
+          "足跡",
+          "痕跡"
+        ],
+        [
+          "軌道",
+          "鐵軌"
+        ],
+        [
+          "跑道"
+        ],
+        [
+          "音軌",
+          "歌曲"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古法語 trac（足跡、馬蹄印），可能源自日耳曼語族。本義指人或動物留下的足跡與路徑，隨後引申出鐵路軌道、田徑跑道以及錄音室中的音樂音軌。",
+      "definition": "1. A rough path or road; a mark or line of marks left by a person, animal, or vehicle.; 2. A set of parallel metal rails on which trains run.; 3. A prepared path or circuit for athletes to race on.; 4. A recorded song or piece of music on a CD or album.",
+      "example": [
+        {
+          "eng": "We followed the muddy track through the woods.",
+          "ch": "我們沿著穿過樹林泥濘的小徑前進。"
+        },
+        {
+          "eng": "The train jumped off the track.",
+          "ch": "火車脫軌了。"
+        },
+        {
+          "eng": "She won a gold medal on the running track.",
+          "ch": "她在田徑跑道上贏得一面金牌。"
+        },
+        {
+          "eng": "The second track on the album is my favorite.",
+          "ch": "這張專輯的第二首歌是我最喜歡的。"
+        }
+      ]
+    },
+    {
+      "eng": "track",
+      "kk": "træk",
+      "tense": "vt.",
+      "ch": [
+        [
+          "追蹤",
+          "跟蹤"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自名詞 track，指沿著足跡或軌跡追尋人、動物或移動目標的行蹤。",
+      "definition": "1. To follow the trail or movements of someone or something.",
+      "example": [
+        {
+          "eng": "Hunters used the footprints to track the deer.",
+          "ch": "獵人利用腳印來追蹤那隻鹿。"
+        }
+      ]
+    },
+    {
+      "eng": "trade",
+      "kk": "treɪd",
+      "tense": "n.",
+      "ch": [
+        [
+          "貿易",
+          "交易"
+        ],
+        [
+          "行業",
+          "手藝"
+        ]
+      ],
+      "analysis": "此字為名詞，源自中古英語 trade（行蹤、道路、行業），部分受中低地德語 trade（小徑、商業路徑）影響。本義與「走過的固定路徑」有關，後來演變指商品與服務的買賣交換，以及特定技術的行當。",
+      "definition": "1. The action of buying and selling goods and services.; 2. A particular skilled profession, especially one requiring manual labor.",
+      "example": [
+        {
+          "eng": "International trade has grown significantly this year.",
+          "ch": "國際貿易今年顯著成長。"
+        },
+        {
+          "eng": "He learned his trade as a carpenter.",
+          "ch": "他學會了木工這門手藝。"
+        }
+      ]
+    },
+    {
+      "eng": "trade",
+      "kk": "treɪd",
+      "tense": "vt.",
+      "ch": [
+        [
+          "交換",
+          "互換"
+        ]
+      ],
+      "analysis": "此字為及物動詞，指將自己擁有的物品與他人持有的物品進行互換（常與 with 或 for 連用）。",
+      "definition": "1. To give something in exchange for something else.",
+      "example": [
+        {
+          "eng": "Can I trade my sandwich for your apple?",
+          "ch": "我可以拿我的三明治跟妳換妳的蘋果嗎？"
+        }
+      ]
+    },
+    {
+      "eng": "trade",
+      "kk": "treɪd",
+      "tense": "vi.",
+      "ch": [
+        [
+          "進行貿易",
+          "交易"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，源自名詞 trade，指雙方互相買賣商品、服務或進行商業交換活動。",
+      "definition": "1. To buy and sell goods and services, especially between countries or businesses.",
+      "example": [
+        {
+          "eng": "The two countries trade regularly with each other.",
+          "ch": "這兩個國家經常互相進行貿易。"
+        }
+      ]
+    },
+    {
+      "eng": "tradition",
+      "kk": "trəˈdɪʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "傳統",
+          "慣例"
+        ]
+      ],
+      "analysis": "此字為名詞，源自拉丁語 traditio（交接、傳遞、傳統），由動詞 tradere（交付、移交，由 trans-「越過」+ dare「給」）衍生而來。指世代相傳的信仰、風俗或行為模式。",
+      "definition": "1. The transmission of customs or beliefs from generation to generation, or a custom of this kind.",
+      "example": [
+        {
+          "eng": "It is a family tradition to have dinner together on Sundays.",
+          "ch": "星期日聚在一起吃晚餐是我們家的傳統。"
+        }
+      ]
+    },
+    {
+      "eng": "traditional",
+      "kk": "trəˈdɪʃənəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "傳統的",
+          "慣常的"
+        ]
+      ],
+      "analysis": "此字為形容詞，由名詞 tradition 加上形容詞字尾 -al 構成，指符合或基於長期流傳下來的習俗與慣例。",
+      "definition": "1. Based on or in accordance with tradition; long-established.",
+      "example": [
+        {
+          "eng": "They wore traditional costumes during the festival.",
+          "ch": "他們在節慶期間穿著傳統服飾。"
+        }
+      ]
+    },
+    {
+      "eng": "trap",
+      "kk": "træp",
+      "tense": "n.",
+      "ch": [
+        [
+          "陷阱",
+          "羅網"
+        ],
+        [
+          "困境",
+          "圈套"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古英語 træppe（陷阱），屬於日耳曼語族繼承詞。本義為捕捉動物的機械裝置，後引申指人陷入的不利困境或騙局。",
+      "definition": "1. A device or enclosure designed to catch and retain animals, typically by suddenly closing upon them.; 2. A dangerous or unpleasant situation from which it is difficult to escape.",
+      "example": [
+        {
+          "eng": "The mouse walked right into the trap.",
+          "ch": "老鼠直接走進了陷阱裡。"
+        },
+        {
+          "eng": "Don't fall into the trap of working too hard without a break.",
+          "ch": "不要落入拼命工作卻不休息的陷阱。"
+        }
+      ]
+    },
+    {
+      "eng": "trap",
+      "kk": "træp",
+      "tense": "vt.",
+      "ch": [
+        [
+          "設陷阱捕捉",
+          "使陷入困境"
+        ],
+        [
+          "困住",
+          "阻擋"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自名詞 trap，指使用陷阱捕捉獵物，或使人、物被困在某個無法逃脫的狹小空間或危險處境中。",
+      "definition": "1. To catch an animal in a trap.; 2. To prevent someone from escaping from a place.",
+      "example": [
+        {
+          "eng": "They tried to trap the wild fox.",
+          "ch": "他們試圖捕捉那隻野狐狸。"
+        },
+        {
+          "eng": "The miners were trapped underground after the cave-in.",
+          "ch": "礦工們在塌方後被困在地底下。"
+        }
+      ]
+    },
+    {
+      "eng": "trash",
+      "kk": "træʃ",
+      "tense": "n.",
+      "ch": [
+        [
+          "垃圾",
+          "廢棄物"
+        ],
+        [
+          "毫無價值的人或物",
+          "胡說八道"
+        ]
+      ],
+      "analysis": "此字為名詞，起源於中古英語中指折斷的樹枝、廢棄殘渣，可能源自斯堪地那維亞語源。現代英語中泛指一般日常垃圾，或貶義地形容毫無價值的內容與言論。",
+      "definition": "1. Waste material; refuse or rubbish.; 2. Things that are considered to be of extremely poor quality or nonsense.",
+      "example": [
+        {
+          "eng": "Please take out the trash before you leave.",
+          "ch": "你離開前請把垃圾拿出去倒。"
+        },
+        {
+          "eng": "Most of what is on television nowadays is absolute trash.",
+          "ch": "現在電視上播的大多數東西完全是垃圾。"
+        }
+      ]
+    },
+    {
+      "eng": "trash",
+      "kk": "træʃ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "損毀",
+          "破壞"
+        ],
+        [
+          "狠狠批評",
+          "斥責"
+        ]
+      ],
+      "analysis": "此字為及物動詞，由名詞 trash 轉品而來，本義指將物品徹底破壞如同廢物一般，口語中亦可指對某人的作品或表現進行猛烈抨擊。",
+      "definition": "1. To wreck or completely destroy something.; 2. To criticize someone or something severely.",
+      "example": [
+        {
+          "eng": "Vandals trashed the public park overnight.",
+          "ch": "破壞分子一夜之間把公園砸得稀爛。"
+        },
+        {
+          "eng": "The film critic trashed the new movie in his review.",
+          "ch": "影評人在評論中狠狠抨擊了這部新電影。"
+        }
+      ]
+    },
+    {
+      "eng": "travel",
+      "kk": "ˈtræv.əl",
+      "tense": "n.",
+      "ch": [
+        [
+          "旅行",
+          "遊歷"
+        ]
+      ],
+      "analysis": "此字為名詞，由不及物動詞 travel 轉品而來，通常以複數形式 travels 泛指長途旅行的經歷與見聞。",
+      "definition": "1. The action of traveling, often used in plural to refer to journeys abroad.",
+      "example": [
+        {
+          "eng": "He wrote a book about his travels in Africa.",
+          "ch": "他寫了一本關於他在非洲旅行見聞的書。"
+        }
+      ]
+    },
+    {
+      "eng": "travel",
+      "kk": "ˈtræv.əl",
+      "tense": "vi.",
+      "ch": [
+        [
+          "旅行",
+          "出遊"
+        ],
+        [
+          "行進",
+          "傳播"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，源自古法語 travailler（原本指受苦、勞累，後來演變為費力行路）。現代英語中指長途跋涉、觀光旅行，或指光、聲音等物理現象的傳遞移動。",
+      "definition": "1. To make a journey, typically of some length or abroad.; 2. To move or transmit from one place to another.",
+      "example": [
+        {
+          "eng": "She loves to travel around the world.",
+          "ch": "她喜歡到世界各地旅行。"
+        },
+        {
+          "eng": "Sound travels faster in water than in air.",
+          "ch": "聲音在水中的傳播速度比在空氣中快。"
+        }
+      ]
+    },
+    {
+      "eng": "treasure",
+      "kk": "ˈtrɛʒ.ər",
+      "tense": "n.",
+      "ch": [
+        [
+          "財寶",
+          "寶藏"
+        ],
+        [
+          "珍貴的人或物"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古法語 tresor，最終源自希臘語 thēsauros（儲藏所、寶藏）。指大量累積的金銀財寶，或比喻性地指極具價值、珍愛的人事物。",
+      "definition": "1. A quantity of precious metals, gems, or other valuable objects.; 2. A very valued and prized person, object, or quality.",
+      "example": [
+        {
+          "eng": "The pirates buried their treasure on a deserted island.",
+          "ch": "海盜將他們的寶藏埋在一座荒島上。"
+        },
+        {
+          "eng": "Old family photos are a real treasure.",
+          "ch": "古老的家庭照片是真正的珍寶。"
+        }
+      ]
+    },
+    {
+      "eng": "treasure",
+      "kk": "ˈtrɛʒ.ər",
+      "tense": "vt.",
+      "ch": [
+        [
+          "珍愛",
+          "珍視"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自名詞 treasure，指將某人或某物視同珍寶般地愛護與重視。",
+      "definition": "1. To keep something or someone that you love very much and care for them greatly.",
+      "example": [
+        {
+          "eng": "I will always treasure the memories we made together.",
+          "ch": "我會永遠珍惜我們一起創造的回憶。"
+        }
+      ]
+    },
+    {
+      "eng": "trial",
+      "kk": "ˈtraɪ.əl",
+      "tense": "n.",
+      "ch": [
+        [
+          "審判",
+          "司法審理"
+        ],
+        [
+          "試驗",
+          "試用"
+        ],
+        [
+          "磨難",
+          "考驗"
+        ]
+      ],
+      "analysis": "此字為名詞，源自中古英語 trial，由動詞 try（嘗試、審理）加上名詞字尾 -al 構成。在法律語境中指法庭的審判過程；在日常與科學語境中指試驗與測試；亦可指生活中的痛苦考驗。",
+      "definition": "1. A formal examination of evidence by a judge and jury in a court of law.; 2. A test of the performance, qualities, or suitability of someone or something.; 3. A difficult time or experience that tests someone's endurance.",
+      "example": [
+        {
+          "eng": "The murder trial lasted for three weeks.",
+          "ch": "這場謀殺案審判持續了三個星期。"
+        },
+        {
+          "eng": "They are doing clinical trials for the new medicine.",
+          "ch": "他們正在為新藥進行臨床試驗。"
+        },
+        {
+          "eng": "She faced many trials before achieving success.",
+          "ch": "她在獲得成功之前面臨了許多磨難。"
+        }
+      ]
+    },
+    {
+      "eng": "triangle",
+      "kk": "ˈtraɪˌæŋ.ɡəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "三角形"
+        ],
+        [
+          "三角鐵"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古法語 triangle，最終源自拉丁語 triangulum（tri-「三」+ angulus「角」）。指幾何學中具備三個角與三條邊的封閉圖形，或指樂隊中使用的金屬三角鐵樂器。",
+      "definition": "1. A plane figure with three straight sides and three angles.; 2. A musical instrument made of a bent steel rod in the shape of a triangle, struck with a small metal rod.",
+      "example": [
+        {
+          "eng": "A right triangle has one angle of 90 degrees.",
+          "ch": "直角三角形有一個90度的角。"
+        },
+        {
+          "eng": "She played the triangle in the school orchestra.",
+          "ch": "她在學校樂團裡彈奏三角鐵。"
+        }
+      ]
+    },
+    {
+      "eng": "trick",
+      "kk": "trɪk",
+      "tense": "n.",
+      "ch": [
+        [
+          "詭計",
+          "惡作劇"
+        ],
+        [
+          "把戲",
+          "魔術"
+        ],
+        [
+          "訣竅",
+          "妙招"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古法語 triche（欺騙、計謀）。本義為欺騙或捉弄人的手段，後來引申出舞台上的魔術把戲，以及解決問題的聰明訣竅。",
+      "definition": "1. An act intended to deceive, cheat, or play a practical joke on someone.; 2. A clever feat designed to amuse or amaze people, such as in magic.; 3. A clever or quick way of doing something.",
+      "example": [
+        {
+          "eng": "He played a trick on his younger brother.",
+          "ch": "他對他弟弟搞了一個惡作劇。"
+        },
+        {
+          "eng": "The magician performed a wonderful trick with cards.",
+          "ch": "魔術師表演了一個精彩的撲克牌把戲。"
+        },
+        {
+          "eng": "She showed me a neat trick for peeling garlic quickly.",
+          "ch": "她教了我一個快速剝大蒜的巧妙訣竅。"
+        }
+      ]
+    },
+    {
+      "eng": "trick",
+      "kk": "trɪk",
+      "tense": "vt.",
+      "ch": [
+        [
+          "欺騙",
+          "哄騙"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自名詞 trick，指運用詭計或花招使人上當受騙（常與 into 連用）。",
+      "definition": "1. To deceive or cheat someone into doing something.",
+      "example": [
+        {
+          "eng": "He tricked me into paying for his meal.",
+          "ch": "他哄騙我幫他付了餐費。"
+        }
+      ]
+    },
+    {
+      "eng": "true",
+      "kk": "truː",
+      "tense": "adj.",
+      "ch": [
+        [
+          "真實的",
+          "正確的"
+        ],
+        [
+          "忠誠的",
+          "真心的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自古英語 trīowe（忠誠的、可靠的、真實的），屬於日耳曼語族繼承詞。本義指信守承諾、可靠，隨後擴大為符合事實的「真實」以及情感上的「真誠與忠實」。",
+      "definition": "1. In accordance with fact or reality.; 2. Loyal and faithful.",
+      "example": [
+        {
+          "eng": "Is it true that the concert has been cancelled?",
+          "ch": "音樂會已經取消了，這是真的嗎？"
+        },
+        {
+          "eng": "He has been a true friend through difficult times.",
+          "ch": "在艱難的時刻，他一直是個忠實的朋友。"
+        }
+      ]
+    },
+    {
+      "eng": "trust",
+      "kk": "trʌst",
+      "tense": "n.",
+      "ch": [
+        [
+          "信任",
+          "信賴"
+        ],
+        [
+          "託管",
+          "信託"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古諾斯語 traust（自信、安全感、信賴），與古英語 trīowe（真實）同源。指對他人品格、能力或誠實的堅信，在法律商業語境中則指資產的信託管理。",
+      "definition": "1. Firm belief in the reliability, truth, ability, or strength of someone or something.; 2. An arrangement where a person or organization holds property or money for the benefit of others.",
+      "example": [
+        {
+          "eng": "Trust is the foundation of any good relationship.",
+          "ch": "信任是任何良好關係的基石。"
+        },
+        {
+          "eng": "The money was put into a trust fund for the children.",
+          "ch": "這筆錢被放入孩子們的信託基金中。"
+        }
+      ]
+    },
+    {
+      "eng": "trust",
+      "kk": "trʌst",
+      "tense": "vt.",
+      "ch": [
+        [
+          "信任",
+          "信賴"
+        ],
+        [
+          "相信",
+          "確信"
+        ]
+      ],
+      "analysis": "此字為及物動詞，對應名詞 trust 的動作，指相信某人誠實可靠，或確信某事會順利進行。",
+      "definition": "1. To have firm belief in the reliability, truth, or abilities of someone.; 2. To believe or accept something as true.",
+      "example": [
+        {
+          "eng": "I trust my best friend with all my secrets.",
+          "ch": "我信任我最好的朋友，把所有的秘密都告訴她。"
+        },
+        {
+          "eng": "I trust that you will finish the report on time.",
+          "ch": "我深信你會按時完成這份報告。"
+        }
+      ]
+    },
+    {
+      "eng": "truth",
+      "kk": "truːθ",
+      "tense": "n.",
+      "ch": [
+        [
+          "真相",
+          "事實"
+        ],
+        [
+          "真理",
+          "真實性"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古英語 trīewþu（忠誠、真實），由形容詞 true 加上抽象名詞字尾 -th 構成。指與現實相符的事實真相，或永恆不變的崇高真理。",
+      "definition": "1. The quality or state of being true; that which is true or in accordance with fact.; 2. A universally accepted fact or principle.",
+      "example": [
+        {
+          "eng": "She promised to tell the whole truth in court.",
+          "ch": "她答應在法庭上說出全部真相。"
+        },
+        {
+          "eng": "Science seeks to discover the fundamental truths of nature.",
+          "ch": "科學致力於探索大自然的根本真理。"
+        }
+      ]
+    },
+    {
+      "eng": "tube",
+      "kk": "tuːb",
+      "tense": "n.",
+      "ch": [
+        [
+          "管子",
+          "管狀物"
+        ],
+        [
+          "軟管容器"
+        ],
+        [
+          "地鐵"
+        ]
+      ],
+      "analysis": "此字為名詞，源自拉丁語 tubus（管子）。指中空的圓管狀物體，日常生活中常用來裝軟管膏狀物，在英國口語中亦專門用來代指倫敦地下鐵系統（The Tube）。",
+      "definition": "1. A long, hollow cylinder of metal, plastic, glass, etc., through which liquids or gases may flow.; 2. A flexible cylindrical container sealed at both ends, from which substances like toothpaste can be squeezed out.; 3. The underground railway system in London.",
+      "example": [
+        {
+          "eng": "Water flows through the plastic tube.",
+          "ch": "水流經塑膠管。"
+        },
+        {
+          "eng": "He squeezed a ribbon of toothpaste out of the tube.",
+          "ch": "他從牙膏管裡擠出了一段牙膏。"
+        },
+        {
+          "eng": "We took the tube to get across London quickly.",
+          "ch": "我們搭地鐵快速穿過倫敦。"
+        }
+      ]
+    },
+    {
+      "eng": "turtle",
+      "kk": "ˈtɜːr.təl",
+      "tense": "n.",
+      "ch": [
+        [
+          "烏龜",
+          "海龜"
+        ]
+      ],
+      "analysis": "此字為名詞，歷史上源自中古法語 tortie 或法語 tortue（烏龜），可能受拉丁語 tartaruchus 影響或為音譯訛變。現代英語中泛指水生或陸生有甲的爬行動物（海龜通常稱 sea turtle，陸龜稱 tortoise）。",
+      "definition": "1. A reptile with a bony or leathery shell enclosing its body, typically living in water.",
+      "example": [
+        {
+          "eng": "We saw a large sea turtle swimming near the reef.",
+          "ch": "我們看到一隻大海龜在礁石附近游泳。"
+        }
+      ]
+    },
+    {
+      "eng": "typhoon",
+      "kk": "taɪˈfuːn",
+      "tense": "n.",
+      "ch": [
+        [
+          "颱風"
+        ]
+      ],
+      "analysis": "此字為名詞，其歷史來源呈現雙重語言交會：一方面源自廣東話「大風」（daaih-fūng），另一方面受阿拉伯語 ṭūfān（大風雨、洪水）或希臘語 typhōn（暴風神、旋風）影響。現代專指西北太平洋及南海地區發生的熱帶氣旋。",
+      "definition": "1. A tropical cyclone occurring in the western Pacific or Indian oceans.",
+      "example": [
+        {
+          "eng": "All schools and offices were closed due to the approaching typhoon.",
+          "ch": "由於颱風逼近，所有學校和辦公室都關閉了。"
+        }
+      ]
+    },
+    {
+      "eng": "typical",
+      "kk": "ˈtɪp.ɪ.kəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "典型的",
+          "具代表性的"
+        ],
+        [
+          "平常的",
+          "慣常的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自中世紀拉丁語 typicalis，由希臘語 typos（印記、模型）衍生而來的 typikos 加上形容詞字尾構成。指具有某一類人或事物共同特徵、代表性或預期表現的。",
+      "definition": "1. Having the distinctive qualities of a particular type of person or thing.; 2. Showing the usual characteristics of a particular person or thing.",
+      "example": [
+        {
+          "eng": "This painting is typical of his early work.",
+          "ch": "這幅畫作是他早期作品的典型代表。"
+        },
+        {
+          "eng": "It was a typical hot summer day in the city.",
+          "ch": "那是城裡一個典型的炎熱夏日。"
+        }
+      ]
+    },
+    {
+      "eng": "ugly",
+      "kk": "ˈʌɡ.li",
+      "tense": "adj.",
+      "ch": [
+        [
+          "醜陋的",
+          "難看的"
+        ],
+        [
+          "令人討厭的",
+          "險惡的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自古諾斯語 uggr（可怕的、恐懼的），結合日耳曼語族字尾。本義指令人畏懼的恐懼外表，後來演變成指外觀醜陋難看，或抽象地形容局勢險惡、脾氣暴躁。",
+      "definition": "1. Unpleasant to look at; lacking in beauty.; 2. Unpleasant, dangerous, or threatening in nature.",
+      "example": [
+        {
+          "eng": "The old building was torn down because it looked ugly.",
+          "ch": "那棟舊建築因為看起來很醜而被拆除。"
+        },
+        {
+          "eng": "An ugly argument broke out between the two drivers.",
+          "ch": "兩名司機之間爆發了一場激烈的爭吵。"
+        }
+      ]
+    },
+    {
+      "eng": "umbrella",
+      "kk": "ʌmˈbrɛl.ə",
+      "tense": "n.",
+      "ch": [
+        [
+          "雨傘",
+          "遮陽傘"
+        ],
+        [
+          "保護傘",
+          "總稱"
+        ]
+      ],
+      "analysis": "此字為名詞，源自義大利語 ombrella（遮陽傘、小遮篷），最終源自拉丁語 umbra（陰影、影子）。最初傳入英語指遮陽工具，後來演變成現代防雨的雨傘，並引申出企業或組織的「總體保護傘」涵義。",
+      "definition": "1. A device consisting of a circular canopy of cloth on a folding metal frame supported by a central rod, used as protection against rain or sun.; 2. A system or organization that includes many different elements under one general heading.",
+      "example": [
+        {
+          "eng": "I forgot to bring my umbrella, and now it's raining.",
+          "ch": "我忘了帶雨傘，現在正在下雨。"
+        },
+        {
+          "eng": "All these smaller companies operate under the same corporate umbrella.",
+          "ch": "所有這些較小的公司都在同一個企業集團的傘下運作。"
+        }
+      ]
+    },
+    {
+      "eng": "unit",
+      "kk": "ˈjuː.nɪt",
+      "tense": "n.",
+      "ch": [
+        [
+          "單位",
+          "單元"
+        ],
+        [
+          "部件",
+          "組件"
+        ]
+      ],
+      "analysis": "此字為名詞，源自拉丁語 unus（單一、一個）的衍生詞 unitas（統一），在17世紀由單詞 unity 截短創造出來作為數學與計量單位。指計算或計量的基本單元，或機械中獨立運作的組件模組。",
+      "definition": "1. An individual thing or person regarded as single and complete, especially for purposes of measurement or calculation.; 2. A self-contained device or assembly of parts that serves a particular function.",
+      "example": [
+        {
+          "eng": "The liter is a unit of volume.",
+          "ch": "公升是體積的單位。"
+        },
+        {
+          "eng": "The apartment has a kitchen unit with a built-in stove.",
+          "ch": "這間公寓有一個帶有內建爐子的廚房組件。"
+        }
+      ]
+    },
+    {
+      "eng": "universe",
+      "kk": "ˈjuː.nəˌvɜːrs",
+      "tense": "n.",
+      "ch": [
+        [
+          "宇宙",
+          "世界"
+        ],
+        [
+          "領域",
+          "範圍"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古法語 univers，最終源自拉丁語 universum（unus「單一」+ vertere「轉動」，意為「合併為一、旋轉成整體」）。本義指萬物合一的總體，現代指包含所有天體與時空的浩瀚宇宙，或抽象指某個領域的全部。",
+      "definition": "1. All existing matter and space considered as a whole; the cosmos.; 2. A particular sphere of activity or experience.",
+      "example": [
+        {
+          "eng": "Scientists are still trying to understand how the universe began.",
+          "ch": "科學家們仍在試圖理解宇宙是如何起源的。"
+        },
+        {
+          "eng": "In his own universe, he is the king.",
+          "ch": "在他自己的世界裡，他就是國王。"
+        }
+      ]
+    },
+    {
+      "eng": "university",
+      "kk": "ˌjuː.nəˈvɜːr.sə.ti",
+      "tense": "n.",
+      "ch": [
+        [
+          "大學"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古法語 universite，最終源自拉丁語 universitas magistrorum et scholarium（教師與學者的整體學會），由 universus（全體、宇宙）衍生而來。指提供高等教育與研究學位的大學機構。",
+      "definition": "1. An educational institution of higher learning and research which grants academic degrees in various subjects.",
+      "example": [
+        {
+          "eng": "She plans to study medicine at university next year.",
+          "ch": "她計畫明年去大學學醫。"
+        }
+      ]
+    },
+    {
+      "eng": "unless",
+      "kk": "ənˈlɛs",
+      "tense": "conj.",
+      "ch": [
+        [
+          "除非",
+          "如果不"
+        ]
+      ],
+      "analysis": "此字為對應條件的連接詞，源自中古英語 on lesse (that)（在較小程度的情況下），由介系詞 on 與形容詞 less（較小的）複合縮寫而成。用來引導否定條件子句，相當於 if ... not。",
+      "definition": "1. If not; except under the conditions specified.",
+      "example": [
+        {
+          "eng": "You will miss the train unless you hurry up.",
+          "ch": "你如果不快點就會趕不上火車。"
+        }
+      ]
+    },
+    {
+      "eng": "upload",
+      "kk": "ˈʌpˌloʊd",
+      "tense": "vt.",
+      "ch": [
+        [
+          "上傳"
+        ]
+      ],
+      "analysis": "此字為現代電腦網路科技詞彙，由副詞／介系詞 up（向上）與動詞 load（裝載）複合而成。指將資料從本機端傳輸到遠端伺服器或網路上，與 download（下載）相對。",
+      "definition": "1. To transfer data or programs from a computer or device to a central server or the internet.",
+      "example": [
+        {
+          "eng": "She uploaded her vacation photos to social media.",
+          "ch": "她把度假照片上傳到社群媒體。"
+        }
+      ]
+    },
+    {
+      "eng": "upon",
+      "kk": "əˈpɑːn",
+      "tense": "prep.",
+      "ch": [
+        [
+          "在…之上",
+          "攀上"
+        ],
+        [
+          "在（某時間或時刻）",
+          "緊接著"
+        ]
+      ],
+      "analysis": "此字為介系詞，源自古英語 uppon，由 up（向上）與 on（在…之上）結合而成，其語義與 on 高度重疊，但語氣較正式或出現在特定片語中（如 once upon a time）。",
+      "definition": "1. More formal term for on, used to indicate physical contact or position on a surface.; 2. Immediately following or close to in time or event.",
+      "example": [
+        {
+          "eng": "The book lay upon the wooden desk.",
+          "ch": "那本書平放在木製桌面上。"
+        },
+        {
+          "eng": "Upon arriving in the city, he called his parents.",
+          "ch": "一抵達這座城市，他就打電話給他父母。"
+        }
+      ]
+    },
+    {
+      "eng": "upper",
+      "kk": "ˈʌp.ər",
+      "tense": "adj.",
+      "ch": [
+        [
+          "較高的",
+          "上部的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自古英語 upera（上方的），由副詞 up（向上）加上比較級或特徵字尾構成。用來指位處垂直方向較高位置的那個部分。",
+      "definition": "1. Situated higher up, especially than a corresponding part.",
+      "example": [
+        {
+          "eng": "His office is located on the upper floor.",
+          "ch": "他的辦公室位於較高的樓層。"
+        }
+      ]
+    },
+    {
+      "eng": "upset",
+      "kk": "ʌpˈsɛt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使心煩意亂",
+          "使難過"
+        ],
+        [
+          "打亂",
+          "攪亂"
+        ],
+        [
+          "打翻",
+          "弄翻"
+        ]
+      ],
+      "analysis": "此字為及物動詞，由副詞 up（向上）與動詞 set（放置）複合而成。本義指將容器等物品「向上翻起」導致打翻，隨後抽象引申為打亂既定計畫，或使人的情緒翻騰、心煩意亂。",
+      "definition": "1. To make someone unhappy, worried, or angry.; 2. To disturb or disrupt a planned routine or situation.; 3. To overturn or knock something over.",
+      "example": [
+        {
+          "eng": "The bad news upset her deeply.",
+          "ch": "這個壞消息深深地使她難過。"
+        },
+        {
+          "eng": "The sudden rain upset our picnic plans.",
+          "ch": "突如其來的雨打亂了我們的野餐計畫。"
+        },
+        {
+          "eng": "He accidentally upset a glass of water on the table.",
+          "ch": "他不小心打翻了桌上的一杯水。"
+        }
+      ]
+    },
+    {
+      "eng": "upset",
+      "kk": "ʌpˈsɛt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "心煩意亂的",
+          "沮喪的"
+        ],
+        [
+          "腸胃不適的"
+        ]
+      ],
+      "analysis": "此字為形容詞（由動詞過去分詞轉品而來），用來形容人內心焦慮難過，或身體器官（如胃部）翻攪不舒服的狀態。",
+      "definition": "1. Unhappy, worried, or angry because of something that has happened.; 2. Physically disordered or unsettled, especially the stomach.",
+      "example": [
+        {
+          "eng": "She was upset about missing the flight.",
+          "ch": "她因為錯過班機而感到心煩意亂。"
+        },
+        {
+          "eng": "He had an upset stomach after eating seafood.",
+          "ch": "他吃了海鮮後腸胃很不舒服。"
+        }
+      ]
+    },
+    {
+      "eng": "upstairs",
+      "kk": "ˌʌpˈstɛrz",
+      "tense": "adv.",
+      "ch": [
+        [
+          "往樓上",
+          "在樓上"
+        ]
+      ],
+      "analysis": "此字為副詞，由 up（向上）與 stair（樓梯，源自古英語 stǣger）的複數形複合而成。指朝向建築物較高樓層移動，或位於樓上的位置。",
+      "definition": "1. To or on a higher floor of a building.",
+      "example": [
+        {
+          "eng": "She went upstairs to change her clothes.",
+          "ch": "她上樓去換衣服了。"
+        },
+        {
+          "eng": "His bedroom is located upstairs.",
+          "ch": "他的臥室在樓上。"
+        }
+      ]
+    },
+    {
+      "eng": "used",
+      "kk": "juːzd",
+      "tense": "adj.",
+      "ch": [
+        [
+          "用過的",
+          "舊的"
+        ],
+        [
+          "習慣的",
+          "適應的"
+        ]
+      ],
+      "analysis": "此字為形容詞（由動詞 use 的過去分詞轉品而來），可指物品已經被人使用過而非全新，亦可透過慣用語 be used to 形容某人對某環境或狀況已經習慣適應。",
+      "definition": "1. Previously owned or operated by another; not new.; 2. Familiar with something because of having done or experienced it often.",
+      "example": [
+        {
+          "eng": "He bought a used car to save money.",
+          "ch": "他買了一輛二手車來省錢。"
+        },
+        {
+          "eng": "She is used to waking up early every morning.",
+          "ch": "她已經習慣每天早上早起。"
+        }
+      ]
+    },
+    {
+      "eng": "user",
+      "kk": "ˈjuː.zər",
+      "tense": "n.",
+      "ch": [
+        [
+          "使用者",
+          "用戶"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 use（使用，源自拉丁語 usus）加上名詞字尾 -er 構成。指操作、使用某項設備、服務或軟體系統的人。",
+      "definition": "1. A person who utilizes or operates something, especially a computer system or service.",
+      "example": [
+        {
+          "eng": "The software is designed to be easy for any user.",
+          "ch": "這款軟體設計得讓任何使用者都很容易上手。"
+        }
+      ]
+    },
+    {
+      "eng": "usual",
+      "kk": "ˈjuː.ʒu.əl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "平常的",
+          "通常的",
+          "慣常的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自拉丁語 usualis（通常的，由 usus「使用、習慣」衍生而來）。指日常生活中經常發生、符合常態或預期的事物。",
+      "definition": "1. Habitual or typical; commonly occurring or experienced.",
+      "example": [
+        {
+          "eng": "We met at the café at our usual time.",
+          "ch": "我們在平常的時間於咖啡館碰面。"
+        }
+      ]
+    },
+    {
+      "eng": "vacation",
+      "kk": "veɪˈkeɪ.ʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "假期",
+          "休假"
+        ]
+      ],
+      "analysis": "此字為名詞，源自拉丁語 vacatio（空出、豁免、假期），由動詞 vacare（空出、空閒）衍生而來。本義指職位或場所空置出來，後來演變指暫時停止工作或學業進行放鬆的假期。",
+      "definition": "1. An extended period of recreation, especially one spent away from home or in travel.",
+      "example": [
+        {
+          "eng": "They are going to Hawaii for their summer vacation.",
+          "ch": "他們要去夏威夷度暑假。"
+        }
+      ]
+    },
+    {
+      "eng": "valley",
+      "kk": "ˈvæl.i",
+      "tense": "n.",
+      "ch": [
+        [
+          "山谷",
+          "溪谷"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古法語 valee，最終源自拉丁語 vallis（山谷）。指兩座山丘或山脈之間夾著的低窪地帶，通常有河流流過。",
+      "definition": "1. A low area of land between hills or mountains, typically with a river or stream flowing through it.",
+      "example": [
+        {
+          "eng": "The green valley was surrounded by tall mountains.",
+          "ch": "綠意盎然的山谷被高山環繞。"
+        }
+      ]
+    },
+    {
+      "eng": "valuable",
+      "kk": "ˈvæl.ju.ə.bəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "有價值的",
+          "珍貴的"
+        ],
+        [
+          "很有幫助的"
+        ]
+      ],
+      "analysis": "此字為形容詞，由名詞 value（價值）加上形容詞字尾 -able（可…的）構成。指具有很高經濟價值、重要性或能帶來很大幫助的事物。",
+      "definition": "1. Worth a great deal of money.; 2. Extremely useful or important.",
+      "example": [
+        {
+          "eng": "The museum displays many valuable historical artifacts.",
+          "ch": "博物館展示了許多珍貴的歷史文物。"
+        },
+        {
+          "eng": "Thank you for giving me such valuable advice.",
+          "ch": "謝謝你給了我這麼有價值的建議。"
+        }
+      ]
+    },
+    {
+      "eng": "value",
+      "kk": "ˈvæl.juː",
+      "tense": "n.",
+      "ch": [
+        [
+          "價值",
+          "重要性"
+        ],
+        [
+          "價格",
+          "數值"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古法語 value，最終源自拉丁語 valere（有價值、強壯、強大）。指事物本身具有的重要性、效用、價格高低，或數學上的數值大小。",
+      "definition": "1. The regard that something is held to deserve; the importance, worth, or usefulness of something.; 2. The material or monetary worth of something.",
+      "example": [
+        {
+          "eng": "I realize the true value of education now.",
+          "ch": "我現在意識到教育的真正價值。"
+        },
+        {
+          "eng": "The old painting has increased significantly in value.",
+          "ch": "這幅舊畫作的價值大幅上升了。"
+        }
+      ]
+    },
+    {
+      "eng": "value",
+      "kk": "ˈvæl.juː",
+      "tense": "vt.",
+      "ch": [
+        [
+          "重視",
+          "估價"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自名詞 value，指對某人或某物的價值給予高度評價與重視，或為財產進行專業估價。",
+      "definition": "1. To consider someone or something to be important or beneficial.; 2. To estimate the monetary worth of something.",
+      "example": [
+        {
+          "eng": "I deeply value your friendship and support.",
+          "ch": "我深深珍視你的友誼與支持。"
+        },
+        {
+          "eng": "The antique vase was valued at ten thousand dollars.",
+          "ch": "這件古董花瓶估價為一萬美元。"
+        }
+      ]
+    },
+    {
+      "eng": "victory",
+      "kk": "ˈvɪk.tər.i",
+      "tense": "n.",
+      "ch": [
+        [
+          "勝利",
+          "成功"
+        ]
+      ],
+      "analysis": "此字為名詞，源自拉丁語 victoria（勝利），由動詞 vincere（征服、戰勝）衍生而來。指在戰爭、競賽或艱困挑戰中擊敗對手獲得的最終勝利。",
+      "definition": "1. An act of defeating an enemy or opponent in a battle, game, or other competition.",
+      "example": [
+        {
+          "eng": "The team celebrated their thrilling victory in the championship.",
+          "ch": "該隊在錦標賽中慶祝他們驚險的勝利。"
+        }
+      ]
+    },
+    {
+      "eng": "view",
+      "kk": "vjuː",
+      "tense": "n.",
+      "ch": [
+        [
+          "視野",
+          "風景",
+          "景色"
+        ],
+        [
+          "看法",
+          "見解"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古法語 vue（視力、見解），最終源自拉丁語 videre（看）。本義指眼睛所能看到的自然景觀或視野範圍，隨後引申出個人對特定議題的看法與意見。",
+      "definition": "1. What can be seen from a particular place; scenery.; 2. A particular way of considering or judging something; an opinion or belief.",
+      "example": [
+        {
+          "eng": "Our hotel room had a wonderful view of the ocean.",
+          "ch": "我們的飯店房間有絕佳的海景。"
+        },
+        {
+          "eng": "Everyone is entitled to express their personal views.",
+          "ch": "每個人都有權表達自己的個人觀點。"
+        }
+      ]
+    },
+    {
+      "eng": "view",
+      "kk": "vjuː",
+      "tense": "vt.",
+      "ch": [
+        [
+          "觀看",
+          "視察"
+        ],
+        [
+          "看待",
+          "視為"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自名詞 view，指用眼睛觀看某物，或在心智上以特定角度來看待、評估某個狀況。",
+      "definition": "1. To look at or inspect something.; 2. To regard or consider in a specified way.",
+      "example": [
+        {
+          "eng": "Millions of people viewed the solar eclipse.",
+          "ch": "數百萬人觀看了日食。"
+        },
+        {
+          "eng": "We should view this challenge as an opportunity.",
+          "ch": "我們應該把這個挑戰視為一個機會。"
+        }
+      ]
+    },
+    {
+      "eng": "village",
+      "kk": "ˈvɪl.ɪdʒ",
+      "tense": "n.",
+      "ch": [
+        [
+          "村莊",
+          "村落"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古法語 village，最終源自拉丁語 villaticus（鄉村的、莊園的），由 villa（鄉間別墅、農莊）演變而來。指規模小於城鎮的農村聚落。",
+      "definition": "1. A group of houses and other buildings in a rural area, larger than a hamlet but smaller than a town.",
+      "example": [
+        {
+          "eng": "The small fishing village is very quiet and peaceful.",
+          "ch": "這個小漁村非常安靜祥和。"
+        }
+      ]
+    },
+    {
+      "eng": "vote",
+      "kk": "voʊt",
+      "tense": "n.",
+      "ch": [
+        [
+          "投票",
+          "選票"
+        ]
+      ],
+      "analysis": "此字為名詞，源自拉丁語 votum（誓言、願望），由 vovere（發誓、許願）衍生而來。歷史上在宗教或法律許願的基礎上，演變出政治選舉中表達意願與選擇的「投票與選票」。",
+      "definition": "1. A formal expression of preference for a candidate or proposal, typically made during an election.",
+      "example": [
+        {
+          "eng": "Every eligible citizen should cast a vote in the election.",
+          "ch": "每個符合資格的公民都應該在選舉中投下一票。"
+        }
+      ]
+    },
+    {
+      "eng": "vote",
+      "kk": "voʊt",
+      "tense": "vi.",
+      "ch": [
+        [
+          "投票",
+          "表決"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，源自名詞 vote，指在選舉或決策會議中投下贊成、反對的選票。",
+      "definition": "1. To give a vote in an election or meeting; to express a formal choice.",
+      "example": [
+        {
+          "eng": "Citizens lined up to vote for their preferred mayor.",
+          "ch": "公民們排隊為他們心儀的市長人選投票。"
+        }
+      ]
+    }
+  ]
+}

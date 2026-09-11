@@ -1,0 +1,1039 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/udsvah03",
+    "id": "udsvah03",
+    "slide": 9,
+    "layoutId": "/ppt/slideLayouts/slideLayout1.xml",
+    "layoutName": "TITLE",
+    "layoutType": "title",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "backgroundColor": "#F6F8F2",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Arial"
+      },
+      "minorFont": {
+        "latinTypeface": "Arial"
+      }
+    },
+    "typefaces": [
+      "Arial",
+      "Microsoft JhengHei"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout1.xml",
+      "name": "TITLE",
+      "type": "title",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "backgroundColor": "lt1",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6947mhgz",
+      "id": "203",
+      "name": "Google Shape;203;p11",
+      "bbox": [
+        0,
+        0,
+        1280,
+        10
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 18.67,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 18.67,
+        "typeface": "Arial",
+        "color": "#000000",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "textTransform": "none",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 9.6,
+          "right": 9.6,
+          "bottom": 9.6,
+          "left": 9.6
+        },
+        "useParagraphSpacing": true
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#315F45",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/10fqlwzm",
+      "id": "204",
+      "name": "Google Shape;204;p11",
+      "bbox": [
+        72,
+        38,
+        360,
+        24
+      ],
+      "geometry": "rect",
+      "text": "ITERATION",
+      "textPreview": "ITERATION",
+      "resolvedFontSize": 18.67,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18.67,
+        "typeface": "Arial",
+        "color": "#000000",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "textTransform": "none",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        },
+        "useParagraphSpacing": true
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "ITERATION"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "ITERATION",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "ITERATION",
+              "fontSize": 15,
+              "typeface": "Microsoft JhengHei",
+              "color": "#315F45",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gz6psryh",
+      "id": "205",
+      "name": "Google Shape;205;p11",
+      "bbox": [
+        72,
+        72,
+        1136,
+        62
+      ],
+      "geometry": "rect",
+      "text": "以反饋為導向，推動系統持續迭代 ",
+      "textPreview": "以反饋為導向，推動系統持續迭代",
+      "resolvedFontSize": 18.67,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18.67,
+        "typeface": "Arial",
+        "color": "#000000",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "textTransform": "none",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        },
+        "useParagraphSpacing": true
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "以反饋為導向，推動系統持續迭代"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "以反饋為導向，推動系統持續迭代 ",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "以反饋為導向，推動系統持續迭代 ",
+              "fontSize": 43,
+              "typeface": "Microsoft JhengHei",
+              "color": "#1F2D25",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/fyx8jmhw",
+      "id": "206",
+      "name": "Google Shape;206;p11",
+      "bbox": [
+        72,
+        132,
+        1136,
+        32
+      ],
+      "geometry": "rect",
+      "text": "結合使用者回報與自主邊界測試精準定位問題，並導入工程化標準流程進行修復與版本更新。 ",
+      "textPreview": "結合使用者回報與自主邊界測試精準定位問題，並導入工程化標準流程進行修復與版本更新。",
+      "resolvedFontSize": 18.67,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18.67,
+        "typeface": "Arial",
+        "color": "#000000",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "textTransform": "none",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        },
+        "useParagraphSpacing": true
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "結合使用者回報與自主邊界測試精準定位問題，並導入工程化標準流程進行修復與版本更新。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "結合使用者回報與自主邊界測試精準定位問題，並導入工程化標準流程進行修復與版本更新。 ",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "結合使用者回報與自主邊界測試精準定位問題，並導入工程化標準流程進行修復與版本更新。 ",
+              "fontSize": 20,
+              "typeface": "Microsoft JhengHei",
+              "color": "#5D6B62"
+            }
+          ]
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/exo7q1gb",
+      "id": "207",
+      "name": "Google Shape;207;p11",
+      "bbox": [
+        1170,
+        686,
+        38,
+        18
+      ],
+      "geometry": "rect",
+      "text": "09",
+      "textPreview": "09",
+      "resolvedFontSize": 18.67,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18.67,
+        "typeface": "Arial",
+        "color": "#000000",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "textTransform": "none",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        },
+        "useParagraphSpacing": true
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "09"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "09",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "09",
+              "fontSize": 13,
+              "typeface": "Microsoft JhengHei",
+              "color": "#5D6B62",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/p4zqpgzy",
+      "id": "208",
+      "name": "Google Shape;208;p11",
+      "bbox": [
+        78,
+        214,
+        528,
+        332
+      ],
+      "geometry": "roundRect",
+      "resolvedFontSize": 18.67,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 18.67,
+        "typeface": "Arial",
+        "color": "#000000",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "textTransform": "none",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 9.6,
+          "right": 9.6,
+          "bottom": 9.6,
+          "left": 9.6
+        },
+        "useParagraphSpacing": true
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#FFFFFF",
+      "lineColor": "#CBD6C7",
+      "lineWidth": 1
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/o3q9wbyd",
+      "id": "209",
+      "name": "Google Shape;209;p11",
+      "bbox": [
+        110,
+        275,
+        430.02,
+        48
+      ],
+      "geometry": "rect",
+      "text": "語音模型發音不正確",
+      "textPreview": "語音模型發音不正確",
+      "resolvedFontSize": 18.67,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18.67,
+        "typeface": "Arial",
+        "color": "#000000",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "textTransform": "none",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        },
+        "useParagraphSpacing": true
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "語音模型發音不正確"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "語音模型發音不正確",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "語音模型發音不正確",
+              "fontSize": 29,
+              "typeface": "Microsoft JhengHei",
+              "color": "#1F2D25",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/m90nadwv",
+      "id": "210",
+      "name": "Google Shape;210;p11",
+      "bbox": [
+        110,
+        333,
+        36,
+        34.02
+      ],
+      "geometry": "rect",
+      "text": "↓",
+      "textPreview": "↓",
+      "resolvedFontSize": 18.67,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18.67,
+        "typeface": "Arial",
+        "color": "#000000",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "textTransform": "none",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        },
+        "useParagraphSpacing": true
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "↓"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "↓",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "↓",
+              "fontSize": 28,
+              "typeface": "Microsoft JhengHei",
+              "color": "#D4A94E",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/na94jixg",
+      "id": "211",
+      "name": "Google Shape;211;p11",
+      "bbox": [
+        110,
+        385,
+        430.02,
+        88
+      ],
+      "geometry": "rect",
+      "text": "優先抓取API字典真人發音；\n無合適來源時，再以 TTS模組 作為 fallback。",
+      "textPreview": "優先抓取API字典真人發音； | 無合適來源時，再以 TTS模組 作為 fallback。",
+      "resolvedFontSize": 18.67,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18.67,
+        "typeface": "Arial",
+        "color": "#000000",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "textTransform": "none",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        },
+        "useParagraphSpacing": true
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "優先抓取API字典真人發音；"
+          },
+          {
+            "index": 2,
+            "text": "無合適來源時，再以 TTS模組 作為 fallback。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "優先抓取API字典真人發音；",
+          "lineSpacingPercent": 128000,
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "優先抓取",
+              "fontSize": 21,
+              "typeface": "Microsoft JhengHei",
+              "color": "#5D6B62"
+            },
+            {
+              "index": 2,
+              "text": "API",
+              "fontSize": 21,
+              "typeface": "Microsoft JhengHei",
+              "color": "#5D6B62"
+            },
+            {
+              "index": 3,
+              "text": "字典真人發音；",
+              "fontSize": 21,
+              "typeface": "Microsoft JhengHei",
+              "color": "#5D6B62"
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "text": "無合適來源時，再以 TTS模組 作為 fallback。",
+          "lineSpacingPercent": 128000,
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "無合適來源時，再以 TTS",
+              "fontSize": 21,
+              "typeface": "Microsoft JhengHei",
+              "color": "#5D6B62"
+            },
+            {
+              "index": 2,
+              "text": "模組",
+              "fontSize": 21,
+              "typeface": "Microsoft JhengHei",
+              "color": "#5D6B62"
+            },
+            {
+              "index": 3,
+              "text": " 作為 fallback。",
+              "fontSize": 21,
+              "typeface": "Microsoft JhengHei",
+              "color": "#5D6B62"
+            }
+          ]
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8bi5c3e1",
+      "id": "212",
+      "name": "Google Shape;212;p11",
+      "bbox": [
+        674,
+        214,
+        528,
+        332
+      ],
+      "geometry": "roundRect",
+      "resolvedFontSize": 18.67,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 18.67,
+        "typeface": "Arial",
+        "color": "#000000",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "textTransform": "none",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 9.6,
+          "right": 9.6,
+          "bottom": 9.6,
+          "left": 9.6
+        },
+        "useParagraphSpacing": true
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#FFFFFF",
+      "lineColor": "#CBD6C7",
+      "lineWidth": 1
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9cbml8fm",
+      "id": "213",
+      "name": "Google Shape;213;p11",
+      "bbox": [
+        706,
+        275,
+        430.02,
+        48
+      ],
+      "geometry": "rect",
+      "text": "單次生成會留下分析錯誤",
+      "textPreview": "單次生成會留下分析錯誤",
+      "resolvedFontSize": 18.67,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18.67,
+        "typeface": "Arial",
+        "color": "#000000",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "textTransform": "none",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        },
+        "useParagraphSpacing": true
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "單次生成會留下分析錯誤"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "單次生成會留下分析錯誤",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "單次生成會留下分析錯誤",
+              "fontSize": 29,
+              "typeface": "Microsoft JhengHei",
+              "color": "#1F2D25",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/adknedwr",
+      "id": "214",
+      "name": "Google Shape;214;p11",
+      "bbox": [
+        706,
+        333,
+        36,
+        34.02
+      ],
+      "geometry": "rect",
+      "text": "↓",
+      "textPreview": "↓",
+      "resolvedFontSize": 18.67,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18.67,
+        "typeface": "Arial",
+        "color": "#000000",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "textTransform": "none",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        },
+        "useParagraphSpacing": true
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "↓"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "↓",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "↓",
+              "fontSize": 28,
+              "typeface": "Microsoft JhengHei",
+              "color": "#D4A94E",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vet4nixc",
+      "id": "215",
+      "name": "Google Shape;215;p11",
+      "bbox": [
+        706,
+        385,
+        430.02,
+        88
+      ],
+      "geometry": "rect",
+      "text": "拆成生成、複核、仲裁，並用規則驗證與回退避免錯誤直接進入單字庫。",
+      "textPreview": "拆成生成、複核、仲裁，並用規則驗證與回退避免錯誤直接進入單字庫。",
+      "resolvedFontSize": 18.67,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18.67,
+        "typeface": "Arial",
+        "color": "#000000",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "textTransform": "none",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        },
+        "useParagraphSpacing": true
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "拆成生成、複核、仲裁，並用規則驗證與回退"
+          },
+          {
+            "index": 2,
+            "text": "避免錯誤直接進入單字庫。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "拆成生成、複核、仲裁，並用規則驗證與回退避免錯誤直接進入單字庫。",
+          "lineSpacingPercent": 128000,
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "拆成生成、複核、仲裁，並用規則驗證與回退避免錯誤直接進入單字庫。",
+              "fontSize": 21,
+              "typeface": "Microsoft JhengHei",
+              "color": "#5D6B62"
+            }
+          ]
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wf25gnex",
+      "id": "216",
+      "name": "Google Shape;216;p11",
+      "bbox": [
+        389.5,
+        560.46,
+        501.01,
+        137.83
+      ],
+      "geometry": "rect",
+      "text": "我透過實際使用與自行測試\n持續推動下一輪迭代\n公測發布後我也持續的蒐集使用者回饋\n來持續的優化前後端",
+      "textPreview": "我透過實際使用與自行測試 | 持續推動下一輪迭代 | 公測發布後我也持續的蒐集使用者回饋 | 來持續的優化前後端",
+      "resolvedFontSize": 18.67,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18.67,
+        "typeface": "Arial",
+        "color": "#000000",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "textTransform": "none",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        },
+        "useParagraphSpacing": true
+      },
+      "textLayout": {
+        "lineCount": 4,
+        "lines": [
+          {
+            "index": 1,
+            "text": "我透過實際使用與自行測試"
+          },
+          {
+            "index": 2,
+            "text": "持續推動下一輪迭代"
+          },
+          {
+            "index": 3,
+            "text": "公測發布後我也持續的蒐集使用者回饋"
+          },
+          {
+            "index": 4,
+            "text": "來持續的優化前後端"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "我透過實際使用與自行測試",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "我透過實際使用與自行測試",
+              "fontSize": 24,
+              "typeface": "Microsoft JhengHei",
+              "color": "#5D6B62",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "text": "持續推動下一輪迭代\n公測發布後我也持續的蒐集使用者回饋\n來持續的優化前後端",
+          "lineSpacingPercent": 108000,
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "持續推動下一輪迭代",
+              "fontSize": 24,
+              "typeface": "Microsoft JhengHei",
+              "color": "#5D6B62",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "\n",
+              "alignment": "center"
+            },
+            {
+              "index": 3,
+              "text": "公測發布後我也持續的蒐集使用者回饋",
+              "fontSize": 24,
+              "typeface": "Microsoft JhengHei",
+              "color": "#5D6B62",
+              "bold": true
+            },
+            {
+              "index": 4,
+              "text": "\n",
+              "alignment": "center"
+            },
+            {
+              "index": 5,
+              "text": "來持續的優化前後端",
+              "fontSize": 24,
+              "typeface": "Microsoft JhengHei",
+              "color": "#5D6B62",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

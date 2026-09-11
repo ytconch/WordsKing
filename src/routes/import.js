@@ -7,6 +7,7 @@ const express = require("express");
 const multer = require("multer");
 const { wordsDb, serverDb, clientDb } = require("../db/connections");
 const { requireAuth, requireAdmin } = require("../middleware/auth");
+const { clearPracticeWordCache } = require("./practice");
 const {
   normalizeText,
   normalizeExample,
@@ -33,6 +34,9 @@ const upload = multer({
 const draftJobs = new Map();
 const draftJobQueue = [];
 let activeDraftJobId = "";
+const WORD_PIPELINE_MAX_UNIQUE_WORDS = 75;
+const WORD_PIPELINE_MAX_SOURCE_ROWS = 120;
+const MAX_REVIEWED_OCR_CHARS = 10_000;
 
 function validateSourceName(value, required = true) {
   return validateTextField(value, "來源", { ...FIELD_LIMITS.sourceName, required });
@@ -467,163 +471,6 @@ async function remapStudyWordRefs(mappings) {
   }
 }
 
-async function remapExamMeaningWordRefs(mappings) {
-  if (!mappings.length) {
-    return;
-  }
-
-  await wordsDb.exec("BEGIN TRANSACTION");
-  try {
-    for (const mapping of mappings) {
-      if (!mapping?.unitId || !mapping.oldWordRef || !mapping.newWordRef || mapping.oldWordRef === mapping.newWordRef) {
-        continue;
-      }
-
-      const rows = await wordsDb.all(
-        `SELECT meaning_index, meaning_text
-         FROM unit_exam_meanings
-         WHERE unit_id = ? AND word_ref = ?
-         ORDER BY meaning_index`,
-        [mapping.unitId, mapping.oldWordRef]
-      );
-
-      for (const row of rows) {
-        await wordsDb.run(
-          `INSERT INTO unit_exam_meanings
-             (unit_id, word_ref, meaning_index, meaning_text, created_at, updated_at)
-           VALUES (?, ?, ?, ?, CURRENT_TIMESTAMP, CURRENT_TIMESTAMP)
-           ON CONFLICT(unit_id, word_ref, meaning_index) DO UPDATE SET
-             meaning_text = excluded.meaning_text,
-             updated_at = CURRENT_TIMESTAMP`,
-          [mapping.unitId, mapping.newWordRef, row.meaning_index, row.meaning_text]
-        );
-      }
-
-      await wordsDb.run(
-        `DELETE FROM unit_exam_meanings
-         WHERE unit_id = ? AND word_ref = ?`,
-        [mapping.unitId, mapping.oldWordRef]
-      );
-    }
-    await wordsDb.exec("COMMIT");
-  } catch (error) {
-    await wordsDb.exec("ROLLBACK");
-    throw error;
-  }
-}
-
-async function cleanupUnitExamMeanings(unitId, validWordRefs) {
-  if (!unitId) {
-    return;
-  }
-
-  if (!validWordRefs.length) {
-    await wordsDb.run("DELETE FROM unit_exam_meanings WHERE unit_id = ?", [unitId]);
-    return;
-  }
-
-  await wordsDb.run(
-    `DELETE FROM unit_exam_meanings
-     WHERE unit_id = ?
-       AND word_ref NOT IN (${validWordRefs.map(() => "?").join(",")})`,
-    [unitId, ...validWordRefs]
-  );
-}
-
-function normalizeMeaningForMatch(value) {
-  return cleanMeaningEntry(value).replace(/\s+/g, "");
-}
-
-function tokenizeMeaningForMatch(value) {
-  const direct = normalizeMeaningForMatch(value);
-  const tokens = parseMeaningEntries(value)
-    .map((item) => normalizeMeaningForMatch(item))
-    .filter(Boolean);
-
-  if (direct) {
-    tokens.unshift(direct);
-  }
-
-  return [...new Set(tokens)];
-}
-
-function meaningsMatchExactlyForRefresh(sourceText, targetText) {
-  const sourceTokens = tokenizeMeaningForMatch(sourceText);
-  const targetTokens = tokenizeMeaningForMatch(targetText);
-
-  if (!sourceTokens.length || !targetTokens.length) {
-    return false;
-  }
-
-  return sourceTokens.some((token) => targetTokens.includes(token));
-}
-
-async function remapExamMeaningsByTextForRefresh(mappings) {
-  if (!mappings.length) {
-    return;
-  }
-
-  await wordsDb.exec("BEGIN TRANSACTION");
-  try {
-    for (const mapping of mappings) {
-      if (!mapping?.unitId || !mapping.oldWordRef || !mapping.newWordRef) {
-        continue;
-      }
-
-      const oldRows = await wordsDb.all(
-        `SELECT meaning_text
-         FROM unit_exam_meanings
-         WHERE unit_id = ? AND word_ref = ?
-         ORDER BY meaning_index`,
-        [mapping.unitId, mapping.oldWordRef]
-      );
-
-      await wordsDb.run(
-        `DELETE FROM unit_exam_meanings
-         WHERE unit_id = ? AND word_ref = ?`,
-        [mapping.unitId, mapping.oldWordRef]
-      );
-
-      await wordsDb.run(
-        `DELETE FROM unit_exam_meanings
-         WHERE unit_id = ? AND word_ref = ?`,
-        [mapping.unitId, mapping.newWordRef]
-      );
-
-      const newEntries = Array.isArray(mapping.newEntries) ? mapping.newEntries : [];
-      if (!oldRows.length || !newEntries.length) {
-        continue;
-      }
-
-      const usedIndexes = new Set();
-      for (const row of oldRows) {
-        for (let index = 0; index < newEntries.length; index += 1) {
-          if (usedIndexes.has(index)) {
-            continue;
-          }
-
-          if (meaningsMatchExactlyForRefresh(row.meaning_text, newEntries[index])) {
-            usedIndexes.add(index);
-            await wordsDb.run(
-              `INSERT INTO unit_exam_meanings
-                 (unit_id, word_ref, meaning_index, meaning_text, created_at, updated_at)
-               VALUES (?, ?, ?, ?, CURRENT_TIMESTAMP, CURRENT_TIMESTAMP)
-               ON CONFLICT(unit_id, word_ref, meaning_index) DO UPDATE SET
-                 meaning_text = excluded.meaning_text,
-                 updated_at = CURRENT_TIMESTAMP`,
-              [mapping.unitId, mapping.newWordRef, index, newEntries[index]]
-            );
-            break;
-          }
-        }
-      }
-    }
-    await wordsDb.exec("COMMIT");
-  } catch (error) {
-    await wordsDb.exec("ROLLBACK");
-    throw error;
-  }
-}
 
 function buildWordRefMappings(words, sourceName, unitName) {
   return words.map((word) => ({
@@ -660,6 +507,120 @@ function normalizeImportRow(row) {
     definition: normalizeText(row.definition),
     example: normalizeExample(exampleValue)
   };
+}
+
+function getPipelineWord(entry) {
+  return normalizeText(typeof entry === "string" ? entry : entry?.eng);
+}
+
+function buildWordChunks(entries, maxUniqueWords = WORD_PIPELINE_MAX_UNIQUE_WORDS, maxSourceRows = WORD_PIPELINE_MAX_SOURCE_ROWS) {
+  const groups = [];
+  const groupsByWord = new Map();
+
+  for (const entry of Array.isArray(entries) ? entries : []) {
+    const word = getPipelineWord(entry);
+    const key = normalizeEnglish(word);
+    if (!key) {
+      continue;
+    }
+
+    let group = groupsByWord.get(key);
+    if (!group) {
+      group = [];
+      groupsByWord.set(key, group);
+      groups.push(group);
+    }
+    group.push(entry);
+  }
+
+  const chunks = [];
+  let chunk = [];
+  let uniqueWords = 0;
+  for (const group of groups) {
+    if (group.length > maxSourceRows) {
+      throw new Error(`單字 ${getPipelineWord(group[0])} 共有 ${group.length} 筆來源資料，超過單批上限 ${maxSourceRows} 筆。`);
+    }
+    if (chunk.length && (uniqueWords >= maxUniqueWords || chunk.length + group.length > maxSourceRows)) {
+      chunks.push(chunk);
+      chunk = [];
+      uniqueWords = 0;
+    }
+    chunk.push(...group);
+    uniqueWords += 1;
+  }
+  if (chunk.length) {
+    chunks.push(chunk);
+  }
+  return chunks;
+}
+
+async function processChunksResumable(state, runChunk) {
+  for (let index = 0; index < state.chunks.length; index += 1) {
+    if (state.results[index]) {
+      continue;
+    }
+    state.results[index] = await runChunk(state.chunks[index], index, state.chunks.length);
+  }
+  return state.results.flat();
+}
+
+function mapChunkProgress(currentProgress, childProgress, chunkIndex, chunkCount) {
+  const count = Math.max(1, Number(chunkCount) || 1);
+  const local = Math.max(0, Math.min(100, Number(childProgress) || 0));
+  const start = 4 + (92 * chunkIndex) / count;
+  const end = 4 + (92 * (chunkIndex + 1)) / count;
+  return Math.max(Number(currentProgress) || 0, Math.floor(start + ((end - start) * local) / 100));
+}
+
+function mergePipelineMetrics(target, metrics) {
+  if (!metrics || typeof metrics !== "object") {
+    return target;
+  }
+  const aggregate = target || {};
+  for (const [key, value] of Object.entries(metrics)) {
+    aggregate[key] = (Number(aggregate[key]) || 0) + (Number(value) || 0);
+  }
+  return aggregate;
+}
+
+function validateMergedWordRows(rows, sourceEntries) {
+  const expectedWords = [];
+  const expectedSet = new Set();
+  for (const entry of sourceEntries || []) {
+    const key = normalizeEnglish(getPipelineWord(entry));
+    if (key && !expectedSet.has(key)) {
+      expectedSet.add(key);
+      expectedWords.push(key);
+    }
+  }
+
+  const actualWords = [];
+  const actualSet = new Set();
+  const rowKeys = new Set();
+  for (const row of rows || []) {
+    const wordKey = normalizeEnglish(row.eng);
+    const rowKey = `${wordKey}\u0000${normalizeText(row.tense).toLowerCase()}`;
+    if (!expectedSet.has(wordKey)) {
+      throw new Error(`AI 草稿包含非輸入單字：${row.eng}`);
+    }
+    if (rowKeys.has(rowKey)) {
+      throw new Error(`AI 草稿包含重複 eng + tense：${row.eng} ${row.tense}`);
+    }
+    rowKeys.add(rowKey);
+    if (!actualSet.has(wordKey)) {
+      actualSet.add(wordKey);
+      actualWords.push(wordKey);
+    }
+  }
+
+  const missing = expectedWords.filter((word) => !actualSet.has(word));
+  if (missing.length) {
+    throw new Error(`AI 草稿遺漏輸入單字：${missing.join(", ")}`);
+  }
+  if (actualWords.some((word, index) => word !== expectedWords[index])) {
+    throw new Error("AI 草稿合併後的單字順序與輸入不一致。");
+  }
+  return rows;
 }
 
 function hasExampleContent(value) {
@@ -730,53 +691,71 @@ function buildRefreshWordPayload(item) {
         analysis: word.analysis || "",
         definition: word.definition || "",
         example: word.example || ""
-      },
-      examMeanings: Array.isArray(word.examMeanings) ? word.examMeanings : []
+      }
     }))
   };
 }
 
 function buildRefreshDraftRows(existingWords, normalizedRows) {
-  const usedWordIds = new Set();
+  const existingGroups = new Map();
+  const generatedGroups = new Map();
+  const wordOrder = [];
 
-  function findMatch(targetRow) {
-    const targetEng = normalizeEnglish(targetRow.eng);
-    const targetTense = normalizeText(targetRow.tense);
-
-    let match = existingWords.find(
-      (word) =>
-        !usedWordIds.has(word.wordId) &&
-        normalizeEnglish(word.eng) === targetEng &&
-        normalizeText(word.tense) === targetTense
-    );
-
-    if (!match) {
-      match = existingWords.find(
-        (word) => !usedWordIds.has(word.wordId) && normalizeEnglish(word.eng) === targetEng
-      );
+  for (const word of existingWords || []) {
+    const key = normalizeEnglish(word.eng);
+    if (!existingGroups.has(key)) {
+      existingGroups.set(key, []);
+      wordOrder.push(key);
     }
-
-    if (match) {
-      usedWordIds.add(match.wordId);
+    existingGroups.get(key).push(word);
+  }
+  for (const row of normalizedRows || []) {
+    const key = normalizeEnglish(row.eng);
+    if (!generatedGroups.has(key)) {
+      generatedGroups.set(key, []);
     }
-
-    return match;
+    generatedGroups.get(key).push(row);
   }
 
-  return normalizedRows.map((row) => {
-    const matched = findMatch(row);
-    return {
-      wordId: matched?.wordId || null,
-      wordRef: matched?.wordRef || "",
-      eng: row.eng,
-      kk: row.kk,
-      tense: row.tense,
-      ch: row.ch,
-      analysis: row.analysis,
-      definition: row.definition,
-      example: row.example
-    };
-  });
+  const draftRows = [];
+  for (const wordKey of wordOrder) {
+    const available = [...(existingGroups.get(wordKey) || [])];
+    const generated = generatedGroups.get(wordKey) || [];
+    const matches = Array(generated.length).fill(null);
+
+    // Reserve exact eng + tense matches across the whole group first.
+    for (let index = 0; index < generated.length; index += 1) {
+      const tense = normalizeText(generated[index].tense);
+      const matchIndex = available.findIndex((word) => normalizeText(word.tense) === tense);
+      if (matchIndex >= 0) {
+        matches[index] = available.splice(matchIndex, 1)[0];
+      }
+    }
+
+    for (let index = 0; index < generated.length; index += 1) {
+      const row = generated[index];
+      const matched = matches[index] || available.shift() || null;
+      const protectedRow = mergeRefreshRowWithExisting(row, matched);
+      draftRows.push({
+        wordId: matched?.wordId || null,
+        wordRef: matched?.wordRef || "",
+        ...protectedRow
+      });
+    }
+
+    for (const existing of available) {
+      const protectedRow = normalizeImportRow(existing);
+      if (protectedRow) {
+        draftRows.push({
+          wordId: existing.wordId || null,
+          wordRef: existing.wordRef || "",
+          ...protectedRow
+        });
+      }
+    }
+  }
+
+  return draftRows;
 }
 
 async function importRowsToUnit({ sourceName, unitName, rows, fileName, createdBy }) {
@@ -950,7 +929,7 @@ function runPythonReviewedOcrPipeline(tempFilePath, item, job, itemIndex) {
   );
 }
 
-function runPythonPipeline([command, args], item, job, itemIndex, fallbackError, envOverrides = {}) {
+function runPythonPipeline([command, args], item, job, itemIndex, fallbackError, envOverrides = {}, progressOptions = {}) {
   return new Promise((resolve, reject) => {
     const resolvedArgs = args.map((arg) =>
       arg === "scripts/image_word_pipeline.py" ? path.join(process.cwd(), arg) : arg
@@ -977,9 +956,14 @@ function runPythonPipeline([command, args], item, job, itemIndex, fallbackError,
       if (trimmed.startsWith("__WK_PROGRESS__")) {
         try {
           const payload = JSON.parse(trimmed.slice("__WK_PROGRESS__".length));
+          const hasChunk = Number.isInteger(progressOptions.chunkIndex) && progressOptions.chunkCount;
+          const progress = hasChunk
+            ? mapChunkProgress(item.progress, payload.progress, progressOptions.chunkIndex, progressOptions.chunkCount)
+            : Number(payload.progress || item.progress);
+          const message = `${hasChunk ? `第 ${progressOptions.chunkIndex + 1}/${progressOptions.chunkCount} 批：` : ""}${payload.message || "處理中"}`;
           item.status = "running";
           item.stage = payload.stage || item.stage;
-          appendLog(item, Number(payload.progress || item.progress), payload.message || "處理中");
+          appendLog(item, progress, message);
           updateBatchProgress(job, itemIndex, item.progress, `${item.fileName}：${item.message}`, item.stage);
           appendLog(job, job.progress, `${item.fileName}：${item.message}`);
         } catch {
@@ -1034,6 +1018,78 @@ function runPythonPipeline([command, args], item, job, itemIndex, fallbackError,
       resolve(resultPayload);
     });
   });
+}
+
+async function runWordChunks(job, item, itemIndex, workerConfig, totalWorkers, options = {}) {
+  if (!item._wordChunkState) {
+    if (item.tempFilePath) {
+      await fs.unlink(item.tempFilePath).catch(() => {});
+      item.tempFilePath = "";
+    }
+    const chunks = buildWordChunks(item.words);
+    Object.defineProperty(item, "_wordChunkState", {
+      value: { chunks, results: Array(chunks.length).fill(null) },
+      writable: true,
+      configurable: true
+    });
+    Object.defineProperty(item, "_pipelineMetrics", {
+      value: {},
+      writable: true,
+      configurable: true
+    });
+    appendLog(item, item.progress || 1, `英文列表已分為 ${chunks.length} 批，每批最多 ${WORD_PIPELINE_MAX_UNIQUE_WORDS} 個單字／${WORD_PIPELINE_MAX_SOURCE_ROWS} 筆來源資料。`);
+  }
+
+  const state = item._wordChunkState;
+  const words = await processChunksResumable(state, async (chunk, chunkIndex, chunkCount) => {
+    const chunkPayload = options.refresh
+      ? buildRefreshWordPayload({ words: chunk })
+      : { words: chunk };
+    const tempFilePath = path.join(
+      os.tmpdir(),
+      `words-king-${options.refresh ? "refresh" : "text"}-${job.id}-${item.id}-${chunkIndex + 1}.json`
+    );
+    item.tempFilePath = tempFilePath;
+    await fs.writeFile(tempFilePath, JSON.stringify(chunkPayload, null, 2), "utf8");
+
+    try {
+      const payload = await runPythonPipeline(
+        ["python", ["scripts/image_word_pipeline.py", "--words-json", tempFilePath]],
+        item,
+        job,
+        itemIndex,
+        options.fallbackError || "英文列表分析失敗。",
+        {
+          ...workerConfig.env,
+          GEMINI_WORKER_INDEX: String(workerConfig.id),
+          GEMINI_WORKER_COUNT: String(totalWorkers)
+        },
+        { chunkIndex, chunkCount }
+      );
+      item._pipelineMetrics = mergePipelineMetrics(item._pipelineMetrics, payload.metrics);
+      return Array.isArray(payload.words) ? payload.words : [];
+    } finally {
+      await fs.unlink(tempFilePath).catch(() => {});
+      if (item.tempFilePath === tempFilePath) {
+        item.tempFilePath = "";
+      }
+    }
+  });
+
+  return {
+    words,
+    chunkCount: state.chunks.length,
+    metrics: item._pipelineMetrics
+  };
+}
+
+function appendPipelineMetricsLog(item, chunkCount) {
+  const metrics = item._pipelineMetrics || {};
+  appendLog(
+    item,
+    item.progress,
+    `AI 統計：${chunkCount} 批、${Number(metrics.modelCalls) || 0} 次呼叫、input ${Number(metrics.promptTokens) || 0}、output ${Number(metrics.outputTokens) || 0}、cached ${Number(metrics.cachedTokens) || 0} tokens、耗時 ${Number(metrics.durationMs) || 0}ms；local/Gemini JSON repair ${Number(metrics.localJsonRepairs) || 0}/${Number(metrics.geminiJsonRepairs) || 0}，coverage repair ${Number(metrics.coverageRepairs) || 0}，pass fallback ${Number(metrics.secondPassFallbacks) || 0}/${Number(metrics.thirdPassFallbacks) || 0}/${Number(metrics.coverageFallbacks) || 0}。`
+  );
 }
 
 function runPythonWordsJsonPipeline(tempFilePath, item, job, itemIndex) {
@@ -1352,26 +1408,38 @@ async function processDraftJobParallel(job) {
 
   const counters = await processJobItemsWithWorkers(job, async (item, itemIndex, workerConfig, totalWorkers) => {
     const spec = getDraftPipelineSpecParallel(job, item);
-    const payload = await runPythonPipeline(
-      ["python", ["scripts/image_word_pipeline.py", ...spec.args]],
-      item,
-      job,
-      itemIndex,
-      spec.fallbackError,
-      {
-        ...workerConfig.env,
-        GEMINI_WORKER_INDEX: String(workerConfig.id),
-        GEMINI_WORKER_COUNT: String(totalWorkers)
-      }
-    );
+    const payload = item.words?.length
+      ? await runWordChunks(job, item, itemIndex, workerConfig, totalWorkers, { fallbackError: spec.fallbackError })
+      : await runPythonPipeline(
+          ["python", ["scripts/image_word_pipeline.py", ...spec.args]],
+          item,
+          job,
+          itemIndex,
+          spec.fallbackError,
+          {
+            ...workerConfig.env,
+            GEMINI_WORKER_INDEX: String(workerConfig.id),
+            GEMINI_WORKER_COUNT: String(totalWorkers)
+          }
+        );
 
     item.rows = spec.buildRows(payload);
+    validateMergedWordRows(item.rows, item.words || item.rows);
+    if (!item.words?.length) {
+      Object.defineProperty(item, "_pipelineMetrics", {
+        value: mergePipelineMetrics(item._pipelineMetrics, payload.metrics),
+        writable: true,
+        configurable: true
+      });
+    }
+    appendPipelineMetricsLog(item, payload.chunkCount || 1);
     item.ocrText = typeof payload.ocrText === "string" ? payload.ocrText : item.ocrText || "";
     item.status = "completed";
     item.stage = "done";
     appendLog(item, 100, spec.successMessage(item));
     updateBatchProgress(job, itemIndex, 100, `${item.fileName} 完成`, "done");
     appendLog(job, job.progress, `${item.fileName} 完成`);
+    delete item._wordChunkState;
   });
 
   job.status = "completed";
@@ -1410,30 +1478,21 @@ async function processLibraryRefreshJobParallel(job) {
   appendLog(job, 1, `全庫重掃工作池啟動，worker ${workerCount} 個，共 ${job.items.length} 個單元。`);
 
   const counters = await processJobItemsWithWorkers(job, async (item, itemIndex, workerConfig, totalWorkers) => {
-    const wordPayload = buildRefreshWordPayload(item);
-    item.tempFilePath = path.join(os.tmpdir(), `words-king-refresh-${job.id}-${item.id}.json`);
-    await fs.writeFile(item.tempFilePath, JSON.stringify(wordPayload, null, 2), "utf8");
-
     const spec = getRefreshPipelineSpecParallel(item);
-    const payload = await runPythonPipeline(
-      ["python", ["scripts/image_word_pipeline.py", ...spec.args]],
-      item,
-      job,
-      itemIndex,
-      spec.fallbackError,
-      {
-        ...workerConfig.env,
-        GEMINI_WORKER_INDEX: String(workerConfig.id),
-        GEMINI_WORKER_COUNT: String(totalWorkers)
-      }
-    );
+    const payload = await runWordChunks(job, item, itemIndex, workerConfig, totalWorkers, {
+      refresh: true,
+      fallbackError: spec.fallbackError
+    });
 
     item.rows = spec.buildRows(payload);
+    validateMergedWordRows(item.rows, item.words);
+    appendPipelineMetricsLog(item, payload.chunkCount);
     item.status = "completed";
     item.stage = "done";
     appendLog(item, 100, spec.successMessage(item));
     updateBatchProgress(job, itemIndex, 100, `${item.fileName} 完成`, "done");
     appendLog(job, job.progress, `${item.fileName} 完成`);
+    delete item._wordChunkState;
   });
 
   job.status = "completed";
@@ -1882,34 +1941,10 @@ router.post("/library-refresh-jobs", requireAuth, requireAdmin, async (req, res,
         continue;
       }
 
-      const examRows = await wordsDb.all(
-        `SELECT
-           word_ref AS wordRef,
-           meaning_index AS meaningIndex,
-           meaning_text AS meaningText
-         FROM unit_exam_meanings
-         WHERE unit_id = ?
-         ORDER BY word_ref, meaning_index`,
-        [unit.unitId]
-      );
-      const examMap = new Map();
-      for (const row of examRows) {
-        if (!examMap.has(row.wordRef)) {
-          examMap.set(row.wordRef, []);
-        }
-        examMap.get(row.wordRef).push({
-          meaningIndex: Number(row.meaningIndex),
-          meaningText: row.meaningText
-        });
-      }
-
       unitItems.push({
         sourceName: unit.sourceName,
         unitName: unit.unitName,
-        words: words.map((word) => ({
-          ...word,
-          examMeanings: examMap.get(word.wordRef) || []
-        }))
+        words
       });
     }
 
@@ -1989,6 +2024,11 @@ router.post("/image-draft-jobs/:id/continue-ocr", requireAuth, requireAdmin, asy
       if (!ocrText) {
         return res.status(400).json({ message: `${jobItem.fileName} 的 OCR 內容不可為空。` });
       }
+      if (ocrText.length > MAX_REVIEWED_OCR_CHARS) {
+        return res.status(400).json({
+          message: `${jobItem.fileName} 的 OCR 內容超過 ${MAX_REVIEWED_OCR_CHARS.toLocaleString()} 個字元，請先拆頁後再送出。`
+        });
+      }
 
       jobItem.ocrText = ocrText;
       jobItem.sourceName = reviewed.sourceName
@@ -2048,6 +2088,8 @@ router.post("/reviewed-words", requireAuth, requireAdmin, async (req, res, next)
       createdBy: req.user.id
     });
 
+    clearPracticeWordCache();
+
     res.status(201).json({
       message: "核對後匯入完成。",
       importedCount: result.importedCount,
@@ -2077,6 +2119,8 @@ router.post("/reviewed-words-append", requireAuth, requireAdmin, async (req, res
       fileName: normalizeText(req.body.fileName) || "append-review",
       createdBy: req.user.id
     });
+
+    clearPracticeWordCache();
 
     res.status(201).json({
       message: "補字已寫入既有單元。",
@@ -2236,15 +2280,11 @@ router.post("/reviewed-words-refresh", requireAuth, requireAdmin, async (req, re
 
     if (mappings.length) {
       await remapStudyWordRefs(mappings);
-      await remapExamMeaningsByTextForRefresh(mappings);
     }
 
-    await cleanupUnitExamMeanings(
-      unit.id,
-      rowsToInsert.map((row) => row.wordRef)
-    );
-
     await syncStudyData();
+
+    clearPracticeWordCache();
 
     res.status(200).json({
       message: "全庫重掃草稿已完整覆蓋目前單元資料。",
@@ -2351,10 +2391,11 @@ router.post("/reviewed-words-refresh-legacy", requireAuth, requireAdmin, async (
 
     if (mappings.length) {
       await remapStudyWordRefs(mappings);
-      await remapExamMeaningsByTextForRefresh(mappings);
     }
 
     await syncStudyData();
+
+    clearPracticeWordCache();
 
     res.status(200).json({
       message: "英文重掃更新完成。",
@@ -2436,8 +2477,8 @@ router.patch("/sources/:id", requireAuth, requireAdmin, async (req, res, next) =
     }
 
     await remapStudyWordRefs(mappings);
-    await remapExamMeaningWordRefs(mappings);
     await syncStudyData();
+    clearPracticeWordCache();
     res.json({ message: "來源名稱已更新。" });
   } catch (error) {
     next(error);
@@ -2530,153 +2571,13 @@ router.patch("/units/:id", requireAuth, requireAdmin, async (req, res, next) => 
     }
 
     await remapStudyWordRefs(mappings);
-    await remapExamMeaningWordRefs(mappings);
     await syncStudyData();
+    clearPracticeWordCache();
     res.json({
       message:
         targetSource.id !== unit.sourceId
           ? "單元名稱與來源已更新。"
           : "單元名稱已更新。"
-    });
-  } catch (error) {
-    next(error);
-  }
-});
-
-router.get("/units/:id/exam-meanings", requireAuth, requireAdmin, async (req, res, next) => {
-  try {
-    const unitId = Number(req.params.id);
-    const unit = await wordsDb.get(
-      `SELECT
-         u.id,
-         u.name,
-         u.source_id AS sourceId,
-         s.name AS sourceName
-       FROM units u
-       JOIN sources s ON s.id = u.source_id
-       WHERE u.id = ?`,
-      [unitId]
-    );
-
-    if (!unit) {
-      return res.status(404).json({ message: "找不到單元。" });
-    }
-
-    const words = await wordsDb.all(
-      `SELECT
-         id,
-         word_ref AS wordRef,
-         eng,
-         kk,
-         tense,
-         ch
-       FROM words
-       WHERE unit_id = ?
-       ORDER BY eng_normalized, tense, id`,
-      [unitId]
-    );
-
-    const examRows = await wordsDb.all(
-      `SELECT
-         word_ref AS wordRef,
-         meaning_index AS meaningIndex,
-         meaning_text AS meaningText
-       FROM unit_exam_meanings
-       WHERE unit_id = ?
-       ORDER BY word_ref, meaning_index`,
-      [unitId]
-    );
-
-    const examMap = new Map();
-    for (const row of examRows) {
-      if (!examMap.has(row.wordRef)) {
-        examMap.set(row.wordRef, { indexes: [], texts: [] });
-      }
-      const target = examMap.get(row.wordRef);
-      target.indexes.push(Number(row.meaningIndex));
-      target.texts.push(row.meaningText);
-    }
-
-    res.json({
-      unit,
-      words: words.map((word) => ({
-        ...word,
-        chEntries: parseMeaningEntries(word.ch),
-        examMeaningIndexes: examMap.get(word.wordRef)?.indexes || [],
-        examMeaningTexts: examMap.get(word.wordRef)?.texts || []
-      }))
-    });
-  } catch (error) {
-    next(error);
-  }
-});
-
-router.put("/units/:id/exam-meanings", requireAuth, requireAdmin, async (req, res, next) => {
-  try {
-    const unitId = Number(req.params.id);
-    const selections = Array.isArray(req.body.selections) ? req.body.selections : [];
-    const unit = await wordsDb.get("SELECT id FROM units WHERE id = ?", [unitId]);
-    if (!unit) {
-      return res.status(404).json({ message: "找不到單元。" });
-    }
-
-    const words = await wordsDb.all(
-      `SELECT word_ref AS wordRef, ch
-       FROM words
-       WHERE unit_id = ?`,
-      [unitId]
-    );
-    const wordMap = new Map(words.map((word) => [word.wordRef, word]));
-
-    let savedWordCount = 0;
-    let savedMeaningCount = 0;
-
-    await wordsDb.exec("BEGIN TRANSACTION");
-    try {
-      await wordsDb.run("DELETE FROM unit_exam_meanings WHERE unit_id = ?", [unitId]);
-
-      for (const selection of selections) {
-        const wordRef = normalizeText(selection?.wordRef);
-        const currentWord = wordMap.get(wordRef);
-        if (!wordRef || !currentWord) {
-          continue;
-        }
-
-        const entries = parseMeaningEntries(currentWord.ch);
-        const indexes = [...new Set(
-          (Array.isArray(selection.meaningIndexes) ? selection.meaningIndexes : [])
-            .map((item) => Number(item))
-            .filter((item) => Number.isInteger(item) && item >= 0 && item < entries.length)
-        )];
-
-        if (!indexes.length) {
-          continue;
-        }
-
-        savedWordCount += 1;
-        for (const meaningIndex of indexes) {
-          await wordsDb.run(
-            `INSERT INTO unit_exam_meanings
-               (unit_id, word_ref, meaning_index, meaning_text)
-             VALUES (?, ?, ?, ?)`,
-            [unitId, wordRef, meaningIndex, entries[meaningIndex]]
-          );
-          savedMeaningCount += 1;
-        }
-      }
-
-      await wordsDb.exec("COMMIT");
-    } catch (error) {
-      await wordsDb.exec("ROLLBACK");
-      throw error;
-    }
-
-    res.json({
-      message: savedMeaningCount
-        ? `已更新 ${savedWordCount} 個單字，共 ${savedMeaningCount} 項考試字義。`
-        : "已清除這個單元的考試字義設定。",
-      savedWordCount,
-      savedMeaningCount
     });
   } catch (error) {
     next(error);
@@ -2694,9 +2595,7 @@ router.get("/catalog", requireAuth, requireAdmin, async (req, res, next) => {
         `SELECT
            u.id,
            u.name,
-           (SELECT COUNT(*) FROM words w WHERE w.unit_id = u.id) AS word_count,
-           (SELECT COUNT(DISTINCT em.word_ref) FROM unit_exam_meanings em WHERE em.unit_id = u.id) AS exam_word_count,
-           (SELECT COUNT(*) FROM unit_exam_meanings em WHERE em.unit_id = u.id) AS exam_meaning_count
+           (SELECT COUNT(*) FROM words w WHERE w.unit_id = u.id) AS word_count
          FROM units u
          WHERE u.source_id = ?`,
         [source.id]
@@ -2732,6 +2631,7 @@ router.delete("/units/:id", requireAuth, requireAdmin, async (req, res, next) =>
     }
 
     await syncStudyData();
+    clearPracticeWordCache();
     res.json({ message: `${unit.source_name} / ${unit.name} 已刪除。` });
   } catch (error) {
     next(error);
@@ -2739,3 +2639,10 @@ router.delete("/units/:id", requireAuth, requireAdmin, async (req, res, next) =>
 });
 
 module.exports = router;
+module.exports._test = {
+  buildRefreshDraftRows,
+  buildWordChunks,
+  mapChunkProgress,
+  processChunksResumable,
+  validateMergedWordRows
+};

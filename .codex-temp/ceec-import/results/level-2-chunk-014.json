@@ -1,0 +1,1588 @@
+{
+  "level": 2,
+  "chunkIndex": 14,
+  "inputs": [
+    "peak",
+    "pear",
+    "per",
+    "perfect",
+    "period",
+    "personal",
+    "personality",
+    "phrase",
+    "pillow",
+    "pizza",
+    "plain",
+    "platform",
+    "playground",
+    "pleasant",
+    "plus",
+    "poem",
+    "poet",
+    "poetry",
+    "poison",
+    "policeman",
+    "cop",
+    "policy",
+    "pop",
+    "population",
+    "pork",
+    "port",
+    "pose",
+    "position",
+    "positive",
+    "possibility",
+    "post",
+    "postcard",
+    "pound",
+    "powerful",
+    "praise",
+    "pray",
+    "prayer",
+    "prefer",
+    "president",
+    "press",
+    "pressure",
+    "pride",
+    "priest",
+    "primary",
+    "prince",
+    "princess",
+    "principal",
+    "principle",
+    "print",
+    "printer"
+  ],
+  "rows": [
+    {
+      "eng": "peak",
+      "kk": "pik",
+      "tense": "n.",
+      "ch": [
+        [
+          "山峰",
+          "山頂"
+        ],
+        [
+          "頂峰",
+          "最高點",
+          "高峰"
+        ]
+      ],
+      "analysis": "此字為現代透明單音節名詞，源自中古英語 pík（意指尖端、尖頭），可能與 pick 或 pike 同源。語意從原本的「尖端」演變出「山峰」，再引申為任何活動、數據或狀態的「最高點」。",
+      "definition": "1. The pointed top of a mountain.; 2. The highest point, maximum, or culmination of something.",
+      "example": [
+        {
+          "eng": "The climbers reached the snow-covered peak just before noon.",
+          "ch": "登山者在中午前抵達了覆雪的山頂。"
+        },
+        {
+          "eng": "Traffic is always heavy during the morning peak.",
+          "ch": "早晨尖峰時刻的交通總是十分擁擠。"
+        }
+      ]
+    },
+    {
+      "eng": "peak",
+      "kk": "pik",
+      "tense": "vi.",
+      "ch": [
+        [
+          "達到最高點",
+          "達到頂峰"
+        ]
+      ],
+      "analysis": "此動詞由名詞 peak 轉品而來（zero-conversion），指某個數量、價格、表現或情況在達到最大值後開始下滑的動作。為不及物用法，不接直接受詞。",
+      "definition": "1. To reach the highest point, value, or level before declining.",
+      "example": [
+        {
+          "eng": "Interest rates are expected to peak later this year.",
+          "ch": "預期利率將於今年稍晚達到最高點。"
+        }
+      ]
+    },
+    {
+      "eng": "pear",
+      "kk": "pɛr",
+      "tense": "n.",
+      "ch": [
+        [
+          "梨子",
+          "梨樹果實"
+        ]
+      ],
+      "analysis": "此字為繼承自日耳曼語族的古英語字彙（源自原始日耳曼語 *pera），歷史上可能最終借自拉丁語 pira（複數形，後被誤認為陰性單數）。指一種多汁且上窄下寬的常見水果。",
+      "definition": "1. A sweet, juicy fruit that is narrow at the top and wider toward the bottom.",
+      "example": [
+        {
+          "eng": "She sliced a fresh pear to put into the salad.",
+          "ch": "她切了一顆新鮮的梨子放進沙拉裡。"
+        }
+      ]
+    },
+    {
+      "eng": "per",
+      "kk": "pɚ",
+      "tense": "prep.",
+      "ch": [
+        [
+          "每",
+          "每一"
+        ],
+        [
+          "按照",
+          "依據"
+        ]
+      ],
+      "analysis": "此介系詞直接借自拉丁語 per（意指通過、經由、每個）。在現代英語中主要用於表示比例（每...）或根據合約、規定、習慣等（按照...）。",
+      "definition": "1. For each; for every.; 2. According to or in accordance with.",
+      "example": [
+        {
+          "eng": "The speed limit on this highway is 60 miles per hour.",
+          "ch": "這條高速公路的速限是每小時60英里。"
+        },
+        {
+          "eng": "Everything was done per your instructions.",
+          "ch": "一切都按照您的指示辦理。"
+        }
+      ]
+    },
+    {
+      "eng": "perfect",
+      "kk": "pɚˈfɛkt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使完美",
+          "改善",
+          "精進"
+        ]
+      ],
+      "analysis": "此動詞源自拉丁語動詞 perficere 的過去分詞詞幹，透過英語化轉品或直接借入形成。指透過不斷修正與琢磨，使某物達到完美或極佳的狀態。",
+      "definition": "1. To make something completely free from faults or weaknesses; to improve.",
+      "example": [
+        {
+          "eng": "It took the chef years to perfect his signature recipe.",
+          "ch": "這位主廚花了多年才精進他的招牌食譜。"
+        }
+      ]
+    },
+    {
+      "eng": "perfect",
+      "kk": "pɚˈfɛkt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "完美的",
+          "極好的"
+        ],
+        [
+          "完全的",
+          "十足的"
+        ]
+      ],
+      "analysis": "此形容詞源自拉丁語 perfectus（動詞 perficere 的過去分詞，意為完成、做完，由 per-「完全」＋facere「做」組成）。語意從「已完全做好的」引申為「毫無瑕疵的、完美的」，或在名詞前加強語氣表示「完全的」。",
+      "definition": "1. Having all the required or desirable qualities; complete and without flaws.; 2. Absolute or complete, used for emphasis.",
+      "example": [
+        {
+          "eng": "The weather conditions were perfect for a picnic.",
+          "ch": "天氣狀況非常適合野餐。"
+        },
+        {
+          "eng": "Her explanation was a perfect example of clarity.",
+          "ch": "她的解釋是清晰易懂的完美範例。"
+        }
+      ]
+    },
+    {
+      "eng": "period",
+      "kk": "ˈpɪriəd",
+      "tense": "n.",
+      "ch": [
+        [
+          "時期",
+          "期間"
+        ],
+        [
+          "學節",
+          "課時"
+        ],
+        [
+          "句號"
+        ]
+      ],
+      "analysis": "此字經由古法語和拉丁語 periodus，源自希臘語 periodos（意指繞圈、循環、句子的一段，由 peri-「周圍」＋hodos「道路」組成）。語意從「循環的一段時間」演變為「歷史或生命中的時期」、「學校的課堂時間（一節課）」，以及書寫時表示句子結束的「句號」。",
+      "definition": "1. A particular length of time.; 2. A designated length of time in a school day for a class.; 3. The punctuation mark (.) used at the end of a sentence.",
+      "example": [
+        {
+          "eng": "Dinosaurs lived during a period millions of years ago.",
+          "ch": "恐龍生活在數百萬年前的一個時期。"
+        },
+        {
+          "eng": "We have a chemistry period right after lunch.",
+          "ch": "我們午餐後緊接著有一節化學課。"
+        },
+        {
+          "eng": "Don't forget to put a period at the end of your sentence.",
+          "ch": "別忘了在句子結尾加上句號。"
+        }
+      ]
+    },
+    {
+      "eng": "personal",
+      "kk": "ˈpɚsənəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "個人的",
+          "私人的"
+        ],
+        [
+          "親自的",
+          "本人出面的"
+        ]
+      ],
+      "analysis": "此形容詞由名詞 person 加上形容詞字尾 -al 構成。字面意思是「屬於個人的」，引申指個人的私事，或由本人親自處理、出席的事務。",
+      "definition": "1. Belonging or relating to a particular person rather than anyone else; private.; 2. Done or made by yourself personally.",
+      "example": [
+        {
+          "eng": "I prefer not to discuss my personal life at work.",
+          "ch": "我傾向不在工作時討論我的個人生活。"
+        },
+        {
+          "eng": "She made a personal appearance to thank her fans.",
+          "ch": "她親自現身感謝她的粉絲。"
+        }
+      ]
+    },
+    {
+      "eng": "personality",
+      "kk": "ˌpɚsəˈnæləti",
+      "tense": "n.",
+      "ch": [
+        [
+          "個性",
+          "性格"
+        ],
+        [
+          "名人",
+          "知名人物"
+        ]
+      ],
+      "analysis": "此字由 personal 加上名詞字尾 -ity 構成。原意指「個人的特質或人格」，後來引申為在電視、廣藝界等備受關注、具有鮮明個人特質的「知名人物」。",
+      "definition": "1. The combination of characteristics or qualities that form an individual's distinctive character.; 2. A well-known famous person, especially in entertainment or media.",
+      "example": [
+        {
+          "eng": "Her cheerful personality makes her popular with everyone.",
+          "ch": "她開朗的個性使她很受大家歡迎。"
+        },
+        {
+          "eng": "Several television personalities attended the charity gala.",
+          "ch": "幾位電視名人出席了這場慈善晚會。"
+        }
+      ]
+    },
+    {
+      "eng": "phrase",
+      "kk": "frez",
+      "tense": "n.",
+      "ch": [
+        [
+          "片語",
+          "詞組"
+        ],
+        [
+          "習慣用語",
+          "措辭"
+        ]
+      ],
+      "analysis": "此字經由中世紀拉丁語 phrasis，源自希臘語 phrasis（意指說話方式、表達，源自 phrazein「說、表達」）。在現代英語中指文法上的詞組、片語，或說話時使用的特定措辭與習慣用語。",
+      "definition": "1. A small group of words standing together as a conceptual unit, typically forming a component of a clause.; 2. A brief expression or a particular way of phrasing something.",
+      "example": [
+        {
+          "eng": "The teacher explained how to use this prepositional phrase.",
+          "ch": "老師解釋了如何使用這個介系詞片語。"
+        },
+        {
+          "eng": "It is a common phrase used to express gratitude.",
+          "ch": "這是用來表達謝意的常見習慣用語。"
+        }
+      ]
+    },
+    {
+      "eng": "phrase",
+      "kk": "frez",
+      "tense": "vt.",
+      "ch": [
+        [
+          "措辭",
+          "表達",
+          "用言語表達"
+        ]
+      ],
+      "analysis": "此動詞由名詞 phrase 轉品而來。指挑選適當的詞彙與句型來表達某個想法或意見。",
+      "definition": "1. To express something in a particular way with words.",
+      "example": [
+        {
+          "eng": "You should carefully phrase your email to the manager.",
+          "ch": "你應該謹慎措辭寫給經理的電子郵件。"
+        }
+      ]
+    },
+    {
+      "eng": "pillow",
+      "kk": "ˈpɪloʊ",
+      "tense": "n.",
+      "ch": [
+        [
+          "枕頭"
+        ]
+      ],
+      "analysis": "此字源自中古英語 pyle，源自拉丁語 pulvinus（意指小墊子、枕頭）。在日耳曼語傳入過程中發生語音演變，指睡眠或休息時用來支撐頭部的軟墊。",
+      "definition": "1. A rectangular cloth bag stuffed with soft materials, used to support the head in bed.",
+      "example": [
+        {
+          "eng": "She fluffed up her pillow before lying down to sleep.",
+          "ch": "她在躺下睡覺前把枕頭拍蓬鬆。"
+        }
+      ]
+    },
+    {
+      "eng": "pizza",
+      "kk": "ˈpitsə",
+      "tense": "n.",
+      "ch": [
+        [
+          "披薩",
+          "比薩餅"
+        ]
+      ],
+      "analysis": "此名詞為義大利語外來語（義大利拿坡里方言中指餅或派），於20世紀隨義大利移民飲食文化普及而進入英語。指一種將起司、番茄醬及各式配料鋪在扁平發酵麵團上烤製而成的義式料理。",
+      "definition": "1. An Italian dish consisting of a flat round base of dough baked with a topping of tomato sauce, cheese, and various ingredients.",
+      "example": [
+        {
+          "eng": "We ordered a large pepperoni pizza for the party.",
+          "ch": "我們為派對點了一個大號義式臘腸披薩。"
+        }
+      ]
+    },
+    {
+      "eng": "plain",
+      "kk": "plen",
+      "tense": "n.",
+      "ch": [
+        [
+          "平原",
+          "曠野"
+        ]
+      ],
+      "analysis": "此名詞源自拉丁語 planus（平坦的）的陰性名詞化用法，指地勢平坦開闊的廣大地區。",
+      "definition": "1. A large area of flat land with few trees.",
+      "example": [
+        {
+          "eng": "Herds of animals roam across the vast grassy plain.",
+          "ch": "群獸在廣闊的草原平原上漫步。"
+        }
+      ]
+    },
+    {
+      "eng": "plain",
+      "kk": "plen",
+      "tense": "adj.",
+      "ch": [
+        [
+          "簡單的",
+          "樸素的"
+        ],
+        [
+          "清楚的",
+          "明白的"
+        ],
+        [
+          "素色的",
+          "無花紋的"
+        ]
+      ],
+      "analysis": "此形容詞透過中古英語和古法語 plain，源自拉丁語 planus（意指平坦的、平的）。語意從「平坦的」引申為「清楚明白的（平鋪直敘的）」、「樸素無華的」以及衣物上「素色、無花紋的」。",
+      "definition": "1. Not decorated or complicated; simple and ordinary.; 2. Easy to see, hear, or understand; clear.; 3. Having no pattern or design; solid-colored.",
+      "example": [
+        {
+          "eng": "She prefers wearing plain clothes without any logos.",
+          "ch": "她喜歡穿沒有任何標誌的樸素衣服。"
+        },
+        {
+          "eng": "The reasons for his decision were plain to everyone.",
+          "ch": "他做決定的理由對每個人來說都很清楚。"
+        },
+        {
+          "eng": "He bought a plain white t-shirt.",
+          "ch": "他買了一件素色白T恤。"
+        }
+      ]
+    },
+    {
+      "eng": "platform",
+      "kk": "ˈplætˌfɔrm",
+      "tense": "n.",
+      "ch": [
+        [
+          "月台",
+          "平台"
+        ],
+        [
+          "政綱",
+          "綱領"
+        ],
+        [
+          "軟體平台",
+          "作業平台"
+        ]
+      ],
+      "analysis": "此複合名詞由 plat（平坦、地面，源自古法語）與 form（形狀）組合而成。原意指高於地面的平坦木台或建築結構，後引申為火車站的「月台」、政黨的「政綱／政策平台」，以及現代科技中的「軟體或技術平台」。",
+      "definition": "1. A raised flooring or structure, such as a railway station platform.; 2. A declared policy of a political party or group.; 3. A system that allows software to run.",
+      "example": [
+        {
+          "eng": "Passengers are waiting on platform 3 for the express train.",
+          "ch": "旅客們正在3號月台等待特快列車。"
+        },
+        {
+          "eng": "The candidate announced her party's new environmental platform.",
+          "ch": "該候選人公布了她所屬政黨的新環保政綱。"
+        },
+        {
+          "eng": "This mobile application runs on multiple platforms.",
+          "ch": "這款行動應用程式可在多個平台上運行。"
+        }
+      ]
+    },
+    {
+      "eng": "playground",
+      "kk": "ˈpleɡraʊnd",
+      "tense": "n.",
+      "ch": [
+        [
+          "遊樂場",
+          "操場"
+        ]
+      ],
+      "analysis": "此複合名詞由 play（玩耍）與 ground（土地、場地）組合而成。指專門供兒童嬉戲玩耍、設有滑梯與鞦韆等的戶外場地，或學校的戶外運動操場。",
+      "definition": "1. An outdoor area provided for children to play on, especially at a school or public park.",
+      "example": [
+        {
+          "eng": "Children ran out to the school playground as soon as the bell rang.",
+          "ch": "鐘聲一響，孩子們就跑向學校操場。"
+        }
+      ]
+    },
+    {
+      "eng": "pleasant",
+      "kk": "ˈplɛznt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "令人愉快的",
+          "舒適的",
+          "友善的"
+        ]
+      ],
+      "analysis": "此形容詞透過中古英語和古法語 pleasant（源自動詞 plaisir「使高興」），源自拉丁語 placere（意指令人喜愛、合意）。指人、天氣、環境或經驗帶給人舒適、愉快或親切的感受。",
+      "definition": "1. Giving a sense of happy satisfaction or enjoyment; friendly and likable.",
+      "example": [
+        {
+          "eng": "We spent a pleasant afternoon walking in the park.",
+          "ch": "我們在公園散步，度過了一個愉快的下午。"
+        }
+      ]
+    },
+    {
+      "eng": "plus",
+      "kk": "plʌs",
+      "tense": "n.",
+      "ch": [
+        [
+          "優點",
+          "有利條件",
+          "加號"
+        ]
+      ],
+      "analysis": "由 plus 的數學符號或正面含意轉化而來的名詞，指事情的「優勢、加分項」或數學上的「加號」。",
+      "definition": "1. An advantage or positive feature; 2. The plus sign (+).",
+      "example": [
+        {
+          "eng": "Fluency in a second language is a major plus for this job.",
+          "ch": "流利的外語能力對這份工作是一大優勢。"
+        }
+      ]
+    },
+    {
+      "eng": "plus",
+      "kk": "plʌs",
+      "tense": "adj.",
+      "ch": [
+        [
+          "正的",
+          "有利的",
+          "附加的"
+        ]
+      ],
+      "analysis": "由此字之介系詞／副詞用法延伸而來的形容詞，常用於數學上表示正數，或評等、財務報告中的「正向的、有利的」。",
+      "definition": "1. Indicating a positive quantity or a favorable factor.",
+      "example": [
+        {
+          "eng": "The company's quarterly growth remained at a plus rate.",
+          "ch": "該公司的季度成長率維持在正成長。"
+        }
+      ]
+    },
+    {
+      "eng": "plus",
+      "kk": "plʌs",
+      "tense": "prep.",
+      "ch": [
+        [
+          "加",
+          "外加",
+          "加上"
+        ]
+      ],
+      "analysis": "此介系詞源自拉丁語 plus（意指更多、更甚）。在數學中作為加號使用，表示數值的累加；日常口語中也用來表示額外附加的人、物或條件。",
+      "definition": "1. With the addition of; increased by.",
+      "example": [
+        {
+          "eng": "Five plus four equals nine.",
+          "ch": "五加四等於九。"
+        }
+      ]
+    },
+    {
+      "eng": "poem",
+      "kk": "ˈpoʊəm",
+      "tense": "n.",
+      "ch": [
+        [
+          "詩",
+          "詩歌"
+        ]
+      ],
+      "analysis": "此字透過拉丁語 poema，源自希臘語 poiēma（意指創作、作品，源自 poiein「製作、創作」）。指透過精鍊的字句、韻律與意象來表達情感或美感的文學作品。",
+      "definition": "1. A piece of writing that expresses feelings and ideas, often using rhythm and rhyme.",
+      "example": [
+        {
+          "eng": "The student recited a romantic poem by heart.",
+          "ch": "這名學生背誦了一首浪漫的詩。"
+        }
+      ]
+    },
+    {
+      "eng": "poet",
+      "kk": "ˈpoʊət",
+      "tense": "n.",
+      "ch": [
+        [
+          "詩人"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 poeta，最終源自希臘語 poiētēs（意指創作者、詩人，源自 poiein）。指擅長撰寫詩歌的作家。",
+      "definition": "1. A person who writes poems.",
+      "example": [
+        {
+          "eng": "The famous poet read his latest work at the literary festival.",
+          "ch": "這位著名詩人在文學節上朗讀了他最新的作品。"
+        }
+      ]
+    },
+    {
+      "eng": "poetry",
+      "kk": "ˈpoʊətri",
+      "tense": "n.",
+      "ch": [
+        [
+          "詩歌藝術",
+          "詩集",
+          "詩情畫意"
+        ]
+      ],
+      "analysis": "此字由 poet 加上名詞字尾 -ry 構成。指詩歌創作的整體藝術形式、詩集文類，或比喻事物具有優美動人的「詩意」。",
+      "definition": "1. Literary work in which the expression of feelings and ideas is given intensity by the use of distinctive style and rhythm; poems collectively.",
+      "example": [
+        {
+          "eng": "She has a deep passion for 19th-century English poetry.",
+          "ch": "她對19世紀英國詩歌有著深厚的情感。"
+        }
+      ]
+    },
+    {
+      "eng": "poison",
+      "kk": "ˈpɔɪzn",
+      "tense": "n.",
+      "ch": [
+        [
+          "毒藥",
+          "毒物"
+        ]
+      ],
+      "analysis": "此字透過中古英語和古法語 poison，源自拉丁語 potio（意指飲品、藥水，源自 potare「喝」）。在中世紀拉丁語中演變出「有毒的飲品、毒藥」之義。",
+      "definition": "1. A substance that is capable of causing illness or death if taken into the body.",
+      "example": [
+        {
+          "eng": "Some mushrooms contain deadly poison and should never be eaten.",
+          "ch": "某些蕈類含有致命毒素，絕不能食用。"
+        }
+      ]
+    },
+    {
+      "eng": "poison",
+      "kk": "ˈpɔɪzn",
+      "tense": "vt.",
+      "ch": [
+        [
+          "下毒",
+          "毒害",
+          "汙染"
+        ]
+      ],
+      "analysis": "此動詞由名詞 poison 轉品而來。指使用毒藥殺害或傷害生物，或比喻性地「汙染、毒化」環境、關係或思想。",
+      "definition": "1. To administer poison to someone or something, causing death or illness; to pollute.",
+      "example": [
+        {
+          "eng": "The factory was fined for poisoning the local river with chemical waste.",
+          "ch": "該工廠因以化學廢料汙染當地河流而被罰款。"
+        }
+      ]
+    },
+    {
+      "eng": "policeman",
+      "kk": "pəˈliːsmən",
+      "tense": "n.",
+      "ch": [
+        [
+          "警察",
+          "警員"
+        ]
+      ],
+      "analysis": "此複合名詞由 police（源自希臘語 politeia「城邦政體、公民治理」，經法語引入）與 man（男子、人員）組成。指負責維護法律與社會秩序的男性警務人員（現代亦常使用更中性的 police officer）。",
+      "definition": "1. A male member of a police force.",
+      "example": [
+        {
+          "eng": "The friendly policeman helped the lost child find his parents.",
+          "ch": "這位熱心的警察幫迷路的小孩找到了父母。"
+        }
+      ]
+    },
+    {
+      "eng": "cop",
+      "kk": "kɑp",
+      "tense": "n.",
+      "ch": [
+        [
+          "警察",
+          "警官"
+        ]
+      ],
+      "analysis": "此名詞為英語中的非正式口語詞。其源流有多種說法，一說源自拉丁語 capere（抓捕）或中古英語 coppe，另一說源自早期警徽材質（copper，銅），引申為警察的俗稱。現廣泛用於日常對話與影視作品中。",
+      "definition": "1. An informal term for a police officer.",
+      "example": [
+        {
+          "eng": "The cop pulled the speeding car over to the side of the road.",
+          "ch": "警察把超速的車輛攔停在路邊。"
+        }
+      ]
+    },
+    {
+      "eng": "policy",
+      "kk": "ˈpɑləsi",
+      "tense": "n.",
+      "ch": [
+        [
+          "政策",
+          "方針"
+        ],
+        [
+          "保險單"
+        ]
+      ],
+      "analysis": "此字透過中古英語，源自拉丁語 politia，最終源自希臘語 politeia（公民行政、國家管理）。在歷史演變中分化出兩個主要義項：一是政府或企業的「政策、方針」；二是由拉丁語保證合約意義發展出的「保險單（insurance policy）」。",
+      "definition": "1. A course or principle of action adopted or proposed by a government, party, business, or individual.; 2. A contract of insurance.",
+      "example": [
+        {
+          "eng": "The company implemented a new policy regarding remote work.",
+          "ch": "公司實施了一項關於遠距工作的新政策。"
+        },
+        {
+          "eng": "Be sure to read the details of your health insurance policy.",
+          "ch": "務必閱讀您的健康保險單的詳細內容。"
+        }
+      ]
+    },
+    {
+      "eng": "pop",
+      "kk": "pɑp",
+      "tense": "v.",
+      "ch": [
+        [
+          "發出砰的一聲",
+          "爆開"
+        ],
+        [
+          "突然出現",
+          "把...塞進"
+        ],
+        [
+          "流行音樂"
+        ]
+      ],
+      "analysis": "此字為擬聲詞（onomatopoeia），用來模擬氣球破裂、瓶塞彈開或爆米花爆開時的聲音。動詞用法指發出短促爆裂聲、突然跳出或快速將東西放入；名詞則常指流行音樂（pop music）或汽水（碳酸飲料）。",
+      "definition": "1. To make a light, sharp, explosive sound; to burst.; 2. To appear suddenly or put something quickly somewhere.; 3. Popular music.",
+      "example": [
+        {
+          "eng": "The balloon popped with a loud noise.",
+          "ch": "氣球砰的一聲破了。"
+        },
+        {
+          "eng": "She popped her head into the office to say hello.",
+          "ch": "她把頭探進辦公室打個招呼。"
+        },
+        {
+          "eng": "He listens to mainstream pop on the radio every morning.",
+          "ch": "他每天早上聽收音機裡的廣播主流流行音樂。"
+        }
+      ]
+    },
+    {
+      "eng": "population",
+      "kk": "ˌpɑpjuˈleʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "人口",
+          "全體居民"
+        ],
+        [
+          "族群",
+          "動植物總數"
+        ]
+      ],
+      "analysis": "此名詞由拉丁語 populus（人民）衍生出的動詞 populare，經由中古法語演變而來。指居住在某個國家、城市或地區的總人數，或生態學上特定地區的動植物族群總數。",
+      "definition": "1. All the inhabitants of a particular town, area, or country.; 2. A particular section, group, or type of animals or people living in an area.",
+      "example": [
+        {
+          "eng": "The city has a population of over two million people.",
+          "ch": "這座城市擁有兩百多萬人口。"
+        },
+        {
+          "eng": "Climate change is threatening the local polar bear population.",
+          "ch": "氣候變遷正在威脅當地的北極熊族群。"
+        }
+      ]
+    },
+    {
+      "eng": "pork",
+      "kk": "pɔrk",
+      "tense": "n.",
+      "ch": [
+        [
+          "豬肉"
+        ]
+      ],
+      "analysis": "此字透過中古法語 porc，源自拉丁語 porcus（豬）。在11世紀諾曼征服英格蘭後，法語詞彙進入英語並與日耳曼語源的 pig 產生社會階級分工：平民養 pig，餐桌上吃貴族法語詞源的 pork。",
+      "definition": "1. The flesh of a pig used as food.",
+      "example": [
+        {
+          "eng": "She prepared a delicious roast pork dinner for the family.",
+          "ch": "她為家人準備了一頓美味的烤豬肉晚餐。"
+        }
+      ]
+    },
+    {
+      "eng": "port",
+      "kk": "pɔrt",
+      "tense": "n.",
+      "ch": [
+        [
+          "港口",
+          "海港"
+        ],
+        [
+          "連接埠",
+          "插孔"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 portus（港口、避難所），與 portare（攜帶）同源。歷史上指船隻停泊與貨物裝卸的「港口」；在計算機科學中則引申為電腦硬體或軟體的「連接埠、插孔」。",
+      "definition": "1. A town or city with a harbor where ships load and unload cargo.; 2. A socket or channel on a computer for connecting external devices.",
+      "example": [
+        {
+          "eng": "Cargo ships sailed into the busy port at dawn.",
+          "ch": "貨輪在黎明時分駛入繁忙的港口。"
+        },
+        {
+          "eng": "You can connect the mouse to any available USB port.",
+          "ch": "你可以把滑鼠連接到任何可用的USB連接埠。"
+        }
+      ]
+    },
+    {
+      "eng": "pose",
+      "kk": "poʊz",
+      "tense": "n.",
+      "ch": [
+        [
+          "姿勢",
+          "裝腔作勢"
+        ]
+      ],
+      "analysis": "此名詞由動詞 pose 轉品而來，指身體停留的特定姿勢，或指為了給人深刻印象而刻意做出的「姿態、裝腔作勢」。",
+      "definition": "1. A particular position in which someone stands or sits; a pretentious or insincere attitude.",
+      "example": [
+        {
+          "eng": "He dropped his casual pose when the manager walked in.",
+          "ch": "當經理走進來時，他收起了隨便的姿勢。"
+        }
+      ]
+    },
+    {
+      "eng": "pose",
+      "kk": "poʊz",
+      "tense": "vt.",
+      "ch": [
+        [
+          "提出",
+          "擺出姿勢"
+        ],
+        [
+          "造成",
+          "構成（威脅、問題等）"
+        ]
+      ],
+      "analysis": "此動詞透過古法語 poser（源自晚期拉丁語 pausare「停留、放置」）。在演變中產生兩大常用義：一是拍照或繪畫時「擺姿勢」及「提出問題、意見」；二是法語 pause 同源演變出的「造成、引起（危險、困難）」。",
+      "definition": "1. To present or bring about a question, problem, or threat; 2. To sit or stand in a particular position for a photograph.",
+      "example": [
+        {
+          "eng": "The new regulations pose a serious challenge to small businesses.",
+          "ch": "新法規對小型企業構成了嚴峻的挑戰。"
+        },
+        {
+          "eng": "The model posed gracefully for the fashion photographer.",
+          "ch": "模特兒為時尚攝影師優雅地擺出姿勢。"
+        }
+      ]
+    },
+    {
+      "eng": "position",
+      "kk": "pəˈzɪʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "位置",
+          "方位"
+        ],
+        [
+          "職位",
+          "工作崗位"
+        ],
+        [
+          "立場",
+          "看法"
+        ]
+      ],
+      "analysis": "此名詞由拉丁語 positio（放置、位置，源自 ponere「放置」）經中古法語引入英語。其核心義為「物體或人在空間中的位置」，並延伸出職場上的「職位／工作」，以及在辯論或衝突中的「政治立場、觀點」。",
+      "definition": "1. A place where someone or something is located or has been put.; 2. A job or employment position.; 3. A person's particular point of view or attitude.",
+      "example": [
+        {
+          "eng": "GPS technology can pinpoint your exact position on the map.",
+          "ch": "GPS技術可以標出你在地圖上的確切位置。"
+        },
+        {
+          "eng": "She applied for a managerial position at the bank.",
+          "ch": "她申請了該銀行的管理職位。"
+        },
+        {
+          "eng": "The government clarified its position on international trade.",
+          "ch": "政府澄清了其對國際貿易的立場。"
+        }
+      ]
+    },
+    {
+      "eng": "positive",
+      "kk": "ˈpɑzətɪv",
+      "tense": "adj.",
+      "ch": [
+        [
+          "積極的",
+          "樂觀的"
+        ],
+        [
+          "確定的",
+          "確信的"
+        ],
+        [
+          "陽性的",
+          "正面的"
+        ]
+      ],
+      "analysis": "此形容詞源自拉丁語 positivus（由 ponere「放置」的過去分詞 positivus 衍生，意指實際確定的）。其核心語義從「確切肯定的」引申出心理與態度的「積極樂觀」、醫學檢測的「陽性反應」，以及數學上的「正數」。",
+      "definition": "1. Constructive, optimistic, or confident.; 2. Absolutely certain or sure about something.; 3. Showing the presence of a particular germ, condition, or substance (medical); greater than zero.",
+      "example": [
+        {
+          "eng": "Try to maintain a positive attitude even when things get difficult.",
+          "ch": "即使事情變困難，也要試著保持積極的態度。"
+        },
+        {
+          "eng": "I am positive that I locked the front door before leaving.",
+          "ch": "我確信我在離開前鎖了前門。"
+        },
+        {
+          "eng": "Her medical test results came back positive for the flu.",
+          "ch": "她的醫療檢測結果顯示流感呈陽性。"
+        }
+      ]
+    },
+    {
+      "eng": "possibility",
+      "kk": "ˌpɑsəˈbɪləti",
+      "tense": "n.",
+      "ch": [
+        [
+          "可能性",
+          "可能發生的事"
+        ]
+      ],
+      "analysis": "此名詞由形容詞 possible 加上名詞字尾 -ity 構成（源自拉丁語 possibilitas）。指某事可能存在、發生或實現的狀態，或指各種可行的選擇與機會。",
+      "definition": "1. A thing that may happen or be the case; the state or fact of being possible.",
+      "example": [
+        {
+          "eng": "There is a strong possibility that it will rain this afternoon.",
+          "ch": "今天下午很有可能會下雨。"
+        }
+      ]
+    },
+    {
+      "eng": "post",
+      "kk": "poʊst",
+      "tense": "n.",
+      "ch": [
+        [
+          "柱子",
+          "支柱"
+        ],
+        [
+          "郵政",
+          "郵件"
+        ],
+        [
+          "職位",
+          "崗位"
+        ]
+      ],
+      "analysis": "此字有兩個不同來源的同形異義詞融合：一是源自拉丁語 postis（門柱、木柱）；二是源自拉丁語 positus（設立、配置的站所），經義大利語 posta 演變出「驛站、郵政」以及軍事／工作的「崗位、職位」。",
+      "definition": "1. A stout piece of timber, metal, or concrete set up in the ground as a support.; 2. The official mail system or letters sent through it.; 3. An assigned station, job, or military post.",
+      "example": [
+        {
+          "eng": "The wooden post supports the porch roof.",
+          "ch": "這根木柱支撐著門廊的屋頂。"
+        },
+        {
+          "eng": "I sent the documents to you by post yesterday.",
+          "ch": "我昨天透過郵政把文件給你寄去了。"
+        },
+        {
+          "eng": "The guard remained at his post throughout the stormy night.",
+          "ch": "衛兵在風雨交加的夜晚堅守在崗位上。"
+        }
+      ]
+    },
+    {
+      "eng": "post",
+      "kk": "poʊst",
+      "tense": "vt.",
+      "ch": [
+        [
+          "郵寄",
+          "寄送"
+        ],
+        [
+          "發布",
+          "公告"
+        ]
+      ],
+      "analysis": "此動詞由名詞 post（郵政／張貼）轉品而來。指將信件包裹投遞寄送，或在佈告欄、網路論壇上「張貼、發布」訊息。",
+      "definition": "1. To send a letter or parcel by mail.; 2. To display a notice in a public place or publish something online.",
+      "example": [
+        {
+          "eng": "Remember to post this letter before noon.",
+          "ch": "記得在中午前把這封信寄出去。"
+        },
+        {
+          "eng": "The university posted the exam results on the notice board.",
+          "ch": "大學將考試成績張貼在公告欄上。"
+        }
+      ]
+    },
+    {
+      "eng": "postcard",
+      "kk": "ˈpoʊstˌkɑrd",
+      "tense": "n.",
+      "ch": [
+        [
+          "明信片"
+        ]
+      ],
+      "analysis": "此複合名詞由 post（郵政）與 card（卡片）組成。指印有風景圖案或供書寫簡短訊息、無需信封即可直接寄送的郵政卡片。",
+      "definition": "1. A card for sending a message by mail without an envelope, typically having a photograph or illustration on one side.",
+      "example": [
+        {
+          "eng": "She sent a colorful postcard from her vacation in Hawaii.",
+          "ch": "她從夏威夷度假時寄了一張色彩繽紛的明信片。"
+        }
+      ]
+    },
+    {
+      "eng": "pound",
+      "kk": "paʊnd",
+      "tense": "n.",
+      "ch": [
+        [
+          "磅（重量單位）"
+        ],
+        [
+          "英鎊（貨幣單位）"
+        ]
+      ],
+      "analysis": "此字源自日耳曼語族的古英語 pund，最終借自拉丁語 libra pondo（一磅的重量，字面意為「以重量計的平衡」）。在歷史演變中成為英語系國家的重量單位（磅）以及英國貨幣單位（英鎊，符號 £）。",
+      "definition": "1. A unit of weight equal to 16 ounces (approx. 0.453 kg).; 2. The basic monetary unit of the United Kingdom.",
+      "example": [
+        {
+          "eng": "The baby weighed seven pounds at birth.",
+          "ch": "這名嬰兒出生時體重七磅。"
+        },
+        {
+          "eng": "The book costs twenty pounds.",
+          "ch": "這本書要價二十英鎊。"
+        }
+      ]
+    },
+    {
+      "eng": "pound",
+      "kk": "paʊnd",
+      "tense": "vt.",
+      "ch": [
+        [
+          "猛擊",
+          "搗碎",
+          "連續重擊"
+        ]
+      ],
+      "analysis": "此動詞源自古英語 punian（意指擊碎、磨碎）。指用重物連續敲打、搗碎某物，或指心跳、海浪劇烈「猛烈撞擊、拍打」。",
+      "definition": "1. To strike or hit heavily and repeatedly; to crush or smash into pieces.",
+      "example": [
+        {
+          "eng": "The waves pounded against the rocky shore during the storm.",
+          "ch": "暴風雨中，巨浪猛烈拍打著岩石海岸。"
+        }
+      ]
+    },
+    {
+      "eng": "powerful",
+      "kk": "ˈpaʊɚfəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "強大的",
+          "具影響力的",
+          "強效的"
+        ]
+      ],
+      "analysis": "此形容詞由名詞 power（源自古法語 poeir）加上形容詞字尾 -ful 構成。指擁有龐大力量、政治影響力、經濟實力，或指藥物、引擎等「強效的」。",
+      "definition": "1. Having great power, strength, influence, or effect.",
+      "example": [
+        {
+          "eng": "The engine delivered a powerful performance on the racetrack.",
+          "ch": "這顆引擎在賽道上展現出強大的性能。"
+        }
+      ]
+    },
+    {
+      "eng": "praise",
+      "kk": "prez",
+      "tense": "n.",
+      "ch": [
+        [
+          "讚美",
+          "稱讚"
+        ],
+        [
+          "讚頌",
+          "崇拜"
+        ]
+      ],
+      "analysis": "此名詞由動詞 praise 轉品而來，指對人或事物的讚許、表揚，或宗教上對神明的讚頌。",
+      "definition": "1. The expression of approval, admiration, or gratitude; 2. worship offered to God.",
+      "example": [
+        {
+          "eng": "She won high praise from critics for her debut novel.",
+          "ch": "她以處女作贏得了評論家的高度讚譽。"
+        }
+      ]
+    },
+    {
+      "eng": "praise",
+      "kk": "prez",
+      "tense": "vt.",
+      "ch": [
+        [
+          "讚美",
+          "稱讚",
+          "歌頌"
+        ]
+      ],
+      "analysis": "此動詞透過中古英語和古法語 preisier（源自晚期拉丁語 pretiare「估價、讚賞」，源自 pretium「價值」）。指表達對某人的成就、品德或神明的讚賞、稱讚與感謝。",
+      "definition": "1. To express warm approval or admiration of someone or something; to worship or glorify.",
+      "example": [
+        {
+          "eng": "The teacher praised the students for their hard work on the project.",
+          "ch": "老師稱讚學生們在這個專案上的努力。"
+        }
+      ]
+    },
+    {
+      "eng": "pray",
+      "kk": "pre",
+      "tense": "vi.",
+      "ch": [
+        [
+          "祈禱",
+          "禱告"
+        ],
+        [
+          "懇求",
+          "祈求"
+        ]
+      ],
+      "analysis": "此動詞透過中古英語和古法語 preier，源自拉丁語 precari（祈求、請求）。指宗教信徒向神明祈禱，或日常用語中懇切地期盼某事發生。",
+      "definition": "1. To address a prayer to God or a deity.; 2. To wish or hope strongly for something.",
+      "example": [
+        {
+          "eng": "They gather in the church every Sunday to pray.",
+          "ch": "他們每週日聚集在教堂祈禱。"
+        },
+        {
+          "eng": "I pray that everything turns out well for you.",
+          "ch": "我祈禱你的一切都能順利。"
+        }
+      ]
+    },
+    {
+      "eng": "prayer",
+      "kk": "prɛr",
+      "tense": "n.",
+      "ch": [
+        [
+          "祈禱",
+          "禱告"
+        ],
+        [
+          "禱文",
+          "祈禱詞"
+        ]
+      ],
+      "analysis": "此名詞由動詞 pray 加上名詞字尾 -er（表示動作結果或工具，源自古法語 preiere）構成。指祈禱的行為或向神明說出的禱告詞。",
+      "definition": "1. A solemn request for help or expression of thanks addressed to God or a deity.; 2. A set form of words used in praying.",
+      "example": [
+        {
+          "eng": "She whispered a silent prayer before taking the difficult exam.",
+          "ch": "她在參加困難的考試前默默祈禱。"
+        }
+      ]
+    },
+    {
+      "eng": "prefer",
+      "kk": "prɪˈfɚ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "更喜歡",
+          "偏好"
+        ]
+      ],
+      "analysis": "此動詞源自拉丁語 praeferre（由 prae-「在...之前」＋ferre「帶、扛」組成，字面意為「將...置於前面、更重視」）。指在兩個或多個選項中更傾向於某一方。",
+      "definition": "1. To like one thing or person better than another or others.",
+      "example": [
+        {
+          "eng": "I prefer tea over coffee in the morning.",
+          "ch": "我早上比起咖啡更喜歡茶。"
+        }
+      ]
+    },
+    {
+      "eng": "president",
+      "kk": "ˈprɛzədṇt",
+      "tense": "n.",
+      "ch": [
+        [
+          "總統",
+          "國家元首"
+        ],
+        [
+          "董事長",
+          "總經理",
+          "大學校長"
+        ]
+      ],
+      "analysis": "此名詞由拉丁語 praesidentem（praesidere 的現在分詞，由 prae-「在前面」＋sedere「坐」組成，意指「坐在前面主持會議的人」）經古法語引入。現代演變為共和國的「總統」、企業的「董事長／總裁」或高等學府的「校長」。",
+      "definition": "1. The elected head of a republican state.; 2. The head of a company, university, or organization.",
+      "example": [
+        {
+          "eng": "The president gave a televised speech on national television.",
+          "ch": "總統在全國電視網發表了電視演說。"
+        },
+        {
+          "eng": "She was recently appointed president of the software company.",
+          "ch": "她最近被任命為該軟體公司的總裁。"
+        }
+      ]
+    },
+    {
+      "eng": "press",
+      "kk": "prɛs",
+      "tense": "n.",
+      "ch": [
+        [
+          "新聞界",
+          "傳媒"
+        ],
+        [
+          "印刷機",
+          "出版社"
+        ],
+        [
+          "按壓",
+          "擠壓"
+        ]
+      ],
+      "analysis": "此名詞由動詞 press 轉品而來。歷史上源自古騰堡的「印刷機（printing press）」，進而指稱出版業與新聞媒體（the press），亦可指按壓動作。",
+      "definition": "1. Newspapers and journalists viewed collectively; the media.; 2. A machine for printing or crushing; a publishing house.",
+      "example": [
+        {
+          "eng": "The scandal received widespread coverage in the national press.",
+          "ch": "這起醜聞受到了全國新聞媒體的廣泛報導。"
+        },
+        {
+          "eng": "Oxford University Press publishes academic books worldwide.",
+          "ch": "牛津大學出版社在世界各地出版學術書籍。"
+        }
+      ]
+    },
+    {
+      "eng": "press",
+      "kk": "prɛs",
+      "tense": "vt.",
+      "ch": [
+        [
+          "按",
+          "壓",
+          "擠壓"
+        ],
+        [
+          "熨平",
+          "燙平"
+        ],
+        [
+          "敦促",
+          "催促"
+        ]
+      ],
+      "analysis": "此動詞透過中古英語和古法語 presser，源自拉丁語 pressare（壓、擠，源自 premere）。其核心義為施加物理壓力（按鈕、榨汁、熨燙衣物），並引申出心理上的「催促、施壓」。",
+      "definition": "1. To apply steady physical force to something.; 2. To iron clothes smooth.; 3. To urge or strongly encourage someone.",
+      "example": [
+        {
+          "eng": "Press the elevator button to call the car.",
+          "ch": "按下電梯按鈕來叫車。"
+        },
+        {
+          "eng": "He carefully pressed his suit before the job interview.",
+          "ch": "他在面試前仔細燙平了西裝。"
+        },
+        {
+          "eng": "Don't press him too hard to make a decision immediately.",
+          "ch": "別逼他太緊要他立刻做決定。"
+        }
+      ]
+    },
+    {
+      "eng": "pressure",
+      "kk": "ˈprɛʃɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "壓力",
+          "壓迫感"
+        ],
+        [
+          "催促",
+          "緊迫"
+        ]
+      ],
+      "analysis": "此名詞由拉丁語 pressura（壓榨、壓力，源自 premere）經中古法語引入。指物理上的氣壓、水壓，或引申為生活、工作帶來的心理壓力與社會緊迫感。",
+      "definition": "1. Continuous physical force exerted on or against an object by something in contact with it; 2. Mental or social stress.",
+      "example": [
+        {
+          "eng": "Tire pressure should be checked regularly for safety.",
+          "ch": "為了安全，應定期檢查胎壓。"
+        },
+        {
+          "eng": "He is struggling to cope with the work pressure.",
+          "ch": "他正努力應付工作帶來的壓力。"
+        }
+      ]
+    },
+    {
+      "eng": "pride",
+      "kk": "praɪd",
+      "tense": "n.",
+      "ch": [
+        [
+          "自豪",
+          "驕傲"
+        ],
+        [
+          "自尊心",
+          "自尊"
+        ]
+      ],
+      "analysis": "此字源自古英語 prȳte（源自日耳曼語族形容詞 prūd「高傲的、勇敢的」）。在中世紀演變為名詞，指因成就而產生的正面自豪感，或過度高傲的負面心態，亦可指個人的「自尊心」。",
+      "definition": "1. A feeling of deep pleasure or satisfaction derived from one's own achievements.; 2. A conscious sense of one's own dignity and self-respect.",
+      "example": [
+        {
+          "eng": "She felt a great sense of pride when she graduated with honors.",
+          "ch": "當她以優異成績畢業時，她感到無比自豪。"
+        },
+        {
+          "eng": "His bruised pride kept him from asking for help.",
+          "ch": "他受損的自尊心使他拉不下臉尋求協助。"
+        }
+      ]
+    },
+    {
+      "eng": "priest",
+      "kk": "priːst",
+      "tense": "n.",
+      "ch": [
+        [
+          "神父",
+          "牧師",
+          "神職人員"
+        ]
+      ],
+      "analysis": "此字源自日耳曼語族的古英語 prēost，最終借自希臘語 presbyteros（長老、年長者，基督教早期指教會長老）。在天主教、正教會及部分基督教派中指受過神職晉秩的神父或牧師。",
+      "definition": "1. An ordained minister of the Catholic, Orthodox, or Anglican Church having the authority to perform certain rites and sacraments.",
+      "example": [
+        {
+          "eng": "The village priest offered comfort to the grieving family.",
+          "ch": "村裡的牧師為哀傷的家屬提供了慰藉。"
+        }
+      ]
+    },
+    {
+      "eng": "primary",
+      "kk": "ˈpraɪˌmɛri",
+      "tense": "adj.",
+      "ch": [
+        [
+          "主要的",
+          "首要的"
+        ]
+      ],
+      "analysis": "此形容詞源自拉丁語 primarius（由 primus「第一」加上形容詞字尾構成）。指在時間順序上最早的，或在重要性上居於首位的、主要的。",
+      "definition": "1. Of chief importance; principal; first in order of time or development.",
+      "example": [
+        {
+          "eng": "Our primary goal is to ensure customer satisfaction.",
+          "ch": "我們的主要目標是確保客戶滿意。"
+        }
+      ]
+    },
+    {
+      "eng": "prince",
+      "kk": "prɪns",
+      "tense": "n.",
+      "ch": [
+        [
+          "王子",
+          "親王"
+        ]
+      ],
+      "analysis": "此字透過中古英語和古法語 prince，源自拉丁語 princeps（由 primus「第一」＋capere「拿、佔」組成，字面意為「第一公民、首領」）。在歐洲貴族體系中指國王的兒子（王子）或享有親王封號的貴族。",
+      "definition": "1. The son of a monarch; a male member of a royal family other than the king.",
+      "example": [
+        {
+          "eng": "The young prince greeted the cheering crowds from the balcony.",
+          "ch": "年輕的王子從陽台上向歡呼的人群揮手致意。"
+        }
+      ]
+    },
+    {
+      "eng": "princess",
+      "kk": "ˈprɪnsəs",
+      "tense": "n.",
+      "ch": [
+        [
+          "公主",
+          "王妃"
+        ]
+      ],
+      "analysis": "此名詞由 prince 加上女性名詞字尾 -ess 構成（經由古法語 princesse）。指國王的女兒（公主）或王子的妻子（王妃）。",
+      "definition": "1. The daughter of a monarch; the wife of a prince.",
+      "example": [
+        {
+          "eng": "The fairy tale tells the story of a brave princess.",
+          "ch": "這則童話故事講述了一位勇敢的公主的故事。"
+        }
+      ]
+    },
+    {
+      "eng": "principal",
+      "kk": "ˈprɪnsəpəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "中小學校長",
+          "校長"
+        ]
+      ],
+      "analysis": "由此字之形容詞用法名詞化而來（principal teacher 省略 teacher），在美式英語等教育體系中專門指中小學校長。",
+      "definition": "1. The head teacher of a primary or secondary school.",
+      "example": [
+        {
+          "eng": "The principal gave a welcoming speech to the new students.",
+          "ch": "校長向新生們發表了歡迎致詞。"
+        }
+      ]
+    },
+    {
+      "eng": "principal",
+      "kk": "ˈprɪnsəpəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "主要的",
+          "最重要的"
+        ]
+      ],
+      "analysis": "此形容詞源自拉丁語 principalis（源自 princeps「首領、第一」）。指在眾多事物中最核心、最重要的。",
+      "definition": "1. First in order of importance; main.",
+      "example": [
+        {
+          "eng": "Lack of funding is the principal reason for the project's delay.",
+          "ch": "資金不足是該專案延誤的主要原因。"
+        }
+      ]
+    },
+    {
+      "eng": "principle",
+      "kk": "ˈprɪnsəpəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "原則",
+          "信條"
+        ],
+        [
+          "原理",
+          "定律"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 principium（源自 princeps，意指起始、根源、基礎）。其演變分化為兩大義項：一是行為準則與道德「原則」；二是科學上的基本運作「原理、定律」。",
+      "definition": "1. A fundamental truth or proposition that serves as the foundation for a system of belief or behavior.; 2. A natural law or rule explaining how something works.",
+      "example": [
+        {
+          "eng": "She refuses to compromise her moral principles.",
+          "ch": "她拒絕妥協她的道德原則。"
+        },
+        {
+          "eng": "The machine operates on the principle of magnetism.",
+          "ch": "這台機器是根據磁力原理運作的。"
+        }
+      ]
+    },
+    {
+      "eng": "print",
+      "kk": "prɪnt",
+      "tense": "n.",
+      "ch": [
+        [
+          "字體",
+          "印刷品"
+        ],
+        [
+          "指紋",
+          "足跡"
+        ]
+      ],
+      "analysis": "此名詞由動詞 print 轉品而來。指書本上的印刷字體、印刷出版物，或指物體壓印留下的痕跡（如指紋 fingerprint、足跡 footprint）。",
+      "definition": "1. Characters in print form; printed text or publications.; 2. An impression left by a finger, foot, or object.",
+      "example": [
+        {
+          "eng": "The book has large print that is easy for children to read.",
+          "ch": "這本書有大字體，孩子們很容易閱讀。"
+        },
+        {
+          "eng": "Forensic experts found a clear thumb print on the window handle.",
+          "ch": "鑑識專家在窗把手上發現了一個清晰的拇指指紋。"
+        }
+      ]
+    },
+    {
+      "eng": "print",
+      "kk": "prɪnt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "印刷",
+          "打印"
+        ],
+        [
+          "用印刷體寫",
+          "沖洗（相片）"
+        ]
+      ],
+      "analysis": "此動詞透過中古英語和古法語 preinte（源自拉丁語 imprimere「蓋印、壓印」）。指使用機器印刷書籍、在紙上列印文件、用正楷印刷體書寫，或沖洗底片相片。",
+      "definition": "1. To produce books, newspapers, etc., by a mechanical process involving text and images.; 2. To write in characters like those of print rather than cursive; to develop photographs.",
+      "example": [
+        {
+          "eng": "The publishing house will print thousands of copies of the novel.",
+          "ch": "這家出版社將印刷數千本這部小說。"
+        },
+        {
+          "eng": "Please print your name clearly at the top of the form.",
+          "ch": "請在表格頂端用正楷清楚寫下你的名字。"
+        },
+        {
+          "eng": "She went to the studio to print her vacation photographs.",
+          "ch": "她去沖洗店沖洗她的度假照片。"
+        }
+      ]
+    },
+    {
+      "eng": "printer",
+      "kk": "ˈprɪntɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "印表機",
+          "列印機"
+        ],
+        [
+          "印刷商",
+          "印刷工人"
+        ]
+      ],
+      "analysis": "此名詞由動詞 print 加上表示人的字尾 -er 構成。在現代科技中指連接電腦輸文書面文件的「印表機」；傳統歷史上則指從事書籍報刊製作的「印刷商或印刷工人」。",
+      "definition": "1. A machine connected to a computer for printing documents.; 2. A person or company whose business is printing.",
+      "example": [
+        {
+          "eng": "My home printer ran out of black ink yesterday.",
+          "ch": "我家的印表機昨天用完黑色墨水了。"
+        }
+      ]
+    }
+  ]
+}

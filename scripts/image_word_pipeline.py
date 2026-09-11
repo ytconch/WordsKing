@@ -13,6 +13,7 @@ try:
     import pytesseract
     from PIL import Image
     from google import genai
+    from google.genai import types
 except ImportError as error:
     print(
         "__WK_RESULT__" + json.dumps(
@@ -28,7 +29,22 @@ pytesseract.pytesseract.tesseract_cmd = os.environ.get(
     r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 )
 
-MODEL_NAME = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash-lite")
+MODEL_NAME = os.environ.get("GEMINI_MODEL", "gemini-3.5-flash-lite")
+MAX_REVIEWED_OCR_CHARS = 10_000
+PIPELINE_STARTED_AT = time.monotonic()
+PIPELINE_METRICS = {
+    "modelCalls": 0,
+    "promptTokens": 0,
+    "outputTokens": 0,
+    "cachedTokens": 0,
+    "thoughtTokens": 0,
+    "localJsonRepairs": 0,
+    "geminiJsonRepairs": 0,
+    "secondPassFallbacks": 0,
+    "thirdPassFallbacks": 0,
+    "coverageRepairs": 0,
+    "coverageFallbacks": 0
+}
 
 
 class UserFacingPipelineError(Exception):
@@ -43,6 +59,50 @@ OUTPUT_FIELD_ORDER = (
     "analysis",
     "definition",
     "example"
+)
+
+WORD_ROWS_SCHEMA = {
+    "type": "array",
+    "minItems": 1,
+    "items": {
+        "type": "object",
+        "required": list(OUTPUT_FIELD_ORDER),
+        "properties": {
+            "eng": {"type": "string"},
+            "kk": {"type": "string"},
+            "tense": {"type": "string"},
+            "ch": {
+                "type": "array",
+                "minItems": 1,
+                "maxItems": 5,
+                "items": {
+                    "type": "array",
+                    "minItems": 1,
+                    "items": {"type": "string"}
+                }
+            },
+            "analysis": {"type": "string"},
+            "definition": {"type": "string"},
+            "example": {
+                "type": "array",
+                "maxItems": 5,
+                "items": {
+                    "type": "object",
+                    "required": ["eng", "ch"],
+                    "properties": {
+                        "eng": {"type": "string"},
+                        "ch": {"type": "string"}
+                    }
+                }
+            }
+        }
+    }
+}
+
+GENERATION_CONFIG = types.GenerateContentConfig(
+    response_mime_type="application/json",
+    response_schema=WORD_ROWS_SCHEMA,
+    max_output_tokens=65_536
 )
 
 ALLOWED_TENSE_VALUES = frozenset(
@@ -195,7 +255,7 @@ OUTPUT_CONTRACT_BLOCK = f"""
 1. eng：英文表面詞形。英文列表輸入時必須保留輸入拼字；OCR 模式才可修正明確 OCR 拼字錯誤。
 2. kk：可靠的常見美式 KK 音標，必須核對重音、非重讀母音弱化與不同詞性讀音；不可依拼字逐字母猜音，也不可用看似音標的混合格式。沒有把握時輸出空字串。
 3. tense：只能使用合法單一詞性值。
-4. ch：繁體中文學習義。單一語義群組使用 ["譯義", "同群近義"]；多群使用 [["第一群"], ["第二群"]]。群組數必須為 1 到 5。
+4. ch：繁體中文學習義，一律使用二維陣列；單一語義群組使用 [["譯義", "同群近義"]]，多群使用 [["第一群"], ["第二群"]]。群組數必須為 1 到 5。
 5. analysis：單一連續繁體中文段落，不可使用 object、array 或條列。依適用情況說明語法身份、表面詞形與 lemma、可靠構詞、歷史來源、語意演變及多義連結。
 6. definition：英文定義，依 ch 群組以 "1. ...; 2. ..." 編號；編號數與順序必須和 ch 群組完全一致，各定義不可互相重疊。
 7. example：JSON 陣列，每個 ch 群組恰好一筆例句，順序一致，最多五筆。每筆只能有非空的 eng 與 ch；英文自然、中文為準確繁體中文，且只示範對應群組，不可跨群混義。
@@ -256,7 +316,12 @@ def emit_progress(progress, stage, message):
 
 
 def emit_result(payload):
-    print("__WK_RESULT__" + json.dumps(payload, ensure_ascii=False), flush=True)
+    result = dict(payload)
+    result["metrics"] = {
+        **PIPELINE_METRICS,
+        "durationMs": round((time.monotonic() - PIPELINE_STARTED_AT) * 1000)
+    }
+    print("__WK_RESULT__" + json.dumps(result, ensure_ascii=False), flush=True)
 
 
 def fail(message):
@@ -381,10 +446,18 @@ def call_gemini_with_retry(prompt, api_keys, retries=15):
                 "gemini",
                 f"Gemini 分析中... (key {client_index + 1}/{total_keys}, attempt {retry_index + 1}/{retries})"
             )
+            PIPELINE_METRICS["modelCalls"] += 1
             response = clients[client_index].models.generate_content(
                 model=MODEL_NAME,
-                contents=prompt
+                contents=prompt,
+                config=GENERATION_CONFIG
             )
+            usage = getattr(response, "usage_metadata", None)
+            if usage:
+                PIPELINE_METRICS["promptTokens"] += int(getattr(usage, "prompt_token_count", 0) or 0)
+                PIPELINE_METRICS["outputTokens"] += int(getattr(usage, "candidates_token_count", 0) or 0)
+                PIPELINE_METRICS["cachedTokens"] += int(getattr(usage, "cached_content_token_count", 0) or 0)
+                PIPELINE_METRICS["thoughtTokens"] += int(getattr(usage, "thoughts_token_count", 0) or 0)
             return response
         except Exception as error:
             last_error = error
@@ -578,18 +651,22 @@ def parse_json_payload_with_fallback(text, api_keys):
     parse_errors = []
     locally_repaired = repair_missing_json_commas(cleaned)
 
-    for candidate in (
+    for candidate_index, candidate in enumerate((
         cleaned,
         escape_control_chars_in_strings(cleaned),
         locally_repaired,
         escape_control_chars_in_strings(locally_repaired)
-    ):
+    )):
         try:
-            return json.loads(candidate)
+            payload = json.loads(candidate)
+            if candidate_index:
+                PIPELINE_METRICS["localJsonRepairs"] += 1
+            return payload
         except json.JSONDecodeError as error:
             parse_errors.append(error)
 
     emit_progress(72, "repair-json", "JSON 格式受損，送交 Gemini 修復...")
+    PIPELINE_METRICS["geminiJsonRepairs"] += 1
     repaired_response = call_gemini_with_retry(build_json_repair_prompt(cleaned), api_keys, retries=6)
     repaired_text = repair_json(getattr(repaired_response, "text", "") or "")
     locally_repaired_response = repair_missing_json_commas(repaired_text)
@@ -1454,6 +1531,7 @@ def audit_required_pos_coverage(
         "coverage-repair",
         f"偵測到高風險漏詞性，送交 Gemini 強制補齊：{summarize_required_pos_gaps(coverage_gaps)}"
     )
+    PIPELINE_METRICS["coverageRepairs"] += 1
 
     repair_response = call_gemini_with_retry(
         build_required_pos_repair_prompt(source_label, source_text, rows, coverage_gaps),
@@ -1710,6 +1788,7 @@ def generate_words_with_three_pass_review(
         )
         emit_progress(88, "second-approved", "二次送審完成，準備最終仲裁。")
     except Exception as error:
+        PIPELINE_METRICS["secondPassFallbacks"] += 1
         emit_progress(84, "second-fallback", f"二次送審失敗，沿用第一次結果：{error}")
         second_pass_rows = normalize_words(first_pass_rows)
 
@@ -1767,6 +1846,7 @@ def generate_words_with_three_pass_review(
         validate_generated_rows(final_rows, expected_words=expected_words)
         emit_progress(96, "third-approved", "第三次送審完成，採用最終仲裁結果。")
     except Exception as error:
+        PIPELINE_METRICS["thirdPassFallbacks"] += 1
         emit_progress(94, "third-fallback", f"第三次送審失敗，沿用第二次結果：{error}")
         final_rows = apply_third_pass_safeguards(
             second_pass_rows,
@@ -1812,6 +1892,7 @@ def generate_words_with_three_pass_review(
                 expected_words=expected_words
             )
         except Exception as error:
+            PIPELINE_METRICS["coverageFallbacks"] += 1
             emit_progress(
                 96,
                 "coverage-fallback",
@@ -1949,6 +2030,8 @@ def reviewed_ocr_json_to_words(json_path):
     raw_text = str(payload.get("ocrText", "")).strip()
     if not raw_text:
         fail("沒有可送交 AI 的 OCR 文字。")
+    if len(raw_text) > MAX_REVIEWED_OCR_CHARS:
+        fail(f"人工核對 OCR 文字不可超過 {MAX_REVIEWED_OCR_CHARS:,} 個字元，請先拆頁後再送出。")
 
     emit_progress(12, "review", "已讀取人工核對 OCR，準備送往 Gemini 分析...")
     rows = generate_words_with_three_pass_review(

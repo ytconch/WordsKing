@@ -1,0 +1,1407 @@
+{
+  "level": 5,
+  "chunkIndex": 6,
+  "inputs": [
+    "cruise",
+    "crystal",
+    "cuisine",
+    "currency",
+    "curriculum",
+    "custody",
+    "customs",
+    "deadly",
+    "debris",
+    "debut",
+    "decay",
+    "deceive",
+    "decent",
+    "declaration",
+    "decline",
+    "dedicate",
+    "defendant",
+    "deficit",
+    "defy",
+    "delegate",
+    "delegation",
+    "deliberate",
+    "democrat",
+    "denial",
+    "density",
+    "depict",
+    "deploy",
+    "depress",
+    "deputy",
+    "derive",
+    "descend",
+    "descriptive",
+    "despair",
+    "destination",
+    "destiny",
+    "destructive",
+    "devotion",
+    "diagnose",
+    "diagnosis",
+    "dialect",
+    "diameter",
+    "diaper",
+    "digestion",
+    "dilemma",
+    "dimension",
+    "diminish",
+    "diplomatic",
+    "directory",
+    "disapprove",
+    "disclose"
+  ],
+  "rows": [
+    {
+      "eng": "cruise",
+      "kk": "/kruz/",
+      "tense": "n.",
+      "ch": [
+        [
+          "海上巡遊",
+          "郵輪假期"
+        ],
+        [
+          "巡航",
+          "緩慢行駛"
+        ]
+      ],
+      "analysis": "此字為動詞 cruise 的轉品名詞，保留動詞的核心語義。在現代英語中作為名詞，主要指搭乘郵輪的度假旅行，或指飛機、船隻、車輛的巡航狀態。",
+      "definition": "1. a voyage on a ship for pleasure, usually calling at several ports; 2. a smooth, economical journey or movement at a steady speed.",
+      "example": [
+        {
+          "eng": "We booked a Caribbean cruise for our summer vacation.",
+          "ch": "我們為暑假預訂了一趟加勒比海郵輪假期。"
+        },
+        {
+          "eng": "The aircraft is now at a steady cruise at 35,000 feet.",
+          "ch": "飛機目前在三萬五千英尺高度穩定巡航。"
+        }
+      ]
+    },
+    {
+      "eng": "cruise",
+      "kk": "/kruz/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "乘船遊覽",
+          "搭郵輪旅行"
+        ],
+        [
+          "緩行",
+          "巡航",
+          "漫遊"
+        ]
+      ],
+      "analysis": "此字直接借自荷蘭語 kruisen（意為交叉航行、巡航），源自拉丁語 crux（十字架）。在現代英語中作為不及物動詞，主要指搭乘郵輪度假旅行，或指車輛、船隻以平穩且省油的速度持續前行。",
+      "definition": "1. to sail on a pleasure trip on a liner or passenger ship; 2. to travel smoothly at a moderate speed, or move around slowly without a specific destination.",
+      "example": [
+        {
+          "eng": "They decided to cruise around the Mediterranean for their anniversary.",
+          "ch": "他們決定乘船遊覽地中海來慶祝結婚紀念日。"
+        },
+        {
+          "eng": "The car began to cruise along the empty highway.",
+          "ch": "汽車開始在空曠的高速公路上平穩巡航。"
+        }
+      ]
+    },
+    {
+      "eng": "crystal",
+      "kk": "/ˈkrɪstəl/",
+      "tense": "n.",
+      "ch": [
+        [
+          "結晶",
+          "結晶體"
+        ],
+        [
+          "水晶",
+          "水晶製品"
+        ]
+      ],
+      "analysis": "此字源自古法語 cristal，最終追溯至希臘語 krustallos（意為冰、晶石），由 kryos（寒冷、冰）衍生而來。在現代英語中作為名詞，指原子或分子規則排列的固體結晶，或指高純度且切割精細的光學或裝飾用水晶。",
+      "definition": "1. a piece of a homogeneous solid substance having a natural geometrically regular form; 2. highly transparent glass or a piece of such material used for decorative objects.",
+      "example": [
+        {
+          "eng": "Salt forms natural cubic crystals as it dries.",
+          "ch": "鹽在乾燥時會形成天然的立方體結晶。"
+        },
+        {
+          "eng": "She poured the vintage wine into a fine crystal glass.",
+          "ch": "她將陳年葡萄酒倒進精美的水晶杯中。"
+        }
+      ]
+    },
+    {
+      "eng": "crystal",
+      "kk": "/ˈkrɪstəl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "水晶製的",
+          "透明的",
+          "清澈的"
+        ]
+      ],
+      "analysis": "此字由名詞 crystal 轉品為形容詞，保留其與水晶或極致透明、清澈相關的特性，常用於描述材質或極度清晰的狀態。",
+      "definition": "1. made of crystal, or exceptionally clear and transparent like crystal.",
+      "example": [
+        {
+          "eng": "The water in the mountain stream was crystal clear.",
+          "ch": "山澗中的水清澈見底。"
+        }
+      ]
+    },
+    {
+      "eng": "cuisine",
+      "kk": "/kwɪˈzin/",
+      "tense": "n.",
+      "ch": [
+        [
+          "烹飪風格",
+          "菜系",
+          "美食"
+        ]
+      ],
+      "analysis": "此字透過法語 cuisine（廚房、烹飪法）借入英語，最終源自拉丁語 coquina（廚房），由 coquere（烹調）衍生而來。在現代英語中作為名詞，指特定地區、文化或傳統的獨特烹調風格與飲食文化。",
+      "definition": "1. a style or method of cooking, especially as characteristic of a particular country, region, or establishment.",
+      "example": [
+        {
+          "eng": "Thai cuisine is famous for its unique blend of spicy, sour, and sweet flavors.",
+          "ch": "泰國菜以其酸、甜、辣融合的獨特風味而聞名。"
+        }
+      ]
+    },
+    {
+      "eng": "currency",
+      "kk": "/ˈkɜrənsi/",
+      "tense": "n.",
+      "ch": [
+        [
+          "貨幣",
+          "流通貨幣"
+        ],
+        [
+          "通用",
+          "流行",
+          "流傳"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 currens（流動的、現行的，為 currere 跑步、流動的現在分詞），經由名詞化後演變而來。在現代英語中作為名詞，除指一個國家流通的法定貨幣外，也抽象引申為觀念、說法或作法的流行與通用。",
+      "definition": "1. a system of money in general use in a particular country; 2. the state or quality of being widely accepted, used, or prevalent.",
+      "example": [
+        {
+          "eng": "The local currency lost significant value against the US dollar.",
+          "ch": "當地貨幣對美元大幅貶值。"
+        },
+        {
+          "eng": "This outdated economic theory has lost its currency among modern scholars.",
+          "ch": "這個過時的經濟學理論在現代學者中已不再流行。"
+        }
+      ]
+    },
+    {
+      "eng": "curriculum",
+      "kk": "/kəˈrɪkjələm/",
+      "tense": "n.",
+      "ch": [
+        [
+          "課程",
+          "學校課程體系"
+        ]
+      ],
+      "analysis": "此字直接借自拉丁語 curriculum（小跑車、賽跑場、賽跑進程），源自 currere（跑步、流動）。在現代英語中作為名詞，其語義由「奔跑的賽道」演變為「學習的歷程與課程大綱」。複數形通常為 curricula。",
+      "definition": "1. the subjects comprising a course of study in a school, college, or university.",
+      "example": [
+        {
+          "eng": "The school introduced a new STEM curriculum to prepare students for future tech jobs.",
+          "ch": "學校引入了新的STEM課程，以幫助學生為未來的科技工作做好準備。"
+        }
+      ]
+    },
+    {
+      "eng": "custody",
+      "kk": "/ˈkʌstədi/",
+      "tense": "n.",
+      "ch": [
+        [
+          "監護權",
+          "撫養權"
+        ],
+        [
+          "拘留",
+          "扣押",
+          "看守"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 custodia（看守、保護、監禁），由 custos（看守人、衛兵）衍生而來。在現代英語中作為名詞，主要指對未成年子女的法定監護與照顧責任，或指警方對嫌疑人的依法拘留與看管。",
+      "definition": "1. the protective care or guardianship of someone, especially a child; 2. the imprisonment or detention of a person in police custody.",
+      "example": [
+        {
+          "eng": "The court granted joint custody of the children to both parents.",
+          "ch": "法庭將孩子的共同監護權判給了雙親。"
+        },
+        {
+          "eng": "The suspect was taken into police custody following the interrogation.",
+          "ch": "嫌疑人在偵訊後被警方拘留。"
+        }
+      ]
+    },
+    {
+      "eng": "customs",
+      "kk": "/ˈkʌstəmz/",
+      "tense": "n.",
+      "ch": [
+        [
+          "海關",
+          "關稅處"
+        ],
+        [
+          "海關檢查",
+          "進出口稅"
+        ]
+      ],
+      "analysis": "此字為 custom（習俗、慣例）的複數形進一步特化而成，源自古法語 costume，最終源自拉丁語 consuetudo（習俗）。在現代英語中作為複數名詞，專指國家邊境負責檢查旅客行李、徵收進出口關稅的政府機關或其場所。",
+      "definition": "1. the official department that administers and collects the duties levied by a government on imported goods; 2. the place at a port or airport where travelers' baggage is examined.",
+      "example": [
+        {
+          "eng": "Passengers must pass through customs after collecting their luggage.",
+          "ch": "旅客領取行李後必須通過海關檢查。"
+        },
+        {
+          "eng": "They were stopped at customs for carrying undeclared agricultural products.",
+          "ch": "他們因攜帶未申報的農產品而在海關被攔下。"
+        }
+      ]
+    },
+    {
+      "eng": "deadly",
+      "kk": "/ˈdɛdli/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "致命的",
+          "致死的"
+        ],
+        [
+          "極度的",
+          "死一般的"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由古英語 dēad（死去的）加上形容詞與副詞字尾 -līc（衍生出現代 -ly）結合而成。在現代英語中作為形容詞，指會導致死亡的物質或傷害，或用來形容極端、強烈或死寂的狀態。",
+      "definition": "1. causing or likely to cause death; 2. extreme in degree, or characteristic of death such as profound silence.",
+      "example": [
+        {
+          "eng": "The snake possesses a deadly venom that acts very quickly.",
+          "ch": "這條蛇擁有發作極快的致命毒液。"
+        },
+        {
+          "eng": "There was a deadly silence in the room after the shocking announcement.",
+          "ch": "令人震驚的公告發布後，房間裡陷入一片死寂。"
+        }
+      ]
+    },
+    {
+      "eng": "debris",
+      "kk": "/dəˈbri/",
+      "tense": "n.",
+      "ch": [
+        [
+          "殘骸",
+          "碎片",
+          "瓦礫堆"
+        ]
+      ],
+      "analysis": "此字透過法語 débris 借入英語，由前綴 dé-（表示去除、破壞）與 bris（破裂、破碎，源自古法語 briser 擊碎）複合而成。在現代英語中作為名詞，指建築物倒塌、爆炸或災難後散落各處的破瓦殘骸與碎屑。",
+      "definition": "1. scattered pieces of rubbish or remains, especially after a disaster or destruction.",
+      "example": [
+        {
+          "eng": "Rescue workers searched through the concrete debris for survivors.",
+          "ch": "救援人員在混凝土瓦礫堆中搜尋生還者。"
+        }
+      ]
+    },
+    {
+      "eng": "debut",
+      "kk": "/deɪˈbyu/",
+      "tense": "n.",
+      "ch": [
+        [
+          "首次登台",
+          "初次亮相",
+          "上市"
+        ]
+      ],
+      "analysis": "此字透過法語 début 借入英語，源自動詞 débuter（首次開端、起步），由 dé-（向下、離開）與 but（目標、終點）複合而成。在現代英語中作為名詞，指表演者、運動員首次公開露面，或指新產品的正式上市。",
+      "definition": "1. a person's first public appearance on a stage, in a film, or on television; 2. the first appearance of a product or service on the market.",
+      "example": [
+        {
+          "eng": "The young pianist made a stunning debut with the philharmonic orchestra.",
+          "ch": "這位年輕鋼琴家與愛樂管弦樂團合作，進行了驚豔的首次登台。"
+        },
+        {
+          "eng": "The automotive company showcased the debut of its electric SUV.",
+          "ch": "這家汽車公司展示了其電動休旅車的首次亮相。"
+        }
+      ]
+    },
+    {
+      "eng": "decay",
+      "kk": "/dɪˈkeɪ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "腐爛",
+          "蛀蝕"
+        ],
+        [
+          "衰退",
+          "衰敗"
+        ]
+      ],
+      "analysis": "此字為動詞 decay 的轉品名詞，保留動詞的核心語義。在現代英語中作為名詞，指有機體的腐敗過程、牙齒蛀蝕，或指社會、建築、經濟的長期衰退現象。",
+      "definition": "1. the state or process of rotting or decomposition, such as tooth decay; 2. the gradual decline or deterioration of a building, organization, or system.",
+      "example": [
+        {
+          "eng": "Regular brushing helps prevent tooth decay and gum disease.",
+          "ch": "規律刷牙有助於預防蛀牙和牙周病。"
+        },
+        {
+          "eng": "The economic crisis accelerated the urban decay of the industrial city.",
+          "ch": "經濟危機加速了這座工業城市的都市衰敗。"
+        }
+      ]
+    },
+    {
+      "eng": "decay",
+      "kk": "/dɪˈkeɪ/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "腐爛",
+          "腐敗"
+        ],
+        [
+          "衰退",
+          "衰落"
+        ]
+      ],
+      "analysis": "此字源自古法語 decair，最終源自拉丁語 dēcidere（向下落下，由 dē- 向下 + cadere 落下組成）。在現代英語中作為不及物動詞，主要指有機物質因細菌分解而腐爛，或指制度、文明、帝國的逐漸衰落。",
+      "definition": "1. (of organic matter) to rot or decompose through the action of bacteria and fungi; 2. to fall into a state of decline, ruin, or deterioration.",
+      "example": [
+        {
+          "eng": "Fallen leaves begin to decay and enrich the forest soil.",
+          "ch": "落葉開始腐爛並豐富森林土壤。"
+        },
+        {
+          "eng": "Historic downtown areas can decay if urban regeneration projects are neglected.",
+          "ch": "如果忽視都市更新計畫，歷史市中心區可能會逐漸衰敗。"
+        }
+      ]
+    },
+    {
+      "eng": "deceive",
+      "kk": "/dɪˈsiv/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "欺騙",
+          "矇騙",
+          "行騙"
+        ]
+      ],
+      "analysis": "此字透過古法語 deceivre 借入英語，最終源自拉丁語 dēcipere（捕獲、捉住、欺騙），由 dē-（加強語氣）與 capere（拿取、捕獲）複合而成。在現代英語中作為及物動詞，指故意向他人傳遞虛假資訊以達到誤導或詐欺目的。",
+      "definition": "1. to mislead or trick someone into believing something that is not true.",
+      "example": [
+        {
+          "eng": "The scammer tried to deceive elderly people by pretending to be a bank official.",
+          "ch": "這名詐騙犯假冒銀行官員，企圖欺騙老年人。"
+        }
+      ]
+    },
+    {
+      "eng": "decent",
+      "kk": "/ˈdisənt/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "得體的",
+          "合乎禮節的"
+        ],
+        [
+          "相當不錯的",
+          "像樣的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 dēcens（合適的、得體的，為 dēcere 適宜的現在分詞）。在現代英語中作為形容詞，最初指行為舉止合乎社會道德與禮儀規範，進一步引申為品質或數量達到令人滿意、相當不錯的標準。",
+      "definition": "1. conforming to acceptable standards of propriety, morality, or behavior; 2. satisfactory in quality, quantity, or standard.",
+      "example": [
+        {
+          "eng": "He wore a decent suit and tie to the formal job interview.",
+          "ch": "他穿著得體的西裝和領帶去參加正式的工作面試。"
+        },
+        {
+          "eng": "After working hard all week, she is looking forward to a decent meal.",
+          "ch": "辛苦工作了一整週後，她正期待著一頓像樣的美食。"
+        }
+      ]
+    },
+    {
+      "eng": "declaration",
+      "kk": "/ˌdɛkləˈreɪʃən/",
+      "tense": "n.",
+      "ch": [
+        [
+          "宣告",
+          "聲明",
+          "申報單"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由動詞 declare（宣告，源自拉丁語 dēclārāre）加上名詞字尾 -ation 結合而成。在現代英語中作為名詞，指官方或個人的正式書面或口頭宣告，也指海關的物品申報手續。",
+      "definition": "1. a formal or explicit statement or announcement; 2. an official document by which goods are reported to customs.",
+      "example": [
+        {
+          "eng": "The government issued a formal declaration of independence.",
+          "ch": "政府發表了正式的獨立宣言。"
+        },
+        {
+          "eng": "Travelers must complete a customs declaration upon arrival.",
+          "ch": "旅客抵達時必須填寫海關申報單。"
+        }
+      ]
+    },
+    {
+      "eng": "decline",
+      "kk": "/dɪˈklaɪn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "下降",
+          "衰退",
+          "落後"
+        ]
+      ],
+      "analysis": "此字為動詞 decline 的轉品名詞，保留動詞的核心語義。在現代英語中作為名詞，指數量、品質、經濟實力或健康狀況的下滑與衰退過程。",
+      "definition": "1. a gradual and continuous loss of strength, numbers, quality, or value.",
+      "example": [
+        {
+          "eng": "The company experienced a sharp decline in profits over the past year.",
+          "ch": "該公司在過去一年中經歷了利潤的大幅下降。"
+        }
+      ]
+    },
+    {
+      "eng": "decline",
+      "kk": "/dɪˈklaɪn/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "婉拒",
+          "謝絕"
+        ]
+      ],
+      "analysis": "此字由動詞 decline 延伸出的及物用法，直接接受邀請、提議或要求作為受詞，表示正式且禮貌地拒絕。",
+      "definition": "1. to politely refuse to accept or do something.",
+      "example": [
+        {
+          "eng": "The CEO decided to decline the lucrative consulting offer.",
+          "ch": "執行長決定婉拒這份利潤豐厚的諮詢工作邀約。"
+        }
+      ]
+    },
+    {
+      "eng": "decline",
+      "kk": "/dɪˈklaɪn/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "下降",
+          "減少",
+          "衰退"
+        ],
+        [
+          "婉拒",
+          "謝絕"
+        ]
+      ],
+      "analysis": "此字源自古法語 decliner，最終源自拉丁語 dēclināre（向下彎曲、傾斜、拒絕），由 dē-（向下）與 clināre（傾斜、彎曲）複合而成。在現代英語中作為不及物動詞，指數量、價格或健康狀況的下滑，或指禮貌地拒絕邀請。",
+      "definition": "1. (especially of numbers, prices, or health) to become smaller, fewer, or worse; 2. to politely refuse an invitation, offer, or request.",
+      "example": [
+        {
+          "eng": "Sales of traditional printed books continue to decline in the digital era.",
+          "ch": "在數位時代，傳統紙本書籍的銷量持續下降。"
+        },
+        {
+          "eng": "She had to decline the dinner invitation due to a prior engagement.",
+          "ch": "由於已有約在先，她不得不婉拒晚餐邀請。"
+        }
+      ]
+    },
+    {
+      "eng": "dedicate",
+      "kk": "/ˈdɛdəˌkeɪt/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "奉獻",
+          "致力於"
+        ],
+        [
+          "題獻",
+          "把……獻給"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 dēdicāre（奉獻、宣誓奉獻），由 dē-（加強語氣）與 dicāre（宣示、奉獻）複合而成。在現代英語中作為及物動詞，指將時間、精力奉獻給某項事業，或指將出版品題獻給某人以表敬意。",
+      "definition": "1. to devote time, effort, or oneself to a particular task or purpose; 2. to officially name, address, or sign a book or artistic work as a tribute to someone.",
+      "example": [
+        {
+          "eng": "She decided to dedicate her entire career to medical research.",
+          "ch": "她決定將自己的整個職業生涯奉獻給醫學研究。"
+        },
+        {
+          "eng": "The author chose to dedicate his debut novel to his late grandfather.",
+          "ch": "作者選擇將他的第一部小說題獻給他已故的祖父。"
+        }
+      ]
+    },
+    {
+      "eng": "defendant",
+      "kk": "/dɪˈfɛndənt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "被告"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由動詞 defend（防禦、辯護，源自拉丁語 dēfendere）加上現在分詞與名詞字尾 -ant 結合而成。在現代英語中作為名詞，專指在民事或刑事訴訟中被起訴、需要進行法律辯護的一方。",
+      "definition": "1. an individual, company, or institution sued or accused in a court of law.",
+      "example": [
+        {
+          "eng": "The defense attorney argued that the defendant was innocent of all charges.",
+          "ch": "辯護律師主張被告對所有指控均屬無罪。"
+        }
+      ]
+    },
+    {
+      "eng": "deficit",
+      "kk": "/ˈdɛfəsɪt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "赤字",
+          "虧損",
+          "逆差"
+        ],
+        [
+          "缺乏",
+          "不足"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 dēficit（意為「它缺少了」），為 dēficere（缺少、失敗、不足）的第三人稱單數現在直陳式主動形，由 dē-（向下、不足）與 facere（做）複合而成。在現代英語中作為名詞，主要指財政預算或貿易上的收支赤字，也指身體或能力上的某種缺乏。",
+      "definition": "1. the amount by which something, especially a sum of money, is too small (financial deficit); 2. a deficiency or lack of something.",
+      "example": [
+        {
+          "eng": "The government is struggling to reduce the national budget deficit.",
+          "ch": "政府正努力縮減國家財政預算赤字。"
+        },
+        {
+          "eng": "A chronic sleep deficit can seriously impair cognitive function.",
+          "ch": "長期睡眠不足會嚴重損害認知功能。"
+        }
+      ]
+    },
+    {
+      "eng": "defy",
+      "kk": "/dɪˈfaɪ/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "違抗",
+          "反抗",
+          "蔑視"
+        ],
+        [
+          "難以",
+          "使無法（配合修飾詞）"
+        ]
+      ],
+      "analysis": "此字源自古法語 desfier（挑戰、向……宣戰），由拉丁語 dis-（表示分離或取消）與 fīdāre（信任，源自 fidēs 忠誠）複合演變而來。在現代英語中作為及物動詞，指公然違抗權威或法律，或引申為某事物難以用常理解釋（如 defy description 難以形容）。",
+      "definition": "1. to openly resist or refuse to obey a law, rule, or authority; 2. to be impossible or extremely difficult to do or explain.",
+      "example": [
+        {
+          "eng": "The protesters decided to defy the curfew and remain in the square.",
+          "ch": "抗議者決定違抗宵禁令，繼續留在廣場上。"
+        },
+        {
+          "eng": "The breathtaking landscape's beauty defies description.",
+          "ch": "那壯麗的景色美得難以言喻。"
+        }
+      ]
+    },
+    {
+      "eng": "delegate",
+      "kk": "/ˈdɛləgɪt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "代表",
+          "會議代表"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 dēlēgātus（被委派者，為 dēlēgāre 委任的過去分詞），由 dē-（向下、向外）與 lēgāre（派遣、委任，源自 lēx 法律）複合而成。在現代英語中作為名詞，指被推選或指派代表群體出席會議、協商的人員。",
+      "definition": "1. a person sent or authorized to represent others, especially at an elected conference or meeting.",
+      "example": [
+        {
+          "eng": "Delegates from over fifty countries attended the international climate summit.",
+          "ch": "來自五十多個國家的代表出席了國際氣候峰會。"
+        }
+      ]
+    },
+    {
+      "eng": "delegate",
+      "kk": "/ˈdɛləˌgeɪt/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "委派",
+          "授權",
+          "分派（工作）"
+        ]
+      ],
+      "analysis": "此字為動詞形式，讀音字尾略有不同。由拉丁語 dēlēgāre 演變而來，在現代英語中作為及物動詞，指主管或領導者將權力、任務或工作分派給下屬執行。",
+      "definition": "1. to entrust a task or responsibility to another person, typically one who is less senior.",
+      "example": [
+        {
+          "eng": "A successful manager must learn how to effectively delegate tasks to team members.",
+          "ch": "一位成功的經理必須學會如何有效地將任務分派給團隊成員。"
+        }
+      ]
+    },
+    {
+      "eng": "delegation",
+      "kk": "/ˌdɛləˈgeɪʃən/",
+      "tense": "n.",
+      "ch": [
+        [
+          "代表團"
+        ],
+        [
+          "委派",
+          "授權"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由動詞 delegate 加上名詞字尾 -ation 結合而成。在現代英語中作為名詞，主要指由數名代表組成的團體（代表團），或指權力與工作的委派過程。",
+      "definition": "1. a body of delegates or representatives sent to represent a group; 2. the action or process of entrusting a task or power to another.",
+      "example": [
+        {
+          "eng": "The trade delegation arrived in Washington to discuss tariffs.",
+          "ch": "貿易代表團抵達華盛頓討論關稅問題。"
+        },
+        {
+          "eng": "Effective leadership requires the proper delegation of responsibilities.",
+          "ch": "有效的領導需要適當的職責授權。"
+        }
+      ]
+    },
+    {
+      "eng": "deliberate",
+      "kk": "/dɪˈlɪbəˌreɪt/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "深思熟慮",
+          "商討",
+          "研討"
+        ]
+      ],
+      "analysis": "此字為動詞形式，源自拉丁語 dēlīberāre（斟酌、商議）。在現代英語中作為不及物動詞，指陪審團或委員會進行深入討論、權衡利弊以做出決策。",
+      "definition": "1. to engage in long and careful consideration, discussion, or negotiation.",
+      "example": [
+        {
+          "eng": "The jury retired to the chambers to deliberate on the verdict.",
+          "ch": "陪審團退席至密室商討裁決結果。"
+        }
+      ]
+    },
+    {
+      "eng": "deliberate",
+      "kk": "/dɪˈlɪbərɪt/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "故意的",
+          "蓄意的"
+        ],
+        [
+          "慎重的",
+          "從容不迫的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 dēlīberātus（仔細考慮過的，為 dēlīberāre 的過去分詞），由 dē-（加強語氣）與 lībra（天平、秤重）複合而成，字面義為「放在天平上仔細斟酌的」。在現代英語中作為形容詞，指有計畫、故意的行為，或指沉穩、慎重的態度。",
+      "definition": "1. done consciously and intentionally; 2. careful and unhurried in action or movement.",
+      "example": [
+        {
+          "eng": "The prosecutor argued that the crime was a deliberate act of sabotage.",
+          "ch": "檢察官主張該罪行是一起蓄意破壞行動。"
+        },
+        {
+          "eng": "He spoke in a slow and deliberate manner to ensure everyone understood.",
+          "ch": "他以緩慢而慎重的方式發言，以確保每個人都聽懂。"
+        }
+      ]
+    },
+    {
+      "eng": "democrat",
+      "kk": "/ˈdɛməˌkræt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "民主主義者",
+          "民主黨人"
+        ]
+      ],
+      "analysis": "此字透過希臘語 dēmokratia（民主，由 dēmos 人民 + kratos 權力、統治組成）逆構或截短衍生而來。在現代英語中作為名詞，指支持民主制度的人，或美國民主黨的黨員。",
+      "definition": "1. an advocate of democracy; 2. a member of the Democratic Party in the United States.",
+      "example": [
+        {
+          "eng": "He has been a lifelong democrat who firmly believes in voting rights.",
+          "ch": "他是一名堅信投票權的終身民主主義者。"
+        }
+      ]
+    },
+    {
+      "eng": "denial",
+      "kk": "/dɪˈnaɪəl/",
+      "tense": "n.",
+      "ch": [
+        [
+          "否認",
+          "否定"
+        ],
+        [
+          "拒絕給予",
+          "剝奪"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由動詞 deny（否定、拒絕，源自拉丁語 dēnēgāre）加上名詞字尾 -al 結合而成。在現代英語中作為名詞，指對指控或事實的否認，或指拒絕授予某種權利與要求。",
+      "definition": "1. a statement that something is not true or that one did not commit an offense; 2. the refusal to grant something requested or desired.",
+      "example": [
+        {
+          "eng": "The politician issued a flat denial of the corruption allegations.",
+          "ch": "這名政治人物對貪腐指控發表了斷然否認的聲明。"
+        },
+        {
+          "eng": "The denial of basic human rights sparked widespread international outrage.",
+          "ch": "剝奪基本人權的行為引發了廣泛的國際憤慨。"
+        }
+      ]
+    },
+    {
+      "eng": "density",
+      "kk": "/ˈdɛnsəti/",
+      "tense": "n.",
+      "ch": [
+        [
+          "密度",
+          "濃度"
+        ],
+        [
+          "稠密",
+          "密集度"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 dēnsitās，由 dēnsus（稠密的、濃厚的）加上名詞字尾 -ity 組成。在現代英語中作為名詞，科學上指單位體積內的質量或人口與建築物的稠密程度。",
+      "definition": "1. the degree of compactness of a substance (mass per unit volume); 2. the quantity or number of things per unit area or volume (e.g., population density).",
+      "example": [
+        {
+          "eng": "Lead has a much higher density than aluminum.",
+          "ch": "鉛的密度比鋁高得多。"
+        },
+        {
+          "eng": "High population density in urban areas creates unique challenges for public transit.",
+          "ch": "都會區的高人口密度為大眾運輸帶來了獨特的挑戰。"
+        }
+      ]
+    },
+    {
+      "eng": "depict",
+      "kk": "/dɪˈpɪkt/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "描繪",
+          "描寫",
+          "刻畫"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 dēpingere（畫出、描繪），由 dē-（加強語氣）與 pingere（繪畫、裝飾）複合而成。在現代英語中作為及物動詞，指透過繪畫、文學文字或影視作品來描繪或刻畫某個場景、人物與主題。",
+      "definition": "1. to portray, represent, or characterize in words, pictures, or art.",
+      "example": [
+        {
+          "eng": "The historical novel vividly depicts life in Victorian London.",
+          "ch": "這部歷史小說生動地描繪了維多利亞時代倫敦的生活。"
+        }
+      ]
+    },
+    {
+      "eng": "deploy",
+      "kk": "/dɪˈplɔɪ/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "部署",
+          "調動（軍隊或資源）"
+        ],
+        [
+          "有效運用",
+          "使用"
+        ]
+      ],
+      "analysis": "此字源自古法語 desploier（展開、攤開），最終源自拉丁語 displicāre（分散、展開，由 dis- 分離 + plicāre 摺疊組成）。在現代英語中作為及物動詞，原指軍事部隊的展開與部署，現也廣泛用於科技設備、資金或策略資源的有效運用。",
+      "definition": "1. to move troops or equipment into position for action; 2. to bring into effective action, utilize, or employ resources.",
+      "example": [
+        {
+          "eng": "The government decided to deploy peacekeepers to the conflict zone.",
+          "ch": "政府決定向衝突地區部署維和部隊。"
+        },
+        {
+          "eng": "The marketing team deployed a new social media strategy to attract younger consumers.",
+          "ch": "行銷團隊運用了一項新的社群媒體策略來吸引年輕消費者。"
+        }
+      ]
+    },
+    {
+      "eng": "depress",
+      "kk": "/dɪˈprɛs/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使沮喪",
+          "使消沉"
+        ],
+        [
+          "使低落",
+          "降低（經濟或價格）"
+        ],
+        [
+          "壓下",
+          "按低"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 dēpressus（壓低的，為 dēprimere 的過去分詞），由 dē-（向下）與 premere（壓、擠）複合而成。在現代英語中作為及物動詞，語義從物理上的向下壓低，延伸至使情緒低落或使經濟活動、價格下跌。",
+      "definition": "1. to make someone feel sad, gloomy, or despondent; 2. to reduce the level or activity of something, such as prices or economic growth; 3. to press downward physically.",
+      "example": [
+        {
+          "eng": "Continuous rainy weather often tends to depress people's spirits.",
+          "ch": "連續的陰雨天氣往往會使人的精神感到沮喪。"
+        },
+        {
+          "eng": "Rising interest rates can depress consumer spending and housing markets.",
+          "ch": "升息可能會壓抑消費者支出和房市。"
+        },
+        {
+          "eng": "Depress the brake pedal firmly to bring the vehicle to a safe stop.",
+          "ch": "用力踩下煞車踏板，使車輛安全停下。"
+        }
+      ]
+    },
+    {
+      "eng": "deputy",
+      "kk": "/ˈdɛpיוti/",
+      "tense": "n.",
+      "ch": [
+        [
+          "副職",
+          "副手",
+          "代理人"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 dēputātus（被指派者，為 dēputāre 指派的過去分詞），由 dē-（向下、分配）與 putāre（估計、計算、認為）複合而成。在現代英語中作為名詞，指主管或領導者的主要副手、代理人，或某些國家的國會議員（如法國 Député）。",
+      "definition": "1. a person appointed or authorized to hold power or act for another, typically as second-in-command.",
+      "example": [
+        {
+          "eng": "The director appointed her trusted assistant as her primary deputy.",
+          "ch": "主任任命她信賴的助理擔任主要副手。"
+        }
+      ]
+    },
+    {
+      "eng": "derive",
+      "kk": "/dɪˈraɪv/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "源自",
+          "衍生出",
+          "從……獲得（樂趣或利益）"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 dērivāre（引導水流、衍生），由 dē-（從、出於）與 rīvus（小河、河川）複合而成，字面原義為「將水從小河引出」。在現代英語中作為及物動詞，引申為語言詞源的追溯、事物的起源或從中獲得好處。",
+      "definition": "1. to obtain something from a specified source; 2. to trace the origin or basis of a word or concept.",
+      "example": [
+        {
+          "eng": "Many students derive great satisfaction from solving complex math problems.",
+          "ch": "許多學生從解決複雜的數學題中獲得極大的滿足感。"
+        },
+        {
+          "eng": "The English word 'democracy' derives from ancient Greek roots.",
+          "ch": "英語單字「democracy」源自古希臘語字根。"
+        }
+      ]
+    },
+    {
+      "eng": "descend",
+      "kk": "/dɪˈsɛnd/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "下降",
+          "下落",
+          "下山"
+        ],
+        [
+          "起源於",
+          "是……的後裔"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 dēscendere（向下爬、下降），由 dē-（向下）與 scandere（攀爬）複合而成。在現代英語中作為不及物動詞，指實體由高處向低處移動，或透過血統關係指子孫後代源自某個祖先。",
+      "definition": "1. to move or fall downward from a higher to a lower position; 2. to be a direct descendant of a particular ancestor.",
+      "example": [
+        {
+          "eng": "The hikers began to descend the steep mountain trail before sunset.",
+          "ch": "登山客在日落前開始沿著陡峭的山徑下山。"
+        },
+        {
+          "eng": "The royal family claims to descend from ancient monarchs.",
+          "ch": "該王室聲稱自己是古代君主的後裔。"
+        }
+      ]
+    },
+    {
+      "eng": "descriptive",
+      "kk": "/dɪˈskrɪptɪv/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "描述性的",
+          "描寫的"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由動詞 describe（描述，源自拉丁語 dēscribere）加上形容詞字尾 -ive 結合而成。在現代英語中作為形容詞，專門用來形容生動描繪事物特徵、樣貌或語言學上客觀記錄語言實際用法的性質。",
+      "definition": "1. serving to describe or characterize; giving details about something.",
+      "example": [
+        {
+          "eng": "The novel is praised for its rich and descriptive language.",
+          "ch": "這部小說因其豐富且具描寫性的語言而備受讚譽。"
+        }
+      ]
+    },
+    {
+      "eng": "despair",
+      "kk": "/dɪˈspɛr/",
+      "tense": "n.",
+      "ch": [
+        [
+          "絕望",
+          "無望"
+        ]
+      ],
+      "analysis": "此字源自古法語 despeir，最終源自拉丁語 dēspērāre（絕望，由 dē- 表示剝離、否定 + spērāre 希望，源自 spēs 希望組成）。在現代英語中作為名詞，指完全失去希望、感到極度沮喪的狀態。",
+      "definition": "1. the complete loss or absence of hope.",
+      "example": [
+        {
+          "eng": "After failing the exam for the third time, he sank into deep despair.",
+          "ch": "第三次考試不及格後，他陷入了深深的絕望。"
+        }
+      ]
+    },
+    {
+      "eng": "despair",
+      "kk": "/dɪˈspɛr/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "絕望",
+          "感到無望"
+        ]
+      ],
+      "analysis": "此字由名詞 despair 轉為動詞（或源自動詞源頭），在現代英語中作為不及物動詞，常與介詞 of 連用，表示對某事的成功或改善徹底失去信心。",
+      "definition": "1. to lose or be without hope (often followed by 'of').",
+      "example": [
+        {
+          "eng": "Don't despair of finding a solution; we are still working on it.",
+          "ch": "不要對找到解決方案感到絕望，我們仍在努力。"
+        }
+      ]
+    },
+    {
+      "eng": "destination",
+      "kk": "/ˌdɛstəˈneɪʃən/",
+      "tense": "n.",
+      "ch": [
+        [
+          "目的地",
+          "終點站"
+        ],
+        [
+          "預定目標"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由動詞 destine（註定、指定，源自拉丁語 dēstināre）加上名詞字尾 -ation 結合而成。在現代英語中作為名詞，指旅行或貨物運送最終要抵達的目的地。",
+      "definition": "1. the place to which someone or something is going or being sent; 2. the intended goal or purpose.",
+      "example": [
+        {
+          "eng": "After a ten-hour flight, the travelers finally reached their destination.",
+          "ch": "經過十個小時的飛行，旅客們終於抵達了目的地。"
+        },
+        {
+          "eng": "Paris remains a top tourist destination for travelers worldwide.",
+          "ch": "巴黎依然是全球旅客的頂級旅遊勝地。"
+        }
+      ]
+    },
+    {
+      "eng": "destiny",
+      "kk": "/ˈdɛstəni/",
+      "tense": "n.",
+      "ch": [
+        [
+          "命運",
+          "天命"
+        ]
+      ],
+      "analysis": "此字源自古法語 destinee，最終源自拉丁語 dēstināta（註定的事物，為 dēstināre 的過去分詞）。在現代英語中作為名詞，指生命中無法避免、命中注定的終極歸宿或命運力量。",
+      "definition": "1. the events that will necessarily happen to a particular person or thing in the future; fate.",
+      "example": [
+        {
+          "eng": "He believed that it was his destiny to lead his people to freedom.",
+          "ch": "他相信帶領自己的人民走向自由是他的天命。"
+        }
+      ]
+    },
+    {
+      "eng": "destructive",
+      "kk": "/dɪˈstrʌktɪv/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "破壞性的",
+          "毀滅性的"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由動詞 destroy（破壞，源自拉丁語 dēstruere）加上形容詞字尾 -ive 結合而成。在現代英語中作為形容詞，指會造成嚴重破壞、損害或毀滅的事物。",
+      "definition": "1. causing great and irreparable harm or damage.",
+      "example": [
+        {
+          "eng": "The hurricane brought destructive winds and heavy flooding to the coastal region.",
+          "ch": "颶風為沿海地區帶來了破壞性的強風和嚴重水災。"
+        }
+      ]
+    },
+    {
+      "eng": "devotion",
+      "kk": "/dɪˈvoʊʃən/",
+      "tense": "n.",
+      "ch": [
+        [
+          "奉獻",
+          "摯愛",
+          "忠誠"
+        ],
+        [
+          "宗教虔誠",
+          "禮拜"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 dēvotiō（奉獻、誓願，為 dēvovēre 的過去分詞名詞化），由 dē-（向下、完全）與 vovēre（發誓、許願）複合而成。在現代英語中作為名詞，指對事業、親友的極大忠誠與奉獻，或指宗教上的虔誠與祈禱儀式。",
+      "definition": "1. love, loyalty, or enthusiasm for a person, activity, or cause; 2. religious worship or observance.",
+      "example": [
+        {
+          "eng": "Her lifelong devotion to animal welfare has saved thousands of pets.",
+          "ch": "她對動物福利的終身奉獻拯救了數千隻寵物。"
+        },
+        {
+          "eng": "Monks spend hours each day in prayer and quiet devotion.",
+          "ch": "修士們每天花數小時進行祈禱與安靜的宗教修持。"
+        }
+      ]
+    },
+    {
+      "eng": "diagnose",
+      "kk": "/ˈdaɪəgˌnoʊs/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "診斷（疾病）",
+          "斷定（問題所在）"
+        ]
+      ],
+      "analysis": "此字為現代醫學與科學詞彙，透過希臘語字首 dia-（穿過、徹底）與 gnōsis（知識、認識，源自 gignōskein 知道）逆構動詞化而來。在現代英語中作為及物動詞，指醫生診斷疾病，或技術人員找出機器、系統故障的原因。",
+      "definition": "1. to identify the nature of an illness or other problem by examination.",
+      "example": [
+        {
+          "eng": "The doctor was able to diagnose the rare infection through blood tests.",
+          "ch": "醫生透過血液檢查診斷出了這種罕見的感染。"
+        },
+        {
+          "eng": "The mechanic quickly diagnosed the engine trouble.",
+          "ch": "技工迅速找出了引擎故障的問題所在。"
+        }
+      ]
+    },
+    {
+      "eng": "diagnosis",
+      "kk": "/ˌdaɪəgˈnoʊsɪs/",
+      "tense": "n.",
+      "ch": [
+        [
+          "診斷",
+          "診斷結果",
+          "調查分析結論"
+        ]
+      ],
+      "analysis": "此字直接借自希臘語 diagnosis（辨識、判斷），由 dia-（徹底）與 gnōsis（知識）組成。在現代英語中作為名詞，指醫學上的疾病診斷報告，或對複雜問題、故障原因的分析結論。複數形為 diagnoses。",
+      "definition": "1. the identification of the nature of an illness or other problem by examination of the symptoms.",
+      "example": [
+        {
+          "eng": "Early diagnosis and treatment significantly improve the patient's recovery chances.",
+          "ch": "早期診斷與治療能顯著提高患者的康復機會。"
+        }
+      ]
+    },
+    {
+      "eng": "dialect",
+      "kk": "/ˈdaɪəˌlɛkt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "方言",
+          "土語",
+          "地方話"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 dialectus，最終源自希臘語 dialektos（談話、對話、地方口音），由 dia-（之間、透過）與 legein（說話）複合而成。在現代英語中作為名詞，指特定地區或社群所使用的語言變體（方言）。",
+      "definition": "1. a particular form of a language that is peculiar to a specific region or social group.",
+      "example": [
+        {
+          "eng": "The elderly villagers still speak a unique local dialect that is hard for outsiders to understand.",
+          "ch": "年長的村民們仍然講著一種外地人很難聽懂的獨特方言。"
+        }
+      ]
+    },
+    {
+      "eng": "diameter",
+      "kk": "/daɪˈæmətər/",
+      "tense": "n.",
+      "ch": [
+        [
+          "直徑"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 diametros，最終源自希臘語 diametros（由 dia- 穿過、通過 + metron 測量組成，字面義為「穿過去的測量」）。在現代英語中作為名詞，幾何學上指透過圓心且兩端都在圓周上的直線距離（直徑）。",
+      "definition": "1. a straight line passing from side to side through the center of a body or figure, especially a circle or sphere.",
+      "example": [
+        {
+          "eng": "The giant redwood tree has a trunk diameter of over five meters.",
+          "ch": "這棵巨大的紅杉樹樹幹直徑超過五公尺。"
+        }
+      ]
+    },
+    {
+      "eng": "diaper",
+      "kk": "/ˈdaɪpər/",
+      "tense": "n.",
+      "ch": [
+        [
+          "尿布"
+        ]
+      ],
+      "analysis": "此字源自古法語 diasper（一種帶有菱形幾何花紋的珍貴布料），最終源自希臘語 diaspros（全白的，由 dia- 通過 + aspros 白色組成）。在中世紀英語中原指紋理精細的亞麻布，後來因嬰兒尿布常用此類布料而演變出「尿布」的專門含義。",
+      "definition": "1. a piece of absorbent material wrapped round a baby's bottom to absorb excrement.",
+      "example": [
+        {
+          "eng": "The parents packed extra diapers and wipes in the baby bag.",
+          "ch": "父母在嬰兒包裡多裝了幾片尿布和濕紙巾。"
+        }
+      ]
+    },
+    {
+      "eng": "digestion",
+      "kk": "/daɪˈdʒɛstʃən/",
+      "tense": "n.",
+      "ch": [
+        [
+          "消化",
+          "消化能力"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由動詞 digest（消化，源自拉丁語 dīgerere 分散、消化）加上名詞字尾 -ion 結合而成。在現代英語中作為名詞，指生物體分解食物吸收養分的生理過程，或指個人的消化功能好壞。",
+      "definition": "1. the process of breaking down food by mechanical and enzymatic action in the alimentary canal into substances that can be used by the body.",
+      "example": [
+        {
+          "eng": "Eating a heavy meal right before sleeping can impair your digestion.",
+          "ch": "睡前大吃大喝會損害你的消化功能。"
+        }
+      ]
+    },
+    {
+      "eng": "dilemma",
+      "kk": "/dəˈlɛmə/",
+      "tense": "n.",
+      "ch": [
+        [
+          "進退兩難",
+          "困境",
+          "左右為難"
+        ]
+      ],
+      "analysis": "此字直接借自希臘語 dilemma（二難推理），由 dis-（兩個）與 lemma（前提、假定）複合而成。在現代英語中作為名詞，指面臨兩個同樣困難或無法令人滿意的抉擇時的困境。",
+      "definition": "1. a situation in which a difficult choice has to be made between two or more alternatives, especially ones that are equally undesirable.",
+      "example": [
+        {
+          "eng": "She faced a moral dilemma: whether to protect her friend or tell the truth.",
+          "ch": "她面臨一個道德困境：是要保護朋友還是說出真相。"
+        }
+      ]
+    },
+    {
+      "eng": "dimension",
+      "kk": "/dəˈmɛnʃən/",
+      "tense": "n.",
+      "ch": [
+        [
+          "尺寸",
+          "維度",
+          "空間"
+        ],
+        [
+          "方面",
+          "特點"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 dīmensiō（測量、尺寸，為 dīmētīrī 的過去分詞名詞化），由 dī-（加強語氣）與 mētīrī（測量）複合而成。在現代英語中作為名詞，既指長寬高等實體尺寸或數學物理上的空間維度，也抽象指問題的各個方面。",
+      "definition": "1. a measurable extent of a particular kind, such as length, breadth, or height; 2. a aspect or feature of a situation.",
+      "example": [
+        {
+          "eng": "The engineers carefully measured the exact dimensions of the room.",
+          "ch": "工程師仔細測量了房間的確切尺寸。"
+        },
+        {
+          "eng": "The new evidence adds an entirely new dimension to the criminal investigation.",
+          "ch": "這項新證據為刑事調查增添了全新的維度。"
+        }
+      ]
+    },
+    {
+      "eng": "diminish",
+      "kk": "/dəˈmɪnɪʃ/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "減少",
+          "降低",
+          "減弱"
+        ]
+      ],
+      "analysis": "此字源自古法語 diminuer，最終源自拉丁語 dīminuere（使變小），由 dē-（向下、減損）與 minuere（變小，源自 minor 較小的）複合而成。在現代英語中作為及物動詞，指使某事物的價值、規模、重要性或數量減少。",
+      "definition": "1. to make or become less; decrease in size, importance, or intensity.",
+      "example": [
+        {
+          "eng": "The ongoing scandal threatens to diminish the politician's public support.",
+          "ch": "持續發酵的醜聞恐將削弱這位政治人物的公眾支持度。"
+        }
+      ]
+    },
+    {
+      "eng": "diplomatic",
+      "kk": "/ˌdɪpləˈmætɪk/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "外交的",
+          "外交上的"
+        ],
+        [
+          "圓滑的",
+          "手腕老練的"
+        ]
+      ],
+      "analysis": "此字源自名詞 diplomacy（外交，由法語 diplomatie 衍生，源自希臘語 diploma 官方文件），加上形容詞字尾 -ic 結合而成。在現代英語中作為形容詞，既指國家之間的外交事務，也形容人處理人際關係時圓滑、得體、顧全大局的手腕。",
+      "definition": "1. concerning diplomacy or the relations between countries; 2. having or showing skill in dealing with people without offending them.",
+      "example": [
+        {
+          "eng": "The two nations severed diplomatic ties following the border dispute.",
+          "ch": "兩國在邊境爭端後斷絕了外交關係。"
+        },
+        {
+          "eng": "She gave a diplomatic response that avoided hurting anyone's feelings.",
+          "ch": "她給出了一個圓滑的回答，避免傷害任何人的感情。"
+        }
+      ]
+    },
+    {
+      "eng": "directory",
+      "kk": "/dəˈrɛktəri/",
+      "tense": "n.",
+      "ch": [
+        [
+          "名錄",
+          "通訊錄",
+          "目錄"
+        ]
+      ],
+      "analysis": "此字源自中世紀拉丁語 dīrēctōrium（指南、目錄），由 dīrēctor（指導者、主管，源自 dīrigere 引導）加上名詞字尾 -ory 組成。在現代英語中作為名詞，指電話號碼簿、機構通訊錄或電腦檔案系統中的資料夾目錄。",
+      "definition": "1. a book or website listing individuals or organizations with details such as names, addresses, and phone numbers.",
+      "example": [
+        {
+          "eng": "You can look up the company's phone number in the online business directory.",
+          "ch": "你可以在線上商業名錄中查詢該公司的電話號碼。"
+        }
+      ]
+    },
+    {
+      "eng": "disapprove",
+      "kk": "/ˌdɪsəˈpruv/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "不贊成",
+          "不同意",
+          "對……反感"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由否定前綴 dis-（不、非）與動詞 approve（贊成，源自拉丁語 approbāre）結合而成。在現代英語中作為不及物動詞，常與介詞 of 連用，表示對某人的行為或觀點感到不贊成或反感。",
+      "definition": "1. to have or express an unfavorable opinion about something or someone (usually followed by 'of').",
+      "example": [
+        {
+          "eng": "Her parents strongly disapprove of her decision to drop out of college.",
+          "ch": "她的父母強烈不贊成她大學輟學的決定。"
+        }
+      ]
+    },
+    {
+      "eng": "disclose",
+      "kk": "/dɪsˈkloʊz/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "揭露",
+          "透露",
+          "公開"
+        ]
+      ],
+      "analysis": "此字源自古法語 desclorre（打開、解開），由拉丁語 dis-（表示分離或取消）與 claudere（關閉）複合而成，字面義為「把關著的東西打開、使之曝光」。在現代英語中作為及物動詞，指將保密、隱藏的資訊或財務狀況向公眾或相關人員揭露。",
+      "definition": "1. to make secret or new information known to others.",
+      "example": [
+        {
+          "eng": "The company was forced to disclose its financial losses to the shareholders.",
+          "ch": "該公司被迫向股東公開其財務虧損。"
+        }
+      ]
+    }
+  ]
+}

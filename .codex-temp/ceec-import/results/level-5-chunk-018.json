@@ -1,0 +1,1293 @@
+{
+  "level": 5,
+  "chunkIndex": 18,
+  "inputs": [
+    "stimulate",
+    "stimulus",
+    "stink",
+    "stock",
+    "storage",
+    "straighten",
+    "straightforward",
+    "strain",
+    "strand",
+    "strap",
+    "strategic",
+    "striking",
+    "structural",
+    "stumble",
+    "sturdy",
+    "submit",
+    "subsequent",
+    "subsidy",
+    "substantial",
+    "substitute",
+    "subtle",
+    "suburban",
+    "successor",
+    "suite",
+    "superb",
+    "superstition",
+    "supervise",
+    "supervision",
+    "supervisor",
+    "supposedly",
+    "supreme",
+    "surplus",
+    "surveillance",
+    "suspend",
+    "sustain",
+    "sustainable",
+    "swap",
+    "symbolic",
+    "symptom",
+    "syndrome",
+    "tackle",
+    "tactic",
+    "tactics",
+    "tangle",
+    "tempt",
+    "temptation",
+    "terminal",
+    "terrify",
+    "testify",
+    "texture"
+  ],
+  "rows": [
+    {
+      "eng": "stimulate",
+      "kk": "/ˈstɪmjəˌleɪt/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "促進",
+          "激發"
+        ],
+        [
+          "激勵",
+          "引發"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自拉丁語 stimulare（意為用刺棒戳、激勵），由 stimulus（刺棒、鞭子）衍生而來。現代構詞上帶有動詞字尾 -ate。語義演變從物理上的「用刺戳動」引申為生理上的「刺激器官或細胞」，再進一步抽象化為「激發興趣、促進發展或激勵某人行動」。",
+      "definition": "1. to encourage or cause an activity, process, or feeling to start or develop further; 2. to excite someone to a particular action or feeling.",
+      "example": [
+        {
+          "eng": "The new policies aim to stimulate economic growth.",
+          "ch": "新政策旨在促進經濟成長。"
+        },
+        {
+          "eng": "Good teachers try to stimulate their students' interest in learning.",
+          "ch": "優秀的老師會設法激發學生的學習興趣。"
+        }
+      ]
+    },
+    {
+      "eng": "stimulus",
+      "kk": "/ˈstɪmjələs/",
+      "tense": "n.",
+      "ch": [
+        [
+          "刺激物",
+          "促進因素"
+        ],
+        [
+          "刺激",
+          "激勵"
+        ]
+      ],
+      "analysis": "此字為名詞，直接源自拉丁語 stimulus（意為刺棒、鞭子、尖頭棍）。其複數形為 stimuli。語義從具體的「刺戳工具」演變為生物學與心理學上的「引起反應的事物（刺激）」，並廣泛引申為促進經濟、活動發展的「刺激因素」或「激勵」。",
+      "definition": "1. something that causes growth or activity; 2. a thing or event that evokes a specific functional reaction in an organ or tissue.",
+      "example": [
+        {
+          "eng": "The tax cuts provided a much-needed stimulus to the economy.",
+          "ch": "減稅措施為經濟提供了急需的刺激。"
+        },
+        {
+          "eng": "Plants grow toward the light as a response to a visual stimulus.",
+          "ch": "植物為了對光線刺激做出反應而朝光生長。"
+        }
+      ]
+    },
+    {
+      "eng": "stink",
+      "kk": "/stɪŋk/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "發惡臭",
+          "發臭"
+        ],
+        [
+          "極差",
+          "討厭"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，源自日耳曼語族，古英語中為 stincan（意為發出氣味，最初中性，後來專指惡臭）。其過去式常為 stank 或 stunk，過去分詞為 stunk。語義從原始的「散發強烈氣味」演變為專指「發出難聞的惡臭」，在現代口語中也常引申用來形容某事「極糟、令人反感或極差」。",
+      "definition": "1. to have a strong, unpleasant smell; 2. to be extremely bad or unpleasant.",
+      "example": [
+        {
+          "eng": "The garbage in the sun began to stink.",
+          "ch": "太陽底下的垃圾開始發出惡臭。"
+        },
+        {
+          "eng": "I think it stinks that they canceled the trip.",
+          "ch": "我覺得他們取消旅行這件事實在太爛了。"
+        }
+      ]
+    },
+    {
+      "eng": "stock",
+      "kk": "/stɑk/",
+      "tense": "n.",
+      "ch": [
+        [
+          "庫存",
+          "存貨"
+        ],
+        [
+          "股票",
+          "股份"
+        ],
+        [
+          "家畜",
+          "牲畜"
+        ]
+      ],
+      "analysis": "此字為名詞，源自日耳曼語族，古英語中 stoc 意為樹幹、柱子。語義從「樹幹或木柱」經由「支撐架、儲存物品的架子」演變為「倉庫中的存貨」；透過商業上的共同出資累積，引申出「股票、股份」的意思；另一支語義則指農場中作為基礎的「家畜、品種」。",
+      "definition": "1. a supply of goods kept available for sale or use; 2. the capital raised by a corporation through the issue of shares; 3. the livestock kept on a farm.",
+      "example": [
+        {
+          "eng": "The store manager checked the stock of winter clothes.",
+          "ch": "店經理清點了冬裝的庫存。"
+        },
+        {
+          "eng": "She invested her savings in technology stock.",
+          "ch": "她將積蓄投資在科技股上。"
+        },
+        {
+          "eng": "The farmer raises cattle and other livestock.",
+          "ch": "這名農夫飼養牛隻和其他家畜。"
+        }
+      ]
+    },
+    {
+      "eng": "stock",
+      "kk": "/stɑk/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "備貨",
+          "進貨"
+        ],
+        [
+          "儲備",
+          "供應"
+        ]
+      ],
+      "analysis": "此字為及物動詞，由名詞 stock（存貨、物資）轉品而來。語義指商家或個人「將商品填滿貨架或倉庫以供出售」，或是「儲備某物以備將來使用」。",
+      "definition": "1. to keep a supply of goods available for sale; 2. to supply or furnish with a quantity of something.",
+      "example": [
+        {
+          "eng": "Supermarkets stock their shelves with fresh produce daily.",
+          "ch": "超級市場每天都在貨架上擺滿新鮮農產品。"
+        },
+        {
+          "eng": "We need to stock the cabin with food before winter arrives.",
+          "ch": "在冬天來臨前，我們需要把木屋儲備好食物。"
+        }
+      ]
+    },
+    {
+      "eng": "storage",
+      "kk": "/ˈstɔrɪdʒ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "儲存",
+          "保管"
+        ],
+        [
+          "儲藏空間",
+          "倉庫"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 store 加上名詞字尾 -age 構成。語義從「將物品收存、保管的行為或狀態」引申為「用來存放物品的空間、設施或數位資料的容量」。",
+      "definition": "1. the action or method of storing something for future use; 2. space available for storing things.",
+      "example": [
+        {
+          "eng": "Furniture is kept in storage until the new house is ready.",
+          "ch": "家具暫時存放在倉庫裡，直到新房子準備好。"
+        },
+        {
+          "eng": "My phone has plenty of storage for photos and videos.",
+          "ch": "我的手機有充足的空間來儲存照片和影片。"
+        }
+      ]
+    },
+    {
+      "eng": "straighten",
+      "kk": "/ˈstreɪtən/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "弄直",
+          "把…弄直"
+        ],
+        [
+          "整理",
+          "清理"
+        ]
+      ],
+      "analysis": "此字為及物動詞，由形容詞 straight（直的）加上動詞化字尾 -en 構成。語義從物理上的「使彎曲的東西變直」延伸為「整理凌亂的物品或房間，使其恢復整齊」。",
+      "definition": "1. to make something straight from a bent or curved position; 2. to make a place or things tidy and well-arranged.",
+      "example": [
+        {
+          "eng": "He bent down to straighten his tie in the mirror.",
+          "ch": "他彎下腰在鏡子前把領帶弄直。"
+        },
+        {
+          "eng": "Please straighten your room before guests arrive.",
+          "ch": "客人來之前請把房間整理乾淨。"
+        }
+      ]
+    },
+    {
+      "eng": "straightforward",
+      "kk": "/ˌstreɪtˈfɔrwərd/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "簡單易懂的",
+          "明確的"
+        ],
+        [
+          "坦率的",
+          "直接的"
+        ]
+      ],
+      "analysis": "此字為形容詞，由 straight（直的）與 forward（向前）複合而成。語義從「筆直向前」抽象化為「沒有複雜曲折、容易理解或處理的事物」，也用來形容人「性格坦率、說話直接不拐彎抹角」。",
+      "definition": "1. easy to understand or simple; 2. honest and frank.",
+      "example": [
+        {
+          "eng": "The instructions for assembling the desk were straightforward.",
+          "ch": "組裝書桌的說明書非常簡單易懂。"
+        },
+        {
+          "eng": "She gave a straightforward answer to a difficult question.",
+          "ch": "她對一個難題給出了坦率直接的回答。"
+        }
+      ]
+    },
+    {
+      "eng": "strain",
+      "kk": "/streɪn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "重壓",
+          "拉緊"
+        ],
+        [
+          "過度勞累",
+          "緊張"
+        ],
+        [
+          "扭傷",
+          "拉傷"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古法語 streindre（源自拉丁語 stringere，意為綁緊、勒緊）。語義從「繩索拉緊的張力」演變成精神或身體上的「沉重負擔、壓力與過度勞累」，亦指肌肉或肌腱因過度拉伸而造成的「扭傷、拉傷」。",
+      "definition": "1. a force pulling or stretching something to an extreme degree; 2. severe pressure on the body or mind; 3. an injury to a muscle or tendon.",
+      "example": [
+        {
+          "eng": "The bridge collapsed under the strain of heavy traffic.",
+          "ch": "這座橋在龐大交通流量的重壓下倒塌了。"
+        },
+        {
+          "eng": "Long working hours put a lot of strain on employees.",
+          "ch": "長時間工作給員工帶來了巨大的精神壓力。"
+        },
+        {
+          "eng": "He suffered a muscle strain while lifting heavy boxes.",
+          "ch": "他在搬運重箱子時拉傷了肌肉。"
+        }
+      ]
+    },
+    {
+      "eng": "strain",
+      "kk": "/streɪn/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "拉緊",
+          "使過勞"
+        ],
+        [
+          "扭傷",
+          "拉傷"
+        ],
+        [
+          "過濾"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自古法語 streindre（源自拉丁語 stringere）。語義從「拉緊、束緊」引申為「使身體或器官承受過度負擔而勞損」、「拉傷肌肉」，以及透過網眼或濾布「過濾液體」。",
+      "definition": "1. to stretch or force to the limit, causing damage or strain; 2. to injure a body part by overexertion; 3. to pour a liquid through a device to remove solid pieces.",
+      "example": [
+        {
+          "eng": "Don't strain your eyes by reading in poor light.",
+          "ch": "不要在昏暗的光線下閱讀以免眼睛過勞。"
+        },
+        {
+          "eng": "She strained her wrist playing tennis.",
+          "ch": "她打網球時扭傷了手腕。"
+        },
+        {
+          "eng": "Strain the pasta through a colander before serving.",
+          "ch": "上菜前先把義大利麵倒進濾網過濾。"
+        }
+      ]
+    },
+    {
+      "eng": "strand",
+      "kk": "/strænd/",
+      "tense": "n.",
+      "ch": [
+        [
+          "股",
+          "縷"
+        ],
+        [
+          "海濱",
+          "海岸"
+        ]
+      ],
+      "analysis": "此字為名詞，源自日耳曼語族。在編織義中指構成繩索或頭髮的一「股」或一「縷」；在地理義中（主要用於文學或特定地名）指沙灘或「海濱」。兩者在歷史上為同形異源詞，現代常見義以「線繩的一股」為主。同時也引申指論述或故事的「線索」。",
+      "definition": "1. a single string, thread, or hair that twists together with others; 2. the shore of a sea or ocean.",
+      "example": [
+        {
+          "eng": "A single strand of hair was found on the sweater.",
+          "ch": "毛衣上發現了一根頭髮。"
+        },
+        {
+          "eng": "The ship was wrecked on a rocky strand.",
+          "ch": "那艘船在多岩石的海岸觸礁失事。"
+        }
+      ]
+    },
+    {
+      "eng": "strap",
+      "kk": "/stræp/",
+      "tense": "n.",
+      "ch": [
+        [
+          "帶子",
+          "皮帶"
+        ]
+      ],
+      "analysis": "此字為名詞，源自日耳曼語族（與 strop 同源），指一條用於綁縛、固定或懸掛物品的狹長皮革或織物帶子。",
+      "definition": "1. a narrow strip of leather, cloth, or other material used to fasten, secure, or carry something.",
+      "example": [
+        {
+          "eng": "The backpack has padded shoulder straps for comfort.",
+          "ch": "這款背包有加厚的雙肩背帶以增加舒適度。"
+        }
+      ]
+    },
+    {
+      "eng": "strategic",
+      "kk": "/strəˈtiːdʒɪk/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "戰略性的",
+          "策略性的"
+        ]
+      ],
+      "analysis": "此字為形容詞，由名詞 strategy（戰略，源自希臘語 strategia）衍生而來的形容詞，加上字尾 -ic。語義指符合或為了長遠、宏觀的軍事、商業或整體計畫部署的重要性質。",
+      "definition": "1. relating to the identification of long-term or overall aims and interests and the means of achieving them.",
+      "example": [
+        {
+          "eng": "The company made a strategic decision to expand overseas.",
+          "ch": "公司做出了向海外擴張的戰略決策。"
+        }
+      ]
+    },
+    {
+      "eng": "striking",
+      "kk": "/ˈstraɪkɪŋ/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "顯著的",
+          "引人注目的"
+        ],
+        [
+          "容貌出眾的",
+          "美得驚人的"
+        ]
+      ],
+      "analysis": "此字為形容詞，由動詞 strike（打、擊）的現在分詞轉化而來。語義從「給人強烈擊打感」引申為形容某事或某人「極為明顯、引人注目」，或形容外貌「非常出眾、美得令人印象深刻」。",
+      "definition": "1. attracting attention by reason of being unusual, extreme, or prominent; 2. very attractive, typically in a dramatic way.",
+      "example": [
+        {
+          "eng": "There is a striking resemblance between the two brothers.",
+          "ch": "這兩兄弟有著驚人的相似之處。"
+        },
+        {
+          "eng": "She wore a striking red dress to the party.",
+          "ch": "她穿了一件引人注目的紅色洋裝去參加派對。"
+        }
+      ]
+    },
+    {
+      "eng": "structural",
+      "kk": "/ˈstrʌktʃərəl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "結構性的",
+          "建築結構的"
+        ]
+      ],
+      "analysis": "此字為形容詞，由名詞 structure（結構）加上形容詞字尾 -al 構成。語義指涉及事物組織架構、骨架或建築物承重構造的性質。",
+      "definition": "1. relating to the arrangement of and relations between the parts or elements of a complex whole.",
+      "example": [
+        {
+          "eng": "The earthquake caused severe structural damage to the old bridge.",
+          "ch": "地震對那座老舊的橋樑造成了嚴重的結構性損壞。"
+        }
+      ]
+    },
+    {
+      "eng": "stumble",
+      "kk": "/ˈstʌmbəl/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "絆倒",
+          "踉蹌"
+        ],
+        [
+          "結巴",
+          "口吃"
+        ],
+        [
+          "偶然發現"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，源自斯堪地那維亞語支，帶有反覆或瞬間動作的動詞字尾 -le。語義從走路時「腳被絆住而踉蹌或跌倒」引申為說話時「結巴、不順暢」，或與 across / upon 連用時指「偶然碰見、無意中發現」。",
+      "definition": "1. to trip or momentarily lose one's balance while walking; 2. to make a mistake or stutter while speaking; 3. to discover something by chance.",
+      "example": [
+        {
+          "eng": "He stumbled on the uneven pavement and almost fell.",
+          "ch": "他在不平的人行道上絆了一下，差點摔倒。"
+        },
+        {
+          "eng": "She stumbled over her words during the presentation.",
+          "ch": "她在簡報時講話有些結巴。"
+        },
+        {
+          "eng": "We stumbled upon a charming little café in the alley.",
+          "ch": "我們在巷子裡偶然發現了一家迷人的小咖啡館。"
+        }
+      ]
+    },
+    {
+      "eng": "sturdy",
+      "kk": "/ˈstɜrdi/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "結實的",
+          "強健的"
+        ],
+        [
+          "穩固的",
+          "堅固的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自古法語 estordi（意為勇敢的、強壯的）。語義從人體的「強壯、結實」引申為物體的「堅固、耐用、不易損壞」。",
+      "definition": "1. strongly and solidly built; 2. strong and healthy.",
+      "example": [
+        {
+          "eng": "The table is made of sturdy wood and can hold heavy loads.",
+          "ch": "這張桌子由結實的木頭製成，可以承受重物。"
+        },
+        {
+          "eng": "He is a sturdy child who rarely gets sick.",
+          "ch": "他是一個很少生病的健壯孩子。"
+        }
+      ]
+    },
+    {
+      "eng": "submit",
+      "kk": "/səbˈmɪt/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "提交",
+          "呈遞"
+        ],
+        [
+          "屈服",
+          "順從"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自拉丁語 submittere（sub- 在下方 + mittere 送出）。語義從古代的「將自己置於他人之下、屈服」演變為現代商業與行政用語中的「將文件、申請或提案呈交給主管或審查機構」。",
+      "definition": "1. to present a proposal, application, or other document for consideration or judgment; 2. to accept or yield to a superior force or to the authority of another person.",
+      "example": [
+        {
+          "eng": "Students must submit their essays by Friday afternoon.",
+          "ch": "學生必須在週五下午前交出論文。"
+        },
+        {
+          "eng": "The rebels refused to submit to the new government.",
+          "ch": "叛軍拒絕向新政府屈服。"
+        }
+      ]
+    },
+    {
+      "eng": "subsequent",
+      "kk": "/ˈsʌbsɪkwənt/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "隨後的",
+          "後來的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自拉丁語 subsequens（sub- 在後面 + sequi 跟隨）。語義指在某個時間或事件之後接著發生的事物。",
+      "definition": "1. coming after something in time; following.",
+      "example": [
+        {
+          "eng": "The initial trial failed, but subsequent tests were successful.",
+          "ch": "最初的試驗失敗了，但隨後的測試都成功了。"
+        }
+      ]
+    },
+    {
+      "eng": "subsidy",
+      "kk": "/ˈsʌbsədi/",
+      "tense": "n.",
+      "ch": [
+        [
+          "補助金",
+          "津貼"
+        ]
+      ],
+      "analysis": "此字為名詞，源自拉丁語 subsidium（支援、預備軍、援助，源自 subsidere 駐紮、在後支援）。語義指政府或機構為支持某項產業、活動或減輕民眾負擔而提供的金錢補助或津貼。",
+      "definition": "1. a sum of money granted by the government or a public body to assist an industry or business so that the price of a commodity or service may remain low or competitive.",
+      "example": [
+        {
+          "eng": "The government provides a subsidy for farmers to grow organic crops.",
+          "ch": "政府為種植有機作物的農民提供補助金。"
+        }
+      ]
+    },
+    {
+      "eng": "substantial",
+      "kk": "/səbˈstænʃəl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "重大的",
+          "大量的"
+        ],
+        [
+          "堅固的",
+          "結實的"
+        ]
+      ],
+      "analysis": "此字為形容詞，由名詞 substance（物質、本質）加上形容詞字尾 -al 構成。語義從「有實質內容的、堅固的」引申為數量或程度上的「相當大的、重大的」。",
+      "definition": "1. of considerable importance, size, or worth; 2. strongly built or solid.",
+      "example": [
+        {
+          "eng": "There is substantial evidence to support his theory.",
+          "ch": "有大量的證據支持他的理論。"
+        },
+        {
+          "eng": "The old house needs substantial repairs before we can move in.",
+          "ch": "這棟老房子在我們搬進去之前需要大量的修繕。"
+        }
+      ]
+    },
+    {
+      "eng": "substitute",
+      "kk": "/ˈsʌbstəˌtut/",
+      "tense": "n.",
+      "ch": [
+        [
+          "替代品",
+          "代替者"
+        ]
+      ],
+      "analysis": "此字為名詞，源自拉丁語 substitutus（sub- 在下方、替補 + statuere 設立）。語義指在功能上可以頂替、取代另一個人或物的替代品或代理人。",
+      "definition": "1. a person or thing acting or serving in place of another.",
+      "example": [
+        {
+          "eng": "Honey is a great natural substitute for sugar in baking.",
+          "ch": "蜂蜜是烘焙中極佳的天然糖類替代品。"
+        }
+      ]
+    },
+    {
+      "eng": "substitute",
+      "kk": "/ˈsʌbstəˌtut/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "代替",
+          "替換"
+        ]
+      ],
+      "analysis": "此字為及物動詞，與名詞同源。語義指用某物或某人去替換、頂替另一物或另一人。",
+      "definition": "1. to use or put something or someone in place of another.",
+      "example": [
+        {
+          "eng": "You can substitute butter with olive oil in this recipe.",
+          "ch": "這個食譜中你可以用橄欖油代替奶油。"
+        }
+      ]
+    },
+    {
+      "eng": "subtle",
+      "kk": "/ˈsʌtəl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "微妙的",
+          "難以察覺的"
+        ],
+        [
+          "巧妙的",
+          "敏銳的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自古法語 sutil，源自拉丁語 subtilis（細緻的、精巧的）。其拼字在中古英語受到拉丁語原形影響加上了字母 b，但發音維持不發音。語義從「細微的、不易察覺的」引申為人的思維或手法「巧妙、敏銳、不露聲色」。",
+      "definition": "1. so delicate or precise as to be difficult to analyze or describe; 2. making use of clever and indirect methods to achieve something.",
+      "example": [
+        {
+          "eng": "There was a subtle change in his tone of voice.",
+          "ch": "他的語調有著微妙的變化。"
+        },
+        {
+          "eng": "The author uses subtle humor throughout the novel.",
+          "ch": "作者在整部小說中運用了巧妙的幽默。"
+        }
+      ]
+    },
+    {
+      "eng": "suburban",
+      "kk": "/səˈbɜrbən/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "郊區的",
+          "城郊的"
+        ]
+      ],
+      "analysis": "此字為形容詞，由名詞 suburb（郊區，源自拉丁語 suburbanus，sub- 近 + urbs 城市）加上形容詞字尾 -an 構成。語義指位於城市周邊、住宅區為主的郊區特性。",
+      "definition": "1. relating to a suburb or situated in a suburb.",
+      "example": [
+        {
+          "eng": "They prefer living in a quiet suburban neighborhood.",
+          "ch": "他們比較喜歡住在安靜的郊區鄰里。"
+        }
+      ]
+    },
+    {
+      "eng": "successor",
+      "kk": "/səkˈsɛsər/",
+      "tense": "n.",
+      "ch": [
+        [
+          "繼任者",
+          "接班人"
+        ]
+      ],
+      "analysis": "此字為名詞，源自拉丁語 successor（sub- 在後面 + cedere 走、跟隨）。語義指繼承職位、王位或事業的「繼任者、接班人」或後繼事物。",
+      "definition": "1. a person or thing that succeeds another.",
+      "example": [
+        {
+          "eng": "The CEO announced that his daughter would be his successor.",
+          "ch": "執行長宣布他的女兒將成為他的接班人。"
+        }
+      ]
+    },
+    {
+      "eng": "suite",
+      "kk": "/swit/",
+      "tense": "n.",
+      "ch": [
+        [
+          "套房",
+          "高級套房"
+        ],
+        [
+          "套裝",
+          "一套傢俱"
+        ]
+      ],
+      "analysis": "此字為名詞，源自法語 suite（意為隨從人員、隨後之物，源自拉丁語 sequi）。在現代英語中主要用來指飯店或旅館的「套房」（包含多間相連房間），或是風格統一的一套傢俱、音樂套曲。",
+      "definition": "1. a set of rooms designated for one person's or a family's use or for a particular purpose in a hotel; 2. a set of matching furniture.",
+      "example": [
+        {
+          "eng": "They booked a luxury suite on the top floor of the hotel.",
+          "ch": "他們預訂了飯店頂樓的豪華套房。"
+        },
+        {
+          "eng": "The bedroom comes with a matching furniture suite.",
+          "ch": "這間臥室附帶一套相配的臥室家具。"
+        }
+      ]
+    },
+    {
+      "eng": "superb",
+      "kk": "/suˈpɜrb/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "極好的",
+          "精湛的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自拉丁語 superbus（優越的、高傲的，源自 super 在…之上）。語義從古代的「高傲、宏偉」演變為現代專指品質、表現或技藝「極佳、頂級、精湛」。",
+      "definition": "1. excellent; very good.",
+      "example": [
+        {
+          "eng": "The chef prepared a superb meal for the guests.",
+          "ch": "主廚為客人們準備了一頓極佳的餐點。"
+        }
+      ]
+    },
+    {
+      "eng": "superstition",
+      "kk": "/ˌsupərˈstɪʃən/",
+      "tense": "n.",
+      "ch": [
+        [
+          "迷信",
+          "迷信的觀念"
+        ]
+      ],
+      "analysis": "此字為名詞，由字首 super-（在…上方）與源自 superstare（站在上方、殘存）的拉丁語名詞 superstitio 複合而成。語義指超越理性、基於恐懼或無知而相信超自然力量或神鬼運氣的「迷信」。",
+      "definition": "1. a widely held but unjustified belief in supernatural causation leading to certain consequences.",
+      "example": [
+        {
+          "eng": "It is an old superstition that breaking a mirror brings bad luck.",
+          "ch": "打破鏡子會帶來厄運是一個古老的迷信。"
+        }
+      ]
+    },
+    {
+      "eng": "supervise",
+      "kk": "/ˈsupərˌvaɪz/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "監督",
+          "管理",
+          "指導"
+        ]
+      ],
+      "analysis": "此字為及物動詞，由拉丁語 super-（在上方）與 videre（看）的複合詞 supervisere 演變而來。語義指從上方俯瞰、巡視並「監督、管理」人員的工作或活動進行。",
+      "definition": "1. to observe and direct the execution of a task, project, or activity.",
+      "example": [
+        {
+          "eng": "An experienced manager will supervise the construction project.",
+          "ch": "一位經驗豐富的經理將監督這項建設工程。"
+        }
+      ]
+    },
+    {
+      "eng": "supervision",
+      "kk": "/ˌsupərˈvɪʒən/",
+      "tense": "n.",
+      "ch": [
+        [
+          "監督",
+          "管理",
+          "指導"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 supervise 加上名詞字尾 -ion 構成。語義指對工作、人員或活動進行的「監督、管理與指導」行為。",
+      "definition": "1. the action of supervising someone or something.",
+      "example": [
+        {
+          "eng": "Children should play in the pool under adult supervision.",
+          "ch": "兒童在泳池玩耍時應有成人監督。"
+        }
+      ]
+    },
+    {
+      "eng": "supervisor",
+      "kk": "/ˈsupərˌvaɪzər/",
+      "tense": "n.",
+      "ch": [
+        [
+          "主管",
+          "監督人",
+          "指導教授"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 supervise 加上表人的名詞字尾 -or 構成。語義指負責「監督、管理下屬的主管」或指導學生研究的教授。",
+      "definition": "1. a person who supervises a person or an activity.",
+      "example": [
+        {
+          "eng": "If you have any questions, ask your shift supervisor.",
+          "ch": "如果你有任何問題，請詢問你的班次主管。"
+        }
+      ]
+    },
+    {
+      "eng": "supposedly",
+      "kk": "/səˈpoʊzɪdli/",
+      "tense": "adv.",
+      "ch": [
+        [
+          "據說",
+          "按理說"
+        ]
+      ],
+      "analysis": "此字為副詞，由動詞 suppose 的過去分詞形式 supposed 加上副詞字尾 -ly 構成。語義指根據傳聞、據說或理論上應該如此，但真實性未經完全證實。",
+      "definition": "1. according to what is generally believed or presumed.",
+      "example": [
+        {
+          "eng": "The new diet is supposedly effective for quick weight loss.",
+          "ch": "據說這種新飲食法對快速減肥很有效。"
+        }
+      ]
+    },
+    {
+      "eng": "supreme",
+      "kk": "/suˈprim/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "至高無上的",
+          "最高級的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自拉丁語 supremus（superus 的最高級形式，意為最高、最上）。語義指權力、地位或程度達到「最高、至高無上」的境界。",
+      "definition": "1. highest in authority, rank, or quality.",
+      "example": [
+        {
+          "eng": "The Supreme Court is the highest judicial body in the country.",
+          "ch": "最高法院是該國最高的司法機構。"
+        }
+      ]
+    },
+    {
+      "eng": "surplus",
+      "kk": "/ˈsɜrpləs/",
+      "tense": "n.",
+      "ch": [
+        [
+          "盈餘",
+          "過剩",
+          "剩餘物"
+        ]
+      ],
+      "analysis": "此字為名詞，源自拉丁語 superplus（super- 超過 + plus 更多）。語義指金錢、物資或產量在滿足需求後所剩下的「盈餘、過剩」。",
+      "definition": "1. an amount of something left over when requirements have been met; an excess of production or supply over demand.",
+      "example": [
+        {
+          "eng": "The government reported a budget surplus for the fiscal year.",
+          "ch": "政府公佈了該財政年度的預算盈餘。"
+        }
+      ]
+    },
+    {
+      "eng": "surveillance",
+      "kk": "/sɜrˈveɪləns/",
+      "tense": "n.",
+      "ch": [
+        [
+          "監視",
+          "監控"
+        ]
+      ],
+      "analysis": "此字為名詞，源自法語 surveillance（源自 surveiller，sur- 在上方 + veiller 看守）。語義指為了安全或防範犯罪而對特定人員或場所進行的「密切監視、監控」。",
+      "definition": "1. close observation, especially of a suspected spy or criminal.",
+      "example": [
+        {
+          "eng": "The bank is under 24-hour video surveillance.",
+          "ch": "這家銀行正處於二十四小時的視訊監控之下。"
+        }
+      ]
+    },
+    {
+      "eng": "suspend",
+      "kk": "/səˈspɛnd/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "懸掛",
+          "吊"
+        ],
+        [
+          "暫停",
+          "中止"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自拉丁語 suspendere（sub- 在下方 + pendere 懸掛）。語義從物理上的「將物體懸掛在天花板或高處」引申為抽象的「將活動、職務或決定暫停、延期」。",
+      "definition": "1. to hang something from somewhere; 2. to temporarily prevent from continuing or being in force.",
+      "example": [
+        {
+          "eng": "A lamp was suspended from the ceiling by a cord.",
+          "ch": "一盞燈用繩子懸掛在天花板上。"
+        },
+        {
+          "eng": "The airline had to suspend all flights due to the storm.",
+          "ch": "由於暴風雨，該航空公司不得不暫停所有航班。"
+        }
+      ]
+    },
+    {
+      "eng": "sustain",
+      "kk": "/səˈsteɪn/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "維持",
+          "支撐"
+        ],
+        [
+          "遭受",
+          "承受"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自古法語 sustenir，源自拉丁語 sustinere（sub- 在下方 + tenere 支撐、握住）。語義從「從下方穩穩托住、支撐重量」引申為「維持生命、生計或活動持續進行」，亦可指「遭受或承受損失、傷害」。",
+      "definition": "1. to strengthen or support physically or mentally; 2. to suffer or experience an injury or loss.",
+      "example": [
+        {
+          "eng": "A small business needs enough capital to sustain operations.",
+          "ch": "小型企業需要足夠的資金來維持營運。"
+        },
+        {
+          "eng": "Fortunately, nobody sustained serious injuries in the accident.",
+          "ch": "幸運的是，沒有人在事故中遭受嚴重的傷害。"
+        }
+      ]
+    },
+    {
+      "eng": "sustainable",
+      "kk": "/səˈsteɪnəbəl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "永續的",
+          "可持續的"
+        ]
+      ],
+      "analysis": "此字為形容詞，由動詞 sustain 加上形容詞字尾 -able 構成。語義指能夠長期維持、不會耗盡資源或破壞生態平衡的「永續發展」特性。",
+      "definition": "1. able to be maintained at a certain rate or level; avoiding the depletion of natural resources.",
+      "example": [
+        {
+          "eng": "The company is committed to using sustainable energy sources.",
+          "ch": "該公司致力於使用永續能源。"
+        }
+      ]
+    },
+    {
+      "eng": "swap",
+      "kk": "/swɑp/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "交換",
+          "對調"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自日耳曼語族，擬聲或表示拍手成交的動作。語義指雙方互相把東西或位置對調、交換。",
+      "definition": "1. to give something and receive something in return; exchange.",
+      "example": [
+        {
+          "eng": "Can I swap seats with you so I can sit by the window?",
+          "ch": "我可以跟你換座位好讓我坐在窗邊嗎？"
+        }
+      ]
+    },
+    {
+      "eng": "symbolic",
+      "kk": "/sɪmˈbɑlɪk/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "象徵性的"
+        ]
+      ],
+      "analysis": "此字為形容詞，由名詞 symbol（象徵，源自希臘語 symbolon）加上形容詞字尾 -ic 構成。語義指作為某種觀念、信仰或重要意義之象徵的性質。",
+      "definition": "1. serving as a symbol of something.",
+      "example": [
+        {
+          "eng": "White doves are traditionally symbolic of peace.",
+          "ch": "白鴿傳統上是和平的象徵。"
+        }
+      ]
+    },
+    {
+      "eng": "symptom",
+      "kk": "/ˈsɪmptəm/",
+      "tense": "n.",
+      "ch": [
+        [
+          "症狀",
+          "徵兆"
+        ]
+      ],
+      "analysis": "此字為名詞，源自希臘語 symptoma（syn- 一起 + piptein 落下，意指伴隨發生的情況）。語義從醫學上的「疾病伴隨出現的身體症狀」引申為問題或危機發生的「徵兆、跡象」。",
+      "definition": "1. a physical or mental feature which is regarded as indicating a condition of disease; 2. a sign of the existence of something, especially of an undesirable situation.",
+      "example": [
+        {
+          "eng": "Fever and a sore throat are common symptoms of the flu.",
+          "ch": "發燒和喉嚨痛是流感的常見症狀。"
+        },
+        {
+          "eng": "Inflation is just a symptom of a deeper economic problem.",
+          "ch": "通膨只是一個更深層經濟問題的徵兆。"
+        }
+      ]
+    },
+    {
+      "eng": "syndrome",
+      "kk": "/ˈsɪndroʊm/",
+      "tense": "n.",
+      "ch": [
+        [
+          "症候群",
+          "綜合症"
+        ]
+      ],
+      "analysis": "此字為名詞，源自希臘語 syndrome（syn- 一起 + dromos 跑、走，意指共同奔向、同時出現的病徵群）。語義專指醫學上同時出現的一組特定症狀，也引申指某種社會或心理現象的總稱。",
+      "definition": "1. a group of symptoms that consistently occur together or a condition characterized by a set of associated symptoms.",
+      "example": [
+        {
+          "eng": "Chronic fatigue syndrome causes long-lasting exhaustion.",
+          "ch": "慢性疲勞症候群會導致持久的疲憊感。"
+        }
+      ]
+    },
+    {
+      "eng": "tackle",
+      "kk": "/ˈtækəl/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "處理",
+          "對付"
+        ],
+        [
+          "阻截",
+          "擒抱"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自低地德語或荷蘭語 tackel（索具、裝備）。語義從航海上的「裝備、吊具」演變為動詞，指「動手處理或對付棘手問題」，在橄欖球或足球運動中則指「衝上前去阻截或擒抱持球員」。",
+      "definition": "1. to make a determined effort to deal with a difficult problem or task; 2. to confront and stop an opposing player with the ball.",
+      "example": [
+        {
+          "eng": "The government needs to tackle the issue of unemployment.",
+          "ch": "政府需要著手處理失業問題。"
+        },
+        {
+          "eng": "The defender managed to tackle the striker before he scored.",
+          "ch": "後衛在對方前鋒得分前成功將其阻截。"
+        }
+      ]
+    },
+    {
+      "eng": "tactic",
+      "kk": "/ˈtæktɪk/",
+      "tense": "n.",
+      "ch": [
+        [
+          "策略",
+          "戰術"
+        ]
+      ],
+      "analysis": "此字為名詞，源自希臘語 taktikos（與排兵布陣有關，tassein 排列）。語義指為了達成某個具體目標而採取的具體步驟、方法或「戰術、策略」。",
+      "definition": "1. an action or strategy carefully planned to achieve a specific end.",
+      "example": [
+        {
+          "eng": "Changing the marketing strategy was a clever tactical move.",
+          "ch": "改變行銷策略是一個聰明的戰術舉動。"
+        }
+      ]
+    },
+    {
+      "eng": "tactics",
+      "kk": "/ˈtæktɪks/",
+      "tense": "n.",
+      "ch": [
+        [
+          "戰術學",
+          "策略"
+        ]
+      ],
+      "analysis": "此字為複數形式的名詞（常作單數或複數使用），源自希臘語 taktikē。語義指軍事上的戰術運用學，或泛指在談判、競爭中使用的各種「策略與手段」。",
+      "definition": "1. the art or science of deploying and directing military forces; 2. methods used to achieve a goal.",
+      "example": [
+        {
+          "eng": "The coach discussed game tactics with the team during halftime.",
+          "ch": "教練在半場休息時與球隊討論了比賽戰術。"
+        }
+      ]
+    },
+    {
+      "eng": "tangle",
+      "kk": "/ˈtæŋɡəl/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使糾纏",
+          "使亂成一團"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自斯堪地那維亞語支，帶有反覆動作的字尾 -le。語義指線繩、頭髮等互相糾結在一起，或使人陷入複雜混亂的狀況中。",
+      "definition": "1. to twist together into a confused mass.",
+      "example": [
+        {
+          "eng": "The fishing line got tangled in the seaweed.",
+          "ch": "釣魚線纏繞在海草裡了。"
+        }
+      ]
+    },
+    {
+      "eng": "tempt",
+      "kk": "/tɛmpt/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "誘惑",
+          "引誘"
+        ],
+        [
+          "吸引",
+          "使心動"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自古法語 tempter，源自拉丁語 tentare（嘗試、試探、引誘）。語義從「試探」演變為「用誘人的事物引誘某人做某事」，或指某物「吸引人、讓人躍躍欲試」。",
+      "definition": "1. to entice or attempt to persuade someone to do something that they find appealing; 2. to be attractive to someone.",
+      "example": [
+        {
+          "eng": "The smell of fresh pastries tempted him to enter the bakery.",
+          "ch": "新鮮糕點的香味引誘他走進麵包店。"
+        },
+        {
+          "eng": "The discount on the new laptop really tempts me.",
+          "ch": "這台新筆電的折扣真的很吸引我。"
+        }
+      ]
+    },
+    {
+      "eng": "temptation",
+      "kk": "/tɛmpˈteɪʃən/",
+      "tense": "n.",
+      "ch": [
+        [
+          "誘惑",
+          "誘惑物"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 tempt 加上名詞字尾 -ion 構成。語義指面對誘人事物時的「誘惑」心理，或指那個具體具有吸引力的誘惑物。",
+      "definition": "1. the desire to do something, especially something unwise or wrong; 2. a thing that tempts someone.",
+      "example": [
+        {
+          "eng": "She managed to resist the temptation to eat the cake.",
+          "ch": "她設法克制住吃那塊蛋糕的誘惑。"
+        }
+      ]
+    },
+    {
+      "eng": "terminal",
+      "kk": "/ˈtɜrmɪnəl/",
+      "tense": "n.",
+      "ch": [
+        [
+          "航廈",
+          "總站"
+        ],
+        [
+          "終端機"
+        ]
+      ],
+      "analysis": "此字為名詞，源自拉丁語 terminalis（界限、末端的，源自 terminus 終點、界碑）。語義從交通路線的「終點站、機場航廈」引申為電腦科技中的「終端機」。",
+      "definition": "1. a station at the end of a transportation line or an airport building for passengers; 2. a computer device used to communicate with a main system.",
+      "example": [
+        {
+          "eng": "Flight departures are shown on the screens in Terminal 2.",
+          "ch": "航班起飛資訊顯示在第二航廈的螢幕上。"
+        },
+        {
+          "eng": "The engineer typed commands into the computer terminal.",
+          "ch": "工程師將指令輸入電腦終端機。"
+        }
+      ]
+    },
+    {
+      "eng": "terrify",
+      "kk": "/ˈtɛrəˌfaɪ/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使驚恐",
+          "把…嚇壞"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自拉丁語 terrere（使害怕）加上動詞字尾 -fy（使成為）。語義指使人陷入極度恐懼的狀態。",
+      "definition": "1. to cause to feel extreme fear.",
+      "example": [
+        {
+          "eng": "Thunderstorms always terrify the little dog.",
+          "ch": "雷雨總是把這隻小狗嚇壞了。"
+        }
+      ]
+    },
+    {
+      "eng": "testify",
+      "kk": "/ˈtɛstəˌfaɪ/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "作證",
+          "證明"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，源自拉丁語 testificari（testis 證人 + facere 做）。語義指在法庭上或公開場合宣誓「作證」，或為某事的真實性提供證據。",
+      "definition": "1. to give evidence as a witness in a court of law.",
+      "example": [
+        {
+          "eng": "The witness agreed to testify in court tomorrow.",
+          "ch": "該名證人同意明天在法庭上作證。"
+        }
+      ]
+    },
+    {
+      "eng": "texture",
+      "kk": "/ˈtɛkstʃər/",
+      "tense": "n.",
+      "ch": [
+        [
+          "質地",
+          "觸感"
+        ],
+        [
+          "結構",
+          "紋理"
+        ]
+      ],
+      "analysis": "此字為名詞，源自拉丁語 textura（織物、結構，源自 texere 編織）。語義從古代織物的「編織紋理」引申為食物或物質表面的「質地、觸感」，以及文學或藝術作品中的「結構、層次」。",
+      "definition": "1. the feel, appearance, or consistency of a surface or a substance; 2. the structural composition of a work of art or literature.",
+      "example": [
+        {
+          "eng": "I love the smooth texture of this silk fabric.",
+          "ch": "我很喜歡這種絲綢布料平滑的觸感。"
+        },
+        {
+          "eng": "Bake the bread until it has a crispy crust and a soft texture inside.",
+          "ch": "把麵包烤到外皮酥脆且內部質地柔軟。"
+        }
+      ]
+    }
+  ]
+}

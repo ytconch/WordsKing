@@ -1,0 +1,1648 @@
+{
+  "level": 1,
+  "chunkIndex": 7,
+  "inputs": [
+    "fall",
+    "family",
+    "famous",
+    "fan",
+    "far",
+    "farm",
+    "farmer",
+    "fast",
+    "fat",
+    "father",
+    "feed",
+    "feel",
+    "festival",
+    "few",
+    "fight",
+    "file",
+    "fill",
+    "finally",
+    "find",
+    "fine",
+    "finger",
+    "finish",
+    "fire",
+    "first",
+    "fish",
+    "floor",
+    "flower",
+    "fly",
+    "follow",
+    "food",
+    "fool",
+    "foot",
+    "for",
+    "foreign",
+    "foreigner",
+    "forget",
+    "fork",
+    "free",
+    "fresh",
+    "friend",
+    "friendly",
+    "frog",
+    "from",
+    "front",
+    "fruit",
+    "full",
+    "fun",
+    "funny",
+    "future",
+    "game"
+  ],
+  "rows": [
+    {
+      "eng": "fall",
+      "kk": "fɔl",
+      "tense": "n.",
+      "ch": [
+        [
+          "落下",
+          "掉落"
+        ],
+        [
+          "秋天"
+        ],
+        [
+          "沒落",
+          "衰敗"
+        ]
+      ],
+      "analysis": "此字為古英語繼承詞 feallan（意為向下倒、墜落），經日耳曼語源演變而來。名詞用法保留動詞的動作結果與抽象概念，發展出物理落下、季節（秋季，源自葉落時節）以及勢力或地位的沒落等核心語義。",
+      "definition": "1. an act of falling down, dropping, or descending; 2. the season of the year between summer and winter, autumn; 3. a decline or drop in status, power, or number.",
+      "example": [
+        {
+          "eng": "The sudden fall of the vase broke it into pieces.",
+          "ch": "花瓶的突然落下把它摔成了碎塊。"
+        },
+        {
+          "eng": "The leaves turn red and gold in the fall.",
+          "ch": "樹葉在秋天變成紅色和金色。"
+        },
+        {
+          "eng": "The scandal led to the fall of the government.",
+          "ch": "這場醜聞導致了政府的倒台。"
+        }
+      ]
+    },
+    {
+      "eng": "fall",
+      "kk": "fɔl",
+      "tense": "vi.",
+      "ch": [
+        [
+          "落下",
+          "掉落"
+        ],
+        [
+          "跌倒",
+          "摔倒"
+        ],
+        [
+          "變成",
+          "進入"
+        ]
+      ],
+      "analysis": "此字為古英語繼承詞 feallan（意為向下移動或倒下）。作為不及物動詞，核心語義為受重力影響向下移動、失去平衡而跌倒，或引申為狀態的轉變（如陷入沈睡或進入某種狀態）。",
+      "definition": "1. to move downward freely under the influence of gravity; 2. to lose one's balance and collapse to the ground; 3. to pass into a specified state or condition.",
+      "example": [
+        {
+          "eng": "Raindrops began to fall from the dark clouds.",
+          "ch": "雨滴開始從烏雲中落下。"
+        },
+        {
+          "eng": "He tripped over a rock and fell.",
+          "ch": "他被一塊石頭絆倒了。"
+        },
+        {
+          "eng": "The room fell silent when she started to speak.",
+          "ch": "她開始說話時，房間變得寂靜無聲。"
+        }
+      ]
+    },
+    {
+      "eng": "family",
+      "kk": "ˈfæməli",
+      "tense": "n.",
+      "ch": [
+        [
+          "家庭",
+          "家人"
+        ],
+        [
+          "家族",
+          "宗族"
+        ],
+        [
+          "生物分類上的科"
+        ]
+      ],
+      "analysis": "源自拉丁語 familia（意為同一屋簷下的人、奴僕群體，衍生自 famulus「僕人」），經由古法語借入英語。語義從最初的奴僕與親屬整體，演變為現代的核心家庭成員、血緣家族，並進一步向外延伸至生物學上的「科」。",
+      "definition": "1. a group consisting of parents and children living together; 2. all the descendants of a common ancestor, kindred; 3. a principal taxonomic category that ranks above genus and below order.",
+      "example": [
+        {
+          "eng": "She spends her weekend cooking for her family.",
+          "ch": "她週末花時間為家人做飯。"
+        },
+        {
+          "eng": "He comes from a large and musical family.",
+          "ch": "他來自一個龐大且有音樂造詣的家族。"
+        },
+        {
+          "eng": "Lions belong to the cat family, Felidae.",
+          "ch": "獅子屬於貓科動物。"
+        }
+      ]
+    },
+    {
+      "eng": "famous",
+      "kk": "ˈfeɪməs",
+      "tense": "adj.",
+      "ch": [
+        [
+          "著名的",
+          "出名的"
+        ]
+      ],
+      "analysis": "源自拉丁語 famosus（意為著名的、聲譽好的或惡名昭彰的），由 fama（意為名聲、傳聞）加上形容詞字尾 -ous 構成。經由古法語 fameux 進入英語，現代主要指廣為人知且享有良好聲譽的。",
+      "definition": "1. known about by many people; well-known.",
+      "example": [
+        {
+          "eng": "Paris is famous for its art museums and architecture.",
+          "ch": "巴黎以其藝術博物館和建築聞名。"
+        }
+      ]
+    },
+    {
+      "eng": "fan",
+      "kk": "fæn",
+      "tense": "n.",
+      "ch": [
+        [
+          "風扇",
+          "扇子"
+        ],
+        [
+          "迷",
+          "愛好者"
+        ]
+      ],
+      "analysis": "此字包含兩個歷史同形異源詞。風扇與扇子源自古英語 fann（源於拉丁語 vannus「簸穀籃」）；而「迷、支持者」則是 fanatic（狂熱者）的現代截短縮寫形式（clipper），兩者在現代英語中歸為同形異義字。",
+      "definition": "1. an apparatus with blades that creates a current of air, or a hand-held implement waved to create a breeze; 2. an enthusiastic devotee, follower, or admirer of a sport, art, or celebrity.",
+      "example": [
+        {
+          "eng": "She turned on the electric fan to cool down the room.",
+          "ch": "她打開電風扇來讓房間涼快一點。"
+        },
+        {
+          "eng": "He is a huge fan of rock music.",
+          "ch": "他是搖滾樂的超級大粉絲。"
+        }
+      ]
+    },
+    {
+      "eng": "fan",
+      "kk": "fæn",
+      "tense": "vt.",
+      "ch": [
+        [
+          "煽動",
+          "激起"
+        ],
+        [
+          "扇動",
+          "吹拂"
+        ]
+      ],
+      "analysis": "源自古英語動詞 fannian（意為用扇子簸穀或吹風），由名詞 fann 派生而來。實體義指用扇子揮動產生風或吹拂；抽象義則由「煽風點火」的形象演變為煽動情緒或激起對立。",
+      "definition": "1. to stir up, increase, or encourage strong feelings; 2. to blow air upon someone or something with a fan or similar movement.",
+      "example": [
+        {
+          "eng": "The speech only served to fan the flames of anger.",
+          "ch": "這場演講只是起到了煽動怒火的作用。"
+        },
+        {
+          "eng": "She tried to fan herself with a magazine.",
+          "ch": "她試圖用雜誌幫自己扇風。"
+        }
+      ]
+    },
+    {
+      "eng": "far",
+      "kk": "fɑr",
+      "tense": "adj.",
+      "ch": [
+        [
+          "遠的",
+          "遙遠的"
+        ]
+      ],
+      "analysis": "源自古英語形容詞 feor（遙遠的），與同形副詞同源。作為形容詞時直接置於名詞前或作表語，描述空間距離上的綿延或遙遠。",
+      "definition": "1. situated at a great distance in space or time.",
+      "example": [
+        {
+          "eng": "They traveled to a far country.",
+          "ch": "他們去了遙遠的國家。"
+        }
+      ]
+    },
+    {
+      "eng": "far",
+      "kk": "fɑr",
+      "tense": "adv.",
+      "ch": [
+        [
+          "遠地",
+          "遙遠地"
+        ],
+        [
+          "大大地",
+          "得多"
+        ]
+      ],
+      "analysis": "此字為古英語繼承詞 feor（意為在遠處、遙遠地），源自日耳曼語族。副詞用法除表示空間或時間上的距離遙遠外，也常作程度副詞，用以修飾比較級表達「大大地、……得多」。",
+      "definition": "1. at, to, or by a great distance in space or time; 2. by a great extent or degree, much.",
+      "example": [
+        {
+          "eng": "Do you live far from the office?",
+          "ch": "你住的地方離辦公室遠嗎？"
+        },
+        {
+          "eng": "This book is far better than the last one.",
+          "ch": "這本書比上一本好得多。"
+        }
+      ]
+    },
+    {
+      "eng": "farm",
+      "kk": "fɑrm",
+      "tense": "n.",
+      "ch": [
+        [
+          "農場",
+          "農莊"
+        ]
+      ],
+      "analysis": "源自中世紀拉丁語 firma（意為固定契約、固定租金，源自 firmus「穩固的」），經由古法語 ferme 進入英語。最初在英國法律中指「固定的租地契約」，後來語義轉移指「承租並耕作的農地」，最終泛指現代的農場。",
+      "definition": "1. an area of land and its buildings used for growing crops and raising animals.",
+      "example": [
+        {
+          "eng": "They raise cows and chickens on their family farm.",
+          "ch": "他們在家族農場裡養牛和雞。"
+        }
+      ]
+    },
+    {
+      "eng": "farm",
+      "kk": "fɑrm",
+      "tense": "vi.",
+      "ch": [
+        [
+          "經營農場",
+          "種田"
+        ]
+      ],
+      "analysis": "由名詞 farm 轉品而來的動詞，指從事農業生產、經營農場或在土地上耕作的行為。",
+      "definition": "1. to cultivate the land and raise crops or livestock.",
+      "example": [
+        {
+          "eng": "His grandfather has farmed in this valley for fifty years.",
+          "ch": "他的祖父在這條山谷裡耕種了五十年。"
+        }
+      ]
+    },
+    {
+      "eng": "farmer",
+      "kk": "ˈfɑrmər",
+      "tense": "n.",
+      "ch": [
+        [
+          "農夫",
+          "農場主"
+        ]
+      ],
+      "analysis": "由動詞 farm 加上表示人的名詞字尾 -er 構成（字面義為「經營農場的人」），指事農業生產或經營農場的人。",
+      "definition": "1. a person who owns or manages a farm, or cultivates land.",
+      "example": [
+        {
+          "eng": "The local farmers brought their fresh vegetables to the market.",
+          "ch": "當地農夫把新鮮蔬菜帶到市場販售。"
+        }
+      ]
+    },
+    {
+      "eng": "fast",
+      "kk": "fæst",
+      "tense": "vi.",
+      "ch": [
+        [
+          "齋戒",
+          "禁食"
+        ]
+      ],
+      "analysis": "源自古英語動詞 fæstan（意為守齋、禁食、嚴格遵守戒律），源自日耳曼語族，與形容詞「堅固、穩定」同源（意指在宗教儀式或自律中「堅守」規範不進食）。",
+      "definition": "1. to abstain from all or some kinds of food or drink, especially for religious or medical reasons.",
+      "example": [
+        {
+          "eng": "Some people fast during holy months for spiritual reasons.",
+          "ch": "有些人基於精神理由在神聖的月份禁食。"
+        }
+      ]
+    },
+    {
+      "eng": "fast",
+      "kk": "fæst",
+      "tense": "adj.",
+      "ch": [
+        [
+          "快的",
+          "迅速的"
+        ],
+        [
+          "緊密的",
+          "穩固的"
+        ]
+      ],
+      "analysis": "此字為古英語繼承詞 fæst（意為堅固的、穩固的、固定的）。語義從「穩固固定」引申出「動作敏捷、快速」（如緊跟不捨而產生的迅速感），並保留了少數如 hold fast（緊緊抓住）的古義。",
+      "definition": "1. moving or capable of moving at high speed; 2. firmly fixed, attached, or fastened.",
+      "example": [
+        {
+          "eng": "He drives a very fast sports car.",
+          "ch": "他開一輛速度很快的跑車。"
+        },
+        {
+          "eng": "Make sure the rope is fast before you climb.",
+          "ch": "你攀爬之前要確定繩子綁得很穩固。"
+        }
+      ]
+    },
+    {
+      "eng": "fast",
+      "kk": "fæst",
+      "tense": "adv.",
+      "ch": [
+        [
+          "快速地",
+          "迅速地"
+        ],
+        [
+          "緊緊地",
+          "牢固地"
+        ]
+      ],
+      "analysis": "源自古英語副詞 fæste（緊緊地、快速地），與同形形容詞同源。副詞用法主要指動作的高速度，或維持某個狀態的緊固程度。",
+      "definition": "1. at high speed; 2. firmly, tightly, or securely.",
+      "example": [
+        {
+          "eng": "Time flies fast when you are having fun.",
+          "ch": "快樂的時光過得飛快。"
+        },
+        {
+          "eng": "Hold fast to your dreams.",
+          "ch": "緊緊抓住你的夢想不放。"
+        }
+      ]
+    },
+    {
+      "eng": "fat",
+      "kk": "fæt",
+      "tense": "n.",
+      "ch": [
+        [
+          "脂肪",
+          "油脂"
+        ]
+      ],
+      "analysis": "源自古英語中作為名詞使用的 fæt（油脂），與同形形容詞同源。指動植物體內的脂肪組織或烹調用的油性物質。",
+      "definition": "1. a natural oily or greasy substance occurring in animal bodies, or used in cooking.",
+      "example": [
+        {
+          "eng": "Eating too much saturated fat is bad for your heart.",
+          "ch": "攝取過多飽和脂肪對心臟不好。"
+        }
+      ]
+    },
+    {
+      "eng": "fat",
+      "kk": "fæt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "肥胖的",
+          "胖的"
+        ],
+        [
+          "豐厚的",
+          "肥沃的"
+        ]
+      ],
+      "analysis": "此字為古英語繼承詞 fæt（意為肥胖的、豐滿的），源自日耳曼語族。形容詞除指人或動物體重過重、脂肪過多外，也引申指利潤豐厚或土地肥沃。",
+      "definition": "1. (of a person or animal) having a large amount of excess body fat; 2. thick, bulky, or yielding a large profit or amount.",
+      "example": [
+        {
+          "eng": "The cat is so fat that it can barely run.",
+          "ch": "這隻貓太胖了，幾乎跑不動。"
+        },
+        {
+          "eng": "He secured a fat contract with a major corporation.",
+          "ch": "他簽下了一份與大企業的豐厚合約。"
+        }
+      ]
+    },
+    {
+      "eng": "father",
+      "kk": "ˈfɑðər",
+      "tense": "n.",
+      "ch": [
+        [
+          "父親",
+          "爸爸"
+        ],
+        [
+          "創始人",
+          "神父"
+        ]
+      ],
+      "analysis": "此字為印歐語系同源詞（源自原始印歐語 *pətḗr），經古英語 fæder 演變而來。基本義為親生父親，引申義包括某個領域的創始人、先驅，或對基督教神職人員（神父）的尊稱。",
+      "definition": "1. a man in relation to his natural child or children; 2. a person who creates, originates, or founds something; 3. a title given to a priest in certain Christian churches.",
+      "example": [
+        {
+          "eng": "His father taught him how to play baseball.",
+          "ch": "他父親教他怎麼打棒球。"
+        },
+        {
+          "eng": "Thomas Edison is known as the father of modern lighting.",
+          "ch": "湯瑪斯·愛迪生被稱為現代照明之父。"
+        },
+        {
+          "eng": "Father Thomas led the Sunday morning mass.",
+          "ch": "湯瑪斯神父主持了週日早晨的彌撒。"
+        }
+      ]
+    },
+    {
+      "eng": "feed",
+      "kk": "fid",
+      "tense": "vt.",
+      "ch": [
+        [
+          "餵養",
+          "飼養"
+        ],
+        [
+          "提供",
+          "供應"
+        ]
+      ],
+      "analysis": "此字為古英語繼承詞 fēdan（意為餵養、滋養），源自名词 fōd（食物，即 food 的古形）。及物動詞核心義為給予人或動物食物，引申義指提供維持運作所需的資訊、能量或資源。",
+      "definition": "1. to give food to a person or animal; 2. to supply someone or something with what is needed for growth, operation, or continuation.",
+      "example": [
+        {
+          "eng": "It is time to feed the stray cats in the park.",
+          "ch": "是時候餵公園裡的流浪貓了。"
+        },
+        {
+          "eng": "The solar panels feed electricity into the local grid.",
+          "ch": "太陽能板將電力供應給當地電網。"
+        }
+      ]
+    },
+    {
+      "eng": "feel",
+      "kk": "fil",
+      "tense": "vt.",
+      "ch": [
+        [
+          "感覺到",
+          "意識到"
+        ],
+        [
+          "觸摸",
+          "摸"
+        ]
+      ],
+      "analysis": "此字為古英語繼承詞 fēlan（意為用觸覺感知、感受情感），源自日耳曼語族。作為及物動詞，既可用於身體的觸覺或內在的情感體驗，也可表示主觀上的意識與察覺。",
+      "definition": "1. to be aware of or experience an emotion or physical sensation; 2. to examine or test something by touching it.",
+      "example": [
+        {
+          "eng": "She could feel a gentle breeze on her face.",
+          "ch": "她能感覺到臉上有微風吹拂。"
+        },
+        {
+          "eng": "He felt the fabric to check its quality.",
+          "ch": "他摸了摸布料以檢查其品質。"
+        }
+      ]
+    },
+    {
+      "eng": "feel",
+      "kk": "fil",
+      "tense": "vi.",
+      "ch": [
+        [
+          "覺得",
+          "感到"
+        ],
+        [
+          "摸起來"
+        ]
+      ],
+      "analysis": "源自古英語 fēlan 的不及物用法。主要用於連綴動詞結構，表達主觀的情緒感受、身體狀態，或是物體給人的觸覺質感印象。",
+      "definition": "1. to experience an internal emotional or physical state; 2. to give a particular sensation when touched.",
+      "example": [
+        {
+          "eng": "I feel much better after taking a short nap.",
+          "ch": "小睡片刻後我感覺好多了。"
+        },
+        {
+          "eng": "This silk scarf feels extremely soft.",
+          "ch": "這條絲巾摸起來非常柔軟。"
+        }
+      ]
+    },
+    {
+      "eng": "festival",
+      "kk": "ˈfɛstəvəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "節日",
+          "慶典"
+        ]
+      ],
+      "analysis": "源自拉丁語 festivus（與歡宴、節慶有關的，源自 festum「宴會、節日」），經由中世紀拉丁語與古法語進入英語。指為慶祝特定文化、宗教傳統或藝術活動而舉行的盛會。",
+      "definition": "1. a day or period of celebration, typically for religious, cultural, or artistic reasons.",
+      "example": [
+        {
+          "eng": "The Dragon Boat Festival is celebrated with races and rice dumplings.",
+          "ch": "端午節以賽龍舟和吃粽子來慶祝。"
+        }
+      ]
+    },
+    {
+      "eng": "few",
+      "kk": "fju",
+      "tense": "adj.",
+      "ch": [
+        [
+          "少數的",
+          "不多的"
+        ]
+      ],
+      "analysis": "此字為古英語繼承詞 fēaw（意為不多、稀少），源自日耳曼語族。專門修飾可數名詞，表示數量有限或不多。",
+      "definition": "1. a small number of people or things.",
+      "example": [
+        {
+          "eng": "Few students passed the difficult chemistry exam.",
+          "ch": "很少學生通過那場困難的化學考試。"
+        }
+      ]
+    },
+    {
+      "eng": "fight",
+      "kk": "faɪt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "與……打仗",
+          "與……對抗"
+        ]
+      ],
+      "analysis": "源自古英語 feohtan 的及物用法。直接接對象，指參與對某個敵人、災難或困境的戰爭或對抗。",
+      "definition": "1. to engage in battle or struggle against an opponent, enemy, or difficulty.",
+      "example": [
+        {
+          "eng": "Firefighters worked all night to fight the massive forest fire.",
+          "ch": "消防員工作了一整夜來對抗巨大的森林大火。"
+        }
+      ]
+    },
+    {
+      "eng": "fight",
+      "kk": "faɪt",
+      "tense": "vi.",
+      "ch": [
+        [
+          "打架",
+          "搏鬥"
+        ],
+        [
+          "奮鬥",
+          "抗爭"
+        ]
+      ],
+      "analysis": "此字為古英語繼承詞feohtan（意為作戰、打鬥），源自日耳曼語族。不及物動詞指進行肢體衝突、戰爭，或抽象地為爭取權益、對抗逆境而奮鬥。",
+      "definition": "1. to take part in a violent struggle, physical combat, or war; 2. to strive hard to overcome or achieve something.",
+      "example": [
+        {
+          "eng": "The two dogs began to fight over a bone.",
+          "ch": "那兩隻狗開始為了一根骨頭打架。"
+        },
+        {
+          "eng": "Patients must fight bravely against the disease.",
+          "ch": "病患必須勇敢地與疾病對抗。"
+        }
+      ]
+    },
+    {
+      "eng": "file",
+      "kk": "faɪl",
+      "tense": "n.",
+      "ch": [
+        [
+          "檔案",
+          "文件夾"
+        ],
+        [
+          "銼刀"
+        ]
+      ],
+      "analysis": "此字包含兩個歷史同形異源詞。文件夾源自拉丁語 filum（意為線、細繩，指將文件串在線上保存），經由古法語與英語中介演變；銼刀則源自古英語 fīl（意為鐵製銼刀），源自日耳曼語族。",
+      "definition": "1. a folder, box, or digital container used for holding loose papers or data together in order; 2. a tool with a rough surface used for smoothing or shaping metal or wood.",
+      "example": [
+        {
+          "eng": "Please save the report in the shared computer file.",
+          "ch": "請把報告存放在共用電腦檔案中。"
+        },
+        {
+          "eng": "He used a steel file to smooth the rough edges of the metal.",
+          "ch": "他用鋼銼刀把金屬粗糙的邊緣磨平。"
+        }
+      ]
+    },
+    {
+      "eng": "file",
+      "kk": "faɪl",
+      "tense": "vt.",
+      "ch": [
+        [
+          "歸檔",
+          "提出（申請等）"
+        ],
+        [
+          "銼平",
+          "修整"
+        ]
+      ],
+      "analysis": "由名詞 file 的兩個不同源頭派生而來的及物動詞。分別指將文件歸類存檔、向官方正式提出申請，或用銼刀打磨物體表面。",
+      "definition": "1. to place a document in a regular arrangement for preservation, or formally submit a legal document or application; 2. to smooth or shape something with a file.",
+      "example": [
+        {
+          "eng": "She needs to file her tax returns by the end of the month.",
+          "ch": "她需要在月底前申報納稅。"
+        },
+        {
+          "eng": "She used a nail file to file her broken fingernail.",
+          "ch": "她用指甲銼來修整斷掉的指甲。"
+        }
+      ]
+    },
+    {
+      "eng": "fill",
+      "kk": "fɪl",
+      "tense": "vt.",
+      "ch": [
+        [
+          "填滿",
+          "裝滿"
+        ],
+        [
+          "擔任",
+          "佔據（職位等）"
+        ]
+      ],
+      "analysis": "此字為古英語繼承詞 fyllan（意為使之完全、填滿），源自形容詞 full（滿的）。及物動詞核心義為把容器或空間裝滿，引申義指填補職缺或佔據時間與空間。",
+      "definition": "1. to make or become full; put as much as can be held into a container or space; 2. to occupy or fulfill a position, role, or time period.",
+      "example": [
+        {
+          "eng": "He went to the kitchen to fill his glass with water.",
+          "ch": "他去廚房把杯子裝滿水。"
+        },
+        {
+          "eng": "She was chosen to fill the vacant marketing manager position.",
+          "ch": "她被選中填補空缺的行銷經理職位。"
+        }
+      ]
+    },
+    {
+      "eng": "finally",
+      "kk": "ˈfaɪnəli",
+      "tense": "adv.",
+      "ch": [
+        [
+          "終於",
+          "最後"
+        ]
+      ],
+      "analysis": "由形容詞 final（最終的，源自拉丁語 finalis）加上副詞字尾 -ly 構成。現代用法主要表示經歷一段時間或等待後「終於」發生，或在列舉論點時作為最後一點的引導。",
+      "definition": "1. after a long time, typically when there has been difficulty or delay; at last; 2. used to introduce the last point in an argument.",
+      "example": [
+        {
+          "eng": "After hours of discussion, they finally reached an agreement.",
+          "ch": "經過數小時的討論，他們終於達成協議。"
+        }
+      ]
+    },
+    {
+      "eng": "find",
+      "kk": "faɪnd",
+      "tense": "vt.",
+      "ch": [
+        [
+          "找到",
+          "發現"
+        ],
+        [
+          "認為",
+          "覺得"
+        ]
+      ],
+      "analysis": "此字為古英語繼承詞 findan（意為發現、找到），源自日耳曼語族。及物動詞基本義為透過搜尋或偶然機會找到實體物品，抽象義則指在經驗後「認為、覺得」某事具有某種特質。",
+      "definition": "1. to discover or locate something or someone by chance or search; 2. to experience or discover a particular quality or situation regarding something.",
+      "example": [
+        {
+          "eng": "I cannot find my keys anywhere in the house.",
+          "ch": "我在家裡到處找不到鑰匙。"
+        },
+        {
+          "eng": "She finds classical music very relaxing.",
+          "ch": "她覺得古典音樂非常令人放鬆。"
+        }
+      ]
+    },
+    {
+      "eng": "fine",
+      "kk": "faɪn",
+      "tense": "n.",
+      "ch": [
+        [
+          "罰款",
+          "罰金"
+        ]
+      ],
+      "analysis": "源自中世紀拉丁語 finis（意為訴訟的終結或雙方和解時支付的結案金），經由古法語引入英語。現代指違反法律或規定時被處以的金錢懲罰。",
+      "definition": "1. a sum of money exacted as a penalty for an offense.",
+      "example": [
+        {
+          "eng": "He had to pay a heavy fine for illegal parking.",
+          "ch": "他因為違規停車必須支付一大筆罰款。"
+        }
+      ]
+    },
+    {
+      "eng": "fine",
+      "kk": "faɪn",
+      "tense": "adj.",
+      "ch": [
+        [
+          "好的",
+          "優良的"
+        ]
+      ],
+      "analysis": "源自拉丁語 finus / finis（意為完成的、完美的、純粹的），經由古法語 fine 進入英語。語義從最初的「精製純粹」演變為品質優良、健康狀況良好，或天氣晴朗。",
+      "definition": "1. of high quality, very good, or satisfactory.",
+      "example": [
+        {
+          "eng": "The weather is fine and sunny for a picnic.",
+          "ch": "天氣晴朗美好，很適合野餐。"
+        }
+      ]
+    },
+    {
+      "eng": "finger",
+      "kk": "ˈfɪŋɡər",
+      "tense": "n.",
+      "ch": [
+        [
+          "手指"
+        ]
+      ],
+      "analysis": "此字為古英語繼承詞 finger（意為手指），源自日耳曼語系同源詞，與數字 5（five）在古印歐語源頭有歷史連結。指人手掌前端的可彎曲肢段。",
+      "definition": "1. each of the four long, slender digits on a human hand, excluding the thumb.",
+      "example": [
+        {
+          "eng": "She pointed her finger at the blackboard.",
+          "ch": "她用手指著黑板。"
+        }
+      ]
+    },
+    {
+      "eng": "finish",
+      "kk": "ˈfɪnɪʃ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "完成",
+          "結束"
+        ],
+        [
+          "吃完",
+          "喝完"
+        ]
+      ],
+      "analysis": "源自拉丁語 finire（意為使結束，源自 finis「終點」），經由古法語詞幹 finiss- 進入英語。及物動詞指將工作、任務、食物或活動進行到最後一個階段並告一段落。",
+      "definition": "1. to bring to an end; complete an activity, task, or process; 2. to consume all of something, especially food or drink.",
+      "example": [
+        {
+          "eng": "He managed to finish his homework before midnight.",
+          "ch": "他在午夜前設法完成了作業。"
+        },
+        {
+          "eng": "Make sure you finish your milk before you go to bed.",
+          "ch": "上床睡覺前要把牛奶喝完。"
+        }
+      ]
+    },
+    {
+      "eng": "fire",
+      "kk": "ˈfaɪər",
+      "tense": "n.",
+      "ch": [
+        [
+          "火",
+          "火災"
+        ],
+        [
+          "爐火",
+          "壁爐"
+        ]
+      ],
+      "analysis": "此字為古英語繼承詞 fȳr（意為火），源自日耳曼語族。基本義指物質燃燒時產生的光和熱、失控的火災，或家中的爐火、壁爐取暖設施。",
+      "definition": "1. combustion or burning in which substances combine chemically with oxygen, typically giving out bright light, heat, and smoke; 2. a burning fuel in a fireplace or stove for heating.",
+      "example": [
+        {
+          "eng": "The campers gathered around the warm campfire.",
+          "ch": "露營者們聚集在溫暖的營火周圍。"
+        },
+        {
+          "eng": "They sat by the fire to keep warm during the winter night.",
+          "ch": "冬夜裡他們坐在壁爐旁取暖。"
+        }
+      ]
+    },
+    {
+      "eng": "fire",
+      "kk": "ˈfaɪər",
+      "tense": "vt.",
+      "ch": [
+        [
+          "開火",
+          "發射（武器）"
+        ],
+        [
+          "解雇",
+          "開除"
+        ]
+      ],
+      "analysis": "由名詞 fire 派生而來的及物動詞。最初指點燃火藥發射槍砲（開火），19世紀末引申出「像扔掉無用物品一樣將員工開除」的職場俚語，隨後成為標準語彙。",
+      "definition": "1. to discharge a weapon such as a gun; 2. to dismiss someone from a job.",
+      "example": [
+        {
+          "eng": "The soldiers were ordered to hold their fire.",
+          "ch": "士兵們奉命停止開火。"
+        },
+        {
+          "eng": "He was fired from his job for arriving late repeatedly.",
+          "ch": "他因為屢次遲到而被公司開除。"
+        }
+      ]
+    },
+    {
+      "eng": "first",
+      "kk": "fɜrst",
+      "tense": "adj.",
+      "ch": [
+        [
+          "第一的",
+          "優先的"
+        ]
+      ],
+      "analysis": "此字為古英語繼承詞 fyrest（意為最前面的、最優的），是 fore 的最高級形式。在序列中居於最前端，或在重要性上居於首位。",
+      "definition": "1. coming before all others in time, order, or importance.",
+      "example": [
+        {
+          "eng": "Neil Armstrong was the first man to walk on the moon.",
+          "ch": "尼爾·阿姆斯壯是第一個登上月球的人。"
+        }
+      ]
+    },
+    {
+      "eng": "first",
+      "kk": "fɜrst",
+      "tense": "adv.",
+      "ch": [
+        [
+          "首先",
+          "最初"
+        ]
+      ],
+      "analysis": "源自古英語副詞 fyrst（最先、首先），與同形形容詞同源。用於句首或句中，表示步驟的優先順序或時間上的最先發生。",
+      "definition": "1. before any other person or thing; in preference to other things; initially.",
+      "example": [
+        {
+          "eng": "First, let us review the minutes of the previous meeting.",
+          "ch": "首先，讓我們審閱前一次會議的記錄。"
+        }
+      ]
+    },
+    {
+      "eng": "fish",
+      "kk": "fɪʃ",
+      "tense": "n.",
+      "ch": [
+        [
+          "魚",
+          "魚肉"
+        ]
+      ],
+      "analysis": "此字為古英語繼承詞 fisc（意為魚），源自日耳曼語族。指生活在水中的脊椎動物，或作為食物來源的魚肉。",
+      "definition": "1. a limbless cold-blooded vertebrate animal with gills and fins living wholly in water; 2. the flesh of fish used as food.",
+      "example": [
+        {
+          "eng": "Colorful tropical fish swam gracefully in the coral reef.",
+          "ch": "色彩繽紛的熱帶魚在珊瑚礁中優雅地游動。"
+        },
+        {
+          "eng": "We had grilled fish and rice for dinner.",
+          "ch": "我們晚餐吃烤魚和米飯。"
+        }
+      ]
+    },
+    {
+      "eng": "fish",
+      "kk": "fɪʃ",
+      "tense": "vi.",
+      "ch": [
+        [
+          "釣魚",
+          "捕魚"
+        ]
+      ],
+      "analysis": "由名詞 fish 轉品而來的動詞，指捕捉魚類的行為或活動。",
+      "definition": "1. to try to catch fish, typically with a rod, hook, and line, or nets.",
+      "example": [
+        {
+          "eng": "My grandfather loves to fish by the lake on quiet mornings.",
+          "ch": "我祖父喜歡在安靜的早晨去湖邊釣魚。"
+        }
+      ]
+    },
+    {
+      "eng": "floor",
+      "kk": "flɔr",
+      "tense": "n.",
+      "ch": [
+        [
+          "地板",
+          "地面"
+        ],
+        [
+          "樓層"
+        ]
+      ],
+      "analysis": "此字為古英語繼承詞 flōr（意為平整的地面、房屋底層），源自日耳曼語族。實體義指房間內供行走的底面，引申義指建築物的不同樓層。",
+      "definition": "1. the lower surface of a room, on which one walks; 2. a storey or level of a building.",
+      "example": [
+        {
+          "eng": "He dropped his glass and it shattered on the wooden floor.",
+          "ch": "他把杯子掉了，杯子在木地板上碎成片。"
+        },
+        {
+          "eng": "Their office is located on the tenth floor of the tower.",
+          "ch": "他們的辦公室位於大樓的十樓。"
+        }
+      ]
+    },
+    {
+      "eng": "flower",
+      "kk": "ˈflaʊər",
+      "tense": "n.",
+      "ch": [
+        [
+          "花",
+          "花朵"
+        ]
+      ],
+      "analysis": "源自拉丁語 flos / floris（意為花），經由古法語 flour / fleur 進入英語。指植物的生殖器官，通常具有鮮豔的色彩與香氣。",
+      "definition": "1. the seed-bearing part of a plant, consisting of reproductive organs surrounded by brightly colored petals.",
+      "example": [
+        {
+          "eng": "She planted red roses and yellow tulips in her garden flower bed.",
+          "ch": "她在花圃裡種了紅玫瑰和黃鬱金香。"
+        }
+      ]
+    },
+    {
+      "eng": "fly",
+      "kk": "flaɪ",
+      "tense": "n.",
+      "ch": [
+        [
+          "蒼蠅"
+        ]
+      ],
+      "analysis": "此字為古英語繼承詞 flīe / flȳge（意為小型雙翅昆蟲），與動詞 fly 同源（意指會飛的小昆蟲）。",
+      "definition": "1. a small winged insect with a buzzing sound, such as the common housefly.",
+      "example": [
+        {
+          "eng": "A pesky fly buzzed around the fruit basket on the table.",
+          "ch": "一隻討厭的蒼蠅在桌上的水果籃周圍嗡嗡叫。"
+        }
+      ]
+    },
+    {
+      "eng": "fly",
+      "kk": "flaɪ",
+      "tense": "vi.",
+      "ch": [
+        [
+          "飛",
+          "飛行"
+        ],
+        [
+          "乘飛機旅行"
+        ]
+      ],
+      "analysis": "此字為古英語繼承詞 flēogan（意為在空中振翅飛行），源自日耳曼語族。不及物動詞基本義指鳥類或昆蟲在空中移動，現代也廣泛指乘坐飛機進行旅行或移動。",
+      "definition": "1. (of a bird, insect, or aircraft) move through the air using wings or engines; 2. to travel by aircraft.",
+      "example": [
+        {
+          "eng": "Geese fly south in a V-formation before winter arrives.",
+          "ch": "大雁在冬天來臨前以人字形陣列向南飛去。"
+        },
+        {
+          "eng": "We will fly to Japan for our summer vacation.",
+          "ch": "我們將搭飛機去日本度暑假。"
+        }
+      ]
+    },
+    {
+      "eng": "follow",
+      "kk": "ˈfɑloʊ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "跟隨",
+          "跟從"
+        ],
+        [
+          "理解",
+          "聽懂"
+        ],
+        [
+          "遵守",
+          "依循"
+        ]
+      ],
+      "analysis": "此字為古英語繼承詞 folgian（意為跟隨、伴隨），源自日耳曼語族。及物動詞語義從實體的在後跟隨，逐步抽象延伸為理解對方的思路（聽懂），以及遵守規章制度。",
+      "definition": "1. to go or come after a person or thing; 2. to understand or grasp the meaning of something; 3. to accept, obey, or adhere to a rule, instruction, or system.",
+      "example": [
+        {
+          "eng": "The little ducklings followed their mother across the pond.",
+          "ch": "小小鴨跟著它們的母親游過池塘。"
+        },
+        {
+          "eng": "I am sorry, but I didn't quite follow your explanation.",
+          "ch": "很抱歉，我不太懂你的解釋。"
+        },
+        {
+          "eng": "Drivers must follow the traffic rules for safety.",
+          "ch": "為了安全，駕駛必須遵守交通規則。"
+        }
+      ]
+    },
+    {
+      "eng": "food",
+      "kk": "fud",
+      "tense": "n.",
+      "ch": [
+        [
+          "食物",
+          "食品"
+        ]
+      ],
+      "analysis": "此字為古英語繼承詞 fōda（意為食物、養分），源自日耳曼語族，與 feed 同源。泛指任何能被人或動物攝取以維持生存和生長的營養物質。",
+      "definition": "1. any nutritious substance that people or animals eat or drink, or that plants absorb, in order to maintain life and growth.",
+      "example": [
+        {
+          "eng": "They store dry food items like rice and beans in the pantry.",
+          "ch": "他們把米和豆子等乾糧儲存在食品室裡。"
+        }
+      ]
+    },
+    {
+      "eng": "fool",
+      "kk": "ful",
+      "tense": "n.",
+      "ch": [
+        [
+          "傻瓜",
+          "笨蛋"
+        ]
+      ],
+      "analysis": "源自拉丁語 follis（意為風箱、鼓起的袋子，引申為頭腦空虛的人），經由古法語 fol 進入英語。指缺乏智慧、判斷力或做出愚蠢行為的人。",
+      "definition": "1. a person who acts unwisely or imprudently; a silly or stupid person.",
+      "example": [
+        {
+          "eng": "He felt like a fool when he realized he had locked his keys inside the car.",
+          "ch": "當他發現自己把鑰匙鎖在車裡時，他覺得自己像個傻瓜。"
+        }
+      ]
+    },
+    {
+      "eng": "fool",
+      "kk": "ful",
+      "tense": "vt.",
+      "ch": [
+        [
+          "欺騙",
+          "愚弄"
+        ]
+      ],
+      "analysis": "由名詞 fool 派生而來的及物動詞，指使某人像傻瓜一樣受騙、上當或被開玩笑。",
+      "definition": "1. to trick or deceive someone into believing something that is not true.",
+      "example": [
+        {
+          "eng": "Don't let his friendly smile fool you.",
+          "ch": "別被他友善的微笑給騙了。"
+        }
+      ]
+    },
+    {
+      "eng": "foot",
+      "kk": "fʊt",
+      "tense": "n.",
+      "ch": [
+        [
+          "腳",
+          "足"
+        ],
+        [
+          "英尺（長度單位）"
+        ]
+      ],
+      "analysis": "此字為古英語繼承詞 fōt（意為腳），源自印歐語系同源詞。實體義指肢體最末端的足部，引申義由於古人常以腳步長度作為計量標準，演變為長度單位「英尺」，也可用於山腳等位置。",
+      "definition": "1. the lower extremity of the leg below the ankle, used for standing and walking; 2. a unit of linear measure equal to 12 inches (0.3048 meters).",
+      "example": [
+        {
+          "eng": "He hurt his left foot while playing soccer.",
+          "ch": "他踢足球時傷了左腳。"
+        },
+        {
+          "eng": "The wooden table is six feet long.",
+          "ch": "這張木桌有六英尺長。"
+        }
+      ]
+    },
+    {
+      "eng": "for",
+      "kk": "fɔr",
+      "tense": "prep.",
+      "ch": [
+        [
+          "為了",
+          "給"
+        ],
+        [
+          "持續（一段時間）"
+        ],
+        [
+          "因為",
+          "由於"
+        ]
+      ],
+      "analysis": "此字為古英語繼承詞 for / fore（意為了、在……前面、由於），源自日耳曼語族。作為常見介系詞，核心語義涵蓋目的地或利益歸屬（為了、給）、時間長度的涵蓋（持續），以及因果關係（因為）。",
+      "definition": "1. in support of, in order to help, or with the purpose of; 2. over a specified duration of time; 3. as a result of or because of.",
+      "example": [
+        {
+          "eng": "She bought a birthday present for her younger sister.",
+          "ch": "她為妹妹買了一份生日禮物。"
+        },
+        {
+          "eng": "They have lived in this quiet neighborhood for ten years.",
+          "ch": "他們在這個安靜的社區住了十年。"
+        },
+        {
+          "eng": "He was awarded a medal for bravery.",
+          "ch": "他因英勇表現而獲頒獎章。"
+        }
+      ]
+    },
+    {
+      "eng": "foreign",
+      "kk": "ˈfɔrən",
+      "tense": "adj.",
+      "ch": [
+        [
+          "外國的",
+          "涉外的"
+        ]
+      ],
+      "analysis": "源自古法語 forain（意為室外的、外面的），其拉丁語根源為 foras（在外面，源自 foris「門」）。在中世紀英語中受古法語影響拼寫加入 g，演變出現代拼字 foreign，指屬於或來自另一個國家的。",
+      "definition": "1. of, from, in, or characteristic of a country other than one's own.",
+      "example": [
+        {
+          "eng": "Learning a foreign language broadens your horizons.",
+          "ch": "學習外國語言能拓寬你的視野。"
+        }
+      ]
+    },
+    {
+      "eng": "foreigner",
+      "kk": "ˈfɔrənər",
+      "tense": "n.",
+      "ch": [
+        [
+          "外國人"
+        ]
+      ],
+      "analysis": "由形容詞 foreign 加上表示人的名詞字尾 -er 構成，指來自另一個國家或非本國籍的人。",
+      "definition": "1. a person born in or coming from a country other than one's own.",
+      "example": [
+        {
+          "eng": "The city offers great support and guidance for foreign visitors and residents.",
+          "ch": "這座城市為外國遊客和居民提供完善的支援與指引。"
+        }
+      ]
+    },
+    {
+      "eng": "forget",
+      "kk": "fərˈɡɛt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "忘記",
+          "遺忘"
+        ]
+      ],
+      "analysis": "此字為古英語繼承詞 forgietan（意為忘記、疏忽），由否定字首 for-（表示錯失、完全）加上動詞 gietan（獲得、抓住）複合而成（字面義為「沒能抓住記憶」）。及物動詞指無法再從記憶中提取某事，或疏忽大意而漏掉某事。",
+      "definition": "1. to fail to remember something, or neglect to bring or do something.",
+      "example": [
+        {
+          "eng": "I tend to forget people's names easily.",
+          "ch": "我很容易忘記別人的名字。"
+        },
+        {
+          "eng": "Don't forget to lock the front door before you leave.",
+          "ch": "離開前別忘了鎖大門。"
+        }
+      ]
+    },
+    {
+      "eng": "fork",
+      "kk": "fɔrk",
+      "tense": "n.",
+      "ch": [
+        [
+          "叉子",
+          "餐叉"
+        ],
+        [
+          "分叉點",
+          "分岔口"
+        ]
+      ],
+      "analysis": "源自拉丁語 furca（意為農用雙齒叉、草叉），經由古英語借入或日耳曼語支平行發展。實體義指進食用的餐叉，或道路、河川分岔的叉狀路口。",
+      "definition": "1. a small instrument with two or more prongs used for eating food; 2. a place where a road, path, or river divides into two parts.",
+      "example": [
+        {
+          "eng": "He picked up his fork and knife to eat the steak.",
+          "ch": "他拿起刀叉準備吃牛排。"
+        },
+        {
+          "eng": "Take the left path when you reach the fork in the road.",
+          "ch": "走到道路的分岔口時，請走左邊的路。"
+        }
+      ]
+    },
+    {
+      "eng": "free",
+      "kk": "fri",
+      "tense": "vt.",
+      "ch": [
+        [
+          "解放",
+          "使自由"
+        ]
+      ],
+      "analysis": "由形容詞 free 派生而來的及物動詞，指解除某人的束縛、囚禁或限制，使其恢復自由。",
+      "definition": "1. to release someone or something from captivity, confinement, or a burden.",
+      "example": [
+        {
+          "eng": "Animal activists worked together to free the trapped bird.",
+          "ch": "動物權益活動人士合力解放了那隻受困的鳥。"
+        }
+      ]
+    },
+    {
+      "eng": "free",
+      "kk": "fri",
+      "tense": "adj.",
+      "ch": [
+        [
+          "自由的",
+          "不受拘束的"
+        ],
+        [
+          "免費的",
+          "免付費的"
+        ]
+      ],
+      "analysis": "此字為古英語繼承詞 frēo（意為擁有自由身份的、不受奴役的），源自日耳曼語族。核心語義為不受限制或束縛的自由，中世紀因「自由人不必繳納某些封建稅賦」引申出「免費的」商業義。",
+      "definition": "1. able to act or be done as one wishes; not under the control of another; 2. costing nothing; provided without charge.",
+      "example": [
+        {
+          "eng": "After finishing his exams, he finally felt free.",
+          "ch": "考完試後，他終於感到自由了。"
+        },
+        {
+          "eng": "Admission to the city museum is free on Tuesdays.",
+          "ch": "週二參觀市立博物館是免費的。"
+        }
+      ]
+    },
+    {
+      "eng": "fresh",
+      "kk": "frɛʃ",
+      "tense": "adj.",
+      "ch": [
+        [
+          "新鮮的",
+          "剛採摘的"
+        ],
+        [
+          "清新的",
+          "涼爽的"
+        ]
+      ],
+      "analysis": "源自古法語 fresh / fresf（意為新的、充滿活力的），其日耳曼語源頭為 *frisk（與德語 frisch 同源）。形容詞指食物剛收成未腐壞、空氣清涼乾淨，或給人耳目一新的感覺。",
+      "definition": "1. (of food) recently made, harvested, or produced; not spoiled or frozen; 2. clean, cool, and refreshing.",
+      "example": [
+        {
+          "eng": "The local market sells fresh fruits and vegetables every morning.",
+          "ch": "當地市場每天早晨販售新鮮的水果和蔬菜。"
+        },
+        {
+          "eng": "We opened the window to let in the fresh morning air.",
+          "ch": "我們打開窗戶讓早晨清新的空氣進來。"
+        }
+      ]
+    },
+    {
+      "eng": "friend",
+      "kk": "frɛnd",
+      "tense": "n.",
+      "ch": [
+        [
+          "朋友",
+          "摯友"
+        ]
+      ],
+      "analysis": "此字為古英語繼承詞 frēond（意為朋友、親近的人），源自日耳曼語族動詞 *frijon（去愛）。指彼此有深厚情誼、互相信任與支持的人。",
+      "definition": "1. a person whom one knows and with whom one has a bond of mutual affection and trust.",
+      "example": [
+        {
+          "eng": "She invited her closest friends to her birthday party.",
+          "ch": "她邀請了最要好的朋友參加她的生日派對。"
+        }
+      ]
+    },
+    {
+      "eng": "friendly",
+      "kk": "ˈfrɛndli",
+      "tense": "adj.",
+      "ch": [
+        [
+          "友善的",
+          "親切的"
+        ]
+      ],
+      "analysis": "由名詞 friend 加上形容詞字尾 -y 構成（字面義為「像朋友一樣的」）。形容人態度親切、和藹可親，或事物有利於特定群體（如 eco-friendly 環保的）。",
+      "definition": "1. kind and pleasant; showing friendship or goodwill.",
+      "example": [
+        {
+          "eng": "The hotel staff were extremely friendly and helpful.",
+          "ch": "飯店員工非常友善且樂於助人。"
+        }
+      ]
+    },
+    {
+      "eng": "frog",
+      "kk": "frɑɡ",
+      "tense": "n.",
+      "ch": [
+        [
+          "青蛙"
+        ]
+      ],
+      "analysis": "此字為古英語繼承詞 frogga / frocga（意為青蛙），源自日耳曼語族。指無尾目、善於跳躍的兩棲動物。",
+      "definition": "1. a tailless amphibian with a short squab body, smooth skin, and long hind legs for leaping.",
+      "example": [
+        {
+          "eng": "We heard frogs croaking near the pond at night.",
+          "ch": "夜晚我們聽到青蛙在池塘附近呱呱叫。"
+        }
+      ]
+    },
+    {
+      "eng": "from",
+      "kk": "frʌm",
+      "tense": "prep.",
+      "ch": [
+        [
+          "從",
+          "自"
+        ],
+        [
+          "來自"
+        ]
+      ],
+      "analysis": "此字為古英語繼承詞 fram（意為自、從、離開），源自日耳曼語族。作為介系詞，表示起點、來源、出處或時間的開始。",
+      "definition": "1. indicating the point in space or time at which a journey, motion, or action starts; 2. indicating the origin or source of something.",
+      "example": [
+        {
+          "eng": "She walked from her house to the grocery store.",
+          "ch": "她從家裡步行到雜貨店。"
+        },
+        {
+          "eng": "He received a postcard from his friend in Italy.",
+          "ch": "他收到了來自義大利朋友的明信片。"
+        }
+      ]
+    },
+    {
+      "eng": "front",
+      "kk": "frʌnt",
+      "tense": "n.",
+      "ch": [
+        [
+          "前面",
+          "正面"
+        ],
+        [
+          "前線"
+        ]
+      ],
+      "analysis": "源自拉丁語 frons / frontis（意為額頭、臉部、正面），經由古法語 front 進入英語。實體義指建築物、物體或人的正面；軍事上引申為交戰的前線；氣象上指氣團交匯的前緣（鋒面）。",
+      "definition": "1. the side or part of an object that presents itself to view or that is normally seen first; 2. the foremost line or part of an armed force; the battle line.",
+      "example": [
+        {
+          "eng": "There is a small garden at the front of the house.",
+          "ch": "房子的前面有一個小花園。"
+        },
+        {
+          "eng": "The soldiers were sent to the front line.",
+          "ch": "士兵們被派往前線。"
+        }
+      ]
+    },
+    {
+      "eng": "fruit",
+      "kk": "frut",
+      "tense": "n.",
+      "ch": [
+        [
+          "水果",
+          "果實"
+        ],
+        [
+          "成果",
+          "產物"
+        ]
+      ],
+      "analysis": "源自拉丁語 fructus（意為享用、收益、果實，源自 frui「享受、使用」），經由古法語 fruit 進入英語。實體義指植物的果實與食用多汁水果，抽象義指努力過後獲得的成果。",
+      "definition": "1. the sweet and fleshy product of a tree or other plant that contains seed and can be eaten as food; 2. the pleasant or successful result of actions or training.",
+      "example": [
+        {
+          "eng": "Eating fresh fruit is an important part of a healthy diet.",
+          "ch": "吃新鮮水果是健康飲食的重要部分。"
+        },
+        {
+          "eng": "Hard work and dedication finally bore sweet fruit.",
+          "ch": "辛勤的工作與奉獻終於結出了甜美的果實。"
+        }
+      ]
+    },
+    {
+      "eng": "full",
+      "kk": "fʊl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "滿的",
+          "裝滿的"
+        ],
+        [
+          "完整的",
+          "全部的"
+        ]
+      ],
+      "analysis": "此字為古英語繼承詞 full（意為裝滿的、完全的），源自日耳曼語族。形容詞核心義指空間或容器已被佔滿無法再容納，引申義指時間或內容的完整、全面。",
+      "definition": "1. holding or containing as much as possible or a lot; 2. complete or containing all details.",
+      "example": [
+        {
+          "eng": "The gas tank is full, so we are ready for a long road trip.",
+          "ch": "油箱已經加滿了，所以我們準備好進行一場長途公路旅行。"
+        },
+        {
+          "eng": "Please provide your full name and address on the application form.",
+          "ch": "請在申請表上填寫你的全名與完整地址。"
+        }
+      ]
+    },
+    {
+      "eng": "fun",
+      "kk": "fʌn",
+      "tense": "n.",
+      "ch": [
+        [
+          "樂趣",
+          "娛樂"
+        ]
+      ],
+      "analysis": "源自早期英語動詞 fonne（意為愚弄、使愚蠢），源自中世紀英語名詞 fon（傻瓜）。語義從「愚弄或開玩笑帶來的嬉鬧」演變為現代純粹的「樂趣、好玩與愉快的活動」。",
+      "definition": "1. enjoyment, amusement, or lighthearted pleasure.",
+      "example": [
+        {
+          "eng": "We had a lot of fun playing board games at the party.",
+          "ch": "我們在派對上玩桌遊玩得非常開心。"
+        }
+      ]
+    },
+    {
+      "eng": "funny",
+      "kk": "ˈfʌni",
+      "tense": "adj.",
+      "ch": [
+        [
+          "好笑的",
+          "滑稽的"
+        ],
+        [
+          "奇怪的",
+          "詭異的"
+        ]
+      ],
+      "analysis": "由名詞 fun 加上形容詞字尾 -y 構成（原意為「愛開玩笑的、滑稽的」）。除指引人發笑的幽默好笑外，也常在口語中表示某事不尋常、古怪或可疑。",
+      "definition": "1. causing laughter or amusement; humorous; 2. difficult to explain or understand; strange or suspicious.",
+      "example": [
+        {
+          "eng": "He told a funny joke that made everyone laugh.",
+          "ch": "他說了一個讓大家都笑了的好笑笑話。"
+        },
+        {
+          "eng": "The car engine is making a funny noise; we should check it.",
+          "ch": "汽車引擎發出奇怪的聲音，我們該檢查一下。"
+        }
+      ]
+    },
+    {
+      "eng": "future",
+      "kk": "ˈfjutʃər",
+      "tense": "n.",
+      "ch": [
+        [
+          "未來",
+          "將來"
+        ]
+      ],
+      "analysis": "源自拉丁語 futurus（意為將要發生的，為動詞 esse「是」的將來分詞），經由古法語 futur 進入英語。指時間軸上尚未到來的時期或前途發展。",
+      "definition": "1. the time or a period of time following the moment of speaking or writing; time to come.",
+      "example": [
+        {
+          "eng": "We must work together to build a brighter future for the younger generation.",
+          "ch": "我們必須齊心協力為年輕一代創造更美好的未來。"
+        }
+      ]
+    },
+    {
+      "eng": "game",
+      "kk": "ɡeim",
+      "tense": "n.",
+      "ch": [
+        [
+          "遊戲",
+          "比賽"
+        ],
+        [
+          "獵物"
+        ]
+      ],
+      "analysis": "此字為古英語繼承詞 gamen（意為歡樂、消遣、遊戲），源自日耳曼語族。基本義指有規則的娛樂遊戲或體育競賽，古義與狩獵相關，因此也保留了野生動物獵物的稱謂。",
+      "definition": "1. an activity that one engages in for amusement, or a competitive sport with rules; 2. wild animals hunted for sport or food.",
+      "example": [
+        {
+          "eng": "The children gathered in the living room to play a board game.",
+          "ch": "孩子們聚集在客廳裡玩桌遊。"
+        },
+        {
+          "eng": "Hunters tracked deer and other game in the deep forest.",
+          "ch": "獵人在密林中追蹤鹿和其他獵物。"
+        }
+      ]
+    }
+  ]
+}

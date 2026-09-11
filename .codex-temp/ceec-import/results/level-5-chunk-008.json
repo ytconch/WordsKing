@@ -1,0 +1,1446 @@
+{
+  "level": 5,
+  "chunkIndex": 8,
+  "inputs": [
+    "estate",
+    "eternal",
+    "ethic",
+    "ethics",
+    "ethical",
+    "evolution",
+    "evolve",
+    "exaggeration",
+    "exceed",
+    "exceptional",
+    "excessive",
+    "exclaim",
+    "exclude",
+    "exclusive",
+    "execute",
+    "execution",
+    "executive",
+    "exile",
+    "exotic",
+    "expedition",
+    "expertise",
+    "explicit",
+    "exploit",
+    "exploration",
+    "extension",
+    "extensive",
+    "exterior",
+    "external",
+    "extinct",
+    "extraordinary",
+    "fabric",
+    "fabulous",
+    "facilitate",
+    "faculty",
+    "fascinate",
+    "fatigue",
+    "federal",
+    "fiber",
+    "filter",
+    "fiscal",
+    "fleet",
+    "flexibility",
+    "flip",
+    "fluency",
+    "fluid",
+    "forge",
+    "format",
+    "forum",
+    "foster",
+    "foul"
+  ],
+  "rows": [
+    {
+      "eng": "estate",
+      "kk": "/ɪˈsteɪt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "房地產",
+          "地產",
+          "房產"
+        ],
+        [
+          "財產",
+          "遺產",
+          "資產"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 status（狀態、地位），經古法語 estat 演變而來。歷史上本義指人的社會地位或身分，隨後引申指其擁有的財產、土地與地位相稱的廣大房地產，現代主要指房地產、大片私有土地或個人死後留下的遺產總額。",
+      "definition": "1. extensive landed property, especially one with a large house on it, or a major residential and commercial property development; 2. the money and personal property a person leaves behind upon death, or all the accumulated property of a person.",
+      "example": [
+        {
+          "eng": "They live on a large country estate with beautiful gardens.",
+          "ch": "他們住在帶有美麗花園的大型鄉間房地產裡。"
+        },
+        {
+          "eng": "Her estate was divided equally among her three children.",
+          "ch": "她的遺產被平分給她的三個孩子。"
+        }
+      ]
+    },
+    {
+      "eng": "eternal",
+      "kk": "/ɪˈtɜːrnl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "永恆的",
+          "永遠的",
+          "不朽的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 aeternalis，由 aeternus（永恆的、年代久遠的，源自 aevum「時代、年齡」）加上形容詞字尾 -al 構成。字面即指「屬於時代的、無始無終的」，現代主要用來形容超越時間限制、永不消逝的事物。",
+      "definition": "1. lasting or existing forever; without end or beginning.",
+      "example": [
+        {
+          "eng": "Philosophers have long debated the concept of eternal life.",
+          "ch": "哲學家們長期以來一直在討論永生這個概念。"
+        }
+      ]
+    },
+    {
+      "eng": "ethic",
+      "kk": "/ˈɛθɪk/",
+      "tense": "n.",
+      "ch": [
+        [
+          "道德標準",
+          "倫理",
+          "道德觀"
+        ]
+      ],
+      "analysis": "此字源自希臘語 ēthikos（源自 ēthos「風俗、習俗、性格」），經拉丁語 ethica 進入英語。原意指社會或個人的風俗習慣與行為準則，現代主要指規範行為的道德原則或特定領域的倫理標準。",
+      "definition": "1. a system of moral principles or rules of behavior governing a person or group.",
+      "example": [
+        {
+          "eng": "A strong work ethic is essential for success in this company.",
+          "ch": "強烈的敬業精神對在這家公司成功至關重要。"
+        }
+      ]
+    },
+    {
+      "eng": "ethics",
+      "kk": "/ˈɛθɪks/",
+      "tense": "n.",
+      "ch": [
+        [
+          "倫理學",
+          "道德學"
+        ],
+        [
+          "道德標準",
+          "行為規範"
+        ]
+      ],
+      "analysis": "此字為 ethic 的複數形式或具學科性質的名詞形式，源自希臘語 tà ēthika（有關品格與風俗的事物）。在現代英語中，既可作為學科名稱（視為單數），也可指具體的道德原則或行為規範。",
+      "definition": "1. the branch of knowledge and philosophy concerned with moral principles; 2. moral principles that govern a person's behavior or the conducting of an activity.",
+      "example": [
+        {
+          "eng": "She is studying business ethics at the university.",
+          "ch": "她正在大學修習商業倫理學。"
+        },
+        {
+          "eng": "Medical ethics strictly prohibits doctors from sharing patient secrets.",
+          "ch": "醫療倫理嚴禁醫生洩漏患者祕密。"
+        }
+      ]
+    },
+    {
+      "eng": "ethical",
+      "kk": "/ˈɛθɪkl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "合乎道德的",
+          "道德上的",
+          "倫理的"
+        ]
+      ],
+      "analysis": "由名詞 ethic 加上形容詞字尾 -al 複合而成。指符合社會道德標準、倫理規範或專業守則的性質。",
+      "definition": "1. morally good or correct, or relating to beliefs about right and wrong.",
+      "example": [
+        {
+          "eng": "It is not ethical for a journalist to accept gifts from sources.",
+          "ch": "記者接受消息來源的禮物是不道德的。"
+        }
+      ]
+    },
+    {
+      "eng": "evolution",
+      "kk": "/ˌɛvəˈluːʃn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "演化",
+          "進化"
+        ],
+        [
+          "發展",
+          "演變"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 evolutio（展開、展開卷軸），由動詞 evolvere（e-「向外」+ volvere「滾動、轉動」）衍生而來。本義指書卷的展開，近代延伸至生物學上的物種演化，以及一般事物的逐漸發展與演變過程。",
+      "definition": "1. the process by which different kinds of living organisms are believed to have developed from earlier forms during the history of the earth; 2. the gradual development of something, especially from a simple to a more complex form.",
+      "example": [
+        {
+          "eng": "Darwin's theory of evolution changed our understanding of biology.",
+          "ch": "達爾文的演化論改變了我們對生物學的理解。"
+        },
+        {
+          "eng": "The evolution of the internet has transformed global communication.",
+          "ch": "網際網路的演變已經改變了全球通訊方式。"
+        }
+      ]
+    },
+    {
+      "eng": "evolve",
+      "kk": "/ɪˈvɑːlv/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使發展",
+          "使進化"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 evolvere（e-「向外」+ volvere「滾動」），字面意思是將捲起之物展開。在現代及物用法中，指促使生物或事物經歷長期過程而逐漸發展或進化。",
+      "definition": "1. to develop gradually, or to cause something to develop slowly over time.",
+      "example": [
+        {
+          "eng": "The company evolved its business model to survive the digital age.",
+          "ch": "該公司發展了其商業模式以在數位時代存活下來。"
+        }
+      ]
+    },
+    {
+      "eng": "evolve",
+      "kk": "/ɪˈvɑːlv/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "演化",
+          "進化"
+        ],
+        [
+          "逐步發展",
+          "演變"
+        ]
+      ],
+      "analysis": "作為不及物動詞時，保持「由內向外展開」的隱喻，指生物經由自然選擇產生基因與形態改變，或指觀念、技術、局勢隨著時間自然演變。",
+      "definition": "1. to develop or change gradually over time, often into a more advanced form; 2. to undergo biological evolution.",
+      "example": [
+        {
+          "eng": "Complex life began to evolve on Earth millions of years ago.",
+          "ch": "複雜的生命在數百萬年前開始在地球上演化。"
+        },
+        {
+          "eng": "Our strategies must evolve as market conditions change.",
+          "ch": "隨著市場條件改變，我們的策略必須逐步演變。"
+        }
+      ]
+    },
+    {
+      "eng": "exaggeration",
+      "kk": "/ɪɡˌzædʒəˈreɪʃn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "誇張",
+          "誇大之詞"
+        ]
+      ],
+      "analysis": "由動詞 exaggerate（源自拉丁語 exaggerare「堆高、堆積」，ex-「向上」+ agger「土堆」）衍生出名詞字尾 -ation 而成。本義指把土堆得比實際更高，現代引申為言語或行為上的誇大、誇張說法。",
+      "definition": "1. a statement that represents something as being larger, better, or worse than it really is; the act of making something seem exaggerated.",
+      "example": [
+        {
+          "eng": "Saying that he saved the company single-handedly is a bit of an exaggeration.",
+          "ch": "說他一手拯救了公司未免有點誇張。"
+        }
+      ]
+    },
+    {
+      "eng": "exceed",
+      "kk": "/ɪkˈsiːd/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "超過",
+          "超出",
+          "勝過"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 excedere（ex-「向外、超出」+ cedere「走、行進」），字面意思是「走過界限、超越」。現代主要用作及物動詞，指數量、限制、權力或表現超越某個標準。",
+      "definition": "1. to be greater in number or size than a specified quantity, limit, or official target.",
+      "example": [
+        {
+          "eng": "Sales this month have exceeded our initial forecasts.",
+          "ch": "這個月的銷售額已經超過了我們最初的預測。"
+        }
+      ]
+    },
+    {
+      "eng": "exceptional",
+      "kk": "/ɪkˈsɛpʃənl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "傑出的",
+          "優秀的"
+        ],
+        [
+          "異常的",
+          "罕見的"
+        ]
+      ],
+      "analysis": "由名詞 exception（源自 excepere「排除、特例」）加上形容詞字尾 -al 構成。字面意思是「屬於例外的」，引申為因為極為優秀而脫離常軌，或指情況不同尋常、非常罕見。",
+      "definition": "1. unusually good; outstanding; 2. abnormal or unusual; forming an exception.",
+      "example": [
+        {
+          "eng": "She showed exceptional talent in mathematics at an early age.",
+          "ch": "她在很小的時候就展現出數學方面的傑出才華。"
+        },
+        {
+          "eng": "This wine is the product of an exceptional harvest year.",
+          "ch": "這款酒是異常豐收年的產物。"
+        }
+      ]
+    },
+    {
+      "eng": "excessive",
+      "kk": "/ɪkˈsɛsɪv/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "過度的",
+          "過分的",
+          "極度的"
+        ]
+      ],
+      "analysis": "由 exceed 的過去分詞詞幹 excess 加上形容詞字尾 -ive 構成。字面意思是「具有超越限度性質的」，現代用來形容數量、程度或花費遠遠超出正常或合理範圍。",
+      "definition": "1. more than is necessary, normal, or desirable; exceeding reasonable limits.",
+      "example": [
+        {
+          "eng": "Excessive exposure to the sun can lead to skin damage.",
+          "ch": "過度暴露在陽光下會導致皮膚受損。"
+        }
+      ]
+    },
+    {
+      "eng": "exclaim",
+      "kk": "/ɪkˈskleɪm/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "大聲叫喊",
+          "驚呼"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 exclamare（ex-「向外」+ clamare「喊叫」）。在現代用法中，指因強烈情感（如驚訝、憤怒、喜悅）而大聲喊出或驚呼某事。",
+      "definition": "1. to cry out or speak suddenly and with strong emotion, often in surprise, anger, or excitement.",
+      "example": [
+        {
+          "eng": "\"Look at that shooting star!\" she exclaimed.",
+          "ch": "「看那顆流星！」她驚呼道。"
+        }
+      ]
+    },
+    {
+      "eng": "exclaim",
+      "kk": "/ɪkˈskleɪm/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "驚叫",
+          "大聲呼喊"
+        ]
+      ],
+      "analysis": "作為不及物動詞使用時，指發出突然而大聲的叫喊或感嘆，不接直接受詞。",
+      "definition": "1. to utter a sudden, loud cry or exclamation.",
+      "example": [
+        {
+          "eng": "He could not help but exclaim in delight upon hearing the news.",
+          "ch": "聽到這個消息時，他忍不住歡呼出聲。"
+        }
+      ]
+    },
+    {
+      "eng": "exclude",
+      "kk": "/ɪkˈskluːd/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "排除",
+          "排斥",
+          "把……拒之門外"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 excludere（ex-「向外」+ claudere「關閉」），字面意思是「關在外面」。現代指不予考慮、拒絕接受某人進入某組織或場所，或將某個可能性從範圍中剔除。",
+      "definition": "1. to deny someone access to a place, group, or privilege, or to leave something out deliberately.",
+      "example": [
+        {
+          "eng": "The committee decided to exclude all unqualified applicants.",
+          "ch": "委員會決定排除所有不合格的申請人。"
+        }
+      ]
+    },
+    {
+      "eng": "exclusive",
+      "kk": "/ɪkˈskluːsɪv/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "獨家的",
+          "專有的"
+        ],
+        [
+          "高級的",
+          "高檔的"
+        ],
+        [
+          "排他的",
+          "不包括……的"
+        ]
+      ],
+      "analysis": "由 exclude 的過去分詞詞幹加上形容詞字尾 -ive 構成。字面意思是「傾向於把別人關在門外的」，引申為獨家專有、高端奢華或將特定對象排除在外。",
+      "definition": "1. restricted to a single person, group, or category; 2. catering to a high-class, wealthy clientele; expensive and fashionable; 3. not including a particular thing or person.",
+      "example": [
+        {
+          "eng": "The magazine secured an exclusive interview with the reclusive actor.",
+          "ch": "該雜誌取得了與這位隱居演員的獨家專訪。"
+        },
+        {
+          "eng": "They are members of an exclusive country club.",
+          "ch": "他們是一個高級鄉村俱樂部的會員。"
+        },
+        {
+          "eng": "The price is $50, exclusive of tax and service charges.",
+          "ch": "價格是50美元，不含稅費與服務費。"
+        }
+      ]
+    },
+    {
+      "eng": "execute",
+      "kk": "/ˈɛksɪˌkjuːt/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "執行",
+          "實施"
+        ],
+        [
+          "處決",
+          "死刑"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 exsequi（ex-「徹底」+ sequi「跟隨」），中世紀拉丁語演變為 executare（完成、履行）。現代主要指落實執行計畫、法律、合規命令，或依法執行死刑。",
+      "definition": "1. to carry out, accomplish, or put into effect a plan, order, or law; 2. to kill someone as a legal punishment.",
+      "example": [
+        {
+          "eng": "The general executed the military strategy flawlessly.",
+          "ch": "將軍完美無瑕地執行了這項軍事戰略。"
+        },
+        {
+          "eng": "The convicted murderer was sentenced to be executed.",
+          "ch": "被定罪的謀殺犯被判處死刑。"
+        }
+      ]
+    },
+    {
+      "eng": "execution",
+      "kk": "/ˌɛksɪˈkjuːʃn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "執行",
+          "實施",
+          "履行"
+        ],
+        [
+          "處決",
+          "死刑執行"
+        ]
+      ],
+      "analysis": "由動詞 execute 加上名詞字尾 -ion 構成。指計畫、命令或技能的實際執行過程，或依法對死刑犯執行處決。",
+      "definition": "1. the carrying out or completion of a plan, order, or course of action; 2. the action of putting a condemned person to death.",
+      "example": [
+        {
+          "eng": "The plan was brilliant, but its execution was flawed.",
+          "ch": "這計畫很精彩，但執行起來卻有缺陷。"
+        },
+        {
+          "eng": "Protesters gathered outside the prison before the scheduled execution.",
+          "ch": "抗議者在預定的死刑執行前聚集在監獄外。"
+        }
+      ]
+    },
+    {
+      "eng": "executive",
+      "kk": "/ɪɡˈzɛkjətɪv/",
+      "tense": "n.",
+      "ch": [
+        [
+          "行政主管",
+          "經理",
+          "高級行政人員"
+        ]
+      ],
+      "analysis": "由 execute 的名詞／形容詞形式演變而來。在現代商業與政治中，指具有決策權與管理職責的高級行政主管或經理階層。",
+      "definition": "1. a person with senior managerial responsibility in a business or organization.",
+      "example": [
+        {
+          "eng": "Several top executives resigned following the financial scandal.",
+          "ch": "財務醜聞發生後，幾位高階主管辭職了。"
+        }
+      ]
+    },
+    {
+      "eng": "executive",
+      "kk": "/ɪɡˈzɛkjətɪv/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "行政的",
+          "決策的"
+        ],
+        [
+          "高檔的",
+          "豪華的"
+        ]
+      ],
+      "analysis": "作為形容詞時，指與決策、行政管理相關的權力，或在商業上指專為高階主管或高端消費者設計的高級產品。",
+      "definition": "1. relating to the administration of the law and business or the execution of plans and policies; 2. designed or suitable for high-ranking business personnel.",
+      "example": [
+        {
+          "eng": "The president holds supreme executive power under the constitution.",
+          "ch": "總統根據憲法擁有最高行政權。"
+        },
+        {
+          "eng": "He stayed in an executive suite with a view of the harbor.",
+          "ch": "他入住了一間能看到海港景致的行政套房。"
+        }
+      ]
+    },
+    {
+      "eng": "exile",
+      "kk": "/ˈɛɡzaɪl/",
+      "tense": "n.",
+      "ch": [
+        [
+          "流亡",
+          "放逐",
+          "流放"
+        ],
+        [
+          "流亡者",
+          "被放逐者"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 exsilium（源自 exsul「流亡者」）。原意指被迫離開祖國或家園的狀態，或指身處異國他鄉的流亡人士。",
+      "definition": "1. the state of being barred from one's native country, typically for political or punitive reasons; 2. a person who is living in exile.",
+      "example": [
+        {
+          "eng": "After the coup, the politician lived in exile for twenty years.",
+          "ch": "政變後，該政治人物過瞭二十年的流亡生活。"
+        },
+        {
+          "eng": "Political exiles gathered to protest the authoritarian regime.",
+          "ch": "流亡政客們聚集在一起抗議威權政權。"
+        }
+      ]
+    },
+    {
+      "eng": "exile",
+      "kk": "/ˈɛɡzaɪl/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "流放",
+          "放逐",
+          "使流亡"
+        ]
+      ],
+      "analysis": "作為及物動詞時，指強迫某人離開其祖國或家園作為懲罰或政治對策。",
+      "definition": "1. to expel and banish someone from their native country, typically for political or punitive reasons.",
+      "example": [
+        {
+          "eng": "The dictator exiled all opposition leaders.",
+          "ch": "獨裁者流放了所有反對派領袖。"
+        }
+      ]
+    },
+    {
+      "eng": "exotic",
+      "kk": "/ɪɡˈzɑːtɪk/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "異國情調的",
+          "外來的",
+          "異域的"
+        ]
+      ],
+      "analysis": "此字源自希臘語 exōtikos（源自 exō「外面」），經拉丁語 exoticus 進入英語。原意指外來的、非本土的，現代主要用來形容具有神祕、迷人異國風情的人事物。",
+      "definition": "1. originating in or characteristic of a distant foreign country; strikingly unusual and exciting.",
+      "example": [
+        {
+          "eng": "She loves traveling to tropical islands and tasting exotic fruits.",
+          "ch": "她喜歡去熱帶島嶼旅行並品嘗異國水果。"
+        }
+      ]
+    },
+    {
+      "eng": "expedition",
+      "kk": "/ˌɛkspəˈdɪʃn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "遠征",
+          "探險",
+          "考察"
+        ],
+        [
+          "考察隊",
+          "探險隊"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 expeditio（源自 expedire「解除束縛、使之順暢」）。歷史上本義指軍事行軍或遠征，現代引申為科學考察、地理探險活動，或指參與該活動的整個隊伍。",
+      "definition": "1. a journey undertaken by a group of people for a particular purpose, especially that of exploration, scientific research, or war; 2. the members of such a journey.",
+      "example": [
+        {
+          "eng": "The scientific expedition set out to map the uncharted jungle.",
+          "ch": "這支科學考察隊出發去繪製未知的叢林地圖。"
+        },
+        {
+          "eng": "The expedition discovered several new plant species.",
+          "ch": "該探險隊發現了幾種新的植物。"
+        }
+      ]
+    },
+    {
+      "eng": "expertise",
+      "kk": "/ˌɛkspɜːrˈtiːz/",
+      "tense": "n.",
+      "ch": [
+        [
+          "專業知識",
+          "專門技術",
+          "專長"
+        ]
+      ],
+      "analysis": "此字源自法語 expertise（由 expert「專家」衍生而來）。在英語中指專家所擁有的專業技能、知識水準或深厚造詣。",
+      "definition": "1. expert skill or knowledge in a particular field.",
+      "example": [
+        {
+          "eng": "We need legal expertise to review these international contracts.",
+          "ch": "我們需要法律專業知識來審閱這些國際合約。"
+        }
+      ]
+    },
+    {
+      "eng": "explicit",
+      "kk": "/ɪkˈsplɪsɪt/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "明確的",
+          "清楚的",
+          "坦率的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 explicitus（explicare 的過去分詞、「展開、說明清楚」，ex-「向外」+ plicare「摺疊」）。字面意思是「完全展開、毫無隱藏的」，現代用來形容言論、指示或說明十分清晰明確、不留模糊空間。",
+      "definition": "1. stated clearly and in detail, leaving no room for confusion or doubt.",
+      "example": [
+        {
+          "eng": "She gave explicit instructions on how to care for her plants.",
+          "ch": "她對如何照顧她的植物給出了明確的指示。"
+        }
+      ]
+    },
+    {
+      "eng": "exploit",
+      "kk": "/ɪkˈsplɔɪt/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "剝削",
+          "壓榨"
+        ],
+        [
+          "開採",
+          "開發",
+          "充分利用"
+        ]
+      ],
+      "analysis": "此字源自古法語 esploit（成就、成果），最終源自拉丁語 explicitum（成果）。歷史上經歷了從「達成成就」到「利用資源」再到「不公平利用（剝削勞動力）」的語意演變。",
+      "definition": "1. to make use of a situation or person unfairly for one's own advantage; 2. to make full use of and derive benefit from a resource.",
+      "example": [
+        {
+          "eng": "Labor laws were introduced to prevent companies from exploiting workers.",
+          "ch": "勞動法的出台是為了防止公司剝削工人。"
+        },
+        {
+          "eng": "New technologies allow us to exploit renewable energy sources more efficiently.",
+          "ch": "新技術使我們能夠更有效率地開發再生能源。"
+        }
+      ]
+    },
+    {
+      "eng": "exploration",
+      "kk": "/ˌɛkspləˈreɪʃn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "探索",
+          "探勘",
+          "考察"
+        ]
+      ],
+      "analysis": "由動詞 explore（源自拉丁語 explorare「探查、偵察」，ex- + plorare「呼喊」）衍生出名詞字尾 -ation 而成。指對未知地區、空間、學術領域或資源的實地探勘與研究。",
+      "definition": "1. the action of traveling in or through an unfamiliar area in order to learn about it.",
+      "example": [
+        {
+          "eng": "Space exploration has led to many technological spin-offs.",
+          "ch": "太空探索帶動了許多衍生技術的發展。"
+        }
+      ]
+    },
+    {
+      "eng": "extension",
+      "kk": "/ɪkˈstɛnʃn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "延長",
+          "延期",
+          "擴展"
+        ],
+        [
+          "分機",
+          "電話分機"
+        ]
+      ],
+      "analysis": "由動詞 extend（源自拉丁語 extendere「伸展」，ex- + tendere「伸展」）演變而來的名詞。本義指空間或時間上的延伸、擴大，在現代辦公環境中也引申指電話交換機的內線分機。",
+      "definition": "1. the action or process of making something longer or larger; 2. an extra telephone connected to a main line.",
+      "example": [
+        {
+          "eng": "The university granted him a two-week extension on his thesis deadline.",
+          "ch": "大學准許他的論文期限延長兩個星期。"
+        },
+        {
+          "eng": "Please transfer my call to extension 405.",
+          "ch": "請幫我將電話轉接至405分機。"
+        }
+      ]
+    },
+    {
+      "eng": "extensive",
+      "kk": "/ɪkˈstɛnsɪv/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "廣泛的",
+          "大規模的",
+          "大量的"
+        ]
+      ],
+      "analysis": "由 extend 的過去分詞詞幹加上形容詞字尾 -ive 構成。字面意思是「具備向外延伸性質的」，現代用來形容範圍廣大、影響深遠或資料、調查極為全面詳盡。",
+      "definition": "1. covering a large area; large in amount or scale.",
+      "example": [
+        {
+          "eng": "The storm caused extensive damage to the coastal towns.",
+          "ch": "這場暴風雨對沿海城鎮造成了廣泛的破壞。"
+        }
+      ]
+    },
+    {
+      "eng": "exterior",
+      "kk": "/ɪkˈstɪriər/",
+      "tense": "n.",
+      "ch": [
+        [
+          "外部",
+          "外表",
+          "外觀"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 exterior（exter「外面的」的比較級）。在現代英語中指建築物、物體或人的外部面貌與表面。",
+      "definition": "1. the outer surface or structure of something.",
+      "example": [
+        {
+          "eng": "The exterior of the building needs a fresh coat of paint.",
+          "ch": "這棟建築的外觀需要重新漆上一層油漆。"
+        }
+      ]
+    },
+    {
+      "eng": "exterior",
+      "kk": "/ɪkˈstɪriər/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "外部的",
+          "外表的",
+          "室外的"
+        ]
+      ],
+      "analysis": "作為形容詞時，指位於物體表面或外圍的特性，與 interior 相對。",
+      "definition": "1. forming, situated on, or suitable for use on the outside of something.",
+      "example": [
+        {
+          "eng": "Only exterior walls should be painted with waterproof sealant.",
+          "ch": "只有外牆才應塗上防水密封劑。"
+        }
+      ]
+    },
+    {
+      "eng": "external",
+      "kk": "/ɪkˈstɜːrnl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "外部的",
+          "外在的",
+          "客觀的"
+        ]
+      ],
+      "analysis": "由拉丁語 externus 加上形容詞字尾 -al 構成。指來自事物本體之外的、外在的，與 internal 相對。",
+      "definition": "1. belonging to or forming the outside of something; coming from outside.",
+      "example": [
+        {
+          "eng": "The company relies on external auditors to check its financial accounts.",
+          "ch": "該公司依靠外部審計師來核對其財務帳目。"
+        }
+      ]
+    },
+    {
+      "eng": "extinct",
+      "kk": "/ɪkˈstɪŋkt/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "滅絕的",
+          "絕種的"
+        ],
+        [
+          "熄滅的",
+          "不再活躍的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 exstinguere 的過去分詞 exstinctus（熄滅、消滅，ex- + stinguere「刺、滅」）。本義指火苗熄滅，後引申指物種在地球上完全滅絕，或火山不再噴發。",
+      "definition": "1. having no living members; no longer in existence; 2. no longer burning or active, such as a volcano.",
+      "example": [
+        {
+          "eng": "Dinosaurs became extinct millions of years ago.",
+          "ch": "恐龍在數百萬年前滅絕了。"
+        },
+        {
+          "eng": "Mount Fuji is currently classified as an active volcano, not an extinct one.",
+          "ch": "富士山目前被歸類為活火山，而非死火山。"
+        }
+      ]
+    },
+    {
+      "eng": "extraordinary",
+      "kk": "/ɪkˈstrɔːrdnɛri/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "非凡的",
+          "特別的",
+          "驚人的"
+        ],
+        [
+          "臨時代理的",
+          "特命的"
+        ]
+      ],
+      "analysis": "由拉丁語 extraordinarius（extra「在……之外」+ ordinarius「通常的、常規的」）進入英語。字面意思是「超出常規的」，現代多用來形容能力、表現或情況極為傑出、非比尋常。",
+      "definition": "1. very unusual or remarkable; exceptional; 2. employed for a special or extra duty.",
+      "example": [
+        {
+          "eng": "She displayed extraordinary courage during the crisis.",
+          "ch": "她在危機中展現了非凡的勇氣。"
+        },
+        {
+          "eng": "The diplomat was appointed as ambassador extraordinary.",
+          "ch": "該外交官被任命為特命大使。"
+        }
+      ]
+    },
+    {
+      "eng": "fabric",
+      "kk": "/ˈfæbrɪk/",
+      "tense": "n.",
+      "ch": [
+        [
+          "織物",
+          "布料",
+          "紡織品"
+        ],
+        [
+          "結構",
+          "構造",
+          "組織體系"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 fabrica（工廠、工作坊、建造，源自 faber「工匠」）。歷史上本義指工匠建造的結構或製品，後引申指紡織交織而成的布料，以及抽象的社會結構或建築整體架構。",
+      "definition": "1. cloth or textile produced by weaving or knitting threads; 2. the basic structure or framework of an organization, building, or society.",
+      "example": [
+        {
+          "eng": "The dress was made from a soft, lightweight silk fabric.",
+          "ch": "這件洋裝是由柔軟輕盈的真絲布料製成的。"
+        },
+        {
+          "eng": "Crime and poverty threaten the social fabric of our community.",
+          "ch": "犯罪和貧困威脅著我們社區的社會結構。"
+        }
+      ]
+    },
+    {
+      "eng": "fabulous",
+      "kk": "/ˈfæbjələs/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "極好的",
+          "極佳的"
+        ],
+        [
+          "傳說中的",
+          "神話般的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 fabulosus（源自 fabula「寓言、傳說」）。原意指只存在於神話傳說中、不切實際的事物，近代口語中大幅轉義，用來形容極其美好、棒極了的事物。",
+      "definition": "1. extraordinary, especially in a pleasing way; wonderful and excellent; 2. existing only in fable; mythical.",
+      "example": [
+        {
+          "eng": "We had a fabulous time celebrating her birthday in Paris.",
+          "ch": "我們在巴黎慶祝她的生日，度過了一段極佳的時光。"
+        },
+        {
+          "eng": "The unicorn is a fabulous creature often found in medieval lore.",
+          "ch": "獨角獸是常見於中世紀傳說中的神話生物。"
+        }
+      ]
+    },
+    {
+      "eng": "facilitate",
+      "kk": "/fəˈsɪlɪteɪt/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "促進",
+          "使便利",
+          "推動"
+        ]
+      ],
+      "analysis": "此字源自法語 faciliter 或直接源自中世紀拉丁語 facilitare（源自 facilis「容易的」）。現代指透過提供協助、工具或改善流程，使某項工作、過程或會議更容易進行。",
+      "definition": "1. to make an action or process easy or easier.",
+      "example": [
+        {
+          "eng": "Modern software tools help facilitate communication among remote teams.",
+          "ch": "現代軟體工具助於促進遠距團隊之間的溝通。"
+        }
+      ]
+    },
+    {
+      "eng": "faculty",
+      "kk": "/ˈfæklti/",
+      "tense": "n.",
+      "ch": [
+        [
+          "全體教職員",
+          "系",
+          "學院"
+        ],
+        [
+          "機能",
+          "才能",
+          "官能"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 facultas（能力、手段，源自 facilis「容易的」）。歷史上本義指做某事的才能或身體心智機能，在中世紀大學中演變成指掌握某種學科能力的「教師學群」，現代則指大學的教職員或整個學院。",
+      "definition": "1. all the teaching and administrative staff of a university or college; 2. an inherent mental or physical power.",
+      "example": [
+        {
+          "eng": "The faculty voted in favor of the new curriculum policy.",
+          "ch": "全體教職員投票贊成新的課程政策。"
+        },
+        {
+          "eng": "Old age can gradually diminish cognitive and physical faculties.",
+          "ch": "年老會逐漸減退認知與身體機能。"
+        }
+      ]
+    },
+    {
+      "eng": "fascinate",
+      "kk": "/ˈfæsɪneɪt/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "深深吸引",
+          "迷住",
+          "使著迷"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 fascinare（施魔法、魅惑），其根源可能與希臘語 baskainein（用邪眼詛咒）有關。在現代英語中，完全轉化為正面意義，指以其魅力或奇妙之處深深吸引並迷住某人。",
+      "definition": "1. to draw the intense interest and attention of someone; to charm or captivate greatly.",
+      "example": [
+        {
+          "eng": "The young boy was completely fascinated by the dinosaur exhibition.",
+          "ch": "這個小男孩被恐龍展覽深深吸引住了。"
+        }
+      ]
+    },
+    {
+      "eng": "fatigue",
+      "kk": "/fəˈtiːɡ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "疲勞",
+          "疲憊",
+          "勞累"
+        ]
+      ],
+      "analysis": "此字源自法語 fatigue，最終源自拉丁語 fatigare（使疲倦）。在現代英語中指長期的體力或腦力勞動導致的極度疲勞，或金屬材料因反覆受力產生的疲勞破損。",
+      "definition": "1. extreme tiredness resulting from mental or physical exertion or illness.",
+      "example": [
+        {
+          "eng": "Driver fatigue is a major cause of highway accidents.",
+          "ch": "駕駛疲勞是高速公路事故的主要原因。"
+        }
+      ]
+    },
+    {
+      "eng": "fatigue",
+      "kk": "/fəˈtiːɡ/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使疲勞",
+          "使疲憊"
+        ]
+      ],
+      "analysis": "作為及物動詞時，指使人感到極度疲倦，或在技術用語中指使金屬材料產生疲勞。",
+      "definition": "1. to cause someone to feel exhausted; to tire greatly.",
+      "example": [
+        {
+          "eng": "The long, strenuous hike fatigued the entire climbing party.",
+          "ch": "漫長而艱辛的徒步旅行使整個登山隊疲憊不堪。"
+        }
+      ]
+    },
+    {
+      "eng": "federal",
+      "kk": "/ˈfɛdərəl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "聯邦的",
+          "聯邦政府的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 foedus（同盟、條約）衍生出 foederalis，再經法語進入英語。現代主要指由多個州或省組成的聯邦制國家的中央政府層級或相關制度。",
+      "definition": "1. having and relating to a system of government in which several states form a unity but remain independent in internal affairs.",
+      "example": [
+        {
+          "eng": "The FBI is a federal law enforcement agency in the United States.",
+          "ch": "聯邦調查局是美國的聯邦執法機構。"
+        }
+      ]
+    },
+    {
+      "eng": "fiber",
+      "kk": "/ˈfaɪbər/",
+      "tense": "n.",
+      "ch": [
+        [
+          "纖維",
+          "纖維質"
+        ],
+        [
+          "意志力",
+          "基本本質"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 fibra（絲、線、纖維）。本義指植物、動物組織或人工合成的細絲狀物質，在營養學中指膳食纖維，亦可引申指人的性格本質或意志力。",
+      "definition": "1. a thread or a filament from which a vegetable tissue, mineral substance, or textile is formed; dietary fiber; 2. moral strength or character.",
+      "example": [
+        {
+          "eng": "Whole grains are an excellent source of dietary fiber.",
+          "ch": "全穀物是絕佳的膳食纖維來源。"
+        },
+        {
+          "eng": "The scandal tested the moral fiber of the organization.",
+          "ch": "這場醜聞考驗了該組織的道德意志力。"
+        }
+      ]
+    },
+    {
+      "eng": "filter",
+      "kk": "/ˈfɪltər/",
+      "tense": "n.",
+      "ch": [
+        [
+          "過濾器",
+          "濾網"
+        ],
+        [
+          "濾鏡（攝影或數位軟體）"
+        ]
+      ],
+      "analysis": "此字源自中世紀拉丁語 filtrum（氈呢、用作過濾液體的材料）。現代指用於阻攔雜質、分離液體與氣體的物理器具，或指攝影鏡頭前的濾光片以及數位影像處理中的特效濾鏡。",
+      "definition": "1. a porous device for removing impurities from liquid or gas; 2. a digital or optical device or software setting that alters an image or sound.",
+      "example": [
+        {
+          "eng": "Remember to replace the air filter in your car regularly.",
+          "ch": "記得定期更換汽車裡的空氣濾網。"
+        },
+        {
+          "eng": "She applied a vintage filter to all her Instagram photos.",
+          "ch": "她在所有的Instagram照片上都套用了復古濾鏡。"
+        }
+      ]
+    },
+    {
+      "eng": "filter",
+      "kk": "/ˈfɪltər/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "過濾",
+          "濾除"
+        ],
+        [
+          "篩選",
+          "過濾（資訊等）"
+        ]
+      ],
+      "analysis": "作為及物動詞時，指透過濾網去除液體或氣體中的雜質，或引申指對大量資訊、光線進行篩選和過濾。",
+      "definition": "1. to pass a liquid or gas through a device to remove unwanted material; 2. to remove or select items from a large quantity using specific criteria.",
+      "example": [
+        {
+          "eng": "The kidney filters waste products from the blood.",
+          "ch": "腎臟過濾血液中的廢物。"
+        },
+        {
+          "eng": "Email providers automatically filter out spam and phishing messages.",
+          "ch": "電子郵件服務商會自動篩選並過濾垃圾郵件和釣魚訊息。"
+        }
+      ]
+    },
+    {
+      "eng": "fiscal",
+      "kk": "/ˈfɪskl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "財政的",
+          "國庫的",
+          "會計年度的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 fiscus（國庫、錢籃、公庫），經法語進入英語。在現代經濟與金融中，專門用來形容國家財政、稅收、政府預算或企業的會計年度。",
+      "definition": "1. relating to government revenue, especially taxes, or to public money and financial matters.",
+      "example": [
+        {
+          "eng": "The government announced new tax cuts in the federal fiscal budget.",
+          "ch": "政府在聯邦財政預算中宣布了新的減稅措施。"
+        }
+      ]
+    },
+    {
+      "eng": "fleet",
+      "kk": "/fliːt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "艦隊",
+          "機隊",
+          "車隊"
+        ]
+      ],
+      "analysis": "此字源自古英語 flēot（河流、灣，源自 flēotan「漂浮、游泳」）。歷史上本義指水上漂浮的水域或船隊，現代引申擴大為海軍艦隊，或指公司統一管理的航空機隊、車輛隊伍。",
+      "definition": "1. a group of ships sailing together, or a country's navy; a group of vehicles operated by a single company.",
+      "example": [
+        {
+          "eng": "The airline company operates a fleet of over a hundred modern aircraft.",
+          "ch": "該航空公司營運著一支擁有100多架現代客機的機隊。"
+        }
+      ]
+    },
+    {
+      "eng": "flexibility",
+      "kk": "/ˌflɛksəˈbɪlɪti/",
+      "tense": "n.",
+      "ch": [
+        [
+          "靈活性",
+          "彈性",
+          "柔韌性"
+        ]
+      ],
+      "analysis": "由形容詞 flexible（源自拉丁語 flectere「彎曲」）衍生出名詞字尾 -ity 而成。指物體容易彎曲的物理特性，或引申指計畫、時間安排、策略上的靈活性與應變能力。",
+      "definition": "1. the quality of bending easily without breaking; the ability to adapt to new, changing, or different circumstances.",
+      "example": [
+        {
+          "eng": "Yoga is a great way to improve your overall flexibility and balance.",
+          "ch": "瑜伽是改善整體身體柔韌與平衡的好方法。"
+        },
+        {
+          "eng": "Working from home offers employees greater schedule flexibility.",
+          "ch": "居家辦公為員工提供了更大的時間安排彈性。"
+        }
+      ]
+    },
+    {
+      "eng": "flip",
+      "kk": "/flɪp/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "快速翻轉",
+          "輕拋",
+          "撥動"
+        ]
+      ],
+      "analysis": "此字為擬聲詞或具強烈動感的英語本土演變詞。作及物動詞時，指用手指或手腕快速將物體翻面、向上輕拋，或撥動開關。",
+      "definition": "1. to turn over or cause to turn over quickly with a sudden sharp movement; to toss something lightly.",
+      "example": [
+        {
+          "eng": "She flipped the pancake over when bubbles started to form on the surface.",
+          "ch": "當煎餅表面開始冒出氣泡時，她把餅給翻了過來。"
+        }
+      ]
+    },
+    {
+      "eng": "flip",
+      "kk": "/flɪp/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "翻轉",
+          "翻筋斗"
+        ]
+      ],
+      "analysis": "作為不及物動詞時，指物體自身迅速翻轉或人翻筋斗。",
+      "definition": "1. to turn over quickly or make a sudden rapid movement.",
+      "example": [
+        {
+          "eng": "The coin landed on heads after it flipped through the air.",
+          "ch": "硬幣在空中翻轉後，正面朝上落地。"
+        }
+      ]
+    },
+    {
+      "eng": "fluency",
+      "kk": "/ˈfluːənsi/",
+      "tense": "n.",
+      "ch": [
+        [
+          "流利",
+          "流暢",
+          "口語流利度"
+        ]
+      ],
+      "analysis": "由形容詞 fluent（源自拉丁語 fluere「流動」）衍生出名詞字尾 -ency 而成。字面意思是「如水流般的狀態」，現代主要用來形容說寫外語時流利順暢的能力，或指表達的流暢度。",
+      "definition": "1. the ability to express oneself easily and articulately in a language.",
+      "example": [
+        {
+          "eng": "Fluency in English is a key requirement for the international marketing position.",
+          "ch": "英語流利是該國際行銷職位的關鍵要求。"
+        }
+      ]
+    },
+    {
+      "eng": "fluid",
+      "kk": "/ˈfluːɪd/",
+      "tense": "n.",
+      "ch": [
+        [
+          "流體",
+          "液體"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 fluidus（流動的，源自 fluere「流動」）。在科學與日常用語中，指能流動並具有固定體積但不固定形狀的物質（包含液體與氣體），尤指液體。",
+      "definition": "1. a substance that has no fixed shape and yields easily to external pressure; a liquid or gas.",
+      "example": [
+        {
+          "eng": "Doctors advise drinking plenty of fluids when you have a fever.",
+          "ch": "醫生建議發燒時要多喝流質液體。"
+        }
+      ]
+    },
+    {
+      "eng": "fluid",
+      "kk": "/ˈfluːɪd/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "流動的",
+          "液態的"
+        ],
+        [
+          "不固定的",
+          "易變的",
+          "流暢的"
+        ]
+      ],
+      "analysis": "作為形容詞時，指物質呈液態或流動狀態，亦可引申形容局勢、計畫或設計具有高度彈性、隨時可變的特質。",
+      "definition": "1. able to flow easily; liquid; 2. subject to change; not fixed or stable.",
+      "example": [
+        {
+          "eng": "The schedule for tomorrow's event remains fluid and is subject to change.",
+          "ch": "明天活動的行程仍然不固定，隨時可能更改。"
+        }
+      ]
+    },
+    {
+      "eng": "forge",
+      "kk": "/fɔːrdʒ/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "鍛造",
+          "打鐵"
+        ],
+        [
+          "偽造",
+          "冒充"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 fabrica（工坊、打造），經古法語 forge 演變而來。本義指鐵匠在爐火中加熱並錘打金屬來「鍛造」器械，後引申指透過偽造手段偽造簽名、文件，或抽象地「鍛造」出穩固的關係。",
+      "definition": "1. to make or shape a metal object by heating and hammering it; 2. to produce a fraudulent copy of a document, signature, or banknote.",
+      "example": [
+        {
+          "eng": "The blacksmith skillfully forged a sword from heated iron.",
+          "ch": "鐵匠精湛地用加熱的鐵鍛造了一把寶劍。"
+        },
+        {
+          "eng": "He was arrested for attempting to forge his boss's signature on the check.",
+          "ch": "他因企圖在支票上偽造老闆的簽名而被捕。"
+        }
+      ]
+    },
+    {
+      "eng": "format",
+      "kk": "/ˈfɔːrmæt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "格式",
+          "版式",
+          "編排方式"
+        ]
+      ],
+      "analysis": "此字源自義大利語 formato（書籍開本，源自 forma「形狀」）。在現代印刷出版、廣播節目設計以及電腦科學中，指檔案、文件或資訊的結構、外觀與排列格式。",
+      "definition": "1. the way in which something is arranged or set out, such as the layout of a book, a television show, or a computer file.",
+      "example": [
+        {
+          "eng": "Please submit your research paper in PDF format.",
+          "ch": "請以PDF格式提交您的研究論文。"
+        }
+      ]
+    },
+    {
+      "eng": "format",
+      "kk": "/ˈfɔːrmæt/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "格式化",
+          "編排版面"
+        ]
+      ],
+      "analysis": "作為及物動詞時，指為電腦磁碟機或檔案進行格式化清除重整，或指對文字資料進行版面排版編排。",
+      "definition": "1. to arrange or prepare something in a specific format; to prepare a computer data storage medium for use.",
+      "example": [
+        {
+          "eng": "Make sure to back up your important files before you format the hard drive.",
+          "ch": "在格式化硬碟之前，務必備份您的重要檔案。"
+        }
+      ]
+    },
+    {
+      "eng": "forum",
+      "kk": "/ˈfɔːrəm/",
+      "tense": "n.",
+      "ch": [
+        [
+          "論壇",
+          "討論會",
+          "公開討論場所"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 forum（古羅馬城市的市集廣場、公共集會場所）。現代引申為進行公開討論、意見交流的會議、研討會或網路討論板。",
+      "definition": "1. a meeting or medium where ideas and views on a particular issue can be exchanged; an online discussion board.",
+      "example": [
+        {
+          "eng": "The international summit serves as a forum for leaders to discuss climate change.",
+          "ch": "這場國際峰會為領袖們提供了一個討論氣候變遷的論壇。"
+        }
+      ]
+    },
+    {
+      "eng": "foster",
+      "kk": "/ˈfɑːstər/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "培養",
+          "促進",
+          "助長"
+        ],
+        [
+          "代養",
+          "收養（非親生子女）"
+        ]
+      ],
+      "analysis": "此字源自古英語 fōstrian（哺育、養育，源自 fōstor「食物、養育」）。歷史上本義指餵養、照顧幼兒，引申出在家庭中短期撫養別人家孩子的「寄養」義，以及抽象地「培養、促進」某種觀念或關係的發展。",
+      "definition": "1. to encourage or promote the development of something, typically ideas or feelings; 2. to nurture and raise a child who is not one's own by blood for a period of time.",
+      "example": [
+        {
+          "eng": "Teachers should foster a love of reading in their students.",
+          "ch": "教師應該在學生中培養對閱讀的熱愛。"
+        },
+        {
+          "eng": "They have fostered over a dozen children in need of a temporary home.",
+          "ch": "他們已經寄養了十幾名需要臨時住所的兒童。"
+        }
+      ]
+    },
+    {
+      "eng": "foul",
+      "kk": "/faʊl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "惡臭的",
+          "污穢的",
+          "骯髒的"
+        ],
+        [
+          "惡劣的",
+          "粗口爛污的"
+        ]
+      ],
+      "analysis": "此字源自古英語 fūl（腐敗的、有臭味的，源自日耳曼語族）。本義指氣味腐敗難聞或外表骯髒，後引申指天氣惡劣、言語粗俗惡毒，或體育運動中的犯規行為。",
+      "definition": "1. offensive to the senses, especially through having a disgusting smell or taste or being dirty; 2. wicked or abusive, or describing bad weather.",
+      "example": [
+        {
+          "eng": "A foul odor was coming from the garbage left in the sun.",
+          "ch": "垃圾在太陽底下曝曬，散發出惡臭。"
+        },
+        {
+          "eng": "The football match was suspended due to foul weather.",
+          "ch": "足球比賽因惡劣天氣而暫停。"
+        }
+      ]
+    }
+  ]
+}

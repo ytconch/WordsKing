@@ -1,0 +1,1514 @@
+{
+  "level": 6,
+  "chunkIndex": 7,
+  "inputs": [
+    "dwelling",
+    "eccentric",
+    "eclipse",
+    "edible",
+    "editorial",
+    "electrician",
+    "elevate",
+    "emigrant",
+    "emigrate",
+    "emigration",
+    "encyclopedia",
+    "endeavor",
+    "endowment",
+    "endurance",
+    "enhance",
+    "enhancement",
+    "enlighten",
+    "enlightenment",
+    "enrich",
+    "enrichment",
+    "enroll",
+    "enrollment",
+    "equalize",
+    "equate",
+    "escort",
+    "esteem",
+    "eternity",
+    "evacuate",
+    "evergreen",
+    "evoke",
+    "examinee",
+    "examiner",
+    "excel",
+    "excerpt",
+    "excess",
+    "exclusion",
+    "exempt",
+    "exert",
+    "expenditure",
+    "expiration",
+    "expire",
+    "extract",
+    "extracurricular",
+    "eyelash",
+    "lash",
+    "eyelid",
+    "eyesight",
+    "fable",
+    "faction",
+    "Fahrenheit"
+  ],
+  "rows": [
+    {
+      "eng": "dwelling",
+      "kk": "ˈdwɛlɪŋ",
+      "tense": "n.",
+      "ch": [
+        [
+          "住宅",
+          "住所",
+          "寓所"
+        ],
+        [
+          "居住",
+          "居留"
+        ]
+      ],
+      "analysis": "此字為動詞 dwell 的現在分詞轉化而來的名詞，字尾 -ing 形成動作結果或場所名詞。源自古英語 dwellan（意為耽誤、逗留、居住），經日耳曼語族演變而來。語義由原初的「逗留、延遲」演變為「長時間停留的地方」，即現代的「住宅、住所」與「居住狀態」。",
+      "definition": "1. A house, apartment, or other place of residence; 2. The action or state of living in a specified place.",
+      "example": [
+        {
+          "eng": "They are looking for a modern dwelling in the suburbs.",
+          "ch": "他們正在郊區尋找一棟現代化的住宅。"
+        },
+        {
+          "eng": "His dwelling in the wilderness lasted for several years.",
+          "ch": "他在荒野中的居留持續了好幾年。"
+        }
+      ]
+    },
+    {
+      "eng": "eccentric",
+      "kk": "ɪkˈsɛntrɪk",
+      "tense": "n.",
+      "ch": [
+        [
+          "怪人",
+          "行為古怪的人"
+        ]
+      ],
+      "analysis": "由形容詞 eccentric 轉化而來的名詞，指具有古怪行為或性格的人。源自希臘語 ekkentros（ek- 外 + kentron 中心），經由中世紀拉丁語與法語進入英語。語義由「離心的軌道」延伸至「不合常規、性格怪異的人」。",
+      "definition": "1. A person of unconventional and slightly strange views or behavior.",
+      "example": [
+        {
+          "eng": "He is a lovable eccentric who collects vintage clocks.",
+          "ch": "他是一個收集復古時鐘的可愛怪人。"
+        }
+      ]
+    },
+    {
+      "eng": "eccentric",
+      "kk": "ɪkˈsɛntrɪk",
+      "tense": "adj.",
+      "ch": [
+        [
+          "古怪的",
+          "反常的",
+          "怪異的"
+        ],
+        [
+          "離心的",
+          "不同圓心的"
+        ]
+      ],
+      "analysis": "此字由中世紀拉丁語 eccentricus 經由法語進入英語，源自希臘語 ekkentros（ek- 表 out 出 + kentron 表 center 中心）。字面義為「不在中心、離心的」。天文學上指軌道不圓心，引申出行為偏離常軌、古怪的現代義。分析上屬於複合與歷史借詞，無須拆為複雜的現代英語構詞。",
+      "definition": "1. Unconventional and slightly strange; 2. Not placed centrally or not having its axis or other part placed centrally.",
+      "example": [
+        {
+          "eng": "The old professor is famous for his eccentric habits.",
+          "ch": "這位老教授以他古怪的習慣而聞名。"
+        },
+        {
+          "eng": "The planet moves in an eccentric orbit around the sun.",
+          "ch": "這顆行星以離心軌道繞著太陽運行。"
+        }
+      ]
+    },
+    {
+      "eng": "eclipse",
+      "kk": "ɪˈklɪps",
+      "tense": "n.",
+      "ch": [
+        [
+          "蝕",
+          "日蝕",
+          "月蝕"
+        ],
+        [
+          "黯然失色",
+          "沒落",
+          "光芒掩蓋"
+        ]
+      ],
+      "analysis": "源自古希臘語 ekleipsis（ek- 出 + leipein 離開、遺漏），意指「光芒被遺棄或消失」，經拉丁語 eclipsis 與中世紀法語進入英語。作為名詞指天體運行造成的遮蔽現象（日蝕或月蝕），引申指聲譽、能力或地位的黯然失色與沒落。",
+      "definition": "1. An obscuring of the light from one celestial body by the passage of another between it and the observer or between it and its source; 2. A loss of significance, power, or prominence in relation to another person or thing.",
+      "example": [
+        {
+          "eng": "Many people gathered to watch the total solar eclipse.",
+          "ch": "許多人聚集在一起觀看完全日蝕。"
+        },
+        {
+          "eng": "The young actor's sudden rise led to the eclipse of his rivals.",
+          "ch": "這位年輕演員的突然崛起導致了他競爭對手的黯然失色。"
+        }
+      ]
+    },
+    {
+      "eng": "eclipse",
+      "kk": "ɪˈklɪps",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使黯然失色",
+          "超越",
+          "掩蓋"
+        ],
+        [
+          "發生日蝕或月蝕",
+          "遮蔽"
+        ]
+      ],
+      "analysis": "源自古希臘語 ekleipsis 經拉丁語演變而來的動詞形式。本義為天體遮蔽光芒，引申為在成就、重要性或光芒上超越或蓋過他人，屬於歷史借詞與隱喻延伸。",
+      "definition": "1. Deprive (someone or something) of significance, power, or prominence by being a better example; 2. (Of a celestial body) obscure the light from or to (another celestial body).",
+      "example": [
+        {
+          "eng": "Her latest performance completely eclipsed all her previous works.",
+          "ch": "她最近的表演完全超越了她之前的所有作品。"
+        },
+        {
+          "eng": "The moon will eclipse the sun during the afternoon.",
+          "ch": "月亮將在下午遮蔽太陽形成日蝕。"
+        }
+      ]
+    },
+    {
+      "eng": "edible",
+      "kk": "ˈɛd.ə.bəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "可食用的",
+          "能吃的"
+        ]
+      ],
+      "analysis": "現代透明構詞，由拉丁語動詞 edere（吃）加上形容詞字尾 -bilis（能夠...的），經由拉丁語 ĕdibilis 進入英語。字尾 -ible 表示能力或性質。語義維持核心的「適合或可以被安全食用的」。",
+      "definition": "1. Fit or suitable to be eaten; not poisonous.",
+      "example": [
+        {
+          "eng": "Not all mushrooms found in the forest are edible.",
+          "ch": "在森林裡找到的蘑菇並非全都是可食用的。"
+        }
+      ]
+    },
+    {
+      "eng": "editorial",
+      "kk": "ˌɛd.əˈtɔːr.i.əl",
+      "tense": "n.",
+      "ch": [
+        [
+          "社論",
+          "評論員文章"
+        ]
+      ],
+      "analysis": "由形容詞 editorial 轉化而來的名詞，省略了原本的 article（文章），專指報紙或雜誌中由主編或編輯部發表的代表官方立場之評論文章。",
+      "definition": "1. A newspaper article written by or on behalf of an editor that gives an opinion on a topical issue.",
+      "example": [
+        {
+          "eng": "The morning paper published a hard-hitting editorial on climate change.",
+          "ch": "早報發表了一篇關於氣候變遷的有力社論。"
+        }
+      ]
+    },
+    {
+      "eng": "editorial",
+      "kk": "ˌɛd.əˈtɔːr.i.əl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "社論的",
+          "編輯的",
+          "主編的"
+        ]
+      ],
+      "analysis": "由名詞 editor（編輯）加上形容詞字尾 -ial 構成。editor 源自拉丁語 editor（出資者、出版者），由 edere（展出、出版）衍生而來。此形容詞專指與報刊編輯工作或社論觀點相關的事物。",
+      "definition": "1. Relating to the commissioning or preparing of material for publication; relating to an editor or editorial.",
+      "example": [
+        {
+          "eng": "She was promoted to an editorial position at the magazine.",
+          "ch": "她被晉升為該雜誌的編輯職位。"
+        }
+      ]
+    },
+    {
+      "eng": "electrician",
+      "kk": "ɪˌlɛkˈtrɪʃ.ən",
+      "tense": "n.",
+      "ch": [
+        [
+          "電工",
+          "電機技師"
+        ]
+      ],
+      "analysis": "由 electric（電的）加上表示職業或人的名詞字尾 -ician（源自希臘語 -ikos 結合 -ian）。electric 源於新拉丁語 electricus（琥珀摩擦生電的特性，源自希臘語 ēlektron 琥珀）。字尾 -ician 表示從事該專業技術的人員。",
+      "definition": "1. A person who installs, maintains, and repairs electrical equipment.",
+      "example": [
+        {
+          "eng": "We called an electrician to fix the faulty wiring in the kitchen.",
+          "ch": "我們請了一位電工來修理廚房故障的電線。"
+        }
+      ]
+    },
+    {
+      "eng": "elevate",
+      "kk": "ˈɛl.ə.veɪt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "提升",
+          "舉起",
+          "抬高",
+          "使晉升"
+        ]
+      ],
+      "analysis": "源自拉丁語 ēlēvātus（ē- 表 out, up 向上 + levare 表 to raise 舉起，源自 levis 輕的），經由中世紀拉丁語進入英語。字尾 -ate 為動詞字尾。語義由實體的「把物體抬高」抽象延伸為「提升地位、情緒或水準」。",
+      "definition": "1. Lift or raise to a higher position; 2. Raise to a higher status or moral or intellectual level.",
+      "example": [
+        {
+          "eng": "The new machine can elevate heavy boxes to the second floor.",
+          "ch": "這台新機器可以把重箱子抬高到二樓。"
+        },
+        {
+          "eng": "Reading good books can elevate the human mind.",
+          "ch": "閱讀好書能夠提升人類的心靈。"
+        }
+      ]
+    },
+    {
+      "eng": "emigrant",
+      "kk": "ˈɛm.ə.ɡrənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "移民",
+          "移居國外者"
+        ]
+      ],
+      "analysis": "由動詞 emigrate 的現在分詞／名詞化形式構成，源自拉丁語 ēmigrāre（ē- 表 out 離開 + migrāre 表 to migrate 遷移）。字尾 -ant 表示動作的主體。專指「離開本國、移居外國的人」（從本國出發的角度看）。",
+      "definition": "1. A person who leaves their own country in order to settle permanently in another.",
+      "example": [
+        {
+          "eng": "The museum tells the stories of early emigrants from Ireland.",
+          "ch": "這座博物館訴說著早期來自愛爾蘭的移民的故事。"
+        }
+      ]
+    },
+    {
+      "eng": "emigrate",
+      "kk": "ˈɛm.ə.ɡreɪt",
+      "tense": "vi.",
+      "ch": [
+        [
+          "移居國外",
+          "移民"
+        ]
+      ],
+      "analysis": "源自拉丁語 ēmigrāre（ē- / ex- 表 out 離開 + migrāre 表 to move, migrate 遷移）。字尾 -ate 為動詞字尾。指主動離開原居住國到另一個國家定居，與 immigrate（移入）方向相對。",
+      "definition": "1. Leave one's own country in order to settle permanently in another.",
+      "example": [
+        {
+          "eng": "Her family decided to emigrate to Canada for a better life.",
+          "ch": "她的家人決定為了更好的生活而移民加拿大。"
+        }
+      ]
+    },
+    {
+      "eng": "emigration",
+      "kk": "ˌɛm.əˈɡreɪ.ʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "移居國外",
+          "移民潮",
+          "出境移民"
+        ]
+      ],
+      "analysis": "由動詞 emigrate 加上名詞字尾 -ation 構成（源自拉丁語 -atio）。指離開祖國前往他國定居的行為或整體現象。",
+      "definition": "1. The act of leaving one's own country to settle permanently in another; moving abroad.",
+      "example": [
+        {
+          "eng": "Economic hardship led to a massive wave of emigration.",
+          "ch": "經濟困難導致了大規模的移居國外浪潮。"
+        }
+      ]
+    },
+    {
+      "eng": "encyclopedia",
+      "kk": "ɪnˌsaɪ.kləˈpiː.di.ə",
+      "tense": "n.",
+      "ch": [
+        [
+          "百科全書"
+        ]
+      ],
+      "analysis": "源自新拉丁語 encyclopaedia，源於希臘語 enkuklios paideia（en- 在...中 + kuklios 圓形的、環繞的 + paideia 教育、學問），字面原義為「環繞的完整教育圈、全方位的知識網」。後來轉指收錄各門學問的工具書「百科全書」。",
+      "definition": "1. A book or set of books giving information on many subjects or on many aspects of one subject and typically arranged alphabetically.",
+      "example": [
+        {
+          "eng": "When I was a child, we had a large set of encyclopedias on the shelf.",
+          "ch": "當我還是個孩子時，書架上有一套大型的百科全書。"
+        }
+      ]
+    },
+    {
+      "eng": "endeavor",
+      "kk": "ɪnˈdɛv.ər",
+      "tense": "n.",
+      "ch": [
+        [
+          "努力",
+          "盡力",
+          "嘗試",
+          "事業"
+        ]
+      ],
+      "analysis": "源自中古英語 endenveren，由片語 en devoir（法語 en 原形 + devoir 職責、義務，源自拉丁語 debere 應盡義務）合寫而成。字面原義為「盡到自己的本分與責任」。現代作為名詞指竭盡全力的嘗試或一項長期的事業。",
+      "definition": "1. An earnest and industrious attempt to do something; an enterprise.",
+      "example": [
+        {
+          "eng": "Scientific endeavor requires patience and rigorous testing.",
+          "ch": "科學努力需要耐心與嚴格的測試。"
+        }
+      ]
+    },
+    {
+      "eng": "endeavor",
+      "kk": "ɪnˈdɛv.ər",
+      "tense": "vi.",
+      "ch": [
+        [
+          "努力",
+          "盡力",
+          "企圖"
+        ]
+      ],
+      "analysis": "源自中古英語 endenveren（源自法語片語 en devoir 盡責）。作為動詞指竭盡全力去完成某事或認真嘗試。",
+      "definition": "1. Try hard to do or achieve something.",
+      "example": [
+        {
+          "eng": "We always endeavor to provide the best service to our customers.",
+          "ch": "我們總是努力為客戶提供最好的服務。"
+        }
+      ]
+    },
+    {
+      "eng": "endowment",
+      "kk": "ɪnˈdaʊ.mənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "捐款",
+          "基金",
+          "資助"
+        ],
+        [
+          "天賦",
+          "才能"
+        ]
+      ],
+      "analysis": "由動詞 endow（賦予、資助）加上名詞字尾 -ment 構成。endow 源自中古英語 endouen，源自古法語 endouer（en- 進入 + douer 賦予，源自拉丁語 dotare，來自 dos 嫁妝）。語義由實體的「捐贈資金、設立基金」延伸為「天生被賦予的才華或特質」。",
+      "definition": "1. An income or form of property given or bequeathed to someone; a permanent fund bestowed upon an institution; 2. A quality or ability possessed or inherited by someone.",
+      "example": [
+        {
+          "eng": "The university received a generous financial endowment from an anonymous donor.",
+          "ch": "這所大學收到了一筆來自匿名捐贈者的慷慨財務捐款。"
+        },
+        {
+          "eng": "She has a natural endowment for music and languages.",
+          "ch": "她對音樂和語言有著天生的天賦。"
+        }
+      ]
+    },
+    {
+      "eng": "endurance",
+      "kk": "ɪnˈdʊr.əns",
+      "tense": "n.",
+      "ch": [
+        [
+          "忍耐力",
+          "持久力",
+          "耐力"
+        ]
+      ],
+      "analysis": "由動詞 endure（忍受、持續）加上名詞字尾 -ance 構成。endure 源自拉丁語 indūrāre（in- 強調 + dūrus 堅硬的、結實的），經古法語 endurer 進入英語。語義由「維持堅硬、持續抵抗」演變為精神或體能上的「耐力、忍耐力」。",
+      "definition": "1. The capacity of something to last or to withstand wear and tear; the ability to endure an unpleasant or difficult process or situation without giving way.",
+      "example": [
+        {
+          "eng": "Running a marathon requires incredible physical and mental endurance.",
+          "ch": "跑馬拉松需要驚人的體力與心理耐力。"
+        }
+      ]
+    },
+    {
+      "eng": "enhance",
+      "kk": "ɪnˈhæns",
+      "tense": "vt.",
+      "ch": [
+        [
+          "提高",
+          "增加",
+          "改善",
+          "增強"
+        ]
+      ],
+      "analysis": "源自古法語 enoansier（提升、提高），源自通俗拉丁語 *inaltiare（in- 使... + altus 高的），經由中古英語 enhans. 進入英語。語義核心為「把某物抬高或增加其價值、品質或吸引力」。",
+      "definition": "1. Intensify, increase, or further improve the quality, value, or extent of.",
+      "example": [
+        {
+          "eng": "Adding herbs to the soup will greatly enhance its flavor.",
+          "ch": "在湯裡加點香草會大大提升其風味。"
+        }
+      ]
+    },
+    {
+      "eng": "enhancement",
+      "kk": "ɪnˈhæns.mənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "提高",
+          "增加",
+          "增強",
+          "改善"
+        ]
+      ],
+      "analysis": "由動詞 enhance 加上名詞字尾 -ment 構成，指提高、增強或改善的動作或結果。",
+      "definition": "1. An increase or improvement in quality, value, or extent.",
+      "example": [
+        {
+          "eng": "The software update includes several performance enhancements.",
+          "ch": "這個軟體更新包含數項效能增強。"
+        }
+      ]
+    },
+    {
+      "eng": "enlighten",
+      "kk": "ɪnˈlaɪ.tən",
+      "tense": "vt.",
+      "ch": [
+        [
+          "啟發",
+          "開導",
+          "闡明",
+          "使開悟"
+        ]
+      ],
+      "analysis": "現代透明構詞，由字首 en-（使成為、使處於...狀態）加上形容詞 light（明亮的、光明的）再加動詞字尾 -en 構成。字面原義為「使充滿光亮」，引申為消除無知、提供知識或啟發心靈。",
+      "definition": "1. Give (someone) greater knowledge and understanding about a subject or situation.",
+      "example": [
+        {
+          "eng": "Could you enlighten me on the details of this new policy?",
+          "ch": "你能向我闡明這項新政策的細節嗎？"
+        }
+      ]
+    },
+    {
+      "eng": "enlightenment",
+      "kk": "ɪnˈlaɪ.tən.mənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "啟發",
+          "開悟"
+        ],
+        [
+          "啟蒙運動"
+        ]
+      ],
+      "analysis": "由動詞 enlighten 加上名詞字尾 -ment 構成。指心智獲得啟發、理解的狀態，常大寫用以指歷史上的「啟蒙運動」（The Enlightenment）。",
+      "definition": "1. The action of enlightening or the state of being enlightened; 2. (The Enlightenment) A European intellectual movement of the 17th and 18th centuries.",
+      "example": [
+        {
+          "eng": "He spent years traveling in Asia in search of spiritual enlightenment.",
+          "ch": "他花了好幾年在亞洲旅行以尋求心靈開悟。"
+        },
+        {
+          "eng": "The Enlightenment changed the course of European philosophy and science.",
+          "ch": "啟蒙運動改變了歐洲哲學與科學的走向。"
+        }
+      ]
+    },
+    {
+      "eng": "enrich",
+      "kk": "ɪnˈrɪtʃ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使豐富",
+          "充實",
+          "改良"
+        ],
+        [
+          "使富裕",
+          "使發財"
+        ]
+      ],
+      "analysis": "現代透明構詞，由字首 en-（使...）加上形容詞 rich（豐富的、富有的）構成。字面原義為「使變得富有」，引申為在品質、內容或營養上使之充實與豐富。",
+      "definition": "1. Improve or enhance the quality or value of; 2. Make (someone) wealthy or wealthier.",
+      "example": [
+        {
+          "eng": "Reading widely can greatly enrich your vocabulary and imagination.",
+          "ch": "廣泛閱讀能大大充實你的詞彙量與想像力。"
+        },
+        {
+          "eng": "Successful business ventures can enrich a community.",
+          "ch": "成功的商業投資能使社區富裕起來。"
+        }
+      ]
+    },
+    {
+      "eng": "enrichment",
+      "kk": "ɪnˈrɪtʃ.mənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "充實",
+          "豐富化"
+        ],
+        [
+          "濃縮（鈾等）"
+        ]
+      ],
+      "analysis": "由動詞 enrich 加上名詞字尾 -ment 構成。指使變得豐富、充實的過程，或技術上對特定物質（如鈾）進行濃度提升的處理。",
+      "definition": "1. The action of improving or enhancing the quality or value of something; 2. The action of increasing the proportion of a particular isotope (such as uranium).",
+      "example": [
+        {
+          "eng": "The school offers various after-school programs for student enrichment.",
+          "ch": "學校提供各種課後活動以充實學生的生活。"
+        },
+        {
+          "eng": "Uranium enrichment is a complex technological process.",
+          "ch": "鈾濃縮是一個複雜的技術過程。"
+        }
+      ]
+    },
+    {
+      "eng": "enroll",
+      "kk": "ɪnˈroʊl",
+      "tense": "vt.",
+      "ch": [
+        [
+          "註冊",
+          "登記",
+          "招收"
+        ]
+      ],
+      "analysis": "由字首 en-（進入）加上名词 roll（名册、名單，源自拉丁語 rotula 小圓筒、滾軸文件）。字面原義為「將名字登記在名冊上」。作為及物動詞指讓某人登記註冊或加入課程、組織。",
+      "definition": "1. Officially register as a member of an institution or a student on a course.",
+      "example": [
+        {
+          "eng": "Parents usually enroll their children in school at age six.",
+          "ch": "父母通常在孩子六歲時為他們辦理學校註冊。"
+        }
+      ]
+    },
+    {
+      "eng": "enroll",
+      "kk": "ɪnˈroʊl",
+      "tense": "vi.",
+      "ch": [
+        [
+          "註冊",
+          "入學",
+          "加入"
+        ]
+      ],
+      "analysis": "由字首 en- 加上 roll 構成的動詞，作不及物用法時指主動報名、註冊或加入某個組織或課程。",
+      "definition": "1. Officially register oneself as a student or member.",
+      "example": [
+        {
+          "eng": "She decided to enroll in an online graphic design course.",
+          "ch": "她決定註冊一門線上平面設計課程。"
+        }
+      ]
+    },
+    {
+      "eng": "enrollment",
+      "kk": "ɪnˈroʊl.mənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "註冊",
+          "登記"
+        ],
+        [
+          "招生人數",
+          "入學人數"
+        ]
+      ],
+      "analysis": "由動詞 enroll 加上名詞字尾 -ment 構成。指註冊的行為，或指學校、機構中的總註冊與入學人數。",
+      "definition": "1. The action of enrolling or being enrolled; 2. The total number of people enrolled.",
+      "example": [
+        {
+          "eng": "Online enrollment for the spring semester begins next week.",
+          "ch": "春季學期的網路註冊於下週開始。"
+        },
+        {
+          "eng": "The university has seen a steady increase in student enrollment this year.",
+          "ch": "這所大學今年的學生註冊人數持續增加。"
+        }
+      ]
+    },
+    {
+      "eng": "equalize",
+      "kk": "ˈiː.kwə.laɪz",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使相等",
+          "使平頭",
+          "同化"
+        ]
+      ],
+      "analysis": "由形容詞 equal（相等的，源自拉丁語 aequus）加上動詞化字尾 -ize（源自希臘語 -ίζειν）構成。字面原義為「使兩者變得平等或相當」。",
+      "definition": "1. Cause (something) to be equal or uniform.",
+      "example": [
+        {
+          "eng": "The government aims to equalize educational opportunities for all children.",
+          "ch": "政府旨在為所有兒童使教育機會平等。"
+        }
+      ]
+    },
+    {
+      "eng": "equalize",
+      "kk": "ˈiː.kwə.laɪz",
+      "tense": "vi.",
+      "ch": [
+        [
+          "扳平比分",
+          "使得分相等"
+        ]
+      ],
+      "analysis": "由 equal 加上字尾 -ize 構成的動詞，在體育賽事中特指進球或得分將比分扳平。",
+      "definition": "1. (In a game or sport) tie the score or equal the opponent's score.",
+      "example": [
+        {
+          "eng": "In the final minute of the match, the striker managed to equalize.",
+          "ch": "在比賽的最後一分鐘，前鋒成功扳平了比分。"
+        }
+      ]
+    },
+    {
+      "eng": "equate",
+      "kk": "ɪˈkweɪt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "視為平等",
+          "等同於",
+          "使相等"
+        ]
+      ],
+      "analysis": "源自拉丁語 aequātus（動詞 aequāre 的過去分詞，源自 aequus 平等的）。字尾 -ate 為動詞形式。語義為「將兩件不同的事物在心中或觀念上視為相等或等同」。",
+      "definition": "1. Consider one thing to be the same as or equivalent to another.",
+      "example": [
+        {
+          "eng": "We should not equate wealth with happiness.",
+          "ch": "我們不應該把財富和幸福劃為等號。"
+        }
+      ]
+    },
+    {
+      "eng": "escort",
+      "kk": "ˈɛs.kɔːrt",
+      "tense": "n.",
+      "ch": [
+        [
+          "護衛",
+          "護送者",
+          "陪同者",
+          "護航艦"
+        ]
+      ],
+      "analysis": "源自義大利語 scorta（護衛隊），源自動詞 scortare，最終源自拉丁語 ex- + *corrigere 或古日耳曼語源頭。經由法語escorte 進入英語。名詞指陪同、保護或護送人車的警衛、伴護人員。",
+      "definition": "1. A person, vehicle, or group accompanying someone or something to protect, guide, or honor them.",
+      "example": [
+        {
+          "eng": "The visiting dignitary arrived with a heavy police escort.",
+          "ch": "這位來訪的政要在大批警察護衛下抵達。"
+        }
+      ]
+    },
+    {
+      "eng": "escort",
+      "kk": "ɪˈskɔːrt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "護送",
+          "護衛",
+          "陪同"
+        ]
+      ],
+      "analysis": "源自義大利語 scorta 的動詞形式，經法語進入英語。指陪伴並保護某人前往某處，或作為禮節性陪同。",
+      "definition": "1. Accompany (someone or something) somewhere, especially for protection or security, or as a courtesy.",
+      "example": [
+        {
+          "eng": "A security guard escorted the visitor out of the building.",
+          "ch": "一名保全人員護送訪客離開大樓。"
+        }
+      ]
+    },
+    {
+      "eng": "esteem",
+      "kk": "ɪˈstiːm",
+      "tense": "n.",
+      "ch": [
+        [
+          "尊重",
+          "敬重",
+          "評價"
+        ]
+      ],
+      "analysis": "源自古法語 estemer，源自拉丁語 aestimāre（估價、評價、尊重）。名詞指對他人的高度評價、敬重或讚許。",
+      "definition": "1. Respect and admiration, typically for a person.",
+      "example": [
+        {
+          "eng": "She is held in high esteem by all her colleagues.",
+          "ch": "她受到所有同事的高度敬重。"
+        }
+      ]
+    },
+    {
+      "eng": "esteem",
+      "kk": "ɪˈstiːm",
+      "tense": "vt.",
+      "ch": [
+        [
+          "尊重",
+          "敬重"
+        ],
+        [
+          "把...看作",
+          "認為"
+        ]
+      ],
+      "analysis": "源自拉丁語 aestimāre（估價、評定價值），經古法語進入英語。及物動詞指尊重、敬重某人，或古語中將某事視為某種性質。",
+      "definition": "1. Respect and admire; 2. (Formal) Consider or deem to be.",
+      "example": [
+        {
+          "eng": "I esteem him as one of the finest scientists of our generation.",
+          "ch": "我敬重他是我們這一代最優秀的科學家之一。"
+        },
+        {
+          "eng": "They esteem it an honor to serve on the committee.",
+          "ch": "他們將參與委員會視為一種榮譽。"
+        }
+      ]
+    },
+    {
+      "eng": "eternity",
+      "kk": "ɪˈtɜːr.nə.ti",
+      "tense": "n.",
+      "ch": [
+        [
+          "永恆",
+          "不朽"
+        ],
+        [
+          "漫長的時間",
+          "久遠"
+        ]
+      ],
+      "analysis": "由形容詞 eternal（永恆的，源自拉丁語 aeternus）加上名詞字尾 -ity（源自拉丁語 -itatem）構成。表示時間上沒有終點、永無止境的狀態，或誇張指極度漫長的時間。",
+      "definition": "1. Infinite or unending time, especially as an existence beyond earthly life; 2. A very long time (used for emphasis).",
+      "example": [
+        {
+          "eng": "Philosophers have debated the concept of eternity for centuries.",
+          "ch": "哲學家們幾個世紀以來一直在爭論永恆的概念。"
+        },
+        {
+          "eng": "Waiting for the delayed train felt like an eternity.",
+          "ch": "等待誤點的火車感覺就像過了一個世紀那麼久。"
+        }
+      ]
+    },
+    {
+      "eng": "evacuate",
+      "kk": "ɪˈvæk.ju.eɪt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "撤離",
+          "疏散",
+          "撤出"
+        ],
+        [
+          "排空",
+          "排泄（體液等）"
+        ]
+      ],
+      "analysis": "源自拉丁語 ēvacuātus（ē- 表 out 徹底 + vacuus 空的），字面原義為「使之變空、倒空」。經由中世紀拉丁語進入英語。語義由「排空容器」或「清空建築物」演變為在戰爭、災害時「疏散、撤離人員」。",
+      "definition": "1. Remove (someone) from a place of danger to a safer place; cease to occupy or inhabitants leave (a place); 2. Emit or discharge (waste matter) from the body.",
+      "example": [
+        {
+          "eng": "The local authorities ordered residents to evacuate the coastal area before the hurricane.",
+          "ch": "當地政府命令居民在颶風來臨前撤離沿海地區。"
+        },
+        {
+          "eng": "The body uses the kidneys to evacuate waste.",
+          "ch": "身體利用腎臟來排泄廢物。"
+        }
+      ]
+    },
+    {
+      "eng": "evacuate",
+      "kk": "ɪˈvæk.ju.eɪt",
+      "tense": "vi.",
+      "ch": [
+        [
+          "撤離",
+          "疏散撤退"
+        ]
+      ],
+      "analysis": "源自拉丁語 ēvacuātus 的動詞形式，不及物用法時指人員撤出某個危險地區或建築物。",
+      "definition": "1. Leave a place of danger as part of a planned evacuation.",
+      "example": [
+        {
+          "eng": "Families were told to evacuate immediately when the alarm sounded.",
+          "ch": "警報響起時，人們被告知要立即疏散撤離。"
+        }
+      ]
+    },
+    {
+      "eng": "evergreen",
+      "kk": "ˈɛv.ər.ɡriːn",
+      "tense": "n.",
+      "ch": [
+        [
+          "常綠植物",
+          "長青樹"
+        ],
+        [
+          "長青不衰的事物",
+          "歷久彌新的作品"
+        ]
+      ],
+      "analysis": "由形容詞 evergreen 轉化而來的名詞，指全年不落葉的常綠植物，或比喻歷久彌新的人事物。",
+      "definition": "1. An evergreen plant; 2. A song, play, or other work that remains popular over a long period.",
+      "example": [
+        {
+          "eng": "They planted several evergreens along the fence for privacy.",
+          "ch": "他們在籬笆旁種了几棵常綠植物以保隱私。"
+        },
+        {
+          "eng": "That jazz melody is a true evergreen of popular music.",
+          "ch": "那首爵士旋律是流行音樂中真正的長青曲目。"
+        }
+      ]
+    },
+    {
+      "eng": "evergreen",
+      "kk": "ˈɛv.ər.ɡriːn",
+      "tense": "adj.",
+      "ch": [
+        [
+          "常綠的",
+          "長青的"
+        ],
+        [
+          "永不過時的",
+          "歷久彌新的"
+        ]
+      ],
+      "analysis": "現代透明複合詞，由 ever（永遠）加上 green（綠色的）構成。字面原義為「全年保持綠色的植物」，引申為文藝作品或話題「永不過時的、長青的」。",
+      "definition": "1. (Of a plant) having green leaves throughout the year; 2. (Of a subject or style) permanently popular or relevant.",
+      "example": [
+        {
+          "eng": "Pine trees and firs are common evergreen plants.",
+          "ch": "松樹和冷杉是常見的常綠植物。"
+        },
+        {
+          "eng": "Love and betrayal are evergreen themes in literature.",
+          "ch": "愛情與背叛是文學中永不過時的主題。"
+        }
+      ]
+    },
+    {
+      "eng": "evoke",
+      "kk": "ɪˈvoʊk",
+      "tense": "vt.",
+      "ch": [
+        [
+          "喚起",
+          "引起",
+          "使想起",
+          "激發"
+        ]
+      ],
+      "analysis": "源自拉丁語 ēvocāre（ē- / ex- 表 out 出來 + vocāre 表 to call 呼喊，源自 vox 聲音）。字面原義為「呼喚出來、召喚」。引申為在心靈中喚起記憶、情感或影像。",
+      "definition": "1. Bring or recall to the conscious mind; elicit (a response).",
+      "example": [
+        {
+          "eng": "The old photographs evoke fond memories of his childhood.",
+          "ch": "那些舊照片喚起了他童年的美好記憶。"
+        }
+      ]
+    },
+    {
+      "eng": "examinee",
+      "kk": "ɪɡˌzæm.əˈniː",
+      "tense": "n.",
+      "ch": [
+        [
+          "應試者",
+          "考生"
+        ]
+      ],
+      "analysis": "現代透明構詞，由動詞 examine（檢查、考試，源自拉丁語 ex- + agere）加上被動受事者名詞字尾 -ee（對應 -er 的受事者身份）。字面原義為「接受考試或審查的人」。",
+      "definition": "1. A person who is sitting an exam.",
+      "example": [
+        {
+          "eng": "All examinees must present their ID cards before entering the test hall.",
+          "ch": "所有考生在進入考場前必須出示身分證件。"
+        }
+      ]
+    },
+    {
+      "eng": "examiner",
+      "kk": "ɪɡˈzæm.ə.nər",
+      "tense": "n.",
+      "ch": [
+        [
+          "主考官",
+          "檢查員",
+          "審查員"
+        ]
+      ],
+      "analysis": "由動詞 examine 加上動作執行者名詞字尾 -er 構成。指負責出題、監考、批改考卷的主考官，或進行專業檢查審查的人員。",
+      "definition": "1. A person who sets and grades exams, or who inspects something formally.",
+      "example": [
+        {
+          "eng": "The driving examiner asked her to park the car parallel to the curb.",
+          "ch": "路考主考官要求她將車子路邊平行停車。"
+        }
+      ]
+    },
+    {
+      "eng": "excel",
+      "kk": "ɪkˈsɛl",
+      "tense": "vt.",
+      "ch": [
+        [
+          "勝過",
+          "優於",
+          "超越"
+        ]
+      ],
+      "analysis": "源自拉丁語 excellere。作及物動詞時，指在能力、成就或品質上勝過或超越他人（多用於正式語體或反身代詞）。",
+      "definition": "1. Surpass (someone or something) in achievement or quality.",
+      "example": [
+        {
+          "eng": "He strives to excel his previous personal best record.",
+          "ch": "他努力超越自己先前的個人最佳紀錄。"
+        }
+      ]
+    },
+    {
+      "eng": "excel",
+      "kk": "ɪkˈsɛl",
+      "tense": "vi.",
+      "ch": [
+        [
+          "表現優秀",
+          "勝過",
+          "擅長"
+        ]
+      ],
+      "analysis": "源自拉丁語 excellere（ex- 表 out, beyond 超越 + celsus 高的、卓越的）。經由古法語 exceller 進入英語。不及物動詞通常與介詞 in 或 at 連用，指在某個領域表現突出。",
+      "definition": "1. Be exceptionally good at or proficient in an activity or subject.",
+      "example": [
+        {
+          "eng": "She tends to excel in mathematics and physics.",
+          "ch": "她往往在數學和物理方面表現優秀。"
+        }
+      ]
+    },
+    {
+      "eng": "excerpt",
+      "kk": "ˈɛk.sɜːrt",
+      "tense": "n.",
+      "ch": [
+        [
+          "摘錄",
+          "選段",
+          "節錄"
+        ]
+      ],
+      "analysis": "源自拉丁語 ex-（out 抽出）加上 carpere（plucked, picked 挑選、摘取）。字面原義為「從書本或文章中挑選出來的片段」。作為名詞指文章、書籍或音樂的節錄。",
+      "definition": "1. A short extract from a film, broadcast, or piece of music or writing.",
+      "example": [
+        {
+          "eng": "The teacher read an excerpt from the novel to the class.",
+          "ch": "老師向全班朗讀了小說中的一個選段。"
+        }
+      ]
+    },
+    {
+      "eng": "excerpt",
+      "kk": "ɛkˈsɜːrt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "摘錄",
+          "引用",
+          "選編"
+        ]
+      ],
+      "analysis": "源自拉丁語 excerptum 的動詞用法（ex- 抽出 + carpere 挑選）。及物動詞指從著作中摘錄或引用片段。",
+      "definition": "1. Take (a short extract) from a text.",
+      "example": [
+        {
+          "eng": "The author decided to excerpt several paragraphs for the introductory chapter.",
+          "ch": "作者決定為導言章節摘錄幾個段落。"
+        }
+      ]
+    },
+    {
+      "eng": "excess",
+      "kk": "ɪkˈsɛs",
+      "tense": "n.",
+      "ch": [
+        [
+          "過量",
+          "過度",
+          "超額",
+          "無節制"
+        ]
+      ],
+      "analysis": "源自拉丁語 excessus（ex- 表 out 離開 + cēdere 表 to go 走，過去分詞 cessus）。字面原義為「超出常軌、走得太遠」。名詞指數量超過正常或需要的程度。",
+      "definition": "1. An amount of something that is more than necessary, permitted, or desirable.",
+      "example": [
+        {
+          "eng": "Eating an excess of sugar can lead to health problems.",
+          "ch": "吃過量的糖會導致健康問題。"
+        }
+      ]
+    },
+    {
+      "eng": "exclusion",
+      "kk": "ɪkˈskluː.ʒən",
+      "tense": "n.",
+      "ch": [
+        [
+          "排除",
+          "排斥",
+          "拒絕在外"
+        ]
+      ],
+      "analysis": "由動詞 exclude（排除，源自拉丁語 ex- + claudere 關閉）加上名詞字尾 -sion 構成（對應 -t / -s 變體）。名詞指將某人或某事物排除在外或拒絕其進入的行為。",
+      "definition": "1. The process of excluding or the state of being excluded.",
+      "example": [
+        {
+          "eng": "The policy led to the social exclusion of minority groups.",
+          "ch": "這項政策導致了少數群體的社會排斥。"
+        }
+      ]
+    },
+    {
+      "eng": "exempt",
+      "kk": "ɪɡˈzɛmpt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "免除",
+          "豁免"
+        ]
+      ],
+      "analysis": "源自拉丁語 exemptus 的動詞用法。及物動詞指正式解除某人應盡的義務、責任或稅務負擔。",
+      "definition": "1. Free (someone) from an obligation or liability to which others are subject.",
+      "example": [
+        {
+          "eng": "The university decided to exempt senior students from the final exam.",
+          "ch": "大學決定免除大四學生的期末考試。"
+        }
+      ]
+    },
+    {
+      "eng": "exempt",
+      "kk": "ɪɡˈzɛmpt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "被免除的",
+          "豁免的"
+        ]
+      ],
+      "analysis": "源自拉丁語 exemptus（ex- 表 out 離開 + emere 表 to take 拿取，字面義為「拿開、抽離」）。經由古法語 exempter 進入英語。形容詞指免除義務、稅收或規定限制的。",
+      "definition": "1. Free from an obligation or liability imposed on others.",
+      "example": [
+        {
+          "eng": "Basic food items are exempt from sales tax in this state.",
+          "ch": "基本食品在此州免徵營業稅。"
+        }
+      ]
+    },
+    {
+      "eng": "exert",
+      "kk": "ɪɡˈzɜːrt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "施加",
+          "運用",
+          "發揮",
+          "竭力"
+        ]
+      ],
+      "analysis": "源自拉丁語 exserere（ex- 表 out 抽出 + serere 表 to join, entwine 結合、伸出），字面原義為「伸展出去、發揮出來」。及物動詞常與 influence、pressure、effort 等詞連用，指施加影響或全力以赴。",
+      "definition": "1. Apply or bring to bear (a force, influence, or quality); make a physical or mental effort.",
+      "example": [
+        {
+          "eng": "Parents often exert a strong influence on their children's career choices.",
+          "ch": "父母通常會對孩子的職業選擇施加強烈的影響。"
+        }
+      ]
+    },
+    {
+      "eng": "expenditure",
+      "kk": "ɪkˈspɛn.də.tʃər",
+      "tense": "n.",
+      "ch": [
+        [
+          "開支",
+          "花費"
+        ],
+        [
+          "消耗",
+          "耗費（精力、時間等）"
+        ]
+      ],
+      "analysis": "由動詞 expend（花費、消耗，源自拉丁語 expendere，ex- + pendere 稱重、支付）加上名詞字尾 -iture 構成。指金錢的支出，或體力、時間的消耗。",
+      "definition": "1. The action of spending funds; an amount of money spent; 2. The action of spending or using up time, effort, or other resources.",
+      "example": [
+        {
+          "eng": "The company needs to cut down on unnecessary capital expenditure.",
+          "ch": "公司需要削減不必要的資本開支。"
+        },
+        {
+          "eng": "Writing a novel requires a massive expenditure of time and mental energy.",
+          "ch": "寫小說需要耗費大量的時間與心力。"
+        }
+      ]
+    },
+    {
+      "eng": "expiration",
+      "kk": "ˌɛk.spəˈreɪ.ʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "期滿",
+          "截止"
+        ],
+        [
+          "吐氣",
+          "呼氣"
+        ]
+      ],
+      "analysis": "由動詞 expire（期滿、呼氣）加上名詞字尾 -ation 構成。expire 源自拉丁語 exspīrāre（ex- 表 out 離開 + spīrāre 表 to breathe 呼吸），原義為「吐出最後一口氣、死亡或合約期滿」。名詞指合約、護照等期限屆滿，或醫學上的吐氣。",
+      "definition": "1. The ending of the fixed period for which a contract, agreement, or offer is valid; 2. The act of exhaling air from the lungs.",
+      "example": [
+        {
+          "eng": "Please check the expiration date on the milk carton before buying.",
+          "ch": "購買前請檢查牛奶盒上的有效期限。"
+        },
+        {
+          "eng": "The doctor instructed the patient to take a deep breath followed by a slow expiration.",
+          "ch": "醫師指示患者深吸一口氣，然後緩慢吐氣。"
+        }
+      ]
+    },
+    {
+      "eng": "expire",
+      "kk": "ɪkˈspaɪər",
+      "tense": "vi.",
+      "ch": [
+        [
+          "期滿",
+          "失效"
+        ],
+        [
+          "斷氣",
+          "死亡"
+        ]
+      ],
+      "analysis": "源自拉丁語 exspīrāre（ex- 離開 + spīrāre 呼吸）。字面原義為「呼吸停止、吐出最後一口氣」，引申為契約、簽證、護照等「到期、失效」。",
+      "definition": "1. (Of a document, authorization, or agreement) validity comes to an end; 2. (Formal) Come to an end; die.",
+      "example": [
+        {
+          "eng": "My passport will expire in three months, so I need to renew it.",
+          "ch": "我的護照將在三個月後到期，所以我需要換新。"
+        },
+        {
+          "eng": "The old king passed away quietly, to expire after a long illness.",
+          "ch": "老國王在久病之後安詳離世。"
+        }
+      ]
+    },
+    {
+      "eng": "extract",
+      "kk": "ˈɛk.strækt",
+      "tense": "n.",
+      "ch": [
+        [
+          "萃取物",
+          "抽出物"
+        ],
+        [
+          "摘錄",
+          "選段"
+        ]
+      ],
+      "analysis": "由字首 ex-（out 離開）加上動詞 trahere（draw 拉、拖，過去分詞 tractus）構成的名詞形式。指透過化學或物理方法從植物或物質中萃取出的精華液，或文字的摘錄。",
+      "definition": "1. A preparation containing the active ingredient of a substance in concentrated form; 2. A passage from a book, film, or piece of music.",
+      "example": [
+        {
+          "eng": "Vanilla extract is commonly used in baking cakes and cookies.",
+          "ch": "香草精常被用於烘焙蛋糕和餅乾。"
+        },
+        {
+          "eng": "The textbook includes a brief extract from Shakespeare's play.",
+          "ch": "這本教科書收錄了莎士比亞戲劇的一段簡短選段。"
+        }
+      ]
+    },
+    {
+      "eng": "extract",
+      "kk": "ɪkˈstrækt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "提取",
+          "萃取",
+          "拔出"
+        ],
+        [
+          "索取",
+          "強行榨取（情報等）"
+        ]
+      ],
+      "analysis": "源自拉丁語 extractus（ex- 離開 + trahere 拉）。及物動詞指將某物用力拉出（如拔牙），或用化學溶劑從混合物中萃取出特定成分。",
+      "definition": "1. Remove or extract something, especially with effort or force; 2. Obtain (information, a response, etc.) from someone unwilling.",
+      "example": [
+        {
+          "eng": "The dentist had to extract my decayed wisdom tooth.",
+          "ch": "牙醫不得不拔掉我蛀掉的智齒。"
+        },
+        {
+          "eng": "The police tried to extract a confession from the suspect.",
+          "ch": "警方試圖從嫌疑人那裡逼出口供。"
+        }
+      ]
+    },
+    {
+      "eng": "extracurricular",
+      "kk": "ˌɛk.strə.kəˈrɪk.jə.lər",
+      "tense": "adj.",
+      "ch": [
+        [
+          "課外活動的",
+          "業餘的"
+        ]
+      ],
+      "analysis": "現代透明構詞，由字首 extra-（outside 外部、超越）加上形容詞 curricular（課程的，源自 curriculum 課程，來自拉丁語 currere 跑步、跑道）。字面義為「常規課程之外的活動」。",
+      "definition": "1. (Of an activity at a school or college) pursued in addition to the normal course of study.",
+      "example": [
+        {
+          "eng": "Students are encouraged to participate in extracurricular activities like sports and music.",
+          "ch": "學校鼓勵學生參與體育和音樂等課外活動。"
+        }
+      ]
+    },
+    {
+      "eng": "eyelash",
+      "kk": "ˈaɪ.læʃ",
+      "tense": "n.",
+      "ch": [
+        [
+          "睫毛"
+        ]
+      ],
+      "analysis": "現代透明複合詞，由 eye（眼睛）與 lash（鞭毛、睫毛，源自中古英語 lasche）組合而成。指眼瞼邊緣生長的細毛。",
+      "definition": "1. Each of the short hairs growing on the edges of the eyelids.",
+      "example": [
+        {
+          "eng": "She blinked and a stray eyelash fell onto her cheek.",
+          "ch": "她眨了眨眼，一根掉落的睫毛掉到了臉頰上。"
+        }
+      ]
+    },
+    {
+      "eng": "lash",
+      "kk": "læʃ",
+      "tense": "n.",
+      "ch": [
+        [
+          "鞭打",
+          "皮鞭"
+        ],
+        [
+          "睫毛（多用於複合詞）"
+        ],
+        [
+          "嚴厲批評",
+          "鞭笞（指責）"
+        ]
+      ],
+      "analysis": "源自日耳曼語族（荷蘭語 or 低地德語 lasch），指鞭子的繩端或鞭打的動作，亦可指睫毛（eyelash 的簡稱或同源語）。名詞指鞭笞、睫毛或嚴厲的責罵。",
+      "definition": "1. The cord or flexible part of a whip; a stroke with a whip; 2. An eyelash; 3. A sharp rebuke or criticism.",
+      "example": [
+        {
+          "eng": "The criminal was sentenced to twenty lashes.",
+          "ch": "這名罪犯被判處二十記鞭刑。"
+        },
+        {
+          "eng": "She wiped a tear from the tips of her lashes.",
+          "ch": "她擦拭掉睫毛尖端的一滴淚水。"
+        },
+        {
+          "eng": "The newspaper editorial delivered a harsh lash against government corruption.",
+          "ch": "這篇報紙社論對政府腐敗發出了嚴厲的譴責。"
+        }
+      ]
+    },
+    {
+      "eng": "lash",
+      "kk": "læʃ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "鞭打",
+          "抽打",
+          "猛烈拍打"
+        ],
+        [
+          "捆綁",
+          "繫牢"
+        ]
+      ],
+      "analysis": "源自日耳曼語族。作動詞時兼具兩個不同來源的義項：一是「用鞭子抽打、風雨猛烈拍打」，二是「用繩索將物品牢牢綑綁在某處（常與 to 連用）」。",
+      "definition": "1. Strike with a whip or as if with a whip; (of wind or rain) beat fiercely against; 2. Fasten (someone or something) securely with a cord or rope.",
+      "example": [
+        {
+          "eng": "The storm caused heavy waves to lash against the seawall.",
+          "ch": "風暴使得大浪猛烈拍打防波堤。"
+        },
+        {
+          "eng": "They managed to lash the cargo securely to the deck.",
+          "ch": "他們設法把貨物牢牢綑綁在甲板上。"
+        }
+      ]
+    },
+    {
+      "eng": "eyelid",
+      "kk": "ˈaɪ.lɪd",
+      "tense": "n.",
+      "ch": [
+        [
+          "眼瞼",
+          "眼皮"
+        ]
+      ],
+      "analysis": "現代透明複合詞，由 eye（眼睛）與 lid（蓋子，源自古英語 hlīdan 覆蓋）結合而成。字面原義為「遮蓋眼睛的蓋子」。",
+      "definition": "1. Each of the upper and lower folds of skin which cover and protect the eye.",
+      "example": [
+        {
+          "eng": "She closed her eyelids and tried to fall asleep.",
+          "ch": "她閉上眼皮，試圖入睡。"
+        }
+      ]
+    },
+    {
+      "eng": "eyesight",
+      "kk": "ˈaɪ.saɪt",
+      "tense": "n.",
+      "ch": [
+        [
+          "視力",
+          "視野"
+        ]
+      ],
+      "analysis": "現代透明複合詞，由 eye（眼睛）與 sight（視力、見解，源自古英語 gesiht）組合而成。指眼睛看東西的能力或視力範圍。",
+      "definition": "1. The faculty or range of vision.",
+      "example": [
+        {
+          "eng": "Regular eye check-ups are essential for maintaining good eyesight.",
+          "ch": "定期眼睛檢查對於保持良好的視力至關重要。"
+        }
+      ]
+    },
+    {
+      "eng": "fable",
+      "kk": "ˈfeɪ.bəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "寓言",
+          "傳說",
+          "神話故事"
+        ]
+      ],
+      "analysis": "源自拉丁語 fābula（故事、戲劇、談話，源自 for 說話），經由古法語 fable 進入英語。名詞指通常以動物為主角、傳達道德教訓的虛構故事。",
+      "definition": "1. A short story, typically with animals as characters, conveying a moral.",
+      "example": [
+        {
+          "eng": "Aesop's fable of the tortoise and the hare teaches us that perseverance wins.",
+          "ch": "伊索寓言中的龜兔賽跑教導我們堅持就是勝利。"
+        }
+      ]
+    },
+    {
+      "eng": "faction",
+      "kk": "ˈfæk.ʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "派別",
+          "宗派",
+          "小集團",
+          "內訌"
+        ]
+      ],
+      "analysis": "源自拉丁語 factio（做事的行為、黨派、派系，源自 facere 做、製造），經由法語進入英語。名詞指大型組織或政黨內部意見不合而形成的小派別或集團。",
+      "definition": "1. A small, organized dissenting group within a larger one, especially in politics.",
+      "example": [
+        {
+          "eng": "The ruling party is currently divided into two competing factions.",
+          "ch": "執政黨目前正分裂為兩個競爭的派別。"
+        }
+      ]
+    },
+    {
+      "eng": "Fahrenheit",
+      "kk": "ˈfɛr.ən.haɪt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "華氏的"
+        ]
+      ],
+      "analysis": "源自人名，紀念18世紀德國物理學家加布里爾·華倫海特（Daniel Gabriel Fahrenheit），他發明了華氏溫標。作為形容詞專指華氏溫標系統。",
+      "definition": "1. Denoting a scale of temperature in which water freezes at 32° and boils at 212° under standard conditions.",
+      "example": [
+        {
+          "eng": "Water freezes at thirty-two degrees Fahrenheit.",
+          "ch": "水在華氏三十二度結冰。"
+        }
+      ]
+    }
+  ]
+}

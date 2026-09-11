@@ -1,0 +1,1210 @@
+{
+  "level": 6,
+  "chunkIndex": 1,
+  "inputs": [
+    "abbreviate",
+    "abide",
+    "aboriginal",
+    "abound",
+    "abstraction",
+    "abundance",
+    "academy",
+    "accessory",
+    "acclaim",
+    "accordance",
+    "accordingly",
+    "accountable",
+    "accumulate",
+    "accumulation",
+    "accusation",
+    "accustom",
+    "acne",
+    "acre",
+    "adaptation",
+    "addiction",
+    "administer",
+    "administrate",
+    "admiral",
+    "adolescence",
+    "advisory",
+    "aesthetic",
+    "affectionate",
+    "affiliate",
+    "affirm",
+    "airtight",
+    "airway",
+    "algebra",
+    "alienate",
+    "align",
+    "allege",
+    "alligator",
+    "altitude",
+    "aluminum",
+    "ambiguity",
+    "amid",
+    "amidst",
+    "amplify",
+    "analogy",
+    "analytical",
+    "anchor",
+    "animate",
+    "annoyance",
+    "anthem",
+    "antibiotic",
+    "anticipation"
+  ],
+  "rows": [
+    {
+      "eng": "abbreviate",
+      "kk": "/əˈbriviˌet/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "縮寫",
+          "簡寫"
+        ],
+        [
+          "使簡短",
+          "縮短"
+        ]
+      ],
+      "analysis": "此字為及物動詞。現代透明構詞由表示「向、去」的字首 ad-（同化為 ab-）與源自拉丁語 brevis（意為「短」）的詞根組合，再加 -ate 動詞字尾。歷史上經由中世紀拉丁語 abbreviare 進入英語。語義演變從拉丁語原義「使變短」發展出文字符號上的「縮寫」與時間或篇幅上的「縮短」。",
+      "definition": "1. To shorten a word, phrase, or text by omitting letters; 2. To make a speech, piece of writing, or event shorter.",
+      "example": [
+        {
+          "eng": "You can abbreviate 'Information Technology' to 'IT'.",
+          "ch": "你可以將「Information Technology」縮寫為「IT」。"
+        },
+        {
+          "eng": "The organizers had to abbreviate the conference due to a lack of time.",
+          "ch": "由於時間不足，主辦方不得不縮短會議時間。"
+        }
+      ]
+    },
+    {
+      "eng": "abide",
+      "kk": "/əˈbaɪd/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "遵守",
+          "遵循"
+        ],
+        [
+          "停留",
+          "居住"
+        ]
+      ],
+      "analysis": "此字為不及物動詞。源自古英語 ġebīdan（意為等待、停留、承受），由加強字首 ġe- 與 bīdan（停留、等待）組成。在現代英語中最常見於片語 abide by（遵守），保留了「持續、堅持」的語義軌跡；其古義「居住、逗留」則較為少見或具文學色彩。",
+      "definition": "1. To accept or act in accordance with a rule, decision, or recommendation; 2. To remain, stay, or dwell in a place.",
+      "example": [
+        {
+          "eng": "All members must abide by the rules of the club.",
+          "ch": "所有會員都必須遵守俱樂部的規則。"
+        },
+        {
+          "eng": "He chose to abide in the quiet mountain village for the summer.",
+          "ch": "他選擇在寧靜的山村度過夏天。"
+        }
+      ]
+    },
+    {
+      "eng": "aboriginal",
+      "kk": "/ˌæbəˈrɪdʒənəl/",
+      "tense": "n.",
+      "ch": [
+        [
+          "原住民",
+          "土著居民"
+        ]
+      ],
+      "analysis": "此字為名詞。由形容詞 aboriginal 零轉品或名詞化而來，指稱某地區的原始居民，尤常大寫用於澳洲原住民（Aboriginal）。",
+      "definition": "1. An indigenous person, animal, or plant native to a region, especially an Australian Aborigine.",
+      "example": [
+        {
+          "eng": "The aboriginals have a deep spiritual connection to the land.",
+          "ch": "原住民與這片土地有著深厚的心靈連結。"
+        }
+      ]
+    },
+    {
+      "eng": "aboriginal",
+      "kk": "/ˌæbəˈrɪdʒənəl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "原住民的",
+          "土著的"
+        ]
+      ],
+      "analysis": "此字為形容詞。源自拉丁語片語 ab origine（意為「從起初、從源頭」），由 ab（從）與 origo（起源、開端）結合，進入英語後加上形容詞字尾 -al。語義由最初的「從一開始就存在」演變為專指某地區的「原住民的、土著的」。",
+      "definition": "1. Inhabiting or existing in a land from the earliest times or from before the arrival of colonists; indigenous.",
+      "example": [
+        {
+          "eng": "The museum exhibits traditional art made by aboriginal communities.",
+          "ch": "博物館展出了原住民社群製作的傳統藝術品。"
+        }
+      ]
+    },
+    {
+      "eng": "abound",
+      "kk": "/əˈbaʊnd/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "大量存在",
+          "富含",
+          "充滿"
+        ]
+      ],
+      "analysis": "此字為不及物動詞。源自古法語 abunder，最終源自拉丁語 abundare（意為「如波浪般滿溢」），由 ab-（離開、加強）與 unda（波浪、水流）組成。語義演變從字面上的「水波滿溢」轉為抽象的「數量極多、充滿」。",
+      "definition": "1. To exist in large numbers or quantities; to be plentiful.",
+      "example": [
+        {
+          "eng": "Wildlife abounds in this protected national park.",
+          "ch": "這個受保護的國家公園裡野生動物繁多。"
+        }
+      ]
+    },
+    {
+      "eng": "abstraction",
+      "kk": "/æbˈstrækʃən/",
+      "tense": "n.",
+      "ch": [
+        [
+          "抽象概念",
+          "抽象"
+        ],
+        [
+          "心不在焉",
+          "出神"
+        ]
+      ],
+      "analysis": "此字為名詞。由動詞 abstract 加上名詞字尾 -ion 構成。源自拉丁語 abstractio，根源自 abstrahere（意為「抽離、分離」）。語義從「從具體事物中抽離出共同特徵的過程與結果（抽象概念）」延伸出「心思抽離現實、出神」的心理狀態。",
+      "definition": "1. Something which exists only as an idea, feeling, or quality rather than as a physical object; 2. The state of thinking deeply about something and not paying attention to what is happening around you.",
+      "example": [
+        {
+          "eng": "Freedom and justice are concepts that involve a high degree of abstraction.",
+          "ch": "自由與正義是涉及高度抽象概念的事物。"
+        },
+        {
+          "eng": "She stared out the window in a state of abstraction.",
+          "ch": "她出神地凝視著窗外。"
+        }
+      ]
+    },
+    {
+      "eng": "abundance",
+      "kk": "/əˈbʌndəns/",
+      "tense": "n.",
+      "ch": [
+        [
+          "豐富",
+          "充裕",
+          "大量"
+        ]
+      ],
+      "analysis": "此字為名詞。由名詞化自對應形容詞或由動詞 abound 的詞幹結合名詞字尾 -ance 構成，源自拉丁語 abundantia。保留了字根 unda（波浪）「滿溢」的隱喻，指資源、財富或特質達到非常豐足的狀態。",
+      "definition": "1. A very large quantity of something; plentifulness.",
+      "example": [
+        {
+          "eng": "The valley has an abundance of fresh water and fertile soil.",
+          "ch": "這個山谷擁有豐富的淡水和肥沃的土壤。"
+        }
+      ]
+    },
+    {
+      "eng": "academy",
+      "kk": "/əˈkædəmi/",
+      "tense": "n.",
+      "ch": [
+        [
+          "研究院",
+          "學會",
+          "專科學校"
+        ]
+      ],
+      "analysis": "此字為名詞。源自古希臘語 Ἀκαδημία（Akademia），得名於雅典西北郊外紀念英雄 Hecademus 的樹林，哲學家柏拉圖曾在那裡講學。經由拉丁語 academia 進入英語，語義從最初的「哲學講學場所」演變為各類「學術機構、專科院校或藝術學會」。",
+      "definition": "1. A place of study or training in a special field; an institution representing a specific branch of art or science.",
+      "example": [
+        {
+          "eng": "She was elected to the national academy of sciences.",
+          "ch": "她當選為國家科學院院士。"
+        }
+      ]
+    },
+    {
+      "eng": "accessory",
+      "kk": "/ækˈsɛsəri/",
+      "tense": "n.",
+      "ch": [
+        [
+          "附件",
+          "配件",
+          "飾品"
+        ],
+        [
+          "共犯",
+          "從犯"
+        ]
+      ],
+      "analysis": "此字為名詞。源自中世紀拉丁語 accessorius（意為「附加的、額外的」），由動詞 accedere（靠近、附加）派生而來。在現代英語中發展出兩個主要義項：一是日常穿戴或機械的「配件、附屬品」；二是法律用語上的「犯罪共犯、從犯」。",
+      "definition": "1. A thing which can be added to something else in order to make it more useful, versatile, or attractive; 2. Someone who helps another person to commit a crime.",
+      "example": [
+        {
+          "eng": "She bought a matching handbag and shoes as accessories.",
+          "ch": "她買了一個相配的手提包和鞋子作為配件。"
+        },
+        {
+          "eng": "He was arrested as an accessory to the bank robbery.",
+          "ch": "他因涉嫌搶劫銀行而被捕。"
+        }
+      ]
+    },
+    {
+      "eng": "acclaim",
+      "kk": "/əˈklem/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "歡呼",
+          "稱讚",
+          "高度讚揚"
+        ]
+      ],
+      "analysis": "此字為及物動詞。由表示「向」的字首 ad- 與源自拉丁語 clamare（喊叫）的詞根組合，經由古法語與中古英語演變而來。語義從最初的「大聲喊叫、喝采」演變為現代的「公開且熱烈地稱讚、高度讚揚」。",
+      "definition": "1. To praise or welcome someone or something enthusiastically and publicly.",
+      "example": [
+        {
+          "eng": "Critics acclaimed his performance in the new movie.",
+          "ch": "影評人高度讚揚他在新電影中的演出。"
+        }
+      ]
+    },
+    {
+      "eng": "accordance",
+      "kk": "/əˈkɔrdəns/",
+      "tense": "n.",
+      "ch": [
+        [
+          "一致",
+          "符合",
+          "依照"
+        ]
+      ],
+      "analysis": "此字為名詞。由動詞 accord 加上名詞字尾 -ance 構成，源自古法語，最終源自拉丁語 ad-（向）與 cor（心）。字面原義為「心心相印、協議一致」。現代最常見於片語 in accordance with，表示「依照、與…一致」。",
+      "definition": "1. Agreement in harmony or action; conformity to a rule, standard, or request.",
+      "example": [
+        {
+          "eng": "The project was carried out in accordance with safety regulations.",
+          "ch": "該專案是依照安全規章執行的。"
+        }
+      ]
+    },
+    {
+      "eng": "accordingly",
+      "kk": "/əˈkɔrdɪŋli/",
+      "tense": "adv.",
+      "ch": [
+        [
+          "因此",
+          "所以",
+          "相應地"
+        ]
+      ],
+      "analysis": "此字為副詞。由現在分詞短語 according 加上副詞字尾 -ly 構成。語義從早期的「根據情況、相應地」引申出因果連詞功能，表示「因此、所以、照著辦」。",
+      "definition": "1. In a way that is appropriate to the particular circumstances; therefore.",
+      "example": [
+        {
+          "eng": "The weather forecast predicts rain; dress accordingly.",
+          "ch": "氣象預報說會下雨，請相應地穿著衣物。"
+        }
+      ]
+    },
+    {
+      "eng": "accountable",
+      "kk": "/əˈkaʊntəbəl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "負有責任的",
+          "應作解釋的"
+        ]
+      ],
+      "analysis": "此字為形容詞。由動詞 account 加上形容詞字尾 -able（能…的）構成。源自古法語 acompter。語義指某人必須對自己的行為或決定「負起責任、隨時準備接受監督與解釋」。",
+      "definition": "1. Required or expected to justify actions or decisions; responsible.",
+      "example": [
+        {
+          "eng": "Government officials must be accountable to the public.",
+          "ch": "政府官員必須對大眾負起責任。"
+        }
+      ]
+    },
+    {
+      "eng": "accumulate",
+      "kk": "/əˈkyumjəˌlet/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "累積",
+          "積聚",
+          "積攢"
+        ]
+      ],
+      "analysis": "此字為及物動詞。現代透明構詞由表示「向」的字首 ad-（同化為 ac-）與源自拉丁語 cumulus（堆積、山丘）的動詞化形式 cumulare 結合而成。歷史上經由拉丁語進入英語。語義為「使成堆、逐漸積聚財富、灰塵或知識」。",
+      "definition": "1. To gather or collect an increasing quantity of something over time.",
+      "example": [
+        {
+          "eng": "Dust tends to accumulate quickly on the top shelf.",
+          "ch": "灰塵往往會在頂層架子上迅速積聚。"
+        }
+      ]
+    },
+    {
+      "eng": "accumulation",
+      "kk": "/əˌkyumjəˈleʃən/",
+      "tense": "n.",
+      "ch": [
+        [
+          "累積",
+          "積聚物",
+          "積存"
+        ]
+      ],
+      "analysis": "此字為名詞。由動詞 accumulate 加上名詞字尾 -ion 構成，源自拉丁語 accumulatio。指積聚的過程或累積下來的成果與實體。",
+      "definition": "1. The acquisition or gradual gathering of something; a mass or quantity of something that has gradually gathered.",
+      "example": [
+        {
+          "eng": "The accumulation of snow made the roads impassable.",
+          "ch": "積雪使得道路無法通行。"
+        }
+      ]
+    },
+    {
+      "eng": "accusation",
+      "kk": "/ˌækyəˈzeʃən/",
+      "tense": "n.",
+      "ch": [
+        [
+          "指控",
+          "控告",
+          "譴責"
+        ]
+      ],
+      "analysis": "此字為名詞。由動詞 accuse 加上名詞字尾 -ion 構成，源自拉丁語 accusatio。字根源於 causa（法律案件、訴訟）。指正式或非正式地指責某人犯了罪或犯了錯誤。",
+      "definition": "1. A claim or assertion that someone has done something illegal or wrong, typically made without proof.",
+      "example": [
+        {
+          "eng": "He strongly denied the accusation of corruption.",
+          "ch": "他強烈否認貪腐的指控。"
+        }
+      ]
+    },
+    {
+      "eng": "accustom",
+      "kk": "/əˈkʌstəm/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使習慣於",
+          "使適應"
+        ]
+      ],
+      "analysis": "此字為及物動詞。現代透明構詞由表示「向」的字首 ad-（同化為 ac-）與源自古法語 acostumer（意為風俗、習慣，源自拉丁語 consuetudo）的字根組成。最常以被動或反身結構出現（be accustomed to），表示「使自己習慣於某種環境或狀態」。",
+      "definition": "1. To make someone familiar with something or used to something through use or experience.",
+      "example": [
+        {
+          "eng": "It takes time to accustom yourself to a new culture.",
+          "ch": "讓自己習慣一個新文化需要時間。"
+        }
+      ]
+    },
+    {
+      "eng": "acne",
+      "kk": "/ˈækni/",
+      "tense": "n.",
+      "ch": [
+        [
+          "青春痘",
+          "痤瘡"
+        ]
+      ],
+      "analysis": "此字為名詞。源自古希臘語 ἀκμή（akmê，意為「頂點、尖峰」），在拜占庭希臘語中被醫學文獻轉化為指皮膚上的尖頭疹子。經由新拉丁語進入現代英語。指常見於青少年時期的皮膚病症。",
+      "definition": "1. A skin condition characterized by red pimples on the face, chest, and back, typically occurring in adolescence.",
+      "example": [
+        {
+          "eng": "Teenagers often look for effective ways to treat acne.",
+          "ch": "青少年經常尋找治療青春痘的有效方法。"
+        }
+      ]
+    },
+    {
+      "eng": "acre",
+      "kk": "/ˈekɚ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "英畝"
+        ]
+      ],
+      "analysis": "此字為名詞。源自古英語 æcer（意為開闊的田野、農田），屬於日耳曼語繼承詞，與德語 Acker 及拉丁語 ager 同源。歷史上指一頭公牛一天之內能耕完的土地面積，後來標準化為英制土地面積單位。",
+      "definition": "1. A unit of land area equal to 4,840 square yards (0.405 hectares).",
+      "example": [
+        {
+          "eng": "Their farm spans over five hundred acres of rolling hills.",
+          "ch": "他們的農場橫跨五百多英畝起伏的山丘。"
+        }
+      ]
+    },
+    {
+      "eng": "adaptation",
+      "kk": "/ˌædæpˈteʃən/",
+      "tense": "n.",
+      "ch": [
+        [
+          "適應",
+          "改編本",
+          "改編作品"
+        ]
+      ],
+      "analysis": "此字為名詞。由動詞 adapt 加上名詞字尾 -ion 構成。源自中世紀拉丁語 adaptatio。語義從生物學上的「物種為適應環境而產生的演化改變」延伸出文學與影視領域的「小說改編電影或戲劇作品」。",
+      "definition": "1. The process or state of changing to fit new conditions; 2. A movie, television drama, or stage play that has been filmed or written from a book or play.",
+      "example": [
+        {
+          "eng": "Polar bears have thick fur as an adaptation to the freezing climate.",
+          "ch": "北極熊擁有厚重的皮毛，作為適應極寒氣候的生物特徵。"
+        },
+        {
+          "eng": "The film is a brilliant adaptation of a classic novel.",
+          "ch": "這部電影是一部改編自經典小說的精彩作品。"
+        }
+      ]
+    },
+    {
+      "eng": "addiction",
+      "kk": "/əˈdɪkʃən/",
+      "tense": "n.",
+      "ch": [
+        [
+          "成癮",
+          "沉溺",
+          "毒癮"
+        ]
+      ],
+      "analysis": "此字為名詞。由動詞 addict 加上名詞字尾 -ion 構成，源自拉丁語 addictio（原意為債務人被判決歸屬債權人、被奴役）。語義從羅馬法中的「被法律束縛、判給他人」演變為現代心理學與醫學上的「物質或行為成癮、無法自拔的沉溺」。",
+      "definition": "1. The fact or condition of being addicted to a particular substance, thing, or activity.",
+      "example": [
+        {
+          "eng": "Smoking is a severe physical and psychological addiction.",
+          "ch": "吸菸是一種嚴重的生理與心理成癮。"
+        }
+      ]
+    },
+    {
+      "eng": "administer",
+      "kk": "/ədˈmɪnɪstɚ/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "管理",
+          "治理",
+          "執行",
+          "給予(藥物等)"
+        ],
+        [
+          "施行(法律或懲罰)"
+        ]
+      ],
+      "analysis": "此字為及物動詞。現代透明構詞由表示「向、朝」的字首 ad- 與源自拉丁語 minister（僕人、助理，由 minor 衍生）的詞根組合，經由古法語 ministrer 進入英語。語義從「作為助手服務」演變為「管理機構、執行法律、施行懲罰或給予醫療用藥」。",
+      "definition": "1. To manage and be responsible for the running of a business, organization, or institution; 2. To dispense or apply something, such as medicine, justice, or punishment.",
+      "example": [
+        {
+          "eng": "The manager has the authority to administer the company's daily operations.",
+          "ch": "經理有權管理公司的日常運作。"
+        },
+        {
+          "eng": "Nurses are trained to administer medication safely.",
+          "ch": "護理人員接受過培訓，能夠安全地給予患者藥物。"
+        }
+      ]
+    },
+    {
+      "eng": "administrate",
+      "kk": "/ədˈmɪnəˌstret/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "管理",
+          "行政管理",
+          "主持"
+        ]
+      ],
+      "analysis": "此字為及物動詞。由名詞 administration 或動詞 administer 經由回溯構詞或拉丁語過去分詞詞幹 (administrat-) 重新派生出的動詞，意思與 administer 高度重疊，但在商業與公共行政中更常直接指涉行政事務的管理。嚴格來說較 administer 晚出，但為常見同義詞。",
+      "definition": "1. To manage the affairs of a business, organization, or institution; to administer.",
+      "example": [
+        {
+          "eng": "She was hired to administrate the university's scholarship program.",
+          "ch": "她被聘來管理這所大學的獎學金計畫。"
+        }
+      ]
+    },
+    {
+      "eng": "admiral",
+      "kk": "/ˈædmərəl/",
+      "tense": "n.",
+      "ch": [
+        [
+          "海軍上將",
+          "艦隊司令"
+        ]
+      ],
+      "analysis": "此字為名詞。源自阿拉伯語 amīr al-baḥr（意為「海上指揮官、海洋的統治者」），中世紀經由地中海貿易與十字軍東征傳入拉丁語與古法語（amiral），並在英文中演變出 d 字母。指海軍中的最高軍階。",
+      "definition": "1. A commander of a fleet or a naval officer of the highest rank.",
+      "example": [
+        {
+          "eng": "The admiral commanded the fleet from his flagship.",
+          "ch": "海軍上將從他的旗艦上指揮整個艦隊。"
+        }
+      ]
+    },
+    {
+      "eng": "adolescence",
+      "kk": "/ˌædəˈlɛsəns/",
+      "tense": "n.",
+      "ch": [
+        [
+          "青春期",
+          "青少年時期"
+        ]
+      ],
+      "analysis": "此字為名詞。由拉丁語 adolescentia 派生而來，源自動詞 adolescere（意為「成長、走向成熟」），由 ad- 與 olescere（長大）組成。指從兒童過渡到成年的心理與生理發育階段。",
+      "definition": "1. The period following the onset of puberty during which a young person develops from a child into an adult.",
+      "example": [
+        {
+          "eng": "Adolescence is often a time of profound physical and emotional changes.",
+          "ch": "青春期通常是經歷深刻生理與情緒變化的時期。"
+        }
+      ]
+    },
+    {
+      "eng": "advisory",
+      "kk": "/ədˈvaɪzəri/",
+      "tense": "n.",
+      "ch": [
+        [
+          "公告",
+          "氣象或安全警報"
+        ]
+      ],
+      "analysis": "此字為名詞。由形容詞 advisory 轉品而來，專門指政府或官方機構發出的重要警示與公告（如颱風警報、交通警報）。常見於氣象播報與新聞報導中。",
+      "definition": "1. An official announcement or warning, typically issued by a government agency about weather or safety conditions.",
+      "example": [
+        {
+          "eng": "A severe weather advisory was issued for coastal regions.",
+          "ch": "氣象局已對沿海地區發布了劇烈天氣警報。"
+        }
+      ]
+    },
+    {
+      "eng": "advisory",
+      "kk": "/ədˈvaɪzəri/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "顧問的",
+          "諮詢的",
+          "勸告的"
+        ]
+      ],
+      "analysis": "此字為形容詞。由動詞 advise 加上形容詞字尾 -ory 構成。指提供建議或扮演顧問角色的組織或委員會。常見於商業與政府職能描述。",
+      "definition": "1. Having the power to make recommendations but not to take action; providing expert advice.",
+      "example": [
+        {
+          "eng": "She serves as an advisory board member for several tech startups.",
+          "ch": "她擔任多家科技新創公司的顧問董事會成員。"
+        }
+      ]
+    },
+    {
+      "eng": "aesthetic",
+      "kk": "/ɛsˈθɛtɪk/",
+      "tense": "n.",
+      "ch": [
+        [
+          "美學觀點",
+          "審美觀",
+          "美學"
+        ]
+      ],
+      "analysis": "此字為名詞。由形容詞 aesthetic 轉品而來，指一組特定的審美標準、設計風格或藝術哲學（例如「極簡主義美學」）。常用於藝術批評、設計及社群媒體討論中。",
+      "definition": "1. A set of principles underlying and guiding the work of a particular artist or artistic movement; an overall artistic style or look.",
+      "example": [
+        {
+          "eng": "Her photography has a distinct vintage aesthetic.",
+          "ch": "她的攝影作品具有鮮明的復古美學風格。"
+        }
+      ]
+    },
+    {
+      "eng": "aesthetic",
+      "kk": "/ɛsˈθɛtɪk/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "美學的",
+          "審美的",
+          "具有美感的"
+        ]
+      ],
+      "analysis": "此字為形容詞。源自古希臘語 αἰσθητικός（aisthētikos，意為「感官知覺的」），由 αἰσθέσθαι（去感知、察覺）衍生而來。18 世紀德國哲學家鮑姆加滕將其賦予「美學、感性哲學」的現代定義。語義指與美感、藝術欣賞或視覺外觀相關的特質。",
+      "definition": "1. Concerned with beauty or the appreciation of beauty; giving pleasure through beauty.",
+      "example": [
+        {
+          "eng": "The building was designed with both functional and aesthetic values in mind.",
+          "ch": "這棟建築的設計同時兼顧了功能與美學價值。"
+        }
+      ]
+    },
+    {
+      "eng": "affectionate",
+      "kk": "/əˈfɛkʃənət/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "深情的",
+          "充滿愛意的",
+          "溫柔的"
+        ]
+      ],
+      "analysis": "此字為形容詞。由名詞 affection 加上形容詞字尾 -ate 構成。源自拉丁語 affectio（情感、心境）。指展現出溫暖喜愛、擁抱或親密關懷的態度或行為。",
+      "definition": "1. Readily feeling or showing fondness or tenderness towards someone.",
+      "example": [
+        {
+          "eng": "The golden retriever is an affectionate and loyal family pet.",
+          "ch": "黃金獵犬是一種深情且忠誠的家庭寵物。"
+        }
+      ]
+    },
+    {
+      "eng": "affiliate",
+      "kk": "/əˈfɪliˌet/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使隸屬於",
+          "使加入",
+          "接納為會員"
+        ]
+      ],
+      "analysis": "此字為及物動詞。現代透明構詞由表示「向」的字首 ad-（同化為 af-）與源自拉丁語 filius（兒子）的詞根衍生而來（原義為「收為義子、結為兄弟般的關係」）。經由中世紀拉丁語 affiliare 進入英語。語義指將較小的機構或個人納入大型組織的體系中，使其成為附屬分支。",
+      "definition": "1. To officially attach or connect a smaller organization to a larger main organization.",
+      "example": [
+        {
+          "eng": "The local hospital chose to affiliate with a prestigious university medical center.",
+          "ch": "當地醫院選擇與一所知名的大學醫療中心締結合作附屬關係。"
+        }
+      ]
+    },
+    {
+      "eng": "affirm",
+      "kk": "/əˈfɝm/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "斷言",
+          "肯定",
+          "證實",
+          "申明"
+        ]
+      ],
+      "analysis": "此字為及物動詞。現代透明構詞由表示「向」的字首 ad-（同化為 af-）與源自拉丁語 firmus（堅固的、穩固的）的動詞化形式 affirmare 結合而成。經由古法語 affirmer 進入英語。語義為「使之堅固」，引申為「以堅定的態度公開宣告、證實某事為真」。",
+      "definition": "1. To state publicly and strongly that something is true; to assert or confirm.",
+      "example": [
+        {
+          "eng": "The company leaders continue to affirm their commitment to environmental protection.",
+          "ch": "公司領導層持續申明他們對環境保護的承諾。"
+        }
+      ]
+    },
+    {
+      "eng": "airtight",
+      "kk": "/ˈɛrˌtaɪt/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "密閉的",
+          "不透氣的",
+          "無懈可擊的"
+        ]
+      ],
+      "analysis": "此字為形容詞。現代透明複合詞，由 air（空氣）與 tight（緊密的、不漏的）結合而成。字面原義為「空氣無法透入的（密閉容器）」，引申出抽象義「邏輯或證據無懈可擊、滴水不漏」。",
+      "definition": "1. Not allowing air to escape or pass in; completely sealed; 2. (Of a plan or argument) having no flaws or weaknesses; foolproof.",
+      "example": [
+        {
+          "eng": "Store leftover food in an airtight container to keep it fresh.",
+          "ch": "將吃不完的食物存放在密閉容器中以保持新鮮。"
+        },
+        {
+          "eng": "The police built an airtight case against the suspect based on DNA evidence.",
+          "ch": "警方根據DNA證據建立了一個無懈可擊的嫌疑人案件。"
+        }
+      ]
+    },
+    {
+      "eng": "airway",
+      "kk": "/ˈɛrˌwe/",
+      "tense": "n.",
+      "ch": [
+        [
+          "呼吸道",
+          "航線",
+          "空中通道"
+        ]
+      ],
+      "analysis": "此字為名詞。現代透明複合詞，由 air（空氣、天空）與 way（道路、通道）結合而成。在醫學上指「氣管、呼吸道」；在交通上指飛機飛行的「空中航線」。",
+      "definition": "1. The passage by which air reaches a person's lungs; the respiratory tract; 2. An established route for airplanes.",
+      "example": [
+        {
+          "eng": "The paramedic cleared the patient's airway immediately.",
+          "ch": "救護人員立即清除患者的呼吸道異物。"
+        },
+        {
+          "eng": "Commercial airplanes follow strictly regulated airways across the globe.",
+          "ch": "民航機遵循全球嚴格規管的空中航線飛行。"
+        }
+      ]
+    },
+    {
+      "eng": "algebra",
+      "kk": "/ˈældʒəbrə/",
+      "tense": "n.",
+      "ch": [
+        [
+          "代數"
+        ]
+      ],
+      "analysis": "此字為名詞。源自阿拉伯語 al-jabr（意為「殘缺部分的還原與修補」），源於 9 世紀波斯數學家花拉子密（Al-Khwarizmi）的著名數學著作書名。經由中世紀拉丁語傳入歐洲各國，最終進入英語。指以符號和字母代表未知數來研究數與結構的數學分支。",
+      "definition": "1. The branch of mathematics in which letters and other general symbols are used to represent numbers and quantities in formulas and equations.",
+      "example": [
+        {
+          "eng": "High school students are required to take courses in geometry and algebra.",
+          "ch": "高中生必須修習幾何與代數課程。"
+        }
+      ]
+    },
+    {
+      "eng": "alienate",
+      "kk": "/ˈeljəˌnet/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使疏遠",
+          "離間",
+          "使轉移(財產等)"
+        ]
+      ],
+      "analysis": "此字為及物動詞。源自拉丁語 alienare（意為把某物讓渡給他人、使之變成外人），由 alienus（他人的、外國的）派生而來。英語中保留了兩層義項：一是社交上的「使人感到孤立、使疏遠與反感」；二是法律上的「讓渡轉移產權」。",
+      "definition": "1. To cause someone to feel isolated and estranged; to make someone unfriendly or hostile; 2. To transfer ownership of property rights to another person.",
+      "example": [
+        {
+          "eng": "His arrogant remarks alienated many of his supporters.",
+          "ch": "他傲慢的言論使許多支持者感到疏遠。"
+        }
+      ]
+    },
+    {
+      "eng": "align",
+      "kk": "/əˈlaɪn/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使成一行",
+          "對齊",
+          "使結盟"
+        ]
+      ],
+      "analysis": "此字為及物動詞。現代透明構詞由表示「向」的字首 ad-（同化為 al-）與源自古法語 lignier（源自拉丁語 linea，線條、直線）的詞根結合而成。語義從物理上的「排成直線、對齊」延伸出政治與立場上的「使與某方立場結盟、一致」。",
+      "definition": "1. To place things in a straight line or in correct relative positions; 2. To give support to a political group, country, or cause.",
+      "example": [
+        {
+          "eng": "Make sure to align the text to the left margin of the page.",
+          "ch": "請確保將文字與頁面左邊距對齊。"
+        },
+        {
+          "eng": "The country chose to align with its democratic neighbors on trade policy.",
+          "ch": "該國選擇在貿易政策上與其民主鄰國保持一致結盟。"
+        }
+      ]
+    },
+    {
+      "eng": "allege",
+      "kk": "/əˈlɛdʒ/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "斷言",
+          "指稱",
+          "宣稱(未經證實)"
+        ]
+      ],
+      "analysis": "此字為及物動詞。源自古法語 alegier，最終源自拉丁語 ex-（出）與 litigare（爭訟、訴訟），在中世紀法語中字形受到 lis（訴訟）影響。在現代英語中專門指「在未經法庭或正式調查證實前，聲稱某人做了壞事或違法行為」。",
+      "definition": "1. To claim or assert that someone has done something illegal or wrong, typically without giving proof.",
+      "example": [
+        {
+          "eng": "The witness alleged that she saw the defendant at the crime scene.",
+          "ch": "證人指稱她看到被告在犯罪現場。"
+        }
+      ]
+    },
+    {
+      "eng": "alligator",
+      "kk": "/ˈælɪˌɡetɚ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "短吻鱷",
+          "美洲鱷"
+        ]
+      ],
+      "analysis": "此字為名詞。源自西班牙語 el lagarto（意為「蜥蜴」），由拉丁語 lacertus（蜥蜴）演變而來，早期英國探險家誤將西班牙語定冠詞 el 當作字首拼入英文，變成了 alligator。專指產於美洲與中國的短吻鱷。",
+      "definition": "1. A large semiaquatic reptile similar to a crocodile, native to the Americas and China, characterized by a broader snout.",
+      "example": [
+        {
+          "eng": "Tourists often spot alligators sunning themselves along the riverbanks in Florida.",
+          "ch": "遊客經常在佛羅里達州的河岸邊看到短吻鱷在晒太陽。"
+        }
+      ]
+    },
+    {
+      "eng": "altitude",
+      "kk": "/ˈæltəˌtud/",
+      "tense": "n.",
+      "ch": [
+        [
+          "海拔",
+          "高度"
+        ]
+      ],
+      "analysis": "此字為名詞。源自拉丁語 altitudo，由 altus（高）加上名詞字尾 -itudo 構成。指相對於海平面或地面的垂直高度。常應用於航空、氣象與地理學中。",
+      "definition": "1. The height of an object or point in relation to sea level or ground level.",
+      "example": [
+        {
+          "eng": "The commercial airliner is currently flying at an altitude of 35,000 feet.",
+          "ch": "這架民航客機目前正以三萬五千英尺的高度飛行。"
+        }
+      ]
+    },
+    {
+      "eng": "aluminum",
+      "kk": "/əˈlumənəm/",
+      "tense": "n.",
+      "ch": [
+        [
+          "鋁"
+        ]
+      ],
+      "analysis": "此字為名詞。由英國化學家漢弗里·戴維命名，源自拉丁語 alumen（明礬），加上化學元素常見字尾 -ium。美式拼法與讀音為 aluminum，英聯邦國家常拼為 aluminium。指銀白色、輕量且具延展性的金屬元素。",
+      "definition": "1. A silvery-white, lightweight, ductile metallic element (symbol Al, atomic number 13).",
+      "example": [
+        {
+          "eng": "Soda cans are mostly made from recyclable aluminum.",
+          "ch": "汽水罐大多由可回收的鋁製成。"
+        }
+      ]
+    },
+    {
+      "eng": "ambiguity",
+      "kk": "/ˌæmbɪˈɡjuəti/",
+      "tense": "n.",
+      "ch": [
+        [
+          "模稜兩可",
+          "含糊不清",
+          "歧義"
+        ]
+      ],
+      "analysis": "此字為名詞。由形容詞 ambiguous 派生而來，源自拉丁語 ambiguitas，根源於 ambigere（意為「在兩邊遊移不定、爭論不休」）。指語言、法律條文或情況具有多種解釋可能、不夠明確的特性。",
+      "definition": "1. The quality of being open to more than one interpretation; inexactness or double meaning.",
+      "example": [
+        {
+          "eng": "The contract contained legal ambiguities that led to a dispute.",
+          "ch": "該合約包含導致糾紛的法律條文模稜兩可之處。"
+        }
+      ]
+    },
+    {
+      "eng": "amid",
+      "kk": "/əˈmɪd/",
+      "tense": "prep.",
+      "ch": [
+        [
+          "在…之中",
+          "被…包圍"
+        ]
+      ],
+      "analysis": "此字為介系詞。源自古英語 on middan（意為在…正中間），由介系詞 on 與名詞 middel 演變而來。語義指某事物處於眾多物件或混亂環境的正中央或環繞之中。",
+      "definition": "1. Surrounded by; in the middle of.",
+      "example": [
+        {
+          "eng": "She found her lost ring amid the clutter on the desk.",
+          "ch": "她在桌子雜亂的物品中找到了她遺失的戒指。"
+        }
+      ]
+    },
+    {
+      "eng": "amidst",
+      "kk": "/əˈmɪdst/",
+      "tense": "prep.",
+      "ch": [
+        [
+          "在…之中",
+          "處於…環境中"
+        ]
+      ],
+      "analysis": "此字為介系詞。由 amid 加上副詞屬格字尾 -st 演變而來（類似 amongst），意義與 amid 完全相同，但在文學作品、詩歌或正式文體中更常使用，強調周遭喧擾或複雜的環境背景。",
+      "definition": "1. Surrounded by; in the middle of (a variant of amid, often used in more literary or formal contexts).",
+      "example": [
+        {
+          "eng": "He remained calm amidst the chaos of the emergency room.",
+          "ch": "他在急診室的混亂之中保持鎮定。"
+        }
+      ]
+    },
+    {
+      "eng": "amplify",
+      "kk": "/ˈæmpləˌfaɪ/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "放大",
+          "增強",
+          "詳述",
+          "擴大"
+        ]
+      ],
+      "analysis": "此字為及物動詞。現代透明構詞由源自拉丁語 amplus（寬廣的、充足的）的詞根與動詞字尾 -fy（使成為）結合而成。歷史上經由中世紀拉丁語 amplificare 進入英語。語義從物理上的「增加聲音或訊號的強度（放大器）」延伸出「擴大論點、補充詳述某事」。",
+      "definition": "1. To increase the volume of sound, or to increase the strength of an electrical signal; 2. To increase the details of a story or statement; to expand upon.",
+      "example": [
+        {
+          "eng": "The microphone is used to amplify the speaker's voice.",
+          "ch": "麥克風是用來放大演講者的聲音。"
+        },
+        {
+          "eng": "Could you please amplify your remarks on this crucial matter?",
+          "ch": "請您針對這個關鍵問題多做一些詳細說明好嗎？"
+        }
+      ]
+    },
+    {
+      "eng": "analogy",
+      "kk": "/əˈnælədʒi/",
+      "tense": "n.",
+      "ch": [
+        [
+          "類比",
+          "類推",
+          "相似處"
+        ]
+      ],
+      "analysis": "此字為名詞。源自古希臘語 ἀναλογία（analogia，意為「比例相稱、類似」），由 ana-（向、依照）與 logos（比例、理性、詞語）組成。經由拉丁語進入英語。指透過比較兩個不同事物的相似之處來解釋某個複雜概念的思維方式。",
+      "definition": "1. A comparison between two things, typically on the basis of their structure and for the purpose of explanation or clarification.",
+      "example": [
+        {
+          "eng": "The teacher used an analogy of a solar system to explain the atom.",
+          "ch": "老師用太陽系的類比來解釋原子。"
+        }
+      ]
+    },
+    {
+      "eng": "analytical",
+      "kk": "/ˌænəˈlɪtɪkəl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "分析的",
+          "善於分析的",
+          "解析的"
+        ]
+      ],
+      "analysis": "此字為形容詞。由名詞 analysis（源自古希臘語 analysis，解開、分解）派生出形容詞 analytic，再外加形容詞字尾 -al 構成。指採用邏輯推理與細緻拆解的方式來研究或解決問題的特質或思維能力。",
+      "definition": "1. Relating to or using analysis or logical reasoning; skilled in breaking down complex problems to understand them.",
+      "example": [
+        {
+          "eng": "Data scientists need strong analytical skills to interpret complex information.",
+          "ch": "資料科學家需要強大的分析能力來解讀複雜的資訊。"
+        }
+      ]
+    },
+    {
+      "eng": "anchor",
+      "kk": "/ˈæŋkɚ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "錨",
+          "精神支柱",
+          "新聞主播"
+        ]
+      ],
+      "analysis": "此字為名詞。源自古希臘語 ἄγκυρα（ankura），經由拉丁語 ancora 與古英語 ancor（或早期諾曼法語）傳入英語。語義從航海用的「鐵錨」延伸出比喻義「穩定局勢的精神支柱或核心人物」，再進一步引申為廣播電視節目中的「首席新聞主播（anchorman/anchorwoman 的簡稱）」。",
+      "definition": "1. A heavy metal device dropped from a vessel into the water to prevent it from drifting; 2. A person or thing that provides stability or confidence; 3. The person who hosts a television or radio news broadcast.",
+      "example": [
+        {
+          "eng": "The ship dropped anchor in the sheltered bay.",
+          "ch": "船在避風的海灣拋下了錨。"
+        },
+        {
+          "eng": "She is the main anchor for the evening news broadcast.",
+          "ch": "她是晚間新聞播報的主播。"
+        }
+      ]
+    },
+    {
+      "eng": "anchor",
+      "kk": "/ˈæŋkɚ/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "拋錨停泊",
+          "使穩固",
+          "主持(新聞)"
+        ]
+      ],
+      "analysis": "此字為及物動詞。由名詞 anchor 經由零轉品轉化而來。指用錨固定船隻、將物體牢牢釘在某處以防晃動，或擔任新聞節目的主播工作。",
+      "definition": "1. To lower an anchor to hold a boat in place; to fasten something securely; 2. To host a news broadcast.",
+      "example": [
+        {
+          "eng": "We need to anchor the tent securely before the storm hits.",
+          "ch": "在暴風雨來襲前，我們需要把帳篷牢牢固定好。"
+        },
+        {
+          "eng": "He has anchored the national evening news for over a decade.",
+          "ch": "他主持全國晚間新聞已經超過十年了。"
+        }
+      ]
+    },
+    {
+      "eng": "animate",
+      "kk": "/ˈænəˌmet/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使有活力",
+          "賦予生命",
+          "繪製動畫"
+        ]
+      ],
+      "analysis": "此字為及物動詞。源自拉丁語 animare（使呼吸、賦予生命），由 anima（靈魂、生命氣息）派生而來。語義從「賦予生物生命、使充滿生氣與活力」延伸出現代科技與藝術上的「製作動畫、使靜態圖案動起來」。",
+      "definition": "1. To bring to life; to make someone or something lively or full of energy; 2. To create a moving cartoon or image using computer graphics or drawings.",
+      "example": [
+        {
+          "eng": "Her passionate speech animated the entire crowd.",
+          "ch": "她熱情洋溢的演講使整個人群充滿了活力。"
+        },
+        {
+          "eng": "Artists use specialized software to animate digital characters.",
+          "ch": "藝術家使用專門的軟體來製作數位角色的動畫。"
+        }
+      ]
+    },
+    {
+      "eng": "animate",
+      "kk": "/ˈænəmət/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "有生命的",
+          "活的",
+          "生氣勃勃的"
+        ]
+      ],
+      "analysis": "此字為形容詞。源自拉丁語 animatus（有生命的），與動詞同形但讀音尾音不同。指具有生命的實體（對應語言學中的有生物）或神情生動的狀態。",
+      "definition": "1. Living; possessing life; active and spirited.",
+      "example": [
+        {
+          "eng": "Language distinguishes between animate and inanimate objects in various grammatical ways.",
+          "ch": "語言在各種語法結構中區分了有生命與無生命的物體。"
+        }
+      ]
+    },
+    {
+      "eng": "annoyance",
+      "kk": "/əˈnɔɪəns/",
+      "tense": "n.",
+      "ch": [
+        [
+          "煩惱",
+          "令人討厭的事物",
+          "惱怒"
+        ]
+      ],
+      "analysis": "此字為名詞。由動詞 annoy 加上名詞字尾 -ance 構成。源自古法語 anoier（使感到痛苦或厭煩，最終源自拉丁語 in odio，在恨意之中）。指心裡感到煩躁的情緒，或是造成這種感覺的人或小麻煩。",
+      "definition": "1. The feeling of being slightly angry or irritated; a thing or person that causes this feeling.",
+      "example": [
+        {
+          "eng": "He could not hide his annoyance at the constant interruptions.",
+          "ch": "他無法掩飾自己對不斷打斷的惱怒。"
+        }
+      ]
+    },
+    {
+      "eng": "anthem",
+      "kk": "/ˈænθəm/",
+      "tense": "n.",
+      "ch": [
+        [
+          "國歌",
+          "頌歌",
+          "讚美詩"
+        ]
+      ],
+      "analysis": "此字為名詞。源自古英語 antefn，源自古希臘語 ἀντίφωνον（antiphōnon，意為「對唱的聖歌」）。語義從教會音樂中的「對唱讚美詩」演變為代表國家、學校或特定團體精神的「國歌或主題曲」。",
+      "definition": "1. A rousing or solemn song identified with a particular group, body, or country.",
+      "example": [
+        {
+          "eng": "Spectators stood respectfully as the national anthem was played.",
+          "ch": "當國歌奏響時，觀眾們肅立致敬。"
+        }
+      ]
+    },
+    {
+      "eng": "antibiotic",
+      "kk": "/ˌæntibaɪˈɑtɪk/",
+      "tense": "n.",
+      "ch": [
+        [
+          "抗生素",
+          "抗菌素"
+        ]
+      ],
+      "analysis": "此字為名詞。現代透明構詞由表示「反對、對抗」的字首 anti- 與源自古希臘語 βίος（bios，生命）的詞根（加上形容詞/名詞字尾 -tic）結合而成。字面原義為「抵抗細菌與微生物的物質」。",
+      "definition": "1. A medicine that inhibits the growth of or destroys microorganisms, especially bacteria.",
+      "example": [
+        {
+          "eng": "The doctor prescribed a course of antibiotics to treat the bacterial infection.",
+          "ch": "醫生開了一個療程的抗生素來治療細菌感染。"
+        }
+      ]
+    },
+    {
+      "eng": "anticipation",
+      "kk": "/ænˌtɪsəˈpeʃən/",
+      "tense": "n.",
+      "ch": [
+        [
+          "期待",
+          "預料",
+          "預期"
+        ]
+      ],
+      "analysis": "此字為名詞。由動詞 anticipate 加上名詞字尾 -ion 構成，源自拉丁語 anticipatio，根源於 ante-（在前）與 capere（拿取）。字面原義為「事前預先採取行動」，演變為現代心智上的「期待、期盼某事的發生」。",
+      "definition": "1. The action of anticipating something; excitement about something that is going to happen.",
+      "example": [
+        {
+          "eng": "Children waited with breathless anticipation for the holiday gifts to be opened.",
+          "ch": "孩子們屏息以待地期待著拆開節日禮物。"
+        }
+      ]
+    }
+  ]
+}

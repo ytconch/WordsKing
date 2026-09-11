@@ -1,0 +1,1343 @@
+{
+  "level": 4,
+  "chunkIndex": 13,
+  "inputs": [
+    "launch",
+    "lawful",
+    "lean",
+    "learned",
+    "lecture",
+    "lecturer",
+    "legend",
+    "leisurely",
+    "lengthen",
+    "liar",
+    "librarian",
+    "license",
+    "lifeguard",
+    "limitation",
+    "linen",
+    "lipstick",
+    "liquor",
+    "literary",
+    "literature",
+    "loan",
+    "lobster",
+    "logic",
+    "logical",
+    "loosen",
+    "lousy",
+    "loyal",
+    "loyalty",
+    "luxurious",
+    "luxury",
+    "machinery",
+    "magnetic",
+    "magnificent",
+    "makeup",
+    "manual",
+    "manufacture",
+    "manufacturer",
+    "marathon",
+    "margin",
+    "maturity",
+    "maximum",
+    "measurable",
+    "measure",
+    "measures",
+    "mechanic",
+    "mechanical",
+    "memorable",
+    "memorial",
+    "memorize",
+    "merchant",
+    "mercy"
+  ],
+  "rows": [
+    {
+      "eng": "launch",
+      "kk": "lɔntʃ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "發起",
+          "展開",
+          "啟動"
+        ],
+        [
+          "發射",
+          "使下水"
+        ]
+      ],
+      "analysis": "此字源自古法語 lancier（投擲、發射），最終源自拉丁語 lanceare（用長矛刺），由 lancea（長矛）衍生而來。語意從早期的「投擲長矛」演變為「用力向前推進、讓船隻下水」，現代則廣泛延伸至「發射火箭、發起活動或推出新產品」。作及物動詞時，後方需接直接受詞。",
+      "definition": "1. to start or set in motion an activity, plan, or product; 2. to send a spacecraft, weapon, or boat into the air, space, or water.",
+      "example": [
+        {
+          "eng": "The company plans to launch a new smartphone next month.",
+          "ch": "這家公司計畫在下個月推出一款新智慧型手機。"
+        },
+        {
+          "eng": "The agency successfully launched a weather satellite into orbit.",
+          "ch": "該機構成功將一顆氣象衛星發射進入軌道。"
+        }
+      ]
+    },
+    {
+      "eng": "launch",
+      "kk": "lɔntʃ",
+      "tense": "vi.",
+      "ch": [
+        [
+          "起航",
+          "下水"
+        ],
+        [
+          "起飛",
+          "躍起"
+        ]
+      ],
+      "analysis": "作為不及物動詞時，繼承自 launch 的動詞用法，表示船隻下水啟航或物體向前衝出、開始行動，句型中不直接加受詞。歷史源自動詞 lanceare，經由法語進入英語，語意從實體的投擲與下水，抽象化為行動的展開。",
+      "definition": "1. to set sail or send a boat into the water; 2. to start out or embark forcefully upon an activity.",
+      "example": [
+        {
+          "eng": "The ship is ready to launch from the harbor.",
+          "ch": "這艘船準備好從港口起航了。"
+        },
+        {
+          "eng": "The swimmer launched off the starting block with great speed.",
+          "ch": "這名游泳選手以極快的速度從出發臺躍入水中。"
+        }
+      ]
+    },
+    {
+      "eng": "lawful",
+      "kk": "ˈlɔfəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "合法的",
+          "依法的",
+          "正當的"
+        ]
+      ],
+      "analysis": "現代透明構詞，由名詞 law（法律）加上形容詞字尾 -ful（充滿……的、具備……性質的）組成。字面義即「符合法律的」，指行為、權利或身份受到法律承認或允許，與 illegal（非法的）相對。",
+      "definition": "1. allowed or permitted by law; conforming to the law.",
+      "example": [
+        {
+          "eng": "Citizens have a lawful right to free expression.",
+          "ch": "公民擁有言論自由的合法權利。"
+        }
+      ]
+    },
+    {
+      "eng": "lean",
+      "kk": "lin",
+      "tense": "vi.",
+      "ch": [
+        [
+          "傾斜",
+          "倚靠"
+        ],
+        [
+          "傾向"
+        ]
+      ],
+      "analysis": "源自古英語 hlēonian（傾斜、倚靠），屬日耳曼語源的繼承詞。語意從身體或物體偏離垂直線、靠在某物上，延伸出抽象的政治或個人觀點「傾向於某種立場」。作不及物動詞時不直接加受詞，常搭配介系詞如 against、on 或 toward。",
+      "definition": "1. to incline or bend from a vertical position; to rest against something for support; 2. to tend toward a particular opinion, belief, or direction.",
+      "example": [
+        {
+          "eng": "He was tired and decided to lean against the wall.",
+          "ch": "他累了，決定靠在牆上。"
+        },
+        {
+          "eng": "Her political views tend to lean toward the left.",
+          "ch": "她的政治觀點傾向於左派。"
+        }
+      ]
+    },
+    {
+      "eng": "lean",
+      "kk": "lin",
+      "tense": "adj.",
+      "ch": [
+        [
+          "瘦的",
+          "精瘦的"
+        ],
+        [
+          "貧乏的",
+          "蕭條的"
+        ]
+      ],
+      "analysis": "源自古英語 hlǣne（瘦弱的、貧瘠的），與動詞 lean 歷史上相關。語意從肉類不含脂肪、人體精瘦，引申出資源或時期「缺乏的、蕭條的、精簡的（如 lean years）」。",
+      "definition": "1. thin and without much fat, especially referring to meat or a person's build; 2. producing little or lacking richness, abundance, or resources.",
+      "example": [
+        {
+          "eng": "She prefers to eat lean cuts of beef.",
+          "ch": "她偏好食用瘦牛肉切片。"
+        },
+        {
+          "eng": "The company had to cut costs during lean financial years.",
+          "ch": "公司必須在財務蕭條的年度中削減成本。"
+        }
+      ]
+    },
+    {
+      "eng": "learned",
+      "kk": "ˈlɜrnɪd",
+      "tense": "adj.",
+      "ch": [
+        [
+          "博學的",
+          "學術的",
+          "有學問的"
+        ]
+      ],
+      "analysis": "由動詞 learn 的過去分詞轉化而來的形容詞，讀音為雙音節 /ˈlɜrnɪd/ 以區別於動詞過去式 learned。字面意為「已經學習過的、累積了知識的」，現代主要用來形容人博學多聞或與學術、博雅教育相關的事物。",
+      "definition": "1. having much knowledge acquired through study; scholarly.",
+      "example": [
+        {
+          "eng": "The professor gave a lecture to a group of learned scholars.",
+          "ch": "這位教授向一群博學的學者發表了演講。"
+        }
+      ]
+    },
+    {
+      "eng": "lecture",
+      "kk": "ˈlɛktʃər",
+      "tense": "n.",
+      "ch": [
+        [
+          "授課",
+          "演講"
+        ],
+        [
+          "訓斥",
+          "長篇大論"
+        ]
+      ],
+      "analysis": "源自中世紀拉丁語 lectura（讀物、講課），由拉丁語 lectus（legere“讀”的過去分詞）加上名詞字尾 -ura 構成。語意從「大聲朗讀與講解的內容」，演變成現代大學裡的「學術講課、公開演講」，以及口語中指責、訓斥的「長篇大論」。",
+      "definition": "1. an educational talk to an audience, especially one delivered to students in a university; 2. a lengthy reprimand or scolding.",
+      "example": [
+        {
+          "eng": "Students took notes carefully during the history lecture.",
+          "ch": "學生們在歷史課上仔細做筆記。"
+        },
+        {
+          "eng": "He gave his son a long lecture about wasting money.",
+          "ch": "他對兒子進行了一番關於浪費金錢的長篇訓斥。"
+        }
+      ]
+    },
+    {
+      "eng": "lecture",
+      "kk": "ˈlɛktʃər",
+      "tense": "vi.",
+      "ch": [
+        [
+          "演講",
+          "講課",
+          "作學術報告"
+        ]
+      ],
+      "analysis": "由名詞 lecture 轉品而來的不及物動詞，指某人進行公開演說、在大學講臺上授課，通常不直接加受詞，常與介系詞 on 搭配說明主題。",
+      "definition": "1. to deliver an educational lecture or a series of speeches on a subject.",
+      "example": [
+        {
+          "eng": "Dr. Smith lectures on modern European history at the university.",
+          "ch": "史密斯博士在大學裡講授現代歐洲史。"
+        }
+      ]
+    },
+    {
+      "eng": "lecturer",
+      "kk": "ˈlɛktʃərər",
+      "tense": "n.",
+      "ch": [
+        [
+          "講師",
+          "演講者"
+        ]
+      ],
+      "analysis": "現代透明構詞，由動詞 lecture 加上表示人的名詞字尾 -er 構成。指在高等教育機構中授課的講師，或受邀進行公開演講的人。",
+      "definition": "1. a person who gives lectures, especially as an occupation in a university.",
+      "example": [
+        {
+          "eng": "She works as a senior lecturer in the economics department.",
+          "ch": "她在經濟系擔任高級講師。"
+        }
+      ]
+    },
+    {
+      "eng": "legend",
+      "kk": "ˈlɛdʒənd",
+      "tense": "n.",
+      "ch": [
+        [
+          "傳說",
+          "傳奇故事"
+        ],
+        [
+          "傳奇人物"
+        ]
+      ],
+      "analysis": "源自中古拉丁語 legenda（原意為“應當讀的事物”，指聖徒傳記），源自拉丁語 legere（閱讀）。在中世紀指記錄聖徒生平的讀物，隨後語意擴大為民間流傳的「傳說、神話故事」，近代再引申為領域內極具影響力的「傳奇人物」。",
+      "definition": "1. a traditional story sometimes popularly regarded as historical but not authenticated; 2. a famous or important person who is very well known.",
+      "example": [
+        {
+          "eng": "The story of King Arthur is a famous legend.",
+          "ch": "亞瑟王的故事是一個著名的傳說。"
+        },
+        {
+          "eng": "Michael Jordan is a basketball legend.",
+          "ch": "麥可·喬丹是一位籃球傳奇人物。"
+        }
+      ]
+    },
+    {
+      "eng": "leisurely",
+      "kk": "ˈliʒərli",
+      "tense": "adj.",
+      "ch": [
+        [
+          "從容的",
+          "悠閒的",
+          "不慌不忙的"
+        ]
+      ],
+      "analysis": "現代透明構詞，由名詞 leisure（閒暇）加上形容詞字尾 -ly（具……特質的）。字面意思是「充滿閒暇氣氛的、不緊湊的」，用來形容步調緩慢、放鬆的活動或狀態。",
+      "definition": "1. acting or done in a relaxed and unhurried manner.",
+      "example": [
+        {
+          "eng": "They enjoyed a leisurely stroll through the park.",
+          "ch": "他們在公園裡享受了一次悠閒的散步。"
+        }
+      ]
+    },
+    {
+      "eng": "lengthen",
+      "kk": "ˈlɛŋθən",
+      "tense": "v.",
+      "ch": [
+        [
+          "延長",
+          "變長",
+          "加長"
+        ]
+      ],
+      "analysis": "現代透明構詞，由形容詞 long（長的）的詞根形式 length 加上動詞化字尾 -en（使變得……）。同時具備及物與不及物用法，表示使某物變長或時間、過程變得更長。",
+      "definition": "1. to make or become longer.",
+      "example": [
+        {
+          "eng": "The days begin to lengthen in the spring.",
+          "ch": "春天時白天的時間開始變長。"
+        },
+        {
+          "eng": "She needs to lengthen the skirt by two inches.",
+          "ch": "她需要把裙子放長兩吋。"
+        }
+      ]
+    },
+    {
+      "eng": "liar",
+      "kk": "ˈlaɪər",
+      "tense": "n.",
+      "ch": [
+        [
+          "說謊者",
+          "騙子"
+        ]
+      ],
+      "analysis": "源自古英語 lēogere（說謊者），由動詞 lēogan（說謊，源自日耳曼語族）加上名詞字尾 -ar（表示人的 agent suffix）。指習慣性或刻意說謊、欺騙他人的人。",
+      "definition": "1. a person who tells lies.",
+      "example": [
+        {
+          "eng": "Don't trust him; he is a proven liar.",
+          "ch": "別相信他，他是一個惡名昭彰的騙子。"
+        }
+      ]
+    },
+    {
+      "eng": "librarian",
+      "kk": "laɪˈbrɛriən",
+      "tense": "n.",
+      "ch": [
+        [
+          "圖書館員",
+          "圖書館長"
+        ]
+      ],
+      "analysis": "現代透明構詞，由名詞 library（圖書館，源自拉丁語 librarium）加上表示職業或身份的名詞字尾 -ian。指在圖書館管理藏書、協助讀者尋找資料的專業人員。",
+      "definition": "1. a person who works professionally in a library, maintaining and handling its collection.",
+      "example": [
+        {
+          "eng": "The librarian helped me find the reference book I needed.",
+          "ch": "圖書館員幫我找到了我需要的參考書。"
+        }
+      ]
+    },
+    {
+      "eng": "license",
+      "kk": "ˈlaɪsəns",
+      "tense": "n.",
+      "ch": [
+        [
+          "許可證",
+          "執照",
+          "特許"
+        ]
+      ],
+      "analysis": "源自古法語 license，源自拉丁語 licentia（自由、許可），由 licere（被允許）衍生而來。指政府或官方機構授予個人或企業從事某種活動、駕駛或營業的法定憑證與許可。",
+      "definition": "1. an official document or permit granting authorization to do, use, or own something.",
+      "example": [
+        {
+          "eng": "You must have a valid driver's license to drive a car.",
+          "ch": "你必須持有有效的駕駛執照才能開車。"
+        }
+      ]
+    },
+    {
+      "eng": "license",
+      "kk": "ˈlaɪsəns",
+      "tense": "vt.",
+      "ch": [
+        [
+          "發給執照",
+          "許可",
+          "授權"
+        ]
+      ],
+      "analysis": "由名詞 license 轉品而來的及物動詞，指官方機構依法向某人或某企業核發營業執照、駕駛證或特許權，句型中必須接直接受詞。",
+      "definition": "1. to grant an official license or authorization to someone or a business.",
+      "example": [
+        {
+          "eng": "The state licenses restaurants to sell alcoholic beverages.",
+          "ch": "該州授權餐廳販售含酒精飲料。"
+        }
+      ]
+    },
+    {
+      "eng": "lifeguard",
+      "kk": "ˈlaɪfɡɑrd",
+      "tense": "n.",
+      "ch": [
+        [
+          "救生員"
+        ]
+      ],
+      "analysis": "現代透明複合詞，由 life（生命）與 guard（守衛、保衛者）結合而成。字面意思是「保護生命的人」，指在游泳池、海灘或水上樂園負責維護泳客安全、防範溺水的專業救生人員。",
+      "definition": "1. a person employed at a beach or pool to rescue swimmers in danger of drowning.",
+      "example": [
+        {
+          "eng": "The alert lifeguard jumped into the pool to save the child.",
+          "ch": "機警的救生員跳進泳池救了那個小孩。"
+        }
+      ]
+    },
+    {
+      "eng": "limitation",
+      "kk": "ˌlɪməˈteɪʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "限制",
+          "侷限"
+        ],
+        [
+          "缺點"
+        ]
+      ],
+      "analysis": "現代透明構詞，由動詞 limit（限制，源自拉丁語 limitare）加上名詞字尾 -ation 構成。指對範圍、能力、數量或自由度的約束、設限，或是事物本身的缺陷與侷限性。",
+      "definition": "1. a restrictive rule or circumstance; 2. a defect or failing.",
+      "example": [
+        {
+          "eng": "Every technology has its own limitations.",
+          "ch": "每種技術都有其侷限性。"
+        }
+      ]
+    },
+    {
+      "eng": "linen",
+      "kk": "ˈlɪnən",
+      "tense": "n.",
+      "ch": [
+        [
+          "亞麻布",
+          "亞麻織品"
+        ],
+        [
+          "床單衣物總稱"
+        ]
+      ],
+      "analysis": "源自古英語 līnen（由亞麻製成的），最終源自拉丁語 linum（亞麻）。原本指由亞麻纖維紡織成的布料，後來也引申泛指用此類布料製成的床單、桌布、毛巾等家用織品。",
+      "definition": "1. cloth woven from flax fibers; 2. household items made of cloth such as sheets and tablecloths.",
+      "example": [
+        {
+          "eng": "She bought a set of pure linen bedsheets.",
+          "ch": "她買了一套純亞麻床單。"
+        }
+      ]
+    },
+    {
+      "eng": "lipstick",
+      "kk": "ˈlɪpˌstɪk",
+      "tense": "n.",
+      "ch": [
+        [
+          "口紅",
+          "唇膏"
+        ]
+      ],
+      "analysis": "現代透明複合詞，由 lip（嘴唇）與 stick（棍、棒狀物）組合而成。指製成棒狀、塗抹在嘴唇上以增添色彩與光澤的化妝品。",
+      "definition": "1. a cosmetic product containing pigment, applied to the lips to give them color.",
+      "example": [
+        {
+          "eng": "She applied a bright red lipstick before going out.",
+          "ch": "她在外出前抹上了鮮紅色的口紅。"
+        }
+      ]
+    },
+    {
+      "eng": "liquor",
+      "kk": "ˈlɪkər",
+      "tense": "n.",
+      "ch": [
+        [
+          "烈酒",
+          "含酒精飲料"
+        ]
+      ],
+      "analysis": "源自古法語 liquor，源自拉丁語 liquor（液體、汁液），由 liquere（液化、流動）衍生而來。在早期英語中泛指各種液體，但在現代英語中主要專指透過蒸餾製成的烈性酒（如威士忌、伏特加等）。",
+      "definition": "1. alcoholic beverage that has been distilled rather than fermented; hard liquor.",
+      "example": [
+        {
+          "eng": "The store is licensed to sell beer, wine, and hard liquor.",
+          "ch": "這家店獲准販售啤酒、葡萄酒和烈酒。"
+        }
+      ]
+    },
+    {
+      "eng": "literary",
+      "kk": "ˈlɪtəˌrɛri",
+      "tense": "adj.",
+      "ch": [
+        [
+          "文學的",
+          "文藝的"
+        ]
+      ],
+      "analysis": "現代透明構詞，由名詞 literature 或拉丁語 littera（字母、文字）衍生而來，加上形容詞字尾 -ary。指與文學創作、作家、書本世界或學術研究高度相關的事物。",
+      "definition": "1. concerning the writing, study, or content of literature.",
+      "example": [
+        {
+          "eng": "She has a deep interest in literary classics.",
+          "ch": "她對文學經典有著濃厚的興趣。"
+        }
+      ]
+    },
+    {
+      "eng": "literature",
+      "kk": "ˈlɪtərəˌtʃʊr",
+      "tense": "n.",
+      "ch": [
+        [
+          "文學",
+          "文學作品"
+        ],
+        [
+          "文獻資料",
+          "宣傳資料"
+        ]
+      ],
+      "analysis": "源自拉丁語 literatura（書寫、字母學問），由 littera（字母）衍生而來。原本指書面文字與學識，後來專指具有藝術價值的小說、詩歌、戲劇等「文學作品」，亦可指某個學科領域中的「專業文獻、研究資料」。",
+      "definition": "1. written works, especially those considered of superior or lasting artistic merit; 2. printed material published by a company or institution giving information about a product or subject.",
+      "example": [
+        {
+          "eng": "English literature includes works by Shakespeare and Dickens.",
+          "ch": "英國文學包含莎士比亞和狄更斯的著作。"
+        },
+        {
+          "eng": "Please read the product literature before using the device.",
+          "ch": "使用本裝置前，請先閱讀產品說明文獻。"
+        }
+      ]
+    },
+    {
+      "eng": "loan",
+      "kk": "loʊn",
+      "tense": "n.",
+      "ch": [
+        [
+          "貸款",
+          "借款"
+        ]
+      ],
+      "analysis": "源自古諾斯語 lán（借貸）或古英語 lǣn，屬日耳曼語源。指將金錢、物品暫時借給他人使用（通常附帶利息條件），或指銀行核發的財務貸款。",
+      "definition": "1. a sum of money that is borrowed and expected to be paid back with interest.",
+      "example": [
+        {
+          "eng": "He applied for a bank loan to buy a new house.",
+          "ch": "他申請了一筆銀行貸款來買新房。"
+        }
+      ]
+    },
+    {
+      "eng": "loan",
+      "kk": "loʊn",
+      "tense": "vt.",
+      "ch": [
+        [
+          "借出",
+          "貸與"
+        ]
+      ],
+      "analysis": "由名詞 loan 轉品而來的及物動詞，指將金錢或物品借給他人，美式英語中也常用 lend，但 loan 作動詞在商業和日常生活中亦十分常見。句型中需接直接受詞。",
+      "definition": "1. to lend something, especially money, to someone.",
+      "example": [
+        {
+          "eng": "Could you loan me your car for the weekend?",
+          "ch": "你可以把車子借我過週末嗎？"
+        }
+      ]
+    },
+    {
+      "eng": "lobster",
+      "kk": "ˈlɑbstər",
+      "tense": "n.",
+      "ch": [
+        [
+          "龍蝦"
+        ]
+      ],
+      "analysis": "源自古英語 loppestre，是由拉丁語 locusta（蝗蟲、龍蝦）與古英語 loppe（蜘蛛、跳蚤）混種變形而來的詞彙。指生活在海洋中、帶有大螯的珍貴大型甲殼類海鮮。",
+      "definition": "1. a large marine crustacea with cylindrical body, stalked eyes, and large claws.",
+      "example": [
+        {
+          "eng": "They ordered fresh steamed lobster for dinner.",
+          "ch": "他們晚餐點了清蒸鮮龍蝦。"
+        }
+      ]
+    },
+    {
+      "eng": "logic",
+      "kk": "ˈlɑdʒɪk",
+      "tense": "n.",
+      "ch": [
+        [
+          "邏輯",
+          "推理",
+          "道理"
+        ]
+      ],
+      "analysis": "源自古法語 logique，源自拉丁語 logica，最終源自希臘語 logike（與言語或理性有關的學問），源自 logos（理性、話語）。指合乎規律的推理方式、思考方法，或某種情境背後的合理性與道理。",
+      "definition": "1. reasoning conducted or assessed according to strict principles of validity; a particular way of thinking or explaining.",
+      "example": [
+        {
+          "eng": "I cannot follow the logic behind his decision.",
+          "ch": "我無法理解他決策背後的邏輯。"
+        }
+      ]
+    },
+    {
+      "eng": "logical",
+      "kk": "ˈlɑdʒɪkəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "邏輯的",
+          "合乎情理的",
+          "合理的"
+        ]
+      ],
+      "analysis": "現代透明構詞，由名詞 logic 加上形容詞字尾 -ical。指符合邏輯規則、推論嚴密，或在情境下顯得理所當然、順理成章的事物。",
+      "definition": "1. characterized by or capable of clear, sound reasoning; natural or sensible given the circumstances.",
+      "example": [
+        {
+          "eng": "Moving to a larger office was a logical step for the growing company.",
+          "ch": "對這家成長中的公司而言，搬到更大的辦公室是合乎邏輯的一步。"
+        }
+      ]
+    },
+    {
+      "eng": "loosen",
+      "kk": "ˈlusən",
+      "tense": "vt.",
+      "ch": [
+        [
+          "放鬆",
+          "鬆開",
+          "解開"
+        ]
+      ],
+      "analysis": "現代透明構詞，由形容詞 loose（鬆的）加上動詞化字尾 -en。指使原本緊繃、束縛或固定住的東西變鬆或解開，句型中必須接直接受詞。",
+      "definition": "1. to make something less tight, firm, or strict; to unfasten.",
+      "example": [
+        {
+          "eng": "He decided to loosen his tie after the long meeting.",
+          "ch": "漫長的會議結束後，他決定把領帶鬆開。"
+        }
+      ]
+    },
+    {
+      "eng": "loosen",
+      "kk": "ˈlusən",
+      "tense": "vi.",
+      "ch": [
+        [
+          "鬆開",
+          "變鬆"
+        ]
+      ],
+      "analysis": "作為不及物動詞時，指緊密的結構、結或扣子自行或在受力下變鬆，句型中不加直接受詞。",
+      "definition": "1. to become less tight or firm.",
+      "example": [
+        {
+          "eng": "The knot in the rope began to loosen.",
+          "ch": "繩子上的結開始鬆開了。"
+        }
+      ]
+    },
+    {
+      "eng": "lousy",
+      "kk": "ˈlaʊzi",
+      "tense": "adj.",
+      "ch": [
+        [
+          "糟透的",
+          "討厭的",
+          "劣質的"
+        ]
+      ],
+      "analysis": "源自古英語 lūs（蝨子）衍生出的形容詞 lūsīg（多蝨子的）。最初字面意思是「身上長滿蝨子、很髒的」，後來在口語中語意大幅貶義化，泛指任何品質低劣、令人心情糟糕或倒楣的狀況。",
+      "definition": "1. very poor in quality; unpleasant or unfortunate.",
+      "example": [
+        {
+          "eng": "We had to stay indoors because of the lousy weather.",
+          "ch": "因為糟透的天氣，我們被迫待在室內。"
+        }
+      ]
+    },
+    {
+      "eng": "loyal",
+      "kk": "ˈlɔɪəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "忠誠的",
+          "忠實的",
+          "堅定支持的"
+        ]
+      ],
+      "analysis": "源自古法語 loial，最終源自拉丁語 lēgalis（合法的），經由羅曼語族演變，字面義從「守法的」轉化為「對法律、國家、君主或朋友守信用、不背叛的忠誠」。",
+      "definition": "1. giving firm and constant support or allegiance to a person, institution, or country.",
+      "example": [
+        {
+          "eng": "She has been a loyal supporter of the club for twenty years.",
+          "ch": "她二十年來一直是該俱樂部忠實的支持者。"
+        }
+      ]
+    },
+    {
+      "eng": "loyalty",
+      "kk": "ˈlɔɪəlti",
+      "tense": "n.",
+      "ch": [
+        [
+          "忠誠",
+          "忠心",
+          "忠實"
+        ]
+      ],
+      "analysis": "現代透明構詞，由形容詞 loyal 加上名詞字尾 -ty。指對國家、朋友、品牌或組織保持堅定不移的支援與忠貞態度。",
+      "definition": "1. the quality of being loyal; a strong feeling of support or allegiance.",
+      "example": [
+        {
+          "eng": "The company rewards customer loyalty with special discounts.",
+          "ch": "公司以特別折扣來回饋顧客的忠誠度。"
+        }
+      ]
+    },
+    {
+      "eng": "luxurious",
+      "kk": "lʌɡˈʒʊriəs",
+      "tense": "adj.",
+      "ch": [
+        [
+          "奢華的",
+          "極其舒適的"
+        ]
+      ],
+      "analysis": "現代透明構詞，由名詞 luxury（奢侈）加上形容詞字尾 -ious。指提供遠超基本需求、充滿高級物質享受與舒適感的環境、生活或物品。",
+      "definition": "1. extremely comfortable, elegant, or enjoyable, especially in a way that involves great expense.",
+      "example": [
+        {
+          "eng": "They spent their honeymoon at a luxurious resort in Hawaii.",
+          "ch": "他們在夏威夷的一家奢華度假村度過蜜月。"
+        }
+      ]
+    },
+    {
+      "eng": "luxury",
+      "kk": "ˈlʌɡʒəri",
+      "tense": "n.",
+      "ch": [
+        [
+          "奢侈",
+          "享受"
+        ],
+        [
+          "奢侈品"
+        ]
+      ],
+      "analysis": "源自古法語 luxurie，源自拉丁語 luxuria（放縱、過度、奢侈），由 luxus（過度、豐饒）衍生而來。指超越生存必需品的昂貴享受、頂級商品，或是難得的舒適清福。",
+      "definition": "1. the state of great comfort and extravagant living; 2. a non-essential item that is expensive or hard to get.",
+      "example": [
+        {
+          "eng": "Living in such comfort is a luxury he is not used to.",
+          "ch": "住在如此舒適的環境中是他不習慣的奢侈享受。"
+        },
+        {
+          "eng": "Buying designer clothes is a luxury she treats herself to occasionally.",
+          "ch": "買名牌服飾是她偶爾犒賞自己的奢侈品。"
+        }
+      ]
+    },
+    {
+      "eng": "machinery",
+      "kk": "məˈʃinəri",
+      "tense": "n.",
+      "ch": [
+        [
+          "機械",
+          "機器總稱"
+        ],
+        [
+          "組織機構",
+          "體制"
+        ]
+      ],
+      "analysis": "現代透明構詞，由名詞 machine（機械，源自希臘語 mekhane）加上集合名詞字尾 -ery。指各種機器、發動機的總稱，亦可抽象比喻行政或政治組織運作的龐大體制與機構。",
+      "definition": "1. machines as a collective group; 2. the complex system or structure of an organization.",
+      "example": [
+        {
+          "eng": "The factory invested in new, automated machinery.",
+          "ch": "這家工廠投資了全新、自動化的機械設備。"
+        },
+        {
+          "eng": "The complex machinery of government sometimes moves slowly.",
+          "ch": "政府複雜的行政體制有時運作緩慢。"
+        }
+      ]
+    },
+    {
+      "eng": "magnetic",
+      "kk": "mæɡˈnɛtɪk",
+      "tense": "adj.",
+      "ch": [
+        [
+          "帶磁性的",
+          "有磁力的"
+        ],
+        [
+          "具吸引力的",
+          "有魅力的"
+        ]
+      ],
+      "analysis": "現代透明構詞，由名詞 magnet（磁鐵，源自希臘語 magnes lithos“馬格尼西亞石”）加上形容詞字尾 -ic。指具有吸引鐵磁性物質的物理特性，或比喻人具有迷人、抗拒不了的領袖魅力。",
+      "definition": "1. exhibiting magnetism; capable of attracting iron or steel; 2. highly attractive or charismatic.",
+      "example": [
+        {
+          "eng": "The compass needle aligns with the earth's magnetic field.",
+          "ch": "指南針的指針與地球的磁場對齊。"
+        },
+        {
+          "eng": "She has a magnetic personality that draws people to her.",
+          "ch": "她有一種吸引眾人靠近的磁性個人魅力。"
+        }
+      ]
+    },
+    {
+      "eng": "magnificent",
+      "kk": "mæɡˈnɪfəsənt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "宏偉的",
+          "壯麗的",
+          "極好的"
+        ]
+      ],
+      "analysis": "源自拉丁語 magnificent-（magnificus 的受格形式），由 magnus（偉大的、大的）與 facere（做）的複合詞根組合而成。字面意為「行事偉大、造就壯麗事物的」，現代用來形容建築、風景或表現極其壯觀、華麗、卓越。",
+      "definition": "1. extremely beautiful, elaborate, or impressive; grand.",
+      "example": [
+        {
+          "eng": "We watched a magnificent sunset over the mountains.",
+          "ch": "我們觀賞了山巒上方壯麗的日落。"
+        }
+      ]
+    },
+    {
+      "eng": "makeup",
+      "kk": "ˈmeɪkˌʌp",
+      "tense": "n.",
+      "ch": [
+        [
+          "化妝品"
+        ],
+        [
+          "性格結構",
+          "組成結構"
+        ]
+      ],
+      "analysis": "現代透明複合詞，由動詞片語 make up（組成、化妝）轉化而來的名詞。語意從「臉上塗抹的化妝品」，延伸至人體的「生理與心理構造」或組織、專案的「人員與要素組成」。",
+      "definition": "1. cosmetics applied to the face to improve or change appearance; 2. the nature or constitution of something, including a person's character or physical composition.",
+      "example": [
+        {
+          "eng": "She spends a few minutes every morning putting on light makeup.",
+          "ch": "她每天早上花幾分鐘化淡妝。"
+        },
+        {
+          "eng": "Understanding the genetic makeup of cells is crucial in biology.",
+          "ch": "理解細胞的基因組成在生物學中至關重要。"
+        }
+      ]
+    },
+    {
+      "eng": "manual",
+      "kk": "ˈmænyuəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "手冊",
+          "指南"
+        ]
+      ],
+      "analysis": "由形容詞 manual 轉化而來的名詞（原本省略了 liber manualis“手邊書”），指方便拿 in 手中查閱操作說明、規章制度的指南或工具書。",
+      "definition": "1. a book of instructions or guidance, especially for operating a machine or system.",
+      "example": [
+        {
+          "eng": "Always read the instruction manual before assembling the furniture.",
+          "ch": "組裝家具前，務必先閱讀說明手冊。"
+        }
+      ]
+    },
+    {
+      "eng": "manual",
+      "kk": "ˈmænyuəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "體力的",
+          "手工的",
+          "手動的"
+        ]
+      ],
+      "analysis": "源自拉丁語 manualis，由 manus（手）加上形容詞字尾 -al 構成。字面意思是「用手的、由手操作的」，現代用來指稱不靠自動化機具、純粹靠雙手進行的勞動，或設備的手動操作模式。",
+      "definition": "1. relating to or done with the hands; operated by hand rather than automatically.",
+      "example": [
+        {
+          "eng": "He earns his living through hard manual labor.",
+          "ch": "他靠著艱苦的體力勞動謀生。"
+        }
+      ]
+    },
+    {
+      "eng": "manufacture",
+      "kk": "ˌmænyəˈfæktʃər",
+      "tense": "vt.",
+      "ch": [
+        [
+          "製造",
+          "加工製造"
+        ],
+        [
+          "捏造",
+          "虛構"
+        ]
+      ],
+      "analysis": "源自拉丁語 manufactura（用手製作），由 manus（手）與 factura（製作，源自 facere“做”）組合而成。早期的確指「手工製造」，工業革命後轉變為指透過機器在大規模工廠中「大量生產」，亦可引申為虛構、捏造藉口。作及物動詞時必須接直接受詞。",
+      "definition": "1. to make goods on a large scale using machinery; 2. to invent or fabricate something false, such as evidence or an excuse.",
+      "example": [
+        {
+          "eng": "The plant manufactures electronic components for smartphones.",
+          "ch": "這家工廠製造智慧型手機的電子零件。"
+        },
+        {
+          "eng": "The suspect attempted to manufacture a false alibi.",
+          "ch": "嫌疑犯試圖捏造一個虛假的不在場證明。"
+        }
+      ]
+    },
+    {
+      "eng": "manufacturer",
+      "kk": "ˌmænyəˈfæktʃərər",
+      "tense": "n.",
+      "ch": [
+        [
+          "製造商",
+          "廠商"
+        ]
+      ],
+      "analysis": "現代透明構詞，由動詞 manufacture 加上表示人的名詞字尾 -er 構成。指大量生產商品、設備或零件的公司、工廠或企業主。",
+      "definition": "1. a person or company that produces goods for sale on a large scale.",
+      "example": [
+        {
+          "eng": "The car manufacturer recalled thousands of vehicles due to a defect.",
+          "ch": "這家汽車製造商因瑕疵召回了數千輛汽車。"
+        }
+      ]
+    },
+    {
+      "eng": "marathon",
+      "kk": "ˈmɛrəˌθɑn",
+      "tense": "n.",
+      "ch": [
+        [
+          "馬拉松賽跑"
+        ],
+        [
+          "持久的活動",
+          "漫長會議"
+        ]
+      ],
+      "analysis": "源自希臘地名 Marathon（馬拉松）。紀念公元前 490 年希臘士兵菲迪皮德斯（Pheidippides）從馬拉松戰場跑回雅典報捷、傳遞勝利喜訊隨後倒地逝世的傳說。現代泛指全長 42.195 公里的長跑競賽，或比喻任何需要極大耐力才能完成的漫長會議或活動。",
+      "definition": "1. a long-distance running race of 26 miles and 385 yards (42.195 km); 2. a long-lasting event or activity requiring endurance.",
+      "example": [
+        {
+          "eng": "Thousands of runners participated in the annual city marathon.",
+          "ch": "數千名跑者參與了這場年度城市馬拉松。"
+        },
+        {
+          "eng": "The budget negotiation turned into a marathon meeting.",
+          "ch": "預算談判演變成了一場持久的馬拉松會議。"
+        }
+      ]
+    },
+    {
+      "eng": "margin",
+      "kk": "ˈmɑrdʒən",
+      "tense": "n.",
+      "ch": [
+        [
+          "頁邊空白",
+          "邊緣"
+        ],
+        [
+          "差額",
+          "差距"
+        ],
+        [
+          "利潤"
+        ]
+      ],
+      "analysis": "源自拉丁語 margo（邊緣、界限）。原本指書本頁面的空白邊緣，隨後引申為實體地理的邊界、競選中的票數「差距／差額」，以及商業上的成本與售價之間的「利潤空間」。",
+      "definition": "1. the blank space around the written or printed matter on a page; 2. an amount by which something is won or falls short; 3. the profit made on a product.",
+      "example": [
+        {
+          "eng": "Please write your notes in the margin of the page.",
+          "ch": "請把筆記寫在頁面的空白邊緣。"
+        },
+        {
+          "eng": "The candidate won the election by a narrow margin.",
+          "ch": "該候選人以微小差距贏得選舉。"
+        },
+        {
+          "eng": "The company operates on a very tight profit margin.",
+          "ch": "這家公司的利潤空間非常緊縮。"
+        }
+      ]
+    },
+    {
+      "eng": "maturity",
+      "kk": "məˈtʊrəti",
+      "tense": "n.",
+      "ch": [
+        [
+          "成熟",
+          "成熟期"
+        ],
+        [
+          "到期日"
+        ]
+      ],
+      "analysis": "現代透明構詞，由形容詞 mature（成熟的，源自拉丁語 maturus）加上抽象名詞字尾 -ity。指生物、心智發展到完全成熟的狀態，或金融領域中債券、保單到達「到期、需兌現」的時間點。",
+      "definition": "1. the state or quality of being fully grown or developed; 2. the time when a financial note or insurance policy becomes due.",
+      "example": [
+        {
+          "eng": "The trees reach full maturity after ten years.",
+          "ch": "這些樹木在十年後達到完全成熟期。"
+        },
+        {
+          "eng": "The bond will reach maturity in five years.",
+          "ch": "該債券將在五年後到期。"
+        }
+      ]
+    },
+    {
+      "eng": "maximum",
+      "kk": "ˈmæksəməm",
+      "tense": "n.",
+      "ch": [
+        [
+          "最大量",
+          "最高極限"
+        ]
+      ],
+      "analysis": "源自拉丁語 maximum（字面意為“最大的”中性形容詞轉化的名詞），源自 magnus（大的）的最高級形式。指數量、程度、容積等所能達到的最高頂點或極限值。",
+      "definition": "1. the greatest or highest amount, value, or degree possible or attained.",
+      "example": [
+        {
+          "eng": "The speed limit on this highway is a maximum of 65 miles per hour.",
+          "ch": "這條高速公路的速限最高為時速 65 英里。"
+        }
+      ]
+    },
+    {
+      "eng": "measurable",
+      "kk": "ˈmɛʒərəbəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "可測量的",
+          "顯著的"
+        ]
+      ],
+      "analysis": "現代透明構詞，由動詞 measure（測量）加上形容詞字尾 -able（可……的）。指數量、大小或成果是可以被精確量化、檢測出來的，或指變化程度達到足以被觀察到的顯著水準。",
+      "definition": "1. able to be measured; large or significant enough to be noticed.",
+      "example": [
+        {
+          "eng": "There has been a measurable improvement in air quality this month.",
+          "ch": "本月的空氣品質有了顯著可測量的改善。"
+        }
+      ]
+    },
+    {
+      "eng": "measure",
+      "kk": "ˈmɛʒər",
+      "tense": "n.",
+      "ch": [
+        [
+          "措施",
+          "方法"
+        ],
+        [
+          "尺寸",
+          "計量單位"
+        ],
+        [
+          "程度"
+        ]
+      ],
+      "analysis": "源自古法語 mesure，源自拉丁語 mensura（測量、尺度），由 metiri（測量）衍生而來。語意從「實體空間與容積的尺寸、測量標準」，抽象延伸出為解決問題而採取的「政策、行動措施」，以及「某種程度上的……」。",
+      "definition": "1. a plan or course of action taken to achieve a particular purpose; 2. a unit or standard of measurement; 3. the size, amount, or degree of something.",
+      "example": [
+        {
+          "eng": "The government took strict security measures during the summit.",
+          "ch": "政府在高峰會期間採取了嚴格的安全措施。"
+        },
+        {
+          "eng": "Take the exact measurements of the room before buying furniture.",
+          "ch": "買家具前先量好房間的確切尺寸。"
+        },
+        {
+          "eng": "Success is achieved, in large measure, through hard work.",
+          "ch": "成功在很大程度上是透過努力工作取得的。"
+        }
+      ]
+    },
+    {
+      "eng": "measure",
+      "kk": "ˈmɛʒər",
+      "tense": "vt.",
+      "ch": [
+        [
+          "測量",
+          "計量",
+          "估量"
+        ]
+      ],
+      "analysis": "由名詞 measure 衍生或直接對應拉丁語動詞源頭的及物動詞，指使用工具或標準來確定某物的大小、長度、重量、容積或價值，句型中必須接直接受詞。",
+      "definition": "1. to ascertain the size, amount, or degree of something by using an instrument or standard.",
+      "example": [
+        {
+          "eng": "The tailor measured the customer's chest for a new suit.",
+          "ch": "裁縫師量了顧客的胸圍來訂做新西裝。"
+        }
+      ]
+    },
+    {
+      "eng": "measures",
+      "kk": "ˈmɛʒərz",
+      "tense": "n.",
+      "ch": [
+        [
+          "措施",
+          "手段",
+          "辦法"
+        ]
+      ],
+      "analysis": "為名詞 measure 的複數形式，在現代英語政治、法律與商業語境中頻繁高頻出現，專門指為達到特定目的或防止危機而實施的一系列「具體行動或防範措施」。",
+      "definition": "1. actions taken to achieve a specific goal or prevent a problem.",
+      "example": [
+        {
+          "eng": "Effective preventive measures must be implemented to stop the disease.",
+          "ch": "必須落實有效的預防措施來遏止該疾病。"
+        }
+      ]
+    },
+    {
+      "eng": "mechanic",
+      "kk": "məˈkænɪk",
+      "tense": "n.",
+      "ch": [
+        [
+          "技工",
+          "機械工",
+          "修理工"
+        ]
+      ],
+      "analysis": "源自中世紀拉丁語 mechanicus，最終源自希臘語 mechanikos（與機器相關的），源自 mekhane（機器）。指專門從事機器、汽車、引擎等設備安裝、維修與保養的技術工人。",
+      "definition": "1. a person who repairs and maintains machinery, engines, or cars.",
+      "example": [
+        {
+          "eng": "The car mechanic checked the engine and replaced the spark plugs.",
+          "ch": "汽車修理工檢查了引擎並更換了火星塞。"
+        }
+      ]
+    },
+    {
+      "eng": "mechanical",
+      "kk": "məˈkænɪkəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "機械的",
+          "力學的"
+        ],
+        [
+          "機械式的",
+          "呆板的"
+        ]
+      ],
+      "analysis": "現代透明構詞，由名詞 mechanic 或其形容詞字根加上字尾 -ical。指由機器運作或機械原理所構成的，亦可引申形容人的動作或反應像機器一樣呆板、缺乏靈活性與情感。",
+      "definition": "1. operated by, concerned with, or produced by machinery or machines; 2. working automatically without thought, like a machine.",
+      "example": [
+        {
+          "eng": "The failure was caused by a mechanical problem in the engine.",
+          "ch": "故障是由引擎中的機械問題引起的。"
+        },
+        {
+          "eng": "He performed his daily chores with mechanical precision.",
+          "ch": "他以機械般的精確度完成日常雜務。"
+        }
+      ]
+    },
+    {
+      "eng": "memorable",
+      "kk": "ˈmɛmərəbəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "難忘的",
+          "值得紀念的"
+        ]
+      ],
+      "analysis": "現代透明構詞，由拉丁語 memorare（記憶、提及，源自 memor“記住的”）加上形容詞字尾 -able（值得……的、可……的）。字面意思是「值得留在記憶中的」，用來形容深刻、精彩、令人難以忘懷的經驗或事件。",
+      "definition": "1. worth remembering or easily remembered, especially because of being special or enjoyable.",
+      "example": [
+        {
+          "eng": "We had a memorable vacation in Italy last summer.",
+          "ch": "我們去年夏天在義大利度過了一個難忘的假期。"
+        }
+      ]
+    },
+    {
+      "eng": "memorial",
+      "kk": "məˈmɔriəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "紀念碑",
+          "紀念館",
+          "紀念儀式"
+        ]
+      ],
+      "analysis": "源自拉丁語 memorialis（記憶的），由 memor（記憶深刻的）加上名詞化字尾 -al 構成。指為了讓後人緬懷歷史事件、已故名人或英雄而建立的實體紀念建築、雕像或舉辦的紀念儀式。",
+      "definition": "1. a statue, structure, or event established to remind people of a famous person or event.",
+      "example": [
+        {
+          "eng": "A grand war memorial was built in the center of the city.",
+          "ch": "市中心建立了一座宏偉的戰爭紀念碑。"
+        }
+      ]
+    },
+    {
+      "eng": "memorize",
+      "kk": "ˈmɛməˌraɪz",
+      "tense": "vt.",
+      "ch": [
+        [
+          "背誦",
+          "記憶",
+          "熟記"
+        ]
+      ],
+      "analysis": "現代透明構詞，由形容詞／名詞根 memor（記住的）加上動詞化字尾 -ize（使成為、執行……的動作）。指透過反覆閱讀或背誦，將資訊、台詞或單字完整記在腦海中，及物動詞後方需接直接受詞。",
+      "definition": "1. to commit something to memory; to learn by heart so as to be able to remember accurately.",
+      "example": [
+        {
+          "eng": "Actors must memorize their lines before the rehearsal begins.",
+          "ch": "演員必須在排練開始前把台詞背熟。"
+        }
+      ]
+    },
+    {
+      "eng": "merchant",
+      "kk": "ˈmɜrtʃənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "商人",
+          "零售商",
+          "批發商"
+        ]
+      ],
+      "analysis": "源自古法語 marchant，最終源自拉丁語 mercant-（mercari“買賣、交易”的現在分詞），源自 merx（商品）。指從事商品買賣、批發或零售以營利的商人或企業。",
+      "definition": "1. a person who makes a business of buying and selling goods for profit.",
+      "example": [
+        {
+          "eng": "Local merchants set up stalls in the market square.",
+          "ch": "當地商人在市集廣場架設攤位。"
+        }
+      ]
+    },
+    {
+      "eng": "mercy",
+      "kk": "ˈmɜrsi",
+      "tense": "n.",
+      "ch": [
+        [
+          "慈悲",
+          "仁慈",
+          "寬恕"
+        ],
+        [
+          "幸運之處",
+          "慶幸"
+        ]
+      ],
+      "analysis": "源自古法語 merci，最終源自拉丁語 merces（工資、報酬，後在基督教拉丁語中轉化為「恩典、憐憫」）。指對握有權力可以懲罰或掌控生死的人展現出同情、寬恕與仁慈，亦可在片語中表示「幸運、萬幸（at the mercy of... 或 thank goodness）」。",
+      "definition": "1. compassion or forgiveness shown toward someone whom it is within one's power to punish or harm; 2. something to be grateful for.",
+      "example": [
+        {
+          "eng": "The defeated soldiers begged the conqueror for mercy.",
+          "ch": "戰敗的士兵向征服者懇求仁慈與饒恕。"
+        },
+        {
+          "eng": "It is a mercy that nobody was hurt in the accident.",
+          "ch": "這場意外中沒有人受傷，真是不幸中的大幸。"
+        }
+      ]
+    }
+  ]
+}

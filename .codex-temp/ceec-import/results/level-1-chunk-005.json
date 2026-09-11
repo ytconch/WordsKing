@@ -1,0 +1,1852 @@
+{
+  "level": 1,
+  "chunkIndex": 5,
+  "inputs": [
+    "correct",
+    "cost",
+    "couch",
+    "count",
+    "country",
+    "course",
+    "cousin",
+    "cover",
+    "cow",
+    "crazy",
+    "cross",
+    "cry",
+    "cup",
+    "cut",
+    "cute",
+    "dance",
+    "dangerous",
+    "dark",
+    "date",
+    "daughter",
+    "day",
+    "dead",
+    "deal",
+    "dear",
+    "death",
+    "decide",
+    "deep",
+    "define",
+    "desk",
+    "dictionary",
+    "die",
+    "different",
+    "difficult",
+    "dig",
+    "dinner",
+    "dirty",
+    "dish",
+    "do",
+    "doctor",
+    "doc",
+    "dog",
+    "doll",
+    "dollar",
+    "door",
+    "down",
+    "dozen",
+    "draw",
+    "dream",
+    "dress",
+    "drink"
+  ],
+  "rows": [
+    {
+      "eng": "correct",
+      "kk": "kəˈrɛkt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "糾正",
+          "改正",
+          "修正"
+        ],
+        [
+          "批改",
+          "審閱"
+        ]
+      ],
+      "analysis": "此字為及物動詞，其歷史詞源與形容詞相同，源自拉丁語 corrigere（由 com- 加強語氣與 regere 引導、使直複合而成）。動詞保留了「使偏斜或錯誤的事物恢復正直或正確」的核心動作，進而衍生出「改正錯誤」以及「批改作業」等具體用法。",
+      "definition": "1. to put right an error, fault, or mistake; 2. to examine and mark mistakes in a written work or test.",
+      "example": [
+        {
+          "eng": "You need to correct your posture while sitting at the desk.",
+          "ch": "你坐在書桌前時需要糾正姿勢。"
+        },
+        {
+          "eng": "The teacher spent the evening correcting students' essays.",
+          "ch": "老師花了一整晚批改學生的論文。"
+        }
+      ]
+    },
+    {
+      "eng": "correct",
+      "kk": "kəˈrɛkt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "正確的",
+          "對的",
+          "無誤的"
+        ],
+        [
+          "恰當的",
+          "合宜的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自拉丁語 correctus（動詞 corrigere 的過去分詞，意為「使直、糾正」），由字首 com-（加強語氣）與詞根 regere（引導、使直）結合而成。語意從「被導向直的」演變為「符合事實或標準的」即正確的，進而延伸出社會規範下「合宜的」之義。",
+      "definition": "1. free from error; true or accurate according to facts or a standard; 2. proper or socially acceptable under the circumstances.",
+      "example": [
+        {
+          "eng": "Her answer to the math problem was completely correct.",
+          "ch": "她對那道數學題的回答完全正確。"
+        },
+        {
+          "eng": "It is not correct to wear casual clothes to such a formal dinner.",
+          "ch": "穿休閒服去參加這種正式晚宴是不合宜的。"
+        }
+      ]
+    },
+    {
+      "eng": "cost",
+      "kk": "kɔst",
+      "tense": "n.",
+      "ch": [
+        [
+          "費用",
+          "成本",
+          "價錢"
+        ],
+        [
+          "代價",
+          "犧牲"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古法語 cost（現代法語 coût），最終源自拉丁語 constare（由 con- 加強 + stare 站立），原意為「花費多少價值」。名詞保留了金錢支出與付出代價的抽象概念。",
+      "definition": "1. the amount of money required to buy, do, or make something; 2. the negative consequences, loss, or sacrifice suffered to achieve something.",
+      "example": [
+        {
+          "eng": "The total cost of the car repair exceeded my budget.",
+          "ch": "汽車修理的總費用超出了我的預算。"
+        },
+        {
+          "eng": "They achieved success at the cost of their personal health.",
+          "ch": "他們以犧牲個人健康為代價換取了成功。"
+        }
+      ]
+    },
+    {
+      "eng": "cost",
+      "kk": "kɔst",
+      "tense": "vt.",
+      "ch": [
+        [
+          "花費",
+          "價錢為"
+        ],
+        [
+          "使付出",
+          "使損失"
+        ]
+      ],
+      "analysis": "此字為及物動詞，與同形名詞同源，源自拉丁語 constare。作為動詞時，既可表示物品所需的金錢代價，亦可引申為某行為所帶來的負面代價或損失。",
+      "definition": "1. to require the payment of a specified amount of money; 2. to cause someone to lose, suffer, or give up something valuable.",
+      "example": [
+        {
+          "eng": "This new laptop cost me a lot of money.",
+          "ch": "這台新筆記型電腦花了我不少錢。"
+        },
+        {
+          "eng": "One careless mistake can cost you your job.",
+          "ch": "一個粗心的錯誤可能會讓你丟掉工作。"
+        }
+      ]
+    },
+    {
+      "eng": "couch",
+      "kk": "kaʊtʃ",
+      "tense": "n.",
+      "ch": [
+        [
+          "長沙發",
+          "榻"
+        ]
+      ],
+      "analysis": "此字為名詞，經中古法語 couche（源自動詞 coucher，意為「躺下」）進入英語，最終可追溯至拉丁語 collocare。語意從「躺臥的地方」演變成客廳中供人坐臥的家具。",
+      "definition": "1. a long upholstered piece of furniture for sitting or reclining on.",
+      "example": [
+        {
+          "eng": "He fell asleep on the living room couch while watching television.",
+          "ch": "他在看電視時在客廳的長沙發上睡著了。"
+        }
+      ]
+    },
+    {
+      "eng": "count",
+      "kk": "kaʊnt",
+      "tense": "n.",
+      "ch": [
+        [
+          "計數",
+          "計算"
+        ],
+        [
+          "事項",
+          "罪狀"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古法語 conte（名詞），與動詞同源，最終源自拉丁語 computare。語意從「數數的動作或結果」延伸出法律起訴書或清單上的具體「項目、罪狀」。",
+      "definition": "1. an act of determining the total number of something; 2. a specific point, charge, or item in a legal indictment or list.",
+      "example": [
+        {
+          "eng": "According to the final vote count, the proposal was passed.",
+          "ch": "根據最終的票數統計，該提案獲得通過。"
+        },
+        {
+          "eng": "The suspect was found guilty on all counts.",
+          "ch": "嫌疑人在所有被控罪狀上都被判有罪。"
+        }
+      ]
+    },
+    {
+      "eng": "count",
+      "kk": "kaʊnt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "計算",
+          "清點"
+        ],
+        [
+          "把…算入",
+          "認為"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自古法語 conter，最終源自拉丁語 computare（com- 共同 + putare 計算、思考）。語意從實際的數字清單，延伸至將某人或某物列入計算或視為某種身分。",
+      "definition": "1. to find the total number of items in a group; 2. to include someone or something in a tally or consideration.",
+      "example": [
+        {
+          "eng": "Please count the money carefully before leaving the bank.",
+          "ch": "離開銀行前請仔細清點這筆錢。"
+        },
+        {
+          "eng": "You can always count me as your loyal friend.",
+          "ch": "你隨時可以把我算作你忠實的朋友。"
+        }
+      ]
+    },
+    {
+      "eng": "count",
+      "kk": "kaʊnt",
+      "tense": "vi.",
+      "ch": [
+        [
+          "有價值",
+          "重要"
+        ],
+        [
+          "數數",
+          "計數"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，與及物動詞同源。作為不及物動詞時，除了單純指「執行數數的動作」外，更常引申指某事「具有分量、算數或重要」。",
+      "definition": "1. to have importance, value, or significance; 2. to recite numbers in ascending order.",
+      "example": [
+        {
+          "eng": "Every single vote in this election counts.",
+          "ch": "這次選舉中的每一票都很重要。"
+        },
+        {
+          "eng": "The little boy can already count from one to one hundred.",
+          "ch": "那個小男孩已經會從一數到一百了。"
+        }
+      ]
+    },
+    {
+      "eng": "country",
+      "kk": "ˈkʌntri",
+      "tense": "n.",
+      "ch": [
+        [
+          "國家",
+          "國土"
+        ],
+        [
+          "鄉村",
+          "農村"
+        ]
+      ],
+      "analysis": "此字為名詞，經中古法語 contrée 進入英語，最終源自拉丁語 contrata（源自 contra 對面、前方，指「展現在眼前的土地」）。語意從廣闊的「土地、地區」分化出「主權國家」與與城市相對的「鄉村」兩個主要群組。",
+      "definition": "1. a nation with its own government, occupying a particular territory; 2. rural areas distinct from towns or cities.",
+      "example": [
+        {
+          "eng": "Canada is the second largest country in the world by area.",
+          "ch": "加拿大是世界上面積第二大的國家。"
+        },
+        {
+          "eng": "They prefer to live in the quiet country rather than the noisy city.",
+          "ch": "他們喜歡住在安靜的鄉村，而不是吵鬧的城市。"
+        }
+      ]
+    },
+    {
+      "eng": "course",
+      "kk": "kɔrs",
+      "tense": "n.",
+      "ch": [
+        [
+          "課程",
+          "學程"
+        ],
+        [
+          "路線",
+          "航向"
+        ],
+        [
+          "過程",
+          "進程"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古法語 cours，最終源自拉丁語 cursus（意為「奔跑、行程」，源自動詞 currere 奔跑）。基本義為「奔跑的路徑或流動的方向」，由此延伸出船隻飛機的「航向」、時間推移的「過程」，以及學校學習的「課程」。",
+      "definition": "1. a series of lectures or lessons in a particular subject; 2. the route or direction followed by a ship, aircraft, or runner; 3. the progressive development or passage of time or events.",
+      "example": [
+        {
+          "eng": "She is taking an online course in computer science.",
+          "ch": "她正在修一門電腦科學的線上課程。"
+        },
+        {
+          "eng": "The ship altered its course to avoid the storm.",
+          "ch": "船隻改變航向以避開風暴。"
+        },
+        {
+          "eng": "Over the course of the year, his health gradually improved.",
+          "ch": "在這一年當中，他的健康狀況逐漸改善。"
+        }
+      ]
+    },
+    {
+      "eng": "cousin",
+      "kk": "ˈkʌzən",
+      "tense": "n.",
+      "ch": [
+        [
+          "堂兄弟姊妹",
+          "表兄弟姊妹"
+        ]
+      ],
+      "analysis": "此字為名詞，經中古法語 cousin 進入英語，最終源自拉丁語 consobrinus（母系親戚，由 con- 共同 + sobrinus 表親）。在現代英語中泛指叔伯姑舅阿姨所生的子女。",
+      "definition": "1. a child of one's uncle or aunt.",
+      "example": [
+        {
+          "eng": "I often play video games with my cousins during the summer holidays.",
+          "ch": "暑假期間我常和表兄弟姊妹一起玩電玩遊戲。"
+        }
+      ]
+    },
+    {
+      "eng": "cover",
+      "kk": "ˈkʌvər",
+      "tense": "n.",
+      "ch": [
+        [
+          "蓋子",
+          "罩子"
+        ],
+        [
+          "封面",
+          "封底"
+        ],
+        [
+          "掩護",
+          "庇護所"
+        ]
+      ],
+      "analysis": "此字為名詞，源自動詞 cover 的衍生名詞，本義為「覆蓋物」。隨著延伸，指書本外皮的「封面」、實體物件的「蓋子」，以及軍事或抽象意義上的「掩護」。",
+      "definition": "1. a thing placed over something to protect, conceal, or close it; 2. the outer front or back of a book or magazine; 3. shelter or protection from danger or weather.",
+      "example": [
+        {
+          "eng": "Make sure you put the cover back on the pot after cooking.",
+          "ch": "烹調後務必把鍋蓋蓋回去。"
+        },
+        {
+          "eng": "The novel has a very striking and colorful front cover.",
+          "ch": "這本小說有著非常醒目且色彩豐富的封面。"
+        },
+        {
+          "eng": "The soldiers took cover behind the stone wall.",
+          "ch": "士兵們在石牆後面尋找掩護。"
+        }
+      ]
+    },
+    {
+      "eng": "cover",
+      "kk": "ˈkʌvər",
+      "tense": "vt.",
+      "ch": [
+        [
+          "覆蓋",
+          "遮蓋"
+        ],
+        [
+          "走過（距離）",
+          "行經"
+        ],
+        [
+          "採訪",
+          "報導"
+        ],
+        [
+          "包含",
+          "涵蓋"
+        ]
+      ],
+      "analysis": "此字為及物動詞，經中古法語 covrir 進入英語，最終源自拉丁語 cooperire（co- 加強語氣 + operire 關閉、掩蓋）。其基本義為「遮蔽、覆蓋」，並經由隱喻與擴展，引申出「行經距離」、「新聞採訪」以及「範圍涵蓋」等豐富現代用法。",
+      "definition": "1. to put something over or on top of something else; 2. to travel a specific distance or area; 3. to report on an event or area as a journalist; 4. to deal with or include a range of topics.",
+      "example": [
+        {
+          "eng": "Heavy snow covered the mountains overnight.",
+          "ch": "大雪在一夜之間覆蓋了群山。"
+        },
+        {
+          "eng": "The explorers covered over fifty miles on foot.",
+          "ch": "探險家們步行走過了五十多英里。"
+        },
+        {
+          "eng": "Several major news agencies are covering the presidential election.",
+          "ch": "幾家主要新聞機構正在採訪總統大選。"
+        },
+        {
+          "eng": "The biology textbook covers all aspects of plant life.",
+          "ch": "這本生物學教科書涵蓋了植物生命的各個方面。"
+        }
+      ]
+    },
+    {
+      "eng": "cow",
+      "kk": "kaʊ",
+      "tense": "n.",
+      "ch": [
+        [
+          "母牛",
+          "奶牛"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古英語 cū（屬日耳曼語族繼承詞，源自原始日耳曼語 *kū-）。保留了指稱成年母牛（特別是乳牛）的原始基本義。",
+      "definition": "1. a fully grown female animal of a domesticated bovine kind, kept for milk or meat.",
+      "example": [
+        {
+          "eng": "The farmer milks the cows twice a day in the barn.",
+          "ch": "農夫一天在農場裡幫乳牛擠兩次奶。"
+        }
+      ]
+    },
+    {
+      "eng": "crazy",
+      "kk": "ˈkreɪzi",
+      "tense": "adj.",
+      "ch": [
+        [
+          "瘋狂的",
+          "精神錯亂的"
+        ],
+        [
+          "狂熱的",
+          "著迷的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自早期英語動詞 craze（意為破裂、使碎裂，源自古諾斯語），加上形容詞字尾 -y。其歷史語意從「心智破裂、不健全」演變為「瘋狂的」，並進一步延伸出對某事「狂熱、著迷」的口語用法。",
+      "definition": "1. mentally deranged, insane, or wildly irrational; 2. extremely enthusiastic or passionate about someone or something.",
+      "example": [
+        {
+          "eng": "Only a crazy person would jump out of a plane without a parachute.",
+          "ch": "只有瘋子才會在沒有降落傘的情況下從飛機上跳下去。"
+        },
+        {
+          "eng": "My younger brother is crazy about playing football.",
+          "ch": "我弟弟對踢足球非常狂熱。"
+        }
+      ]
+    },
+    {
+      "eng": "cross",
+      "kk": "krɔs",
+      "tense": "n.",
+      "ch": [
+        [
+          "十字架",
+          "十字形記號"
+        ],
+        [
+          "苦難",
+          "試煉"
+        ]
+      ],
+      "analysis": "此字為名詞，源自拉丁語 crux（透過古諾斯語或古愛爾蘭語等媒介進入古英語）。本義為交錯的記號或刑具，抽象引申指人生中的「苦難與重擔」。",
+      "definition": "1. an upright post with a transverse beam, used as an ancient execution tool or a Christian symbol; 2. a burden, trial, or hardship to be endured.",
+      "example": [
+        {
+          "eng": "A wooden cross hung on the wall of the old church.",
+          "ch": "一個木製十字架掛在那座古老教堂的牆上。"
+        },
+        {
+          "eng": "Everyone has their own personal cross to bear in life.",
+          "ch": "每個人在生活中都有自己必須承受的苦難。"
+        }
+      ]
+    },
+    {
+      "eng": "cross",
+      "kk": "krɔs",
+      "tense": "vt.",
+      "ch": [
+        [
+          "橫過",
+          "穿過"
+        ],
+        [
+          "交叉",
+          "使交錯"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自名詞 cross（源自拉丁語 crux）。動詞本義為「從一邊跨到另一邊（像跨過十字架交叉線一樣）」，並引申出將雙腿或雙手「交叉」的動作。",
+      "definition": "1. to go or extend across an area, road, or body of water; 2. to place one thing over another in the shape of an X.",
+      "example": [
+        {
+          "eng": "Be sure to look both ways before you cross the busy street.",
+          "ch": "穿過繁忙的街道前，務必左右兩邊都看清楚。"
+        },
+        {
+          "eng": "She sat at her desk with her arms crossed, looking annoyed.",
+          "ch": "她雙手交叉坐在書桌前，看起來很生氣。"
+        }
+      ]
+    },
+    {
+      "eng": "cross",
+      "kk": "krɔs",
+      "tense": "adj.",
+      "ch": [
+        [
+          "生氣的",
+          "惱怒的"
+        ]
+      ],
+      "analysis": "此字為形容詞，由動詞 cross 轉化而來（源自十字交叉給人帶來的對立、阻礙感）。主要用於英式英語中表示輕微的生氣或惱怒。",
+      "definition": "1. annoyed or slightly angry.",
+      "example": [
+        {
+          "eng": "The teacher was cross with the students for making too much noise.",
+          "ch": "老師因學生製造太多噪音而有些生氣。"
+        }
+      ]
+    },
+    {
+      "eng": "cry",
+      "kk": "kraɪ",
+      "tense": "n.",
+      "ch": [
+        [
+          "哭泣",
+          "哭喊聲"
+        ],
+        [
+          "叫喊",
+          "鳥獸鳴叫"
+        ]
+      ],
+      "analysis": "此字為名詞，源自動詞 cry（經由中古法語 crier 進入英語，源自拉丁語 quiritare 發出尖叫）。名詞保留了悲傷時的「哭泣聲」或動物與人類突發的「高聲呼喊」。",
+      "definition": "1. a spell of weeping or shedding tears; 2. a loud shout, call, or animal cry.",
+      "example": [
+        {
+          "eng": "She felt much better after having a good cry.",
+          "ch": "痛哭了一場之後，她覺得好多了。"
+        },
+        {
+          "eng": "We heard the sudden cry of a bird in the dark forest.",
+          "ch": "我們聽到黑暗森林中傳來一聲突兀的鳥鳴。"
+        }
+      ]
+    },
+    {
+      "eng": "cry",
+      "kk": "kraɪ",
+      "tense": "vi.",
+      "ch": [
+        [
+          "哭泣",
+          "流淚"
+        ],
+        [
+          "大叫",
+          "高喊"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，源自中古法語 crier，最終源自拉丁語 quiritare。基本義為「發出高聲呼喊」，在現代英語中主要指因悲傷或疼痛而「哭泣」，亦可指大聲呼喊。",
+      "definition": "1. to shed tears as an expression of pain, sadness, or grief; 2. to utter a loud, sharp sound or cry out.",
+      "example": [
+        {
+          "eng": "The hungry baby began to cry loudly in the middle of the night.",
+          "ch": "飢餓的嬰兒在半夜大聲哭泣起來。"
+        },
+        {
+          "eng": "Someone in the crowd cried out for help.",
+          "ch": "人群中有人大聲呼救。"
+        }
+      ]
+    },
+    {
+      "eng": "cup",
+      "kk": "kʌp",
+      "tense": "n.",
+      "ch": [
+        [
+          "杯子",
+          "茶杯"
+        ],
+        [
+          "獎盃"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古英語 cuppe（最終源自晚期拉丁語 cuppa，意為酒杯）。本義為有柄的小口飲水容器，因其形狀常作盛酒或頒獎的器皿，引申出「獎盃」之義。",
+      "definition": "1. a small, bowl-shaped container for drinking liquids, typically having a handle; 2. a trophy awarded as a prize in a contest.",
+      "example": [
+        {
+          "eng": "He poured some hot tea into the ceramic cup.",
+          "ch": "他把一些熱茶倒進陶瓷杯裡。"
+        },
+        {
+          "eng": "The football team proudly lifted the championship cup.",
+          "ch": "足球隊驕傲地舉起了冠軍獎盃。"
+        }
+      ]
+    },
+    {
+      "eng": "cut",
+      "kk": "kʌt",
+      "tense": "n.",
+      "ch": [
+        [
+          "切口",
+          "傷口"
+        ],
+        [
+          "削減",
+          "減價"
+        ]
+      ],
+      "analysis": "此字為名詞，源自動詞 cut（源自中古英語 cutten，可能來自斯堪地那維亞語源）。名詞指利器造成的「切口或傷口」，或引申指預算、費用的「削減」。",
+      "definition": "1. an opening, wound, or incision made with a sharp tool; 2. a reduction in an amount, size, or number.",
+      "example": [
+        {
+          "eng": "He got a small cut on his finger while chopping vegetables.",
+          "ch": "他在切菜時手指上割出了一個小傷口。"
+        },
+        {
+          "eng": "The company announced a significant budget cut for next year.",
+          "ch": "公司宣布了明年大幅度的預算削減。"
+        }
+      ]
+    },
+    {
+      "eng": "cut",
+      "kk": "kʌt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "切割",
+          "剪斷"
+        ],
+        [
+          "割傷",
+          "劃破"
+        ],
+        [
+          "削減",
+          "縮減"
+        ]
+      ],
+      "analysis": "此字為及物動詞（三態同形 cut-cut-cut），源自中古英語 cutten。基本義為「用利器切開」，並引申出「劃破皮膚」以及抽象的「減少、削減」等用法。",
+      "definition": "1. to divide or make an opening in something with a sharp-edged tool; 2. to pierce or wound the skin with a sharp object; 3. to reduce the size, amount, or length of something.",
+      "example": [
+        {
+          "eng": "She used a pair of scissors to cut the wrapping paper.",
+          "ch": "她用剪刀剪開包裝紙。"
+        },
+        {
+          "eng": "Be careful with that knife, or you might cut your hand.",
+          "ch": "小心那把刀，否則你可能會割傷手。"
+        },
+        {
+          "eng": "The government decided to cut taxes to stimulate the economy.",
+          "ch": "政府決定減稅以刺激經濟。"
+        }
+      ]
+    },
+    {
+      "eng": "cut",
+      "kk": "kʌt",
+      "tense": "vi.",
+      "ch": [
+        [
+          "切割",
+          "貫穿"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，與及物動詞同源，指工具本身具備切割特性或物體能穿透阻礙。",
+      "definition": "1. to be able to be used to slice or penetrate something.",
+      "example": [
+        {
+          "eng": "This sharp knife cuts very smoothly through the bread.",
+          "ch": "這把鋒利的刀切麵包時非常順暢。"
+        }
+      ]
+    },
+    {
+      "eng": "cute",
+      "kk": "kjut",
+      "tense": "adj.",
+      "ch": [
+        [
+          "可愛的",
+          "標致的"
+        ]
+      ],
+      "analysis": "此字為形容詞，原本是形容詞 acute（尖銳的、敏銳的）的截斷縮寫（apocope），在18世紀早期大學俚語中指「精明、靈巧」，後語義轉變為現代的「討人喜歡、可愛的」。",
+      "definition": "1. attractively pretty or endearing, especially in a childlike or dainty way.",
+      "example": [
+        {
+          "eng": "Look at those cute little puppies playing in the yard.",
+          "ch": "你看院子里那些可愛的小狗在玩耍。"
+        }
+      ]
+    },
+    {
+      "eng": "dance",
+      "kk": "dæns",
+      "tense": "n.",
+      "ch": [
+        [
+          "舞蹈",
+          "舞步"
+        ],
+        [
+          "舞會"
+        ]
+      ],
+      "analysis": "此字為名詞，經中古法語 dance 進入英語（源自日耳曼語源，如古高地德語 dansôn）。基本義為隨著音樂節奏擺動身體的「舞蹈」，亦可指社交性質的「舞會」。",
+      "definition": "1. a series of movements matching the rhythm of music; 2. a social gathering for dancing.",
+      "example": [
+        {
+          "eng": "She showed great grace and skill in her traditional dance.",
+          "ch": "她在傳統舞蹈中展現了極佳的優雅與技巧。"
+        },
+        {
+          "eng": "They are going to attend the high school graduation dance.",
+          "ch": "他們打算參加高中畢業舞會。"
+        }
+      ]
+    },
+    {
+      "eng": "dance",
+      "kk": "dæns",
+      "tense": "vi.",
+      "ch": [
+        [
+          "跳舞"
+        ],
+        [
+          "跳躍",
+          "搖曳"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，源自中古法語 dancer。基本義為「跳舞」，並常以隱喻形式形容光影或物體在空中「輕快地跳動、搖曳」。",
+      "definition": "1. to move rhythmically to music; 2. to move lightly and quickly up and down or about.",
+      "example": [
+        {
+          "eng": "Couples were dancing happily to the soft jazz music.",
+          "ch": "伴侶們隨著輕柔的爵士樂愉快地跳舞。"
+        },
+        {
+          "eng": "The reflections of the candles danced on the water.",
+          "ch": "蠟燭的倒影在水面上搖曳跳動。"
+        }
+      ]
+    },
+    {
+      "eng": "dangerous",
+      "kk": "ˈdeɪndʒərəs",
+      "tense": "adj.",
+      "ch": [
+        [
+          "危險的",
+          "不安全的"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞形容詞，由名詞 danger（源自拉丁語 *dominarium 主權、權力，後演變為威脅、危險）加上形容詞字尾 -ous（充滿…的）組成。意指「充滿危險、會造成傷害的」。",
+      "definition": "1. able or likely to cause harm or injury.",
+      "example": [
+        {
+          "eng": "Driving without wearing a seatbelt is extremely dangerous.",
+          "ch": "不繫安全帶開車是非常危險的。"
+        }
+      ]
+    },
+    {
+      "eng": "dark",
+      "kk": "dɑrk",
+      "tense": "n.",
+      "ch": [
+        [
+          "黑暗",
+          "暗處"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古英語 deorc（形容詞）轉化而來的名詞形式。指缺乏光線的狀態或陰暗的角落。",
+      "definition": "1. the absence of light or a dark place or time.",
+      "example": [
+        {
+          "eng": "The young child was afraid of the dark and wanted a nightlight.",
+          "ch": "那名幼童怕黑，想要一盞小夜燈。"
+        }
+      ]
+    },
+    {
+      "eng": "dark",
+      "kk": "dɑrk",
+      "tense": "adj.",
+      "ch": [
+        [
+          "黑暗的",
+          "光線不足的"
+        ],
+        [
+          "深色的",
+          "暗色的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自古英語 deorc（日耳曼語族繼承詞）。基本義為「缺乏光線的（黑暗的）」，引申出形容色彩「不鮮明、深色的」。",
+      "definition": "1. with little or no light; 2. (of a color) having a dark shade or low lightness.",
+      "example": [
+        {
+          "eng": "It gets dark much earlier in the winter months.",
+          "ch": "在冬天的月份裡，天黑得早得多。"
+        },
+        {
+          "eng": "He wore a dark blue suit to the business meeting.",
+          "ch": "他穿著一套深藍色西裝去開商業會議。"
+        }
+      ]
+    },
+    {
+      "eng": "date",
+      "kk": "deɪt",
+      "tense": "n.",
+      "ch": [
+        [
+          "日期",
+          "日子"
+        ],
+        [
+          "約會",
+          "交往對象"
+        ]
+      ],
+      "analysis": "此字為名詞，經中古法語 date 進入英語，最終源自拉丁語 data（字面義為「給定的（日子）」，源自動詞 dare 給予，古代信件結尾常標註給定日期）。後由「標註日期的時刻」演變出「約會時刻」以及指代「約會對象」的借代用法。",
+      "definition": "1. a particular day or year when a given event occurred; 2. a social appointment or romantic meeting, or the person with whom one meets.",
+      "example": [
+        {
+          "eng": "Can you remember the exact date of your birthday?",
+          "ch": "你記得你生日的確切日期嗎？"
+        },
+        {
+          "eng": "They went out on a romantic dinner date last night.",
+          "ch": "他們昨晚出去進行了一場浪漫的晚餐約會。"
+        }
+      ]
+    },
+    {
+      "eng": "date",
+      "kk": "deɪt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "註明日期",
+          "確定年代"
+        ],
+        [
+          "與…約會"
+        ]
+      ],
+      "analysis": "此字為及物動詞，由名詞 date 衍生而來。本義為「在文件上寫上日期」或「透過科學檢驗確定古物年代」，後引申出「與某人約會」的動詞用法。",
+      "definition": "1. to write the date on or establish the age or period of something; 2. to go on romantic dates with someone.",
+      "example": [
+        {
+          "eng": "Please date and sign the bottom of the contract document.",
+          "ch": "請在合約文件的底部註明日期並簽名。"
+        },
+        {
+          "eng": "He has been dating his colleague for over a year.",
+          "ch": "他跟他的同事交往（約會）一年多了。"
+        }
+      ]
+    },
+    {
+      "eng": "date",
+      "kk": "deɪt",
+      "tense": "vi.",
+      "ch": [
+        [
+          "過時",
+          "顯得老舊"
+        ]
+      ],
+      "analysis": "此字為不及物動詞的特殊用法，源自「記載日期」的概念，當事物帶有特定時代的印記時，便會隨著時間流逝而「顯得過時」。",
+      "definition": "1. to show evidence of the age or period in which something was made, often becoming old-fashioned.",
+      "example": [
+        {
+          "eng": "That fashion style is starting to date very quickly.",
+          "ch": "那種時尚風格開始變得很快就過時了。"
+        }
+      ]
+    },
+    {
+      "eng": "daughter",
+      "kk": "ˈdɔtər",
+      "tense": "n.",
+      "ch": [
+        [
+          "女兒"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古英語 dohtor（為典型的印歐語系繼承詞，與德語 Tochter、希臘語 thygatēr 同源）。保留了指稱親生女性子嗣的古老詞彙。",
+      "definition": "1. a female child in relation to her parents.",
+      "example": [
+        {
+          "eng": "Proud parents watched their daughter graduate from college.",
+          "ch": "引以為傲的父母看著女兒從大學畢業。"
+        }
+      ]
+    },
+    {
+      "eng": "day",
+      "kk": "deɪ",
+      "tense": "n.",
+      "ch": [
+        [
+          "白天",
+          "白晝"
+        ],
+        [
+          "一天",
+          "一日（24小時）"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古英語 dæg（日耳曼語族繼承詞）。本義為太陽升起到落下的「白天」，後擴大指包含夜晚在內的完整「二十四小時一日」。",
+      "definition": "1. the period of light between sunrise and sunset; 2. a 24-hour period.",
+      "example": [
+        {
+          "eng": "The weather was warm and sunny all through the day.",
+          "ch": "一整天都是溫暖晴朗的好天氣。"
+        },
+        {
+          "eng": "There are seven days in a standard week.",
+          "ch": "一個標準星期裡有七天。"
+        }
+      ]
+    },
+    {
+      "eng": "dead",
+      "kk": "dɛd",
+      "tense": "adj.",
+      "ch": [
+        [
+          "死的",
+          "無生命的"
+        ],
+        [
+          "不運作的",
+          "沒電的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自古英語 dēad（日耳曼語族繼承詞）。基本義為生物「失去生命、死去的」，並藉由隱喻延伸至機器「停止運作」、電池「沒電的」等狀態。",
+      "definition": "1. no longer alive; 2. (of a machine, battery, etc.) no longer functioning or lacking power.",
+      "example": [
+        {
+          "eng": "The old tree in the garden is completely dead.",
+          "ch": "花園裡的那棵老樹已經完全枯死。"
+        },
+        {
+          "eng": "My smartphone won't turn on because the battery is dead.",
+          "ch": "我的智慧型手機開不了機，因為電池沒電了。"
+        }
+      ]
+    },
+    {
+      "eng": "deal",
+      "kk": "dil",
+      "tense": "n.",
+      "ch": [
+        [
+          "交易",
+          "協議"
+        ],
+        [
+          "份量",
+          "待遇"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古英語 dǣl（意為分開、份額，源自動詞 dēlan 分配）。基本義為「分配到的份額」，演變出商業上的「交易、協議」，以及常見片語 a great deal（許多）中的份量義。",
+      "definition": "1. an agreement or arrangement, especially in business; 2. a large amount or quantity.",
+      "example": [
+        {
+          "eng": "The two companies finally closed a major business deal.",
+          "ch": "兩家公司終於敲定了一筆重大商業交易。"
+        },
+        {
+          "eng": "She spent a great deal of time preparing for the exam.",
+          "ch": "她花了很多時間準備考試。"
+        }
+      ]
+    },
+    {
+      "eng": "deal",
+      "kk": "dil",
+      "tense": "vi.",
+      "ch": [
+        [
+          "處理",
+          "應付"
+        ],
+        [
+          "關於",
+          "涉及"
+        ]
+      ],
+      "analysis": "此字為不及物動詞（常與介詞 with 併用），源自古英語 dēlan（分配、分發）。其語意從「分配事務」演變為「處置、對付某事」（deal with），或指書籍、文章「探討、關於」某主題。",
+      "definition": "1. to take action to handle or solve a problem or situation (used with 'with'); 2. to be about or concern a particular subject.",
+      "example": [
+        {
+          "eng": "Managers must learn how to deal with difficult employees.",
+          "ch": "經理人必須學會如何處理難纏的員工。"
+        },
+        {
+          "eng": "This documentary deals with the serious issue of climate change.",
+          "ch": "這部紀錄片探討了氣候變遷的嚴肅議題。"
+        }
+      ]
+    },
+    {
+      "eng": "dear",
+      "kk": "dɪr",
+      "tense": "adj.",
+      "ch": [
+        [
+          "親愛的",
+          "心愛的"
+        ],
+        [
+          "昂貴的",
+          "價錢高的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自古英語 dēore（珍貴的、昂貴的，日耳曼語族繼承詞）。基本義為「珍貴的、在心中很有價值的（親愛的）」，在古語及特定方言中仍保留「價格昂貴的」之本義。",
+      "definition": "1. regarded with deep affection, beloved; 2. high in price, expensive.",
+      "example": [
+        {
+          "eng": "She wrote a heartwarming letter to her dear grandmother.",
+          "ch": "她給親愛的祖母寫了一封溫馨的信。"
+        },
+        {
+          "eng": "In those days, imported books were considered very dear.",
+          "ch": "在那個年代，進口書被認為是非常昂貴的。"
+        }
+      ]
+    },
+    {
+      "eng": "death",
+      "kk": "dɛθ",
+      "tense": "n.",
+      "ch": [
+        [
+          "死亡",
+          "招致死亡的原因"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古英語 dēaþ（由形容詞 dead 加上名詞化字尾 -þ 構成）。指生物生命的結束或終止。",
+      "definition": "1. the permanent end of all biological functions that sustain a living organism.",
+      "example": [
+        {
+          "eng": "The sudden news of his father's death shocked the whole family.",
+          "ch": "他父親去世的突發消息震驚了全家。"
+        }
+      ]
+    },
+    {
+      "eng": "decide",
+      "kk": "dɪˈsaɪd",
+      "tense": "vt.",
+      "ch": [
+        [
+          "決定",
+          "決意"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自拉丁語 decidere（由 de- 向下、加強 + caedere 切斷，字面義為「把選項切斷、拍板定案」），經中古法語進入英語。動詞指經過思考後對某事做出最終選擇。",
+      "definition": "1. to make a definite choice or resolution after consideration.",
+      "example": [
+        {
+          "eng": "We need to decide where we want to go for our summer vacation.",
+          "ch": "我們需要決定暑假想去哪裡。"
+        }
+      ]
+    },
+    {
+      "eng": "decide",
+      "kk": "dɪˈsaɪd",
+      "tense": "vi.",
+      "ch": [
+        [
+          "做出決定",
+          "下決心"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，與及物動詞同源，指主詞本身行使抉擇權、做出最後結論。",
+      "definition": "1. to come to a conclusion or make up one's mind.",
+      "example": [
+        {
+          "eng": "It is entirely up to you to decide.",
+          "ch": "這完全由你來決定。"
+        }
+      ]
+    },
+    {
+      "eng": "deep",
+      "kk": "dip",
+      "tense": "adj.",
+      "ch": [
+        [
+          "深的",
+          "縱深大的"
+        ],
+        [
+          "深奧的",
+          "深沉的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自古英語 dēop（日耳曼語族繼承詞）。本義為距離表面或底部很遠的「深的」，並引申出抽象意義上的思想「深奧的」或情感「深沉的」。",
+      "definition": "1. extending far down from the top surface or inward from the front; 2. intense, profound, or difficult to understand.",
+      "example": [
+        {
+          "eng": "The swimming pool is too deep for young children to touch the bottom.",
+          "ch": "這個游泳池太深了，小孩子踩不到底。"
+        },
+        {
+          "eng": "The philosopher's lecture was so deep that few people followed it.",
+          "ch": "那位哲學家的演講非常深奧，沒什麼人聽得懂。"
+        }
+      ]
+    },
+    {
+      "eng": "define",
+      "kk": "dɪˈfaɪn",
+      "tense": "vt.",
+      "ch": [
+        [
+          "定義",
+          "解釋…的含義"
+        ],
+        [
+          "界定",
+          "規定"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自拉丁語 definire（由 de- 加強 + finire 劃界限、結束，源自 finis 界線、終點），經中古法語進入英語。字面義為「給予明確的邊界」，引申為「解釋詞義」或「界定權責」。",
+      "definition": "1. to state or explain the exact meaning of a word, phrase, or concept; 2. to mark the limits of or clearly specify the nature of something.",
+      "example": [
+        {
+          "eng": "A dictionary is a useful tool to help you define unfamiliar words.",
+          "ch": "字典是幫助你定義不熟悉單字的有用工具。"
+        },
+        {
+          "eng": "The new contract clearly defines the roles and responsibilities of each team member.",
+          "ch": "新合約明確界定了每個團隊成員的角色與職責。"
+        }
+      ]
+    },
+    {
+      "eng": "desk",
+      "kk": "dɛsk",
+      "tense": "n.",
+      "ch": [
+        [
+          "書桌",
+          "辦公桌"
+        ]
+      ],
+      "analysis": "此字為名詞，源自中世紀拉丁語 desca（意為講台、桌子，源自希臘語 diskos 圓盤、台面）。指供人寫字、辦公或閱讀的桌子。",
+      "definition": "1. a piece of furniture with a flat or sloping surface used for writing, reading, or working at.",
+      "example": [
+        {
+          "eng": "He sat at his wooden desk, typing an email on his computer.",
+          "ch": "他坐在木製書桌前，在電腦上打電子郵件。"
+        }
+      ]
+    },
+    {
+      "eng": "dictionary",
+      "kk": "ˈdɪkʃəˌnɛri",
+      "tense": "n.",
+      "ch": [
+        [
+          "字典",
+          "辭典"
+        ]
+      ],
+      "analysis": "此字為名詞，源自中世紀拉丁語 dictionarium（由 dictio 字詞、說話，源自動詞 dicere 說 + 名詞化與形容詞字尾 -arium 構成）。指收錄並解釋詞彙的工具書。",
+      "definition": "1. a book or electronic resource that lists words of a language and gives their meanings, pronunciations, and usage.",
+      "example": [
+        {
+          "eng": "Whenever I encounter an unknown word, I look it up in the dictionary.",
+          "ch": "每當我遇到不認識的字，我就會去查字典。"
+        }
+      ]
+    },
+    {
+      "eng": "die",
+      "kk": "daɪ",
+      "tense": "vi.",
+      "ch": [
+        [
+          "死亡",
+          "夭折"
+        ],
+        [
+          "熄滅",
+          "停止運作"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，源自古英語 dīan（日耳曼語族繼承詞）。基本義為生物「生命終止、死亡」，並引申指燈光、聲音或機器「逐漸消失、熄滅」。",
+      "definition": "1. to stop living or cease to exist; 2. to fade away, subside, or stop functioning gradually.",
+      "example": [
+        {
+          "eng": "The loyal dog refused to leave the spot where its master died.",
+          "ch": "那隻忠心的狗拒絕離開它主人去世的地點。"
+        },
+        {
+          "eng": "The engine sputtered for a second and then died.",
+          "ch": "引擎轟鳴了一秒鐘然後就熄火了。"
+        }
+      ]
+    },
+    {
+      "eng": "different",
+      "kk": "ˈdɪfərənt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "不同的",
+          "有差異的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自拉丁語 differens（動詞 differre 的現在分詞，由 dis- 分開 + ferre 帶、攜帶，字面義為「各自帶往不同方向、分歧的」），經中古法語進入英語。指事物之間不相同或具備差異。",
+      "definition": "1. not the same as another or each other; dissimilar in nature, quality, or form.",
+      "example": [
+        {
+          "eng": "The twins look identical, but they have completely different personalities.",
+          "ch": "這對雙胞胎長得一模一樣，但他們有著完全不同的個性。"
+        }
+      ]
+    },
+    {
+      "eng": "difficult",
+      "kk": "ˈdɪfɪkəlt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "困難的",
+          "艱難的"
+        ],
+        [
+          "難相處的",
+          "棘手的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自拉丁語 difficilis（由 dis- 不、相反 + facilis 容易的，字面義為「不容易的」），經中古法語進入英語。形容任務、情況「充滿困難的」，或形容人「難以應付、難相處的」。",
+      "definition": "1. needing much effort or skill to accomplish, deal with, or understand; 2. (of a person) hard to please, manage, or get along with.",
+      "example": [
+        {
+          "eng": "Passing the entrance exam required solving several difficult physics problems.",
+          "ch": "通過入學考試需要解開幾個困難的物理題。"
+        },
+        {
+          "eng": "He can be very difficult to work with when he is stressed.",
+          "ch": "當他壓力大時，會變得非常難相處。"
+        }
+      ]
+    },
+    {
+      "eng": "dig",
+      "kk": "dɪɡ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "挖掘",
+          "掘出"
+        ]
+      ],
+      "analysis": "此字為及物動詞（過去式及過去分詞通常為 dug），源自中古英語 diggen（可能源自古法語或日耳曼語源）。動詞本義為用工具或手在土中「挖掘出空間或物品」。",
+      "definition": "1. to break up, turn over, or remove earth with a tool, machine, or hands.",
+      "example": [
+        {
+          "eng": "The dog was digging a deep hole in the backyard garden.",
+          "ch": "那隻狗正在後院花園裡挖一個深坑。"
+        }
+      ]
+    },
+    {
+      "eng": "dig",
+      "kk": "dɪɡ",
+      "tense": "vi.",
+      "ch": [
+        [
+          "挖土",
+          "掘地"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，與及物動詞同源，專門指進行挖掘的動作行為。",
+      "definition": "1. to make an excavation in the ground.",
+      "example": [
+        {
+          "eng": "The construction workers started to dig before laying the building foundations.",
+          "ch": "建築工人在鋪設建築地基前開始動土挖掘。"
+        }
+      ]
+    },
+    {
+      "eng": "dinner",
+      "kk": "ˈdɪnər",
+      "tense": "n.",
+      "ch": [
+        [
+          "晚餐",
+          "正餐"
+        ]
+      ],
+      "analysis": "此字為名詞，經中古法語 diner（動詞轉名詞，源自拉丁語 *disjejunare 解除齋戒，由 dis- 相反 + jejunus 空腹、禁食）進入英語。原意為一天中的第一餐（打破禁食），現代演變為主餐或晚餐。",
+      "definition": "1. the main meal of the day, eaten either in the middle of the day or in the evening.",
+      "example": [
+        {
+          "eng": "The family gathered around the table to enjoy a warm dinner together.",
+          "ch": "一家人圍坐在桌旁，一起享用溫馨的晚餐。"
+        }
+      ]
+    },
+    {
+      "eng": "dirty",
+      "kk": "ˈdɜrti",
+      "tense": "adj.",
+      "ch": [
+        [
+          "髒的",
+          "汙濁的"
+        ],
+        [
+          "卑鄙的",
+          "下流的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自古英語 durtig（由 dore 糞便、汙物演變而來的名詞加上形容詞字尾 -y）。基本義為沾染汙垢的「髒的」，並引申出道德或行為上的「卑鄙的、下流的」。",
+      "definition": "1. covered or marked with an unclean substance like dirt, dust, or grease; 2. unfair, dishonest, or morally base.",
+      "example": [
+        {
+          "eng": "Please wash your dirty hands before sitting down at the dining table.",
+          "ch": "坐在餐桌前之前，請先把你的髒手洗乾淨。"
+        },
+        {
+          "eng": "Spreading false rumors about your rival is a very dirty trick.",
+          "ch": "散布關於你競爭對手的假謠言是一個非常卑鄙的把戲。"
+        }
+      ]
+    },
+    {
+      "eng": "dish",
+      "kk": "dɪʃ",
+      "tense": "n.",
+      "ch": [
+        [
+          "盤子",
+          "碟子"
+        ],
+        [
+          "一道菜肴"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古英語 disc（源自拉丁語 discus 圓盤、鐵餅，源自希臘語 diskos）。本義為盛裝食物的「盤子」，藉由借代延伸指盛在盤中的「一道菜肴」。",
+      "definition": "1. a shallow, flat-bottomed container for cooking or serving food; 2. a particular food prepared as part of a meal.",
+      "example": [
+        {
+          "eng": "She placed the roasted chicken on a large ceramic dish.",
+          "ch": "她把烤雞放在一個大型陶瓷盤子上。"
+        },
+        {
+          "eng": "Spaghetti Bolognese is one of my favorite Italian dishes.",
+          "ch": "肉醬義大利麵是我最喜愛的義大利菜餚之一。"
+        }
+      ]
+    },
+    {
+      "eng": "do",
+      "kk": "du",
+      "tense": "vt.",
+      "ch": [
+        [
+          "做",
+          "幹",
+          "從事"
+        ],
+        [
+          "行過",
+          "完成"
+        ]
+      ],
+      "analysis": "此字為及物動詞（三態為 do-did-done），源自古英語 dōn（日耳曼語族繼承詞）。作為基本動詞，廣泛用於表示執行、進行某項動作或任務。",
+      "definition": "1. to perform, carry out, or achieve an action, task, or activity.",
+      "example": [
+        {
+          "eng": "Students must do their homework before coming to school tomorrow.",
+          "ch": "學生明天來學校前必須把家庭作業做好。"
+        }
+      ]
+    },
+    {
+      "eng": "do",
+      "kk": "du",
+      "tense": "aux.",
+      "ch": [
+        [
+          "（用於構成否定句、疑問句或加強語氣的助動詞）"
+        ]
+      ],
+      "analysis": "此字為助動詞（由本義動詞演變而來），在現代英語語法中專門用來協助普通動詞構成否定句、疑問句，或放在動詞前作為加強語氣之用。",
+      "definition": "1. used to form questions, negative statements, and emphatic forms of other verbs.",
+      "example": [
+        {
+          "eng": "Do you know the answer to this difficult question?",
+          "ch": "你知道這道難題的答案嗎？"
+        }
+      ]
+    },
+    {
+      "eng": "doctor",
+      "kk": "ˈdɑktər",
+      "tense": "n.",
+      "ch": [
+        [
+          "醫生",
+          "醫師"
+        ],
+        [
+          "博士"
+        ]
+      ],
+      "analysis": "此字為名詞，源自拉丁語 doctor（意為老師、學者，源自動詞 docere 教導），經中古法語進入英語。中世紀原指獲得最高學術學位的人（即博士），後因大學醫療學位與之結合，演變出「醫生」的常用義。",
+      "definition": "1. a qualified practitioner of medicine; a physician or surgeon; 2. a person who holds the highest academic degree awarded by a university.",
+      "example": [
+        {
+          "eng": "The doctor examined the patient and prescribed some medicine.",
+          "ch": "醫生檢查了病人並開了一些藥。"
+        },
+        {
+          "eng": "She earned her doctor of philosophy degree in historical linguistics.",
+          "ch": "她獲得了歷史語言學哲學博士學位。"
+        }
+      ]
+    },
+    {
+      "eng": "doc",
+      "kk": "dɑk",
+      "tense": "n.",
+      "ch": [
+        [
+          "醫生（口語簡稱）"
+        ],
+        [
+          "文件（檔案格式簡稱）"
+        ]
+      ],
+      "analysis": "此字為名詞，為 doctor 或 document 的截斷俗稱（clipping）。在口語中常作為對醫生的暱稱，或在電腦科技領域中作為檔案副檔名（.doc）或文件的簡稱。",
+      "definition": "1. an informal abbreviation for doctor; 2. a short term for document.",
+      "example": [
+        {
+          "eng": "Hey Doc, when can I take off these medical bandages?",
+          "ch": "嘿醫生，我什麼時候可以拆掉這些醫療繃帶？"
+        },
+        {
+          "eng": "Please save your assignment as a doc file before submission.",
+          "ch": "交作業前請將你的作業儲存為文件檔。"
+        }
+      ]
+    },
+    {
+      "eng": "dog",
+      "kk": "dɔɡ",
+      "tense": "n.",
+      "ch": [
+        [
+          "狗"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古英語 docga（詞源起源不明，可能源自早期的犬隻品種名稱）。取代了古英語原有的 hund（印歐同源詞），成為現代英語中指稱犬科寵物動物的主流詞彙。",
+      "definition": "1. a domesticated carnivorous mammal that typically has a long snout, an acute sense of smell, and a barking voice.",
+      "example": [
+        {
+          "eng": "The friendly dog barked happily when its owner returned home.",
+          "ch": "當主人回家時，那隻友善的狗高興地吠叫。"
+        }
+      ]
+    },
+    {
+      "eng": "doll",
+      "kk": "dɑl",
+      "tense": "n.",
+      "ch": [
+        [
+          "洋娃娃",
+          "玩偶"
+        ]
+      ],
+      "analysis": "此字為名詞，源自人名 Dorothy 或其暱稱 Doll（亦可能來自荷蘭語或德語中的類似字彙）。原為女性人名，後轉化用以指稱模仿人類外形的兒童玩具「洋娃娃」。",
+      "definition": "1. a small model of a human, typically used as a child's toy.",
+      "example": [
+        {
+          "eng": "The little girl tucked her favorite doll into bed before sleeping.",
+          "ch": "小女孩在睡覺前把她最愛的洋娃娃塞進被窩裡。"
+        }
+      ]
+    },
+    {
+      "eng": "dollar",
+      "kk": "ˈdɑlər",
+      "tense": "n.",
+      "ch": [
+        [
+          "元（美國、加拿大等國的貨幣單位）"
+        ]
+      ],
+      "analysis": "此字為名詞，源自德語 Thaler（意為「谷地幣」，全稱 Joachimsthaler，因產自波希米亞的約阿希姆斯塔爾銀礦區而得名），經荷蘭語進入英語並引入北美洲，成為美元的名稱。",
+      "definition": "1. the basic unit of money in the US, Canada, Australia, and several other countries.",
+      "example": [
+        {
+          "eng": "The cup of coffee cost five dollars at the cafe.",
+          "ch": "這杯咖啡在咖啡廳賣五美元。"
+        }
+      ]
+    },
+    {
+      "eng": "door",
+      "kk": "dɔr",
+      "tense": "n.",
+      "ch": [
+        [
+          "門",
+          "出入口"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古英語 dor（日耳曼語族繼承詞，與德語 Tor、荷蘭語 deur 同源）。指建築物或房間用以隔間及進出的「門」。",
+      "definition": "1. a hinged, sliding, or revolving barrier by which an entrance to a building, room, or vehicle is closed and opened.",
+      "example": [
+        {
+          "eng": "Please remember to lock the front door when you leave the house.",
+          "ch": "你離開房子時請記得鎖上前門。"
+        }
+      ]
+    },
+    {
+      "eng": "down",
+      "kk": "daʊn",
+      "tense": "adv.",
+      "ch": [
+        [
+          "向下",
+          "朝下"
+        ],
+        [
+          "處於低潮",
+          "降低"
+        ]
+      ],
+      "analysis": "此字為副詞，與介詞同源。指方向朝下，或引申為聲音、價格的「降低」，或情緒「低落、沮喪」。",
+      "definition": "1. toward a lower place or position; 2. (of mood, prices, or volume) lower in level or depressed.",
+      "example": [
+        {
+          "eng": "He bent down to pick up his fallen pen from the floor.",
+          "ch": "他彎下腰從地板上撿起掉落的筆。"
+        },
+        {
+          "eng": "Gasoline prices went down slightly this week.",
+          "ch": "汽油價格這星期稍微下降了。"
+        }
+      ]
+    },
+    {
+      "eng": "down",
+      "kk": "daʊn",
+      "tense": "prep.",
+      "ch": [
+        [
+          "沿着…往下",
+          "順著…向下"
+        ]
+      ],
+      "analysis": "此字為介詞，源自古英語 dūne（原意為「從山上往下」，由副詞片語 of dūne 演變而來）。作為介詞時，表示沿著某個坡度或路徑由高處向低處移動。",
+      "definition": "1. along a slope, path, or current in a downward direction.",
+      "example": [
+        {
+          "eng": "Rainwater flowed rapidly down the steep street during the storm.",
+          "ch": "暴風雨期間，雨水順著陡峭的街道快速往下流。"
+        }
+      ]
+    },
+    {
+      "eng": "dozen",
+      "kk": "ˈdʌzən",
+      "tense": "n.",
+      "ch": [
+        [
+          "一打",
+          "十二個"
+        ]
+      ],
+      "analysis": "此字為名詞，經中古法語 douzaine 進入英語，最終源自拉丁語 duodecim（由 duo 二 + decem 十組成，即十二）。指十二個一組的數量單位。",
+      "definition": "1. a group of twelve of the same thing.",
+      "example": [
+        {
+          "eng": "She bought a dozen fresh eggs from the local farmers' market.",
+          "ch": "她從當地農夫市場買了一打新鮮雞蛋。"
+        }
+      ]
+    },
+    {
+      "eng": "draw",
+      "kk": "drɔ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "畫",
+          "繪製"
+        ],
+        [
+          "拉",
+          "拖",
+          "吸引"
+        ],
+        [
+          "抽（籤）、拔（劍）"
+        ]
+      ],
+      "analysis": "此字為及物動詞（三態為 draw-drew-drawn），源自古英語 dragan（意為拖、拉，日耳曼語族繼承詞）。其原始義為「用力拉扯」，由此延伸出「拔出（劍）」、「抽（籤）」、「吸引注意力」，以及藉由筆在紙上移動拉出線條的「繪畫」動作。",
+      "definition": "1. to produce a picture or diagram by making lines on a surface; 2. to pull or drag something along or towards oneself, or to attract; 3. to extract or pull out something like a weapon or lot.",
+      "example": [
+        {
+          "eng": "The art student likes to draw portraits of people in the park.",
+          "ch": "那個藝術系學生喜歡在公園裡畫人物肖像。"
+        },
+        {
+          "eng": "The street performer managed to draw a large crowd of onlookers.",
+          "ch": "那個街頭藝人成功吸引了一大群旁觀者。"
+        },
+        {
+          "eng": "The knight quickly drew his sword to defend himself.",
+          "ch": "那名騎士迅速拔出劍來保護自己。"
+        }
+      ]
+    },
+    {
+      "eng": "draw",
+      "kk": "drɔ",
+      "tense": "vi.",
+      "ch": [
+        [
+          "平局",
+          "打平"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，源自「拉鋸、雙方力量拉平不分勝負」的概念，在競賽或體育運動中專指「雙方比分打成平手」。",
+      "definition": "1. to finish a contest or game with an equal score; tie.",
+      "example": [
+        {
+          "eng": "Both soccer teams played defensively and ended the match in a draw.",
+          "ch": "兩支足球隊都採取防守踢法，最終以平局結束比賽。"
+        }
+      ]
+    },
+    {
+      "eng": "dream",
+      "kk": "drim",
+      "tense": "n.",
+      "ch": [
+        [
+          "夢",
+          "夢境"
+        ],
+        [
+          "夢想",
+          "願望"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古英語 drēam（本義為歡樂、音樂，後在中古英語中受斯堪地那維亞語影響轉變成睡眠中的「夢」）。名詞指睡眠中產生的幻象，亦可抽象引申為人生追求的「夢想」。",
+      "definition": "1. a series of thoughts, images, and sensations occurring in a person's mind during sleep; 2. a cherished ambition, ideal, or goal.",
+      "example": [
+        {
+          "eng": "I had a very strange and vivid dream about flying last night.",
+          "ch": "我昨晚做了一個關於飛行的非常奇怪且生動的夢。"
+        },
+        {
+          "eng": "It has always been her dream to become a professional writer.",
+          "ch": "成為一名專業作家一直是她的夢想。"
+        }
+      ]
+    },
+    {
+      "eng": "dream",
+      "kk": "drim",
+      "tense": "vi.",
+      "ch": [
+        [
+          "做夢"
+        ],
+        [
+          "夢想",
+          "空想"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，與名詞同源。指在睡眠中經歷夢境，或在清醒時心馳神往、懷抱夢想或空想。",
+      "definition": "1. to experience dreams during sleep; 2. to indulge in daydreams or contemplate a possibility.",
+      "example": [
+        {
+          "eng": "She was so tired that she slept soundly and dreamed all night.",
+          "ch": "她太累了，睡得很沉並且做了一整晚的夢。"
+        },
+        {
+          "eng": "Don't just sit there and dream about success; start working hard.",
+          "ch": "別只坐在那裡空想成功，開始努力工作吧。"
+        }
+      ]
+    },
+    {
+      "eng": "dress",
+      "kk": "drɛs",
+      "tense": "n.",
+      "ch": [
+        [
+          "連身裙",
+          "女裝"
+        ]
+      ],
+      "analysis": "此字為名詞，經中古法語 dresse 進入英語（源自動詞 dresser 安排、打扮）。其基本義從「整裝、服飾」收窄為現代專指女性穿著的上衣連裙身的「連身裙」。",
+      "definition": "1. a one-piece garment for a woman or girl that covers the body and extends down over the legs.",
+      "example": [
+        {
+          "eng": "She wore a beautiful red silk dress to the evening party.",
+          "ch": "她穿著一件美麗的紅色絲綢連身裙去參加晚宴。"
+        }
+      ]
+    },
+    {
+      "eng": "dress",
+      "kk": "drɛs",
+      "tense": "vt.",
+      "ch": [
+        [
+          "給…穿衣",
+          "打扮"
+        ],
+        [
+          "包紮（傷口）"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自古法語 dresser（拉丁語 *directiare 使筆直、排列整齊）。動詞本義為「整理、使端正」，引申出「為人穿衣打扮」以及醫療上「清潔並包紮傷口」的專業用法。",
+      "definition": "1. to put clothes on someone or oneself; 2. to clean, treat, and bandage a wound.",
+      "example": [
+        {
+          "eng": "The mother helped her young daughter dress for the school event.",
+          "ch": "母親幫她年幼的女兒穿好衣服去參加學校活動。"
+        },
+        {
+          "eng": "The nurse carefully cleaned and dressed the patient's minor wound.",
+          "ch": "護士小心翼翼地清潔並包紮了病人的輕微傷口。"
+        }
+      ]
+    },
+    {
+      "eng": "drink",
+      "kk": "drɪŋk",
+      "tense": "n.",
+      "ch": [
+        [
+          "飲料",
+          "酒水"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古英語 drinc（源自動詞 drincan）。指可供飲用的液體飲料或酒精飲品。",
+      "definition": "1. a liquid to be swallowed, such as water, juice, or alcohol.",
+      "example": [
+        {
+          "eng": "After running for an hour, he desperately needed a cold drink of water.",
+          "ch": "跑步一個小時後，他非常需要一杯冰涼的開水。"
+        }
+      ]
+    },
+    {
+      "eng": "drink",
+      "kk": "drɪŋk",
+      "tense": "vt.",
+      "ch": [
+        [
+          "喝",
+          "飲"
+        ],
+        [
+          "舉杯慶祝"
+        ]
+      ],
+      "analysis": "此字為及物動詞（三態為 drink-drank-drunk），源自古英語 drincan（日耳曼語族繼承詞）。基本義為吞嚥液體，亦可引申在慶典中「舉杯敬酒」。",
+      "definition": "1. to swallow a liquid; 2. to toast or salute someone by consuming alcohol.",
+      "example": [
+        {
+          "eng": "It is important to drink plenty of water during hot summer days.",
+          "ch": "在炎熱的夏天裡多喝水是很重要的。"
+        },
+        {
+          "eng": "The guests raised their glasses to drink to the newlywed couple's happiness.",
+          "ch": "賓客們舉起酒杯，為新婚夫婦的幸福乾杯。"
+        }
+      ]
+    },
+    {
+      "eng": "drink",
+      "kk": "drɪŋk",
+      "tense": "vi.",
+      "ch": [
+        [
+          "喝水",
+          "飲酒"
+        ],
+        [
+          "酗酒"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，與及物動詞同源。指進行飲用行為，或特指「飲用酒精飲料」甚至隱含「酗酒」之義。",
+      "definition": "1. to consume liquids or alcoholic beverages.",
+      "example": [
+        {
+          "eng": "The thirsty horse stopped by the river to drink.",
+          "ch": "那匹口渴的馬在河邊停下來喝水。"
+        }
+      ]
+    }
+  ]
+}

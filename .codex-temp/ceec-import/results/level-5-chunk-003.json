@@ -1,0 +1,1269 @@
+{
+  "level": 5,
+  "chunkIndex": 3,
+  "inputs": [
+    "booth",
+    "boredom",
+    "bound",
+    "boundary",
+    "boxer",
+    "breakthrough",
+    "briefcase",
+    "bronze",
+    "browse",
+    "bruise",
+    "bulk",
+    "bully",
+    "bureau",
+    "bureaucracy",
+    "burial",
+    "butcher",
+    "calcium",
+    "canal",
+    "canvas",
+    "capability",
+    "carbon",
+    "carnival",
+    "casino",
+    "cathedral",
+    "caution",
+    "cautious",
+    "celebrity",
+    "cemetery",
+    "ceremony",
+    "certainty",
+    "certificate",
+    "chaos",
+    "chapel",
+    "characterize",
+    "chef",
+    "choir",
+    "chord",
+    "chore",
+    "chronic",
+    "chubby",
+    "chunk",
+    "circuit",
+    "cite",
+    "citizenship",
+    "civic",
+    "clarity",
+    "clause",
+    "cling",
+    "clinical",
+    "cluster"
+  ],
+  "rows": [
+    {
+      "eng": "booth",
+      "kk": "buθ",
+      "tense": "n.",
+      "ch": [
+        [
+          "小隔間",
+          "亭"
+        ],
+        [
+          "攤位",
+          "貨攤"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 皆為 booth。源自中古英語 bote、boothe，最終源自古諾斯語 bōð（意為暫時的住處、小屋），與日耳曼語族的居住概念相關。語意演變從早期的小屋或臨時居所，逐漸演變為現代常見的投票所、電話亭、餐廳卡座或市場展覽攤位等有隔板的小空間。",
+      "definition": "1. a small, enclosed compartment or private space, such as for voting or making a phone call; 2. a temporary stall or stand for selling goods or providing information at a market or exhibition.",
+      "example": [
+        {
+          "eng": "She stepped into the voting booth to cast her ballot.",
+          "ch": "她走進投票所的隔間投下選票。"
+        },
+        {
+          "eng": "They rented a booth at the local craft fair to sell handmade candles.",
+          "ch": "他們在當地的手工藝品展租了一個攤位來販售手工蠟燭。"
+        }
+      ]
+    },
+    {
+      "eng": "boredom",
+      "kk": "ˈbɔrdəm",
+      "tense": "n.",
+      "ch": [
+        [
+          "厭倦",
+          "無聊",
+          "乏味"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 皆為 boredom。由動詞 bore（使厭煩、使無聊）加上名詞字尾 -dom（表示狀態、領域或身份，源自古英語 dōm）構成。現代透明構詞為 bore + -dom。語意直接繼承自 bore 的狀態，指因缺乏興趣、刺激或事情可做而感到沉悶、厭煩的心理狀態。",
+      "definition": "1. the state of feeling weary and restless through lack of interest.",
+      "example": [
+        {
+          "eng": "He sighed with sheer boredom while listening to the endless lecture.",
+          "ch": "聽著這場無休止的講座，他無奈地嘆了口氣。"
+        }
+      ]
+    },
+    {
+      "eng": "bound",
+      "kk": "baʊnd",
+      "tense": "vt.",
+      "ch": [
+        [
+          "形成邊界",
+          "圍繞",
+          "限制"
+        ]
+      ],
+      "analysis": "此字為及物動詞，表面詞形與 lemma 皆為 bound，源自古法語 bunder，最終源自拉丁語 *bonda（意為界線、極限）。與作為名詞的 boundary 同源。語意指作為……的邊界，或對範圍、數量等進行限制。",
+      "definition": "1. to act as a limit or boundary for something.",
+      "example": [
+        {
+          "eng": "High mountains bound the valley on the east.",
+          "ch": "高山在東邊圍繞著這個山谷。"
+        }
+      ]
+    },
+    {
+      "eng": "bound",
+      "kk": "baʊnd",
+      "tense": "vi.",
+      "ch": [
+        [
+          "跳躍",
+          "彈回"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，表面詞形與 lemma 皆為 bound，源自義大利語 baccare 或法語 bondir（意為跳躍、奔騰），與上一個表示邊界的 bound 歷史來源不同，屬於同形異義詞。語意指以大步或有彈性、歡快的方式跳躍前進。",
+      "definition": "1. to walk or run with leaping strides.",
+      "example": [
+        {
+          "eng": "The happy dog bounded across the lawn to greet his owner.",
+          "ch": "那隻快樂的狗在草坪上跳躍著跑過去迎接主人。"
+        }
+      ]
+    },
+    {
+      "eng": "bound",
+      "kk": "baʊnd",
+      "tense": "adj.",
+      "ch": [
+        [
+          "受約束的",
+          "有義務的",
+          "必須的"
+        ],
+        [
+          "準備前往的",
+          "開往…的"
+        ],
+        [
+          "被綑綁的",
+          "裝訂好的"
+        ]
+      ],
+      "analysis": "此字為形容詞，表面詞形與 lemma 皆為 bound，源自古英語 bunden（動詞 bindan 的過去分詞）。語意從原意「被繩索綑綁的」延伸出「受到法律或合約束縛、有義務的」，以及在航海語境中表示「受航向拘束、開往某地的」（如 homeward bound），同時也指書籍經過「裝訂成冊的」。",
+      "definition": "1. required by law, duty, or circumstances; 2. traveling or ready to travel toward a specified destination; 3. fastened, tied, or secured together, or having a binding cover.",
+      "example": [
+        {
+          "eng": "You are bound by the contract to complete the work by Friday.",
+          "ch": "根據合約，你有義務在週五前完成這項工作。"
+        },
+        {
+          "eng": "The flight is bound for London.",
+          "ch": "這架班機是飛往倫敦的。"
+        },
+        {
+          "eng": "The book was bound in genuine leather.",
+          "ch": "這本書是用真皮裝訂的。"
+        }
+      ]
+    },
+    {
+      "eng": "boundary",
+      "kk": "ˈbaʊndəri",
+      "tense": "n.",
+      "ch": [
+        [
+          "邊界",
+          "分界線",
+          "範圍"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 皆為 boundary。由名詞 bound（邊界、界限）加上名詞字尾 -ary（表示地點或相關事物，源自拉丁語 -arius）構成。現代透明構詞為 bound + -ary。語意指標示地理區域、財產範圍或抽象概念極限的界線。",
+      "definition": "1. a line that marks the limits of an area; a dividing line.",
+      "example": [
+        {
+          "eng": "The river forms a natural boundary between the two countries.",
+          "ch": "這條河構成了兩國之間的天然邊界。"
+        }
+      ]
+    },
+    {
+      "eng": "boxer",
+      "kk": "ˈbɑksər",
+      "tense": "n.",
+      "ch": [
+        [
+          "拳擊手"
+        ],
+        [
+          "拳獅犬"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 皆為 boxer。由動詞 box（拳擊）加上名詞動作代客字尾 -er 構成。現代透明構詞為 box + -er。語意一是從事拳擊運動的運動員；語意二是源自德國的犬種「拳獅犬」（Boxer），因其站立或玩耍時前爪動作類似人類出拳而得名。",
+      "definition": "1. a person who fights in the sport of boxing; 2. a medium-sized breed of stocky, short-haired dog of German origin.",
+      "example": [
+        {
+          "eng": "The professional boxer trained rigorously for the championship fight.",
+          "ch": "這位職業拳擊手為冠軍賽進行了嚴格的訓練。"
+        },
+        {
+          "eng": "Their pet boxer is very energetic and friendly with children.",
+          "ch": "他們養的拳獅犬精力非常充沛，對小孩也很友善。"
+        }
+      ]
+    },
+    {
+      "eng": "breakthrough",
+      "kk": "ˈbreɪkˌθru",
+      "tense": "n.",
+      "ch": [
+        [
+          "突破",
+          "重大進展"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 皆為 breakthrough。由動詞 break（打破）與副詞／介詞 through（穿過）組合成的複合名詞。現代透明構詞為 break + through。語意從原先軍事上「突破敵方防線」抽象延伸為科學、技術或研究上克服重大困難、取得關鍵性進展的突破。",
+      "definition": "1. an important discovery or development that helps to improve a situation or solve a problem.",
+      "example": [
+        {
+          "eng": "Scientists announced a major breakthrough in cancer research.",
+          "ch": "科學家們宣佈在癌症研究上取得重大突破。"
+        }
+      ]
+    },
+    {
+      "eng": "briefcase",
+      "kk": "ˈbrifˌkeɪs",
+      "tense": "n.",
+      "ch": [
+        [
+          "公事包"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 皆為 briefcase。由形容詞 brief（簡短的、法律簡報用的）與名詞 case（箱子、袋子）組合成的複合名詞。現代透明構詞為 brief + case。最初指律師攜帶法律文件（briefs）的小型扁平箱子，後來泛指商務人士攜帶文件與筆電的公事包。",
+      "definition": "1. a flat, rectangular bag used for carrying books, papers, or documents, typically with a handle.",
+      "example": [
+        {
+          "eng": "He placed his laptop and important documents inside his leather briefcase.",
+          "ch": "他將筆記型電腦和重要文件放進皮質公事包裡。"
+        }
+      ]
+    },
+    {
+      "eng": "bronze",
+      "kk": "brɑnz",
+      "tense": "n.",
+      "ch": [
+        [
+          "青銅",
+          "古銅色",
+          "銅牌"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 皆為 bronze。經由法語從義大利語 bronzo 借入，其源頭可追溯至波斯語。語意指銅與錫的合金「青銅」，也指其金屬光澤的顏色（古銅色），並在體育競賽中引申為第三名獲得的「銅牌」。",
+      "definition": "1. a yellowish-brown alloy of copper with up to one-third tin; 2. a medal made of bronze awarded for third place in a competition.",
+      "example": [
+        {
+          "eng": "The ancient statue was cast in bronze.",
+          "ch": "這座古老的雕像是由青銅鑄造的。"
+        },
+        {
+          "eng": "She won a bronze medal in the 100-meter sprint.",
+          "ch": "她在100公尺短跑中贏得了一面銅牌。"
+        }
+      ]
+    },
+    {
+      "eng": "browse",
+      "kk": "braʊz",
+      "tense": "vt.",
+      "ch": [
+        [
+          "瀏覽",
+          "隨意翻閱"
+        ],
+        [
+          "吃草",
+          "啃食嫩葉"
+        ]
+      ],
+      "analysis": "此字為及物動詞，表面詞形與 lemma 皆為 browse。源自中古英語 browsen，最終源自通俗拉丁語 *brossare（意為採摘嫩葉、樹芽）。語意演變從動物「吃樹芽、嫩葉」的行為，延伸出人類在書店或圖書館「隨意翻閱書籍」的動作，進而擴展到現代在網際網路或選單上「瀏覽網頁、檢視資料」。",
+      "definition": "1. to survey goods, information, or websites casually in a leisurely way; 2. of animals, to feed on leaves, twigs, or other high-growing vegetation.",
+      "example": [
+        {
+          "eng": "I like to browse the bookshelves at the local library on weekends.",
+          "ch": "我喜歡在週末時瀏覽當地圖書館的書架。"
+        },
+        {
+          "eng": "Deer were seen browsing quietly at the edge of the forest.",
+          "ch": "有人看到鹿在森林邊緣安靜地啃食樹葉。"
+        }
+      ]
+    },
+    {
+      "eng": "bruise",
+      "kk": "bruz",
+      "tense": "n.",
+      "ch": [
+        [
+          "瘀傷",
+          "碰傷",
+          "青腫"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 皆為 bruise。源自古英語 brȳsan（意為壓碎、搗碎）。語意指身體受到撞擊導致微血管破裂形成的皮下瘀傷，或植物、水果表面因壓傷而產生的擦傷痕跡。",
+      "definition": "1. an injury where blood vessels in the skin are damaged, causing discoloration.",
+      "example": [
+        {
+          "eng": "The heavy fall left a nasty bruise on his knee.",
+          "ch": "那次重摔在他的膝蓋上留下了一處難看的瘀傷。"
+        }
+      ]
+    },
+    {
+      "eng": "bruise",
+      "kk": "bruz",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使挫傷",
+          "擦傷",
+          "打擊（自尊等）"
+        ],
+        [
+          "壓碎",
+          "搗碎"
+        ]
+      ],
+      "analysis": "此字為及物動詞，表面詞形與 lemma 皆為 bruise，源自古英語 brȳsan。語意一是使皮膚產生瘀傷或使水果等植物組織受損；二是抽象地「傷害、打擊」某人的自尊心或情感；三是烹飪或調酒時壓碎植物或香草以釋放香氣。",
+      "definition": "1. to inflict an injury on the skin causing discoloration, or to damage the surface of fruit or vegetables; 2. to hurt someone's feelings or pride; 3. to crush or press herbs or spices to release their flavor.",
+      "example": [
+        {
+          "eng": "He fell off his bicycle and bruised his elbow.",
+          "ch": "他從腳踏車上摔下來，擦傷了手肘。"
+        },
+        {
+          "eng": "Harsh criticism can easily bruise a sensitive ego.",
+          "ch": "嚴厲的批評很容易傷害敏感的自尊心。"
+        },
+        {
+          "eng": "Gently bruise the mint leaves before adding them to the cocktail.",
+          "ch": "在將薄荷葉加入雞尾酒之前，先輕輕將其壓碎以釋放香氣。"
+        }
+      ]
+    },
+    {
+      "eng": "bulk",
+      "kk": "bʌlk",
+      "tense": "n.",
+      "ch": [
+        [
+          "主體",
+          "大部分"
+        ],
+        [
+          "龐大的體積",
+          "大宗"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 皆為 bulk。源自古諾斯語 búlki（意為貨艙、貨物體積）。語意一是某物的大部分或主體（the bulk of）；二是物體巨大的體積、質量或以大量批發（in bulk）的形式。",
+      "definition": "1. the majority or greater part of something; 2. the large size, mass, or quantity of something.",
+      "example": [
+        {
+          "eng": "The bulk of the work has already been completed.",
+          "ch": "大部分的工作已經完成了。"
+        },
+        {
+          "eng": "Buying office supplies in bulk can save a lot of money.",
+          "ch": "大量批發購買辦公用品可以省下很多錢。"
+        }
+      ]
+    },
+    {
+      "eng": "bully",
+      "kk": "ˈbʊli",
+      "tense": "n.",
+      "ch": [
+        [
+          "霸凌者",
+          "欺負弱小者"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 皆為 bully。早期歷史含義曾指情人或好兄弟（源自荷蘭語 boel，意為愛人），後來語意發生重大轉變，指恃強凌弱、脅迫他人的人。",
+      "definition": "1. a person who habitually uses strength or power to frighten or hurt weaker people.",
+      "example": [
+        {
+          "eng": "The school principal has zero tolerance for bullies.",
+          "ch": "校長對霸凌者採取零容忍態度。"
+        }
+      ]
+    },
+    {
+      "eng": "bully",
+      "kk": "ˈbʊli",
+      "tense": "vt.",
+      "ch": [
+        [
+          "霸凌",
+          "脅迫",
+          "欺負"
+        ]
+      ],
+      "analysis": "此字為及物動詞，表面詞形與 lemma 皆為 bully，由名詞轉品而來。語意指使用威脅、恐嚇或強權來強迫他人做某事，或欺負比自己弱小的人。",
+      "definition": "1. to use superior strength or influence to intimidate someone, typically to force them to do something.",
+      "example": [
+        {
+          "eng": "Older students should not bully younger children.",
+          "ch": "年長的學生不應該欺負年幼的孩子。"
+        }
+      ]
+    },
+    {
+      "eng": "bureau",
+      "kk": "ˈbjʊroʊ",
+      "tense": "n.",
+      "ch": [
+        [
+          "局",
+          "處",
+          "政府部門"
+        ],
+        [
+          "衣櫃",
+          "抽屜櫃"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 皆為 bureau。源自法語 bureau（原意為粗毛呢桌布，後來指覆蓋桌布的書桌，再延伸為辦公室、機構）。語意一是政府機構或組織底下的「局」或「處」（如 Federal Bureau of Investigation）；語意二是裝有抽屜的衣櫃（北美用法）。",
+      "definition": "1. a government department or subdivision of a department; an office or agency; 2. a chest of drawers for clothes (North American).",
+      "example": [
+        {
+          "eng": "The Federal Bureau of Investigation released a new public safety warning.",
+          "ch": "聯邦調查局發布了一項新的公共安全警告。"
+        },
+        {
+          "eng": "He folded his shirts and put them in the bedroom bureau.",
+          "ch": "他把襯衫摺好放進臥室的抽屜櫃裡。"
+        }
+      ]
+    },
+    {
+      "eng": "bureaucracy",
+      "kk": "bjʊˈrɑkrəsi",
+      "tense": "n.",
+      "ch": [
+        [
+          "官僚體制",
+          "繁文縟節",
+          "官僚機構"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 皆為 bureaucracy。由法語 bureau（辦公室、局）加上希臘語字根 -kratia（統治、權力，衍生出 -cracy）結合而成。現代透明構詞為 bureau + -cracy。語意指由行政官員運作、層級繁複的官僚體系，常帶有公務繁瑣、缺乏效率的負面意涵（繁文縟節）。",
+      "definition": "1. a system of government or management marked by official rules, complicated procedures, and a lack of flexibility.",
+      "example": [
+        {
+          "eng": "Small business owners often complain about government bureaucracy.",
+          "ch": "小企業主經常抱怨政府的官僚作風。"
+        }
+      ]
+    },
+    {
+      "eng": "burial",
+      "kk": "ˈbɛriəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "埋葬",
+          "葬禮"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 皆為 burial。由動詞 bury（埋葬）加上名詞字尾 -al 構成。現代透明構詞為 bury + -al（拼字上 y 變 i 加 al）。語意指將死者入土安葬的儀式或過程。",
+      "definition": "1. the act or ceremony of burying a dead body.",
+      "example": [
+        {
+          "eng": "Friends and family gathered to pay their respects at the burial.",
+          "ch": "親朋好友聚集在葬禮上表達哀思。"
+        }
+      ]
+    },
+    {
+      "eng": "butcher",
+      "kk": "ˈbʊtʃər",
+      "tense": "n.",
+      "ch": [
+        [
+          "屠夫",
+          "肉販"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 皆為 butcher。源自中古英語 boucher，經由古法語 bouchier，源自 bouc（公山羊，因早期屠夫主要屠宰山羊）。語意指宰殺動物並販售肉品的專業人員。",
+      "definition": "1. a person whose trade is cutting up and selling meat in a shop.",
+      "example": [
+        {
+          "eng": "The local butcher recommended the best cuts of beef for the steak.",
+          "ch": "當地的肉販推薦了最適合做牛排的牛肉部位。"
+        }
+      ]
+    },
+    {
+      "eng": "butcher",
+      "kk": "ˈbʊtʃər",
+      "tense": "vt.",
+      "ch": [
+        [
+          "屠宰",
+          "殘殺",
+          "拙劣地搞砸"
+        ]
+      ],
+      "analysis": "此字為及物動詞，表面詞形與 lemma 皆為 butcher，由名詞轉品而來。語意一是宰殺家畜以取得肉品；二是殘酷地屠殺人類；三是比喻極為拙劣、搞砸某項表演、藝術創作或任務。",
+      "definition": "1. to slaughter animals for meat; 2. to kill cruelly and in large numbers; 3. to ruin something badly through incompetence.",
+      "example": [
+        {
+          "eng": "He completely butchered the classic song during the karaoke night.",
+          "ch": "他在卡拉OK之夜把那首經典老歌唱得荒腔走板。"
+        }
+      ]
+    },
+    {
+      "eng": "calcium",
+      "kk": "ˈkælsiəm",
+      "tense": "n.",
+      "ch": [
+        [
+          "鈣"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 皆為 calcium。現代科學化學名詞，由拉丁語 calx（石灰）加上化學元素字尾 -ium 構成。語意指構成骨骼與牙齒的重要化學元素「鈣」（化學符號 Ca）。",
+      "definition": "1. a soft, silvery-white chemical element that is essential for healthy bones and teeth (symbol: Ca).",
+      "example": [
+        {
+          "eng": "Milk and dairy products are rich sources of calcium.",
+          "ch": "牛奶和乳製品是豐富的鈣質來源。"
+        }
+      ]
+    },
+    {
+      "eng": "canal",
+      "kk": "kəˈnæl",
+      "tense": "n.",
+      "ch": [
+        [
+          "運河",
+          "水道"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 皆為 canal。源自拉丁語 canalis（水管、溝渠，源自 canna，意為蘆葦、管子），與 channel 同源。語意指人工開鑿的水道，供船隻通行航行或用於灌溉。",
+      "definition": "1. an artificial waterway constructed to allow the passage of boats or ships, or to convey water for irrigation.",
+      "example": [
+        {
+          "eng": "Cargo ships frequently pass through the Panama Canal to save travel time.",
+          "ch": "貨船經常通過巴拿馬運河以節省航行時間。"
+        }
+      ]
+    },
+    {
+      "eng": "canvas",
+      "kk": "ˈkænvəs",
+      "tense": "n.",
+      "ch": [
+        [
+          "帆布",
+          "油畫布"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 皆為 canvas。源自古法語 canece，最終源自拉丁語 cannabis（大麻），因為早期帆布是用大麻纖維織成的。語意指結實耐磨的粗重布料「帆布」，或藝術家繪畫用的油畫布。",
+      "definition": "1. a strong, heavy, coarse fabric used for sails, tents, and painting.",
+      "example": [
+        {
+          "eng": "The artist applied thick layers of oil paint onto the canvas.",
+          "ch": "藝術家在油畫布上塗抹了厚厚的油畫顏料。"
+        }
+      ]
+    },
+    {
+      "eng": "capability",
+      "kk": "ˌkeɪpəˈbɪlɪti",
+      "tense": "n.",
+      "ch": [
+        [
+          "能力",
+          "功能",
+          "潛力"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 皆為 capability。由形容詞 capable（有能力的）加上名詞字尾 -ity 構成。現代透明構詞為 capable -> capab(le) + -ility。語意指人、組織或機器勝任某項工作、發揮特定功能的潛能或實力。",
+      "definition": "1. the power or ability to do something; a feature or facility that is capable of a specified use.",
+      "example": [
+        {
+          "eng": "The new smartphone has advanced photography capabilities.",
+          "ch": "這款新智慧型手機具備先進的拍照功能。"
+        }
+      ]
+    },
+    {
+      "eng": "carbon",
+      "kk": "ˈkɑrbən",
+      "tense": "n.",
+      "ch": [
+        [
+          "碳",
+          "複寫紙"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 皆為 carbon。源自拉丁語 carbo（煤炭、炭燼）。語意一是化學元素「碳」（化學符號 C）；二是早期辦公室使用的「複寫紙」（carbon paper，利用炭粉轉印字跡）。",
+      "definition": "1. a nonmetallic chemical element found in all living matter and in coal and diamonds (symbol: C); 2. short for carbon paper.",
+      "example": [
+        {
+          "eng": "Diamonds are a pure crystalline form of carbon.",
+          "ch": "鑽石是純淨的結晶碳。"
+        }
+      ]
+    },
+    {
+      "eng": "carnival",
+      "kk": "ˈkɑrnəvəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "狂歡節",
+          "嘉年華會",
+          "遊樂園"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 皆為 carnival。源自義大利語 carnevale，可能由拉丁語 carne（肉）加上 levare（卸下、去除）組成，原意為在大齋期（Lent）禁止吃肉前夕的狂歡慶典。語意演變為大型的戶外嘉年華會、慶典或設有遊樂設施的流動遊樂園。",
+      "definition": "1. a public festival, typically one marked by processions, music, and dancing; 2. a traveling amusement show with rides and games.",
+      "example": [
+        {
+          "eng": "Millions of tourists visit Rio de Janeiro for its annual carnival.",
+          "ch": "數百萬遊客造訪里約熱內盧參加其年度狂歡節。"
+        },
+        {
+          "eng": "The children won prizes playing games at the local carnival.",
+          "ch": "孩子們在當地嘉年華會的遊戲中贏得了獎品。"
+        }
+      ]
+    },
+    {
+      "eng": "casino",
+      "kk": "kəˈsinoʊ",
+      "tense": "n.",
+      "ch": [
+        [
+          "賭場",
+          "娛樂場"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 皆為 casino。源自義大利語 casino，原意為小別墅、消遣娛樂的小房子（字根 casa 意為房屋，加上指小詞字尾 -ino）。後來這類場所常舉辦賭博與社交活動，語意演變為專門提供賭博與娛樂的現代「賭場」。",
+      "definition": "1. a public room or building where gambling games are played.",
+      "example": [
+        {
+          "eng": "Neon lights lit up the bustling casino in Las Vegas.",
+          "ch": "霓虹燈照亮了拉斯維加斯熱鬧非凡的賭場。"
+        }
+      ]
+    },
+    {
+      "eng": "cathedral",
+      "kk": "kəˈθidrəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "大教堂"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 皆為 cathedral。源自晚期拉丁語 cathedralis（主教座堂的），源自 cathedra（主教座位、法語 chaise 的同源詞），源自希臘語 kathedra（椅子）。語意指設有主教座位的教區總教堂，通常規模宏偉。",
+      "definition": "1. the principal church of a diocese, containing the bishop's throne.",
+      "example": [
+        {
+          "eng": "The Gothic cathedral is famous for its stunning stained glass windows.",
+          "ch": "這座哥德式大教堂以其令人驚嘆的彩色玻璃窗而聞名。"
+        }
+      ]
+    },
+    {
+      "eng": "caution",
+      "kk": "ˈkɔʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "謹慎",
+          "小心",
+          "警告"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 皆為 caution。源自拉丁語 cautio（謹慎、保證，源自 cavere，意為保持警惕）。語意一是面對危險或風險時的謹慎、小心態度；二是官方或前輩給予的警告、提醒。",
+      "definition": "1. care taken to avoid danger or mistakes; 2. a warning or caution given to someone.",
+      "example": [
+        {
+          "eng": "Drivers should exercise extreme caution when driving in heavy snow.",
+          "ch": "駕駛在大雪中行車時應格外小心。"
+        },
+        {
+          "eng": "The police officer gave the speeder a verbal caution instead of a ticket.",
+          "ch": "警察對超速者進行了口頭警告，沒有開罰單。"
+        }
+      ]
+    },
+    {
+      "eng": "cautious",
+      "kk": "ˈkɔʃəs",
+      "tense": "adj.",
+      "ch": [
+        [
+          "謹慎的",
+          "小心的"
+        ]
+      ],
+      "analysis": "此字為形容詞，表面詞形與 lemma 皆為 cautious。由名詞 caution 加上形容詞字尾 -ous（充滿……的，源自拉丁語 -osus）構成。現代透明構詞為 caution -> cauti(on) + -ous。語意指行事或說話小心翼翼、避免冒險或犯錯的特質。",
+      "definition": "1. (of a person) careful to avoid potential problems or dangers.",
+      "example": [
+        {
+          "eng": "Investors are very cautious about putting money into the volatile market.",
+          "ch": "投資者對於將資金投入波動劇烈的市場感到非常謹慎。"
+        }
+      ]
+    },
+    {
+      "eng": "celebrity",
+      "kk": "səˈlɛbrɪti",
+      "tense": "n.",
+      "ch": [
+        [
+          "名人",
+          "名氣",
+          "知名度"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 皆為 celebrity。源自拉丁語 celebritas（眾人皆知、盛況，源自 celeber，意為著名的）。現代透明構詞為 celebr(e) + -ity。語意一是廣為人知的名人、紅星；二是出名或享有聲望的狀態。",
+      "definition": "1. a famous person; 2. the state of being well known.",
+      "example": [
+        {
+          "eng": "Several television celebrities attended the charity gala.",
+          "ch": "幾位電視名人出席了這場慈善晚會。"
+        },
+        {
+          "eng": "She struggled to cope with the sudden celebrity that came with her movie.",
+          "ch": "她努力調適因電影而突然帶來的名氣。"
+        }
+      ]
+    },
+    {
+      "eng": "cemetery",
+      "kk": "ˈsɛməˌtɛri",
+      "tense": "n.",
+      "ch": [
+        [
+          "墓地",
+          "公墓"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 皆為 cemetery。源自中世紀拉丁語 coemeterium，源自希臘語 koimētērion（寢室、安息之所，源自 koiman，意為使入睡）。語意指專門埋葬死者的墓地或公墓。",
+      "definition": "1. a burial ground other than a churchyard.",
+      "example": [
+        {
+          "eng": "Veterans gathered at the national cemetery to honor fallen soldiers.",
+          "ch": "退伍軍人聚集在國家公墓向陣亡將士致敬。"
+        }
+      ]
+    },
+    {
+      "eng": "ceremony",
+      "kk": "ˈsɛrəˌmoʊni",
+      "tense": "n.",
+      "ch": [
+        [
+          "儀式",
+          "典禮",
+          "禮節"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 皆為 ceremony。源自拉丁語 caerimonia（宗教儀式、聖潔的禮節）。語意一是為結婚、畢業、紀念等特定重大事件舉行的正式儀式或典禮；二是社會交往中的繁文縟節或禮節。",
+      "definition": "1. a formal religious or public occasion, typically celebrating a particular event or anniversary; 2. rigid or conventional formality.",
+      "example": [
+        {
+          "eng": "The graduation ceremony will be held in the main auditorium.",
+          "ch": "畢業典禮將在大禮堂舉行。"
+        },
+        {
+          "eng": "Without further ceremony, the meeting was brought to a close.",
+          "ch": "會議沒有多作繁文縟節，隨即宣佈結束。"
+        }
+      ]
+    },
+    {
+      "eng": "certainty",
+      "kk": "ˈsɜrtnṭi",
+      "tense": "n.",
+      "ch": [
+        [
+          "確定的事",
+          "確信",
+          "必然性"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 皆為 certainty。由形容詞 certain（確定的）加上名詞字尾 -ty 構成。現代透明構詞為 certain + -ty。語意一是毫無疑問、百分之百確定的事實或事件；二是內心確信不疑的心理狀態。",
+      "definition": "1. a fact that is definitely true or an event that is definitely going to take place; 2. the state of being completely certain.",
+      "example": [
+        {
+          "eng": "His success in the exam is a statistical certainty.",
+          "ch": "他考試及格是統計學上的必然。"
+        },
+        {
+          "eng": "I can say with absolute certainty that she was there.",
+          "ch": "我可以百分之百確定她當時在那裡。"
+        }
+      ]
+    },
+    {
+      "eng": "certificate",
+      "kk": "sərˈtɪfɪkət",
+      "tense": "n.",
+      "ch": [
+        [
+          "證書",
+          "證明書"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 皆為 certificate。源自中世紀拉丁語 certificatum（被證實的事物，源自certus 確定的 + facere 做）。語意指官方或機構發給個人，用以證明學歷、技能、出生、結婚等身分或資格的正式書面證明文件。",
+      "definition": "1. an official document certifying that a person has successfully completed a course or passed an exam, or that something is true.",
+      "example": [
+        {
+          "eng": "She received a certificate in graphic design after completing the evening course.",
+          "ch": "她上完夜間課程後，獲得了平面設計證書。"
+        }
+      ]
+    },
+    {
+      "eng": "chaos",
+      "kk": "ˈkeɪɑs",
+      "tense": "n.",
+      "ch": [
+        [
+          "混亂",
+          "無秩序"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 皆為 chaos。源自拉丁語 chaos，源自希臘語 khaos（深淵、宇宙形成前的無底深淵或混沌狀態）。語意演變從神話中天地未開闢前的混沌，引申為現代生活中完全失去秩序、極度混亂的狀態。",
+      "definition": "1. complete disorder and confusion.",
+      "example": [
+        {
+          "eng": "The sudden power outage plunged the city center into complete chaos.",
+          "ch": "突如其來的停電讓市中心陷入一片混亂。"
+        }
+      ]
+    },
+    {
+      "eng": "chapel",
+      "kk": "ˈtʃæpəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "小教堂",
+          "禮拜堂"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 皆為 chapel。源自中古英語 chapele，經由古法語 chapele，源自中世紀拉丁語 cappa（斗篷）。歷史傳說源於聖馬丁的聖物斗篷（cappa）被妥善保存的小房間，後來泛指附屬於大教堂、學校、醫院或獨立的小型禮拜堂。",
+      "definition": "1. a small building or room used for Christian worship, often attached to a larger institution.",
+      "example": [
+        {
+          "eng": "The wedding was held in a quaint little chapel by the sea.",
+          "ch": "婚禮是在海邊一間古雅的小教堂舉行的。"
+        }
+      ]
+    },
+    {
+      "eng": "characterize",
+      "kk": "ˈkɛrɪktəˌraɪz",
+      "tense": "vt.",
+      "ch": [
+        [
+          "描繪……的特性",
+          "具體表現",
+          "是……的特徵"
+        ]
+      ],
+      "analysis": "此字為及物動詞，表面詞形與 lemma 皆為 characterize。由名詞 character（性格、特徵）加上動詞字尾 -ize（使成為、化為，源自希臘語 -izein）構成。現代透明構詞為 character + -ize。語意指描述或標示某人、某事物的獨特本質或主要特徵。",
+      "definition": "1. to describe the character or distinctive qualities of someone or something; to be a characteristic feature of.",
+      "example": [
+        {
+          "eng": "His paintings are characterized by vibrant colors and bold brushstrokes.",
+          "ch": "他的畫作特色是色彩鮮豔且筆觸粗獷。"
+        }
+      ]
+    },
+    {
+      "eng": "chef",
+      "kk": "ʃɛf",
+      "tense": "n.",
+      "ch": [
+        [
+          "主廚",
+          "行政主廚",
+          "廚師"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 皆為 chef。源自法語 chef（字面意思是頭部、首領，源自拉丁語 caput），全稱為 chef de cuisine（廚房的首領）。語意指餐廳中負責監督、掌管菜單與烹調的專業主廚。",
+      "definition": "1. a professional cook, typically the chief cook in a restaurant or hotel kitchen.",
+      "example": [
+        {
+          "eng": "The executive chef prepared a special five-course tasting menu for the guests.",
+          "ch": "行政主廚為賓客準備了一套特別的五道菜品嚐菜單。"
+        }
+      ]
+    },
+    {
+      "eng": "choir",
+      "kk": "ˈkwaɪər",
+      "tense": "n.",
+      "ch": [
+        [
+          "合唱團",
+          "唱詩班"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 皆為 choir。源自中古英語 quire，經由古法語 cuer，最終源自拉丁語 chorus（合唱隊、歌舞隊，源自希臘語 khoros）。語意指專門一起唱歌表演的團體，特別是在教堂裡負責帶領詠唱的唱詩班。",
+      "definition": "1. an organized group of singers, typically one that takes part in church services or performs publicly.",
+      "example": [
+        {
+          "eng": "She sings soprano in the church choir every Sunday.",
+          "ch": "她每週日都在教堂合唱團唱女高音。"
+        }
+      ]
+    },
+    {
+      "eng": "chord",
+      "kk": "kɔrd",
+      "tense": "n.",
+      "ch": [
+        [
+          "和弦",
+          "弦",
+          "心弦"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 皆為 chord。這是 cord（繩子、弦）的變體拼法，在印刷與專有名詞分化中固定下來。語意一是音樂上的「和弦」（多個不同音高同時發聲）；二是幾何學上的「弦」（連接圓周兩點的線段）；三是在成語（strike a chord）中比喻觸動心弦、引起共鳴。",
+      "definition": "1. a group of (typically three or more) notes sounded together, as a basis of harmony; 2. a straight line joining the ends of an arc.",
+      "example": [
+        {
+          "eng": "He strummed a few basic guitar chords to accompany the song.",
+          "ch": "他刷了幾個簡單的吉他和弦來為歌曲伴奏。"
+        },
+        {
+          "eng": "Her moving speech struck a chord with many young listeners.",
+          "ch": "她動人的演說引起了許多青年聽眾的共鳴。"
+        }
+      ]
+    },
+    {
+      "eng": "chore",
+      "kk": "tʃɔr",
+      "tense": "n.",
+      "ch": [
+        [
+          "雜務",
+          "日常零工",
+          "討厭的工作"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 皆為 chore。源自方言字 chare（轉變、工作，源自古英語 cierran，意為轉動、做完一件工作）。語意通常用複數（chores），指家中或農場裡必須定期完成的例行雜務、粗重零工，或比喻令人感到厭煩的任務。",
+      "definition": "1. a routine task, especially a household one; an unpleasant or tedious task.",
+      "example": [
+        {
+          "eng": "Doing laundry and washing dishes are daily household chores.",
+          "ch": "洗衣服和洗碗是日常的家務雜事。"
+        }
+      ]
+    },
+    {
+      "eng": "chronic",
+      "kk": "ˈkrɑnɪk",
+      "tense": "adj.",
+      "ch": [
+        [
+          "慢性的",
+          "長期的",
+          "久病不癒的"
+        ]
+      ],
+      "analysis": "此字為形容詞，表面詞形與 lemma 皆為 chronic。源自拉丁語 chronicus，源自希臘語 khronikos（關於時間的，源自 khronos 時間）。語意原指「歷時很久的」，在醫學上用來形容發展緩慢、持續時間長且難以根治的慢性疾病（對應 acute 急性）；在日常生活中也用來形容長期存在、難以根除的問題或習慣（如 chronic unemployment）。",
+      "definition": "1. (of an illness) persisting for a long time or constantly recurring; 2. (of a problem) lasting for a long time; hard to solve.",
+      "example": [
+        {
+          "eng": "My grandfather suffers from chronic back pain.",
+          "ch": "我祖父長年飽受慢性背痛之苦。"
+        },
+        {
+          "eng": "The city is struggling to solve its chronic traffic congestion.",
+          "ch": "這座城市正努力解決其長年以來的交通擁堵問題。"
+        }
+      ]
+    },
+    {
+      "eng": "chubby",
+      "kk": "ˈtʃʌbi",
+      "tense": "adj.",
+      "ch": [
+        [
+          "圓胖的",
+          "肉嘟嘟的"
+        ]
+      ],
+      "analysis": "此字為形容詞，表面詞形與 lemma 皆為 chubby。由已過時的名詞 chub（胖頭魚，或指圓胖的人）加上形容詞字尾 -y 構成。現代透明構詞為 chub + -y。語意用來形容臉頰或身體圓滾滾、胖乎乎、可愛健康的樣子（常用於形容嬰兒或兒童）。",
+      "definition": "1. plump and rounded; pleasantly chubby.",
+      "example": [
+        {
+          "eng": "The baby had adorable chubby cheeks.",
+          "ch": "這個嬰兒有一雙可愛的小胖臉頰。"
+        }
+      ]
+    },
+    {
+      "eng": "chunk",
+      "kk": "tʃʌŋk",
+      "tense": "n.",
+      "ch": [
+        [
+          "大塊",
+          "厚片",
+          "相當大的量"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 皆為 chunk。可能為 chuck（切塊）的變體或擬聲詞。語意指厚實而粗大的一塊（如一塊木頭、起司或肉），或比喻數量相當大的一部分（如 a chunk of money）。",
+      "definition": "1. a thick, solid piece of something; 2. a significant amount or portion of something.",
+      "example": [
+        {
+          "eng": "She cut the cheese into thick chunks before serving.",
+          "ch": "她在上菜前把起司切成厚厚的大塊。"
+        },
+        {
+          "eng": "He spent a large chunk of his savings on a new car.",
+          "ch": "他花了他大筆積蓄中的很大一部分買了一輛新車。"
+        }
+      ]
+    },
+    {
+      "eng": "circuit",
+      "kk": "ˈsɜrkət",
+      "tense": "n.",
+      "ch": [
+        [
+          "電路",
+          "環形路線",
+          "巡迴"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 皆為 circuit。源自拉丁語 circuitus（繞行、周長，源自 circum- 環繞 + ire 走）。語意一是電子學中的「電路」；二是環形走動的路線或賽道；三是法官或表演者定期造訪多個地點的「巡迴」（如 judicial circuit）。",
+      "definition": "1. a complete and closed path through which electric current can flow; 2. a roughly circular line, route, or movement; 3. a regular journey around a fixed series of locations.",
+      "example": [
+        {
+          "eng": "An electrical fault in the circuit caused a sudden power failure.",
+          "ch": "電路中的故障導致了突然的斷電。"
+        },
+        {
+          "eng": "The tennis player reached the finals of the international tournament circuit.",
+          "ch": "這名網球選手打進了國際巡迴賽的決賽。"
+        }
+      ]
+    },
+    {
+      "eng": "cite",
+      "kk": "saɪt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "引用",
+          "引述",
+          "傳喚",
+          "表彰"
+        ]
+      ],
+      "analysis": "此字為及物動詞，表面詞形與 lemma 皆為 cite。源自拉丁語 citare（喚起、激發、傳喚，是 ciere 的頻動動詞）。語意一是寫文章時「引用」文獻或言論；二是法庭上「傳喚」出庭；三是因英勇行為公開「表彰、嘉獎」軍警或個人。",
+      "definition": "1. to quote a passage, book, or author as evidence for an argument; 2. to summon someone to appear in a court of law; 3. to commend someone officially for a courageous act.",
+      "example": [
+        {
+          "eng": "The researcher cited several academic papers in her thesis.",
+          "ch": "研究人員在她的論文中引用了幾篇學術論文。"
+        },
+        {
+          "eng": "The firefighter was cited for bravery after rescuing the trapped child.",
+          "ch": "這名消防員在救出受困兒童後因英勇表現獲得表彰。"
+        }
+      ]
+    },
+    {
+      "eng": "citizenship",
+      "kk": "ˈsɪtəzənˌʃɪp",
+      "tense": "n.",
+      "ch": [
+        [
+          "公民身份",
+          "公民權",
+          "公民責任"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 皆為 citizenship。由名詞 citizen（公民）加上抽象名詞字尾 -ship（表示身分、資格或狀態，源自古英語 -scipe）構成。現代透明構詞為 citizen + -ship。語意指具備某國公民的身分與法律權利，或指身為公民應盡的義務與道德責任。",
+      "definition": "1. the position or status of being a citizen of a particular country; 2. the character of an individual viewed as a member of society; civic duty.",
+      "example": [
+        {
+          "eng": "After living in Canada for five years, she finally applied for citizenship.",
+          "ch": "在加拿大居住五年後，她終於申請了公民身份。"
+        },
+        {
+          "eng": "Good citizenship involves participating in local community events and voting.",
+          "ch": "良好的公民意識包括參與當地社區活動和投票。"
+        }
+      ]
+    },
+    {
+      "eng": "civic",
+      "kk": "ˈsɪvɪk",
+      "tense": "adj.",
+      "ch": [
+        [
+          "公民的",
+          "城市的",
+          "市民的"
+        ]
+      ],
+      "analysis": "此字為形容詞，表面詞形與 lemma 皆為 civic。源自拉丁語 civicus（屬於公民或城市的，源自 civis 公民）。語意指與城市行政、市民身分或公共事務相關的事物（如 civic center 市民中心、civic duty 公民義務）。",
+      "definition": "1. relating to a city or town, or to the duties of a citizen.",
+      "example": [
+        {
+          "eng": "Voting in elections is considered a fundamental civic duty.",
+          "ch": "在選舉中投票被認為是一項基本的公民義務。"
+        }
+      ]
+    },
+    {
+      "eng": "clarity",
+      "kk": "ˈklɛrəti",
+      "tense": "n.",
+      "ch": [
+        [
+          "清晰度",
+          "清澈",
+          "清楚"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 皆為 clarity。源自拉丁語 claritas（光輝、清楚，源自 clarus 清楚的、明亮的）。現代透明構詞為 clar(e) + -ity。語意指聲音、影像、文字或思維清晰易懂、沒有混淆或模糊的特質，也指水質等的清澈。",
+      "definition": "1. the quality of being coherent and easily understood; 2. the quality of transparency and purity in water or sound.",
+      "example": [
+        {
+          "eng": "The speaker explained complex financial concepts with remarkable clarity.",
+          "ch": "演講者以極為清晰的方式解釋了複雜的財務概念。"
+        }
+      ]
+    },
+    {
+      "eng": "clause",
+      "kk": "klɔz",
+      "tense": "n.",
+      "ch": [
+        [
+          "子句",
+          "條款",
+          "段落"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 皆為 clause。源自中古英語 clause，經由古法語 clause，源自拉丁語 clausa（句尾、結語，源自 claudere 關閉）。語意一是語法學中的「子句」（包含主詞與動詞的句中結構）；二是法律合約、條約或正式文件中具體規範的「條款」。",
+      "definition": "1. a unit of grammatical organization next below the sentence in rank, consisting of a subject and predicate; 2. a particular section or separate article of a legal document.",
+      "example": [
+        {
+          "eng": "The sentence contains both a main clause and a relative clause.",
+          "ch": "這個句子同時包含一個主句和一個關係子句。"
+        },
+        {
+          "eng": "There is a termination clause in the employment contract.",
+          "ch": "僱傭合約中有一條終止條款。"
+        }
+      ]
+    },
+    {
+      "eng": "cling",
+      "kk": "klɪŋ",
+      "tense": "vi.",
+      "ch": [
+        [
+          "緊緊抓住",
+          "黏著",
+          "依戀",
+          "堅持（信念等）"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，表面詞形與 lemma 皆為 cling（過去式及過去分詞為 clung）。源自古英語 clingan（黏在一起、枯萎縮小）。語意指物理上緊緊抓抱住某物、衣物因潮濕而黏在身上，或抽象地依戀某人、堅持舊有的信念與希望不放。",
+      "definition": "1. to hold on tightly to someone or something; 2. to stick closely to a surface; 3. to remain emotionally attached to something.",
+      "example": [
+        {
+          "eng": "The frightened child clung tightly to his mother's hand.",
+          "ch": "受驚的孩子緊緊抓著母親的手。"
+        },
+        {
+          "eng": "Wet clothes tend to cling to your skin.",
+          "ch": "濕衣服往往會黏在皮膚上。"
+        },
+        {
+          "eng": "She clung to the hope that her missing dog would eventually return.",
+          "ch": "她依然抱著她失蹤的狗終究會回家的希望。"
+        }
+      ]
+    },
+    {
+      "eng": "clinical",
+      "kk": "ˈklɪnɪkəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "臨床的",
+          "診所的",
+          "冷靜客觀的"
+        ]
+      ],
+      "analysis": "此字為名詞轉形容詞，表面詞形與 lemma 皆為 clinical。由名詞 clinic（診所、臨床）加上形容詞字尾 -al 構成。現代透明構詞為 clinic + -al。語意一是與醫療診所或病床邊直接觀察治療相關的「臨床的」；二是比喻態度冷靜、超然、缺乏情感的（如同臨床醫生般客觀）。",
+      "definition": "1. relating to the observation and treatment of patients in medical settings; 2. efficiently analytical and free from emotional involvement.",
+      "example": [
+        {
+          "eng": "Clinical trials are necessary before a new drug can be approved for public use.",
+          "ch": "新藥在獲准供公眾使用前，必須先進行臨床試驗。"
+        },
+        {
+          "eng": "He analyzed the business failure with a cold, clinical detachment.",
+          "ch": "他以冷靜、客觀且毫無感情的態度分析了這次商業失敗。"
+        }
+      ]
+    },
+    {
+      "eng": "cluster",
+      "kk": "ˈklʌstər",
+      "tense": "n.",
+      "ch": [
+        [
+          "群",
+          "束",
+          "叢",
+          "聚集體"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 皆為 cluster。源自古英語 clyster（葡萄串、草叢）。語意指緊密聚集在一起的人、動物、植物（如一叢花）或物品（如星團、數據叢）的集合體。",
+      "definition": "1. a group of similar things or people positioned or occurring closely together.",
+      "example": [
+        {
+          "eng": "A small cluster of reporters gathered outside the courthouse.",
+          "ch": "一小群記者聚集在法院外。"
+        },
+        {
+          "eng": "The children sat in a tight cluster around the campfire.",
+          "ch": "孩子們緊緊地圍坐在營火旁。"
+        }
+      ]
+    }
+  ]
+}

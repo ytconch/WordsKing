@@ -1,0 +1,1430 @@
+{
+  "level": 1,
+  "chunkIndex": 20,
+  "inputs": [
+    "tooth",
+    "top",
+    "topic",
+    "total",
+    "touch",
+    "towel",
+    "town",
+    "toy",
+    "traffic",
+    "train",
+    "treat",
+    "treatment",
+    "tree",
+    "trip",
+    "trouble",
+    "truck",
+    "try",
+    "T-shirt",
+    "turn",
+    "twice",
+    "type",
+    "uncle",
+    "under",
+    "understand",
+    "uniform",
+    "until",
+    "up",
+    "use",
+    "useful",
+    "usually",
+    "vegetable",
+    "very",
+    "video",
+    "violin",
+    "visit",
+    "visitor",
+    "voice",
+    "wait",
+    "wake",
+    "walk",
+    "wall",
+    "want",
+    "warm",
+    "watch",
+    "water",
+    "wave",
+    "way",
+    "we",
+    "us",
+    "our"
+  ],
+  "rows": [
+    {
+      "eng": "tooth",
+      "kk": "tuθ",
+      "tense": "n.",
+      "ch": [
+        [
+          "牙齒",
+          "齒"
+        ],
+        [
+          "齒狀物",
+          "鋸齒"
+        ]
+      ],
+      "analysis": "此字為古英語繼承詞（源自原始日耳曼語 *tanþ-），屬於不可透明拆解的日耳曼語源基本詞彙。複數形為不規則變音的 teeth。在語意演變上，從生理結構的咀嚼器官，引申出類似形狀的物體（如梳子或鋸子的齒）。",
+      "definition": "1. one of the hard, white structures in the mouth used for biting and chewing; 2. a projection resembling a tooth, as on a saw, gear, or comb.",
+      "example": [
+        {
+          "eng": "She brushed her teeth before going to bed.",
+          "ch": "她在上床睡覺前刷了牙。"
+        },
+        {
+          "eng": "The gear has missing teeth.",
+          "ch": "這個齒輪有缺齒。"
+        }
+      ]
+    },
+    {
+      "eng": "top",
+      "kk": "tɑp",
+      "tense": "n.",
+      "ch": [
+        [
+          "頂端",
+          "頂部",
+          "表面"
+        ],
+        [
+          "上衣",
+          "女裝上衣"
+        ],
+        [
+          "陀螺"
+        ]
+      ],
+      "analysis": "此字為古英語繼承詞（源自原始日耳曼語 *toppaz），原意指冠頂或髮髻。在現代英語中發展出多個獨立語義群組：名詞第一群指物體的最高部分；第二群指上半身穿著的衣服（如上衣、背心）；第三群指一種旋轉玩具（陀螺）。",
+      "definition": "1. the highest part or point of something; 2. a piece of clothing worn on the upper part of the body; 3. a toy that spins on a pointed base.",
+      "example": [
+        {
+          "eng": "He reached the top of the mountain.",
+          "ch": "他到達了山頂。"
+        },
+        {
+          "eng": "She is wearing a blue top with jeans.",
+          "ch": "她穿著一件藍色上衣搭配牛仔褲。"
+        },
+        {
+          "eng": "The boy spun his top on the floor.",
+          "ch": "小男孩在地板上轉他的陀螺。"
+        }
+      ]
+    },
+    {
+      "eng": "topic",
+      "kk": "ˈtɑpɪk",
+      "tense": "n.",
+      "ch": [
+        [
+          "主題",
+          "話題"
+        ]
+      ],
+      "analysis": "源自中古拉丁語 topics，再上溯至希臘語 ta topika（意指「主題、論題集」），原意與「地方、位置」（tópos）有關，指演說或論辯中可用的「共通主題／場所」。經由文藝復興時期進入英語，固定指談話或寫作的主題。",
+      "definition": "1. a subject that is discussed, written about, or studied.",
+      "example": [
+        {
+          "eng": "The teacher chose an interesting topic for the essay.",
+          "ch": "老師為這篇短文選了一個有趣的主題。"
+        }
+      ]
+    },
+    {
+      "eng": "total",
+      "kk": "ˈtoʊtl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "總數的",
+          "全部的"
+        ],
+        [
+          "完全的",
+          "徹底的"
+        ]
+      ],
+      "analysis": "源自中古法語及拉丁語 totalis（源自 totus「全部、整個」）。在現代英語中作為形容詞使用，第一群指數量上的總計；第二群引申為程度上的全面或徹底（如 total disaster）。",
+      "definition": "1. including everything or everyone; 2. complete and absolute.",
+      "example": [
+        {
+          "eng": "The total cost of the trip was high.",
+          "ch": "這次旅行的總費用很高。"
+        },
+        {
+          "eng": "It was a total failure.",
+          "ch": "這是一次徹底的失敗。"
+        }
+      ]
+    },
+    {
+      "eng": "touch",
+      "kk": "tʌtʃ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "觸摸",
+          "碰觸"
+        ],
+        [
+          "感動",
+          "觸動"
+        ]
+      ],
+      "analysis": "源自古法語 tochier（擬聲或源自日耳曼語源），經盎格魯-諾曼語進入中古英語。作為及物動詞，第一群指身體部位或物體的實體接觸；第二群引申為對心靈或情感的觸動（感動）。",
+      "definition": "1. to put your hand or another part of your body on someone or something; 2. to evoke a strong feeling of emotion, especially sadness or sympathy.",
+      "example": [
+        {
+          "eng": "Please do not touch the wet paint.",
+          "ch": "請不要觸摸濕油漆。"
+        },
+        {
+          "eng": "Her sad story touched our hearts.",
+          "ch": "她悲傷的故事感動了我們的心。"
+        }
+      ]
+    },
+    {
+      "eng": "towel",
+      "kk": "ˈtaʊəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "毛巾",
+          "擦手巾"
+        ]
+      ],
+      "analysis": "源自日耳曼語源（透過古法語 touaille 進入中古英語）。指用於擦乾身體或物體表面的吸水織物布巾。",
+      "definition": "1. a piece of cloth or paper used for drying things.",
+      "example": [
+        {
+          "eng": "He used a towel to dry his face.",
+          "ch": "他用毛巾擦乾臉。"
+        }
+      ]
+    },
+    {
+      "eng": "town",
+      "kk": "taʊn",
+      "tense": "n.",
+      "ch": [
+        [
+          "城鎮",
+          "市鎮"
+        ]
+      ],
+      "analysis": "源自古英語 tūn（意指圍欄、莊園、村落），屬於日耳曼語源繼承詞。原意指帶有圍牆或防禦工事的聚落，現代英語中泛指大於村莊、小於城市的聚落（城鎮）。",
+      "definition": "1. a populated area with a name, boundaries, and local government, larger than a village and smaller than a city.",
+      "example": [
+        {
+          "eng": "They live in a small town near the coast.",
+          "ch": "他們住在海邊附近的一個小鎮。"
+        }
+      ]
+    },
+    {
+      "eng": "toy",
+      "kk": "tɔɪ",
+      "tense": "n.",
+      "ch": [
+        [
+          "玩具"
+        ]
+      ],
+      "analysis": "語源較不確定，可能源自中古荷蘭語或中低地德語（與娛樂、戲弄有關），在16世紀初進入英語。固定指供兒童或寵物玩耍的物品。",
+      "definition": "1. an object for children to play with.",
+      "example": [
+        {
+          "eng": "The child received a new toy for his birthday.",
+          "ch": "這孩子生日收到了一個新玩具。"
+        }
+      ]
+    },
+    {
+      "eng": "traffic",
+      "kk": "ˈtræfɪk",
+      "tense": "n.",
+      "ch": [
+        [
+          "交通",
+          "交通量"
+        ],
+        [
+          "非法買賣",
+          "走私"
+        ]
+      ],
+      "analysis": "源自義大利語 traffico（或源自拉丁語 trans- 加facere，或與 traficare 有關），經由法語進入英語。名詞第一群指道路上的車輛與行人往來（交通）；第二群指商品或人口的非法走私或交易（如 drug traffic）。",
+      "definition": "1. vehicles moving on a road or public highway; 2. the illegal buying and selling of goods or people.",
+      "example": [
+        {
+          "eng": "Traffic was heavy during the rush hour.",
+          "ch": "尖峰時段交通非常擁擠。"
+        },
+        {
+          "eng": "The police are cracking down on human traffic.",
+          "ch": "警方正在打擊人口販運。"
+        }
+      ]
+    },
+    {
+      "eng": "train",
+      "kk": "treɪn",
+      "tense": "n.",
+      "ch": [
+        [
+          "火車",
+          "列車"
+        ],
+        [
+          "長隊",
+          "行列"
+        ],
+        [
+          "（禮服的）拖尾"
+        ]
+      ],
+      "analysis": "源自古法語 trainer（拉、拖），根源為拉丁語 *tragere（拖曳）。名詞第一群指由機車牽引的一連串鐵路車廂（火車），由「拉著走」的物理概念演變而來；第二群指依序排列的人群或車隊；第三群指婚紗拖曳在身後的裙裾（拖尾）。",
+      "definition": "1. a series of connected railway carriages or wagons moved by a locomotive; 2. a line of people or vehicles moving along together; 3. the long back part of a formal dress that trails along the ground.",
+      "example": [
+        {
+          "eng": "We missed the morning train to London.",
+          "ch": "我們錯過了去倫敦的早班火車。"
+        },
+        {
+          "eng": "A long train of camels crossed the desert.",
+          "ch": "一隊長長的駱駝隊伍穿過沙漠。"
+        },
+        {
+          "eng": "The bride wore a gown with a long train.",
+          "ch": "新娘穿著帶有長拖尾的禮服。"
+        }
+      ]
+    },
+    {
+      "eng": "train",
+      "kk": "treɪn",
+      "tense": "vt.",
+      "ch": [
+        [
+          "訓練",
+          "培訓"
+        ],
+        [
+          "培養",
+          "鍛鍊"
+        ]
+      ],
+      "analysis": "源自動詞化的 train（源自古法語 trainer「拖、拉」）。在動詞用法中，「拉」的語義演變為引導、管教、施以紀律或技能訓練（如同牽引藤蔓或引導人學習）。",
+      "definition": "1. to teach someone a particular skill or type of behavior through practice and instruction; 2. to undergo or coach for a sport, test, or profession.",
+      "example": [
+        {
+          "eng": "The company will train new employees next week.",
+          "ch": "公司下週將培訓新員工。"
+        },
+        {
+          "eng": "He trains hard for the marathon every day.",
+          "ch": "他每天為馬拉松辛苦鍛鍊。"
+        }
+      ]
+    },
+    {
+      "eng": "treat",
+      "kk": "trit",
+      "tense": "vt.",
+      "ch": [
+        [
+          "治療",
+          "醫治"
+        ],
+        [
+          "對待",
+          "看待"
+        ],
+        [
+          "招待",
+          "請客"
+        ]
+      ],
+      "analysis": "源自古法語 traitier（處理、談判），根源為拉丁語 tractare（頻繁拉扯、處理、論述，源自 trahere「拉」）。及物動詞第一群指對疾病或傷患進行醫療處理；第二群指以某種態度或方式對待他人；第三群指請吃東西或招待娛樂。",
+      "definition": "1. to give medical care to someone for an illness or injury; 2. to behave toward or deal with someone or something in a specified way; 3. to pay for something, such as food or entertainment, for another person.",
+      "example": [
+        {
+          "eng": "The doctor treated her for a bad cold.",
+          "ch": "醫生為她的重感冒進行治療。"
+        },
+        {
+          "eng": "Parents should treat all their children fairly.",
+          "ch": "父母應該公平地對待所有孩子。"
+        },
+        {
+          "eng": "Let me treat you to lunch today.",
+          "ch": "今天讓我請你吃午餐吧。"
+        }
+      ]
+    },
+    {
+      "eng": "treatment",
+      "kk": "ˈtritmənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "治療",
+          "療法"
+        ],
+        [
+          "對待",
+          "處理"
+        ]
+      ],
+      "analysis": "由動詞 treat 加上名詞字尾 -ment 構成的現代透明構詞。名詞第一群指針對疾病的醫療手段；第二群指對人或物的處理方式與態度。",
+      "definition": "1. medical care given to a patient for an illness or injury; 2. the manner in which someone or something is treated or handled.",
+      "example": [
+        {
+          "eng": "New cancer treatments have saved many lives.",
+          "ch": "新的癌症療法挽救了許多生命。"
+        },
+        {
+          "eng": "They demand fair treatment at work.",
+          "ch": "他們要求在工作中有公平的對待。"
+        }
+      ]
+    },
+    {
+      "eng": "tree",
+      "kk": "tri",
+      "tense": "n.",
+      "ch": [
+        [
+          "樹",
+          "樹木"
+        ]
+      ],
+      "analysis": "源自古英語 trēow（意指樹木、木材），屬於日耳曼語源繼承詞。固定指具有堅硬主幹、枝葉的高大木本植物。",
+      "definition": "1. a woody perennial plant having a single main stem or trunk growing to a considerable height.",
+      "example": [
+        {
+          "eng": "Birds built a nest in the tall tree.",
+          "ch": "鳥兒在大樹上築了一個巢。"
+        }
+      ]
+    },
+    {
+      "eng": "trip",
+      "kk": "trɪp",
+      "tense": "n.",
+      "ch": [
+        [
+          "旅行",
+          "行程"
+        ],
+        [
+          "絆倒",
+          "失足"
+        ]
+      ],
+      "analysis": "源自中荷蘭語 or 中低地德語 trippen（跳躍、踏步），後進入英語。名詞第一群指短途或長途的旅行或出行；第二群指腳步被絆住而跌倒的動作。",
+      "definition": "1. a journey in which you visit a place for a short time and come back; 2. an act of tripping or stumbling.",
+      "example": [
+        {
+          "eng": "We are planning a trip to Japan next month.",
+          "ch": "我們正計劃下個月去日本旅行。"
+        },
+        {
+          "eng": "He took a bad trip over the loose rug.",
+          "ch": "他在鬆動的地毯上狠狠絆倒了一跤。"
+        }
+      ]
+    },
+    {
+      "eng": "trip",
+      "kk": "trɪp",
+      "tense": "vi.",
+      "ch": [
+        [
+          "絆倒",
+          "失足"
+        ]
+      ],
+      "analysis": "源自同形名詞或日耳曼語源動詞，指腳步受阻而跌倒的動作。",
+      "definition": "1. to catch one's foot on something and stumble or fall.",
+      "example": [
+        {
+          "eng": "Be careful not to trip on the steps.",
+          "ch": "小心不要在階梯上絆倒。"
+        }
+      ]
+    },
+    {
+      "eng": "trouble",
+      "kk": "ˈtrʌbl",
+      "tense": "n.",
+      "ch": [
+        [
+          "麻煩",
+          "困難"
+        ],
+        [
+          "疾病",
+          "毛病"
+        ]
+      ],
+      "analysis": "源自古法語 troller（獵犬追捕獵物）或 tourbler（攪亂），根源為拉丁語 turbare（擾亂、攪渾，源自 turba「人群、喧囂」）。名詞第一群指困境、煩惱或麻煩；第二群指身體器官或系統的功能失常（如 stomach trouble）。",
+      "definition": "1. problems, difficulties, or worries; 2. a physical ailment or malfunction in a part of the body.",
+      "example": [
+        {
+          "eng": "She always helps her friends when they are in trouble.",
+          "ch": "她的朋友陷入麻煩時，她總是提供幫助。"
+        },
+        {
+          "eng": "He has chronic heart trouble.",
+          "ch": "他有長期的心臟毛病。"
+        }
+      ]
+    },
+    {
+      "eng": "trouble",
+      "kk": "ˈtrʌbl",
+      "tense": "vt.",
+      "ch": [
+        [
+          "麻煩",
+          "使煩惱"
+        ],
+        [
+          "費心",
+          "勞駕"
+        ]
+      ],
+      "analysis": "源自古法語動詞，及物動詞第一群指使人擔憂或煩惱；第二群常用於禮貌請求（如 trouble someone to do something）。",
+      "definition": "1. to cause someone distress, anxiety, or worry; 2. to cause inconvenience or annoyance to someone.",
+      "example": [
+        {
+          "eng": "I am sorry to trouble you with this question.",
+          "ch": "抱歉用這個問題麻煩你。"
+        },
+        {
+          "eng": "Does anything trouble you today?",
+          "ch": "你今天有什麼煩心事嗎？"
+        }
+      ]
+    },
+    {
+      "eng": "truck",
+      "kk": "trʌk",
+      "tense": "n.",
+      "ch": [
+        [
+          "卡車",
+          "貨車"
+        ]
+      ],
+      "analysis": "源自短縮自拉丁語 trochus 或希臘語 trokhos（輪子、車輪），在英語中演變出載重車輛的意思（卡車）。",
+      "definition": "1. a large, heavy motor vehicle used for transporting goods.",
+      "example": [
+        {
+          "eng": "The truck delivered boxes to the warehouse.",
+          "ch": "卡車把箱子運送到倉庫。"
+        }
+      ]
+    },
+    {
+      "eng": "try",
+      "kk": "traɪ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "嘗試",
+          "試圖"
+        ],
+        [
+          "試用",
+          "試穿"
+        ]
+      ],
+      "analysis": "源自古法語 trier（挑選、檢驗、試驗），根源可能為拉丁語 triturare（脫粒、研磨）。及物動詞第一群指努力去做某事或嘗試；第二群指試用或試穿物品以檢驗其效果。",
+      "definition": "1. to make an attempt or effort to do something; 2. to test the quality, value, or usefulness of something.",
+      "example": [
+        {
+          "eng": "You should try to finish your homework on time.",
+          "ch": "你應該試著準時完成功課。"
+        },
+        {
+          "eng": "May I try this jacket on?",
+          "ch": "我可以試穿這件夾克嗎？"
+        }
+      ]
+    },
+    {
+      "eng": "try",
+      "kk": "traɪ",
+      "tense": "vi.",
+      "ch": [
+        [
+          "努力",
+          "盡力"
+        ]
+      ],
+      "analysis": "不及物動詞用法，指付出努力或嘗試去達成目標。",
+      "definition": "1. to make an effort to achieve something.",
+      "example": [
+        {
+          "eng": "Even if you fail, at least you tried.",
+          "ch": "即使你失敗了，至少你盡力了。"
+        }
+      ]
+    },
+    {
+      "eng": "T-shirt",
+      "kk": "ˈtiˌʃɜrt",
+      "tense": "n.",
+      "ch": [
+        [
+          "T恤",
+          "短袖圓領衫"
+        ]
+      ],
+      "analysis": "現代英語複合詞，由字母 \"T\"（因該衣物展開後的形狀似大寫字母 T）與 shirt（襯衫）組合而成。指短袖、無領的棉質圓領便服。",
+      "definition": "1. a short-sleeved casual shirt, having a round neckline and no collar, shaped roughly like the letter T when laid flat.",
+      "example": [
+        {
+          "eng": "He wore a white T-shirt and jeans.",
+          "ch": "他穿著一件白色T恤和牛仔褲。"
+        }
+      ]
+    },
+    {
+      "eng": "turn",
+      "kk": "tɜrn",
+      "tense": "n.",
+      "ch": [
+        [
+          "輪流",
+          "機會"
+        ],
+        [
+          "轉彎處"
+        ]
+      ],
+      "analysis": "名詞用法，第一群指輪流進行某事的順序或機會（take turns）；第二群指道路的轉彎處。",
+      "definition": "1. an opportunity or obligation to do something in rotation with others; 2. a place where a road or path bends.",
+      "example": [
+        {
+          "eng": "It is your turn to wash the dishes.",
+          "ch": "輪到你洗碗了。"
+        },
+        {
+          "eng": "Take a right at the next turn.",
+          "ch": "在下一個轉彎處向右轉。"
+        }
+      ]
+    },
+    {
+      "eng": "turn",
+      "kk": "tɜrn",
+      "tense": "vt.",
+      "ch": [
+        [
+          "轉動",
+          "旋轉"
+        ],
+        [
+          "改變",
+          "轉變成"
+        ]
+      ],
+      "analysis": "源自古英語 tyrnan（源自拉丁語 tornare「旋轉、用車床加工」，根源為 tornus「圓規、旋轉工具」）。及物動詞第一群指轉動、扭轉物體；第二群指使性質、狀態發生轉變。",
+      "definition": "1. to move or cause to move around a central point or axis; 2. to change or cause to change in nature, form, or condition.",
+      "example": [
+        {
+          "eng": "Turn the handle to open the door.",
+          "ch": "轉動把手來開門。"
+        },
+        {
+          "eng": "The cold weather turned the leaves yellow.",
+          "ch": "寒冷的天氣使樹葉變黃了。"
+        }
+      ]
+    },
+    {
+      "eng": "turn",
+      "kk": "tɜrn",
+      "tense": "vi.",
+      "ch": [
+        [
+          "轉向",
+          "旋轉"
+        ],
+        [
+          "變成",
+          "轉化為"
+        ]
+      ],
+      "analysis": "不及物動詞用法，第一群指方向的改變或物體的旋轉；第二群指狀態或顏色的轉變。",
+      "definition": "1. to move in a circular direction or change direction; 2. to pass into a different state, condition, or color.",
+      "example": [
+        {
+          "eng": "Turn left at the next traffic light.",
+          "ch": "在下一個紅綠燈處向左轉。"
+        },
+        {
+          "eng": "The leaves turn red in autumn.",
+          "ch": "秋天樹葉會變紅。"
+        }
+      ]
+    },
+    {
+      "eng": "twice",
+      "kk": "twaɪs",
+      "tense": "adv.",
+      "ch": [
+        [
+          "兩次",
+          "兩倍"
+        ]
+      ],
+      "analysis": "源自古英語 twīwa，由 twi-（二）加上副詞字尾演變而來的日耳曼語源繼承詞。指動作發生兩次或數量達兩倍。",
+      "definition": "1. two times; on two occasions; 2. to twice the degree or amount.",
+      "example": [
+        {
+          "eng": "I have been to Paris twice.",
+          "ch": "我去過巴黎兩次。"
+        },
+        {
+          "eng": "He is twice as old as his brother.",
+          "ch": "他的年紀是他弟弟的兩倍。"
+        }
+      ]
+    },
+    {
+      "eng": "type",
+      "kk": "taɪp",
+      "tense": "n.",
+      "ch": [
+        [
+          "類型",
+          "種類"
+        ],
+        [
+          "鉛字",
+          "字體"
+        ]
+      ],
+      "analysis": "源自中古法語 type，源自拉丁語 typus，源自希臘語 týpos（打擊的痕跡、模子、印模）。名詞第一群指具有共同特徵的種類或類型；第二群在印刷術中指用於印刷的鉛字或字體。",
+      "definition": "1. a category of people or things having common characteristics; 2. a character or block of metal used in printing.",
+      "example": [
+        {
+          "eng": "What type of music do you like?",
+          "ch": "你喜歡哪種音樂？"
+        },
+        {
+          "eng": "The book was printed in bold type.",
+          "ch": "這本書是用粗體字印刷的。"
+        }
+      ]
+    },
+    {
+      "eng": "type",
+      "kk": "taɪp",
+      "tense": "vt.",
+      "ch": [
+        [
+          "打字"
+        ]
+      ],
+      "analysis": "由名詞 type（鉛字、打字機字模）轉化而來的動詞，原意為用打字機敲打鉛字進行文書輸入，現代泛指使用鍵盤打字。",
+      "definition": "1. to write something using a keyboard or a typewriter.",
+      "example": [
+        {
+          "eng": "She can type very fast.",
+          "ch": "她打字打得很快。"
+        }
+      ]
+    },
+    {
+      "eng": "uncle",
+      "kk": "ˈʌŋkl",
+      "tense": "n.",
+      "ch": [
+        [
+          "叔叔",
+          "伯伯",
+          "舅舅",
+          "姑丈",
+          "姨丈"
+        ]
+      ],
+      "analysis": "源自古法語 oncle，源自拉丁語 avunculus（母親的弟弟或兄弟，源自 avus「祖父」的指小詞）。在現代英語中泛指父母的兄弟或親戚的丈夫。",
+      "definition": "1. the brother of your father or mother, or the husband of your aunt.",
+      "example": [
+        {
+          "eng": "My uncle lives in New York.",
+          "ch": "我的叔叔住在紐約。"
+        }
+      ]
+    },
+    {
+      "eng": "under",
+      "kk": "ˈʌndər",
+      "tense": "prep.",
+      "ch": [
+        [
+          "在……下面",
+          "在……下方"
+        ],
+        [
+          "低於",
+          "少於"
+        ]
+      ],
+      "analysis": "源自古英語 under，屬於日耳曼語源繼承詞（與德語 unter 同源）。介系詞第一群指位置在某物的正下方；第二群指數量、年齡或標準低於某個界線。",
+      "definition": "1. directly below or lower than something; 2. less than a specified amount, age, or number.",
+      "example": [
+        {
+          "eng": "The cat is sleeping under the table.",
+          "ch": "貓正在桌子底下睡覺。"
+        },
+        {
+          "eng": "Children under six years old get in free.",
+          "ch": "六歲以下的兒童免費入場。"
+        }
+      ]
+    },
+    {
+      "eng": "understand",
+      "kk": "ˌʌndərˈstænd",
+      "tense": "vt.",
+      "ch": [
+        [
+          "理解",
+          "懂",
+          "明白"
+        ]
+      ],
+      "analysis": "源自古英語 understandan，由 under（在……之間、下方）與 standan（站立）組成，字面義為「站在其中、掌握精髓」。屬於日耳曼語源繼承詞，現代英語中固定指對觀念、語言或情況的認知與理解。",
+      "definition": "1. to know the meaning of something or to comprehend an idea or situation.",
+      "example": [
+        {
+          "eng": "Do you understand this math problem?",
+          "ch": "你懂這道數學題嗎？"
+        }
+      ]
+    },
+    {
+      "eng": "uniform",
+      "kk": "ˈjunəˌfɔrm",
+      "tense": "n.",
+      "ch": [
+        [
+          "制服"
+        ]
+      ],
+      "analysis": "源自拉丁語 uniformis（unus「一」+ forma「形狀」），意為「單一形狀的、一致的」。名詞指特定團體（如軍隊、學校、公司）成員穿著的規定制服。",
+      "definition": "1. a particular style of clothing worn by members of a specific organization or group.",
+      "example": [
+        {
+          "eng": "The students wear school uniforms.",
+          "ch": "學生們穿著學校制服。"
+        }
+      ]
+    },
+    {
+      "eng": "until",
+      "kk": "ənˈtɪl",
+      "tense": "prep.",
+      "ch": [
+        [
+          "直到……為止"
+        ]
+      ],
+      "analysis": "源自古諾斯語 und til（直到），由古英語 und 與 til 結合而成。用作介系詞，表示動作或狀態持續到某個時間點為止。",
+      "definition": "1. up to the point in time or the event mentioned.",
+      "example": [
+        {
+          "eng": "I will wait here until six o'clock.",
+          "ch": "我在這裡等到六點鐘。"
+        }
+      ]
+    },
+    {
+      "eng": "up",
+      "kk": "ʌp",
+      "tense": "adv.",
+      "ch": [
+        [
+          "向上",
+          "往上"
+        ],
+        [
+          "起來",
+          "起床"
+        ]
+      ],
+      "analysis": "源自古英語 ūp，屬於日耳曼語源繼承詞。副詞第一群指方向朝高處移動；第二群指從床上或坐姿站起來。",
+      "definition": "1. toward a higher place, position, or level; 2. out of bed or to an upright standing position.",
+      "example": [
+        {
+          "eng": "He looked up at the sky.",
+          "ch": "他抬頭看著天空。"
+        },
+        {
+          "eng": "She wakes up early every morning.",
+          "ch": "她每天早上很早就起床。"
+        }
+      ]
+    },
+    {
+      "eng": "use",
+      "kk": "jus",
+      "tense": "n.",
+      "ch": [
+        [
+          "用途",
+          "效用"
+        ],
+        [
+          "使用",
+          "利用"
+        ]
+      ],
+      "analysis": "源自古法語 user，源自拉丁語 usus（使用、習慣，源自 uti「使用」）。名詞第一群指物品的功用或目的；第二群指使用某物的行為。",
+      "definition": "1. the purpose for which something is used; 2. the action of using something.",
+      "example": [
+        {
+          "eng": "What is the main use of this tool?",
+          "ch": "這個工具的主要用途是什麼？"
+        },
+        {
+          "eng": "The safe use of electricity is important.",
+          "ch": "安全用電很重要。"
+        }
+      ]
+    },
+    {
+      "eng": "use",
+      "kk": "juz",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使用",
+          "運用"
+        ]
+      ],
+      "analysis": "源自拉丁語 uti（使用），經由古法語進入英語。及物動詞指利用工具、方法或資源來達成某個目的。",
+      "definition": "1. to put something into action or service for a particular purpose.",
+      "example": [
+        {
+          "eng": "Can I use your phone to make a call?",
+          "ch": "我可以用你的電話打個電話嗎？"
+        }
+      ]
+    },
+    {
+      "eng": "useful",
+      "kk": "ˈjusfəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "有用的",
+          "有益的"
+        ]
+      ],
+      "analysis": "由名詞 use 加上形容詞字尾 -ful（充滿……的）構成的現代透明構詞。形容詞指某物具有實際用途或能帶來幫助。",
+      "definition": "1. helpful, practical, or able to be used for a particular purpose.",
+      "example": [
+        {
+          "eng": "This dictionary is a very useful tool for learning English.",
+          "ch": "這本字典是學習英語非常有用的工具。"
+        }
+      ]
+    },
+    {
+      "eng": "usually",
+      "kk": "ˈjuʒəwəli",
+      "tense": "adv.",
+      "ch": [
+        [
+          "通常",
+          "平常"
+        ]
+      ],
+      "analysis": "由形容詞 usual 加上副詞字尾 -ly 構成的現代透明構詞（源自拉丁語 usualis）。副詞指在大多數情況下發生的慣常狀態。",
+      "definition": "1. under normal conditions; most of the time; habitually.",
+      "example": [
+        {
+          "eng": "She usually drinks coffee in the morning.",
+          "ch": "她通常在早上喝咖啡。"
+        }
+      ]
+    },
+    {
+      "eng": "vegetable",
+      "kk": "ˈvɛdʒtəbl",
+      "tense": "n.",
+      "ch": [
+        [
+          "蔬菜"
+        ]
+      ],
+      "analysis": "源自中世紀拉丁語 vegetabilis（生氣勃勃的、生長的），源自拉丁語 vegetare（使生長、使活躍）。在現代英語中固定指植物的食用部分（蔬菜）。",
+      "definition": "1. a plant or part of a plant used as food, such as a cabbage, potato, or bean.",
+      "example": [
+        {
+          "eng": "Children should eat more fresh vegetables.",
+          "ch": "孩子們應該多吃新鮮蔬菜。"
+        }
+      ]
+    },
+    {
+      "eng": "very",
+      "kk": "ˈvɛri",
+      "tense": "adv.",
+      "ch": [
+        [
+          "很",
+          "非常"
+        ]
+      ],
+      "analysis": "源自古法語 verai（真實的），源自拉丁語 verus（真實）。在英語中演變為程度副詞，用以加強形容詞或副詞的語氣（非常）。",
+      "definition": "1. to a high degree; extremely.",
+      "example": [
+        {
+          "eng": "The weather today is very hot.",
+          "ch": "今天的氣溫非常熱。"
+        }
+      ]
+    },
+    {
+      "eng": "video",
+      "kk": "ˈvɪdioʊ",
+      "tense": "n.",
+      "ch": [
+        [
+          "影片",
+          "視頻"
+        ]
+      ],
+      "analysis": "源自拉丁語 video（我看見，為 videre「看」的第一人稱現在時直陳式），在20世紀中葉的電視與電子技術發展中被用作名詞字首，指影像記錄與播放（影片）。",
+      "definition": "1. a recording of moving visual images, typically on a digital format or tape.",
+      "example": [
+        {
+          "eng": "We watched an educational video in class.",
+          "ch": "我們在課堂上觀看了一部教學影片。"
+        }
+      ]
+    },
+    {
+      "eng": "violin",
+      "kk": "ˌvaɪəˈlɪn",
+      "tense": "n.",
+      "ch": [
+        [
+          "小提琴"
+        ]
+      ],
+      "analysis": "源自義大利語 violino（viola「中提琴」的指小詞），經由法語進入英語。指四根弦的高音弓弦樂器（小提琴）。",
+      "definition": "1. a wooden musical instrument with four strings, played by holding it under the chin and drawing a bow across the strings.",
+      "example": [
+        {
+          "eng": "She has been playing the violin since she was six.",
+          "ch": "她六歲起就一直在拉小提琴。"
+        }
+      ]
+    },
+    {
+      "eng": "visit",
+      "kk": "ˈvɪzɪt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "拜訪",
+          "參觀",
+          "探望"
+        ]
+      ],
+      "analysis": "源自古法語 visiter，源自拉丁語 visitare（頻繁探視，源自 visere「去看、去檢視」，源自 videre「看」）。及物動詞指去某地參觀或探望親友。",
+      "definition": "1. to go to see and spend time with someone, or to go to a place for sightseeing or business.",
+      "example": [
+        {
+          "eng": "We plan to visit our grandparents this weekend.",
+          "ch": "我們計劃這個週末去探望祖父母。"
+        }
+      ]
+    },
+    {
+      "eng": "visitor",
+      "kk": "ˈvɪzɪtər",
+      "tense": "n.",
+      "ch": [
+        [
+          "訪客",
+          "遊客",
+          "參觀者"
+        ]
+      ],
+      "analysis": "由動詞 visit 加上名詞字尾 -or（表示人或物）構成的現代透明構詞。指前往某地拜訪或參觀的人。",
+      "definition": "1. a person who visits a person or place.",
+      "example": [
+        {
+          "eng": "The museum welcomes thousands of visitors every day.",
+          "ch": "這家博物館每天迎接數千名參觀者。"
+        }
+      ]
+    },
+    {
+      "eng": "voice",
+      "kk": "vɔɪs",
+      "tense": "n.",
+      "ch": [
+        [
+          "聲音",
+          "嗓音"
+        ]
+      ],
+      "analysis": "源自古法語 vois，源自拉丁語 vox（發聲、聲音）。名詞指人類說話或唱歌時發出的聲音，或在抽象意義上的意見表達。",
+      "definition": "1. the sound produced in a person's larynx and uttered through the mouth, as in speech or singing.",
+      "example": [
+        {
+          "eng": "She has a soft and gentle voice.",
+          "ch": "她的嗓音輕柔溫和。"
+        }
+      ]
+    },
+    {
+      "eng": "wait",
+      "kk": "weɪt",
+      "tense": "vi.",
+      "ch": [
+        [
+          "等待",
+          "等候"
+        ]
+      ],
+      "analysis": "源自古法語 waitier（觀望、守候），源自日耳曼語源（與 watch 同源）。不及物動詞指停留在某處或延後行動以等待某人或某事發生。",
+      "definition": "1. to stay where you are or delay action until a particular time or event happens.",
+      "example": [
+        {
+          "eng": "Please wait for me at the bus stop.",
+          "ch": "請在公車站等我。"
+        }
+      ]
+    },
+    {
+      "eng": "wake",
+      "kk": "weɪk",
+      "tense": "vi.",
+      "ch": [
+        [
+          "醒來",
+          "醒覺"
+        ]
+      ],
+      "analysis": "源自古英語 wæcan 或 wacian（保持清醒、醒來），屬於日耳曼語源繼承詞。不及物動詞指從睡眠中清醒過來。",
+      "definition": "1. to stop sleeping and become awake.",
+      "example": [
+        {
+          "eng": "I usually wake up at 6:30 AM every day.",
+          "ch": "我通常每天早上六點半醒來。"
+        }
+      ]
+    },
+    {
+      "eng": "walk",
+      "kk": "wɔk",
+      "tense": "n.",
+      "ch": [
+        [
+          "散步",
+          "步行"
+        ]
+      ],
+      "analysis": "由動詞 walk 轉化而來的名詞，指散步或步行的行為與過程。",
+      "definition": "1. an act of walking for exercise or pleasure.",
+      "example": [
+        {
+          "eng": "We went for a long walk in the park.",
+          "ch": "我們在公園裡散了長步。"
+        }
+      ]
+    },
+    {
+      "eng": "walk",
+      "kk": "wɔk",
+      "tense": "vi.",
+      "ch": [
+        [
+          "走路",
+          "步行"
+        ]
+      ],
+      "analysis": "源自古英語 wealcan（翻滾、轉動），後在中古英語中演變出移動腳步的動作（走路）。屬於日耳曼語源繼承詞。",
+      "definition": "1. to move at a regular pace by lifting and setting down each foot in turn.",
+      "example": [
+        {
+          "eng": "He likes to walk to school every morning.",
+          "ch": "他喜歡每天早上步行去學校。"
+        }
+      ]
+    },
+    {
+      "eng": "wall",
+      "kk": "wɔl",
+      "tense": "n.",
+      "ch": [
+        [
+          "牆",
+          "牆壁"
+        ]
+      ],
+      "analysis": "源自古英語 wéal，源自拉丁語 vallum（城牆、土壘）。屬於早期借自拉丁語的日耳曼語族接觸詞彙，現代指房屋或建築物的垂直圍牆。",
+      "definition": "1. a continuous vertical brick or stone structure that encloses or divides an area of land or a room.",
+      "example": [
+        {
+          "eng": "She hung a picture on the living room wall.",
+          "ch": "她在客廳的牆上掛了一幅畫。"
+        }
+      ]
+    },
+    {
+      "eng": "want",
+      "kk": "wɑnt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "想要",
+          "希望得到"
+        ]
+      ],
+      "analysis": "源自古諾斯語 vanta（缺少、需要），在中古英語中進入英語並演變出強烈的願望或需求意涵。及物動詞指渴望擁有或希望某事發生。",
+      "definition": "1. to have a desire for something; to wish for.",
+      "example": [
+        {
+          "eng": "What do you want for dinner tonight?",
+          "ch": "你今晚晚餐想吃什麼？"
+        }
+      ]
+    },
+    {
+      "eng": "warm",
+      "kk": "wɔrm",
+      "tense": "adj.",
+      "ch": [
+        [
+          "溫暖的",
+          "溫熱的"
+        ],
+        [
+          "熱情的",
+          "親切的"
+        ]
+      ],
+      "analysis": "源自古英語 wearm，屬於日耳曼語源繼承詞（與德語 warm 同源）。形容詞第一群指溫度適中而溫暖；第二群引申為態度熱情、親切友善。",
+      "definition": "1. having or producing a comfortably high temperature; 2. showing enthusiasm, affection, or kindness.",
+      "example": [
+        {
+          "eng": "Wear a jacket to keep warm in the evening.",
+          "ch": "穿件夾克晚上保暖。"
+        },
+        {
+          "eng": "We received a warm welcome from our hosts.",
+          "ch": "我們受到了主人熱情的歡迎。"
+        }
+      ]
+    },
+    {
+      "eng": "watch",
+      "kk": "wɑtʃ",
+      "tense": "n.",
+      "ch": [
+        [
+          "手錶"
+        ]
+      ],
+      "analysis": "由動詞 watch（保持警戒、計時）轉化而來的名詞，固定指佩戴在手腕上用於計時的精巧儀器（手錶）。",
+      "definition": "1. a small timepiece worn typically on a strap on the wrist.",
+      "example": [
+        {
+          "eng": "He checked his watch to see the time.",
+          "ch": "他看了看手錶以確認時間。"
+        }
+      ]
+    },
+    {
+      "eng": "watch",
+      "kk": "wɑtʃ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "觀看",
+          "注視"
+        ],
+        [
+          "看守",
+          "照看"
+        ]
+      ],
+      "analysis": "源自古英語 wæccan（保持清醒、警戒），屬於日耳曼語源繼承詞。及物動詞第一群指集中注意力觀看（如電視、比賽）；第二群指看護、照看人或物。",
+      "definition": "1. to look at someone or something attentively for a period of time; 2. to guard, supervise, or keep under observation.",
+      "example": [
+        {
+          "eng": "The children are watching a cartoon on TV.",
+          "ch": "孩子們正在電視上看卡通。"
+        },
+        {
+          "eng": "Can you watch my bag while I go to the restroom?",
+          "ch": "我去洗手間時你能幫我看管一下包包嗎？"
+        }
+      ]
+    },
+    {
+      "eng": "water",
+      "kk": "ˈwɔtər",
+      "tense": "n.",
+      "ch": [
+        [
+          "水"
+        ]
+      ],
+      "analysis": "源自古英語 wæter，屬於日耳曼語源繼承詞（與德語 Wasser、荷蘭語 water 同源）。固定指地球上最常見的無色無味液體（水）。",
+      "definition": "1. a clear, colorless, odorless, and tasteless liquid essential for most plant and animal life.",
+      "example": [
+        {
+          "eng": "Please drink a glass of water after exercise.",
+          "ch": "運動後請喝一杯水。"
+        }
+      ]
+    },
+    {
+      "eng": "wave",
+      "kk": "weɪv",
+      "tense": "n.",
+      "ch": [
+        [
+          "波浪",
+          "海浪"
+        ],
+        [
+          "揮手",
+          "揮動"
+        ]
+      ],
+      "analysis": "源自中古英語 waven，與古英語 wafian（揮動、搖晃）及日耳曼語源相關。名詞第一群指水面起伏的波浪；第二群指手部揮動的動作。",
+      "definition": "1. a raised mass of water that rolls onto the surface of the sea or a lake; 2. an act of waving one's hand to greet or say goodbye.",
+      "example": [
+        {
+          "eng": "Large waves crashed against the rocky shore.",
+          "ch": "巨浪拍打著岩石海岸。"
+        },
+        {
+          "eng": "She gave a final wave as the train departed.",
+          "ch": "火車開走時，她揮了最後一下手。"
+        }
+      ]
+    },
+    {
+      "eng": "wave",
+      "kk": "weɪv",
+      "tense": "vi.",
+      "ch": [
+        [
+          "揮手",
+          "揮動"
+        ]
+      ],
+      "analysis": "不及物動詞用法，指手部或手臂左右上下擺動作為手勢（如揮手打招呼）。",
+      "definition": "1. to move one's hand back and forth as a signal or greeting.",
+      "example": [
+        {
+          "eng": "He waved to his friends across the street.",
+          "ch": "他向街對面的朋友揮手。"
+        }
+      ]
+    },
+    {
+      "eng": "way",
+      "kk": "weɪ",
+      "tense": "n.",
+      "ch": [
+        [
+          "路",
+          "道路"
+        ],
+        [
+          "方法",
+          "方式"
+        ]
+      ],
+      "analysis": "源自古英語 wæg，屬於日耳曼語源繼承詞（與德語 Weg 同源）。名詞第一群指通往某處的道路或方向；第二群引申為做事的方法或方式。",
+      "definition": "1. a road, track, or path leading from one place to another; 2. a method, style, or manner of doing something.",
+      "example": [
+        {
+          "eng": "Do you know the way to the station?",
+          "ch": "你知道去車站的路嗎？"
+        },
+        {
+          "eng": "This is a very effective way to learn English.",
+          "ch": "這是一種學習英語非常有效的方法。"
+        }
+      ]
+    },
+    {
+      "eng": "we",
+      "kk": "wi",
+      "tense": "pron.",
+      "ch": [
+        [
+          "我們"
+        ]
+      ],
+      "analysis": "源自古英語 wē，屬於日耳曼語源第一人稱複數主格代名詞繼承詞。用作句子中的主詞，指說話者本人及其同行者。",
+      "definition": "1. used by a speaker to refer to themselves and one or more other people as the subject of a verb.",
+      "example": [
+        {
+          "eng": "We are going to the library this afternoon.",
+          "ch": "我們今天下午要去圖書館。"
+        }
+      ]
+    },
+    {
+      "eng": "us",
+      "kk": "əs",
+      "tense": "pron.",
+      "ch": [
+        [
+          "我們"
+        ]
+      ],
+      "analysis": "源自古英語 ūs，屬於第一人稱複數代名詞的受格形式（與 we 同源）。用作動詞或介系詞的受詞。",
+      "definition": "1. used as the object of a verb or preposition to refer to the speaker and one or more other people.",
+      "example": [
+        {
+          "eng": "Teacher gave us a lot of homework.",
+          "ch": "老師給了我們很多功課。"
+        }
+      ]
+    },
+    {
+      "eng": "our",
+      "kk": "ˈaʊər",
+      "tense": "pron.",
+      "ch": [
+        [
+          "我們的"
+        ]
+      ],
+      "analysis": "源自古英語 ūre，屬於第一人稱複數所有格代名詞（形容詞性所有格）。置於名詞前方表示所有權。",
+      "definition": "1. belonging to or associated with us.",
+      "example": [
+        {
+          "eng": "Our team won the basketball game yesterday.",
+          "ch": "我們隊昨天贏了籃球賽。"
+        }
+      ]
+    }
+  ]
+}

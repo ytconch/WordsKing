@@ -1,0 +1,1194 @@
+{
+  "level": 5,
+  "chunkIndex": 11,
+  "inputs": [
+    "justify",
+    "juvenile",
+    "kidnap",
+    "landlord",
+    "laser",
+    "lawmaker",
+    "lawsuit",
+    "layer",
+    "league",
+    "legacy",
+    "legendary",
+    "legislation",
+    "legislative",
+    "legitimate",
+    "lest",
+    "liability",
+    "likelihood",
+    "likewise",
+    "loop",
+    "lounge",
+    "lump",
+    "mainstream",
+    "maintenance",
+    "mammal",
+    "mandate",
+    "manifest",
+    "manipulate",
+    "mansion",
+    "marine",
+    "masculine",
+    "massage",
+    "massive",
+    "masterpiece",
+    "mattress",
+    "meantime",
+    "mechanism",
+    "medication",
+    "mentor",
+    "merge",
+    "metaphor",
+    "metropolitan",
+    "midst",
+    "migration",
+    "milestone",
+    "miniature",
+    "minimal",
+    "minimize",
+    "mint",
+    "missionary",
+    "moan"
+  ],
+  "rows": [
+    {
+      "eng": "justify",
+      "kk": "/ˈdʒʌstəˌfaɪ/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "證明…是正當的",
+          "合理化"
+        ],
+        [
+          "為…辯護",
+          "為…作辯解"
+        ]
+      ],
+      "analysis": "此字為及物動詞，現代透明構詞由拉丁語形容詞 iustus（公正的、正義的）與動詞字尾 -fy（使成為）結合，經古法語 giustifier 進入英語。語義從「使公正、宣判無罪」演變為「證明某事正當、合理或有理」。",
+      "definition": "1. To prove or show to be just, right, or reasonable.; 2. To defend or uphold as warranted or well-grounded.",
+      "example": [
+        {
+          "eng": "The results of the experiment justify the new approach.",
+          "ch": "實驗結果證明了這項新方法的正當性。"
+        },
+        {
+          "eng": "He tried to justify his absence from the meeting.",
+          "ch": "他試圖為他缺席會議做出辯解。"
+        }
+      ]
+    },
+    {
+      "eng": "juvenile",
+      "kk": "/ˈdʒuːvənl/",
+      "tense": "n.",
+      "ch": [
+        [
+          "青少年",
+          "未成年人"
+        ]
+      ],
+      "analysis": "此字為名詞，由同形形容詞轉品而來，指稱處於青少年期或未成年階段的人。",
+      "definition": "1. A young person who has not yet reached adulthood.",
+      "example": [
+        {
+          "eng": "The court handles cases involving both adults and juveniles.",
+          "ch": "法院審理同時涉及成人與青少年的案件。"
+        }
+      ]
+    },
+    {
+      "eng": "juvenile",
+      "kk": "/ˈdʒuːvənl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "青少年期的",
+          "少年的"
+        ],
+        [
+          "幼稚的",
+          "不成熟的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自拉丁語 iuvenilis（年輕的、少年的），由 iuvenis（年輕人）加上形容詞字尾而成。語義從本義「與青年或幼年有關的」引申出負面意涵「心智不成熟的、幼稚的」。",
+      "definition": "1. Pertaining to, characteristic of, or suitable for youth or young persons.; 2. Immature or childish in behavior or thinking.",
+      "example": [
+        {
+          "eng": "The program aims to reduce juvenile delinquency.",
+          "ch": "該計畫旨在減少青少年犯罪。"
+        },
+        {
+          "eng": "His juvenile remarks annoyed the senior executives.",
+          "ch": "他幼稚的言論惹惱了高階主管。"
+        }
+      ]
+    },
+    {
+      "eng": "kidnap",
+      "kk": "/ˈkɪdˌnæp/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "綁架",
+          "劫持"
+        ]
+      ],
+      "analysis": "此字為及物動詞，屬於現代複合詞，由 kid（小孩）與 17 世紀盜竊俚語 nap（意指抓捕、偷竊，源自日耳曼語族）結合而成。最初指誘拐小孩賣去殖民地，後泛指對任何人的非法綁架。",
+      "definition": "1. To seize and detain a person unlawfully, often for ransom.",
+      "example": [
+        {
+          "eng": "The gang attempted to kidnap the wealthy businessman.",
+          "ch": "該幫派企圖綁架這名富商。"
+        }
+      ]
+    },
+    {
+      "eng": "landlord",
+      "kk": "/ˈlændˌlɔːrd/",
+      "tense": "n.",
+      "ch": [
+        [
+          "房東",
+          "地主"
+        ]
+      ],
+      "analysis": "此字為名詞，由古英語 land（土地）與 hlaford（主人、 lord，原意為「守麵包的人」）複合而成。歷史上指擁有土地或房屋並將其出租給他人以收取租金的人。",
+      "definition": "1. A person who owns land, property, or a building and rents it out to tenants.",
+      "example": [
+        {
+          "eng": "The landlord promised to fix the broken heater before winter.",
+          "ch": "房東答應在冬天來臨前修理壞掉的暖氣機。"
+        }
+      ]
+    },
+    {
+      "eng": "laser",
+      "kk": "/ˈleɪzər/",
+      "tense": "n.",
+      "ch": [
+        [
+          "雷射",
+          "激光"
+        ]
+      ],
+      "analysis": "此字為名詞，是 20 世紀中葉產生的首字母縮略詞（Acronym），全稱為 Light Amplification by Stimulated Emission of Radiation。隨著技術普及，已完全詞彙化為普通名詞。",
+      "definition": "1. A device that produces a narrow, intense beam of coherent light.",
+      "example": [
+        {
+          "eng": "Surgeons used a laser to correct his vision.",
+          "ch": "外科醫師使用雷射來矯正他的視力。"
+        }
+      ]
+    },
+    {
+      "eng": "lawmaker",
+      "kk": "/ˈlɔːˌmeɪkər/",
+      "tense": "n.",
+      "ch": [
+        [
+          "立法者",
+          "議員"
+        ]
+      ],
+      "analysis": "此字為名詞，由 law（法律）與 maker（製造者、者）組成之現代透明複合詞，指有權制定或修改法律的人員。",
+      "definition": "1. A member of a government body who has the power to make or change laws.",
+      "example": [
+        {
+          "eng": "Lawmakers voted overwhelmingly in favor of the new bill.",
+          "ch": "立法者以壓倒性票數贊成這項新法案。"
+        }
+      ]
+    },
+    {
+      "eng": "lawsuit",
+      "kk": "/ˈlɔːˌsuːt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "訴訟",
+          "控告"
+        ]
+      ],
+      "analysis": "此字為名詞，由 law（法律）與 suit（原意為追隨、起訴，源自拉丁語 sequi）複合而成。指在法庭上提出訴訟請求法律裁決的行為。",
+      "definition": "1. A claim or dispute brought to a court of law for adjudication.",
+      "example": [
+        {
+          "eng": "The company faces a major lawsuit over patent infringement.",
+          "ch": "該公司正面臨一場關於專利侵權的重大訴訟。"
+        }
+      ]
+    },
+    {
+      "eng": "layer",
+      "kk": "/ˈleɪər/",
+      "tense": "n.",
+      "ch": [
+        [
+          "層",
+          "表層"
+        ],
+        [
+          "階層",
+          "地層"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 lay（放置）加上名詞字尾 -er 構成，原意指「放置東西的人或物」，後演變為指物體表面的一層、或社會與自然界中的結構層次。",
+      "definition": "1. A sheet, quantity, or thickness of material, typically one of several, covering a surface or body.; 2. A level or stratum in a society or system.",
+      "example": [
+        {
+          "eng": "An insulating layer of snow protected the crops.",
+          "ch": "一層隔熱的雪保護了農作物。"
+        },
+        {
+          "eng": "Corruption exists at every layer of the administration.",
+          "ch": "貪腐存在於行政體系的每一個階層。"
+        }
+      ]
+    },
+    {
+      "eng": "league",
+      "kk": "/liːɡ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "聯盟",
+          "社團"
+        ],
+        [
+          "體育聯賽"
+        ]
+      ],
+      "analysis": "此字為名詞，經由古法語 ligue 借自義大利語 liga，最終源自拉丁語 ligare（綁、繫）。本義為「結合、同盟」，現代廣泛用於政治聯盟及運動競技中的聯賽組織。",
+      "definition": "1. A group of nations, people, or organizations that have united for a common purpose.; 2. A sports competition in which teams play each other over a period.",
+      "example": [
+        {
+          "eng": "Several nations formed a league to combat climate change.",
+          "ch": "數個國家組成聯盟以對抗氣候變遷。"
+        },
+        {
+          "eng": "Their team was promoted to the top professional league.",
+          "ch": "他們的球隊被晉升至頂級職業聯賽。"
+        }
+      ]
+    },
+    {
+      "eng": "legacy",
+      "kk": "/ˈleɡəsi/",
+      "tense": "n.",
+      "ch": [
+        [
+          "遺產",
+          "祖傳之物"
+        ],
+        [
+          "歷史遺產",
+          "留存的影響"
+        ]
+      ],
+      "analysis": "此字為名詞，源自拉丁語 legare（遺贈、委託），經中古英語 legacie 演變而來。最初專指遺囑中留下的金錢或財產，後引申泛指歷史、前人留下的精神或實質影響。",
+      "definition": "1. Money or property left to someone in a will.; 2. Something handed down from the past or from an ancestor.",
+      "example": [
+        {
+          "eng": "She received a modest legacy from her grandmother.",
+          "ch": "她從祖母那裡獲得了一筆不大的遺產。"
+        },
+        {
+          "eng": "The dictator left behind a legacy of poverty and violence.",
+          "ch": "該獨裁者留下了一段貧窮與暴力的歷史遺產。"
+        }
+      ]
+    },
+    {
+      "eng": "legendary",
+      "kk": "/ˈledʒənderi/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "傳說中的",
+          "傳奇的"
+        ],
+        [
+          "家喻戶曉的",
+          "極富盛名的"
+        ]
+      ],
+      "analysis": "此字為形容詞，由名詞 legend（傳說）加上形容詞字尾 -ary 構成。語義從「屬於傳說的」引申為形容某人或某事物的成就極為傑出、如同傳奇一般知名。",
+      "definition": "1. Based on or described in legends; mythical.; 2. Remarkable and celebrated to an extent that seems legendary.",
+      "example": [
+        {
+          "eng": "King Arthur is a legendary figure in British history.",
+          "ch": "亞瑟王是英國歷史上傳說中的人物。"
+        },
+        {
+          "eng": "The musician is legendary for his impromptu guitar solos.",
+          "ch": "這位音樂家以其即興吉他獨奏而聞名傳奇。"
+        }
+      ]
+    },
+    {
+      "eng": "legislation",
+      "kk": "/ˌledʒɪˈsleɪʃn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "立法",
+          "法律條文"
+        ]
+      ],
+      "analysis": "此字為名詞，由拉丁語 lex（法律）與 ferre（帶領、攜帶）結合而成的 legislatio 經中古法語或直接進入英語。指制定法律的過程，或已通過生效的法規條文。",
+      "definition": "1. Laws, considered collectively, or the act of making laws.",
+      "example": [
+        {
+          "eng": "The government is introducing new legislation to curb pollution.",
+          "ch": "政府正在推出新的立法以遏制污染。"
+        }
+      ]
+    },
+    {
+      "eng": "legislative",
+      "kk": "/ˈledʒɪsleɪtɪv/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "立法的",
+          "立法機關的"
+        ]
+      ],
+      "analysis": "此字為形容詞，由 legislation 的動詞詞幹 legislate 加上形容詞字尾 -ive 構成，專門用來修飾與立法過程或立法權力相關的事物。",
+      "definition": "1. Having the power to make laws; relating to a legislature.",
+      "example": [
+        {
+          "eng": "The constitution defines the powers of the legislative branch.",
+          "ch": "憲法界定了立法部門的權力。"
+        }
+      ]
+    },
+    {
+      "eng": "legitimate",
+      "kk": "/lɪˈdʒɪtəmət/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "合法的"
+        ],
+        [
+          "正當的"
+        ],
+        [
+          "合理的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自拉丁語 legitimus（合法的），由 lex（法律）衍生而來。本義指合乎法律或規定的，後引申為理由正當、合乎情理的。",
+      "definition": "1. Conforming to the law or to rules; justifiable and reasonable.",
+      "example": [
+        {
+          "eng": "She had a legitimate reason for missing the deadline.",
+          "ch": "她錯過截止期限有正當的理由。"
+        }
+      ]
+    },
+    {
+      "eng": "lest",
+      "kk": "/lest/",
+      "tense": "conj.",
+      "ch": [
+        [
+          "唯恐",
+          "以免"
+        ]
+      ],
+      "analysis": "此字為連接詞，源自古英語 lēy þæs þe（因這原因以免…），經語音緊縮演變而來。現代英語中主要用於引出從句，表示防範某種不良後果發生，語氣正式。",
+      "definition": "1. With the intention of preventing something undesirable; for fear that.",
+      "example": [
+        {
+          "eng": "He whispered cautiously lest he should wake the sleeping baby.",
+          "ch": "他小心翼翼地低聲說話，以免吵醒正在睡覺的嬰兒。"
+        }
+      ]
+    },
+    {
+      "eng": "liability",
+      "kk": "/ˌlaɪəˈbɪləti/",
+      "tense": "n.",
+      "ch": [
+        [
+          "責任",
+          "義務"
+        ],
+        [
+          "負債",
+          "債務"
+        ],
+        [
+          "劣勢",
+          "累贅"
+        ]
+      ],
+      "analysis": "此字為名詞，由形容詞 liable（負有責任的）加上名詞字尾 -ity 構成。從「應負法律責任的狀態」引申出財務上的「負債」，以及日常口語中的「缺點、累贅」。",
+      "definition": "1. The state of being legally responsible for something.; 2. A debt or financial obligation.; 3. A person or thing that causes disadvantages or is a hindrance.",
+      "example": [
+        {
+          "eng": "The company denied liability for the industrial accident.",
+          "ch": "該公司否認對這起工安意外負有法律責任。"
+        },
+        {
+          "eng": "High interest rates increased the company's financial liability.",
+          "ch": "高利率增加了公司的財務負債。"
+        },
+        {
+          "eng": "His hot temper makes him a liability to the team.",
+          "ch": "他暴躁的脾氣使他成了團隊的累贅。"
+        }
+      ]
+    },
+    {
+      "eng": "likelihood",
+      "kk": "/ˈlaɪklihʊd/",
+      "tense": "n.",
+      "ch": [
+        [
+          "可能性",
+          "可能性高低"
+        ]
+      ],
+      "analysis": "此字為名詞，由形容詞 likely（可能的）與抽象名詞字尾 -hood（表示狀態或性質）複合而成，用來指某事發生的機率或機會。",
+      "definition": "1. The state or fact of something being likely; probability.",
+      "example": [
+        {
+          "eng": "There is every likelihood that prices will rise further.",
+          "ch": "物價極有可能會進一步上漲。"
+        }
+      ]
+    },
+    {
+      "eng": "likewise",
+      "kk": "/ˈlaɪkˌwaɪz/",
+      "tense": "adv.",
+      "ch": [
+        [
+          "同樣地",
+          "照樣"
+        ],
+        [
+          "也一樣",
+          "彼此彼此"
+        ]
+      ],
+      "analysis": "此字為副詞，由古英語 gelīce（同樣地）與 wīse（方式、方向）複合而成。表示相似的方式或情況，也常用於社交禮儀中回應對方的問候或祝賀。",
+      "definition": "1. In the same way; similarly.; 2. Used to express agreement or to return a greeting.",
+      "example": [
+        {
+          "eng": "Eat healthy food and, likewise, exercise regularly.",
+          "ch": "吃健康的食物，同樣地，也要規律運動。"
+        },
+        {
+          "eng": "\"Have a great weekend!\" \"Likewise.\"",
+          "ch": "「有個美好的周末！」『你也是。』"
+        }
+      ]
+    },
+    {
+      "eng": "loop",
+      "kk": "/luːp/",
+      "tense": "n.",
+      "ch": [
+        [
+          "環",
+          "圈"
+        ],
+        [
+          "迴圈"
+        ]
+      ],
+      "analysis": "此字為名詞，起源較晚，可能源自日耳曼語族或蓋爾語，本義指繩索、線條彎曲形成的圓圈或圈套。現代亦廣泛應用於電腦科學中的「迴圈」概念。",
+      "definition": "1. A shape produced by a curve that bends round and crosses itself.; 2. A sequence of instructions that is continually repeated in a computer program.",
+      "example": [
+        {
+          "eng": "She tied the rope in a secure loop.",
+          "ch": "她把繩子打成了一個牢固的環。"
+        },
+        {
+          "eng": "The program got stuck in an infinite loop.",
+          "ch": "程式陷入了無限迴圈中。"
+        }
+      ]
+    },
+    {
+      "eng": "lounge",
+      "kk": "/laʊndʒ/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "懶散地躺或坐",
+          "閒逛"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，起源於 18 世紀的英國方言，可能與 lunge 或早期表示懶散行走的動詞有關。指身體放鬆、懶洋洋地斜躺或閒晃消磨時間。",
+      "definition": "1. To lie, sit, or stand in a lazy, relaxed way.",
+      "example": [
+        {
+          "eng": "He spent the whole Sunday lounging on the sofa.",
+          "ch": "他整個星期天都懶洋洋地躺在沙發上。"
+        }
+      ]
+    },
+    {
+      "eng": "lump",
+      "kk": "/lʌmp/",
+      "tense": "n.",
+      "ch": [
+        [
+          "塊",
+          "團"
+        ],
+        [
+          "腫塊"
+        ]
+      ],
+      "analysis": "此字為名詞，源自日耳曼語族，本義指沒有固定形狀的塊狀物，後亦指身體皮下組織產生的異常腫塊。",
+      "definition": "1. A compact mass of a particular substance, often without a definite shape.; 2. A small swelling under the skin.",
+      "example": [
+        {
+          "eng": "Add a lump of sugar to your coffee.",
+          "ch": "在你的咖啡裡加一塊糖。"
+        },
+        {
+          "eng": "She felt a small lump on her neck and went to see a doctor.",
+          "ch": "她摸到脖子上有個小腫塊，便去看醫生。"
+        }
+      ]
+    },
+    {
+      "eng": "mainstream",
+      "kk": "/ˈmeɪnˌstriːm/",
+      "tense": "n.",
+      "ch": [
+        [
+          "主流"
+        ]
+      ],
+      "analysis": "此字為名詞，由 main（主要的）與 stream（河流、溪流）複合而成。原意指河流的主幹道，19 世紀中期由美國作家引申用來形容社會上佔主導地位的思想、文化或傾向。",
+      "definition": "1. The ideas, attitudes, or activities that are shared by most people and regarded as normal or conventional.",
+      "example": [
+        {
+          "eng": "Environmental protection has finally entered the political mainstream.",
+          "ch": "環境保護終於進入了政治主流。"
+        }
+      ]
+    },
+    {
+      "eng": "maintenance",
+      "kk": "/ˈmeɪntənəns/",
+      "tense": "n.",
+      "ch": [
+        [
+          "維護",
+          "保養"
+        ],
+        [
+          "維持",
+          "生活費"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 maintain（維持、保養）加上名詞字尾 -ance 構成。本義為保持機器、建築或某種狀態完好運作的行為，亦可指生活所需金錢的供給。",
+      "definition": "1. The process of preserving a condition or keeping equipment in good working order.; 2. The providing of financial support for someone's living expenses.",
+      "example": [
+        {
+          "eng": "Regular maintenance of the car prevents engine failure.",
+          "ch": "定期保養汽車可防止引擎故障。"
+        },
+        {
+          "eng": "He was ordered to pay child maintenance after the divorce.",
+          "ch": "離婚後他被法院命令支付子女扶養費。"
+        }
+      ]
+    },
+    {
+      "eng": "mammal",
+      "kk": "/ˈmæml/",
+      "tense": "n.",
+      "ch": [
+        [
+          "哺乳動物"
+        ]
+      ],
+      "analysis": "此字為名詞，由現代拉丁語 mammalis 衍生而來，源自 mamma（乳房、乳腺）。生物學分類上用來指稱以母乳哺育幼崽的溫血脊椎動物。",
+      "definition": "1. A warm-blooded vertebrate animal of a class distinguished by the possession of hair or fur, females secreting milk for the young.",
+      "example": [
+        {
+          "eng": "Whales and dolphins are marine mammals.",
+          "ch": "鯨魚和海豚是海洋哺乳動物。"
+        }
+      ]
+    },
+    {
+      "eng": "mandate",
+      "kk": "/ˈmændeɪt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "授權",
+          "委託"
+        ],
+        [
+          "指令",
+          "強制令"
+        ]
+      ],
+      "analysis": "此字為名詞，源自拉丁語 mandatum（命令、委託），由 manus（手）與 dare（給予）複合而成。原意為「交託在手中的權力」，現指選民賦予政府的授權，或官方頒布的強制性規定。",
+      "definition": "1. An official order or commission to do something.; 2. The authority granted by a constituency to an elected representative.",
+      "example": [
+        {
+          "eng": "The government won a clear mandate to reform the tax system.",
+          "ch": "政府獲得了改革稅制的明確授權。"
+        },
+        {
+          "eng": "The city issued a mandate requiring masks in public transit.",
+          "ch": "市政府發布一項強制令，規定在大眾運輸工具上必須戴口罩。"
+        }
+      ]
+    },
+    {
+      "eng": "manifest",
+      "kk": "/ˈmænɪfest/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "明顯的",
+          "顯而易見的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自拉丁語 manifestus（顯露的、確鑿的），可能由 manus（手）與 fendere（擊打）等成分演變而來，本義為「用手抓得到的、顯而易見的」。",
+      "definition": "1. Clear or obvious to the eye or mind.",
+      "example": [
+        {
+          "eng": "The changes in his behavior were manifest to everyone.",
+          "ch": "他行為上的轉變是大家有目共睹、顯而易見的。"
+        }
+      ]
+    },
+    {
+      "eng": "manipulate",
+      "kk": "/məˈnɪpjuˌleɪt/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "操縱",
+          "控制"
+        ],
+        [
+          "熟練操作"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自拉丁語 manipulus（一把、手握之量），由 manus（手）衍生而來。本義為「用手靈巧地處理」，後引申為巧妙或暗中操縱局勢、數據或人心。",
+      "definition": "1. To control or influence skillfully or unfairly.; 2. To handle or operate with skill, typically with the hands.",
+      "example": [
+        {
+          "eng": "Politicians often try to manipulate public opinion through the media.",
+          "ch": "政治人物經常試圖透過媒體來操縱輿論。"
+        },
+        {
+          "eng": "The pianist manipulated the keys with incredible speed.",
+          "ch": "鋼琴家以驚人的速度熟練地彈奏琴鍵。"
+        }
+      ]
+    },
+    {
+      "eng": "mansion",
+      "kk": "/ˈmænʃn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "大廈",
+          "豪宅"
+        ]
+      ],
+      "analysis": "此字為名詞，源自拉丁語 mansio（居住地、停留處），由 manere（居住、停留）衍生而來。中古時期指大型的貴族宅邸，現代則專指豪華寬敞的私人別墅或大宅。",
+      "definition": "1. A large, impressive, and expensive house.",
+      "example": [
+        {
+          "eng": "The actor bought a luxurious mansion overlooking the ocean.",
+          "ch": "這位演員買了一棟俯瞰大海的豪華豪宅。"
+        }
+      ]
+    },
+    {
+      "eng": "marine",
+      "kk": "/məˈriːn/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "海洋的",
+          "海事的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自拉丁語 marinus，由 mare（大海）衍生而來。經法語進入英語，專門用來修飾與海洋生態、航運及海軍相關的事物。",
+      "definition": "1. Found in or produced by the sea; relating to the sea or shipping.",
+      "example": [
+        {
+          "eng": "Oil spills pose a severe threat to marine life.",
+          "ch": "漏油事件對海洋生物構成嚴重的威脅。"
+        }
+      ]
+    },
+    {
+      "eng": "masculine",
+      "kk": "/ˈmæskjəlɪn/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "男性的",
+          "有男子氣概的"
+        ],
+        [
+          "陽性的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自拉丁語 masculinus，由 masculus（男子、雄性）衍生而來。本義指屬於男性的或具備傳統男剛之氣的，在語言學中亦用於指文法上的「陽性」。",
+      "definition": "1. Having qualities traditionally attributed to men; male.; 2. Belonging to the grammatical gender that in many languages is used for words referring to males.",
+      "example": [
+        {
+          "eng": "He projected a strong and confident masculine image.",
+          "ch": "他展現出強悍且自信的男性形象。"
+        },
+        {
+          "eng": "In French, the noun \"livre\" is masculine.",
+          "ch": "在法語中，名詞 \"livre\" 是陽性的。"
+        }
+      ]
+    },
+    {
+      "eng": "massage",
+      "kk": "/məˈsɑːʒ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "按摩",
+          "推拿"
+        ]
+      ],
+      "analysis": "此字為名詞，源自法語 massage，可能源自阿拉伯語 massa（觸摸、揉捏）或希臘語 massein（揉）。指用手對身體肌肉與組織進行揉捏摩擦以放鬆身心的理療手法。",
+      "definition": "1. The rubbing and kneading of body tissues with the hands to relieve tension.",
+      "example": [
+        {
+          "eng": "A professional massage helped relieve his back pain.",
+          "ch": "專業的按摩幫助緩解了他的背痛。"
+        }
+      ]
+    },
+    {
+      "eng": "massive",
+      "kk": "/ˈmæsɪv/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "巨大的",
+          "大量的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自法語 massif，由拉丁語 massa（塊狀物）衍生而來。用來形容體積、規模或數量極其龐大厚重。",
+      "definition": "1. Large and heavy or solid; exceptionally large in scale or degree.",
+      "example": [
+        {
+          "eng": "The earthquake caused massive damage to infrastructure.",
+          "ch": "這場地震對基礎設施造成了巨大的破壞。"
+        }
+      ]
+    },
+    {
+      "eng": "masterpiece",
+      "kk": "/ˈmæstərˌpiːs/",
+      "tense": "n.",
+      "ch": [
+        [
+          "傑作",
+          "名著"
+        ]
+      ],
+      "analysis": "此字為名詞，由 master（大師、師傅）與 piece（作品、物件）複合而成。原意是中世紀工匠為了取得最高級工匠（大師）資格而必須提交的最高水準代表作品，現泛指藝術、文學或音樂上的巔峰之作。",
+      "definition": "1. A work of outstanding artistry, skill, or workmanship.",
+      "example": [
+        {
+          "eng": "Leonardo da Vinci's Mona Lisa is widely considered a masterpiece.",
+          "ch": "李奧納多·達文西的《蒙娜麗莎》被廣泛認為是一件傑作。"
+        }
+      ]
+    },
+    {
+      "eng": "mattress",
+      "kk": "/ˈmætrəs/",
+      "tense": "n.",
+      "ch": [
+        [
+          "床墊"
+        ]
+      ],
+      "analysis": "此字為名詞，經由古法語 matras 借自中世紀拉丁語 matracio，最終源自阿拉伯語 maṭraḥ（墊子、坐墊，本義為「扔東西的地方」）。指鋪在床上供人躺臥的厚墊子。",
+      "definition": "1. A large pad for supporting a lying body, used as or part of a bed.",
+      "example": [
+        {
+          "eng": "They bought a firm memory foam mattress for better sleep.",
+          "ch": "為了睡得更好，他們買了一個硬挺的記憶棉床墊。"
+        }
+      ]
+    },
+    {
+      "eng": "meantime",
+      "kk": "/ˈmiːnˌtaɪm/",
+      "tense": "n.",
+      "ch": [
+        [
+          "其間",
+          "同時"
+        ]
+      ],
+      "analysis": "此字為名詞，由 meantime 的短語化結構而來，由 mean（中間的、同時的）與 time（時間）複合而成。通常置於副詞片語 in the meantime 中，指兩件事件之間的空檔或同一時刻。",
+      "definition": "1. The intervening period of time.",
+      "example": [
+        {
+          "eng": "Dinner will be ready soon; in the meantime, let's set the table.",
+          "ch": "晚餐很快就好了；在此期間，我們先擺好餐具吧。"
+        }
+      ]
+    },
+    {
+      "eng": "mechanism",
+      "kk": "/ˈmekəˌnɪzəm/",
+      "tense": "n.",
+      "ch": [
+        [
+          "機械裝置",
+          "機構"
+        ],
+        [
+          "機制",
+          "運作方式"
+        ]
+      ],
+      "analysis": "此字為名詞，源自希臘語 mēkhanē（機器、工具）加上名詞字尾 -ism。原指機器或鐘錶內部的零件組合與運作原理，後抽象引申為生物、社會或經濟系統中發揮作用的運作機制。",
+      "definition": "1. A system of parts working together in a machine.; 2. A natural or established process by which something takes place or is brought about.",
+      "example": [
+        {
+          "eng": "The clock's intricate mechanism requires expert repair.",
+          "ch": "這個時鐘複雜的機械裝置需要專家來修理。"
+        },
+        {
+          "eng": "Scientists are studying the coping mechanism of brain cells under stress.",
+          "ch": "科學家正在研究腦細胞在壓力下的應對機制。"
+        }
+      ]
+    },
+    {
+      "eng": "medication",
+      "kk": "/ˌmedɪˈkeɪʃn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "藥物",
+          "藥劑"
+        ]
+      ],
+      "analysis": "此字為名詞，由拉丁語 medicari（醫治、治療）衍生出的動詞 medicate 加上名詞字尾 -ation 構成。指用於治療疾病的藥物或用藥治療的過程。",
+      "definition": "1. A substance used for medical treatment, especially a medicine or drug.",
+      "example": [
+        {
+          "eng": "She takes her medication twice a day with meals.",
+          "ch": "她一天隨餐服用兩次藥物。"
+        }
+      ]
+    },
+    {
+      "eng": "mentor",
+      "kk": "/ˈmentɔːr/",
+      "tense": "n.",
+      "ch": [
+        [
+          "導師",
+          "指導者"
+        ]
+      ],
+      "analysis": "此字為名詞，源自希臘神話中奧德修斯（Odysseus）忠實的朋友 Mentor 的名字。雅典娜曾化身為 Mentor 輔導奧德修斯的兒子忒勒馬科斯，因此後世用此字專指對年輕或資淺者給予指導與經驗傳承的導師。",
+      "definition": "1. An experienced and trusted adviser.",
+      "example": [
+        {
+          "eng": "She acted as a mentor to young female scientists in the lab.",
+          "ch": "她在實驗室裡擔任年輕女科學家的導師。"
+        }
+      ]
+    },
+    {
+      "eng": "merge",
+      "kk": "/mɜːrdʒ/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "融合",
+          "漸變"
+        ],
+        [
+          "匯合"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，源自拉丁語 mergere（浸入、沒入、淹沒）。語義從本義「浸入水中而消失或混同」演變為抽象的「兩者逐漸融合為一體」或道路、河流的「匯合」。",
+      "definition": "1. To combine or blend gradually to form a single entity.; 2. To join or flow together into one.",
+      "example": [
+        {
+          "eng": "The two small companies agreed to merge next year.",
+          "ch": "這兩家小公司同意在明年合併。"
+        },
+        {
+          "eng": "The small lane merges into a busy highway.",
+          "ch": "這條小巷匯入了一條繁忙的高速公路。"
+        }
+      ]
+    },
+    {
+      "eng": "metaphor",
+      "kk": "/ˈmetəfɔːr/",
+      "tense": "n.",
+      "ch": [
+        [
+          "隱喻",
+          "比喻"
+        ]
+      ],
+      "analysis": "此字為名詞，源自希臘語 metaphora，由 meta-（跨越、轉變）與 pherein（攜帶、帶領）複合而成。指將某個詞彙或概念轉移到另一個不相干的事物上，藉此構成隱喻式的修辭。",
+      "definition": "1. A figure of speech in which a word or phrase is applied to an object or action to which it is not literally applicable.",
+      "example": [
+        {
+          "eng": "Calling the classroom a jungle is a common metaphor.",
+          "ch": "把教室稱為叢林是一個常見的隱喻。"
+        }
+      ]
+    },
+    {
+      "eng": "metropolitan",
+      "kk": "/ˌmetrəˈpɑːlɪtən/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "大都市的",
+          "大城市的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自希臘語 mētropolis（母城、首府），由 mātēr（母親）與 polis（城市）複合而成。指屬於大都市或大都會區特有的繁華與體制。",
+      "definition": "1. Relating to or characteristic of a major city.",
+      "example": [
+        {
+          "eng": "The metropolitan police force handles security for the entire city.",
+          "ch": "大都會警察局負責整個城市的維安工作。"
+        }
+      ]
+    },
+    {
+      "eng": "midst",
+      "kk": "/mɪdst/",
+      "tense": "n.",
+      "ch": [
+        [
+          "中間",
+          "當中"
+        ]
+      ],
+      "analysis": "此字為名詞，由古英語 midd（中間的）加上副詞及最高級成分演變而來。常搭配介詞片語 in the midst of 使用，表示身處某個事件、動亂或環境的正中央。",
+      "definition": "1. The middle part or point; the center.",
+      "example": [
+        {
+          "eng": "We found ourselves in the midst of a heated argument.",
+          "ch": "我們發現自己正身處一場激烈的爭論之中。"
+        }
+      ]
+    },
+    {
+      "eng": "migration",
+      "kk": "/maɪˈɡreɪʃn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "遷移",
+          "遷徙"
+        ],
+        [
+          "移居"
+        ]
+      ],
+      "analysis": "此字為名詞，由拉丁語 migrare（遷移、搬遷）衍生出的動詞 migrate 加上名詞字尾 -ation 構成。指鳥類、動物的季節性遷徙，或人類群體從一地大規模移居到另一地。",
+      "definition": "1. Seasonal movement of animals from one region to another.; 2. Movement by people from one place to another, often with the intention of settling.",
+      "example": [
+        {
+          "eng": "Scientists track the annual migration of monarch butterflies.",
+          "ch": "科學家追蹤黑脈金斑蝶的年度遷徙。"
+        },
+        {
+          "eng": "Economic migration has changed the demographics of the region.",
+          "ch": "經濟性人口移居改變了該地區的人口結構。"
+        }
+      ]
+    },
+    {
+      "eng": "milestone",
+      "kk": "/ˈmaɪlˌstoʊn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "里程碑",
+          "重大事件"
+        ]
+      ],
+      "analysis": "此字為名詞，由 mile（英里）與 stone（石頭）複合而成。原指古代道路旁每隔一英里立的石碑，用以標示距離；後引申為人生或計畫發展中的重大歷史轉折點或成就。",
+      "definition": "1. An stone marker set up on a road to show the distance in miles to a place.; 2. An important stage or event in the development of something.",
+      "example": [
+        {
+          "eng": "Graduating from college is a major milestone in life.",
+          "ch": "大學畢業是人生中的一個重大里程碑。"
+        }
+      ]
+    },
+    {
+      "eng": "miniature",
+      "kk": "/ˈmɪniətʃər/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "微型的",
+          "小型的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自義大利語 miniatura（用紅鉛粉繪製的初期手抄本插畫），由拉丁語 minium（紅鉛礦）衍生而來。因早期微型畫作體積皆十分嬌小，後世遂將此詞泛指所有縮小版的微型事物。",
+      "definition": "1. Much smaller than normal size; represented on a small scale.",
+      "example": [
+        {
+          "eng": "He built a miniature model of the historic castle.",
+          "ch": "他建造了一座歷史城堡的微型模型。"
+        }
+      ]
+    },
+    {
+      "eng": "minimal",
+      "kk": "/ˈmɪnɪml/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "最小的",
+          "極少的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自拉丁語 minimus（極小的、最低的）加上形容詞字尾 -al 構成。用來形容數量、程度或規模達到最低或極少的地步。",
+      "definition": "1. Of a minimum amount, quantity, or degree; as small as possible.",
+      "example": [
+        {
+          "eng": "The damage to the building was minimal.",
+          "ch": "建築物受到的損壞微乎其微。"
+        }
+      ]
+    },
+    {
+      "eng": "minimize",
+      "kk": "/ˈmɪnɪˌmaɪz/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使減到最低",
+          "把…減到最少"
+        ],
+        [
+          "輕視",
+          "貶低"
+        ]
+      ],
+      "analysis": "此字為及物動詞，由形容詞 minimal（最小的）加上動詞字尾 -ize（使成為）構成。本義為「使某事物降到最低限度」，亦可引申為「刻意低估或輕視某事的嚴重性」。",
+      "definition": "1. To reduce something, especially something undesirable, to the smallest possible amount or degree.; 2. To represent something as being smaller or less important than it really is.",
+      "example": [
+        {
+          "eng": "Good safety procedures minimize the risk of accidents.",
+          "ch": "良好的安全程序可以將發生意外的風險降到最低。"
+        },
+        {
+          "eng": "He tried to minimize his mistakes during the presentation.",
+          "ch": "他試圖在簡報過程中輕描淡寫、掩飾自己的錯誤。"
+        }
+      ]
+    },
+    {
+      "eng": "mint",
+      "kk": "/mɪnt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "薄荷"
+        ],
+        [
+          "鑄幣廠"
+        ],
+        [
+          "巨額"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古英語 minte（薄荷，源自拉丁語 mentha）；而「鑄幣廠」之義則源自拉丁語 moneta（錢幣，因古羅馬鑄幣廠設在朱諾·莫內塔神廟附近）。兩者為同形異源詞，在現代英語中作為不同義項共存。",
+      "definition": "1. An aromatic plant whose leaves are used for flavoring.; 2. A place where money is coined by authority of the government.; 3. A vast sum of money.",
+      "example": [
+        {
+          "eng": "She garnished the dessert with a sprig of fresh mint.",
+          "ch": "她用一小枝新鮮薄荷裝飾甜點。"
+        },
+        {
+          "eng": "The new coins were minted at the national mint.",
+          "ch": "新硬幣是在國家鑄幣廠鑄造的。"
+        },
+        {
+          "eng": "That vintage sports car must have cost a mint.",
+          "ch": "那輛古董跑車肯定花了一大筆巨款。"
+        }
+      ]
+    },
+    {
+      "eng": "missionary",
+      "kk": "/ˈmɪʃəneri/",
+      "tense": "n.",
+      "ch": [
+        [
+          "傳教士"
+        ]
+      ],
+      "analysis": "此字為名詞，由拉丁語 mittere（派遣、送出）衍生出的 missio（使命、派遣）加上形容詞與名詞字尾 -ary 構成。原意為「受派遣出去傳教的人員」，現專指赴各地傳播宗教信仰與從事慈善服務的傳教士。",
+      "definition": "1. A person sent on a religious mission, especially one sent to promote Christianity in a foreign country.",
+      "example": [
+        {
+          "eng": "The missionary spent decades building schools in remote villages.",
+          "ch": "這位傳教士花費了數十年在偏遠村莊建立學校。"
+        }
+      ]
+    },
+    {
+      "eng": "moan",
+      "kk": "/moʊn/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "呻吟",
+          "哀號"
+        ],
+        [
+          "抱怨",
+          "發牢騷"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，源自古英語 mānian（抱怨、哀悼），具擬聲色彩。本義指因痛苦或悲傷而發出低沉的呻吟聲，口語中也用來指持續不斷的抱怨與發牢騷。",
+      "definition": "1. To make a long, low sound expressing physical or mental pain or suffering.; 2. To complain or grumble about something in an annoying way.",
+      "example": [
+        {
+          "eng": "The injured player lay on the grass, moaning in pain.",
+          "ch": "受傷的球員躺在草地上，痛苦地呻吟著。"
+        },
+        {
+          "eng": "Stop moaning about the weather and let's get to work.",
+          "ch": "別再抱怨天氣了，我們開始工作吧。"
+        }
+      ]
+    }
+  ]
+}

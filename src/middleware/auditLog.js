@@ -38,7 +38,7 @@ function createAuditLogMiddleware() {
     const startedAt = Date.now();
 
     res.on("finish", () => {
-      if (req.__skipAuditLog) {
+      if (req.__skipAuditLog || req.user?.isGuest) {
         return;
       }
 

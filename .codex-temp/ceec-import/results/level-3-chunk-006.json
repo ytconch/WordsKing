@@ -1,0 +1,1214 @@
+{
+  "level": 3,
+  "chunkIndex": 6,
+  "inputs": [
+    "dirt",
+    "discount",
+    "dishonest",
+    "disk",
+    "disc",
+    "dislike",
+    "ditch",
+    "dive",
+    "dizzy",
+    "dock",
+    "dolphin",
+    "donkey",
+    "dose",
+    "doubtful",
+    "doughnut",
+    "downtown",
+    "drag",
+    "dragonfly",
+    "drain",
+    "dramatic",
+    "drip",
+    "drown",
+    "drugstore",
+    "drunk",
+    "dumb",
+    "dump",
+    "dumpling",
+    "dust",
+    "eager",
+    "echo",
+    "edit",
+    "editor",
+    "educate",
+    "educational",
+    "efficient",
+    "elbow",
+    "elderly",
+    "elect",
+    "election",
+    "electricity",
+    "electronic",
+    "element",
+    "elevator",
+    "emergency",
+    "emotional",
+    "emperor",
+    "enable",
+    "energetic",
+    "engage",
+    "engagement"
+  ],
+  "rows": [
+    {
+      "eng": "dirt",
+      "kk": "dɝt",
+      "tense": "n.",
+      "ch": [
+        [
+          "泥土",
+          "土壤"
+        ],
+        [
+          "灰塵",
+          "污垢"
+        ],
+        [
+          "醜聞",
+          "八卦"
+        ]
+      ],
+      "analysis": "此字為中古英語 drit（源自古諾斯語 drīt-，意指排泄物、污物），後來語義轉移並與日耳曼語源相關聯，演變為指泥土與灰塵，現代英語中也引申指關於他人的負面私密消息或醜聞。此字為不可數名詞。其構詞為單一歷史詞源，無現代複雜派生構詞。",
+      "definition": "1. A mixture of soil, sand, and mud; 2. Dust, dirt, or other unclean matter on a surface; 3. Scandalous or damaging information about someone.",
+      "example": [
+        {
+          "eng": "The children got their clothes covered in dirt while playing outside.",
+          "ch": "孩子們在外面玩耍時，衣服沾滿了泥土。"
+        },
+        {
+          "eng": "Wipe the dirt off your shoes before entering the house.",
+          "ch": "進屋前把鞋子上的灰塵擦掉。"
+        },
+        {
+          "eng": "The tabloid magazine is famous for digging up celebrity dirt.",
+          "ch": "這家小報雜誌以挖掘名人醜聞而聞名。"
+        }
+      ]
+    },
+    {
+      "eng": "discount",
+      "kk": "ˈdɪsˌkaʊnt",
+      "tense": "n.",
+      "ch": [
+        [
+          "折扣",
+          "打折"
+        ]
+      ],
+      "analysis": "此字為名詞用法，由動詞 discount 轉品而來，其歷史源自中法語 descompter（由 des- 表示「相反、向下」與 compter「計算」組成，源自拉丁語 computāre）。現代英語中維持重音在第一音節的規則，指價格上的減價或折扣。為可數名詞。",
+      "definition": "1. A deduction from the usual cost of something.",
+      "example": [
+        {
+          "eng": "Students can get a ten percent discount with a valid ID.",
+          "ch": "學生憑有效證件可以享有百分之十的折扣。"
+        }
+      ]
+    },
+    {
+      "eng": "discount",
+      "kk": "dɪsˈkaʊnt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "打折",
+          "降價銷售"
+        ],
+        [
+          "不予考慮",
+          "忽略",
+          "輕視"
+        ]
+      ],
+      "analysis": "此動詞由前綴 dis-（表示分離、向下）與 count（計算）結合，經中法語 descompter 借入英語。字面義為「向下計算」或「扣除計算」。在語意上分化為商業上的「打折」以及引申的「不把某事當真、不予考慮」。為及物動詞，需接受詞。",
+      "definition": "1. To sell something at a reduced price; 2. To dismiss something as unimportant, unreliable, or untrue.",
+      "example": [
+        {
+          "eng": "The store will discount all winter coats starting this weekend.",
+          "ch": "這家店從這週末開始將所有冬季大衣打折銷售。"
+        },
+        {
+          "eng": "We should not discount the possibility of rain tomorrow.",
+          "ch": "我們不應排除明天會下雨的可能性。"
+        }
+      ]
+    },
+    {
+      "eng": "dishonest",
+      "kk": "dɪsˈɑnɪst",
+      "tense": "adj.",
+      "ch": [
+        [
+          "不誠實的",
+          "欺騙的"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由否定前綴 dis-（表示「不、相反」）加上形容詞 honest（誠實的）組合而成，源自古法語 honeste 與拉丁語 honestus。形容詞詞性，用以修飾人或行為不誠實。",
+      "definition": "1. Behaving, or tending to behave, in an untrustworthy or fraudulent way.",
+      "example": [
+        {
+          "eng": "It was dishonest of him to take credit for her work.",
+          "ch": "他把她的成果據為己有，這是不誠實的行為。"
+        }
+      ]
+    },
+    {
+      "eng": "disk",
+      "kk": "dɪsk",
+      "tense": "n.",
+      "ch": [
+        [
+          "圓盤狀物",
+          "磁碟"
+        ]
+      ],
+      "analysis": "此字源自希臘語 diskos（意指圓盤、鐵餅），透過拉丁語 discus 進入英語。在現代科技發展中，美式英語中常將磁碟（floppy disk、hard disk）標準拼寫為 disk。為可數名詞。",
+      "definition": "1. A thin, flat, circular object or medium for storing electronic data.",
+      "example": [
+        {
+          "eng": "Please save your presentation file to the backup disk.",
+          "ch": "請將你的簡報檔案存到備份磁碟中。"
+        }
+      ]
+    },
+    {
+      "eng": "disc",
+      "kk": "dɪsk",
+      "tense": "n.",
+      "ch": [
+        [
+          "圓盤",
+          "光碟"
+        ],
+        [
+          "椎間盤"
+        ]
+      ],
+      "analysis": "此字與 disk 同源，源自拉丁語 discus（希臘語 diskos）。在英式英語及特定專有名詞（如 compact disc、椎間盤 intervertebral disc）中較常保留 disc 的拼法。為可數名詞。",
+      "definition": "1. A flat, circular plate or optical data storage medium; 2. A plate-like structure in anatomy, such as in the spine.",
+      "example": [
+        {
+          "eng": "You can listen to your favorite music on this compact disc.",
+          "ch": "你可以在這張光碟上聽你最喜歡的音樂。"
+        },
+        {
+          "eng": "He suffers from a slipped disc in his lower back.",
+          "ch": "他的下背部有椎間盤突出的問題。"
+        }
+      ]
+    },
+    {
+      "eng": "dislike",
+      "kk": "dɪsˈlaɪk",
+      "tense": "n.",
+      "ch": [
+        [
+          "厭惡",
+          "不喜歡"
+        ]
+      ],
+      "analysis": "此名詞由動詞 dislike 轉品而來。為可數或不可數名詞，表示對某人或某事物的反感或厭惡。",
+      "definition": "1. A feeling of distaste or hostility toward someone or something.",
+      "example": [
+        {
+          "eng": "She made no secret of her dislike for cold weather.",
+          "ch": "她毫不掩飾自己對寒冷天氣的厭惡。"
+        }
+      ]
+    },
+    {
+      "eng": "dislike",
+      "kk": "dɪsˈlaɪk",
+      "tense": "vt.",
+      "ch": [
+        [
+          "討厭",
+          "不喜歡"
+        ]
+      ],
+      "analysis": "此動詞由否定前綴 dis-（表示相反）與動詞 like（喜歡，源自古英語 līcian）組合而成。為及物動詞，直接接接受詞（名詞或動名詞），表示心裡排斥或不喜愛。",
+      "definition": "1. To feel a dislike or aversion for.",
+      "example": [
+        {
+          "eng": "I really dislike waking up early on freezing winter mornings.",
+          "ch": "我真的很討厭在寒冷的冬日早晨早起。"
+        }
+      ]
+    },
+    {
+      "eng": "ditch",
+      "kk": "dɪtʃ",
+      "tense": "n.",
+      "ch": [
+        [
+          "水溝",
+          "壕溝"
+        ]
+      ],
+      "analysis": "此字源自古英語 dīc（溝渠、堤防），與 dike 同源。現代英語中主要指路邊或田地旁用以排水的狹長溝渠。為可數名詞。",
+      "definition": "1. A narrow channel dug in the ground, typically used for drainage.",
+      "example": [
+        {
+          "eng": "The car skidded off the icy road and ended up in a ditch.",
+          "ch": "汽車從結冰的路上打滑，最後衝進了水溝裡。"
+        }
+      ]
+    },
+    {
+      "eng": "ditch",
+      "kk": "dɪtʃ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "拋棄",
+          "甩掉",
+          "逃學"
+        ]
+      ],
+      "analysis": "此動詞由名詞 ditch 轉品而來，現代口語中引申為「甩掉某人」、「丟棄無用之物」或／及「逃學／翹課（ditch class）」。為及物動詞。",
+      "definition": "1. To get rid of something unwanted; 2. To abandon someone or skip an obligation such as school.",
+      "example": [
+        {
+          "eng": "He decided to ditch his old jacket and buy a new one.",
+          "ch": "他決定丟掉舊夾克，買一件新的。"
+        },
+        {
+          "eng": "Some students plan to ditch class this afternoon to go to the movies.",
+          "ch": "有些學生打算今天下午翹課去看電影。"
+        }
+      ]
+    },
+    {
+      "eng": "dive",
+      "kk": "daɪv",
+      "tense": "vi.",
+      "ch": [
+        [
+          "潛水",
+          "跳水",
+          "俯衝"
+        ]
+      ],
+      "analysis": "此動詞源自古英語 dyfan（使沉沒、潛入），屬於日耳曼語源。現代英語中主要作不及物動詞，指人跳入水中、潛水探索，或指飛機、鳥類等向下俯衝。",
+      "definition": "1. To plunge head-first into water; 2. To submerge oneself underwater using scuba gear; 3. To swoop or plunge downward rapidly.",
+      "example": [
+        {
+          "eng": "The professional swimmer took a deep breath and decided to dive off the board.",
+          "ch": "這位專業游泳選手深吸了一口氣，決定從跳板上跳水。"
+        },
+        {
+          "eng": "We love to dive in the coral reefs of the tropical island.",
+          "ch": "我們喜歡在這座熱帶島嶼的珊瑚礁中潛水。"
+        },
+        {
+          "eng": "The hawk began to dive toward its prey in the grass.",
+          "ch": "老鷹開始朝草地裡的獵物俯衝過去。"
+        }
+      ]
+    },
+    {
+      "eng": "dizzy",
+      "kk": "ˈdɪzi",
+      "tense": "adj.",
+      "ch": [
+        [
+          "頭暈目眩的",
+          "昏眩的"
+        ]
+      ],
+      "analysis": "此字源自古英語 dysig（意指愚蠢的、糊塗的），其語義經中古英語演變，由「心智糊塗」轉為現代英語中因身體不適或旋轉而產生的「頭暈目眩」。為形容詞。",
+      "definition": "1. Having a spinning sensation and a loss of balance; unsteady.",
+      "example": [
+        {
+          "eng": "The hot weather and lack of water made her feel dizzy.",
+          "ch": "炎熱的天氣和缺水使她感到頭暈目眩。"
+        }
+      ]
+    },
+    {
+      "eng": "dock",
+      "kk": "dɑk",
+      "tense": "n.",
+      "ch": [
+        [
+          "碼頭",
+          "船塢"
+        ]
+      ],
+      "analysis": "此名詞源自中古荷蘭語 docke 或日耳曼語族，指人工建造的船隻停泊處。為可數名詞。",
+      "definition": "1. A structure extending alongshore or out into the water, where ships may dock for loading and unloading.",
+      "example": [
+        {
+          "eng": "The fishing boats returned to the dock just as the sun was setting.",
+          "ch": "就在太陽下山時，漁船回到了碼頭。"
+        }
+      ]
+    },
+    {
+      "eng": "dock",
+      "kk": "dɑk",
+      "tense": "vt.",
+      "ch": [
+        [
+          "扣除（薪資等）",
+          "使（船隻）入港停泊"
+        ]
+      ],
+      "analysis": "此動詞由名詞 dock 衍生而來，或指將船隻停入船塢，另一常用義（源自美式勞動脈絡）指扣減工資。為及物動詞。",
+      "definition": "1. To deduct an amount from someone's wages as a penalty; 2. To bring a ship into a dock.",
+      "example": [
+        {
+          "eng": "The manager threatened to dock his pay if he arrives late again.",
+          "ch": "經理威脅說，如果他再遲到就要扣他的薪水。"
+        }
+      ]
+    },
+    {
+      "eng": "dolphin",
+      "kk": "ˈdɑlfɪn",
+      "tense": "n.",
+      "ch": [
+        [
+          "海豚"
+        ]
+      ],
+      "analysis": "此字透過古法語 dolphin，源自拉丁語 delphinus，最終追溯至希臘語 delphīs（海豚）。為可數名詞，指海洋中的哺乳動物海豚。",
+      "definition": "1. A marine mammal of the whale family, known for its intelligence and playful behavior.",
+      "example": [
+        {
+          "eng": "We saw a pod of dolphins jumping gracefully beside our boat.",
+          "ch": "我們看到一群海豚在我們的船旁優雅地跳躍。"
+        }
+      ]
+    },
+    {
+      "eng": "donkey",
+      "kk": "ˈdɑŋki",
+      "tense": "n.",
+      "ch": [
+        [
+          "驢子"
+        ]
+      ],
+      "analysis": "此字為歷史詞源相對較晚的英格蘭方言詞，可能源自人名 Duncan 的愛稱或與 dun（暗灰色）有關的字尾變化。為可數名詞，指馬科動物驢子。",
+      "definition": "1. A domesticated mammal of the horse family with long ears, used as a beast of burden.",
+      "example": [
+        {
+          "eng": "The farmer used a donkey to carry heavy loads up the steep hill.",
+          "ch": "農夫用驢子把沉重的貨物背上陡峭的山丘。"
+        }
+      ]
+    },
+    {
+      "eng": "dose",
+      "kk": "dos",
+      "tense": "n.",
+      "ch": [
+        [
+          "劑量",
+          "一劑（藥物）"
+        ]
+      ],
+      "analysis": "此字源自希臘語 dosis（給予、一劑），經由中世紀拉丁語進入英語。為可數名詞，指藥物或放射線等的一次服用量，也可用於比喻「一次獲得的經驗」。",
+      "definition": "1. A quantity of a medicine or drug taken or recommended to be taken at a particular time.",
+      "example": [
+        {
+          "eng": "Take the recommended dose of this cough syrup every six hours.",
+          "ch": "每六小時服用一次建議劑量的咳嗽糖漿。"
+        }
+      ]
+    },
+    {
+      "eng": "doubtful",
+      "kk": "ˈdaʊtfəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "懷疑的",
+          "存疑的"
+        ],
+        [
+          "不確定的",
+          "未定的"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由名詞 doubt（懷疑，源自拉丁語 dubitāre）加上形容詞字尾 -ful（充滿…的）組成。形容詞詞性，用以描述人心中存疑或某事發生的可能性很低。",
+      "definition": "1. Feeling uncertain or skeptical about something; 2. Improbable or unlikely to happen.",
+      "example": [
+        {
+          "eng": "She was doubtful about whether the plan would succeed.",
+          "ch": "她對這個計劃是否會成功感到懷疑。"
+        },
+        {
+          "eng": "It is doubtful whether we will finish the project before the deadline.",
+          "ch": "我們是否能在截止日期前完成這個項目是很不確定的。"
+        }
+      ]
+    },
+    {
+      "eng": "doughnut",
+      "kk": "ˈdoʊnət",
+      "tense": "n.",
+      "ch": [
+        [
+          "甜甜圈"
+        ]
+      ],
+      "analysis": "此字為複合詞，由 dough（麵團）與 nut（堅果，早期因油炸小麵團形似堅果而得名）組合而成。為可數名詞，指常見的圓環形油炸甜點。",
+      "definition": "1. A small fried cake of sweetened dough, typically shaped like a ring or ball.",
+      "example": [
+        {
+          "eng": "He bought a box of glazed doughnuts for the office staff.",
+          "ch": "他為辦公室同仁買了一盒糖霜甜甜圈。"
+        }
+      ]
+    },
+    {
+      "eng": "downtown",
+      "kk": "ˈdaʊnˈtaʊn",
+      "tense": "adv.",
+      "ch": [
+        [
+          "往市中心",
+          "在市中心地帶"
+        ]
+      ],
+      "analysis": "此字由副詞性成分 down（向下）與 town（城鎮）組合成的複合副詞。指朝向或位於城市的商業中心或鬧區。",
+      "definition": "1. To or in the main commercial center or business district of a town or city.",
+      "example": [
+        {
+          "eng": "Let's take the subway downtown to find a good restaurant for dinner.",
+          "ch": "我們搭地鐵去市中心找家好餐廳吃晚餐吧。"
+        }
+      ]
+    },
+    {
+      "eng": "drag",
+      "kk": "dræg",
+      "tense": "vt.",
+      "ch": [
+        [
+          "拖",
+          "拉",
+          "拖曳"
+        ]
+      ],
+      "analysis": "此動詞源自古諾斯語 draga（拉、拖），與古英語 dragan 同源。為及物動詞，三態變化為 drag, dragged, dragged。指費力地將重物在地上拖行。",
+      "definition": "1. To pull someone or something along the ground roughly or with difficulty.",
+      "example": [
+        {
+          "eng": "He had to drag his heavy suitcase all the way to the train station.",
+          "ch": "他不得不一路把沉重的行李箱拖到火車站。"
+        }
+      ]
+    },
+    {
+      "eng": "dragonfly",
+      "kk": "ˈdrægənˌflaɪ",
+      "tense": "n.",
+      "ch": [
+        [
+          "蜻蜓"
+        ]
+      ],
+      "analysis": "此字為複合名詞，由 dragon（龍）與 fly（蒼蠅／飛蟲）結合而成。因其體型較大且飛行姿態強健而得名。為可數名詞。",
+      "definition": "1. An insect with a long, slender body and four transparent wings that are spread out horizontally at rest.",
+      "example": [
+        {
+          "eng": "A colorful dragonfly hovered briefly above the surface of the pond.",
+          "ch": "一隻色彩斑斕的蜻蜓在池塘水面上短暫盤旋。"
+        }
+      ]
+    },
+    {
+      "eng": "drain",
+      "kk": "dren",
+      "tense": "vt.",
+      "ch": [
+        [
+          "排出（液體）",
+          "使流乾"
+        ],
+        [
+          "耗盡"
+        ]
+      ],
+      "analysis": "此動詞源自古英語 drēahnian（濾乾、流乾），屬於日耳曼語源。為及物動詞，指將液體排空，或引申為耗盡精力、金錢等資源。",
+      "definition": "1. To cause the liquid in something to leak out, empty, or flow away; 2. To exhaust someone's energy or resources completely.",
+      "example": [
+        {
+          "eng": "Remember to drain the pasta before mixing it with the sauce.",
+          "ch": "把義大利麵與醬汁混合前，記得先把水濾乾。"
+        },
+        {
+          "eng": "Working long shifts every day can quickly drain your energy.",
+          "ch": "每天長時間輪班會迅速耗盡你的精力。"
+        }
+      ]
+    },
+    {
+      "eng": "dramatic",
+      "kk": "drəˈmætɪk",
+      "tense": "adj.",
+      "ch": [
+        [
+          "戲劇性的",
+          "急劇的",
+          "震撼的"
+        ]
+      ],
+      "analysis": "此字源自希臘語 dramatikos（與戲劇 drama 相關），經新拉丁語進入英語。形容詞詞性，用以形容事件、變化非常突然且強烈，或與戲劇藝術有關。",
+      "definition": "1. Relating to drama or the theater; 2. Sudden, striking, and impactful in nature.",
+      "example": [
+        {
+          "eng": "There has been a dramatic increase in online shopping over the past year.",
+          "ch": "過去一年來，網路購物出現了急劇的增長。"
+        }
+      ]
+    },
+    {
+      "eng": "drip",
+      "kk": "drɪp",
+      "tense": "vi.",
+      "ch": [
+        [
+          "滴落",
+          "滲漏"
+        ]
+      ],
+      "analysis": "此動詞源自古英語 dryppan（使滴下），屬於日耳曼語源。為不及物動詞，三態為 drip, dripped, dripped。指液體一滴一滴地流下或漏水。",
+      "definition": "1. To fall or let fall in small drops of liquid.",
+      "example": [
+        {
+          "eng": "Water began to drip from the leaky ceiling during the storm.",
+          "ch": "暴風雨期間，水開始從漏水的天花板滴落。"
+        }
+      ]
+    },
+    {
+      "eng": "drown",
+      "kk": "draʊn",
+      "tense": "vi.",
+      "ch": [
+        [
+          "溺水",
+          "淹死"
+        ]
+      ],
+      "analysis": "此動詞源自中古英語 drounen，可能源自日耳曼語族，早期意指因浸水而死。為不及物動詞（亦可作及物動詞），指人或動物在水中窒息死亡。",
+      "definition": "1. To die by suffocation under water.",
+      "example": [
+        {
+          "eng": "The lifeguard quickly jumped into the pool to save the boy from drowning.",
+          "ch": "救生員迅速跳進泳池，救起險些溺水的男孩。"
+        }
+      ]
+    },
+    {
+      "eng": "drugstore",
+      "kk": "ˈdrʌgˌstɔr",
+      "tense": "n.",
+      "ch": [
+        [
+          "藥局",
+          "藥房"
+        ]
+      ],
+      "analysis": "此字為美式複合名詞，由 drug（藥物）與 store（商店）組合而成。主要指兼售藥品、化妝品與日常雜貨的零售店。為可數名詞。",
+      "definition": "1. A pharmacy that also sells toiletries, cosmetics, and miscellaneous goods.",
+      "example": [
+        {
+          "eng": "I need to stop by the drugstore to pick up my prescription medicine.",
+          "ch": "我需要順路去藥局拿我的處方藥。"
+        }
+      ]
+    },
+    {
+      "eng": "drunk",
+      "kk": "drʌŋk",
+      "tense": "adj.",
+      "ch": [
+        [
+          "喝醉的",
+          "醉酒的"
+        ]
+      ],
+      "analysis": "此字原本是古英語動詞 drincan（飲酒）的過去分詞 druncen，後來獨立成為形容詞，專門用來形容飲酒過量、神志不清的狀態。為形容詞。",
+      "definition": "1. Affected by alcohol to the extent of losing control of faculties or behavior.",
+      "example": [
+        {
+          "eng": "He was too drunk to drive home safely, so his friend called a taxi.",
+          "ch": "他喝得太醉，無法安全開車回家，於是他的朋友叫了一輛計程車。"
+        }
+      ]
+    },
+    {
+      "eng": "dumb",
+      "kk": "dʌm",
+      "tense": "adj.",
+      "ch": [
+        [
+          "啞的",
+          "說不出話的"
+        ],
+        [
+          "愚蠢的",
+          "笨的"
+        ]
+      ],
+      "analysis": "此字源自古英語 dumb（啞的、不能說話的），屬於日耳曼語源。歷史上指生理上無法發聲，現代英語中常用作口語上的「愚蠢的」（雖在形容殘障時具貶義，需小心使用）。為形容詞。",
+      "definition": "1. Temporarily or permanently unable to speak; 2. Stupid or foolish in informal contexts.",
+      "example": [
+        {
+          "eng": "She was struck dumb with astonishment when she heard the good news.",
+          "ch": "聽到這個好消息時，她驚訝得說不出話來。"
+        },
+        {
+          "eng": "It was a dumb mistake to leave the keys inside the locked car.",
+          "ch": "把鑰匙留在反鎖的車裡，這是一個愚蠢的錯誤。"
+        }
+      ]
+    },
+    {
+      "eng": "dump",
+      "kk": "dʌmp",
+      "tense": "vt.",
+      "ch": [
+        [
+          "傾倒",
+          "丟棄"
+        ],
+        [
+          "甩掉",
+          "拋棄（戀人）"
+        ]
+      ],
+      "analysis": "此動詞源自斯堪地那維亞語源（如冰島語 dumpa，意指重重落下）。為及物動詞，指隨意或大量傾倒垃圾，也常在口語中表示結束戀人關係或拋棄不需要的事物。",
+      "definition": "1. To deposit or dispose of garbage or unwanted materials carelessly; 2. To abruptly end a romantic relationship with someone.",
+      "example": [
+        {
+          "eng": "It is illegal to dump industrial waste into the local river.",
+          "ch": "把工業廢料傾倒到當地河流中是非法的。"
+        },
+        {
+          "eng": "She decided to dump her boyfriend after finding out he had lied to her.",
+          "ch": "她在發現男友對她說謊後，決定甩了他。"
+        }
+      ]
+    },
+    {
+      "eng": "dumpling",
+      "kk": "ˈdʌmplɪŋ",
+      "tense": "n.",
+      "ch": [
+        [
+          "餃子",
+          "包子",
+          "丸子"
+        ]
+      ],
+      "analysis": "此字由古英語或方言字根 dump（塊狀物）加上指小／親暱後綴 -ling 構成。原本指麵團包裹水果或肉類的點心，現代廣泛用來翻譯中式餃子、小籠包或西方類似的麵食點心。為可數名詞。",
+      "definition": "1. A small dish consisting of pieces of dough wrapped round a filling, typically of meat or vegetables.",
+      "example": [
+        {
+          "eng": "We ordered steamed pork dumplings and hot soup for lunch.",
+          "ch": "我們午餐點了蒸豬肉餃子和熱湯。"
+        }
+      ]
+    },
+    {
+      "eng": "dust",
+      "kk": "dʌst",
+      "tense": "n.",
+      "ch": [
+        [
+          "灰塵",
+          "塵土"
+        ]
+      ],
+      "analysis": "此名詞源自古英語 dūst，屬於日耳曼語源，指細小的乾土或微粒。為不可數名詞。",
+      "definition": "1. Fine, dry powder consisting of tiny particles of earth or waste matter on surfaces.",
+      "example": [
+        {
+          "eng": "The old books on the shelf were covered in a thick layer of dust.",
+          "ch": "架上的舊書覆蓋著厚厚的一層灰塵。"
+        }
+      ]
+    },
+    {
+      "eng": "eager",
+      "kk": "ˈiɡɚ",
+      "tense": "adj.",
+      "ch": [
+        [
+          "渴望的",
+          "熱切的"
+        ]
+      ],
+      "analysis": "此字透過古法語 egre、源自拉丁語 ācer（尖銳的、熱烈的）。形容詞詞性，用以表達強烈的渴望、熱情或期待（通常接 to do something）。",
+      "definition": "1. Strongly wanting to do or have something; enthusiastic and impatient.",
+      "example": [
+        {
+          "eng": "The students were eager to learn about the new science experiment.",
+          "ch": "學生們渴望了解這項新的科學實驗。"
+        }
+      ]
+    },
+    {
+      "eng": "echo",
+      "kk": "ˈɛkoʊ",
+      "tense": "n.",
+      "ch": [
+        [
+          "回音",
+          "共鳴"
+        ]
+      ],
+      "analysis": "此名詞源自希臘語 ēkhō（聲音、回音），經拉丁語進入英語。為可數名詞，指聲音反射產生的回音，或比喻意見的呼應與共鳴。",
+      "definition": "1. A sound or series of sounds caused by the reflection of sound waves from a surface.",
+      "example": [
+        {
+          "eng": "He shouted hello into the deep cave and heard a clear echo.",
+          "ch": "他對著深邃的洞穴大喊「喂」，並聽到清晰的回音。"
+        }
+      ]
+    },
+    {
+      "eng": "edit",
+      "kk": "ˈɛdɪt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "編輯",
+          "校訂",
+          "剪輯"
+        ]
+      ],
+      "analysis": "此動詞是 18 世紀由名詞 editor（由拉丁語 ēdit- 發行者、編輯者衍生）回溯構詞（back-formation）而成的動詞。為及物動詞，指對文字、出版物或影音檔案進行修改、潤飾與編排。",
+      "definition": "1. To prepare written material for publication by correcting, condensing, or modifying it; 2. To assemble and arrange film, video, or audio.",
+      "example": [
+        {
+          "eng": "The publisher hired a professional to edit the manuscript before printing.",
+          "ch": "出版商在印刷前聘請了一位專業人士來編輯這份手稿。"
+        }
+      ]
+    },
+    {
+      "eng": "editor",
+      "kk": "ˈɛdɪtɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "編輯",
+          "主編"
+        ]
+      ],
+      "analysis": "此名詞源自拉丁語 ēditor（意指出版者、發行者，由 ēdere「出版、展示」衍生）。在現代英語中指負責審閱、修改與主導文字或媒體出版的專業人員。為可數名詞。",
+      "definition": "1. A person who is in charge of and determines the final content of a newspaper, magazine, or book.",
+      "example": [
+        {
+          "eng": "She works as a senior editor for a well-known publishing company.",
+          "ch": "她在一家知名的出版公司擔任資深編輯。"
+        }
+      ]
+    },
+    {
+      "eng": "educate",
+      "kk": "ˈɛdʒəˌket",
+      "tense": "vt.",
+      "ch": [
+        [
+          "教育",
+          "培養",
+          "訓練"
+        ]
+      ],
+      "analysis": "此動詞源自拉丁語 ēducāt-（過去分詞詞幹，由 ēducere「引出、培育」，e-「出」+ dūcere「引導」組成）。為及物動詞，指提供學校教育、知識傳授或品格培養。",
+      "definition": "1. To give intellectual, moral, and social instruction to someone, typically in a school or university.",
+      "example": [
+        {
+          "eng": "Schools play a vital role in trying to educate the younger generation.",
+          "ch": "學校在努力教育年輕一代方面扮演著至關重要的角色。"
+        }
+      ]
+    },
+    {
+      "eng": "educational",
+      "kk": "ˌɛdʒəˈkeʃənəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "教育的",
+          "具有教育意義的"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由名詞 education（教育）加上形容詞字尾 -al 組合而成。形容詞詞性，用以修飾與教育制度相關的事物，或具有啟發、學習價值的內容。",
+      "definition": "1. Providing education or relating to the field of education.",
+      "example": [
+        {
+          "eng": "Visiting the science museum can be a highly educational experience for children.",
+          "ch": "參觀科學博物館對孩子們來說可以是一次極具教育意義的體驗。"
+        }
+      ]
+    },
+    {
+      "eng": "efficient",
+      "kk": "ɪˈfɪʃənt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "效率高的",
+          "高效的",
+          "有能力的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 efficient-（有效用的、幹練的，由 ex-「加強」+ facere「做」組成）。形容詞詞性，用以形容人、機器或方法能以最少資源發揮最大效能。",
+      "definition": "1. Achieving maximum productivity with minimum wasted effort or expense.",
+      "example": [
+        {
+          "eng": "Modern electric cars are far more efficient than older gasoline models.",
+          "ch": "現代電動車比舊款汽油車有效率得多。"
+        }
+      ]
+    },
+    {
+      "eng": "elbow",
+      "kk": "ˈɛlboʊ",
+      "tense": "n.",
+      "ch": [
+        [
+          "手肘",
+          "肘部"
+        ]
+      ],
+      "analysis": "此名詞源自古英語 elnboga（由 eln「手臂骨、腕肘長度單位」與 boga「彎曲」組合而成），屬於日耳曼語源。為可數名詞，指手臂的關節處。",
+      "definition": "1. The joint between the forearm and the upper arm.",
+      "example": [
+        {
+          "eng": "He rested his elbow on the table and supported his chin with his hand.",
+          "ch": "他將手肘靠在桌上，用手托著下巴。"
+        }
+      ]
+    },
+    {
+      "eng": "elderly",
+      "kk": "ˈɛldɚli",
+      "tense": "adj.",
+      "ch": [
+        [
+          "年長的",
+          "上了年紀的"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由古英語 eald（年長的）演變而來的 elder 加上形容詞字尾 -ly 構成。形容詞詞性，委婉且尊稱上了年紀的人（通常指老年人）。",
+      "definition": "1. (Of a person) rather old; past middle age.",
+      "example": [
+        {
+          "eng": "The volunteer helps elderly residents in the neighborhood with grocery shopping.",
+          "ch": "這位志願者協助鄰里中年長的居民採買雜貨。"
+        }
+      ]
+    },
+    {
+      "eng": "elect",
+      "kk": "ɪˈlɛkt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "選舉",
+          "推選",
+          "選擇"
+        ]
+      ],
+      "analysis": "此動詞源自拉丁語 ēlect-（選出的，由 ē-「出」+ legere「挑選」組成）。為及物動詞，指透過投票選出政治公職人員，或正式選擇某種方案。",
+      "definition": "1. To vote for someone to hold a public office or position; 2. To choose formally to do something.",
+      "example": [
+        {
+          "eng": "Citizens will go to the polls next month to elect a new mayor.",
+          "ch": "公民們將在下個月參與投票選舉新市長。"
+        }
+      ]
+    },
+    {
+      "eng": "election",
+      "kk": "ɪˈlɛkʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "選舉",
+          "投票"
+        ]
+      ],
+      "analysis": "此名詞由動詞 elect 加上名詞字尾 -ion 構成，源自拉丁語 ēlectiō。為可數名詞，指選拔公職人員或代表的民主投票程序。",
+      "definition": "1. A formal and organized process of electing a public official or members of a body.",
+      "example": [
+        {
+          "eng": "The presidential election is scheduled to take place in November.",
+          "ch": "總統選舉預定在十一月舉行。"
+        }
+      ]
+    },
+    {
+      "eng": "electricity",
+      "kk": "ɪˌlɛkˈtrɪsəti",
+      "tense": "n.",
+      "ch": [
+        [
+          "電",
+          "電力"
+        ]
+      ],
+      "analysis": "此名詞由近代科學詞彙 electric（源自希臘語 ēlectron 琥珀）加上抽象名詞字尾 -ity 衍生而成。為不可數名詞，指電流與電力能源。",
+      "definition": "1. A form of energy resulting from the existence of charged particles, used for power, lighting, and heating.",
+      "example": [
+        {
+          "eng": "A severe lightning storm knocked out the town's electricity for hours.",
+          "ch": "一場猛烈的雷雨導致該鎮斷電了數小時。"
+        }
+      ]
+    },
+    {
+      "eng": "electronic",
+      "kk": "ɪˌlɛkˈtrɑnɪk",
+      "tense": "adj.",
+      "ch": [
+        [
+          "電子製的",
+          "電子的"
+        ]
+      ],
+      "analysis": "此字由 electron（電子）加上形容詞字尾 -ic 構成。形容詞詞性，用以修飾由電子元件組成或運用半導體技術運作的設備。",
+      "definition": "1. Having or operating with components such as microchips and transistors that control electrical currents.",
+      "example": [
+        {
+          "eng": "Many students prefer reading electronic books on their tablets.",
+          "ch": "許多學生喜歡在平板電腦上閱讀電子書。"
+        }
+      ]
+    },
+    {
+      "eng": "element",
+      "kk": "ˈɛləmənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "要素",
+          "成分"
+        ],
+        [
+          "化學元素"
+        ]
+      ],
+      "analysis": "此名詞源自拉丁語 elementum（原意指字母表、基本成分）。為可數名詞，在不同語境下指構成事物的基本要素、群體中的典型份子，或化學上的元素。",
+      "definition": "1. A part or aspect of something abstract, especially one that is essential or characteristic; 2. A substance that cannot be chemically broken down into simpler substances.",
+      "example": [
+        {
+          "eng": "Trust and respect are essential elements of a healthy relationship.",
+          "ch": "信任與尊重是健康關係中不可或缺的要素。"
+        },
+        {
+          "eng": "Hydrogen is the lightest element in the periodic table.",
+          "ch": "氫是元素週期表中最輕的元素。"
+        }
+      ]
+    },
+    {
+      "eng": "elevator",
+      "kk": "ˈɛləˌvetɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "電梯",
+          "升降機"
+        ]
+      ],
+      "analysis": "此名詞由拉丁語 elevate（提高、抬高）加上名詞字尾 -or 構成，現代美式英語中標準指樓宇中的載人升降設備。為可數名詞。",
+      "definition": "1. A platform or compartment housed in a shaft for raising and lowering people or goods to different floors.",
+      "example": [
+        {
+          "eng": "The hotel elevator is currently out of order, so we have to take the stairs.",
+          "ch": "飯店電梯目前故障，所以我們得走樓梯。"
+        }
+      ]
+    },
+    {
+      "eng": "emergency",
+      "kk": "ɪˈmɝdʒənsi",
+      "tense": "n.",
+      "ch": [
+        [
+          "緊急情況",
+          "突發事件"
+        ]
+      ],
+      "analysis": "此名詞由形容詞 emergent（突現的、緊急的，源自拉丁語 ēmergere「浮現、冒出」）加上名詞字尾 -y 構成。為可數名詞，指需要立即處理的危急狀況。",
+      "definition": "1. A serious, unexpected, and often dangerous situation requiring immediate action.",
+      "example": [
+        {
+          "eng": "In case of a fire emergency, please use the nearest exit stairwell.",
+          "ch": "如果發生火災緊急情況，請使用最近的安全逃生梯。"
+        }
+      ]
+    },
+    {
+      "eng": "emotional",
+      "kk": "ɪˈmoʊʃənəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "情感的"
+        ],
+        [
+          "情緒激動的"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由名詞 emotion（情緒，源自拉丁語 ēmovēre「移動、激起」）加上形容詞字尾 -al 結合而成。形容詞詞性，用以指涉與情感相關的事物或容易流露情感的人。",
+      "definition": "1. Relating to a person's emotions; 2. Arousing or displaying strong feelings.",
+      "example": [
+        {
+          "eng": "Music has a powerful way of evoking deep emotional responses.",
+          "ch": "音樂具有喚起深刻情感反應的強大力量。"
+        },
+        {
+          "eng": "She gave an emotional speech thanking everyone for their support.",
+          "ch": "她發表了一場情緒激動的演講，感謝大家的支援。"
+        }
+      ]
+    },
+    {
+      "eng": "emperor",
+      "kk": "ˈɛmpərɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "皇帝",
+          "君主"
+        ]
+      ],
+      "analysis": "此名詞經由古法語 empereor，源自拉丁語 imperātor（統帥、皇帝，由 imperāre「統治、發號施令」衍生）。為可數名詞，指帝國的最高統治者。",
+      "definition": "1. A sovereign ruler of an empire.",
+      "example": [
+        {
+          "eng": "The ancient palace was built as a grand residence for the emperor.",
+          "ch": "這座古代宮殿是作為皇帝的宏偉官邸而建造的。"
+        }
+      ]
+    },
+    {
+      "eng": "enable",
+      "kk": "ɪˈnebl",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使能夠",
+          "使成可能"
+        ]
+      ],
+      "analysis": "此動詞為現代透明構詞，由前綴 en-（使成為、置於…狀態）加上形容詞 able（有能力的）組合而成。為及物動詞，常接受詞後連接 to do 結構，表示提供能力或條件使某事得以實現。",
+      "definition": "1. To give someone or something the authority or means to do something.",
+      "example": [
+        {
+          "eng": "Getting a scholarship will enable her to pursue a master's degree abroad.",
+          "ch": "獲得獎學金將使她能夠出國攻讀碩士學位。"
+        }
+      ]
+    },
+    {
+      "eng": "energetic",
+      "kk": "ˌɛnɚˈdʒɛtɪk",
+      "tense": "adj.",
+      "ch": [
+        [
+          "精力充沛的",
+          "充滿活力的"
+        ]
+      ],
+      "analysis": "此字源自希臘語 energeia（活動、能量），經由新拉丁語與法語進入英語，加上形容詞字尾 -ic。形容詞詞性，用以形容人或動物充滿體力、幹勁十足。",
+      "definition": "1. Showing or involving great activity, vitality, and physical exertion.",
+      "example": [
+        {
+          "eng": "The puppy was so energetic that it ran around the backyard all afternoon.",
+          "ch": "這隻小狗精力充沛，整個下午都在後院跑來跑去。"
+        }
+      ]
+    },
+    {
+      "eng": "engage",
+      "kk": "ɪnˈɡedʒ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "吸引（注意力等）"
+        ],
+        [
+          "參與",
+          "從事"
+        ],
+        [
+          "雇用",
+          "聘用"
+        ],
+        [
+          "使訂婚"
+        ]
+      ],
+      "analysis": "此動詞透過古法語 engager，由前綴 en-（進入）與 gage（誓約、抵押）結合而成。為及物動詞，語義演變自「以誓約約束」演進為「投身參與」、「吸引注意力」、「雇用」或「使訂婚」。",
+      "definition": "1. To occupy, attract, or involve someone's interest or attention; 2. To participate or become involved in an activity; 3. To employ someone; 4. To promise to marry.",
+      "example": [
+        {
+          "eng": "The interactive teacher found a great way to engage all her students in the discussion.",
+          "ch": "這位互動教學的老師找到了一個好方法，讓所有學生都參與討論。"
+        },
+        {
+          "eng": "Both companies agreed to engage in further negotiations next week.",
+          "ch": "雙方公司同意下週進行進一步的談判。"
+        },
+        {
+          "eng": "The firm decided to engage a new consultant for the financial project.",
+          "ch": "該公司決定為這項財務計畫聘用一名新顧問。"
+        },
+        {
+          "eng": "They decided to engage after dating for three years.",
+          "ch": "他們交往三年後決定訂婚。"
+        }
+      ]
+    },
+    {
+      "eng": "engagement",
+      "kk": "ɪnˈɡedʒmənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "訂婚"
+        ],
+        [
+          "約會",
+          "約定"
+        ],
+        [
+          "參與",
+          "投入"
+        ]
+      ],
+      "analysis": "此名詞由動詞 engage 加上名詞字尾 -ment 構成。為可數或不可數名詞，指彼此約定（如婚姻訂婚、商務約會）或積極參與某項事務的狀態。",
+      "definition": "1. A formal agreement to get married; 2. An official appointment, meeting, or commitment; 3. The state of being involved or participating.",
+      "example": [
+        {
+          "eng": "They announced their engagement to family and friends over the weekend.",
+          "ch": "他們在週末向家人和朋友宣佈了訂婚的好消息。"
+        },
+        {
+          "eng": "I apologize, but I have a prior business engagement at that time.",
+          "ch": "我很抱歉，我在那個時間已經有一個預定的商務約會了。"
+        },
+        {
+          "eng": "Employee engagement is crucial for the success of any modern company.",
+          "ch": "員工的積極參與對於任何現代公司的成功都至關重要。"
+        }
+      ]
+    }
+  ]
+}

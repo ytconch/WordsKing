@@ -1,0 +1,1140 @@
+{
+  "level": 6,
+  "chunkIndex": 17,
+  "inputs": [
+    "rotation",
+    "royalty",
+    "rubbish",
+    "rugged",
+    "ruthless",
+    "salute",
+    "salvage",
+    "sanitation",
+    "savage",
+    "scenic",
+    "scorn",
+    "scrape",
+    "screwdriver",
+    "scroll",
+    "scrutiny",
+    "sculptor",
+    "seagull",
+    "gull",
+    "seduce",
+    "selective",
+    "serene",
+    "sergeant",
+    "serial",
+    "sermon",
+    "serving",
+    "setback",
+    "shabby",
+    "sharpen",
+    "shaver",
+    "shortcoming",
+    "shortsighted",
+    "shred",
+    "shriek",
+    "shrub",
+    "shuffle",
+    "shutter",
+    "simplicity",
+    "simplify",
+    "simultaneous",
+    "skeptical",
+    "skim",
+    "slang",
+    "slash",
+    "slaughter",
+    "slay",
+    "sloppy",
+    "slum",
+    "slump",
+    "sly",
+    "smuggle"
+  ],
+  "rows": [
+    {
+      "eng": "rotation",
+      "kk": "/roʊˈteɪʃən/",
+      "tense": "n.",
+      "ch": [
+        [
+          "旋轉",
+          "自轉"
+        ],
+        [
+          "輪流",
+          "交替"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由動詞 rotate 加上名詞字尾 -ion（構成動作或結果名詞）。其拉丁字源為動詞 rotare（意為旋轉），源自名詞 rota（意為車輪）。語意從具體的「車輪轉動」演變為一般物體的「旋轉、自轉」，再引申出人員職務與作法的「輪流、交替」。",
+      "definition": "1. the action or process of rotating around an axis or center; 2. the action of taking turns in a particular order.",
+      "example": [
+        {
+          "eng": "The Earth completes one rotation on its axis every 24 hours.",
+          "ch": "地球每24小時完成一次自轉。"
+        },
+        {
+          "eng": "The team members work in rotation to cover the night shift.",
+          "ch": "團隊成員輪流值夜班。"
+        }
+      ]
+    },
+    {
+      "eng": "royalty",
+      "kk": "/ˈrɔɪəlti/",
+      "tense": "n.",
+      "ch": [
+        [
+          "皇室",
+          "王室成員"
+        ],
+        [
+          "版稅",
+          "權利金"
+        ]
+      ],
+      "analysis": "此字源自中古英語 roialte，經由古法語 roiaute 演變而來，最終源自拉丁語 rēgālis（皇家的、國王的），字根來自形容詞 royal。語意最初指「皇室身份或統治權」，後來在經濟與法律領域中，引申指基於使用智慧財產權或天然資源而支付給所有者的「版稅」或「權利金」。",
+      "definition": "1. royal persons as a group; 2. a sum of money paid to a patentee, author, or composer for the use of a patent or copyrighted work.",
+      "example": [
+        {
+          "eng": "Members of the royal family attended the ceremony.",
+          "ch": "皇室成員出席了這場典禮。"
+        },
+        {
+          "eng": "The author receives a generous royalty on every book sold.",
+          "ch": "這位作者每賣出一本書都能獲得豐厚的版稅。"
+        }
+      ]
+    },
+    {
+      "eng": "rubbish",
+      "kk": "/ˈrʌbɪʃ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "垃圾",
+          "廢棄物"
+        ],
+        [
+          "胡說八道",
+          "廢話"
+        ]
+      ],
+      "analysis": "此字源自中古英語 rubbe（意為擦、刷）相關的派生詞，結合名詞字尾 -ish，原本指磨損下來的碎片或殘渣。語意從具體的「建築殘渣、廢棄物」抽象化，引申為毫無價值或荒謬的言論，即「胡說八道」。",
+      "definition": "1. waste material; refuse or garbage; 2. nonsense; foolish talk or ideas.",
+      "example": [
+        {
+          "eng": "Please throw that old cardboard into the rubbish bin.",
+          "ch": "請把那個舊紙箱扔進垃圾桶。"
+        },
+        {
+          "eng": "Don't listen to him; he's talking absolute rubbish.",
+          "ch": "別聽他的，他簡直是在胡說八道。"
+        }
+      ]
+    },
+    {
+      "eng": "rugged",
+      "kk": "/ˈrʌɡɪd/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "崎嶇不平的",
+          "粗糙的"
+        ],
+        [
+          "結實的",
+          "耐勞的"
+        ]
+      ],
+      "analysis": "此字源自中古英語 rugge（意為背部或粗糙的毛皮，源自斯堪地那維亞語源頭），結合形容詞字尾 -ed。語意最初形容表面「高低不平、粗糙」，隨後引申用來形容地形「崎嶇不平」，再進一步形容人或物品「強健、結實、耐勞」。",
+      "definition": "1. having a rough, uneven, or jagged surface; 2. strong, tough, and resilient.",
+      "example": [
+        {
+          "eng": "They hiked across the rugged terrain of the mountains.",
+          "ch": "他們徒步穿過山區崎嶇不平的地形。"
+        },
+        {
+          "eng": "The vehicle is designed for rugged outdoor conditions.",
+          "ch": "這輛車是為惡劣耐勞的戶外條件而設計的。"
+        }
+      ]
+    },
+    {
+      "eng": "ruthless",
+      "kk": "/ˈruːθləs/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "殘酷的",
+          "無情的"
+        ]
+      ],
+      "analysis": "此字由中古英語名詞 ruth（意為憐憫、同情，源自動詞 rue，現已少用）加上否定形容詞字尾 -less 組成。語意直譯為「缺乏憐憫心的」，演變至今指為了達到目的而手段「殘酷、無情、冷血」的行為或性格。",
+      "definition": "1. having or showing no pity or compassion for others.",
+      "example": [
+        {
+          "eng": "The dictator was known as a ruthless leader.",
+          "ch": "該獨裁者以殘酷無情的領袖聞名。"
+        }
+      ]
+    },
+    {
+      "eng": "salute",
+      "kk": "/səˈluːt/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "行舉手禮",
+          "向……敬禮"
+        ],
+        [
+          "讚揚",
+          "向……致敬"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 salūtāre（意為問候、祝安康），由名詞 salūs（健康、安全、福祉）衍生而來。經由中世紀軍事與禮儀語境，演變為現代的「軍禮、敬禮」，並引申出對傑出成就或貢獻的「公開讚揚與致敬」。",
+      "definition": "1. perform a formal military sign of respect; 2. praise or honor publicly.",
+      "example": [
+        {
+          "eng": "The soldier saluted his superior officer.",
+          "ch": "士兵向他的長官敬禮。"
+        },
+        {
+          "eng": "We salute the dedication of all healthcare workers.",
+          "ch": "我們向所有醫療工作者的奉獻精神致敬。"
+        }
+      ]
+    },
+    {
+      "eng": "salvage",
+      "kk": "/ˈsælvɪdʒ/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "搶救",
+          "挽救"
+        ]
+      ],
+      "analysis": "此字源自中古法語 salvage，最終源自拉丁語 salvus（意為安全、完好）。語意最初指從海難中「搶救船舶或貨物」，現代廣泛用於從災難、失敗或廢棄物中「搶救、挽救」有價值的物品或局面。",
+      "definition": "1. rescue a wrecked or damaged ship or its cargo from loss at sea, or save something from ruin.",
+      "example": [
+        {
+          "eng": "Divers tried to salvage the wreckage from the sea floor.",
+          "ch": "潛水員試圖從海底打撈殘骸。"
+        },
+        {
+          "eng": "She managed to salvage her pride after the mistake.",
+          "ch": "她在犯錯後設法挽回了自己的尊嚴。"
+        }
+      ]
+    },
+    {
+      "eng": "sanitation",
+      "kk": "/ˌsænɪˈteɪʃən/",
+      "tense": "n.",
+      "ch": [
+        [
+          "環境衛生",
+          "公共衛生設施"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由形容詞 sanitary（源自拉丁語 sānitas，意為健康，源自 sānus）加上名詞字尾 -ion。專門指維護公共健康、處理廢水與垃圾等「環境衛生與相關設施」的系統。",
+      "definition": "1. conditions relating to public health, especially the provision of clean drinking water and adequate sewage disposal.",
+      "example": [
+        {
+          "eng": "Poor sanitation in the refugee camp led to disease.",
+          "ch": "難民營不良的環境衛生導致了疾病。"
+        }
+      ]
+    },
+    {
+      "eng": "savage",
+      "kk": "/ˈsævɪdʒ/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "野蠻的",
+          "兇猛的"
+        ],
+        [
+          "殘酷的",
+          "激烈的"
+        ]
+      ],
+      "analysis": "此字源自中古英語 savage，經由古法語源自拉丁語 silvaticus（意為森林的、野生的），根源為 silva（森林）。語意從最初的「生長於森林的、野生的」演變為人類行為上的「野蠻、兇猛」，再引申形容攻擊或批評「極端殘酷、激烈」。",
+      "definition": "1. fierce, ferocious, and cruel; 2. untamed and wild in a harsh or violent way.",
+      "example": [
+        {
+          "eng": "They were attacked by a savage beast in the woods.",
+          "ch": "他們在樹林裡遭到一隻兇猛野獸的攻擊。"
+        },
+        {
+          "eng": "The politician faced savage criticism from the press.",
+          "ch": "該政治人物面臨來自媒體的激烈批評。"
+        }
+      ]
+    },
+    {
+      "eng": "scenic",
+      "kk": "/ˈsiːnɪk/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "風景優美的",
+          "自然景色的"
+        ]
+      ],
+      "analysis": "此字源自近代新詞，由名詞 scene（風景、舞臺，源自希臘語 skēnē）加上形容詞字尾 -ic。最初與戲劇舞臺布景有關，後來轉為形容自然界「風景優美、具有觀光價值」的景色。",
+      "definition": "1. providing beautiful views of nature; picturesque.",
+      "example": [
+        {
+          "eng": "We took the scenic route along the coastline.",
+          "ch": "我們走的是沿著海岸線風景優美的路線。"
+        }
+      ]
+    },
+    {
+      "eng": "scorn",
+      "kk": "/skɔːrn/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "輕視",
+          "鄙視"
+        ]
+      ],
+      "analysis": "此字源自中古英語 scornen，經由古法語 escarnir 借自日耳曼語族源頭。語意指對某人或某事感到極度不屑、看不起，認為對方不值得尊重。",
+      "definition": "1. feel or express contempt or disdain for someone or something.",
+      "example": [
+        {
+          "eng": "She scorned the idea of cheating on the exam.",
+          "ch": "她對考試作弊的想法感到不屑。"
+        }
+      ]
+    },
+    {
+      "eng": "scrape",
+      "kk": "/skreɪp/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "刮",
+          "擦"
+        ],
+        [
+          "擦傷",
+          "刮破"
+        ]
+      ],
+      "analysis": "此字源自古諾斯語 skrapa（意為刮、擦）。語意核心為用銳利工具或硬物表面「刮除」附著物，或因摩擦而導致表面受損、產生「擦傷」。",
+      "definition": "1. rub or cause to rub against a surface with a sharp or rough implement; 2. injure or mar the surface of something by scratching.",
+      "example": [
+        {
+          "eng": "He used a knife to scrape the paint off the door.",
+          "ch": "他用小刀把門上的漆刮掉。"
+        },
+        {
+          "eng": "She fell off her bike and scraped her knee.",
+          "ch": "她從腳踏車上摔下來，擦傷了膝蓋。"
+        }
+      ]
+    },
+    {
+      "eng": "screwdriver",
+      "kk": "/ˈskruːˌdraɪvər/",
+      "tense": "n.",
+      "ch": [
+        [
+          "螺絲起子"
+        ]
+      ],
+      "analysis": "此字為現代透明複合詞，由 screw（螺絲）與 driver（驅動器、旋轉工具，源自動詞 drive）組成。字面義即為「用來旋轉驅動螺絲的工具」。",
+      "definition": "1. a tool with a shaped tip that fits into the head of a screw to turn it.",
+      "example": [
+        {
+          "eng": "He used a flathead screwdriver to tighten the loose screw.",
+          "ch": "他用一字螺絲起子把鬆動的螺絲鎖緊。"
+        }
+      ]
+    },
+    {
+      "eng": "scroll",
+      "kk": "/skroʊl/",
+      "tense": "n.",
+      "ch": [
+        [
+          "紙卷",
+          "卷軸"
+        ],
+        [
+          "滾動（電腦畫面）"
+        ]
+      ],
+      "analysis": "此字源自中古英語 scrolle，是古法語 escroue（小紙卷）的變體。原本指古代紙張或羊皮紙捲成的「卷軸」，在數位時代被借用來形容電腦與手機螢幕上上下「滾動」文字或圖像的動作。",
+      "definition": "1. a roll of parchment or paper for writing on; 2. an act of moving text or graphics up or down on a computer screen.",
+      "example": [
+        {
+          "eng": "Archaeologists found an ancient scroll in the cave.",
+          "ch": "考古學家在山洞裡發現了一個古代卷軸。"
+        },
+        {
+          "eng": "Use your mouse to scroll down the webpage.",
+          "ch": "用滑鼠向下滾動網頁。"
+        }
+      ]
+    },
+    {
+      "eng": "scrutiny",
+      "kk": "/ˈskruːtəni/",
+      "tense": "n.",
+      "ch": [
+        [
+          "詳細檢查",
+          "仔細審查"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 scrūtinium（意為搜尋、清查），源自動詞 scrūtārī（原意在垃圾堆中翻找、仔細搜查）。現代演變為對某事物進行「仔細、嚴格的檢查與審查」。",
+      "definition": "1. critical observation or examination.",
+      "example": [
+        {
+          "eng": "The company's financial records came under close scrutiny.",
+          "ch": "公司的財務紀錄受到了嚴密的審查。"
+        }
+      ]
+    },
+    {
+      "eng": "sculptor",
+      "kk": "/ˈskʌlptər/",
+      "tense": "n.",
+      "ch": [
+        [
+          "雕刻家",
+          "雕塑家"
+        ]
+      ],
+      "analysis": "此字由拉丁語 sculptor 演變而來，根源為動詞 sculpere（意為雕刻），加上表示人的名詞字尾 -or。專指從事藝術雕刻創作的「雕刻家」。",
+      "definition": "1. an artist who makes sculptures.",
+      "example": [
+        {
+          "eng": "The sculptor spent months carving the marble statue.",
+          "ch": "這位雕刻家花了數月雕刻這座大理石雕像。"
+        }
+      ]
+    },
+    {
+      "eng": "seagull",
+      "kk": "/ˈsiːˌɡʌl/",
+      "tense": "n.",
+      "ch": [
+        [
+          "海鷗"
+        ]
+      ],
+      "analysis": "此字為現代透明複合詞，由 sea（海洋）與 gull（海鷗，凱爾特語族源頭的鳥名）結合而成。指常見於海岸線一帶的「海鷗」。",
+      "definition": "1. a gull-like seabird with white and grey plumage found near the sea.",
+      "example": [
+        {
+          "eng": "Flocks of seagulls flew over the fishing boats.",
+          "ch": "成群的海鷗飛過漁船上方。"
+        }
+      ]
+    },
+    {
+      "eng": "gull",
+      "kk": "/ɡʌl/",
+      "tense": "n.",
+      "ch": [
+        [
+          "海鷗"
+        ]
+      ],
+      "analysis": "此字源自凱爾特語族（如威爾斯語 gwylan），指海鷗。為 seagull 的簡稱形式。",
+      "definition": "1. a seabird with long wings and webbed feet, typically having white and grey plumage.",
+      "example": [
+        {
+          "eng": "A lonely gull perched on the wooden pier.",
+          "ch": "一隻孤單的海鷗棲息在木棧橋上。"
+        }
+      ]
+    },
+    {
+      "eng": "seduce",
+      "kk": "/sɪˈduːs/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "誘惑",
+          "引誘"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 sēdūcere，由 sē-（離開、分開）與 dūcere（引導）組成，字面義為「引開正道」。語意從最初的「引誘人步入歧途」演變為現代的「性誘惑」或「以甜言蜜語誘惑人做某事」。",
+      "definition": "1. entice someone to do something, typically sexual intercourse or something unwise.",
+      "example": [
+        {
+          "eng": "He tried to seduce her with expensive gifts and sweet words.",
+          "ch": "他試圖用昂貴的禮物和甜言蜜語誘惑她。"
+        }
+      ]
+    },
+    {
+      "eng": "selective",
+      "kk": "/sɪˈlektɪv/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "有選擇性的",
+          "嚴格挑選的"
+        ]
+      ],
+      "analysis": "此字由動詞 select 加上形容詞字尾 -ive。語意指在做事或接受事物時「非常有選擇性、精挑細選」的特質。",
+      "definition": "1. tending to select carefully; highly discriminating.",
+      "example": [
+        {
+          "eng": "Universities are very selective in their admissions process.",
+          "ch": "大學在招生過程中非常嚴格挑選。"
+        }
+      ]
+    },
+    {
+      "eng": "serene",
+      "kk": "/səˈriːn/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "平靜的",
+          "寧靜的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 serēnus（意為晴朗的、無雲的、平靜的）。語意從氣象上的「晴朗無雲」演變為心理或環境上的「平靜、安詳、不受干擾」。",
+      "definition": "1. calm, peaceful, and untroubled.",
+      "example": [
+        {
+          "eng": "She sat by the lake, enjoying the serene atmosphere.",
+          "ch": "她坐在湖邊，享受平靜的氛圍。"
+        }
+      ]
+    },
+    {
+      "eng": "sergeant",
+      "kk": "/ˈsɑːrdʒənt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "士官",
+          "中士",
+          "警長"
+        ]
+      ],
+      "analysis": "此字源自中古英語 sargeant，經由古法語源自拉丁語 serviens（意為服務的人、隨從，源自 servare）。在軍事與警察體系中，演變為擔任基層管理職務的「士官（如中士）」或「警長」。",
+      "definition": "1. a non-commissioned officer in the army or air force, or a police officer of high rank.",
+      "example": [
+        {
+          "eng": "The sergeant gave orders to the platoon.",
+          "ch": "中士向排部下達了命令。"
+        }
+      ]
+    },
+    {
+      "eng": "serial",
+      "kk": "/ˈsɪriəl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "連續的",
+          "一系列的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 serere（意為串聯、編織），經由近代科學與出版語境衍生出 serial（連續的、分期的）。常用於連續劇、連續殺人犯等按順序接續發生的事物。",
+      "definition": "1. consisting of, taking place in, or appearing in a series.",
+      "example": [
+        {
+          "eng": "The police are hunting for a serial killer.",
+          "ch": "警方正在搜捕一名連續殺人犯。"
+        }
+      ]
+    },
+    {
+      "eng": "sermon",
+      "kk": "/ˈsɜːrmən/",
+      "tense": "n.",
+      "ch": [
+        [
+          "講道",
+          "說教"
+        ]
+      ],
+      "analysis": "此字源自中古英語 sermoun，經由古法語源自拉丁語 sermō（意為談話、演說），源自 serere。最初專指神職人員在宗教儀式上的「講道」，後來引申為日常生活中冗長且煩人的「訓話、說教」。",
+      "definition": "1. a talk on a religious or moral subject, especially one given by a religious leader in a church; 2. a tedious reproof or piece of advice.",
+      "example": [
+        {
+          "eng": "The priest delivered an inspiring sermon on Sunday.",
+          "ch": "神父在星期天發表了一場啟發人心的講道。"
+        },
+        {
+          "eng": "My father gave me a long sermon about being responsible.",
+          "ch": "我父親對我進行了一場關於責任感的漫長說教。"
+        }
+      ]
+    },
+    {
+      "eng": "serving",
+      "kk": "/ˈsɜːrvɪŋ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "（食物的）一份",
+          "盛菜"
+        ]
+      ],
+      "analysis": "此字為動詞 serve（服務、供應）加上名詞化字尾 -ing。在餐飲語境中，專指供一人食用的「一份食物」。",
+      "definition": "1. a quantity of food suitable for one person.",
+      "example": [
+        {
+          "eng": "This recipe yields four servings of soup.",
+          "ch": "這個食譜可以做四人份的湯。"
+        }
+      ]
+    },
+    {
+      "eng": "setback",
+      "kk": "/ˈsɛtˌbæk/",
+      "tense": "n.",
+      "ch": [
+        [
+          "挫折",
+          "阻礙"
+        ]
+      ],
+      "analysis": "此字由副詞/介系詞組 back 與動詞 set 複合而成（原意為使進展退後）。現代用來指計畫或進展中遭遇的「挫折、阻礙」。",
+      "definition": "1. a delay or obstacle that prevents progress.",
+      "example": [
+        {
+          "eng": "The injury was a major setback for his athletic career.",
+          "ch": "這次受傷對他的運動生涯是一大挫折。"
+        }
+      ]
+    },
+    {
+      "eng": "shabby",
+      "kk": "/ˈʃæbi/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "破舊的",
+          "衣衫藍縷的"
+        ]
+      ],
+      "analysis": "此字源自中古英語 shabbid（意為患疥癬的，源自 scab），後來衍生出形容物品「剝落、破舊」或人「衣衫襤褸、寒酸」。",
+      "definition": "1. in poor condition through long use or lack of care.",
+      "example": [
+        {
+          "eng": "He wore a shabby coat in the cold winter.",
+          "ch": "他在寒冬中穿著一件破舊的大衣。"
+        }
+      ]
+    },
+    {
+      "eng": "sharpen",
+      "kk": "/ˈʃɑːrpən/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "削尖",
+          "磨利"
+        ],
+        [
+          "使敏銳",
+          "改善"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由形容詞 sharp（鋒利的、敏銳的）加上動詞化字尾 -en（使變得……）。語意從具體的「把刀具磨利、削尖」，引申為抽象地「使大腦或感官更敏銳」。",
+      "definition": "1. make or become sharp or sharper; 2. make or become more acute or effective.",
+      "example": [
+        {
+          "eng": "He used a whetstone to sharpen his kitchen knife.",
+          "ch": "他用磨刀石把菜刀磨利。"
+        },
+        {
+          "eng": "Reading regularly can help sharpen your mind.",
+          "ch": "定期閱讀有助於使你的頭腦更敏銳。"
+        }
+      ]
+    },
+    {
+      "eng": "shaver",
+      "kk": "/ˈʃeɪvər/",
+      "tense": "n.",
+      "ch": [
+        [
+          "刮鬍刀"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由動詞 shave（刮鬍子、剃毛）加上名詞字尾 -er（表工具者）。專指用來刮鬍子的「刮鬍刀」。",
+      "definition": "1. a razor or electric shaver used for shaving.",
+      "example": [
+        {
+          "eng": "He bought a new electric shaver for his trip.",
+          "ch": "他為旅行買了一把新的電動刮鬍刀。"
+        }
+      ]
+    },
+    {
+      "eng": "shortcoming",
+      "kk": "/ˈʃɔːrtˌkʌmɪŋ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "缺點",
+          "短處"
+        ]
+      ],
+      "analysis": "此字由副詞 short（短的、不足的）與動詞 come（到來）的名詞化形式結合而成。字面義為「未能達到的部分」，演變為人的性格或系統中的「缺點、短處」。",
+      "definition": "1. a fault or failure to meet a certain standard, typically in a person's character, a plan, or a system.",
+      "example": [
+        {
+          "eng": "Everyone has personal shortcomings, but we can improve.",
+          "ch": "每個人都有個人缺點，但我們可以改進。"
+        }
+      ]
+    },
+    {
+      "eng": "shortsighted",
+      "kk": "/ˌʃɔːrtˈsaɪtɪd/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "近視的"
+        ],
+        [
+          "目光短淺的"
+        ]
+      ],
+      "analysis": "此字由 short（短的）與 sighted（有視力的，源自 sight）複合而成。字面義為「視力只能看到短距離的」，引申出形容決策或眼光「目光短淺、缺乏遠見」的雙重義項。",
+      "definition": "1. unable to see things clearly that are far away; nearsighted; 2. lacking imagination or foresight.",
+      "example": [
+        {
+          "eng": "He is shortsighted and needs glasses to drive.",
+          "ch": "他近視，開車需要戴眼鏡。"
+        },
+        {
+          "eng": "Cutting education funding is a shortsighted policy.",
+          "ch": "削減教育經費是一項目光短淺的政策。"
+        }
+      ]
+    },
+    {
+      "eng": "shred",
+      "kk": "/ʃrɛd/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "撕碎",
+          "切碎"
+        ]
+      ],
+      "analysis": "此字源自古英語 scrēade（意為碎片、切片）。語意指將紙張、文件或食物用手或機器撕成、切成細碎的條狀。",
+      "definition": "1. tear or cut into long, thin strips.",
+      "example": [
+        {
+          "eng": "Make sure to shred all confidential documents before throwing them away.",
+          "ch": "丟棄所有機密文件前，務必將其碎紙處理。"
+        }
+      ]
+    },
+    {
+      "eng": "shriek",
+      "kk": "/ʃriːk/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "尖叫",
+          "尖聲喊叫"
+        ]
+      ],
+      "analysis": "此字為擬聲詞（onomatopoeia），模仿人類因恐懼、興奮或痛苦而發出的尖銳叫聲。",
+      "definition": "1. utter a high-pitched piercing sound or words, especially as a result of strong emotion.",
+      "example": [
+        {
+          "eng": "The children shrieked with delight when they saw the puppies.",
+          "ch": "孩子們看到小狗時高興得尖叫起來。"
+        }
+      ]
+    },
+    {
+      "eng": "shrub",
+      "kk": "/ʃrʌb/",
+      "tense": "n.",
+      "ch": [
+        [
+          "灌木",
+          "矮樹"
+        ]
+      ],
+      "analysis": "此字源自古英語 scrybb（意為灌木叢、矮樹林）。指比樹木矮小、有多個主幹的木本植物「灌木」。",
+      "definition": "1. a woody plant which is smaller than a tree and has several main stems arising at or near the ground.",
+      "example": [
+        {
+          "eng": "He planted some flowering shrubs along the fence.",
+          "ch": "他在圍欄旁種了一些開花的灌木。"
+        }
+      ]
+    },
+    {
+      "eng": "shuffle",
+      "kk": "/ˈʃʌfəl/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "拖著腳走",
+          "曳行"
+        ],
+        [
+          "洗牌"
+        ]
+      ],
+      "analysis": "此字源自日耳曼語族源頭，與低地德語 schuffeln（推擠、混雜）相關。語意一方面指走路時雙腳不離地、拖沓地「拖著腳走」，另一方面指將撲克牌相互交錯「洗牌」。",
+      "definition": "1. walk by dragging one's feet along the ground; 2. mix up a deck of cards before dealing.",
+      "example": [
+        {
+          "eng": "The old man shuffled slowly down the hallway.",
+          "ch": "老人緩慢地拖著腳步走過走廊。"
+        },
+        {
+          "eng": "He shuffled the deck of cards before dealing.",
+          "ch": "他在發牌前把撲克牌洗了一遍。"
+        }
+      ]
+    },
+    {
+      "eng": "shutter",
+      "kk": "/ˈʃʌtər/",
+      "tense": "n.",
+      "ch": [
+        [
+          "百葉窗",
+          "窗板"
+        ],
+        [
+          "快門（相機）"
+        ]
+      ],
+      "analysis": "此字由動詞 shut（關閉）加上名詞字尾 -er 構成。原本指用來遮蔽窗戶的「百葉窗或窗板」，後延伸至攝影光學中控制進光時間開閉的「快門」。",
+      "definition": "1. each of a pair of hinged panels fixed inside or outside a window that can be closed for security or privacy; 2. a device that opens and closes to expose the digital sensor or film in a camera.",
+      "example": [
+        {
+          "eng": "She closed the wooden shutters to block out the morning sun.",
+          "ch": "她關上木製百葉窗以遮擋早晨的陽光。"
+        },
+        {
+          "eng": "Press the shutter button gently to take a photo.",
+          "ch": "輕輕按下快門按鈕來拍照。"
+        }
+      ]
+    },
+    {
+      "eng": "simplicity",
+      "kk": "/sɪmˈplɪsəti/",
+      "tense": "n.",
+      "ch": [
+        [
+          "簡單",
+          "簡樸"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 simplicitas，源自 simplex（簡單的、單一的）。指事物不複雜、容易理解的特質，或是生活不鋪張的「簡樸」。",
+      "definition": "1. the quality or condition of being easy to understand or do; freedom from complexity or duplicity.",
+      "example": [
+        {
+          "eng": "I like the simplicity of this app's user interface.",
+          "ch": "我很喜歡這款應用程式使用者介面的簡單易用。"
+        }
+      ]
+    },
+    {
+      "eng": "simplify",
+      "kk": "/ˈsɪmpləˌfaɪ/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "簡化",
+          "使單純"
+        ]
+      ],
+      "analysis": "此字由拉丁語根 simplex（簡單的）加上動詞化字尾 -ify（使成為）。意為使複雜的事物變得更容易理解或處理的「簡化」。",
+      "definition": "1. make something simpler or easier to do or understand.",
+      "example": [
+        {
+          "eng": "The teacher tried to simplify the complex grammar rules for beginners.",
+          "ch": "老師試圖為初學者簡化複雜的文法規則。"
+        }
+      ]
+    },
+    {
+      "eng": "simultaneous",
+      "kk": "/ˌsɪmləlˈteɪniəs/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "同時發生的",
+          "同步的"
+        ]
+      ],
+      "analysis": "此字源自中世紀拉丁語 simultāneus（源自 simul，意為同時）。用來形容兩件或多件事件在「同一時間發生」的同步狀態。",
+      "definition": "1. occurring, operating, or done at the same time.",
+      "example": [
+        {
+          "eng": "The two countries announced a simultaneous ceasefire.",
+          "ch": "兩國宣佈同時停火。"
+        }
+      ]
+    },
+    {
+      "eng": "skeptical",
+      "kk": "/ˈskɛptɪkəl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "懷疑的",
+          "抱持懷疑態度的"
+        ]
+      ],
+      "analysis": "此字源自希臘語 skeptikos（意為尋找、審視、懷疑），源自 skeptesthai（觀察）。指對某事不輕易相信、抱持「懷疑態度」的心理狀態。",
+      "definition": "1. not easily convinced; having doubts or reservations.",
+      "example": [
+        {
+          "eng": "Many experts remain skeptical about the new diet pill.",
+          "ch": "許多專家對這種新的減肥藥仍持懷疑態度。"
+        }
+      ]
+    },
+    {
+      "eng": "skim",
+      "kk": "/skɪm/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "撇去（浮沫等）"
+        ],
+        [
+          "瀏覽",
+          "略讀"
+        ]
+      ],
+      "analysis": "此字源自日耳曼語族源頭。語意最初指將液體表面的浮油或浮沫「撇去」，後來引申為快速掃過文字表面以掌握大意的「瀏覽、略讀」。",
+      "definition": "1. remove a substance from the surface of a liquid; 2. read something quickly or cursorily so as to note only the principal points.",
+      "example": [
+        {
+          "eng": "Skim the fat off the top of the soup before serving.",
+          "ch": "上菜前把湯表面的油脂撇掉。"
+        },
+        {
+          "eng": "She had just enough time to skim the newspaper headlines.",
+          "ch": "她剛好有時間快速瀏覽一下報紙頭條。"
+        }
+      ]
+    },
+    {
+      "eng": "slang",
+      "kk": "/slæŋ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "俚語",
+          "口語"
+        ]
+      ],
+      "analysis": "此字詞源不明，可能與挪威語方言相關，於18世紀在英語中出現。專指特定社交群體或非正式場合中使用的「俚語、口語詞彙」。",
+      "definition": "1. a type of language consisting of words and phrases that are regarded as very informal.",
+      "example": [
+        {
+          "eng": "Teenagers often use modern slang that adults don't understand.",
+          "ch": "青少年經常使用成年人聽不懂的現代俚語。"
+        }
+      ]
+    },
+    {
+      "eng": "slash",
+      "kk": "/slæʃ/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "砍傷",
+          "割破"
+        ],
+        [
+          "大幅度削減（價格、預算等）"
+        ]
+      ],
+      "analysis": "此字為擬聲詞或源自古法語，原意指用刀劍猛力揮砍。語意從具體的「用刀割破、砍傷」引申為商業或經濟上「大幅度削減（價格、預算等）」。",
+      "definition": "1. cut with a wide, sweeping stroke of a knife or similar weapon; 2. greatly reduce prices, costs, or other amounts.",
+      "example": [
+        {
+          "eng": "Vandals slashed the tires of several parked cars.",
+          "ch": "破壞份子割破了幾輛停放車輛的輪胎。"
+        },
+        {
+          "eng": "The store decided to slash prices for the holiday sale.",
+          "ch": "這家商店決定在節日大拍賣時大幅削減價格。"
+        }
+      ]
+    },
+    {
+      "eng": "slaughter",
+      "kk": "/ˈslɔːtər/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "屠宰（牲畜）"
+        ],
+        [
+          "大屠殺",
+          "殘殺"
+        ]
+      ],
+      "analysis": "此字源自古諾斯語 slátra（意為屠宰牲畜）。語意從最初為食用目的而「屠宰家畜」，擴大延伸為殘忍地大規模「屠殺、殘殺人類」。",
+      "definition": "1. kill animals for food; 2. kill people in a cruel or violent way, typically in large numbers.",
+      "example": [
+        {
+          "eng": "The cattle are raised to be slaughtered for meat.",
+          "ch": "這些牛隻被飼養以作為肉品屠宰。"
+        },
+        {
+          "eng": "Thousands of innocent civilians were slaughtered in the conflict.",
+          "ch": "數千名無辜平民在這場衝突中遭到大屠殺。"
+        }
+      ]
+    },
+    {
+      "eng": "slay",
+      "kk": "/sleɪ/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "殺害",
+          "謀殺"
+        ]
+      ],
+      "analysis": "此字源自古英語 slēan（意為打、擊、殺死），為日耳曼語族繼承詞。多見於文學、新聞或神話故事中，指蓄意「殺害、謀殺」生命。語意較 formal 或具戲劇性。",
+      "definition": "1. kill a person or animal in a violent way.",
+      "example": [
+        {
+          "eng": "In the legend, the knight managed to slay the fierce dragon.",
+          "ch": "傳說中，騎士設法殺死了那隻兇猛的巨龍。"
+        }
+      ]
+    },
+    {
+      "eng": "sloppy",
+      "kk": "/ˈslɑːpi/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "馬虎的",
+          "潦草的"
+        ],
+        [
+          "泥濘的",
+          "稀爛的"
+        ]
+      ],
+      "analysis": "此字源自 slop（泥漿、稀湯），加上形容詞字尾 -y。語意從最初形容地面「泥濘、稀爛」，引申為做事態度「馬虎、不夠嚴謹、潦草」。",
+      "definition": "1. careless and unsystematic; excessively casual; 2. wet and slushy.",
+      "example": [
+        {
+          "eng": "His sloppy homework was rejected by the teacher.",
+          "ch": "他那潦草的作業被老師退回了。"
+        },
+        {
+          "eng": "The heavy rain left the backyard sloppy with mud.",
+          "ch": "大雨使得後院滿地泥濘。"
+        }
+      ]
+    },
+    {
+      "eng": "slum",
+      "kk": "/slʌm/",
+      "tense": "n.",
+      "ch": [
+        [
+          "貧民窟"
+        ]
+      ],
+      "analysis": "此字於19世紀英國俚語中出現，可能源自 16 世紀的 slump 或與 room 的變體有關，原本指擁擠惡劣的房間。現代專指城市中經濟極度落后、居住條件惡劣的「貧民窟」。",
+      "definition": "1. a densely populated usually urban area marked by poverty, substandard housing, and social disorganization.",
+      "example": [
+        {
+          "eng": "Many families struggle to survive in the city's slums.",
+          "ch": "許多家庭在城市的貧民窟中掙扎求生。"
+        }
+      ]
+    },
+    {
+      "eng": "slump",
+      "kk": "/slʌmp/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "暴跌",
+          "驟降"
+        ],
+        [
+          "垮下",
+          "無力地坐（或倒）下"
+        ]
+      ],
+      "analysis": "此字源自斯堪地那維亞語族源頭（模仿重物突然下墜的聲音）。語意一方面指經濟數據或價格「暴跌、驟降」，另一方面指人因為疲憊或沮喪而「無力地癱坐、垮下」。",
+      "definition": "1. undergo a sudden severe or prolonged fall in price, value, or amount; 2. sit, fall, or sink heavily and limply.",
+      "example": [
+        {
+          "eng": "Property prices began to slump after the economic crisis.",
+          "ch": "房地產價格在經濟危機後開始暴跌。"
+        },
+        {
+          "eng": "Exhausted from the long shift, he slumped into the chair.",
+          "ch": "因為長班而筋疲力盡的他，無力地癱坐在椅子上。"
+        }
+      ]
+    },
+    {
+      "eng": "sly",
+      "kk": "/slaɪ/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "狡猾的",
+          "狡詐的"
+        ]
+      ],
+      "analysis": "此字源自古諾斯語 slœgr（意為靈巧的、狡猾的）。語意從中性「靈巧、手巧」貶義化，現代指人行事「狡猾、暗中藏奸、鬼祟」的特質。",
+      "definition": "1. having or showing a cunning and deceitful nature.",
+      "example": [
+        {
+          "eng": "The sly fox managed to steal food from the yard again.",
+          "ch": "那隻狡猾的狐狸又設法從院子裡偷走了食物。"
+        }
+      ]
+    },
+    {
+      "eng": "smuggle",
+      "kk": "/ˈsmʌɡəl/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "走私",
+          "偷運"
+        ]
+      ],
+      "analysis": "此字源自低地德語 smuggeln 或中古荷蘭語 smuggelen（意為偷偷摸摸地走私）。專指違法將物品秘密運進或運出國境的「走私、偷運」行為。",
+      "definition": "1. move goods illegally into or out of a country.",
+      "example": [
+        {
+          "eng": "Customs officers caught a man trying to smuggle drugs across the border.",
+          "ch": "海關官員抓到一名企圖走私毒品過境的男子。"
+        }
+      ]
+    }
+  ]
+}

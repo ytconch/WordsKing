@@ -1,5 +1,5 @@
 const AnalyticsPage = (() => {
-  const { api, refreshUser, enforcePageAccess, tutorial } = window.WordsApp;
+  const { api, refreshUser, enforcePageAccess } = window.WordsApp;
 
   function escapeHtml(value) {
     return String(value || "")
@@ -102,48 +102,46 @@ const AnalyticsPage = (() => {
     `;
   }
 
-  function renderTrendChart(stats) {
+  let requestId = 0;
+  let requestedRange = "30";
+  let renderedRange = "30";
+  let overviewLoaded = false;
+
+  async function loadGrowth(range) {
+    const id = ++requestId;
+    requestedRange = range;
     const target = document.getElementById("trendList");
-    if (!stats.length) {
-      target.innerHTML = `<div class="empty">近 14 天還沒有作答資料。</div>`;
-      tutorial?.refresh?.();
-      return;
+    const status = document.getElementById("growthStatus");
+    const retry = document.getElementById("growthRetry");
+    const markRange = (value) => document.querySelectorAll("#growthRanges button").forEach((button) => {
+      button.setAttribute("aria-pressed", String(button.dataset.range === value));
+    });
+    markRange(range);
+    target.setAttribute("aria-busy", "true");
+    status.textContent = "正在載入…";
+    retry.hidden = true;
+    try {
+      const data = await api(`/api/analytics/summary?range=${range}`);
+      if (id !== requestId) return;
+      window.GrowthCharts.render(data.growthTrend);
+      renderedRange = range;
+      if (!overviewLoaded) {
+        renderOverview(data);
+        renderModeBreakdown(data.modeBreakdown);
+        renderUnitPerformance(data.unitPerformance);
+        renderWeakWords(data.weakWords);
+        overviewLoaded = true;
+      }
+      status.textContent = "";
+    } catch (error) {
+      if (id !== requestId) return;
+      markRange(renderedRange);
+      status.textContent = `載入失敗：${error.message}。${overviewLoaded ? "仍顯示上次載入的圖表。" : "請重試。"}`;
+      if (!overviewLoaded) target.innerHTML = "";
+      retry.hidden = false;
+    } finally {
+      if (id === requestId) target.setAttribute("aria-busy", "false");
     }
-
-    const maxAttempts = Math.max(...stats.map((item) => Number(item.attempts || 0)), 1);
-
-    target.innerHTML = `
-      <div class="chart-legend">
-        <span><i class="legend-dot total-bar"></i>總作答</span>
-        <span><i class="legend-dot correct-bar"></i>答對</span>
-      </div>
-      <div class="daily-chart-list">
-        ${stats
-          .map((item) => {
-            const attempts = Number(item.attempts || 0);
-            const correctCount = Number(item.correctCount || 0);
-            const attemptHeight = Math.max((attempts / maxAttempts) * 132, attempts ? 14 : 0);
-            const correctHeight = Math.max((correctCount / maxAttempts) * 132, correctCount ? 14 : 0);
-
-            return `
-              <div class="daily-chart-row">
-                <div class="daily-chart-meta">
-                  <div class="chart-label">${escapeHtml(item.studyDate.slice(5))}</div>
-                  <div class="chart-meta">總 ${attempts} / 對 ${correctCount}</div>
-                </div>
-                <div class="daily-chart-plot">
-                  <div class="daily-chart-bars">
-                    <span class="chart-bar total-bar" style="height:${attemptHeight}px"></span>
-                    <span class="chart-bar correct-bar" style="height:${correctHeight}px"></span>
-                  </div>
-                </div>
-              </div>
-            `;
-          })
-          .join("")}
-      </div>
-    `;
-    tutorial?.refresh?.();
   }
 
   function renderModeBreakdown(rows) {
@@ -200,7 +198,6 @@ const AnalyticsPage = (() => {
     const target = document.getElementById("weakWords");
     if (!weakWords.length) {
       target.innerHTML = `<div class="empty">目前沒有需要優先複習的單字。</div>`;
-      tutorial?.refresh?.();
       return;
     }
 
@@ -223,19 +220,17 @@ const AnalyticsPage = (() => {
         `
       )
       .join("");
-    tutorial?.refresh?.();
   }
 
   async function init() {
     await refreshUser();
     if (!enforcePageAccess()) return;
 
-    const data = await api("/api/analytics/summary");
-    renderOverview(data);
-    renderTrendChart(data.dailyTrend);
-    renderModeBreakdown(data.modeBreakdown);
-    renderUnitPerformance(data.unitPerformance);
-    renderWeakWords(data.weakWords);
+    document.querySelectorAll("#growthRanges button").forEach((button) => {
+      button.addEventListener("click", () => loadGrowth(button.dataset.range));
+    });
+    document.getElementById("growthRetry").addEventListener("click", () => loadGrowth(requestedRange));
+    await loadGrowth("30");
   }
 
   return { init };

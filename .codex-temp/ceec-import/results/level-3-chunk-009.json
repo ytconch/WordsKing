@@ -1,0 +1,1273 @@
+{
+  "level": 3,
+  "chunkIndex": 9,
+  "inputs": [
+    "headline",
+    "headquarters",
+    "heal",
+    "heap",
+    "heater",
+    "heel",
+    "hell",
+    "helmet",
+    "hesitate",
+    "hint",
+    "hire",
+    "historian",
+    "historic",
+    "holder",
+    "hollow",
+    "holy",
+    "homesick",
+    "hometown",
+    "honesty",
+    "honor",
+    "hopeful",
+    "horn",
+    "horrible",
+    "horror",
+    "hourly",
+    "housekeeper",
+    "hug",
+    "hum",
+    "humid",
+    "humor",
+    "humorous",
+    "hunger",
+    "hut",
+    "icy",
+    "imagination",
+    "immediate",
+    "import",
+    "impress",
+    "indoor",
+    "indoors",
+    "industrial",
+    "inferior",
+    "inform",
+    "information",
+    "injury",
+    "inn",
+    "inner",
+    "innocent",
+    "inspect",
+    "inspector"
+  ],
+  "rows": [
+    {
+      "eng": "headline",
+      "kk": "ˈhɛdˌlaɪn",
+      "tense": "n.",
+      "ch": [
+        [
+          "頭條新聞",
+          "標題"
+        ],
+        [
+          "大標題",
+          "醒目字體"
+        ]
+      ],
+      "analysis": "此字為現代透明複合詞，由 head（頭、首要的）與 line（線、行）組合而成，字面義為「位於頂端的行」。歷史上於 19 世紀隨著報業發展而出現，原指報紙版面上方用大號字體排印的主要新聞標題，現代引申泛指新聞網站或廣播中的核心摘要標題。",
+      "definition": "1. a heading at the top of an article or page in a newspaper or magazine; 2. a prominent summary of a news story on a broadcast or website.",
+      "example": [
+        {
+          "eng": "The newspaper headline announced the unexpected election results.",
+          "ch": "報紙頭條宣佈了出乎意料的選舉結果。"
+        },
+        {
+          "eng": "Today's main headline focuses on the global economic crisis.",
+          "ch": "今日的主要新聞標題聚焦於全球經濟危機。"
+        }
+      ]
+    },
+    {
+      "eng": "headquarters",
+      "kk": "ˈhɛdˌkwɔrtərz",
+      "tense": "n.",
+      "ch": [
+        [
+          "總部",
+          "總公司",
+          "指揮部"
+        ]
+      ],
+      "analysis": "此字為複合名詞，由 head（頭、首長）與 quarters（住處、營房、部門）結合而成，字面原意為「軍隊首長所在的營地或住處」。後來語意擴大，通用於商業公司、組織或政府機構的最高行政中心或總部。",
+      "definition": "1. the main offices of an organization or company, or the main center of operations for a military force.",
+      "example": [
+        {
+          "eng": "The technology company moved its headquarters to Silicon Valley.",
+          "ch": "這家科技公司將總部搬到了矽谷。"
+        }
+      ]
+    },
+    {
+      "eng": "heal",
+      "kk": "hil",
+      "tense": "vt.",
+      "ch": [
+        [
+          "治癒",
+          "使康復"
+        ],
+        [
+          "化解",
+          "修復（感情或關係）"
+        ]
+      ],
+      "analysis": "此動詞源自古英語 hǣlan（使完整、治癒），與 whole（完整的）及 holy（神聖的）同源。基本語義為「使恢復健康或完整」，經由具體生理傷口的治療，抽象延伸至心理創傷的撫平以及人際關係或分裂局面的修復。",
+      "definition": "1. to cause a wound or physical injury to become healthy again; 2. to cure or restore a difficult situation, emotional wound, or relationship.",
+      "example": [
+        {
+          "eng": "The modern medicine helped heal his injured leg quickly.",
+          "ch": "現代醫學幫助他受傷的腿迅速康復。"
+        },
+        {
+          "eng": "It took years of communication to heal the rift between the two families.",
+          "ch": "花了多年溝通才修復了兩個家族之間的裂痕。"
+        }
+      ]
+    },
+    {
+      "eng": "heal",
+      "kk": "hil",
+      "tense": "vi.",
+      "ch": [
+        [
+          "癒合",
+          "康復"
+        ]
+      ],
+      "analysis": "此為 heal 的不及物用法，源自古英語 hǣlan，專門用來描述傷口、組織或身體狀況自動恢復健康與完整狀態的過程，主詞通常為受傷的部位或病人本身。",
+      "definition": "1. to become healthy or whole again after a wound or injury.",
+      "example": [
+        {
+          "eng": "Broken bones usually take several weeks to heal properly.",
+          "ch": "斷骨通常需要幾週的時間才能正常癒合。"
+        }
+      ]
+    },
+    {
+      "eng": "heap",
+      "kk": "hip",
+      "tense": "n.",
+      "ch": [
+        [
+          "堆",
+          "疊"
+        ],
+        [
+          "許多",
+          "大量"
+        ]
+      ],
+      "analysis": "此字源自古英語 hēap（堆、群），為日耳曼語族繼承詞。本義指雜亂或整齊堆積起來的物品堆；在口語中常複數使用，用來形容數量繁多、一大堆的人事物。",
+      "definition": "1. an untidy pile or mass of things; 2. a large amount or number of something.",
+      "example": [
+        {
+          "eng": "There was a large heap of dirty clothes on the bedroom floor.",
+          "ch": "臥室地板上有一大堆髒衣服。"
+        },
+        {
+          "eng": "We have heaps of time before the train departs.",
+          "ch": "在火車開出之前我們有充裕的時間。"
+        }
+      ]
+    },
+    {
+      "eng": "heap",
+      "kk": "hip",
+      "tense": "vt.",
+      "ch": [
+        [
+          "堆積",
+          "堆起"
+        ],
+        [
+          "給予（讚譽、批評等）"
+        ]
+      ],
+      "analysis": "此動詞由名詞 heap 轉化而來（源自古英語 hēapian），本義指把東西堆成堆；抽象引申用法則常用於將大量的讚美、批評或責備傾注、堆疊在某人身上。",
+      "definition": "1. to pile things into a heap; 2. to give a large amount of something such as praise or criticism to someone.",
+      "example": [
+        {
+          "eng": "She heaped the firewood neatly beside the fireplace.",
+          "ch": "她把木柴整齊地堆在壁爐旁。"
+        },
+        {
+          "eng": "The manager heaped praise on the team for their hard work.",
+          "ch": "經理對團隊的辛勤工作大加讚賞。"
+        }
+      ]
+    },
+    {
+      "eng": "heater",
+      "kk": "ˈhitər",
+      "tense": "n.",
+      "ch": [
+        [
+          "加熱器",
+          "暖氣機"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由動詞 heat（加熱）加上名詞化字尾 -er 組成，指「執行加熱動作的器具或設備」。現代用來指稱室內暖氣設備或各種工業、家用加熱裝置。",
+      "definition": "1. a device used to raise the temperature of a room, water, or an object.",
+      "example": [
+        {
+          "eng": "Turn on the electric heater because the room is freezing.",
+          "ch": "把電暖器打開，因為房間裡冷得要命。"
+        }
+      ]
+    },
+    {
+      "eng": "heel",
+      "kk": "hil",
+      "tense": "n.",
+      "ch": [
+        [
+          "腳後跟",
+          "跟部"
+        ],
+        [
+          "鞋跟"
+        ]
+      ],
+      "analysis": "此字源自古英語 hēla（腳後跟），為日耳曼語族繼承詞。本義指人或動物足部的後端；後來引申指鞋子的後跟部分，以及襪子或麵包塊的底部邊緣。",
+      "definition": "1. the back part of the human foot below the ankle; 2. the raised lower back part of a shoe.",
+      "example": [
+        {
+          "eng": "He felt a sharp pain in his heel after running.",
+          "ch": "他跑步後感到腳後跟一陣劇痛。"
+        },
+        {
+          "eng": "She broke the heel of her shoe while walking on the cobblestones.",
+          "ch": "她在走過卵石路時踩斷了鞋跟。"
+        }
+      ]
+    },
+    {
+      "eng": "hell",
+      "kk": "hɛl",
+      "tense": "n.",
+      "ch": [
+        [
+          "地獄",
+          "陰間"
+        ],
+        [
+          "悲慘處境",
+          "極大的痛苦"
+        ]
+      ],
+      "analysis": "此字源自古英語 hel（隱蔽處、地獄），與 conceal（隱藏）有相同的遠古印歐語根。原意指死後靈魂受懲罰的黑暗地下世界或冥府；在現代語境中也常用於比喻極度痛苦、混亂或糟糕的狀況。",
+      "definition": "1. in various religions, the place where evil souls are punished after death; 2. a situation or place of extreme suffering, misery, or chaos.",
+      "example": [
+        {
+          "eng": "According to ancient myths, sinners would suffer in hell.",
+          "ch": "根據古代神話，罪人在地獄中受苦。"
+        },
+        {
+          "eng": "Going through that severe illness was absolute hell for him.",
+          "ch": "經歷那場大病對他來說簡直是人間煉獄。"
+        }
+      ]
+    },
+    {
+      "eng": "helmet",
+      "kk": "ˈhɛlmɪt",
+      "tense": "n.",
+      "ch": [
+        [
+          "安全帽",
+          "頭盔"
+        ]
+      ],
+      "analysis": "此字源自古法語 helmet（helm 的指小詞），最終源自日耳曼語族。基本結構為 helm（頭盔、護具）加上指小字尾，歷史上原本指中世紀騎士穿戴的金屬戰盔，現代則廣泛用於騎車、施工或運動時保護頭部的安全帽。",
+      "definition": "1. a hard hat worn to protect the head, used by soldiers, construction workers, and cyclists.",
+      "example": [
+        {
+          "eng": "Always wear a safety helmet when riding a motorcycle.",
+          "ch": "騎摩托車時務必戴安全帽。"
+        }
+      ]
+    },
+    {
+      "eng": "hesitate",
+      "kk": "ˈhɛzəˌtet",
+      "tense": "vi.",
+      "ch": [
+        [
+          "猶豫",
+          "遲疑"
+        ],
+        [
+          "顧慮",
+          "躊躇不前"
+        ]
+      ],
+      "analysis": "此動詞借自拉丁語 haesitāt-（意為被纏住、結巴、猶豫），源自拉丁動詞 haerēre（黏住、滯留）。歷史語意由實體的「黏住不動」演變為心理上的「思緒停滯、拿不定主意」。",
+      "definition": "1. to pause before saying or doing something, often because you are nervous, uncertain, or unwilling; 2. to be reluctant to do something without delay.",
+      "example": [
+        {
+          "eng": "She hesitated for a moment before answering the difficult question.",
+          "ch": "她在回答這個困難的問題前猶豫了一會兒。"
+        },
+        {
+          "eng": "Do not hesitate to ask for help if you need it.",
+          "ch": "如果你需要幫助，儘管開口，不用遲疑。"
+        }
+      ]
+    },
+    {
+      "eng": "hint",
+      "kk": "hɪnt",
+      "tense": "n.",
+      "ch": [
+        [
+          "暗示",
+          "提示"
+        ],
+        [
+          "少許",
+          "微量"
+        ]
+      ],
+      "analysis": "此字於 17 世紀由動詞 hint 演變而來（可能與 hie 或 catch 的變體有關）。本義指不直接明說而透過言行給予的線索或暗示；引申也可用來形容某種味道或色彩的「微量、些許」。",
+      "definition": "1. a slight or indirect suggestion or clue; 2. a very small trace or amount of something.",
+      "example": [
+        {
+          "eng": "She gave me a helpful hint on how to solve the puzzle.",
+          "ch": "她給了我一個如何解開這個謎題的好提示。"
+        },
+        {
+          "eng": "There was a hint of sadness in his voice.",
+          "ch": "他的聲音中帶有一絲悲傷。"
+        }
+      ]
+    },
+    {
+      "eng": "hint",
+      "kk": "hɪnt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "暗示",
+          "微露口風"
+        ]
+      ],
+      "analysis": "此動詞源自 17 世紀，原意為暗示或輕輕提及。用法上通常指不直接挑明，而是用含蓄的言辭透露某個意圖或訊息。",
+      "definition": "1. to suggest something indirectly without stating it plainly.",
+      "example": [
+        {
+          "eng": "He hinted that he might resign from his position soon.",
+          "ch": "他暗示自己可能很快會辭去職務。"
+        }
+      ]
+    },
+    {
+      "eng": "hire",
+      "kk": "haɪr",
+      "tense": "vt.",
+      "ch": [
+        [
+          "雇用",
+          "聘用"
+        ],
+        [
+          "租用",
+          "租賃"
+        ]
+      ],
+      "analysis": "此字源自古英語 hȳr（工資、租金）與 hȳrian（支付報酬雇用）。核心語義為「透過支付報酬來獲得勞動力或物品的使用權」，在美式英語中常指雇用員工，英式英語中也常用於租車或租設備。",
+      "definition": "1. to employ someone for wages or a salary; 2. to pay money to use something temporarily, such as a car or equipment.",
+      "example": [
+        {
+          "eng": "The company plans to hire several new software engineers this year.",
+          "ch": "公司計劃今年雇用幾位新的軟體工程師。"
+        },
+        {
+          "eng": "We decided to hire a car for our weekend road trip.",
+          "ch": "我們決定租一輛車去週末公路旅行。"
+        }
+      ]
+    },
+    {
+      "eng": "historian",
+      "kk": "hɪˈstɔriən",
+      "tense": "n.",
+      "ch": [
+        [
+          "歷史學家",
+          "歷史學者"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由希臘拉丁語源 historia（歷史）加上名詞字尾 -an 組成，用來指稱專門研究、記錄或撰寫歷史的專業學者。",
+      "definition": "1. an expert in or student of history, especially one who writes about the past.",
+      "example": [
+        {
+          "eng": "The historian spent decades studying ancient Roman artifacts.",
+          "ch": "這位歷史學家花了數十年研究古羅馬文物。"
+        }
+      ]
+    },
+    {
+      "eng": "historic",
+      "kk": "hɪˈstɔrɪk",
+      "tense": "adj.",
+      "ch": [
+        [
+          "歷史上著名的",
+          "具歷史意義的"
+        ]
+      ],
+      "analysis": "此字源自希臘語 historia 經由拉丁語進入近代英語。專門用來形容某個事件、地點或決策在歷史發展中極為重要、具有重大影響力（注意：不應與 historical「歷史學的」混淆）。",
+      "definition": "1. famous or important in history; likely to be remembered.",
+      "example": [
+        {
+          "eng": "The two nations signed a historic peace treaty yesterday.",
+          "ch": "兩國昨天簽署了一份具有歷史意義的和平條約。"
+        }
+      ]
+    },
+    {
+      "eng": "holder",
+      "kk": "ˈholdɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "持有者",
+          "所有人"
+        ],
+        [
+          "支架",
+          "夾具"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由動詞 hold（握住、持有）加上名詞字尾 -er 組成。字面義為「持有或固定某物的人或物」，既可指權利或門票的擁有者，也可指放置蠟燭、筆或衛生紙的器皿支架。",
+      "definition": "1. a person who owns or possesses something, such as a ticket, office, or property; 2. a device designed to hold something in place.",
+      "example": [
+        {
+          "eng": "Ticket holders are requested to take their seats before the show.",
+          "ch": "請持票人於演出開始前就座。"
+        },
+        {
+          "eng": "She placed a burning candle in a glass holder.",
+          "ch": "她把燃燒的蠟燭放進玻璃燭臺裡。"
+        }
+      ]
+    },
+    {
+      "eng": "hollow",
+      "kk": "ˈhɑloʊ",
+      "tense": "adj.",
+      "ch": [
+        [
+          "中空的",
+          "空心的"
+        ],
+        [
+          "空洞的",
+          "虛偽的"
+        ]
+      ],
+      "analysis": "此字源自古英語 hol（洞、凹陷的），為日耳曼語族繼承詞。本義指內部空無一物、有凹陷或隧道的狀態；抽象引申可用來形容承諾、聲音或笑聲空洞無物、虛偽不實。",
+      "definition": "1. having a hole or empty space inside; not solid; 2. without real value, sincerity, or substance.",
+      "example": [
+        {
+          "eng": "The old tree trunk is completely hollow inside.",
+          "ch": "這棵老樹幹內部完全是空心的。"
+        },
+        {
+          "eng": "His apologies felt hollow and insincere.",
+          "ch": "他的道歉顯得空洞且毫無誠意。"
+        }
+      ]
+    },
+    {
+      "eng": "holy",
+      "kk": "ˈhoʊli",
+      "tense": "adj.",
+      "ch": [
+        [
+          "神聖的",
+          "聖潔的"
+        ]
+      ],
+      "analysis": "此字源自古英語 hālig（神聖的），源自日耳曼語根 hāl（完整的、健康的），與 heal 及 whole 同源。歷史語義由「保持完整、無損」演變為宗教上的「純潔無瑕、屬於神明的、神聖的」。",
+      "definition": "1. dedicated or consecrated to God or a religious purpose; sacred.",
+      "example": [
+        {
+          "eng": "Monks gathered in the temple to perform holy rituals.",
+          "ch": "僧侶們聚集在寺廟中舉行神聖的儀式。"
+        }
+      ]
+    },
+    {
+      "eng": "homesick",
+      "kk": "ˈhoʊmˌsɪk",
+      "tense": "adj.",
+      "ch": [
+        [
+          "想家的",
+          "鄉愁的"
+        ]
+      ],
+      "analysis": "此字為現代透明複合詞，由 home（家）與 sick（生病、痛苦的）結合而成，字面義為「因想念家園而生病的」。用來形容離開家鄉或親人後產生的強烈思念與情緒低落。",
+      "definition": "1. feeling unhappy because you are away from home and miss your family and country.",
+      "example": [
+        {
+          "eng": "During his first week at college, he felt very homesick.",
+          "ch": "在他上大學的第一週裡，他感到非常想家。"
+        }
+      ]
+    },
+    {
+      "eng": "hometown",
+      "kk": "ˈhoʊmˌtaʊn",
+      "tense": "n.",
+      "ch": [
+        [
+          "故鄉",
+          "家鄉"
+        ]
+      ],
+      "analysis": "此字為現代透明複合詞，由 home（家）與 town（城鎮）組合而成。指一個人出生並成長、或長期居住並具有情感連結的城鎮。",
+      "definition": "1. the town or city where you were born or where you grew up.",
+      "example": [
+        {
+          "eng": "After living abroad for ten years, he finally returned to his hometown.",
+          "ch": "在海外生活了十年後，他終於回到了故鄉。"
+        }
+      ]
+    },
+    {
+      "eng": "honesty",
+      "kk": "ˈɑnəsti",
+      "tense": "n.",
+      "ch": [
+        [
+          "誠實",
+          "正直",
+          "坦誠"
+        ]
+      ],
+      "analysis": "此字源自古法語 honesté，最終源自拉丁語 honestas，衍生自 honestus（榮譽的、誠實的、品格高尚的）。核心語義為堅持說真話、不欺騙、品格端正的特質。",
+      "definition": "1. the quality of being honest; telling the truth and refusing to cheat or steal.",
+      "example": [
+        {
+          "eng": "I appreciate your honesty in telling me the truth.",
+          "ch": "我很感激你對我說實話的誠實。"
+        }
+      ]
+    },
+    {
+      "eng": "honor",
+      "kk": "ˈɑnər",
+      "tense": "n.",
+      "ch": [
+        [
+          "榮譽",
+          "光榮"
+        ],
+        [
+          "敬意",
+          "尊崇"
+        ]
+      ],
+      "analysis": "此字源自古法語 honor，最終源自拉丁語 honor（榮譽、敬意、職位）。本義指社會地位帶來的聲譽與尊嚴，或個人崇高的道德操守；也可用於表示對某人的高度敬意或感到榮幸。",
+      "definition": "1. high respect, esteem, or public regard; 2. a privilege or a source of great pride.",
+      "example": [
+        {
+          "eng": "He fought with great courage and brought honor to his country.",
+          "ch": "他英勇作戰，為國家贏得了榮譽。"
+        },
+        {
+          "eng": "It is an absolute honor to meet you in person.",
+          "ch": "能親自見到您真是無上的光榮。"
+        }
+      ]
+    },
+    {
+      "eng": "hopeful",
+      "kk": "ˈhopfəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "抱有希望的",
+          "充滿信心的"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由名詞 hope（希望）加上形容詞字尾 -ful（充滿……的）組成。用來形容對未來或某個局面的發展感到樂觀、期待或有信心。",
+      "definition": "1. believing that something you want will happen; optimistic.",
+      "example": [
+        {
+          "eng": "The coach is hopeful that the team will win the championship.",
+          "ch": "教練對球隊贏得冠軍充滿信心。"
+        }
+      ]
+    },
+    {
+      "eng": "horn",
+      "kk": "hɔrn",
+      "tense": "n.",
+      "ch": [
+        [
+          "角（動物頭部的硬角）"
+        ],
+        [
+          "喇叭",
+          "警報器"
+        ]
+      ],
+      "analysis": "此字源自古英語 horn，為日耳曼語族繼承詞，與印歐語根「尖端、硬角」有關。本義指牛羊等動物頭頂生長的硬角；歷史上動物角曾被用來製作發聲器，因此引申指汽車喇叭、樂器中的號角或警報器。",
+      "definition": "1. a hard, pointed growth on the head of certain animals; 2. a device that makes a loud noise as a warning signal, or a brass musical instrument.",
+      "example": [
+        {
+          "eng": "The bull has two sharp horns on its head.",
+          "ch": "這頭公牛頭上有兩隻尖銳的角。"
+        },
+        {
+          "eng": "The angry driver honked his car horn in heavy traffic.",
+          "ch": "生氣的駕駛在擁擠的車陣中按了汽車喇叭。"
+        }
+      ]
+    },
+    {
+      "eng": "horrible",
+      "kk": "ˈhɔrəbəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "可怕的",
+          "令人恐怖的"
+        ],
+        [
+          "極糟的",
+          "討厭的"
+        ]
+      ],
+      "analysis": "此字源自古法語 horrible，最終源自拉丁語 horribilis（可怕的），衍生自 horrēre（震顫、驚恐）。本義指會引起恐懼或毛骨悚然的感覺；現代口語中也常泛指天氣、食物或經歷極端糟糕、令人不快。",
+      "definition": "1. causing horror, shock, or fear; 2. extremely unpleasant or bad.",
+      "example": [
+        {
+          "eng": "We woke up to the news of a horrible accident.",
+          "ch": "我們醒來時聽聞了一場可怕的事故消息。"
+        },
+        {
+          "eng": "I had a horrible headache all afternoon.",
+          "ch": "我整個下午都頭痛得要命。"
+        }
+      ]
+    },
+    {
+      "eng": "horror",
+      "kk": "ˈhɔrər",
+      "tense": "n.",
+      "ch": [
+        [
+          "驚恐",
+          "恐懼"
+        ],
+        [
+          "恐怖（電影、小說等文類）"
+        ]
+      ],
+      "analysis": "此字源自古法語 horror，源自拉丁語 horror（發抖、恐懼），源自動詞 horrēre。本義指強烈的懼怕、厭惡與震驚感受；在現代文化中也常用來指稱恐怖片或恐怖文學文類。",
+      "definition": "1. an intense feeling of fear, dread, or shock; 2. a genre of literature, film, or art intended to frighten.",
+      "example": [
+        {
+          "eng": "She stared at the scene of destruction in absolute horror.",
+          "ch": "她滿臉驚恐地盯著毀壞的現場。"
+        },
+        {
+          "eng": "He loves reading horror stories late at night.",
+          "ch": "他喜歡在深夜閱讀恐怖故事。"
+        }
+      ]
+    },
+    {
+      "eng": "hourly",
+      "kk": "ˈaʊərli",
+      "tense": "adj.",
+      "ch": [
+        [
+          "每小時的",
+          "按時進行的"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由名詞 hour（小時）加上形容詞與副詞字尾 -ly 組成。形容詞用法指每小時發生一次或以小時計算的頻率。",
+      "definition": "1. happening or done every hour, or calculated by the hour.",
+      "example": [
+        {
+          "eng": "There is an hourly bus service connecting the airport to the city.",
+          "ch": "有連接機場和市區的每小時一班的公車服務。"
+        }
+      ]
+    },
+    {
+      "eng": "housekeeper",
+      "kk": "ˈhaʊsˌkipɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "管家",
+          "家政人員"
+        ]
+      ],
+      "analysis": "此字為現代透明複合詞，由 house（房屋、家庭）與 keeper（看守人、管理者）組合而成。字面義為「管理家務的人」，通常指受雇負責宅邸清潔、烹飪與日常管理的工作人員。",
+      "definition": "1. a person employed to manage the daily household affairs and cleaning of a house.",
+      "example": [
+        {
+          "eng": "The experienced housekeeper prepared breakfast for the family.",
+          "ch": "這位經驗豐富的管家為這家人準備了早餐。"
+        }
+      ]
+    },
+    {
+      "eng": "hug",
+      "kk": "hʌɡ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "擁抱",
+          "摟抱"
+        ],
+        [
+          "緊挨著",
+          "貼近行駛"
+        ]
+      ],
+      "analysis": "此動詞起源於 16 世紀，可能源自斯堪地那維亞語族（與古諾斯語 huga 有關）。本義指雙臂緊緊環抱他人以表達親密或安慰；航海與交通語境中則引申為「緊貼著（海岸或路邊）行駛」。",
+      "definition": "1. to squeeze someone tightly in your arms to express affection or comfort; 2. to stay very close to something, such as a coast or road.",
+      "example": [
+        {
+          "eng": "She ran forward and gave her mother a warm hug.",
+          "ch": "她跑上前去給了母親一個溫暖的擁抱。"
+        },
+        {
+          "eng": "The winding road hugged the steep cliffs of the coastline.",
+          "ch": "這條蜿蜒的道路緊貼著海岸線的陡峭懸崖。"
+        }
+      ]
+    },
+    {
+      "eng": "hum",
+      "kk": "hʌm",
+      "tense": "vi.",
+      "ch": [
+        [
+          "哼唱",
+          "哼曲子"
+        ],
+        [
+          "發出嗡嗡聲"
+        ]
+      ],
+      "analysis": "此字為擬聲詞（onomatopoeia），模仿閉著嘴巴發出的低沉持續聲音或機械運轉聲。可用於人閉嘴哼歌，或形容昆蟲、發電機運轉時的嗡嗡聲。",
+      "definition": "1. to make a low, continuous sound by singing with closed lips; 2. to make a steady, low-pitched droning sound like a machine or insect.",
+      "example": [
+        {
+          "eng": "She hummed a cheerful tune while washing the dishes.",
+          "ch": "她洗碗時哼著一首輕快的曲子。"
+        },
+        {
+          "eng": "The old refrigerator started to hum loudly in the kitchen.",
+          "ch": "舊冰箱開始在廚房裡大聲發出嗡嗡聲。"
+        }
+      ]
+    },
+    {
+      "eng": "humid",
+      "kk": "ˈhjumɪd",
+      "tense": "adj.",
+      "ch": [
+        [
+          "潮濕的",
+          "悶熱的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 humidus（潮濕的、潤澤的），源自 hūmēre（潮濕）。專門用來形容空氣中含有大量水分、令人感到溫暖而濕潤的天氣或氣候環境。",
+      "definition": "1. containing a high amount of water vapor; damp and warm.",
+      "example": [
+        {
+          "eng": "Summer days in this tropical region are extremely hot and humid.",
+          "ch": "這個熱帶地區的夏天又熱又潮濕。"
+        }
+      ]
+    },
+    {
+      "eng": "humor",
+      "kk": "ˈhjumər",
+      "tense": "n.",
+      "ch": [
+        [
+          "幽默",
+          "幽默感"
+        ],
+        [
+          "心情",
+          "情緒"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 humor（液體、體液）。在古代醫學理論中，人體的四種「體液」被認為決定了人的性格與心情（如 sanguis、cholera 等），隨後語意演變出「心情、脾氣」，並在近代發展出「讓人發笑、風趣」的現代幽默感義項。",
+      "definition": "1. the quality of being amusing or comic; 2. a state of mind or mood.",
+      "example": [
+        {
+          "eng": "His dry humor always makes everyone in the office laugh.",
+          "ch": "他冷面幽默的風格總是逗得辦公室裡每個人哈哈大笑。"
+        },
+        {
+          "eng": "The boss was in a good humor this morning.",
+          "ch": "老闆今天早上心情很好。"
+        }
+      ]
+    },
+    {
+      "eng": "humorous",
+      "kk": "ˈhjumərəs",
+      "tense": "adj.",
+      "ch": [
+        [
+          "幽默的",
+          "滑稽的",
+          "風趣的"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由名詞 humor（幽默）加上形容詞字尾 -ous（充滿……的）組成。用來形容人、故事或言談具有幽默感、能引人發笑。",
+      "definition": "1. causing laughter and amusement; funny and entertaining.",
+      "example": [
+        {
+          "eng": "The speaker told a humorous story to start his presentation.",
+          "ch": "演講者講了一個幽默的故事來作為開場白。"
+        }
+      ]
+    },
+    {
+      "eng": "hunger",
+      "kk": "ˈhʌŋɡər",
+      "tense": "n.",
+      "ch": [
+        [
+          "飢餓",
+          "飢荒"
+        ],
+        [
+          "強烈的渴望"
+        ]
+      ],
+      "analysis": "此字源自古英語 hungor（飢餓），為日耳曼語族繼承詞。本義指因缺乏食物而產生的生理飢餓感或大規模飢荒；抽象引申指對成功、知識或權力等事物的高度渴望。",
+      "definition": "1. an uncomfortable physical feeling caused by the need for food, or a severe shortage of food; 2. a strong desire or craving for something.",
+      "example": [
+        {
+          "eng": "Many children in developing countries suffer from extreme hunger.",
+          "ch": "發展中國家的許多兒童遭受極度飢餓之苦。"
+        },
+        {
+          "eng": "He has an endless hunger for knowledge and science books.",
+          "ch": "他對知識和科學書籍有著無止境的渴望。"
+        }
+      ]
+    },
+    {
+      "eng": "hut",
+      "kk": "hʌt",
+      "tense": "n.",
+      "ch": [
+        [
+          "小屋",
+          "茅屋",
+          "臨時棚屋"
+        ]
+      ],
+      "analysis": "此字經由中世紀法語 hute 進入英語，源自日耳曼語族（與德語 Hütte 相關）。指結構簡單、用木頭、茅草或金屬搭成的簡陋小型房舍或工作棚。",
+      "definition": "1. a small, simple, and rough shelter or dwelling.",
+      "example": [
+        {
+          "eng": "The fishermen built a small wooden hut by the beach.",
+          "ch": "漁夫們在海灘旁搭建了一間小木屋。"
+        }
+      ]
+    },
+    {
+      "eng": "icy",
+      "kk": "ˈaɪsi",
+      "tense": "adj.",
+      "ch": [
+        [
+          "結冰的",
+          "冰冷的"
+        ],
+        [
+          "冷淡的（態度）"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由名詞 ice（冰）加上形容詞字尾 -y 組成。本義指表面覆蓋著冰或溫度極低像冰一樣；引申用來形容人的態度冰冷、不友善。",
+      "definition": "1. covered with ice or extremely cold; 2. unfriendly, hostile, or showing no emotion.",
+      "example": [
+        {
+          "eng": "Be careful when driving because the roads are icy this morning.",
+          "ch": "駕駛時要小心，因為今天早上道路結冰了。"
+        },
+        {
+          "eng": "She gave him an icy stare and walked away.",
+          "ch": "她冷冷地瞪了他一眼，然後走開了。"
+        }
+      ]
+    },
+    {
+      "eng": "imagination",
+      "kk": "ɪˌmædʒəˈneʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "想像力"
+        ],
+        [
+          "想像出的事物",
+          "幻想"
+        ]
+      ],
+      "analysis": "此字源自古法語 imagination，最終源自拉丁語 imaginātiōn-，衍生自 imaginārī（想像、形成心智圖像）。指心智中創造新奇想法、影像或虛構情境的能力，或指腦海中產生的具體幻想畫面。",
+      "definition": "1. the ability to form mental images, ideas, or concepts of things that are not real or present; 2. something imagined or created in the mind.",
+      "example": [
+        {
+          "eng": "Children often have vivid imaginations and love fantasy stories.",
+          "ch": "小孩子通常有生動的想像力，並且熱愛奇幻故事。"
+        },
+        {
+          "eng": "Hearing strange noises in the dark was just a trick of his imagination.",
+          "ch": "在黑暗中聽到奇怪的聲音只是他自己的幻想。"
+        }
+      ]
+    },
+    {
+      "eng": "immediate",
+      "kk": "ɪˈmidiət",
+      "tense": "adj.",
+      "ch": [
+        [
+          "立即的",
+          "即時的"
+        ],
+        [
+          "緊鄰的",
+          "最接近的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 immediātus（無間隔的、直接的），由字首 in-（不）加 medius（中間的）組合而成，字面義為「中間沒有間隔的、直接接觸的」。時間上引申為「立即發生、不加延遲的」，空間或關係上指「最直接或最親近的（如 immediate family 直系親屬）」。",
+      "definition": "1. happening or done without any delay; instant; 2. nearest in space, time, or relationship without an intervening medium.",
+      "example": [
+        {
+          "eng": "The patient requires immediate medical attention.",
+          "ch": "這位病人需要立即的醫療照護。"
+        },
+        {
+          "eng": "Only immediate family members were invited to the small wedding.",
+          "ch": "只有直系親屬受邀參加這場小型婚禮。"
+        }
+      ]
+    },
+    {
+      "eng": "import",
+      "kk": "ˈɪmˌpɔrt",
+      "tense": "n.",
+      "ch": [
+        [
+          "進口商品",
+          "進口"
+        ],
+        [
+          "重大意義",
+          "重要性"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 importāre（帶入、引入），由字首 in-（入）與 portare（攜帶）複合而成。名詞發音重音在前，本義指從國外輸入的商品，或抽象引申指事件的重要意涵與影響力。",
+      "definition": "1. a commodity, good, or service brought in from another country for sale; 2. the importance or significance of something.",
+      "example": [
+        {
+          "eng": "The country relies heavily on the import of oil and natural gas.",
+          "ch": "這個國家高度依賴石油和天然氣的進口。"
+        },
+        {
+          "eng": "The politicians failed to realize the full import of the new policy.",
+          "ch": "政治人物們未能意識到這項新政策的重大意義。"
+        }
+      ]
+    },
+    {
+      "eng": "impress",
+      "kk": "ɪmˈprɛs",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使留下深刻印象",
+          "使欽佩"
+        ],
+        [
+          "壓印",
+          "蓋印"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 impressus（壓入、印上），由同化字首 in-（進入）與 premere（壓）複合而成。本義是物理上的「將印章或圖案壓刻在表面上」；中世紀後經由「將觀念深刻印在心頭」的隱喻，演變為現代的「使人佩服、印象深刻」。",
+      "definition": "1. to cause someone to feel admiration and respect; 2. to press or stamp a mark or design onto a surface.",
+      "example": [
+        {
+          "eng": "Her extensive knowledge of art and history impressed the interviewers.",
+          "ch": "她淵博的藝術與歷史知識讓面試官留下深刻的印象。"
+        },
+        {
+          "eng": "The craftsman impressed a floral pattern into the soft clay.",
+          "ch": "工匠將花卉圖案壓印在柔軟的黏土中。"
+        }
+      ]
+    },
+    {
+      "eng": "indoor",
+      "kk": "ˈɪnˌdɔr",
+      "tense": "adj.",
+      "ch": [
+        [
+          "室內的"
+        ]
+      ],
+      "analysis": "此字為現代透明複合詞，由副詞片語 in doors（在門內）演變而來的複合形容詞。專門置於名詞前方，用來修飾在建築物內部進行或使用的活動、設施。",
+      "definition": "1. located, situated, or performed inside a building rather than outdoors.",
+      "example": [
+        {
+          "eng": "The sports center features a large heated indoor swimming pool.",
+          "ch": "這座運動中心設有一個大型溫水室內游泳池。"
+        }
+      ]
+    },
+    {
+      "eng": "indoors",
+      "kk": "ˈɪnˌdɔrz",
+      "tense": "adv.",
+      "ch": [
+        [
+          "在室內",
+          "往室內"
+        ]
+      ],
+      "analysis": "此字為歷史副詞，由介系詞 in 加上複數名詞 doors（門戶）組合而成。用來修飾動詞，表示動作發生在建築物裡面或移動進入屋內。",
+      "definition": "1. into or inside a building.",
+      "example": [
+        {
+          "eng": "It started to rain heavily, so we rushed indoors.",
+          "ch": "開始下起大雨，於是我們趕忙跑進室內。"
+        }
+      ]
+    },
+    {
+      "eng": "industrial",
+      "kk": "ɪnˈdʌstriəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "工業的",
+          "產業的"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由名詞 industry（工業、產業）加上形容詞字尾 -ial 組成。用來修飾與工廠製造業、工業生產或工業區劃分相關的事物。",
+      "definition": "1. relating to or connected with industry, manufacturing, or factories.",
+      "example": [
+        {
+          "eng": "The city is well-known for its large industrial manufacturing sector.",
+          "ch": "這座城市以其龐大的工業製造業聞名。"
+        }
+      ]
+    },
+    {
+      "eng": "inferior",
+      "kk": "ɪnˈfɪriər",
+      "tense": "adj.",
+      "ch": [
+        [
+          "次等的",
+          "較差的",
+          "下級的"
+        ]
+      ],
+      "analysis": "此字借自拉丁語 inferior（更低處的、次要的），為拉丁語 inferus（下面的）的比較級形式。本義指在空間位置上較低，引申在品質、地位或能力上「比不上他人、次等或較差」。",
+      "definition": "1. lower in rank, status, quality, or value than something else.",
+      "example": [
+        {
+          "eng": "Cheap counterfeit products are usually of inferior quality.",
+          "ch": "廉價的仿冒品通常品質低劣。"
+        },
+        {
+          "eng": "He refused to feel inferior to anyone despite his background.",
+          "ch": "儘管背景普通，他拒絕認為自己比任何人低人一等。"
+        }
+      ]
+    },
+    {
+      "eng": "inform",
+      "kk": "ɪnˈfɔrm",
+      "tense": "vt.",
+      "ch": [
+        [
+          "通知",
+          "告知",
+          "向……報告"
+        ]
+      ],
+      "analysis": "此字源自古法語 informer，最終源自拉丁語 informāre（塑造、指引、向人傳授），由字首 in-（進入）與 forma（形狀、形式）複合而成。字面義為「在心智中塑形」，歷史語意逐漸演變為「向某人提供資訊、通報訊息」。",
+      "definition": "1. to give someone facts or information; to tell.",
+      "example": [
+        {
+          "eng": "Please inform all employees about the upcoming schedule change.",
+          "ch": "請將即將到來的行程變更通知所有員工。"
+        }
+      ]
+    },
+    {
+      "eng": "information",
+      "kk": "ˌɪnfɚˈmeʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "資訊",
+          "訊息",
+          "資料"
+        ]
+      ],
+      "analysis": "此字源自古法語 information，最終源自拉丁語 informātiōn-（心智的形塑、解釋），由動詞 informare 衍生而來。在現代英語中專門指經過收集、整理或傳遞的知識、數據與各種訊息。",
+      "definition": "1. facts or details provided or learned about something or someone.",
+      "example": [
+        {
+          "eng": "You can find all the necessary travel information on our official website.",
+          "ch": "您可以在我們的官方網站上找到所有必要的旅遊資訊。"
+        }
+      ]
+    },
+    {
+      "eng": "injury",
+      "kk": "ˈɪndʒəri",
+      "tense": "n.",
+      "ch": [
+        [
+          "傷害",
+          "受傷部位"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 iniuria（不正義、不法侵害、損害），由 in-（不）與 ius（法律、正義）複合而成。歷史語意由法律上的「不公與侵害」逐漸演變為實體身體所受到的損害或創傷。",
+      "definition": "1. physical harm or damage to a person's body caused by an accident or attack.",
+      "example": [
+        {
+          "eng": "He suffered a serious knee injury during the soccer match.",
+          "ch": "他在足球比賽中遭受了嚴重的膝蓋傷害。"
+        }
+      ]
+    },
+    {
+      "eng": "inn",
+      "kk": "ɪn",
+      "tense": "n.",
+      "ch": [
+        [
+          "客棧",
+          "小旅館",
+          "鄉間小酒館"
+        ]
+      ],
+      "analysis": "此字源自古英語 inn（房舍、住所），為日耳曼語族繼承詞。本義指旅人歇宿的小型旅館或附設餐飲的鄉間客棧，在英國歷史上經常兼具酒館功能。",
+      "definition": "1. a small hotel or pub, typically located in the countryside, providing lodging and food for travelers.",
+      "example": [
+        {
+          "eng": "The weary travelers stopped at a cozy country inn for the night.",
+          "ch": "疲憊的旅客在一家舒適的鄉間小客棧過夜。"
+        }
+      ]
+    },
+    {
+      "eng": "inner",
+      "kk": "ˈɪnər",
+      "tense": "adj.",
+      "ch": [
+        [
+          "內部的",
+          "內心的"
+        ]
+      ],
+      "analysis": "此字源自古英語 innerra，為介系詞 in 的比較級形容詞形式。本義指位於更裡面、核心區域的物體；抽象引申指個人的內心世界、私密想法或情感。",
+      "definition": "1. situated closer to the center or inside; 2. relating to a person's private thoughts and feelings.",
+      "example": [
+        {
+          "eng": "The secret documents were kept locked in an inner office.",
+          "ch": "機密文件被鎖在裏面的辦公室裡。"
+        },
+        {
+          "eng": "Meditation helps you connect with your inner peace.",
+          "ch": "冥想有助於你連結內心的平靜。"
+        }
+      ]
+    },
+    {
+      "eng": "innocent",
+      "kk": "ˈɪnəsənt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "無辜的",
+          "清白的"
+        ],
+        [
+          "天真無邪的"
+        ]
+      ],
+      "analysis": "此字源自古法語 innocent，最終源自拉丁語 innocēns（無害的、清白的），由字首 in-（不）與 nocēre（傷害）複合而成，字面義為「不會傷害人的、無罪的」。語意延伸出不知世事、天真無邪的特質。",
+      "definition": "1. not guilty of a crime or offense; 2. lacking knowledge of evil; naive and pure.",
+      "example": [
+        {
+          "eng": "The jury found the accused man innocent of all charges.",
+          "ch": "陪審團裁定被指控的男子無罪。"
+        },
+        {
+          "eng": "The child looked up with wide, innocent eyes.",
+          "ch": "那孩子睜著一雙大而天真的眼睛向上看。"
+        }
+      ]
+    },
+    {
+      "eng": "inspect",
+      "kk": "ɪnˈspɛkt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "檢查",
+          "視察",
+          "檢閱"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 inspectus（檢視、查看），由同化字首 in-（向內、仔細）與 specere（看）複合而成。字面義為「仔細向內審視」，現代用來指官方、主管或專業人員對物品、建築或部隊進行詳細檢查與視察。",
+      "definition": "1. to look at something closely and carefully to check its condition or quality.",
+      "example": [
+        {
+          "eng": "The health inspector came to inspect the restaurant kitchen.",
+          "ch": "衛生稽查員前來檢查餐廳的廚房。"
+        }
+      ]
+    },
+    {
+      "eng": "inspector",
+      "kk": "ɪnˈspɛktər",
+      "tense": "n.",
+      "ch": [
+        [
+          "檢查員",
+          "督察",
+          "警官"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由動詞 inspect（檢查）加上表示人的名詞字尾 -or 組成。用來指稱受委託負責檢查、調查或監督的公務人員、警察高階警官或品質檢驗員。",
+      "definition": "1. an official whose job is to check that rules are obeyed or that standards are met, or a police officer of high rank.",
+      "example": [
+        {
+          "eng": "Ticket inspectors checked everyone's train passes before departure.",
+          "ch": "查票員在發車前檢查了每個人的火車通行證。"
+        }
+      ]
+    }
+  ]
+}

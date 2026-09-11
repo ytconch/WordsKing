@@ -1,0 +1,1317 @@
+{
+  "level": 4,
+  "chunkIndex": 12,
+  "inputs": [
+    "innocence",
+    "input",
+    "insert",
+    "inspection",
+    "inspiration",
+    "inspire",
+    "install",
+    "instinct",
+    "instruct",
+    "instructor",
+    "insult",
+    "insurance",
+    "intellectual",
+    "intelligence",
+    "intend",
+    "intense",
+    "intensity",
+    "intensive",
+    "intention",
+    "interact",
+    "interaction",
+    "interfere",
+    "intermediate",
+    "interpret",
+    "interruption",
+    "intimate",
+    "intuition",
+    "invade",
+    "invasion",
+    "invention",
+    "invest",
+    "investment",
+    "investigation",
+    "involve",
+    "involvement",
+    "isolate",
+    "isolation",
+    "issue",
+    "jealousy",
+    "keen",
+    "kettle",
+    "kneel",
+    "knob",
+    "labor",
+    "laboratory",
+    "lab",
+    "lag",
+    "landmark",
+    "landscape",
+    "largely"
+  ],
+  "rows": [
+    {
+      "eng": "innocence",
+      "kk": "ˈɪnəsəns",
+      "tense": "n.",
+      "ch": [
+        [
+          "無辜",
+          "清白"
+        ],
+        [
+          "天真",
+          "純潔"
+        ]
+      ],
+      "analysis": "此字為名詞，由形容詞 innocent 加上名詞字尾 -ence 構成。源自拉丁語 innocentia（意為清白、無害），由否定字首 in-（不、無）結合動詞 nocere（傷害）衍生而來的字根，再加上名詞字尾組合而成。語義從「不具傷害性」演變為法律上的「無辜清白」，再引申出心智上的「天真純潔」。",
+      "definition": "1. the state of not being guilty of a crime or offense; 2. the quality of being innocent, lacking worldly experience, or naive.",
+      "example": [
+        {
+          "eng": "She proved her innocence after months of investigation.",
+          "ch": "經過幾個月的調查，她證明了自己的清白。"
+        },
+        {
+          "eng": "There was a touching sense of innocence in his eyes.",
+          "ch": "他的眼神中流露出令人動容的天真。"
+        }
+      ]
+    },
+    {
+      "eng": "input",
+      "kk": "ˈɪnˌpʊt",
+      "tense": "n.",
+      "ch": [
+        [
+          "輸入",
+          "投入"
+        ],
+        [
+          "意見",
+          "回饋"
+        ]
+      ],
+      "analysis": "此字為名詞，由介系詞與副詞字首 in-（進入）與動詞 put（放置）結合而成的現代複合詞。語義從原本物理上的「放進去、輸入（資料或能量）」抽象化，延伸出在討論或決策中「提供的意見、建議或觀點」。",
+      "definition": "1. data or power supplied to a computer or system; 2. advice, opinions, or ideas provided to help in a process.",
+      "example": [
+        {
+          "eng": "The system requires manual input of data.",
+          "ch": "該系統需要手動輸入資料。"
+        },
+        {
+          "eng": "We need your input on the new project design.",
+          "ch": "我們需要你對新專案設計的意見。"
+        }
+      ]
+    },
+    {
+      "eng": "input",
+      "kk": "ˈɪnˌpʊt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "輸入"
+        ],
+        [
+          "投入"
+        ]
+      ],
+      "analysis": "此動詞用法由名詞 input 轉品而來（或由 in- 與 put 結合直接作動詞使用），為及物動詞。核心義為將資料、指令或物質放進系統或設備中。",
+      "definition": "1. to enter data into a computer or system; 2. to put information or resources into an activity.",
+      "example": [
+        {
+          "eng": "Please input your password to continue.",
+          "ch": "請輸入你的密碼以繼續。"
+        },
+        {
+          "eng": "She inputs a great deal of effort into her work.",
+          "ch": "她在工作上投入了大量的精力。"
+        }
+      ]
+    },
+    {
+      "eng": "insert",
+      "kk": "ɪnˈsɝt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "插入",
+          "嵌入"
+        ],
+        [
+          "登載",
+          "刊登"
+        ]
+      ],
+      "analysis": "此字為及物動詞，由拉丁語字首 in-（進入）結合動詞 serere（接合、串聯、放置）演變而來。經由拉丁語 insertus 進入英語。核心義為「將某物放進另一物的內部或中間」，進而引申出在文章或刊物中「插入文字或廣告」。",
+      "definition": "1. to put something inside or into something else; 2. to place or include text or an advertisement in a publication.",
+      "example": [
+        {
+          "eng": "Insert the key into the lock and turn it.",
+          "ch": "將鑰匙插入鎖孔並轉動它。"
+        },
+        {
+          "eng": "They decided to insert an ad in the local newspaper.",
+          "ch": "他們決定在當地報紙上刊登一則廣告。"
+        }
+      ]
+    },
+    {
+      "eng": "inspection",
+      "kk": "ɪnˈspɛkʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "檢查",
+          "視察"
+        ],
+        [
+          "審查",
+          "檢閱"
+        ]
+      ],
+      "analysis": "此字為名詞，對應動詞 inspect，由拉丁語 prefix in-（向內、加強）結合動詞 specere（看）衍生的詞幹 spect-，再加上名詞字尾 -ion 構成。核心義為「仔細地看」，演變為對物品、場所或機關進行官方或系統性的「檢查、視察、審查」。",
+      "definition": "1. careful examination or official review; 2. a formal or official viewing of a place or equipment.",
+      "example": [
+        {
+          "eng": "The factory is closed for annual safety inspection.",
+          "ch": "該工廠因年度安全檢查而關閉。"
+        },
+        {
+          "eng": "The general carried out an inspection of the troops.",
+          "ch": "將軍對部隊進行了檢閱。"
+        }
+      ]
+    },
+    {
+      "eng": "inspiration",
+      "kk": "ˌɪnspəˈreʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "靈感"
+        ],
+        [
+          "鼓舞",
+          "啟發人心的人或事物"
+        ]
+      ],
+      "analysis": "此字為名詞，對應動詞 inspire，由拉丁語 prefix in-（進入）加上 spirare（呼吸）組成的動詞 inspirare，再轉為名詞字尾 -ation。原意為「吸氣、吹氣進去」，在宗教與哲學上引申為「神靈將靈氣吹入人心」，進而演變出現代的「創作靈感」或「激勵人心的事物」。",
+      "definition": "1. the process of being mentally stimulated to do or feel something, especially to do something creative; 2. a person or thing that arouses a desirable feeling or creative impulse.",
+      "example": [
+        {
+          "eng": "Nature is the main inspiration for his paintings.",
+          "ch": "大自然是他繪畫的主要靈感來源。"
+        },
+        {
+          "eng": "Her courage is an inspiration to all of us.",
+          "ch": "她的勇氣對我們所有人都是一種鼓舞。"
+        }
+      ]
+    },
+    {
+      "eng": "inspire",
+      "kk": "ɪnˈspaɪr",
+      "tense": "vt.",
+      "ch": [
+        [
+          "激勵",
+          "鼓舞"
+        ],
+        [
+          "賦予靈感",
+          "啟發"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自古法語 inspirer，最終源自拉丁語 inspirare（in- 進入 + spirare 呼吸）。字面義為「吹氣進入」，歷史上演變為「將神聖的思想或熱情注入心中」，現代則指「激勵他人採取行動」或「激發創作靈感」。",
+      "definition": "1. to fill someone with the urge or ability to do or feel something; 2. to give someone the enthusiasm or ideas to create something.",
+      "example": [
+        {
+          "eng": "The coach's speech inspired the team to win the game.",
+          "ch": "教練的演說激勵了球隊贏得比賽。"
+        },
+        {
+          "eng": "The beautiful scenery inspired her to write a poem.",
+          "ch": "美麗的風景啟發她寫了一首詩。"
+        }
+      ]
+    },
+    {
+      "eng": "install",
+      "kk": "ɪnˈstɔl",
+      "tense": "vt.",
+      "ch": [
+        [
+          "安裝",
+          "設置"
+        ],
+        [
+          "使就職",
+          "安置"
+        ]
+      ],
+      "analysis": "此字為及物動詞，由中古拉丁語 installare（in- 進入 + stallum 席位、攤位，源自日耳曼語支），意為「安置於席位中」。經由中世紀拉丁語及古法語演變而來。語義從「安置於特定座位或職位」擴大為「安裝設備、軟體或系統」。",
+      "definition": "1. to place in position or connect equipment ready for use; 2. to place someone in an official position.",
+      "example": [
+        {
+          "eng": "They will install the new air conditioner tomorrow.",
+          "ch": "他們明天將安裝新冷氣機。"
+        },
+        {
+          "eng": "The new president was installed in office.",
+          "ch": "新總統宣誓就職。"
+        }
+      ]
+    },
+    {
+      "eng": "instinct",
+      "kk": "ˈɪnˌstɪŋkt",
+      "tense": "n.",
+      "ch": [
+        [
+          "本能",
+          "直覺"
+        ]
+      ],
+      "analysis": "此字為名詞，源自拉丁語 instinctus（意為刺激、衝動），由 prefix in-（向內、加強）結合動詞 stinguere（刺、戳）的過去分詞詞幹構成。原意為內心的刺痛或推動力量，演變為生物與生俱來的「本能」或人類的「直覺」。",
+      "definition": "1. an innate, typically fixed pattern of behavior in animals in response to certain stimuli; a natural propensity or intuition.",
+      "example": [
+        {
+          "eng": "Birds migrate by instinct as winter approaches.",
+          "ch": "冬天來臨時，鳥類憑本能遷徙。"
+        }
+      ]
+    },
+    {
+      "eng": "instruct",
+      "kk": "ɪnˈstrʌkt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "指導",
+          "教導"
+        ],
+        [
+          "指示",
+          "命令"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自拉丁語 instructus，由 prefix in-（進入、向內）加上 struere（建造、堆疊）組合而成。字面義為「在心智上建構」，演變為「教導知識、訓練技能」或正式的「下達指示與命令」。",
+      "definition": "1. to teach someone a subject or skill; 2. to direct or command someone to do something.",
+      "example": [
+        {
+          "eng": "She was hired to instruct the staff in computer skills.",
+          "ch": "她被聘來指導員工電腦技能。"
+        },
+        {
+          "eng": "The boss instructed him to finish the report by Friday.",
+          "ch": "老闆指示他在星期五前完成報告。"
+        }
+      ]
+    },
+    {
+      "eng": "instructor",
+      "kk": "ɪnˈstrʌktɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "教練",
+          "導師",
+          "講師"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 instruct 加上表示人的名詞字尾 -or 構成。指負責「指導、教導」特定技能、學科或體育項目的專業人員。",
+      "definition": "1. a person who teaches a skill or subject, often at a college or in a practical field.",
+      "example": [
+        {
+          "eng": "He is a professional driving instructor.",
+          "ch": "他是一位專業的駕駛教練。"
+        }
+      ]
+    },
+    {
+      "eng": "insult",
+      "kk": "ɪnˈsʌlt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "侮辱",
+          "罵"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自拉丁語 insultare（意為跳躍於其上、嘲弄），由 prefix in-（在...之上）結合 saltare（跳躍）。歷史上從「踩在某人身上」的實體動作，演變成言語或行為上的「侮辱、冒犯」。",
+      "definition": "1. to speak to or treat someone with disrespect or offensive remarks.",
+      "example": [
+        {
+          "eng": "He felt insulted by her rude comments.",
+          "ch": "他對她粗魯的評論感到受到侮辱。"
+        }
+      ]
+    },
+    {
+      "eng": "insurance",
+      "kk": "ɪnˈʃʊrəns",
+      "tense": "n.",
+      "ch": [
+        [
+          "保險"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 ensure（或 insure，意為確保、使安全）加上名詞字尾 -ance 構成。源自古法語 enseurer。核心義為透過定期繳費來「確保」在遭遇意外或損失時獲得經濟補償的制度或契約。",
+      "definition": "1. an arrangement by which a company provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment.",
+      "example": [
+        {
+          "eng": "You should buy travel insurance before going abroad.",
+          "ch": "出國前你應該買旅遊保險。"
+        }
+      ]
+    },
+    {
+      "eng": "intellectual",
+      "kk": "ˌɪntəlˈɛktʃuəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "智力的",
+          "理智的"
+        ],
+        [
+          "善於思考的",
+          "知識份子的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自拉丁語 intellectualis，由 intellectus（理解力、智力）加上形容詞字尾 -ual 構成。指與「大腦思考、理解、學術能力」相關的事物，或指重視心智活動的人。",
+      "definition": "1. relating to the ability to think and understand things logically and mentally; 2. possessing or showing a high degree of understanding and mental capacity.",
+      "example": [
+        {
+          "eng": "Reading challenging books stimulates your intellectual growth.",
+          "ch": "閱讀具挑戰性的書籍能促進你的智力成長。"
+        },
+        {
+          "eng": "She comes from an intellectual family.",
+          "ch": "她出身於知識份子家庭。"
+        }
+      ]
+    },
+    {
+      "eng": "intelligence",
+      "kk": "ɪnˈtɛlədʒəns",
+      "tense": "n.",
+      "ch": [
+        [
+          "智力",
+          "理解力"
+        ],
+        [
+          "情資",
+          "情報"
+        ]
+      ],
+      "analysis": "此字為名詞，源自拉丁語 intelligentia，由 intelligere（理解、察覺，源自 inter- 之間 + legere 選擇、收集）加上名詞字尾 -ence。原意為「辨別與理解的能力」，在現代英語中除了解作「智商、聰明才智」外，在軍事與政治語境中也常用來指「情報、情資」。",
+      "definition": "1. the ability to acquire and apply knowledge and skills; 2. secret information about an enemy or government.",
+      "example": [
+        {
+          "eng": "Dolphins are known for their high level of intelligence.",
+          "ch": "海豚以高度的智力聞名。"
+        },
+        {
+          "eng": "The agency gathered vital intelligence before the operation.",
+          "ch": "該機構在行動前蒐集了關鍵情報。"
+        }
+      ]
+    },
+    {
+      "eng": "intend",
+      "kk": "ɪnˈtɛnd",
+      "tense": "vt.",
+      "ch": [
+        [
+          "打算",
+          "意欲"
+        ],
+        [
+          "意指",
+          "旨在"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自拉丁語 intendere（意為伸展、轉向、指向），由 in-（朝向）+ tendere（伸展）。歷史上從「將心智或注意力伸展指向某個目標」，演變為現代的「計畫、打算」以及「意指某事」。",
+      "definition": "1. to plan or want to do something; 2. to have as a course or purpose; to signify.",
+      "example": [
+        {
+          "eng": "I intend to finish this report by tonight.",
+          "ch": "我打算在今晚以前完成這份報告。"
+        },
+        {
+          "eng": "What do you intend by that remark?",
+          "ch": "你那句話是什麼意思？"
+        }
+      ]
+    },
+    {
+      "eng": "intense",
+      "kk": "ɪnˈtɛns",
+      "tense": "adj.",
+      "ch": [
+        [
+          "強烈的",
+          "劇烈的"
+        ],
+        [
+          "緊張的",
+          "激烈的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自拉丁語 intensus（意為拉緊的、高度集中的），為 intendere（伸展、拉緊）的過去分詞。原意為「被拉緊的」，引申為力量、情感或狀況達到「強烈、劇烈、高度集中」的程度。",
+      "definition": "1. of extreme force, degree, or strength; 2. feeling very strong emotions or having a serious, concentrated nature.",
+      "example": [
+        {
+          "eng": "The athletes trained under intense heat.",
+          "ch": "運動員在酷熱的高溫下訓練。"
+        },
+        {
+          "eng": "There was an intense debate between the two candidates.",
+          "ch": "兩位候選人之間展開了激烈的辯論。"
+        }
+      ]
+    },
+    {
+      "eng": "intensity",
+      "kk": "ɪnˈtɛnsəti",
+      "tense": "n.",
+      "ch": [
+        [
+          "強度",
+          "劇烈"
+        ],
+        [
+          "熱度",
+          "專注程度"
+        ]
+      ],
+      "analysis": "此字為名詞，由形容詞 intense 加上名詞字尾 -ity 構成。指力量、情感、光線或聲音等「強烈或劇烈的程度」。",
+      "definition": "1. the quality or state of being intense; 2. the magnitude of a force, light, sound, etc.",
+      "example": [
+        {
+          "eng": "The storm increased in intensity during the night.",
+          "ch": "暴風雨的強度在夜間增強了。"
+        }
+      ]
+    },
+    {
+      "eng": "intensive",
+      "kk": "ɪnˈtɛnsɪv",
+      "tense": "adj.",
+      "ch": [
+        [
+          "密集的",
+          "加強的"
+        ],
+        [
+          "精耕細作的"
+        ]
+      ],
+      "analysis": "此字為形容詞，由形容詞 intense 加上形容詞字尾 -ive 構成。核心義為「集中大量資源或心力在短時間或小空間內以達到最高成效」，如密集課程或加護病房（intensive care）。",
+      "definition": "1. concentrated and involving a lot of effort or activity in a short period; 2. highly focused on maximizing yield or thoroughness.",
+      "example": [
+        {
+          "eng": "She is taking an intensive English course this summer.",
+          "ch": "她今年夏天正在上密集英語課程。"
+        }
+      ]
+    },
+    {
+      "eng": "intention",
+      "kk": "ɪnˈtɛnʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "意圖",
+          "打算"
+        ],
+        [
+          "目的"
+        ]
+      ],
+      "analysis": "此字為名詞，對應動詞 intend，由拉丁語 intentio（伸展、目的）演變而來，由 intendere 衍生的名詞。指心裡所想達到的「意圖、目的或計畫」。",
+      "definition": "1. a thing intended; 2. an aim or plan.",
+      "example": [
+        {
+          "eng": "It was not my intention to offend you.",
+          "ch": "我不是故意要冒犯你的（我沒有這個意圖）。"
+        }
+      ]
+    },
+    {
+      "eng": "interact",
+      "kk": "ˌɪntɚˈækt",
+      "tense": "vi.",
+      "ch": [
+        [
+          "互動",
+          "交流"
+        ],
+        [
+          "相互作用",
+          "互相影響"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，由字首 inter-（在...之間）結合動詞 act（行動）構成。現代透明構詞，指兩個或多個個體或物質之間「互相交流、互相影響或共同作用」。",
+      "definition": "1. to act so as to work together or affect each other; 2. to communicate or engage with someone.",
+      "example": [
+        {
+          "eng": "Teachers should interact regularly with their students.",
+          "ch": "老師應該定期與學生互動。"
+        },
+        {
+          "eng": "These two chemicals interact dangerously when mixed.",
+          "ch": "這兩種化學物質混合時會產生危險的交互作用。"
+        }
+      ]
+    },
+    {
+      "eng": "interaction",
+      "kk": "ˌɪntɚˈækʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "互動",
+          "交流"
+        ],
+        [
+          "相互作用"
+        ]
+      ],
+      "analysis": "此字為名詞，對應動詞 interact，由 interact 加上名詞字尾 -ion 構成。指人與人、物與物之間的「互動、交流或相互作用」。",
+      "definition": "1. reciprocal action or influence; 2. communication or involvement between people.",
+      "example": [
+        {
+          "eng": "Social interaction is essential for children's development.",
+          "ch": "社會互動對兒童的發展至關重要。"
+        }
+      ]
+    },
+    {
+      "eng": "interfere",
+      "kk": "ˌɪntɚˈfɪr",
+      "tense": "vi.",
+      "ch": [
+        [
+          "干涉",
+          "介入"
+        ],
+        [
+          "妨礙",
+          "干擾"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，源自中古法語 s'entrefier，或由拉丁語 inter-（在...之間）結合中世紀拉丁語 ferire（擊打）。字面義為「彼此打擊、互相衝突」，演變為現代的「干涉他人事務」或「妨礙、干擾正常運作」。通常與介系詞 with 或 in 並用。",
+      "definition": "1. to intervene in a situation without being invited or having the right; 2. to prevent a process or activity from continuing properly.",
+      "example": [
+        {
+          "eng": "I don't want to interfere in your personal affairs.",
+          "ch": "我不想干涉你的私事。"
+        },
+        {
+          "eng": "Loud noises can interfere with my concentration.",
+          "ch": "噪音會妨礙我的專注力。"
+        }
+      ]
+    },
+    {
+      "eng": "intermediate",
+      "kk": "ˌɪntɚˈmidjət",
+      "tense": "adj.",
+      "ch": [
+        [
+          "中級的",
+          "中等的"
+        ],
+        [
+          "中間的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自中世紀拉丁語 intermediatus，由 inter-（在...之間）結合 medius（中間的）構成。指位於兩者之間、介於初級與高級之間的「中級」或「中間」狀態。",
+      "definition": "1. coming between two things in time, place, order, character, or level; 2. suitable for people who have learned some of a skill but are not yet advanced.",
+      "example": [
+        {
+          "eng": "This course is designed for intermediate learners.",
+          "ch": "這門課程是為中級學習者設計的。"
+        },
+        {
+          "eng": "He stopped at an intermediate station along the route.",
+          "ch": "他在路途中的一個中間車站停了下來。"
+        }
+      ]
+    },
+    {
+      "eng": "interpret",
+      "kk": "ɪnˈtɝprɪt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "解釋",
+          "理解"
+        ],
+        [
+          "口譯",
+          "翻譯"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自古法語 interpreter，最終源自拉丁語 interpretari（擔任仲裁者、說明、翻譯），由 inter-（在...之間）加上基底詞根與字尾。歷史上從「在雙方之間傳遞意思、協調」，演變為對文本或現象的「解釋、闡釋」，以及語言上的「口譯」。",
+      "definition": "1. to explain the meaning of something; to understand an action or mood in a particular way; 2. to translate spoken words from one language into another orally.",
+      "example": [
+        {
+          "eng": "Everyone interpreted her silence as a sign of agreement.",
+          "ch": "每個人都把她的沉默解釋為同意的表示。"
+        },
+        {
+          "eng": "She was hired to interpret for the visiting foreign delegates.",
+          "ch": "她被聘來為來訪的外國代表團口譯。"
+        }
+      ]
+    },
+    {
+      "eng": "interruption",
+      "kk": "ˌɪntəˈrʌpʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "打斷",
+          "插話"
+        ],
+        [
+          "中斷",
+          "干擾"
+        ]
+      ],
+      "analysis": "此字為名詞，對應動詞 interrupt，由拉丁語 interrumpere（inter- 之間 + rumpere 折斷、破裂）的過去分詞詞幹加上名詞字尾 -ion 構成。字面義為「在中間折斷」，演變為談話被「打斷」或服務與活動被「中斷」。",
+      "definition": "1. an action that stops something from continuing; 2. a remark or event that interrupts someone or something.",
+      "example": [
+        {
+          "eng": "She finished her speech without any interruption.",
+          "ch": "她毫無中斷地完成了演講。"
+        }
+      ]
+    },
+    {
+      "eng": "intimate",
+      "kk": "ˈɪntəmət",
+      "tense": "adj.",
+      "ch": [
+        [
+          "親密的",
+          "密切的"
+        ],
+        [
+          "私密的",
+          "個人隱私的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自拉丁語 intimus（最裡面的、最深處的），為最高級（superlative）形式。意指在距離、關係或情感上「最貼近核心的」，演變為形容人與人之間「親密的」或私密的事物。",
+      "definition": "1. closely acquainted; familiar, warm, and personal in relationship; 2. private and personal.",
+      "example": [
+        {
+          "eng": "They have shared an intimate friendship for over twenty years.",
+          "ch": "他們有超過二十年的親密友誼。"
+        },
+        {
+          "eng": "She shared some intimate details of her life.",
+          "ch": "她分享了一些她生活的私密細節。"
+        }
+      ]
+    },
+    {
+      "eng": "intuition",
+      "kk": "ˌɪntuˈɪʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "直覺",
+          "直覺能力"
+        ]
+      ],
+      "analysis": "此字為名詞，源自中世紀拉丁語 intuitio（注視、觀看），由拉丁語 intueri（in- 看向 + tueri 看、守衛）衍生的名詞。原意為「心靈的注視」，演變為不需經過理性邏輯推理便能瞬間明白的「直覺」。",
+      "definition": "1. the ability to understand something immediately, without the need for conscious reasoning.",
+      "example": [
+        {
+          "eng": "Trust your intuition when making difficult decisions.",
+          "ch": "做艱難決定時，相信你的直覺。"
+        }
+      ]
+    },
+    {
+      "eng": "invade",
+      "kk": "ɪnˈveɪd",
+      "tense": "vt.",
+      "ch": [
+        [
+          "侵略",
+          "侵佔"
+        ],
+        [
+          "侵擾",
+          "大量湧入"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自拉丁語 invadere（in- 進入 + vadere 去、行走），字面義為「走進去、踏入」。歷史上演變為軍事上的「侵略國家」，並引申出有害事物「侵擾」或人群「大量湧入」某地。",
+      "definition": "1. to enter a country or region with armed forces in order to conquer; 2. to intrude upon or flood into a place in large numbers.",
+      "example": [
+        {
+          "eng": "The army prepared to invade neighboring territory.",
+          "ch": "軍隊準備侵略鄰近領土。"
+        },
+        {
+          "eng": "Tourists invade the small coastal town every summer.",
+          "ch": "每年夏天遊客都會大量湧入這個小海濱鎮。"
+        }
+      ]
+    },
+    {
+      "eng": "invasion",
+      "kk": "ɪnˈveʒən",
+      "tense": "n.",
+      "ch": [
+        [
+          "侵略",
+          "入侵"
+        ],
+        [
+          "侵擾",
+          "侵害"
+        ]
+      ],
+      "analysis": "此字為名詞，對應動詞 invade，由拉丁語 invasio（源自 invadere 的過去分詞）演變而來。指軍事上的「入侵行動」或對隱私、權益的「侵害」。",
+      "definition": "1. an instance of invading a country or region with an armed force; 2. an unwelcome intrusion into someone's private space or life.",
+      "example": [
+        {
+          "eng": "The historical novel describes the enemy invasion.",
+          "ch": "這部歷史小說描述了敵人的入侵。"
+        },
+        {
+          "eng": "Taking photos without permission is an invasion of privacy.",
+          "ch": "未經許可拍照是對隱私的侵害。"
+        }
+      ]
+    },
+    {
+      "eng": "invention",
+      "kk": "ɪnˈvɛnʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "發明",
+          "創製品"
+        ],
+        [
+          "虛構",
+          "捏造的事物"
+        ]
+      ],
+      "analysis": "此字為名詞，對應動詞 invent，源自拉丁語 inventio（invenire：in- 發現 + venire 來，意為「找到、發現」）。歷史上從「心智中想出或發現新事物」，演變為具體的「發明物品」或謊言的「捏造、虛構」。",
+      "definition": "1. something, typically a process or device, that has been invented; 2. the action of fabricating a false story or excuse.",
+      "example": [
+        {
+          "eng": "The light bulb is one of the most important inventions in history.",
+          "ch": "電燈泡是歷史上最重要的發明之一。"
+        },
+        {
+          "eng": "His excuse about missing the bus was pure invention.",
+          "ch": "他關於錯過公車的藉口完全是捏造的。"
+        }
+      ]
+    },
+    {
+      "eng": "invest",
+      "kk": "ɪnˈvɛst",
+      "tense": "vt.",
+      "ch": [
+        [
+          "投資",
+          "投入資金"
+        ],
+        [
+          "賦予",
+          "授予"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自義大利語 investire 或拉丁語 investire（in- 進入 + vestis 衣服），原意為「穿上袍子、授以權位」。在中世紀法律與儀式中，將象徵權力的法衣穿在受封者身上；後來在商業資本主義發展下，演變為將金錢「穿戴」或「投入」事業中以賺取利潤的「投資」。",
+      "definition": "1. to put money into financial schemes, shares, property, or a commercial venture with the expectation of achieving a profit; 2. to endow or confer a quality, power, or authority upon someone.",
+      "example": [
+        {
+          "eng": "He decided to invest his savings in real estate.",
+          "ch": "他決定把積蓄投資在房地產上。"
+        },
+        {
+          "eng": "The constitution invests the president with executive powers.",
+          "ch": "憲法賦予總統行政權力。"
+        }
+      ]
+    },
+    {
+      "eng": "investment",
+      "kk": "ɪnˈvɛstmənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "投資",
+          "投資額"
+        ],
+        [
+          "投入"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 invest 加上名詞字尾 -ment 構成。指資金的「投資行為」或購買的「投資資產」，也泛指時間或精力的「投入」。",
+      "definition": "1. the action or process of investing money for profit or material result; 2. a thing that is worth buying because it may be profitable or useful.",
+      "example": [
+        {
+          "eng": "Real estate is considered a safe long-term investment.",
+          "ch": "房地產被認為是一項安全的長期投資。"
+        }
+      ]
+    },
+    {
+      "eng": "investigation",
+      "kk": "ɪnˌvɛstəˈɡeʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "調查",
+          "偵查"
+        ],
+        [
+          "研究",
+          "審查"
+        ]
+      ],
+      "analysis": "此字為名詞，對應動詞 investigate，由拉丁語 investigare（in- 追蹤 + vestigium 足跡，字面義為「追蹤足跡」）加上名詞字尾 -ion 構成。指警察、學者或官方機構對事件進行的「深入調查、追查或學術研究」。",
+      "definition": "1. the action of investigating something or a formal inquiry; 2. a detailed research or study.",
+      "example": [
+        {
+          "eng": "The police launched a formal investigation into the robbery.",
+          "ch": "警方對這起搶案展開了正式調查。"
+        }
+      ]
+    },
+    {
+      "eng": "involve",
+      "kk": "ɪnˈvɑlv",
+      "tense": "vt.",
+      "ch": [
+        [
+          "包含",
+          "需要"
+        ],
+        [
+          "使捲入",
+          "使參與"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自拉丁語 involvere（in- 進入 + volvere 滾動），字面義為「捲入、包裹在裡面」。歷史上從「將某物包裹或捲進去」，演變為事件或過程「包含、牽涉」某事，或是「使人捲入、參與」其中。",
+      "definition": "1. to have or include something as a necessary part or result; 2. to cause someone to participate in an activity or situation.",
+      "example": [
+        {
+          "eng": "The project will involve a lot of hard work.",
+          "ch": "這個專案將包含（需要）許多辛苦的工作。"
+        },
+        {
+          "eng": "Try not to involve innocent people in your dispute.",
+          "ch": "試著不要把無辜的人捲入你們的爭端中。"
+        }
+      ]
+    },
+    {
+      "eng": "involvement",
+      "kk": "ɪnˈvɑlvmənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "參與",
+          "投入"
+        ],
+        [
+          "牽涉",
+          "捲入"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 involve 加上名詞字尾 -ment 構成。指個人對活動、組織的「積極參與」，或在不良事件中的「被牽涉、捲入」。",
+      "definition": "1. the fact or condition of being involved with or participating in something.",
+      "example": [
+        {
+          "eng": "Her active involvement in community service earned her an award.",
+          "ch": "她積極參與社區服務為她贏得了一個獎項。"
+        }
+      ]
+    },
+    {
+      "eng": "isolate",
+      "kk": "ˈaɪsəˌlet",
+      "tense": "vt.",
+      "ch": [
+        [
+          "隔離",
+          "孤立"
+        ],
+        [
+          "分離",
+          "析離"
+        ]
+      ],
+      "analysis": "此字為及物動詞，由義大利語 isolato（意為孤島般的，源自拉丁語 insula 島嶼）的字根反推回英語動詞。字面義為「使之成為孤島」，現代指將人、病患或地區「隔離」，或在科學實驗中將特定化合物「分離純化」。",
+      "definition": "1. to cause a person or place to remain apart or alone; 2. to identify or extract a substance from a mixture.",
+      "example": [
+        {
+          "eng": "Patients with contagious diseases must be isolated.",
+          "ch": "患有傳染病的病人必須被隔離。"
+        },
+        {
+          "eng": "Scientists managed to isolate the active chemical compound.",
+          "ch": "科學家設法分離出了該活性化合物。"
+        }
+      ]
+    },
+    {
+      "eng": "isolation",
+      "kk": "ˌaɪsəˈleʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "隔離",
+          "孤立狀態"
+        ]
+      ],
+      "analysis": "此字為名詞，對應動詞 isolate，由 isolate 加上名詞字尾 -ion 構成。指處於與世隔絕、單獨一人或地區被「隔離的狀態」。",
+      "definition": "1. the state of being isolated or separated from others; the condition of being lonely or remote.",
+      "example": [
+        {
+          "eng": "She lived in self-imposed isolation in the mountains.",
+          "ch": "她隱居在山中，過著自我隔離的生活。"
+        }
+      ]
+    },
+    {
+      "eng": "issue",
+      "kk": "ˈɪʃu",
+      "tense": "n.",
+      "ch": [
+        [
+          "議題",
+          "問題"
+        ],
+        [
+          "期號",
+          "發行物"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古法語 issue（意為出口、流出），源自拉丁語 exire（ex- 出去 + ire 走）。歷史上從「流出、湧出」或法律上的「爭訟點」，演變成現代日常討論的重要「議題、問題」，以及出版品的「期刊期號」。",
+      "definition": "1. an important topic or problem for debate or discussion; 2. a particular edition of a newspaper or magazine.",
+      "example": [
+        {
+          "eng": "Climate change is a critical global issue.",
+          "ch": "氣候變遷是一個至關重要的全球議題。"
+        },
+        {
+          "eng": "You can find the article in our May issue.",
+          "ch": "你可以在我們五月號的期刊中找到這篇文章。"
+        }
+      ]
+    },
+    {
+      "eng": "jealousy",
+      "kk": "ˈdʒɛləsi",
+      "tense": "n.",
+      "ch": [
+        [
+          "嫉妒",
+          "吃醋"
+        ]
+      ],
+      "analysis": "此字為名詞，由形容詞 jealous（源自古法語 jalous，源自希臘語 zelos 熱情、嫉妒）加上名詞字尾 -y 構成。指因擔心失去所愛或見不得別人擁有優勢而產生的「嫉妒或吃醋」情緒。",
+      "definition": "1. the state or feeling of being jealous of someone else's achievements, advantages, or possessions.",
+      "example": [
+        {
+          "eng": "His success at work sparked jealousy among his colleagues.",
+          "ch": "他在工作上的成功引起了同事間的嫉妒。"
+        }
+      ]
+    },
+    {
+      "eng": "keen",
+      "kk": "kin",
+      "tense": "adj.",
+      "ch": [
+        [
+          "熱衷的",
+          "渴望的"
+        ],
+        [
+          "敏銳的",
+          "強烈的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自古英語 cēn（意為勇敢的、聰明的、活躍的），屬於日耳曼語繼承詞（與德語 kühn 同源）。歷史上從「勇猛、銳利」演變出感官或頭腦的「敏銳（如 keen eyesight）」，以及心理上的「熱衷、渴望（keen on...）」。",
+      "definition": "1. having or showing eagerness or enthusiasm; 2. sharp, piercing, or highly developed (of senses or intellect).",
+      "example": [
+        {
+          "eng": "She is keen to learn more about photography.",
+          "ch": "她很熱衷於學習更多攝影知識。"
+        },
+        {
+          "eng": "Dogs have a keen sense of smell.",
+          "ch": "狗有敏銳的嗅覺。"
+        }
+      ]
+    },
+    {
+      "eng": "kettle",
+      "kk": "ˈkɛtəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "水壺",
+          "鐵壺"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古英語 cetel（或 kitel），最終借自日耳曼語族，可追溯至拉丁語 catillus（小烹調鍋、盆）。指傳統用來燒開水的金屬「水壺」。",
+      "definition": "1. a metal vessel with a spout, lid, and handle, used for boiling water.",
+      "example": [
+        {
+          "eng": "She filled the kettle and put it on the stove.",
+          "ch": "她把水壺裝滿水，放在爐子上。"
+        }
+      ]
+    },
+    {
+      "eng": "kneel",
+      "kk": "nil",
+      "tense": "vi.",
+      "ch": [
+        [
+          "跪下",
+          "跪著"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，源自古英語 cnēowlian（衍生自 cnēow 膝蓋，與 knee 同源），屬於日耳曼語繼承詞。核心義為將雙膝著地的動作。",
+      "definition": "1. to bend one's knees and bring them down to rest on the ground.",
+      "example": [
+        {
+          "eng": "The knight knelt before the king.",
+          "ch": "騎士在國王面前跪下。"
+        }
+      ]
+    },
+    {
+      "eng": "knob",
+      "kk": "nɑb",
+      "tense": "n.",
+      "ch": [
+        [
+          "圓形把手",
+          "旋鈕"
+        ],
+        [
+          "突起物",
+          "球狀塊"
+        ]
+      ],
+      "analysis": "此字為名詞，字首 k 不發音。源自中低地德語或中荷蘭語 knobbe（意為結、圓形突起）。在英語中演變為門、收音機或機器上的「圓形把手或旋鈕」，以及物體表面圓形的「突起部分」。",
+      "definition": "1. a rounded lump or ball at the end or on the surface of something; 2. a round handle.",
+      "example": [
+        {
+          "eng": "Turn the knob to open the door.",
+          "ch": "旋轉把手以打開門。"
+        }
+      ]
+    },
+    {
+      "eng": "labor",
+      "kk": "ˈlebɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "勞動",
+          "勞工"
+        ],
+        [
+          "分娩",
+          "陣痛"
+        ]
+      ],
+      "analysis": "此字為名詞（美式拼法，英式為 labour），源自古法語 labor，最終源自拉丁語 labor（意為辛苦、勞累、工作）。除了解作體力或腦力的「勞動工作、勞工階層」之外，在醫學與日常語境中也專門用來指女性生產前的「分娩、陣痛」。",
+      "definition": "1. work, especially physical work; workers collectively; 2. the process of childbirth.",
+      "example": [
+        {
+          "eng": "Manual labor requires physical strength.",
+          "ch": "體力勞動需要體力。"
+        },
+        {
+          "eng": "The mother went into labor after midnight.",
+          "ch": "這位產婦在午夜後開始陣痛分娩。"
+        }
+      ]
+    },
+    {
+      "eng": "labor",
+      "kk": "ˈlebɚ",
+      "tense": "vi.",
+      "ch": [
+        [
+          "勞動",
+          "艱苦地工作"
+        ],
+        [
+          "吃力地行進"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，由名詞 labor 轉品而來。指付出辛苦的體力或腦力勞動，或形容機器或車輛「吃力運轉」。",
+      "definition": "1. to work hard; 2. to move or function with difficulty or great effort.",
+      "example": [
+        {
+          "eng": "They labored in the fields all day under the sun.",
+          "ch": "他們整天在烈日下的田裡辛苦勞動。"
+        }
+      ]
+    },
+    {
+      "eng": "laboratory",
+      "kk": "ˈlæbrəˌtɔri",
+      "tense": "n.",
+      "ch": [
+        [
+          "實驗室",
+          "研究室"
+        ]
+      ],
+      "analysis": "此字為名詞，源自中古拉丁語 laboratorium，由拉丁語 laborare（工作）加字尾組成。指進行科學實驗、研究與測試的專業場所。常用簡稱為 lab。",
+      "definition": "1. a room or building equipped for scientific experiments, research, or testing.",
+      "example": [
+        {
+          "eng": "The scientists are testing the new vaccine in the laboratory.",
+          "ch": "科學家們正在實驗室裡測試新疫苗。"
+        }
+      ]
+    },
+    {
+      "eng": "lab",
+      "kk": "læb",
+      "tense": "n.",
+      "ch": [
+        [
+          "實驗室",
+          "研究室"
+        ]
+      ],
+      "analysis": "此字為名詞，是 laboratory 的截斷詞（clipping）。在現代英語中極為常用，指代科學實驗室或實驗課程。",
+      "definition": "1. a laboratory.",
+      "example": [
+        {
+          "eng": "We have a chemistry lab this afternoon.",
+          "ch": "我們今天下午有一堂化學實驗課。"
+        }
+      ]
+    },
+    {
+      "eng": "lag",
+      "kk": "læɡ",
+      "tense": "vi.",
+      "ch": [
+        [
+          "落後",
+          "走得慢"
+        ],
+        [
+          "延遲",
+          "滯後"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，起源於斯堪地那維亞語支（比較古諾斯語 lakk 或方言詞彙）。核心義為「走在最後、步伐緩慢而落後」，在電腦與網路科技中引申為資料傳輸或畫面的「延遲、卡頓」。",
+      "definition": "1. to fall behind in movement or progress; 2. to experience a delay or slow response time.",
+      "example": [
+        {
+          "eng": "He lagged behind the rest of the group during the hike.",
+          "ch": "他在健行時落後於其他隊員。"
+        },
+        {
+          "eng": "The video game started to lag when too many players logged in.",
+          "ch": "當太多玩家登入時，這款電玩遊戲開始出現延遲。"
+        }
+      ]
+    },
+    {
+      "eng": "landmark",
+      "kk": "ˈlændˌmɑrk",
+      "tense": "n.",
+      "ch": [
+        [
+          "地標",
+          "建築物"
+        ],
+        [
+          "重大里程碑",
+          "轉折點"
+        ]
+      ],
+      "analysis": "此字為名詞，由 land（土地）與 mark（標記）組成的現代複合詞。原意為土地界標，演變為城市中具識別性的「地標建築」，並引申在歷史或科學發展中具有劃時代意義的「重大里程碑」。",
+      "definition": "1. an object or feature of a landscape or town that is easily seen and recognized; 2. an event or discovery marking a significant turning point.",
+      "example": [
+        {
+          "eng": "The Statue of Liberty is a famous New York landmark.",
+          "ch": "自由女神像是著名的紐約地標。"
+        },
+        {
+          "eng": "The supreme court decision was a landmark in civil rights history.",
+          "ch": "最高法院的裁決是民權史上的重大里程碑。"
+        }
+      ]
+    },
+    {
+      "eng": "landscape",
+      "kk": "ˈlændˌskeɪp",
+      "tense": "n.",
+      "ch": [
+        [
+          "風景",
+          "景色"
+        ],
+        [
+          "形勢",
+          "全貌"
+        ]
+      ],
+      "analysis": "此字為名詞，借自荷蘭語 landschap（land 土地 + -schap 狀況、造景，相當於英語 -ship）。原本是繪畫術語，指「風景畫」，後來擴大為大自然或鄉村的實體「風景、景色」，並進一步引申為政治、經濟等抽象領域的「局勢、全貌」。",
+      "definition": "1. all the visible features of an area of countryside or land; 2. the distinctive features of a particular sphere of activity.",
+      "example": [
+        {
+          "eng": "The painting depicts a peaceful rural landscape.",
+          "ch": "這幅畫描繪了一幅寧靜的農村風景。"
+        },
+        {
+          "eng": "Digital technology has transformed the media landscape.",
+          "ch": "數位科技已經改變了媒體生態全貌。"
+        }
+      ]
+    },
+    {
+      "eng": "largely",
+      "kk": "ˈlɑrdʒli",
+      "tense": "adv.",
+      "ch": [
+        [
+          "主要地",
+          "大體上"
+        ]
+      ],
+      "analysis": "此字為副詞，由形容詞 large（大）加上副詞字尾 -ly 構成。歷史上從「大範圍地」演變為現代的「在很大程度上、主要地、大體而言」。",
+      "definition": "1. to a great extent or for the most part; mainly.",
+      "example": [
+        {
+          "eng": "His success was largely due to his hard work.",
+          "ch": "他的成功主要歸功於他的努力。"
+        }
+      ]
+    }
+  ]
+}

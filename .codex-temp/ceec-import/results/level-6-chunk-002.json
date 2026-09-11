@@ -1,0 +1,1254 @@
+{
+  "level": 6,
+  "chunkIndex": 2,
+  "inputs": [
+    "antonym",
+    "applaud",
+    "applicable",
+    "apprentice",
+    "approximate",
+    "archaeology",
+    "archive",
+    "arithmetic",
+    "ascend",
+    "aspire",
+    "assassinate",
+    "asthma",
+    "astray",
+    "astronaut",
+    "astronomer",
+    "astronomy",
+    "attain",
+    "attainment",
+    "attendant",
+    "audit",
+    "auditorium",
+    "avert",
+    "aviation",
+    "awesome",
+    "awhile",
+    "bachelor",
+    "backbone",
+    "badge",
+    "banquet",
+    "barbarian",
+    "bass",
+    "batter",
+    "beautify",
+    "beep",
+    "beforehand",
+    "beverage",
+    "bilateral",
+    "blaze",
+    "bleach",
+    "blond",
+    "blonde",
+    "blot",
+    "blunt",
+    "bodily",
+    "booklet",
+    "bosom",
+    "boulevard",
+    "boxing",
+    "boycott",
+    "brace"
+  ],
+  "rows": [
+    {
+      "eng": "antonym",
+      "kk": "/ˈæntəˌnɪm/",
+      "tense": "n.",
+      "ch": [
+        [
+          "反義字",
+          "相對詞"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由字首 anti-（相對、相反，源自希臘語 anti）結合字根 -onym（名字、字詞，源自希臘語 ónoma）組合而成。歷史上由希臘語經由新拉丁語進入英語。語意演變由「相反的名字」引申為現代語言學中意義相對的字詞。",
+      "definition": "1. a word opposite in meaning to another.",
+      "example": [
+        {
+          "eng": "\"Hot\" is an antonym of \"cold\".",
+          "ch": "「熱」是「冷」的反義字。"
+        }
+      ]
+    },
+    {
+      "eng": "applaud",
+      "kk": "/əˈplɔd/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "拍手稱贊",
+          "讚賞"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自拉丁語 applausus（applaudere 的過去分詞），由 ad-（向、朝向，同化為 ap-）與 plaudere（拍手、鼓掌）複合而成。作及物動詞時，後面直接接受詞（如人或表現），表示對其予以鼓掌或公開稱讚。",
+      "definition": "1. to praise someone or something enthusiastically.",
+      "example": [
+        {
+          "eng": "Everyone applauded her courage.",
+          "ch": "大家都稱讚她的勇氣。"
+        }
+      ]
+    },
+    {
+      "eng": "applaud",
+      "kk": "/əˈplɔd/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "鼓掌",
+          "喝采"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自拉丁語 applausus（applaudere 的過去分詞），由 ad-（向、朝向，同化為 ap-）與 plaudere（拍手、鼓掌）複合而成。作不及物動詞時，指透過拍手表達讚賞。",
+      "definition": "1. to express approval by clapping hands.",
+      "example": [
+        {
+          "eng": "The audience began to applaud loudly after the performance.",
+          "ch": "表演結束後，觀眾開始大聲鼓掌。"
+        }
+      ]
+    },
+    {
+      "eng": "applicable",
+      "kk": "/ˈæplɪkəbəl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "適用的",
+          "合適的"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由動詞 apply 加上形容詞字尾 -able（可…的）構成；其拉丁上源為 applicabilis（來自 applicare）。語意演變為「可應用於某情況的」，指規則或法規等適合且適用於當前情境。",
+      "definition": "1. relevant or appropriate to a particular situation.",
+      "example": [
+        {
+          "eng": "This rule is applicable to all employees.",
+          "ch": "這條規則適用於所有員工。"
+        }
+      ]
+    },
+    {
+      "eng": "apprentice",
+      "kk": "/əˈprɛntɪs/",
+      "tense": "n.",
+      "ch": [
+        [
+          "學徒",
+          "徒弟"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自古法語 aprentis（現代法語 apprenti），衍生自動詞 apprendre（學習，源自拉丁語 apprehendere）。經中古英語進入英語。語意指為了學習特定工藝或技能而跟隨師傅學習的人。",
+      "definition": "1. a person who learns a job or skill by working for a fixed period with someone who is already skilled at it.",
+      "example": [
+        {
+          "eng": "He is working as an apprentice to a master carpenter.",
+          "ch": "他正在一位木工師傅手下當學徒。"
+        }
+      ]
+    },
+    {
+      "eng": "approximate",
+      "kk": "/əˈprɑksəˌmeɪt/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "近似",
+          "接近"
+        ]
+      ],
+      "analysis": "源自拉丁語 approximatus（動詞 approximare 的過去分詞），作及物動詞時，表示在數量、質地或估算上接近某個標準或目標。",
+      "definition": "1. to be close to or similar to something.",
+      "example": [
+        {
+          "eng": "His version of the story approximates the truth.",
+          "ch": "他版本的說法接近事實真相。"
+        }
+      ]
+    },
+    {
+      "eng": "approximate",
+      "kk": "/əˈprɑksəmɪt/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "大約的",
+          "近乎正確的"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自中世紀拉丁語 approximatus（動詞 approximare 的過去分詞），由 ad- 與 proximus（最近的）複合而成。作形容詞時，指數值、時間或數量非絕對精確，但十分接近。",
+      "definition": "1. close to the actual, exact number or time, but not completely accurate.",
+      "example": [
+        {
+          "eng": "Can you give me an approximate cost for the repair?",
+          "ch": "你能給我一個大約的修理費用嗎？"
+        }
+      ]
+    },
+    {
+      "eng": "archaeology",
+      "kk": "/ˌɑrkɪˈɑlədʒi/",
+      "tense": "n.",
+      "ch": [
+        [
+          "考古學"
+        ]
+      ],
+      "analysis": "此字為現代科學複合詞，由希臘語 arkhaios（古代的，源自 arkhē 起源）與 -logia（學科、研究）結合而成。透過新拉丁語進入英語。語意指透過發掘和研究古物與遺址來探討古代人類文化的學科。",
+      "definition": "1. the study of human history and prehistory through the excavation of sites and the analysis of artifacts and other physical remains.",
+      "example": [
+        {
+          "eng": "She is studying archaeology at university.",
+          "ch": "她在大學主修考古學。"
+        }
+      ]
+    },
+    {
+      "eng": "archive",
+      "kk": "/ˈɑrˌkaɪv/",
+      "tense": "n.",
+      "ch": [
+        [
+          "檔案館",
+          "歷史檔案"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自拉丁語 archīvum，最終源自希臘語 arkhĕion（市政廳、官署，源自 arkhē 統治、起始）。經法語進入英語。語意從古代官方公文存放處演變為現代保存歷史記錄與資料的場所或檔案集合。",
+      "definition": "1. a collection of historical documents or records providing information about a place, institution, or group of people.",
+      "example": [
+        {
+          "eng": "The letters are kept in the museum archive.",
+          "ch": "這些信件保存在博物館的檔案館裡。"
+        }
+      ]
+    },
+    {
+      "eng": "arithmetic",
+      "kk": "/əˈrɪθmətɪk/",
+      "tense": "n.",
+      "ch": [
+        [
+          "算術",
+          "計算"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自古法語 arismetique，最終源自希臘語 arithmētikē (tekhnē)（數字的藝術，源自 arithmos 數字）。經拉丁語與法語進入英語。語意指數學中關於數字的基本運算（加、減、乘、除）。",
+      "definition": "1. the branch of mathematics dealing with the properties and manipulation of numbers.",
+      "example": [
+        {
+          "eng": "Children learn basic arithmetic in primary school.",
+          "ch": "小學生在學校學習基本的算術。"
+        }
+      ]
+    },
+    {
+      "eng": "ascend",
+      "kk": "/əˈsɛnd/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "攀登",
+          "登上升上"
+        ]
+      ],
+      "analysis": "源自拉丁語 ascendere，由 ad-（向上、朝向）與 scandere（攀爬）複合而成。作及物動詞時，直接接登高之物（如山峰、階梯、寶座等）為受詞。",
+      "definition": "1. to climb or walk up something.",
+      "example": [
+        {
+          "eng": "The prince will ascend the throne next week.",
+          "ch": "王子將於下週登基。"
+        }
+      ]
+    },
+    {
+      "eng": "ascend",
+      "kk": "/əˈsɛnd/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "上升",
+          "登高"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自拉丁語 ascendere，由 ad-（向上、朝向）與 scandere（攀爬）複合而成。經由法語或直接借入英語。作不及物動詞時，指人或物由低處向高處移動。",
+      "definition": "1. to go up or move upward.",
+      "example": [
+        {
+          "eng": "The path began to ascend steeply up the mountain.",
+          "ch": "這條小徑開始陡峭地往山上攀升。"
+        }
+      ]
+    },
+    {
+      "eng": "aspire",
+      "kk": "/əˈspaɪr/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "有志於",
+          "渴望",
+          "追求"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自拉丁語 aspirare，由 ad-（向、朝向）與 spirare（呼吸、吹氣）複合而成。經由法語 aspirer 進入英語。語意從「呼吸吹向」引申為「心向往之」、對崇高目標的強烈渴望與追求。",
+      "definition": "1. to direct one's hopes or ambitions towards achieving something.",
+      "example": [
+        {
+          "eng": "Many young players aspire to play in the professional league.",
+          "ch": "許多年輕球員都渴望能在職業聯盟打球。"
+        }
+      ]
+    },
+    {
+      "eng": "assassinate",
+      "kk": "/əˈsæsəˌneɪt/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "暗殺",
+          "行刺"
+        ]
+      ],
+      "analysis": "此字源自中世紀拉丁語 assassinare，其上源為阿拉伯語 ḥashshāshīn（意指吸食大麻者，歷史上指十字軍東征時期中東的伊斯蘭激進暗殺組織）。經由義大利語傳入歐洲各語言。語意指出於政治或金錢目的祕密謀殺重要人物。",
+      "definition": "1. to murder an important person in a surprise attack for political or religious reasons.",
+      "example": [
+        {
+          "eng": "The president was assassinated during his visit to the city.",
+          "ch": "總統在訪問該市期間遭到暗殺。"
+        }
+      ]
+    },
+    {
+      "eng": "asthma",
+      "kk": "/ˈæzmə/",
+      "tense": "n.",
+      "ch": [
+        [
+          "氣喘",
+          "哮喘"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自希臘語 asthma（意為急促呼吸、喘息，源自 azein 喘氣）。經由拉丁語進入英語。保留了希臘語的醫學專業術語身分，指一種導致呼吸困難的慢性呼吸道疾病。",
+      "definition": "1. a respiratory condition marked by spasms in the bronchi of the lungs, causing difficulty in breathing.",
+      "example": [
+        {
+          "eng": "Cold weather can sometimes trigger her asthma.",
+          "ch": "寒冷的天氣有時會誘發她的氣喘。"
+        }
+      ]
+    },
+    {
+      "eng": "astray",
+      "kk": "/əˈstreɪ/",
+      "tense": "adv.",
+      "ch": [
+        [
+          "迷路地",
+          "步入歧途地"
+        ]
+      ],
+      "analysis": "此字為中古英語構詞，由字首 a-（處於…狀態，源自古英語 ān 或 on）結合古法語 estraiier（迷失，源自拉丁語 extra vagari）構成。作副詞時，通常與動詞 go、lead 等連用，表示迷失方向或行為走偏。",
+      "definition": "1. away from the correct path or correct way of doing something; into error or moral wrong.",
+      "example": [
+        {
+          "eng": "The hikers went astray in the thick fog.",
+          "ch": "遠足者在大霧中迷失了方向。"
+        }
+      ]
+    },
+    {
+      "eng": "astronaut",
+      "kk": "/ˈæstrəˌnɔt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "太空人",
+          "航天員"
+        ]
+      ],
+      "analysis": "此字為現代複合詞，由希臘語 astron（星星）與 nautēs（水手、航行者，源自 naus 船）結合而成。20世紀隨太空競賽興起而創造的詞彙。語意指駕駛或搭乘太空船進入太空旅行的人。",
+      "definition": "1. a person who is trained to travel in a spacecraft.",
+      "example": [
+        {
+          "eng": "The astronaut spent six months on the space station.",
+          "ch": "這位太空人在太空站待了六個月。"
+        }
+      ]
+    },
+    {
+      "eng": "astronomer",
+      "kk": "/əˈstrɑnəmər/",
+      "tense": "n.",
+      "ch": [
+        [
+          "天文學家"
+        ]
+      ],
+      "analysis": "此字由希臘語 astron（星星）結合 nomos（法律、規律，源自 nemein 管理）再加上名詞字尾 -er 構成。經由古法語與拉丁語進入英語。語意指從事天文學研究、觀察天體的科學家。",
+      "definition": "1. an expert in or student of astronomy.",
+      "example": [
+        {
+          "eng": "Astronomers discovered a new planet outside our solar system.",
+          "ch": "天文學家在我們的太陽系外發現了一顆新行星。"
+        }
+      ]
+    },
+    {
+      "eng": "astronomy",
+      "kk": "/əˈstrɑnəmi/",
+      "tense": "n.",
+      "ch": [
+        [
+          "天文學"
+        ]
+      ],
+      "analysis": "此字由希臘語 astron（星星）與 nomia（學問、規律，源自 nomos）組合而成。經中古英語進入英語。語意指研究宇宙天體、恆星、行星及其起源與演化的科學。",
+      "definition": "1. the branch of science that deals with celestial objects, space, and the physical universe as a whole.",
+      "example": [
+        {
+          "eng": "He has a deep interest in astronomy and stargazing.",
+          "ch": "他對天文學和觀星有著深厚的興趣。"
+        }
+      ]
+    },
+    {
+      "eng": "attain",
+      "kk": "/əˈteɪn/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "達到",
+          "獲得",
+          "實現"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自古法語 ateindre（現代法語 atteindre），由拉丁語 ad-（向）與 tangere（觸碰）複合而成。經中古英語進入英語。語意由「觸及目標」引申為成功取得、達到某個目標或水準。",
+      "definition": "1. to succeed in getting something that you have been working for.",
+      "example": [
+        {
+          "eng": "She worked hard to attain her goals.",
+          "ch": "她努力工作以實現自己的目標。"
+        }
+      ]
+    },
+    {
+      "eng": "attainment",
+      "kk": "/əˈteɪnmənt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "達到",
+          "獲得",
+          "成就"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由動詞 attain 加上名詞字尾 -ment（表狀態或結果）構成。語意指達成目標的過程，或指透過努力所獲得的學識、技能等成就。",
+      "definition": "1. the action or fact of achieving a goal; an accomplishment or skill.",
+      "example": [
+        {
+          "eng": "Academic attainment is important, but practical skills matter too.",
+          "ch": "學業成就是重要的，但實務技能也很關鍵。"
+        }
+      ]
+    },
+    {
+      "eng": "attendant",
+      "kk": "/əˈtɛndənt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "服務員",
+          "隨從"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 attendens（attendere 的現在分詞，意為注意、照料）。經由古法語進入英語。名詞用法指在特定場所（如停車場、飛機上、展覽館）負責照料、接待或提供服務的工作人員。",
+      "definition": "1. a person whose job is to provide service or help to people in a particular place.",
+      "example": [
+        {
+          "eng": "The flight attendant welcomed passengers on board.",
+          "ch": "機組服務員在登機口歡迎乘客登機。"
+        }
+      ]
+    },
+    {
+      "eng": "attendant",
+      "kk": "/əˈtɛndənt/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "伴隨的",
+          "隨之而來的"
+        ]
+      ],
+      "analysis": "源自拉丁語 attendens 的現在分詞形容詞用法。作形容詞時，指伴隨著某種情況、事件或工作自然發生的狀態。",
+      "definition": "1. occurring as a consequence of something.",
+      "example": [
+        {
+          "eng": "The job offers a high salary and its attendant stress.",
+          "ch": "這份工作提供高薪，但也伴隨相對的壓力。"
+        }
+      ]
+    },
+    {
+      "eng": "audit",
+      "kk": "/ˈɔdɪt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "審計",
+          "查帳"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自拉丁語 audītus（聆聽、聽審，源自 audire 聽）。源於古代財政官員透過聆聽帳目宣讀來檢查帳務的制度。英語中指對企業或機構的財務報表進行獨立的檢查與核對。",
+      "definition": "1. an official inspection of an organization's accounts, typically by an independent body.",
+      "example": [
+        {
+          "eng": "The company undergoes an annual financial audit.",
+          "ch": "該公司每年接受一次財務審計。"
+        }
+      ]
+    },
+    {
+      "eng": "audit",
+      "kk": "/ˈɔdɪt/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "審計",
+          "查帳"
+        ],
+        [
+          "旁聽"
+        ]
+      ],
+      "analysis": "源自拉丁語 audītus。作及物動詞時，主要指審查帳目，亦可引申指大學生「旁聽」課程（不計學分地聽講）。",
+      "definition": "1. to conduct an official financial inspection of a company's accounts; 2. to attend a university course without working for credit.",
+      "example": [
+        {
+          "eng": "An independent accountant was hired to audit the books.",
+          "ch": "聘請了獨立會計師來審計帳目。"
+        },
+        {
+          "eng": "He decided to audit a history class this semester.",
+          "ch": "他決定這學期旁聽一門歷史課。"
+        }
+      ]
+    },
+    {
+      "eng": "auditorium",
+      "kk": "/ˌɔdəˈtɔriəm/",
+      "tense": "n.",
+      "ch": [
+        [
+          "禮堂",
+          "觀眾席"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自拉丁語 audītōrium（聽講之處，源自 audire 聽）。經新拉丁語進入英語。語意指供群眾聚集聆聽音樂會、演講或觀賞表演的大型建築空間或座位區。",
+      "definition": "1. the part of a public building where an audience sits, or a large building for public meetings or performances.",
+      "example": [
+        {
+          "eng": "The school graduation ceremony was held in the main auditorium.",
+          "ch": "學校的畢業典禮在大禮堂舉行。"
+        }
+      ]
+    },
+    {
+      "eng": "avert",
+      "kk": "/əˈvɜrt/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "避免",
+          "防止"
+        ],
+        [
+          "轉開（目光等）"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自拉丁語 avertere，由 ab-（離開、遠離）與 vertere（轉動）複合而成。經法語進入英語。語意由「把視線轉開」引申為「岔開危險」或「避免災難發生」。",
+      "definition": "1. to prevent an undesirable event from happening; 2. to turn away one's eyes or thoughts.",
+      "example": [
+        {
+          "eng": "Quick action by the driver helped avert a serious accident.",
+          "ch": "駕駛的迅速反應有助於避免一場嚴重的事故。"
+        },
+        {
+          "eng": "She had to avert her eyes from the gruesome scene.",
+          "ch": "她不得不將目光從那血腥的場景中移開。"
+        }
+      ]
+    },
+    {
+      "eng": "aviation",
+      "kk": "/ˌeviˈeɪʃən/",
+      "tense": "n.",
+      "ch": [
+        [
+          "航空",
+          "航空學",
+          "飛航"
+        ]
+      ],
+      "analysis": "此字為19世紀創造的現代化學術／技術詞彙，由法國先驅加布里埃爾·奧爾松（Gabriel La Landelle）以拉丁語 avis（鳥）為基礎，仿造 navigation 創造出 aviation。語意指航空器的設計、製造與飛行操作技術。",
+      "definition": "1. the flying or operating of aircraft.",
+      "example": [
+        {
+          "eng": "He has a lifelong passion for aviation and airplane design.",
+          "ch": "他對航空和飛機設計有著一生的熱情。"
+        }
+      ]
+    },
+    {
+      "eng": "awesome",
+      "kk": "/ˈɔsəm/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "令人敬畏的"
+        ],
+        [
+          "極佳的",
+          "很棒的"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由古英語 awe（敬畏、恐懼）加上形容詞字尾 -some（充滿…的）構成。原本指「令人感到莊嚴恐懼或敬畏的」，在現代口語中則廣泛泛指「極其優秀的、棒極了」。",
+      "definition": "1. causing feelings of great respect and slight fear; 2. extremely good or impressive.",
+      "example": [
+        {
+          "eng": "The grand canyon offers an awesome view of nature.",
+          "ch": "大峽谷展現了大自然令人敬畏的景色。"
+        },
+        {
+          "eng": "We had an awesome time at the concert last night.",
+          "ch": "我們昨晚在音樂會上玩得非常開心。"
+        }
+      ]
+    },
+    {
+      "eng": "awhile",
+      "kk": "/əˈhwaɪl/",
+      "tense": "adv.",
+      "ch": [
+        [
+          "片刻",
+          "一會兒"
+        ]
+      ],
+      "analysis": "此字為古英語複合詞，由介詞短語 on hwīle（意為「一段時間內」）演變而來。作副詞時，專門用來修飾動詞，表示動作持續一小段時間。",
+      "definition": "1. for a short time.",
+      "example": [
+        {
+          "eng": "Please sit down and rest awhile.",
+          "ch": "請坐下來休息一會兒。"
+        }
+      ]
+    },
+    {
+      "eng": "bachelor",
+      "kk": "/ˈbætʃələr/",
+      "tense": "n.",
+      "ch": [
+        [
+          "單身漢"
+        ],
+        [
+          "學士"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自中古英語 bacheler，最終源自中世紀拉丁語 baccalaris（原指農場幫工或初級騎士，後來演變指未婚男子及大學低階學位獲得者）。經古法語進入英語。語意涵蓋未婚男子及大學學士學位。",
+      "definition": "1. a man who is not married; 2. a person who has held the lowest academic degree conferred by a university.",
+      "example": [
+        {
+          "eng": "He decided to remain a bachelor and travel the world.",
+          "ch": "他決定保持單身漢身分並環遊世界。"
+        },
+        {
+          "eng": "She holds a bachelor's degree in economics.",
+          "ch": "她擁有經濟學學士學位。"
+        }
+      ]
+    },
+    {
+      "eng": "backbone",
+      "kk": "/ˈbækˌboʊn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "脊椎"
+        ],
+        [
+          "骨氣",
+          "堅韌不拔的性格"
+        ]
+      ],
+      "analysis": "此字為日耳曼語族繼承詞，由古英語 bæcbān（bæc 背部 + bān 骨頭）複合而成。字面義為背部的骨頭。在現代語境中除了解剖學上的脊椎外，也常引申比喻人的意志力、骨氣或組織的骨幹核心。",
+      "definition": "1. the series of vertebrae extending from the skull to the pelvis; the spine; 2. strength of character; courage.",
+      "example": [
+        {
+          "eng": "Injuries to the backbone can cause severe mobility issues.",
+          "ch": "脊椎受傷會導致嚴重的行動不便問題。"
+        },
+        {
+          "eng": "It takes real backbone to stand up to a bully.",
+          "ch": "挺身對抗惡霸需要真正的骨氣。"
+        }
+      ]
+    },
+    {
+      "eng": "badge",
+      "kk": "/bædʒ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "徽章",
+          "標誌",
+          "證章"
+        ]
+      ],
+      "analysis": "此字詞源複雜，起源於中古英語 bage，可能與中世紀拉丁語 bacchia 或法語大衣標誌有關。語意指佩戴在身上用以識別身分、職業、組織會員資格或表彰功績的標誌物。",
+      "definition": "1. a small piece of metal, plastic, or cloth worn on clothing to show a person's rank, membership, or support for a cause.",
+      "example": [
+        {
+          "eng": "Police officers wear a metal badge on their uniforms.",
+          "ch": "警察在制服上佩戴金屬徽章。"
+        }
+      ]
+    },
+    {
+      "eng": "banquet",
+      "kk": "/ˈbæŋkwɪt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "宴會",
+          "盛宴"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自古法語 banquet（原意為小凳子、小吃，演變為正式宴席），源自義大利語 banchetto（凳子，引申為宴會）。經由法語進入英語。語意指為慶祝某事或款待貴賓而舉辦的盛大正式晚宴。",
+      "definition": "1. a formal meal for a large number of people, typically followed by speeches.",
+      "example": [
+        {
+          "eng": "A grand banquet was held in honor of the visiting diplomats.",
+          "ch": "為了款待來訪的外交官，舉辦了一場盛大的宴會。"
+        }
+      ]
+    },
+    {
+      "eng": "barbarian",
+      "kk": "/bɑrˈbɛriən/",
+      "tense": "n.",
+      "ch": [
+        [
+          "野蠻人",
+          "粗魯無禮的人"
+        ]
+      ],
+      "analysis": "此字源自古希臘語 barbaros（原指不會說希臘語、發出「bar-bar」無意義聲音的外國人）。經拉丁語 barbarus 進入中古英語。語意由古代指「外族人」演變為現代指缺乏文明教養、粗野殘暴的人。",
+      "definition": "1. a member of a community or tribe not belonging to one of the great civilizations; 2. an uncultured or brutal person.",
+      "example": [
+        {
+          "eng": "The invading tribes were often dismissed as barbarians by the empire.",
+          "ch": "入侵的部落常被帝國視為野蠻人。"
+        }
+      ]
+    },
+    {
+      "eng": "bass",
+      "kk": "/beɪs/",
+      "tense": "n.",
+      "ch": [
+        [
+          "低音",
+          "低音歌手",
+          "低音樂器"
+        ]
+      ],
+      "analysis": "此字為中古英語詞彙，源自義大利語 basso（低沉的，源自拉丁語 bassus）。在音樂中專門指低沉的聲音、聲部、低音歌手（如男低音）或低音樂器（如低音吉他）。",
+      "definition": "1. the lowest singing voice range; a singer with this voice; 2. an instrument that produces low-pitched notes.",
+      "example": [
+        {
+          "eng": "He sings bass in the church choir.",
+          "ch": "他在教堂詩班裡唱男低音。"
+        }
+      ]
+    },
+    {
+      "eng": "batter",
+      "kk": "/ˈbætər/",
+      "tense": "n.",
+      "ch": [
+        [
+          "麵糊"
+        ]
+      ],
+      "analysis": "此名詞源自動詞 batter（攪打），指將麵粉、水、雞蛋等材料混合攪打而成的半流質液體，常用於油炸裹粉（如炸魚或鬆餅原料）。",
+      "definition": "1. a semi-liquid mixture of flour, milk, and eggs used in cooking.",
+      "example": [
+        {
+          "eng": "Dip the fish in the batter before frying it.",
+          "ch": "將魚肉裹上麵糊後再油炸。"
+        }
+      ]
+    },
+    {
+      "eng": "batter",
+      "kk": "/ˈbætər/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "連續猛擊",
+          "打爛",
+          "虐待"
+        ]
+      ],
+      "analysis": "此字源自古法語 batre（打，源自拉丁語 batuere）。作及物動詞時，指用重擊、連續敲打的方式將物品打壞，或指對人進行肢體虐待。",
+      "definition": "1. to strike repeatedly with hard blows; 2. to mistreat physically.",
+      "example": [
+        {
+          "eng": "The fierce storm battered the coastal houses.",
+          "ch": "猛烈的暴風雨連續猛烈拍打著海岸邊的房屋。"
+        }
+      ]
+    },
+    {
+      "eng": "beautify",
+      "kk": "/ˈbyutəˌfaɪ/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "美化",
+          "裝飾"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由形容詞 beauty 加上動詞字尾 -ify（意為「使成為…」）構成。語意指使某事物變得更加美麗或具有吸引力。",
+      "definition": "1. to improve the appearance of someone or something.",
+      "example": [
+        {
+          "eng": "Residents worked together to beautify the neighborhood park.",
+          "ch": "居民們齊心協力美化社區公園。"
+        }
+      ]
+    },
+    {
+      "eng": "beep",
+      "kk": "/bip/",
+      "tense": "n.",
+      "ch": [
+        [
+          "嗶嗶聲",
+          "短促高音"
+        ]
+      ],
+      "analysis": "此字為擬聲詞（onomatopoeia），模仿電子儀器或喇叭發出的短促高頻聲音。名詞指這種短促的單音。",
+      "definition": "1. a short, high-pitched sound made by a device or horn.",
+      "example": [
+        {
+          "eng": "I heard a beep when the microwave finished heating.",
+          "ch": "微波爐加熱完成時計發出了嗶的一聲。"
+        }
+      ]
+    },
+    {
+      "eng": "beep",
+      "kk": "/bip/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "發出嗶嗶聲"
+        ]
+      ],
+      "analysis": "擬聲詞動詞化。作不及物動詞時，指設備或儀器發出短促的嗶嗶聲響。",
+      "definition": "1. to make a short, high-pitched sound.",
+      "example": [
+        {
+          "eng": "The smoke detector began to beep because the battery was low.",
+          "ch": "火災探測器因為電量不足開始發出嗶嗶聲。"
+        }
+      ]
+    },
+    {
+      "eng": "beforehand",
+      "kk": "/bɪˈfɔrˌhænd/",
+      "tense": "adv.",
+      "ch": [
+        [
+          "事先",
+          "預先"
+        ]
+      ],
+      "analysis": "此字為中古英語複合詞，由 before（在…之前）與 hand（手，引申為提前準備好的動作）結合而成。作副詞時，指在事件發生之前做好準備或安排。",
+      "definition": "1. in advance; ahead of time.",
+      "example": [
+        {
+          "eng": "It is better to book your tickets beforehand during peak season.",
+          "ch": "在旺季時最好事先預訂機票。"
+        }
+      ]
+    },
+    {
+      "eng": "beverage",
+      "kk": "/ˈbɛvərɪdʒ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "飲料"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自古法語 beverage（現代法語 breuvage），由拉丁語 bibere（喝）演變而來的俗拉丁語詞彙加上名詞字尾構成。語意泛指除水之外的各種可飲用液體（如茶、咖啡、果汁等）。",
+      "definition": "1. a drink other than water.",
+      "example": [
+        {
+          "eng": "Hot and cold beverages are available at the lobby bar.",
+          "ch": "大廳酒吧提供冷熱飲料。"
+        }
+      ]
+    },
+    {
+      "eng": "bilateral",
+      "kk": "/baɪˈlætərəl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "雙邊的",
+          "雙向的"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由拉丁字首 bi-（兩個）與 latus（側邊、側面）加上形容詞字尾 -al 構成。語意指涉及兩個國家、兩方或兩側的協議、關係或對話。",
+      "definition": "1. affecting or undertaken by two sides equally; mutually binding.",
+      "example": [
+        {
+          "eng": "The two countries signed a bilateral trade agreement.",
+          "ch": "兩國簽署了一項雙邊貿易協定。"
+        }
+      ]
+    },
+    {
+      "eng": "blaze",
+      "kk": "/bleɪz/",
+      "tense": "n.",
+      "ch": [
+        [
+          "烈火"
+        ],
+        [
+          "光輝"
+        ]
+      ],
+      "analysis": "此字為日耳曼語族繼承詞，源自古英語 blæse（火炬、火焰）。名詞指猛烈燃燒的大火，或引申為耀眼的光芒。",
+      "definition": "1. a large, fierce fire; 2. a bright flame or display of light.",
+      "example": [
+        {
+          "eng": "Firefighters rushed to the scene of the blaze.",
+          "ch": "消防員迅速趕往火災現場。"
+        },
+        {
+          "eng": "The autumn leaves were a blaze of red and gold.",
+          "ch": "秋葉呈現出一片紅金相間的燦爛光彩。"
+        }
+      ]
+    },
+    {
+      "eng": "blaze",
+      "kk": "/bleɪz/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "熊熊燃燒",
+          "發光發熱"
+        ]
+      ],
+      "analysis": "源自古英語 blæse。作不及物動詞時，指火勢猛烈燃燒或光芒極其耀眼。",
+      "definition": "1. to burn brightly and strongly.",
+      "example": [
+        {
+          "eng": "The campfire continued to blaze through the night.",
+          "ch": "營火整夜熊熊燃燒著。"
+        }
+      ]
+    },
+    {
+      "eng": "bleach",
+      "kk": "/blitʃ/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "漂白",
+          "使褪色"
+        ]
+      ],
+      "analysis": "此字為日耳曼語族繼承詞，源自古英語 blǣcan（使變白，源自 blæc 白色的／發光的根源）。作及物動詞時，指使用化學藥劑或陽光將衣物、頭髮等漂洗成白色或淡色。",
+      "definition": "1. to make white or much lighter by a chemical process or exposure to sunlight.",
+      "example": [
+        {
+          "eng": "She used bleach to remove the stains from the white shirt.",
+          "ch": "她用漂白水去除白襯衫上的污漬。"
+        }
+      ]
+    },
+    {
+      "eng": "blond",
+      "kk": "/blɑnd/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "金髮的",
+          "淺色的"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自中古法語 blond（金黃色的），其上源可能為日耳曼語族或中世紀拉丁語 blundus。通常指頭髮呈金黃色或膚色、毛髮呈淺色的人（此拼法常指男性或作為通用形容詞）。",
+      "definition": "1. having fair or yellow hair and a light complexion.",
+      "example": [
+        {
+          "eng": "The little boy has blue eyes and blond hair.",
+          "ch": "這個小男孩有着藍眼睛和金髮。"
+        }
+      ]
+    },
+    {
+      "eng": "blonde",
+      "kk": "/blɑnd/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "金髮的（限女性）"
+        ]
+      ],
+      "analysis": "源自法語陰性形容詞 blonde（陽性為 blond），在英語傳統拼寫中特地保留陰性詞尾 -e，專門用來修飾女性的金髮。",
+      "definition": "1. (of a woman or girl) having golden or light-colored hair.",
+      "example": [
+        {
+          "eng": "She is a blonde woman with a bright smile.",
+          "ch": "她是一位帶着燦爛笑容的金髮女子。"
+        }
+      ]
+    },
+    {
+      "eng": "blot",
+      "kk": "/blɑt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "墨漬",
+          "污點"
+        ]
+      ],
+      "analysis": "此字起源於中古英語，可能與日耳曼語族或斯堪地那維亞語源有關。名詞指紙張或布料上的墨水漬、油漬，或引申為品格上的污點。",
+      "definition": "1. a dark spot or stain, especially of ink or paint; a blemish on a reputation.",
+      "example": [
+        {
+          "eng": "There was an ink blot on his homework paper.",
+          "ch": "他的作業紙上有一塊墨漬。"
+        }
+      ]
+    },
+    {
+      "eng": "blot",
+      "kk": "/blɑt/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "沾除",
+          "吸乾（墨水等）"
+        ]
+      ],
+      "analysis": "源自名詞 blot。作及物動詞時，常用於用吸水紙將多餘的墨水或液體沾除。",
+      "definition": "1. to dry or remove a liquid using an absorbent paper or cloth.",
+      "example": [
+        {
+          "eng": "Use a tissue to blot the spilled coffee.",
+          "ch": "用面紙把灑出來的咖啡吸乾。"
+        }
+      ]
+    },
+    {
+      "eng": "blunt",
+      "kk": "/blʌnt/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "鈍的"
+        ],
+        [
+          "直率的",
+          "不客氣的"
+        ]
+      ],
+      "analysis": "此字為中古英語詞彙，本義指頭腦遲鈍或刀刃不鋒利。形容詞除了解剖或物品上的「鈍（無尖銳口）」之外，也廣泛用來形容人說話直率、坦白、不加修飾。",
+      "definition": "1. having a worn-down edge or point; not sharp; 2. uncompromisingly direct and honest in speech.",
+      "example": [
+        {
+          "eng": "Be careful when cutting with a blunt knife.",
+          "ch": "用鈍刀切割時要小心。"
+        },
+        {
+          "eng": "She gave a blunt answer to the awkward question.",
+          "ch": "她對那個尷尬的問題做出了直言不諱的回答。"
+        }
+      ]
+    },
+    {
+      "eng": "bodily",
+      "kk": "/ˈbɑdɪli/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "身體的",
+          "肉體的"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由名詞 body（身體）加上形容詞／副詞字尾 -ly 構成。作形容詞時，指與人的肉體、軀體相關的。",
+      "definition": "1. relating to or concerning the human body.",
+      "example": [
+        {
+          "eng": "Yoga is a practice that improves both mental and bodily health.",
+          "ch": "瑜伽是一項能改善心理與肉體健康的練習。"
+        }
+      ]
+    },
+    {
+      "eng": "booklet",
+      "kk": "/ˈbʊklɪt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "小冊子"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由名詞 book（書）加上指小字尾 -let（表微小、小的）構成。語意指頁數較少、裝訂簡單的小冊子。",
+      "definition": "1. a very small book with a paper cover, containing information about a particular subject.",
+      "example": [
+        {
+          "eng": "The tourist office handed out an information booklet.",
+          "ch": "旅遊服務處發放了一本資訊小冊子。"
+        }
+      ]
+    },
+    {
+      "eng": "bosom",
+      "kk": "/ˈbʊzəm/",
+      "tense": "n.",
+      "ch": [
+        [
+          "胸口",
+          "胸懷",
+          "內心"
+        ]
+      ],
+      "analysis": "此字為日耳曼語族繼承詞，源自古英語 bōsm（胸部、懷抱）。名詞指人的胸部、胸膛，或抽象地指人的內心深處、懷抱。",
+      "definition": "1. the human chest; a person's chest regarded as the center of feelings.",
+      "example": [
+        {
+          "eng": "She held the letter close to her bosom.",
+          "ch": "她把信緊緊貼在胸口。"
+        }
+      ]
+    },
+    {
+      "eng": "boulevard",
+      "kk": "/ˈbʊləˌvɑrd/",
+      "tense": "n.",
+      "ch": [
+        [
+          "林蔭大道",
+          "大馬路"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自法語 boulevard，其最終源自日耳曼語族字源（意指城牆防禦工事、堡壘，後來指城牆拆除後改建的寬闊寬敞街道）。經由法語進入英語。語意指城市中寬闊且通常種植樹木的主幹道。",
+      "definition": "1. a wide street, typically one lined with trees.",
+      "example": [
+        {
+          "eng": "Famous luxury shops line the wide boulevard.",
+          "ch": "著名的奢侈品商店林立在這條寬闊的林蔭大道兩旁。"
+        }
+      ]
+    },
+    {
+      "eng": "boxing",
+      "kk": "/ˈbɑksɪŋ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "拳擊",
+          "拳擊運動"
+        ]
+      ],
+      "analysis": "此字由名詞 box（拳擊、打拳）加上動名詞字尾 -ing 構成。語意指兩名運動員戴着拳擊手套在擂台上互相搏擊的競技體育項目。",
+      "definition": "1. the sport or practice of fighting with the fists, typically with padded gloves.",
+      "example": [
+        {
+          "eng": "He trains hard every day to prepare for the boxing match.",
+          "ch": "他每天努力訓練，為拳擊賽做準備。"
+        }
+      ]
+    },
+    {
+      "eng": "boycott",
+      "kk": "/ˈbɔɪkɑt/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "抵制",
+          "拒絕購買",
+          "聯合杯葛"
+        ]
+      ],
+      "analysis": "此字為源自近代歷史的 eponym（姓氏轉化詞）。1880年代愛爾蘭土地改革期間，當地的土地代理人查爾斯·博伊特（Charles Boycott）因拒絕降低地租，遭到當地居民群起拒絕與其往來及工作，因而由其姓氏創造出此動詞。語意指集體拒絕購買某商品或與某個體、企業、國家進行合作以示抗議。",
+      "definition": "1. to refuse to buy, use, or deal with a store, company, or country as a form of protest.",
+      "example": [
+        {
+          "eng": "Consumers decided to boycott the company due to its unfair labor practices.",
+          "ch": "由於該公司不公的勞動行為，消費者決定抵制它。"
+        }
+      ]
+    },
+    {
+      "eng": "brace",
+      "kk": "/breɪs/",
+      "tense": "n.",
+      "ch": [
+        [
+          "支架",
+          "矯正器",
+          "束帶"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自古法語 brace（手臂、張開的雙臂，源自拉丁語 bracchium 手臂）。語意由「雙臂環抱擁有的支撐」演變為用於固定、支撐身體部位的醫療器具（如牙齒矯正器、護膝）或建築支架。",
+      "definition": "1. a device that is fitted to something, such as the body, to give support or strengthen it.",
+      "example": [
+        {
+          "eng": "She has to wear a dental brace to straighten her teeth.",
+          "ch": "她必須戴牙齒矯正器來整齊牙齒。"
+        }
+      ]
+    },
+    {
+      "eng": "brace",
+      "kk": "/breɪs/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "支撐",
+          "使穩固"
+        ],
+        [
+          "作好心理準備"
+        ]
+      ],
+      "analysis": "源自古法語 brace。作及物動詞時，指加固、支撐某物，或反身用法（brace oneself）表示繃緊肌肉、做好迎接衝擊或困難的心理準備。",
+      "definition": "1. to make something steady or secure; 2. to prepare oneself for something difficult or unpleasant.",
+      "example": [
+        {
+          "eng": "You need to brace the fence against strong winds.",
+          "ch": "你需要加固柵欄以防強風。"
+        },
+        {
+          "eng": "We must brace ourselves for bad news.",
+          "ch": "我們必須做好心理準備迎接壞消息。"
+        }
+      ]
+    }
+  ]
+}

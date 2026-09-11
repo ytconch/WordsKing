@@ -1,0 +1,1402 @@
+{
+  "level": 2,
+  "chunkIndex": 15,
+  "inputs": [
+    "prison",
+    "prisoner",
+    "private",
+    "prize",
+    "produce",
+    "production",
+    "progress",
+    "project",
+    "promise",
+    "proper",
+    "propose",
+    "protect",
+    "protective",
+    "prove",
+    "provide",
+    "pudding",
+    "pumpkin",
+    "punish",
+    "punishment",
+    "pupil",
+    "puppy",
+    "purple",
+    "purpose",
+    "puzzle",
+    "quality",
+    "quantity",
+    "quiz",
+    "railroad",
+    "railway",
+    "raincoat",
+    "range",
+    "rapid",
+    "rare",
+    "rat",
+    "rather",
+    "reality",
+    "realize",
+    "receive",
+    "recent",
+    "record",
+    "recover",
+    "refrigerator",
+    "fridge",
+    "refuse",
+    "regard",
+    "region",
+    "regular",
+    "reject",
+    "relate",
+    "relation"
+  ],
+  "rows": [
+    {
+      "eng": "prison",
+      "kk": "ˈprɪzn",
+      "tense": "n.",
+      "ch": [
+        [
+          "監獄",
+          "牢房"
+        ],
+        [
+          "束縛",
+          "禁錮之地"
+        ]
+      ],
+      "analysis": "此字為現代透明度較低的歷史借詞，源自古法語 prison，最終源自拉丁語 prēnsiōn-, prēnsiō（意為「抓住、逮捕」，由 prēnsus 衍生）。在英語中主要作名詞，指關押罪犯的建築物，或引申為限制自由的處境。",
+      "definition": "1. a building where criminals are kept as a punishment; 2. a place or situation that severely restricts freedom.",
+      "example": [
+        {
+          "eng": "He was sent to prison for robbery.",
+          "ch": "他因搶劫而被送進監獄。"
+        },
+        {
+          "eng": "Her unhappy marriage felt like a prison.",
+          "ch": "她不幸的婚姻感覺像個牢籠。"
+        }
+      ]
+    },
+    {
+      "eng": "prisoner",
+      "kk": "ˈprɪzənər",
+      "tense": "n.",
+      "ch": [
+        [
+          "囚犯",
+          "犯人"
+        ],
+        [
+          "俘虜"
+        ]
+      ],
+      "analysis": "此字由名詞 prison 加上表示人的名詞字尾 -er 構成，指在監獄服刑的人或在戰爭中被捕獲的軍民。構詞透明，語義從 prison（監獄）自然延伸為「身處監獄或受拘禁的人」。",
+      "definition": "1. a person kept in prison as a punishment or while awaiting trial; 2. a person captured and held by an enemy, especially in wartime.",
+      "example": [
+        {
+          "eng": "The prisoner tried to escape from his cell.",
+          "ch": "那名囚犯試圖從牢房逃跑。"
+        },
+        {
+          "eng": "Several soldiers were taken prisoner.",
+          "ch": "數名士兵被俘。"
+        }
+      ]
+    },
+    {
+      "eng": "private",
+      "kk": "ˈpraɪvɪt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "私人的",
+          "個人的"
+        ],
+        [
+          "隱祕的",
+          "不公開的"
+        ],
+        [
+          "（士兵）列兵"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 prīvātus（意為「個別的、私人的」，源於 prīvāre「使分離、剝奪」）。在現代英語中主要作形容詞，指屬於個人而非公眾的屬性，或作名詞指軍階最低的列兵。形容詞與名詞雖相關，但根據詞性分開原則，此處輸出最常見的形容詞 row。",
+      "definition": "1. belonging to or for the use of a particular person or group only; 2. confidential or secret; 3. of or relating to the lowest rank in the army.",
+      "example": [
+        {
+          "eng": "This is my private property.",
+          "ch": "這是我的私人財產。"
+        },
+        {
+          "eng": "We had a private conversation.",
+          "ch": "我們進行了一次私下談話。"
+        },
+        {
+          "eng": "He served as a private in the infantry.",
+          "ch": "他曾在步兵團擔任列兵。"
+        }
+      ]
+    },
+    {
+      "eng": "prize",
+      "kk": "praɪz",
+      "tense": "n.",
+      "ch": [
+        [
+          "獎品",
+          "獎金"
+        ],
+        [
+          "戰利品"
+        ]
+      ],
+      "analysis": "此字源自古法語 prise（意為「抓住、獲得」），經由中古英語進入現代英語。主要作名詞，指在競賽中贏得的獎項，或引申為值得追求與爭奪的高價值珍寶。",
+      "definition": "1. something of value won in a competition, contest, or lottery; 2. something worth striving for or highly valued.",
+      "example": [
+        {
+          "eng": "She won first prize in the art competition.",
+          "ch": "她贏得了美術比賽的第一名。"
+        },
+        {
+          "eng": "The painting was the main prize of the collection.",
+          "ch": "這幅畫是該收藏中最珍貴的藏品。"
+        }
+      ]
+    },
+    {
+      "eng": "produce",
+      "kk": "prəˈduːs",
+      "tense": "vt.",
+      "ch": [
+        [
+          "生產",
+          "製造"
+        ],
+        [
+          "出產",
+          "產出"
+        ],
+        [
+          "製作",
+          "出品（電影、戲劇等）"
+        ]
+      ],
+      "analysis": "此字為拉丁語借詞，由字首 prō-（向前）與 ducere（引導、帶領）複合而成的 prōdūcere（引出、生產）演變而來。作為及物動詞，核心義為將原材料轉化為成品、自然長出農作物，或在文娛領域統籌製作作品。",
+      "definition": "1. to make or manufacture from components or raw materials; 2. to cause a natural product, crop, or substance to come into existence; 3. to oversee and finance the making of a film, play, or record.",
+      "example": [
+        {
+          "eng": "The factory produces cars and trucks.",
+          "ch": "這家工廠生產汽車和卡車。"
+        },
+        {
+          "eng": "This region produces high-quality wine.",
+          "ch": "這個地區出產高品質的葡萄酒。"
+        },
+        {
+          "eng": "She is producing a new television series.",
+          "ch": "她正在製作一部新的電視劇。"
+        }
+      ]
+    },
+    {
+      "eng": "production",
+      "kk": "prəˈdʌkʃn",
+      "tense": "n.",
+      "ch": [
+        [
+          "生產",
+          "製造"
+        ],
+        [
+          "產量"
+        ],
+        [
+          "作品",
+          "上映劇目"
+        ]
+      ],
+      "analysis": "此字為動詞 produce 的名詞形式，源自拉丁語 prōductiōn-（延伸、生產）。結構上由詞根與名詞字尾 -ion 結合而成。指生產的行為、過程、產量，或指電影、舞台劇等最終產出的藝術作品。",
+      "definition": "1. the action of making or manufacturing from components or raw materials; 2. the total amount of goods produced; 3. a film, play, or broadcast prepared for public exhibition.",
+      "example": [
+        {
+          "eng": "Car production has increased this year.",
+          "ch": "今年的汽車產量有所增加。"
+        },
+        {
+          "eng": "The factory halted production due to a strike.",
+          "ch": "該工廠因罷工而暫停生產。"
+        },
+        {
+          "eng": "The theater's new production of Hamlet was a success.",
+          "ch": "該劇院新製作的《哈姆雷特》非常成功。"
+        }
+      ]
+    },
+    {
+      "eng": "progress",
+      "kk": "ˈprɑːɡres",
+      "tense": "n.",
+      "ch": [
+        [
+          "進步",
+          "進展"
+        ],
+        [
+          "向前移動"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 prōgressus（向前走，由 prō-「向前」+ gradi「走」組成）。在英語中作名詞，指朝著目標推進、發展或空間上的向前移動。",
+      "definition": "1. forward or onward movement toward a destination or goal; 2. development or improvement over time.",
+      "example": [
+        {
+          "eng": "We are making good progress on the project.",
+          "ch": "我們這個專案進展順利。"
+        },
+        {
+          "eng": "Scientists track the progress of the disease.",
+          "ch": "科學家追蹤該疾病的發展情況。"
+        }
+      ]
+    },
+    {
+      "eng": "project",
+      "kk": "ˈprɑːdʒekt",
+      "tense": "n.",
+      "ch": [
+        [
+          "專案",
+          "計畫"
+        ],
+        [
+          "工程",
+          "研究課題"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 prōiectum（投射出去的事物，由 prō-「向前」+ iacere「投擲」組成）。作名詞時，指經過精心規劃、旨在達成特定目標的任務、工程或學術研究計畫。",
+      "definition": "1. an individual or collaborative enterprise that is carefully planned to achieve a particular aim; 2. a planned undertaking or large-scale engineering task.",
+      "example": [
+        {
+          "eng": "The research project will take two years.",
+          "ch": "這項研究計畫將耗時兩年。"
+        },
+        {
+          "eng": "They are working on a construction project.",
+          "ch": "他們正在進行一項建設工程。"
+        }
+      ]
+    },
+    {
+      "eng": "promise",
+      "kk": "ˈprɑːmɪs",
+      "tense": "vt.",
+      "ch": [
+        [
+          "承諾",
+          "答應"
+        ],
+        [
+          "預示",
+          "有…的希望"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 prōmissum（許諾，由 prō-「在前、向前」+ mittere「放、送」組成）。作及物動詞時，表示向他人作出口頭保證會做某事，或指某跡象預示著良好的前景。",
+      "definition": "1. to assure someone that one will definitely do, give, or arrange something; 2. to give grounds for expecting a particular good result or outcome.",
+      "example": [
+        {
+          "eng": "He promised to help me with my homework.",
+          "ch": "他答應幫我做功課。"
+        },
+        {
+          "eng": "The dark clouds promise rain.",
+          "ch": "烏雲預示著要下雨了。"
+        }
+      ]
+    },
+    {
+      "eng": "proper",
+      "kk": "ˈprɑːpər",
+      "tense": "adj.",
+      "ch": [
+        [
+          "合適的",
+          "恰當的"
+        ],
+        [
+          "正宗的",
+          "嚴格意義上的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 proprius（自己的、特有的、恰當的）。作形容詞時，指符合社會規範、標準、情境要求，或指某事物本身最純正、最嚴格的本義。",
+      "definition": "1. conforming to established standards of behavior or etiquette; appropriate; 2. strictly meeting the true definition or character of something.",
+      "example": [
+        {
+          "eng": "Please use the proper tools for the job.",
+          "ch": "請使用適合該工作的正確工具。"
+        },
+        {
+          "eng": "We need a proper vacation, not just a weekend off.",
+          "ch": "我們需要一個像樣的假期，而不只是週末休息。"
+        }
+      ]
+    },
+    {
+      "eng": "propose",
+      "kk": "prəˈpoʊz",
+      "tense": "vt.",
+      "ch": [
+        [
+          "提議",
+          "建議"
+        ],
+        [
+          "求婚"
+        ]
+      ],
+      "analysis": "此字由拉丁語前綴 prō-（向前）與法語或拉丁語根 poser（放置）結合而成。作及物動詞時，指在會議或討論中提出計劃、方案，或特指單膝下跪向伴侶求婚。",
+      "definition": "1. to put forward an idea or plan for consideration or action by others; 2. to make an offer of marriage.",
+      "example": [
+        {
+          "eng": "She proposed a new schedule for the meeting.",
+          "ch": "她為會議提出了新的時間表。"
+        },
+        {
+          "eng": "He proposed to her on a romantic beach.",
+          "ch": "他在浪漫的海灘上向她求婚。"
+        }
+      ]
+    },
+    {
+      "eng": "protect",
+      "kk": "prəˈtekt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "保護",
+          "防衛"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 prōtectus（動詞 prōtegere 的過去分詞，由 prō-「在前」+ tegere「覆蓋」組成）。作及物動詞，指使人或物免受傷害、危險或損害。",
+      "definition": "1. to keep safe from harm, injury, or damage.",
+      "example": [
+        {
+          "eng": "Parents always want to protect their children.",
+          "ch": "父母總是想保護自己的孩子。"
+        },
+        {
+          "eng": "Wear sunscreen to protect your skin from the sun.",
+          "ch": "塗防曬霜以保護皮膚免受陽光傷害。"
+        }
+      ]
+    },
+    {
+      "eng": "protective",
+      "kk": "prəˈtektɪv",
+      "tense": "adj.",
+      "ch": [
+        [
+          "保護的",
+          "防護的"
+        ],
+        [
+          "具有保護欲的"
+        ]
+      ],
+      "analysis": "此字由動詞 protect 加上形容詞字尾 -ive 構成。指具有防護功能（如保護裝備），或形容人對他人（如家人、伴侶）表現出過度保護或關切的心理狀態。",
+      "definition": "1. intended to protect someone or something; 2. showing a strong desire to protect someone from harm.",
+      "example": [
+        {
+          "eng": "Workers must wear protective clothing on site.",
+          "ch": "工人在現場必須穿著防護服。"
+        },
+        {
+          "eng": "He is very protective of his younger sister.",
+          "ch": "他對自己的妹妹非常保護。"
+        }
+      ]
+    },
+    {
+      "eng": "prove",
+      "kk": "pruːv",
+      "tense": "vt.",
+      "ch": [
+        [
+          "證明",
+          "證實"
+        ],
+        [
+          "顯現出",
+          "證明是"
+        ]
+      ],
+      "analysis": "此字源自中古英語 proven，最終源自拉丁語 prōbāre（檢驗、證明）。作及物動詞時，指透過證據或邏輯推導證實某事的真實性，或在實踐中展現出某種特質。",
+      "definition": "1. to demonstrate the truth or existence of something by evidence or argument; 2. to turn out to be after a period of time or trial.",
+      "example": [
+        {
+          "eng": "The police could not prove that he stole the car.",
+          "ch": "警方無法證明是他偷了車。"
+        },
+        {
+          "eng": "Her theory proved to be correct.",
+          "ch": "她的理論被證明是正確的。"
+        }
+      ]
+    },
+    {
+      "eng": "provide",
+      "kk": "prəˈvaɪd",
+      "tense": "vt.",
+      "ch": [
+        [
+          "提供",
+          "供應"
+        ],
+        [
+          "規定",
+          "預備"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 prōvidēre（預見、防範、準備，由 prō-「向前」+ vidēre「看」組成）。作及物動詞時，核心義為預先準備並提供所需之物或服務。",
+      "definition": "1. to make available for use; supply; 2. to stipulate in a legal document or contract.",
+      "example": [
+        {
+          "eng": "The hotel provides free breakfast for all guests.",
+          "ch": "這家飯店為所有客人提供免費早餐。"
+        },
+        {
+          "eng": "The contract provides that payment must be made in advance.",
+          "ch": "合約規定必須預先付款。"
+        }
+      ]
+    },
+    {
+      "eng": "pudding",
+      "kk": "ˈpʊdɪŋ",
+      "tense": "n.",
+      "ch": [
+        [
+          "布丁",
+          "甜點"
+        ]
+      ],
+      "analysis": "此字源自中古英語 puddyng，可能借自古法語 boudin（血腸），其根源可追溯至拉丁語 botellus（小腸、香腸）。在現代英語中語義轉化為柔軟、甜美的甜點或類似布丁口感的食品。",
+      "definition": "1. a sweet, cooked dessert typically served after the main meal.",
+      "example": [
+        {
+          "eng": "We had chocolate pudding for dessert.",
+          "ch": "我們吃巧克力布丁作為甜點。"
+        },
+        {
+          "eng": "She made a traditional Christmas pudding.",
+          "ch": "她做了一個傳統的聖誕布丁。"
+        }
+      ]
+    },
+    {
+      "eng": "pumpkin",
+      "kk": "ˈpʌmpkɪn",
+      "tense": "n.",
+      "ch": [
+        [
+          "南瓜"
+        ]
+      ],
+      "analysis": "此字源自古法語 pompon，最終源自希臘語 pepōn（大瓜）。經由早期英語演變為 pumpkin，專指一種圓形、橙黃色且皮厚的大型葫蘆科植物果實。",
+      "definition": "1. a large, round, orange-colored fruit with a thick rind and edible flesh.",
+      "example": [
+        {
+          "eng": "We carved a scary face into the pumpkin for Halloween.",
+          "ch": "為了萬聖節，我們在南瓜上雕刻出可怕的臉孔。"
+        },
+        {
+          "eng": "Pumpkin pie is a traditional Thanksgiving dish.",
+          "ch": "南瓜派是傳統的感恩節餐點。"
+        }
+      ]
+    },
+    {
+      "eng": "punish",
+      "kk": "ˈpʌnɪʃ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "懲罰",
+          "處罰"
+        ]
+      ],
+      "analysis": "此字源自古法語 puniss-（動詞 punir 的詞幹），最終源自拉丁語 poenīre（懲罰，源於 poena「刑罰、懲罰」）。作及物動詞，指因某人犯錯、違法或違規而施予懲戒。",
+      "definition": "1. to inflict a penalty or sanction on someone for an offense, fault, or crime.",
+      "example": [
+        {
+          "eng": "The teacher punished the students who cheated on the exam.",
+          "ch": "老師懲罰了考試作弊的學生。"
+        },
+        {
+          "eng": "The law punishes those who steal.",
+          "ch": "法律懲罰偷竊者。"
+        }
+      ]
+    },
+    {
+      "eng": "punishment",
+      "kk": "ˈpʌnɪʃmənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "懲罰",
+          "處罰"
+        ]
+      ],
+      "analysis": "此字由及物動詞 punish 加上名詞字尾 -ment 構成，表示懲罰的動作、狀態或結果。構詞完全透明。",
+      "definition": "1. the infliction or imposition of a penalty as retribution for an offense.",
+      "example": [
+        {
+          "eng": "The judge handed down a severe punishment for the crime.",
+          "ch": "法官對該罪行判處了嚴厲的懲罰。"
+        },
+        {
+          "eng": "Fear of punishment often deters people from breaking the law.",
+          "ch": "害怕受罰往往能嚇阻人們違法。"
+        }
+      ]
+    },
+    {
+      "eng": "pupil",
+      "kk": "ˈpjuːpl",
+      "tense": "n.",
+      "ch": [
+        [
+          "學生",
+          "學童"
+        ],
+        [
+          "瞳孔"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 pūpillus（孤兒、未成年人）及 pupilla（小女孩、眼中的倒影／瞳孔）。在英語中分化為兩個常見義：一是指小學或中學的學生，二是指眼睛中央可調節光線的瞳孔。",
+      "definition": "1. a person who is being taught, especially a child in a school; 2. the dark circular opening in the center of the iris of the eye.",
+      "example": [
+        {
+          "eng": "The school has over five hundred pupils.",
+          "ch": "這所學校有五百多名學生。"
+        },
+        {
+          "eng": "Her pupils dilated in the dark room.",
+          "ch": "在黑暗的房間裡，她的瞳孔擴大了。"
+        }
+      ]
+    },
+    {
+      "eng": "puppy",
+      "kk": "ˈpʌpi",
+      "tense": "n.",
+      "ch": [
+        [
+          "小狗",
+          "幼犬"
+        ]
+      ],
+      "analysis": "此字源自中古法語 poupée（洋娃娃、玩具），透過古法語演變並傳入英語，最初可能因小狗可愛如玩具而得名，後來專指未滿一歲的幼犬。",
+      "definition": "1. a young dog.",
+      "example": [
+        {
+          "eng": "They adopted a golden retriever puppy.",
+          "ch": "他們領養了一隻黃金獵犬幼犬。"
+        },
+        {
+          "eng": "The little puppy loves to chase its tail.",
+          "ch": "這隻小狗喜歡追著自己的尾巴跑。"
+        }
+      ]
+    },
+    {
+      "eng": "purple",
+      "kk": "ˈpɜːrpl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "紫色的"
+        ],
+        [
+          "華麗的",
+          "詞藻華麗的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 purpura（紫螺、紫色染料），經由古法語進入英語。作形容詞時，指介於紅色和藍色之間的紫色，或在文學批評中指辭藻過於華麗浮誇的。",
+      "definition": "1. of a color intermediate between red and blue; 2. consisting of or characterized by overly elaborate or ornate language.",
+      "example": [
+        {
+          "eng": "She wore a beautiful purple dress to the party.",
+          "ch": "她穿了一件漂亮的紫色洋裝去參加派對。"
+        },
+        {
+          "eng": "The author is known for his purple prose.",
+          "ch": "這位作家以其辭藻華麗的散文而聞名。"
+        }
+      ]
+    },
+    {
+      "eng": "purpose",
+      "kk": "ˈpɜːrpəs",
+      "tense": "n.",
+      "ch": [
+        [
+          "目的",
+          "意圖"
+        ],
+        [
+          "用途",
+          "效用"
+        ]
+      ],
+      "analysis": "此字源自古法語 porpos，由拉丁語 prōpōnere（提出、打算）演變而來。作名詞時，指行事的意圖、目的，或某物被設計出來的實際用途。",
+      "definition": "1. the reason for which something is done or created or for which something exists; 2. an intended goal or objective.",
+      "example": [
+        {
+          "eng": "What is the purpose of your visit?",
+          "ch": "你來訪的目的是什麼？"
+        },
+        {
+          "eng": "This tool serves a dual purpose.",
+          "ch": "這個工具具有雙重用途。"
+        }
+      ]
+    },
+    {
+      "eng": "puzzle",
+      "kk": "ˈpʌzl",
+      "tense": "n.",
+      "ch": [
+        [
+          "拼圖",
+          "益智遊戲"
+        ],
+        [
+          "謎題",
+          "難題"
+        ]
+      ],
+      "analysis": "此字源自動詞 puzzle（其起源可能與 pose 有關，表示陷入困惑）。作名詞時，指需要動腦解答的謎題、字謎，或指由許多散落小片組合而成的拼圖遊戲。",
+      "definition": "1. a game, toy, or problem designed to test ingenuity or knowledge; 2. a difficult question or situation that is hard to understand.",
+      "example": [
+        {
+          "eng": "He spent the whole afternoon completing a 1000-piece puzzle.",
+          "ch": "他花了一整個下午完成一千片拼圖。"
+        },
+        {
+          "eng": "The cause of the accident remains a puzzle.",
+          "ch": "事故的原因仍然是一個謎。"
+        }
+      ]
+    },
+    {
+      "eng": "quality",
+      "kk": "ˈkwɑːləti",
+      "tense": "n.",
+      "ch": [
+        [
+          "品質",
+          "質量"
+        ],
+        [
+          "特質",
+          "品德"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 quālitās（性質、屬性，源於 quālis「哪種、什麼樣的」）。在現代英語中作名詞，指物品優劣的程度，或指人或事物固有的性格特質、優良品德。",
+      "definition": "1. the standard of something as measured against other things of a similar kind; 2. a distinctive attribute or characteristic possessed by someone or something.",
+      "example": [
+        {
+          "eng": "We focus on producing products of high quality.",
+          "ch": "我們專注於生產高品質的產品。"
+        },
+        {
+          "eng": "Patience is an essential quality for a teacher.",
+          "ch": "耐心是老師不可或缺的特質。"
+        }
+      ]
+    },
+    {
+      "eng": "quantity",
+      "kk": "ˈkwɑːntəti",
+      "tense": "n.",
+      "ch": [
+        [
+          "數量",
+          "分量"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 quantitās（數量，源於 quantus「多少」）。與 quality 相對，專門指可以用數字或度量衡計算的數量、分量或總額。",
+      "definition": "1. an amount or number of something.",
+      "example": [
+        {
+          "eng": "The recipe requires a large quantity of flour.",
+          "ch": "這食譜需要大量的麵粉。"
+        },
+        {
+          "eng": "They buy raw materials in large quantities.",
+          "ch": "他們大批量購買原材料。"
+        }
+      ]
+    },
+    {
+      "eng": "quiz",
+      "kk": "kwɪz",
+      "tense": "n.",
+      "ch": [
+        [
+          "小測驗",
+          "問答比賽"
+        ]
+      ],
+      "analysis": "此字起源於 18 世紀的英語（傳說源自 Dublin 的劇場經理 Richard Daly 打賭創造的無意義新詞，後演變為測驗、考問）。在現代英語中作名詞，指時間較短、題量較小的測驗或益智問答。",
+      "definition": "1. a short test of knowledge, often brief and informal.",
+      "example": [
+        {
+          "eng": "We will have a vocabulary quiz tomorrow.",
+          "ch": "我們明天要進行單字小考。"
+        },
+        {
+          "eng": "She won first place in the pub quiz.",
+          "ch": "她在酒吧問答比賽中獲得第一名。"
+        }
+      ]
+    },
+    {
+      "eng": "railroad",
+      "kk": "ˈreɪlrəʊd",
+      "tense": "n.",
+      "ch": [
+        [
+          "鐵路",
+          "鐵道"
+        ]
+      ],
+      "analysis": "此字為現代透明複合詞，由 rail（鐵軌）與 road（道路）結合而成（美式英語常用詞）。指鋪設鐵軌供火車行駛的運輸系統。",
+      "definition": "1. a track or set of tracks made of steel rails along which trains run.",
+      "example": [
+        {
+          "eng": "The railroad connects the major cities in the region.",
+          "ch": "這條鐵路連接了該地區的主要城市。"
+        },
+        {
+          "eng": "He works as an engineer for the railroad company.",
+          "ch": "他在鐵路公司擔任工程師。"
+        }
+      ]
+    },
+    {
+      "eng": "railway",
+      "kk": "ˈreɪlweɪ",
+      "tense": "n.",
+      "ch": [
+        [
+          "鐵路",
+          "鐵道"
+        ]
+      ],
+      "analysis": "此字為現代透明複合詞，由 rail（鐵軌）與 way（道路）結合而成（英式英語偏好用詞）。與 railroad 同義，指鐵路運輸系統。",
+      "definition": "1. a track or set of tracks made of steel rails along which trains run.",
+      "example": [
+        {
+          "eng": "The railway network covers the entire country.",
+          "ch": "鐵路網覆蓋了全國。"
+        },
+        {
+          "eng": "She traveled across Europe by railway.",
+          "ch": "她搭乘鐵路橫跨歐洲。"
+        }
+      ]
+    },
+    {
+      "eng": "raincoat",
+      "kk": "ˈreɪnkoʊt",
+      "tense": "n.",
+      "ch": [
+        [
+          "雨衣"
+        ]
+      ],
+      "analysis": "此字為現代透明複合詞，由 rain（雨）與 coat（外套）結合而成。指專門用來在雨天遮擋雨水的外衣。",
+      "definition": "1. a long waterproof coat worn to protect the body against rain.",
+      "example": [
+        {
+          "eng": "Don't forget to take your raincoat; it's starting to drizzle.",
+          "ch": "別忘了帶雨衣，開始飄毛毛雨了。"
+        },
+        {
+          "eng": "She put on her yellow raincoat and boots.",
+          "ch": "她穿上黃色雨衣和靴子。"
+        }
+      ]
+    },
+    {
+      "eng": "range",
+      "kk": "reɪndʒ",
+      "tense": "n.",
+      "ch": [
+        [
+          "範圍",
+          "幅度"
+        ],
+        [
+          "山脈"
+        ],
+        [
+          "靶場",
+          "爐灶"
+        ]
+      ],
+      "analysis": "此字源自古法語 range（排、列，源於 rang）。在英語中作名詞，核心義為排列或分佈的區間，引申指變化的範圍、連綿的山脈、射擊靶場或廚房的烹飪爐灶。",
+      "definition": "1. the area of variation between upper and lower limits on a particular scale; 2. a large line of mountains; 3. an area for shooting practice or a kitchen stove.",
+      "example": [
+        {
+          "eng": "The store offers a wide range of products.",
+          "ch": "這家店提供種類繁多的產品。"
+        },
+        {
+          "eng": "The Himalayas are a massive mountain range.",
+          "ch": "喜馬拉雅山脈是一個巨大的山系。"
+        },
+        {
+          "eng": "They went to the shooting range to practice.",
+          "ch": "他們去靶場練習射擊。"
+        }
+      ]
+    },
+    {
+      "eng": "rapid",
+      "kk": "ˈræpɪd",
+      "tense": "adj.",
+      "ch": [
+        [
+          "快速的",
+          "迅猛的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 rapidus（迅捷的、湍急的，源於 rapere「奪取、抓走」）。作形容詞時，指動作、發展或變化發生得極快、時間短促。",
+      "definition": "1. happening in a short time or at a great rate.",
+      "example": [
+        {
+          "eng": "The city has seen rapid growth over the past decade.",
+          "ch": "這座城市在過去十年中經歷了迅猛的增長。"
+        },
+        {
+          "eng": "She made a rapid recovery from her illness.",
+          "ch": "她從病痛中迅速恢復過來。"
+        }
+      ]
+    },
+    {
+      "eng": "rare",
+      "kk": "rer",
+      "tense": "adj.",
+      "ch": [
+        [
+          "罕見的",
+          "稀有的"
+        ],
+        [
+          "（肉類）半熟的",
+          "微熟的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 rārus（稀疏的、罕見的）。在現代英語中作形容詞，主要指某事物數量極少而不常見，或專門形容烹調肉類時內部保持鮮嫩紅潤的半熟狀態。",
+      "definition": "1. not occurring very often; uncommon; 2. (of meat) cooked only for a short time so that the inside is still red.",
+      "example": [
+        {
+          "eng": "Giant pandas are a rare species.",
+          "ch": "大貓熊是稀有物種。"
+        },
+        {
+          "eng": "I prefer my steak cooked rare.",
+          "ch": "我喜歡牛排煎得嫩一點（半熟）。"
+        }
+      ]
+    },
+    {
+      "eng": "rat",
+      "kk": "ræt",
+      "tense": "n.",
+      "ch": [
+        [
+          "老鼠",
+          "大鼠"
+        ]
+      ],
+      "analysis": "此字源自日耳曼語支（比較古英語 ræt、德語 Ratte），屬於日耳曼繼承詞。專指比一般小鼠（mouse）體型更大、尾巴較長的老鼠。",
+      "definition": "1. a rodent that resembles a large mouse, typically having a pointed snout and a long tail.",
+      "example": [
+        {
+          "eng": "A rat ran across the basement floor.",
+          "ch": "一隻老鼠從地下室地板跑過。"
+        },
+        {
+          "eng": "The city launched a campaign to control the rat population.",
+          "ch": "該市發起了一項控制老鼠數量的運動。"
+        }
+      ]
+    },
+    {
+      "eng": "rather",
+      "kk": "ˈræðər",
+      "tense": "adv.",
+      "ch": [
+        [
+          "相當",
+          "有點"
+        ],
+        [
+          "寧願",
+          "而不是"
+        ]
+      ],
+      "analysis": "此字源自古英語 hræðor（hradde 的比較級，意為「更快、更早」），經語義演變在現代英語中作為副詞，表示程度上的「相當」或意願上的「寧可、而不是」。",
+      "definition": "1. to a certain extent; fairly or slightly; 2. used to indicate one's preference in a particular situation; instead.",
+      "example": [
+        {
+          "eng": "It is rather cold outside today.",
+          "ch": "今天外面天氣相當冷。"
+        },
+        {
+          "eng": "I would rather stay home than go out in the rain.",
+          "ch": "我寧願待在家裡，也不想冒雨出去。"
+        }
+      ]
+    },
+    {
+      "eng": "reality",
+      "kk": "riˈæləti",
+      "tense": "n.",
+      "ch": [
+        [
+          "現實",
+          "實際情況"
+        ],
+        [
+          "真實性"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 realitās（客觀真實，源於 rēs「事物、物品」）。由形容詞 real 加上名詞字尾 -ity 構成。指客觀存在的事物狀態，或指與幻想相對的真實世界。",
+      "definition": "1. the state or quality of having actual existence; 2. the world as it actually exists, rather than as one might imagine or wish it to be.",
+      "example": [
+        {
+          "eng": "You must face the reality of the situation.",
+          "ch": "你必須面對現實情況。"
+        },
+        {
+          "eng": "Her dream of becoming a writer finally became a reality.",
+          "ch": "她成為作家的夢想終於變成了現實。"
+        }
+      ]
+    },
+    {
+      "eng": "realize",
+      "kk": "ˈriːəlaɪz",
+      "tense": "vt.",
+      "ch": [
+        [
+          "意識到",
+          "領悟"
+        ],
+        [
+          "實現（目標、夢想）"
+        ]
+      ],
+      "analysis": "此字由形容詞 real 加上動詞字尾 -ize 構成。作及物動詞時，核心義為心智上清楚明白某事（意識到），或將抽象的計畫、夢想轉化為現實（實現）。",
+      "definition": "1. to become fully aware of something as a fact; understand clearly; 2. to bring into existence; achieve a goal or plan.",
+      "example": [
+        {
+          "eng": "He didn't realize how late it was.",
+          "ch": "他沒有意識到已經這麼晚了。"
+        },
+        {
+          "eng": "She worked hard to realize her childhood dream.",
+          "ch": "她努力工作以實現童年的夢想。"
+        }
+      ]
+    },
+    {
+      "eng": "receive",
+      "kk": "rɪˈsiːv",
+      "tense": "vt.",
+      "ch": [
+        [
+          "收到",
+          "接收"
+        ],
+        [
+          "接待",
+          "遭受"
+        ]
+      ],
+      "analysis": "此字源自古法語 receivre，最終源自拉丁語 recipere（re-「回、往回」+ capere「拿、抓」）。作及物動詞時，指主動或被動地取得他人給予之物、訊號，或接待訪客、遭受打擊等。",
+      "definition": "1. to be given, presented with, or paid something; 2. to welcome or entertain a guest; to experience or suffer something.",
+      "example": [
+        {
+          "eng": "Did you receive my email yesterday?",
+          "ch": "你昨天收到我的電子郵件了嗎？"
+        },
+        {
+          "eng": "The hotel received our guests warmly.",
+          "ch": "飯店熱情接待了我們的客人。"
+        }
+      ]
+    },
+    {
+      "eng": "recent",
+      "kk": "ˈriːsnt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "最近的",
+          "近期的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 recēns（新鮮的、新近的）。作形容詞時，指發生在不久之前、離現在很近的時間點或時期內的事物。",
+      "definition": "1. having happened, begun, or been done not long ago.",
+      "example": [
+        {
+          "eng": "There have been many recent changes in company policy.",
+          "ch": "公司政策最近有了許多變動。"
+        },
+        {
+          "eng": "Have you seen any good movies in recent weeks?",
+          "ch": "你最近幾週看過什麼好電影嗎？"
+        }
+      ]
+    },
+    {
+      "eng": "record",
+      "kk": "ˈrekərd",
+      "tense": "n.",
+      "ch": [
+        [
+          "紀錄",
+          "記載"
+        ],
+        [
+          "唱片",
+          "檔案"
+        ]
+      ],
+      "analysis": "此字源自古法語 record（回憶、報告），最終源自拉丁語 recordārī（回憶、銘記，源於 cor「心」）。作名詞時（重音在第一音節），指文字或數位形式的記載、最佳運動成績、黑膠唱片或檔案文件。",
+      "definition": "1. a thing constituting a piece of evidence about the past, especially an account kept in writing or digital form; 2. the best performance ever achieved in an athletic event; 3. a flat disc bearing a sound recording.",
+      "example": [
+        {
+          "eng": "The athlete broke the world record in the 100-meter dash.",
+          "ch": "該運動員打破了一百公尺短跑的世界紀錄。"
+        },
+        {
+          "eng": "Keep a careful record of all your expenses.",
+          "ch": "請詳細記錄你的所有開銷。"
+        }
+      ]
+    },
+    {
+      "eng": "record",
+      "kk": "rɪˈkɔːrd",
+      "tense": "vt.",
+      "ch": [
+        [
+          "記錄",
+          "記載"
+        ],
+        [
+          "錄製（聲音、影像）"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 recordārī。作為及物動詞（重音在第二音節），指將資訊透過書寫、錄音或錄影等方式保存下來，或在儀器上顯示數據。",
+      "definition": "1. to set down in writing or some other permanent form for future reference; 2. to store sound or moving images on tape or disk for later reproduction.",
+      "example": [
+        {
+          "eng": "She recorded the lecture using her phone.",
+          "ch": "她用手機錄下了講座的內容。"
+        },
+        {
+          "eng": "The thermometer recorded a temperature of 40 degrees.",
+          "ch": "溫度計記錄下了攝氏四十度的溫度。"
+        }
+      ]
+    },
+    {
+      "eng": "record",
+      "kk": "rɪˈkɔːrd",
+      "tense": "vi.",
+      "ch": [
+        [
+          "進行錄音",
+          "進行錄影"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 recordārī。作不及物動詞時，專門指進行聲音或影像的錄製工作，句型中不帶直接受詞。",
+      "definition": "1. to make a recording of sound or video.",
+      "example": [
+        {
+          "eng": "The band is currently in the studio to record.",
+          "ch": "樂團目前正在錄音室裡進行錄音。"
+        }
+      ]
+    },
+    {
+      "eng": "recover",
+      "kk": "rɪˈkʌvər",
+      "tense": "vt.",
+      "ch": [
+        [
+          "恢復",
+          "康復"
+        ],
+        [
+          "找回",
+          "重新獲得"
+        ]
+      ],
+      "analysis": "此字由字首 re-（重新、返回）與拉丁語 recuperāre（重新獲得、挽回）結合而成。作及物動詞或不及物動詞（此處對應常見及物用法），指從疾病、疲勞中恢復健康，或找回丟失的財物。",
+      "definition": "1. to return to a normal state of health, mind, or strength; 2. to regain possession or control of something stolen, lost, or misplaced.",
+      "example": [
+        {
+          "eng": "It took him two weeks to recover from the flu.",
+          "ch": "他花了兩週才從流感中恢復健康。"
+        },
+        {
+          "eng": "Police managed to recover the stolen painting.",
+          "ch": "警方設法找回了被竊的畫作。"
+        }
+      ]
+    },
+    {
+      "eng": "refrigerator",
+      "kk": "rɪˈfrɪdʒəreɪtər",
+      "tense": "n.",
+      "ch": [
+        [
+          "電冰箱",
+          "冰箱"
+        ]
+      ],
+      "analysis": "此字由拉丁語 refrigerāre（使變冷，源於 frīgus「寒冷」）衍生的動詞 refrigerate 加上名詞字尾 -or 構成。指利用人工製冷技術保鮮食物的電器設備。",
+      "definition": "1. an appliance or compartment that is artificially kept cool for storing food and drink.",
+      "example": [
+        {
+          "eng": "Put the leftover milk back in the refrigerator.",
+          "ch": "把剩餘的牛奶放回冰箱裡。"
+        },
+        {
+          "eng": "We bought a new energy-efficient refrigerator.",
+          "ch": "我們買了一台新的節能冰箱。"
+        }
+      ]
+    },
+    {
+      "eng": "fridge",
+      "kk": "frɪdʒ",
+      "tense": "n.",
+      "ch": [
+        [
+          "冰箱"
+        ]
+      ],
+      "analysis": "此字為 refrigerator 的口語縮寫形式（源自早期品牌名稱 Frigidaire 的簡稱後泛化）。在現代英語中作為標準非正式名詞，指電冰箱。",
+      "definition": "1. a refrigerator.",
+      "example": [
+        {
+          "eng": "Is there anything to eat in the fridge?",
+          "ch": "冰箱裡有什麼東西可以吃嗎？"
+        },
+        {
+          "eng": "She stuck a note on the fridge door.",
+          "ch": "她在冰箱門上貼了一張便條紙。"
+        }
+      ]
+    },
+    {
+      "eng": "refuse",
+      "kk": "rɪˈfjuːz",
+      "tense": "vt.",
+      "ch": [
+        [
+          "拒絕",
+          "推辭"
+        ]
+      ],
+      "analysis": "此字源自古法語 refuser，最終源自拉丁語 *refūsāre（拒絕接受，由 re-「回」+ fundere「傾倒」的類推演變而來）。作及物動詞時，指明確表示不接受或拒絕執行某項要求、邀請。",
+      "definition": "1. to indicate or show that one is not willing to do, accept, or grant something.",
+      "example": [
+        {
+          "eng": "He refused to answer their questions.",
+          "ch": "他拒絕回答他們的問題。"
+        },
+        {
+          "eng": "She refused the job offer because the salary was too low.",
+          "ch": "她拒絕了這份工作邀請，因為薪水太低。"
+        }
+      ]
+    },
+    {
+      "eng": "regard",
+      "kk": "rɪˈɡɑːrd",
+      "tense": "vt.",
+      "ch": [
+        [
+          "看待",
+          "視為"
+        ],
+        [
+          "尊崇",
+          "關注"
+        ]
+      ],
+      "analysis": "此字源自古法語 regardier（注視、關心，由 re- + guarder「看、保護」複合而成）。作及物動詞時，核心義為以特定眼光看待或評估某人或某事，亦可指對人的敬重與關切。",
+      "definition": "1. to consider or think of someone or something in a specified way; 2. to pay attention to or respect someone.",
+      "example": [
+        {
+          "eng": "She is regarded as one of the best scientists in her field.",
+          "ch": "她被視為該領域最優秀的科學家之一。"
+        },
+        {
+          "eng": "He holds his mentors in high regard.",
+          "ch": "他對自己的導師們懷有高度的敬意。"
+        }
+      ]
+    },
+    {
+      "eng": "region",
+      "kk": "ˈriːdʒən",
+      "tense": "n.",
+      "ch": [
+        [
+          "地區",
+          "區域"
+        ],
+        [
+          "部位",
+          "範圍"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 regiōn-（方向、行政區，源於 regere「統治、引導」）。在英語中作名詞，指地球表面的一個地理區域、行政區域，或引申為身體某個部位。",
+      "definition": "1. an area or division, especially part of a country or the world having definable characteristics; 2. a broad geographic or bodily area.",
+      "example": [
+        {
+          "eng": "Wine is produced in this region of the country.",
+          "ch": "該國的這個地區出產葡萄酒。"
+        },
+        {
+          "eng": "He felt a sharp pain in the chest region.",
+          "ch": "他感到胸部區域一陣劇痛。"
+        }
+      ]
+    },
+    {
+      "eng": "regular",
+      "kk": "ˈreɡjələr",
+      "tense": "adj.",
+      "ch": [
+        [
+          "規則的",
+          "有規律的"
+        ],
+        [
+          "平常的",
+          "常規的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 rēgulāris（規則的，源於 rēgula「直尺、規則」）。作形容詞時，指按照一定規律反覆發生、符合標準、整齊有序，或指日常生活中的常規事物。",
+      "definition": "1. recurring at uniform intervals; done or happening frequently; 2. customary, usual, or normal.",
+      "example": [
+        {
+          "eng": "Exercise and a regular sleep schedule are important for health.",
+          "ch": "運動和規律的作息對健康很重要。"
+        },
+        {
+          "eng": "This is my regular coffee shop.",
+          "ch": "這是我常去的咖啡店。"
+        }
+      ]
+    },
+    {
+      "eng": "reject",
+      "kk": "rɪˈdʒekt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "拒絕",
+          "駁回"
+        ],
+        [
+          "排斥",
+          "不錄用"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 rēiectus（被拋棄的，由 rē-「向後、回」+ iacere「投擲」組成）。作及物動詞時，指堅決拒絕接受某項提議、申請，或身體產生排異反應。",
+      "definition": "1. to dismiss as inadequate, inappropriate, or not to be accepted; 2. to refuse to use, accept, or consider.",
+      "example": [
+        {
+          "eng": "The committee decided to reject the proposal.",
+          "ch": "委員會決定駁回該提案。"
+        },
+        {
+          "eng": "His body rejected the transplanted organ.",
+          "ch": "他的身體對移植的器官產生了排斥反應。"
+        }
+      ]
+    },
+    {
+      "eng": "relate",
+      "kk": "rɪˈleɪt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "敘述",
+          "講述"
+        ],
+        [
+          "聯繫",
+          "把…聯繫起來"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 relātus（動詞 referre 的過去分詞，意為「帶回、提及」）。作及物動詞時，早期義為敘述故事，現代更常指將兩者在邏輯或概念上建立關聯。",
+      "definition": "1. to give an account of an event or series of events; narrate; 2. to establish a logical or causal connection between two things.",
+      "example": [
+        {
+          "eng": "He related his adventures in Africa to the audience.",
+          "ch": "他向聽眾講述他在非洲的冒險經歷。"
+        },
+        {
+          "eng": "It is difficult to relate economic growth to education levels.",
+          "ch": "很難將經濟增長與教育水平直接聯繫起來。"
+        }
+      ]
+    },
+    {
+      "eng": "relation",
+      "kk": "rɪˈleɪʃn",
+      "tense": "n.",
+      "ch": [
+        [
+          "關係",
+          "關聯"
+        ],
+        [
+          "親戚",
+          "親屬"
+        ]
+      ],
+      "analysis": "此字由動詞 relate 加上名詞字尾 -ion 構成（源自拉丁語 relātiōn-）。作名詞時，指人與人、事物與事物之間的相互關係，或指血緣關係的親屬。",
+      "definition": "1. the way in which two or more concepts, objects, or people are connected; 2. a blood relative or member of the same family.",
+      "example": [
+        {
+          "eng": "There is a close relation between diet and health.",
+          "ch": "飲食與健康之間有著密切的關係。"
+        },
+        {
+          "eng": "All his friends and relations came to the wedding.",
+          "ch": "他所有的朋友和親戚都來參加婚禮。"
+        }
+      ]
+    }
+  ]
+}

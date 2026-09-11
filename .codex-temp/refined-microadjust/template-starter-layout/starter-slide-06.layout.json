@@ -1,0 +1,1455 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/ei4bl8",
+    "id": "ei4bl8",
+    "slide": 6,
+    "layoutId": "/ppt/slideLayouts/slideLayout1.xml",
+    "layoutName": "TITLE",
+    "layoutType": "title",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "backgroundColor": "#F6F8F2",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Arial"
+      },
+      "minorFont": {
+        "latinTypeface": "Arial"
+      }
+    },
+    "typefaces": [
+      "Arial",
+      "Microsoft JhengHei"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout1.xml",
+      "name": "TITLE",
+      "type": "title",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "type": "master",
+      "backgroundColor": "lt1",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/adwf654v",
+      "id": "126",
+      "name": "Google Shape;126;p8",
+      "bbox": [
+        0,
+        0,
+        1280,
+        10
+      ],
+      "geometry": "rect",
+      "resolvedFontSize": 18.67,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 18.67,
+        "typeface": "Arial",
+        "color": "#000000",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "textTransform": "none",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 9.6,
+          "right": 9.6,
+          "bottom": 9.6,
+          "left": 9.6
+        },
+        "useParagraphSpacing": true
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#315F45",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/be5gza5g",
+      "id": "127",
+      "name": "Google Shape;127;p8",
+      "bbox": [
+        72,
+        38,
+        360,
+        24
+      ],
+      "geometry": "rect",
+      "text": "PROBLEM FRAMING",
+      "textPreview": "PROBLEM FRAMING",
+      "resolvedFontSize": 18.67,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18.67,
+        "typeface": "Arial",
+        "color": "#000000",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "textTransform": "none",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        },
+        "useParagraphSpacing": true
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "PROBLEM FRAMING"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "PROBLEM FRAMING",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "PROBLEM FRAMING",
+              "fontSize": 15,
+              "typeface": "Microsoft JhengHei",
+              "color": "#315F45",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/obex4vm5",
+      "id": "128",
+      "name": "Google Shape;128;p8",
+      "bbox": [
+        72,
+        72,
+        1136,
+        62
+      ],
+      "geometry": "rect",
+      "text": "趨勢功能把『會背』變成能看見的『掌握程度』",
+      "textPreview": "趨勢功能把『會背』變成能看見的『掌握程度』",
+      "resolvedFontSize": 18.67,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18.67,
+        "typeface": "Arial",
+        "color": "#000000",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "textTransform": "none",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        },
+        "useParagraphSpacing": true
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "趨勢功能把『會背』變成能看見的『掌握程度』"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "趨勢功能把『會背』變成能看見的『掌握程度』",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "趨勢功能",
+              "fontSize": 43,
+              "typeface": "Microsoft JhengHei",
+              "color": "#1F2D25",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "把『會背』",
+              "fontSize": 43,
+              "typeface": "Microsoft JhengHei",
+              "color": "#1F2D25",
+              "bold": true
+            },
+            {
+              "index": 3,
+              "text": "變",
+              "fontSize": 43,
+              "typeface": "Microsoft JhengHei",
+              "color": "#1F2D25",
+              "bold": true
+            },
+            {
+              "index": 4,
+              "text": "成",
+              "fontSize": 43,
+              "typeface": "Microsoft JhengHei",
+              "color": "#1F2D25",
+              "bold": true
+            },
+            {
+              "index": 5,
+              "text": "能看見的",
+              "fontSize": 43,
+              "typeface": "Microsoft JhengHei",
+              "color": "#1F2D25",
+              "bold": true
+            },
+            {
+              "index": 6,
+              "text": "『掌握程度』",
+              "fontSize": 43,
+              "typeface": "Microsoft JhengHei",
+              "color": "#1F2D25",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9cnyx0na",
+      "id": "129",
+      "name": "Google Shape;129;p8",
+      "bbox": [
+        72,
+        144.49,
+        1136,
+        154.14
+      ],
+      "geometry": "rect",
+      "text": "使用者於單字庫完成單字複習後，\n可進入練習區選擇單元與模式進行測驗。\n測驗完畢後，系統會彙整答題數據並傳送至後端儲存。\n下次使用者再次測驗時，系統將依據先前的答題表現，\n結合錯題演算法精準推送並調整題目。 ",
+      "textPreview": "使用者於單字庫完成單字複習後， | 可進入練習區選擇單元與模式進行測驗。 | 測驗完畢後，系統會彙整答題數據並傳送至後端儲存。 | 下次使用者再次測驗時，系統將依據先前的答題表現， | 結合錯題演算法精準推送並調整題目。",
+      "resolvedFontSize": 18.67,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18.67,
+        "typeface": "Arial",
+        "color": "#000000",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "textTransform": "none",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        },
+        "useParagraphSpacing": true
+      },
+      "textLayout": {
+        "lineCount": 5,
+        "lines": [
+          {
+            "index": 1,
+            "text": "使用者於單字庫完成單字複習後，"
+          },
+          {
+            "index": 2,
+            "text": "可進入練習區選擇單元與模式進行測驗。"
+          },
+          {
+            "index": 3,
+            "text": "測驗完畢後，系統會彙整答題數據並傳送至後端儲存。"
+          },
+          {
+            "index": 4,
+            "text": "下次使用者再次測驗時，系統將依據先前的答題表現，"
+          },
+          {
+            "index": 5,
+            "text": "結合錯題演算法精準推送並調整題目。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "使用者於單字庫完成單字複習後，",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "使用者於單字庫完成單字複習後，",
+              "fontSize": 25.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#5D6B62"
+            }
+          ]
+        },
+        {
+          "index": 2,
+          "text": "可進入練習區選擇單元與模式進行測驗。",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "可進入練習區選擇單元與模式進行測驗。",
+              "fontSize": 25.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#5D6B62"
+            }
+          ]
+        },
+        {
+          "index": 3,
+          "text": "測驗完畢後，系統會彙整答題數據並傳送至後端儲存。",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "測驗完畢後，系統會彙整答題數據並傳送至後端儲存。",
+              "fontSize": 25.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#5D6B62"
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "text": "下次使用者再次測驗時，系統將依據先前的答題表現，",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "下次使用者再次測驗時，系統將依據先前的答題表現，",
+              "fontSize": 25.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#5D6B62"
+            }
+          ]
+        },
+        {
+          "index": 5,
+          "text": "結合錯題演算法精準推送並調整題目。 ",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "結合錯題演算法精準推送並調整題目。",
+              "fontSize": 25.33,
+              "typeface": "Microsoft JhengHei",
+              "color": "#5D6B62"
+            },
+            {
+              "index": 2,
+              "text": " ",
+              "fontSize": 20,
+              "typeface": "Microsoft JhengHei",
+              "color": "#5D6B62"
+            }
+          ]
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/r6lgnqpc",
+      "id": "130",
+      "name": "Google Shape;130;p8",
+      "bbox": [
+        1170,
+        686,
+        38,
+        18
+      ],
+      "geometry": "rect",
+      "text": "06",
+      "textPreview": "06",
+      "resolvedFontSize": 18.67,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18.67,
+        "typeface": "Arial",
+        "color": "#000000",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "textTransform": "none",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        },
+        "useParagraphSpacing": true
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "06"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "06",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "0",
+              "fontSize": 13,
+              "typeface": "Microsoft JhengHei",
+              "color": "#5D6B62",
+              "bold": true
+            },
+            {
+              "index": 2,
+              "text": "6",
+              "fontSize": 13,
+              "typeface": "Microsoft JhengHei",
+              "color": "#5D6B62",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qlczel8r",
+      "id": "131",
+      "name": "Google Shape;131;p8",
+      "bbox": [
+        356,
+        383.96,
+        80,
+        0
+      ],
+      "geometry": "straightConnector1",
+      "lineColor": "#CBD6C7",
+      "lineWidth": 4
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/d83yp07i",
+      "id": "132",
+      "name": "Google Shape;132;p8",
+      "bbox": [
+        746,
+        383.96,
+        80,
+        0
+      ],
+      "geometry": "straightConnector1",
+      "lineColor": "#CBD6C7",
+      "lineWidth": 4
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/c7uhgvqx",
+      "id": "133",
+      "name": "Google Shape;133;p8",
+      "bbox": [
+        76,
+        310.96,
+        280,
+        248
+      ],
+      "geometry": "roundRect",
+      "resolvedFontSize": 18.67,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 18.67,
+        "typeface": "Arial",
+        "color": "#000000",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "textTransform": "none",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 9.6,
+          "right": 9.6,
+          "bottom": 9.6,
+          "left": 9.6
+        },
+        "useParagraphSpacing": true
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#FFFFFF",
+      "lineColor": "#CBD6C7",
+      "lineWidth": 1
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/za5grap8",
+      "id": "134",
+      "name": "Google Shape;134;p8",
+      "bbox": [
+        100,
+        334.96,
+        54.02,
+        54.02
+      ],
+      "geometry": "roundRect",
+      "resolvedFontSize": 18.67,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 18.67,
+        "typeface": "Arial",
+        "color": "#000000",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "textTransform": "none",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 9.6,
+          "right": 9.6,
+          "bottom": 9.6,
+          "left": 9.6
+        },
+        "useParagraphSpacing": true
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#DDE7F2",
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/e9czi583",
+      "id": "135",
+      "name": "Google Shape;135;p8",
+      "bbox": [
+        100,
+        346.96,
+        54.02,
+        28
+      ],
+      "geometry": "rect",
+      "text": "01",
+      "textPreview": "01",
+      "resolvedFontSize": 18.67,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18.67,
+        "typeface": "Arial",
+        "color": "#000000",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "textTransform": "none",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        },
+        "useParagraphSpacing": true
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "01"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "01",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "01",
+              "fontSize": 18,
+              "typeface": "Microsoft JhengHei",
+              "color": "#102B4E",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1cnyd07e",
+      "id": "136",
+      "name": "Google Shape;136;p8",
+      "bbox": [
+        100,
+        414.96,
+        232,
+        48
+      ],
+      "geometry": "rect",
+      "text": "理解",
+      "textPreview": "理解",
+      "resolvedFontSize": 18.67,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18.67,
+        "typeface": "Arial",
+        "color": "#000000",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "textTransform": "none",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        },
+        "useParagraphSpacing": true
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "理解"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "理解",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "理解",
+              "fontSize": 32,
+              "typeface": "Microsoft JhengHei",
+              "color": "#1F2D25",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0behkv6t",
+      "id": "137",
+      "name": "Google Shape;137;p8",
+      "bbox": [
+        100,
+        474.96,
+        232,
+        68
+      ],
+      "geometry": "rect",
+      "text": "以字根、詞源、詞義與例句建立記憶線索。",
+      "textPreview": "以字根、詞源、詞義與例句建立記憶線索。",
+      "resolvedFontSize": 18.67,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18.67,
+        "typeface": "Arial",
+        "color": "#000000",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "textTransform": "none",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        },
+        "useParagraphSpacing": true
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "以字根、詞源、詞義與例句"
+          },
+          {
+            "index": 2,
+            "text": "建立記憶線索。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "以字根、詞源、詞義與例句建立記憶線索。",
+          "lineSpacingPercent": 125000,
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "以字根、詞源、詞義與例句建立記憶線索。",
+              "fontSize": 19,
+              "typeface": "Microsoft JhengHei",
+              "color": "#5D6B62"
+            }
+          ]
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ne50fapk",
+      "id": "138",
+      "name": "Google Shape;138;p8",
+      "bbox": [
+        436,
+        310.96,
+        310.02,
+        248
+      ],
+      "geometry": "roundRect",
+      "resolvedFontSize": 18.67,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 18.67,
+        "typeface": "Arial",
+        "color": "#000000",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "textTransform": "none",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 9.6,
+          "right": 9.6,
+          "bottom": 9.6,
+          "left": 9.6
+        },
+        "useParagraphSpacing": true
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#FFFFFF",
+      "lineColor": "#CBD6C7",
+      "lineWidth": 1
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mdwzm5oz",
+      "id": "139",
+      "name": "Google Shape;139;p8",
+      "bbox": [
+        460,
+        334.96,
+        54.02,
+        54.02
+      ],
+      "geometry": "roundRect",
+      "resolvedFontSize": 18.67,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 18.67,
+        "typeface": "Arial",
+        "color": "#000000",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "textTransform": "none",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 9.6,
+          "right": 9.6,
+          "bottom": 9.6,
+          "left": 9.6
+        },
+        "useParagraphSpacing": true
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#DDE9D4",
+      "lineWidth": 0
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mh4ji9wb",
+      "id": "140",
+      "name": "Google Shape;140;p8",
+      "bbox": [
+        460,
+        346.96,
+        54.02,
+        28
+      ],
+      "geometry": "rect",
+      "text": "02",
+      "textPreview": "02",
+      "resolvedFontSize": 18.67,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18.67,
+        "typeface": "Arial",
+        "color": "#000000",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "textTransform": "none",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        },
+        "useParagraphSpacing": true
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "02"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "02",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "02",
+              "fontSize": 18,
+              "typeface": "Microsoft JhengHei",
+              "color": "#315F45",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7id0rexw",
+      "id": "141",
+      "name": "Google Shape;141;p8",
+      "bbox": [
+        460,
+        414.96,
+        262.02,
+        48
+      ],
+      "geometry": "rect",
+      "text": "練習",
+      "textPreview": "練習",
+      "resolvedFontSize": 18.67,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18.67,
+        "typeface": "Arial",
+        "color": "#000000",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "textTransform": "none",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        },
+        "useParagraphSpacing": true
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "練習"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "練習",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "練習",
+              "fontSize": 32,
+              "typeface": "Microsoft JhengHei",
+              "color": "#1F2D25",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8jm1kje1",
+      "id": "142",
+      "name": "Google Shape;142;p8",
+      "bbox": [
+        460,
+        474.96,
+        262.02,
+        68
+      ],
+      "geometry": "rect",
+      "text": "用中選英、看中打英、克漏字等模式練習。",
+      "textPreview": "用中選英、看中打英、克漏字等模式練習。",
+      "resolvedFontSize": 18.67,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18.67,
+        "typeface": "Arial",
+        "color": "#000000",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "textTransform": "none",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        },
+        "useParagraphSpacing": true
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "用中選英、看中打英、克漏字"
+          },
+          {
+            "index": 2,
+            "text": "等模式練習。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "用中選英、看中打英、克漏字等模式練習。",
+          "lineSpacingPercent": 125000,
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "用中選英、看中打英、克漏字等模式",
+              "fontSize": 19,
+              "typeface": "Microsoft JhengHei",
+              "color": "#5D6B62"
+            },
+            {
+              "index": 2,
+              "text": "練習",
+              "fontSize": 19,
+              "typeface": "Microsoft JhengHei",
+              "color": "#5D6B62"
+            },
+            {
+              "index": 3,
+              "text": "。",
+              "fontSize": 19,
+              "typeface": "Microsoft JhengHei",
+              "color": "#5D6B62"
+            }
+          ]
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9kv2tofm",
+      "id": "143",
+      "name": "Google Shape;143;p8",
+      "bbox": [
+        826,
+        310.96,
+        378.02,
+        248
+      ],
+      "geometry": "roundRect",
+      "resolvedFontSize": 18.67,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 18.67,
+        "typeface": "Arial",
+        "color": "#000000",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "textTransform": "none",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 9.6,
+          "right": 9.6,
+          "bottom": 9.6,
+          "left": 9.6
+        },
+        "useParagraphSpacing": true
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#FFFFFF",
+      "lineColor": "#CBD6C7",
+      "lineWidth": 1
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ul4jmtw7",
+      "id": "144",
+      "name": "Google Shape;144;p8",
+      "bbox": [
+        850,
+        334.96,
+        54.02,
+        54.02
+      ],
+      "geometry": "roundRect",
+      "resolvedFontSize": 18.67,
+      "resolvedTextStyle": {
+        "anchor": 2,
+        "fontSize": 18.67,
+        "typeface": "Arial",
+        "color": "#000000",
+        "alignment": "left",
+        "verticalAlignment": "middle",
+        "textTransform": "none",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 9.6,
+          "right": 9.6,
+          "bottom": 9.6,
+          "left": 9.6
+        },
+        "useParagraphSpacing": true
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": ""
+          }
+        ]
+      },
+      "fillColor": "#F4E9D1",
+      "lineWidth": 0
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vmxkvyxs",
+      "id": "145",
+      "name": "Google Shape;145;p8",
+      "bbox": [
+        850,
+        346.96,
+        54.02,
+        28
+      ],
+      "geometry": "rect",
+      "text": "03",
+      "textPreview": "03",
+      "resolvedFontSize": 18.67,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18.67,
+        "typeface": "Arial",
+        "color": "#000000",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "textTransform": "none",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        },
+        "useParagraphSpacing": true
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "03"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "03",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "03",
+              "fontSize": 18,
+              "typeface": "Microsoft JhengHei",
+              "color": "#7A5620",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gn61o3ed",
+      "id": "146",
+      "name": "Google Shape;146;p8",
+      "bbox": [
+        850,
+        414.96,
+        330.02,
+        48
+      ],
+      "geometry": "rect",
+      "text": "追蹤",
+      "textPreview": "追蹤",
+      "resolvedFontSize": 18.67,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18.67,
+        "typeface": "Arial",
+        "color": "#000000",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "textTransform": "none",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        },
+        "useParagraphSpacing": true
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "追蹤"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "追蹤",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "追蹤",
+              "fontSize": 32,
+              "typeface": "Microsoft JhengHei",
+              "color": "#1F2D25",
+              "bold": true
+            }
+          ]
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hof2x8fy",
+      "id": "147",
+      "name": "Google Shape;147;p8",
+      "bbox": [
+        850,
+        474.96,
+        330.02,
+        68
+      ],
+      "geometry": "rect",
+      "text": "保留作答、錯題與熟練度，讓下一次複習可以做出更精準的題目推送。",
+      "textPreview": "保留作答、錯題與熟練度，讓下一次複習可以做出更精準的題目推送。",
+      "resolvedFontSize": 18.67,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 18.67,
+        "typeface": "Arial",
+        "color": "#000000",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "textTransform": "none",
+        "wrap": "square",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        },
+        "useParagraphSpacing": true
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "保留作答、錯題與熟練度，讓下一次複"
+          },
+          {
+            "index": 2,
+            "text": "習可以做出更精準的題目推送。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "保留作答、錯題與熟練度，讓下一次複習可以做出更精準的題目推送。",
+          "lineSpacingPercent": 125000,
+          "resolvedTextStyle": {
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "保留作答、錯題與熟練度，讓下一次複習",
+              "fontSize": 19,
+              "typeface": "Microsoft JhengHei",
+              "color": "#5D6B62"
+            },
+            {
+              "index": 2,
+              "text": "可以做出更精準的題目推送",
+              "fontSize": 19,
+              "typeface": "Microsoft JhengHei",
+              "color": "#5D6B62"
+            },
+            {
+              "index": 3,
+              "text": "。",
+              "fontSize": 19,
+              "typeface": "Microsoft JhengHei",
+              "color": "#5D6B62"
+            }
+          ]
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

@@ -1,0 +1,1587 @@
+{
+  "level": 5,
+  "chunkIndex": 15,
+  "inputs": [
+    "rally",
+    "ranch",
+    "random",
+    "ratio",
+    "rational",
+    "rattle",
+    "realism",
+    "realm",
+    "rear",
+    "reassure",
+    "rebellion",
+    "recession",
+    "recipient",
+    "recite",
+    "recommend",
+    "recommendation",
+    "recruit",
+    "refuge",
+    "regardless",
+    "regime",
+    "rehearsal",
+    "reinforce",
+    "reminder",
+    "removal",
+    "render",
+    "rental",
+    "repay",
+    "republican",
+    "resemblance",
+    "reservoir",
+    "residence",
+    "resident",
+    "residential",
+    "resort",
+    "respondent",
+    "resume",
+    "retail",
+    "revenue",
+    "reverse",
+    "rhetoric",
+    "rib",
+    "ridge",
+    "ridiculous",
+    "rifle",
+    "rigid",
+    "rim",
+    "riot",
+    "rip",
+    "risky",
+    "ritual"
+  ],
+  "rows": [
+    {
+      "eng": "rally",
+      "kk": "[ˋræli]",
+      "tense": "n.",
+      "ch": [
+        [
+          "集會",
+          "大會"
+        ],
+        [
+          "價格回升",
+          "反彈"
+        ]
+      ],
+      "analysis": "源自法語 rallier（再次聯合），由 re-（重新）與 allier（結合、連結，源自拉丁語 alligare）結合而成。名詞保留動詞的「重新聚集」概念，引申為大型公眾集會或金融市場的價格回升與反彈。",
+      "definition": "1. a large public meeting or event held to support a political party, protest, etc.; 2. an improvement in prices or demand after a fall.",
+      "example": [
+        {
+          "eng": "Thousands of supporters attended the political rally in the city center.",
+          "ch": "數千名支持者參加了市中心的政治集會。"
+        },
+        {
+          "eng": "The stock market showed a strong rally before closing.",
+          "ch": "股市在收盤前展現了強勁的反彈。"
+        }
+      ]
+    },
+    {
+      "eng": "rally",
+      "kk": "[ˋræli]",
+      "tense": "vt.",
+      "ch": [
+        [
+          "召集",
+          "集合"
+        ],
+        [
+          "重振",
+          "恢復"
+        ]
+      ],
+      "analysis": "源自法語 rallier（再次聯合），由 re-（重新）與 allier（結合）。及物動詞用法指重新聚集人員以採取行動，或指使精神、力量等振作恢復。",
+      "definition": "1. to bring people together in order to provide support or make a shared effort; 2. to bring one's strength or spirits back together after a setback.",
+      "example": [
+        {
+          "eng": "The captain tried to rally the team for the final quarter.",
+          "ch": "隊長試圖重新召集隊員以應付最後一節。"
+        },
+        {
+          "eng": "She managed to rally her courage to face the interview.",
+          "ch": "她設法振作精神去面對面試。"
+        }
+      ]
+    },
+    {
+      "eng": "rally",
+      "kk": "[ˋræli]",
+      "tense": "vi.",
+      "ch": [
+        [
+          "集合",
+          "重整旗鼓"
+        ],
+        [
+          "價格回升",
+          "復甦"
+        ]
+      ],
+      "analysis": "源自法語 rallier（再次聯合）。不及物動詞用法指人員重新聚集，或指健康、市場價格、體力等在低迷後回升、復甦。",
+      "definition": "1. to come together again to offer support or take action; 2. to recover health, strength, or economic value after a decline.",
+      "example": [
+        {
+          "eng": "The troops began to rally around their commander.",
+          "ch": "部隊開始在指揮官周圍重新集合。"
+        },
+        {
+          "eng": "Share prices rallied after the morning drop.",
+          "ch": "股價在早盤下跌後回升。"
+        }
+      ]
+    },
+    {
+      "eng": "ranch",
+      "kk": "[ræntʃ]",
+      "tense": "n.",
+      "ch": [
+        [
+          "牧場",
+          "大農場"
+        ]
+      ],
+      "analysis": "借自美式西班牙語 rancho（農場、暫住處），最終源自西班牙語 ranchar（分配營地）。在北美指飼養牛、馬等牲畜的大型牧場。",
+      "definition": "1. a large farm where cattle, horses, or other animals are bred.",
+      "example": [
+        {
+          "eng": "They raised cattle and horses on a vast ranch in Texas.",
+          "ch": "他們在德州的一座大牧場上飼養牛馬。"
+        }
+      ]
+    },
+    {
+      "eng": "random",
+      "kk": "[ˋrændəm]",
+      "tense": "adj.",
+      "ch": [
+        [
+          "隨機的",
+          "任意的"
+        ]
+      ],
+      "analysis": "源自中古英語 randoun（奔跑、急衝），借自古法語 irandun，最終源自日耳曼語族。詞義由早期的「盲目奔跑、無目的」演變為現代的「沒有特定規律、隨機的」。",
+      "definition": "1. chosen, done, or happening without a definite method, pattern, or conscious decision.",
+      "example": [
+        {
+          "eng": "The winner was selected by a random draw.",
+          "ch": "獲勝者是透過隨機抽籤選出的。"
+        }
+      ]
+    },
+    {
+      "eng": "ratio",
+      "kk": "[ˋreʃɪo]",
+      "tense": "n.",
+      "ch": [
+        [
+          "比率",
+          "比例"
+        ]
+      ],
+      "analysis": "直接借自拉丁語 ratio（計算、推理、比例），源自 reri（計算、認為）。在數學與經濟學中指兩個數量之間的相對大小關係。",
+      "definition": "1. the quantitative relation between two amounts showing the number of times one value contains or is contained within the other.",
+      "example": [
+        {
+          "eng": "The student-to-teacher ratio in this school is low.",
+          "ch": "這所學校的師生比例很低。"
+        }
+      ]
+    },
+    {
+      "eng": "rational",
+      "kk": "[ˋræʃənəl]",
+      "tense": "adj.",
+      "ch": [
+        [
+          "理性的",
+          "合理的"
+        ]
+      ],
+      "analysis": "源自拉丁語 rationalis，由 ratio（理性、比例）加上形容詞字尾 -alis 構成。指基於邏輯推理、清醒思考而非情緒決定的性質。",
+      "definition": "1. based on or in accordance with reason or logic.",
+      "example": [
+        {
+          "eng": "She tried to have a rational discussion with him.",
+          "ch": "她試圖與他進行理性的討論。"
+        }
+      ]
+    },
+    {
+      "eng": "rattle",
+      "kk": "[ˋræt!]",
+      "tense": "n.",
+      "ch": [
+        [
+          "沙沙聲",
+          "喀噠聲"
+        ],
+        [
+          "嬰兒搖鈴"
+        ]
+      ],
+      "analysis": "源自日耳曼語族擬聲詞（對應荷蘭語 ratelen 等），透過字尾 -le 表示反覆動作。名詞指連續短促的碰撞聲，或指發出此聲音的嬰兒玩具。",
+      "definition": "1. a rapid succession of short, sharp, hard sounds; 2. a baby's toy that makes a rattling sound when shaken.",
+      "example": [
+        {
+          "eng": "The wind caused a rattle in the loose window frame.",
+          "ch": "風吹得鬆動的窗框發出喀噠聲。"
+        },
+        {
+          "eng": "The baby stopped crying when she shook the colorful rattle.",
+          "ch": "當她搖晃五彩的搖鈴時，寶寶就不哭了。"
+        }
+      ]
+    },
+    {
+      "eng": "rattle",
+      "kk": "[ˋræt!]",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使發出嘎嘎聲",
+          "使驚慌失措"
+        ]
+      ],
+      "analysis": "源自擬聲詞與動詞化構詞。及物動詞除物理上使物品晃動發聲外，引申為使人緊張、心神不定、慌亂。",
+      "definition": "1. to cause something to make a rapid succession of short, sharp sounds; 2. to make someone nervous, worried, or flustered.",
+      "example": [
+        {
+          "eng": "The heavy trucks rattled the windows as they passed.",
+          "ch": "大卡車經過時震得窗戶嘎嘎作響。"
+        },
+        {
+          "eng": "Unanticipated questions can easily rattle an inexperienced speaker.",
+          "ch": "意料之外的問題很容易讓缺乏經驗的講者慌亂。"
+        }
+      ]
+    },
+    {
+      "eng": "rattle",
+      "kk": "[ˋræt!]",
+      "tense": "vi.",
+      "ch": [
+        [
+          "發出嘎嘎聲",
+          "喋喋不休地說"
+        ]
+      ],
+      "analysis": "源自擬聲詞。不及物動詞指物件碰撞發出連續聲響，或指說話急促嘈雜。",
+      "definition": "1. to make a rapid succession of short, sharp sounds by moving or hitting together.",
+      "example": [
+        {
+          "eng": "Loose coins rattled in his pocket as he walked.",
+          "ch": "他走路時口袋裡的零錢叮噹作響。"
+        }
+      ]
+    },
+    {
+      "eng": "realism",
+      "kk": "[ˋriəlɪzəm]",
+      "tense": "n.",
+      "ch": [
+        [
+          "現實主義",
+          "務實作風"
+        ]
+      ],
+      "analysis": "由形容詞 real（真實的）加上名詞字尾 -ism（主義、傾向）構成。指文學藝術中如實描繪現實的流派，或指在政治、生活中講求實際、不脫離現實的態度。",
+      "definition": "1. the attitude or practice of accepting a situation as it is and being prepared to deal with it accordingly; 2. the representation of things as they are in art and literature.",
+      "example": [
+        {
+          "eng": "Foreign policy requires a strong sense of political realism.",
+          "ch": "外交政策需要強烈的政治務實作風。"
+        },
+        {
+          "eng": "The novel is known for its gritty realism.",
+          "ch": "這部小說以其寫實主義聞名。"
+        }
+      ]
+    },
+    {
+      "eng": "realm",
+      "kk": "[rɛlm]",
+      "tense": "n.",
+      "ch": [
+        [
+          "王國",
+          "領域"
+        ]
+      ],
+      "analysis": "源自古法語 reaume（現代法語 royaume），源自拉丁語 *regalimen，由 regere（統治）演變而來。語義由君王統治的「王國」抽象延伸為知識、活動的「領域」。",
+      "definition": "1. a country ruled by a king or queen; 2. a field or domain of activity or interest.",
+      "example": [
+        {
+          "eng": "The king ruled over a vast and prosperous realm.",
+          "ch": "國王統治著一個遼闊繁榮的王國。"
+        },
+        {
+          "eng": "Physics is a major branch in the realm of science.",
+          "ch": "物理學是科學領域中的一個重要分支。"
+        }
+      ]
+    },
+    {
+      "eng": "rear",
+      "kk": "[rɪr]",
+      "tense": "n.",
+      "ch": [
+        [
+          "後部",
+          "背面"
+        ]
+      ],
+      "analysis": "源自中古英語 rere，為 arrear 的截短形式，源自古法語 arreare。指空間或隊伍的後方部位。",
+      "definition": "1. the back part of something, especially a building or vehicle.",
+      "example": [
+        {
+          "eng": "There is a parking lot at the rear of the building.",
+          "ch": "建築物的後方有一個停車場。"
+        }
+      ]
+    },
+    {
+      "eng": "rear",
+      "kk": "[rɪr]",
+      "tense": "vt.",
+      "ch": [
+        [
+          "撫養",
+          "培育"
+        ],
+        [
+          "飼養",
+          "畜養"
+        ]
+      ],
+      "analysis": "源自古英語 ræran（使站立、提升），為 risan（升起）的使役動詞。語義由「使抬起、建造」引申為「撫育小孩」或「飼養動物」。",
+      "definition": "1. to care for young children or animals until they are fully grown; 2. to breed and raise animals.",
+      "example": [
+        {
+          "eng": "She worked hard to rear her children after her husband passed away.",
+          "ch": "丈夫去世後，她辛苦撫養孩子成人。"
+        },
+        {
+          "eng": "The farmers rear cattle for the local dairy industry.",
+          "ch": "農夫們飼養牛隻以供應當地的乳品業。"
+        }
+      ]
+    },
+    {
+      "eng": "rear",
+      "kk": "[rɪr]",
+      "tense": "adj.",
+      "ch": [
+        [
+          "後方的",
+          "背面的"
+        ]
+      ],
+      "analysis": "由名詞 rear 轉用為形容詞，置於名詞前修飾位於後方的物件。",
+      "definition": "1. situated at the back or rear of something.",
+      "example": [
+        {
+          "eng": "He exited through the rear door to avoid the crowd.",
+          "ch": "他從後門離開以避開人群。"
+        }
+      ]
+    },
+    {
+      "eng": "reassure",
+      "kk": "[ˋriəˋʃʊr]",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使安心",
+          "打消……的疑慮"
+        ]
+      ],
+      "analysis": "由字首 re-（重新、加強）與動詞 assure（保證、使確信）結合而成。指透過言語或行動消除某人的擔憂或恐懼。",
+      "definition": "1. to say or do something to remove someone's doubts or fears.",
+      "example": [
+        {
+          "eng": "The manager tried to reassure the staff about their jobs.",
+          "ch": "經理試圖讓員工對他們的工作感到安心。"
+        }
+      ]
+    },
+    {
+      "eng": "rebellion",
+      "kk": "[rɪˋbɛljən]",
+      "tense": "n.",
+      "ch": [
+        [
+          "叛亂",
+          "反抗"
+        ]
+      ],
+      "analysis": "源自古法語 rebellion，源自拉丁語 rebellio，由 rebellis（叛軍，源自 re- 反 + bellum 戰爭）衍生而來。指對當權者或體制的武裝反抗或違抗。",
+      "definition": "1. an act of armed resistance to an established government or ruler; 2. an instance of open resistance to authority, control, or convention.",
+      "example": [
+        {
+          "eng": "The military rebellion was quickly suppressed by government forces.",
+          "ch": "軍事叛亂很快就被政府軍平定。"
+        },
+        {
+          "eng": "Teenage rebellion is a common phase in family development.",
+          "ch": "青少年叛亂是家庭發展中的常見階段。"
+        }
+      ]
+    },
+    {
+      "eng": "recession",
+      "kk": "[rɪˋsɛʃən]",
+      "tense": "n.",
+      "ch": [
+        [
+          "經濟衰退",
+          "不景氣"
+        ]
+      ],
+      "analysis": "源自拉丁語 recessio（退後、撤退），由 recedere（後退，re- 回 + cedere 行走）派生。在經濟學中專指經濟活動普遍倒退、不景氣的時期。",
+      "definition": "1. a period of temporary economic decline during which trade and industrial activity are reduced.",
+      "example": [
+        {
+          "eng": "Many businesses struggled to survive the severe economic recession.",
+          "ch": "許多企業在嚴重的經濟衰退中艱難求生。"
+        }
+      ]
+    },
+    {
+      "eng": "recipient",
+      "kk": "[rɪˋsɪpɪənt]",
+      "tense": "n.",
+      "ch": [
+        [
+          "接受者",
+          "領受人"
+        ]
+      ],
+      "analysis": "源自拉丁語 recipient-（接受的），由 recipere（接受，re- + capere 拿取）的現在分詞衍生。指接收物品、獎項或款項的人。",
+      "definition": "1. a person who receives or is awarded something.",
+      "example": [
+        {
+          "eng": "She was the proud recipient of the Nobel Prize in Medicine.",
+          "ch": "她是諾貝爾醫學獎的榮譽得主。"
+        }
+      ]
+    },
+    {
+      "eng": "recite",
+      "kk": "[rɪˋsaɪt]",
+      "tense": "vt.",
+      "ch": [
+        [
+          "背誦",
+          "朗誦"
+        ],
+        [
+          "詳述",
+          "細數"
+        ]
+      ],
+      "analysis": "源自拉丁語 recitare，由 re-（加強）與 citare（呼喚、宣讀）結合而成。指將記憶中的詩文大聲念出，或一一列舉事項。",
+      "definition": "1. to repeat a passage aloud from memory before an audience; 2. to state or list a series of things.",
+      "example": [
+        {
+          "eng": "The student stood up to recite a poem by Wordsworth.",
+          "ch": "學生站起來背誦一首華茲華斯的詩。"
+        },
+        {
+          "eng": "He could recite all the historical dates without hesitation.",
+          "ch": "他能毫不猶豫地背誦出所有的歷史日期。"
+        }
+      ]
+    },
+    {
+      "eng": "recite",
+      "kk": "[rɪˋsaɪt]",
+      "tense": "vi.",
+      "ch": [
+        [
+          "背誦",
+          "朗誦"
+        ]
+      ],
+      "analysis": "源自拉丁語 recitare。不及物動詞用法指公開背誦或朗讀文章。",
+      "definition": "1. to deliver a recitation of memorized text.",
+      "example": [
+        {
+          "eng": "The children took turns to recite in front of the class.",
+          "ch": "孩子們輪流在全班面前背誦。"
+        }
+      ]
+    },
+    {
+      "eng": "recommend",
+      "kk": "[ˋrɛkəˋmɛnd]",
+      "tense": "vt.",
+      "ch": [
+        [
+          "推薦",
+          "介紹"
+        ],
+        [
+          "建議",
+          "勸告"
+        ]
+      ],
+      "analysis": "源自中世紀拉丁語 recommendare，由 re-（加強）與 commendare（託付、讚賞，源自 mandare）結合而成。指讚許並推薦某人事物，或提出合適的做法建議。",
+      "definition": "1. to present someone or something with approval as being suitable for a particular purpose or role; 2. to put forward an idea or suggestion as beneficial.",
+      "example": [
+        {
+          "eng": "Can you recommend a good restaurant in this neighborhood?",
+          "ch": "你能推薦這附近的一家好餐廳嗎？"
+        },
+        {
+          "eng": "Doctors recommend getting at least eight hours of sleep.",
+          "ch": "醫生建議至少要有八小時的睡眠。"
+        }
+      ]
+    },
+    {
+      "eng": "recommendation",
+      "kk": "[ˋrɛkəmɛnˋdeʃən]",
+      "tense": "n.",
+      "ch": [
+        [
+          "推薦",
+          "建議"
+        ]
+      ],
+      "analysis": "由動詞 recommend 加上名詞字尾 -ation 構成。指對某人事物的推薦信、推薦意見，或專業的指導建議。",
+      "definition": "1. an official suggestion or proposal about the best course of action; 2. a recommendation or endorsement of someone's qualifications.",
+      "example": [
+        {
+          "eng": "I got the job on the strength of my professor's recommendation.",
+          "ch": "我憑著教授的推薦信得到了這份工作。"
+        },
+        {
+          "eng": "The committee adopted all the recommendations in the report.",
+          "ch": "委員會採納了報告中的所有建議。"
+        }
+      ]
+    },
+    {
+      "eng": "recruit",
+      "kk": "[rɪˋkrut]",
+      "tense": "n.",
+      "ch": [
+        [
+          "新兵",
+          "新成員"
+        ]
+      ],
+      "analysis": "源自法語 recrute（新兵），原義為「重新生長、補充」，由 re- 與 cruître（生長，源自拉丁語 crescere）構成。名詞指剛加入軍隊或組織的新進人員。",
+      "definition": "1. a newly enlisted member of the armed forces or a new member of an organization.",
+      "example": [
+        {
+          "eng": "The army camp is training a group of young recruits.",
+          "ch": "軍營正在訓練一批年輕新兵。"
+        }
+      ]
+    },
+    {
+      "eng": "recruit",
+      "kk": "[rɪˋkrut]",
+      "tense": "vt.",
+      "ch": [
+        [
+          "招募",
+          "吸收"
+        ],
+        [
+          "徵募新兵"
+        ]
+      ],
+      "analysis": "源自法語 recruter。及物動詞指吸收新成員加入組織、公司，或為軍隊徵召新兵。",
+      "definition": "1. to enlist someone in the armed forces; 2. to find new people to join a company, organization, or cause.",
+      "example": [
+        {
+          "eng": "The tech company is trying to recruit top software engineers.",
+          "ch": "這家科技公司正試圖招募頂尖的軟體工程師。"
+        },
+        {
+          "eng": "They are working hard to recruit volunteers for the project.",
+          "ch": "他們正努力為該專案招募志工。"
+        }
+      ]
+    },
+    {
+      "eng": "refuge",
+      "kk": "[ˋrɛfjʊdʒ]",
+      "tense": "n.",
+      "ch": [
+        [
+          "庇護",
+          "避難所"
+        ]
+      ],
+      "analysis": "源自古法語 refuge，源自拉丁語 refugium，由 re-（回）與 fugere（逃跑）結合而成。指免受危險或災難的保護、庇護，或實體的避難場所。",
+      "definition": "1. the state of being safe or sheltered from pursuit, danger, or difficulty; 2. a place providing shelter or protection.",
+      "example": [
+        {
+          "eng": "The hikers sought refuge in a mountain cabin during the storm.",
+          "ch": "登山客在暴風雨中尋找山中小木屋避難。"
+        },
+        {
+          "eng": "She found refuge in her art when times were tough.",
+          "ch": "在艱難時期，她在藝術中找到了心靈的庇護。"
+        }
+      ]
+    },
+    {
+      "eng": "regardless",
+      "kk": "[rɪˋgɑrdlɪs]",
+      "tense": "adv.",
+      "ch": [
+        [
+          "不管怎樣",
+          "無論如何"
+        ]
+      ],
+      "analysis": "由動詞 regard（顧及、考慮）加上否定字尾 -less（無）構成。字面意為「不予理會地」，在現代英語中常作副詞片語（如 regardless of）或獨立副詞使用。",
+      "definition": "1. without regard or consideration for other circumstances, obstacles, or consequences.",
+      "example": [
+        {
+          "eng": "It will be raining, but we are going to the beach regardless.",
+          "ch": "會下雨，但我們無論如何還是要去海灘。"
+        }
+      ]
+    },
+    {
+      "eng": "regime",
+      "kk": "[reˋʒim]",
+      "tense": "n.",
+      "ch": [
+        [
+          "政權",
+          "政體"
+        ],
+        [
+          "養生法",
+          "管理制度"
+        ]
+      ],
+      "analysis": "借自法語 régime，源自拉丁語 regimen（統治、指導），與 regere（統治）同源。指一個國家的統治政權，或指一套有系統的飲食、運動或行政管理制度。",
+      "definition": "1. a government, especially an authoritarian one; 2. a system or planned way of doing things, especially regarding diet or exercise.",
+      "example": [
+        {
+          "eng": "The oppressive regime was overthrown by a popular uprising.",
+          "ch": "這個壓迫政權被群眾起義推翻了。"
+        },
+        {
+          "eng": "She follows a strict daily exercise regime to stay fit.",
+          "ch": "她遵循嚴格的每日運動養生法來保持健康。"
+        }
+      ]
+    },
+    {
+      "eng": "rehearsal",
+      "kk": "[rɪˋhɝsəl]",
+      "tense": "n.",
+      "ch": [
+        [
+          "排練",
+          "排演"
+        ]
+      ],
+      "analysis": "由動詞 rehearse（排練，源自古法語 rehercier 重複耕耘、覆述）加上名詞字尾 -al 構成。指戲劇、音樂或表演正式演出前的試演與練習。",
+      "definition": "1. a session of exercise, practice, or trial performance of a play or other work.",
+      "example": [
+        {
+          "eng": "The actors are having a dress rehearsal before the opening night.",
+          "ch": "演員們在首演前進行彩排。"
+        }
+      ]
+    },
+    {
+      "eng": "reinforce",
+      "kk": "[ˋriɪnˋfɔrs]",
+      "tense": "vt.",
+      "ch": [
+        [
+          "加固",
+          "使更堅固"
+        ],
+        [
+          "增援",
+          "加強"
+        ]
+      ],
+      "analysis": "由字首 re-（再次、加強）與動詞 inforce（加強，源自法語 renforcer）結合而成。指透過新增材料或人員，使建築物、軍隊或觀點更加穩固強大。",
+      "definition": "1. to strengthen or support an object or structure, especially with additional material; 2. to provide an army or police force with more personnel.",
+      "example": [
+        {
+          "eng": "Workers used steel beams to reinforce the old bridge.",
+          "ch": "工人們使用鋼樑來加固舊橋。"
+        },
+        {
+          "eng": "The general decided to reinforce the frontline troops.",
+          "ch": "將軍決定增援前線部隊。"
+        }
+      ]
+    },
+    {
+      "eng": "reminder",
+      "kk": "[rɪˋmaɪndɚ]",
+      "tense": "n.",
+      "ch": [
+        [
+          "提醒物",
+          "備忘錄"
+        ]
+      ],
+      "analysis": "由動詞 remind（提醒）加上名詞字尾 -er 構成。指任何用來協助記憶、防止遺忘的事物或訊息。",
+      "definition": "1. a thing that causes someone to remember something.",
+      "example": [
+        {
+          "eng": "She set an alarm on her phone as a reminder of the meeting.",
+          "ch": "她在手機上設定鬧鐘作為會議的提醒。"
+        }
+      ]
+    },
+    {
+      "eng": "removal",
+      "kk": "[rɪˋmuvəl]",
+      "tense": "n.",
+      "ch": [
+        [
+          "移除",
+          "去除"
+        ],
+        [
+          "免職",
+          "罷免"
+        ]
+      ],
+      "analysis": "由動詞 remove（移除）加上名詞字尾 -al 構成。指將某物拿掉、消除，或將某人自職位中解除。",
+      "definition": "1. the action of taking away or eliminating something; 2. the dismissal of someone from a position.",
+      "example": [
+        {
+          "eng": "The removal of the old statue caused a public debate.",
+          "ch": "移除舊雕像引起了公眾辯論。"
+        },
+        {
+          "eng": "The scandal led to the immediate removal of the director.",
+          "ch": "這起醜聞導致該董事被立即免職。"
+        }
+      ]
+    },
+    {
+      "eng": "render",
+      "kk": "[ˋrɛndɚ]",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使成為",
+          "使處於某狀態"
+        ],
+        [
+          "提供",
+          "給予"
+        ],
+        [
+          "翻譯"
+        ]
+      ],
+      "analysis": "源自古法語 rendre，源自拉丁語 *rendere（由 reddere 演變而來，re- 回 + dare 給予）。字面意為「歸還、交出」，引申出「提供服務」、「翻譯文字」或「使成為某種狀態」。",
+      "definition": "1. to cause someone or something to be in a particular state; 2. to provide or give assistance, service, or a report; 3. to translate text from one language into another.",
+      "example": [
+        {
+          "eng": "The sudden accident rendered him unable to walk.",
+          "ch": "突發的事故使他無法行走。"
+        },
+        {
+          "eng": "We are grateful for the help rendered by the volunteers.",
+          "ch": "我們感謝志工們所提供的協助。"
+        },
+        {
+          "eng": "The poem is difficult to render accurately into English.",
+          "ch": "這首詩很難準確地翻譯成英文。"
+        }
+      ]
+    },
+    {
+      "eng": "rental",
+      "kk": "[ˋrɛnt!]",
+      "tense": "n.",
+      "ch": [
+        [
+          "租賃",
+          "出租"
+        ],
+        [
+          "租金"
+        ]
+      ],
+      "analysis": "由名詞 rent（租金）加上形容詞與名詞字尾 -al 構成。可指租賃的行為、供出租的房屋車輛，或應付的租金金額。",
+      "definition": "1. an action of renting something; 2. a property, car, or item available to be rented; 3. the amount of money paid or received as rent.",
+      "example": [
+        {
+          "eng": "Car rental prices usually go up during the summer holidays.",
+          "ch": "租車價格通常在暑假期間上漲。"
+        },
+        {
+          "eng": "They live in a cozy rental near the university campus.",
+          "ch": "他們住在大學校園附近一間舒適的租屋處。"
+        }
+      ]
+    },
+    {
+      "eng": "repay",
+      "kk": "[rɪˋpe]",
+      "tense": "vt.",
+      "ch": [
+        [
+          "償還",
+          "還錢"
+        ],
+        [
+          "報答",
+          "回報"
+        ]
+      ],
+      "analysis": "由字首 re-（回、再次）與動詞 pay（支付）結合而成。指把借來的錢還清，或對別人的恩惠、傷害做出回報。",
+      "definition": "1. to pay back money that has been borrowed; 2. to give something in return for a favor, kindness, or injury.",
+      "example": [
+        {
+          "eng": "He promised to repay the loan by the end of the month.",
+          "ch": "他答應在月底前還清貸款。"
+        },
+        {
+          "eng": "I don't know how I can ever repay your kindness.",
+          "ch": "我不知道該如何報答您的恩情。"
+        }
+      ]
+    },
+    {
+      "eng": "republican",
+      "kk": "[rɪˋpʌblɪkən]",
+      "tense": "adj.",
+      "ch": [
+        [
+          "共和制的",
+          "共和主義的"
+        ]
+      ],
+      "analysis": "由名詞 republic（共和國，源自拉丁語 res publica 公共事務）加上形容詞字尾 -an 構成。指主張或實行共和政體的性質。",
+      "definition": "1. belonging to, characteristic of, or supporting a republic as a form of government.",
+      "example": [
+        {
+          "eng": "The country adopted a new republican constitution.",
+          "ch": "該國通過了一部新的共和制憲法。"
+        }
+      ]
+    },
+    {
+      "eng": "resemblance",
+      "kk": "[rɪˋzɛmbləns]",
+      "tense": "n.",
+      "ch": [
+        [
+          "相似",
+          "相似處"
+        ]
+      ],
+      "analysis": "由動詞 resemble（相似，源自古法語 resembler）加上名詞字尾 -ance 構成。指外貌、特徵或性質上的相像之處。",
+      "definition": "1. the state or fact of being similar in appearance, character, or nature.",
+      "example": [
+        {
+          "eng": "There is a striking resemblance between the father and son.",
+          "ch": "這對父子之間有著驚人的相似處。"
+        }
+      ]
+    },
+    {
+      "eng": "reservoir",
+      "kk": "[ˋrɛzɚvtwɑr]",
+      "tense": "n.",
+      "ch": [
+        [
+          "水庫",
+          "蓄水池"
+        ],
+        [
+          "儲備",
+          "匯集"
+        ]
+      ],
+      "analysis": "借自法語 réservoir，源自 réserver（儲存，源自拉丁語 reservare）。指人工或天然蓄水的水庫，亦可引申為知識、資源的豐富儲備。",
+      "definition": "1. a large natural or artificial lake used as a source of water supply; 2. a stock or supply of something available for use.",
+      "example": [
+        {
+          "eng": "Heavy rainfall filled the local reservoir to its maximum capacity.",
+          "ch": "豪雨使當地水庫蓄水量達到滿水位。"
+        },
+        {
+          "eng": "She has a vast reservoir of knowledge about ancient history.",
+          "ch": "她擁有豐富的古代歷史知識儲備。"
+        }
+      ]
+    },
+    {
+      "eng": "residence",
+      "kk": "[ˋrɛzɪdəns]",
+      "tense": "n.",
+      "ch": [
+        [
+          "住所",
+          "住宅"
+        ],
+        [
+          "居住權",
+          "合法居留"
+        ]
+      ],
+      "analysis": "源自中古英語，源自拉丁語 residentia，由 residere（居住、停留，re- 回 + sedere 坐）衍生。指某人居住的房屋建築，或指在某地合法居住的身分。",
+      "definition": "1. a person's home or a large building where someone lives; 2. the fact of living in a particular place.",
+      "example": [
+        {
+          "eng": "The prime minister's official residence is guarded by police.",
+          "ch": "首相的官邸有警察戒備。"
+        },
+        {
+          "eng": "He applied for permanent residence in Canada.",
+          "ch": "他申請了在加拿大的永久居留權。"
+        }
+      ]
+    },
+    {
+      "eng": "resident",
+      "kk": "[ˋrɛzɪdənt]",
+      "tense": "n.",
+      "ch": [
+        [
+          "居民",
+          "住戶"
+        ],
+        [
+          "住院醫師"
+        ]
+      ],
+      "analysis": "源自拉丁語 resident-（停留、居住的），由 residere 的現在分詞衍生。名詞指住在某地區的人，或指醫院中完成學位後接受進階培訓的住院醫師。",
+      "definition": "1. a person who lives somewhere permanently or on a long-term basis; 2. a qualified medical doctor undergoing advanced training in a hospital.",
+      "example": [
+        {
+          "eng": "Local residents protested against the new factory construction.",
+          "ch": "當地居民抗議新工廠的建設。"
+        },
+        {
+          "eng": "The surgical resident assisted the chief surgeon in the operation.",
+          "ch": "外科住院醫師協助主治醫師進行手術。"
+        }
+      ]
+    },
+    {
+      "eng": "residential",
+      "kk": "[ˋrɛzəˋdɛnʃəl]",
+      "tense": "adj.",
+      "ch": [
+        [
+          "住宅的",
+          "居住區的"
+        ]
+      ],
+      "analysis": "由名詞 residence 加上形容詞字尾 -ial 構成。指專門用於居住、建有住宅房屋的區域或性質。",
+      "definition": "1. designed for people's homes rather than for offices or factories.",
+      "example": [
+        {
+          "eng": "They live in a quiet residential neighborhood away from downtown.",
+          "ch": "他們住在遠離鬧區的安靜住宅區。"
+        }
+      ]
+    },
+    {
+      "eng": "resort",
+      "kk": "[rɪˋzɔrt]",
+      "tense": "n.",
+      "ch": [
+        [
+          "度假勝地",
+          "消遣地"
+        ],
+        [
+          "求助",
+          "手段"
+        ]
+      ],
+      "analysis": "源自古法語 resortir（重返、求助），由 re-（回）與 sortir（出去、升起）結合而成。名詞可指人們常去的度假勝地，或指在走投無路時採取的「求助對象或手段」。",
+      "definition": "1. a place frequented for holidays or recreation; 2. a course of action to be adopted in a difficult situation.",
+      "example": [
+        {
+          "eng": "Hawaii is a popular tropical resort for tourists around the world.",
+          "ch": "夏威夷是世界各地遊客熱門的熱帶度假勝地。"
+        },
+        {
+          "eng": "Violence should never be the first resort in solving conflicts.",
+          "ch": "暴力絕不應該是解決衝突的第一手段。"
+        }
+      ]
+    },
+    {
+      "eng": "respondent",
+      "kk": "[rɪˋspɑndənt]",
+      "tense": "n.",
+      "ch": [
+        [
+          "受訪者",
+          "回答者"
+        ],
+        [
+          "被告"
+        ]
+      ],
+      "analysis": "源自拉丁語 respondent-（回答的），由 respondere（回答）的現在分詞衍生。指問卷調查中的回答者，或法律訴訟中回應原告指控的被告。",
+      "definition": "1. a person who replies to something, especially one supplying information for a survey; 2. a defendant in a lawsuit.",
+      "example": [
+        {
+          "eng": "Most survey respondents expressed satisfaction with the new service.",
+          "ch": "大多數問卷受訪者表示對新服務感到滿意。"
+        },
+        {
+          "eng": "The respondent failed to appear in court for the hearing.",
+          "ch": "被告未按時出庭應訊。"
+        }
+      ]
+    },
+    {
+      "eng": "resume",
+      "kk": "[rɪˋzum]",
+      "tense": "vt.",
+      "ch": [
+        [
+          "重新開始",
+          "恢復"
+        ]
+      ],
+      "analysis": "源自拉丁語 resumere，由 re-（重新）與 sumere（拿取、開始）結合而成。指暫停後再次開始某項活動。",
+      "definition": "1. to begin again or continue after a pause or interruption.",
+      "example": [
+        {
+          "eng": "The meeting will resume after a short coffee break.",
+          "ch": "會議在短暫的咖啡休息後將繼續進行。"
+        }
+      ]
+    },
+    {
+      "eng": "resume",
+      "kk": "[rɪˋzum]",
+      "tense": "vi.",
+      "ch": [
+        [
+          "重新開始",
+          "繼續"
+        ]
+      ],
+      "analysis": "源自拉丁語 resumere。不及物動詞指活動、行程或狀態在中斷後恢復進行。",
+      "definition": "1. to start again or continue after a temporary stop.",
+      "example": [
+        {
+          "eng": "Normal traffic services will resume shortly.",
+          "ch": "正常的交通服務將很快恢復。"
+        }
+      ]
+    },
+    {
+      "eng": "retail",
+      "kk": "[ˋritel]",
+      "tense": "n.",
+      "ch": [
+        [
+          "零售"
+        ]
+      ],
+      "analysis": "源自古法語 retailler（切除、細分），由 re-（重新）與 tailler（切割）組成。字面意為「零賣、切成小部分販售」。",
+      "definition": "1. the sale of goods to the public in small quantities for use or consumption rather than for resale.",
+      "example": [
+        {
+          "eng": "He has worked in fashion retail for over ten years.",
+          "ch": "他從事時尚零售業已經超過十年。"
+        }
+      ]
+    },
+    {
+      "eng": "retail",
+      "kk": "[ˋritel]",
+      "tense": "adj.",
+      "ch": [
+        [
+          "零售的"
+        ]
+      ],
+      "analysis": "由名詞 retail 轉用為形容詞，修飾零售商品、零售價格或零售店鋪。",
+      "definition": "1. connected with the sale of goods to the public.",
+      "example": [
+        {
+          "eng": "Retail prices have increased due to high inflation.",
+          "ch": "由於高通膨，零售價格已經上漲。"
+        }
+      ]
+    },
+    {
+      "eng": "revenue",
+      "kk": "[ˋrɛvə͵nu]",
+      "tense": "n.",
+      "ch": [
+        [
+          "收入",
+          "收益"
+        ],
+        [
+          "歲入",
+          "財政收入"
+        ]
+      ],
+      "analysis": "源自古法語 revenue（回流的收益），源自 revenir（回來，re- 回 + venir 來）。指公司或政府定期收到的資金總額。",
+      "definition": "1. income, especially of a company or organization and of a substantial nature; 2. the total income produced by a given source.",
+      "example": [
+        {
+          "eng": "The software company reported a record increase in annual revenue.",
+          "ch": "該軟體公司通報年度營收創紀錄成長。"
+        },
+        {
+          "eng": "Taxes are the primary source of government revenue.",
+          "ch": "稅收是政府財政收入的主要來源。"
+        }
+      ]
+    },
+    {
+      "eng": "reverse",
+      "kk": "[rɪˋvɝs]",
+      "tense": "n.",
+      "ch": [
+        [
+          "背面",
+          "相反情況"
+        ],
+        [
+          "挫折",
+          "失敗"
+        ]
+      ],
+      "analysis": "源自拉丁語 reversus（翻轉的），由 re-（反）與 vertere（轉動）構成。名詞可指事物的背面、相反狀態，或指事業、戰局中的挫折與失敗。",
+      "definition": "1. the opposite side or character of something; 2. a setback or failure.",
+      "example": [
+        {
+          "eng": "Please write your signature on the reverse of the check.",
+          "ch": "請在支票背面簽名。"
+        },
+        {
+          "eng": "The army suffered a major reverse in the winter campaign.",
+          "ch": "軍隊在冬季戰役中遭受了重大的挫敗。"
+        }
+      ]
+    },
+    {
+      "eng": "reverse",
+      "kk": "[rɪˋvɝs]",
+      "tense": "vt.",
+      "ch": [
+        [
+          "顛倒",
+          "翻轉"
+        ],
+        [
+          "撤銷",
+          "推翻"
+        ]
+      ],
+      "analysis": "源自拉丁語 reversus。及物動詞指將方向、順序對調，或在法律中指上級法院推翻下級法院的判決。",
+      "definition": "1. to move something backward or change it to the opposite position or direction; 2. to officially cancel a decision or ruling.",
+      "example": [
+        {
+          "eng": "He pressed a button to reverse the direction of the conveyor belt.",
+          "ch": "他按下按鈕以倒轉輸送帶的方向。"
+        },
+        {
+          "eng": "The appellate court decided to reverse the lower court's verdict.",
+          "ch": "上訴法院決定推翻下級法院的裁決。"
+        }
+      ]
+    },
+    {
+      "eng": "reverse",
+      "kk": "[rɪˋvɝs]",
+      "tense": "vi.",
+      "ch": [
+        [
+          "倒車",
+          "倒退"
+        ]
+      ],
+      "analysis": "源自拉丁語 reversus。不及物動詞專指車輛往後倒退行駛。",
+      "definition": "1. to drive a vehicle backward.",
+      "example": [
+        {
+          "eng": "She had to reverse carefully out of the narrow driveway.",
+          "ch": "她必須小心翼翼地從狹窄的車道倒車出來。"
+        }
+      ]
+    },
+    {
+      "eng": "reverse",
+      "kk": "[rɪˋvɝs]",
+      "tense": "adj.",
+      "ch": [
+        [
+          "相反的",
+          "反向的"
+        ]
+      ],
+      "analysis": "源自拉丁語 reversus。形容詞指方向、順序或次序與平常相反的性質。",
+      "definition": "1. moving or tending in the direction opposite to the usual one.",
+      "example": [
+        {
+          "eng": "The machine operated in reverse gear to clear the jam.",
+          "ch": "機器以反向齒輪運作來清除卡塞。"
+        }
+      ]
+    },
+    {
+      "eng": "rhetoric",
+      "kk": "[ˋrɛtərɪk]",
+      "tense": "n.",
+      "ch": [
+        [
+          "修辭學",
+          "雄辯"
+        ],
+        [
+          "空洞言論",
+          "修辭"
+        ]
+      ],
+      "analysis": "源自古希臘語 rhētorikē（演說術），源自 rhētōr（演說家）。原意為精妙、具說服力的言辭藝術，現代有時也用來指缺乏實質內容的政治口號或空洞言論。",
+      "definition": "1. the art of effective or persuasive speaking or writing; 2. language designed to have a persuasive or impressive effect, but often lacking in sincerity or meaningful content.",
+      "example": [
+        {
+          "eng": "A good politician must master the art of rhetoric.",
+          "ch": "一個好的政治人物必須精通修辭與雄辯的藝術。"
+        },
+        {
+          "eng": "His speech was full of empty rhetoric but offered no real solutions.",
+          "ch": "他的演講充滿了空洞的言論，卻沒有提供真正的解決方案。"
+        }
+      ]
+    },
+    {
+      "eng": "rib",
+      "kk": "[rɪb]",
+      "tense": "n.",
+      "ch": [
+        [
+          "肋骨"
+        ],
+        [
+          "排骨"
+        ],
+        [
+          "肋條狀物"
+        ]
+      ],
+      "analysis": "源自古英語 ribb，屬於日耳曼語族繼承詞。本義指胸腔的肋骨，引申為食物中的排骨，或指傘骨、葉脈等拱形支撐結構。",
+      "definition": "1. each of a series of slender curved bones articulated to the spine and enclosing the chest; 2. a cut of meat containing one or more ribs; 3. a curved structural piece supporting a dome, vault, or umbrella.",
+      "example": [
+        {
+          "eng": "He broke a rib when he fell off his bicycle.",
+          "ch": "他從腳踏車上摔下來時斷了一根肋骨。"
+        },
+        {
+          "eng": "They ordered a plate of grilled barbecue ribs for dinner.",
+          "ch": "他們晚餐點了一盤烤肉排。"
+        },
+        {
+          "eng": "The umbrella features reinforced metal ribs to withstand strong winds.",
+          "ch": "這把傘採用加強的金屬傘骨以抵禦強風。"
+        }
+      ]
+    },
+    {
+      "eng": "ridge",
+      "kk": "[rɪdʒ]",
+      "tense": "n.",
+      "ch": [
+        [
+          "山脊",
+          "山脈"
+        ],
+        [
+          "隆起處",
+          "屋脊"
+        ]
+      ],
+      "analysis": "源自古英語 hrycg（背脊），屬於日耳曼語族繼承詞。語義由人或動物的背脊延伸為山脈高聳的頂部、屋頂的脊線或地面隆起的窄長條。",
+      "definition": "1. a long, narrow hilltop, mountain range, or watershed; 2. a raised narrow strip, edge, or surface.",
+      "example": [
+        {
+          "eng": "The climbers walked carefully along the narrow mountain ridge.",
+          "ch": "登山者小心翼翼地沿著狹窄的山脊行走。"
+        },
+        {
+          "eng": "Snow settled thickly along the sharp ridge of the roof.",
+          "ch": "厚厚的積雪落在了屋頂陡峭的屋脊上。"
+        }
+      ]
+    },
+    {
+      "eng": "ridiculous",
+      "kk": "[rɪˋdɪkjələs]",
+      "tense": "adj.",
+      "ch": [
+        [
+          "荒謬的",
+          "可笑的"
+        ]
+      ],
+      "analysis": "源自拉丁語 ridiculus（可笑的），由 ridere（笑）派生，加上形容詞字尾 -osus/-ous。指荒唐得令人發笑的性質。",
+      "definition": "1. deserving or inviting mockery; absurd and unreasonable.",
+      "example": [
+        {
+          "eng": "It is ridiculous to expect people to work twenty-four hours a day.",
+          "ch": "期待人們一天工作二十四小時是荒謬的。"
+        }
+      ]
+    },
+    {
+      "eng": "rifle",
+      "kk": "[ˋraɪf!]",
+      "tense": "n.",
+      "ch": [
+        [
+          "來福槍",
+          "步槍"
+        ]
+      ],
+      "analysis": "源自日耳曼語族，由動詞 rifle（刻溝紋，源自古法語 rifler）衍生而來。因槍管內壁刻有螺旋狀膛線（rifling）能讓子彈旋轉飛行而得名。",
+      "definition": "1. a gun, especially one fired from shoulder level, having a long spirally grooved barrel to make the bullet spin.",
+      "example": [
+        {
+          "eng": "The soldier cleaned his rifle before going on guard duty.",
+          "ch": "士兵在擔任警戒勤務前擦拭了他的步槍。"
+        }
+      ]
+    },
+    {
+      "eng": "rifle",
+      "kk": "[ˋraɪf!]",
+      "tense": "vt.",
+      "ch": [
+        [
+          "迅速翻找",
+          "洗劫"
+        ]
+      ],
+      "analysis": "源自日耳曼語族（與古諾斯語 rífa 撕裂相關）。及物動詞指匆忙翻查物品以尋找或偷走東西，或指徹底掠奪。",
+      "definition": "1. to search quickly and haphazardly through something in order to steal or find something.",
+      "example": [
+        {
+          "eng": "The burglar rifled through the drawers looking for cash.",
+          "ch": "闖入者匆忙翻找抽屜尋找現金。"
+        }
+      ]
+    },
+    {
+      "eng": "rigid",
+      "kk": "[ˋrɪdʒɪd]",
+      "tense": "adj.",
+      "ch": [
+        [
+          "僵硬的",
+          "不彎曲的"
+        ],
+        [
+          "嚴格的",
+          "死板的"
+        ]
+      ],
+      "analysis": "源自拉丁語 rigidus，由 rigere（僵硬、發硬）派生。形容詞除指物理上堅硬、無法彎曲外，也引申指規章、制度或態度毫無彈性、非常死板。",
+      "definition": "1. stiff and unbending; not able to be bent or changed; 2. strictly maintained or inflexible in application.",
+      "example": [
+        {
+          "eng": "The metal bar was rigid and could not be bent by hand.",
+          "ch": "這根金屬條很僵硬，無法用手彎曲。"
+        },
+        {
+          "eng": "The company has a rigid policy regarding attendance.",
+          "ch": "公司對於出勤有嚴格死板的政策。"
+        }
+      ]
+    },
+    {
+      "eng": "rim",
+      "kk": "[rɪm]",
+      "tense": "n.",
+      "ch": [
+        [
+          "邊緣",
+          "框環"
+        ]
+      ],
+      "analysis": "源自古英語 rima（邊緣、唇），屬於日耳曼語族繼承詞。指圓形物體的邊緣、輪圈或眼鏡框。",
+      "definition": "1. the upper or outer edge of an object, typically something circular or slightly open.",
+      "example": [
+        {
+          "eng": "Tears welled up at the rim of her eyes.",
+          "ch": "淚水在她眼眶邊緣打轉。"
+        },
+        {
+          "eng": "He threw the basketball, and it hit the rim.",
+          "ch": "他投出籃球，球打中了籃框。"
+        }
+      ]
+    },
+    {
+      "eng": "riot",
+      "kk": "[ˋraɪət]",
+      "tense": "n.",
+      "ch": [
+        [
+          "暴動",
+          "騷亂"
+        ]
+      ],
+      "analysis": "源自古法語 riote（爭吵、喧鬧），最終可能源自拉丁語 rugire（咆哮）或日耳曼語族。指失控的群眾聚集並破壞公共秩序的暴動事件。",
+      "definition": "1. a violent disturbance of the peace by a crowd.",
+      "example": [
+        {
+          "eng": "Riots broke out in the city after the controversial court verdict.",
+          "ch": "在具爭議性的法庭判決後，城市爆發了暴動。"
+        }
+      ]
+    },
+    {
+      "eng": "riot",
+      "kk": "[ˋraɪət]",
+      "tense": "vi.",
+      "ch": [
+        [
+          "參與暴動",
+          "聚眾鬧事"
+        ]
+      ],
+      "analysis": "源自古法語名詞 riote 轉用為動詞。不及物動詞指人群參與暴動、騷亂。",
+      "definition": "1. to take part in a violent public disturbance of the peace.",
+      "example": [
+        {
+          "eng": "Angry fans began to riot after their team lost the championship.",
+          "ch": "憤怒的球迷在球隊輸掉冠軍賽後開始聚眾鬧事。"
+        }
+      ]
+    },
+    {
+      "eng": "rip",
+      "kk": "[rɪp]",
+      "tense": "n.",
+      "ch": [
+        [
+          "裂口",
+          "撕裂處"
+        ]
+      ],
+      "analysis": "源自日耳曼語族（比較荷蘭語 rippen、冰島語 rípa）。名詞指布料或紙張被撕開的裂縫痕跡。",
+      "definition": "1. a long tear or cut in something, especially fabric or paper.",
+      "example": [
+        {
+          "eng": "There is a noticeable rip in the sleeve of his jacket.",
+          "ch": "他的夾克袖子上有一個明顯的裂口。"
+        }
+      ]
+    },
+    {
+      "eng": "rip",
+      "kk": "[rɪp]",
+      "tense": "vt.",
+      "ch": [
+        [
+          "撕裂",
+          "扯破"
+        ],
+        [
+          "猛烈撕開"
+        ]
+      ],
+      "analysis": "源自日耳曼語族。及物動詞指用力將布料、紙張或其他物品撕開、扯破。",
+      "definition": "1. to tear or pull something quickly or forcibly away.",
+      "example": [
+        {
+          "eng": "She accidentally ripped her favorite dress on a nail.",
+          "ch": "她不小心把最喜歡的洋裝在釘子上勾破了。"
+        },
+        {
+          "eng": "He quickly ripped open the envelope to read the letter inside.",
+          "ch": "他迅速撕開信封閱讀裡面的信件。"
+        }
+      ]
+    },
+    {
+      "eng": "rip",
+      "kk": "[rɪp]",
+      "tense": "vi.",
+      "ch": [
+        [
+          "撕裂",
+          "破裂"
+        ]
+      ],
+      "analysis": "源自日耳曼語族。不及物動詞指材質因拉扯或過緊而破裂開來。",
+      "definition": "1. to be torn or split apart quickly and violently.",
+      "example": [
+        {
+          "eng": "The cheap plastic bag began to rip under the heavy weight.",
+          "ch": "廉價塑膠袋在沉重的重量下開始裂開。"
+        }
+      ]
+    },
+    {
+      "eng": "risky",
+      "kk": "[ˋrɪskɪ]",
+      "tense": "adj.",
+      "ch": [
+        [
+          "冒險的",
+          "有風險的"
+        ]
+      ],
+      "analysis": "由名詞 risk（冒險、危險，源自義大利語 risco）加上形容詞字尾 -y 構成。指可能帶來失敗、損失或危險的性質。",
+      "definition": "1. full of the possibility of danger, failure, or loss.",
+      "example": [
+        {
+          "eng": "Investing in startup companies can be a very risky business.",
+          "ch": "投資新創公司可能是一項風險極高的業務。"
+        }
+      ]
+    },
+    {
+      "eng": "ritual",
+      "kk": "[ˋrɪtʃʊəl]",
+      "tense": "n.",
+      "ch": [
+        [
+          "儀式",
+          "典禮"
+        ],
+        [
+          "老規矩",
+          "慣例"
+        ]
+      ],
+      "analysis": "源自拉丁語 ritualis，由 ritus（宗教儀式、慣例）加上形容詞與名詞字尾 -al 構成。原指宗教或文化上的隆重儀式，亦可引申為個人日常生活的固定習慣或程序。",
+      "definition": "1. a religious or solemn ceremony consisting of a series of actions performed according to a prescribed order; 2. a series of actions performed according to a prescribed order or habit.",
+      "example": [
+        {
+          "eng": "The tribe performs an ancient ritual to pray for rain.",
+          "ch": "該部落舉行古老的儀式來祈雨。"
+        },
+        {
+          "eng": "Having a cup of coffee in the morning is part of his daily ritual.",
+          "ch": "早上喝杯咖啡是他日常生活儀式的一部分。"
+        }
+      ]
+    }
+  ]
+}

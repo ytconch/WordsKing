@@ -1,0 +1,1505 @@
+{
+  "level": 2,
+  "chunkIndex": 17,
+  "inputs": [
+    "seem",
+    "seesaw",
+    "seldom",
+    "select",
+    "selection",
+    "self",
+    "selfish",
+    "sense",
+    "sensitive",
+    "separate",
+    "servant",
+    "serve",
+    "settle",
+    "settlement",
+    "sex",
+    "shame",
+    "shark",
+    "sheet",
+    "shelf",
+    "shell",
+    "shine",
+    "shock",
+    "shoot",
+    "shopkeeper",
+    "shore",
+    "shot",
+    "shut",
+    "shy",
+    "sidewalk",
+    "silence",
+    "silent",
+    "silly",
+    "silver",
+    "similar",
+    "simply",
+    "single",
+    "skill",
+    "skilled",
+    "skin",
+    "sleepy",
+    "slide",
+    "slip",
+    "slipper",
+    "slippers",
+    "smooth",
+    "snack",
+    "snail",
+    "snowy",
+    "soap",
+    "soccer"
+  ],
+  "rows": [
+    {
+      "eng": "seem",
+      "kk": "sim",
+      "tense": "vi.",
+      "ch": [
+        [
+          "似乎",
+          "好像",
+          "顯得"
+        ],
+        [
+          "給人以…印象",
+          "覺得"
+        ]
+      ],
+      "analysis": "此字為中古英語 semen，源自古諾斯語 sýna（意為「展示、顯示」），最終源自原始日耳曼語 *sōunijaną。句法上為不及物動詞，常接形容詞、不定詞短語或 as if 子句，用以表達主觀觀感或客觀跡象所呈現的外在印象。",
+      "definition": "1. To give the impression of being or doing something; to appear.; 2. To feel, think, or have a certain impression (used with a subject like 'I' or 'we' in some contexts).",
+      "example": [
+        {
+          "eng": "She seems happy with her new job.",
+          "ch": "她似乎對她的新工作感到滿意。"
+        },
+        {
+          "eng": "I seem to have lost my keys.",
+          "ch": "我好像把鑰匙弄丟了。"
+        }
+      ]
+    },
+    {
+      "eng": "seesaw",
+      "kk": "ˈsiˌsɔ",
+      "tense": "n.",
+      "ch": [
+        [
+          "翹翹板"
+        ]
+      ],
+      "analysis": "此字為疊字複合成詞，由副詞 see（源自中古英語 cide，表示上下搖動的動作）重複構成，原指鋸木頭的來回鋸動，後引申為兒童遊樂場中上下起伏的翹翹板。語法上為可數名詞。",
+      "definition": "1. A long board balanced on a central pivot, up and down which children ride by pushing alternately with their feet.",
+      "example": [
+        {
+          "eng": "The children are playing on the seesaw in the park.",
+          "ch": "孩子們正在公園裡玩翹翹板。"
+        }
+      ]
+    },
+    {
+      "eng": "seldom",
+      "kk": "ˈsɛldəm",
+      "tense": "adv.",
+      "ch": [
+        [
+          "不常",
+          "難得",
+          "很少"
+        ]
+      ],
+      "analysis": "此字源自古英語 seldan（意為「稀少地、不常」），由日耳曼語根源自 *selda-（罕見的）加上副詞語尾組成。語法上為頻率副詞，通常置於一般動詞之前、be動詞及助動詞之後。",
+      "definition": "1. Not often; on rare occasions.",
+      "example": [
+        {
+          "eng": "He seldom watches television on weekdays.",
+          "ch": "他平日很少看電視。"
+        }
+      ]
+    },
+    {
+      "eng": "select",
+      "kk": "səˈlɛkt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "選擇",
+          "挑選",
+          "選拔"
+        ]
+      ],
+      "analysis": "此字借自拉丁語 selectus（動詞 seligere 的過去分詞），由前綴 se-（分開、離開）與 legere（挑選、收集）結合而成。語法上為及物動詞，指從多個選項中經由判斷挑選出最適當者。",
+      "definition": "1. To carefully choose someone or something as being the best or most suitable.",
+      "example": [
+        {
+          "eng": "She had to select one candidate from the applicants.",
+          "ch": "她必須從申請者中挑選一位候選人。"
+        }
+      ]
+    },
+    {
+      "eng": "select",
+      "kk": "səˈlɛkt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "精選的",
+          "優質的",
+          "高級的"
+        ]
+      ],
+      "analysis": "由及物動詞 select 的過去分詞轉用為形容詞，指經過嚴格挑選、排除次級品後留下的優質群體或範圍。語法上通常置於名詞前方作定語。",
+      "definition": "1. Chosen for excellence or specific qualities; exclusive.",
+      "example": [
+        {
+          "eng": "Membership to the club is restricted to a select few.",
+          "ch": "該俱樂部的會員資格限於少數精選的人。"
+        }
+      ]
+    },
+    {
+      "eng": "selection",
+      "kk": "səˈlɛkʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "選擇",
+          "挑選"
+        ],
+        [
+          "選集",
+          "精選物品"
+        ]
+      ],
+      "analysis": "由動詞 select 加上名詞字尾 -ion 構成。語法上為可數或不可數名詞，既可指「挑選」的動作過程，也可指被挑選出來的「物品集合」或「選集」。",
+      "definition": "1. The action or process of carefully choosing someone or something.; 2. A range of things from which choice can be made, or a collection of selected items.",
+      "example": [
+        {
+          "eng": "Natural selection is a key mechanism of evolution.",
+          "ch": "天擇是演化的關鍵機制。"
+        },
+        {
+          "eng": "The store offers a wide selection of books.",
+          "ch": "這家書店提供種類豐富的書籍。"
+        }
+      ]
+    },
+    {
+      "eng": "self",
+      "kk": "sɛlf",
+      "tense": "n.",
+      "ch": [
+        [
+          "自我",
+          "自己",
+          "本性"
+        ]
+      ],
+      "analysis": "此字源自古英語 self、sylf（意為「自身、同一個」），屬於日耳曼語源的繼承詞。語法上為可數名詞，複數形為 selves，常單獨使用或與人稱代名詞結合成反身代名詞（如 himself）。",
+      "definition": "1. A person's essential being that distinguishes them from others, especially considered as the object of introspection or reflexive action.",
+      "example": [
+        {
+          "eng": "You need to believe in your true self.",
+          "ch": "你需要相信真正的自我。"
+        }
+      ]
+    },
+    {
+      "eng": "selfish",
+      "kk": "ˈsɛlfɪʃ",
+      "tense": "adj.",
+      "ch": [
+        [
+          "自私的",
+          "利己的"
+        ]
+      ],
+      "analysis": "由名詞 self 加上形容詞字尾 -ish 構成，表示帶有某種性質。語法上為形容詞，可用作表語或定語，用以形容不顧他人利益、只圖自身權益的行為或性格。",
+      "definition": "1. Lacking consideration for others; concerned chiefly with one's own personal profit or pleasure.",
+      "example": [
+        {
+          "eng": "It was selfish of him to keep all the food for himself.",
+          "ch": "他把所有食物留給自己，實在太自私了。"
+        }
+      ]
+    },
+    {
+      "eng": "sense",
+      "kk": "sɛns",
+      "tense": "n.",
+      "ch": [
+        [
+          "感官",
+          "官能"
+        ],
+        [
+          "感覺",
+          "意識"
+        ],
+        [
+          "意義",
+          "道理",
+          "判斷力"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 sensus（意為「感覺、感知、意義」），源自動詞 sentire（感受、察覺）。語法上為可數或不可數名詞，涵蓋生理感官、心理知覺及理性意義等多個層面。",
+      "definition": "1. A faculty by which the body perceives an external stimulus (sight, hearing, smell, taste, touch).; 2. A general feeling or awareness of something.; 3. Good judgment or practical understanding; meaning.",
+      "example": [
+        {
+          "eng": "Humans have five basic senses.",
+          "ch": "人類有五種基本感官。"
+        },
+        {
+          "eng": "She had a sense of impending danger.",
+          "ch": "她有一種危機逼近的感覺。"
+        },
+        {
+          "eng": "What you are saying makes a lot of sense.",
+          "ch": "你所說的話很有道理。"
+        }
+      ]
+    },
+    {
+      "eng": "sensitive",
+      "kk": "ˈsɛnsətɪv",
+      "tense": "adj.",
+      "ch": [
+        [
+          "敏感的",
+          "易受影響的"
+        ],
+        [
+          "神經過敏的",
+          "易生氣的"
+        ],
+        [
+          "機密的",
+          "棘手的"
+        ]
+      ],
+      "analysis": "源自中古法語 sensitif，直接源自晚期拉丁語 sensitivus（具有感覺能力的），根基於拉丁語 sentire。語法上為形容詞，可描述生理、心理或事務性質上的高度反應與脆弱度。",
+      "definition": "1. Quick to detect, respond to, or be affected by slight changes, signals, or influences.; 2. Easily offended, upset, or hurt emotionally.; 3. Secreting or requiring careful handling because of potential controversy or confidentiality.",
+      "example": [
+        {
+          "eng": "My skin is very sensitive to the sun.",
+          "ch": "我的皮膚對陽光非常敏感。"
+        },
+        {
+          "eng": "He is very sensitive about his weight.",
+          "ch": "他對自己的體重非常敏感。"
+        },
+        {
+          "eng": "The government is dealing with sensitive diplomatic issues.",
+          "ch": "政府正在處理敏感的外交議題。"
+        }
+      ]
+    },
+    {
+      "eng": "separate",
+      "kk": "ˈsɛpəˌreɪt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使分離",
+          "分開",
+          "隔開"
+        ]
+      ],
+      "analysis": "源自拉丁語 separatus 的動詞形式，讀音與形容詞不同（尾音為 /reɪt/）。語法上為及物動詞，指將原本混合或相連的事物劃分或隔開。",
+      "definition": "1. To cause to move or be apart; to divide into constituent parts.",
+      "example": [
+        {
+          "eng": "A high fence separates the two properties.",
+          "ch": "一道高牆將這兩處房產隔開。"
+        }
+      ]
+    },
+    {
+      "eng": "separate",
+      "kk": "ˈsɛpəˌreɪt",
+      "tense": "vi.",
+      "ch": [
+        [
+          "分離",
+          "分散",
+          "分居"
+        ]
+      ],
+      "analysis": "動詞 separate 的不及物用法，指人或物自主或自然地分開、分道揚鑣或結束共同生活。",
+      "definition": "1. To part or go in different directions; to cease living together as a married couple.",
+      "example": [
+        {
+          "eng": "The crowd began to separate after the concert.",
+          "ch": "音樂會結束後，人群開始散去。"
+        }
+      ]
+    },
+    {
+      "eng": "separate",
+      "kk": "ˈsɛpərɪt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "單獨的",
+          "各自的",
+          "分開的"
+        ]
+      ],
+      "analysis": "源自拉丁語 separatus（動詞 separare 的過去分詞），由 se-（分開）與 parare（準備、安排）組合而成。此為形容詞用法，指彼此不相連、各自獨立的狀態。",
+      "definition": "1. Forming a unit not joined or connected with another; individual or distinct.",
+      "example": [
+        {
+          "eng": "The two brothers live in separate apartments.",
+          "ch": "這兩兄弟住在不同的公寓裡。"
+        }
+      ]
+    },
+    {
+      "eng": "servant",
+      "kk": "ˈsɜrvənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "僕人",
+          "傭人",
+          "雇工"
+        ]
+      ],
+      "analysis": "源自中古英語 servant，借自古法語 servant（動詞 servir 的現在分詞），最終源自拉丁語 servire（服侍）。語法上為可數名詞，指受僱從事家務或服侍他人的人。",
+      "definition": "1. A person who performs duties for others, especially a person employed in a house on domestic duties.",
+      "example": [
+        {
+          "eng": "The loyal servant worked for the family for decades.",
+          "ch": "這名忠心的僕人為這家人工作了數十年。"
+        }
+      ]
+    },
+    {
+      "eng": "serve",
+      "kk": "sɜrv",
+      "tense": "vt.",
+      "ch": [
+        [
+          "服務",
+          "服侍"
+        ],
+        [
+          "供應",
+          "端上（食物）"
+        ],
+        [
+          "服刑",
+          "任職"
+        ]
+      ],
+      "analysis": "源自中古英語 serven，借自古法語 servir，源自拉丁語 servire（作奴隸、服務）。語法上為及物動詞，其語義由早期的「服侍人」延伸出「端菜」、「服兵役／刑期」及「擔任職務」。",
+      "definition": "1. To perform duties or services for another person or organization.; 2. To present food or drink to someone.; 3. To spend a period of time in prison or in an official role.",
+      "example": [
+        {
+          "eng": "Waiters serve customers in the restaurant.",
+          "ch": "服務生在餐廳裡服務顧客。"
+        },
+        {
+          "eng": "They serve breakfast until 10 a.m.",
+          "ch": "他們供應早餐至上午10點。"
+        },
+        {
+          "eng": "He had to serve a five-year prison sentence.",
+          "ch": "他必須服五年刑期。"
+        }
+      ]
+    },
+    {
+      "eng": "serve",
+      "kk": "sɜrv",
+      "tense": "vi.",
+      "ch": [
+        [
+          "服務",
+          "擔任職務"
+        ],
+        [
+          "發球"
+        ],
+        [
+          "夠用",
+          "符合要求"
+        ]
+      ],
+      "analysis": "動詞 serve 的不及物用法，表示在軍隊、政府任職，或在球類運動中執行發球權，亦可作「足夠、適用」解（常接 as 或 for）。",
+      "definition": "1. To be of use; 2. to function in a specific capacity or role.; 3. To put the ball into play in sports like tennis or volleyball.",
+      "example": [
+        {
+          "eng": "He served in the navy for ten years.",
+          "ch": "他在海軍服役了十年。"
+        },
+        {
+          "eng": "It's your turn to serve.",
+          "ch": "輪到你發球了。"
+        }
+      ]
+    },
+    {
+      "eng": "settle",
+      "kk": "ˈsɛtəl",
+      "tense": "vt.",
+      "ch": [
+        [
+          "解決",
+          "釐清（爭端等）"
+        ],
+        [
+          "定居於",
+          "殖民"
+        ],
+        [
+          "支付",
+          "結算（帳單）"
+        ]
+      ],
+      "analysis": "源自古英語 setlan（意為「使就座、建立」），源自 setl（座位）。語法上為及物動詞，核心概念是「使安定、使固定」，進而引申出解決紛爭、支付帳單與定居各地。",
+      "definition": "1. To resolve or reach an agreement about a problem or dispute.; 2. To establish a home in a new area.; 3. To pay a bill or debt.",
+      "example": [
+        {
+          "eng": "The two countries finally settled their border dispute.",
+          "ch": "兩國終於解決了他們的邊界爭端。"
+        },
+        {
+          "eng": "Early pioneers settled the western frontier.",
+          "ch": "早期的先驅者在西部邊疆定居。"
+        },
+        {
+          "eng": "Please settle your account by the end of the month.",
+          "ch": "請在月底前結清您的帳單。"
+        }
+      ]
+    },
+    {
+      "eng": "settle",
+      "kk": "ˈsɛtəl",
+      "tense": "vi.",
+      "ch": [
+        [
+          "定居",
+          "安家"
+        ],
+        [
+          "安定",
+          "平靜下來"
+        ],
+        [
+          "下沉",
+          "沉澱"
+        ]
+      ],
+      "analysis": "動詞 settle 的不及物用法，指人安定下來生活、情緒平息，或物質（如泥沙）在液體中沉澱到底部。",
+      "definition": "1. To adopt a more permanent style of life, often in a new place.; 2. To become calm or quiet; 3. to sink to the bottom of a liquid.",
+      "example": [
+        {
+          "eng": "After traveling for years, they decided to settle in a quiet town.",
+          "ch": "旅行多年後，他們決定在一個安靜的小鎮定居。"
+        },
+        {
+          "eng": "Allow the muddy water to settle before drinking.",
+          "ch": "飲用前先讓混濁的水沉澱一下。"
+        }
+      ]
+    },
+    {
+      "eng": "settlement",
+      "kk": "ˈsɛtəlmənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "定居點",
+          "墾荒地"
+        ],
+        [
+          "解決",
+          "協議"
+        ],
+        [
+          "清算",
+          "理賠"
+        ]
+      ],
+      "analysis": "由動詞 settle 加上名詞字尾 -ment 構成。語法上為可數或不可數名詞，指建立新居住地、達成協議或解決賠償的結果。",
+      "definition": "1. A place where people have set up a new community.; 2. An official or legal agreement that ends a dispute.; 3. The payment of a debt or insurance claim.",
+      "example": [
+        {
+          "eng": "Archaeologists discovered an ancient settlement near the river.",
+          "ch": "考古學家在河附近發現了一個古代定居點。"
+        },
+        {
+          "eng": "The strike ended after a fair settlement was reached.",
+          "ch": "在達成公平的協議後，罷工結束了。"
+        }
+      ]
+    },
+    {
+      "eng": "sex",
+      "kk": "sɛks",
+      "tense": "n.",
+      "ch": [
+        [
+          "性別"
+        ],
+        [
+          "性交",
+          "性行為"
+        ]
+      ],
+      "analysis": "源自拉丁語 sexus（意為「性別」），其起源尚無定論，可能與 secare（切割）有關，意指生物被分為男女兩半。語法上為可數或不可數名詞，指生物的雌雄性別或性行為。",
+      "definition": "1. The state of being male or female, typically used with reference to biological categories.; 2. Sexual activity between people.",
+      "example": [
+        {
+          "eng": "Job applicants are considered regardless of race or sex.",
+          "ch": "求職者的錄用不分種族或性別。"
+        },
+        {
+          "eng": "Sex education is important for teenagers.",
+          "ch": "性教育對青少年很重要。"
+        }
+      ]
+    },
+    {
+      "eng": "shame",
+      "kk": "ʃeɪm",
+      "tense": "n.",
+      "ch": [
+        [
+          "羞恥",
+          "羞愧"
+        ],
+        [
+          "憾事",
+          "可惜的事"
+        ]
+      ],
+      "analysis": "此字源自古英語 sceamu（意為「羞恥、困窘」），屬於日耳曼語源。語法上為可數或不可數名詞，除表示情緒上的羞愧外，也常用於慣用語 'It's a shame...' 表達惋惜。",
+      "definition": "1. A painful feeling of humiliation or distress caused by the consciousness of wrong or foolish behavior.; 2. A regrettable or unfortunate situation.",
+      "example": [
+        {
+          "eng": "He felt a deep sense of shame for his actions.",
+          "ch": "他為自己的行為感到深深的羞愧。"
+        },
+        {
+          "eng": "It's a shame that you missed the party.",
+          "ch": "你錯過了派對，真是太可惜了。"
+        }
+      ]
+    },
+    {
+      "eng": "shark",
+      "kk": "ʃɑrk",
+      "tense": "n.",
+      "ch": [
+        [
+          "鯊魚"
+        ]
+      ],
+      "analysis": "源自16世紀早期英語，可能源自荷蘭語 schurke（惡棍、騙子），後被英國水手用來指稱凶猛的海中大魚。語法上為可數名詞。",
+      "definition": "1. A long-bodied chiefly marine fish with cartilaginous skeleton, notorious as a predatory man-eater in some species.",
+      "example": [
+        {
+          "eng": "Several large sharks were spotted near the beach.",
+          "ch": "海灘附近有好幾隻大鯊魚出沒。"
+        }
+      ]
+    },
+    {
+      "eng": "sheet",
+      "kk": "ʃit",
+      "tense": "n.",
+      "ch": [
+        [
+          "床單"
+        ],
+        [
+          "薄板",
+          "一張（紙等）"
+        ]
+      ],
+      "analysis": "源自古英語 scīete（意為「衣物、布料、床單」），源自日耳曼語根。語法上為可數名詞，用以指平坦的薄片狀物品（如紙張、金屬板或床單）。",
+      "definition": "1. A large rectangular piece of cotton or other fabric used on a bed to sleep on or under.; 2. A rectangular piece of paper or thin flat material.",
+      "example": [
+        {
+          "eng": "Change the bed sheets once a week.",
+          "ch": "每週更換一次床單。"
+        },
+        {
+          "eng": "Please sign your name on a blank sheet of paper.",
+          "ch": "請在一張空白紙上簽名。"
+        }
+      ]
+    },
+    {
+      "eng": "shelf",
+      "kk": "ʃɛlf",
+      "tense": "n.",
+      "ch": [
+        [
+          "架子",
+          "層架",
+          "書架"
+        ]
+      ],
+      "analysis": "源自中古英語 schelf，源自古英語 scylfe（意為「岩架、木板」）。語法上為可數名詞，複數形為 shelves，指固定在牆上或櫃子裡用於放置物品的水平板架。",
+      "definition": "1. A flat length of wood or other rigid material, fixed horizontally against a wall or into a piece of furniture, for storing or displaying things.",
+      "example": [
+        {
+          "eng": "He placed the dictionary on the top shelf.",
+          "ch": "他把字典放在最上層的架子上。"
+        }
+      ]
+    },
+    {
+      "eng": "shell",
+      "kk": "ʃɛl",
+      "tense": "n.",
+      "ch": [
+        [
+          "貝殼",
+          "外殼"
+        ],
+        [
+          "砲彈"
+        ]
+      ],
+      "analysis": "源自古英語 sciell、scell（意為「魚貝之殼」），屬於日耳曼語源。語法上為可數名詞，指生物堅硬的外殼，或引申為金屬外殼與軍用砲彈。",
+      "definition": "1. The hard protective outer case of a mollusk or some other invertebrate.; 2. A metal case filled with explosive, to be fired from a large gun.",
+      "example": [
+        {
+          "eng": "We collected colorful seashells along the shore.",
+          "ch": "我們在岸邊收集了五顏六色的貝殼。"
+        },
+        {
+          "eng": "The building was destroyed by an artillery shell.",
+          "ch": "這棟建築被一顆砲彈炸毀了。"
+        }
+      ]
+    },
+    {
+      "eng": "shine",
+      "kk": "ʃaɪn",
+      "tense": "vt.",
+      "ch": [
+        [
+          "擦亮",
+          "使發光"
+        ]
+      ],
+      "analysis": "動詞 shine 的及物用法，指透過擦拭使物體表面發光（如擦鞋子），此時過去式與過去分詞通常為 shined。",
+      "definition": "1. To direct a beam of light onto something, or to make something bright by polishing.",
+      "example": [
+        {
+          "eng": "He took out a cloth to shine his shoes.",
+          "ch": "他拿出布來擦亮他的鞋子。"
+        }
+      ]
+    },
+    {
+      "eng": "shine",
+      "kk": "ʃaɪn",
+      "tense": "vi.",
+      "ch": [
+        [
+          "發光",
+          "發亮",
+          "照耀"
+        ],
+        [
+          "表現傑出",
+          "出彩"
+        ]
+      ],
+      "analysis": "源自古英語 scīnan（意為「發光、閃爍」），屬於日耳曼語源的繼承詞。語法上為不及物動詞，過去式為 shone，用以描述光源發光或人在某領域中表現卓越。",
+      "definition": "1. (Of a light or source of light) to give out a bright light.; 2. To be very talented, excellent, or conspicuous in a particular area.",
+      "example": [
+        {
+          "eng": "The sun shines brightly in the summer.",
+          "ch": "夏天陽光普照。"
+        },
+        {
+          "eng": "She really shines in mathematics.",
+          "ch": "她在數學方面表現得非常出色。"
+        }
+      ]
+    },
+    {
+      "eng": "shock",
+      "kk": "ʃɑk",
+      "tense": "n.",
+      "ch": [
+        [
+          "震驚",
+          "打擊"
+        ],
+        [
+          "觸電",
+          "休克"
+        ]
+      ],
+      "analysis": "源自中古法語 choc（意為「碰撞、衝擊」），源自動詞 choquer。語法上為可數或不可數名詞，指突如其來的精神打擊、電流通過身體的觸電，或醫療上的休克狀態。",
+      "definition": "1. A sudden upsetting or surprising event or experience.; 2. A sudden physical or medical reaction, such as from an electric current or trauma.",
+      "example": [
+        {
+          "eng": "The news of his sudden death was a great shock.",
+          "ch": "他猝死的消息是個巨大的震驚。"
+        },
+        {
+          "eng": "Be careful with the wires to avoid an electric shock.",
+          "ch": "小心電線，以免觸電。"
+        }
+      ]
+    },
+    {
+      "eng": "shock",
+      "kk": "ʃɑk",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使震驚",
+          "使極度反感"
+        ]
+      ],
+      "analysis": "由名詞 shock 轉用或源自動詞 choquer。語法上為及物動詞，指某事讓某人感到強烈的驚愕或憤慨。",
+      "definition": "1. To cause someone to feel surprised and upset or offended.",
+      "example": [
+        {
+          "eng": "His rude behavior shocked everyone at the dinner table.",
+          "ch": "他粗魯的舉止把餐桌上的每個人都嚇了一跳。"
+        }
+      ]
+    },
+    {
+      "eng": "shoot",
+      "kk": "ʃut",
+      "tense": "vt.",
+      "ch": [
+        [
+          "射擊",
+          "開槍射殺"
+        ],
+        [
+          "拍攝（影片、照片）"
+        ],
+        [
+          "投籃",
+          "射門"
+        ]
+      ],
+      "analysis": "源自古英語 scēotan（意為「發射、奔跑、投擲」），屬於日耳曼語源。語法上為及物動詞，三態為 shoot, shot, shot，其語義由早期的「發射箭矢」演變出「開槍」、「攝影」及「球類運動中的射門、投籃」。",
+      "definition": "1. To fire a bullet or arrow from a weapon, or to hit/kill someone with it.; 2. To film or photograph a scene or movie.; 3. To direct a ball towards the goal or basket in a sport.",
+      "example": [
+        {
+          "eng": "The hunter raised his rifle to shoot the deer.",
+          "ch": "獵人舉起步槍要射擊那頭鹿。"
+        },
+        {
+          "eng": "The director plans to shoot the movie on location.",
+          "ch": "導演計劃在實地拍攝這部電影。"
+        },
+        {
+          "eng": "He managed to shoot the basketball just before the buzzer.",
+          "ch": "他在蜂鳴器響起前成功投籃。"
+        }
+      ]
+    },
+    {
+      "eng": "shoot",
+      "kk": "ʃut",
+      "tense": "vi.",
+      "ch": [
+        [
+          "射擊",
+          "開槍"
+        ],
+        [
+          "急衝",
+          "疾馳"
+        ]
+      ],
+      "analysis": "動詞 shoot 的不及物用法，指進行射擊動作，或形容物體如箭般快速移動或衝出。",
+      "definition": "1. To discharge a firearm or bow.; 2. To move rapidly and suddenly in a particular direction.",
+      "example": [
+        {
+          "eng": "The officer ordered his men not to shoot.",
+          "ch": "軍官下令他的手下不准開槍。"
+        },
+        {
+          "eng": "A shooting star streaked across the night sky.",
+          "ch": "一顆流星劃過夜空。"
+        }
+      ]
+    },
+    {
+      "eng": "shopkeeper",
+      "kk": "ˈʃɑpˌkipər",
+      "tense": "n.",
+      "ch": [
+        [
+          "店主",
+          "店老闆"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由 shop（商店）與 keep（經營、看管）加上名詞字尾 -er 複合而成。語法上為可數名詞，指經營零售店舖的人。",
+      "definition": "1. A person who owns and manages a small shop or store.",
+      "example": [
+        {
+          "eng": "The friendly shopkeeper greeted every customer who entered.",
+          "ch": "親切的店主向每一位進門的顧客打招呼。"
+        }
+      ]
+    },
+    {
+      "eng": "shore",
+      "kk": "ʃɔr",
+      "tense": "n.",
+      "ch": [
+        [
+          "岸",
+          "濱",
+          "海濱"
+        ]
+      ],
+      "analysis": "源自中古英語 schor，可能源自中低地德語 schor（海岸、支柱），與剪切動詞同源。語法上為可數名詞，指海洋、湖泊或大河流域的陸地邊緣。",
+      "definition": "1. The land along the edge of a sea, lake, or wide river.",
+      "example": [
+        {
+          "eng": "The waves crashed heavily against the rocky shore.",
+          "ch": "海浪猛烈地拍打著岩石密布的海岸。"
+        }
+      ]
+    },
+    {
+      "eng": "shot",
+      "kk": "ʃɑt",
+      "tense": "n.",
+      "ch": [
+        [
+          "槍聲",
+          "射擊"
+        ],
+        [
+          "照片",
+          "鏡頭"
+        ],
+        [
+          "注射",
+          "針劑"
+        ]
+      ],
+      "analysis": "為動詞 shoot 的過去式及過去分詞衍生而來的名詞。語法上為可數名詞，其語義由早期的「發射、彈丸」延伸出「開槍射擊聲」、「攝影鏡頭」及口語中的「醫療注射」。",
+      "definition": "1. An act of firing a gun; the sound made by a gun.; 2. A photograph or a single filmed scene.; 3. An injection of medicine or a vaccine.",
+      "example": [
+        {
+          "eng": "We heard a loud shot echoing in the woods.",
+          "ch": "我們聽到一聲巨大的槍響在樹林中迴盪。"
+        },
+        {
+          "eng": "That was a fantastic camera shot of the bird.",
+          "ch": "那是那隻鳥非常棒的相機鏡頭。"
+        },
+        {
+          "eng": "Children need to get their flu shots before winter.",
+          "ch": "孩子們需要在冬天前接種流感疫苗。"
+        }
+      ]
+    },
+    {
+      "eng": "shut",
+      "kk": "ʃʌt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "關閉",
+          "合上（門、窗、書等）"
+        ]
+      ],
+      "analysis": "源自古英語 scyttan（意為「栓上、關閉」），屬於日耳曼語源。語法上為及物動詞，三態同形（shut, shut, shut），用以指將開口、通道或容器合上。",
+      "definition": "1. To move a door, window, or lid so that it covers an opening; to close something.",
+      "example": [
+        {
+          "eng": "Please shut the door behind you when you leave.",
+          "ch": "你離開時請隨手關門。"
+        }
+      ]
+    },
+    {
+      "eng": "shut",
+      "kk": "ʃʌt",
+      "tense": "vi.",
+      "ch": [
+        [
+          "關閉",
+          "關門（指店鋪等）"
+        ]
+      ],
+      "analysis": "動詞 shut 的不及物用法，指門窗或店鋪自動或被動地處於關閉狀態（常與 down 連用）。",
+      "definition": "1. (Of a door, window, or shop) to become closed.",
+      "example": [
+        {
+          "eng": "Most shops shut early on Sundays.",
+          "ch": "大多數商店在週日很早就關門了。"
+        }
+      ]
+    },
+    {
+      "eng": "shy",
+      "kk": "ʃaɪ",
+      "tense": "adj.",
+      "ch": [
+        [
+          "害羞的",
+          "膽怯的"
+        ]
+      ],
+      "analysis": "源自古英語 scēoh（意為「害羞的、驚恐的」），屬於日耳曼語源。語法上為形容詞，指人在社交場合中感到拘謹、不安或缺乏自信。",
+      "definition": "1. Being nervous or timid in the company of other people.",
+      "example": [
+        {
+          "eng": "The little boy is too shy to speak to strangers.",
+          "ch": "這個小男孩太害羞了，不敢和陌生人交談。"
+        }
+      ]
+    },
+    {
+      "eng": "sidewalk",
+      "kk": "ˈsaɪdˌwɔk",
+      "tense": "n.",
+      "ch": [
+        [
+          "人行道"
+        ]
+      ],
+      "analysis": "此字為現代美式英語的透明複合成詞，由 side（旁邊、側邊）與 walk（行走、步道）組合而成。語法上為可數名詞，專指鋪設在道路兩旁供行人步行的小道（英式英語常用 pavement）。",
+      "definition": "1. A paved path for pedestrians at the side of a road.",
+      "example": [
+        {
+          "eng": "Pedestrians should walk on the sidewalk, not the street.",
+          "ch": "行人應該走在人行道上，而不是馬路上。"
+        }
+      ]
+    },
+    {
+      "eng": "silence",
+      "kk": "ˈsaɪləns",
+      "tense": "n.",
+      "ch": [
+        [
+          "寂靜",
+          "無聲",
+          "沉默"
+        ]
+      ],
+      "analysis": "源自拉丁語 silentium（意為「沉默、安靜」），源自形容詞 silens（安靜的）。語法上為可數或不可數名詞，指完全沒有聲音或保持不說話的狀態。",
+      "definition": "1. Complete absence of sound; the fact or state of abstaining from speaking.",
+      "example": [
+        {
+          "eng": "A deep silence fell over the classroom.",
+          "ch": "教室裡陷入了一片沉寂。"
+        }
+      ]
+    },
+    {
+      "eng": "silent",
+      "kk": "ˈsaɪlənt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "安靜的",
+          "不發出聲音的"
+        ],
+        [
+          "沉默的",
+          "不說話的"
+        ]
+      ],
+      "analysis": "源自拉丁語 silens（形容詞 silere 的現在分詞，意為「保持安靜」）。語法上為形容詞，用以形容環境無聲或人不說話。",
+      "definition": "1. Making little or no sound.; 2. Not speaking or not emitting speech.",
+      "example": [
+        {
+          "eng": "The library is supposed to be kept silent.",
+          "ch": "圖書館理應保持安靜。"
+        },
+        {
+          "eng": "He remained silent throughout the meeting.",
+          "ch": "他在整個會議期間保持沉默。"
+        }
+      ]
+    },
+    {
+      "eng": "silly",
+      "kk": "ˈsɪli",
+      "tense": "adj.",
+      "ch": [
+        [
+          "愚蠢的",
+          "傻氣的",
+          "可笑的"
+        ]
+      ],
+      "analysis": "源自古英語 gesǣlig（意為「幸福的、幸運的」），經中古英語逐漸轉義為「無辜的、微不足道的」，最終在近代英語演變出現代的「愚蠢、糊塗」之義。語法上為形容詞。",
+      "definition": "1. Having or showing a lack of common sense or judgment; absurd and foolish.",
+      "example": [
+        {
+          "eng": "It was silly of me to make such a mistake.",
+          "ch": "我真糊塗，竟然犯了這種錯。"
+        }
+      ]
+    },
+    {
+      "eng": "silver",
+      "kk": "ˈsɪlvər",
+      "tense": "n.",
+      "ch": [
+        [
+          "銀",
+          "銀器",
+          "銀幣"
+        ]
+      ],
+      "analysis": "源自古英語 siolfor（意為「銀金屬」），屬於日耳曼語源。語法上為不可數名詞（指金屬或顏色）或可數名詞（指銀幣、銀製餐具）。",
+      "definition": "1. A precious shiny grayish-white metallic element used for ornaments and utensils; tableware or coins made of this metal.",
+      "example": [
+        {
+          "eng": "She wore a lovely silver necklace.",
+          "ch": "她戴著一條漂亮的銀項鍊。"
+        }
+      ]
+    },
+    {
+      "eng": "similar",
+      "kk": "ˈsɪmələr",
+      "tense": "adj.",
+      "ch": [
+        [
+          "相似的",
+          "類似的"
+        ]
+      ],
+      "analysis": "源自拉丁語 similis（意為「像的、類似的」），源自印歐語根 *sem-（一個、同一個）。語法上為形容詞，常與介詞 to 連用，表示兩者在特質、外貌上有相近之處。",
+      "definition": "1. Having a resemblance in appearance, character, or quantity, without being identical.",
+      "example": [
+        {
+          "eng": "My sister and I have similar tastes in music.",
+          "ch": "我和我姊姊在音樂品味上很相似。"
+        }
+      ]
+    },
+    {
+      "eng": "simply",
+      "kk": "ˈsɪmpli",
+      "tense": "adv.",
+      "ch": [
+        [
+          "僅僅",
+          "只"
+        ],
+        [
+          "簡單地",
+          "簡直（加強語氣）"
+        ]
+      ],
+      "analysis": "由形容詞 simple 加上副詞字尾 -ly 構成。語法上為副詞，可表示「單純地、僅僅」，亦可作為語氣副詞用來加強形容詞的語氣（如「簡直是」）。",
+      "definition": "1. Only; merely.; 2. In a simple or straightforward manner; absolutely (used for emphasis).",
+      "example": [
+        {
+          "eng": "I did it simply out of curiosity.",
+          "ch": "我做這件事純粹是出於好奇。"
+        },
+        {
+          "eng": "The view from the top of the mountain was simply breathtaking.",
+          "ch": "山頂的景色簡直令人屏息。"
+        }
+      ]
+    },
+    {
+      "eng": "single",
+      "kk": "ˈsɪŋgəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "單一的",
+          "個別的"
+        ],
+        [
+          "未婚的",
+          "單身的"
+        ]
+      ],
+      "analysis": "源自拉丁語 singulus（意為「各個單獨的、個別的」）。語法上為形容詞，用以指數量僅有一個，或指未曾結婚的單身狀態。",
+      "definition": "1. Only one; separate and individual.; 2. Not married or in a stable romantic relationship.",
+      "example": [
+        {
+          "eng": "Not a single word was spoken during the test.",
+          "ch": "考試期間沒有說半句話。"
+        },
+        {
+          "eng": "She is single and lives alone in the city.",
+          "ch": "她單身且獨自住在城裡。"
+        }
+      ]
+    },
+    {
+      "eng": "skill",
+      "kk": "skɪl",
+      "tense": "n.",
+      "ch": [
+        [
+          "技能",
+          "技巧",
+          "熟練"
+        ]
+      ],
+      "analysis": "源自古諾斯語 skil（意為「區分、辨別、知識」），後在中古英語中演變成「專業知識、熟練技術」。語法上為可數或不可數名詞。",
+      "definition": "1. The ability to do something well; expertise resulting from practice or training.",
+      "example": [
+        {
+          "eng": "Learning a new language requires patience and skill.",
+          "ch": "學習新語言需要耐心和技巧。"
+        }
+      ]
+    },
+    {
+      "eng": "skilled",
+      "kk": "skɪld",
+      "tense": "adj.",
+      "ch": [
+        [
+          "熟練的",
+          "有技術的"
+        ]
+      ],
+      "analysis": "由名詞 skill 加上形容詞字尾 -ed 構成。語法上為形容詞，通常用以形容某人具備從事某項工作所需的專門技術或經驗。",
+      "definition": "1. Having or showing the knowledge, ability, or training to perform a certain activity well.",
+      "example": [
+        {
+          "eng": "The company hired skilled workers for the project.",
+          "ch": "公司為這個項目僱用了熟練的工人。"
+        }
+      ]
+    },
+    {
+      "eng": "skin",
+      "kk": "skɪn",
+      "tense": "n.",
+      "ch": [
+        [
+          "皮膚"
+        ],
+        [
+          "果皮",
+          "獸皮"
+        ]
+      ],
+      "analysis": "源自古諾斯語 skinn（意為「動物皮」），在日耳曼語族中廣泛使用。語法上為可數或不可數名詞，指人類及動物的皮膚，或水果的外皮。",
+      "definition": "1. The thin layer of tissue forming the natural outer covering of the human or animal body.; 2. The outer covering of a fruit or vegetable.",
+      "example": [
+        {
+          "eng": "Protect your skin from harmful UV rays with sunscreen.",
+          "ch": "用防曬霜保護皮膚免受有害紫外線的傷害。"
+        },
+        {
+          "eng": "Peel the skin off the apple before eating.",
+          "ch": "吃之前把蘋果皮削掉。"
+        }
+      ]
+    },
+    {
+      "eng": "sleepy",
+      "kk": "ˈslipi",
+      "tense": "adj.",
+      "ch": [
+        [
+          "想睡的",
+          "睏倦的"
+        ],
+        [
+          "安靜的",
+          "沉睡的（指地方）"
+        ]
+      ],
+      "analysis": "由名詞 sleep 加上形容詞字尾 -y 構成。語法上為形容詞，除形容人想睡覺外，也常引申形容鄉鎮等地方「十分安靜、缺乏活力」。",
+      "definition": "1. Tired and ready to fall asleep.; 2. (Of a place) quiet and lacking activity or excitement.",
+      "example": [
+        {
+          "eng": "The baby looks sleepy after playing all afternoon.",
+          "ch": "玩了一整個下午後，寶寶看起來很想睡。"
+        },
+        {
+          "eng": "They live in a sleepy little coastal village.",
+          "ch": "他們住在一個安靜的小海濱村莊裡。"
+        }
+      ]
+    },
+    {
+      "eng": "slide",
+      "kk": "slaɪd",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使滑動",
+          "輕輕移動"
+        ]
+      ],
+      "analysis": "動詞 slide 的及物用法，指某人控制物體平滑地移動位置（如將抽屜推入）。",
+      "definition": "1. To cause something to move smoothly and quietly over a surface.",
+      "example": [
+        {
+          "eng": "She slid the letter across the table to me.",
+          "ch": "她把信件在桌上向我推過來。"
+        }
+      ]
+    },
+    {
+      "eng": "slide",
+      "kk": "slaɪd",
+      "tense": "vi.",
+      "ch": [
+        [
+          "滑動",
+          "滑行"
+        ]
+      ],
+      "analysis": "源自古英語 slīdan（意為「滑動、滑倒」），屬於日耳曼語源的繼承詞。語法上為不及物動詞，三態為 slide, slid, slid。",
+      "definition": "1. To move smoothly along a surface while maintaining continuous contact.",
+      "example": [
+        {
+          "eng": "Children love to slide down the snowy hill.",
+          "ch": "孩子們喜歡從積雪的山坡上滑下來。"
+        }
+      ]
+    },
+    {
+      "eng": "slip",
+      "kk": "slɪp",
+      "tense": "vt.",
+      "ch": [
+        [
+          "悄悄塞給",
+          "迅速穿上"
+        ]
+      ],
+      "analysis": "動詞 slip 的及物用法，指快速而悄悄地穿上衣物或將小紙條塞給他人。",
+      "definition": "1. To put on or take off a piece of clothing quickly and easily, or to insert something quietly.",
+      "example": [
+        {
+          "eng": "She slipped a light jacket over her shoulders.",
+          "ch": "她迅速在肩上披了一件輕便夾克。"
+        }
+      ]
+    },
+    {
+      "eng": "slip",
+      "kk": "slɪp",
+      "tense": "vi.",
+      "ch": [
+        [
+          "滑倒",
+          "失足"
+        ],
+        [
+          "滑落",
+          "悄悄溜走"
+        ]
+      ],
+      "analysis": "源自中古英語 slippen，可能源自中低地德語或荷蘭語 slippen（滑動）。語法上為不及物動詞，三態為 slip, slipped, slipped，表示失去平衡滑倒，或不知不覺地移動。",
+      "definition": "1. To slide accidentally and lose one's balance.; 2. To move quietly and smoothly, or to escape or fall out of position.",
+      "example": [
+        {
+          "eng": "Be careful not to slip on the wet floor.",
+          "ch": "小心別在濕滑的地板上滑倒。"
+        },
+        {
+          "eng": "The thief managed to slip away into the crowd.",
+          "ch": "小偷設法溜進了人群中。"
+        }
+      ]
+    },
+    {
+      "eng": "slipper",
+      "kk": "ˈslɪpər",
+      "tense": "n.",
+      "ch": [
+        [
+          "拖鞋",
+          "室內鞋"
+        ]
+      ],
+      "analysis": "由動詞 slip 加上名詞字尾 -er 構成，原意指「便於輕易滑入穿脫的鞋子」。語法上為可數名詞，通常以複數形 slippers 出現。",
+      "definition": "1. A comfortable, slip-on, soft shoe worn indoors.",
+      "example": [
+        {
+          "eng": "He took off his shoes and put on his slippers.",
+          "ch": "他脫掉鞋子，換上了拖鞋。"
+        }
+      ]
+    },
+    {
+      "eng": "slippers",
+      "kk": "ˈslɪpərz",
+      "tense": "n.",
+      "ch": [
+        [
+          "拖鞋（複數形）"
+        ]
+      ],
+      "analysis": "名詞 slipper 的複數形式，日常生活中指成雙的室內拖鞋。語法上為可數名詞複數。",
+      "definition": "1. A pair of comfortable, soft shoes worn inside the house.",
+      "example": [
+        {
+          "eng": "She wore fluffy slippers to keep her feet warm.",
+          "ch": "她穿著毛茸茸的拖鞋來保暖雙腳。"
+        }
+      ]
+    },
+    {
+      "eng": "smooth",
+      "kk": "smuð",
+      "tense": "vt.",
+      "ch": [
+        [
+          "弄平",
+          "撫平"
+        ],
+        [
+          "消除（障礙、困難）"
+        ]
+      ],
+      "analysis": "由形容詞 smooth 轉用的及物動詞，指將表面撫平，或引申為化解問題與衝突。",
+      "definition": "1. To make a surface flat and even, often by rubbing.; 2. To resolve or remove difficulties or problems.",
+      "example": [
+        {
+          "eng": "She used her hands to smooth the wrinkles in the tablecloth.",
+          "ch": "她用雙手撫平桌布上的皺紋。"
+        }
+      ]
+    },
+    {
+      "eng": "smooth",
+      "kk": "smuð",
+      "tense": "adj.",
+      "ch": [
+        [
+          "光滑的",
+          "平坦的"
+        ],
+        [
+          "平穩的",
+          "流暢的"
+        ]
+      ],
+      "analysis": "源自古英語 smōð（意為「平滑的、柔順的」），屬於日耳曼語源。語法上為形容詞，用以形容表面無凹凸不平，或過程流暢無阻礙。",
+      "definition": "1. Having an even and regular surface; free from lumps or roughness.; 2. Happening without any sudden movements or problems; well-organized.",
+      "example": [
+        {
+          "eng": "The surface of the lake was as smooth as glass.",
+          "ch": "湖面平靜得像鏡子一樣光滑。"
+        },
+        {
+          "eng": "We had a smooth flight with no turbulence.",
+          "ch": "我們的飛行過程非常平穩，沒有遇到亂流。"
+        }
+      ]
+    },
+    {
+      "eng": "snack",
+      "kk": "snæk",
+      "tense": "n.",
+      "ch": [
+        [
+          "點心",
+          "零食",
+          "小吃"
+        ]
+      ],
+      "analysis": "源自中古荷蘭語 snacke（意為「咬、點心」），與動詞 snack（咬）相關。語法上為可數名詞，指正餐之外吃的小量食物。",
+      "definition": "1. A small amount of food eaten between meals.",
+      "example": [
+        {
+          "eng": "He ate a quick snack before heading to the gym.",
+          "ch": "他在去健身房之前快速吃了一點點心。"
+        }
+      ]
+    },
+    {
+      "eng": "snail",
+      "kk": "sneɪl",
+      "tense": "n.",
+      "ch": [
+        [
+          "蝸牛"
+        ]
+      ],
+      "analysis": "源自古英語 snægl（意為「蝸牛」），源自日耳曼語根。語法上為可數名詞，指背負螺旋狀外殼的腹足綱軟體動物。",
+      "definition": "1. A slow-moving mollusk with a spiral shell, in which it can wholly withdraw.",
+      "example": [
+        {
+          "eng": "Snails usually come out after it rains.",
+          "ch": "蝸牛通常在下雨過後出現。"
+        }
+      ]
+    },
+    {
+      "eng": "snowy",
+      "kk": "ˈsnoʊi",
+      "tense": "adj.",
+      "ch": [
+        [
+          "下雪的",
+          "積雪的"
+        ]
+      ],
+      "analysis": "由名詞 snow 加上形容詞字尾 -y 構成。語法上為形容詞，用以形容天氣下雪或地面覆蓋著白雪。",
+      "definition": "1. Having a lot of snow, or covered with snow.",
+      "example": [
+        {
+          "eng": "We built a snowman in the snowy backyard.",
+          "ch": "我們在積雪的後院裡堆了一個雪人。"
+        }
+      ]
+    },
+    {
+      "eng": "soap",
+      "kk": "soʊp",
+      "tense": "n.",
+      "ch": [
+        [
+          "肥皂"
+        ]
+      ],
+      "analysis": "源自古英語 sāpe（意為「肥皂」），屬於日耳曼語源。語法上為可數或不可數名詞，指用於清洗身體或衣物的清潔劑。",
+      "definition": "1. A substance used with water for washing and cleaning, made of a fat or oil combined with an alkali.",
+      "example": [
+        {
+          "eng": "Wash your hands thoroughly with soap and water.",
+          "ch": "用肥皂和水徹底把手洗乾淨。"
+        }
+      ]
+    },
+    {
+      "eng": "soccer",
+      "kk": "ˈsɑkər",
+      "tense": "n.",
+      "ch": [
+        [
+          "足球",
+          "英式足球"
+        ]
+      ],
+      "analysis": "源自19世紀英國大學俚語協會式足球（association football）的簡稱 'assoc' 加上詞尾 -er 演變而來，主要用於北美以區別美式足球（football）。語法上為不可數名詞。",
+      "definition": "1. A game played by two teams of eleven players with a round ball that may not be touched with the hands or arms during play except by the goalkeeper.",
+      "example": [
+        {
+          "eng": "The children love playing soccer after school.",
+          "ch": "孩子們放學後很喜歡踢足球。"
+        }
+      ]
+    }
+  ]
+}

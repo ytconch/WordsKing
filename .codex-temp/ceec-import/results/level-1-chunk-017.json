@@ -1,0 +1,1203 @@
+{
+  "level": 1,
+  "chunkIndex": 17,
+  "inputs": [
+    "shoes",
+    "shop",
+    "short",
+    "shorts",
+    "shoulder",
+    "shout",
+    "show",
+    "shower",
+    "sick",
+    "side",
+    "sight",
+    "sign",
+    "simple",
+    "since",
+    "sing",
+    "singer",
+    "sir",
+    "sister",
+    "sit",
+    "size",
+    "skirt",
+    "sky",
+    "sleep",
+    "slim",
+    "slow",
+    "small",
+    "smart",
+    "smell",
+    "smile",
+    "smoke",
+    "snake",
+    "snow",
+    "so",
+    "sofa",
+    "soldier",
+    "some",
+    "someone",
+    "somebody",
+    "something",
+    "sometimes",
+    "somewhere",
+    "son",
+    "song",
+    "soon",
+    "sore",
+    "sorry",
+    "sound",
+    "soup",
+    "south",
+    "space"
+  ],
+  "rows": [
+    {
+      "eng": "shoes",
+      "kk": "ʃuz",
+      "tense": "n.",
+      "ch": [
+        [
+          "鞋子",
+          "鞋"
+        ],
+        [
+          "鞋具",
+          "鞋類"
+        ]
+      ],
+      "analysis": "此字為名詞 shoe 的複數形表面詞形，保留輸入之複數型態。源自古英語 scōh（意即 shoe），屬日耳曼語族的繼承詞。現代語意上主要指穿在腳上用於保護或裝飾的鞋子，複數形用以指稱成雙的鞋具或各類鞋款。",
+      "definition": "1. coverings for the feet, typically made of leather, canvas, or plastic; 2. plural form referring to footwear as items or pairs.",
+      "example": [
+        {
+          "eng": "Please take off your shoes before entering the house.",
+          "ch": "進屋前請脫鞋。"
+        },
+        {
+          "eng": "She bought a new pair of running shoes yesterday.",
+          "ch": "她昨天買了一雙新跑鞋。"
+        }
+      ]
+    },
+    {
+      "eng": "shop",
+      "kk": "ʃɑp",
+      "tense": "n.",
+      "ch": [
+        [
+          "商店",
+          "店鋪"
+        ],
+        [
+          "工廠",
+          "車間"
+        ]
+      ],
+      "analysis": "源自古英語 sceoppa（意即 stall, booth、攤位或小型建築），經日耳曼語源發展而來。名詞主要指販售商品的小型商店或店鋪，亦可指進行手工藝或製造作業的工作室或車間。",
+      "definition": "1. a building or room where goods are sold; 2. a workshop or room where manufacturing or repair work is done.",
+      "example": [
+        {
+          "eng": "The little book shop on the corner sells vintage novels.",
+          "ch": "轉角的那家小書店販售古董小說。"
+        },
+        {
+          "eng": "He spends his weekends working in his woodworking shop.",
+          "ch": "他週末都在他的木工車間裡工作。"
+        }
+      ]
+    },
+    {
+      "eng": "shop",
+      "kk": "ʃɑp",
+      "tense": "vi.",
+      "ch": [
+        [
+          "購物",
+          "買東西"
+        ]
+      ],
+      "analysis": "由名詞 shop 轉品而來的動詞用法，作不及物動詞使用時，通常指在商店中瀏覽、挑選或購買商品。",
+      "definition": "1. to visit stores in search of things to buy.",
+      "example": [
+        {
+          "eng": "She likes to shop for groceries at the local farmers market.",
+          "ch": "她喜歡去當地農夫市集買雜貨。"
+        }
+      ]
+    },
+    {
+      "eng": "short",
+      "kk": "ʃɔrt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "短的",
+          "矮的"
+        ],
+        [
+          "短暫的",
+          "不久的"
+        ],
+        [
+          "不足的",
+          "短缺的"
+        ]
+      ],
+      "analysis": "源自古英語 sceort（意即 short、短的），屬日耳曼語族繼承詞。核心義指長度、距離或高度小於平均或正常標準；引申指時間短暫，或數量、供應上有所不足、短缺。",
+      "definition": "1. measuring a small distance from end to end or lower in height than average; 2. lasting for a small amount of time; 3. deficient or lacking in a required amount.",
+      "example": [
+        {
+          "eng": "He has short hair and wears glasses.",
+          "ch": "他留著短髮並戴著眼鏡。"
+        },
+        {
+          "eng": "We had a short break before the next meeting.",
+          "ch": "在下次會議前我們有一個短暫的休息。"
+        },
+        {
+          "eng": "We are a bit short on staff today.",
+          "ch": "我們今天人手有點短缺。"
+        }
+      ]
+    },
+    {
+      "eng": "shorts",
+      "kk": "ʃɔrts",
+      "tense": "n.",
+      "ch": [
+        [
+          "短褲"
+        ]
+      ],
+      "analysis": "由形容詞 short 轉化並加上複數詞尾的名詞形式，專指褲管較短、僅覆蓋部分或整條大腿的褲子。",
+      "definition": "1. outer garments extending from the waist to the knee or below, covering each leg separately.",
+      "example": [
+        {
+          "eng": "He wore a T-shirt and shorts to the beach.",
+          "ch": "他穿著T恤和短褲去海灘。"
+        }
+      ]
+    },
+    {
+      "eng": "shoulder",
+      "kk": "ˈʃoʊldər",
+      "tense": "n.",
+      "ch": [
+        [
+          "肩膀",
+          "肩部"
+        ],
+        [
+          "路肩"
+        ]
+      ],
+      "analysis": "源自古英語 sculdor（意即 shoulder、肩膀），屬日耳曼語族繼承詞。本義指人體或動物軀幹連接手臂或前肢的部位；引申指道路兩旁供車輛暫停的安全帶狀區域即路肩。",
+      "definition": "1. the upper joint of the human arm or the corresponding part in animals; 2. the strip of land alongside a road where vehicles may stop.",
+      "example": [
+        {
+          "eng": "She carried her heavy backpack over one shoulder.",
+          "ch": "她單肩扛著沉重的背包。"
+        },
+        {
+          "eng": "The car had a flat tire, so he pulled over onto the shoulder.",
+          "ch": "車子爆胎了，於是他在路肩把車停下。"
+        }
+      ]
+    },
+    {
+      "eng": "shout",
+      "kk": "ʃaʊt",
+      "tense": "vi.",
+      "ch": [
+        [
+          "大叫",
+          "喊叫"
+        ]
+      ],
+      "analysis": "源自中古英語 shouten，其源頭可能與日耳曼語族擬聲詞有關。作為不及物動詞，指用大聲、高亢的聲音呼喊或叫出。",
+      "definition": "1. to utter a loud cry, typically out of anger, fear, or excitement.",
+      "example": [
+        {
+          "eng": "There is no need to shout; I can hear you clearly.",
+          "ch": "沒有必要大叫，我聽得很清楚。"
+        }
+      ]
+    },
+    {
+      "eng": "show",
+      "kk": "ʃoʊ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "展示",
+          "顯示"
+        ],
+        [
+          "表明",
+          "證明"
+        ],
+        [
+          "帶領",
+          "引導"
+        ]
+      ],
+      "analysis": "源自古英語 scēawian（意即 to look at、見證、展示），屬日耳曼語族繼承詞。及物動詞核心義為把某物呈現給人看或使之顯現；引申指透過數據或行為表明、證明某事，或指引某人前往某處。",
+      "definition": "1. to cause or allow something to be seen; 2. to prove or make clear by reasoning or evidence; 3. to guide or lead someone somewhere.",
+      "example": [
+        {
+          "eng": "Can you show me how to use this camera?",
+          "ch": "你可以展示給我看如何使用這台相機嗎？"
+        },
+        {
+          "eng": "The results show a significant improvement in sales.",
+          "ch": "結果顯示銷售額有顯著的提升。"
+        },
+        {
+          "eng": "Please show our guest to the conference room.",
+          "ch": "請引導我們的賓客前往會議室。"
+        }
+      ]
+    },
+    {
+      "eng": "shower",
+      "kk": "ˈʃaʊər",
+      "tense": "n.",
+      "ch": [
+        [
+          "淋浴",
+          "淋浴間"
+        ],
+        [
+          "陣雨"
+        ]
+      ],
+      "analysis": "源自古英語 scēowere 或與 show 動詞相關的演變，中世紀指短暫落下的雨或水分。名詞主要指淋浴設備或沖澡行為，亦可指氣象學上的陣雨。",
+      "definition": "1. a device for washing the body by standing under a spray of water, or the act of using it; 2. a brief fall of rain or snow.",
+      "example": [
+        {
+          "eng": "He took a quick shower after playing basketball.",
+          "ch": "他打完籃球後沖了一個快澡。"
+        },
+        {
+          "eng": "We got caught in a sudden afternoon shower.",
+          "ch": "我們遇上了一場突如其來的午後陣雨。"
+        }
+      ]
+    },
+    {
+      "eng": "sick",
+      "kk": "sɪk",
+      "tense": "adj.",
+      "ch": [
+        [
+          "生病的",
+          "不舒服的"
+        ],
+        [
+          "噁心的",
+          "想吐的"
+        ]
+      ],
+      "analysis": "源自古英語 sēoc（意即 sick、生病的），屬日耳曼語族繼承詞。核心義指身體健康狀況不佳或生病，亦常指胃部翻攪、感到噁心或想吐。",
+      "definition": "1. affected by physical or mental illness; 2. feeling nauseated or having an inclination to vomit.",
+      "example": [
+        {
+          "eng": "She stayed home from work because she felt sick.",
+          "ch": "她因為感覺身體不舒服而留在家裡沒去上班。"
+        },
+        {
+          "eng": "The rough boat ride made several passengers sick.",
+          "ch": "顛簸的船程讓好幾位乘客感到噁心想吐。"
+        }
+      ]
+    },
+    {
+      "eng": "side",
+      "kk": "saɪd",
+      "tense": "n.",
+      "ch": [
+        [
+          "邊",
+          "側面"
+        ],
+        [
+          "立場",
+          "一方"
+        ]
+      ],
+      "analysis": "源自古英語 sīde（意即 flank、腹側、邊緣），屬日耳曼語族繼承詞。本義指物體的側面、邊緣或表面；引申指爭論、競賽或衝突中的派別、立場或一方。",
+      "definition": "1. a position to the left or right of an object, or a surface forming the outer boundary; 2. a particular party, group, or faction in a conflict, dispute, or contest.",
+      "example": [
+        {
+          "eng": "He parked his car on the side of the road.",
+          "ch": "他把車停在路邊。"
+        },
+        {
+          "eng": "Which team are you on in this debate?",
+          "ch": "在這場辯論中你站在哪一方？"
+        }
+      ]
+    },
+    {
+      "eng": "sight",
+      "kk": "saɪt",
+      "tense": "n.",
+      "ch": [
+        [
+          "視力",
+          "視覺"
+        ],
+        [
+          "景象",
+          "名勝"
+        ]
+      ],
+      "analysis": "源自古英語 gesihθ（意即 sight、視力、看見之物），源自日耳曼語族詞根。名詞主要指看見的能力即視力，或眼睛所見到的景物、風光、名勝。",
+      "definition": "1. the faculty or power of seeing; 2. a thing that one sees or is seen, such as a view or notable place.",
+      "example": [
+        {
+          "eng": "Wearing safety goggles can protect your sight.",
+          "ch": "佩戴安全護目鏡可以保護你的視力。"
+        },
+        {
+          "eng": "The Eiffel Tower is a famous sight in Paris.",
+          "ch": "艾菲爾鐵塔是巴黎著名的景點。"
+        }
+      ]
+    },
+    {
+      "eng": "sign",
+      "kk": "saɪn",
+      "tense": "n.",
+      "ch": [
+        [
+          "標誌",
+          "招牌"
+        ],
+        [
+          "跡象",
+          "徵兆"
+        ]
+      ],
+      "analysis": "經中古英語借自古法語 sign，其源自拉丁語 signum（意即 mark、token、標記）。名詞主要指用來傳達資訊的告示牌、標誌或招牌，亦可指某事即將發生或存在的跡象、徵兆。",
+      "definition": "1. an object, placard, or notice displayed to give information or instructions; 2. an event, gesture, or condition that indicates the existence or likely occurrence of something.",
+      "example": [
+        {
+          "eng": "He failed to notice the stop sign at the intersection.",
+          "ch": "他沒有注意到路口上的停車標誌。"
+        },
+        {
+          "eng": "Dark clouds are a sign of rain.",
+          "ch": "烏雲是下雨的徵兆。"
+        }
+      ]
+    },
+    {
+      "eng": "sign",
+      "kk": "saɪn",
+      "tense": "vt.",
+      "ch": [
+        [
+          "簽署",
+          "簽名"
+        ]
+      ],
+      "analysis": "源自拉丁語 signare（動詞：標記、簽署），經法語進入英語。作為及物動詞，指在文件、合約等上面簽下自己的姓名以示認可或生效。",
+      "definition": "1. to write one's signature on a document, contract, or letter to authorize or validate it.",
+      "example": [
+        {
+          "eng": "Please read the terms and sign the contract.",
+          "ch": "請閱讀條款並簽署合約。"
+        }
+      ]
+    },
+    {
+      "eng": "simple",
+      "kk": "ˈsɪmpəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "簡單的",
+          "容易懂的"
+        ],
+        [
+          "純粹的",
+          "樸素的"
+        ]
+      ],
+      "analysis": "經中古英語借自古法語 simple，源自拉丁語 simplus / simplex（意即 unmixed、單一的、不複雜的），由 *sem-（一個）與 *plek-（折疊）複合而成。形容詞核心義指不複雜、易於理解或操作的；亦可指生活或外表樸素、不鋪張的。",
+      "definition": "1. easily understood or done; presenting no difficulty; 2. plain, basic, or free from luxury and complication.",
+      "example": [
+        {
+          "eng": "The teacher gave a simple explanation of the math rule.",
+          "ch": "老師對這個數學規則做了簡單的解釋。"
+        },
+        {
+          "eng": "They enjoy a simple life in the countryside.",
+          "ch": "他們在鄉下享受著樸素的生活。"
+        }
+      ]
+    },
+    {
+      "eng": "since",
+      "kk": "sɪns",
+      "tense": "prep.",
+      "ch": [
+        [
+          "自從...以來"
+        ]
+      ],
+      "analysis": "源自中古英語 sithence（由 siþ 「之後」與 ðan 「那時」組合而成）。作為介詞時，表示從過去某一特定時間點開始持續到現在的期間起點。",
+      "definition": "1. continuously from a specified time in the past until the present.",
+      "example": [
+        {
+          "eng": "She has lived in this city since 2015.",
+          "ch": "她自2015年以來就一直住在這座城市。"
+        }
+      ]
+    },
+    {
+      "eng": "sing",
+      "kk": "sɪŋ",
+      "tense": "vi.",
+      "ch": [
+        [
+          "唱歌"
+        ]
+      ],
+      "analysis": "源自古英語 singan（意即 sing、唱歌），屬日耳曼語族繼承詞。作為不及物動詞，指發出悅耳、有節奏的樂音或歌聲。",
+      "definition": "1. to make musical sounds with the voice, usually producing words with a tune.",
+      "example": [
+        {
+          "eng": "The little bird sings outside my window every morning.",
+          "ch": "小鳥每天早晨都在我的窗外唱歌。"
+        }
+      ]
+    },
+    {
+      "eng": "singer",
+      "kk": "ˈsɪŋər",
+      "tense": "n.",
+      "ch": [
+        [
+          "歌手",
+          "歌唱家"
+        ]
+      ],
+      "analysis": "由動詞 sing 加上名詞化字尾 -er 構成的現代透明構詞，指以唱歌為專業或興趣的人。",
+      "definition": "1. a person who sings, especially professionally.",
+      "example": [
+        {
+          "eng": "She is a famous pop singer with millions of fans.",
+          "ch": "她是一位擁有數百萬粉絲的著名流行歌手。"
+        }
+      ]
+    },
+    {
+      "eng": "sir",
+      "kk": "sɜr",
+      "tense": "n.",
+      "ch": [
+        [
+          "先生"
+        ]
+      ],
+      "analysis": "經中古英語 sire，源自古法語 sire，其源自拉丁語 senior（老者、年長者，為 senex 的比較級）。名詞用作對男性的尊稱或禮貌稱呼。",
+      "definition": "1. a polite or respectful form of address used to a man.",
+      "example": [
+        {
+          "eng": "May I help you find something, sir?",
+          "ch": "先生，請問有什麼需要我幫忙找的嗎？"
+        }
+      ]
+    },
+    {
+      "eng": "sister",
+      "kk": "ˈsɪstər",
+      "tense": "n.",
+      "ch": [
+        [
+          "姊妹",
+          "姐姐",
+          "妹妹"
+        ]
+      ],
+      "analysis": "源自古英語 sweostor，其源自原始日耳曼語 *swestēr，與拉丁語 soror 同源。名詞指與自己有相同父母的女性親屬（姊或妹）。",
+      "definition": "1. a female having the same parents as another person.",
+      "example": [
+        {
+          "eng": "My older sister is a doctor in the local hospital.",
+          "ch": "我姐姐是當地醫院的醫生。"
+        }
+      ]
+    },
+    {
+      "eng": "sit",
+      "kk": "sɪt",
+      "tense": "vi.",
+      "ch": [
+        [
+          "坐",
+          "坐下"
+        ]
+      ],
+      "analysis": "源自古英語 sittan（意即 sit、坐著），屬日耳曼語族繼承詞。作為不及物動詞，指身體呈坐姿或使身體部位靠在椅子等支撐物上。",
+      "definition": "1. to rest one's body weight on the buttocks, with the torso upright, on a seat or other support.",
+      "example": [
+        {
+          "eng": "Please sit down and make yourself comfortable.",
+          "ch": "請坐下並放輕鬆。"
+        }
+      ]
+    },
+    {
+      "eng": "size",
+      "kk": "saɪz",
+      "tense": "n.",
+      "ch": [
+        [
+          "大小",
+          "尺寸"
+        ],
+        [
+          "尺碼",
+          "號碼"
+        ]
+      ],
+      "analysis": "源自中古英語 sise（源自 assize 的截斷形式，意即法定標準、尺寸），源自拉丁語 assidere。名詞主要指物件的實體體積、大小或空間維度，亦可指衣物、鞋子等商品的規格尺碼。",
+      "definition": "1. the relative extent of something; a thing's overall dimensions or magnitude; 2. the manufactured measurement designation for clothing, shoes, and other items.",
+      "example": [
+        {
+          "eng": "What size is this room?",
+          "ch": "這個房間有多大？"
+        },
+        {
+          "eng": "Do you have these shoes in a size 9?",
+          "ch": "你們這雙鞋有9號的嗎？"
+        }
+      ]
+    },
+    {
+      "eng": "skirt",
+      "kk": "skɜrt",
+      "tense": "n.",
+      "ch": [
+        [
+          "裙子"
+        ]
+      ],
+      "analysis": "源自中古英語 skirt，借自古諾斯語 skyrta（意即 shirt、短衣），與 shirt 同源。在英語發展中語義轉移，專指女性穿著的從腰部下垂的衣物即裙子。",
+      "definition": "1. a woman's or girl's clothing that hangs from the waist and covers all or part of the legs.",
+      "example": [
+        {
+          "eng": "She wore a blue skirt and a white blouse to the party.",
+          "ch": "她穿著藍色裙子和白色上衣去參加派對。"
+        }
+      ]
+    },
+    {
+      "eng": "sky",
+      "kk": "skaɪ",
+      "tense": "n.",
+      "ch": [
+        [
+          "天空"
+        ]
+      ],
+      "analysis": "源自中古英語 sky，借自古諾斯語 ský（意即 cloud、雲），原義為雲塊，在早期英語中演變成指地球上空大氣層所呈現的空間即天空。",
+      "definition": "1. the region of the atmosphere and outer space seen from the earth, typically appearing as a blue dome during the day.",
+      "example": [
+        {
+          "eng": "The sky is clear and full of bright stars tonight.",
+          "ch": "今晚的天空晴朗且佈滿了明亮的星星。"
+        }
+      ]
+    },
+    {
+      "eng": "sleep",
+      "kk": "slip",
+      "tense": "vi.",
+      "ch": [
+        [
+          "睡覺",
+          "睡眠"
+        ]
+      ],
+      "analysis": "源自古英語 slēpan（意即 sleep、睡眠），屬日耳曼語族繼承詞。作為不及物動詞，指人或動物進入休息、意識活動暫時降低的生理狀態。",
+      "definition": "1. to rest the mind and body with natural suspension of consciousness.",
+      "example": [
+        {
+          "eng": "Babies need to sleep for many hours a day to grow healthy.",
+          "ch": "嬰兒一天需要睡很多小時才能健康成長。"
+        }
+      ]
+    },
+    {
+      "eng": "slim",
+      "kk": "slɪm",
+      "tense": "adj.",
+      "ch": [
+        [
+          "苗條的",
+          "修長的"
+        ],
+        [
+          "微薄的",
+          "渺茫的"
+        ]
+      ],
+      "analysis": "源自中古荷蘭語或中低地德語 slim（本義為歪曲、不良，後在英語中語義轉變為纖細）。形容詞主要指人體曲線苗條、修長；亦可指機會或希望等微薄、渺茫。",
+      "definition": "1. gracefully thin or slender in build or shape; 2. small in amount or degree; slight.",
+      "example": [
+        {
+          "eng": "She stays healthy by eating well and exercising to keep slim.",
+          "ch": "她透過健康飲食和運動來保持苗條身材。"
+        },
+        {
+          "eng": "There is still a slim chance that we will win the game.",
+          "ch": "我們仍然有贏得比賽的微薄機會。"
+        }
+      ]
+    },
+    {
+      "eng": "slow",
+      "kk": "sloʊ",
+      "tense": "adj.",
+      "ch": [
+        [
+          "慢的",
+          "緩慢的"
+        ]
+      ],
+      "analysis": "源自古英語 slāw（意即 sluggish、緩慢的、遲鈍的），屬日耳曼語族繼承詞。形容詞核心義指移動、運行或反應的速度低於平均水準。",
+      "definition": "1. moving or operating at a low speed; not fast.",
+      "example": [
+        {
+          "eng": "Traffic is very slow during the morning rush hour.",
+          "ch": "早晨尖峰時段的交通非常緩慢。"
+        }
+      ]
+    },
+    {
+      "eng": "small",
+      "kk": "smɔl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "小的",
+          "少量的"
+        ]
+      ],
+      "analysis": "源自古英語 smæl（意即 small、細小的、狹窄的），屬日耳曼語族繼承詞。形容詞核心義指尺寸、體積、數量或程度小於正常或平均標準。",
+      "definition": "1. of a size that is less than normal or average; little in dimension or amount.",
+      "example": [
+        {
+          "eng": "They live in a small apartment near the city center.",
+          "ch": "他們住在市中心附近的一間小公寓裡。"
+        }
+      ]
+    },
+    {
+      "eng": "smart",
+      "kk": "smɑrt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "聰明的",
+          "機智的"
+        ],
+        [
+          "時髦的",
+          "衣著整潔的"
+        ]
+      ],
+      "analysis": "源自古英語 smeart（意即 sharp、刺痛的、猛烈的），日耳曼語源。其語義由「敏銳的刺激」引申為頭腦敏捷、聰明；在英式英語及正式用語中亦常用來形容衣著時髦、乾淨利落。",
+      "definition": "1. having or showing a quick-witted intelligence; bright; 2. clean, neat, and stylish in appearance.",
+      "example": [
+        {
+          "eng": "He is a smart student who always finishes his homework quickly.",
+          "ch": "他是個聰明的學生，總是很快寫完作業。"
+        },
+        {
+          "eng": "You look very smart in your new suit.",
+          "ch": "你穿這套新西裝看起來非常時髦整潔。"
+        }
+      ]
+    },
+    {
+      "eng": "smell",
+      "kk": "smɛl",
+      "tense": "vi.",
+      "ch": [
+        [
+          "聞起來",
+          "散發氣味"
+        ]
+      ],
+      "analysis": "源自中古英語 smellen，可能源自古英語。作為不及物動詞，指物體向外散發出某種特定的香氣或臭氣。",
+      "definition": "1. to emit a particular odor or scent.",
+      "example": [
+        {
+          "eng": "The freshly baked bread smells delicious.",
+          "ch": "剛出爐的麵包聞起來好香。"
+        }
+      ]
+    },
+    {
+      "eng": "smile",
+      "kk": "smaɪl",
+      "tense": "vi.",
+      "ch": [
+        [
+          "微笑"
+        ]
+      ],
+      "analysis": "源自中古英語 smilen，可能源自斯堪地那維亞語源。作為不及物動詞，指面部肌肉放鬆並向上微曲，用來表示快樂、友善或贊許。",
+      "definition": "1. to form one's features into a pleased or friendly expression, with the corners of the mouth turned up.",
+      "example": [
+        {
+          "eng": "She smiled happily when she received the gift.",
+          "ch": "她收到禮物時開心地微笑了。"
+        }
+      ]
+    },
+    {
+      "eng": "smoke",
+      "kk": "smoʊk",
+      "tense": "n.",
+      "ch": [
+        [
+          "煙",
+          "煙霧"
+        ]
+      ],
+      "analysis": "源自古英語 smoca（意即 smoke、煙霧），屬日耳曼語族繼承詞。名詞指物質燃燒時所產生的微小碳粒與氣體混合而成的可見霧氣。",
+      "definition": "1. a visible suspension of carbon or other particles in air, typically given off by a burning substance.",
+      "example": [
+        {
+          "eng": "We saw dark smoke rising from the chimney.",
+          "ch": "我們看到黑煙從煙囪冒出來。"
+        }
+      ]
+    },
+    {
+      "eng": "snake",
+      "kk": "snek",
+      "tense": "n.",
+      "ch": [
+        [
+          "蛇"
+        ]
+      ],
+      "analysis": "源自古英語 snaca（意即 snake、爬行動物），屬日耳曼語族繼承詞。名詞指一種身體細長、無四肢、會爬行的爬蟲類動物。",
+      "definition": "1. a long, limbless reptile with a scaly body and a large mouth.",
+      "example": [
+        {
+          "eng": "We saw a harmless snake crawling through the grass.",
+          "ch": "我們看到一條無毒的蛇在草叢中爬行。"
+        }
+      ]
+    },
+    {
+      "eng": "snow",
+      "kk": "snoʊ",
+      "tense": "n.",
+      "ch": [
+        [
+          "雪"
+        ]
+      ],
+      "analysis": "源自古英語 snāw（意即 snow、雪），屬日耳曼語族繼承詞。名詞指大氣中的水蒸氣在冰點以下凝華形成的白色六角形冰晶降落物。",
+      "definition": "1. atmospheric water vapor frozen into ice crystals and falling in light white flakes or accumulated on the ground.",
+      "example": [
+        {
+          "eng": "The children went outside to play in the fresh snow.",
+          "ch": "孩子們到戶外在新下的雪中玩耍。"
+        }
+      ]
+    },
+    {
+      "eng": "so",
+      "kk": "soʊ",
+      "tense": "adv.",
+      "ch": [
+        [
+          "如此",
+          "這麼"
+        ],
+        [
+          "因此",
+          "所以"
+        ]
+      ],
+      "analysis": "源自古英語 swā（意即 so、這樣、如此），屬日耳曼語族繼承詞。副詞核心義用於加強形容詞或副詞的程度（如此、這麼）；亦可作為連接性副詞表示結果或因果關係（因此、所以）。",
+      "definition": "1. to such a great extent or degree; very; 2. for this reason; therefore.",
+      "example": [
+        {
+          "eng": "The weather is so nice today that we should go outside.",
+          "ch": "今天的氣候是如此宜人，我們應該去戶外走走。"
+        },
+        {
+          "eng": "It started to rain, so we went inside.",
+          "ch": "開始下雨了，所以我們進到室內。"
+        }
+      ]
+    },
+    {
+      "eng": "sofa",
+      "kk": "ˈsoʊfə",
+      "tense": "n.",
+      "ch": [
+        [
+          "沙發"
+        ]
+      ],
+      "analysis": "經由土耳其語 suffa、阿拉伯語 suffah（意即長椅、坐榻）借入西方語言中。名詞指一種有靠背和扶手、供多人同時坐或躺的長椅。",
+      "definition": "1. a long upholstered seat with a back and arms for two or more people.",
+      "example": [
+        {
+          "eng": "He lay down on the sofa to take a short nap.",
+          "ch": "他躺在沙發上小睡了一會兒。"
+        }
+      ]
+    },
+    {
+      "eng": "soldier",
+      "kk": "ˈsoʊldʒər",
+      "tense": "n.",
+      "ch": [
+        [
+          "軍人",
+          "士兵"
+        ]
+      ],
+      "analysis": "經中古英語借自古法語 soudier，源自晚期拉丁語 solidarius（意即領取軍餉的人），源自 solidus（一種古羅馬金幣）。名詞指服役於陸軍並受訓作戰的軍人或士兵。",
+      "definition": "1. a person who serves in an army, especially a private or enlisted person.",
+      "example": [
+        {
+          "eng": "The brave soldier returned home safely after the war.",
+          "ch": "這位勇敢的士兵在戰後平安返家。"
+        }
+      ]
+    },
+    {
+      "eng": "some",
+      "kk": "sʌm",
+      "tense": "det.",
+      "ch": [
+        [
+          "一些",
+          "某些"
+        ]
+      ],
+      "analysis": "源自古英語 sum（意即 some、一部分、某個），屬日耳曼語族繼承詞。限定詞用來修飾名詞，表示數量不確定的一部分或某些個體。",
+      "definition": "1. an unspecified amount or number of; a certain number or quantity.",
+      "example": [
+        {
+          "eng": "Could you please buy some milk on your way home?",
+          "ch": "你回家路上可以順便買一些牛奶嗎？"
+        }
+      ]
+    },
+    {
+      "eng": "someone",
+      "kk": "ˈsʌmˌwʌn",
+      "tense": "pron.",
+      "ch": [
+        [
+          "某人",
+          "有人"
+        ]
+      ],
+      "analysis": "由代名詞 some 與 one 複合而成的現代透明構詞。代名詞用來指稱某個不特定的人物。",
+      "definition": "1. an unspecified or unknown person; somebody.",
+      "example": [
+        {
+          "eng": "Someone is knocking at the front door.",
+          "ch": "有人正在敲前門。"
+        }
+      ]
+    },
+    {
+      "eng": "somebody",
+      "kk": "ˈsʌmˌbɑdi",
+      "tense": "pron.",
+      "ch": [
+        [
+          "某人",
+          "有人"
+        ]
+      ],
+      "analysis": "由代名詞 some 與名詞 body 複合而成的現代透明構詞，與 someone 意思相同，指某個不特定的人物。",
+      "definition": "1. an unspecified or unknown person; someone.",
+      "example": [
+        {
+          "eng": "Is somebody helping you with this heavy project?",
+          "ch": "有人在幫你處理這個沉重的專案嗎？"
+        }
+      ]
+    },
+    {
+      "eng": "something",
+      "kk": "ˈsʌmˌθɪŋ",
+      "tense": "pron.",
+      "ch": [
+        [
+          "某事",
+          "某物"
+        ]
+      ],
+      "analysis": "由代名詞 some 與名詞 thing 複合而成的現代透明構詞。代名詞用來指稱某個不特定的事物或東西。",
+      "definition": "1. an unspecified or unknown thing.",
+      "example": [
+        {
+          "eng": "She wants to tell you something important.",
+          "ch": "她有些重要的事想告訴你。"
+        }
+      ]
+    },
+    {
+      "eng": "sometimes",
+      "kk": "ˈsʌmˌtaɪmz",
+      "tense": "adv.",
+      "ch": [
+        [
+          "有時",
+          "偶爾"
+        ]
+      ],
+      "analysis": "由 some 與 time 的所有格複數形式 times 複合而成的現代透明構詞。副詞表示某種情況並非經常發生，而是在某些時間點或偶爾出現。",
+      "definition": "1. occasionally, rather than all of the time; at intervals.",
+      "example": [
+        {
+          "eng": "Sometimes we go for a walk in the park after dinner.",
+          "ch": "我們有時會在晚飯後去公園散步。"
+        }
+      ]
+    },
+    {
+      "eng": "somewhere",
+      "kk": "ˈsʌmˌwɛr",
+      "tense": "adv.",
+      "ch": [
+        [
+          "在某處",
+          "到某處"
+        ]
+      ],
+      "analysis": "由 some 與 where 複合而成的現代透明構詞。副詞用來指稱一個不特定或未知的地方。",
+      "definition": "1. in or to an unspecified or unknown place.",
+      "example": [
+        {
+          "eng": "I left my keys somewhere in this room.",
+          "ch": "我把鑰匙忘在這個房間裡的某個地方了。"
+        }
+      ]
+    },
+    {
+      "eng": "son",
+      "kk": "sʌn",
+      "tense": "n.",
+      "ch": [
+        [
+          "兒子"
+        ]
+      ],
+      "analysis": "源自古英語 sunu（意即 son、兒子），屬日耳曼語族繼承詞，與德語 Sohn 同源。名詞指父母所生的男性後代。",
+      "definition": "1. a boy or man in relation to his parents.",
+      "example": [
+        {
+          "eng": "Their oldest son is studying engineering at university.",
+          "ch": "他們的大兒子正在大學修讀工程學。"
+        }
+      ]
+    },
+    {
+      "eng": "song",
+      "kk": "sɔŋ",
+      "tense": "n.",
+      "ch": [
+        [
+          "歌曲",
+          "歌"
+        ]
+      ],
+      "analysis": "源自古英語 song 或 sang（意即 song、歌唱、樂曲），屬日耳曼語族繼承詞，源自動詞 sing。名詞指配合樂曲或歌詞用人聲唱出的音樂作品。",
+      "definition": "1. a short musical composition with words for voice or voices.",
+      "example": [
+        {
+          "eng": "She hummed her favorite pop song while cooking dinner.",
+          "ch": "她煮晚餐時哼著她最愛的流行歌曲。"
+        }
+      ]
+    },
+    {
+      "eng": "soon",
+      "kk": "sun",
+      "tense": "adv.",
+      "ch": [
+        [
+          "不久",
+          "很快"
+        ]
+      ],
+      "analysis": "源自古英語 sōna（意即 immediately、立刻、不久），屬日耳曼語族繼承詞。副詞指在不久的將來或短時間內會發生。",
+      "definition": "1. in or after a short time; shortly.",
+      "example": [
+        {
+          "eng": "We will be leaving for the airport soon.",
+          "ch": "我們不久後就要出發去機場了。"
+        }
+      ]
+    },
+    {
+      "eng": "sore",
+      "kk": "sɔr",
+      "tense": "adj.",
+      "ch": [
+        [
+          "疼痛的",
+          "酸痛的"
+        ]
+      ],
+      "analysis": "源自古英語 sār（意即 painful、疼痛的、痛苦的），屬日耳曼語族繼承詞。形容詞主要指身體某部位因運動過度、發炎或受傷而感到疼痛或酸痛。",
+      "definition": "1. painful or aching, typically as a result of injury or excessive exercise.",
+      "example": [
+        {
+          "eng": "My legs felt very sore after running the marathon.",
+          "ch": "跑完馬拉松後，我的雙腿感到非常酸痛。"
+        }
+      ]
+    },
+    {
+      "eng": "sorry",
+      "kk": "ˈsɑri",
+      "tense": "adj.",
+      "ch": [
+        [
+          "抱歉的",
+          "對不起的"
+        ],
+        [
+          "難過的",
+          "遺憾的"
+        ]
+      ],
+      "analysis": "源自古英語 sārig（意即 sorry、悲傷的、痛苦的，由 sār 衍生而來）。在現代英語中語義轉化，主要用來表達做錯事後的歉意、懊悔，或對不幸事件感到難過、遺憾。",
+      "definition": "1. feeling or expressing sympathy, regret, or apology; 2. feeling sorrow or regret.",
+      "example": [
+        {
+          "eng": "I am so sorry for breaking your favorite coffee mug.",
+          "ch": "非常抱歉打破了你最愛的咖啡馬克杯。"
+        },
+        {
+          "eng": "We are sorry to hear about the cancellation of the event.",
+          "ch": "聽到活動取消的消息我們感到很遺憾。"
+        }
+      ]
+    },
+    {
+      "eng": "sound",
+      "kk": "saʊnd",
+      "tense": "n.",
+      "ch": [
+        [
+          "聲音",
+          "聲響"
+        ]
+      ],
+      "analysis": "經中古英語借自古法語 son，源自拉丁語 sonus（意即 sound、聲音）。名詞指透過空氣或其他介質傳播並能被聽覺器官感知的波動聲音。",
+      "definition": "1. vibrations that travel through the air or another medium and can be heard when they reach a person's or animal's ear.",
+      "example": [
+        {
+          "eng": "I heard a strange sound coming from the garage.",
+          "ch": "我聽到從車庫傳來一個奇怪的聲音。"
+        }
+      ]
+    },
+    {
+      "eng": "sound",
+      "kk": "saʊnd",
+      "tense": "vi.",
+      "ch": [
+        [
+          "聽起來"
+        ]
+      ],
+      "analysis": "由名詞 sound 轉化而來的動詞用法。作不及物動詞時，指某事被聽到時所給人的聽覺印象或評價。",
+      "definition": "1. to convey a particular impression when heard.",
+      "example": [
+        {
+          "eng": "That suggestion sounds like a wonderful plan.",
+          "ch": "那個建議聽起來是個絕佳的計畫。"
+        }
+      ]
+    },
+    {
+      "eng": "soup",
+      "kk": "sup",
+      "tense": "n.",
+      "ch": [
+        [
+          "湯"
+        ]
+      ],
+      "analysis": "源自中古英語 soupe，經古法語借自日耳曼語源（與 sup「啜飲」同源）。名詞指用肉、魚、蔬菜或豆類加水熬煮而成的液體狀湯品。",
+      "definition": "1. a liquid food made by boiling meat, fish, or vegetables with stock or water.",
+      "example": [
+        {
+          "eng": "A bowl of hot chicken soup warms you up on a cold day.",
+          "ch": "一碗熱雞湯在寒冷的日子裡能暖活身子。"
+        }
+      ]
+    },
+    {
+      "eng": "south",
+      "kk": "saʊθ",
+      "tense": "n.",
+      "ch": [
+        [
+          "南方",
+          "南部"
+        ]
+      ],
+      "analysis": "源自古英語 sūþ（意即 south、向南、南方），屬日耳曼語族繼承詞。名詞指四個基本方位之一，即太陽在北半球正午時的方向或地圖的下方。",
+      "definition": "1. the direction towards the point of the horizon that is directly opposite the north.",
+      "example": [
+        {
+          "eng": "They drove south toward the coast for their vacation.",
+          "ch": "他們度假時開車往南朝海岸方向行駛。"
+        }
+      ]
+    },
+    {
+      "eng": "space",
+      "kk": "spes",
+      "tense": "n.",
+      "ch": [
+        [
+          "空間",
+          "空地"
+        ],
+        [
+          "太空",
+          "宇宙"
+        ]
+      ],
+      "analysis": "經中古英語借自古法語 espace，源自拉丁語 spatium（意即 room、area、範圍或空間）。名詞主要指容納物體或活動的空曠區域、空間，亦可專指地球大氣層之外的無垠太空或宇宙。",
+      "definition": "1. a continuous area or expanse which is free, available, or unoccupied; 2. the limitless expanse in which all objects and events exist; outer space.",
+      "example": [
+        {
+          "eng": "There is not enough parking space in front of the building.",
+          "ch": "大樓前面沒有足夠的停車空間。"
+        },
+        {
+          "eng": "Astronauts travel into outer space to conduct scientific research.",
+          "ch": "太空人前往外太空進行科學研究。"
+        }
+      ]
+    }
+  ]
+}

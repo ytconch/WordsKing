@@ -1,0 +1,1626 @@
+{
+  "level": 4,
+  "chunkIndex": 7,
+  "inputs": [
+    "disappoint",
+    "disappointment",
+    "disaster",
+    "discipline",
+    "discourage",
+    "discouragement",
+    "disguise",
+    "disgust",
+    "dismiss",
+    "disorder",
+    "dispute",
+    "distinct",
+    "distinguish",
+    "distinguished",
+    "distribute",
+    "distribution",
+    "district",
+    "disturb",
+    "diverse",
+    "diversity",
+    "divine",
+    "divorce",
+    "dodge",
+    "dominant",
+    "dominate",
+    "draft",
+    "dread",
+    "drift",
+    "drill",
+    "drowsy",
+    "durable",
+    "dusty",
+    "dye",
+    "dynamic",
+    "dynasty",
+    "earnest",
+    "earphone",
+    "economic",
+    "economical",
+    "economics",
+    "economist",
+    "economy",
+    "efficiency",
+    "elastic",
+    "electronics",
+    "elegant",
+    "elementary",
+    "eliminate",
+    "elsewhere",
+    "embarrass"
+  ],
+  "rows": [
+    {
+      "eng": "disappoint",
+      "kk": "ˌdɪsəˈpɔɪnt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使失望",
+          "辜負"
+        ],
+        [
+          "使落空",
+          "挫敗"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由否定字首 dis-（表示不、相反）結合源自古法語 desapointeir、拉丁語 dis- 加 punctare（戳、刺）演變而來的 appoint（委派、約定）組合而成，字面義為「解除約定」或「使未達成期望」。在現代英語中為及物動詞，用來表示人事物未能符合預期而帶給他人失落感或計畫未能實現。",
+      "definition": "1. to fail to fulfill the expectations or hopes of someone, causing sadness or dissatisfaction.; 2. to prevent a plan, hope, or wish from being fulfilled or successful.",
+      "example": [
+        {
+          "eng": "I am sorry to disappoint you, but I won't be able to attend the meeting.",
+          "ch": "很抱歉使你失望了，我將無法出席會議。"
+        },
+        {
+          "eng": "Bad weather threatened to disappoint our plans for a picnic.",
+          "ch": "惡劣的天氣威脅著要使我們的野餐計畫落空。"
+        }
+      ]
+    },
+    {
+      "eng": "disappointment",
+      "kk": "ˌdɪsəˈpɔɪntmənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "失望",
+          "沮喪"
+        ],
+        [
+          "令人失望的人或事"
+        ]
+      ],
+      "analysis": "此字由動詞 disappoint 結合名詞字尾 -ment（表示狀態、動作結果）構成。在現代英語中作為可數或不可數名詞，既可指心理上產生的失落、挫折情緒，也可指具體造成這種情緒的失敗人事物。",
+      "definition": "1. the feeling of sadness or displeasure caused by the non-fulfillment of one's hopes or expectations.; 2. a person, event, or thing that causes sadness or fails to meet expectations.",
+      "example": [
+        {
+          "eng": "To my great disappointment, the concert was canceled at the last minute.",
+          "ch": "令我非常失望的是，音樂會在最後一刻取消了。"
+        },
+        {
+          "eng": "The new restaurant turned out to be a major disappointment.",
+          "ch": "這家新開的餐廳結果讓人大失所望。"
+        }
+      ]
+    },
+    {
+      "eng": "disaster",
+      "kk": "dɪˈzæstɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "災難",
+          "不幸"
+        ],
+        [
+          "徹底失敗",
+          "禍害"
+        ]
+      ],
+      "analysis": "此字源自義大利語 disastro，由 dis-（壞的、惡劣的）與 astro（星星、天體，源自拉丁語 astrum，意指星象不吉）複合而成，原意為「凶星高照」或「星象不祥帶來的災禍」。經由法語進入英語後，語義從占星學上的不幸逐漸演變為各種自然或人為的嚴重災害，也可引申指完全搞砸的失敗情況。",
+      "definition": "1. a sudden accident or a natural catastrophe that causes great damage or loss of life.; 2. a complete and utter failure, or a disastrous event.",
+      "example": [
+        {
+          "eng": "The earthquake was a terrible disaster that affected thousands of families.",
+          "ch": "這場地震是一場影響了數千個家庭的可怕災難。"
+        },
+        {
+          "eng": "Without careful planning, the project could end in complete disaster.",
+          "ch": "如果不小心規劃，這項計畫可能會以徹底失敗告終。"
+        }
+      ]
+    },
+    {
+      "eng": "discipline",
+      "kk": "ˈdɪsəplɪn",
+      "tense": "n.",
+      "ch": [
+        [
+          "紀律",
+          "風紀"
+        ],
+        [
+          "訓練",
+          "管教"
+        ],
+        [
+          "學科",
+          "專業領域"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 disciplina（意為教學、知識、學問或訓導），其根本詞源為 discipulus（學生，源自 discere「學習」）。在英語發展中，其語義由早期的「宗教或學術上的清規戒律與指導」擴展為「自我約束的訓練」、「團體中的規章制度」，以及近代大學學術分科的「學科」。在此提供名詞詞性。",
+      "definition": "1. the practice of training people to obey rules or a code of behavior, using punishment to correct disobedience.; 2. controlled behavior resulting from such training; self-control.; 3. a branch of knowledge or teaching, typically one studied in higher education.",
+      "example": [
+        {
+          "eng": "Maintaining military discipline is essential for the security of the camp.",
+          "ch": "維持軍隊紀律對於營地安全至關重要。"
+        },
+        {
+          "eng": "Learning a musical instrument requires daily practice and strict discipline.",
+          "ch": "學習樂器需要每日練習與嚴格的自我管教。"
+        },
+        {
+          "eng": "Physics and chemistry are two distinct branches of scientific discipline.",
+          "ch": "物理與化學是科學學科中兩個截然不同的分支。"
+        }
+      ]
+    },
+    {
+      "eng": "discipline",
+      "kk": "ˈdɪsəplɪn",
+      "tense": "vt.",
+      "ch": [
+        [
+          "訓練",
+          "管教"
+        ],
+        [
+          "懲戒",
+          "處分"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 disciplina（意為教學、知識、學問或訓導），其根本詞源為 discipulus（學生）。在現代英語中作為及物動詞，保留了透過規章與訓練來塑造行為的含義，亦衍生出因違規而予以懲戒、處分的用法。",
+      "definition": "1. to train someone to obey rules or a code of behavior, using strict control and sometimes punishment.; 2. to punish someone for bad behavior.",
+      "example": [
+        {
+          "eng": "Good parents know how to discipline their children without being overly harsh.",
+          "ch": "好父母懂得如何在不過度嚴苛的情況下管教孩子。"
+        },
+        {
+          "eng": "The company had to discipline the employee for violating safety regulations.",
+          "ch": "公司必須對違反安全規定的員工進行懲戒。"
+        }
+      ]
+    },
+    {
+      "eng": "discourage",
+      "kk": "dɪˈskɝːɪdʒ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使沮喪",
+          "使打消念頭"
+        ],
+        [
+          "阻撓",
+          "勸阻"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由否定字首 dis-（表示去除、相反）結合源自古法語 descoragier、拉丁語 cor（心、勇氣，衍生出 courage）的字根組合而成，字面義即為「使失去心志或勇氣」。在現代英語中為及物動詞，用於表示剝奪某人的信心或透過勸阻來阻止某事發生。",
+      "definition": "1. to cause someone to lose confidence or enthusiasm; to dishearten.; 2. to persuade someone not to do something, or to try to prevent an action.",
+      "example": [
+        {
+          "eng": "Don't let a single failure discourage you from trying again.",
+          "ch": "不要讓一次的失敗使你打消再次嘗試的念頭。"
+        },
+        {
+          "eng": "High taxes and strict regulations discourage new business investment.",
+          "ch": "高額稅收與嚴格法規會阻撓新的商業投資。"
+        }
+      ]
+    },
+    {
+      "eng": "discouragement",
+      "kk": "dɪˈskɝːɪdʒmənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "沮喪",
+          "灰心"
+        ],
+        [
+          "阻礙",
+          "令人氣餒的事物"
+        ]
+      ],
+      "analysis": "此字由動詞 discourage 結合名詞字尾 -ment（表示狀態、動作結果）構成。在現代英語中作為可數或不可數名詞，用來指因挫折而產生的氣餒情緒，或指造成這種情緒的外在阻力與打擊。",
+      "definition": "1. a feeling of despair or loss of confidence and enthusiasm.; 2. something that discourages or deters someone from doing something.",
+      "example": [
+        {
+          "eng": "Despite facing much discouragement, she continued to pursue her artistic dreams.",
+          "ch": "儘管面臨許多灰心與打擊，她仍繼續追求她的藝術夢想。"
+        },
+        {
+          "eng": "Constant criticism was a major discouragement to his creative work.",
+          "ch": "持續的批評對他的創作工作是一大阻礙。"
+        }
+      ]
+    },
+    {
+      "eng": "disguise",
+      "kk": "dɪsˈɡaɪz",
+      "tense": "n.",
+      "ch": [
+        [
+          "偽裝",
+          "化裝"
+        ],
+        [
+          "假面具",
+          "掩飾"
+        ]
+      ],
+      "analysis": "此字源自古法語 des-（表示反向、分離）與 ise（源自 Germanic 語支，意指指導、外表或樣貌，與 guise 同源），原意為改變外表、使難以辨認。在現代英語中作為名詞，既可指實體的化裝衣物或面具，也可指抽象的偽裝與掩飾。",
+      "definition": "1. something such as a costume or makeup worn to hide one's true identity.; 2. a manner or style of dress that conceals the true nature or character of something.",
+      "example": [
+        {
+          "eng": "The detective wore a clever disguise to follow the suspect without being noticed.",
+          "ch": "偵探穿著巧妙的偽裝來跟蹤嫌疑人而不被察覺。"
+        },
+        {
+          "eng": "His kindness was just a disguise for his selfish motives.",
+          "ch": "他的善良只不過是自私動機的掩飾。"
+        }
+      ]
+    },
+    {
+      "eng": "disguise",
+      "kk": "dɪsˈɡaɪz",
+      "tense": "vt.",
+      "ch": [
+        [
+          "偽裝",
+          "化裝"
+        ],
+        [
+          "掩飾",
+          "隱瞞"
+        ]
+      ],
+      "analysis": "此字源自古法語 desguisier，由 des-（反向）與 guise（外表、樣貌）結合而成。在現代英語中作為及物動詞，用來指改變外貌以隱瞞身份，或隱藏真實的情感、意圖。",
+      "definition": "1. to give a new appearance to a person or thing in order to hide their true identity.; 2. to conceal or hide a feeling, state, or truth.",
+      "example": [
+        {
+          "eng": "She tried to disguise her voice over the phone so no one would recognize her.",
+          "ch": "她試圖在電話中偽裝自己的聲音，以便沒有人能認出她。"
+        },
+        {
+          "eng": "He could not disguise his disappointment when he heard the news.",
+          "ch": "當他聽到這個消息時，他無法掩飾自己的失望。"
+        }
+      ]
+    },
+    {
+      "eng": "disgust",
+      "kk": "dɪsˈɡʌst",
+      "tense": "n.",
+      "ch": [
+        [
+          "厭惡",
+          "嫌惡"
+        ]
+      ],
+      "analysis": "此字源自義大利語 disgusto 或中古法語 disguston，由 dis-（表相反、不快）與 gustus（味覺、品味，源自拉丁語 gustare）結合而成，字面原意為「口味不合」或「倒胃口」。在英語中其語義從飲食上的難以下嚥擴大為對任何令人反感的事物或行為所產生的強烈厭惡感。在此提供名詞詞性。",
+      "definition": "1. a strong feeling of dislike, annoyance, or revulsion caused by something unpleasant or offensive.",
+      "example": [
+        {
+          "eng": "He looked at the dirty kitchen floor with an expression of disgust.",
+          "ch": "他帶著厭惡的表情看著髒亂的廚房地板。"
+        }
+      ]
+    },
+    {
+      "eng": "disgust",
+      "kk": "dɪsˈɡʌst",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使作嘔",
+          "使厭惡"
+        ]
+      ],
+      "analysis": "此字源自義大利語 disgusto 或中古法語，由 dis-（反向）與 gustus（味覺、品味）複合，原意為倒胃口。在現代英語中作為及物動詞，用來表達某人事物讓人感到強烈的反感、噁心或不悅。",
+      "definition": "1. to cause a strong feeling of dislike, revulsion, or nausea in someone.",
+      "example": [
+        {
+          "eng": "The terrible smell coming from the garbage can completely disgusted everyone.",
+          "ch": "垃圾桶散發出的惡臭讓每個人都感到作嘔。"
+        }
+      ]
+    },
+    {
+      "eng": "dismiss",
+      "kk": "dɪsˈmɪs",
+      "tense": "vt.",
+      "ch": [
+        [
+          "解散",
+          "遣散"
+        ],
+        [
+          "解雇",
+          "免職"
+        ],
+        [
+          "不予考慮",
+          "摒棄"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 dimittere，由 dis-（分離、向四面八方）與 mittere（送出、發派）複合而成，原意為「分開派遣」或「允許離開」。在英語發展中，其語義逐漸演變為下令解散集會、開除員工，或在心智上將某種想法、疑慮拋開、不予理會。",
+      "definition": "1. to order or allow someone to leave; to disperse a gathering.; 2. to officially remove someone from employment; to fire.; 3. to decide that something or someone is not important and not worth considering.",
+      "example": [
+        {
+          "eng": "The teacher dismissed the class early because of the fire drill.",
+          "ch": "老師因為消防演習而提早解散了全班。"
+        },
+        {
+          "eng": "The manager decided to dismiss the employee for chronic tardiness.",
+          "ch": "經理因該員工長期遲到而決定將其解雇。"
+        },
+        {
+          "eng": "She dismissed his proposal as being completely impractical.",
+          "ch": "她認為他的提案完全不切實際而未予考慮。"
+        }
+      ]
+    },
+    {
+      "eng": "disorder",
+      "kk": "dɪsˈɔːrdɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "混亂",
+          "無序"
+        ],
+        [
+          "失調",
+          "疾病"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由否定字首 dis-（表示不、相反）結合名詞 order（秩序）組成。在現代英語中作為可數或不可數名詞，既可指社會、房間或局勢的混亂狀態，也可在醫學與心理學中指身體器官或精神功能的機能失調與疾病。",
+      "definition": "1. a state of confusion, disorganization, or lack of order.; 2. an illness or medical condition that disrupts normal bodily or mental functions.",
+      "example": [
+        {
+          "eng": "The sudden riot threw the whole city into a state of severe disorder.",
+          "ch": "突如其來的暴動使整個城市陷入嚴重的混亂狀態。"
+        },
+        {
+          "eng": "She has been diagnosed with a rare sleep disorder.",
+          "ch": "她被診斷出患有罕見的睡眠失調症。"
+        }
+      ]
+    },
+    {
+      "eng": "dispute",
+      "kk": "dɪˈspjuːt",
+      "tense": "n.",
+      "ch": [
+        [
+          "爭端",
+          "紛爭"
+        ],
+        [
+          "爭論",
+          "辯論"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 disputare，由 dis-（分散、向各方）與 putare（計算、認為、澄清）複合而成，原意為「透過各自計算與討論來釐清觀點」，進而演變為爭論與爭辯。在此提供名詞詞性，用以指稱群體、國家或個人之間的衝突與爭議。",
+      "definition": "1. a disagreement, argument, or debate, especially one between two opposing parties or nations.; 2. a conflict or controversy over a particular matter.",
+      "example": [
+        {
+          "eng": "The two neighboring countries are still trying to resolve their border dispute.",
+          "ch": "這兩個鄰國仍在努力解決他們的邊界爭端。"
+        },
+        {
+          "eng": "A fierce dispute arose among committee members regarding the budget.",
+          "ch": "委員會成員之間就預算問題發生了激烈的爭論。"
+        }
+      ]
+    },
+    {
+      "eng": "dispute",
+      "kk": "dɪˈspjuːt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "對…提出異議",
+          "質疑"
+        ],
+        [
+          "爭奪",
+          "競相爭取"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 disputare（討論、爭辯）。在現代英語中作為及物動詞，可用於表示對某項事實、說法或權利提出質疑與反駁，亦可指雙方為了爭奪某個陣地或權力而交戰、競逐。",
+      "definition": "1. to question whether a statement or fact is true; to express doubt about something.; 2. to compete for something or try to win control of it.",
+      "example": [
+        {
+          "eng": "No one can dispute the fact that she is a brilliant scientist.",
+          "ch": "沒有人能質疑她是個傑出科學家的事實。"
+        },
+        {
+          "eng": "The two armies fought hard to dispute control of the strategic valley.",
+          "ch": "兩軍苦戰以爭奪對該戰略山谷的控制權。"
+        }
+      ]
+    },
+    {
+      "eng": "distinct",
+      "kk": "dɪˈstɪŋkt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "明顯的",
+          "清晰的"
+        ],
+        [
+          "截然不同的",
+          "獨特的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 distinctus（被分開的、清晰的），為動詞 distinguere 的過去分詞形，由 dis-（分開）與 stinguere（扎、刺、標明）複合而成。在英語發展中，其語義從「被標明區隔的」演變為感官上清楚可辨的，以及本質上各不相同的特徵。",
+      "definition": "1. recognizably different in nature from something else of a similar type.; 2. clearly perceptible to the senses, mind, or eye; definite.",
+      "example": [
+        {
+          "eng": "There is a distinct smell of gas in the kitchen; we should check the stove.",
+          "ch": "廚房裡有一股明顯的瓦斯味，我們應該檢查一下爐子。"
+        },
+        {
+          "eng": "The two dialects have distinct grammatical structures despite their common origin.",
+          "ch": "這兩種方言儘管同源，卻有截然不同的語法結構。"
+        }
+      ]
+    },
+    {
+      "eng": "distinguish",
+      "kk": "dɪˈstɪŋɡwɪʃ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "區分",
+          "辨別"
+        ],
+        [
+          "使具有特色",
+          "使出眾"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 distinguere，由 dis-（分開）與 stinguere（標明、劃分）複合而成，經由中古法語引入英語。在現代英語中為及物動詞，主要用於辨識人事物之間的差異，或指某種特質使人 or 事物在群體中脫穎而出。",
+      "definition": "1. to recognize or treat someone or something as different; to tell apart.; 2. to make someone or something stand out or appear different in a positive way.",
+      "example": [
+        {
+          "eng": "It is often difficult to distinguish the twins from one another.",
+          "ch": "通常很難把這對雙胞胎區分開來。"
+        },
+        {
+          "eng": "Her dedication to public service distinguishes her from other politicians.",
+          "ch": "她對公共服務的奉獻使她在其他政治家中脫穎而出。"
+        }
+      ]
+    },
+    {
+      "eng": "distinguished",
+      "kk": "dɪˈstɪŋɡwɪʃt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "傑出的",
+          "卓越的"
+        ],
+        [
+          "高貴的",
+          "顯赫的"
+        ]
+      ],
+      "analysis": "此字由動詞 distinguish 的過去分詞轉化而來的形容詞，字面原意為「被標明、受區隔的」。在現代英語中專門用來形容在某一領域表現卓越、享有盛譽、具備尊貴風範的人物或成就。",
+      "definition": "1. successful, authoritative, and commanding great respect; eminent.; 2. having a dignified manner or appearance that is characteristic of an elite status.",
+      "example": [
+        {
+          "eng": "A distinguished professor gave the keynote speech at the international conference.",
+          "ch": "一位傑出的教授在國際會議上發表了主題演講。"
+        },
+        {
+          "eng": "He looked very distinguished in his dark tailored suit.",
+          "ch": "他穿著深色合身西裝，看起來十分尊貴高雅。"
+        }
+      ]
+    },
+    {
+      "eng": "distribute",
+      "kk": "dɪˈstrɪbjuːt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "分發",
+          "分配"
+        ],
+        [
+          "散布",
+          "分銷"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 distributus，為 distribuere 的過去分詞，由 dis-（向各處、分散）與 tribuere（給予、賦予，源自 tribus「部落」）複合而成。在英語中保留了將整體資源、貨物或物品平均或依計畫發放給各個受領者的核心語義。",
+      "definition": "1. to give shares of something to a number of people; to hand out or allocate.; 2. to supply goods to retailers or customers; to scatter or spread over a surface.",
+      "example": [
+        {
+          "eng": "Volunteers helped distribute warm blankets to the earthquake victims.",
+          "ch": "志工們協助將保暖毛毯分發給地震災民。"
+        },
+        {
+          "eng": "The publishing company distributes books to thousands of bookstores nationwide.",
+          "ch": "這家出版公司將書籍分銷給全國數千家書店。"
+        }
+      ]
+    },
+    {
+      "eng": "distribution",
+      "kk": "ˌdɪstrəˈbjuːʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "分發",
+          "分配"
+        ],
+        [
+          "散布",
+          "分布狀態"
+        ],
+        [
+          "物流",
+          "銷售網"
+        ]
+      ],
+      "analysis": "此字由動詞 distribute 結合名詞字尾 -ion（表示動作或結果）構成。在現代英語中作為可數或不可數名詞，廣泛應用於物資的分發、地理或統計學上的群體分布，以及商業上的商品物流與銷售體系。",
+      "definition": "1. the action of sharing something out among a number of recipients.; 2. the way in which something is shared out or spread over a particular area or group.; 3. the commercial activity of transporting and delivering goods.",
+      "example": [
+        {
+          "eng": "The government is responsible for the fair distribution of food supplies.",
+          "ch": "政府負責公平分配糧食供應。"
+        },
+        {
+          "eng": "Scientists are studying the geographic distribution of rare bird species.",
+          "ch": "科學家正在研究稀有鳥類的地理分布情況。"
+        },
+        {
+          "eng": "A strong logistics network is vital for efficient product distribution.",
+          "ch": "強大的物流網路對於高效的商品分銷至關重要。"
+        }
+      ]
+    },
+    {
+      "eng": "district",
+      "kk": "ˈdɪstrɪkt",
+      "tense": "n.",
+      "ch": [
+        [
+          "區域",
+          "行政區",
+          "學區"
+        ]
+      ],
+      "analysis": "此字源自中世紀拉丁語 districtus（管轄區、司法區），源自 distringere（束縛、懲戒、管轄，由 dis- 與 stringere 複合）。在歷史演變中，其意義從「領主行使司法管轄的範圍」轉變為現代地理上劃分出來的各種行政區、商業區或學區。在此提供名詞詞性。",
+      "definition": "1. an area of a country or city, especially one regarded as a distinct unit or marked by a particular feature.",
+      "example": [
+        {
+          "eng": "Our office is located in the financial district of the city.",
+          "ch": "我們的辦公室位於該市的金融區。"
+        }
+      ]
+    },
+    {
+      "eng": "disturb",
+      "kk": "dɪˈstɝːb",
+      "tense": "vt.",
+      "ch": [
+        [
+          "打擾",
+          "妨礙"
+        ],
+        [
+          "使不安",
+          "使煩惱"
+        ],
+        [
+          "弄亂",
+          "擾亂"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 disturbare，由 dis-（向四面八方、破壞）與 turbare（攪動、使混亂，源自 turba「人群」）複合而成。在英語中保留了打破平靜狀態、干擾他人安寧、引起心理焦慮或破壞物品原貌的動作意義。",
+      "definition": "1. to interrupt someone in what they are doing; to cause a disturbance.; 2. to make someone anxious, worried, or upset.; 3. to interfere with the normal arrangement, order, or state of something.",
+      "example": [
+        {
+          "eng": "Please do not disturb me while I am studying for the final exam.",
+          "ch": "我準備期末考時請不要打擾我。"
+        },
+        {
+          "eng": "The graphic details of the news report disturbed many viewers.",
+          "ch": "新聞報導生動的細節使許多觀眾感到不安。"
+        },
+        {
+          "eng": "Be careful not to disturb the papers on my desk.",
+          "ch": "小心不要弄亂我桌上的文件。"
+        }
+      ]
+    },
+    {
+      "eng": "diverse",
+      "kk": "daɪˈvɝːs",
+      "tense": "adj.",
+      "ch": [
+        [
+          "多元的",
+          "多樣化的"
+        ],
+        [
+          "不同的",
+          "相異的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 diversus（轉向各處的、不同的），為 divertere 的過去分詞，由 di-（分離）與 vertere（轉動、轉向）複合而成。在英語發展中，其語義從「走不同方向的」演變為具備多種不同特質、種類繁多的多元狀態。",
+      "definition": "1. showing a great deal of variety; very different from each other.; 2. comprising multiple distinct elements or forms.",
+      "example": [
+        {
+          "eng": "The university attracts students from diverse cultural and economic backgrounds.",
+          "ch": "這所大學吸引了來自多元文化與經濟背景的學生。"
+        },
+        {
+          "eng": "The company offers a diverse range of software products.",
+          "ch": "該公司提供多樣化的軟體產品。"
+        }
+      ]
+    },
+    {
+      "eng": "diversity",
+      "kk": "daɪˈvɝːsəti",
+      "tense": "n.",
+      "ch": [
+        [
+          "多樣性",
+          "差異性"
+        ],
+        [
+          "多元化"
+        ]
+      ],
+      "analysis": "此字由形容詞 diverse 結合名詞字尾 -ity（表示性質或狀態）構成，源自拉丁語 diversitas。在現代英語中作為不可數或可數名詞，廣泛用於生態學（生物多樣性）以及社會學中，指文化、背景、觀點或物種的多樣與包容狀態。",
+      "definition": "1. the state or quality of being diverse; variety.; 2. the inclusion of people of different races, genders, and backgrounds in a group or organization.",
+      "example": [
+        {
+          "eng": "Protecting the biological diversity of the rainforest is crucial for the planet.",
+          "ch": "保護雨林的生物多樣性對地球至關重要。"
+        },
+        {
+          "eng": "The organization strongly promotes diversity and inclusion in the workplace.",
+          "ch": "該組織大力倡導職場的多元化與包容性。"
+        }
+      ]
+    },
+    {
+      "eng": "divine",
+      "kk": "dɪˈvaɪn",
+      "tense": "adj.",
+      "ch": [
+        [
+          "神聖的",
+          "天賜的"
+        ],
+        [
+          "極好的",
+          "美妙的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 divinus（屬於神的），衍生自 deus（神）。在英語發展中，其基本義為與神明有關或具有神聖屬性，並在日常口語中引申用來形容人事物極其完美、美妙或令人愉悅。在此提供形容詞詞性。",
+      "definition": "1. of, from, or like God or a god; sacred.; 2. excellent, delightful, or extremely pleasant in an informal sense.",
+      "example": [
+        {
+          "eng": "Ancient civilizations built grand temples to honor their divine rulers.",
+          "ch": "古代文明建造宏偉的廟宇來尊崇他們的神聖統治者。"
+        },
+        {
+          "eng": "We had a divine vacation relaxing on the tropical beach.",
+          "ch": "我們在熱帶海灘放鬆，度過了一個美妙的假期。"
+        }
+      ]
+    },
+    {
+      "eng": "divorce",
+      "kk": "dɪˈvɔːrs",
+      "tense": "n.",
+      "ch": [
+        [
+          "離婚",
+          "離異"
+        ],
+        [
+          "脫離",
+          "分離"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 divortium，由 divertere（分開、轉向不同方向，由 di- 與 vertere 複合）派生而來。在英語發展中，其字面原意即為道路的分岔或婚姻關係的合法解除，亦可抽象引申為概念或機構之間的徹底分離。在此提供名詞詞性。",
+      "definition": "1. the legal dissolution of a marriage by a court or other competent body.; 2. the complete separation of two things that were previously connected.",
+      "example": [
+        {
+          "eng": "Their marriage ended in divorce after ten years of constant conflict.",
+          "ch": "他們的婚姻在經歷了十年的不斷衝突後以離婚告終。"
+        },
+        {
+          "eng": "There is a dangerous divorce between economic theory and political reality.",
+          "ch": "經濟學理論與政治現實之間存在著危險的脫節。"
+        }
+      ]
+    },
+    {
+      "eng": "divorce",
+      "kk": "dɪˈvɔːrs",
+      "tense": "vt.",
+      "ch": [
+        [
+          "與…離婚",
+          "解除婚姻"
+        ],
+        [
+          "使脫離",
+          "使分離"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 divortium（分開、離婚）。在現代英語中作為及物動詞，既指法律上正式解除婚姻關係，也指將兩個本來相連的概念、實體或人為割裂開來。",
+      "definition": "1. to legally end one's marriage to someone.; 2. to separate or disengage one thing completely from another.",
+      "example": [
+        {
+          "eng": "After years of living apart, they finally decided to divorce.",
+          "ch": "分居多年後，他們最終決定離婚。"
+        },
+        {
+          "eng": "A leader should never divorce themselves from the daily struggles of ordinary people.",
+          "ch": "領導者絕不應將自己與普通百姓的日常掙扎隔離開來。"
+        },
+        {
+          "eng": "She decided to divorce her husband.",
+          "ch": "她決定和丈夫離婚。"
+        }
+      ]
+    },
+    {
+      "eng": "dodge",
+      "kk": "dɑːdʒ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "閃開",
+          "躲避"
+        ],
+        [
+          "逃避",
+          "迴避"
+        ]
+      ],
+      "analysis": "此字演變自早期英語方言，作為及物動詞時，既可指物理上敏捷地躲過飛來的物體，也可引申指狡猾地規避責任、問題或追問。",
+      "definition": "1. to avoid something unpleasant or dangerous by a sudden quick movement.; 2. to cleverly evade a duty, question, or responsibility.",
+      "example": [
+        {
+          "eng": "She managed to dodge the puddle of muddy water on the sidewalk.",
+          "ch": "她設法避開了人行道上的泥水坑。"
+        },
+        {
+          "eng": "The politician tried to dodge difficult questions from the reporters.",
+          "ch": "這位政治家試圖迴避記者們提出的難題。"
+        }
+      ]
+    },
+    {
+      "eng": "dodge",
+      "kk": "dɑːdʒ",
+      "tense": "vi.",
+      "ch": [
+        [
+          "閃避",
+          "閃開"
+        ]
+      ],
+      "analysis": "此字為日耳曼語源相關的英國方言動詞演變而來，最早見於早期近代英語，原意與晃動、快速轉移或拐彎抹角有關。在現代英語中作為不及物動詞，指透過迅速側身或移動來躲開迎面而來的物體或危險。",
+      "definition": "1. to move quickly to one side in order to avoid someone or something.",
+      "example": [
+        {
+          "eng": "He had to dodge quickly as the baseball flew past his head.",
+          "ch": "當棒球從他的頭頂飛過時，他不得不快速閃避。"
+        }
+      ]
+    },
+    {
+      "eng": "dominant",
+      "kk": "ˈdɑːmənənt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "占優勢的",
+          "主導的"
+        ],
+        [
+          "顯性的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 dominans，為 dominari（統治、主宰，源自 dominus「主人」）的現在分詞。在英語中作為形容詞，用來形容在權力、數量、影響力或遺傳學上佔據支配地位、超越其他事物的特質。",
+      "definition": "1. more important, powerful, or successful than most others; controlling.; 2. genetic: referring to a trait that appears in the offspring if one of the parents contributes it.",
+      "example": [
+        {
+          "eng": "The tech company plays a dominant role in the global smartphone market.",
+          "ch": "該科技公司在全球智慧型手機市場中扮演主導角色。"
+        },
+        {
+          "eng": "Brown eyes are a dominant genetic trait compared to blue eyes.",
+          "ch": "與藍眼睛相比，棕色眼睛是顯性遺傳特徵。"
+        }
+      ]
+    },
+    {
+      "eng": "dominate",
+      "kk": "ˈdɑːmɪneɪt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "支配",
+          "主宰"
+        ],
+        [
+          "在…中占首要地位",
+          "俯視"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 dominatus，為 dominari（統治、控制，源自 dominus「主人」）的過去分詞。在現代英語中作為及物動詞，用來指在軍事、政治、體育或空間高度上佔據絕對優勢、控制全局或高居其上。",
+      "definition": "1. to have control over or influence on someone or something; to rule.; 2. to be the most noticeable or important feature; to tower over.",
+      "example": [
+        {
+          "eng": "The home team managed to dominate the game from the very first minute.",
+          "ch": "主隊從第一分鐘起就設法主宰了整場比賽。"
+        },
+        {
+          "eng": "A huge modern skyscraper dominates the traditional city skyline.",
+          "ch": "一座巨大的現代摩天大樓俯視著傳統的城市天際線。"
+        }
+      ]
+    },
+    {
+      "eng": "draft",
+      "kk": "dræft",
+      "tense": "n.",
+      "ch": [
+        [
+          "草稿",
+          "草案"
+        ],
+        [
+          "氣流",
+          "通風"
+        ],
+        [
+          "徵兵",
+          "入伍服役"
+        ],
+        [
+          "匯票"
+        ]
+      ],
+      "analysis": "此字源自日耳曼語源的古英語拖拉動詞 dragan（拖曳、拉）的變體，與 draw 同源。其歷史語義演變路徑為：拉動、拖網 → 拉出的一箱貨物或一口氣喝下的量 → 畫圖或書寫時拉出的筆畫（草稿） → 隨風流動的空氣（氣流） → 國家將公民拉入軍隊（徵兵）。在此提供名詞詞性。",
+      "definition": "1. a preliminary version of a piece of writing or a plan.; 2. a current of cool air in a room or enclosed space.; 3. the selection of individuals for compulsory military service; conscription.; 4. a written order for payment of money by a bank; a bank draft.",
+      "example": [
+        {
+          "eng": "She spent the weekend revising the first draft of her thesis.",
+          "ch": "她週末都在修改她論文的第一版草稿。"
+        },
+        {
+          "eng": "Close the window, please; there is a cold draft coming in.",
+          "ch": "請把窗戶關上，有陣冷風吹進來。"
+        },
+        {
+          "eng": "During wartime, many young men were called up through the national draft.",
+          "ch": "戰爭期間，許多青年透過全國徵兵制被徵召入伍。"
+        },
+        {
+          "eng": "He paid for the expensive equipment using a bank draft.",
+          "ch": "他用銀行匯票支付了這筆昂貴設備的費用。"
+        }
+      ]
+    },
+    {
+      "eng": "draft",
+      "kk": "dræft",
+      "tense": "vt.",
+      "ch": [
+        [
+          "起草",
+          "草擬"
+        ],
+        [
+          "徵召…入伍",
+          "選拔"
+        ]
+      ],
+      "analysis": "此字與名詞 draft 同源，源自日耳曼語源的 dragan（拖、拉）。在現代英語中作為及物動詞，主要用於書面文件的起草製作，以及軍事徵兵或體育聯盟（如 NBA、NFL）中對新秀球員的選拔。",
+      "definition": "1. to write a preliminary version of a document or speech.; 2. to select someone for compulsory military service, or to choose a player for a professional sports team.",
+      "example": [
+        {
+          "eng": "The lawyer helped the client draft a legally binding contract.",
+          "ch": "律師協助客戶起草了一份具法律約束力的合約。"
+        },
+        {
+          "eng": "The professional basketball team drafted the talented college player in the first round.",
+          "ch": "這支職業籃球隊在第一輪選秀中挑選了這位有天賦的大學球員。"
+        }
+      ]
+    },
+    {
+      "eng": "draft",
+      "kk": "dræft",
+      "tense": "vi.",
+      "ch": [
+        [
+          "尾隨滑行",
+          "抗風行進"
+        ]
+      ],
+      "analysis": "此字與名詞及及物動詞 draft 同源，源自日耳曼語源的 dragan（拖、拉）。在現代運動或賽車語境中作為不及物動詞，指運動員或車輛緊隨在前方同伴或對手後面，藉由減少空氣阻力來節省體力或燃料。",
+      "definition": "1. to ride or drive closely behind another vehicle or competitor to reduce wind resistance.",
+      "example": [
+        {
+          "eng": "The cyclist managed to draft behind the leading group to conserve energy for the sprint.",
+          "ch": "這位自行車手設法緊隨領先集團後方滑行，以為最後衝刺保留體力。"
+        }
+      ]
+    },
+    {
+      "eng": "dread",
+      "kk": "drɛd",
+      "tense": "n.",
+      "ch": [
+        [
+          "恐懼",
+          "畏懼"
+        ]
+      ],
+      "analysis": "此字源自古英語 drǣdan（害怕、恐懼），屬於日耳曼語源詞彙。在現代英語中作為名詞，用來指對即將發生之壞事或未知威脅所產生的強烈不安與恐慌感。",
+      "definition": "1. great fear, apprehension, or terror regarding something future or impending.",
+      "example": [
+        {
+          "eng": "She felt a sense of deep dread before opening her exam results.",
+          "ch": "在打開考試成績之前，她感到一種深深的恐懼。"
+        }
+      ]
+    },
+    {
+      "eng": "dread",
+      "kk": "drɛd",
+      "tense": "vt.",
+      "ch": [
+        [
+          "懼怕",
+          "感到恐懼"
+        ]
+      ],
+      "analysis": "此字源自古英語 drǣdan。在現代英語中作為及物動詞，用來表達對即將到來的任務、挑戰或可怕事件感到極度不願意面對與害怕。",
+      "definition": "1. to anticipate with great apprehension or fear.",
+      "example": [
+        {
+          "eng": "I completely dread going to the dentist for a root canal.",
+          "ch": "我極度害怕去看牙醫做根管治療。"
+        }
+      ]
+    },
+    {
+      "eng": "drift",
+      "kk": "drɪft",
+      "tense": "n.",
+      "ch": [
+        [
+          "漂流",
+          "漂移"
+        ],
+        [
+          "趨勢",
+          "大意"
+        ],
+        [
+          "堆積物（如雪堆）"
+        ]
+      ],
+      "analysis": "此字源自日耳曼語源。在現代英語中作為名詞，既可指浮木或冰雪的漂流堆積，也可指談話或文章的總體大意、發展趨勢（如 catch my drift 中的 drift）。",
+      "definition": "1. the continuous slow movement of something from one place to another.; 2. the general meaning or intention of an argument or speech; tendency.; 3. a large pile of snow, sand, or leaves formed by the wind.",
+      "example": [
+        {
+          "eng": "Ocean currents study the drift of plastic waste across the Pacific.",
+          "ch": "洋流研究學者研究太平洋上塑膠廢棄物的漂移現象。"
+        },
+        {
+          "eng": "I didn't catch every word, but I got the drift of what he was saying.",
+          "ch": "我沒有聽清每一個字，但我懂他想表達的大意。"
+        },
+        {
+          "eng": "Strong winds created deep snowdrifts that blocked the country roads.",
+          "ch": "強風形成了深深的雪堆，封鎖了鄉間道路。"
+        }
+      ]
+    },
+    {
+      "eng": "drift",
+      "kk": "drɪft",
+      "tense": "vi.",
+      "ch": [
+        [
+          "漂流",
+          "漂移"
+        ],
+        [
+          "漫無目的游蕩",
+          "不知不覺陷入"
+        ]
+      ],
+      "analysis": "此字源自日耳曼語源的古英語 drīfan（驅使、驅趕）衍生出的名詞與動詞族群，與 drive 相關。其核心語義為「受風、水流或外力推動而緩慢移動」，在現代英語中作為不及物動詞，既可指實體在水面上漂流，也可指人的人生方向或思緒漫無目的地飄忽。",
+      "definition": "1. to be carried slowly by a current of air or water.; 2. to move or walk aimlessly; to pass gradually into a certain state or situation.",
+      "example": [
+        {
+          "eng": "The small wooden boat began to drift further out to sea.",
+          "ch": "這艘小木船開始向大海深處漂流去。"
+        },
+        {
+          "eng": "Without clear career goals, he just drifted through his early twenties.",
+          "ch": "沒有明確的職涯目標，他只是茫然度過了二十出頭的歲月。"
+        }
+      ]
+    },
+    {
+      "eng": "drill",
+      "kk": "drɪl",
+      "tense": "n.",
+      "ch": [
+        [
+          "鑽頭",
+          "鑽孔機"
+        ],
+        [
+          "反覆訓練",
+          "演習"
+        ]
+      ],
+      "analysis": "此字源自日耳曼語源（荷蘭語 drille 或低地德語 drillen，意指轉動、鑽孔）。其歷史演變為：用轉動工具打洞的器具（鑽頭） → 為了使動作熟練而像鑽孔一樣重複旋轉的動作（軍事訓練、日常演習）。在此提供名詞詞性。",
+      "definition": "1. a tool or machine with a sharp rotating point used for making holes in hard materials.; 2. a systematic military or physical training exercise involving repetition.",
+      "example": [
+        {
+          "eng": "The carpenter used an electric drill to make holes in the wooden beam.",
+          "ch": "木匠使用電動鑽頭在木樑上鑽孔。"
+        },
+        {
+          "eng": "The school holds a fire drill every semester to ensure student safety.",
+          "ch": "學校每學期舉行一次消防演習以確保學生安全。"
+        }
+      ]
+    },
+    {
+      "eng": "drill",
+      "kk": "drɪl",
+      "tense": "vt.",
+      "ch": [
+        [
+          "鑽孔",
+          "打眼"
+        ],
+        [
+          "反覆訓練",
+          "嚴格訓練"
+        ]
+      ],
+      "analysis": "此字源自日耳曼語源。在現代英語中作為及物動詞，既指用鑽頭在硬物上打洞，也指透過機械式的重複練習來將知識或技能灌輸給學生或運動員。",
+      "definition": "1. to make a hole in something using a drill.; 2. to train someone in a skill or subject by persistent exercise and repetition.",
+      "example": [
+        {
+          "eng": "Workers had to drill through solid rock to lay the pipeline.",
+          "ch": "工人們必須鑽過堅硬的岩石來鋪設管線。"
+        },
+        {
+          "eng": "The coach drilled the players on defensive positioning for hours.",
+          "ch": "教練對球員進行了數小時的防守站位嚴格訓練。"
+        }
+      ]
+    },
+    {
+      "eng": "drowsy",
+      "kk": "ˈdraʊzi",
+      "tense": "adj.",
+      "ch": [
+        [
+          "昏昏欲睡的",
+          "睏倦的"
+        ]
+      ],
+      "analysis": "此字源自中世紀英語 drousie，可能與日耳曼語源的古英語 drūian（枯萎、下垂）或與 drop、doze 等詞的根源相關。在現代英語中作為形容詞，用來形容因疲勞或藥物作用而感到精神委靡、眼皮沉重、想睡覺的狀態。",
+      "definition": "1. half-asleep; tired and ready to fall asleep.",
+      "example": [
+        {
+          "eng": "The warm afternoon sun made her feel very drowsy while reading.",
+          "ch": "溫暖的午後陽光讓她在閱讀時感到非常昏昏欲睡。"
+        }
+      ]
+    },
+    {
+      "eng": "durable",
+      "kk": "ˈdʊrəbəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "耐用的",
+          "持久的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 durabilis，由 durare（持續、持久，源自 durus「堅硬的、持久的」）結合形容詞字尾 -bilis（可…的）構成，經由中古法語進入英語。在現代英語中作為形容詞，專門用來形容物品耐磨損、經久耐用，或狀態能長期維持。",
+      "definition": "1. able to withstand wear, pressure, or damage; hard-wearing and long-lasting.",
+      "example": [
+        {
+          "eng": "Hiking boots need to be made of durable materials to handle rough terrain.",
+          "ch": "登山靴需要由耐用材料製成，以應付崎嶇的地形。"
+        }
+      ]
+    },
+    {
+      "eng": "dusty",
+      "kk": "ˈdʌsti",
+      "tense": "adj.",
+      "ch": [
+        [
+          "滿是灰塵的",
+          "積塵的"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由名詞 dust（灰塵，源自日耳曼語源的古英語 dūst）結合形容詞字尾 -y（充滿…的）構成。在現代英語中作為形容詞，用來形容表面覆蓋著灰塵或乾燥塵土的狀態。",
+      "definition": "1. covered with or full of dust.",
+      "example": [
+        {
+          "eng": "He found an old photograph hidden inside a dusty book on the shelf.",
+          "ch": "他在架上一本積塵的書裡發現了一張舊照片。"
+        }
+      ]
+    },
+    {
+      "eng": "dye",
+      "kk": "daɪ",
+      "tense": "n.",
+      "ch": [
+        [
+          "染料",
+          "色素"
+        ]
+      ],
+      "analysis": "此字源自古英語 dēag（顏色、染料），屬於日耳曼語源。在現代英語中作為名詞，指用於對織物、頭髮或其他材料進行上色的液體或粉末物質。",
+      "definition": "1. a natural or synthetic substance used to add color to or change the color of fabrics, hair, or other materials.",
+      "example": [
+        {
+          "eng": "Natural indigo dye has been used for centuries to color blue jeans.",
+          "ch": "天然靛藍染料已被使用了數個世紀來給藍色牛仔褲染色。"
+        }
+      ]
+    },
+    {
+      "eng": "dye",
+      "kk": "daɪ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "染色",
+          "給…上色"
+        ]
+      ],
+      "analysis": "此字源自古英語動詞 dēagian（上色、染色）。在現代英語中作為及物動詞，指透過染料將衣物、頭髮或其他物品的顏色改變。",
+      "definition": "1. to add color to fabric, hair, or other materials by soaking them in a dye.",
+      "example": [
+        {
+          "eng": "She decided to dye her hair bright red for the costume party.",
+          "ch": "她決定為了化裝舞會把頭髮染成鮮紅色。"
+        }
+      ]
+    },
+    {
+      "eng": "dynamic",
+      "kk": "daɪˈnæmɪk",
+      "tense": "adj.",
+      "ch": [
+        [
+          "動態的",
+          "不斷變化的"
+        ],
+        [
+          "充滿活力的",
+          "精力充沛的"
+        ]
+      ],
+      "analysis": "此字源自希臘語 dynamikos（有力的），源自 dynamis（力量，源自 dynasthai「能夠、有能力」），經由現代科學拉丁語引入英語（最初與物理學的「動力學」有關）。在現代英語中作為形容詞，其語義由物理學的力量引申為系統的不斷發展與變化，以及形容人充滿活力與企圖心。",
+      "definition": "1. characterized by constant change, activity, or progress.; 2. of or relating to force or energy; energetic and forceful in personality.",
+      "example": [
+        {
+          "eng": "The software industry operates in a highly dynamic and competitive environment.",
+          "ch": "軟體產業在一個高度動態且競爭激烈的環境中運作。"
+        },
+        {
+          "eng": "She is a dynamic leader who successfully motivates her team to excel.",
+          "ch": "她是一位充滿活力的領導者，成功地激勵她的團隊精益求精。"
+        }
+      ]
+    },
+    {
+      "eng": "dynasty",
+      "kk": "ˈdaɪnəsti",
+      "tense": "n.",
+      "ch": [
+        [
+          "朝代",
+          "王朝"
+        ],
+        [
+          "家族世家",
+          "豪門"
+        ]
+      ],
+      "analysis": "此字源自希臘語 dynasteia（權力、統治、主權），源自 dynastes（統治者），衍生自 dynamis（力量）。經由中世紀拉丁語與法語進入英語後，專指由同一家族世襲統治數代的王室朝代，亦可引申指在商業、體育或政治領域長期稱霸的顯赫家族。",
+      "definition": "1. a succession of rulers belonging to the same family.; 2. a powerful family or group that maintains power for a long time in a particular field.",
+      "example": [
+        {
+          "eng": "The Tang Dynasty is often regarded as a golden age of Chinese art and poetry.",
+          "ch": "唐朝通常被視為中國藝術與詩歌的黃金時代。"
+        },
+        {
+          "eng": "The sports franchise built a basketball dynasty that won five championships in a decade.",
+          "ch": "這支體育球團建立了一個在十年內贏得五次冠軍的籃球豪門王朝。"
+        }
+      ]
+    },
+    {
+      "eng": "earnest",
+      "kk": "ˈɝːnɪst",
+      "tense": "adj.",
+      "ch": [
+        [
+          "認真的",
+          "誠摯的"
+        ]
+      ],
+      "analysis": "此字源自古英語 eornost（嚴肅的、熱心的、堅決的），屬於日耳曼語源。在現代英語中作為形容詞，用來形容一個人態度嚴肅認真、誠心誠意、毫無虛偽。",
+      "definition": "1. resulting from or showing sincere and intense conviction; serious and honest.",
+      "example": [
+        {
+          "eng": "He made an earnest appeal to the committee to reconsider the proposal.",
+          "ch": "他向委員會提出誠摯的呼籲，希望重新考慮該提案。"
+        }
+      ]
+    },
+    {
+      "eng": "earphone",
+      "kk": "ˈɪrfoʊn",
+      "tense": "n.",
+      "ch": [
+        [
+          "耳機",
+          "聽筒"
+        ]
+      ],
+      "analysis": "此字為現代透明複合詞，由名詞 ear（耳朵，源自古英語 ēare）與 phone（聲音、電話接收器，源自希臘語 phōnē）結合而成。在現代英語中作為可數名詞，指塞入或罩在耳朵上用來聆聽音訊的裝置。",
+      "definition": "1. a device worn in or over the ear to listen to audio from a radio, phone, or music player.",
+      "example": [
+        {
+          "eng": "She plugged her earphones into her smartphone to listen to podcasts on the train.",
+          "ch": "她把耳機插在智慧型手機上，以便在火車上聽Podcast。"
+        }
+      ]
+    },
+    {
+      "eng": "economic",
+      "kk": "ˌiːkəˈnɑːmɪk",
+      "tense": "adj.",
+      "ch": [
+        [
+          "經濟（學）的",
+          "經濟上的"
+        ]
+      ],
+      "analysis": "此字源自希臘語 oikonomikos（關於家政或管理的），源自 oikonomia（管理家政、經濟，由 oikos「房屋」與 nemein「管理」複合）。經由拉丁語與法語演變後，在近代英語中主要用來形容與一國的生產、貿易、財政、消費等經濟活動相關的事物。",
+      "definition": "1. relating to the economics or economy of a country, region, or society; financial.",
+      "example": [
+        {
+          "eng": "The government introduced new fiscal policies to stimulate economic growth.",
+          "ch": "政府推出了新的財政政策來刺激經濟成長。"
+        }
+      ]
+    },
+    {
+      "eng": "economical",
+      "kk": "ˌiːkəˈnɑːmɪkəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "節約的",
+          "經濟實惠的"
+        ]
+      ],
+      "analysis": "此字由 economic 結合形容詞字尾 -al 構成。在英語發展中，其語義專門指向「不浪費金錢、時間或資源的」，即省錢、物美價廉或高效率的。",
+      "definition": "1. giving good value in relation to the money, time, or effort expended; efficient and not wasteful.",
+      "example": [
+        {
+          "eng": "Buying energy-efficient appliances is a more economical choice in the long run.",
+          "ch": "就長遠來看，購買節能家電是一個更經濟實惠的選擇。"
+        }
+      ]
+    },
+    {
+      "eng": "economics",
+      "kk": "ˌiːkəˈnɑːmɪks",
+      "tense": "n.",
+      "ch": [
+        [
+          "經濟學",
+          "經濟狀況"
+        ]
+      ],
+      "analysis": "此字由形容詞 economic 加上學科名字尾 -ics 構成。在現代英語中作為單數形不可數名詞，指研究商品與服務的生產、分配與消費的學術學科，亦可指某個系統或計畫背後的經濟利益與成本考量。",
+      "definition": "1. the branch of knowledge concerned with the production, consumption, and transfer of wealth.; 2. the financial state or considerations of something.",
+      "example": [
+        {
+          "eng": "She is majoring in economics at the state university.",
+          "ch": "她在那所州立大學主修經濟學。"
+        },
+        {
+          "eng": "The project was canceled because the economics simply did not make sense.",
+          "ch": "該計畫被取消了，因為其經濟效益根本不合乎邏輯。"
+        }
+      ]
+    },
+    {
+      "eng": "economist",
+      "kk": "ɪˈkɑːnəmɪst",
+      "tense": "n.",
+      "ch": [
+        [
+          "經濟學家"
+        ]
+      ],
+      "analysis": "此字由 economy 結合表示人的名詞字尾 -ist 構成。在現代英語中作為可數名詞，指專門研究、分析經濟趨勢與政策的專家或學者。",
+      "definition": "1. an expert in economics who studies, develops, and applies theories about economic policies and trends.",
+      "example": [
+        {
+          "eng": "Leading economists predict a moderate recovery in the housing market next year.",
+          "ch": "頂尖經濟學家預測明年房市將會溫和復甦。"
+        }
+      ]
+    },
+    {
+      "eng": "economy",
+      "kk": "ɪˈkɑːnəmi",
+      "tense": "n.",
+      "ch": [
+        [
+          "經濟",
+          "經濟體系"
+        ],
+        [
+          "節約",
+          "節省"
+        ]
+      ],
+      "analysis": "此字源自希臘語 oikonomia（管理家政、理財，由 oikos「家」與 nemein「管理」複合）。其歷史演變為：管理一個家庭的財務 → 管理國家的財政與生產活動（經濟體系） → 在使用資源或金錢時的精打細算與節約。",
+      "definition": "1. the wealth and resources of a country or region, especially in terms of the production and consumption of goods and services.; 2. the careful use of resources so as to avoid unnecessary expenditure; thrift.",
+      "example": [
+        {
+          "eng": "The national economy has shown steady growth over the past three quarters.",
+          "ch": "國民經濟在過去三個季度中展現出穩健的成長。"
+        },
+        {
+          "eng": "Practicing energy economy in offices can significantly reduce monthly utility bills.",
+          "ch": "在辦公室實行節約能源可以顯著降低每月的公用事業帳單。"
+        }
+      ]
+    },
+    {
+      "eng": "efficiency",
+      "kk": "ɪˈfɪʃənsi",
+      "tense": "n.",
+      "ch": [
+        [
+          "效率",
+          "效能"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 efficientia，由 efficere（完成、導致，由 ex- 與 facere「做」複合）派生而來的形容詞 efficiens 演變而來。在現代英語中作為名詞，指用最少的浪費、時間與精力來達成最佳成果的能力與效能。",
+      "definition": "1. the state or quality of being efficient, especially the capability of producing desired results with little or no waste of time, effort, or energy.",
+      "example": [
+        {
+          "eng": "The new automated assembly line greatly improved factory production efficiency.",
+          "ch": "新的自動化裝配線大大提高了工廠的生產效率。"
+        }
+      ]
+    },
+    {
+      "eng": "elastic",
+      "kk": "ɪˈlæstɪk",
+      "tense": "adj.",
+      "ch": [
+        [
+          "有彈性的",
+          "可伸縮的"
+        ],
+        [
+          "靈活的",
+          "可變通的"
+        ]
+      ],
+      "analysis": "此字源自希臘語 elastikos（具推動力的、有彈力的），源自 elaunein（驅使、推動）。經由中古法語與近代科學拉丁語進入英語後，最初用於物理學指物體受力變形後能恢復原狀的性質，隨後引申用來形容規定、時間或計畫具有高度彈性與靈活性。",
+      "definition": "1. able to stretch or be stretched and then resume its original shape.; 2. adaptable or flexible, capable of being changed or adjusted.",
+      "example": [
+        {
+          "eng": "The waistband of these running shorts is made of comfortable elastic fabric.",
+          "ch": "這款跑步短褲的褲頭是由舒適的有彈性布料製成。"
+        },
+        {
+          "eng": "Our travel itinerary remains quite elastic, so we can change plans if needed.",
+          "ch": "我們的旅遊行程相當有彈性，如果需要的話可以隨時更改計畫。"
+        }
+      ]
+    },
+    {
+      "eng": "electronics",
+      "kk": "ɪˌlɛkˈtrɑːnɪks",
+      "tense": "n.",
+      "ch": [
+        [
+          "電子學",
+          "電子設備"
+        ]
+      ],
+      "analysis": "此字由 electron（電子，源自希臘語 ēlektron「琥珀」，因摩擦生電而得名）結合學科名字尾 -ics 構成。在現代英語中作為單數形不可數名詞，指研究電子運動及其應用的科學技術，亦可泛指各類電子產品與設備。",
+      "definition": "1. the branch of physics and technology concerned with the design and application of circuits powered by electrons.; 2. electronic devices and equipment collectively.",
+      "example": [
+        {
+          "eng": "He studied advanced electronics engineering at the technological institute.",
+          "ch": "他在該工業學院修讀先進的電子工程學。"
+        },
+        {
+          "eng": "The store specializes in selling consumer electronics such as cameras and laptops.",
+          "ch": "這家商店專門販售相機和筆記型電腦等消費性電子設備。"
+        }
+      ]
+    },
+    {
+      "eng": "elegant",
+      "kk": "ˈɛlɪɡənt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "優雅的",
+          "高雅的"
+        ],
+        [
+          "簡潔精妙的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 elegans（精緻的、有品味的），源自 eligere（挑選、精選，由 ex- 與 legere 複合）。在英語發展中，其語義從「透過精挑細選展現出的良好品味與外在儀態」，延伸至形容科學理論或解法極為簡潔流暢而精妙。",
+      "definition": "1. pleasingly graceful and stylish in appearance or manner.; 2. cleverly simple and effective, typically used to describe a scientific solution or mathematical proof.",
+      "example": [
+        {
+          "eng": "She wore an elegant silk evening gown to the charity gala.",
+          "ch": "她穿著一襲優雅的絲質晚禮服出席慈善晚會。"
+        },
+        {
+          "eng": "The mathematician presented an elegant solution to the complex equation.",
+          "ch": "這位數學家對這個複雜的方程式提出了一個簡潔精妙的解法。"
+        }
+      ]
+    },
+    {
+      "eng": "elementary",
+      "kk": "ˌɛlɪˈmɛntəri",
+      "tense": "adj.",
+      "ch": [
+        [
+          "基本的",
+          "初級的"
+        ],
+        [
+          "簡單的",
+          "顯而易見的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 elementarius（屬於元素的或基礎的），源自 elementum（元素、基本成分）。在現代英語中作為形容詞，用來形容處於學習階段最基礎的內容，或像基本定理那樣單純而顯而易見的事物。",
+      "definition": "1. relating to the basic elements of a subject; straightforward and uncomplicated.; 2. fundamental and essential.",
+      "example": [
+        {
+          "eng": "Children acquire basic reading and writing skills during their elementary school years.",
+          "ch": "兒童在國小求學期間習得基本的讀寫能力。"
+        },
+        {
+          "eng": "Solving that riddle was an elementary task for an experienced detective.",
+          "ch": "對經驗豐富的偵探來說，解開那個謎題是一件再簡單不過的基本任務。"
+        }
+      ]
+    },
+    {
+      "eng": "eliminate",
+      "kk": "ɪˈlɪmɪneɪt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "排除",
+          "消除"
+        ],
+        [
+          "淘汰",
+          "剔除"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 eliminatus，為 eliminare 的過去分詞，由 e-/ex-（出、向外）與 limen（門檻、界線）複合而成，字面原意為「把…推出門檻」或「趕出門外」。在現代英語中作為及物動詞，指徹底根除問題、消除不需要的因素，或在競賽中將對手淘汰出局。",
+      "definition": "1. to completely get rid of something that is not wanted or needed; to remove.; 2. to defeat a team or competitor, removing them from a competition.",
+      "example": [
+        {
+          "eng": "Regular exercise and a balanced diet help eliminate toxins from the body.",
+          "ch": "規律運動與均衡飲食有助於排除體內的毒素。"
+        },
+        {
+          "eng": "The underdog team managed to eliminate the reigning champions in the semi-finals.",
+          "ch": "這支黑馬球隊在準決賽中設法淘汰了衛冕冠軍。"
+        }
+      ]
+    },
+    {
+      "eng": "elsewhere",
+      "kk": "ˌɛlsˈwɛr",
+      "tense": "adv.",
+      "ch": [
+        [
+          "在別處",
+          "往別處"
+        ]
+      ],
+      "analysis": "此字為歷史上透明複合詞，由古英語 elles（其他的、否則）與 hwǣr（在何處）結合而成。在現代英語中作為副詞，用來表示在其他地方或移動到其他地點。",
+      "definition": "1. in, at, or to another place or other places.",
+      "example": [
+        {
+          "eng": "If the hotel is fully booked for the weekend, we will have to look for accommodation elsewhere.",
+          "ch": "如果這家飯店週末已客滿，我們將不得不去別處找住宿。"
+        }
+      ]
+    },
+    {
+      "eng": "embarrass",
+      "kk": "ɪmˈbærəs",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使尷尬",
+          "使窘迫"
+        ],
+        [
+          "使財務陷入困境",
+          "阻礙"
+        ]
+      ],
+      "analysis": "此字源自西班牙語 embazar（使受阻、使呆滯）或義大利語 imbarazzare（源自 im- 進入 + barra 欄杆、障礙），原意為「加上橫木阻擋」、「使動彈不得」。在歷史演變中，其語義從具體的阻礙、絆住，逐漸轉移到心智上的受困、不知所措，最終演變成現代的「使人感到難堪、尷尬」。",
+      "definition": "1. to cause someone to feel awkward, self-conscious, or ashamed.; 2. to hamper or hinder, especially by financial difficulty (formal).",
+      "example": [
+        {
+          "eng": "He accidentally dropped his notes during the presentation, which embarrassed him greatly.",
+          "ch": "他在簡報時不小心掉落了筆記，這讓他感到非常尷尬。"
+        },
+        {
+          "eng": "Heavy unexpected debts threatened to embarrass the small family business.",
+          "ch": "沉重且意料之外的債務威脅著要讓這個小型家族企業陷入財務窘境。"
+        }
+      ]
+    }
+  ]
+}

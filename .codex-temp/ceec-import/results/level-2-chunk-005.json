@@ -1,0 +1,1317 @@
+{
+  "level": 2,
+  "chunkIndex": 5,
+  "inputs": [
+    "consideration",
+    "contact",
+    "contain",
+    "continue",
+    "contract",
+    "control",
+    "conversation",
+    "corn",
+    "countryside",
+    "couple",
+    "courage",
+    "court",
+    "cowboy",
+    "crayon",
+    "cream",
+    "create",
+    "crime",
+    "crisis",
+    "crow",
+    "crowd",
+    "cultural",
+    "culture",
+    "cure",
+    "curious",
+    "current",
+    "curtain",
+    "custom",
+    "customer",
+    "cycle",
+    "daily",
+    "damage",
+    "dancer",
+    "danger",
+    "data",
+    "deaf",
+    "debate",
+    "debt",
+    "decision",
+    "deer",
+    "degree",
+    "delay",
+    "delicious",
+    "deliver",
+    "delivery",
+    "dentist",
+    "deny",
+    "department",
+    "depend",
+    "depth",
+    "describe"
+  ],
+  "rows": [
+    {
+      "eng": "consideration",
+      "kk": "kənˌsɪdərˈeɪʃn",
+      "tense": "n.",
+      "ch": [
+        [
+          "考慮",
+          "斟酌"
+        ],
+        [
+          "體貼",
+          "關心"
+        ],
+        [
+          "原因",
+          "因素"
+        ],
+        [
+          "對價",
+          "報酬"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 consider 加上名詞字尾 -ation 構成。源自拉丁語 consideratio（意為審視、觀察），最終源自動詞 considerare。語義從「仔細觀察與思索」演變出「考慮的過程」、「因應考量而產生的體貼」、「決策時需考量的因素」，以及法律與商業上的「對價（契約中雙方互負的義務或代價）」。",
+      "definition": "1. careful thought, typically over a period of time; 2. thoughtful concern for the needs or feelings of others; 3. a fact or motive taken into consideration in making a decision; 4. something given or done in exchange for a promise or act in a contract.",
+      "example": [
+        {
+          "eng": "After much consideration, she accepted the job offer.",
+          "ch": "經過長時間的考慮，她接受了這份工作邀請。"
+        },
+        {
+          "eng": "Showing consideration for others is important in a community.",
+          "ch": "在社群中展現對他人的體貼是很重要的。"
+        },
+        {
+          "eng": "Cost is an important consideration when buying a house.",
+          "ch": "買房時，成本是一個重要的考量因素。"
+        },
+        {
+          "eng": "A contract requires valuable consideration to be legally binding.",
+          "ch": "合約需要有相當的對價才具有法律約束力。"
+        }
+      ]
+    },
+    {
+      "eng": "contact",
+      "kk": "ˈkɑːntækt",
+      "tense": "n.",
+      "ch": [
+        [
+          "接觸",
+          "碰觸"
+        ],
+        [
+          "聯繫",
+          "聯絡"
+        ],
+        [
+          "熟人",
+          "關係人"
+        ]
+      ],
+      "analysis": "此字為名詞，源自拉丁語 contactus（意為觸摸、接觸），由 prefix con-（共同）與 tact-（來自 tangere「觸摸」的過去分詞詞幹）結合而成。語義從物理上的「互相接觸」，延伸為抽象的「溝通聯繫」，再指稱「能提供聯繫的人或社會關係」。",
+      "definition": "1. the state or action of touching; 2. communication or connection with someone; 3. a person who can provide information or help.",
+      "example": [
+        {
+          "eng": "Avoid contact with infected individuals.",
+          "ch": "避免與受感染的人有接觸。"
+        },
+        {
+          "eng": "Keep in contact with your family while traveling.",
+          "ch": "旅行時與家人保持聯繫。"
+        },
+        {
+          "eng": "She has useful contacts in the publishing industry.",
+          "ch": "她在出版業有很好的人脈。"
+        }
+      ]
+    },
+    {
+      "eng": "contact",
+      "kk": "ˈkɑːntækt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "聯繫",
+          "聯絡"
+        ]
+      ],
+      "analysis": "此字為及物動詞，由同形名詞轉品而來（或源自拉丁語動詞 contactare 的後代），表示主動與某人取得聯繫或溝通。句型上必須接直接受詞。",
+      "definition": "1. to communicate with someone by phone, email, etc.",
+      "example": [
+        {
+          "eng": "Please contact our customer service team if you have questions.",
+          "ch": "如果您有問題，請聯繫我們的客服團隊。"
+        }
+      ]
+    },
+    {
+      "eng": "contain",
+      "kk": "kənˈteɪn",
+      "tense": "vt.",
+      "ch": [
+        [
+          "包含",
+          "容納"
+        ],
+        [
+          "控制",
+          "抑制"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自古法語 contenir，再源自拉丁語 continere（con-「共同」+ tenere「握住、持有」）。語義從具體的「把東西握在內部、容納」，延伸出抽象的「抑制（情緒）」或「控制（局勢、疫情擴散）」。",
+      "definition": "1. to have within; to hold or enclose; 2. to keep under control; to restrain.",
+      "example": [
+        {
+          "eng": "The box contains several old photographs.",
+          "ch": "這個盒子裡包含幾張舊照片。"
+        },
+        {
+          "eng": "Firefighters worked to contain the wildfire.",
+          "ch": "消防員努力控制野火蔓延。"
+        }
+      ]
+    },
+    {
+      "eng": "continue",
+      "kk": "kənˈtɪnjuː",
+      "tense": "v.",
+      "ch": [
+        [
+          "繼續",
+          "持續"
+        ]
+      ],
+      "analysis": "此字為動詞（兼具及物與不及物用法），源自古法語 continuer，源自拉丁語 continuare（由 continuus「連續的」衍生）。核心語義為保持某個動作或狀態不中斷。",
+      "definition": "1. to persist in an activity or state without stopping.",
+      "example": [
+        {
+          "eng": "It continued to rain all afternoon.",
+          "ch": "雨整個下午持續不斷。"
+        }
+      ]
+    },
+    {
+      "eng": "contract",
+      "kk": "ˈkɑːntrækt",
+      "tense": "n.",
+      "ch": [
+        [
+          "合約",
+          "契約"
+        ]
+      ],
+      "analysis": "此字為名詞，源自拉丁語 contractus（拉緊、協議），由 con-（共同）與 trahere（拉）結合而成。原意為「雙方共同拉攏、達成協議」，現代指具法律效力的合約。",
+      "definition": "1. a written or spoken agreement, especially one concerning employment, sales, or tenancy, that is intended to be enforceable by law.",
+      "example": [
+        {
+          "eng": "Both parties signed the employment contract.",
+          "ch": "雙方都簽署了雇用合約。"
+        }
+      ]
+    },
+    {
+      "eng": "contract",
+      "kk": "kənˈtrækt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "縮小",
+          "收縮"
+        ],
+        [
+          "感染",
+          "罹患"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自拉丁語 contractus（trahere「拉」的同源詞）。動詞發音重音在第二音節。語義保留了「向內拉緊、使收縮」的物理義，亦引申出醫學上的「感染（疾病）」義（將病菌引入體內或使之發作）。",
+      "definition": "1. to make or become smaller or shorter; to shrink; 2. to catch or develop a disease.",
+      "example": [
+        {
+          "eng": "Metal expands when heated and contracts when cooled.",
+          "ch": "金屬加熱時膨脹，冷卻時收縮。"
+        },
+        {
+          "eng": "He contracted a severe flu during the winter.",
+          "ch": "他在冬天感染了嚴重的流感。"
+        }
+      ]
+    },
+    {
+      "eng": "contract",
+      "kk": "kənˈtrækt",
+      "tense": "vi.",
+      "ch": [
+        [
+          "收縮",
+          "縮小"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，用法與及物動詞的收縮義同源，但主語本身進行收縮而無需直接受詞。",
+      "definition": "1. to become smaller, narrower, or tighter.",
+      "example": [
+        {
+          "eng": "Her pupils contracted in the bright light.",
+          "ch": "她的瞳孔在強光下收縮。"
+        }
+      ]
+    },
+    {
+      "eng": "control",
+      "kk": "kənˈtroʊl",
+      "tense": "n.",
+      "ch": [
+        [
+          "控制",
+          "掌控"
+        ],
+        [
+          "控制裝置",
+          "操縱桿"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古法語 contre-rôle（對照用的複製帳冊），由 contra-（對立、核對）與 rotulus（滾軸、名冊）複合而成。原意指會計上的核對與監督，後演變為對人、事、物的「掌控」，或指機器上的「控制鈕、操縱裝置」（常用複數）。",
+      "definition": "1. the power to influence or direct people's behavior or the course of events; 2. a device used to operate a machine.",
+      "example": [
+        {
+          "eng": "The pilot lost control of the aircraft.",
+          "ch": "飛行員失去了對飛機的控制。"
+        },
+        {
+          "eng": "Familiarize yourself with the car's controls before driving.",
+          "ch": "開車前先熟悉汽車的控制裝置。"
+        }
+      ]
+    },
+    {
+      "eng": "control",
+      "kk": "kənˈtroʊl",
+      "tense": "vt.",
+      "ch": [
+        [
+          "控制",
+          "操縱",
+          "管理"
+        ]
+      ],
+      "analysis": "此字為及物動詞，由同形名詞轉品而來，表示施加權力或力量以主導、限制或管理某事。",
+      "definition": "1. to determine the behavior or supervise the running of.",
+      "example": [
+        {
+          "eng": "Parents try to control their children's screen time.",
+          "ch": "父母試圖控制孩子的螢幕使用時間。"
+        }
+      ]
+    },
+    {
+      "eng": "conversation",
+      "kk": "ˌkɑːnvərˈseɪʃn",
+      "tense": "n.",
+      "ch": [
+        [
+          "談話",
+          "對話"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 converse 加上名詞字尾 -ation 構成。源自拉丁語 conversatio（交往、談話），由 con-（共同）與 versari（流連、轉動）結合而成。語義從早期的「與人交往、共處」演變為現代的「言語交流、對話」。",
+      "definition": "1. an informal exchange of ideas by spoken words.",
+      "example": [
+        {
+          "eng": "They had a long conversation about politics.",
+          "ch": "他們就政治進行了長談。"
+        }
+      ]
+    },
+    {
+      "eng": "corn",
+      "kk": "kɔːrn",
+      "tense": "n.",
+      "ch": [
+        [
+          "玉米",
+          "穀物"
+        ]
+      ],
+      "analysis": "此字為名詞，源自日耳曼語族繼承詞（原始日耳曼語 *kurnam，意為小顆粒、穀粒）。在美式英語中專指「玉米（maize）」，但在英式英語中則泛指當地主要的穀物（如小麥、大麥）。",
+      "definition": "1. a North American cereal plant bearing seeds on large ears; maize; 2. the chief cereal crop of a district.",
+      "example": [
+        {
+          "eng": "Farmers are harvesting corn in the field.",
+          "ch": "農夫們正在田裡收割玉米。"
+        }
+      ]
+    },
+    {
+      "eng": "countryside",
+      "kk": "ˈkʌntrisɑɪd",
+      "tense": "n.",
+      "ch": [
+        [
+          "鄉村",
+          "農村地區"
+        ]
+      ],
+      "analysis": "此字為現代透明複合詞，由 country（國家、鄉村）與 side（邊側、地區）結合而成，指遠離城市、充滿田園風光的鄉村地區。",
+      "definition": "1. rural areas, as distinct from towns and cities.",
+      "example": [
+        {
+          "eng": "We went for a drive through the beautiful countryside.",
+          "ch": "我們駕車穿過美麗的鄉村。"
+        }
+      ]
+    },
+    {
+      "eng": "couple",
+      "kk": "ˈkʌpl",
+      "tense": "n.",
+      "ch": [
+        [
+          "夫妻",
+          "情侶"
+        ],
+        [
+          "一對",
+          "幾個"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古法語 couple，源自拉丁語 copula（連接物、繩索、結合）。核心義為「兩個連接在一起的事物或人」，引申為伴侶、夫妻，或口語中表示「幾個、三兩個（a couple of）」。",
+      "definition": "1. two people who are married or romantically involved; 2. a small number of people or things.",
+      "example": [
+        {
+          "eng": "The happy couple walked along the beach.",
+          "ch": "那對幸福的情侶沿着沙灘散步。"
+        },
+        {
+          "eng": "I will be ready in a couple of minutes.",
+          "ch": "我幾分鐘後就好了。"
+        }
+      ]
+    },
+    {
+      "eng": "courage",
+      "kk": "ˈkɜːrɪdʒ",
+      "tense": "n.",
+      "ch": [
+        [
+          "勇氣",
+          "膽量"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古法語 courage，其根本詞源為拉丁語 cor（心臟）。在拉丁語系發展中，「心」被視為情感與勇氣的發源地（如同英文 heart）。",
+      "definition": "1. the ability to do something that frightens one; bravery.",
+      "example": [
+        {
+          "eng": "It takes courage to admit your mistakes.",
+          "ch": "承認錯誤需要勇氣。"
+        }
+      ]
+    },
+    {
+      "eng": "court",
+      "kk": "kɔːrt",
+      "tense": "n.",
+      "ch": [
+        [
+          "法庭",
+          "法院"
+        ],
+        [
+          "球場"
+        ],
+        [
+          "宮廷",
+          "朝廷"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古法語 cort（意為庭院、王宮），源自拉丁語 cohors（圍起來的場地、人群）。因歷史演變，其語義分化為皇室聚居的「宮廷」、審判案件的「法庭」，以及劃定範圍進行球類運動的「球場」。",
+      "definition": "1. a body of people presided over by a judge in civil and criminal cases; 2. an area enclosed for playing a sport; 3. the residence, retinue, and suite of a sovereign.",
+      "example": [
+        {
+          "eng": "The suspect appeared in court this morning.",
+          "ch": "嫌疑人今天上午出庭。"
+        },
+        {
+          "eng": "They met on the tennis court.",
+          "ch": "他們在網球場相遇。"
+        },
+        {
+          "eng": "Knights served the king at court.",
+          "ch": "騎士們在宮廷中為國王服務。"
+        }
+      ]
+    },
+    {
+      "eng": "cowboy",
+      "kk": "ˈkaʊbɔɪ",
+      "tense": "n.",
+      "ch": [
+        [
+          "牛仔",
+          "牧牛人"
+        ]
+      ],
+      "analysis": "此字為現代透明複合詞，由 cow（母牛）與 boy（男孩、青年）結合而成。最初指照顧牛群的農場工人，後來成為美國西部文化的經典象徵。",
+      "definition": "1. a herder and tender of cattle, traditionally riding a horse on a ranch.",
+      "example": [
+        {
+          "eng": "The cowboy wore a wide-brimmed hat and boots.",
+          "ch": "那名牛仔戴著寬邊帽，穿着靴子。"
+        }
+      ]
+    },
+    {
+      "eng": "crayon",
+      "kk": "ˈkreɪən",
+      "tense": "n.",
+      "ch": [
+        [
+          "蠟筆"
+        ]
+      ],
+      "analysis": "此字為名詞，源自法語 crayon（鉛筆、粉筆），源自 craie（粉筆，源自拉丁語 creta「白堊、粉筆」）加上指小字尾 -on。進入英語後專指彩色蠟筆。",
+      "definition": "1. a pencil or stick of colored chalk or wax, used for drawing.",
+      "example": [
+        {
+          "eng": "The child used crayons to color the picture.",
+          "ch": "那孩子用蠟筆幫圖畫上色。"
+        }
+      ]
+    },
+    {
+      "eng": "cream",
+      "kk": "kriːm",
+      "tense": "n.",
+      "ch": [
+        [
+          "鮮奶油",
+          "乳脂"
+        ],
+        [
+          "乳霜",
+          "面霜"
+        ],
+        [
+          "精華",
+          "精英"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古法語 creme，源自晚期拉丁語 chrisma（聖油）與拉丁語 cremor（稠汁）的混同或演變。語義從牛奶最上層的「乳脂」，引申為塗抹皮膚的「乳霜」，再借喻為群體中的「精英、精華（the cream of the crop）」。",
+      "definition": "1. the thick white part of milk that contains butterfat; 2. a smooth substance rubbed on the skin; 3. the best part of a group.",
+      "example": [
+        {
+          "eng": "She added fresh cream to her coffee.",
+          "ch": "她在咖啡裡加了鮮奶油。"
+        },
+        {
+          "eng": "Apply this moisturizing cream to your face.",
+          "ch": "把這款保濕乳霜塗在臉上。"
+        },
+        {
+          "eng": "He is the cream of the crop in his class.",
+          "ch": "他是班上的頂尖精英。"
+        }
+      ]
+    },
+    {
+      "eng": "create",
+      "kk": "kriˈeɪt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "創造",
+          "創立"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自拉丁語 creare（生產、創造）。核心語義為從無到有製作出新事物，或賦予其新的狀態與職位。",
+      "definition": "1. to bring something into existence.",
+      "example": [
+        {
+          "eng": "Artists use their imagination to create works of art.",
+          "ch": "藝術家運用想像力來創造藝術品。"
+        }
+      ]
+    },
+    {
+      "eng": "crime",
+      "kk": "kraɪm",
+      "tense": "n.",
+      "ch": [
+        [
+          "犯罪",
+          "罪行"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古法語 crime，源自拉丁語 crimen（罪狀、指控、罪行）。原意為法庭上的指控，後引申為實際違法的「罪行」。",
+      "definition": "1. an action or omission that constitutes an offense that may be prosecuted by the state.",
+      "example": [
+        {
+          "eng": "Stealing is a crime.",
+          "ch": "偷竊是一種犯罪。"
+        }
+      ]
+    },
+    {
+      "eng": "crisis",
+      "kk": "ˈkraɪsɪs",
+      "tense": "n.",
+      "ch": [
+        [
+          "危機",
+          "緊要關頭"
+        ]
+      ],
+      "analysis": "此字為名詞，直接借自希臘語 krisis（決定、轉折點），源自 krinein（決定、評判）。原意為疾病惡化或好轉的關鍵轉折時刻，現代泛指任何嚴重影響局勢的「危機」。",
+      "definition": "1. a time of intense difficulty, trouble, or danger.",
+      "example": [
+        {
+          "eng": "The government is handling the economic crisis.",
+          "ch": "政府正在處理經濟危機。"
+        }
+      ]
+    },
+    {
+      "eng": "crow",
+      "kk": "kroʊ",
+      "tense": "n.",
+      "ch": [
+        [
+          "烏鴉"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古英語 crāwe（模仿烏鴉叫聲的擬聲詞），指黑色的大型雀鳥。",
+      "definition": "1. a large perching bird with mostly black plumage.",
+      "example": [
+        {
+          "eng": "A crow sat on the fence branch.",
+          "ch": "一隻烏鴉停在柵欄的樹枝上。"
+        }
+      ]
+    },
+    {
+      "eng": "crowd",
+      "kk": "kraʊd",
+      "tense": "n.",
+      "ch": [
+        [
+          "群眾",
+          "人群"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古英語 crūdan（推、擠），其歷史本義與擠壓動作有關，後來演變為指聚集在一起的一大群人。",
+      "definition": "1. a large number of people gathered together in a disorganized way.",
+      "example": [
+        {
+          "eng": "A large crowd gathered to watch the concert.",
+          "ch": "大批群眾聚集觀看音樂會。"
+        }
+      ]
+    },
+    {
+      "eng": "cultural",
+      "kk": "ˈkʌltʃərəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "文化的"
+        ]
+      ],
+      "analysis": "此字為形容詞，由名詞 culture 加上形容詞字尾 -al 構成，用以修飾與文化、藝術、風俗相關的事物。",
+      "definition": "1. relating to the ideas, customs, and social behavior of a society.",
+      "example": [
+        {
+          "eng": "Visiting museums is a great cultural experience.",
+          "ch": "參觀博物館是很棒的文化體驗。"
+        }
+      ]
+    },
+    {
+      "eng": "culture",
+      "kk": "ˈkʌltʃər",
+      "tense": "n.",
+      "ch": [
+        [
+          "文化",
+          "文明"
+        ],
+        [
+          "培養",
+          "培育"
+        ]
+      ],
+      "analysis": "此字為名詞，源自拉丁語 cultura（耕種、栽培），源自 colere（耕作、居住、照料）。從對土地與作物的「栽培（agriculture）」，延伸出對心智與社會習俗的「文化」培育，亦包含生物學上的「菌落培養」。",
+      "definition": "1. the arts and other manifestations of human intellectual achievement regarded collectively; 2. the cultivation of bacteria, tissue cells, etc.",
+      "example": [
+        {
+          "eng": "Language is an essential part of human culture.",
+          "ch": "語言是人類文化不可或缺的一部分。"
+        },
+        {
+          "eng": "The lab grew a bacterial culture in a petri dish.",
+          "ch": "實驗室在培養皿中培育了細菌培養物。"
+        }
+      ]
+    },
+    {
+      "eng": "cure",
+      "kk": "kjʊr",
+      "tense": "n.",
+      "ch": [
+        [
+          "治療",
+          "解藥",
+          "對策"
+        ]
+      ],
+      "analysis": "此字為名詞，源自拉丁語 cura（照顧、治療、關注）。核心義為使疾病痊癒的方法，或解決某個困難問題的對策。",
+      "definition": "1. a substance or treatment that cures a disease; 2. a solution to a problem.",
+      "example": [
+        {
+          "eng": "Scientists are searching for a cure for the disease.",
+          "ch": "科學家們正在尋找該疾病的治療方法。"
+        }
+      ]
+    },
+    {
+      "eng": "cure",
+      "kk": "kjʊr",
+      "tense": "vt.",
+      "ch": [
+        [
+          "治癒",
+          "矯正"
+        ],
+        [
+          "醃製"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自拉丁語 curare（照料、治療）。除了醫療上的「治癒」與矯正不良習慣外，在食品加工中也指利用鹽或煙燻「醃製、風乾（肉品）」以保存之意。",
+      "definition": "1. to relieve of the symptoms of a disease or condition; 2. to preserve meat or fish by salting or smoking.",
+      "example": [
+        {
+          "eng": "The medicine cured her cough completely.",
+          "ch": "這藥完全治好了她的咳嗽。"
+        },
+        {
+          "eng": "They cure ham with salt and smoke.",
+          "ch": "他們用鹽和煙燻來醃製火腿。"
+        }
+      ]
+    },
+    {
+      "eng": "curious",
+      "kk": "ˈkjʊriəs",
+      "tense": "adj.",
+      "ch": [
+        [
+          "好奇的",
+          "求知欲強的"
+        ],
+        [
+          "奇特的",
+          "罕見的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自拉丁語 curiosus（小心謹慎的、愛管閒事的），源自 cura（照顧、關注）。語義從「對事物過度關注、急於探究」演變出「好奇的」，亦可指事物本身「奇特、古怪、引人好奇的」。",
+      "definition": "1. eager to know or learn something; 2. strange; unusual.",
+      "example": [
+        {
+          "eng": "Children are naturally curious about the world around them.",
+          "ch": "孩子們對周遭世界天生充滿好奇。"
+        },
+        {
+          "eng": "I noticed a curious sound coming from the engine.",
+          "ch": "我注意到引擎發出了一種奇特的聲音。"
+        }
+      ]
+    },
+    {
+      "eng": "current",
+      "kk": "ˈkɜːrənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "流",
+          "水流",
+          "電流"
+        ]
+      ],
+      "analysis": "此字為名詞，由同形形容詞轉品而來（源自拉丁語 currens 的名詞化用法），指水、氣體的流動，或電子流動的「電流」。",
+      "definition": "1. a body of water or air moving in a definite direction; 2. a flow of electricity.",
+      "example": [
+        {
+          "eng": "The strong ocean current swept the swimmer away.",
+          "ch": "強烈的洋流把游泳者沖走了。"
+        },
+        {
+          "eng": "Be careful not to touch live electrical currents.",
+          "ch": "小心不要觸碰帶電的電流。"
+        }
+      ]
+    },
+    {
+      "eng": "current",
+      "kk": "ˈkɜːrənt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "當前的",
+          "現行的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自拉丁語 currens（currere「奔跑、流動」的現在分詞）。字面義為「正在流動的」，引申指正在發生、流通或通用的「當前狀態」。",
+      "definition": "1. belonging to the present time; current.",
+      "example": [
+        {
+          "eng": "What is your current address?",
+          "ch": "你目前的地址是什麼？"
+        }
+      ]
+    },
+    {
+      "eng": "curtain",
+      "kk": "ˈkɜːrtn",
+      "tense": "n.",
+      "ch": [
+        [
+          "窗簾",
+          "簾子"
+        ],
+        [
+          "幕"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古法語 cortine，源自晚期拉丁語 cortina（小庭院、帷幔），源自 cohors。指懸掛在窗戶、門口或舞台上用以遮蔽或分隔空間的布簾。",
+      "definition": "1. a piece of material suspended at a window or opening to shut out light or provide privacy; 2. a piece of cloth hanging in a theater separating the stage from the audience.",
+      "example": [
+        {
+          "eng": "She drew the curtains to let the morning sun in.",
+          "ch": "她拉開窗簾讓早晨的陽光照進來。"
+        },
+        {
+          "eng": "The theater lights dimmed as the curtain rose.",
+          "ch": "隨著布幕升起，戲院的燈光暗了下來。"
+        }
+      ]
+    },
+    {
+      "eng": "custom",
+      "kk": "ˈkʌstəm",
+      "tense": "n.",
+      "ch": [
+        [
+          "習俗",
+          "慣例"
+        ],
+        [
+          "海關",
+          "關稅"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古法語 custume，源自拉丁語 consuetudinem（習慣、慣例）。社會大眾長期遵循的行為模式成為「習俗」；而對進出口貨物徵收的規費因成為政府的常規制度，演變出專稱「海關（Customs）」的複數用法。",
+      "definition": "1. a traditional and widely accepted way of behaving or doing something in a specific society; 2. the official department that administers and collects the duties levied by a government on imported goods.",
+      "example": [
+        {
+          "eng": "It is our custom to give gifts during the festival.",
+          "ch": "在節慶期間送禮是我們的習俗。"
+        },
+        {
+          "eng": "We had to clear customs at the airport.",
+          "ch": "我們必須在機場通過海關檢查。"
+        }
+      ]
+    },
+    {
+      "eng": "customer",
+      "kk": "ˈkʌstəmər",
+      "tense": "n.",
+      "ch": [
+        [
+          "顧客",
+          "客戶"
+        ]
+      ],
+      "analysis": "此字為名詞，由 custom（慣例、經常光顧）加上名詞字尾 -er 構成。指經常到某商店光顧或購買商品的買主。",
+      "definition": "1. a person who buys goods or services from a shop or business.",
+      "example": [
+        {
+          "eng": "The store offers a discount to loyal customers.",
+          "ch": "這家店對忠實顧客提供折扣。"
+        }
+      ]
+    },
+    {
+      "eng": "cycle",
+      "kk": "ˈsaɪkl",
+      "tense": "n.",
+      "ch": [
+        [
+          "循環",
+          "週期"
+        ],
+        [
+          "自行車",
+          "機車"
+        ]
+      ],
+      "analysis": "此字為名詞，源自希臘語 kyklos（圓圈、輪子）。指一連串依序發生並周而復始的「循環、週期」，或作為 bicycle、motorcycle 的簡稱，指「二輪車」。",
+      "definition": "1. a series of events that are regularly repeated in the same order; 2. short for bicycle or motorcycle.",
+      "example": [
+        {
+          "eng": "The water cycle is essential for life on Earth.",
+          "ch": "水文循環對地球上的生命至關重要。"
+        },
+        {
+          "eng": "He rides his cycle to work every day.",
+          "ch": "他每天騎單車上班。"
+        }
+      ]
+    },
+    {
+      "eng": "daily",
+      "kk": "ˈdeɪli",
+      "tense": "adj.",
+      "ch": [
+        [
+          "每日的",
+          "日常的"
+        ]
+      ],
+      "analysis": "此字為形容詞，由名詞 day 加上形容詞字尾 -ly 構成。修飾發生在每一天或屬於日常作息的事物。",
+      "definition": "1. done, produced, or occurring every day.",
+      "example": [
+        {
+          "eng": "Walking is part of her daily routine.",
+          "ch": "散步是她日常作息的一部分。"
+        }
+      ]
+    },
+    {
+      "eng": "damage",
+      "kk": "ˈdæmɪdʒ",
+      "tense": "n.",
+      "ch": [
+        [
+          "損害",
+          "損失"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古法語 domage，源自拉丁語 damnum（損失、損害）。指對物品、身體或權益造成的破壞或毀損。",
+      "definition": "1. physical harm caused to something in such a way as to impair its value, usefulness, or normal function.",
+      "example": [
+        {
+          "eng": "The storm caused severe damage to the roof.",
+          "ch": "暴風雨對屋頂造成了嚴重的損害。"
+        }
+      ]
+    },
+    {
+      "eng": "dancer",
+      "kk": "ˈdænsər",
+      "tense": "n.",
+      "ch": [
+        [
+          "舞者",
+          "舞蹈家"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 dance 加上表人物的字尾 -er 構成，指從事舞蹈表演的人。",
+      "definition": "1. a person who dances professionally or as a hobby.",
+      "example": [
+        {
+          "eng": "The ballet dancer performed a difficult routine.",
+          "ch": "那位芭蕾舞者表演了一套高難度的動作。"
+        }
+      ]
+    },
+    {
+      "eng": "danger",
+      "kk": "ˈdeɪndʒər",
+      "tense": "n.",
+      "ch": [
+        [
+          "危險",
+          "威脅"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古法語 dangier（權力、強制力、危險），源自拉丁語 dominarium（主權、控制權，源自 dominus「主人」）。語義從「受他人絕對權力支配的危险處境」演變為現代的「危險、威脅」。",
+      "definition": "1. the possibility of suffering harm or injury.",
+      "example": [
+        {
+          "eng": "Drivers must be aware of potential dangers on the road.",
+          "ch": "駕駛人必須注意路上的潛在危險。"
+        }
+      ]
+    },
+    {
+      "eng": "data",
+      "kk": "ˈdætə",
+      "tense": "n.",
+      "ch": [
+        [
+          "資料",
+          "數據"
+        ]
+      ],
+      "analysis": "此字為名詞，原本是拉丁語 datum（給定的事實，dare「給」的過去分詞）的中性複數形。在現代英語中通常作為不可數名詞或單數集體名詞使用，指收集作為分析依據的數據或資料。",
+      "definition": "1. facts and statistics collected together for analysis or reference.",
+      "example": [
+        {
+          "eng": "The scientist analyzed the experimental data carefully.",
+          "ch": "科學家仔細分析了實驗數據。"
+        }
+      ]
+    },
+    {
+      "eng": "deaf",
+      "kk": "def",
+      "tense": "adj.",
+      "ch": [
+        [
+          "聾的",
+          "聽力受損的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自古英語 dēaf（聽覺遲鈍的、愚鈍的），屬於日耳曼語族繼承詞。指完全聽不見或聽力嚴重受損的狀態。",
+      "definition": "1. lacking the power of hearing or having impaired hearing.",
+      "example": [
+        {
+          "eng": "She communicates using sign language with deaf students.",
+          "ch": "她與聾啞學生使用手語溝通。"
+        }
+      ]
+    },
+    {
+      "eng": "debate",
+      "kk": "dɪˈbeɪt",
+      "tense": "n.",
+      "ch": [
+        [
+          "辯論",
+          "討論"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古法語 debatre（爭論），由 de-（加強語氣）與 batre（打、擊，源自拉丁語 batuere）結合而成。原意為「激烈互毆、爭辯」，演變為正式的觀點辯論與討論。",
+      "definition": "1. a formal discussion on a particular topic in a public meeting or legislative assembly.",
+      "example": [
+        {
+          "eng": "The candidates participated in a live television debate.",
+          "ch": "候選人參加了現場電視辯論。"
+        }
+      ]
+    },
+    {
+      "eng": "debt",
+      "kk": "det",
+      "tense": "n.",
+      "ch": [
+        [
+          "債務",
+          "欠款"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古法語 dette，源自拉丁語 debitum（應償還之物，debere「欠」的過去分詞）。在中古英語時期，學者為了還原其拉丁語源，刻意在拼字中加入了不發音的 b（借自 debtum 的字形），因此保留至今。",
+      "definition": "1. something, typically money, that is owed or due.",
+      "example": [
+        {
+          "eng": "He worked hard to pay off his university debt.",
+          "ch": "他努力工作以還清大學時期的債務。"
+        }
+      ]
+    },
+    {
+      "eng": "decision",
+      "kk": "dɪˈsɪʒn",
+      "tense": "n.",
+      "ch": [
+        [
+          "決定",
+          "決策"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 decide（源自拉丁語 decidere，de-「向下、切斷」+ caedere「切」）推演而來的名詞形。字面義為「把選項切斷、做最後裁決」，指經過考慮後做出的決定。",
+      "definition": "1. a conclusion or resolution reached after consideration.",
+      "example": [
+        {
+          "eng": "Making a career change is a major life decision.",
+          "ch": "轉換跑道是人生的一項重大決策。"
+        }
+      ]
+    },
+    {
+      "eng": "deer",
+      "kk": "dɪr",
+      "tense": "n.",
+      "ch": [
+        [
+          "鹿"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古英語 dēor（野獸、動物），屬於日耳曼語族繼承詞（與德語 Tier 同源）。在古英語中泛指各種野生動物，後來意義窄化，專指鹿科動物。",
+      "definition": "1. a hoofed grazing animal, the males of which typically have antlers.",
+      "example": [
+        {
+          "eng": "A deer crossed the quiet forest road.",
+          "ch": "一隻鹿穿過了寂靜的森林小路。"
+        }
+      ]
+    },
+    {
+      "eng": "degree",
+      "kk": "dɪˈɡriː",
+      "tense": "n.",
+      "ch": [
+        [
+          "度",
+          "度數"
+        ],
+        [
+          "學位"
+        ],
+        [
+          "程度",
+          "級別"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古法語 de-（向下）加上 gre（階梯、級別，源自拉丁語 gradus）。語義從階梯的「級別」，延伸出測量溫度的「度」、角度的「度數」，以及大學畢業的「學位」。",
+      "definition": "1. a unit of measurement of angles or temperature; 2. an academic rank conferred by a college or university; 3. the extent or scale of something.",
+      "example": [
+        {
+          "eng": "Water freezes at zero degrees Celsius.",
+          "ch": "水在攝氏零度結冰。"
+        },
+        {
+          "eng": "She earned a degree in computer science.",
+          "ch": "她獲得了計算機科學學位。"
+        },
+        {
+          "eng": "To some degree, I agree with your proposal.",
+          "ch": "在某种程度上，我同意你的提案。"
+        }
+      ]
+    },
+    {
+      "eng": "delay",
+      "kk": "dɪˈleɪ",
+      "tense": "n.",
+      "ch": [
+        [
+          "延遲",
+          "延誤"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古法語 delaier（延遲、推遲），由 de-（加強語氣）與 lesler / latus（放緩、留置）結合而成。指行動延後或行程被耽誤的時間。",
+      "definition": "1. a period of time by which something is late or postponed.",
+      "example": [
+        {
+          "eng": "Passengers were informed of a two-hour flight delay.",
+          "ch": "旅客們被告知航班延誤兩小時。"
+        }
+      ]
+    },
+    {
+      "eng": "delicious",
+      "kk": "dɪˈlɪʃəs",
+      "tense": "adj.",
+      "ch": [
+        [
+          "美味的",
+          "好吃的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自古法語 delicious，源自拉丁語 deliciosus（愉悅的、美味的），源自 deliciae（樂事、佳餚）。用以形容食物極為可口、令人愉悅。",
+      "definition": "1. highly pleasant to the taste.",
+      "example": [
+        {
+          "eng": "The chef prepared a delicious meal for the guests.",
+          "ch": "主廚為客人們準備了一頓美味的餐點。"
+        }
+      ]
+    },
+    {
+      "eng": "deliver",
+      "kk": "dɪˈlɪvər",
+      "tense": "vt.",
+      "ch": [
+        [
+          "遞送",
+          "傳送"
+        ],
+        [
+          "發表（演說）"
+        ],
+        [
+          "接生"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自古法語 delivrer（釋放、交出），源自拉丁語 deliberare 或古典組合 de-（離開）+ liberare（解放，源自 liber「自由的」）。語義從最初的「將人釋放／將物品交還給主人」，延伸出「遞送郵件或商品」、「正式發表（演講）」以及醫療上的「接生（嬰兒）」。",
+      "definition": "1. to bring and hand over something to a destination or recipient; 2. to present a speech, lecture, etc.; 3. to assist in the birth of a baby.",
+      "example": [
+        {
+          "eng": "The courier will deliver the package this afternoon.",
+          "ch": "快遞員今天下午會把包裹送達。"
+        },
+        {
+          "eng": "The president delivered an inspiring speech.",
+          "ch": "總統發表了一場鼓舞人心的演說。"
+        },
+        {
+          "eng": "The doctor successfully delivered the healthy baby.",
+          "ch": "醫生順利地接生了這名健康的嬰兒。"
+        }
+      ]
+    },
+    {
+      "eng": "delivery",
+      "kk": "dɪˈlɪvəri",
+      "tense": "n.",
+      "ch": [
+        [
+          "遞送",
+          "交貨"
+        ],
+        [
+          "分娩",
+          "接生"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 deliver 加上名詞字尾 -y 構成。指物品的運送與交付，或產婦的分娩過程。",
+      "definition": "1. the transport of goods to a destination; 2. the process of giving birth to a baby.",
+      "example": [
+        {
+          "eng": "Free home delivery is available for orders over fifty dollars.",
+          "ch": "訂單滿五十美元即可享有免費送貨到府服務。"
+        },
+        {
+          "eng": "The mother and baby are recovering well after the delivery.",
+          "ch": "母親和嬰兒在分娩後恢復良好。"
+        }
+      ]
+    },
+    {
+      "eng": "dentist",
+      "kk": "ˈdentɪst",
+      "tense": "n.",
+      "ch": [
+        [
+          "牙醫"
+        ]
+      ],
+      "analysis": "此字為名詞，由拉丁語 dens（牙齒，屬格為 dentis）加上表示從事某職業的字尾 -ist 構成，指專門診治牙齒疾病的醫生。",
+      "definition": "1. a person qualified to treat the diseases and conditions that affect the teeth and gums.",
+      "example": [
+        {
+          "eng": "You should visit the dentist for a routine check-up.",
+          "ch": "你應該去看牙醫做例行檢查。"
+        }
+      ]
+    },
+    {
+      "eng": "deny",
+      "kk": "dɪˈnaɪ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "否認",
+          "否定"
+        ],
+        [
+          "拒絕給予"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自古法語 denier，源自拉丁語 denegare（de-「加強」+ negare「說不、拒絕」）。核心義為「說不是、否認（指控）」，亦可延伸為「拒絕給予某人所求之物」。",
+      "definition": "1. to state that one refuses to admit the truth or existence of something; 2. to refuse to give something requested or desired to someone.",
+      "example": [
+        {
+          "eng": "The suspect denied committing the crime.",
+          "ch": "嫌疑人否認犯下罪行。"
+        },
+        {
+          "eng": "The bank denied his loan application.",
+          "ch": "銀行拒絕了他的貸款申請。"
+        }
+      ]
+    },
+    {
+      "eng": "department",
+      "kk": "dɪˈpɑːrtmənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "部門",
+          "科系"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 depart（離開、分開，源自 de- + partire「分配」）加上名詞字尾 -ment 構成。原意為「分開的區域或分支」，現代泛指機構中的「部門」或大學裡的「學系」。",
+      "definition": "1. a division of a large organization such as a government, business, or university.",
+      "example": [
+        {
+          "eng": "She works in the human resources department.",
+          "ch": "她在人力資源部門工作。"
+        }
+      ]
+    },
+    {
+      "eng": "depend",
+      "kk": "dɪˈpend",
+      "tense": "vi.",
+      "ch": [
+        [
+          "依賴",
+          "視...而定"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，源自古法語 dependre，源自拉丁語 dependere（de-「從...向下」+ pendere「懸掛」）。字面義為「懸掛在某物之上、受其支撐」，引申為抽象的「依賴、取決於（depend on）」。",
+      "definition": "1. to be controlled or determined by; 2. to rely on.",
+      "example": [
+        {
+          "eng": "Whether we go for a picnic will depend on the weather.",
+          "ch": "我們是否去野餐將取決於天氣。"
+        }
+      ]
+    },
+    {
+      "eng": "depth",
+      "kk": "depθ",
+      "tense": "n.",
+      "ch": [
+        [
+          "深度",
+          "深處"
+        ]
+      ],
+      "analysis": "此字為名詞，由形容詞 deep 加上名詞字尾 -th 構成，表示垂直向下的距離或空間的深處。",
+      "definition": "1. the distance from the top down to the bottom, or from the front to the back.",
+      "example": [
+        {
+          "eng": "The divers measured the depth of the ocean trench.",
+          "ch": "潛水員測量了海溝的深度。"
+        }
+      ]
+    },
+    {
+      "eng": "describe",
+      "kk": "dɪˈskraɪb",
+      "tense": "vt.",
+      "ch": [
+        [
+          "描寫",
+          "描述"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自拉丁語 describere（de-「向下、完整」+ scribere「書寫」）。字面義為「完整書寫下來或畫出輪廓」，引申為用語言或文字「描繪、形容」事物的特徵。",
+      "definition": "1. to give an account in words of someone or something.",
+      "example": [
+        {
+          "eng": "Can you describe what the suspect looked like?",
+          "ch": "你能描述一下嫌疑人的長相嗎？"
+        }
+      ]
+    }
+  ]
+}

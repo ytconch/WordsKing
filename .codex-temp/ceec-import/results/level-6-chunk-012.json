@@ -1,0 +1,1147 @@
+{
+  "level": 6,
+  "chunkIndex": 12,
+  "inputs": [
+    "lure",
+    "lush",
+    "madam",
+    "ma’am",
+    "magnify",
+    "maiden",
+    "mainland",
+    "majestic",
+    "majesty",
+    "manuscript",
+    "maple",
+    "mar",
+    "marginal",
+    "martial",
+    "marvel",
+    "mastery",
+    "mediate",
+    "medieval",
+    "meditate",
+    "meditation",
+    "melancholy",
+    "mentality",
+    "merchandise",
+    "mermaid",
+    "migrant",
+    "mimic",
+    "mingle",
+    "miraculous",
+    "miscellaneous",
+    "mischievous",
+    "mistress",
+    "mobilize",
+    "modernization",
+    "modernize",
+    "momentum",
+    "monarch",
+    "monetary",
+    "monotony",
+    "monstrous",
+    "moody",
+    "morale",
+    "mortal",
+    "motherhood",
+    "motto",
+    "mound",
+    "mourn",
+    "mournful",
+    "mow",
+    "muse",
+    "mustache"
+  ],
+  "rows": [
+    {
+      "eng": "lure",
+      "kk": "lʊr",
+      "tense": "n.",
+      "ch": [
+        [
+          "誘惑物",
+          "引誘"
+        ],
+        [
+          "誘餌",
+          "擬餌"
+        ]
+      ],
+      "analysis": "名詞，源自古法語 loirre（獵鷹用的誘鳥），最終源自日耳曼語源。語意從具體的獵鷹誘鳥演變為吸引人的人事物或釣魚用的假餌。名詞與動詞同形，此處為名詞專屬義項。",
+      "definition": "1. something that tempts or attracts someone with the promise of pleasure or reward; 2. an artificial bait used for catching fish.",
+      "example": [
+        {
+          "eng": "The city offers an irresistible lure for ambitious young people.",
+          "ch": "這座城市對雄心勃勃的年輕人有著無法抗拒的誘惑力。"
+        },
+        {
+          "eng": "He cast his lure into the water and waited for a bite.",
+          "ch": "他把假餌拋入水中，等待魚兒上鉤。"
+        }
+      ]
+    },
+    {
+      "eng": "lure",
+      "kk": "lʊr",
+      "tense": "vt.",
+      "ch": [
+        [
+          "引誘",
+          "誘惑"
+        ],
+        [
+          "誘捕",
+          "誘引"
+        ]
+      ],
+      "analysis": "及物動詞，保留與同形名詞相同的歷史來源。句型上必須接直接受詞，指透過利益、誘惑或欺騙手段引使某人或某物做出特定行為或進入特定場所。",
+      "definition": "1. to tempt or persuade someone to do something or go somewhere by offering a reward or advantage; 2. to draw or attract someone into a trap or dangerous situation.",
+      "example": [
+        {
+          "eng": "Advertisements are designed to lure customers into buying things they don't need.",
+          "ch": "廣告旨在誘使顧客購買他們不需要的東西。"
+        },
+        {
+          "eng": "The criminal used a fake profile online to lure his victim.",
+          "ch": "該罪犯利用網路上的假個人檔案來誘捕受害者。"
+        }
+      ]
+    },
+    {
+      "eng": "lush",
+      "kk": "lʌʃ",
+      "tense": "adj.",
+      "ch": [
+        [
+          "蔥鬱的",
+          "茂盛的"
+        ],
+        [
+          "奢華的",
+          "豐富的"
+        ]
+      ],
+      "analysis": "形容詞，起源於中世紀英語 lush（意為嫩的、柔軟的），可能與拉丁語 lascivus（放縱的、茂盛的）相關。語意從植物生長繁茂，引申為環境、聲音或風格的豐饒、豪華與感官享受。",
+      "definition": "1. growing thickly and strongly, especially of plants and grass; 2. very rich, luxurious, or providing great sensory pleasure.",
+      "example": [
+        {
+          "eng": "The island is famous for its lush green forests and beautiful beaches.",
+          "ch": "這座島嶼以其茂密的綠色森林和美麗的海灘而聞名。"
+        },
+        {
+          "eng": "The film is known for its lush cinematography and rich soundtrack.",
+          "ch": "這部電影以其華麗的攝影風格和豐富的配樂聞名。"
+        }
+      ]
+    },
+    {
+      "eng": "madam",
+      "kk": "ˈmædəm",
+      "tense": "n.",
+      "ch": [
+        [
+          "女士",
+          "太太"
+        ],
+        [
+          "風俗場所女老闆"
+        ]
+      ],
+      "analysis": "名詞，源自古法語 ma dame（我的夫人），由 ma（我的）與 dame（夫人、源自拉丁語 domina）複合而成。早期為尊稱，現代除書信禮貌稱呼外，亦可用於稱呼特種營業場所的女性負責人。",
+      "definition": "1. a polite and formal form of address for a woman; 2. a woman who manages a brothel.",
+      "example": [
+        {
+          "eng": "How may I help you today, madam?",
+          "ch": "女士，今天有什麼我可以幫您的嗎？"
+        },
+        {
+          "eng": "The police raided the house and arrested the madam.",
+          "ch": "警方突襲了這棟房子並逮捕了女老闆。"
+        }
+      ]
+    },
+    {
+      "eng": "ma’am",
+      "kk": "mæm",
+      "tense": "n.",
+      "ch": [
+        [
+          "女士",
+          "太太"
+        ]
+      ],
+      "analysis": "名詞，為 madam 的縮寫形式，在美式英語與軍警服務語境中極為常見，作為對女性的尊稱，語義與 madam 第一義相同。",
+      "definition": "1. a contracted form of madam, used as a respectful form of address for a woman.",
+      "example": [
+        {
+          "eng": "Step this way, ma'am, please.",
+          "ch": "請這邊走，女士。"
+        }
+      ]
+    },
+    {
+      "eng": "magnify",
+      "kk": "ˈmæɡnɪˌfaɪ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "放大",
+          "擴大"
+        ],
+        [
+          "誇大",
+          "渲染"
+        ]
+      ],
+      "analysis": "及物動詞，由拉丁語 magnus（大）與 -ficare（作、使成為，源自 facere）複合而成，經由中古法語進入英語。字面義即「使變大」，現代主要用於光學上的放大，或抽象地誇大事態與困難。",
+      "definition": "1. to make something look larger than it is, especially by using a lens; 2. to make something seem more important, serious, or bigger than it really is.",
+      "example": [
+        {
+          "eng": "A microscope can magnify tiny organisms so we can study them.",
+          "ch": "顯微鏡可以放大微小的生物，以便我們進行研究。"
+        },
+        {
+          "eng": "Don't magnify your problems; they are not as bad as you think.",
+          "ch": "不要誇大你的問題；它們沒有你想的那麼糟。"
+        }
+      ]
+    },
+    {
+      "eng": "maiden",
+      "kk": "ˈmeɪdən",
+      "tense": "n.",
+      "ch": [
+        [
+          "少女",
+          "處女"
+        ]
+      ],
+      "analysis": "名詞，源自古英語 mæġden（年輕未婚女子），為日耳曼語源。現代多用於文學語境、歷史敘事，或作為形容詞修飾首次的活動（如 maiden voyage）。",
+      "definition": "1. an unmarried girl or young woman.",
+      "example": [
+        {
+          "eng": "The knight promised to protect the maiden from danger.",
+          "ch": "騎士答應保護少女免受危險。"
+        }
+      ]
+    },
+    {
+      "eng": "mainland",
+      "kk": "ˈmeɪnˌlænd",
+      "tense": "n.",
+      "ch": [
+        [
+          "本土",
+          "大陸"
+        ]
+      ],
+      "analysis": "名詞，由形容詞 main（主要的，源自古英語 mægen 強大、主要）與 land（土地）複合而成的現代透明構詞。指相對於周圍島嶼而言的主要陸地或國家本土。",
+      "definition": "1. the principal landmass of a country or continent, as contrasted with nearby islands.",
+      "example": [
+        {
+          "eng": "They took a ferry from the island back to the mainland.",
+          "ch": "他們搭乘渡輪從島上返回大陸。"
+        }
+      ]
+    },
+    {
+      "eng": "majestic",
+      "kk": "məˈdʒɛstɪk",
+      "tense": "adj.",
+      "ch": [
+        [
+          "宏偉的",
+          "壯麗的"
+        ],
+        [
+          "威嚴的",
+          "高貴的"
+        ]
+      ],
+      "analysis": "形容詞，由名詞 majesty 加上形容詞字尾 -ic 構成。用以形容建築、自然景觀的雄偉壯觀，或是人的舉止、氣質充滿威嚴與高貴感。",
+      "definition": "1. having or showing impressive beauty or scale; 2. having or showing dignity, grandeur, or regal power.",
+      "example": [
+        {
+          "eng": "We stood and admired the majestic peaks of the mountains.",
+          "ch": "我們駐足欣賞山巒的雄偉峰嶺。"
+        },
+        {
+          "eng": "The lion walked with a slow and majestic step.",
+          "ch": "獅子以緩慢而威嚴的步伐走著。"
+        }
+      ]
+    },
+    {
+      "eng": "majesty",
+      "kk": "ˈmædʒəsti",
+      "tense": "n.",
+      "ch": [
+        [
+          "宏偉",
+          "壯麗"
+        ],
+        [
+          "陛下（對帝王的尊稱）"
+        ]
+      ],
+      "analysis": "名詞，源自拉丁語 maiestas（尊嚴、偉大，源自 maior 更大），經古法語 maiesté 進入英語。除指事物展現的崇高與宏偉外，亦大寫用於對國王或女王的尊稱（Your Majesty）。",
+      "definition": "1. impressive beauty, scale, or dignity; 2. a title used when speaking to or about a king or queen.",
+      "example": [
+        {
+          "eng": "I was struck by the majesty of the ancient cathedral.",
+          "ch": "我被那座古老大教堂的宏偉所震撼。"
+        },
+        {
+          "eng": "Welcome to our country, Your Majesty.",
+          "ch": "歡迎來到我國，陛下。"
+        }
+      ]
+    },
+    {
+      "eng": "manuscript",
+      "kk": "ˈmænjəˌskrɪpt",
+      "tense": "n.",
+      "ch": [
+        [
+          "手稿",
+          "原稿"
+        ]
+      ],
+      "analysis": "名詞，由拉丁語 manus（手，來源於手寫）與 scriptus（寫下，動詞 scribere 的過去分詞）複合而成，經由中世紀拉丁語與法語進入英語。字面原意為「手寫本」，現今泛指書籍、文章的未出版原稿。",
+      "definition": "1. a writer's unpublished work or a document written by hand or typed before printing.",
+      "example": [
+        {
+          "eng": "The author submitted her manuscript to the publisher last week.",
+          "ch": "這位作者上週將她的手稿交給了出版社。"
+        }
+      ]
+    },
+    {
+      "eng": "maple",
+      "kk": "ˈmeɪpəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "楓樹",
+          "楓木"
+        ]
+      ],
+      "analysis": "名詞，源自古英語 mapulder，為日耳曼語源。指一種常見的落葉喬木，其木材堅硬，部分品種可產糖漿。",
+      "definition": "1. a type of tree with leaves that have points, widely grown in northern temperate regions.",
+      "example": [
+        {
+          "eng": "The red maple leaves are a symbol of autumn.",
+          "ch": "紅色的楓葉是秋天的象徵。"
+        }
+      ]
+    },
+    {
+      "eng": "mar",
+      "kk": "mɑr",
+      "tense": "vt.",
+      "ch": [
+        [
+          "損壞",
+          "破壞",
+          "玷污"
+        ]
+      ],
+      "analysis": "及物動詞，源自古英語 merran（妨礙、弄糟、毀壞），為日耳曼語源。指在表面或完美狀態上留下瑕疵，導致外觀、品質或愉悅感受損。",
+      "definition": "1. to spoil, damage, or impair the quality or appearance of something.",
+      "example": [
+        {
+          "eng": "A large scratch on the screen can mar the beauty of the phone.",
+          "ch": "螢幕上的一大道刮痕會損害手機的美觀。"
+        }
+      ]
+    },
+    {
+      "eng": "marginal",
+      "kk": "ˈmɑrdʒənəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "邊緣的",
+          "交界的"
+        ],
+        [
+          "微不足道的",
+          "僅僅勉強的"
+        ]
+      ],
+      "analysis": "形容詞，由名詞 margin（邊緣，源自拉丁語 margo）加上形容詞字尾 -al 構成。字面意為「在邊緣的」，引申為位於主流之外、不重要的，或在經濟學中指「邊際的、剛好達標的」。",
+      "definition": "1. situated at or near the edge or margin; 2. very small in amount or effect; barely sufficient.",
+      "example": [
+        {
+          "eng": "Only a marginal number of voters changed their minds.",
+          "ch": "只有極少數的選民改變了心意。"
+        },
+        {
+          "eng": "There has been only marginal improvement in the patient's condition.",
+          "ch": "病人的病情只有微幅的改善。"
+        }
+      ]
+    },
+    {
+      "eng": "martial",
+      "kk": "ˈmɑrʃəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "軍事的",
+          "尚武的"
+        ]
+      ],
+      "analysis": "形容詞，源自拉丁語 martialis（屬於戰神 Mars 的），經古法語進入英語。與戰爭、軍隊或武術相關（如 martial arts）。",
+      "definition": "1. connected with fighting, war, or the armed forces.",
+      "example": [
+        {
+          "eng": "The government declared martial law after the riots broke out.",
+          "ch": "暴動爆發後，政府宣佈實施戒嚴法。"
+        }
+      ]
+    },
+    {
+      "eng": "marvel",
+      "kk": "ˈmɑrvəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "奇蹟",
+          "令人驚奇的事物"
+        ]
+      ],
+      "analysis": "名詞，源自古法語 merveille（奇蹟），最終源自拉丁語 mirabilia（驚奇的事物，源自 mirari 驚嘆）。指令人讚嘆、感到不可思議的人事物。",
+      "definition": "1. a wonderful or astonishing person or thing.",
+      "example": [
+        {
+          "eng": "Modern medicine is a marvel of science.",
+          "ch": "現代醫學是科學的一大奇蹟。"
+        }
+      ]
+    },
+    {
+      "eng": "mastery",
+      "kk": "ˈmæstəri",
+      "tense": "n.",
+      "ch": [
+        [
+          "精通",
+          "熟練"
+        ],
+        [
+          "控制",
+          "掌控"
+        ]
+      ],
+      "analysis": "名詞，由名詞 master（大師、主人，源自拉丁語 magister）加上抽象名詞字尾 -y 構成。指對某項技能、知識的完全掌握與精通，或對局勢的掌控力。",
+      "definition": "1. comprehensive knowledge or skill in a subject or accomplishment; 2. control or dominance over someone or something.",
+      "example": [
+        {
+          "eng": "Her mastery of the violin took years of dedicated practice.",
+          "ch": "她對小提琴的精通花費了多年的專注練習。"
+        },
+        {
+          "eng": "Success in negotiations requires mastery of the facts.",
+          "ch": "談判成功需要對事實有充分的掌控。"
+        }
+      ]
+    },
+    {
+      "eng": "mediate",
+      "kk": "ˈmidiˌeɪt",
+      "tense": "vi.",
+      "ch": [
+        [
+          "調解",
+          "居中協調"
+        ]
+      ],
+      "analysis": "不及物動詞，源自中世紀拉丁語 mediatus（處於中間的，動詞 mediare 的過去分詞，源自 medius 中間）。指在雙方爭執或衝突中擔任中間人，協助達成協議。",
+      "definition": "1. to intervene between people in a dispute in order to bring about an agreement or reconciliation.",
+      "example": [
+        {
+          "eng": "An independent judge was brought in to mediate between the two companies.",
+          "ch": "請了一位獨立法官來調解兩家公司之間的糾紛。"
+        }
+      ]
+    },
+    {
+      "eng": "medieval",
+      "kk": "ˌmɛdiˈiːvəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "中世紀的"
+        ]
+      ],
+      "analysis": "形容詞，由拉丁語 medium（中間）與 aevum（時代、世紀）結合而成的國際學術詞彙（medius + aevum 經新拉丁語形成）。指歐洲中世紀（大約西元5世紀至15世紀）的歷史與文化特徵。",
+      "definition": "1. connected with the Middle Ages in European history.",
+      "example": [
+        {
+          "eng": "The town is famous for its well-preserved medieval castle.",
+          "ch": "這座城鎮以其保存完好的中世紀城堡聞名。"
+        }
+      ]
+    },
+    {
+      "eng": "meditate",
+      "kk": "ˈmɛdəˌteɪt",
+      "tense": "vi.",
+      "ch": [
+        [
+          "冥想",
+          "沉思"
+        ]
+      ],
+      "analysis": "不及物動詞，源自拉丁語 meditatus（沉思、策劃，動詞 meditari 的過去分詞）。原義為深思、反覆思量，現代多指透過心靈放空或專注進行冥想活動。",
+      "definition": "1. to think deeply or focus one's mind for a period of time, often for religious or spiritual purposes or for relaxation.",
+      "example": [
+        {
+          "eng": "She likes to meditate in silence for twenty minutes every morning.",
+          "ch": "她喜歡每天早晨在安靜中冥想二十分鐘。"
+        }
+      ]
+    },
+    {
+      "eng": "meditation",
+      "kk": "ˌmɛdəˈteɪʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "冥想",
+          "沉思"
+        ]
+      ],
+      "analysis": "名詞，由動詞 meditate 加上名詞字尾 -ion 構成。指進行冥想的行為或深思熟慮的狀態。",
+      "definition": "1. the action or practice of meditating; deep thought or mental exercise focusing on peace and calm.",
+      "example": [
+        {
+          "eng": "He finds peace and clarity through daily meditation.",
+          "ch": "他透過每天的冥想獲得內心的平靜與清晰。"
+        }
+      ]
+    },
+    {
+      "eng": "melancholy",
+      "kk": "ˈmɛlənˌkɑli",
+      "tense": "n.",
+      "ch": [
+        [
+          "憂鬱",
+          "悲傷"
+        ]
+      ],
+      "analysis": "名詞，源自希臘語 melas（黑色）與 cholē（膽汁）。古代醫學理論認為人體內黑色膽汁過多會導致憂鬱性格，經拉丁語與古法語進入英語。現泛指揮之不去的憂傷情緒。",
+      "definition": "1. a deep, pensive, and long-lasting sadness, typically with no obvious cause.",
+      "example": [
+        {
+          "eng": "A sense of melancholy descended on him as the autumn leaves fell.",
+          "ch": "隨著秋葉落下，一種憂鬱的情緒湧上他的心頭。"
+        }
+      ]
+    },
+    {
+      "eng": "mentality",
+      "kk": "mɛnˈtæləti",
+      "tense": "n.",
+      "ch": [
+        [
+          "心態",
+          "思維方式"
+        ]
+      ],
+      "analysis": "名詞，由形容詞 mental（心智的，源自拉丁語 mens 心智）加上名詞字尾 -ality 構成。指特定群體或個人的一般心智傾向、思考模式或看待事物的態度。",
+      "definition": "1. a particular way of thinking, attitude, or mental approach characteristic of a person or group.",
+      "example": [
+        {
+          "eng": "The team needs to change its losing mentality if they want to win.",
+          "ch": "這支球隊如果想要贏球，就需要改變他們失敗主義的心態。"
+        }
+      ]
+    },
+    {
+      "eng": "merchandise",
+      "kk": "ˈmɜrtʃənˌdaɪz",
+      "tense": "n.",
+      "ch": [
+        [
+          "商品",
+          "貨物"
+        ]
+      ],
+      "analysis": "名詞，源自古法語 marchandise（商品，源自拉丁語 mercari 買賣）。指用於商業買賣的各種貨物或零售商品。",
+      "definition": "1. goods that are bought and sold in commerce.",
+      "example": [
+        {
+          "eng": "The store displays its new merchandise in the front window.",
+          "ch": "這家店把新商品陳列在正面的櫥窗裡。"
+        }
+      ]
+    },
+    {
+      "eng": "mermaid",
+      "kk": "ˈmɜrˌmeɪd",
+      "tense": "n.",
+      "ch": [
+        [
+          "美人魚"
+        ]
+      ],
+      "analysis": "名詞，由古英語 mere（海洋、湖泊，源自日耳曼語）與 maid（少女）複合而成。字面原意為「海中少女」，指神話傳說中上半身為女人、下半身為魚的生物。",
+      "definition": "1. a legendary sea creature with the upper body of a woman and the tail of a fish.",
+      "example": [
+        {
+          "eng": "The fairytale tells the story of a mermaid who falls in love with a prince.",
+          "ch": "這部童話故事講述了一個美人魚愛上王子的故事。"
+        }
+      ]
+    },
+    {
+      "eng": "migrant",
+      "kk": "ˈmaɪɡrənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "移工",
+          "移民",
+          "候鳥"
+        ]
+      ],
+      "analysis": "名詞，源自拉丁語 migrans（動詞 migrare 遷移的現在分詞）。指為了工作、生存或季節交替而從一個地方遷移到另一個地方的人或動物。",
+      "definition": "1. a person who moves from one place to another, especially to find work or better living conditions; an animal that migrates.",
+      "example": [
+        {
+          "eng": "Many seasonal migrants arrive in the valley to harvest the crops.",
+          "ch": "許多季節性移工來到山谷收割莊稼。"
+        }
+      ]
+    },
+    {
+      "eng": "mimic",
+      "kk": "ˈmɪmɪk",
+      "tense": "vt.",
+      "ch": [
+        [
+          "模仿",
+          "學…的樣子"
+        ]
+      ],
+      "analysis": "及物動詞，源自希臘語 mimikos（模仿的，源自 mimos 演員、模仿者），經拉丁語進入英語。指為了娛樂、諷刺或學習，模仿他人的聲音、動作或外表。",
+      "definition": "1. to copy the voice, movements, or style of someone, especially in order to entertain or tease.",
+      "example": [
+        {
+          "eng": "The parrot can mimic human speech with surprising accuracy.",
+          "ch": "這隻鸚鵡能以驚人的準確度模仿人類說話。"
+        }
+      ]
+    },
+    {
+      "eng": "mingle",
+      "kk": "ˈmɪŋɡəl",
+      "tense": "vi.",
+      "ch": [
+        [
+          "混合",
+          "交融"
+        ],
+        [
+          "社交",
+          "與人交往"
+        ]
+      ],
+      "analysis": "不及物動詞，源自古英語 mengan（混合）的頻動形式。字面意為混合在一起，引申為在社交場合中與不同的人交流、互動。",
+      "definition": "1. to mix or cause to mix together; 2. to move around and talk to people at a social event.",
+      "example": [
+        {
+          "eng": "Oil and water do not mingle easily.",
+          "ch": "油和水不容易混在一起。"
+        },
+        {
+          "eng": "The host went around the room to mingle with the guests.",
+          "ch": "主人在房間裡走來走去，與賓客們社交互動。"
+        }
+      ]
+    },
+    {
+      "eng": "miraculous",
+      "kk": "mɪˈrækjuləs",
+      "tense": "adj.",
+      "ch": [
+        [
+          "奇蹟般的",
+          "不可思議的"
+        ]
+      ],
+      "analysis": "形容詞，由名詞 miracle（奇蹟，源自拉丁語 miraculum）加上形容詞字尾 -ous 構成。用以形容超越自然規律、極度幸運或令人驚嘆的事件。",
+      "definition": "1. occurring through divine or supernatural intervention, or extremely lucky and unexpected in a way that is hard to believe.",
+      "example": [
+        {
+          "eng": "He made a miraculous recovery after the severe accident.",
+          "ch": "他在那場嚴重事故後奇蹟般地康復了。"
+        }
+      ]
+    },
+    {
+      "eng": "miscellaneous",
+      "kk": "ˌmɪsəˈleɪniəs",
+      "tense": "adj.",
+      "ch": [
+        [
+          "形形色色的",
+          "雜項的",
+          "混雜的"
+        ]
+      ],
+      "analysis": "形容詞，源自拉丁語 miscellaneus（混合的，源自 miscere 混合）。用以形容由各種不同種類、互不相同的項目或事物組合而成的集合。",
+      "definition": "1. consisting of a mixture of various unrelated things or types.",
+      "example": [
+        {
+          "eng": "The drawer was full of old receipts, pens, and other miscellaneous items.",
+          "ch": "抽屜裡裝滿了舊收據、筆和其他雜物。"
+        }
+      ]
+    },
+    {
+      "eng": "mischievous",
+      "kk": "ˈmɪstʃəvəs",
+      "tense": "adj.",
+      "ch": [
+        [
+          "淘氣的",
+          "惡作劇的"
+        ]
+      ],
+      "analysis": "形容詞，源自中古法語 meschever（遭遇不幸），由 mes-（壞）與 chever（發生）組成，後義演變為喜愛惡作劇、調皮搗蛋。注意其發音為三音節，避免按拼字讀錯。",
+      "definition": "1. causing or showing a desire to cause trouble in a playful way.",
+      "example": [
+        {
+          "eng": "The mischievous boy hid his sister's favorite toy.",
+          "ch": "那個淘氣的男孩藏了他姐姐最喜歡的玩具。"
+        }
+      ]
+    },
+    {
+      "eng": "mistress",
+      "kk": "ˈmɪstrəs",
+      "tense": "n.",
+      "ch": [
+        [
+          "女主人",
+          "主婦"
+        ],
+        [
+          "情婦"
+        ]
+      ],
+      "analysis": "名詞，源自古法語 maistresse（女性主人，源自拉丁語 magister 的陰性形式）。早期指家中的女主人或精通某項技藝的女性，現代除傳統尊稱或學校女校長（Headmistress）外，亦常指婚外情的女性伴侶。",
+      "definition": "1. a woman who has control, authority, or ownership over something or someone; 2. a woman with whom a married man is having a long-term sexual relationship.",
+      "example": [
+        {
+          "eng": "She proved to be a gracious mistress of the house.",
+          "ch": "事實證明她是一位親切的家庭女主人。"
+        },
+        {
+          "eng": "He left his wife to live with his mistress.",
+          "ch": "他離開了妻子，與情婦同居。"
+        }
+      ]
+    },
+    {
+      "eng": "mobilize",
+      "kk": "ˈmoʊbəˌlaɪz",
+      "tense": "vt.",
+      "ch": [
+        [
+          "動員",
+          "調動",
+          "組織"
+        ]
+      ],
+      "analysis": "及物動詞，由形容詞 mobile（移動的，源自拉丁語 mobilis）加上動詞字尾 -ize 構成。原義為使之能夠移動，引申為為了特定目的（如軍事防衛、救災或選舉）而調動、組織人員與資源。",
+      "definition": "1. to organize and encourage people to take collective action; to prepare troops or resources for service or action.",
+      "example": [
+        {
+          "eng": "The government tried to mobilize support for the new environmental policy.",
+          "ch": "政府試圖動員各界支持這項新的環保政策。"
+        }
+      ]
+    },
+    {
+      "eng": "modernization",
+      "kk": "ˌmɑdərnəˈzeɪʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "現代化"
+        ]
+      ],
+      "analysis": "名詞，由動詞 modernize 加上名詞字尾 -ation 構成。指使社會、經濟、組織或體系符合現代標準、技術與思維的改造過程。",
+      "definition": "1. the process of adapting something to modern needs or habits, or updating a system or society.",
+      "example": [
+        {
+          "eng": "The city is undergoing rapid modernization to improve public transport.",
+          "ch": "這座城市正在進行快速的現代化改造，以改善大眾運輸。"
+        }
+      ]
+    },
+    {
+      "eng": "modernize",
+      "kk": "ˈmɑdərnˌaɪz",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使現代化",
+          "更新"
+        ]
+      ],
+      "analysis": "及物動詞，由形容詞 modern（現代的）加上動詞字尾 -ize 構成。指採用新技術、新方法或新思想，使某事物變得現代化。",
+      "definition": "1. to make something modern by adopting new methods, ideas, or equipment.",
+      "example": [
+        {
+          "eng": "The company needs to modernize its computer systems to stay competitive.",
+          "ch": "公司需要更新其電腦系統以保持競爭力。"
+        }
+      ]
+    },
+    {
+      "eng": "momentum",
+      "kk": "moʊˈmɛntəm",
+      "tense": "n.",
+      "ch": [
+        [
+          "動量",
+          "衝力",
+          "推進力"
+        ]
+      ],
+      "analysis": "名詞，直接借自拉丁語 momentum（運動中的力、衝力，源自 movimentum）。在物理學中指動量，在一般用法中指事物發展或運動過程中累積的衝勁與速度。",
+      "definition": "1. the impetus gained by a moving object; 2. the strength or force gained by something as it develops or grows.",
+      "example": [
+        {
+          "eng": "A rolling ball gathers momentum as it goes down the hill.",
+          "ch": "滾動的球在下山時會累積越來越大的衝力。"
+        },
+        {
+          "eng": "The campaign lost momentum after the candidate made a major gaffe.",
+          "ch": "在該候選人失言之後，競選活動失去了原有的推進力。"
+        }
+      ]
+    },
+    {
+      "eng": "monarch",
+      "kk": "ˈmɑnɑrk",
+      "tense": "n.",
+      "ch": [
+        [
+          "君主",
+          "國王或女王"
+        ],
+        [
+          "黑脈金斑蝶"
+        ]
+      ],
+      "analysis": "名詞，源自希臘語 monarkhēs（由 monos 唯一 + archein 統治組成）。指國王、女王或皇帝等最高統治者，亦可用來指一種大型的北美斑蝶（monarch butterfly）。",
+      "definition": "1. a sovereign head of state, especially a king, queen, or emperor; 2. a large North American butterfly with orange and black wings.",
+      "example": [
+        {
+          "eng": "The monarch addressed the nation on television.",
+          "ch": "君主在電視上向全國發表演說。"
+        },
+        {
+          "eng": "Monarch butterflies migrate thousands of miles every winter.",
+          "ch": "黑脈金斑蝶每年冬天會遷徙數千英里。"
+        }
+      ]
+    },
+    {
+      "eng": "monetary",
+      "kk": "ˈmɑnəˌtɛri",
+      "tense": "adj.",
+      "ch": [
+        [
+          "貨幣的",
+          "金融的"
+        ]
+      ],
+      "analysis": "形容詞，源自拉丁語 monetarius（關於鑄幣的，源自 moneta 錢幣、鑄幣廠）。與國家的貨幣、金融政策或金錢價值相關。",
+      "definition": "1. relating to money or a country's currency and financial system.",
+      "example": [
+        {
+          "eng": "The central bank decided to tighten monetary policy to control inflation.",
+          "ch": "中央銀行決定收緊貨幣政策以控制通貨膨脹。"
+        }
+      ]
+    },
+    {
+      "eng": "monotony",
+      "kk": "məˈnɑtəni",
+      "tense": "n.",
+      "ch": [
+        [
+          "單調",
+          "千篇一律"
+        ]
+      ],
+      "analysis": "名詞，源自希臘語 monotonia（monos 單一 + tonos 聲音、音調）。原義為單一音調，引申為生活、工作或環境因缺乏變化而產生的枯燥與單調感。",
+      "definition": "1. lack of variety and interest; tedious repetition and routine.",
+      "example": [
+        {
+          "eng": "She traveled to break the monotony of her daily routine.",
+          "ch": "她去旅行是為了打破日常生活單調的乏味感。"
+        }
+      ]
+    },
+    {
+      "eng": "monstrous",
+      "kk": "ˈmɑnstrəs",
+      "tense": "adj.",
+      "ch": [
+        [
+          "巨大的",
+          "極大的"
+        ],
+        [
+          "駭人聽聞的",
+          "荒謬的"
+        ]
+      ],
+      "analysis": "形容詞，由名詞 monster（怪物，源自拉丁語 monstrum）加上形容詞字尾 -ous 構成。原義為像怪物一樣的，引申為形體異常巨大，或行為、情理極其邪惡與荒謬。",
+      "definition": "1. having the ugly or frightening appearance of a monster; unusually large; 2. shockingly wrong, unfair, or evil.",
+      "example": [
+        {
+          "eng": "The construction project required a monstrous amount of concrete.",
+          "ch": "這項建設工程需要極大數量的混凝土。"
+        },
+        {
+          "eng": "Committing crimes against innocent people is a monstrous act.",
+          "ch": "對無辜人民犯罪是駭人聽聞的惡行。"
+        }
+      ]
+    },
+    {
+      "eng": "moody",
+      "kk": "ˈmuːdi",
+      "tense": "adj.",
+      "ch": [
+        [
+          "情緒化的",
+          "喜怒無常的"
+        ],
+        [
+          "憂鬱的"
+        ]
+      ],
+      "analysis": "形容詞，由名詞 mood（心情、心境，源自古英語 mōd 心智、精神）加上形容詞字尾 -y 構成。指容易突然轉換情緒、悶悶不樂或帶有憂鬱氣息。",
+      "definition": "1. given to unpredictable changes of mood; 2. sullen or gloomy.",
+      "example": [
+        {
+          "eng": "He can be very moody at times, shifting from happy to angry quickly.",
+          "ch": "他有時會非常情緒化，很快從快樂轉為生氣。"
+        },
+        {
+          "eng": "The room was lit with moody lighting to create a romantic atmosphere.",
+          "ch": "房間裡亮著有些憂鬱迷幻的燈光，以營造浪漫的氛圍。"
+        }
+      ]
+    },
+    {
+      "eng": "morale",
+      "kk": "məˈræl",
+      "tense": "n.",
+      "ch": [
+        [
+          "士氣",
+          "員工鬥志"
+        ]
+      ],
+      "analysis": "名詞，源自法語 moral（道德、精神），經英語吸收後專門用來指團體（如軍隊、員工或學生）整體的信心、熱情與鬥志。",
+      "definition": "1. the confidence, enthusiasm, and discipline of a person or group at a particular time.",
+      "example": [
+        {
+          "eng": "The team victory greatly boosted the morale of all employees.",
+          "ch": "這場團隊勝利極大地提振了所有員工的士氣。"
+        }
+      ]
+    },
+    {
+      "eng": "mortal",
+      "kk": "ˈmɔrtəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "會死的",
+          "凡人的"
+        ],
+        [
+          "致命的"
+        ]
+      ],
+      "analysis": "形容詞，源自拉丁語 mortalis（源自 mors 死亡），經由法語進入英語。指生物終究會死亡的本質，亦可指會造成死亡的傷害或仇恨。",
+      "definition": "1. subject to death; having a human nature; 2. causing or likely to cause death.",
+      "example": [
+        {
+          "eng": "All human beings are mortal and must face death eventually.",
+          "ch": "所有人類都是會死的，最終都必須面對死亡。"
+        },
+        {
+          "eng": "He suffered a mortal wound in the battle.",
+          "ch": "他在戰鬥中受了致命傷。"
+        }
+      ]
+    },
+    {
+      "eng": "motherhood",
+      "kk": "ˈmʌðərˌhʊd",
+      "tense": "n.",
+      "ch": [
+        [
+          "母親身份",
+          "母性"
+        ]
+      ],
+      "analysis": "名詞，由名詞 mother（母親）加上名詞字尾 -hood（表示狀態或身分，源自日耳曼語源）構成。指身為母親的狀態、角色或母性的表現。",
+      "definition": "1. the state or experience of being a mother.",
+      "example": [
+        {
+          "eng": "She embraced motherhood with great joy and patience.",
+          "ch": "她懷著巨大的喜悅與耐心迎接母親身份。"
+        }
+      ]
+    },
+    {
+      "eng": "motto",
+      "kk": "ˈmɑtoʊ",
+      "tense": "n.",
+      "ch": [
+        [
+          "座右銘",
+          "格言",
+          "口號"
+        ]
+      ],
+      "analysis": "名詞，源自義大利語 motto（字、格言，源自晚期拉丁語 muttum 咕噥、話語）。指用以表達個人信念、組織宗旨或人生哲學的短句。",
+      "definition": "1. a short sentence or phrase chosen as encapsulating the beliefs or ideals of an individual, family, or institution.",
+      "example": [
+        {
+          "eng": "Honesty is the best policy is his lifelong motto.",
+          "ch": "誠實為上策是他一生的座右銘。"
+        }
+      ]
+    },
+    {
+      "eng": "mound",
+      "kk": "maʊnd",
+      "tense": "n.",
+      "ch": [
+        [
+          "土堆",
+          "小丘"
+        ]
+      ],
+      "analysis": "名詞，源自古英語 mund（手掌、保護）或與凱爾特語源相關的方言詞彙，意指堆積而成的土丘、小山或運動場上的投手丘。",
+      "definition": "1. a rounded mass of earth, stones, or other material piled up.",
+      "example": [
+        {
+          "eng": "Children love to climb up the grassy mound in the park.",
+          "ch": "孩子們喜歡爬上公園裡的草地土堆。"
+        }
+      ]
+    },
+    {
+      "eng": "mourn",
+      "kk": "mɔrn",
+      "tense": "vi.",
+      "ch": [
+        [
+          "哀悼",
+          "悲傷"
+        ]
+      ],
+      "analysis": "不及物動詞，源自古英語 murnan（感到憂慮、哀悼），為日耳曼語源。指因親友過世或重大損失而感到悲痛與哀悼。",
+      "definition": "1. to feel or show deep sorrow or regret for someone's death or a loss.",
+      "example": [
+        {
+          "eng": "The whole nation gathered to mourn the loss of the great leader.",
+          "ch": "全國民眾聚集在一起哀悼這位偉大領袖的逝世。"
+        }
+      ]
+    },
+    {
+      "eng": "mournful",
+      "kk": "ˈmɔrnfəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "悲傷的",
+          "哀傷的"
+        ]
+      ],
+      "analysis": "形容詞，由動詞 mourn 加上形容詞字尾 -ful（充滿…的）構成。用以形容充滿悲傷情緒的表情、聲音或氣氛。",
+      "definition": "1. feeling, expressing, or inducing sadness, grief, or regret.",
+      "example": [
+        {
+          "eng": "A mournful melody played softly in the background.",
+          "ch": "背景音樂輕輕奏著一首悲傷的旋律。"
+        }
+      ]
+    },
+    {
+      "eng": "mow",
+      "kk": "moʊ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "割（草、莊稼）"
+        ]
+      ],
+      "analysis": "及物動詞，源自古英語 mawan（收割、割草），為日耳曼語源。指使用割草機或鐮刀修剪草坪或收割農作物。",
+      "definition": "1. to cut down grass, grain, or other plants with a machine or scythe.",
+      "example": [
+        {
+          "eng": "He spends every Saturday morning mowing the lawn.",
+          "ch": "他每週六早晨都花時間修剪草坪。"
+        }
+      ]
+    },
+    {
+      "eng": "muse",
+      "kk": "mjuːz",
+      "tense": "vi.",
+      "ch": [
+        [
+          "沉思",
+          "冥想"
+        ]
+      ],
+      "analysis": "不及物動詞，源自希臘神話中的九位文藝女神 Muses（繆斯），經拉丁語與法語演變，動詞原義為「陷入沉思、陷入靈感湧現的凝想中」。",
+      "definition": "1. to be absorbed in thought; to think about something carefully and thoroughly.",
+      "example": [
+        {
+          "eng": "She stood by the window, musing on the future of her career.",
+          "ch": "她站在窗前，沉思著她未來的職業生涯。"
+        }
+      ]
+    },
+    {
+      "eng": "mustache",
+      "kk": "ˈmʌstæʃ",
+      "tense": "n.",
+      "ch": [
+        [
+          "八字鬍",
+          "小鬍子"
+        ]
+      ],
+      "analysis": "名詞，源自法語 moustache，最終可追溯至希臘語 mystax（上唇、鬍鬚）。指男性上唇留有的鬍鬚。",
+      "definition": "1. a strip of hair left to grow above the upper lip by men.",
+      "example": [
+        {
+          "eng": "He decided to grow a mustache for the charity event.",
+          "ch": "他決定為了慈善活動留一把小鬍子。"
+        }
+      ]
+    }
+  ]
+}

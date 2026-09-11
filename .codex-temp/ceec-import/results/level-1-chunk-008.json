@@ -1,0 +1,1299 @@
+{
+  "level": 1,
+  "chunkIndex": 8,
+  "inputs": [
+    "garden",
+    "gate",
+    "get",
+    "ghost",
+    "giant",
+    "gift",
+    "girl",
+    "give",
+    "glad",
+    "glass",
+    "glasses",
+    "glove",
+    "gloves",
+    "go",
+    "god",
+    "goddess",
+    "good",
+    "goodbye",
+    "grade",
+    "grandfather",
+    "grandmother",
+    "grass",
+    "gray",
+    "great",
+    "green",
+    "ground",
+    "group",
+    "grow",
+    "guess",
+    "guitar",
+    "guy",
+    "habit",
+    "hair",
+    "half",
+    "ham",
+    "hand",
+    "hang",
+    "happen",
+    "happy",
+    "hard",
+    "hat",
+    "hate",
+    "have",
+    "he",
+    "him",
+    "his",
+    "himself",
+    "head",
+    "headache",
+    "health"
+  ],
+  "rows": [
+    {
+      "eng": "garden",
+      "kk": "ˈgɑrdn",
+      "tense": "n.",
+      "ch": [
+        [
+          "花園",
+          "庭園"
+        ],
+        [
+          "菜園",
+          "果園"
+        ]
+      ],
+      "analysis": "此字為名詞，對應 lemma garden。源自中古英語 garten、gardin，最終借自盎格魯-諾曼語 gardin、古法語 gart、gard（源自日耳曼語族，與古高地德語 garto「圍場、花園」同源，最終可追溯至原始印歐語 *gʰhort-「圍欄、圍住」）。語義從原始的「圍起來的土地」演變為現代的「供觀賞的花園」或「種植蔬果的園子」。",
+      "definition": "1. a piece of ground used for growing flowers, fruit, or vegetables; 2. an ornamental public park or garden.",
+      "example": [
+        {
+          "eng": "They spend every weekend planting flowers in their garden.",
+          "ch": "他們每個週末都在花園裡種花。"
+        },
+        {
+          "eng": "We grow our own tomatoes and lettuce in the back garden.",
+          "ch": "我們在後院的菜園裡種自己的番茄和生菜。"
+        }
+      ]
+    },
+    {
+      "eng": "garden",
+      "kk": "ˈgɑrdn",
+      "tense": "vi.",
+      "ch": [
+        [
+          "從事園藝",
+          "整理花園"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，由名詞 garden 轉品而來。指在花園中進行種植、修剪或除草等園藝活動。",
+      "definition": "1. to cultivate or work in a garden.",
+      "example": [
+        {
+          "eng": "My grandmother loves to garden in the early morning.",
+          "ch": "我奶奶喜歡在清晨整理花園。"
+        }
+      ]
+    },
+    {
+      "eng": "gate",
+      "kk": "ɡet",
+      "tense": "n.",
+      "ch": [
+        [
+          "大門",
+          "柵欄門"
+        ],
+        [
+          "登機門",
+          "候機口"
+        ]
+      ],
+      "analysis": "此字為名詞，對應 lemma gate。源自古英語 geat「洞口、大門、開口」，屬於日耳曼語族繼承詞（源自原始日耳曼語 *gatą「開口、洞」）。語義從早期的「圍牆或籬笆上的開口或門」延伸至現代機場或車站中供旅客通往交通工具的出入口（登機門）。",
+      "definition": "1. a hinged barrier used to close an opening in a fence or wall; 2. a specific exit or entrance in an airport where passengers board an aircraft.",
+      "example": [
+        {
+          "eng": "Please close the gate so the dog cannot escape.",
+          "ch": "請把大門關好，這樣狗才跑不出去。"
+        },
+        {
+          "eng": "Flight 204 to Tokyo is now boarding at Gate 12.",
+          "ch": "飛往東京的 204 航班現在正於 12 號登機門登機。"
+        }
+      ]
+    },
+    {
+      "eng": "get",
+      "kk": "ɡɛt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "得到",
+          "獲得",
+          "取得"
+        ],
+        [
+          "買到",
+          "購買"
+        ],
+        [
+          "使得",
+          "讓"
+        ],
+        [
+          "理解",
+          "明白"
+        ]
+      ],
+      "analysis": "此字為及物動詞，對應 lemma get（過去式 got，過去分詞 gotten 或 got）。源自古諾斯語 geta「得到、獲取、猜測」，由日耳曼語族繼承（與古英語 gietan 同源）。核心語義由「抓取、奪取」演變成「獲得、取得」，進而引申出「購買、使處於某狀態、理解」等多種高頻用法。",
+      "definition": "1. to come to have or hold something; receive or obtain; 2. to buy or purchase something; 3. to cause someone or something to be in a specified state; 4. to understand or comprehend something.",
+      "example": [
+        {
+          "eng": "She worked hard to get a promotion.",
+          "ch": "她努力工作以獲得升遷。"
+        },
+        {
+          "eng": "I need to get some milk from the supermarket.",
+          "ch": "我需要去超級市場買些牛奶。"
+        },
+        {
+          "eng": "Please get the children ready for school.",
+          "ch": "請讓孩子們準備好去上學。"
+        },
+        {
+          "eng": "I don't quite get the joke you just told.",
+          "ch": "我不太懂你剛剛講的笑話。"
+        }
+      ]
+    },
+    {
+      "eng": "get",
+      "kk": "ɡɛt",
+      "tense": "vi.",
+      "ch": [
+        [
+          "到達",
+          "抵達"
+        ],
+        [
+          "變得",
+          "成為"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，對應 lemma get。作「到達」解時常與介詞副詞（如 to、there）連用；作「變得」解時為連綴動詞，後接形容詞表示狀態的轉變。",
+      "definition": "1. to arrive at a place or reach a destination; 2. to become or grow to be in a specified state.",
+      "example": [
+        {
+          "eng": "What time did you get home last night?",
+          "ch": "你昨晚幾點到家的？"
+        },
+        {
+          "eng": "It gets dark much earlier in the winter.",
+          "ch": "冬天時天黑得早得多。"
+        }
+      ]
+    },
+    {
+      "eng": "ghost",
+      "kk": "ɡost",
+      "tense": "n.",
+      "ch": [
+        [
+          "鬼",
+          "幽靈",
+          "靈魂"
+        ]
+      ],
+      "analysis": "此字為名詞，對應 lemma ghost。源自古英語 gāst「靈魂、精神、生命力、幽靈」，屬於日耳曼語族繼承詞（源自原始日耳曼語 *gaistaz「靈魂、憤怒」）。早期主要指人的靈魂或精神，中世紀後語義逐漸特化為死者的顯現或幽靈。",
+      "definition": "1. an apparition of a dead person that is believed to appear or take form to the living.",
+      "example": [
+        {
+          "eng": "The children told spooky stories about a ghost living in the old house.",
+          "ch": "孩子們講述了關於住在老房子裡的一隻鬼的恐怖故事。"
+        }
+      ]
+    },
+    {
+      "eng": "giant",
+      "kk": "ˈdʒaɪənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "巨人"
+        ],
+        [
+          "龐然大物",
+          "巨無霸企業"
+        ]
+      ],
+      "analysis": "此字為名詞，對應 lemma giant。源自中古英語 giaunt，借自古法語 gigant，最終源自拉丁語 gīgant-（主格 gīgās），源自希臘語 gīgas「巨人、大地之子」。語義從神話中的巨大生物延伸至現實中極為巨大的人、動物或規模龐大的企業組織。",
+      "definition": "1. an imaginary creature like a human but of superhuman size; 2. a person, animal, or organization of very great size, power, or importance.",
+      "example": [
+        {
+          "eng": "In the fairy tale, the hero fights a ferocious giant.",
+          "ch": "在童話故事中，英雄與兇猛的巨人戰鬥。"
+        },
+        {
+          "eng": "The small bookstore had to compete with an online retail giant.",
+          "ch": "這家小書店不得不與一家網路零售巨無霸競爭。"
+        }
+      ]
+    },
+    {
+      "eng": "giant",
+      "kk": "ˈdʒaɪənt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "巨大的",
+          "特大的"
+        ]
+      ],
+      "analysis": "此字為形容詞，由名詞 giant 轉用或直接由拉丁語形容詞化而來，用以形容體積、規模遠超尋常的事物。",
+      "definition": "1. of very great size or force; much larger than others of its kind.",
+      "example": [
+        {
+          "eng": "They found a giant footprint in the muddy forest trail.",
+          "ch": "他們在泥濘的森林小徑上發現了一個巨大的腳印。"
+        }
+      ]
+    },
+    {
+      "eng": "gift",
+      "kk": "ɡɪft",
+      "tense": "n.",
+      "ch": [
+        [
+          "禮物",
+          "贈品"
+        ],
+        [
+          "天賦",
+          "才能"
+        ]
+      ],
+      "analysis": "此字為名詞，對應 lemma gift。源自古英語 gift、gyft「禮物、婚姻價格」，源自原始日耳曼語 *giftiz「給予」（與動詞 give 同源）。中世紀時義項逐漸固定為「無償給予的物品（禮物）」及「上天給予的非凡能力（天賦）」。",
+      "definition": "1. a thing given willingly to someone without payment; a present; 2. a natural ability or talent.",
+      "example": [
+        {
+          "eng": "Thank you so much for the wonderful birthday gift.",
+          "ch": "非常感謝你送的精彩生日禮物。"
+        },
+        {
+          "eng": "She has a rare gift for playing the piano by ear.",
+          "ch": "她具有憑聽覺彈奏鋼琴的罕見天賦。"
+        }
+      ]
+    },
+    {
+      "eng": "girl",
+      "kk": "ɡɝl",
+      "tense": "n.",
+      "ch": [
+        [
+          "女孩",
+          "少女"
+        ],
+        [
+          "女兒",
+          "女性"
+        ]
+      ],
+      "analysis": "此字為名詞，對應 lemma girl。源自中古英語 girle、gerle「小孩、年輕人（不分男女）」、古英語 *gyrle（源自日耳曼語族），其確切上源複雜。中古晚期起，詞義逐漸專門縮小為指稱年輕女性或女童，現代亦可泛指各年齡層的女性。",
+      "definition": "1. a female child or young woman; 2. a daughter or female person of any age.",
+      "example": [
+        {
+          "eng": "The little girl was playing happily in the park.",
+          "ch": "那個小女孩在公園裡開心地玩耍。"
+        },
+        {
+          "eng": "They have two boys and one girl.",
+          "ch": "他們有兩個男孩和一個女孩。"
+        }
+      ]
+    },
+    {
+      "eng": "give",
+      "kk": "ɡɪv",
+      "tense": "vt.",
+      "ch": [
+        [
+          "給",
+          "給予",
+          "贈送"
+        ],
+        [
+          "提供",
+          "舉辦",
+          "發出"
+        ]
+      ],
+      "analysis": "此字為及物動詞，對應 lemma give（過去式 gave，過去分詞 given）。源自古英語 giefan「給予、交付」，屬於日耳曼語族繼承詞（源自原始日耳曼語 *gebaną）。核心語義為將某物轉移給他人，延伸出舉辦活動（give a party）、發出聲音或意見等用法。",
+      "definition": "1. to freely transfer the possession of something to someone; hand over; 2. to provide, supply, or organize something such as a performance, party, or information.",
+      "example": [
+        {
+          "eng": "She gave him a book for his birthday.",
+          "ch": "她送了他一本書作為生日禮物。"
+        },
+        {
+          "eng": "The teacher will give a lecture on modern history tomorrow.",
+          "ch": "老師明天將舉辦一場關於現代史的演講。"
+        }
+      ]
+    },
+    {
+      "eng": "glad",
+      "kk": "glæd",
+      "tense": "adj.",
+      "ch": [
+        [
+          "高興的",
+          "快樂的",
+          "樂意的"
+        ]
+      ],
+      "analysis": "此字為形容詞，對應 lemma glad。源自古英語 glæd「明亮的、歡快的、高興的」，屬於日耳曼語族繼承詞（源自原始日耳曼語 *gladaz「滑的、閃亮的、明亮的」）。語義由視覺上的「明亮閃爍」演變為心理上的「歡快、高興」。",
+      "definition": "1. pleased, happy, or expressing satisfaction and joy.",
+      "example": [
+        {
+          "eng": "I am so glad to hear that you passed the exam.",
+          "ch": "很高興聽到你通過了考試。"
+        }
+      ]
+    },
+    {
+      "eng": "glass",
+      "kk": "glæs",
+      "tense": "n.",
+      "ch": [
+        [
+          "玻璃"
+        ],
+        [
+          "玻璃杯",
+          "一杯之量"
+        ]
+      ],
+      "analysis": "此字為名詞，對應 lemma glass。源自古英語 glæs「玻璃、琥珀色物質」，屬於日耳曼語族繼承詞（源自原始日耳曼語 *glasą「玻璃、發光體」）。隨著製造工藝的發展，語義從物質名稱延伸出用玻璃製成的盛水容器（杯子）。",
+      "definition": "1. a hard, brittle, transparent or translucent substance made by melting silica; 2. a drinking container made of glass, or the quantity it holds.",
+      "example": [
+        {
+          "eng": "The window was made of thick safety glass.",
+          "ch": "這扇窗戶是用厚厚的安全玻璃製成的。"
+        },
+        {
+          "eng": "He poured himself a cold glass of water.",
+          "ch": "他給自己倒了一杯冷水。"
+        }
+      ]
+    },
+    {
+      "eng": "glasses",
+      "kk": "ˈglæsɪz",
+      "tense": "n.",
+      "ch": [
+        [
+          "眼鏡"
+        ]
+      ],
+      "analysis": "此字為名詞複數形，對應 lemma glass 的複數形式 glasses（當作單一獨立詞彙指稱眼鏡）。源自早期的「玻璃片（複數）」引申為用來矯正視力或保護眼睛的光學鏡片與鏡框組合。",
+      "definition": "1. a pair of lenses set in a frame worn on the nose and ears to correct vision or protect the eyes.",
+      "example": [
+        {
+          "eng": "She needs to wear glasses when she reads books.",
+          "ch": "她看書時需要戴眼鏡。"
+        }
+      ]
+    },
+    {
+      "eng": "glove",
+      "kk": "glʌv",
+      "tense": "n.",
+      "ch": [
+        [
+          "手套"
+        ]
+      ],
+      "analysis": "此字為名詞，對應 lemma glove。源自古英語 glōf「手套」，屬於日耳曼語族繼承詞（源自原始日耳曼語 *glofuz）。傳統上指覆蓋手部和各手指的禦寒或保護裝備。",
+      "definition": "1. a covering for the hand having separate sheaths for each finger and the thumb.",
+      "example": [
+        {
+          "eng": "Make sure to wear warm wool gloves in the winter snow.",
+          "ch": "在冬天的雪地裡一定要戴保暖的羊毛手套。"
+        }
+      ]
+    },
+    {
+      "eng": "gloves",
+      "kk": "glʌvz",
+      "tense": "n.",
+      "ch": [
+        [
+          "手套（複數）"
+        ]
+      ],
+      "analysis": "此字為名詞 glove 的複數形式，日常生活中因手套通常成雙使用，亦常直接以複數形指代一雙手套或多隻手套。",
+      "definition": "1. plural form of glove; coverings for the hands, typically worn in pairs.",
+      "example": [
+        {
+          "eng": "She lost one of her favorite leather gloves.",
+          "ch": "她弄丟了她最喜歡的一隻皮手套。"
+        }
+      ]
+    },
+    {
+      "eng": "go",
+      "kk": "goʊ",
+      "tense": "vi.",
+      "ch": [
+        [
+          "去",
+          "走",
+          "前往"
+        ],
+        [
+          "變成",
+          "轉變為"
+        ],
+        [
+          "運行",
+          "運作"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，對應 lemma go（過去式 went，過去分詞 gone）。源自古英語 gān「走、去」，屬於日耳曼語族繼承詞（源自原始日耳曼語 *gā- / *gē-）。核心義為從一地移動到另一地；連綴用法表示狀態變壞或改變；亦可用於機械或機制的運作。",
+      "definition": "1. to move from one place to another; travel; 2. to pass into a specified state, especially a worse one; 3. to function or operate properly.",
+      "example": [
+        {
+          "eng": "We are going to Japan for our summer vacation.",
+          "ch": "我們夏天要去日本度假。"
+        },
+        {
+          "eng": "The milk will go bad if you leave it out of the fridge.",
+          "ch": "如果你把牛奶放在冰箱外面，它會壞掉。"
+        },
+        {
+          "eng": "Does this watch still go after all these years?",
+          "ch": "這隻手錶過了好多年還會走嗎？"
+        }
+      ]
+    },
+    {
+      "eng": "god",
+      "kk": "gɑd",
+      "tense": "n.",
+      "ch": [
+        [
+          "神",
+          "上帝",
+          "真神"
+        ]
+      ],
+      "analysis": "此字為名詞，對應 lemma god。源自古英語 god「神、上帝、偶像」，屬於日耳曼語族繼承詞（源自原始日耳曼語 *guđan「被崇拜的對象」）。在基督教文化中大寫 God 指唯一真神（上帝），小寫 god 則指多神教中的神祇。",
+      "definition": "1. the creator and ruler of the universe and source of all moral authority; a supreme being; 2. a superhuman being or spirit worshipped as having power over nature or human fortunes.",
+      "example": [
+        {
+          "eng": "They prayed to God for peace and health.",
+          "ch": "他們向上帝祈求和平與健康。"
+        },
+        {
+          "eng": "In Greek mythology, Zeus is the king of the gods.",
+          "ch": "在希臘神話中，宙斯是眾神之王。"
+        }
+      ]
+    },
+    {
+      "eng": "goddess",
+      "kk": "ˈgɑdəs",
+      "tense": "n.",
+      "ch": [
+        [
+          "女神"
+        ]
+      ],
+      "analysis": "此字為名詞，對應 lemma goddess。由名詞 god 加上女性名詞字尾 -ess 構成（中古英語 godesse）。指女性神祇。",
+      "definition": "1. a female god or deity.",
+      "example": [
+        {
+          "eng": "Athena is the Greek goddess of wisdom and warfare.",
+          "ch": "雅典娜是希臘神話中象徵智慧與戰爭的女神。"
+        }
+      ]
+    },
+    {
+      "eng": "good",
+      "kk": "gʊd",
+      "tense": "adj.",
+      "ch": [
+        [
+          "好的",
+          "優良的",
+          "愉快的"
+        ],
+        [
+          "擅長的",
+          "精通的"
+        ]
+      ],
+      "analysis": "此字為形容詞，對應 lemma good。源自古英語 gōd「好的、適宜的、優秀的」，屬於日耳曼語族繼承詞（源自原始日耳曼語 *gōdaz「適合的、好的」）。核心義為符合標準、品質優良或令人滿意；亦可接介詞 at 表示在某方面表現優秀。",
+      "definition": "1. of high quality; satisfactory, pleasant, or admirable; 2. proficient or skillful at something.",
+      "example": [
+        {
+          "eng": "We had a really good time at the party last night.",
+          "ch": "我們昨晚在派對上玩得非常開心。"
+        },
+        {
+          "eng": "She is very good at solving complex math problems.",
+          "ch": "她非常擅長解決複雜的數學題。"
+        }
+      ]
+    },
+    {
+      "eng": "goodbye",
+      "kk": "ˌgʊdˈbaɪ",
+      "tense": "n.",
+      "ch": [
+        [
+          "告別",
+          "道別"
+        ],
+        [
+          "再見"
+        ]
+      ],
+      "analysis": "此字為感嘆詞或名詞，對應 lemma goodbye。歷史上源自 16 世紀的縮寫短語 God be with ye（願上帝與你同在），隨著時間語音融合演變為 goodbye，用作離別時的祝福與道別語。",
+      "definition": "1. an utterance of good wishes when parting; 2. a farewell.",
+      "example": [
+        {
+          "eng": "They exchanged warm goodbyes before boarding the train.",
+          "ch": "他們在登車前互道珍重告別。"
+        },
+        {
+          "eng": "She waved her hand and said goodbye to her friends.",
+          "ch": "她揮揮手向朋友們說再見。"
+        }
+      ]
+    },
+    {
+      "eng": "grade",
+      "kk": "greɪd",
+      "tense": "n.",
+      "ch": [
+        [
+          "等級",
+          "評定級別"
+        ],
+        [
+          "成績",
+          "分數"
+        ],
+        [
+          "年級"
+        ]
+      ],
+      "analysis": "此字為名詞，對應 lemma grade。源自拉丁語 gradus「步、台階、階段、等級」，經由法語進入英語。語義從實體的「台階、階梯」抽象化為「品質等級、學業分數、學校年級」。",
+      "definition": "1. a particular level of rank, quality, or value; 2. a mark or score indicating a student's performance; 3. a year of study in a primary or secondary school.",
+      "example": [
+        {
+          "eng": "This meat is of the highest commercial grade.",
+          "ch": "這種肉是最高商業等級的。"
+        },
+        {
+          "eng": "She was thrilled to get an A grade on her English essay.",
+          "ch": "她英文作文拿到 A 的成績感到非常興奮。"
+        },
+        {
+          "eng": "My younger brother is now in the fifth grade.",
+          "ch": "我弟弟現在上五年級。"
+        }
+      ]
+    },
+    {
+      "eng": "grandfather",
+      "kk": "ˈgrændˌfɑðɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "祖父",
+          "外祖父"
+        ]
+      ],
+      "analysis": "此字為複合名詞，對應 lemma grandfather。由形容詞 grand（源自古法語 grant，源自拉丁語 grandis「宏大的、年長的」）與名詞 father（古英語 fader）結合而成。指父親或母親的父親。",
+      "definition": "1. the father of one's father or mother.",
+      "example": [
+        {
+          "eng": "My grandfather loves to tell stories about his childhood.",
+          "ch": "我外祖父喜歡講述他童年的故事。"
+        }
+      ]
+    },
+    {
+      "eng": "grandmother",
+      "kk": "ˈgrændˌmʌðɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "祖母",
+          "外祖母"
+        ]
+      ],
+      "analysis": "此字為複合名詞，對應 lemma grandmother。由 grand（宏大的、年長的）與 mother（母親）組合而成。指父親或母親的母親。",
+      "definition": "1. the mother of one's father or mother.",
+      "example": [
+        {
+          "eng": "Grandmother bakes delicious chocolate cookies for us every Sunday.",
+          "ch": "祖母每週日都為我們烤美味的巧克力餅乾。"
+        }
+      ]
+    },
+    {
+      "eng": "grass",
+      "kk": "græs",
+      "tense": "n.",
+      "ch": [
+        [
+          "草",
+          "草地",
+          "草坪"
+        ]
+      ],
+      "analysis": "此字為名詞，對應 lemma grass。源自古英語 gærs「草」，屬於日耳曼語族繼承詞（源自原始日耳曼語 *grasant-「草、綠色植物」）。指地面上生長的綠色草本植物或草皮。",
+      "definition": "1. vegetation consisting of short, green plants growing on lawns and fields.",
+      "example": [
+        {
+          "eng": "The children were running barefoot on the soft green grass.",
+          "ch": "孩子們在柔軟的綠草地上赤腳奔跑。"
+        }
+      ]
+    },
+    {
+      "eng": "gray",
+      "kk": "greɪ",
+      "tense": "adj.",
+      "ch": [
+        [
+          "灰色的",
+          "灰白的"
+        ]
+      ],
+      "analysis": "此字為形容詞，對應 lemma gray（英式拼法為 grey）。源自古英語 græg「灰色」，屬於日耳曼語族繼承詞（源自原始日耳曼語 *grēwaz）。指介於黑色和白色之間的顏色。",
+      "definition": "1. of a color intermediate between black and white, like that of ash or lead.",
+      "example": [
+        {
+          "eng": "The sky turned dark gray before the heavy rain started.",
+          "ch": "大雨開始前，天空變成了深灰色。"
+        }
+      ]
+    },
+    {
+      "eng": "great",
+      "kk": "gret",
+      "tense": "adj.",
+      "ch": [
+        [
+          "偉大的",
+          "重大的",
+          "崇高的"
+        ],
+        [
+          "巨大的",
+          "極大的"
+        ],
+        [
+          "極好的",
+          "棒的"
+        ]
+      ],
+      "analysis": "此字為形容詞，對應 lemma great。源自古英語 grēat「大的、厚重的、粗大的」，屬於日耳曼語族繼承詞（源自原始日耳曼語 *greutan-）。語義從實體的「巨大、粗厚」抽象化為地位、成就的「偉大」，或口語中表示讚嘆的「極好的」。",
+      "definition": "1. of ability, quality, or eminence that is much above average; 2. of remarkable extent, amount, or intensity; 3. excellent or wonderful.",
+      "example": [
+        {
+          "eng": "Albert Einstein was a great physicist who changed our understanding of the universe.",
+          "ch": "阿爾伯特·愛因斯坦是一位偉大的物理學家，改變了我們對宇宙的理解。"
+        },
+        {
+          "eng": "There was a great crowd gathered outside the stadium.",
+          "ch": "體育館外聚集了巨大的人潮。"
+        },
+        {
+          "eng": "That sounds like a great idea; let's do it!",
+          "ch": "聽起來是個好主意，我們就這麼辦吧！"
+        }
+      ]
+    },
+    {
+      "eng": "green",
+      "kk": "grin",
+      "tense": "adj.",
+      "ch": [
+        [
+          "綠色的"
+        ],
+        [
+          "未熟的",
+          "無經驗的"
+        ]
+      ],
+      "analysis": "此字為形容詞，對應 lemma green。源自古英語 grēne「綠色的」，屬於日耳曼語族繼承詞（源自原始日耳曼語 *grōnijaz「綠色的、成長中的」，與 grow 同源）。原意指植物生長時的顏色，引申出水果尚未成熟或人缺乏社會經驗（菜鳥）的含義。",
+      "definition": "1. of the color between blue and yellow; colored like grass; 2. unripe (of fruit) or lacking experience and training.",
+      "example": [
+        {
+          "eng": "The leaves on the trees turn green in spring.",
+          "ch": "樹上的葉子在春天變成綠色。"
+        },
+        {
+          "eng": "As a new employee, he is still a bit green in handling customer complaints.",
+          "ch": "作為新員工，他在處理客戶投訴方面還有些生疏。"
+        }
+      ]
+    },
+    {
+      "eng": "ground",
+      "kk": "graʊnd",
+      "tense": "n.",
+      "ch": [
+        [
+          "地面",
+          "土地",
+          "土壤"
+        ]
+      ],
+      "analysis": "此字為名詞，對應 lemma ground。源自古英語 grund「底部、地面、大地」，屬於日耳曼語族繼承詞（源自原始日耳曼語 *grundu-「深處、土壤」）。指地球表面或泥土固體部分。",
+      "definition": "1. the solid surface of the earth.",
+      "example": [
+        {
+          "eng": "He dropped his keys on the ground and had to search for them in the dark.",
+          "ch": "他把鑰匙掉在地上，不得不在黑暗中尋找它們。"
+        }
+      ]
+    },
+    {
+      "eng": "group",
+      "kk": "grup",
+      "tense": "n.",
+      "ch": [
+        [
+          "群",
+          "組",
+          "團體"
+        ]
+      ],
+      "analysis": "此字為名詞，對應 lemma group。源自 17 世紀借自義大利語 gruppo（源自日耳曼語族，意指「結、團」），後經由法語 groupe 進入英語。指聚集在一起的人、動物或事物。",
+      "definition": "1. a number of people or things that are located, gathered, or classed together.",
+      "example": [
+        {
+          "eng": "A group of tourists was listening carefully to the tour guide.",
+          "ch": "一群遊客正在仔細聆聽導遊的解說。"
+        }
+      ]
+    },
+    {
+      "eng": "grow",
+      "kk": "groʊ",
+      "tense": "vi.",
+      "ch": [
+        [
+          "生長",
+          "發育",
+          "種植"
+        ],
+        [
+          "漸漸變得",
+          "逐漸轉變成"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，對應 lemma grow（過去式 grew，過去分詞 grown）。源自古英語 grōwan「生長、繁茂」，屬於日耳曼語族繼承詞（源自原始日耳曼語 *grōaną）。本義指植物的成長，擴大至人類與動物的發育，並可作為連綴動詞表示狀態的逐漸轉變。",
+      "definition": "1. to increase in size or develop naturally; to cultivate plants; 2. to gradually become something or pass into a specified state.",
+      "example": [
+        {
+          "eng": "Flowers grow quickly in warm and wet weather.",
+          "ch": "花朵在溫暖潮濕的天氣裡生長得很快。"
+        },
+        {
+          "eng": "As people grow older, they often become more patient.",
+          "ch": "隨著人們年齡增長，他們通常會變得更有耐心。"
+        }
+      ]
+    },
+    {
+      "eng": "guess",
+      "kk": "gɛs",
+      "tense": "vt.",
+      "ch": [
+        [
+          "猜",
+          "猜測",
+          "推測"
+        ]
+      ],
+      "analysis": "此字為及物動詞，對應 lemma guess。源自中古英語 gissen，源自斯堪地那維亞語源（比較古諾斯語 giska「猜測」），屬日耳曼語族。指在缺乏確鑿證據的情況下做出判斷或猜測。",
+      "definition": "1. to estimate or conclude without sufficient information to be sure; conjecture.",
+      "example": [
+        {
+          "eng": "Can you guess how many marbles are in this glass jar?",
+          "ch": "你能猜出這個玻璃罐裡有多少顆彈珠嗎？"
+        }
+      ]
+    },
+    {
+      "eng": "guitar",
+      "kk": "gɪˈtɑr",
+      "tense": "n.",
+      "ch": [
+        [
+          "吉他"
+        ]
+      ],
+      "analysis": "此字為名詞，對應 lemma guitar。源自西班牙語 guitarra，最終可追溯至希臘語 κιθάρα (kithara「古希臘豎琴」)，經由阿拉伯語 qīthāra 進入西班牙語及其他歐洲語言。指一種常見的撥弦樂器。",
+      "definition": "1. a stringed musical instrument with a fretted fingerboard, typically played with fingers or a plectrum.",
+      "example": [
+        {
+          "eng": "He likes to play the acoustic guitar around the campfire.",
+          "ch": "他喜歡在營火旁彈奏木吉他。"
+        }
+      ]
+    },
+    {
+      "eng": "guy",
+      "kk": "gaɪ",
+      "tense": "n.",
+      "ch": [
+        [
+          "傢伙",
+          "男人",
+          "小子"
+        ]
+      ],
+      "analysis": "此字為名詞，對應 lemma guy。源自 17 世紀倫敦歷史事件中 Guy Fawkes（蓋伊·福克斯，因策劃火藥陰謀被處決）的名字，其人偶在每年的 11 月 5 日被焚燒，最初指「奇裝異服的人或稻草人」，後來美國英語及現代英語逐漸泛指「任何男子、傢伙或人（複數可指眾人）」。",
+      "definition": "1. a man, boy, or fellow (often used in the plural to address a group of people regardless of gender).",
+      "example": [
+        {
+          "eng": "Who is that tall guy talking to the manager?",
+          "ch": "正在和經理說話的高個子傢伙是誰？"
+        }
+      ]
+    },
+    {
+      "eng": "habit",
+      "kk": "ˈhæbɪt",
+      "tense": "n.",
+      "ch": [
+        [
+          "習慣",
+          "習性"
+        ]
+      ],
+      "analysis": "此字為名詞，對應 lemma habit。源自中古英語 habit，借自古法語 habit，源自拉丁語 habitus「外表、狀況、姿勢、習慣」（源自 habēre「擁有、保持」）。語義從「身體或外在狀態」演變成「心理或行為上養成的重複習慣」。",
+      "definition": "1. a settled or regular tendency or practice, especially one that is hard to give up.",
+      "example": [
+        {
+          "eng": "Reading before going to bed is a very good habit.",
+          "ch": "睡前閱讀是一個非常好的習慣。"
+        }
+      ]
+    },
+    {
+      "eng": "hair",
+      "kk": "hɛr",
+      "tense": "n.",
+      "ch": [
+        [
+          "頭髮",
+          "毛髮"
+        ]
+      ],
+      "analysis": "此字為名詞，對應 lemma hair。源自古英語 hǣr「頭髮、鬃毛」，屬於日耳曼語族繼承詞（源自原始日耳曼語 *hēran-）。指生長在頭皮上或身體各部位的纖細毛髮。",
+      "definition": "1. the fine threadlike strands growing from the skin of humans and animals, especially from the scalp.",
+      "example": [
+        {
+          "eng": "She brushed her long, dark hair in front of the mirror.",
+          "ch": "她在鏡子前梳理她那烏黑的長髮。"
+        }
+      ]
+    },
+    {
+      "eng": "half",
+      "kk": "hæf",
+      "tense": "n.",
+      "ch": [
+        [
+          "一半",
+          "半數"
+        ]
+      ],
+      "analysis": "此字為名詞，對應 lemma half。源自古英語 healf「一半、側邊」，屬於日耳曼語族繼承詞（源自原始日耳曼語 *halba-「側、半」）。指將整體平分為兩份中的其中一份。",
+      "definition": "1. either of two equal or corresponding parts into which something is divisible.",
+      "example": [
+        {
+          "eng": "She cut the apple in half and shared it with her brother.",
+          "ch": "她把蘋果切成兩半，和弟弟分著吃。"
+        }
+      ]
+    },
+    {
+      "eng": "ham",
+      "kk": "hæm",
+      "tense": "n.",
+      "ch": [
+        [
+          "火腿"
+        ]
+      ],
+      "analysis": "此字為名詞，對應 lemma ham。源自古英語 hamm「膝彎、腿的後部」，屬於日耳曼語族繼承詞（源自原始日耳曼語 *hamōn-）。後來語義專門指豬的大腿後部所醃製或煙燻成的肉製品（火腿）。",
+      "definition": "1. the upper part of a hog's hind leg prepared as food, cured or smoked.",
+      "example": [
+        {
+          "eng": "We had delicious ham sandwiches for lunch.",
+          "ch": "我們午餐吃了美味的火腿三明治。"
+        }
+      ]
+    },
+    {
+      "eng": "hand",
+      "kk": "hænd",
+      "tense": "n.",
+      "ch": [
+        [
+          "手"
+        ],
+        [
+          "協助",
+          "幫忙"
+        ]
+      ],
+      "analysis": "此字為名詞，對應 lemma hand。源自古英語 hand「手」，屬於日耳曼語族繼承詞（源自原始日耳曼語 *handuz）。本義指人體上臂末端用來抓握的器官，亦可引申指「提供協助或幫忙（如 give a hand）」。",
+      "definition": "1. the end part of a person's arm beyond the wrist, used for holding and grasping; 2. assistance or help given to someone.",
+      "example": [
+        {
+          "eng": "Hold my hand tightly when we cross the busy street.",
+          "ch": "我們過繁忙的街道時，要緊緊握住我的手。"
+        },
+        {
+          "eng": "Could you please give me a hand with this heavy box?",
+          "ch": "你能幫我搬一下這個重箱子嗎？"
+        }
+      ]
+    },
+    {
+      "eng": "hang",
+      "kk": "hæŋ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "懸掛",
+          "吊起",
+          "垂下"
+        ]
+      ],
+      "analysis": "此字為及物動詞，對應 lemma hang（過去式及過去分詞通常為 hung，作「絞死」解時過去式為 hanged）。源自古英語 hōn（不及物）與 hangian（及物），受古諾斯語影響融合。指將物品固定在高處使其懸空下垂。",
+      "definition": "1. to fasten or support something from above so that the lower part is free.",
+      "example": [
+        {
+          "eng": "She decided to hang a new painting on the living room wall.",
+          "ch": "她決定在客廳牆上掛一幅新畫作。"
+        }
+      ]
+    },
+    {
+      "eng": "happen",
+      "kk": "ˈhæpən",
+      "tense": "vi.",
+      "ch": [
+        [
+          "發生",
+          "碰巧"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，對應 lemma happen。由中世紀英語 hap（機會、運氣，源自斯堪地那維亞語）加上動詞後綴 -en 構成。指事件發生或某事偶然巧合發生。",
+      "definition": "1. to take place; occur; 2. to do or occur by chance.",
+      "example": [
+        {
+          "eng": "An unexpected accident happened on the highway this morning.",
+          "ch": "今天早上高速公路上發生了一起意想不到的事故。"
+        },
+        {
+          "eng": "I happened to meet my old classmate at the bookstore.",
+          "ch": "我碰巧在書店遇到了我的老同學。"
+        }
+      ]
+    },
+    {
+      "eng": "happy",
+      "kk": "ˈhæpi",
+      "tense": "adj.",
+      "ch": [
+        [
+          "快樂的",
+          "幸福的",
+          "滿意的"
+        ]
+      ],
+      "analysis": "此字為形容詞，對應 lemma happy。源自中古英語 happy，源自 hap（機會、運氣）加上形容詞後綴 -y。原意指「有好運氣的、順遂的」，現代語義演變為「感到快樂、幸福或滿足的心理狀態」。",
+      "definition": "1. feeling or showing pleasure or contentment; fortunate and joyful.",
+      "example": [
+        {
+          "eng": "The children looked very happy playing games in the yard.",
+          "ch": "孩子們在院子裡玩遊戲，看起來非常快樂。"
+        }
+      ]
+    },
+    {
+      "eng": "hard",
+      "kk": "hɑrd",
+      "tense": "adj.",
+      "ch": [
+        [
+          "硬的",
+          "堅固的"
+        ],
+        [
+          "困難的",
+          "艱難的"
+        ],
+        [
+          "努力的",
+          "刻苦的"
+        ]
+      ],
+      "analysis": "此字為形容詞，對應 lemma hard。源自古英語 heard「硬的、堅固的、嚴厲的」，屬於日耳曼語族繼承詞（源自原始日耳曼語 *harduz「堅硬的、強壯的」）。語義從實體的「物質堅硬」延伸至工作任務的「困難」及態度的「嚴厲、努力」。",
+      "definition": "1. solid, firm, and resistant to pressure; not easily broken; 2. needing a lot of effort, skill, or intelligence to do or understand; difficult; 3. done with a great deal of energy or commitment.",
+      "example": [
+        {
+          "eng": "Diamonds are known to be the hardest natural substance on Earth.",
+          "ch": "眾所周知，鑽石是地球上最硬的天然物質。"
+        },
+        {
+          "eng": "The final math exam was unusually hard for all the students.",
+          "ch": "對所有學生來說，期末數學考試異常困難。"
+        },
+        {
+          "eng": "He is a hard worker who never complains about long hours.",
+          "ch": "他是一個工作努力、從不抱怨工時長的工作狂。"
+        }
+      ]
+    },
+    {
+      "eng": "hat",
+      "kk": "hæt",
+      "tense": "n.",
+      "ch": [
+        [
+          "帽子"
+        ]
+      ],
+      "analysis": "此字為名詞，對應 lemma hat。源自古英語 hætt「帽子、頭盔」，屬於日耳曼語族繼承詞（源自原始日耳曼語 *hattuz）。指戴在頭上用作防寒、防曬或裝飾的衣飾。",
+      "definition": "1. a shaped covering for the head worn for warmth, protection against weather, or fashion.",
+      "example": [
+        {
+          "eng": "He wore a straw hat to protect his face from the hot summer sun.",
+          "ch": "他戴著一頂草帽以保護臉部免受炎熱夏日陽光的曝曬。"
+        }
+      ]
+    },
+    {
+      "eng": "hate",
+      "kk": "het",
+      "tense": "vt.",
+      "ch": [
+        [
+          "討厭",
+          "恨",
+          "憎恨"
+        ]
+      ],
+      "analysis": "此字為及物動詞，對應 lemma hate。源自古英語 hatian「憎恨、敵視」，屬於日耳曼語族繼承詞（源自原始日耳曼語 *hatōną）。表示強烈的反感、厭惡或敵意。",
+      "definition": "1. to feel intense dislike for; detest.",
+      "example": [
+        {
+          "eng": "She really hates waking up early on cold winter mornings.",
+          "ch": "她真的很討厭在寒冷的冬日早晨早起。"
+        }
+      ]
+    },
+    {
+      "eng": "have",
+      "kk": "hæv",
+      "tense": "vt.",
+      "ch": [
+        [
+          "有",
+          "擁有"
+        ],
+        [
+          "吃",
+          "喝",
+          "享用"
+        ],
+        [
+          "經歷",
+          "度過"
+        ]
+      ],
+      "analysis": "此字為及物動詞，對應 lemma have（過去式及過去分詞 had，第三人稱單數現在時 has）。源自古英語 habban「有、持有」，屬於日耳曼語族繼承詞（源自原始日耳曼語 *habjaną）。核心義為「擁有」，並廣泛引申為「吃喝食物（have lunch）」或「經歷某段時光、疾病（have a headache）」。",
+      "definition": "1. to possess, own, or hold something; 2. to consume food or drink; 3. to experience or undergo an event, state, or illness.",
+      "example": [
+        {
+          "eng": "They have a lovely house near the beach.",
+          "ch": "他們在海灘附近有一棟可愛的房子。"
+        },
+        {
+          "eng": "Let's have some coffee and a chat after the meeting.",
+          "ch": "會後我們喝杯咖啡聊聊天吧。"
+        },
+        {
+          "eng": "Did you have a good weekend with your family?",
+          "ch": "你和家人度過了一個愉快的週末嗎？"
+        }
+      ]
+    },
+    {
+      "eng": "he",
+      "kk": "hi",
+      "tense": "pron.",
+      "ch": [
+        [
+          "他"
+        ]
+      ],
+      "analysis": "此字為主格人稱代名詞，對應 lemma he。源自古英語 hē「他」，屬於日耳曼語族繼承詞（源自原始印歐語代名詞詞根）。用作第三人稱單數陽性主格。",
+      "definition": "1. used to refer to a male person or animal previously mentioned or being addressed.",
+      "example": [
+        {
+          "eng": "He is an experienced doctor who works at the city hospital.",
+          "ch": "他是一位在市立醫院工作的資深醫生。"
+        }
+      ]
+    },
+    {
+      "eng": "him",
+      "kk": "hɪm",
+      "tense": "pron.",
+      "ch": [
+        [
+          "他（受格）"
+        ]
+      ],
+      "analysis": "此字為受格人稱代名詞，對應 lemma he 的受格形式 him。源自古英語 hine / him（第三人稱單數陽性受格與與格），保留了日耳曼語族的格位系統遺跡。",
+      "definition": "1. used as the object of a verb or preposition to refer to a male person or animal previously mentioned.",
+      "example": [
+        {
+          "eng": "I saw him at the library yesterday afternoon.",
+          "ch": "我昨天下午在圖書館看到他了。"
+        }
+      ]
+    },
+    {
+      "eng": "his",
+      "kk": "hɪz",
+      "tense": "pron.",
+      "ch": [
+        [
+          "他的"
+        ]
+      ],
+      "analysis": "此字為所有格代名詞或所有格形容詞，對應 lemma he 的所有格形式 his。源自古英語 his（他的），在現代英語中既可作限定詞修飾名詞，亦可獨立作所有格代名詞使用。",
+      "definition": "1. belonging to or associated with a male person previously mentioned.",
+      "example": [
+        {
+          "eng": "Mark left his umbrella on the bus this morning.",
+          "ch": "馬克今天早上把他的雨傘落在公車上了。"
+        }
+      ]
+    },
+    {
+      "eng": "himself",
+      "kk": "hɪmˈsɛlf",
+      "tense": "pron.",
+      "ch": [
+        [
+          "他自己"
+        ]
+      ],
+      "analysis": "此字為反身代名詞或強調代名詞，對應 lemma himself。由受格 him 與 self（自己）複合而成。用於主詞與受詞為同一男性，或用以加強語氣。",
+      "definition": "1. used as the object of a verb or preposition when the male subject is also the object; or to emphasize the male subject.",
+      "example": [
+        {
+          "eng": "He accidentally cut himself while cooking dinner.",
+          "ch": "他在煮晚餐時不小心割傷了自己。"
+        }
+      ]
+    },
+    {
+      "eng": "head",
+      "kk": "hɛd",
+      "tense": "n.",
+      "ch": [
+        [
+          "頭",
+          "頭部"
+        ],
+        [
+          "領袖",
+          "負責人",
+          "校長"
+        ]
+      ],
+      "analysis": "此字為名詞，對應 lemma head。源自古英語 hēafod「頭、首領」，屬於日耳曼語族繼承詞（源自原始日耳曼語 *haubidą）。本義指生物軀體最頂端的頭部，引申指團體或機構的最高領導人、首腦或校長。",
+      "definition": "1. the upper part of the human body, containing the brain, eyes, ears, nose, and mouth; 2. the person in charge of a school, organization, or department; a leader.",
+      "example": [
+        {
+          "eng": "She nodded her head in agreement with the proposal.",
+          "ch": "她點頭表示同意這項提案。"
+        },
+        {
+          "eng": "He was recently appointed as the head of the sales department.",
+          "ch": "他最近被任命為業務部門主管。"
+        }
+      ]
+    },
+    {
+      "eng": "headache",
+      "kk": "ˈhɛdˌek",
+      "tense": "n.",
+      "ch": [
+        [
+          "頭痛"
+        ],
+        [
+          "令人頭痛的事",
+          "麻煩"
+        ]
+      ],
+      "analysis": "此字為複合名詞，對應 lemma headache。由 head（頭）與 ache（疼痛，源自古英語 acan「疼痛」）結合而成。實指頭部疼痛的生理現象，亦可比喻生活中令人感到煩惱、棘手的事情。",
+      "definition": "1. a continuous pain in the head; 2. a cause of trouble, annoyance, or worry.",
+      "example": [
+        {
+          "eng": "Working in front of the computer all day gave her a bad headache.",
+          "ch": "整天在電腦前工作讓她頭痛得厲害。"
+        },
+        {
+          "eng": "Fixing the old computer system turned out to be a real headache.",
+          "ch": "修復舊電腦系統結果成了一件令人頭痛的麻煩事。"
+        }
+      ]
+    },
+    {
+      "eng": "health",
+      "kk": "hɛlθ",
+      "tense": "n.",
+      "ch": [
+        [
+          "健康",
+          "健康狀況"
+        ]
+      ],
+      "analysis": "此字為名詞，對應 lemma health。源自古英語 hǣlth「健全、健康、拯救」，屬於日耳曼語族繼承詞（由形容詞 hāl「完整的、健康的」加上抽象名詞後綴 -th 構成）。指身體或精神健全、無疾病的狀態。",
+      "definition": "1. the state of being free from illness or injury; a person's mental or physical condition.",
+      "example": [
+        {
+          "eng": "Eating a balanced diet and exercising regularly are essential for good health.",
+          "ch": "均衡飲食和規律運動對維持良好的健康至關重要。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1456 @@
+{
+  "level": 4,
+  "chunkIndex": 10,
+  "inputs": [
+    "gallery",
+    "gaze",
+    "gear",
+    "gender",
+    "gene",
+    "generation",
+    "generosity",
+    "genius",
+    "genuine",
+    "germ",
+    "gifted",
+    "gigantic",
+    "giggle",
+    "ginger",
+    "glimpse",
+    "globe",
+    "glorious",
+    "goods",
+    "gown",
+    "grace",
+    "graceful",
+    "gracious",
+    "graduation",
+    "grammar",
+    "grammatical",
+    "graph",
+    "grateful",
+    "gratitude",
+    "grave",
+    "greasy",
+    "greeting",
+    "greetings",
+    "grief",
+    "grind",
+    "guarantee",
+    "guardian",
+    "guilt",
+    "guilty",
+    "gulf",
+    "habitual",
+    "halt",
+    "handwriting",
+    "hardship",
+    "hardware",
+    "harmony",
+    "harsh",
+    "haste",
+    "hasten",
+    "hatred",
+    "hawk"
+  ],
+  "rows": [
+    {
+      "eng": "gallery",
+      "kk": "ˈɡæləri",
+      "tense": "n.",
+      "ch": [
+        [
+          "畫廊",
+          "藝廊"
+        ],
+        [
+          "美展館",
+          "展覽館"
+        ],
+        [
+          "（劇場、教堂等的）樓座",
+          "頂層看臺"
+        ]
+      ],
+      "analysis": "此字源自中古拉丁語 galeria（長廊、走廊），經由古法語 galerie 進入英語。語義演變從建築上的長走廊與柱廊，逐步延伸至用來展示藝術品的場所（畫廊、展覽館），以及劇院中位於高處可容納觀眾的頂層看臺（樓座）。",
+      "definition": "1. a room or building for the display and sale of works of art.; 2. a public building or room used for exhibitions.; 3. the highest balcony in a theater or church containing the cheapest seats.",
+      "example": [
+        {
+          "eng": "She is exhibiting her latest paintings at the downtown gallery.",
+          "ch": "她正在市中心的畫廊展出她最新的畫作。"
+        },
+        {
+          "eng": "The national gallery houses a vast collection of Renaissance art.",
+          "ch": "國家藝廊收藏了大量的文藝復興藝術品。"
+        },
+        {
+          "eng": "We bought cheap tickets for seats up in the gallery.",
+          "ch": "我們買了樓座便宜的座位票。"
+        }
+      ]
+    },
+    {
+      "eng": "gaze",
+      "kk": "ɡeɪz",
+      "tense": "n.",
+      "ch": [
+        [
+          "凝視",
+          "注視的目光"
+        ]
+      ],
+      "analysis": "此字為動詞 gaze 的零轉品名詞形式，保留相同的詞源與核心語意。指一種長時間、專注或深情的眼神注視。",
+      "definition": "1. a steady, intent look.",
+      "example": [
+        {
+          "eng": "She felt uncomfortable under his intense gaze.",
+          "ch": "在他熾熱的目光注視下，她感到不太自在。"
+        }
+      ]
+    },
+    {
+      "eng": "gaze",
+      "kk": "ɡeɪz",
+      "tense": "vi.",
+      "ch": [
+        [
+          "凝視",
+          "注視",
+          "端相"
+        ]
+      ],
+      "analysis": "此字為歷史傳承詞源，確切起源不明，可能與 Middle English gasen 相關，保留作動詞不及物用法。語意指長時間、出神或充滿好奇、愛慕地看著某人或某物，常與介詞 at 連用。",
+      "definition": "1. to look steadily and intently, especially in admiration, surprise, or thought.",
+      "example": [
+        {
+          "eng": "He sat by the window and gazed out at the falling snow.",
+          "ch": "他坐在窗邊，凝視著窗外紛飛的白雪。"
+        }
+      ]
+    },
+    {
+      "eng": "gear",
+      "kk": "ɡɪr",
+      "tense": "n.",
+      "ch": [
+        [
+          "裝備",
+          "用具",
+          "行頭"
+        ],
+        [
+          "（車輛等的）傳動裝置",
+          "齒輪",
+          "排檔"
+        ]
+      ],
+      "analysis": "此字源自古諾斯語 gervi（裝備、衣物），經日耳曼語族進入英語。語義從早期的個人裝備、工具與服裝，逐步延伸至機械領域中用來傳遞動力的齒輪、傳動裝置與車輛排檔。",
+      "definition": "1. equipment or clothing needed for a particular purpose.; 2. a toothed wheel that engages with another to transmit motion, or a mechanism in a vehicle for setting the speed.",
+      "example": [
+        {
+          "eng": "Make sure you pack all your camping gear before we leave.",
+          "ch": "我們出發前，確定把所有的露營裝備都打包好。"
+        },
+        {
+          "eng": "Shift down into a lower gear to climb this steep hill.",
+          "ch": "切換到低速檔來爬這座陡峭的山坡。"
+        }
+      ]
+    },
+    {
+      "eng": "gear",
+      "kk": "ɡɪr",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使適應",
+          "使配合",
+          "安排"
+        ],
+        [
+          "配備齒輪",
+          "調整傳動裝置"
+        ]
+      ],
+      "analysis": "此動詞由名詞 gear 轉化而來，常見於被動語態「be geared to / toward」，指調整、設計或使某事物配合特定需求或目標，亦可指機械上安裝齒輪。",
+      "definition": "1. to design, adjust, or make something suitable for a particular purpose or person.; 2. to provide or connect with gears.",
+      "example": [
+        {
+          "eng": "The training program is geared specifically toward beginners.",
+          "ch": "這項培訓計畫是專門為初學者量身打造的。"
+        },
+        {
+          "eng": "The machine is geared to run at high speeds.",
+          "ch": "這台機器配置成能以高速運轉。"
+        }
+      ]
+    },
+    {
+      "eng": "gender",
+      "kk": "ˈdʒɛndər",
+      "tense": "n.",
+      "ch": [
+        [
+          "性別（社會與文化層面）"
+        ],
+        [
+          "（名詞或代名詞的）性（陰性、陽性、中性）"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 genus（種類、血統、族群），經古法語 gendre 進入英語，字根與 genus、gene 相同。原意指種類或語法上的性別，現代廣泛用來指稱社會文化建構的性別角色及生物學性別區分，亦保留於語言學中指稱名詞的語法性。",
+      "definition": "1. the state of being male or female, especially with reference to social and cultural differences rather than biological ones.; 2. the classification of a noun or pronoun as masculine, feminine, or neuter in certain languages.",
+      "example": [
+        {
+          "eng": "The organization works to promote gender equality in the workplace.",
+          "ch": "該組織致力於促進職場上的性別平等。"
+        },
+        {
+          "eng": "In Spanish, nouns have grammatical gender, being either masculine or feminine.",
+          "ch": "在西班牙文中，名詞具有語法性別，分為陽性或陰性。"
+        }
+      ]
+    },
+    {
+      "eng": "gene",
+      "kk": "dʒin",
+      "tense": "n.",
+      "ch": [
+        [
+          "基因",
+          "遺傳因子"
+        ]
+      ],
+      "analysis": "此字為現代科學人工截短組合詞，由丹麥植物學家威廉·约翰逊於1909年結合 genetics 的字首與德語字尾 -en 創造而成，源自希臘語 genein（生產、產生）。用以指生物體內控制遺傳特徵的基本單位。",
+      "definition": "1. a unit of heredity which is transferred from a parent to offspring and is held to determine some characteristic of the offspring.",
+      "example": [
+        {
+          "eng": "Scientists have identified the specific gene responsible for the disease.",
+          "ch": "科學家已經識別出導致該疾病的特定基因。"
+        }
+      ]
+    },
+    {
+      "eng": "generation",
+      "kk": "ˌdʒɛnəˈreɪʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "一代（大約三十年左右的群體）"
+        ],
+        [
+          "產生",
+          "發生",
+          "發電"
+        ]
+      ],
+      "analysis": "此字由動詞 generate 加上名詞字尾 -ion 構成，源自拉丁語 generatio（生殖、產出），最終追溯至印歐語根 *gene-（生養、生產）。核心義指同時代出生或生活的人的群體（一代人），亦引申指能量、電力或概念的產生與創造。",
+      "definition": "1. all of the people born and living at about the same time, regarded collectively.; 2. the action or process of producing something, such as electricity or ideas.",
+      "example": [
+        {
+          "eng": "This younger generation is much more comfortable with digital technology.",
+          "ch": "年輕一代對數位科技要熟悉得多。"
+        },
+        {
+          "eng": "The power plant is responsible for the generation and supply of electricity.",
+          "ch": "該發電廠負責電力的產生與供應。"
+        }
+      ]
+    },
+    {
+      "eng": "generosity",
+      "kk": "ˌdʒɛnəˈrɑsəti",
+      "tense": "n.",
+      "ch": [
+        [
+          "慷慨",
+          "大方",
+          "寬宏大量"
+        ]
+      ],
+      "analysis": "此字由形容詞 generous 轉變而來的抽象名詞，源自拉丁語 generosus（出身高貴的、慷慨的），由 genus（血統、種族）衍生而來。原指貴族應有的高貴品格，後來演變成指樂於付出金錢、時間或資源的慷慨大方與寬容美德。",
+      "definition": "1. the quality of being kind and generous; readiness to give more of something than is strictly necessary or expected.",
+      "example": [
+        {
+          "eng": "We are grateful for the financial generosity of our donors.",
+          "ch": "我們感謝捐贈者們的慷慨資助。"
+        }
+      ]
+    },
+    {
+      "eng": "genius",
+      "kk": "ˈdʒinjəs",
+      "tense": "n.",
+      "ch": [
+        [
+          "天才",
+          "天賦",
+          "天才人物"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，直接源自拉丁語 genius（守護神、靈魂、天賦），由 gignere（生出、產生）衍生而來。拉丁原意指守護個人或地方的神靈，後來引申為一個人與生俱來的獨特天賦或靈感，最終演變成指具有極高智慧或創造力的「天才」。",
+      "definition": "1. exceptional intellectual or creative power or other natural ability.; 2. a person who is exceptionally intelligent or creative.",
+      "example": [
+        {
+          "eng": "Mozart showed signs of musical genius at a very early age.",
+          "ch": "莫札特在很小的年紀就展現出音樂天賦。"
+        },
+        {
+          "eng": "Einstein was a scientific genius who changed our understanding of physics.",
+          "ch": "愛因斯坦是一位改變我們對物理學理解的科學天才。"
+        }
+      ]
+    },
+    {
+      "eng": "genuine",
+      "kk": "ˈdʒɛnjuɪn",
+      "tense": "adj.",
+      "ch": [
+        [
+          "真正的",
+          "非偽造的",
+          "真品的"
+        ],
+        [
+          "真誠的",
+          "衷心的",
+          "不虛偽的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 genuinus（原生的、自然的），源自 genu（膝蓋），古羅馬習俗中父親將新生兒抱在膝上表示承認其為親生血脈，因此引申出「血統純正的、真正的」之意。後來擴大用來形容物品貨真價實，或人的情感真誠不虛假。",
+      "definition": "1. truly what something is said to be; authentic.; 2. sincere; honest.",
+      "example": [
+        {
+          "eng": "The expert confirmed that the painting was a genuine Picasso.",
+          "ch": "專家證實這幅畫是真正的畢卡索真跡。"
+        },
+        {
+          "eng": "She showed a genuine interest in helping others succeed.",
+          "ch": "她對幫助他人成功展現出真誠的興趣。"
+        }
+      ]
+    },
+    {
+      "eng": "germ",
+      "kk": "dʒɜrm",
+      "tense": "n.",
+      "ch": [
+        [
+          "細菌",
+          "病菌",
+          "微生物"
+        ],
+        [
+          "起源",
+          "萌芽",
+          "胚芽"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 germen（芽、幼芽、胚胎）。原意指植物的萌芽或事物的最初起源，十九世紀細菌學發展後，因其微小且為生命或疾病之源的特徵，被借用來指稱會傳播疾病的微生物或細菌。",
+      "definition": "1. a microorganism, especially one that causes disease; a bacterium or virus.; 2. the earliest stage of something that can develop; a bud or origin.",
+      "example": [
+        {
+          "eng": "Wash your hands frequently to kill germs and prevent infection.",
+          "ch": "經常洗手以殺死細菌並預防感染。"
+        },
+        {
+          "eng": "This book contains the germ of an innovative business idea.",
+          "ch": "這本書包含了創新商業點子的萌芽。"
+        }
+      ]
+    },
+    {
+      "eng": "gifted",
+      "kk": "ˈɡɪftɪd",
+      "tense": "adj.",
+      "ch": [
+        [
+          "有天賦的",
+          "天才的",
+          "天資聰穎的"
+        ]
+      ],
+      "analysis": "此字由名詞 gift（禮物、天賦）加上過去分詞形式的形容詞字尾 -ed 構成。字面意為「被賦予禮物的」，引申指某人在藝術、學術、音樂或體育等方面擁有與生俱來的優異才能與天賦。",
+      "definition": "1. having exceptional talent or natural ability.",
+      "example": [
+        {
+          "eng": "She is a gifted pianist who won several international competitions.",
+          "ch": "她是一位極具天賦的鋼琴家，曾贏得數項國際比賽。"
+        }
+      ]
+    },
+    {
+      "eng": "gigantic",
+      "kk": "dʒaɪˈɡæntɪk",
+      "tense": "adj.",
+      "ch": [
+        [
+          "巨大的",
+          "龐大的",
+          "巨人般的"
+        ]
+      ],
+      "analysis": "此字由希臘神話中的巨人族名字 Gigas（Gen. Gigantos，巨人）加上形容詞字尾 -ic 構成。指體積、規模或程度達到像神話中巨人一般極其巨大、宏偉的狀態。",
+      "definition": "1. of very great size or extent; gigantic or enormous.",
+      "example": [
+        {
+          "eng": "The construction project required a gigantic financial investment.",
+          "ch": "這項建設工程需要龐大的資金投入。"
+        }
+      ]
+    },
+    {
+      "eng": "giggle",
+      "kk": "ˈɡɪɡəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "咯咯的笑聲",
+          "傻笑"
+        ]
+      ],
+      "analysis": "此字為動詞 giggle 的同形轉化名詞，指那種短促、高音調、帶點緊張或輕鬆的咯咯笑聲。",
+      "definition": "1. a light, silly, nervous laugh.",
+      "example": [
+        {
+          "eng": "A suppressed giggle broke the silence of the library.",
+          "ch": "一陣壓抑的咯咯笑聲打破了圖書館的寂靜。"
+        }
+      ]
+    },
+    {
+      "eng": "giggle",
+      "kk": "ˈɡɪɡəl",
+      "tense": "vi.",
+      "ch": [
+        [
+          "咯咯地笑",
+          "傻笑"
+        ]
+      ],
+      "analysis": "此字為擬聲詞，模仿人發出的高音調、壓抑而斷續的笑聲。作為不及物動詞，指因緊張、尷尬或覺得好笑而發出咯咯的傻笑聲。",
+      "definition": "1. to laugh lightly in a nervous, silly, or affected way.",
+      "example": [
+        {
+          "eng": "The schoolgirls started to giggle when the teacher walked into the room.",
+          "ch": "當老師走進教室時，女學生們開始咯咯地傻笑。"
+        }
+      ]
+    },
+    {
+      "eng": "ginger",
+      "kk": "ˈdʒɪndʒər",
+      "tense": "n.",
+      "ch": [
+        [
+          "生薑",
+          "薑"
+        ],
+        [
+          "薑黃色",
+          "活力"
+        ]
+      ],
+      "analysis": "此字源自梵語 siṅgavēram（字面意為「角狀根」），經希臘語、拉丁語與古法語 gingimbre 進入中古英語。原指具有辛辣氣味的薑根植物，後來也延伸用來指稱其特有的黃褐色（薑黃色），或比喻人充滿活力與火辣的性格。",
+      "definition": "1. the pungent, spicy rhizome of a plant, used as a spice and in medicine.; 2. a light reddish-yellow or warm brown color.",
+      "example": [
+        {
+          "eng": "Add a slice of fresh ginger to the tea to soothe your throat.",
+          "ch": "在茶裡加一片新鮮生薑可以舒緩喉嚨。"
+        },
+        {
+          "eng": "She has lovely ginger hair and bright green eyes.",
+          "ch": "她有一頭漂亮的薑黃色頭髮和明亮的綠眼睛。"
+        }
+      ]
+    },
+    {
+      "eng": "glimpse",
+      "kk": "ɡlɪmps",
+      "tense": "n.",
+      "ch": [
+        [
+          "一瞥",
+          "一看",
+          "微露的跡象"
+        ]
+      ],
+      "analysis": "此字源自中世紀英語 glempsen，可能與 gleam 相關，後方加上字尾 -se。核心義指短暫、匆忙地看見某人或某物一眼，或隱喻對某事物的初步認識與短暫一瞥。",
+      "definition": "1. a momentary or partial view of someone or something.",
+      "example": [
+        {
+          "eng": "I caught a brief glimpse of the famous actor as he stepped out of the car.",
+          "ch": "當那位著名演員下車時，我匆匆瞥了他一眼。"
+        }
+      ]
+    },
+    {
+      "eng": "glimpse",
+      "kk": "ɡlɪmps",
+      "tense": "vt.",
+      "ch": [
+        [
+          "瞥見",
+          "看一眼"
+        ]
+      ],
+      "analysis": "此動詞由名詞 glimpse 衍生而來，指短暫、模糊或無意間看見某物，通常動作非常迅速，無法看得仔細。",
+      "definition": "1. to see or perceive briefly or partially.",
+      "example": [
+        {
+          "eng": "We glimpsed the rare bird through the thick forest foliage.",
+          "ch": "我們透過濃密的森林枝葉瞥見了那隻罕見的鳥。"
+        }
+      ]
+    },
+    {
+      "eng": "globe",
+      "kk": "ɡloʊb",
+      "tense": "n.",
+      "ch": [
+        [
+          "地球",
+          "世界"
+        ],
+        [
+          "地球儀",
+          "球體"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 globus（圓球、球體）。原指任何球形的物體，文藝復興時期開始用來專指印有世界地圖的球體（地球儀），隨後引申用來代指我們生活的「地球」或「全世界」。",
+      "definition": "1. the earth.; 2. a spherical object on which a map of the world is represented.",
+      "example": [
+        {
+          "eng": "Products from this company are shipped to customers all over the globe.",
+          "ch": "這家公司的產品被運送到全球各地的客戶手中。"
+        },
+        {
+          "eng": "The teacher pointed to South America on the classroom globe.",
+          "ch": "老師指著教室地球儀上的南美洲。"
+        }
+      ]
+    },
+    {
+      "eng": "glorious",
+      "kk": "ˈɡlɔriəs",
+      "tense": "adj.",
+      "ch": [
+        [
+          "光榮的",
+          "輝煌的",
+          "壯麗的"
+        ],
+        [
+          "美好的",
+          "極佳的"
+        ]
+      ],
+      "analysis": "此字由名詞 glory 加上形容詞字尾 -ous 構成，源自拉丁語 gloriosus。核心義指充滿榮耀、令人讚嘆的，引申形容景色壯麗輝煌，或天氣、時光等極其美好舒適。",
+      "definition": "1. having, worthy of, or bringing fame or admiration; magnificent or splendid.; 2. delightful, wonderful, or extremely pleasant.",
+      "example": [
+        {
+          "eng": "The soldiers returned home after a glorious victory.",
+          "ch": "士兵們在獲得光榮的勝利後凱旋返鄉。"
+        },
+        {
+          "eng": "We spent a glorious weekend hiking in the mountains.",
+          "ch": "我們在山裡健行，度過了一個美好的週末。"
+        }
+      ]
+    },
+    {
+      "eng": "goods",
+      "kk": "ɡʊdz",
+      "tense": "n.",
+      "ch": [
+        [
+          "商品",
+          "貨物"
+        ]
+      ],
+      "analysis": "此字為形容詞 good 的中性複數形式用作名詞，在日耳曼語族中長期演變成專門指可用以交易、運輸的實體「貨物」或「商品」。固定以複數形態呈現。",
+      "definition": "1. merchandise or possessions that can be bought, sold, or transported.",
+      "example": [
+        {
+          "eng": "The store offers a wide variety of imported consumer goods.",
+          "ch": "這家店提供各式各樣的進口消費商品。"
+        }
+      ]
+    },
+    {
+      "eng": "gown",
+      "kk": "ɡaʊn",
+      "tense": "n.",
+      "ch": [
+        [
+          "禮服",
+          "女裝長裙"
+        ],
+        [
+          "法袍",
+          "學位袍"
+        ]
+      ],
+      "analysis": "此字源自中古拉丁語 gunna（獸皮衣），經凱爾特語族或義大利北部方言傳入中古英語。原指寬鬆的長袍，現代主要用來指女性穿著的隆重晚禮服，或法官、學者、畢業生在正式場合穿著的長袍與學位服。",
+      "definition": "1. a long, formal dress worn by women on special occasions.; 2. a loose, flowing robe worn by judges, academics, or graduates.",
+      "example": [
+        {
+          "eng": "She wore an elegant silk gown to the annual charity ball.",
+          "ch": "她穿著一襲優雅的絲綢晚禮服出席年度慈善舞會。"
+        },
+        {
+          "eng": "Graduating students lined up wearing their traditional caps and gowns.",
+          "ch": "畢業生們穿著傳統的學位帽和學位袍排隊。"
+        }
+      ]
+    },
+    {
+      "eng": "grace",
+      "kk": "ɡreɪs",
+      "tense": "n.",
+      "ch": [
+        [
+          "優雅",
+          "優美",
+          "風度"
+        ],
+        [
+          "恩典",
+          "恩寵",
+          "慈悲"
+        ],
+        [
+          "謝恩祈禱"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 gratia（喜悅、感激、恩惠），由 gratus 衍生而來，經古法語進入英語。語義從早期的神聖恩寵、優雅體態、社交風度，演變出餐前感謝上帝的謝恩祈禱等多重核心義。",
+      "definition": "1. smooth and polite movement or behavior; elegance.; 2. the free and unmerited favor of God, manifested in the salvation of sinners.; 3. a short prayer of thanks said before a meal.",
+      "example": [
+        {
+          "eng": "The ballet dancer moved across the stage with effortless grace.",
+          "ch": "這位芭蕾舞者在舞台上移動時帶著毫不費力的優雅。"
+        },
+        {
+          "eng": "They bowed their heads to say grace before eating dinner.",
+          "ch": "他們低頭在吃晚餐前做謝恩祈禱。"
+        }
+      ]
+    },
+    {
+      "eng": "graceful",
+      "kk": "ˈɡreɪsfəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "優雅的",
+          "優美的",
+          "得體的"
+        ]
+      ],
+      "analysis": "此字由名詞 grace 加上形容詞字尾 -ful 構成。指人的動作、外表、體態或言談舉止充滿優美、流暢與得體的特質。",
+      "definition": "1. having or showing grace or elegance, especially in movement, form, or proportion.",
+      "example": [
+        {
+          "eng": "The swan glided across the calm lake in a graceful movement.",
+          "ch": "天鵝以優雅的姿態在平靜的湖面上滑行。"
+        }
+      ]
+    },
+    {
+      "eng": "gracious",
+      "kk": "ˈɡreɪʃəs",
+      "tense": "adj.",
+      "ch": [
+        [
+          "親切的",
+          "慈祥的",
+          "有禮貌的"
+        ],
+        [
+          "高雅的",
+          "奢華的"
+        ]
+      ],
+      "analysis": "此字由拉丁語 gratiosus 經古法語與中古英語進入英語，字根同 grace。形容人態度親切、溫和、待人極具禮貌與寬厚，或指生活環境優雅舒適、奢華寬敞。",
+      "definition": "1. courteous, kind, and pleasant, especially towards someone of lower social status.; 2. showing the luxurious comfort of a wealthy lifestyle.",
+      "example": [
+        {
+          "eng": "The host was extremely gracious and made us feel right at home.",
+          "ch": "主人非常親切熱情，讓我們感到賓至如歸。"
+        },
+        {
+          "eng": "They live in a gracious Victorian house surrounded by gardens.",
+          "ch": "他們住在被花園環繞的維多利亞式優雅大宅中。"
+        }
+      ]
+    },
+    {
+      "eng": "graduation",
+      "kk": "ˌɡrædʒuˈeɪʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "畢業",
+          "畢業典禮"
+        ]
+      ],
+      "analysis": "此字由動詞 graduate 加上名詞字尾 -ion 構成，源自拉丁語 graduare（分等級），根源自 gradus（步、級別）。原意指完成學業的階梯晉升，現代專指學校的畢業典禮或順利完成學業的畢業事實。",
+      "definition": "1. the receiving or conferring of an academic degree or diploma; the ceremony at which this is done.",
+      "example": [
+        {
+          "eng": "All her family members traveled to attend her college graduation.",
+          "ch": "她所有的家人都前往參加她的大學畢業典禮。"
+        }
+      ]
+    },
+    {
+      "eng": "grammar",
+      "kk": "ˈɡræmər",
+      "tense": "n.",
+      "ch": [
+        [
+          "文法",
+          "語法"
+        ]
+      ],
+      "analysis": "此字源自希臘語 grammatikē，經拉丁語 grammatica 與古法語 gramaire 進入英語，字根源自 gramma（字母、書寫符號）。原意涵蓋廣泛的文學與書寫研究，後來在歐洲傳統中演變成專門研究語言結構、詞形變化與句法規則的「文法」。",
+      "definition": "1. the whole system and structure of a language or of languages in general, usually taken as consisting of syntax and morphology.",
+      "example": [
+        {
+          "eng": "The teacher corrected a few minor grammar mistakes in my essay.",
+          "ch": "老師訂正了我論文中的幾個微小文法錯誤。"
+        }
+      ]
+    },
+    {
+      "eng": "grammatical",
+      "kk": "ɡrəˈmætɪkəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "文法的",
+          "合乎文法的"
+        ]
+      ],
+      "analysis": "此字由名詞 grammar 加上形容詞字尾 -ical 構成，經由中世紀拉丁語與法語進入英語。指符合語言學文法規則的，或與文法研究相關的。",
+      "definition": "1. conforming to the rules of grammar.",
+      "example": [
+        {
+          "eng": "Is this sentence grammatically correct in English?",
+          "ch": "這個句子在英文中合乎文法嗎？"
+        }
+      ]
+    },
+    {
+      "eng": "graph",
+      "kk": "ɡræf",
+      "tense": "n.",
+      "ch": [
+        [
+          "圖表",
+          "曲線圖",
+          "函數圖"
+        ]
+      ],
+      "analysis": "此字為現代學術簡寫詞，由英文 graphic formula 或 graph-（源自希臘語 graphein，書寫、繪製）截短獨立而成。指透過座標軸、線條或柱狀將數據視覺化呈現的圖表。",
+      "definition": "1. a diagram showing the relation between variable quantities, typically of two variables, each measured along one of a pair of axes at right angles.",
+      "example": [
+        {
+          "eng": "The bar graph clearly shows the increase in sales over the past year.",
+          "ch": "這張長條圖清楚顯示了過去一年銷售額的成長。"
+        }
+      ]
+    },
+    {
+      "eng": "grateful",
+      "kk": "ˈɡreɪtfəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "感激的",
+          "感恩的"
+        ]
+      ],
+      "analysis": "此字由古英語及拉丁語源根 gratus 加上形容詞字尾 -ful 構成。指對他人給予的幫助、恩惠或好意感到由衷感謝與感激的心理狀態。",
+      "definition": "1. feeling or showing an appreciation of kindness; thankful.",
+      "example": [
+        {
+          "eng": "I am deeply grateful for all your help during my difficult times.",
+          "ch": "我由衷感謝你在我困難時期給予的所有幫助。"
+        }
+      ]
+    },
+    {
+      "eng": "gratitude",
+      "kk": "ˈɡrætəˌtud",
+      "tense": "n.",
+      "ch": [
+        [
+          "感激",
+          "感恩之情"
+        ]
+      ],
+      "analysis": "此字源自中世紀拉丁語 gratitudo，由拉丁語 gratus 加上抽象名詞字尾 -tudo 構成。指內心感受到並準備表達謝意的深厚感激之情。",
+      "definition": "1. the quality of being thankful; readiness to show appreciation for and to return kindness.",
+      "example": [
+        {
+          "eng": "She expressed her heartfelt gratitude to the volunteers who rescued her pet.",
+          "ch": "她向救援她寵物的志工們表達了內心誠摯的感激。"
+        }
+      ]
+    },
+    {
+      "eng": "grave",
+      "kk": "ɡreɪv",
+      "tense": "n.",
+      "ch": [
+        [
+          "墳墓",
+          "墓穴"
+        ]
+      ],
+      "analysis": "此字為日耳曼語族傳承詞，源自古英語 græf（溝渠、墳墓），與動詞 delve 或 grab 具同源關係。本義為在地表挖出的坑穴，專門用來埋葬死者的墳墓。",
+      "definition": "1. a hole dug in the ground to receive a coffin or corpse, typically one marked by a stone or mound.",
+      "example": [
+        {
+          "eng": "Family members gathered at the graveside to pay their final respects.",
+          "ch": "家屬們聚集在墓地旁致上最後的敬意。"
+        }
+      ]
+    },
+    {
+      "eng": "grave",
+      "kk": "ɡreɪv",
+      "tense": "adj.",
+      "ch": [
+        [
+          "嚴重的",
+          "嚴峻的",
+          "重大的"
+        ],
+        [
+          "嚴肅的",
+          "莊嚴的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 gravis（重的、沉重的、嚴重的），與 gravity 同源，經中古法語進入英語。原意為「重量沉的」，引申指形勢、危機或後果極其「嚴重、重大」，亦可形容人的神情或態度「嚴肅、莊重」。",
+      "definition": "1. (of a situation or event) giving cause for alarm; serious or critical.; 2. (of a person or their manner) serious and solemn.",
+      "example": [
+        {
+          "eng": "The country is facing a grave economic crisis.",
+          "ch": "這個國家正面臨嚴重的經濟危機。"
+        },
+        {
+          "eng": "He spoke in a grave tone about the dangers of climate change.",
+          "ch": "他以嚴肅的語氣談到氣候變遷的危險。"
+        }
+      ]
+    },
+    {
+      "eng": "greasy",
+      "kk": "ˈɡriːsi",
+      "tense": "adj.",
+      "ch": [
+        [
+          "油膩的",
+          "沾滿油脂的"
+        ],
+        [
+          "滑溜的",
+          "油腔滑調的"
+        ]
+      ],
+      "analysis": "此字由名詞 grease（油脂）加上形容詞字尾 -y 構成。指食物、表面沾滿油脂而顯得油膩，或因有油而變得很滑；亦可引申用來形容人態度虛偽、油腔滑調。",
+      "definition": "1. smeared with or containing grease or oil.; 2. slippery; or insincerely smooth and unctuous.",
+      "example": [
+        {
+          "eng": "After frying the bacon, the pan was covered in a greasy residue.",
+          "ch": "煎完培根後，平底鍋覆蓋了一層油膩的殘留物。"
+        },
+        {
+          "eng": "I didn't trust the salesman because of his greasy manner.",
+          "ch": "我不信任那個業務員，因為他那種油腔滑調的態度。"
+        }
+      ]
+    },
+    {
+      "eng": "greeting",
+      "kk": "ˈɡriːtɪŋ",
+      "tense": "n.",
+      "ch": [
+        [
+          "問候",
+          "招呼",
+          "致意"
+        ]
+      ],
+      "analysis": "此字由動詞 greet（問候）加上名詞化字尾 -ing 構成，源自古英語 grētan。指見面時向對方打招呼、表達歡迎或致意的言辭與舉動。",
+      "definition": "1. a polite word or sign of welcome or recognition when meeting someone.",
+      "example": [
+        {
+          "eng": "She smiled and offered a warm greeting to every guest who arrived.",
+          "ch": "她微笑着向每一位到來的賓客致以熱情的問候。"
+        }
+      ]
+    },
+    {
+      "eng": "greetings",
+      "kk": "ˈɡriːtɪŋz",
+      "tense": "n.",
+      "ch": [
+        [
+          "問候語",
+          "祝賀",
+          "賀詞（恆用複數）"
+        ]
+      ],
+      "analysis": "此字為 greeting 的複數形式，專門用作名詞片語，常見於書信開頭、明信片或節慶祝賀中，表示向收信人表達的問候與祝賀之意。",
+      "definition": "1. polite expressions of goodwill and welcome, typically used in letters or messages.",
+      "example": [
+        {
+          "eng": "Send my warmest greetings to your parents when you see them.",
+          "ch": "你見到你父母時，請代我向他們致上最溫暖的問候。"
+        }
+      ]
+    },
+    {
+      "eng": "grief",
+      "kk": "ɡriːf",
+      "tense": "n.",
+      "ch": [
+        [
+          "悲傷",
+          "悲痛",
+          "傷心事"
+        ]
+      ],
+      "analysis": "此字源自古法語 grief（痛苦、冤屈、傷害），源自拉丁語 gravare（加重負擔），字根同 grave（重）。原意為沉重的負擔與精神痛苦，後來在英語中演變成專指因親人過世或遭遇重大損失而產生的深切悲傷與悲痛。",
+      "definition": "1. deep sorrow, especially that caused by someone's death.",
+      "example": [
+        {
+          "eng": "She struggled to cope with the overwhelming grief after losing her husband.",
+          "ch": "在失去丈夫後，她艱難地應對著排山倒海而來的巨大悲傷。"
+        }
+      ]
+    },
+    {
+      "eng": "grind",
+      "kk": "ɡraɪnd",
+      "tense": "vt.",
+      "ch": [
+        [
+          "磨碎",
+          "碾碎",
+          "把……磨成粉"
+        ],
+        [
+          "磨利",
+          "磨快"
+        ],
+        [
+          "折磨",
+          "壓榨"
+        ]
+      ],
+      "analysis": "此字為日耳曼語族傳承詞，源自古英語 grindan（磨碎）。核心義指利用摩擦或壓力將固體物質碾磨成碎末或粉末，亦可引申指將刀具磨利，或抽象地「壓榨、折磨」勞動力。",
+      "definition": "1. to reduce (something) to small particles or powder by crushing it.; 2. to sharpen or shape (something) by friction.; 3. to oppress or wear down by harsh treatment.",
+      "example": [
+        {
+          "eng": "Use this machine to grind coffee beans into a fine powder.",
+          "ch": "用這台機器把咖啡豆磨成細粉。"
+        },
+        {
+          "eng": "He spent the afternoon in the shed to grind his gardening tools.",
+          "ch": "他整個下午都在棚子裡磨他的園藝工具。"
+        }
+      ]
+    },
+    {
+      "eng": "grind",
+      "kk": "ɡraɪnd",
+      "tense": "vi.",
+      "ch": [
+        [
+          "摩擦作聲",
+          "咬牙切齒"
+        ],
+        [
+          "苦幹",
+          "拼命苦讀"
+        ]
+      ],
+      "analysis": "作為不及物動詞，指物體之間互相摩擦發出刺耳的聲音，或引申為學生或工作者默默埋頭「苦幹、死讀書」的行為。",
+      "definition": "1. to make a harsh, grating sound through friction.; 2. to work or study hard continuously.",
+      "example": [
+        {
+          "eng": "The old car's brakes began to grind as he pulled up to the stop sign.",
+          "ch": "當他在停車標誌前減速時，舊車的煞車開始發出刺耳的摩擦聲。"
+        },
+        {
+          "eng": "She had to grind through the weekend to finish her thesis draft.",
+          "ch": "她必須在週末拼命苦讀，才能完成論文初稿。"
+        }
+      ]
+    },
+    {
+      "eng": "guarantee",
+      "kk": "ˌɡærənˈti",
+      "tense": "n.",
+      "ch": [
+        [
+          "保證",
+          "保證書",
+          "擔保物"
+        ]
+      ],
+      "analysis": "此字源自法語 garantir（擔保、保護），最終源自日耳曼語族（同源於 warrant）。指對產品品質、服務或某項結果做出的正式承諾、保證書，或提供債務擔保的抵押物。",
+      "definition": "1. a formal promise or assurance, especially that certain conditions shall be fulfilled or that a product will be repaired or replaced if not of a specified quality.",
+      "example": [
+        {
+          "eng": "The washing machine comes with a two-year manufacturer's guarantee.",
+          "ch": "這台洗衣機附帶兩年的製造商保固。"
+        }
+      ]
+    },
+    {
+      "eng": "guarantee",
+      "kk": "ˌɡærənˈti",
+      "tense": "vt.",
+      "ch": [
+        [
+          "保證",
+          "擔保",
+          "確保"
+        ]
+      ],
+      "analysis": "作為及物動詞，指承諾某事必然發生，或對產品品質、顧客權益提供法律或商業上的擔保。",
+      "definition": "1. to provide a formal assurance or promise, especially that certain conditions will be fulfilled.",
+      "example": [
+        {
+          "eng": "Hard work does not always guarantee success, but it is essential.",
+          "ch": "努力不一定能保證成功，但它是不可或缺的。"
+        }
+      ]
+    },
+    {
+      "eng": "guardian",
+      "kk": "ˈɡɑrdiən",
+      "tense": "n.",
+      "ch": [
+        [
+          "監護人",
+          "保護者",
+          "守護者"
+        ]
+      ],
+      "analysis": "此字源自古法語 warden / gardian（看守人），源自日耳曼語族（同源於 guard）。指依法獲得授權照顧未成年人的「監護人」，或引申為保護某個機構、價值或群體的「守護者」。",
+      "definition": "1. a person who has the legal right and duty to take care of someone else, especially a child whose parents have died or are unable to care for them.; 2. a defender, protector, or keeper of something.",
+      "example": [
+        {
+          "eng": "Following her parents' death, her uncle was appointed as her legal guardian.",
+          "ch": "在父母雙亡後，她的叔叔被指定為她的法定監護人。"
+        },
+        {
+          "eng": "Museums act as guardians of our cultural heritage.",
+          "ch": "博物館扮演著我們文化遺產守護者的角色。"
+        }
+      ]
+    },
+    {
+      "eng": "guilt",
+      "kk": "ɡɪlt",
+      "tense": "n.",
+      "ch": [
+        [
+          "內疚",
+          "罪惡感"
+        ],
+        [
+          "有罪",
+          "犯罪事實"
+        ]
+      ],
+      "analysis": "此字源自古英語 gylt（罪行、過失、債務）。原指犯下過錯或罪行的事實，後來心理學與日常語境中廣泛用來指做錯事後產生的內疚與罪惡感。",
+      "definition": "1. a feeling of having done wrong or failed in an obligation.; 2. the fact of having committed a specified or implied offense or crime.",
+      "example": [
+        {
+          "eng": "He was overwhelmed by a deep sense of guilt after lying to his friend.",
+          "ch": "對朋友說謊後，他被深深的內疚感壓得透不過氣。"
+        },
+        {
+          "eng": "The prosecutor presented enough evidence to prove his guilt in court.",
+          "ch": "檢察官在法庭上提出了足夠的證據來證明他的罪行。"
+        }
+      ]
+    },
+    {
+      "eng": "guilty",
+      "kk": "ˈɡɪlti",
+      "tense": "adj.",
+      "ch": [
+        [
+          "內疚的",
+          "感到不安的"
+        ],
+        [
+          "有罪的",
+          "犯了罪的"
+        ]
+      ],
+      "analysis": "此字由名詞 guilt（罪行、內疚）加上形容詞字尾 -y 構成。形容人因做錯事而心生內疚，或在法律上經判定確有犯罪事實、負有刑事責任。",
+      "definition": "1. feeling or showing a sense of guilt, especially because you have done something wrong.; 2. responsible for a specified wrongdoing or crime.",
+      "example": [
+        {
+          "eng": "She felt guilty about eating the last piece of cake without asking.",
+          "ch": "沒問過就吃掉最後一塊蛋糕，讓她感到有些內疚。"
+        },
+        {
+          "eng": "The jury returned a verdict of guilty on all charges.",
+          "ch": "陪審團對所有指控做出了有罪的裁決。"
+        }
+      ]
+    },
+    {
+      "eng": "gulf",
+      "kk": "ɡʌlf",
+      "tense": "n.",
+      "ch": [
+        [
+          "海灣",
+          "深淵"
+        ],
+        [
+          "（意見、利益等的）巨大分歧",
+          "鴻溝"
+        ]
+      ],
+      "analysis": "此字源自義大利語 golfo（海灣），最終源自希臘語 kolpos（海灣、胸懷、深谷），經由法語進入英語。原指深入陸地的巨大「海灣」或陡峭的「深淵」，引申用來形容人與人、群體間難以跨越的巨大分歧與「鴻溝」。",
+      "definition": "1. a deep inlet of the sea surrounded by land, with a narrow mouth.; 2. a wide gap or difference between two people, groups, or ideas.",
+      "example": [
+        {
+          "eng": "Their ship sailed safely across the blue waters of the Persian Gulf.",
+          "ch": "他們的船安全地航行在波斯灣蔚藍的海水上。"
+        },
+        {
+          "eng": "Efforts are being made to bridge the economic gulf between rich and poor.",
+          "ch": "各方正在努力彌合貧富之間的經濟鴻溝。"
+        }
+      ]
+    },
+    {
+      "eng": "habitual",
+      "kk": "həˈbɪtʃuəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "習慣性的",
+          "慣常的"
+        ],
+        [
+          "習以為常的",
+          "慣犯的"
+        ]
+      ],
+      "analysis": "此字由名詞 habit 加上形容詞字尾 -ual 構成，源自拉丁語 habitualis。形容某種行為、動作或狀態是出於長期養成的習慣，經常發生或成為常態。",
+      "definition": "1. done or doing something constantly or as a habit.; 2. customary or usual.",
+      "example": [
+        {
+          "eng": "He made a habitual check of the locks before going to bed.",
+          "ch": "他在睡前習慣性地檢查了門鎖。"
+        },
+        {
+          "eng": "She is a habitual reader who finishes a book every week.",
+          "ch": "她是一位習慣性閱讀者，每週都會看完一本書。"
+        }
+      ]
+    },
+    {
+      "eng": "halt",
+      "kk": "hɔlt",
+      "tense": "n.",
+      "ch": [
+        [
+          "停下",
+          "暫停",
+          "終止"
+        ]
+      ],
+      "analysis": "此字為動詞 halt 的同形轉化名詞，指動作、進程的突然停止或暫停（常構成片語 come to a halt 或 bring to a halt）。",
+      "definition": "1. a suspension of movement or activity, typically a temporary one.",
+      "example": [
+        {
+          "eng": "Production at the factory came to a sudden halt due to a power outage.",
+          "ch": "由於停電，工廠的生產突然全面停擺。"
+        }
+      ]
+    },
+    {
+      "eng": "halt",
+      "kk": "hɔlt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使停下",
+          "使暫停",
+          "終止"
+        ]
+      ],
+      "analysis": "此字源自德語 halten（抓住、停止）或荷蘭語 halthouden，經由軍事用語進入法語與英語。作及物動詞時，指使行進中的部隊、車輛、進程或活動立刻停止或終止。",
+      "definition": "1. to bring or come to an abrupt stop.",
+      "example": [
+        {
+          "eng": "The sudden snowstorm forced the authorities to halt all highway traffic.",
+          "ch": "突如其來的暴風雪迫使當局暫停了所有高速公路交通。"
+        }
+      ]
+    },
+    {
+      "eng": "halt",
+      "kk": "hɔlt",
+      "tense": "vi.",
+      "ch": [
+        [
+          "停下",
+          "暫停",
+          "立定"
+        ]
+      ],
+      "analysis": "作為不及物動詞，指人、車輛或活動自行停下或暫告一段落。",
+      "definition": "1. to come to a stop; to cease moving.",
+      "example": [
+        {
+          "eng": "The platoon marched forward until the commander ordered them to halt.",
+          "ch": "排長下令立定前，排員們一直向前行進。"
+        }
+      ]
+    },
+    {
+      "eng": "handwriting",
+      "kk": "ˈhændˌraɪtɪŋ",
+      "tense": "n.",
+      "ch": [
+        [
+          "手寫",
+          "筆跡",
+          "書法風格"
+        ]
+      ],
+      "analysis": "此字為現代透明複合詞，由 hand（手）與 writing（寫作、書寫）結合而成。指親手書寫的文字或個人獨特的筆跡風格。",
+      "definition": "1. writing done by hand, especially a person's particular style of writing.",
+      "example": [
+        {
+          "eng": "I could barely read the notes because of his messy handwriting.",
+          "ch": "因為他凌亂的筆跡，我幾乎無法讀懂這些筆記。"
+        }
+      ]
+    },
+    {
+      "eng": "hardship",
+      "kk": "ˈhɑrdˌʃɪp",
+      "tense": "n.",
+      "ch": [
+        [
+          "艱苦",
+          "困苦",
+          "艱難"
+        ]
+      ],
+      "analysis": "此字為構詞透明的複合名詞，由形容詞 hard 加上名詞字尾 -ship（表示狀態或身份）構成。指生活上遭遇物質匱乏、貧困或重大困難的艱苦狀態。",
+      "definition": "1. severe suffering or deprivation.",
+      "example": [
+        {
+          "eng": "Many families faced severe economic hardship during the recession.",
+          "ch": "許多家庭在經濟衰退期間面臨嚴重的經濟困境。"
+        }
+      ]
+    },
+    {
+      "eng": "hardware",
+      "kk": "ˈhɑrdˌwɛr",
+      "tense": "n.",
+      "ch": [
+        [
+          "五金器具",
+          "金屬製品"
+        ],
+        [
+          "（電腦）硬體"
+        ]
+      ],
+      "analysis": "此字由形容詞 hard 與名詞 ware（器皿、商品）複合而成。原指金屬製造的工具與五金器具（如釘子、鎖具），電腦時代來臨後，被借用來對應軟體，指電腦或其他電子設備的實體硬體零件。",
+      "definition": "1. tools, implements, and other items made of metal, such as tools, locks, and hinges.; 2. the physical components of a computer system.",
+      "example": [
+        {
+          "eng": "He went to the local hardware store to buy some screws and a hammer.",
+          "ch": "他去當地的五金行買了一些螺絲和一把鐵鎚。"
+        },
+        {
+          "eng": "The new software update is not compatible with older computer hardware.",
+          "ch": "這個新的軟體更新與舊型電腦硬體不相容。"
+        }
+      ]
+    },
+    {
+      "eng": "harmony",
+      "kk": "ˈhɑrməni",
+      "tense": "n.",
+      "ch": [
+        [
+          "融洽",
+          "和諧",
+          "一致"
+        ],
+        [
+          "（音樂的）和聲",
+          "和諧悅耳"
+        ]
+      ],
+      "analysis": "此字源自希臘語 harmonia（聯合、協調、音樂和聲），由 harmozein 衍生而來，經拉丁語進入英語。核心義指各部分完美搭配、相處融洽的社會或心理狀態，在音樂中則專指多個音高同時發聲產生的和聲。",
+      "definition": "1. the state of being in agreement or concord; peaceful coexistence.; 2. the combination of simultaneously sounded musical notes to produce a pleasing effect.",
+      "example": [
+        {
+          "eng": "Different communities live together in peace and harmony in this city.",
+          "ch": "不同的社群在這個城市裡和平且和諧地生活在一起。"
+        },
+        {
+          "eng": "The choir sang the Christmas carol in beautiful four-part harmony.",
+          "ch": "合唱團以優美的四部和聲演唱了這首聖誕頌歌。"
+        }
+      ]
+    },
+    {
+      "eng": "harsh",
+      "kk": "hɑrʃ",
+      "tense": "adj.",
+      "ch": [
+        [
+          "嚴厲的",
+          "嚴酷的",
+          "苛刻的"
+        ],
+        [
+          "刺耳的",
+          "粗糙的",
+          "刺目的"
+        ]
+      ],
+      "analysis": "此字源自中古英語 harsk（粗糙的、苦澀的），可能源自日耳曼語族。原指觸感粗糙或味道苦澀，後來語意擴大，用來形容氣候、環境或懲罰極其「嚴酷、嚴厲」，或形容聲音刺耳、光線刺眼。",
+      "definition": "1. unpleasantly rough or jarring to the senses; 2. severe or cruel.",
+      "example": [
+        {
+          "eng": "The harsh winter climate made it difficult for the crops to survive.",
+          "ch": "嚴酷的冬季氣候使得農作物很難存活。"
+        },
+        {
+          "eng": "He regretted using such harsh words during the argument.",
+          "ch": "他後悔在爭吵時用了那麼嚴厲苛刻的話。"
+        }
+      ]
+    },
+    {
+      "eng": "haste",
+      "kk": "heɪst",
+      "tense": "n.",
+      "ch": [
+        [
+          "匆忙",
+          "急忙",
+          "草率"
+        ]
+      ],
+      "analysis": "此字源自古法語 haste，最終源自日耳曼語族。指行動或動作過於急促、匆忙，常伴隨因缺乏深思熟慮而導致的草率。",
+      "definition": "1. excessive speed or urgency of movement or action; hurry.",
+      "example": [
+        {
+          "eng": "Leaving the house in such haste caused her to forget her keys.",
+          "ch": "出門時太匆忙，導致她把鑰匙忘了。"
+        }
+      ]
+    },
+    {
+      "eng": "hasten",
+      "kk": "ˈheɪsən",
+      "tense": "vt.",
+      "ch": [
+        [
+          "加速",
+          "促使……加快發生"
+        ]
+      ],
+      "analysis": "此字由名詞 haste 加上動詞化字尾 -en 構成。作及物動詞時，指加快某事的進程或促使某個結果提早發生。",
+      "definition": "1. to cause something to happen sooner than it would otherwise.",
+      "example": [
+        {
+          "eng": "Stress and poor diet can hasten the onset of heart disease.",
+          "ch": "壓力與不良飲食會加速心臟病的發作。"
+        }
+      ]
+    },
+    {
+      "eng": "hasten",
+      "kk": "ˈheɪsən",
+      "tense": "vi.",
+      "ch": [
+        [
+          "趕快",
+          "急忙",
+          "加速行動"
+        ]
+      ],
+      "analysis": "作為不及物動詞，指人加快腳步、急忙前往某地或迅速採取行動。",
+      "definition": "1. to be quick to do something; to move hurriedly.",
+      "example": [
+        {
+          "eng": "Upon hearing the news, she hastened back home to check on her family.",
+          "ch": "聽到這個消息後，她急忙趕回家查看家人的狀況。"
+        }
+      ]
+    },
+    {
+      "eng": "hatred",
+      "kk": "ˈheɪtrɪd",
+      "tense": "n.",
+      "ch": [
+        [
+          "仇恨",
+          "憎惡",
+          "怨恨"
+        ]
+      ],
+      "analysis": "此字為中古英語混合構詞，由動詞 hate 加上日耳曼語族名詞抽象字尾 -red（表狀態）構成。指對某人或某事物產生的強烈厭惡與仇恨情感。",
+      "definition": "1. intense dislike or ill will.",
+      "example": [
+        {
+          "eng": "Racial hatred has no place in a civilized, modern society.",
+          "ch": "種族仇恨在文明的現代社會中沒有容身之處。"
+        }
+      ]
+    },
+    {
+      "eng": "hawk",
+      "kk": "hɔk",
+      "tense": "n.",
+      "ch": [
+        [
+          "鷹",
+          "隼"
+        ],
+        [
+          "（政壇上的）強硬派",
+          "主戰派"
+        ]
+      ],
+      "analysis": "此字源自古英語 hafoc（猛禽），為日耳曼語族傳承詞。原指視力銳利、捕食小型動物的猛禽「鷹」，在冷戰及現代政治語境中，被借喻用來形容主張對外採取強硬、軍事對抗政策的「強硬派或主戰派」。",
+      "definition": "1. a diurnal bird of prey with broad wings and a hooked beak, typically hunting other animals.; 2. a person who advocates an aggressive or warlike policy, especially in foreign affairs.",
+      "example": [
+        {
+          "eng": "A sharp-eyed hawk circled slowly high above the open field.",
+          "ch": "一隻目光銳利的鷹在開闊的田野高空緩慢盤旋。"
+        },
+        {
+          "eng": "Political hawks pushed for stronger economic sanctions against the regime.",
+          "ch": "政治強硬派力主對該政權實施更嚴厲的經濟制裁。"
+        }
+      ]
+    }
+  ]
+}

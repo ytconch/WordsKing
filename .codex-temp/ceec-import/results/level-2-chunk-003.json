@@ -1,0 +1,1810 @@
+{
+  "level": 2,
+  "chunkIndex": 3,
+  "inputs": [
+    "blanket",
+    "blood",
+    "board",
+    "boil",
+    "bone",
+    "bookstore",
+    "border",
+    "bother",
+    "brain",
+    "branch",
+    "brand",
+    "brief",
+    "brilliant",
+    "broad",
+    "brush",
+    "building",
+    "bun",
+    "burden",
+    "burn",
+    "burst",
+    "businessman",
+    "cabbage",
+    "café",
+    "cafe",
+    "cage",
+    "calendar",
+    "calm",
+    "camel",
+    "cancel",
+    "cancer",
+    "candle",
+    "capital",
+    "cartoon",
+    "cash",
+    "castle",
+    "cause",
+    "ceiling",
+    "cell",
+    "centimeter",
+    "central",
+    "century",
+    "cereal",
+    "chain",
+    "chalk",
+    "challenge",
+    "channel",
+    "chapter",
+    "character",
+    "charge",
+    "chart"
+  ],
+  "rows": [
+    {
+      "eng": "blanket",
+      "kk": "/ˈblæŋkɪt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "毛毯",
+          "毯子"
+        ],
+        [
+          "覆蓋物",
+          "層"
+        ]
+      ],
+      "analysis": "此字由中古英語 blankete 經古法語 blanquete（源自 blanc「白色」）演變而來。名詞表示保暖用的毛毯或廣義的厚重覆蓋層。",
+      "definition": "1. a large piece of warm cloth used for sleeping under; 2. a thick layer or covering of something.",
+      "example": [
+        {
+          "eng": "She wrapped a woolen blanket around her shoulders to stay warm.",
+          "ch": "她把一條羊毛毯子裹在肩膀上以保持溫暖。"
+        },
+        {
+          "eng": "A thick blanket of snow covered the small mountain village.",
+          "ch": "厚厚的一層雪覆蓋了這個小山村。"
+        }
+      ]
+    },
+    {
+      "eng": "blanket",
+      "kk": "/ˈblæŋkɪt/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "覆蓋",
+          "籠罩"
+        ]
+      ],
+      "analysis": "此動詞由名詞轉化而來，表示像毛毯般全面覆蓋或籠罩某物。",
+      "definition": "1. to cover something completely with a thick layer.",
+      "example": [
+        {
+          "eng": "Heavy fog began to blanket the entire valley overnight.",
+          "ch": "濃霧在一夜之間開始籠罩整個山谷。"
+        }
+      ]
+    },
+    {
+      "eng": "blood",
+      "kk": "/blʌd/",
+      "tense": "n.",
+      "ch": [
+        [
+          "血液",
+          "血"
+        ],
+        [
+          "血統",
+          "家族"
+        ]
+      ],
+      "analysis": "此字為日耳曼語族的繼承詞，源自古英語 blōd。名詞主要指體內循環的紅色液體，引申亦可指血統、宗族或家族關係。",
+      "definition": "1. the red liquid that flows inside the bodies of humans and animals; 2. family descent, ancestry, or bloodline.",
+      "example": [
+        {
+          "eng": "The injury caused him to lose a significant amount of blood.",
+          "ch": "這場受傷導致他流失了大量的血。"
+        },
+        {
+          "eng": "They share royal blood and trace their ancestry back centuries.",
+          "ch": "他們擁有皇室血統，並將祖先追溯到數個世紀前。"
+        }
+      ]
+    },
+    {
+      "eng": "board",
+      "kk": "/bɔrd/",
+      "tense": "n.",
+      "ch": [
+        [
+          "木板",
+          "板子"
+        ],
+        [
+          "委員會",
+          "董事會"
+        ],
+        [
+          "伙食",
+          "膳食"
+        ]
+      ],
+      "analysis": "此字源自古英語 bord（意為木板、盾牌）。名詞演變出木板、由成員組成的委員會或董事會，以及供宿含伙食的含義。",
+      "definition": "1. a long, thin, flat piece of wood or other hard material; 2. a group of people who manage or direct a company or organization; 3. meals provided regularly in exchange for payment.",
+      "example": [
+        {
+          "eng": "He nailed the wooden board across the broken window.",
+          "ch": "他把木板釘在破掉的窗戶上。"
+        },
+        {
+          "eng": "The board of directors approved the new corporate budget.",
+          "ch": "董事會批准了新的公司預算。"
+        },
+        {
+          "eng": "The student paid a fixed fee for room and board.",
+          "ch": "這名學生支付了固定的房租與伙食費。"
+        }
+      ]
+    },
+    {
+      "eng": "board",
+      "kk": "/bɔrd/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "登機",
+          "上船",
+          "上車"
+        ]
+      ],
+      "analysis": "此動詞用法源自名詞「船舷、甲板」（on board），進一步演變為動詞，表示登上船隻、飛機或火車等交通工具。",
+      "definition": "1. to get on a ship, train, aircraft, or bus.",
+      "example": [
+        {
+          "eng": "Passengers are requested to board the plane through gate four.",
+          "ch": "請旅客經由四號登機門登機。"
+        }
+      ]
+    },
+    {
+      "eng": "board",
+      "kk": "/bɔrd/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "寄宿",
+          "膳宿"
+        ]
+      ],
+      "analysis": "此不及物動詞用法源自名詞「伙食、膳宿」（board），表示在某處搭伙或寄宿。",
+      "definition": "1. to live and take meals as a lodger in someone's house.",
+      "example": [
+        {
+          "eng": "He decided to board near the university during his studies.",
+          "ch": "他決定在求學期間於大學附近寄宿搭伙。"
+        }
+      ]
+    },
+    {
+      "eng": "boil",
+      "kk": "/bɔɪl/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "煮",
+          "水煮"
+        ]
+      ],
+      "analysis": "及物動詞指將液體加熱至沸騰，或用沸水加熱烹調食物。",
+      "definition": "1. to cook food in boiling water.",
+      "example": [
+        {
+          "eng": "She likes to boil eggs for breakfast every morning.",
+          "ch": "她喜歡每天早上煮雞蛋當早餐。"
+        }
+      ]
+    },
+    {
+      "eng": "boil",
+      "kk": "/bɔɪl/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "沸騰",
+          "煮沸"
+        ]
+      ],
+      "analysis": "此字源自古法語 boil-, boll-（源自拉丁語 bullire「起泡、沸騰」）。不及物動詞指液體達到沸點產生氣泡或滾沸。",
+      "definition": "1. to reach the temperature at which a liquid turns into gas and bubbles.",
+      "example": [
+        {
+          "eng": "Water begins to boil at one hundred degrees Celsius.",
+          "ch": "水在攝氏一百度時開始沸騰。"
+        }
+      ]
+    },
+    {
+      "eng": "bone",
+      "kk": "/boʊn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "骨頭",
+          "骨"
+        ]
+      ],
+      "analysis": "此字為日耳曼語族的繼承詞，源自古英語 bān。名詞指構成脊椎動物骨骼的硬組織。",
+      "definition": "1. any of the hard pieces that form the skeleton of a human or animal.",
+      "example": [
+        {
+          "eng": "The X-ray showed that he had broken a bone in his wrist.",
+          "ch": "X光顯示他手腕的骨頭斷了一根。"
+        }
+      ]
+    },
+    {
+      "eng": "bookstore",
+      "kk": "/ˈbʊkˌstɔr/",
+      "tense": "n.",
+      "ch": [
+        [
+          "書店"
+        ]
+      ],
+      "analysis": "此字為現代透明複合詞，由 book（書）與 store（商店）結合而成，指專門販售書籍的店鋪。",
+      "definition": "1. a shop where books are sold.",
+      "example": [
+        {
+          "eng": "I bought a new English grammar book at the downtown bookstore.",
+          "ch": "我在市中心的書店買了一本新的英文文法書。"
+        }
+      ]
+    },
+    {
+      "eng": "border",
+      "kk": "/ˈbɔrdər/",
+      "tense": "n.",
+      "ch": [
+        [
+          "邊界",
+          "國界"
+        ],
+        [
+          "邊緣",
+          "飾邊"
+        ]
+      ],
+      "analysis": "此字源自中古英語（源自古法語 border，源自法蘭克語片語），名詞指國家、地區之間的邊界，或物件的邊緣與裝飾邊。",
+      "definition": "1. the official line that separates two countries or regions; 2. the edge or boundary of something.",
+      "example": [
+        {
+          "eng": "They crossed the border between the two countries without any delay.",
+          "ch": "他們沒有延誤地通過了兩國之間的邊界。"
+        },
+        {
+          "eng": "The decorative tablecloth has a blue border around it.",
+          "ch": "這條裝飾用的桌布周圍有一圈藍色的邊緣。"
+        }
+      ]
+    },
+    {
+      "eng": "border",
+      "kk": "/ˈbɔrdər/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "與...接壤",
+          "鄰接"
+        ],
+        [
+          "鑲邊",
+          "圍繞"
+        ]
+      ],
+      "analysis": "及物動詞指地理位置上與某地區接壤，或在周圍加上邊緣或飾邊。",
+      "definition": "1. to share a boundary with a country or area; 2. to form a border along the edge of something.",
+      "example": [
+        {
+          "eng": "Canada borders the United States to the north.",
+          "ch": "加拿大在北部與美國接壤。"
+        },
+        {
+          "eng": "Tall green trees border the quiet country road.",
+          "ch": "高大的綠樹沿著這條安靜的鄉間小路鑲邊。"
+        }
+      ]
+    },
+    {
+      "eng": "bother",
+      "kk": "/ˈbɑðər/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "打擾",
+          "麻煩"
+        ],
+        [
+          "使煩惱",
+          "操心"
+        ]
+      ],
+      "analysis": "此字源自早期英語 baddder 或類似日耳曼語源。及物動詞指打擾他人，或使人感到困擾、心煩。",
+      "definition": "1. to annoy, disturb, or cause inconvenience to someone; 2. to worry or concern someone.",
+      "example": [
+        {
+          "eng": "Please do not bother him while he is studying for his exams.",
+          "ch": "請在他準備考試時不要打擾他。"
+        },
+        {
+          "eng": "The strange noise from the engine began to bother her.",
+          "ch": "引擎發出的奇怪聲音開始使她感到煩惱。"
+        }
+      ]
+    },
+    {
+      "eng": "bother",
+      "kk": "/ˈbɑðər/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "費心",
+          "操心"
+        ]
+      ],
+      "analysis": "不及物動詞常以否定或疑問句出現，表示肯花心思或費力氣去做某事。",
+      "definition": "1. to take the trouble to do something.",
+      "example": [
+        {
+          "eng": "Why bother cooking when we can just order takeout?",
+          "ch": "既然我們可以直接叫外送，何必費心自己煮？"
+        }
+      ]
+    },
+    {
+      "eng": "brain",
+      "kk": "/breɪn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "腦",
+          "腦部"
+        ],
+        [
+          "頭腦",
+          "智力"
+        ]
+      ],
+      "analysis": "此字為日耳曼語族的繼承詞，源自古英語 brægen。名詞指頭顱內的器官（腦），引申指人的智能、思考能力或聰明才智。",
+      "definition": "1. the organ inside the head that controls thought, memory, and feeling; 2. intellectual capacity, intelligence, or mind.",
+      "example": [
+        {
+          "eng": "The human brain is a remarkably complex and powerful organ.",
+          "ch": "人腦是一個極其複雜且強大的器官。"
+        },
+        {
+          "eng": "She has a brilliant brain for solving complex mathematical equations.",
+          "ch": "她擁有解決複雜數學方程式的聰明頭腦。"
+        }
+      ]
+    },
+    {
+      "eng": "branch",
+      "kk": "/bræntʃ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "樹枝",
+          "枝"
+        ],
+        [
+          "分店",
+          "分支機構"
+        ]
+      ],
+      "analysis": "此字源自中古英語 branc（源自古法語 branche，源自拉丁語 branca「爪子」）。名詞指樹木的分支（樹枝），引申為機構的分支、分店或學科分流。",
+      "definition": "1. a part of a tree that grows out from the main trunk; 2. a local office, shop, or division of a larger organization.",
+      "example": [
+        {
+          "eng": "A little bird was singing on the high branch of the oak tree.",
+          "ch": "一隻小鳥正在橡樹的高樹枝上唱歌。"
+        },
+        {
+          "eng": "The bank has decided to open a new branch in downtown Taipei.",
+          "ch": "這家銀行已決定在台北市中心開設一間新分行。"
+        }
+      ]
+    },
+    {
+      "eng": "branch",
+      "kk": "/bræntʃ/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "分叉",
+          "延伸"
+        ]
+      ],
+      "analysis": "不及物動詞指道路、河流或樹木分出枝丫或支流。",
+      "definition": "1. to divide into two or more smaller parts or sections.",
+      "example": [
+        {
+          "eng": "The trail begins to branch as it approaches the upper mountain.",
+          "ch": "這條小徑在接近上山時開始分叉。"
+        }
+      ]
+    },
+    {
+      "eng": "brand",
+      "kk": "/brænd/",
+      "tense": "n.",
+      "ch": [
+        [
+          "品牌",
+          "商標"
+        ]
+      ],
+      "analysis": "此字源自古英語 brand（原意為燃燒的木柴、烙印）。名詞從早期的「烙印識別」演變為現代的商業品牌或商標。",
+      "definition": "1. a type of product made by a particular company under a particular name.",
+      "example": [
+        {
+          "eng": "This brand of coffee is known for its rich and smooth flavor.",
+          "ch": "這個品牌的咖啡以其濃郁滑順的口感聞名。"
+        }
+      ]
+    },
+    {
+      "eng": "brand",
+      "kk": "/brænd/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "烙印",
+          "打上烙印"
+        ],
+        [
+          "加標籤於",
+          "打上負面烙印"
+        ]
+      ],
+      "analysis": "及物動詞原指用熱鐵在牲畜身上打烙印，引申為給人加上不名譽的標籤。",
+      "definition": "1. to mark an animal with a hot iron to show ownership; 2. to describe someone unfairly as having a bad quality.",
+      "example": [
+        {
+          "eng": "Farmers used to brand their cattle to prevent theft.",
+          "ch": "農夫過去會在他們的牛隻上打烙印以防偷竊。"
+        },
+        {
+          "eng": "He was wrongly branded as a troublemaker by his classmates.",
+          "ch": "他被同學錯誤地貼上了惹事生非者的標籤。"
+        }
+      ]
+    },
+    {
+      "eng": "brief",
+      "kk": "/brif/",
+      "tense": "n.",
+      "ch": [
+        [
+          "摘要",
+          "概要"
+        ],
+        [
+          "辯護書",
+          "委託書"
+        ]
+      ],
+      "analysis": "名詞指扼要的說明、摘要，或法律上的訴訟摘要與辯護書。",
+      "definition": "1. a concise statement or summary; 2. a legal document detailing a case.",
+      "example": [
+        {
+          "eng": "She prepared a brief of the project for the director.",
+          "ch": "她為主任準備了一份專案摘要。"
+        }
+      ]
+    },
+    {
+      "eng": "brief",
+      "kk": "/brif/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "向...簡報",
+          "匯報"
+        ]
+      ],
+      "analysis": "及物動詞指事前向某人提供重要資訊或進行簡短的任務匯報。",
+      "definition": "1. to give someone detailed instructions or information before a task.",
+      "example": [
+        {
+          "eng": "The team leader will brief the members on the new strategy.",
+          "ch": "組長將向成員簡報這項新策略。"
+        }
+      ]
+    },
+    {
+      "eng": "brief",
+      "kk": "/brif/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "簡短的",
+          "短暫的"
+        ]
+      ],
+      "analysis": "此字源自古法語 brief（源自拉丁語 brevis「短的」）。形容詞指時間短暫或篇幅、言辭簡短。",
+      "definition": "1. lasting for only a short time; short in duration or extent.",
+      "example": [
+        {
+          "eng": "The manager held a brief meeting before the office opened.",
+          "ch": "經紀人在辦公室開門前開了一個簡短的會議。"
+        }
+      ]
+    },
+    {
+      "eng": "brilliant",
+      "kk": "/ˈbrɪljənt/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "燦爛的",
+          "閃耀的"
+        ],
+        [
+          "聰穎的",
+          "傑出的"
+        ]
+      ],
+      "analysis": "此字源自義大利語 brillante（源自 brillare「閃爍」）。形容詞指光芒燦爛，或引申為才華橫溢、極為聰明優秀。",
+      "definition": "1. very bright, shining, or sparkling with light; 2. exceptionally clever, talented, or impressive.",
+      "example": [
+        {
+          "eng": "The stars were brilliant in the clear night sky.",
+          "ch": "繁星在晴朗的夜空中閃爍耀眼。"
+        },
+        {
+          "eng": "She came up with a brilliant solution to the difficult problem.",
+          "ch": "她想出了解決這個難題的傑出方案。"
+        }
+      ]
+    },
+    {
+      "eng": "broad",
+      "kk": "/brɔd/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "寬的",
+          "廣闊的"
+        ],
+        [
+          "概括的",
+          "廣泛的"
+        ]
+      ],
+      "analysis": "此字為日耳曼語族的繼承詞，源自古英語 brād。形容詞指橫向距離大（寬闊的），或引申為範圍廣泛、概括性的。",
+      "definition": "1. large in distance from one side to the other; wide; 2. including a wide range of subjects; general.",
+      "example": [
+        {
+          "eng": "They walked across the broad avenue in the center of the city.",
+          "ch": "他們走過市中心那條寬闊的大道。"
+        },
+        {
+          "eng": "The report provides a broad overview of current economic trends.",
+          "ch": "該報告提供了目前經濟趨勢的概括性總覽。"
+        }
+      ]
+    },
+    {
+      "eng": "brush",
+      "kk": "/brʌʃ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "刷子",
+          "畫筆"
+        ],
+        [
+          "擦過",
+          "接觸"
+        ]
+      ],
+      "analysis": "此字源自中古英語 brusch（源自古法語 brousse「灌木叢」）。名詞指清潔或繪畫用的刷子，也指輕輕擦過或短暫接觸。",
+      "definition": "1. a tool with bristles used for cleaning, painting, or grooming; 2. a light, glancing touch or contact.",
+      "example": [
+        {
+          "eng": "She used a soft brush to clean the dust off the painting.",
+          "ch": "她用軟刷清理畫作上的灰塵。"
+        },
+        {
+          "eng": "He felt a sudden brush of wind against his face.",
+          "ch": "他感覺到一陣微風輕輕拂過臉龐。"
+        }
+      ]
+    },
+    {
+      "eng": "brush",
+      "kk": "/brʌʃ/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "刷",
+          "刷洗"
+        ],
+        [
+          "拂去",
+          "輕擦"
+        ]
+      ],
+      "analysis": "及物動詞指用刷子清潔、梳理頭髮，或用手輕輕拂去塵土。",
+      "definition": "1. to clean, smooth, or paint something using a brush; 2. to remove something with a quick movement of the hand.",
+      "example": [
+        {
+          "eng": "Remember to brush your teeth twice a day.",
+          "ch": "記得一天刷兩次牙。"
+        },
+        {
+          "eng": "She paused to brush the dust off her jacket.",
+          "ch": "她停下來拂去夾克上的灰塵。"
+        }
+      ]
+    },
+    {
+      "eng": "building",
+      "kk": "/ˈbɪldɪŋ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "建築物",
+          "房屋"
+        ],
+        [
+          "建築",
+          "建造業"
+        ]
+      ],
+      "analysis": "此字由動詞 build（建造）加上名詞字尾 -ing 形成。名詞指固定的人工建築物，或抽象的建造過程與行業。",
+      "definition": "1. a structure with a roof and walls, such as a house or factory; 2. the act or process of constructing something.",
+      "example": [
+        {
+          "eng": "The new office building in the financial district is nearly finished.",
+          "ch": "金融區的那棟新辦公大樓快要完工了。"
+        },
+        {
+          "eng": "The city has strict regulations regarding commercial building.",
+          "ch": "該市對商業建築有嚴格的規定。"
+        }
+      ]
+    },
+    {
+      "eng": "bun",
+      "kk": "/bʌn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "小圓麵包",
+          "捲髮髻"
+        ]
+      ],
+      "analysis": "此字源自中古英語 bunne（可能源自古法語或日耳曼語根）。名詞指烘焙的小圓麵包，或形似圓包的盤起髮髻。",
+      "definition": "1. a small, sweet, or plain bread roll; 2. a hairstyle where the hair is pulled back into a round shape.",
+      "example": [
+        {
+          "eng": "He ordered a hamburger with a warm sesame bun.",
+          "ch": "他點了一個夾著溫熱芝麻小圓麵包的漢堡。"
+        },
+        {
+          "eng": "She wore her hair in a neat bun for the interview.",
+          "ch": "她在面試時把頭髮梳成乾淨俐落的髮髻。"
+        }
+      ]
+    },
+    {
+      "eng": "burden",
+      "kk": "/ˈbɜrdn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "負擔",
+          "重擔"
+        ]
+      ],
+      "analysis": "此字源自古英語 byrþen（源自 beran「承擔」）。名詞指實質的沉重負擔，或引申為精神壓力與責任。",
+      "definition": "1. a heavy load that is difficult to carry; 2. a cause of worry, responsibility, or hardship.",
+      "example": [
+        {
+          "eng": "Carrying heavy packages can be a physical burden on your back.",
+          "ch": "搬運沉重的包裹會對你的背部造成體力負擔。"
+        },
+        {
+          "eng": "He tried not to let financial worries become a burden to his family.",
+          "ch": "他試著不讓財務憂慮成為家人的負擔。"
+        }
+      ]
+    },
+    {
+      "eng": "burden",
+      "kk": "/ˈbɜrdn/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使負擔",
+          "加重負擔於"
+        ]
+      ],
+      "analysis": "及物動詞指給某人或某物增加沈重的責任、義務或負擔。",
+      "definition": "1. to load someone or something with a heavy or difficult responsibility.",
+      "example": [
+        {
+          "eng": "She did not want to burden her parents with her personal problems.",
+          "ch": "她不想用自己的私事去加重父母的負擔。"
+        }
+      ]
+    },
+    {
+      "eng": "burn",
+      "kk": "/bɜrn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "燒傷",
+          "燙傷"
+        ],
+        [
+          "灼痛感"
+        ]
+      ],
+      "analysis": "名詞指皮膚因火或熱力造成的創傷（燒燙傷），或局部的灼熱感。",
+      "definition": "1. an injury to the skin caused by heat, fire, or chemicals; 2. a stinging sensation.",
+      "example": [
+        {
+          "eng": "She applied cool water to the minor burn on her finger.",
+          "ch": "她將冷水抹在手指上輕微的燙傷處。"
+        }
+      ]
+    },
+    {
+      "eng": "burn",
+      "kk": "/bɜrn/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "燃燒",
+          "焚燒"
+        ],
+        [
+          "燙傷",
+          "灼傷"
+        ]
+      ],
+      "analysis": "及物動詞指點燃並燒毀某物，或因高熱導致皮膚受損（燙傷）。",
+      "definition": "1. to destroy or damage something with fire; 2. to injure the skin with heat or fire.",
+      "example": [
+        {
+          "eng": "They gathered dry leaves and wood to burn in the yard.",
+          "ch": "他們收集乾葉和木頭在院子裡焚燒。"
+        },
+        {
+          "eng": "Be careful not to touch the hot stove or you will burn your hand.",
+          "ch": "小心不要碰到熱爐子，否則你會燙傷手。"
+        }
+      ]
+    },
+    {
+      "eng": "burn",
+      "kk": "/bɜrn/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "燃燒",
+          "著火"
+        ],
+        [
+          "發熱",
+          "灼痛"
+        ]
+      ],
+      "analysis": "此字源自古英語 beornan。不及物動詞指物質燃燒發光發熱，或引申為身體發燙、皮膚感到灼熱刺痛。",
+      "definition": "1. to be on fire and produce light and heat; 2. to feel very hot or painful.",
+      "example": [
+        {
+          "eng": "The campfire continued to burn brightly throughout the dark night.",
+          "ch": "營火在整個黑夜中持續明亮地燃燒著。"
+        },
+        {
+          "eng": "His eyes began to burn from the strong smoke in the room.",
+          "ch": "他的眼睛因室內的濃煙而開始感到灼痛。"
+        }
+      ]
+    },
+    {
+      "eng": "burst",
+      "kk": "/bɜrst/",
+      "tense": "n.",
+      "ch": [
+        [
+          "爆發",
+          "突發"
+        ]
+      ],
+      "analysis": "名詞指某種活動、能量或情感的突然短暫爆發。",
+      "definition": "1. a sudden, intense outbreak or spurt of activity or emotion.",
+      "example": [
+        {
+          "eng": "With a sudden burst of speed, she won the running race.",
+          "ch": "憑藉著一陣突然的衝刺加速，她贏得了賽跑冠軍。"
+        }
+      ]
+    },
+    {
+      "eng": "burst",
+      "kk": "/bɜrst/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "爆裂",
+          "爆炸"
+        ],
+        [
+          "突然出現",
+          "衝出"
+        ]
+      ],
+      "analysis": "此字源自古英語 berstan。不及物動詞指因內部壓力過大而破裂，或指動作突然、情緒猛然爆發。",
+      "definition": "1. to break open or apart suddenly and violently; 2. to emerge or appear suddenly and forcefully.",
+      "example": [
+        {
+          "eng": "The overinflated balloon suddenly burst with a loud pop.",
+          "ch": "充氣過頭的氣球伴隨一聲巨響突然爆裂了。"
+        },
+        {
+          "eng": "He burst into the room without knocking on the door.",
+          "ch": "他沒有敲門就突然衝進了房間。"
+        }
+      ]
+    },
+    {
+      "eng": "businessman",
+      "kk": "/ˈbɪznəsˌmæn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "商人",
+          "企業家"
+        ]
+      ],
+      "analysis": "此字為現代複合詞，由 business（商業）與 man（人）組合而成，指從事商業活動的男性或泛指商務人士。",
+      "definition": "1. a man who works in business, especially at a high level in a company.",
+      "example": [
+        {
+          "eng": "The successful businessman traveled overseas to sign a major trade deal.",
+          "ch": "這位成功的商人出海簽署了一項重大貿易協議。"
+        }
+      ]
+    },
+    {
+      "eng": "cabbage",
+      "kk": "/ˈkæbɪdʒ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "捲心菜",
+          "甘藍菜"
+        ]
+      ],
+      "analysis": "此字源自中古英語 caboche（源自古法語 caboche「頭」，因形似圓頭而得名）。名詞指結球甘藍等葉菜植物。",
+      "definition": "1. a large, round vegetable with thick green or purple leaves.",
+      "example": [
+        {
+          "eng": "Fresh cabbage is often shredded and used to make crunchy coleslaw.",
+          "ch": "新鮮的高麗菜經常切絲用來製作酥脆的涼拌捲心菜。"
+        }
+      ]
+    },
+    {
+      "eng": "café",
+      "kk": "/kæˈfeɪ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "咖啡館",
+          "咖啡廳"
+        ]
+      ],
+      "analysis": "此字借自法語 café（原意為咖啡）。名詞指販售咖啡、茶水與輕食的小餐館或咖啡廳。",
+      "definition": "1. a small restaurant selling light meals and drinks, especially coffee and tea.",
+      "example": [
+        {
+          "eng": "They sat outside at a cozy sidewalk café drinking hot espresso.",
+          "ch": "他們坐在舒適的人行道咖啡館外喝著熱濃縮咖啡。"
+        }
+      ]
+    },
+    {
+      "eng": "cafe",
+      "kk": "/kæˈfeɪ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "咖啡館",
+          "咖啡廳"
+        ]
+      ],
+      "analysis": "此字為 café 的常見英文拼寫變體（省去重音符號），語義與用法完全相同，指咖啡館或小型餐館。",
+      "definition": "1. a small restaurant selling light meals and drinks.",
+      "example": [
+        {
+          "eng": "We met for a quick chat at the corner cafe.",
+          "ch": "我們在街角的咖啡館見面聊了一會兒。"
+        }
+      ]
+    },
+    {
+      "eng": "cage",
+      "kk": "/keɪdʒ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "鳥籠",
+          "籠子"
+        ]
+      ],
+      "analysis": "此字源自古法語 cage（源自拉丁語 cavea「凹處、籠子」）。名詞指用金屬條或木條製成的動物籠子。",
+      "definition": "1. a structure of wire or metal bars in which birds or animals are kept.",
+      "example": [
+        {
+          "eng": "The pet parrot hopped around cheerfully inside its large metal cage.",
+          "ch": "寵物鸚鵡在大金屬籠子裡快樂地跳來跳去。"
+        }
+      ]
+    },
+    {
+      "eng": "calendar",
+      "kk": "/ˈkæləndər/",
+      "tense": "n.",
+      "ch": [
+        [
+          "日曆",
+          "行事曆"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 calendarium（記錄借貸帳目的簿冊，源自 calendae「每月的第一天」）。名詞指標示日期、月份與節慶的日曆或行程表。",
+      "definition": "1. a chart or page showing the days, weeks, and months of a particular year.",
+      "example": [
+        {
+          "eng": "She marked the date of the important meeting on her office calendar.",
+          "ch": "她在辦公室的日曆上標記了重要會議的日期。"
+        }
+      ]
+    },
+    {
+      "eng": "calm",
+      "kk": "/kɑm/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使平靜",
+          "使鎮靜"
+        ]
+      ],
+      "analysis": "此字源自法語 calme（源自義大利語 calma 或希臘語 kauma「酷熱後的歇息」）。及物動詞（常與 down 連用）指使焦躁、激動的人或事物平靜下來。",
+      "definition": "1. to make someone or something quiet, peaceful, or relaxed.",
+      "example": [
+        {
+          "eng": "She spoke softly to calm the frightened child.",
+          "ch": "她輕聲說話來安撫受驚嚇的孩子。"
+        }
+      ]
+    },
+    {
+      "eng": "calm",
+      "kk": "/kɑm/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "鎮靜的",
+          "平靜的"
+        ],
+        [
+          "風平浪靜的"
+        ]
+      ],
+      "analysis": "此字源自法語 calme（源自義大利語 calma 或希臘語 kauma「酷熱後的歇息」）。形容詞指情緒平穩、不慌張，或指天氣、水面平靜無波。",
+      "definition": "1. peaceful, quiet, and without worry or nervousness; 2. without strong wind or rough waves.",
+      "example": [
+        {
+          "eng": "Try to remain calm and follow the emergency instructions carefully.",
+          "ch": "試着保持鎮靜並仔細遵循緊急指示。"
+        },
+        {
+          "eng": "The sailors enjoyed a calm sea during their voyage across the ocean.",
+          "ch": "水手們在橫渡海洋的航程中享受了風平浪靜的海面。"
+        }
+      ]
+    },
+    {
+      "eng": "camel",
+      "kk": "/ˈkæməl/",
+      "tense": "n.",
+      "ch": [
+        [
+          "駱駝"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 camelus（源自閃米特語族，如希伯來語 gāmāl）。名詞指沙漠地區常見、背上有駝峰的哺乳動物。",
+      "definition": "1. a large desert animal with one or two humps on its back.",
+      "example": [
+        {
+          "eng": "Camels can travel for days across the desert without drinking water.",
+          "ch": "駱駝可以在沙漠中不喝水行走數日。"
+        }
+      ]
+    },
+    {
+      "eng": "cancel",
+      "kk": "/ˈkænsəl/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "取消",
+          "撤銷"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 cancellare（原意為加上網格線、劃掉，源自 cancello「格子」）。及物動詞指決定不舉行原定計畫或取消合約、航班等。",
+      "definition": "1. to decide that a planned event or arrangement will not take place.",
+      "example": [
+        {
+          "eng": "The airline had to cancel several flights due to the severe storm.",
+          "ch": "由於強烈風暴，航空公司不得不取消了好幾個航班。"
+        }
+      ]
+    },
+    {
+      "eng": "cancer",
+      "kk": "/ˈkænsər/",
+      "tense": "n.",
+      "ch": [
+        [
+          "癌症",
+          "惡性腫瘤"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 cancer（原意為螃蟹，因腫瘤擴散的靜脈形似蟹腳而得名）。名詞指細胞異常增生的惡性疾病（癌症），亦可指巨蟹座。",
+      "definition": "1. a serious disease in which abnormal cells multiply rapidly and destroy body tissue.",
+      "example": [
+        {
+          "eng": "Medical researchers are working hard to find a cure for various types of cancer.",
+          "ch": "醫學研究人員正努力尋找治療各種癌症的方法。"
+        }
+      ]
+    },
+    {
+      "eng": "candle",
+      "kk": "/ˈkændl/",
+      "tense": "n.",
+      "ch": [
+        [
+          "蠟燭"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 candela（源自 candere「發光」）。名詞指柱狀、內含燈芯並以蠟製成的照明器具。",
+      "definition": "1. a block of wax with a central wick that is lit to produce light.",
+      "example": [
+        {
+          "eng": "She blew out the birthday candles on top of the chocolate cake.",
+          "ch": "她吹熄了巧克力蛋糕上方的生日蠟燭。"
+        }
+      ]
+    },
+    {
+      "eng": "capital",
+      "kk": "/ˈkæpɪtl/",
+      "tense": "n.",
+      "ch": [
+        [
+          "首都",
+          "省會"
+        ],
+        [
+          "資本",
+          "資金"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 capitalis（源自 caput「頭」）。名詞指國家的首府（首都），或商業經營上的資本、資金，亦可指大寫字母。",
+      "definition": "1. the most important city or town of a country, where government is located; 2. wealth in the form of money or assets used to start a business.",
+      "example": [
+        {
+          "eng": "London is the capital and largest city of the United Kingdom.",
+          "ch": "倫敦是英國的首都與最大城市。"
+        },
+        {
+          "eng": "The young entrepreneur needed venture capital to launch his new tech startup.",
+          "ch": "這位年輕企業家需要創業投資資本來啟動他的科技新創公司。"
+        }
+      ]
+    },
+    {
+      "eng": "capital",
+      "kk": "/ˈkæpɪtl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "大寫的"
+        ],
+        [
+          "重大的",
+          "可處死刑的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 capitalis（源自 caput「頭」）。形容詞指字母為大寫形式，或引申指極為重大、牽涉生命的（如 capital punishment 死刑）。",
+      "definition": "1. written in the large form of a letter; 2. involving the death penalty or of primary importance.",
+      "example": [
+        {
+          "eng": "Please start every new sentence with a capital letter.",
+          "ch": "請以大寫字母開頭寫每一個新句子。"
+        }
+      ]
+    },
+    {
+      "eng": "cartoon",
+      "kk": "/kɑrˈtun/",
+      "tense": "n.",
+      "ch": [
+        [
+          "卡通",
+          "動畫片"
+        ],
+        [
+          "漫畫",
+          "諷刺畫"
+        ]
+      ],
+      "analysis": "此字源自義大利語 cartone（源自 carta「紙」）。名詞原指畫在厚紙上的草圖，後指報章雜誌的諷刺漫畫或動態動畫片。",
+      "definition": "1. a film or television show made using animated drawings; 2. a humorous drawing in a newspaper or magazine.",
+      "example": [
+        {
+          "eng": "Children love watching colorful cartoon programs on Saturday mornings.",
+          "ch": "小朋友們喜歡在星期六早晨看色彩繽紛的卡通節目。"
+        }
+      ]
+    },
+    {
+      "eng": "cash",
+      "kk": "/kæʃ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "現金",
+          "現款"
+        ]
+      ],
+      "analysis": "此字源自義大利語 cassa（金庫、箱子，源自拉丁語 capsa）。名詞指紙幣與硬幣形式的現款。",
+      "definition": "1. money in the form of coins or banknotes, rather than credit cards.",
+      "example": [
+        {
+          "eng": "I do not have enough cash with me, so I will pay with a credit card.",
+          "ch": "我身上沒有帶足夠的現金，所以我會用信用卡付款。"
+        }
+      ]
+    },
+    {
+      "eng": "cash",
+      "kk": "/kæʃ/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "兌現",
+          "把...兌換成現金"
+        ]
+      ],
+      "analysis": "此字源自義大利語 cassa（金庫、箱子，源自拉丁語 capsa）。及物動詞指將支票等票據兌換成現金。",
+      "definition": "1. to exchange a cheque or money order for cash.",
+      "example": [
+        {
+          "eng": "He went to the local bank branch to cash his monthly paycheck.",
+          "ch": "他去當地的銀行分行把每月的薪資支票兌現。"
+        }
+      ]
+    },
+    {
+      "eng": "castle",
+      "kk": "/ˈkæsəl/",
+      "tense": "n.",
+      "ch": [
+        [
+          "城堡",
+          "宮殿"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 castellum（castrum「營地」的指小詞）。名詞指中世紀歐洲供貴族居住並具防禦功能的城堡。",
+      "definition": "1. a large medieval building with thick walls and towers, built for defense.",
+      "example": [
+        {
+          "eng": "Tourists from all over the world visit the ancient European castle.",
+          "ch": "來自世界各地的遊客參觀這座古老的歐洲城堡。"
+        }
+      ]
+    },
+    {
+      "eng": "cause",
+      "kk": "/kɔz/",
+      "tense": "n.",
+      "ch": [
+        [
+          "原因",
+          "起因"
+        ],
+        [
+          "事業",
+          "目標"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 causa（原因、訴訟案件）。名詞指導致某事發生的原因，亦可指人們共同支持的崇高事業或目標。",
+      "definition": "1. a person, event, or thing that makes something happen; 2. a principle, aim, or movement that people support.",
+      "example": [
+        {
+          "eng": "Police are still investigating the exact cause of the traffic accident.",
+          "ch": "警方仍在調查這起交通事故的確切原因。"
+        },
+        {
+          "eng": "Many volunteers dedicated their time to the charitable cause.",
+          "ch": "許多志工將時間奉獻給這項慈善事業。"
+        }
+      ]
+    },
+    {
+      "eng": "cause",
+      "kk": "/kɔz/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "引起",
+          "導致"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 causa（原因、訴訟案件）。及物動詞指造成某個結果或引發某種狀況。",
+      "definition": "1. to make something happen, especially something bad.",
+      "example": [
+        {
+          "eng": "The heavy rainstorm caused severe flooding in the low-lying areas.",
+          "ch": "大雷雨導致低窪地區發生嚴重的淹水。"
+        }
+      ]
+    },
+    {
+      "eng": "ceiling",
+      "kk": "/ˈsilɪŋ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "天花板"
+        ],
+        [
+          "上限",
+          "最高限度"
+        ]
+      ],
+      "analysis": "此字由動詞 ceil（裝天花板）加上名詞字尾 -ing 形成。名詞指室內的頂棚（天花板），引申為價格或數量的最高限制（上限）。",
+      "definition": "1. the upper interior surface of a room; 2. an upper limit on prices, wages, or quantities.",
+      "example": [
+        {
+          "eng": "The painter applied a fresh coat of white paint to the ceiling.",
+          "ch": "油漆工在天花板上刷了一層新的白漆。"
+        },
+        {
+          "eng": "The government imposed a strict price ceiling on basic food items.",
+          "ch": "政府對基本食品實施了嚴格的價格上限。"
+        }
+      ]
+    },
+    {
+      "eng": "cell",
+      "kk": "/sɛl/",
+      "tense": "n.",
+      "ch": [
+        [
+          "細胞"
+        ],
+        [
+          "單人牢房",
+          "小房間"
+        ],
+        [
+          "電池"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 cella（小房間、倉庫）。名詞經歷史演變指生物的基本單位（細胞）、監獄的囚室（牢房），或電力裝置（電池）。",
+      "definition": "1. the smallest basic unit of a living organism; 2. a small room in a prison for a prisoner; 3. a device that produces electricity (battery cell).",
+      "example": [
+        {
+          "eng": "Biologists study how living cells divide and function under a microscope.",
+          "ch": "生物學家在顯微鏡下研究活細胞如何分裂與運作。"
+        },
+        {
+          "eng": "The prisoner spent years locked inside a small damp stone cell.",
+          "ch": "這名囚犯被鎖在一個潮濕的小石牢房裡度過了多年。"
+        },
+        {
+          "eng": "This electronic device requires two alkaline cells to operate.",
+          "ch": "這個電子設備需要兩顆鹼性電池才能運作。"
+        }
+      ]
+    },
+    {
+      "eng": "centimeter",
+      "kk": "/ˈsɛntəˌmitər/",
+      "tense": "n.",
+      "ch": [
+        [
+          "公分",
+          "厘米"
+        ]
+      ],
+      "analysis": "此字為現代國際單位制複合詞，由 centi-（百分之一，源自拉丁語 centum「百」）與 meter（公尺）結合而成，指長度單位公分。",
+      "definition": "1. a unit of length equal to one hundredth of a meter.",
+      "example": [
+        {
+          "eng": "The tailor measured the fabric accurately down to the last centimeter.",
+          "ch": "裁縫師精確地將布料量到最後一公分。"
+        }
+      ]
+    },
+    {
+      "eng": "central",
+      "kk": "/ˈsɛntrəl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "中央的",
+          "中心的"
+        ],
+        [
+          "核心的",
+          "最重要的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 centralis（源自 centrum「中心」）。形容詞指位於地理中央的，或引申為具有關鍵、核心地位的。",
+      "definition": "1. located in the center or middle of something; 2. of primary importance; most essential.",
+      "example": [
+        {
+          "eng": "Our hotel is located in a central district close to the station.",
+          "ch": "我們的飯店位於靠近車站的中央區域。"
+        },
+        {
+          "eng": "Trust is a central theme in building strong interpersonal relationships.",
+          "ch": "信任是建立強大的人際關係的核心主題。"
+        }
+      ]
+    },
+    {
+      "eng": "century",
+      "kk": "/ˈsɛntʃəri/",
+      "tense": "n.",
+      "ch": [
+        [
+          "世紀",
+          "百年"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 centuria（由一百人組成的單位，源自 centum「百」）。名詞指一百年的時間跨度（世紀）。",
+      "definition": "1. a period of one hundred years.",
+      "example": [
+        {
+          "eng": "The historic building was constructed at the turn of the twentieth century.",
+          "ch": "這棟歷史建築建於二十世紀之交。"
+        }
+      ]
+    },
+    {
+      "eng": "cereal",
+      "kk": "/ˈsɪriəl/",
+      "tense": "n.",
+      "ch": [
+        [
+          "麥片",
+          "穀類食品"
+        ],
+        [
+          "穀物",
+          "穀類植物"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 cerealis（源自 Ceres「羅馬神話中掌管農業的穀物女神塞雷斯」）。名詞指早餐食用的穀類麥片，或廣義的糧食穀物。",
+      "definition": "1. a food made from grain, eaten especially for breakfast with milk; 2. a grain used for food, such as wheat, oats, or corn.",
+      "example": [
+        {
+          "eng": "He likes to pour cold milk over a bowl of crunchy cereal every morning.",
+          "ch": "他喜歡每天早上在碗裝的酥脆麥片上倒冷牛奶。"
+        }
+      ]
+    },
+    {
+      "eng": "chain",
+      "kk": "/tʃeɪn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "鍊子",
+          "鐵鍊"
+        ],
+        [
+          "連鎖店",
+          "一連串"
+        ]
+      ],
+      "analysis": "此字源自古法語 chaine（源自拉丁語 catena）。名詞指金屬環相扣而成的鍊子，引申指連鎖企業（連鎖店）或一連串相關事件。",
+      "definition": "1. a series of metal links connected together, used for fastening or pulling; 2. a group of shops, hotels, or businesses owned by the same company.",
+      "example": [
+        {
+          "eng": "The bicycle was secured to the metal pole with a heavy steel chain.",
+          "ch": "這輛腳踏車用一條重鋼鍊固定在金屬柱上。"
+        },
+        {
+          "eng": "The international coffee chain opened its five-hundredth store today.",
+          "ch": "這家國際咖啡連鎖店今天開了它的第五百家店。"
+        }
+      ]
+    },
+    {
+      "eng": "chain",
+      "kk": "/tʃeɪn/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "用鍊子拴住",
+          "縛住"
+        ]
+      ],
+      "analysis": "此字源自古法語 chaine（源自拉丁語 catena）。及物動詞指用鐵鍊將人、動物或物品繫緊或拴住。",
+      "definition": "1. to fasten or secure something with a chain.",
+      "example": [
+        {
+          "eng": "He forgot to chain his bicycle to the rack and it was stolen.",
+          "ch": "他忘記把腳踏車用鍊子拴在架子上，結果車被偷了。"
+        }
+      ]
+    },
+    {
+      "eng": "chalk",
+      "kk": "/tʃɔk/",
+      "tense": "n.",
+      "ch": [
+        [
+          "粉筆",
+          "白堊"
+        ]
+      ],
+      "analysis": "此字源自古英語 cealc（源自拉丁語 calx「石灰石」）。名詞指用於黑板書寫的粉筆或天然沉積岩白堊。",
+      "definition": "1. a soft white limestone used to write or draw on blackboards.",
+      "example": [
+        {
+          "eng": "The teacher picked up a piece of white chalk to write notes on the blackboard.",
+          "ch": "老師拿起一塊白色粉筆在黑板上寫筆記。"
+        }
+      ]
+    },
+    {
+      "eng": "challenge",
+      "kk": "/ˈtʃæləndʒ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "挑戰",
+          "艱鉅任務"
+        ],
+        [
+          "質疑",
+          "異議"
+        ]
+      ],
+      "analysis": "此字源自古法語 chalonge（源自拉丁語 calumnia「控告」）。名詞指具有困難度、激發能力的挑戰，或對某事的質疑與挑戰。",
+      "definition": "1. a difficult task or problem that tests someone's ability; 2. an objection or question raised about the truth or validity of something.",
+      "example": [
+        {
+          "eng": "Climbing the steep mountain peak proved to be a major physical challenge.",
+          "ch": "攀登陡峭的山峰被證明是一項重大的體能挑戰。"
+        }
+      ]
+    },
+    {
+      "eng": "challenge",
+      "kk": "/ˈtʃæləndʒ/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "向...挑戰",
+          "激發"
+        ],
+        [
+          "質疑",
+          "對...提出異議"
+        ]
+      ],
+      "analysis": "此字源自古法語 chalonge（源自拉丁語 calumnia「控告」）。及物動詞指向某人發起競賽或挑戰其極限，亦可指對權威或觀點提出質疑。",
+      "definition": "1. to invite someone to compete or fight; to test someone's abilities; 2. to question whether something is true, correct, or legal.",
+      "example": [
+        {
+          "eng": "The chess champion decided to challenge the young prodigy to a match.",
+          "ch": "這位西洋棋冠軍決定向這位年輕神童發起對局挑戰。"
+        }
+      ]
+    },
+    {
+      "eng": "channel",
+      "kk": "/ˈtʃænl/",
+      "tense": "n.",
+      "ch": [
+        [
+          "頻道",
+          "電視頻道"
+        ],
+        [
+          "海峽",
+          "水道"
+        ],
+        [
+          "管道",
+          "途徑"
+        ]
+      ],
+      "analysis": "此字源自中古英語 chanel（源自拉丁語 canalis「溝渠」）。名詞指廣播電視頻道、地理上的海峽水道，或傳遞消息的途徑管道。",
+      "definition": "1. a television or radio station or frequency; 2. a passage for water, such as a strait; 3. a method or system for communication or passing information.",
+      "example": [
+        {
+          "eng": "Please switch the television channel to the news broadcast.",
+          "ch": "請把電視頻道切換到新聞廣播。"
+        },
+        {
+          "eng": "The ship sailed safely across the narrow English Channel.",
+          "ch": "這艘船安全地航行橫渡狹窄的英吉利海峽。"
+        }
+      ]
+    },
+    {
+      "eng": "channel",
+      "kk": "/ˈtʃænl/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "引導",
+          "將...傳輸到",
+          "疏導"
+        ]
+      ],
+      "analysis": "此字源自中古英語 chanel（源自拉丁語 canalis「溝渠」）。及物動詞指將資金、精力或水流引導、疏導至特定方向。",
+      "definition": "1. to direct money, resources, or energy toward a particular purpose or place.",
+      "example": [
+        {
+          "eng": "The organization hopes to channel more funds into education programs.",
+          "ch": "該組織希望將更多資金引導投入教育計畫中。"
+        }
+      ]
+    },
+    {
+      "eng": "chapter",
+      "kk": "/ˈtʃæptər/",
+      "tense": "n.",
+      "ch": [
+        [
+          "章",
+          "回（書本的）"
+        ],
+        [
+          "階段",
+          "時期"
+        ]
+      ],
+      "analysis": "此字源自古法語 chapitre（源自拉丁語 capitulum「小頭、章節」，源自 caput「頭」）。名詞指書籍的章回，或引申為人生的重要階段或時期。",
+      "definition": "1. one of the main sections into which a book is divided; 2. a distinct period in history or a person's life.",
+      "example": [
+        {
+          "eng": "I have already finished reading the first three chapters of the novel.",
+          "ch": "我已經讀完這本小說的前三章。"
+        },
+        {
+          "eng": "Graduating from college marks an exciting new chapter in her life.",
+          "ch": "大學畢業標誌著她人生中令人興奮的新階段。"
+        }
+      ]
+    },
+    {
+      "eng": "character",
+      "kk": "/ˈkærɪktər/",
+      "tense": "n.",
+      "ch": [
+        [
+          "性格",
+          "品格"
+        ],
+        [
+          "角色",
+          "人物"
+        ],
+        [
+          "字體",
+          "文字符號"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 character（源自希臘語 kharaktēr「刻痕、標記」）。名詞演變出個人的品格特質、文藝作品中的登場人物，以及書寫的文字字符。",
+      "definition": "1. the particular combination of qualities that makes someone different from others; personality; 2. a person in a book, play, or film; 3. a printed or written letter, sign, or symbol.",
+      "example": [
+        {
+          "eng": "He is a man of high moral character and great integrity.",
+          "ch": "他是一個具有高尚道德品格與極大正直感的人。"
+        },
+        {
+          "eng": "The clever detective is my favorite character in the mystery novel.",
+          "ch": "這位聰明的偵探是我在這部懸疑小說中最喜歡的角色。"
+        },
+        {
+          "eng": "The computer password must contain at least eight characters.",
+          "ch": "電腦密碼必須包含至少八個字元。"
+        }
+      ]
+    },
+    {
+      "eng": "charge",
+      "kk": "/tʃɑrdʒ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "費用",
+          "索價"
+        ],
+        [
+          "指控",
+          "控告"
+        ],
+        [
+          "責任",
+          "負責"
+        ],
+        [
+          "充電"
+        ]
+      ],
+      "analysis": "此字源自中古英語 chargen（源自古法語 chargier，源自低拉丁語 carricare「裝載貨車」）。名詞演變出費用、法律指控、照料責任與電池充電等豐富義項。",
+      "definition": "1. an amount of money that you have to pay for goods or services; 2. an official statement accusing someone of committing a crime; 3. responsibility for care or control; 4. the process of supplying electrical energy to a battery.",
+      "example": [
+        {
+          "eng": "There is a small delivery charge for orders under fifty dollars.",
+          "ch": "五十美元以下的訂單需收取少許運送費用。"
+        },
+        {
+          "eng": "The police brought a formal charge of theft against the suspect.",
+          "ch": "警方對嫌疑犯提出了正式的竊盜指控。"
+        },
+        {
+          "eng": "She was left in charge of the office while the manager was away.",
+          "ch": "經理不在時，她負責管理辦公室。"
+        },
+        {
+          "eng": "My phone battery is low; I need to find a place to give it a charge.",
+          "ch": "我的手機快沒電了，我需要找個地方充電。"
+        }
+      ]
+    },
+    {
+      "eng": "charge",
+      "kk": "/tʃɑrdʒ/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "收費",
+          "要價"
+        ],
+        [
+          "指控",
+          "控告"
+        ],
+        [
+          "充電"
+        ],
+        [
+          "衝鋒",
+          "向前猛衝"
+        ]
+      ],
+      "analysis": "此字源自中古英語 chargen（源自古法語 chargier，源自低拉丁語 carricare「裝載貨車」）。及物動詞表示索取費用、起訴指控、為電池充電，或在戰術上發起猛烈衝鋒。",
+      "definition": "1. to ask an amount of money for goods or services; 2. to accuse someone formally of a crime; 3. to store electrical energy in a battery; 4. to rush forward quickly to attack someone.",
+      "example": [
+        {
+          "eng": "How much do you charge for a standard haircut?",
+          "ch": "你們剪一次標準頭髮收費多少錢？"
+        },
+        {
+          "eng": "The prosecutor decided to charge the man with armed robbery.",
+          "ch": "檢察官決定指控該男子持械搶劫。"
+        },
+        {
+          "eng": "It takes about two hours to fully charge my wireless headphones.",
+          "ch": "我的無線耳機充滿電大約需要兩個小時。"
+        },
+        {
+          "eng": "The fierce bull lowered its head and began to charge the fence.",
+          "ch": "兇猛的公牛低下頭，開始朝著柵欄猛衝。"
+        }
+      ]
+    },
+    {
+      "eng": "charge",
+      "kk": "/tʃɑrdʒ/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "衝鋒",
+          "猛攻"
+        ]
+      ],
+      "analysis": "此字源自中古英語 chargen（源自古法語 chargier，源自低拉丁語 carricare「裝載貨車」）。不及物動詞指軍隊或動物向前急速衝鋒、發動攻擊。",
+      "definition": "1. to rush forward violently and quickly to attack an enemy.",
+      "example": [
+        {
+          "eng": "The cavalry was ordered to charge across the open battlefield.",
+          "ch": "騎兵奉命跨過開闊的戰場向前衝鋒。"
+        }
+      ]
+    },
+    {
+      "eng": "chart",
+      "kk": "/tʃɑrt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "圖表",
+          "統計圖"
+        ],
+        [
+          "海圖",
+          "航海圖"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 charta（紙張、地圖，源自希臘語 khartēs）。名詞指用來展示數據的圖表，或船舶航行用的海圖、航圖。",
+      "definition": "1. a sheet of information presented in the form of a graph, table, or diagram; 2. a map of a sea or area of stars used by navigators.",
+      "example": [
+        {
+          "eng": "The sales manager presented a colorful bar chart showing quarterly growth.",
+          "ch": "銷售經理展示了一張顯示季度成長的彩色長條圖表。"
+        }
+      ]
+    },
+    {
+      "eng": "chart",
+      "kk": "/tʃɑrt/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "製圖",
+          "繪製地圖"
+        ],
+        [
+          "記錄",
+          "追蹤進展"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 charta（紙張、地圖，源自希臘語 khartēs）。及物動詞指繪製地圖或圖表，或引申為記錄、追蹤某事物的發展過程。",
+      "definition": "1. to make a map of an area or record the progress of something.",
+      "example": [
+        {
+          "eng": "Scientists used satellite data to chart the changing weather patterns.",
+          "ch": "科學家利用衛星數據來繪製與追蹤變化的氣候模式。"
+        }
+      ]
+    }
+  ]
+}

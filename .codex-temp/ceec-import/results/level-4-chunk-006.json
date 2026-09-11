@@ -1,0 +1,1860 @@
+{
+  "level": 4,
+  "chunkIndex": 6,
+  "inputs": [
+    "cube",
+    "cue",
+    "cunning",
+    "curiosity",
+    "curl",
+    "curse",
+    "curve",
+    "cushion",
+    "damp",
+    "deadline",
+    "declare",
+    "decoration",
+    "defeat",
+    "defend",
+    "defense",
+    "defensible",
+    "defensive",
+    "definite",
+    "delicate",
+    "delight",
+    "delightful",
+    "demand",
+    "demonstrate",
+    "demonstration",
+    "dense",
+    "depart",
+    "departure",
+    "dependent",
+    "depression",
+    "deserve",
+    "desperate",
+    "despite",
+    "destruction",
+    "detective",
+    "determination",
+    "device",
+    "devise",
+    "devote",
+    "dew",
+    "diagram",
+    "differ",
+    "digest",
+    "digital",
+    "dignity",
+    "diligence",
+    "diligent",
+    "diploma",
+    "diplomat",
+    "disability",
+    "disadvantage"
+  ],
+  "rows": [
+    {
+      "eng": "cube",
+      "kk": "kjub",
+      "tense": "n.",
+      "ch": [
+        [
+          "立方體",
+          "立方"
+        ],
+        [
+          "立方根",
+          "三次方"
+        ]
+      ],
+      "analysis": "此字為現代透明單字，源自古法語 cube，最終源於古希臘語 kybos（骰子、立方體）。名詞義指幾何學上的六面正方體或數學上的三次方。",
+      "definition": "1. A symmetrical three-dimensional geometric shape bounded by six equal squares.; 2. The product of a number multiplied by its square.",
+      "example": [
+        {
+          "eng": "He cut the butter into small cubes.",
+          "ch": "他把奶油切成小方塊。"
+        },
+        {
+          "eng": "The cube of 3 is 27.",
+          "ch": "3的立方是27。"
+        }
+      ]
+    },
+    {
+      "eng": "cube",
+      "kk": "kjub",
+      "tense": "vt.",
+      "ch": [
+        [
+          "切成立方體",
+          "切丁"
+        ]
+      ],
+      "analysis": "此動詞由名詞 cube 轉品而來，指將食物等物體切成立方體狀的動作。",
+      "definition": "1. To cut food into small square blocks.",
+      "example": [
+        {
+          "eng": "Cube the potatoes before boiling them.",
+          "ch": "把馬鈴薯切成丁再煮沸。"
+        }
+      ]
+    },
+    {
+      "eng": "cue",
+      "kk": "kju",
+      "tense": "n.",
+      "ch": [
+        [
+          "暗示",
+          "提示"
+        ],
+        [
+          "線索",
+          "信號"
+        ]
+      ],
+      "analysis": "此字來源歷史較特殊，可能源自拉丁語 quando（何時）演變出的縮寫或早期戲劇劇本邊緣的標記。名詞主要指給演員的提示、行動信號或尋找真相的線索。",
+      "definition": "1. A signal for an actor to enter or begin a speech, or a prompt for action; 2. A hint or circumstance that serves as a signal.",
+      "example": [
+        {
+          "eng": "The actor missed his cue and was late on stage.",
+          "ch": "那名演員沒抓準提示，上臺遲到了。"
+        },
+        {
+          "eng": "Take your cue from her and keep quiet.",
+          "ch": "學學她的暗示，保持安靜。"
+        }
+      ]
+    },
+    {
+      "eng": "cue",
+      "kk": "kju",
+      "tense": "vt.",
+      "ch": [
+        [
+          "給予提示",
+          "暗示"
+        ]
+      ],
+      "analysis": "此動詞由名詞 cue 轉品而來，指給某人發出信號或提示其採取行動。",
+      "definition": "1. To give someone a signal or prompt to do something.",
+      "example": [
+        {
+          "eng": "Please cue me when it is my turn to speak.",
+          "ch": "輪到我發言時請給我個提示。"
+        }
+      ]
+    },
+    {
+      "eng": "cunning",
+      "kk": "ˈkʌnɪŋ",
+      "tense": "n.",
+      "ch": [
+        [
+          "狡猾",
+          "詭計"
+        ],
+        [
+          "精巧",
+          "手藝"
+        ]
+      ],
+      "analysis": "由形容詞 cunning 同形轉化或分化而來的名詞，保留狡猾或巧妙技能的抽象義。",
+      "definition": "1. Skill in achieving one's ends by deceit; 2. Ingenuity or cleverness.",
+      "example": [
+        {
+          "eng": "He used pure cunning to get the job.",
+          "ch": "他靠純粹的狡猾手段得到了這份工作。"
+        },
+        {
+          "eng": "The watch was made with great cunning.",
+          "ch": "這隻手錶做工十分精巧。"
+        }
+      ]
+    },
+    {
+      "eng": "cunning",
+      "kk": "ˈkʌnɪŋ",
+      "tense": "adj.",
+      "ch": [
+        [
+          "狡猾的",
+          "狡詐的"
+        ],
+        [
+          "靈巧的",
+          "精巧的"
+        ]
+      ],
+      "analysis": "此字源自古英語 cunnan（知道、懂得），原義為有技能的、內行的，經歷史演變，現代英語中主要轉向負面的「狡猾、奸詐」，部分地區保留古義指精巧可愛。",
+      "definition": "1. Having or showing skill in achieving one's ends by deceit or evasion; 2. Ingenious or clever in design.",
+      "example": [
+        {
+          "eng": "The cunning thief managed to escape the police.",
+          "ch": "那個狡猾的小偷設法逃過了警察的追捕。"
+        },
+        {
+          "eng": "She built a cunning device to trap the mice.",
+          "ch": "她製作了一個精巧的裝置來捕捉老鼠。"
+        }
+      ]
+    },
+    {
+      "eng": "curiosity",
+      "kk": "ˌkjʊriˈɑsəti",
+      "tense": "n.",
+      "ch": [
+        [
+          "好奇心",
+          "求知欲"
+        ],
+        [
+          "罕見而有趣的事物",
+          "奇物"
+        ]
+      ],
+      "analysis": "此字由形容詞 curious 加上名詞字尾 -ity 構成。curious 源自拉丁語 curiosus（仔細的、好奇的）。名詞指渴望知道某事的心理，或引人注目的稀奇物品。",
+      "definition": "1. A strong desire to know or learn something; 2. A strange or unusual object of interest.",
+      "example": [
+        {
+          "eng": "Children have a natural curiosity about the world.",
+          "ch": "孩子們對世界有著天然的好奇心。"
+        },
+        {
+          "eng": "The antique shop was filled with odd curiosities.",
+          "ch": "這家古董店裡擺滿了各種新奇的古玩。"
+        }
+      ]
+    },
+    {
+      "eng": "curl",
+      "kk": "kɝl",
+      "tense": "n.",
+      "ch": [
+        [
+          "捲曲物",
+          "捲髮"
+        ],
+        [
+          "圈狀物",
+          "螺旋形"
+        ]
+      ],
+      "analysis": "由動詞 curl 轉化而來的名詞，指一縷捲髮或任何捲曲成圈的形狀。",
+      "definition": "1. A lock of hair with a curved or spiral shape; 2. A spiral or curved shape.",
+      "example": [
+        {
+          "eng": "A stray curl fell across her forehead.",
+          "ch": "一縷散落的捲髮垂在她的額頭上。"
+        },
+        {
+          "eng": "The paper peeled off in tight curls.",
+          "ch": "紙張剝落成緊緊的捲狀。"
+        }
+      ]
+    },
+    {
+      "eng": "curl",
+      "kk": "kɝl",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使捲曲",
+          "使彎曲"
+        ]
+      ],
+      "analysis": "此動詞為及物用法，指主動將頭髮、身體或物體弄成捲曲狀態。",
+      "definition": "1. To twist or shape into a curved or spiral form.",
+      "example": [
+        {
+          "eng": "She used a hot iron to curl her hair.",
+          "ch": "她用電棒捲來燙捲頭髮。"
+        }
+      ]
+    },
+    {
+      "eng": "curl",
+      "kk": "kɝl",
+      "tense": "vi.",
+      "ch": [
+        [
+          "捲曲",
+          "盤繞"
+        ],
+        [
+          "冒出（煙等）",
+          "迂迴上升"
+        ]
+      ],
+      "analysis": "此動詞源自日耳曼語族，歷史上與日耳曼語源頭相關。不及物動詞指毛髮或物體自然捲曲，或煙霧成圈狀上升。",
+      "definition": "1. To form or cause to form into a curved or spiral shape; 2. To move in spirals, as smoke.",
+      "example": [
+        {
+          "eng": "Her hair tends to curl naturally in the rain.",
+          "ch": "她的頭髮在雨天往往會自然捲曲。"
+        },
+        {
+          "eng": "Smoke began to curl up from the chimney.",
+          "ch": "煙霧開始從煙囪里打圈上升。"
+        }
+      ]
+    },
+    {
+      "eng": "curse",
+      "kk": "kɝs",
+      "tense": "n.",
+      "ch": [
+        [
+          "詛咒",
+          "咒語"
+        ],
+        [
+          "禍害",
+          "令人頭痛的事物"
+        ]
+      ],
+      "analysis": "由動詞 curse 衍生或對應的名詞，指具體的詛咒、惡言，或引申為長期折磨人的災禍。",
+      "definition": "1. A solemn invocation invoking divine or supernatural power to inflict injury; 2. A cause of continuous trouble or unhappiness.",
+      "example": [
+        {
+          "eng": "According to the legend, the family lived under a curse.",
+          "ch": "根據傳說，這個家族生活在詛咒之中。"
+        },
+        {
+          "eng": "Poverty is a curse on society.",
+          "ch": "貧困是社會的禍害。"
+        }
+      ]
+    },
+    {
+      "eng": "curse",
+      "kk": "kɝs",
+      "tense": "vt.",
+      "ch": [
+        [
+          "詛咒",
+          "咒罵"
+        ],
+        [
+          "使遭受苦難",
+          "禍害"
+        ]
+      ],
+      "analysis": "此動詞源自古英語 cursian，可能進一步源自拉丁語或日耳曼語源。及物動詞指對人施咒、口出惡言咒罵，或使人遭遇厄運。",
+      "definition": "1. To invoke supernatural power to inflict harm or misfortune on someone; 2. To use offensive and profane language against someone, or to afflict with a heavy burden.",
+      "example": [
+        {
+          "eng": "The witch tried to curse the royal family.",
+          "ch": "巫婆試圖詛咒王室成員。"
+        },
+        {
+          "eng": "He cursed his bad luck when he missed the flight.",
+          "ch": "錯過航班時，他咒罵著自己的厄運。"
+        }
+      ]
+    },
+    {
+      "eng": "curse",
+      "kk": "kɝs",
+      "tense": "vi.",
+      "ch": [
+        [
+          "罵髒話",
+          "咒罵"
+        ]
+      ],
+      "analysis": "此動詞的不及物用法，專指口中出言不遜、罵粗話。",
+      "definition": "1. To use profane or obscene language.",
+      "example": [
+        {
+          "eng": "He tends to curse when he gets angry.",
+          "ch": "他生氣時往往會罵髒話。"
+        }
+      ]
+    },
+    {
+      "eng": "curve",
+      "kk": "kɝv",
+      "tense": "n.",
+      "ch": [
+        [
+          "曲線",
+          "彎曲處"
+        ],
+        [
+          "轉彎處",
+          "弧線"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 curvus（彎曲的）。名詞指幾何上的曲線、道路的彎道，或物體的弧形輪廓。",
+      "definition": "1. A line or surface that bends continuously without sharp angles; 2. A bending part of a road, path, or track.",
+      "example": [
+        {
+          "eng": "The road has a dangerous curve ahead.",
+          "ch": "前方道路有一個危險的彎道。"
+        },
+        {
+          "eng": "She drew a smooth curve on the paper.",
+          "ch": "她在紙上畫了一道平滑的曲線。"
+        }
+      ]
+    },
+    {
+      "eng": "curve",
+      "kk": "kɝv",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使彎曲",
+          "使成曲線"
+        ]
+      ],
+      "analysis": "此動詞由名詞 curve 轉品而來，指使筆直的物體或線條變成彎曲。",
+      "definition": "1. To bend something into the shape of a curve.",
+      "example": [
+        {
+          "eng": "He tried to curve the metal rod with his bare hands.",
+          "ch": "他試圖用雙手把金屬棒彎曲。"
+        }
+      ]
+    },
+    {
+      "eng": "curve",
+      "kk": "kɝv",
+      "tense": "vi.",
+      "ch": [
+        [
+          "彎曲",
+          "迂迴延伸"
+        ]
+      ],
+      "analysis": "此動詞的不及物用法，指道路、軌跡或線條自然發生彎曲或轉向。",
+      "definition": "1. To take a bend or follow a winding course.",
+      "example": [
+        {
+          "eng": "The river curves around the base of the mountain.",
+          "ch": "河水在山腳下繞出一個彎。"
+        }
+      ]
+    },
+    {
+      "eng": "cushion",
+      "kk": "ˈkʊʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "墊子",
+          "靠墊"
+        ],
+        [
+          "緩衝區",
+          "保護層"
+        ]
+      ],
+      "analysis": "此字經由古法語 cussin 借自拉丁語 coxinum（源自 coxa 臀部）。名詞指沙發或椅子的軟墊，引申為減輕衝擊的緩衝保護措施。",
+      "definition": "1. A bag of cloth stuffed with a soft material, used for sitting or leaning on; 2. Something that softens the impact of an undesirable event.",
+      "example": [
+        {
+          "eng": "She placed a soft cushion on the wooden chair.",
+          "ch": "她在木椅上放了一個軟靠墊。"
+        },
+        {
+          "eng": "His savings served as a financial cushion during unemployment.",
+          "ch": "他的積蓄在失業期間起到了財務緩衝的作用。"
+        }
+      ]
+    },
+    {
+      "eng": "cushion",
+      "kk": "ˈkʊʃən",
+      "tense": "vt.",
+      "ch": [
+        [
+          "加墊子",
+          "墊軟"
+        ],
+        [
+          "緩衝",
+          "減輕衝擊"
+        ]
+      ],
+      "analysis": "由名詞 cushion 轉化而成的動詞，指加上軟墊以防震，或在抽象上減輕打擊。",
+      "definition": "1. To soften the blow or impact of something; 2. To provide with a cushion.",
+      "example": [
+        {
+          "eng": "The thick snow cushioned his fall.",
+          "ch": "厚厚的積雪減輕了他跌落時的衝擊力。"
+        }
+      ]
+    },
+    {
+      "eng": "damp",
+      "kk": "dæmp",
+      "tense": "n.",
+      "ch": [
+        [
+          "潮濕",
+          "濕氣"
+        ]
+      ],
+      "analysis": "由形容詞 damp 轉化而來的名詞，指空氣或環境中的潮濕氣候或濕氣。",
+      "definition": "1. Moisture or humidity in the air or on a surface.",
+      "example": [
+        {
+          "eng": "The old house felt cold and full of damp.",
+          "ch": "這棟老房子感覺冰冷且充滿濕氣。"
+        }
+      ]
+    },
+    {
+      "eng": "damp",
+      "kk": "dæmp",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使潮濕",
+          "弄濕"
+        ],
+        [
+          "抑制",
+          "減弱"
+        ]
+      ],
+      "analysis": "此動詞兼具實質物理義（弄濕）與引申義（壓抑熱情、減弱震動或聲音）。",
+      "definition": "1. To make something slightly wet; 2. To check, restrain, or deaden enthusiasm, sound, or oscillation.",
+      "example": [
+        {
+          "eng": "She used a damp cloth to wipe the table.",
+          "ch": "她用濕布擦拭桌子。"
+        },
+        {
+          "eng": "Bad news can easily damp one's enthusiasm.",
+          "ch": "壞消息很容易澆熄一個人的熱情。"
+        }
+      ]
+    },
+    {
+      "eng": "damp",
+      "kk": "dæmp",
+      "tense": "adj.",
+      "ch": [
+        [
+          "潮濕的",
+          "微濕的"
+        ]
+      ],
+      "analysis": "此字源自日耳曼語族，與低地德語或荷蘭語相關。形容詞指空氣或物體含有水分、濕漉漉的狀態。",
+      "definition": "1. Slightly wet, often in a way that is unpleasant or uncomfortably moist.",
+      "example": [
+        {
+          "eng": "The laundry is still damp, so don't put it away yet.",
+          "ch": "衣服還潮濕，先不要收起來。"
+        }
+      ]
+    },
+    {
+      "eng": "deadline",
+      "kk": "ˈdɛdˌlaɪn",
+      "tense": "n.",
+      "ch": [
+        [
+          "截止日期",
+          "最後期限"
+        ]
+      ],
+      "analysis": "此現代複合字由 dead（死的、致命的）與 line（線）組成。原指美國南北戰爭時期監獄營區周圍的界線，越過即格殺勿論；現代則演變成任務或工作的最後完成期限。",
+      "definition": "1. The latest time or date by which something should be completed.",
+      "example": [
+        {
+          "eng": "We are working hard to meet the Friday deadline.",
+          "ch": "我們正全力以赴以趕上周五的截止期限。"
+        }
+      ]
+    },
+    {
+      "eng": "declare",
+      "kk": "dɪˈklɛr",
+      "tense": "vt.",
+      "ch": [
+        [
+          "宣布",
+          "宣告"
+        ],
+        [
+          "申報"
+        ]
+      ],
+      "analysis": "此動詞由拉丁語前綴 de-（加強語氣）＋ clarare（使清楚，源自 clarus 清楚的）組合而成。及物動詞指公開、正式宣佈某事，或在海關申報攜帶物品。",
+      "definition": "1. To announce publicly or formally; 2. To make a full statement of taxable goods or income.",
+      "example": [
+        {
+          "eng": "The government decided to declare a state of emergency.",
+          "ch": "政府決定宣佈進入緊急狀態。"
+        },
+        {
+          "eng": "Do you have anything to declare at customs?",
+          "ch": "你在海關有什麽需要申報的嗎？"
+        }
+      ]
+    },
+    {
+      "eng": "declare",
+      "kk": "dɪˈklɛr",
+      "tense": "vi.",
+      "ch": [
+        [
+          "表明立場",
+          "表態"
+        ]
+      ],
+      "analysis": "此動詞的不及物用法，常用於政壇或遊戲中公開表明自己的立場或意向。",
+      "definition": "1. To state one's opinion or allegiance firmly and openly.",
+      "example": [
+        {
+          "eng": "It's time for the candidates to declare their positions.",
+          "ch": "是候選人表明立場的時候了。"
+        }
+      ]
+    },
+    {
+      "eng": "decoration",
+      "kk": "ˌdɛkəˈreɪʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "裝飾品",
+          "裝潢"
+        ],
+        [
+          "勳章",
+          "獎章"
+        ]
+      ],
+      "analysis": "此名詞由動詞 decorate 加上名詞字尾 -ion 構成。decorate 源自拉丁語 decorare（裝飾、美化，源自 decus 美、體面）。名詞指裝飾用的物品、室內佈置，或軍警獲得的榮譽勳章。",
+      "definition": "1. The process or art of making something look more attractive, or an ornament; 2. A medal or badge conferred for bravery or distinguished service.",
+      "example": [
+        {
+          "eng": "They put up Christmas decorations in the living room.",
+          "ch": "他們在客廳掛上了聖誕裝飾品。"
+        },
+        {
+          "eng": "The veteran proudly wore his military decorations.",
+          "ch": "那名退伍軍人自豪地佩戴著他的軍事勳章。"
+        }
+      ]
+    },
+    {
+      "eng": "defeat",
+      "kk": "dɪˈfit",
+      "tense": "n.",
+      "ch": [
+        [
+          "失敗",
+          "戰敗"
+        ]
+      ],
+      "analysis": "由動詞 defeat 轉化或對應的名詞，指在戰鬥、競賽或政治選舉中遭受失敗。",
+      "definition": "1. An instance of losing a contest or being beaten in a struggle.",
+      "example": [
+        {
+          "eng": "The team accepted the defeat with grace.",
+          "ch": "該隊坦然接受了失敗。"
+        }
+      ]
+    },
+    {
+      "eng": "defeat",
+      "kk": "dɪˈfit",
+      "tense": "vt.",
+      "ch": [
+        [
+          "擊敗",
+          "戰勝"
+        ],
+        [
+          "挫敗"
+        ]
+      ],
+      "analysis": "此動詞經由古法語 defait（動詞 desfaire 的過去分詞）借自拉丁語 disfacere（破壞、毀壞）。及物動詞指在戰爭、比賽或辯論中戰勝對手，或使計畫流產。",
+      "definition": "1. To win a victory over someone in a battle, contest, or game; 2. To thwart or prevent a plan or purpose from succeeding.",
+      "example": [
+        {
+          "eng": "Our team managed to defeat the reigning champions.",
+          "ch": "我們隊設法擊敗了現任冠軍隊。"
+        },
+        {
+          "eng": "Bad weather defeated our plans for a picnic.",
+          "ch": "惡劣的天氣粉碎了我們野餐的計畫。"
+        }
+      ]
+    },
+    {
+      "eng": "defend",
+      "kk": "dɪˈfɛnd",
+      "tense": "vt.",
+      "ch": [
+        [
+          "防禦",
+          "保衛"
+        ],
+        [
+          "為……辯護",
+          "辯解"
+        ]
+      ],
+      "analysis": "此動詞源自拉丁語 defendere（de- 離開、對抗 ＋ fendere 擊打）。及物動詞指抵抗攻擊以保護人地，或在法律和言論上為某人或某觀點辯護。",
+      "definition": "1. To resist an attack and protect someone or something from harm; 2. To speak or write in support of someone or something.",
+      "example": [
+        {
+          "eng": "Soldiers are trained to defend their country.",
+          "ch": "士兵受過訓練以保衛他們的國家。"
+        },
+        {
+          "eng": "She hired a lawyer to defend her in court.",
+          "ch": "她請了一位律師在法庭上為她辯護。"
+        }
+      ]
+    },
+    {
+      "eng": "defend",
+      "kk": "dɪˈfɛnd",
+      "tense": "vi.",
+      "ch": [
+        [
+          "防守",
+          "進行防禦"
+        ]
+      ],
+      "analysis": "此動詞的不及物用法，常於體育競賽（如足球、籃球）中指採取防守姿態或職責。",
+      "definition": "1. To act in a protective or defensive manner, especially in sports.",
+      "example": [
+        {
+          "eng": "The team needs to defend better in the second half.",
+          "ch": "該隊下半場需要加強防守。"
+        }
+      ]
+    },
+    {
+      "eng": "defense",
+      "kk": "dɪˈfɛns",
+      "tense": "n.",
+      "ch": [
+        [
+          "防禦",
+          "保護"
+        ],
+        [
+          "辯護",
+          "防禦工事"
+        ],
+        [
+          "體育防守陣容"
+        ]
+      ],
+      "analysis": "此名詞源自古法語 defense，源自拉丁語 defensa。名詞指防守的行為、防禦設備、法庭上的抗辯，或球類運動中的防守方。",
+      "definition": "1. The action of defending from attack; 2. The case presented by or on behalf of a defendant, or a structure used for protection; 3. The players in a sport who try to prevent the opposing team from scoring.",
+      "example": [
+        {
+          "eng": "A strong national defense is essential for peace.",
+          "ch": "強大的國防是和平的基礎。"
+        },
+        {
+          "eng": "The lawyer's defense convinced the jury.",
+          "ch": "律師的辯護說服了陪審團。"
+        }
+      ]
+    },
+    {
+      "eng": "defensible",
+      "kk": "dɪˈfɛnsəbəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "可防守的",
+          "可辯護的",
+          "正當的"
+        ]
+      ],
+      "analysis": "此形容詞由動詞 defend 詞幹加上字尾 -ible（可……的）構成。指軍事防線上易於防守的，或觀點和行為在道德、邏輯上站得住腳的。",
+      "definition": "1. Able to be protected against attack, or justifiable by reasoning.",
+      "example": [
+        {
+          "eng": "The ancient castle was built on a highly defensible cliff.",
+          "ch": "那座古城堡建在一個極易防守的懸崖上。"
+        },
+        {
+          "eng": "His decision, though unpopular, was morally defensible.",
+          "ch": "他的決定雖然不受歡迎，但在道德上是站得住腳的。"
+        }
+      ]
+    },
+    {
+      "eng": "defensive",
+      "kk": "dɪˈfɛnsɪv",
+      "tense": "n.",
+      "ch": [
+        [
+          "防禦狀態",
+          "守勢"
+        ]
+      ],
+      "analysis": "由形容詞 defensive 轉化而來的名詞，常用於片語 on the defensive（處於守勢）。",
+      "definition": "1. A posture of defense or resistance against attack.",
+      "example": [
+        {
+          "eng": "The scandal forced the company onto the defensive.",
+          "ch": "這起醜聞迫使該公司轉入守勢。"
+        }
+      ]
+    },
+    {
+      "eng": "defensive",
+      "kk": "dɪˈfɛnsɪv",
+      "tense": "adj.",
+      "ch": [
+        [
+          "防禦的",
+          "防守的"
+        ],
+        [
+          "戒備的",
+          "敏感的"
+        ]
+      ],
+      "analysis": "此形容詞由 defense 變化並加上形容詞字尾 -ive 構成。指用於防衛的軍事戰術，或心理上因缺乏安全感而表現出的防衛姿態。",
+      "definition": "1. Used or intended to protect against attack; 2. Highly sensitive to criticism, ready to justify oneself.",
+      "example": [
+        {
+          "eng": "The country took a defensive stance against potential threats.",
+          "ch": "該國對潛在威脅採取了防禦姿態。"
+        },
+        {
+          "eng": "Why are you getting so defensive about a simple question?",
+          "ch": "你幹嘛為了一個簡單的問題而這麽戒備敏感？"
+        }
+      ]
+    },
+    {
+      "eng": "definite",
+      "kk": "ˈdɛfənət",
+      "tense": "adj.",
+      "ch": [
+        [
+          "明確的",
+          "確定的"
+        ],
+        [
+          "肯定的",
+          "清晰的"
+        ]
+      ],
+      "analysis": "此形容詞源自拉丁語 definitus（受限制的、明確的，動詞 definire 的過去分詞）。形容詞指界限清晰、毫無疑問、確切無誤的事實或計畫。",
+      "definition": "1. Clearly stated or decided; not vague or doubtful; 2. Clearly defined or perceptible.",
+      "example": [
+        {
+          "eng": "We need a definite answer by tomorrow.",
+          "ch": "我們需要在明天前得到一個確定的答案。"
+        },
+        {
+          "eng": "There has been a definite improvement in his health.",
+          "ch": "他的健康狀況有了明確的改善。"
+        }
+      ]
+    },
+    {
+      "eng": "delicate",
+      "kk": "ˈdɛləkət",
+      "tense": "adj.",
+      "ch": [
+        [
+          "精細的",
+          "脆弱的"
+        ],
+        [
+          "清淡的",
+          "美妙的"
+        ],
+        [
+          "微妙的",
+          "需要小心處理的"
+        ]
+      ],
+      "analysis": "此形容詞源自拉丁語 delicatus（誘人的、優雅的、柔弱的）。形容詞指物品做工精細易碎、味道清爽宜人，或局勢、話題敏感微妙。",
+      "definition": "1. Easily broken or damaged; fragile and finely made; 2. Pleasingly subtle in taste, scent, or color; 3. Requiring careful handling, sensitive or difficult.",
+      "example": [
+        {
+          "eng": "Be careful not to break those delicate wine glasses.",
+          "ch": "小心別打破那些精細易碎的高腳酒杯。"
+        },
+        {
+          "eng": "The soup has a delicate flavor of herbs.",
+          "ch": "這湯帶有淡淡的香草清香。"
+        },
+        {
+          "eng": "This is a delicate matter that requires great tact.",
+          "ch": "這是一件需要極大圓滑手腕的微妙事情。"
+        }
+      ]
+    },
+    {
+      "eng": "delight",
+      "kk": "dɪˈlaɪt",
+      "tense": "n.",
+      "ch": [
+        [
+          "快樂",
+          "高興"
+        ],
+        [
+          "令人愉快的人或事"
+        ]
+      ],
+      "analysis": "此名詞源自古法語 delit，受動詞 delictare 影響拼寫改為 delight（de- 加強 ＋ 原始拉丁語 delectare 使快樂）。指巨大的喜悅或帶來歡樂的事物。",
+      "definition": "1. A high degree of pleasure or joy; 2. Something or someone that gives great pleasure.",
+      "example": [
+        {
+          "eng": "The children squealed with delight when they saw the toys.",
+          "ch": "孩子們看到玩具時高興得尖叫起來。"
+        },
+        {
+          "eng": "Her grandchildren are her greatest delight.",
+          "ch": "她的孫子孫女是她最大的快樂來源。"
+        }
+      ]
+    },
+    {
+      "eng": "delight",
+      "kk": "dɪˈlaɪt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使高興",
+          "使快樂"
+        ]
+      ],
+      "analysis": "此動詞由名詞 delight 衍生（或源自古法語動詞）。及物動詞指讓某人感到非常愉快或滿意。",
+      "definition": "1. To give great pleasure or satisfaction to someone.",
+      "example": [
+        {
+          "eng": "His performance never fails to delight the audience.",
+          "ch": "他的表演總是能讓觀眾大樂。"
+        }
+      ]
+    },
+    {
+      "eng": "delight",
+      "kk": "dɪˈlaɪt",
+      "tense": "vi.",
+      "ch": [
+        [
+          "感到快樂",
+          "喜愛"
+        ]
+      ],
+      "analysis": "此動詞的不及物用法，常與介系詞 in 連用，表示對某事感到極大樂趣。",
+      "definition": "1. To take great pleasure or satisfaction, usually used with 'in'.",
+      "example": [
+        {
+          "eng": "She delights in teasing her younger brother.",
+          "ch": "她以捉弄弟弟為樂。"
+        }
+      ]
+    },
+    {
+      "eng": "delightful",
+      "kk": "dɪˈlaɪtfəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "令人愉快的",
+          "迷人的"
+        ]
+      ],
+      "analysis": "此形容詞由名詞 delight 加上形容詞字尾 -ful（充滿……的）構成。指人、物或經歷非常討人喜歡、令人開心。",
+      "definition": "1. Highly pleasing, charming, or causing great joy.",
+      "example": [
+        {
+          "eng": "We had a delightful picnic in the park yesterday.",
+          "ch": "我們昨天在公園度過了一個愉快的野餐。"
+        }
+      ]
+    },
+    {
+      "eng": "demand",
+      "kk": "dɪˈmænd",
+      "tense": "n.",
+      "ch": [
+        [
+          "要求",
+          "需求"
+        ]
+      ],
+      "analysis": "由動詞 demand 轉化而來的名詞，指提出的強硬要求，或經濟學中的商品市場需求量。",
+      "definition": "1. An insistent and peremptory request, made as if by right; 2. The desire of consumers for a particular commodity or service.",
+      "example": [
+        {
+          "eng": "The management refused to give in to the union's demands.",
+          "ch": "資方拒絕屈服於工會的要求。"
+        },
+        {
+          "eng": "There is a high demand for electric cars nowadays.",
+          "ch": "如今電動車的需求量很大。"
+        }
+      ]
+    },
+    {
+      "eng": "demand",
+      "kk": "dɪˈmænd",
+      "tense": "vt.",
+      "ch": [
+        [
+          "強烈要求",
+          "索取"
+        ],
+        [
+          "需要"
+        ]
+      ],
+      "analysis": "此動詞源自拉丁語 demandare（委託、命令，de- 加強 ＋ mandare 命令）。及物動詞指理直氣壯或強行要求某物，或客觀上需要某種條件。",
+      "definition": "1. To ask for something forcefully, in a peremptory or authoritative way; 2. To require as necessary or essential.",
+      "example": [
+        {
+          "eng": "The workers went on strike to demand higher wages.",
+          "ch": "工人們罷工以強烈要求提高工資。"
+        },
+        {
+          "eng": "This complex problem demands our full attention.",
+          "ch": "這個複雜的問題需要我們全神貫注。"
+        }
+      ]
+    },
+    {
+      "eng": "demonstrate",
+      "kk": "ˈdɛmənˌstret",
+      "tense": "vt.",
+      "ch": [
+        [
+          "證明",
+          "論證"
+        ],
+        [
+          "示範",
+          "演示操作"
+        ],
+        [
+          "表露",
+          "顯露"
+        ]
+      ],
+      "analysis": "此動詞源自拉丁語 demonstrare（de- 加強 ＋ monstrare 顯示，源自 monstrum 奇觀）。及物動詞指用事實或邏輯證明某事、現場操作示範說明，或流露出某種情感。",
+      "definition": "1. To clearly show the truth of something by reasoning or evidence; 2. To explain clearly how something works; 3. To manifest or express a feeling or quality.",
+      "example": [
+        {
+          "eng": "The scientist demonstrated the theory with an experiment.",
+          "ch": "科學家用實驗證明了這項理論。"
+        },
+        {
+          "eng": "The chef demonstrated how to chop vegetables quickly.",
+          "ch": "主廚示範了如何快速切菜。"
+        },
+        {
+          "eng": "She demonstrated great courage during the crisis.",
+          "ch": "她在危機中表現出了巨大的勇氣。"
+        }
+      ]
+    },
+    {
+      "eng": "demonstrate",
+      "kk": "ˈdɛmənˌstret",
+      "tense": "vi.",
+      "ch": [
+        [
+          "遊行示威",
+          "集會抗議"
+        ]
+      ],
+      "analysis": "此動詞的不及物用法，專指民眾走上街頭參與政治抗議或示威遊行活動。",
+      "definition": "1. To march or gather in public to express political or social protest.",
+      "example": [
+        {
+          "eng": "Thousands of citizens gathered to demonstrate against the new tax.",
+          "ch": "成千上萬的市民聚集起來遊行抗議新稅收。"
+        }
+      ]
+    },
+    {
+      "eng": "demonstration",
+      "kk": "ˌdɛmənˈstreʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "示範",
+          "演示說明"
+        ],
+        [
+          "證明",
+          "表露"
+        ],
+        [
+          "示威遊行"
+        ]
+      ],
+      "analysis": "此名詞由動詞 demonstrate 加上名詞字尾 -ion 構成。指操作教學示範、觀點的實際證明，或群眾的街頭示威抗議。",
+      "definition": "1. A practical exhibition and explanation of how something works; 2. The action of showing something to be true, or an outward expression of a feeling; 3. A public meeting or march protesting against something.",
+      "example": [
+        {
+          "eng": "The store offered a free product demonstration.",
+          "ch": "這家店提供了免費的產品演示。"
+        },
+        {
+          "eng": "A peaceful demonstration was held outside the city hall.",
+          "ch": "市政府外舉行了一場和平的示威遊行。"
+        }
+      ]
+    },
+    {
+      "eng": "dense",
+      "kk": "dɛns",
+      "tense": "adj.",
+      "ch": [
+        [
+          "密集的",
+          "稠密的"
+        ],
+        [
+          "濃重的"
+        ],
+        [
+          "愚笨的",
+          "難懂的"
+        ]
+      ],
+      "analysis": "此形容詞源自拉丁語 densus（稠密的、厚實的）。形容詞指物質、人群或森林密集，煙霧濃重，或口語中形容人腦筋遲鈍愚笨。",
+      "definition": "1. Closely compacted in substance; thick; 2. Crowded closely together; 3. Informal: stupid or slow to understand.",
+      "example": [
+        {
+          "eng": "The explorers walked through the dense jungle.",
+          "ch": "探險者們穿過了茂密的叢林。"
+        },
+        {
+          "eng": "A dense fog covered the entire valley this morning.",
+          "ch": "今天早上濃霧籠罩了整個山谷。"
+        },
+        {
+          "eng": "Don't be so dense; it's a very simple joke.",
+          "ch": "別那麽笨；這只是一個非常簡單的笑話。"
+        }
+      ]
+    },
+    {
+      "eng": "depart",
+      "kk": "dɪˈpɑrt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "離開",
+          "辭世"
+        ]
+      ],
+      "analysis": "此動詞偶爾作及物用，直接受詞多為地點或生命，現代英語中較為少見，多見於文學語境。",
+      "definition": "1. To leave a place or pass away (often archaic or literary).",
+      "example": [
+        {
+          "eng": "He departed this life at a very advanced age.",
+          "ch": "他以極高的高齡辭世。"
+        }
+      ]
+    },
+    {
+      "eng": "depart",
+      "kk": "dɪˈpɑrt",
+      "tense": "vi.",
+      "ch": [
+        [
+          "出發",
+          "離去"
+        ],
+        [
+          "背離",
+          "違背"
+        ]
+      ],
+      "analysis": "此動詞源自古法語 departir（分離、分開），源自拉丁語 dis-（分離）＋ partire（分配、分開）。不及物動詞指火車、飛機或人員啟程離開，或偏離常規與傳統。",
+      "definition": "1. To leave, typically in order to start a journey; 2. To deviate or diverge from a standard, plan, or custom, usually used with 'from'.",
+      "example": [
+        {
+          "eng": "The train for London is scheduled to depart at 3 PM.",
+          "ch": "開往倫敦的火車預定在下午3點發車。"
+        },
+        {
+          "eng": "She decided to depart from the traditional recipe.",
+          "ch": "她決定不按照傳統食譜烹調。"
+        }
+      ]
+    },
+    {
+      "eng": "departure",
+      "kk": "dɪˈpɑrtʃɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "出發",
+          "離去"
+        ],
+        [
+          "背離",
+          "新嘗試"
+        ]
+      ],
+      "analysis": "此名詞由動詞 depart 加上名詞字尾 -ure 構成。指交通工具或人員的啟程，或在行為、風格上對既有習慣的背離與創新。",
+      "definition": "1. The action of leaving a place; 2. A deviation from a previous course, method, or standard.",
+      "example": [
+        {
+          "eng": "All passengers should check their flight departure times.",
+          "ch": "所有乘客都應核對航班起飛時間。"
+        },
+        {
+          "eng": "His latest movie is a radical departure from his usual comedies.",
+          "ch": "他最近的電影與他一貫的喜劇風格大相逕庭。"
+        }
+      ]
+    },
+    {
+      "eng": "dependent",
+      "kk": "dɪˈpɛndənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "受扶養者",
+          "眷屬"
+        ]
+      ],
+      "analysis": "由形容詞 dependent 作為名詞使用，指生活上受主收入者經濟支撐的家屬或親友。",
+      "definition": "1. A person who relies on another, especially for financial support.",
+      "example": [
+        {
+          "eng": "He has a wife and three dependents to support.",
+          "ch": "他有妻子和三個需要養活的眷屬。"
+        }
+      ]
+    },
+    {
+      "eng": "dependent",
+      "kk": "dɪˈpɛndənt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "依賴的",
+          "受……支配的"
+        ],
+        [
+          "取決於……的"
+        ]
+      ],
+      "analysis": "此形容詞由動詞 depend（源自拉丁語 dependere 懸掛、依賴，de- 往下 ＋ pendere 懸掛）加上形容詞字尾 -ent 構成。指在經濟、情感上依附他人，或某事的結果取決於特定條件。",
+      "definition": "1. Needing someone or something else for support, financial help, or survival; 2. Determined or conditioned by something else, usually used with 'on' or 'upon'.",
+      "example": [
+        {
+          "eng": "Young children are completely dependent on their parents.",
+          "ch": "幼小的孩子完全依賴父母。"
+        },
+        {
+          "eng": "Our picnic plans are dependent on good weather.",
+          "ch": "我們的野餐計畫取決於好天氣。"
+        }
+      ]
+    },
+    {
+      "eng": "depression",
+      "kk": "dɪˈprɛʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "沮喪",
+          "憂鬱症"
+        ],
+        [
+          "經濟蕭條",
+          "不景氣"
+        ],
+        [
+          "窪地",
+          "低壓區"
+        ]
+      ],
+      "analysis": "此名詞由動詞 depress（源自拉丁語 deprimere 壓下，de- 往下 ＋ premere 壓）加上名詞字尾 -ion 構成。名詞指情緒低落或醫學上的憂鬱症、經濟大蕭條，或地理上的下陷窪地與氣象低壓。",
+      "definition": "1. Feelings of severe despondency and dejection, or a medical mood disorder; 2. A long and severe recession in an economy; 3. A hollow or depressed surface area, or a meteorological low-pressure system.",
+      "example": [
+        {
+          "eng": "She sought professional help for her clinical depression.",
+          "ch": "她為自己的臨床憂鬱症尋求專業協助。"
+        },
+        {
+          "eng": "The Great Depression of the 1930s affected millions of families.",
+          "ch": "1930年代的經濟大蕭條影響了數百萬個家庭。"
+        },
+        {
+          "eng": "The heavy rain pooled in a depression in the garden.",
+          "ch": "大雨積在花園的一個窪地裡。"
+        }
+      ]
+    },
+    {
+      "eng": "deserve",
+      "kk": "dɪˈzɝv",
+      "tense": "vt.",
+      "ch": [
+        [
+          "應受",
+          "值得"
+        ]
+      ],
+      "analysis": "此動詞經由古法語 deservir 借自拉丁語 deservire（熱心服務，de- 加強 ＋ servire 服務）。及物動詞指某人或某事物憑藉表現或行為理應獲得某種回報、獎勵或懲罰。",
+      "definition": "1. To do something or have qualities worthy of a reward or punishment; to be worthy of.",
+      "example": [
+        {
+          "eng": "You worked so hard; you really deserve a break.",
+          "ch": "你工作這麽努力，真的值得休息一下。"
+        },
+        {
+          "eng": "Criminals deserve to be punished for their actions.",
+          "ch": "罪犯的行為理應受到懲罰。"
+        }
+      ]
+    },
+    {
+      "eng": "desperate",
+      "kk": "ˈdɛspərɪt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "鋌而走險的",
+          "拼命的"
+        ],
+        [
+          "絕望的",
+          "危急的"
+        ],
+        [
+          "極度渴望的"
+        ]
+      ],
+      "analysis": "此形容詞源自拉丁語 desperatus（絕望的，動詞 desperare 的過去分詞，de- 離、無 ＋ spes 希望）。形容詞指因陷入絕境而採取孤注一擲的行動、情況萬分危急，或極端渴望某物。",
+      "definition": "1. Feeling or showing a hopeless sense that a situation is so bad as to be impossible to deal with; 2. (Of a situation) extremely serious or dangerous; 3. Having an urgent need or desire for something, usually used with 'for'.",
+      "example": [
+        {
+          "eng": "In a desperate attempt to escape, he jumped out the window.",
+          "ch": "在絕望中為了逃跑，他跳出了窗戶。"
+        },
+        {
+          "eng": "The patient is in desperate need of a blood transfusion.",
+          "ch": "這名病患極度急需輸血。"
+        },
+        {
+          "eng": "The refugees are in a desperate situation.",
+          "ch": "難民們處於絕望的境地。"
+        }
+      ]
+    },
+    {
+      "eng": "despite",
+      "kk": "dɪˈspaɪt",
+      "tense": "prep.",
+      "ch": [
+        [
+          "儘管",
+          "雖然"
+        ]
+      ],
+      "analysis": "此介系詞源自古法語 despit（輕視、侮辱），源自拉丁語 despectus（輕視，despicere 的過去分詞）。在英語中演變出讓步介系詞義，相當於 in spite of。",
+      "definition": "1. Without being affected by; in spite of.",
+      "example": [
+        {
+          "eng": "Despite the heavy rain, they continued the football match.",
+          "ch": "儘管下着大雨，他們還是繼續進行足球賽。"
+        }
+      ]
+    },
+    {
+      "eng": "destruction",
+      "kk": "dɪˈstrʌkʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "破壞",
+          "毀滅"
+        ]
+      ],
+      "analysis": "此名詞由動詞 destroy（源自拉丁語 destruere 毀壞，de- 向下、破壞 ＋ struere 建造）加上名詞字尾 -ion 構成。指徹底摧毀或破壞的狀態。",
+      "definition": "1. The action or process of causing so much damage to something that it no longer exists or cannot be repaired.",
+      "example": [
+        {
+          "eng": "The hurricane left a trail of widespread destruction.",
+          "ch": "這場颶風留下一片廣泛破壞的痕跡。"
+        }
+      ]
+    },
+    {
+      "eng": "detective",
+      "kk": "dɪˈtɛktɪv",
+      "tense": "n.",
+      "ch": [
+        [
+          "偵探",
+          "刑警"
+        ]
+      ],
+      "analysis": "此名詞由動詞 detect（源自拉丁語 detegere 揭發、拆穿，de- 解開 ＋ tegere 覆蓋）加上形容詞字尾 -ive 轉化而來的名詞。指專門調查案件、捉拿罪犯的偵探人員。",
+      "definition": "1. A person, typically a police officer, whose job is to investigate crimes and catch criminals.",
+      "example": [
+        {
+          "eng": "The detective found a crucial clue at the crime scene.",
+          "ch": "偵探在犯罪現場找到了一個關鍵線索。"
+        }
+      ]
+    },
+    {
+      "eng": "determination",
+      "kk": "dɪˌtɝmɪˈneʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "決心",
+          "堅定意志"
+        ],
+        [
+          "確定",
+          "查明"
+        ]
+      ],
+      "analysis": "此名詞由動詞 determine（源自拉丁語 determinare 劃定界限、決定，de- ＋ terminare 訂立界線）加上名詞字尾 -ion 構成。指做成決定的堅強意志力，或對某事真相的查明與測定。",
+      "definition": "1. Firmness of purpose; resoluteness; 2. The action of establishing something exactly or officially.",
+      "example": [
+        {
+          "eng": "She showed great determination to finish her university degree.",
+          "ch": "她展現出完成大學學業的巨大決心。"
+        },
+        {
+          "eng": "The exact cause of the fire requires careful determination.",
+          "ch": "火災的確切原因需要仔細查明。"
+        }
+      ]
+    },
+    {
+      "eng": "device",
+      "kk": "dɪˈvaɪs",
+      "tense": "n.",
+      "ch": [
+        [
+          "裝置",
+          "儀器"
+        ],
+        [
+          "詭計",
+          "手段"
+        ],
+        [
+          "圖案",
+          "標誌"
+        ]
+      ],
+      "analysis": "此名詞源自古法語 devis（遺囑、設計），源自拉丁語 divisus（分開的，dividere 的過去分詞）。名詞指機械或電子裝置、謀略詭計，或盾徽上的裝飾圖案。",
+      "definition": "1. A thing made or adapted for a particular purpose, especially a piece of mechanical or electronic equipment; 2. A plan or trick; 3. A decorative design or emblem.",
+      "example": [
+        {
+          "eng": "Smartphone is a clever electronic device.",
+          "ch": "智慧型手機是一個巧妙的電子裝置。"
+        },
+        {
+          "eng": "They used a clever device to trick the guard.",
+          "ch": "他們用了一個巧妙的計謀來欺騙守衛。"
+        }
+      ]
+    },
+    {
+      "eng": "devise",
+      "kk": "dɪˈvaɪz",
+      "tense": "vt.",
+      "ch": [
+        [
+          "設計",
+          "發明",
+          "想出"
+        ]
+      ],
+      "analysis": "此動詞源自古法語 deviser（區分、策劃），與 device 同源，源自拉丁語 divisare。及物動詞指精心策劃、發明新方法或機械器具。",
+      "definition": "1. To plan or invent a complex new procedure, system, or mechanism by careful thought.",
+      "example": [
+        {
+          "eng": "The engineers devised a new way to reduce energy consumption.",
+          "ch": "工程師們想出了一種降低能耗的新方法。"
+        }
+      ]
+    },
+    {
+      "eng": "devote",
+      "kk": "dɪˈvot",
+      "tense": "vt.",
+      "ch": [
+        [
+          "奉獻",
+          "投入"
+        ]
+      ],
+      "analysis": "此動詞源自拉丁語 devovere（發誓奉獻，de- 向下 ＋ vovere 發誓）。及物動詞通常與 to 連用，指將生命、時間、精力或金錢無私奉獻給某項事業或人。",
+      "definition": "1. To give all or a large part of one's time, resources, or efforts to a particular activity or purpose, usually used with 'to'.",
+      "example": [
+        {
+          "eng": "She decided to devote her life to helping homeless animals.",
+          "ch": "她決定將一生奉獻給幫助無家可歸的動物。"
+        }
+      ]
+    },
+    {
+      "eng": "dew",
+      "kk": "du",
+      "tense": "n.",
+      "ch": [
+        [
+          "露水"
+        ]
+      ],
+      "analysis": "此字源自古英語 dēaw，屬於日耳曼語族的共同繼承詞。名詞指清晨凝結在植物和地面上的微小水滴。",
+      "definition": "1. Tiny drops of water that form on cool surfaces at night, originating from atmospheric vapor.",
+      "example": [
+        {
+          "eng": "The grass was wet with morning dew.",
+          "ch": "草地上沾滿了清晨的露水。"
+        }
+      ]
+    },
+    {
+      "eng": "diagram",
+      "kk": "ˈdaɪəˌɡræm",
+      "tense": "n.",
+      "ch": [
+        [
+          "圖解",
+          "圖表"
+        ],
+        [
+          "簡圖",
+          "幾何圖形"
+        ]
+      ],
+      "analysis": "此名詞由古希臘語 prefix dia-（透過、穿過）＋ gramma（寫下的東西、線條，源自 graphein 書寫）結合而成。指用線條和圖形說明結構、關係的圖解。",
+      "definition": "1. A simplified drawing showing the appearance, structure, or workings of something; 2. a schematic representation.",
+      "example": [
+        {
+          "eng": "The teacher drew a diagram on the whiteboard to explain the circuit.",
+          "ch": "老師在白板上畫了一個圖解來解釋電路。"
+        }
+      ]
+    },
+    {
+      "eng": "diagram",
+      "kk": "ˈdaɪəˌɡræm",
+      "tense": "vt.",
+      "ch": [
+        [
+          "用圖解表示",
+          "畫圖表說明"
+        ]
+      ],
+      "analysis": "由名詞 diagram 轉化而來的動詞，指將複雜的概念或結構用圖表繪製出來。",
+      "definition": "1. To represent or explain something by drawing a diagram.",
+      "example": [
+        {
+          "eng": "Please diagram the sentence structure on the board.",
+          "ch": "請把句子結構在黑板上用圖解表示出來。"
+        }
+      ]
+    },
+    {
+      "eng": "differ",
+      "kk": "ˈdɪfɚ",
+      "tense": "vi.",
+      "ch": [
+        [
+          "不同",
+          "相異"
+        ],
+        [
+          "持不同意見",
+          "意見分歧"
+        ]
+      ],
+      "analysis": "此動詞源自拉丁語 differre（dis- 分離 ＋ ferre 帶、攜帶，意為「各自走向不同方向」）。不及物動詞指事物在性質、外表上存在差異，或人們在看法上意見不合。",
+      "definition": "1. To be unlike or dissimilar; 2. To disagree in opinion.",
+      "example": [
+        {
+          "eng": "My taste in music tends to differ from my parents' taste.",
+          "ch": "我對音樂的品味往往和父母的不同。"
+        },
+        {
+          "eng": "We agree on the main goal, but we differ on the methods.",
+          "ch": "我們在主要目標上達成共識，但在方法上意見分歧。"
+        }
+      ]
+    },
+    {
+      "eng": "digest",
+      "kk": "ˈdaɪˌdʒɛst",
+      "tense": "n.",
+      "ch": [
+        [
+          "文摘",
+          "摘要集"
+        ]
+      ],
+      "analysis": "由動詞 digest 轉化而來的名詞（重音在前），指將大量文章、法律條文或新聞濃縮萃取後的摘要彙編。",
+      "definition": "1. A compilation or summary of written material, laws, or news stories.",
+      "example": [
+        {
+          "eng": "He reads a monthly news digest to stay informed.",
+          "ch": "他閱讀每月新聞摘要以掌握資訊。"
+        }
+      ]
+    },
+    {
+      "eng": "digest",
+      "kk": "daɪˈdʒɛst",
+      "tense": "vt.",
+      "ch": [
+        [
+          "消化"
+        ],
+        [
+          "領會",
+          "吸收"
+        ]
+      ],
+      "analysis": "此動詞源自拉丁語 digerere（分開、分配、消化，dis- 分開 ＋ gerere 帶、運作）。及物動詞指腸胃消化食物，或引申為大腦充分吸收理解複雜的資訊。",
+      "definition": "1. To break down food in the alimentary canal into substances that can be absorbed; 2. To understand or assimilate information completely.",
+      "example": [
+        {
+          "eng": "It is difficult to digest heavy meals right before sleeping.",
+          "ch": "睡前很難消化油膩的重口味正餐。"
+        },
+        {
+          "eng": "The lecture was so intense that I needed time to digest everything.",
+          "ch": "這場講座內容太豐富了，我需要時間去消化所有資訊。"
+        }
+      ]
+    },
+    {
+      "eng": "digest",
+      "kk": "daɪˈdʒɛst",
+      "tense": "vi.",
+      "ch": [
+        [
+          "消化"
+        ]
+      ],
+      "analysis": "此動詞的不及物用法，指食物在體內進行消化過程。",
+      "definition": "1. To undergo digestion.",
+      "example": [
+        {
+          "eng": "Take a short walk to help your food digest.",
+          "ch": "散步一小會兒以助於食物消化。"
+        }
+      ]
+    },
+    {
+      "eng": "digital",
+      "kk": "ˈdɪdʒɪtəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "數位設備",
+          "數位版面"
+        ]
+      ],
+      "analysis": "由形容詞 digital 轉化而來的名詞，泛指數位化的媒介或設備。",
+      "definition": "1. Digital products, media, or devices.",
+      "example": [
+        {
+          "eng": "Our company is shifting its advertising focus to digital.",
+          "ch": "我們公司正將廣告重心轉向數位平台。"
+        }
+      ]
+    },
+    {
+      "eng": "digital",
+      "kk": "ˈdɪdʒɪtəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "數位的",
+          "數字的"
+        ],
+        [
+          "手指的"
+        ]
+      ],
+      "analysis": "此形容詞由拉丁語 digitus（手指、腳趾，因古代用手指計數而衍生出「數字」之義）加上形容詞字尾 -al 構成。現代主要指電子產品中以數字（0與1）儲存傳輸信號的數位技術，醫學上亦指手指的。",
+      "definition": "1. Expressed in digits, especially as binary code for use in computers, or relating to electronic technology; 2. Relating to a finger or toe.",
+      "example": [
+        {
+          "eng": "Most photography has shifted from film to digital cameras.",
+          "ch": "大多數攝影已從傳統底片相機轉向數位相機。"
+        },
+        {
+          "eng": "The doctor performed a digital examination.",
+          "ch": "醫生進行了手指觸診檢查。"
+        }
+      ]
+    },
+    {
+      "eng": "dignity",
+      "kk": "ˈdɪɡnəti",
+      "tense": "n.",
+      "ch": [
+        [
+          "尊嚴",
+          "高貴"
+        ],
+        [
+          "端莊",
+          "莊嚴"
+        ]
+      ],
+      "analysis": "此名詞源自拉丁語 dignitas（worthiness，源自 dignus 有價值的、尊貴的）。名詞指人的內在價值與尊嚴、身份地位，或舉止行為的端莊得體。",
+      "definition": "1. The state or quality of being worthy of honor or respect; 2. A composed and serious manner or style.",
+      "example": [
+        {
+          "eng": "Every individual has the right to live with dignity.",
+          "ch": "每個人都有權利尊嚴地活著。"
+        },
+        {
+          "eng": "She faced the difficult situation with great dignity.",
+          "ch": "她以無比的端莊和尊嚴面對這場困境。"
+        }
+      ]
+    },
+    {
+      "eng": "diligence",
+      "kk": "ˈdɪlədʒəns",
+      "tense": "n.",
+      "ch": [
+        [
+          "勤勉",
+          "苦幹",
+          "盡職"
+        ]
+      ],
+      "analysis": "此名詞由形容詞 diligent 衍生，源自拉丁語 diligentia（小心、勤勉，diligentem 的名詞化）。指持續努力、認真負責的工作態度。",
+      "definition": "1. Careful and persistent work or effort.",
+      "example": [
+        {
+          "eng": "With hard work and diligence, he passed the difficult exam.",
+          "ch": "憑藉著努力與勤勉，他通過了困難的考試。"
+        }
+      ]
+    },
+    {
+      "eng": "diligent",
+      "kk": "ˈdɪlədʒənt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "勤奮的",
+          "認真的",
+          "具苦幹精神的"
+        ]
+      ],
+      "analysis": "此形容詞源自拉丁語 diligens（認真的、愛惜的，diligere 的現在分詞，di- 離開 ＋ legere 挑選，原義為「精挑細選、用心對待」）。形容詞指做事有恆心、認真負責。",
+      "definition": "1. Having or showing care and conscientiousness in one's work or duties.",
+      "example": [
+        {
+          "eng": "She is a diligent student who always completes her homework on time.",
+          "ch": "她是一個勤奮的學生，總是按時完成作業。"
+        }
+      ]
+    },
+    {
+      "eng": "diploma",
+      "kk": "dɪˈplomə",
+      "tense": "n.",
+      "ch": [
+        [
+          "畢業證書",
+          "文憑"
+        ]
+      ],
+      "analysis": "此名詞源自古希臘語 diploma（原本指雙重對折的官方公文或護照，di- 兩倍 ＋ plekein 摺疊）。歷史上指摺疊的官方憑證，現代專指學校頒發的畢業證書或資格文憑。",
+      "definition": "1. A certificate awarded by an educational institution to show that someone has successfully completed a course of study.",
+      "example": [
+        {
+          "eng": "He proudly hung his high school diploma on the wall.",
+          "ch": "他自豪地把高中畢業證書掛在牆上。"
+        }
+      ]
+    },
+    {
+      "eng": "diplomat",
+      "kk": "ˈdɪpləˌmæt",
+      "tense": "n.",
+      "ch": [
+        [
+          "外交官",
+          "擅長社交和交際的人"
+        ]
+      ],
+      "analysis": "此名詞由 diploma 衍生出的現代字形（法語 diplomate），指獲得外交文書授權、代表國家從事外交事務的官員，或引申為說話圓滑、善於交際的人。",
+      "definition": "1. An official representing a country abroad; a person who is skilled in dealing with people without offending them.",
+      "example": [
+        {
+          "eng": "The foreign diplomat negotiated a peaceful treaty between the two nations.",
+          "ch": "那位外籍外交官在兩國之間協商出了一份和平條約。"
+        }
+      ]
+    },
+    {
+      "eng": "disability",
+      "kk": "ˌdɪsəˈbɪləti",
+      "tense": "n.",
+      "ch": [
+        [
+          "殘疾",
+          "身體傷殘"
+        ],
+        [
+          "無能力",
+          "障礙"
+        ]
+      ],
+      "analysis": "此名詞由否定字首 dis-（不、無）＋ ability（能力，源自able）結合而成。指身體或心智上的缺陷導致日常生活或工作受阻的狀態。",
+      "definition": "1. A physical or mental condition that limits a person's movements, senses, or activities; 2. A disadvantage or handicap.",
+      "example": [
+        {
+          "eng": "The building is equipped with ramps to assist people with disabilities.",
+          "ch": "這棟大樓配備了斜坡以協助身心障礙人士。"
+        }
+      ]
+    },
+    {
+      "eng": "disadvantage",
+      "kk": "ˌdɪsədˈvæntɪdʒ",
+      "tense": "n.",
+      "ch": [
+        [
+          "缺點",
+          "不利條件"
+        ],
+        [
+          "劣勢"
+        ]
+      ],
+      "analysis": "此名詞由否定字首 dis-（相反、不）＋ advantage（優勢，源自古法語 avantage）組合而成。指對發展或競爭不利的因素或環境。",
+      "definition": "1. An unfavorable circumstance or condition that reduces the chances of success or effectiveness.",
+      "example": [
+        {
+          "eng": "Playing in an away stadium is a major disadvantage for the team.",
+          "ch": "在客場比賽對該隊來說是一個重大的不利條件。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1128 @@
+{
+  "level": 1,
+  "chunkIndex": 21,
+  "inputs": [
+    "ours",
+    "ourselves",
+    "weak",
+    "wear",
+    "weather",
+    "week",
+    "weekend",
+    "welcome",
+    "well",
+    "west",
+    "wet",
+    "what",
+    "when",
+    "where",
+    "whether",
+    "which",
+    "while",
+    "white",
+    "who",
+    "whose",
+    "why",
+    "wide",
+    "wife",
+    "will",
+    "win",
+    "wind",
+    "window",
+    "wise",
+    "wish",
+    "with",
+    "without",
+    "woman",
+    "wonderful",
+    "word",
+    "work",
+    "worker",
+    "world",
+    "worry",
+    "write",
+    "writer",
+    "wrong",
+    "yard",
+    "year",
+    "yellow",
+    "yes",
+    "yeah",
+    "yesterday",
+    "yet",
+    "you",
+    "your"
+  ],
+  "rows": [
+    {
+      "eng": "ours",
+      "kk": "aʊrz",
+      "tense": "pron.",
+      "ch": [
+        [
+          "我們的主格所有格",
+          "我們的"
+        ]
+      ],
+      "analysis": "此字為代名詞，作為所有格代名詞使用，相當於 our + 名詞。源自中古英語 ouren，由古英語 ūre（我們的）演變而來，帶有強調整體歸屬的語意。",
+      "definition": "1. Used to indicate that something belongs to or is associated with us.",
+      "example": [
+        {
+          "eng": "This beautiful house is ours.",
+          "ch": "這棟漂亮的房子是我們的。"
+        }
+      ]
+    },
+    {
+      "eng": "ourselves",
+      "kk": "aʊrˈsɛlvz",
+      "tense": "pron.",
+      "ch": [
+        [
+          "我們自己",
+          "自身"
+        ]
+      ],
+      "analysis": "此字為複數反身與強調代名詞，由 our 與 self 的複數形 selves 複合而成。語意上用來指稱主詞「我們」自己，可作受格或強調之用。",
+      "definition": "1. Used as the direct or indirect object of a verb or preposition when the subject is we, or to emphasize us.",
+      "example": [
+        {
+          "eng": "We must protect ourselves from the cold.",
+          "ch": "我們必須保護自己免受寒冷侵襲。"
+        }
+      ]
+    },
+    {
+      "eng": "weak",
+      "kk": "wik",
+      "tense": "adj.",
+      "ch": [
+        [
+          "虛弱的",
+          "無力的"
+        ],
+        [
+          "軟弱的",
+          "意志薄弱的"
+        ],
+        [
+          "差勁的",
+          "不擅長的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自古英語 wāc（柔軟的、易彎的、虛弱的），屬於日耳曼語源。語意從實體上的柔軟無力，抽象延伸至心智或意志的脆弱，以及能力上的欠缺與不足。",
+      "definition": "1. Lacking physical strength or energy; 2. Lacking moral strength, courage, or willpower; 3. Deficient in skill, ability, or quality.",
+      "example": [
+        {
+          "eng": "She felt weak after a long illness.",
+          "ch": "大病初癒後她感到很虛弱。"
+        },
+        {
+          "eng": "He is too weak to say no to his friends.",
+          "ch": "他太軟弱了，對朋友的請求無法說不。"
+        },
+        {
+          "eng": "I am weak in mathematics.",
+          "ch": "我的數學底子很差。"
+        }
+      ]
+    },
+    {
+      "eng": "wear",
+      "kk": "wɛr",
+      "tense": "vt.",
+      "ch": [
+        [
+          "穿著",
+          "佩戴"
+        ],
+        [
+          "面帶",
+          "流露出"
+        ],
+        [
+          "磨損",
+          "用舊"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自古英語 werian（穿衣、覆蓋），屬日耳曼語源。基本義為將衣物或飾品穿戴在身上，隨後經由「長久穿戴導致受損」的過程，抽象引申出磨損與消耗的意義，亦可指臉上帶有某種表情。",
+      "definition": "1. To have clothing, jewelry, etc., on your body; 2. To bear or have a particular expression on your face; 3. To damage, reduce, or destroy through continuous use or friction.",
+      "example": [
+        {
+          "eng": "She likes to wear comfortable clothes.",
+          "ch": "她喜歡穿舒適的衣服。"
+        },
+        {
+          "eng": "He wore a smile on his face.",
+          "ch": "他臉上帶著微笑。"
+        },
+        {
+          "eng": "These shoes wear out quickly.",
+          "ch": "這雙鞋子很快就穿壞了。"
+        }
+      ]
+    },
+    {
+      "eng": "weather",
+      "kk": "ˈwɛðər",
+      "tense": "n.",
+      "ch": [
+        [
+          "天氣",
+          "氣象"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古英語 weder（天空、風暴、天氣），屬日耳曼語源。核心義指大氣在某一時間與地點的狀態，如溫度、降水和風向等。",
+      "definition": "1. The state of the atmosphere at a place and time as regards heat, dryness, sunshine, wind, rain, etc.",
+      "example": [
+        {
+          "eng": "The weather is nice today.",
+          "ch": "今天天氣很好。"
+        }
+      ]
+    },
+    {
+      "eng": "week",
+      "kk": "wik",
+      "tense": "n.",
+      "ch": [
+        [
+          "星期",
+          "週"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古英語 wice（七天為一週的週期），屬日耳曼語源。指由七天組成的時間單位。",
+      "definition": "1. A period of seven days.",
+      "example": [
+        {
+          "eng": "I will see you next week.",
+          "ch": "我下週見你。"
+        }
+      ]
+    },
+    {
+      "eng": "weekend",
+      "kk": "ˈwikˌɛnd",
+      "tense": "n.",
+      "ch": [
+        [
+          "週末"
+        ]
+      ],
+      "analysis": "此字為名詞，為現代透明複合詞，由 week（週）與 end（結尾）結合而成，指一週的尾聲，即星期六與星期日。",
+      "definition": "1. Saturday and Sunday, forming the end of a week.",
+      "example": [
+        {
+          "eng": "What are your plans for the weekend?",
+          "ch": "你週末有什麼計畫？"
+        }
+      ]
+    },
+    {
+      "eng": "welcome",
+      "kk": "ˈwɛlkəm",
+      "tense": "vt.",
+      "ch": [
+        [
+          "歡迎",
+          "樂意接受"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自古英語 wilcuma（受歡迎的人）或動詞 wilcumian，由 willka（意願、喜悅）與 cuma（來者）複合而成。演變至現代用來表示熱烈迎接訪客或樂意接受某事。",
+      "definition": "1. To greet a newcomer politely and happily; 2. To accept or admit something gladly.",
+      "example": [
+        {
+          "eng": "They welcomed us warmly into their home.",
+          "ch": "他們熱情地歡迎我們進入他們的家。"
+        },
+        {
+          "eng": "We welcome any suggestions you may have.",
+          "ch": "我們歡迎您提出的任何建議。"
+        }
+      ]
+    },
+    {
+      "eng": "well",
+      "kk": "wɛl",
+      "tense": "adv.",
+      "ch": [
+        [
+          "好地",
+          "出色地"
+        ],
+        [
+          "充分地",
+          "徹底地"
+        ]
+      ],
+      "analysis": "此字為副詞，源自古英語 wel（很好地、適當地），屬日耳曼語源。基本義表示動作做得正確或出色，亦可引申為程度上的充分或相當。",
+      "definition": "1. In a good or satisfactory way; 2. To a great extent or thoroughly.",
+      "example": [
+        {
+          "eng": "She speaks English very well.",
+          "ch": "她英語說得很好。"
+        },
+        {
+          "eng": "The plan is well underway.",
+          "ch": "這項計畫正在順利進行中。"
+        }
+      ]
+    },
+    {
+      "eng": "west",
+      "kk": "wɛst",
+      "tense": "n.",
+      "ch": [
+        [
+          "西方",
+          "西部"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古英語 west（西方），屬日耳曼語源。指太陽落下的方向或地理上的西方區域。",
+      "definition": "1. The compass point corresponding to that toward which the sun sets.",
+      "example": [
+        {
+          "eng": "The sun sets in the west.",
+          "ch": "太陽從西方落下。"
+        }
+      ]
+    },
+    {
+      "eng": "wet",
+      "kk": "wɛt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "濕的",
+          "潮濕的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自古英語 wǣt（潮濕的、多水的），屬日耳曼語源。指表面或內部含有水分或被雨水浸濕的狀態。",
+      "definition": "1. Covered or saturated with water or another liquid.",
+      "example": [
+        {
+          "eng": "My shoes are wet from the rain.",
+          "ch": "我的鞋子被雨淋濕了。"
+        }
+      ]
+    },
+    {
+      "eng": "what",
+      "kk": "wʌt",
+      "tense": "pron.",
+      "ch": [
+        [
+          "什麼",
+          "所……的事物"
+        ]
+      ],
+      "analysis": "此字為代名詞與限定詞，源自古英語 hwæt（什麼），屬日耳曼語源的疑問代名詞。用來詢問事物的身分、性質，或引導關係子句表示「……的事物」。",
+      "definition": "1. Asking for information about something; 2. That which or the thing that.",
+      "example": [
+        {
+          "eng": "What is your name?",
+          "ch": "你的名字是什麼？"
+        },
+        {
+          "eng": "Tell me what you saw.",
+          "ch": "告訴我你看到了什麼。"
+        }
+      ]
+    },
+    {
+      "eng": "when",
+      "kk": "wɛn",
+      "tense": "adv.",
+      "ch": [
+        [
+          "什麼時候",
+          "當……時"
+        ]
+      ],
+      "analysis": "此字主要作為疑問副詞或連接詞，源自古英語 hwænne（何時），屬日耳曼語源。用來詢問時間點，或連接兩個同時發生的動作或情況。",
+      "definition": "1. At what time or on what occasion; 2. At the time that or in the event that.",
+      "example": [
+        {
+          "eng": "When will you leave?",
+          "ch": "你什麼時候要走？"
+        },
+        {
+          "eng": "I was reading when she called.",
+          "ch": "她打電話來時我正在讀書。"
+        }
+      ]
+    },
+    {
+      "eng": "where",
+      "kk": "wɛr",
+      "tense": "adv.",
+      "ch": [
+        [
+          "在哪裡",
+          "到哪裡"
+        ]
+      ],
+      "analysis": "此字為疑問與關係副詞，源自古英語 hwǣr（在何處），屬日耳曼語源。用來詢問或指稱地點、位置與方向。",
+      "definition": "1. In or to what place or position.",
+      "example": [
+        {
+          "eng": "Where do you live?",
+          "ch": "你住在哪裡？"
+        }
+      ]
+    },
+    {
+      "eng": "whether",
+      "kk": "ˈwɛðər",
+      "tense": "conj.",
+      "ch": [
+        [
+          "是否"
+        ]
+      ],
+      "analysis": "此字為連接詞，源自古英語 hwæðer（兩者中的哪一個），屬日耳曼語源。現代英語中主要用來引導兩個或多個可能選項的選擇疑問句或名詞子句，表示「是否」。",
+      "definition": "1. Expressing a doubt or choice between two alternatives.",
+      "example": [
+        {
+          "eng": "I don't know whether he will come.",
+          "ch": "我不知道他會不會來。"
+        }
+      ]
+    },
+    {
+      "eng": "which",
+      "kk": "wɪtʃ",
+      "tense": "pron.",
+      "ch": [
+        [
+          "哪一個",
+          "哪一些"
+        ]
+      ],
+      "analysis": "此字為代名詞與限定詞，源自古英語 hwylc（哪一個），由 hwi（何）與 lic（身體、樣貌）複合而成。用在有限範圍中進行選擇或指代先前提及的事物。",
+      "definition": "1. Asking for specification of one or more people or things from a definite set.",
+      "example": [
+        {
+          "eng": "Which color do you prefer?",
+          "ch": "你比較喜歡哪一個顏色？"
+        }
+      ]
+    },
+    {
+      "eng": "while",
+      "kk": "waɪl",
+      "tense": "conj.",
+      "ch": [
+        [
+          "當……的時候",
+          "然而",
+          "雖然"
+        ]
+      ],
+      "analysis": "此字為連接詞與名詞，源自古英語 hwīl（時間、一陣子），屬日耳曼語源。原意指一段時間，引申為「在……期間」，並進一步發展出表示對比或讓步的「然而、雖然」之意。",
+      "definition": "1. During the time that; at the same time as; 2. Whereas; although.",
+      "example": [
+        {
+          "eng": "Please wait here while I am gone.",
+          "ch": "我不在時請在這裡等一下。"
+        },
+        {
+          "eng": "Some people like coffee, while others prefer tea.",
+          "ch": "有些人喜歡咖啡，然而其他人比較喜歡茶。"
+        }
+      ]
+    },
+    {
+      "eng": "white",
+      "kk": "waɪt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "白色的",
+          "白淨的"
+        ]
+      ],
+      "analysis": "此字為形容詞與名詞，源自古英語 hwīt（明亮的、白色的），屬日耳曼語源。指如同雪或牛奶般、反射所有可見光的顏色。",
+      "definition": "1. Of the color of milk or fresh snow.",
+      "example": [
+        {
+          "eng": "She wore a white dress to the party.",
+          "ch": "她穿了一件白色洋裝去參加派對。"
+        }
+      ]
+    },
+    {
+      "eng": "who",
+      "kk": "hu",
+      "tense": "pron.",
+      "ch": [
+        [
+          "誰"
+        ]
+      ],
+      "analysis": "此字為主格疑問與關係代名詞，源自古英語 hwā（誰），屬日耳曼語源。專門用來指稱或詢問有生命的「人」。",
+      "definition": "1. What person or people; which person or people.",
+      "example": [
+        {
+          "eng": "Who is knocking at the door?",
+          "ch": "誰在敲門？"
+        }
+      ]
+    },
+    {
+      "eng": "whose",
+      "kk": "huz",
+      "tense": "pron.",
+      "ch": [
+        [
+          "誰的"
+        ]
+      ],
+      "analysis": "此字為所有格疑問與關係代名詞，源自古英語 hwæs（who 的所有格形式），屬日耳曼語源。用來詢問或指代某物屬於誰。",
+      "definition": "1. Belonging to or associated with which person.",
+      "example": [
+        {
+          "eng": "Whose book is this?",
+          "ch": "這是誰的書？"
+        }
+      ]
+    },
+    {
+      "eng": "why",
+      "kk": "waɪ",
+      "tense": "adv.",
+      "ch": [
+        [
+          "為什麼"
+        ]
+      ],
+      "analysis": "此字為疑問副詞，源自古英語 hwī（為什麼、因何緣故），屬日耳曼語源。用來詢問原因、理由或目的。",
+      "definition": "1. For what reason or purpose.",
+      "example": [
+        {
+          "eng": "Why are you late?",
+          "ch": "你為什麼遲到？"
+        }
+      ]
+    },
+    {
+      "eng": "wide",
+      "kk": "waɪd",
+      "tense": "adj.",
+      "ch": [
+        [
+          "寬的",
+          "廣闊的"
+        ],
+        [
+          "張開的",
+          "睜大的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自古英語 wīd（廣闊的、寬的），屬日耳曼語源。基本義指空間距離或橫向跨度大，亦可引申形容眼睛或嘴巴大張的狀態。",
+      "definition": "1. Measuring a large distance from side to side; 2. Fully open.",
+      "example": [
+        {
+          "eng": "The river is very wide at this point.",
+          "ch": "這條河在這裡非常寬。"
+        },
+        {
+          "eng": "She opened her eyes wide in surprise.",
+          "ch": "她驚訝得睜大眼睛。"
+        }
+      ]
+    },
+    {
+      "eng": "wife",
+      "kk": "waɪf",
+      "tense": "n.",
+      "ch": [
+        [
+          "妻子",
+          "太太"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古英語 wīf（女人、妻子），屬日耳曼語源。古代泛指成年女性，現代專門用來指已婚男性的女性配偶。",
+      "definition": "1. A married woman considered in relation to her spouse.",
+      "example": [
+        {
+          "eng": "He went shopping with his wife.",
+          "ch": "他和妻子一起去購物。"
+        }
+      ]
+    },
+    {
+      "eng": "will",
+      "kk": "wɪl",
+      "tense": "modal v.",
+      "ch": [
+        [
+          "將",
+          "會"
+        ],
+        [
+          "願意",
+          "決心"
+        ]
+      ],
+      "analysis": "此字兼具助動詞與實義動詞，源自古英語 willan（想要、意願）。作為助動詞時表示未來時間或預測；作為實義動詞時則保留了內心的意志、決心或願望。",
+      "definition": "1. Expressing the future tense or a strong prediction; 2. Expressing willingness, intent, or determination.",
+      "example": [
+        {
+          "eng": "It will rain tomorrow.",
+          "ch": "明天會下雨。"
+        },
+        {
+          "eng": "Where there is a will, there is a way.",
+          "ch": "有志者事竟成。"
+        }
+      ]
+    },
+    {
+      "eng": "win",
+      "kk": "wɪn",
+      "tense": "vt.",
+      "ch": [
+        [
+          "贏得",
+          "獲得"
+        ],
+        [
+          "戰勝",
+          "獲勝"
+        ]
+      ],
+      "analysis": "此字為及物與不及物動詞，源自古英語 winnan（努力爭取、奮鬥、戰勝），屬日耳曼語源。原意包含奮鬥與爭奪，現代主要指在比賽、競賽或爭取過程中獲得勝利或獎項。",
+      "definition": "1. To be successful in a contest, race, or game; 2. To secure a victory or get something as a result of effort.",
+      "example": [
+        {
+          "eng": "Our team wants to win the game.",
+          "ch": "我們隊想要贏得這場比賽。"
+        },
+        {
+          "eng": "She worked hard to win the prize.",
+          "ch": "她努力工作以贏得獎品。"
+        }
+      ]
+    },
+    {
+      "eng": "wind",
+      "kk": "wɪnd",
+      "tense": "n.",
+      "ch": [
+        [
+          "風"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古英語 wind（風），屬日耳曼語源。指大氣中自然形成的流動空氣。",
+      "definition": "1. The perceptible natural movement of the air.",
+      "example": [
+        {
+          "eng": "The wind is blowing strongly today.",
+          "ch": "今天風吹得很強勁。"
+        }
+      ]
+    },
+    {
+      "eng": "window",
+      "kk": "ˈwɪndoʊ",
+      "tense": "n.",
+      "ch": [
+        [
+          "窗戶"
+        ]
+      ],
+      "analysis": "中古英語時期源自古諾斯語 vindauga，由 vindr（風）與 auga（眼睛）複合而成，原意為「風的眼睛」。引入英語後演變為建築物或車輛上用來透光與通風的窗戶。",
+      "definition": "1. An opening in the wall or roof of a building or vehicle that can be fitted with glass to admit light and air.",
+      "example": [
+        {
+          "eng": "Please open the window for some fresh air.",
+          "ch": "請打開窗戶呼吸一點新鮮空氣。"
+        }
+      ]
+    },
+    {
+      "eng": "wise",
+      "kk": "waɪz",
+      "tense": "adj.",
+      "ch": [
+        [
+          "明智的",
+          "睿智的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自古英語 wīs（有見識的、明智的），屬日耳曼語源。指具有良好判斷力、經驗與智慧的特質。",
+      "definition": "1. Having or showing experience, knowledge, and good judgment.",
+      "example": [
+        {
+          "eng": "It was a wise decision to stay home.",
+          "ch": "待在家裡是一個明智的決定。"
+        }
+      ]
+    },
+    {
+      "eng": "wish",
+      "kk": "wɪʃ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "希望",
+          "祝願"
+        ]
+      ],
+      "analysis": "此字為及物動詞與名詞，源自古英語 wīscian（渴望、希望），屬日耳曼語源。指內心強烈渴望某事發生，或向他人表達美好的祝願。",
+      "definition": "1. To desire or want something that may or may not be possible; 2. To express a hope for someone's happiness or success.",
+      "example": [
+        {
+          "eng": "I wish I could fly.",
+          "ch": "我希望我會飛。"
+        },
+        {
+          "eng": "We wish you a Merry Christmas.",
+          "ch": "我們祝你聖誕快樂。"
+        }
+      ]
+    },
+    {
+      "eng": "with",
+      "kk": "wɪð",
+      "tense": "prep.",
+      "ch": [
+        [
+          "與……一起",
+          "具有",
+          "用"
+        ]
+      ],
+      "analysis": "此字為介系詞，源自古英語 wiþ（對抗、朝向、與……同行），屬日耳曼語源。現代英語中主要表示伴隨、擁有某種特質，或使用某種工具與方法。",
+      "definition": "1. Accompanied by; 2. Having or possessing; 3. By means of; using.",
+      "example": [
+        {
+          "eng": "I went to the cinema with my friends.",
+          "ch": "我和朋友一起去看電影。"
+        },
+        {
+          "eng": "She is a woman with great talent.",
+          "ch": "她是一位很有才華的女性。"
+        },
+        {
+          "eng": "He cut the paper with a pair of scissors.",
+          "ch": "他用剪刀剪紙。"
+        }
+      ]
+    },
+    {
+      "eng": "without",
+      "kk": "wɪˈθaʊt",
+      "tense": "prep.",
+      "ch": [
+        [
+          "沒有",
+          "缺乏"
+        ]
+      ],
+      "analysis": "此字為介系詞，由 with（帶有）與 out（在外面）在中古英語時期結合而成，原意為在外面，隨後演變為表示缺乏或不伴隨某事物的介系詞。",
+      "definition": "1. In the absence of; not having or doing something.",
+      "example": [
+        {
+          "eng": "Life without water is impossible.",
+          "ch": "沒有水的生活是不可能的。"
+        }
+      ]
+    },
+    {
+      "eng": "woman",
+      "kk": "ˈwʊmən",
+      "tense": "n.",
+      "ch": [
+        [
+          "女人",
+          "女性"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古英語 wīfmann，由 wīf（女人）與 mann（人）複合而成。隨著語音演變，字首的 wīf 弱化並合成為現代的 woman，專指成年女性。",
+      "definition": "1. An adult female human being.",
+      "example": [
+        {
+          "eng": "The woman is reading a book on the bench.",
+          "ch": "那個女人正在長凳上看書。"
+        }
+      ]
+    },
+    {
+      "eng": "wonderful",
+      "kk": "ˈwʌndərfl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "絕佳的",
+          "精彩的",
+          "奇妙的"
+        ]
+      ],
+      "analysis": "此字為形容詞，由名詞 wonder（奇觀、驚奇）加上形容詞字尾 -ful（充滿……的）組合而成。字面義為「充滿驚奇的」，引申為令人讚嘆、極為美好的事物。",
+      "definition": "1. Extremely good; inspiring delight, admiration, or wonder.",
+      "example": [
+        {
+          "eng": "We had a wonderful time at the party.",
+          "ch": "我們在派對上度過了一段美妙的時光。"
+        }
+      ]
+    },
+    {
+      "eng": "word",
+      "kk": "wɜrd",
+      "tense": "n.",
+      "ch": [
+        [
+          "字",
+          "單字",
+          "話語"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古英語 word（話語、發言、詞），屬日耳曼語源。指語言中最小的意義單位，或泛指人說出的一句話或承諾。",
+      "definition": "1. A single distinct meaningful element of speech or writing; 2. A promise or assurance.",
+      "example": [
+        {
+          "eng": "Please write down every word.",
+          "ch": "請把每一個字都寫下來。"
+        },
+        {
+          "eng": "I give you my word.",
+          "ch": "我向你保證。"
+        }
+      ]
+    },
+    {
+      "eng": "work",
+      "kk": "wɜrk",
+      "tense": "n.",
+      "ch": [
+        [
+          "工作",
+          "勞動"
+        ],
+        [
+          "作品",
+          "著作"
+        ]
+      ],
+      "analysis": "此字兼具名詞與動詞，源自古英語 weorc（勞動、活動、作品），屬日耳曼語源。基本義指為了達成目標所付出的體力或腦力勞動，亦可指藝術家或作家的文學與藝術作品。",
+      "definition": "1. Activity involving mental or physical effort done in order to achieve a purpose; 2. A literary or artistic work.",
+      "example": [
+        {
+          "eng": "He goes to work by bus every day.",
+          "ch": "他每天坐公車去上班。"
+        },
+        {
+          "eng": "This museum exhibits the works of Picasso.",
+          "ch": "這座博物館展出畢卡索的作品。"
+        }
+      ]
+    },
+    {
+      "eng": "worker",
+      "kk": "ˈwɜrkər",
+      "tense": "n.",
+      "ch": [
+        [
+          "工人",
+          "工作者"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 work（工作）加上表人的名詞字尾 -er 構成，指從事勞動或工作的人。",
+      "definition": "1. A person who does a specified job or type of work.",
+      "example": [
+        {
+          "eng": "The factory employs hundreds of workers.",
+          "ch": "這家工廠雇用數百名工人。"
+        }
+      ]
+    },
+    {
+      "eng": "world",
+      "kk": "wɜrld",
+      "tense": "n.",
+      "ch": [
+        [
+          "世界",
+          "地球"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古英語 woruld（人類居住的地球、世俗人間），由 wer（人）與 aldu（年齡、時代）複合而成，原意為「人類的時代或領域」。現代指地球及人類居住的整個宇宙環境。",
+      "definition": "1. The earth, together with all of its countries and peoples.",
+      "example": [
+        {
+          "eng": "English is spoken all over the world.",
+          "ch": "全世界都在說英語。"
+        }
+      ]
+    },
+    {
+      "eng": "worry",
+      "kk": "ˈwɜri",
+      "tense": "vt.",
+      "ch": [
+        [
+          "擔心",
+          "煩惱"
+        ]
+      ],
+      "analysis": "此字兼具及物與不及物動詞以及名詞，源自古英語 wyrgan（掐住、使窒息、折磨），屬日耳曼語源。原意指猛獸撕咬獵物或使之窒息，後來語意轉化為內心的焦慮、折磨與擔憂。",
+      "definition": "1. To feel or cause to feel anxious or troubled about actual or potential problems.",
+      "example": [
+        {
+          "eng": "Don't worry about the exam.",
+          "ch": "別擔心考試。"
+        }
+      ]
+    },
+    {
+      "eng": "write",
+      "kk": "raɪt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "寫",
+          "書寫",
+          "寫信"
+        ]
+      ],
+      "analysis": "此字為及物與不及物動詞，源自古英語 wrītan（刻、畫、書寫），屬日耳曼語源。古代日耳曼人常在木頭或石頭上刻字，因此原意與刻劃有關，現代則演變為用筆或鍵盤書寫文字。",
+      "definition": "1. To mark letters, words, or other symbols on a surface, typically with a pen, pencil, or keyboard.",
+      "example": [
+        {
+          "eng": "She is writing a letter to her parents.",
+          "ch": "她正在給父母寫信。"
+        }
+      ]
+    },
+    {
+      "eng": "writer",
+      "kk": "ˈraɪtər",
+      "tense": "n.",
+      "ch": [
+        [
+          "作家",
+          "作者"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 write（寫作）加上表人的名詞字尾 -er 構成，指以寫作為職業或創作的人。",
+      "definition": "1. A person who writes books, stories, or articles as a profession or occupation.",
+      "example": [
+        {
+          "eng": "He is a famous novelist and writer.",
+          "ch": "他是一位著名的小說家和作家。"
+        }
+      ]
+    },
+    {
+      "eng": "wrong",
+      "kk": "rɔŋ",
+      "tense": "adj.",
+      "ch": [
+        [
+          "錯誤的",
+          "不對的"
+        ],
+        [
+          "出毛病的",
+          "有問題的"
+        ]
+      ],
+      "analysis": "此字為形容詞、副詞與名詞，源自古英語 wrang（扭曲的、不正的），源自古諾斯語 rangr。原意指歪曲、不直，引申為行為或道德上的不正、判斷或答案的錯誤。",
+      "definition": "1. Not correct or true; mistaken; 2. Not working properly; amiss.",
+      "example": [
+        {
+          "eng": "You gave me the wrong answer.",
+          "ch": "你給了我錯誤的答案。"
+        },
+        {
+          "eng": "Something is wrong with my car.",
+          "ch": "我的車子好像出了點毛病。"
+        }
+      ]
+    },
+    {
+      "eng": "yard",
+      "kk": "jɑrd",
+      "tense": "n.",
+      "ch": [
+        [
+          "院子",
+          "庭院"
+        ],
+        [
+          "碼（長度單位）"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古英語 geard（圍場、庭院、住宅周圍的土地），屬日耳曼語源。另一義作為長度單位（三英尺為一碼），歷史上與圍欄或桿子的測量有關。",
+      "definition": "1. A piece of ground adjacent to a house or other building; 2. A unit of linear measure equal to 3 feet.",
+      "example": [
+        {
+          "eng": "The children are playing in the backyard.",
+          "ch": "孩子們正在後院玩耍。"
+        },
+        {
+          "eng": "The cloth is three yards long.",
+          "ch": "這塊布有三碼長。"
+        }
+      ]
+    },
+    {
+      "eng": "year",
+      "kk": "jɪr",
+      "tense": "n.",
+      "ch": [
+        [
+          "年",
+          "年度"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古英語 gēar（年），屬日耳曼語源。指地球繞太陽公轉一週所需的約365天時間週期。",
+      "definition": "1. A period of 365 or 366 days, divided into 12 months.",
+      "example": [
+        {
+          "eng": "There are twelve months in a year.",
+          "ch": "一年有十二個月。"
+        }
+      ]
+    },
+    {
+      "eng": "yellow",
+      "kk": "ˈjɛloʊ",
+      "tense": "adj.",
+      "ch": [
+        [
+          "黃色的"
+        ]
+      ],
+      "analysis": "此字為形容詞與名詞，源自古英語 geolu（黃色的），屬日耳曼語源。指如同成熟的檸檬或向日葵般的色彩。",
+      "definition": "1. Of the color between green and orange in the spectrum.",
+      "example": [
+        {
+          "eng": "She wore a bright yellow jacket.",
+          "ch": "她穿了一件亮黃色的夾克。"
+        }
+      ]
+    },
+    {
+      "eng": "yes",
+      "kk": "jɛs",
+      "tense": "interj.",
+      "ch": [
+        [
+          "是",
+          "對"
+        ]
+      ],
+      "analysis": "此字為感嘆詞，源自古英語 gēse（是的、確切如此），由 gē（如此）與 swā（確實）複合而成。用來表示肯定、同意或回答肯定句。",
+      "definition": "1. Used to give an affirmative response.",
+      "example": [
+        {
+          "eng": "Yes, I am ready to go.",
+          "ch": "是的，我準備好要走了。"
+        }
+      ]
+    },
+    {
+      "eng": "yeah",
+      "kk": "jæ",
+      "tense": "interj.",
+      "ch": [
+        [
+          "對啊",
+          "好喔"
+        ]
+      ],
+      "analysis": "此字為口語感嘆詞，是 yes 的變體與非正式口語發音形式，常出現於日常對話中。",
+      "definition": "1. Informal variant of yes.",
+      "example": [
+        {
+          "eng": "Yeah, I agree with you.",
+          "ch": "對啊，我同意你的看法。"
+        }
+      ]
+    },
+    {
+      "eng": "yesterday",
+      "kk": "ˈjɛstərˌdeɪ",
+      "tense": "adv.",
+      "ch": [
+        [
+          "昨天"
+        ]
+      ],
+      "analysis": "此字為副詞與名詞，源自古英語 giestran dæge（在昨天），由 giestran（昨天的）與 dæg（日子）複合而成。用來指今天之前的那一天。",
+      "definition": "1. On the day before today.",
+      "example": [
+        {
+          "eng": "I met him yesterday.",
+          "ch": "我昨天遇到他。"
+        }
+      ]
+    },
+    {
+      "eng": "yet",
+      "kk": "jɛt",
+      "tense": "adv.",
+      "ch": [
+        [
+          "還（沒）",
+          "已經",
+          "然而"
+        ]
+      ],
+      "analysis": "此字為副詞與連接詞，源自古英語 giet（至今、仍舊），屬日耳曼語源。常用於否定句或疑問句中表示「尚未」，或用於比較級前表示「甚至」，亦可作連接詞表示「然而」。",
+      "definition": "1. Up to now; until the present time (typically used in negative sentences or questions); 2. Nevertheless; but.",
+      "example": [
+        {
+          "eng": "He hasn't arrived yet.",
+          "ch": "他還沒到。"
+        },
+        {
+          "eng": "It is strange, yet true.",
+          "ch": "這很奇怪，卻是事實。"
+        }
+      ]
+    },
+    {
+      "eng": "you",
+      "kk": "ju",
+      "tense": "pron.",
+      "ch": [
+        [
+          "你",
+          "你們"
+        ]
+      ],
+      "analysis": "此字為代名詞，源自古英語 ēow（受格形式），在早期英語中取代了主格 gē，成為兼具主格與受格、單數與複數的第二人稱代名詞。",
+      "definition": "1. Used to refer to the person or people being addressed.",
+      "example": [
+        {
+          "eng": "How are you today?",
+          "ch": "你今天好嗎？"
+        }
+      ]
+    },
+    {
+      "eng": "your",
+      "kk": "jʊr",
+      "tense": "pron.",
+      "ch": [
+        [
+          "你的",
+          "你們的"
+        ]
+      ],
+      "analysis": "此字為所有格代名詞或限定詞，源自古英語 ēower（你們的），屬日耳曼語源。用來修飾名詞，表示屬於第二人稱所有。",
+      "definition": "1. Belonging to or associated with the person or people being addressed.",
+      "example": [
+        {
+          "eng": "Is this your umbrella?",
+          "ch": "這是你的傘嗎？"
+        }
+      ]
+    }
+  ]
+}

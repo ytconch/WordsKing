@@ -1,0 +1,1922 @@
+{
+  "level": 1,
+  "chunkIndex": 13,
+  "inputs": [
+    "new",
+    "news",
+    "newspaper",
+    "next",
+    "nice",
+    "night",
+    "no",
+    "nope",
+    "nobody",
+    "noise",
+    "noisy",
+    "noon",
+    "north",
+    "nose",
+    "not",
+    "note",
+    "nothing",
+    "notice",
+    "now",
+    "number",
+    "nurse",
+    "O.K.",
+    "OK",
+    "okay",
+    "o’clock",
+    "of",
+    "off",
+    "office",
+    "officer",
+    "often",
+    "oil",
+    "old",
+    "on",
+    "once",
+    "online",
+    "only",
+    "open",
+    "or",
+    "orange",
+    "order",
+    "other",
+    "out",
+    "outside",
+    "over",
+    "own",
+    "pack",
+    "package",
+    "page",
+    "paint",
+    "pair"
+  ],
+  "rows": [
+    {
+      "eng": "new",
+      "kk": "nu",
+      "tense": "adj.",
+      "ch": [
+        [
+          "新的",
+          "嶄新的"
+        ],
+        [
+          "新近的",
+          "最近剛出現的"
+        ],
+        [
+          "初次接觸的",
+          "不熟悉的"
+        ]
+      ],
+      "analysis": "此形容詞源自古英語 nīwe，追溯至原始日耳曼語 *niujaz，最終源自印歐語根 *néwos。現代保持高度透明的基本語義，演變出表示時間上剛完成或體驗上初次接觸的衍生義。",
+      "definition": "1. not existing before; made, introduced, or discovered recently or for the first time.; 2. already existing but recently arrived, experienced, or acquired.; 3. unfamiliar or inexperienced in a particular context or activity.",
+      "example": [
+        {
+          "eng": "They moved into a new house last week.",
+          "ch": "他們上週搬進了一棟新房子。"
+        },
+        {
+          "eng": "We have some new information regarding the project.",
+          "ch": "我們有一些關於該專案的最新消息。"
+        },
+        {
+          "eng": "This is completely new to me.",
+          "ch": "這對我來說完全是陌生且初次接觸的。"
+        }
+      ]
+    },
+    {
+      "eng": "news",
+      "kk": "nuz",
+      "tense": "n.",
+      "ch": [
+        [
+          "新聞",
+          "訊息",
+          "消息"
+        ]
+      ],
+      "analysis": "此名詞源自形容詞 new 的複數形式中世紀英語 newes（意指「新近發生的事」），透過法語 nouvelle 的語義影響，逐漸定型為單數形式的不可數名詞，專指新近報導或傳遞的資訊。",
+      "definition": "1. newly received or noteworthy information, especially about recent or important events.",
+      "example": [
+        {
+          "eng": "I heard the good news this morning.",
+          "ch": "我今天早上聽到了這個好消息。"
+        }
+      ]
+    },
+    {
+      "eng": "newspaper",
+      "kk": "ˈnuzˌpepɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "報紙"
+        ]
+      ],
+      "analysis": "此名詞為現代透明複合詞，由 news（新聞）與 paper（紙張）結合而成，指印有新聞時事的紙本出版品。",
+      "definition": "1. a printed publication consisting of folded sheets containing news, articles, advertisements, and correspondence.",
+      "example": [
+        {
+          "eng": "He reads the newspaper every morning over breakfast.",
+          "ch": "他每天早上吃早餐時都會看報紙。"
+        }
+      ]
+    },
+    {
+      "eng": "next",
+      "kk": "nɛkst",
+      "tense": "adj.",
+      "ch": [
+        [
+          "下一個的",
+          "緊接的"
+        ],
+        [
+          "鄰近的",
+          "隔壁的"
+        ]
+      ],
+      "analysis": "此形容詞源自古英語 nīhsta（nēhsta 的最高級形式，意指「最接近的」），由原級 nēah（接近）演變而來。語義從空間上的「最近」延伸至時間或順序上的「緊鄰的下一位」。",
+      "definition": "1. coming immediately after the present one in order, time, or space.; 2. situated nearest or immediately adjacent to something.",
+      "example": [
+        {
+          "eng": "The next train leaves in ten minutes.",
+          "ch": "下一班火車十分鐘後開出。"
+        },
+        {
+          "eng": "They live in the next house.",
+          "ch": "他們住在隔壁那棟房子裡。"
+        }
+      ]
+    },
+    {
+      "eng": "next",
+      "kk": "nɛkst",
+      "tense": "adv.",
+      "ch": [
+        [
+          "接下來",
+          "然後"
+        ],
+        [
+          "居後地",
+          "其次"
+        ]
+      ],
+      "analysis": "此副詞與前述形容詞同形，源自古英語最高級副詞形式，用以表示順序、時間或位置上緊接於某事之後。",
+      "definition": "1. on the occasion after the present one or after a specified event.; 2. in the position immediately following someone or something else in order.",
+      "example": [
+        {
+          "eng": "What are we going to do next?",
+          "ch": "我們接下來要做什麼？"
+        },
+        {
+          "eng": "She finished first and I came next.",
+          "ch": "她得了第一名，我緊隨其後。"
+        }
+      ]
+    },
+    {
+      "eng": "nice",
+      "kk": "naɪs",
+      "tense": "adj.",
+      "ch": [
+        [
+          "美好的",
+          "令人愉快的"
+        ],
+        [
+          "友善的",
+          "親切的"
+        ],
+        [
+          "細緻的",
+          "講究的"
+        ]
+      ],
+      "analysis": "此形容詞源自古法語 nice（意為「愚蠢的、無知的」），最終源自拉丁語 nescius（不知情的）。進入英語後經歷了劇烈的語義貶義轉褒義演變，從「愚蠢」轉為「精細、講究」，再廣泛延伸為「美好、親切」。",
+      "definition": "1. pleasant; agreeable; satisfactory.; 2. kind, friendly, and courteous.; 3. requiring careful thought, precision, or subtle distinction.",
+      "example": [
+        {
+          "eng": "We had a nice chat over coffee.",
+          "ch": "我們喝著咖啡進行了一次愉快的交談。"
+        },
+        {
+          "eng": "It was very nice of you to help me.",
+          "ch": "你幫了我真是太親切了。"
+        },
+        {
+          "eng": "There is a nice distinction between the two theories.",
+          "ch": "這兩個理論之間有一個微妙而細緻的區別。"
+        }
+      ]
+    },
+    {
+      "eng": "night",
+      "kk": "naɪt",
+      "tense": "n.",
+      "ch": [
+        [
+          "夜晚",
+          "夜間"
+        ]
+      ],
+      "analysis": "此名詞源自古英語 niht，追溯至原始日耳曼語 *nahts，與拉丁語 nox、希臘語 nyx 係同源詞，指日落至日出之間的黑暗時段。",
+      "definition": "1. the period of darkness between sunset and sunrise.",
+      "example": [
+        {
+          "eng": "The stars shine brightly at night.",
+          "ch": "星星在夜空中閃爍著光芒。"
+        }
+      ]
+    },
+    {
+      "eng": "no",
+      "kk": "no",
+      "tense": "adv.",
+      "ch": [
+        [
+          "不",
+          "不是"
+        ]
+      ],
+      "analysis": "此副詞源自古英語 nā（由 ne「不」與 ā「永遠」複合而成），用以表達否定回答或拒絕。",
+      "definition": "1. used to give a negative response, to express dissent, refusal, or denial.",
+      "example": [
+        {
+          "eng": "No, I haven't finished my homework yet.",
+          "ch": "不，我還沒寫完作業。"
+        }
+      ]
+    },
+    {
+      "eng": "no",
+      "kk": "no",
+      "tense": "det.",
+      "ch": [
+        [
+          "沒有",
+          "毫無"
+        ]
+      ],
+      "analysis": "此限定詞由副詞 no 演變而來，古英語即用於名詞前表示否定或全無數量。",
+      "definition": "1. not any; used to indicate that a person or thing is not present, available, or valid.",
+      "example": [
+        {
+          "eng": "There is no milk left in the fridge.",
+          "ch": "冰箱裡一滴牛奶也沒有了。"
+        }
+      ]
+    },
+    {
+      "eng": "nope",
+      "kk": "nop",
+      "tense": "adv.",
+      "ch": [
+        [
+          "不",
+          "不是（口語）"
+        ]
+      ],
+      "analysis": "此副詞為英語中 informal 的口語表達，由 no 結合表示肯定的 yup/yes 的發音與語調尾綴變化衍生而成，帶有隨意或戲謔色彩。",
+      "definition": "1. informal variant of no, used in casual speech.",
+      "example": [
+        {
+          "eng": "Nope, I haven't seen your keys anywhere.",
+          "ch": "不，我哪裡都沒有看到你的鑰匙。"
+        }
+      ]
+    },
+    {
+      "eng": "nobody",
+      "kk": "ˈnoˌbɑdi",
+      "tense": "pron.",
+      "ch": [
+        [
+          "沒有人"
+        ]
+      ],
+      "analysis": "此代名詞為現代透明複合詞，由 no（沒有）與 body（在此處指人）結合而成，相當於 no one。",
+      "definition": "1. no person; not anyone.",
+      "example": [
+        {
+          "eng": "Nobody knows the answer to this difficult question.",
+          "ch": "沒有人知道這個難題的答案。"
+        }
+      ]
+    },
+    {
+      "eng": "noise",
+      "kk": "nɔɪz",
+      "tense": "n.",
+      "ch": [
+        [
+          "噪音",
+          "聲響",
+          "雜音"
+        ]
+      ],
+      "analysis": "此名詞經由古法語借自拉丁語 nausea（惡心、暈船，後引申為煩擾、喧鬧），或源自拉丁語 noxia（傷害、損害）。現代英語固定指各種大聲、刺耳或不受歡迎的聲音。",
+      "definition": "1. a sound, especially one that is loud, unpleasant, or causes disturbance.",
+      "example": [
+        {
+          "eng": "I heard a strange noise coming from the garage.",
+          "ch": "我聽到從車庫傳來奇怪的聲響。"
+        }
+      ]
+    },
+    {
+      "eng": "noisy",
+      "kk": "ˈnɔɪzi",
+      "tense": "adj.",
+      "ch": [
+        [
+          "吵鬧的",
+          "喧嘩的"
+        ],
+        [
+          "充滿噪音的"
+        ]
+      ],
+      "analysis": "此形容詞由名詞 noise 加上形容詞字尾 -y 構成，現代透明構詞，指發出或充滿噪音的狀態。",
+      "definition": "1. making a lot of noise or a loud disturbance.; 2. full of or characterized by noise.",
+      "example": [
+        {
+          "eng": "The children were too noisy in the classroom.",
+          "ch": "孩子們在教室裡太吵鬧了。"
+        },
+        {
+          "eng": "It is too noisy to study in this coffee shop.",
+          "ch": "這家咖啡廳太吵雜了，無法讀書。"
+        }
+      ]
+    },
+    {
+      "eng": "noon",
+      "kk": "nun",
+      "tense": "n.",
+      "ch": [
+        [
+          "中午",
+          "正午"
+        ]
+      ],
+      "analysis": "此名詞源自古英語 nōn（源自拉丁語 nōna [hōra]，意指「第九個小時」，即羅馬日落前計算的下午三點；後在中古英語時期意義前移至正午十二點）。",
+      "definition": "1. twelve o'clock in the day; midday.",
+      "example": [
+        {
+          "eng": "We will meet for lunch at noon.",
+          "ch": "我們將在中午碰面吃午餐。"
+        }
+      ]
+    },
+    {
+      "eng": "north",
+      "kk": "nɔrθ",
+      "tense": "n.",
+      "ch": [
+        [
+          "北方",
+          "北部"
+        ]
+      ],
+      "analysis": "此名詞源自古英語 norð，追溯至原始日耳曼語 *nurþraz，為日耳曼語支固有詞彙，指面向日落時右手邊的方向。",
+      "definition": "1. the direction upwards on a standard map; the compass point corresponding to the north.",
+      "example": [
+        {
+          "eng": "Geese fly to the north in the spring.",
+          "ch": "大雁在春天向北方飛去。"
+        }
+      ]
+    },
+    {
+      "eng": "nose",
+      "kk": "noz",
+      "tense": "n.",
+      "ch": [
+        [
+          "鼻子"
+        ]
+      ],
+      "analysis": "此名詞源自古英語 nosu，追溯至原始日耳曼語 *nūsō，與拉丁語 nāsus 同源，指人類與動物面部的嗅覺與呼吸器官。",
+      "definition": "1. the part of the face containing the nostrils that is used for breathing and smelling.",
+      "example": [
+        {
+          "eng": "She has a cold and a runny nose.",
+          "ch": "她感冒了，流着鼻涕。"
+        }
+      ]
+    },
+    {
+      "eng": "not",
+      "kk": "nɑt",
+      "tense": "adv.",
+      "ch": [
+        [
+          "不",
+          "沒"
+        ]
+      ],
+      "analysis": "此副詞源自古英語 nāht 或 nāwiht（由 nā「不」與 wiht「物、東西」複合而成，原意為「毫不、一點也不」），後簡化為表示句型否定的核心副詞。",
+      "definition": "1. used with an auxiliary verb or 'to be' to form the negative.",
+      "example": [
+        {
+          "eng": "She is not coming to the party tonight.",
+          "ch": "她今晚不來參加派對。"
+        }
+      ]
+    },
+    {
+      "eng": "note",
+      "kk": "not",
+      "tense": "n.",
+      "ch": [
+        [
+          "筆記",
+          "記錄"
+        ],
+        [
+          "便條",
+          "短箋"
+        ],
+        [
+          "音符"
+        ],
+        [
+          "紙幣"
+        ]
+      ],
+      "analysis": "此名詞借自拉丁語 nota（記號、標記、註解），經由中古法語進入英語。語義由最初的「記號」引申出「筆記、備忘便條、音樂符號與紙幣」等多個日常語境。",
+      "definition": "1. a brief record of facts, topics, or thoughts written down as an aid to memory.; 2. a short informal letter or written message.; 3. a single tone of a definite pitch in music.; 4. a piece of paper money (chiefly British).",
+      "example": [
+        {
+          "eng": "Take careful notes during the lecture.",
+          "ch": "聽講座時要仔細做筆記。"
+        },
+        {
+          "eng": "He left a note on the kitchen table.",
+          "ch": "他在廚房桌上留了一張便條。"
+        },
+        {
+          "eng": "She sang the high notes with ease.",
+          "ch": "她輕鬆地唱出了高音符。"
+        },
+        {
+          "eng": "He pulled a ten-dollar note from his pocket.",
+          "ch": "他從口袋裡掏出一張十元紙幣。"
+        }
+      ]
+    },
+    {
+      "eng": "note",
+      "kk": "not",
+      "tense": "vt.",
+      "ch": [
+        [
+          "注意到",
+          "察覺"
+        ],
+        [
+          "記錄",
+          "寫下"
+        ]
+      ],
+      "analysis": "此及物動詞由名詞 note 發生轉品而來（或源自拉丁語 notare），指對某事給予關注或將其書面記下。",
+      "definition": "1. to notice or pay particular attention to something.; 2. to write down facts or details so as to remember them.",
+      "example": [
+        {
+          "eng": "Please note that the office will be closed tomorrow.",
+          "ch": "請注意明天辦公室將會關閉。"
+        },
+        {
+          "eng": "The teacher noted every student's suggestion.",
+          "ch": "老師記錄了每個學生的建議。"
+        }
+      ]
+    },
+    {
+      "eng": "nothing",
+      "kk": "ˈnʌθɪŋ",
+      "tense": "pron.",
+      "ch": [
+        [
+          "沒有東西",
+          "毫無"
+        ],
+        [
+          "不重要的人或事"
+        ]
+      ],
+      "analysis": "此代名詞為古英語複合詞，由 no（沒有）與 thing（東西）結合而成，字面義即「沒有東西」。",
+      "definition": "1. not anything; no single thing.; 2. a trivial or unimportant person, thing, or matter.",
+      "example": [
+        {
+          "eng": "There is nothing in the box.",
+          "ch": "盒子裡什麼也沒有。"
+        },
+        {
+          "eng": "His complaints are worth nothing.",
+          "ch": "他的抱怨毫無價值。"
+        }
+      ]
+    },
+    {
+      "eng": "notice",
+      "kk": "ˈnotɪs",
+      "tense": "n.",
+      "ch": [
+        [
+          "注意",
+          "察覺"
+        ],
+        [
+          "佈告",
+          "通知"
+        ],
+        [
+          "預告期"
+        ]
+      ],
+      "analysis": "此名詞借自古法語 notice，源自拉丁語 notitia（知識、熟知），由拉丁語 notus（已知的）衍生而來。",
+      "definition": "1. attention or observation.; 2. a written or printed statement giving information or warning.; 3. advance warning or notification of intention.",
+      "example": [
+        {
+          "eng": "Did you take notice of his new hairstyle?",
+          "ch": "你有注意到他的新髮型嗎？"
+        },
+        {
+          "eng": "Please read the notice on the bulletin board.",
+          "ch": "請閱讀佈告欄上的通知。"
+        },
+        {
+          "eng": "She gave two weeks' notice before leaving her job.",
+          "ch": "她在離職前兩週提出了預告（預告期）。"
+        }
+      ]
+    },
+    {
+      "eng": "notice",
+      "kk": "ˈnotɪs",
+      "tense": "vt.",
+      "ch": [
+        [
+          "注意到",
+          "察覺到"
+        ]
+      ],
+      "analysis": "此及物動詞由名詞 notice 派生（或轉品）而來，指運用感官意識到某人或某事的存在。",
+      "definition": "1. to observe, perceive, or become aware of something or someone.",
+      "example": [
+        {
+          "eng": "I didn't notice any changes in her behavior.",
+          "ch": "我沒有注意到她行為上有任何改變。"
+        }
+      ]
+    },
+    {
+      "eng": "now",
+      "kk": "naʊ",
+      "tense": "adv.",
+      "ch": [
+        [
+          "現在",
+          "此刻"
+        ],
+        [
+          "目前",
+          "眼下"
+        ]
+      ],
+      "analysis": "此副詞源自古英語 nū，追溯至原始日耳曼語 *nū，與拉丁語 nunc、希臘語 nyn 同源，表示現時發生的狀態。",
+      "definition": "1. at the present time or moment.; 2. under the present circumstances.",
+      "example": [
+        {
+          "eng": "I am busy right now.",
+          "ch": "我現在很忙。"
+        },
+        {
+          "eng": "Now that you mention it, I remember.",
+          "ch": "既然你提到了（眼下這情況），我想起來了。"
+        }
+      ]
+    },
+    {
+      "eng": "number",
+      "kk": "ˈnʌmbɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "數字",
+          "號碼"
+        ],
+        [
+          "數量",
+          "總數"
+        ]
+      ],
+      "analysis": "此名詞經由古法語 nombre 借自拉丁語 numerus（數字、總數）。現代英語中保留了數學計算用的數字編號，以及集體數量的含義。",
+      "definition": "1. an arithmetical value, word, or symbol representing a quantity or position in a series.; 2. a quantity or amount of people or things.",
+      "example": [
+        {
+          "eng": "Can you give me your telephone number?",
+          "ch": "你能給我你的電話號碼嗎？"
+        },
+        {
+          "eng": "A large number of people attended the concert.",
+          "ch": "有大量的人參加了這場音樂會。"
+        }
+      ]
+    },
+    {
+      "eng": "number",
+      "kk": "ˈnʌmbɚ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "編號",
+          "給……標號"
+        ],
+        [
+          "總計達"
+        ]
+      ],
+      "analysis": "此及物動詞由名詞 number 派生而來，指依順序為項目編上號碼，或計算總數。",
+      "definition": "1. to assign a number to each of a series of things.; 2. to amount to a particular total.",
+      "example": [
+        {
+          "eng": "Please number the pages of your essay.",
+          "ch": "請給你的論文頁面編上號碼。"
+        },
+        {
+          "eng": "The guests numbered over one hundred.",
+          "ch": "賓客總數超過了一百人。"
+        }
+      ]
+    },
+    {
+      "eng": "nurse",
+      "kk": "nɝs",
+      "tense": "n.",
+      "ch": [
+        [
+          "護士",
+          "護理師"
+        ]
+      ],
+      "analysis": "此名詞經由古法語 norrice 借自拉丁語 nutricia（女乳母、保姆），其拉丁語字根 nutrire 意為「哺育、滋養」。進入英語後，意義由最初的保姆演變為專職照顧病患的專業護理人員。",
+      "definition": "1. a person trained to care for the sick or infirm, especially in a hospital.",
+      "example": [
+        {
+          "eng": "The nurse checked the patient's temperature.",
+          "ch": "護士幫病人量了體溫。"
+        }
+      ]
+    },
+    {
+      "eng": "nurse",
+      "kk": "nɝs",
+      "tense": "vt.",
+      "ch": [
+        [
+          "護理",
+          "照料",
+          "看護"
+        ],
+        [
+          "懷抱（情感等）",
+          "悉心照料（植物等）"
+        ]
+      ],
+      "analysis": "此及物動詞由名詞 nurse 派生而來，原意為哺乳與撫育，後引申為照料傷患、細心呵護植物或在心中懷有某種強烈情緒。",
+      "definition": "1. to care for a sick or injured person.; 2. to foster or cherish a feeling, or to tend something with care.",
+      "example": [
+        {
+          "eng": "She stayed home to nurse her sick child.",
+          "ch": "她留在家裡照料生病的孩子。"
+        },
+        {
+          "eng": "He has been nursing a grudge against his boss for months.",
+          "ch": "他對老闆懷恨在心已經好幾個月了。"
+        }
+      ]
+    },
+    {
+      "eng": "O.K.",
+      "kk": "ˌoˈke",
+      "tense": "adj.",
+      "ch": [
+        [
+          "好辦的",
+          "滿意的"
+        ],
+        [
+          "沒問題的",
+          "平安的"
+        ]
+      ],
+      "analysis": "此形容詞為美式俚語首字母縮寫俚語（通常被認為源自 oll korrect ── \"all correct\" 的拼寫變體）在19世紀中葉風靡後定型。用以形容事物令人滿意、安全無虞。",
+      "definition": "1. satisfactory, acceptable, or adequate.; 2. safe, well, or unimpaired.",
+      "example": [
+        {
+          "eng": "The weather is O.K. for a picnic today.",
+          "ch": "今天去野餐的天氣還可以（令人滿意）。"
+        },
+        {
+          "eng": "Are you O.K. after the fall?",
+          "ch": "你摔倒後沒事吧？"
+        }
+      ]
+    },
+    {
+      "eng": "O.K.",
+      "kk": "ˌoˈke",
+      "tense": "adv.",
+      "ch": [
+        [
+          "可以",
+          "好地"
+        ]
+      ],
+      "analysis": "此副詞由形容詞 O.K. 延伸，用作口語贊同或許可。",
+      "definition": "1. in a satisfactory manner; well enough.",
+      "example": [
+        {
+          "eng": "The project is going O.K. so far.",
+          "ch": "這個專案目前進展得還可以。"
+        }
+      ]
+    },
+    {
+      "eng": "O.K.",
+      "kk": "ˌoˈke",
+      "tense": "interj.",
+      "ch": [
+        [
+          "好",
+          "行",
+          "沒問題"
+        ]
+      ],
+      "analysis": "此感嘆詞為 O.K. 最廣泛的用法，表示同意、確認或準備好進行下一步。",
+      "definition": "1. used to express agreement, acceptance, or approval.",
+      "example": [
+        {
+          "eng": "O.K., let's meet at the station at two.",
+          "ch": "好，我們兩點在車站碰面。"
+        }
+      ]
+    },
+    {
+      "eng": "OK",
+      "kk": "ˌoˈke",
+      "tense": "adj.",
+      "ch": [
+        [
+          "好辦的",
+          "滿意的"
+        ],
+        [
+          "沒問題的",
+          "平安的"
+        ]
+      ],
+      "analysis": "此為 O.K. 的無標點拼寫形式，詞源與詞義完全相同。",
+      "definition": "1. satisfactory, acceptable, or adequate.; 2. safe, well, or unimpaired.",
+      "example": [
+        {
+          "eng": "Everything is OK with the plan.",
+          "ch": "這項計畫一切順利（沒問題）。"
+        }
+      ]
+    },
+    {
+      "eng": "OK",
+      "kk": "ˌoˈke",
+      "tense": "adv.",
+      "ch": [
+        [
+          "可以",
+          "好地"
+        ]
+      ],
+      "analysis": "此為 O.K. 的無標點拼寫形式。",
+      "definition": "1. in a satisfactory manner; well enough.",
+      "example": [
+        {
+          "eng": "She sings OK, but she isn't a professional.",
+          "ch": "她唱得還可以，但她不是專業歌手。"
+        }
+      ]
+    },
+    {
+      "eng": "OK",
+      "kk": "ˌoˈke",
+      "tense": "interj.",
+      "ch": [
+        [
+          "好",
+          "行",
+          "沒問題"
+        ]
+      ],
+      "analysis": "此為 O.K. 的無標點拼寫形式。",
+      "definition": "1. used to express agreement, acceptance, or approval.",
+      "example": [
+        {
+          "eng": "OK, I will help you with your homework.",
+          "ch": "好，我會幫你寫作業。"
+        }
+      ]
+    },
+    {
+      "eng": "okay",
+      "kk": "oˈke",
+      "tense": "adj.",
+      "ch": [
+        [
+          "好辦的",
+          "滿意的"
+        ],
+        [
+          "沒問題的",
+          "平安的"
+        ]
+      ],
+      "analysis": "此為 O.K. 的完整拼寫形式（phonetic spelling），在現代英語中作為正式或非正式的同義詞廣泛使用。",
+      "definition": "1. satisfactory, acceptable, or adequate.; 2. safe, well, or unimpaired.",
+      "example": [
+        {
+          "eng": "His performance was okay, but not brilliant.",
+          "ch": "他的表現還可以，但算不上精采。"
+        },
+        {
+          "eng": "Are you feeling okay today?",
+          "ch": "你今天身體感覺還好嗎？"
+        }
+      ]
+    },
+    {
+      "eng": "okay",
+      "kk": "oˈke",
+      "tense": "adv.",
+      "ch": [
+        [
+          "可以",
+          "好地"
+        ]
+      ],
+      "analysis": "此為 okay 的副詞用法。",
+      "definition": "1. in a satisfactory manner; well enough.",
+      "example": [
+        {
+          "eng": "The car is running okay after the repair.",
+          "ch": "車子修理過後開起來還算正常。"
+        }
+      ]
+    },
+    {
+      "eng": "okay",
+      "kk": "oˈke",
+      "tense": "interj.",
+      "ch": [
+        [
+          "好",
+          "行",
+          "沒問題"
+        ]
+      ],
+      "analysis": "此為 okay 的感嘆詞用法，表同意與接受。",
+      "definition": "1. used to express agreement, acceptance, or approval.",
+      "example": [
+        {
+          "eng": "Okay, let's start the meeting now.",
+          "ch": "好，我們現在開始開會吧。"
+        }
+      ]
+    },
+    {
+      "eng": "o’clock",
+      "kk": "əˈklɑk",
+      "tense": "adv.",
+      "ch": [
+        [
+          "……點鐘"
+        ]
+      ],
+      "analysis": "此副詞縮寫自中古英語 of the clock（意指「屬於鐘面上的時刻」），經由省略 of 與 the 後固定合寫為 o'clock，專用於整點時間的表達。",
+      "definition": "1. used to specify a particular hour of the day as measured by a clock.",
+      "example": [
+        {
+          "eng": "The museum opens at nine o'clock.",
+          "ch": "博物館在九點鐘開門。"
+        }
+      ]
+    },
+    {
+      "eng": "of",
+      "kk": "ʌv",
+      "tense": "prep.",
+      "ch": [
+        [
+          "……的（表所有格或屬性）",
+          "由……組成"
+        ],
+        [
+          "關於",
+          "對於"
+        ],
+        [
+          "屬於",
+          "出自"
+        ]
+      ],
+      "analysis": "此介系詞源自古英語 of（意為從、離開、關於），與 off 同源。在日耳曼語族及後續演變中，取代了部分拉丁語屬格的功能，成為表達所有權、部分與整體關係的核心介系詞。",
+      "definition": "1. expressing the relationship between a part and a whole, or possession/attribute.; 2. concerning or about.; 3. belonging to or originating from.",
+      "example": [
+        {
+          "eng": "She is a friend of mine.",
+          "ch": "她是我的朋友之一。"
+        },
+        {
+          "eng": "We talked of many things.",
+          "ch": "我們談到了許多事情。"
+        },
+        {
+          "eng": "He is a man of great courage.",
+          "ch": "他是一個極具勇氣的人。"
+        }
+      ]
+    },
+    {
+      "eng": "off",
+      "kk": "ɔf",
+      "tense": "adv.",
+      "ch": [
+        [
+          "離開",
+          "脫落",
+          "關閉"
+        ]
+      ],
+      "analysis": "此副詞源自古英語 of 的變體 ōf（意為離開、遠離），與介系詞 of 在歷史上同源，後來在語音和拼寫上分化，專門表示分離、中斷或運作停止。",
+      "definition": "1. away from a place or position; down or off.; 2. so as to cease operation or connection.",
+      "example": [
+        {
+          "eng": "He took off his wet jacket.",
+          "ch": "他脫下了濕夾克。"
+        },
+        {
+          "eng": "Please turn off the lights when you leave.",
+          "ch": "離開時請把燈關掉。"
+        }
+      ]
+    },
+    {
+      "eng": "off",
+      "kk": "ɔf",
+      "tense": "prep.",
+      "ch": [
+        [
+          "離開",
+          "脫離",
+          "距離……不遠"
+        ]
+      ],
+      "analysis": "此介系詞由副詞 off 派生，用來表示從某個表面或位置脫離，或位於鄰近水域及海岸的附近。",
+      "definition": "1. away from; down from.; 2. situated at a short distance from the coast or shore of.",
+      "example": [
+        {
+          "eng": "He fell off the bicycle and hurt his knee.",
+          "ch": "他從腳踏車上摔下來，傷了膝蓋。"
+        },
+        {
+          "eng": "The ship anchored off the coast.",
+          "ch": "船隻停泊在離海岸不遠的海面上。"
+        }
+      ]
+    },
+    {
+      "eng": "office",
+      "kk": "ˈɔfɪs",
+      "tense": "n.",
+      "ch": [
+        [
+          "辦公室",
+          "營業處"
+        ],
+        [
+          "公職",
+          "職位"
+        ]
+      ],
+      "analysis": "此名詞經由古法語借自拉丁語 officium（職責、服務、官方場所），由 op-（來自 opus「工作」）與 facere（做）複合而成。意義由最初的「職責所在」演變為「辦公場所」以及「政府公職」。",
+      "definition": "1. a room, set of rooms, or building where business, professional duties, or bureaucratic work is carried out.; 2. a position of authority or service, especially in government.",
+      "example": [
+        {
+          "eng": "She works in an office in the city center.",
+          "ch": "她在市中心的一間辦公室工作。"
+        },
+        {
+          "eng": "He assumed office as president last year.",
+          "ch": "他去年就任總統職位。"
+        }
+      ]
+    },
+    {
+      "eng": "officer",
+      "kk": "ˈɔfɪsɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "官員",
+          "高級職員"
+        ],
+        [
+          "警官",
+          "軍官"
+        ]
+      ],
+      "analysis": "此名詞經由古法語 officer 借自中世紀拉丁語 officiarius（持有 office 職位的人），由 office 加上名詞字尾 -er 構成。",
+      "definition": "1. a holder of a public, civil, or corporate office or position of authority.; 2. a member of the police force or military holding a rank of authority.",
+      "example": [
+        {
+          "eng": "Company officers will meet to discuss the budget.",
+          "ch": "公司高階主管將開會討論預算。"
+        },
+        {
+          "eng": "The police officer directed traffic at the intersection.",
+          "ch": "交警在十字路口指揮交通。"
+        }
+      ]
+    },
+    {
+      "eng": "often",
+      "kk": "ˈɔfən",
+      "tense": "adv.",
+      "ch": [
+        [
+          "經常",
+          "常常"
+        ]
+      ],
+      "analysis": "此副詞源自古英語 oft（頻率副詞），後加上副詞性綴音或比較級後綴演變成 ofte，近代英語中去除了尾音發音，用以表示頻繁發生的動作或狀態。",
+      "definition": "1. frequently; many times on different occasions.",
+      "example": [
+        {
+          "eng": "We often go for a walk after dinner.",
+          "ch": "我們晚餐後經常去散步。"
+        }
+      ]
+    },
+    {
+      "eng": "oil",
+      "kk": "ɔɪl",
+      "tense": "n.",
+      "ch": [
+        [
+          "油",
+          "石油"
+        ],
+        [
+          "潤滑油"
+        ]
+      ],
+      "analysis": "此名詞經由古法語 oile 借自拉丁語 oleum（橄欖油），最終源自希臘語 elaion（橄欖、橄欖油）。語義由古代的植物油延伸至現代的礦物石油與各類工業潤滑油。",
+      "definition": "1. a viscous liquid derived from petroleum, or plant/animal fats, used for fuel, lubrication, or cooking.; 2. petroleum.",
+      "example": [
+        {
+          "eng": "The car needs an oil change.",
+          "ch": "這輛車需要換機油（潤滑油）。"
+        },
+        {
+          "eng": "Global oil prices have risen sharply this month.",
+          "ch": "全球石油價格這個月急劇上漲。"
+        }
+      ]
+    },
+    {
+      "eng": "old",
+      "kk": "old",
+      "tense": "adj.",
+      "ch": [
+        [
+          "老的",
+          "年老的",
+          "舊的"
+        ],
+        [
+          "……歲的"
+        ]
+      ],
+      "analysis": "此形容詞源自古英語 eald，追溯至原始日耳曼語 *aldaz（長大的、成熟的），與拉丁語 alere（撫養、長大）有遠親關係。現代英語用以指人或物的年齡高、使用時間長久，或用於特定年齡表達。",
+      "definition": "1. having lived for a long time; advanced in years, or used for a long time.; 2. of a specified age.",
+      "example": [
+        {
+          "eng": "He lives with his old parents.",
+          "ch": "他和年邁的父母住在一起。"
+        },
+        {
+          "eng": "My sister is ten years old.",
+          "ch": "我妹妹十歲。"
+        }
+      ]
+    },
+    {
+      "eng": "on",
+      "kk": "ɑn",
+      "tense": "adv.",
+      "ch": [
+        [
+          "向前",
+          "持續地",
+          "運作中"
+        ]
+      ],
+      "analysis": "此副詞由介系詞 on 衍生，表動作持續進行或設備開啟運作。",
+      "definition": "1. so as to cover, be attached, or be in operation.",
+      "example": [
+        {
+          "eng": "Please keep on working while I am away.",
+          "ch": "我不在時請繼續工作。"
+        },
+        {
+          "eng": "Leave the heater on; it's freezing.",
+          "ch": "讓暖氣開著（運作中）；外面冷極了。"
+        }
+      ]
+    },
+    {
+      "eng": "on",
+      "kk": "ɑn",
+      "tense": "prep.",
+      "ch": [
+        [
+          "在……上面",
+          "靠在……上"
+        ],
+        [
+          "關於",
+          "針對"
+        ],
+        [
+          "在……時候（表日期或星期）"
+        ]
+      ],
+      "analysis": "此介系詞源自古英語 on（意為在……之上、向著），與古高地德語 ana 同源。現代英語中作為表示表面接觸、主題關聯及特定時間點的核心介系詞。",
+      "definition": "1. physically in contact with and supported by a surface.; 2. concerning or about a particular topic.; 3. on the occasion of a particular day or date.",
+      "example": [
+        {
+          "eng": "The book is on the desk.",
+          "ch": "書在書桌上。"
+        },
+        {
+          "eng": "She gave a lecture on modern history.",
+          "ch": "她做了一場關於現代歷史的講座。"
+        },
+        {
+          "eng": "We have a test on Monday.",
+          "ch": "我們星期一有一個考試。"
+        }
+      ]
+    },
+    {
+      "eng": "once",
+      "kk": "wʌns",
+      "tense": "adv.",
+      "ch": [
+        [
+          "一次",
+          "曾經",
+          "一度"
+        ]
+      ],
+      "analysis": "此副詞源自古英語 ānnes（由數詞 ān「一」加上屬格綴音 -es 演變而來，意為「在一次的時間裡」），經音變成為 once，兼具「一次」與「過去某個時候」雙重義。",
+      "definition": "1. on one occasion only.; 2. at a time in the past; formerly.",
+      "example": [
+        {
+          "eng": "I go to the gym once a week.",
+          "ch": "我一週去一次健身房。"
+        },
+        {
+          "eng": "This building was once a movie theater.",
+          "ch": "這棟建築物曾經是一家電影院。"
+        }
+      ]
+    },
+    {
+      "eng": "online",
+      "kk": "ˈɑnˌlaɪn",
+      "tense": "adj.",
+      "ch": [
+        [
+          "線上聯網的",
+          "網路上的"
+        ]
+      ],
+      "analysis": "此形容詞為現代透明複合詞，由 on（接通、運行中）與 line（線路、通訊鏈路）結合而成，原用於電信與電腦網路術語，現代廣泛指透過網際網路進行的活動或服務。",
+      "definition": "1. controlled by or connected to another computer or to a network; accessible via the internet.",
+      "example": [
+        {
+          "eng": "She bought some books through an online bookstore.",
+          "ch": "她透過一家網路書店買了一些書。"
+        }
+      ]
+    },
+    {
+      "eng": "online",
+      "kk": "ˈɑnˌlaɪn",
+      "tense": "adv.",
+      "ch": [
+        [
+          "線上地",
+          "在網路上地"
+        ]
+      ],
+      "analysis": "此副詞由線上複合形容詞轉用，修飾連線至網際網路的動作狀態。",
+      "definition": "1. while connected to the internet or a computer network.",
+      "example": [
+        {
+          "eng": "You can watch the movie online for free.",
+          "ch": "你可以免費在線上觀看這部電影。"
+        }
+      ]
+    },
+    {
+      "eng": "only",
+      "kk": "ˈonli",
+      "tense": "adj.",
+      "ch": [
+        [
+          "唯一的",
+          "僅有的"
+        ]
+      ],
+      "analysis": "此形容詞由副詞 only 轉用，修飾名詞表示獨一無二或無其他替代者。",
+      "definition": "1. sole; single; being the one and no other.",
+      "example": [
+        {
+          "eng": "She is the only child in her family.",
+          "ch": "她是家裡的獨生女。"
+        }
+      ]
+    },
+    {
+      "eng": "only",
+      "kk": "ˈonli",
+      "tense": "adv.",
+      "ch": [
+        [
+          "僅僅",
+          "只有",
+          "才"
+        ]
+      ],
+      "analysis": "此副詞源自古英語 ānlic（由 ān「一」與 -lic「如……的」複合而成，原意為「單獨地、唯一的」），後演變為現代限定範圍的核心副詞。",
+      "definition": "1. and no one or nothing more besides; exclusively.",
+      "example": [
+        {
+          "eng": "Only members are allowed to enter the club.",
+          "ch": "只有會員才被允許進入俱樂部。"
+        }
+      ]
+    },
+    {
+      "eng": "open",
+      "kk": "ˈopən",
+      "tense": "vt.",
+      "ch": [
+        [
+          "打開",
+          "開啟"
+        ],
+        [
+          "開設",
+          "創辦"
+        ]
+      ],
+      "analysis": "此及物動詞由形容詞 open 派生（或源自日耳曼語動詞詞根），指解除關閉狀態或成立新機構。",
+      "definition": "1. to move or adjust something so it is no longer shut or blocked.; 2. to start, establish, or set up a business or institution.",
+      "example": [
+        {
+          "eng": "She opened the door to welcome the guests.",
+          "ch": "她打開門歡迎客人的到來。"
+        },
+        {
+          "eng": "They plan to open a new restaurant downtown.",
+          "ch": "他們計畫在市中心開一家新餐廳。"
+        }
+      ]
+    },
+    {
+      "eng": "open",
+      "kk": "ˈopən",
+      "tense": "adj.",
+      "ch": [
+        [
+          "開著的",
+          "敞開的"
+        ],
+        [
+          "營業的",
+          "開放的"
+        ],
+        [
+          "坦誠的",
+          "無遮蔽的"
+        ]
+      ],
+      "analysis": "此形容詞源自古英語 open，追溯至原始日耳曼語 *upana（向上、向外），指空間、門窗沒有關閉，或公共場所對外營業，亦可引申形容心胸坦蕩開明。",
+      "definition": "1. not closed, locked, or fastened; allowing access.; 2. ready for business or public use.; 3. frank, candid, or unobstructed.",
+      "example": [
+        {
+          "eng": "Please leave the window open for some fresh air.",
+          "ch": "請把窗戶開著，通通新鮮空氣。"
+        },
+        {
+          "eng": "The supermarket is open twenty-four hours a day.",
+          "ch": "這家超級市場二十四小時營業。"
+        },
+        {
+          "eng": "He was very open about his past mistakes.",
+          "ch": "他對自己過去的錯誤非常坦誠。"
+        }
+      ]
+    },
+    {
+      "eng": "or",
+      "kk": "ɔr",
+      "tense": "conj.",
+      "ch": [
+        [
+          "或者",
+          "還是"
+        ],
+        [
+          "否則",
+          "要不然"
+        ]
+      ],
+      "analysis": "此連接詞源自古英語 oþþe（意為或是），在中古英語時期演變為 or（常與 either 連用），用以連接兩個或多個互選的選項或條件。",
+      "definition": "1. used to link alternatives or possibilities.; 2. used to indicate consequence if the first condition is not met (otherwise).",
+      "example": [
+        {
+          "eng": "Would you like to drink tea or coffee?",
+          "ch": "你想喝茶還是咖啡？"
+        },
+        {
+          "eng": "Hurry up, or you will miss the bus.",
+          "ch": "快一點，否則你會錯過公車。"
+        }
+      ]
+    },
+    {
+      "eng": "orange",
+      "kk": "ˈɔrɪndʒ",
+      "tense": "n.",
+      "ch": [
+        [
+          "橙",
+          "橘子"
+        ],
+        [
+          "橙色",
+          "橘黃色"
+        ]
+      ],
+      "analysis": "此名詞透過中古法語 orenge，經由阿拉伯語 nāranj、波斯語 nārang，最終源自梵語 nāraṅga（橙樹）。歐洲語言傳入時語義由果實名稱推廣至顏色名稱。",
+      "definition": "1. a round juicy citrus fruit with a tough bright reddish-yellow rind.; 2. a bright reddish-yellow color like that of the skin of a ripe orange.",
+      "example": [
+        {
+          "eng": "She peeled an orange and shared it with me.",
+          "ch": "她剝了一個橘子並分給我吃。"
+        },
+        {
+          "eng": "He wore a bright orange jacket.",
+          "ch": "他穿了一件亮橘色的夾克。"
+        }
+      ]
+    },
+    {
+      "eng": "order",
+      "kk": "ˈɔrdɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "順序",
+          "次序"
+        ],
+        [
+          "整然",
+          "治安",
+          "秩序"
+        ],
+        [
+          "命令",
+          "指示"
+        ],
+        [
+          "訂單",
+          "點菜"
+        ]
+      ],
+      "analysis": "此名詞經由古法語 order 借自拉丁語 ōrōnem（ōrdō 的賓格形式，意為行列、次序）。在英語中演化出空間序列、社會秩序、權威命令以及商業訂單等多重核心意義。",
+      "definition": "1. the arrangement or disposition of people or things in relation to each other according to a particular sequence, pattern, or method.; 2. a state of peace, lawfulness, and proper organization.; 3. an authoritative instruction or command.; 4. a request for goods, services, or food to be made or supplied.",
+      "example": [
+        {
+          "eng": "The names are listed in alphabetical order.",
+          "ch": "這些名字是按字母順序排列的。"
+        },
+        {
+          "eng": "The police were called to restore public order.",
+          "ch": "警方被召集來恢復公共秩序。"
+        },
+        {
+          "eng": "The captain gave the order to abandon ship.",
+          "ch": "船長下達了棄船的命令。"
+        },
+        {
+          "eng": "The waiter came to take our order.",
+          "ch": "服務生過來為我們點菜（記錄訂單）。"
+        }
+      ]
+    },
+    {
+      "eng": "order",
+      "kk": "ˈɔrdɚ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "命令",
+          "指示"
+        ],
+        [
+          "訂購",
+          "點（餐、飲）"
+        ]
+      ],
+      "analysis": "此及物動詞由名詞 order 派生（或源自拉丁語 ōrdināre），指發出權威指令或向商家訂購商品與餐點。",
+      "definition": "1. to give an authoritative instruction or direction to someone.; 2. to request something to be made, supplied, or served.",
+      "example": [
+        {
+          "eng": "The general ordered his troops to advance.",
+          "ch": "將軍命令他的部隊向前推進。"
+        },
+        {
+          "eng": "We ordered a pizza and some drinks.",
+          "ch": "我們點了一個披薩和一些飲料。"
+        }
+      ]
+    },
+    {
+      "eng": "other",
+      "kk": "ˈʌðɚ",
+      "tense": "adj.",
+      "ch": [
+        [
+          "其他的",
+          "別的"
+        ],
+        [
+          "另一方的"
+        ]
+      ],
+      "analysis": "此形容詞源自古英語 ōðer，追溯至原始日耳曼語 *anþaraz（第二個、其它的），與拉丁語 alter 有共同的印歐語根，用以指代清單中未列出的剩餘人或物。",
+      "definition": "1. used to refer to a person or thing that is different or distinct from one already mentioned or known.; 2. the remaining one of two or more things.",
+      "example": [
+        {
+          "eng": "Do you have any other questions?",
+          "ch": "你還有其他問題嗎？"
+        },
+        {
+          "eng": "He held his bag in the other hand.",
+          "ch": "他把包包拿在另一隻手上。"
+        }
+      ]
+    },
+    {
+      "eng": "out",
+      "kk": "aʊt",
+      "tense": "adv.",
+      "ch": [
+        [
+          "在外面",
+          "出局",
+          "熄滅",
+          "出版"
+        ]
+      ],
+      "analysis": "此副詞源自古英語 ūt，追溯至原始日耳曼語 *ūtaz（向外、在外），與拉丁語 ut「如」等無直接親屬但為日耳曼語族核心副詞，表示位置向外、離開內部或運動結束。",
+      "definition": "1. away from the inside or center; outdoors; not at home or work.; 2. no longer burning, lighted, or operating.; 3. published or made available.",
+      "example": [
+        {
+          "eng": "He went out for a breath of fresh air.",
+          "ch": "他出去呼吸新鮮空氣了。"
+        },
+        {
+          "eng": "The campfire went out during the night.",
+          "ch": "營火在夜間熄滅了。"
+        },
+        {
+          "eng": "Her new book is finally out.",
+          "ch": "她的新書終於出版了。"
+        }
+      ]
+    },
+    {
+      "eng": "outside",
+      "kk": "ˈaʊtˈsaɪd",
+      "tense": "adj.",
+      "ch": [
+        [
+          "外面的",
+          "戶外的"
+        ],
+        [
+          "微乎其微的"
+        ]
+      ],
+      "analysis": "此形容詞由 outside 複合詞轉用，修飾外部的實體或極度邊緣的可能性。",
+      "definition": "1. situated on the outside or exterior.; 2. remote or unlikely (e.g., outside chance).",
+      "example": [
+        {
+          "eng": "They painted the outside walls of the house.",
+          "ch": "他們漆了房子的外牆。"
+        },
+        {
+          "eng": "We still have an outside chance of winning.",
+          "ch": "我們仍然有一線（微乎其微的）獲勝機會。"
+        }
+      ]
+    },
+    {
+      "eng": "outside",
+      "kk": "ˈaʊtˈsaɪd",
+      "tense": "adv.",
+      "ch": [
+        [
+          "在戶外",
+          "在外面地"
+        ]
+      ],
+      "analysis": "此副詞由 outside 複合詞直接轉用，指空間上處於室外或露天環境。",
+      "definition": "1. out of doors; in or into the open air.",
+      "example": [
+        {
+          "eng": "It is raining heavily outside.",
+          "ch": "外面雨下得很大。"
+        }
+      ]
+    },
+    {
+      "eng": "outside",
+      "kk": "ˈaʊtˈsaɪd",
+      "tense": "prep.",
+      "ch": [
+        [
+          "在……外表面",
+          "在……外面"
+        ]
+      ],
+      "analysis": "此介系詞為現代透明複合詞，由 out（外）與 side（側面、邊界）結合而成，指位於建築物、圍欄或特定區域的外圍。",
+      "definition": "1. situated on or moving to the exterior or outer side of.",
+      "example": [
+        {
+          "eng": "There is a taxi waiting outside the hotel.",
+          "ch": "飯店外面有一輛計程車在等候。"
+        }
+      ]
+    },
+    {
+      "eng": "over",
+      "kk": "ˈovɚ",
+      "tense": "adv.",
+      "ch": [
+        [
+          "翻轉",
+          "結束",
+          "從頭到尾"
+        ],
+        [
+          "跨越過去"
+        ]
+      ],
+      "analysis": "此副詞由介系詞 over 派生，用以表示物體翻轉、活動告終或從一端移到另一端。",
+      "definition": "1. so as to be upside down or in a different position; finished.; 2. across a space or barrier.",
+      "example": [
+        {
+          "eng": "Turn the page over to read the next question.",
+          "ch": "把頁面翻過去看下一個問題。"
+        },
+        {
+          "eng": "The class is over for today.",
+          "ch": "今天的課已經結束了。"
+        }
+      ]
+    },
+    {
+      "eng": "over",
+      "kk": "ˈovɚ",
+      "tense": "prep.",
+      "ch": [
+        [
+          "在……上方（高於且可能懸空）",
+          "越過"
+        ],
+        [
+          "多於",
+          "超過"
+        ],
+        [
+          "在……期間"
+        ]
+      ],
+      "analysis": "此介系詞源自古英語 ofer，追溯至原始日耳曼語 *ufer（高於、在……之上），與拉丁語 super 同源。表示高於某物的水準、橫跨空間或數量的超越。",
+      "definition": "1. extending above, across, or covering something else.; 2. in excess of; more than.; 3. throughout the duration of.",
+      "example": [
+        {
+          "eng": "A flock of birds flew over the lake.",
+          "ch": "一群鳥飛越湖面上空。"
+        },
+        {
+          "eng": "The cost of the repair was over two hundred dollars.",
+          "ch": "修理費超過了兩百美元。"
+        },
+        {
+          "eng": "We discussed the matter over dinner.",
+          "ch": "我們在晚餐期間討論了這件事。"
+        }
+      ]
+    },
+    {
+      "eng": "own",
+      "kk": "on",
+      "tense": "vt.",
+      "ch": [
+        [
+          "擁有",
+          "具備"
+        ]
+      ],
+      "analysis": "此及物動詞源自古英語 āgan（意為持有、擁有），在日耳曼語族中為古老的表權屬動詞，現代專指合法擁有產權或所有權。",
+      "definition": "1. to have something as one's own; possess legally.",
+      "example": [
+        {
+          "eng": "They own a beautiful house in the countryside.",
+          "ch": "他們在鄉下擁有一棟美麗的房子。"
+        }
+      ]
+    },
+    {
+      "eng": "own",
+      "kk": "on",
+      "tense": "adj.",
+      "ch": [
+        [
+          "自己的",
+          "本人的"
+        ]
+      ],
+      "analysis": "此形容詞源自古英語 āgen（原為動詞 āgan「擁有」的過去分詞），追溯至原始日耳曼語 *aignaz，專門用來加強所有格的語氣，強調屬於某人獨有。",
+      "definition": "1. belonging to oneself or itself; used to emphasize that something belongs or relates to a particular person or thing.",
+      "example": [
+        {
+          "eng": "She wants to have her own car.",
+          "ch": "她想要擁有一輛自己的汽車。"
+        }
+      ]
+    },
+    {
+      "eng": "pack",
+      "kk": "pæk",
+      "tense": "n.",
+      "ch": [
+        [
+          "包裹",
+          "小包"
+        ],
+        [
+          "背包",
+          "行囊"
+        ],
+        [
+          "群",
+          "狼群"
+        ]
+      ],
+      "analysis": "此名詞源自中世紀英語 pack（源自日耳曼語族或荷蘭語 pache），原指打包好的貨物包裹，後引申出背包以及動物群落的集體稱謂。",
+      "definition": "1. a bundle of items packed or tied together for carrying.; 2. a rucksack or backpack.; 3. a group of wild animals, such as wolves or dogs, hunting together.",
+      "example": [
+        {
+          "eng": "He bought a pack of cigarettes at the store.",
+          "ch": "他在店裡買了一包香菸。"
+        },
+        {
+          "eng": "She carried a heavy pack on her hiking trip.",
+          "ch": "她在登山旅行時背了一個沉重的背包。"
+        },
+        {
+          "eng": "A pack of wolves roamed through the snowy woods.",
+          "ch": "一群狼在雪地樹林中徘徊。"
+        }
+      ]
+    },
+    {
+      "eng": "pack",
+      "kk": "pæk",
+      "tense": "vt.",
+      "ch": [
+        [
+          "打包",
+          "收拾（行李）"
+        ],
+        [
+          "裝箱",
+          "塞滿"
+        ]
+      ],
+      "analysis": "此及物動詞由名詞 pack 派生（或源自日耳曼語動詞），指將物品有系統地裝入行李箱、容器或將空間塞滿。",
+      "definition": "1. to put items into a bag, suitcase, or box in preparation for travel or storage.; 2. to fill a space densely or tightly.",
+      "example": [
+        {
+          "eng": "I need to pack my clothes for the trip tonight.",
+          "ch": "我今晚得把旅行的衣服收拾好。"
+        },
+        {
+          "eng": "Fans packed the stadium to watch the final game.",
+          "ch": "球迷們塞滿了體育館來觀看總決賽。"
+        }
+      ]
+    },
+    {
+      "eng": "package",
+      "kk": "ˈpækɪdʒ",
+      "tense": "n.",
+      "ch": [
+        [
+          "包裹",
+          "箱子"
+        ],
+        [
+          "一攬子計劃",
+          "套裝商品"
+        ]
+      ],
+      "analysis": "此名詞由 pack 加上名詞字尾 -age 構成（經由英吉利法語發展而成），最初指貨物包裝，現代延伸出郵寄包裹以及抽象的「套裝方案、一攬子計畫」。",
+      "definition": "1. an object or group of objects wrapped in paper or packed in a box.; 2. a set of proposals or items offered or considered together as a single unit.",
+      "example": [
+        {
+          "eng": "There is a package waiting for you at the front desk.",
+          "ch": "櫃台有一個包裹在等著你。"
+        },
+        {
+          "eng": "The company offered an attractive compensation package.",
+          "ch": "公司提供了吸引人的薪酬福利套裝方案。"
+        }
+      ]
+    },
+    {
+      "eng": "package",
+      "kk": "ˈpækɪdʒ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "打包",
+          "包裝"
+        ]
+      ],
+      "analysis": "此及物動詞由名詞 package 轉化而來，指將商品放入容器或進行整體行銷包裝。",
+      "definition": "1. to put goods into a box, bag, or other container for sale or transport.",
+      "example": [
+        {
+          "eng": "The factory packages the products before shipping them.",
+          "ch": "工廠在出貨前將產品進行包裝。"
+        }
+      ]
+    },
+    {
+      "eng": "page",
+      "kk": "pedʒ",
+      "tense": "n.",
+      "ch": [
+        [
+          "頁",
+          "面"
+        ]
+      ],
+      "analysis": "此名詞借自拉丁語 pāgina（書卷的一頁），源自 pāgere（固定、繫緊，指將蘆葦片編聯成書頁）。經由古法語進入英語，專指書本、筆記本或網頁的單頁。",
+      "definition": "1. one side of a sheet of paper in a book, magazine, or document, or a digital screen equivalent.",
+      "example": [
+        {
+          "eng": "Please open your textbook to page forty-two.",
+          "ch": "請把課本翻到第四十二頁。"
+        }
+      ]
+    },
+    {
+      "eng": "page",
+      "kk": "pedʒ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "呼叫某人姓名"
+        ]
+      ],
+      "analysis": "此及物動詞源自中世紀用法（源自名詞 page「侍童」古代被叫喚去服務），近代演變為在飯店、機場廣播尋找某人的專門動詞。",
+      "definition": "1. to summon someone by calling their name repeatedly over a public address system or paging device.",
+      "example": [
+        {
+          "eng": "The doctor was paged for an emergency in the surgery room.",
+          "ch": "醫生因手術室有急診而被廣播尋呼。"
+        }
+      ]
+    },
+    {
+      "eng": "paint",
+      "kk": "pent",
+      "tense": "n.",
+      "ch": [
+        [
+          "油漆",
+          "顏料",
+          "塗料"
+        ]
+      ],
+      "analysis": "此名詞經由古法語 peinte（動詞 painture 的過去分詞轉用）借自拉丁語 pingere（繪畫、著色）。進入英語後固定指塗在物體表面或用於藝術創作的液體顏料。",
+      "definition": "1. a colored substance which is spread over a surface and dries to leave a thin decorative or protective coating.",
+      "example": [
+        {
+          "eng": "The walls need a fresh coat of white paint.",
+          "ch": "這些牆壁需要重新刷一層白油漆。"
+        }
+      ]
+    },
+    {
+      "eng": "paint",
+      "kk": "pent",
+      "tense": "vt.",
+      "ch": [
+        [
+          "畫",
+          "繪製",
+          "刷油漆"
+        ]
+      ],
+      "analysis": "此及物動詞源自古英語時期的拉丁語借詞源頭（pingere），指用顏料作畫或為牆面、物品上漆。",
+      "definition": "1. to apply paint to a surface.; 2. to produce a picture or design using paints.",
+      "example": [
+        {
+          "eng": "He spent the weekend painting his living room.",
+          "ch": "他週末花時間粉刷了客廳。"
+        },
+        {
+          "eng": "She loves to paint landscapes in watercolors.",
+          "ch": "她喜歡用水彩畫風景畫。"
+        }
+      ]
+    },
+    {
+      "eng": "pair",
+      "kk": "pɛr",
+      "tense": "n.",
+      "ch": [
+        [
+          "一對",
+          "一雙",
+          "副"
+        ]
+      ],
+      "analysis": "此名詞經由古法語 paire 借自拉丁語 par（相等的、平的），原指一對相等或相配的事物，現代專指由兩件組合成一組使用的物件（如鞋子、襪子、眼鏡）。",
+      "definition": "1. two things that are similar, matching, or used together.",
+      "example": [
+        {
+          "eng": "I need to buy a new pair of shoes.",
+          "ch": "我需要買一雙新鞋。"
+        }
+      ]
+    },
+    {
+      "eng": "pair",
+      "kk": "pɛr",
+      "tense": "vt.",
+      "ch": [
+        [
+          "配對",
+          "使成雙"
+        ]
+      ],
+      "analysis": "此及物動詞由名詞 pair 派生而來，指將兩個事物配成一對或使之協調搭配。",
+      "definition": "1. to put two things or people together to form a pair or match.",
+      "example": [
+        {
+          "eng": "The teacher paired the students for the project.",
+          "ch": "老師將學生們兩兩配對來完成這項專案。"
+        }
+      ]
+    }
+  ]
+}

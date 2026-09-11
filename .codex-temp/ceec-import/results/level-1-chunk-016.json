@@ -1,0 +1,1489 @@
+{
+  "level": 1,
+  "chunkIndex": 16,
+  "inputs": [
+    "road",
+    "robot",
+    "rock",
+    "roll",
+    "room",
+    "root",
+    "rope",
+    "rose",
+    "round",
+    "row",
+    "rule",
+    "ruler",
+    "run",
+    "sad",
+    "safe",
+    "salad",
+    "sale",
+    "salt",
+    "same",
+    "save",
+    "say",
+    "school",
+    "science",
+    "sea",
+    "season",
+    "seat",
+    "second",
+    "secretary",
+    "see",
+    "seed",
+    "sell",
+    "send",
+    "sentence",
+    "serious",
+    "service",
+    "set",
+    "several",
+    "shake",
+    "shall",
+    "shape",
+    "share",
+    "sharp",
+    "she",
+    "her",
+    "hers",
+    "herself",
+    "sheep",
+    "ship",
+    "shirt",
+    "shoe"
+  ],
+  "rows": [
+    {
+      "eng": "road",
+      "kk": "rod",
+      "tense": "n.",
+      "ch": [
+        [
+          "道路",
+          "公路"
+        ],
+        [
+          "途徑",
+          "方法"
+        ]
+      ],
+      "analysis": "此字為源自日耳曼語族的繼承詞，源於古英語 rād（意為「騎馬出行、旅程」），與現代英語的 ride 同源。其語義從原先的「騎馬行進的路線」演變為供車輛與行人通行的現代「道路」，隨後引申出抽象的「達成目標的途徑或方法」。",
+      "definition": "1. a wide way leading from one place to another, especially one with a specially prepared surface for vehicles and pedestrians; 2. a particular method or course of action that leads to a particular outcome.",
+      "example": [
+        {
+          "eng": "Cars drive fast on the main road.",
+          "ch": "車輛在主要道路上行駛得很快。"
+        },
+        {
+          "eng": "Hard work is the road to success.",
+          "ch": "努力工作是通往成功的途徑。"
+        }
+      ]
+    },
+    {
+      "eng": "robot",
+      "kk": "ˈrobət",
+      "tense": "n.",
+      "ch": [
+        [
+          "機器人"
+        ],
+        [
+          "機械般工作的人",
+          "聽命行事的人"
+        ]
+      ],
+      "analysis": "此字為現代借詞，源自捷克作家卡雷爾·恰佩克（Karel Čapek）於 1920 年的科幻劇作《羅素姆的萬能機器人》（R.U.R.），源自捷克語 robota（意為「苦工、勞役」），最終可追溯至古教會斯拉夫語。英文於 1923 年前後借入，原指劇中被製造出來勞動的人造人，後來演變為指自動執行的機械裝置，並進一步引申出比喻義，指毫無感情、像機器般聽從指令做事的人。",
+      "definition": "1. a machine resembling a human being and able to replicate certain human movements and functions automatically; 2. a person who behaves like a machine, acting mechanically without independent thought or emotion.",
+      "example": [
+        {
+          "eng": "The factory uses a robot to assemble the car parts.",
+          "ch": "工廠使用機器人來組裝汽車零件。"
+        },
+        {
+          "eng": "He felt like a robot, doing the same boring task every day.",
+          "ch": "他覺得自己像個機器人，每天都在做同樣無聊的工作。"
+        }
+      ]
+    },
+    {
+      "eng": "rock",
+      "kk": "rɑk",
+      "tense": "n.",
+      "ch": [
+        [
+          "岩石",
+          "石塊"
+        ],
+        [
+          "搖滾樂"
+        ]
+      ],
+      "analysis": "名詞 rock 有兩個主要來源。指「岩石」時，源自中古英語 rocc，可能經由古法語 roke 借自中世紀拉丁語 rocca；指「搖滾樂」時，則是 rock and roll 的截短形式，源自 20 世紀中葉美國黑人俚語中的音樂風格詞彙。兩者在現代英語中均為極高頻的名詞。",
+      "definition": "1. the solid mineral material forming part of the surface of the earth and other similar planets, exposed on the surface or underlying the soil; 2. a type of popular music originating in the 1950s, characterized by a heavy beat and electric guitars.",
+      "example": [
+        {
+          "eng": "He stumbled over a large rock on the path.",
+          "ch": "他被小路上一塊大石頭絆倒了。"
+        },
+        {
+          "eng": "She loves listening to classic rock from the seventies.",
+          "ch": "她喜歡聽七零年代的經典搖滾樂。"
+        }
+      ]
+    },
+    {
+      "eng": "rock",
+      "kk": "rɑk",
+      "tense": "vt.",
+      "ch": [
+        [
+          "搖晃",
+          "擺動"
+        ],
+        [
+          "震撼",
+          "使震動"
+        ]
+      ],
+      "analysis": "此動詞源自中古英語 rocken，與古諾斯語 rōka（使晃動）相關。基本動作為前後或左右輕柔擺動，隨後引申出抽象義，指某事或某消息對局勢、人心造成強烈的震撼或衝擊。",
+      "definition": "1. to move gently back and forth or from side to side; 2. to shock or severely disturb someone or a situation.",
+      "example": [
+        {
+          "eng": "The mother gently rocked the baby to sleep.",
+          "ch": "母親輕輕地搖著嬰兒入睡。"
+        },
+        {
+          "eng": "The scandal rocked the entire political establishment.",
+          "ch": "這起醜聞震撼了整個政治建制派。"
+        }
+      ]
+    },
+    {
+      "eng": "rock",
+      "kk": "rɑk",
+      "tense": "vi.",
+      "ch": [
+        [
+          "搖晃",
+          "擺動"
+        ],
+        [
+          "搖擺（演奏或跳搖滾樂）"
+        ]
+      ],
+      "analysis": "此為 rock 的不及物動詞用法，同樣源自中古英語 rocken。除實體的前後搖晃外，隨著搖滾樂的流行，也發展出表示演奏搖滾樂或隨音樂搖擺的自動詞用法。",
+      "definition": "1. to move or sway back and forth or from side to side; 2. to play or dance to rock music.",
+      "example": [
+        {
+          "eng": "The old chair began to rock when he sat down.",
+          "ch": "他坐下時，那把舊椅子開始前後搖晃起來。"
+        },
+        {
+          "eng": "The band was ready to rock all night.",
+          "ch": "樂團準備好要搖滾一整晚。"
+        }
+      ]
+    },
+    {
+      "eng": "roll",
+      "kk": "rol",
+      "tense": "n.",
+      "ch": [
+        [
+          "捲",
+          "捲軸"
+        ],
+        [
+          "小圓麵包"
+        ],
+        [
+          "名冊",
+          "花名冊"
+        ]
+      ],
+      "analysis": "此名詞源自中古英語 rolle，經由古法語 rolle 借自拉丁語 rotulus（輪子、捲軸，為 rota 的指小詞）。其語義演變為：因形狀如捲軸而指「紙卷或膠卷」；因早期將文件捲起存放而衍生出「名冊（如點名簿）」之義；另一個獨立義項「小圓麵包」則源自其製作時將麵團捲起的外形特徵。",
+      "definition": "1. a long, flexible strip of material wound round a cylinder, or something formed into a similar shape; 2. a small, round loaf of bread for one person; 3. an official list or register of names.",
+      "example": [
+        {
+          "eng": "She bought a roll of paper towels at the store.",
+          "ch": "她在店裡買了一卷紙巾。"
+        },
+        {
+          "eng": "He ate a butter roll with his soup.",
+          "ch": "他喝湯時配了一個奶油小圓麵包。"
+        },
+        {
+          "eng": "The teacher called the roll at the start of class.",
+          "ch": "老師在上課開始時點名。"
+        }
+      ]
+    },
+    {
+      "eng": "roll",
+      "kk": "rol",
+      "tense": "vt.",
+      "ch": [
+        [
+          "滾動",
+          "轉動"
+        ],
+        [
+          "捲起",
+          "把……捲成圓柱形"
+        ]
+      ],
+      "analysis": "及物動詞 roll 源自中古英語 rollen，經古法語 roller 借自拉丁語 rotulare（滾動），源頭為 rota（輪子）。基本義為使物體在地表上翻轉前進，或是施力將軟性物品捲成圓柱狀。",
+      "definition": "1. to move along a surface by turning over and over; 2. to wrap something flexible around itself or into a cylinder shape.",
+      "example": [
+        {
+          "eng": "The boy rolled the ball across the grass.",
+          "ch": "男孩把球在草地上滾過去。"
+        },
+        {
+          "eng": "She rolled up her sleeves before washing the dishes.",
+          "ch": "她在洗碗前把袖子捲了起來。"
+        }
+      ]
+    },
+    {
+      "eng": "roll",
+      "kk": "rol",
+      "tense": "vi.",
+      "ch": [
+        [
+          "滾動",
+          "翻滾"
+        ],
+        [
+          "行進",
+          "平穩移動"
+        ]
+      ],
+      "analysis": "此為 roll 的不及物動詞用法，源自中古英語 rollen。指物體自身在地表轉動前進，或引申為車輛、船隻或時間平穩地向前移動或流逝。",
+      "definition": "1. to move along a surface by turning over and over; 2. to move smoothly along on wheels or as if on wheels.",
+      "example": [
+        {
+          "eng": "The empty can rolled down the hill.",
+          "ch": "空罐子順著山坡滾了下去。"
+        },
+        {
+          "eng": "The train began to roll out of the station.",
+          "ch": "火車開始緩緩駛離車站。"
+        }
+      ]
+    },
+    {
+      "eng": "room",
+      "kk": "rum",
+      "tense": "n.",
+      "ch": [
+        [
+          "房間",
+          "室"
+        ],
+        [
+          "空間",
+          "餘地"
+        ]
+      ],
+      "analysis": "此字為源自日耳曼語族的繼承詞，源於古英語 rūm（意為「空曠的、寬敞的空間」），與日耳曼語支的形容詞同源。其語義從原先抽象的「空間、餘地」，在房屋建築的發展中具體化為建築物內被牆壁隔開的「房間」，兩個義項在現代英語中均極為常用。",
+      "definition": "1. a part or division of a building enclosed by walls, floor, and ceiling; 2. unoccupied space available for a particular purpose.",
+      "example": [
+        {
+          "eng": "They painted their bedroom walls blue.",
+          "ch": "他們把臥室的牆壁漆成藍色。"
+        },
+        {
+          "eng": "Is there enough room in the car for my luggage?",
+          "ch": "車裡有足夠放我行李的空間嗎？"
+        }
+      ]
+    },
+    {
+      "eng": "root",
+      "kk": "rut",
+      "tense": "n.",
+      "ch": [
+        [
+          "根",
+          "根部"
+        ],
+        [
+          "根源",
+          "起因"
+        ],
+        [
+          "祖籍",
+          "根基"
+        ]
+      ],
+      "analysis": "此字為源自日耳曼語族的繼承詞，源於古英語 rōt，與古諾斯語 rōt 同源。其語義從植物生長在地下的「根」向外延伸：在抽象語境中指問題或壞事的「根源、起因」；在複數形 roots 的語境中則指個人的「祖籍、根基或文化歸屬感」。",
+      "definition": "1. the part of a plant which normally lies below the surface of the soil; 2. the basic cause, source, or origin of something; 3. family, cultural, or historical origins or connections (usually roots).",
+      "example": [
+        {
+          "eng": "The tree has deep roots that reach far into the soil.",
+          "ch": "這棵樹有深深的根，深入土中。"
+        },
+        {
+          "eng": "We need to find the root of the problem.",
+          "ch": "我們必須找到問題的根源。"
+        },
+        {
+          "eng": "After living abroad for years, he wanted to return to his roots.",
+          "ch": "在國外住了多年後，他想要回到他的根基（故鄉）。"
+        }
+      ]
+    },
+    {
+      "eng": "rope",
+      "kk": "rop",
+      "tense": "n.",
+      "ch": [
+        [
+          "繩",
+          "索"
+        ]
+      ],
+      "analysis": "此字為源自日耳曼語族的繼承詞，源於古英語 rāp（繩索），與德語 Rumpf 或荷蘭語 roop 等日耳曼語族詞彙同源。基本義為用多股纖維絞合而成的粗繩，在現代英語中維持高度穩定的單一核心語義群組。",
+      "definition": "1. a strong, thick cord made of twisted hemp, sisal, nylon, or other fibers.",
+      "example": [
+        {
+          "eng": "He tied the boxes together with a sturdy rope.",
+          "ch": "他用一根結實的繩子把箱子綁在一起。"
+        }
+      ]
+    },
+    {
+      "eng": "rose",
+      "kk": "roz",
+      "tense": "n.",
+      "ch": [
+        [
+          "玫瑰",
+          "薔薇"
+        ],
+        [
+          "玫瑰紅",
+          "粉紅色"
+        ]
+      ],
+      "analysis": "此字源於古英語 rōse，最終借自拉丁語 rosa（玫瑰），該拉丁詞可能源自古波斯語。除指常見的花卉植物外，也因為其典型花瓣的顏色而引申出形容「玫瑰紅、粉紅色」的色彩名詞用法。",
+      "definition": "1. a prickly bush or shrub that typically bears red, pink, white, or yellow fragrant flowers; 2. a pale pink or purplish-red color.",
+      "example": [
+        {
+          "eng": "He gave her a red rose on Valentine's Day.",
+          "ch": "他在情人節送給她一朵紅玫瑰。"
+        },
+        {
+          "eng": "She wore a dress of a delicate rose shade.",
+          "ch": "她穿了一件淡粉紅色的洋裝。"
+        }
+      ]
+    },
+    {
+      "eng": "round",
+      "kk": "raʊnd",
+      "tense": "adj.",
+      "ch": [
+        [
+          "圓形的",
+          "球形的"
+        ],
+        [
+          "環形的",
+          "曲線圓滑的"
+        ]
+      ],
+      "analysis": "此形容詞源自中古英語 rounde，經由古法語 rund、ronde 借自拉丁語 rotundus（輪狀的、圓的），源頭為 rota（輪子）。基本義為形狀呈圓形或球形，隨後引申出指環繞四周或曲線圓滑的特徵。",
+      "definition": "1. shaped like a circle or cylinder; 2. curved and without sharp angles.",
+      "example": [
+        {
+          "eng": "The earth is roughly round in shape.",
+          "ch": "地球的形狀大致是圓形的。"
+        },
+        {
+          "eng": "The table has a smooth round top.",
+          "ch": "這張桌子有一個光滑的圓形桌面。"
+        }
+      ]
+    },
+    {
+      "eng": "round",
+      "kk": "raʊnd",
+      "tense": "prep.",
+      "ch": [
+        [
+          "環繞",
+          "圍繞"
+        ],
+        [
+          "大約",
+          "左右"
+        ]
+      ],
+      "analysis": "此介系詞由形容詞 round 演變而來，在中古英語時期發展出副詞與介系詞用法。基本義為沿著圓周或環繞某物四周，隨後引申出表示時間或數量「大約、左右」的用法。",
+      "definition": "1. so as to encircle or on all sides of; 2. approximately or in the region of.",
+      "example": [
+        {
+          "eng": "The Earth travels round the sun.",
+          "ch": "地球繞著太陽運行。"
+        },
+        {
+          "eng": "The meeting will start round ten o'clock.",
+          "ch": "會議大約在十點左右開始。"
+        }
+      ]
+    },
+    {
+      "eng": "row",
+      "kk": "raʊ",
+      "tense": "n.",
+      "ch": [
+        [
+          "爭吵",
+          "口角",
+          "喧鬧"
+        ]
+      ],
+      "analysis": "此名詞為同形異義字，讀音為 /raʊ/。源於 18 世紀的英語口語，據信是 rouse（驚動、騷動）的截短或變體形式，專指喧鬧的爭吵、口角或騷動，與排列意義的 row（/ro/）完全無關。",
+      "definition": "1. a noisy quarrel, dispute, or disturbance.",
+      "example": [
+        {
+          "eng": "They had a loud row about who should wash the dishes.",
+          "ch": "他們為誰該洗碗大聲爭吵了一場。"
+        }
+      ]
+    },
+    {
+      "eng": "row",
+      "kk": "ro",
+      "tense": "vi.",
+      "ch": [
+        [
+          "劃船"
+        ]
+      ],
+      "analysis": "此動詞源自古英語 rōwan（劃船），屬於日耳曼語族的繼承詞，與荷蘭語 roeien 及德語 rouen 同源。專指使用槳在水面上劃動船隻前進的動作，在現代英語中主要作不及物或及物動詞使用。",
+      "definition": "1. to propel a boat by means of oars.",
+      "example": [
+        {
+          "eng": "They love to row across the quiet lake on weekends.",
+          "ch": "他們週末喜歡劃船橫渡安靜的湖泊。"
+        }
+      ]
+    },
+    {
+      "eng": "rule",
+      "kk": "rul",
+      "tense": "n.",
+      "ch": [
+        [
+          "規則",
+          "規章",
+          "條例"
+        ],
+        [
+          "統治",
+          "支配"
+        ]
+      ],
+      "analysis": "此名詞源自中古英語 rule，經由古法語 rule 借自拉丁語 rēgula（直尺、標準、規則），源頭為動詞 regere（引導、統治）。其語義演變為：從作為測量標準的「直尺」引申為行為準則的「規則、條例」；另一個義項則直接對應動詞 regere 的權力行使，指對國家或人民的「統治、支配」。",
+      "definition": "1. one of a set of explicit or understood regulations or principles governing conduct within a particular activity or sphere; 2. the exercise of dominant control or authority over an area or people.",
+      "example": [
+        {
+          "eng": "You must follow the rules of the game.",
+          "ch": "你必須遵守遊戲規則。"
+        },
+        {
+          "eng": "The country prospered under her wise rule.",
+          "ch": "這個國家在她明智的統治下繁榮興盛。"
+        }
+      ]
+    },
+    {
+      "eng": "rule",
+      "kk": "rul",
+      "tense": "vt.",
+      "ch": [
+        [
+          "統治",
+          "管理"
+        ],
+        [
+          "裁決",
+          "判定"
+        ]
+      ],
+      "analysis": "此動詞源自中古英語 rulen，經由古法語 rueler 借自拉丁語 rēgulāre（使合乎規則、管理），源頭同樣為 rēgula。基本義為對國家或人民進行統治或管理；在法律語境中則引申出法官或法庭進行正式「裁決、判定」的專業用法。",
+      "definition": "1. to exercise ultimate power or authority over an area and its people; 2. to make and announce a formal legal decision.",
+      "example": [
+        {
+          "eng": "Kings and queens used to rule these lands.",
+          "ch": "國王與女王過去曾統治這些土地。"
+        },
+        {
+          "eng": "The judge will rule on the case tomorrow.",
+          "ch": "法官明天將對此案做出裁決。"
+        }
+      ]
+    },
+    {
+      "eng": "ruler",
+      "kk": "ˈrulɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "統治者",
+          "領導者"
+        ],
+        [
+          "尺",
+          "直尺"
+        ]
+      ],
+      "analysis": "此名詞由動詞 rule 加上表示人的名詞字尾 -er 構成。其語義分化反映了 rule 的雙重來源：一是作為統治者的「掌權者」；二是由拉丁語 rēgula（直尺）的衍生義，指用來畫直線或測量長度的工具「尺」。",
+      "definition": "1. a person exercising government or ultimate authority over a country; 2. a straight strip of plastic, wood, or metal used for drawing straight lines or measuring lengths.",
+      "example": [
+        {
+          "eng": "The cruel ruler was eventually overthrown by the citizens.",
+          "ch": "這位殘暴的統治者最終被市民推翻了。"
+        },
+        {
+          "eng": "Use a ruler to draw a straight line on the paper.",
+          "ch": "用尺在紙上畫一條直線。"
+        }
+      ]
+    },
+    {
+      "eng": "run",
+      "kk": "rʌn",
+      "tense": "vi.",
+      "ch": [
+        [
+          "跑",
+          "奔跑"
+        ],
+        [
+          "運轉",
+          "運作"
+        ],
+        [
+          "流動",
+          "流淌"
+        ]
+      ],
+      "analysis": "此動詞為源自日耳曼語族的繼承詞，源於古英語 rinnan（奔跑），並受古諾斯語 rinda 影響。基本義為雙腳快速交替奔跑；隨後引申出機器或計畫順利「運轉、運作」；亦可指液體如水或淚水「流動、流淌」，在現代英語中為多義的高頻動詞。",
+      "definition": "1. to move at a speed faster than a walk, never having both or all feet on the ground at the same time; 2. to operate, function, or proceed smoothly; 3. to flow or cause to flow, especially as a liquid.",
+      "example": [
+        {
+          "eng": "The children love to run in the park.",
+          "ch": "孩子們喜歡在公園裡跑步。"
+        },
+        {
+          "eng": "The new software runs very smoothly on this computer.",
+          "ch": "這套新軟體在這台電腦上運行得非常順暢。"
+        },
+        {
+          "eng": "Tears began to run down her cheeks.",
+          "ch": "淚水開始順著她的臉頰流下來。"
+        }
+      ]
+    },
+    {
+      "eng": "sad",
+      "kk": "sæd",
+      "tense": "adj.",
+      "ch": [
+        [
+          "悲傷的",
+          "難過的"
+        ],
+        [
+          "令人難過的",
+          "悲慘的"
+        ]
+      ],
+      "analysis": "此形容詞源自古英語 sæd（最初意為「飽足的、沉重的、堅定的」），屬於日耳曼語族的繼承詞。其語義從日耳曼語中的「沉重、嚴肅」逐漸轉變，在中古英語時期演變成指情緒上的「沉重、悲傷」，並進一步引申出形容事物本身「令人悲傷、淒慘」的用法。",
+      "definition": "1. feeling or showing sorrow; unhappy; 2. causing or characterized by sorrow or regret.",
+      "example": [
+        {
+          "eng": "She felt very sad when her pet cat passed away.",
+          "ch": "當她的寵物貓過世時，她感到非常傷心。"
+        },
+        {
+          "eng": "It is a sad story that brings everyone to tears.",
+          "ch": "這是一個讓每個人都落淚的悲傷故事。"
+        }
+      ]
+    },
+    {
+      "eng": "safe",
+      "kk": "sef",
+      "tense": "adj.",
+      "ch": [
+        [
+          "安全的",
+          "平安的"
+        ],
+        [
+          "可靠的",
+          "無害的"
+        ]
+      ],
+      "analysis": "此形容詞源自中古英語 sauf，經由古法語 sauf 借自拉丁語 salvus（完好無損的、健康的、安全的），源頭為 salvare（拯救）。其語義為未受傷害或危險威脅的「安全」，並引申出事物「可靠、無害」的特徵。",
+      "definition": "1. protected from or not exposed to danger or risk; not harmed or lost; 2. dependable, reliable, and unlikely to cause harm or trouble.",
+      "example": [
+        {
+          "eng": "Children should play in a safe area away from traffic.",
+          "ch": "兒童應該在遠離交通的安全區域玩耍。"
+        },
+        {
+          "eng": "He is a safe driver who always obeys traffic laws.",
+          "ch": "他是一位總遵守交通規則的安全駕駛。"
+        }
+      ]
+    },
+    {
+      "eng": "salad",
+      "kk": "ˈsæləd",
+      "tense": "n.",
+      "ch": [
+        [
+          "沙拉",
+          "涼拌菜"
+        ]
+      ],
+      "analysis": "此名詞源自中古英語 salat，經由古法語 salade 借自羅曼語族（源自拉丁語 salātus，意為「加鹽的」，源頭為 sāl「鹽」）。最初指加上鹽巴調味的生菜或蔬菜料理，在現代英語中指各種生鮮蔬菜或水果混合調醬的冷盤料理。",
+      "definition": "1. a cold dish of various mixtures of raw or cooked vegetables, usually seasoned with oil, vinegar, or other dressing.",
+      "example": [
+        {
+          "eng": "She ordered a fresh green salad with her dinner.",
+          "ch": "她晚餐點了一份新鮮的綠色沙拉。"
+        }
+      ]
+    },
+    {
+      "eng": "sale",
+      "kk": "sel",
+      "tense": "n.",
+      "ch": [
+        [
+          "銷售",
+          "出售"
+        ],
+        [
+          "大拍賣",
+          "特價銷售"
+        ]
+      ],
+      "analysis": "此名詞源自中古英語 sale，源於古諾斯語 sala（出售、交易），與古英語動詞 sellan（給予、出售，即 sell 的來源）同源。其基本義為將商品所有權轉讓給買方的「銷售行為」；在商業語境中則引申出為了促進買氣而舉辦的「大拍賣、特價活動」之義。",
+      "definition": "1. the exchange of a commodity for money; the action of selling something; 2. an event or period of time during which a shop sells goods at reduced prices.",
+      "example": [
+        {
+          "eng": "The company reported a strong increase in car sales.",
+          "ch": "該公司報告汽車銷量大幅成長。"
+        },
+        {
+          "eng": "She bought her winter coat at a half-price sale.",
+          "ch": "她在半價拍賣時買了她的冬衣。"
+        }
+      ]
+    },
+    {
+      "eng": "salt",
+      "kk": "sɔlt",
+      "tense": "n.",
+      "ch": [
+        [
+          "鹽",
+          "食鹽"
+        ]
+      ],
+      "analysis": "此字為源自日耳曼語族的繼承詞，源於古英語 sealt（鹽），與德語 Salz 及拉丁語 sāl 同源（印歐語根 *sal-）。基本義為日常用來調味的白色結晶化學物質（氯化鈉），在現代英語中維持高度穩定的單一核心語義群組。",
+      "definition": "1. a white crystalline substance that gives seawater its characteristic taste and is used for seasoning or preserving food.",
+      "example": [
+        {
+          "eng": "Please pass me the salt and pepper.",
+          "ch": "請把鹽和胡椒遞給我。"
+        }
+      ]
+    },
+    {
+      "eng": "same",
+      "kk": "sem",
+      "tense": "adj.",
+      "ch": [
+        [
+          "相同的",
+          "同一的"
+        ]
+      ],
+      "analysis": "此形容詞源自中古英語 same，源於古諾斯語 sami（相同的），與古英語soma及日耳曼語族的代詞根源同源。基本義為指毫無差異、完全相同的同一人或事物，在現代英語中為高頻限定詞與形容詞。",
+      "definition": "1. identical; not different or other; corresponding precisely to what has been specified.",
+      "example": [
+        {
+          "eng": "The two brothers wear the same clothes to school.",
+          "ch": "這兩兄弟穿著相同的衣服去學校。"
+        }
+      ]
+    },
+    {
+      "eng": "save",
+      "kk": "sev",
+      "tense": "vt.",
+      "ch": [
+        [
+          "拯救",
+          "挽救"
+        ],
+        [
+          "節省",
+          "存錢"
+        ],
+        [
+          "保存",
+          "儲存"
+        ]
+      ],
+      "analysis": "此動詞源自中古英語 sauen，經由古法語 sauver 借自拉丁語 salvāre（拯救、使安全），源頭為 salvus（安全的）。其語義演變為：從免於危險或死亡的「拯救」；引申出不浪費金錢或時間的「節省」；在現代科技語境中則進一步發展出將資料寫入記憶體的「保存、儲存」之義。",
+      "definition": "1. to protect from harm, danger, or death; 2. to keep and not spend or waste (money, time, or resources); 3. to store data on a computer or disk for future use.",
+      "example": [
+        {
+          "eng": "The brave firefighter saved the child from the burning house.",
+          "ch": "這位勇敢的消防員將小孩從燃燒的房子中救出。"
+        },
+        {
+          "eng": "She is trying to save money for a trip to Europe.",
+          "ch": "她正在存錢去歐洲旅行。"
+        },
+        {
+          "eng": "Remember to save your document before closing the program.",
+          "ch": "關閉程式前記得儲存你的文件。"
+        }
+      ]
+    },
+    {
+      "eng": "say",
+      "kk": "se",
+      "tense": "vt.",
+      "ch": [
+        [
+          "說",
+          "講",
+          "表達"
+        ]
+      ],
+      "analysis": "此動詞為源自日耳曼語族的繼承詞，源於古英語 secgan（說、講），與德語 sagen 同源（印歐語根 *sekʷ-）。基本義為透過言語表達想法、事實或引述他人說話內容，在現代英語中為極高頻的言說動詞。",
+      "definition": "1. to utter words so as to convey information, an opinion, a feeling, or an instruction.",
+      "example": [
+        {
+          "eng": "What did he say about the new project?",
+          "ch": "關於這個新專案他说了些什麼？"
+        }
+      ]
+    },
+    {
+      "eng": "school",
+      "kk": "skul",
+      "tense": "n.",
+      "ch": [
+        [
+          "學校",
+          "學府"
+        ],
+        [
+          "流派",
+          "學派"
+        ]
+      ],
+      "analysis": "此名詞源自古英語 scōl，借自拉丁語 schola，最終源自古希臘語 scholē（閒暇、討論、講學之處）。其語義演變為：從古希臘時期的「閒暇學習」演變成專門的教育機構「學校」；另一個學術與藝術語境的義項則指持相同理念或風格的學者、藝術家「流派、學派」。",
+      "definition": "1. an institution for educating children or people; 2. a group of artists, philosophers, or writers sharing the same principles, methods, or style.",
+      "example": [
+        {
+          "eng": "Children walk to school together every morning.",
+          "ch": "孩子們每天早上一起走路去上學。"
+        },
+        {
+          "eng": "He belongs to the classical school of painting.",
+          "ch": "他屬於古典繪畫流派。"
+        }
+      ]
+    },
+    {
+      "eng": "science",
+      "kk": "ˈsaɪəns",
+      "tense": "n.",
+      "ch": [
+        [
+          "科學"
+        ],
+        [
+          "自然科學學科"
+        ]
+      ],
+      "analysis": "此名詞源自中古英語 science，經由古法語 science 借自拉丁語 scientia（知識、學問），源頭為 scīre（知道、懂得）。其語義從廣義的「知識與學問」，在近代科學革命後縮小並專指透過觀察與實驗證實的係統化「科學」與具體學科。",
+      "definition": "1. the intellectual and practical activity encompassing the systematic study of the structure and behavior of the physical and natural world through observation and experiment; 2. a particular branch of science.",
+      "example": [
+        {
+          "eng": "Chemistry and physics are important branches of science.",
+          "ch": "化學和物理學是科學的重要分支。"
+        },
+        {
+          "eng": "She is majoring in computer science at university.",
+          "ch": "她在大學主修計算機科學。"
+        }
+      ]
+    },
+    {
+      "eng": "sea",
+      "kk": "si",
+      "tense": "n.",
+      "ch": [
+        [
+          "海",
+          "海洋"
+        ]
+      ],
+      "analysis": "此字為源自日耳曼語族的繼承詞，源於古英語 sǣ（海），與德語 See 及荷蘭語 zee 同源。基本義為地球表面覆蓋大部分面積的鹹水水域，在現代英語中維持高度穩定的單一核心語義群組。",
+      "definition": "1. the expanse of salt water that covers most of the earth's surface.",
+      "example": [
+        {
+          "eng": "We love to walk along the sandy shore of the sea.",
+          "ch": "我們喜歡沿著海邊的沙灘散步。"
+        }
+      ]
+    },
+    {
+      "eng": "season",
+      "kk": "ˈsizn",
+      "tense": "n.",
+      "ch": [
+        [
+          "季節"
+        ],
+        [
+          "時期",
+          "旺季"
+        ]
+      ],
+      "analysis": "此名詞源自中古英語 sesoun，經由古法語 saison 借自拉丁語 satiō（撒種、播種期），源頭為 serere（播種）。其語義從農業上的「播種季節」，擴大演變成一年中氣候特徵不同的四個「季節」；隨後進一步引申出指某項特定活動或商業銷售的「時期、旺季」。",
+      "definition": "1. each of the four divisions of the year (spring, summer, autumn, and winter), marked by particular weather patterns and daylight hours; 2. a particular period of the year during which a particular activity, event, or business thrives.",
+      "example": [
+        {
+          "eng": "Spring is my favorite season of the year.",
+          "ch": "春天是我一年中最喜歡的季節。"
+        },
+        {
+          "eng": "Summer is the peak season for tourism in this coastal town.",
+          "ch": "夏天是這個海濱小鎮旅遊的旺季。"
+        }
+      ]
+    },
+    {
+      "eng": "seat",
+      "kk": "sit",
+      "tense": "n.",
+      "ch": [
+        [
+          "座位",
+          "座次"
+        ],
+        [
+          "所在地",
+          "中心"
+        ]
+      ],
+      "analysis": "此名詞源自中古英語 sete，源於古諾斯語 sæti（座位），與古英語 sittan（坐，即 sit 的來源）同源。其基本義為供人坐著的家具或位置「座位」；在行政或機構語境中則引申出作為權力或權威基地的「所在地、中心」。",
+      "definition": "1. a thing made or used for sitting on, such as a chair or bench, or a place where one sits; 2. the place where something is based, established, or has its center of authority.",
+      "example": [
+        {
+          "eng": "Please find your seat before the movie starts.",
+          "ch": "請在電影開始前找好座位。"
+        },
+        {
+          "eng": "The city is the seat of the regional government.",
+          "ch": "這座城市是區域政府的所在地。"
+        }
+      ]
+    },
+    {
+      "eng": "second",
+      "kk": "ˈsɛkənd",
+      "tense": "adj.",
+      "ch": [
+        [
+          "第二的"
+        ]
+      ],
+      "analysis": "此形容詞源自中古英語 second，經由古法語 second 借自拉丁語 secundus（隨後的、跟在第一位之後的），源頭為 sequī（跟隨）。基本義為在順序中排在第一位之後的「第二的」，在現代英語中為基本序數詞。",
+      "definition": "1. constituting number two in a sequence; coming after the first in time or order.",
+      "example": [
+        {
+          "eng": "February is the second month of the year.",
+          "ch": "二月是一年中的第二個月。"
+        }
+      ]
+    },
+    {
+      "eng": "secretary",
+      "kk": "ˈsɛkrəˌtɛri",
+      "tense": "n.",
+      "ch": [
+        [
+          "祕書"
+        ],
+        [
+          "部長",
+          "大臣"
+        ]
+      ],
+      "analysis": "此名詞源自中古英語 secretarie，經由中世紀拉丁語 secretārius（知心人、機密文員），源頭為拉丁語 sēcrētus（祕密的、隱密的）。其語義演變為：最初指幫主管處理機密檔案與文書的「祕書」；在現代政治體制中，則引申出政府各部「部長」或國際組織「祕書長」的官方職稱。",
+      "definition": "1. a person employed in an office to assist with correspondence, keep records, and make arrangements; 2. a head of a government department.",
+      "example": [
+        {
+          "eng": "The manager asked his secretary to schedule a meeting.",
+          "ch": "經理請他的祕書安排一場會議。"
+        },
+        {
+          "eng": "The Secretary of State gave a speech on foreign policy.",
+          "ch": "國務卿發表了關於外交政策的演說。"
+        }
+      ]
+    },
+    {
+      "eng": "see",
+      "kk": "si",
+      "tense": "vt.",
+      "ch": [
+        [
+          "看見",
+          "看到"
+        ],
+        [
+          "理解",
+          "明白"
+        ],
+        [
+          "拜訪",
+          "會見"
+        ]
+      ],
+      "analysis": "此動詞為源自日耳曼語族的繼承詞，源於古英語 sēon（看見），與德語 sehen 及荷蘭語 zien 同源（印歐語根 *sekʷ-）。基本義為透過視覺器官感知光影與形體；隨後由視覺引申出心智上的「理解、明白」；亦可指與某人「會面、拜訪」，在現代英語中為多義的核心及物動詞。",
+      "definition": "1. to perceive with the eyes; discern visually; 2. to understand or realize something; 3. to meet or visit someone.",
+      "example": [
+        {
+          "eng": "I can see a bird sitting on the tree branch.",
+          "ch": "我可以看到一隻鳥正坐在樹枝上。"
+        },
+        {
+          "eng": "I see what you mean by your explanation.",
+          "ch": "我理解你解釋所指的意思了。"
+        },
+        {
+          "eng": "She is going to see her grandparents this weekend.",
+          "ch": "她這週末要去看望她的祖父母。"
+        }
+      ]
+    },
+    {
+      "eng": "seed",
+      "kk": "sid",
+      "tense": "n.",
+      "ch": [
+        [
+          "種子"
+        ],
+        [
+          "根源",
+          "萌芽狀態"
+        ]
+      ],
+      "analysis": "此字為源自日耳曼語族的繼承詞，源於古英語 sēd（種子），與德語 Saat 及荷蘭語 zaad 同源（源自動詞 iva*sē-「播種」）。基本義為植物發芽生長的「種子」；在抽象語境中引申出作為情感、想法或事件發展之「根源、萌芽」的用法。",
+      "definition": "1. the unit of reproduction of a flowering plant, capable of developing into another such plant; 2. the early stage or source from which something can develop.",
+      "example": [
+        {
+          "eng": "He planted a tomato seed in a small pot of soil.",
+          "ch": "他在一小盆土壤裡種下一顆番茄種子。"
+        },
+        {
+          "eng": "That single conversation planted the seeds of doubt in his mind.",
+          "ch": "那次單一的對話在他的心中埋下了懷疑的種子。"
+        }
+      ]
+    },
+    {
+      "eng": "sell",
+      "kk": "sɛl",
+      "tense": "vt.",
+      "ch": [
+        [
+          "賣",
+          "出售"
+        ]
+      ],
+      "analysis": "此動詞源自古英語 sellan（給予、交付、出售），屬於日耳曼語族的繼承詞，與古諾斯語 selja（交付、出售）同源。基本義為將貨品或服務轉讓給買方以換取金錢，在現代英語中維持高度穩定的單一核心語義群組。",
+      "definition": "1. to give or hand over something in exchange for money.",
+      "example": [
+        {
+          "eng": "She decided to sell her old car to buy a new one.",
+          "ch": "她決定賣掉舊車來買一輛新車。"
+        }
+      ]
+    },
+    {
+      "eng": "send",
+      "kk": "sɛnd",
+      "tense": "vt.",
+      "ch": [
+        [
+          "寄送",
+          "發送"
+        ],
+        [
+          "派遣",
+          "派往"
+        ]
+      ],
+      "analysis": "此動詞源自古英語 sendan（使行走、發送），屬於日耳曼語族的繼承詞，與德語 senden 及荷蘭語 zenden 同源。其語義演變為：使信件、包裹或訊息傳遞到某地的「寄送、發送」；以及派人前往某地執行政務的「派遣」。",
+      "definition": "1. to cause to go or be taken to a particular destination; 2. to dispatch someone or something to a destination for a particular purpose.",
+      "example": [
+        {
+          "eng": "I need to send a birthday card to my friend.",
+          "ch": "我需要寄一張生日卡片給我的朋友。"
+        },
+        {
+          "eng": "The company sent him to London for a business conference.",
+          "ch": "公司派遣他去倫敦參加商務會議。"
+        }
+      ]
+    },
+    {
+      "eng": "sentence",
+      "kk": "ˈsɛntəns",
+      "tense": "n.",
+      "ch": [
+        [
+          "句子"
+        ],
+        [
+          "宣判",
+          "判刑"
+        ]
+      ],
+      "analysis": "此名詞源自中古英語 sentence，經由古法語 sentence 借自拉丁語 sententia（意見、判決、思想），源頭為 sentīre（感覺、思考）。其語義分化為：一是語法上表達完整意思的詞句「句子」；二是由拉丁語的法庭判決義演變而來的刑罰「宣判、判刑」。",
+      "definition": "1. a set of words that is complete in itself, typically containing a subject and predicate, conveying a statement, question, exclamation, or command; 2. the punishment assigned to a defendant found guilty by a court.",
+      "example": [
+        {
+          "eng": "Write a short sentence using the new vocabulary word.",
+          "ch": "用這個新單字寫一個短句。"
+        },
+        {
+          "eng": "The judge handed down a five-year prison sentence to the thief.",
+          "ch": "法官對這名小偷下達了五年有期徒刑的判決。"
+        }
+      ]
+    },
+    {
+      "eng": "serious",
+      "kk": "ˈsɪriəs",
+      "tense": "adj.",
+      "ch": [
+        [
+          "嚴重的",
+          "危急的"
+        ],
+        [
+          "嚴肅的",
+          "認真的"
+        ]
+      ],
+      "analysis": "此形容詞源自中古英語 serious，經由中世紀拉丁語 sērious 借自拉丁語 sērius（認真的、莊重的）。其語義演變為：指情況嚴重、危險或具威脅性的「嚴重的」；以及指人的態度莊重、不輕浮的「嚴肅的、認真的」。",
+      "definition": "1. demanding careful consideration or action; significant, grave, or dangerous; 2. acting, thinking, or speaking in a sincere and earnest way, not joking or trivial.",
+      "example": [
+        {
+          "eng": "The driver suffered serious injuries in the car accident.",
+          "ch": "駕駛在車禍中受了重傷。"
+        },
+        {
+          "eng": "She is very serious about her music studies.",
+          "ch": "她對自己的音樂學習非常認真。"
+        }
+      ]
+    },
+    {
+      "eng": "service",
+      "kk": "ˈsɝvɪs",
+      "tense": "n.",
+      "ch": [
+        [
+          "服務",
+          "業務"
+        ],
+        [
+          "公共設施",
+          "公用事業"
+        ]
+      ],
+      "analysis": "此名詞源自中古英語 service，經由古法語 service 借自拉丁語 servitium（奴隸身分、服務），源頭為 servus（奴隸、僕人）。其語義從早期「為主人效勞的奴僕工作」擴大演變成商業上的「客戶服務、業務」；隨後在複數或特定複合詞中指電力、交通等「公共設施、公用事業」。",
+      "definition": "1. the action of helping or doing work for someone, or the provision of assistance and goods; 2. a system or organization providing a public need, such as transport, utilities, or communications.",
+      "example": [
+        {
+          "eng": "The hotel is famous for its excellent customer service.",
+          "ch": "這家飯店以其優秀的客戶服務而聞名。"
+        },
+        {
+          "eng": "Bus service in this area runs until midnight.",
+          "ch": "這地區的公車服務營運到午夜。"
+        }
+      ]
+    },
+    {
+      "eng": "set",
+      "kk": "sɛt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "設置",
+          "安置",
+          "放置"
+        ],
+        [
+          "設定",
+          "規定"
+        ],
+        [
+          "（太陽等）西沉",
+          "落下"
+        ]
+      ],
+      "analysis": "此動詞為源自日耳曼語族的繼承詞，源於古英語 settan（使坐下、放置、建立），與德語 setzen 同源（為 sit 的使役動詞）。其語義演變為：將物體擺放定位的「安置」；規範規則或時間標準的「設定」；以及古日耳曼語中指太陽「下沉落山」的自然現象，在現代英語中為極高頻的複合多義動詞。",
+      "definition": "1. to put something in a particular place or position; 2. to establish a limit, standard, or time for something; 3. (of the sun, moon, or stars) to appear to go down below the horizon.",
+      "example": [
+        {
+          "eng": "She set the heavy box on the kitchen floor.",
+          "ch": "她把沉重的箱子放在廚房地板上。"
+        },
+        {
+          "eng": "The teacher set a date for the final examination.",
+          "ch": "老師為期末考設定了一個日期。"
+        },
+        {
+          "eng": "We watched the sun set over the ocean.",
+          "ch": "我們看著太陽在海面上西沉。"
+        }
+      ]
+    },
+    {
+      "eng": "several",
+      "kk": "ˈsɛvərəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "幾個的",
+          "數個的"
+        ]
+      ],
+      "analysis": "此形容詞源自中古英語 several，源於中世紀拉丁語 sēverālis（各自的、個別的），源頭為拉丁語 sēpar（分離的、各別的）。其語義從中古英語的「各自的、單獨的」，在近代英語中演變成指數量「大於兩個但不多、幾個」的限定詞與形容詞。",
+      "definition": "1. more than two but not many.",
+      "example": [
+        {
+          "eng": "She read several books during her summer vacation.",
+          "ch": "她在暑假期間讀了好幾本書。"
+        }
+      ]
+    },
+    {
+      "eng": "shake",
+      "kk": "ʃek",
+      "tense": "vt.",
+      "ch": [
+        [
+          "搖晃",
+          "抖動"
+        ],
+        [
+          "震撼",
+          "動搖"
+        ]
+      ],
+      "analysis": "此動詞源自中古英語 shaken，源於古諾斯語 hrista 或古英語 *scacan（晃動），屬於日耳曼語族的繼承詞。基本義為快速地前後或上下移動物體「搖晃」；隨後引申出抽象的「動搖信心或震撼人心」。",
+      "definition": "1. to move or cause to move back and forth or up and down with quick, rapid movements; 2. to shock, upset, or weaken someone's confidence or stability.",
+      "example": [
+        {
+          "eng": "He shook the bottle of juice before pouring it into a glass.",
+          "ch": "他在把果汁倒入杯子前搖了搖瓶子。"
+        },
+        {
+          "eng": "The sudden bad news shook her deeply.",
+          "ch": "這突如其來的壞消息深深震撼了她。"
+        }
+      ]
+    },
+    {
+      "eng": "shall",
+      "kk": "ʃæl",
+      "tense": "modal v.",
+      "ch": [
+        [
+          "將要",
+          "應當",
+          "必須"
+        ]
+      ],
+      "analysis": "此助動詞為源自日耳曼語族的繼承詞，源於古英語 sceal（負有義務、必須），與德語 sollen 同源。其語義從早期的「債務、義務」演變成表達將來發生的動作或帶有法律、規定色彩的「應當、必須」，在現代英語中常與第一人稱連用以表達未來或意願。",
+      "definition": "1. expressing a strong assertion, permission, obligation, or future action, especially with first-person pronouns.",
+      "example": [
+        {
+          "eng": "Shall we go out for dinner tonight?",
+          "ch": "我們今晚出去吃晚餐好嗎？"
+        }
+      ]
+    },
+    {
+      "eng": "shape",
+      "kk": "ʃep",
+      "tense": "n.",
+      "ch": [
+        [
+          "形狀",
+          "外形"
+        ],
+        [
+          "健康狀況",
+          "狀況"
+        ]
+      ],
+      "analysis": "此名詞源自古英語 gesceap（造物、創造物、形狀），屬於日耳曼語族的繼承詞。基本義為物體的外部輪廓或「形狀」；隨後在口語中引申出指人體體能狀態或事物運作情形的「狀況」。",
+      "definition": "1. the external form, contours, or outline of someone or something; 2. the physical condition or state of someone or something.",
+      "example": [
+        {
+          "eng": "The puzzle piece has an unusual triangular shape.",
+          "ch": "這個拼圖塊有著不尋常的三角形形狀。"
+        },
+        {
+          "eng": "He runs every morning to stay in good shape.",
+          "ch": "他每天早上跑步以保持良好的身體狀況。"
+        }
+      ]
+    },
+    {
+      "eng": "share",
+      "kk": "ʃɛr",
+      "tense": "vt.",
+      "ch": [
+        [
+          "分享",
+          "分攤"
+        ],
+        [
+          "共用",
+          "合用"
+        ]
+      ],
+      "analysis": "此動詞源自古英語 sceran（剪斷、割開），屬於日耳曼語族的繼承詞，與 shear 同源。其語義演變為：從「將某物切開分配給多人」演變為精神或資源上的「分享、分攤」；以及與他人共同使用同一空間或物品的「共用」。",
+      "definition": "1. to have a portion of something with another or others; 2. to use, occupy, or enjoy something jointly with another or others.",
+      "example": [
+        {
+          "eng": "She was happy to share her snacks with her classmates.",
+          "ch": "她很樂意與同學分享她的零食。"
+        },
+        {
+          "eng": "The two brothers share a bedroom.",
+          "ch": "這兩兄弟共用一間臥室。"
+        }
+      ]
+    },
+    {
+      "eng": "sharp",
+      "kk": "ʃɑrp",
+      "tense": "adj.",
+      "ch": [
+        [
+          "鋒利的",
+          "銳利的"
+        ],
+        [
+          "敏銳的",
+          "機警的"
+        ],
+        [
+          "急劇的",
+          "輪廓分明的"
+        ]
+      ],
+      "analysis": "此形容詞源自古英語 scearp（鋒利的、尖銳的），屬於日耳曼語族的繼承詞，與德語 scharf 同源。其語義演變為：實體工具的「鋒利」；引申出心智或感官的「敏銳、機警」；以及視覺或變化曲線上的「急劇、輪廓分明」。",
+      "definition": "1. having a thin cutting edge or a fine point; not dull; 2. having or showing quick perception or keen intellect; 3. abrupt, sudden, or clearly defined.",
+      "example": [
+        {
+          "eng": "Be careful when handling this sharp knife.",
+          "ch": "使用這把鋒利的刀時要小心。"
+        },
+        {
+          "eng": "She has a sharp mind and solves puzzles quickly.",
+          "ch": "她心思敏銳，能迅速解開謎題。"
+        },
+        {
+          "eng": "The car made a sharp turn to avoid the obstacle.",
+          "ch": "汽車為了避開障礙物做了一個急轉彎。"
+        }
+      ]
+    },
+    {
+      "eng": "she",
+      "kk": "ʃi",
+      "tense": "pron.",
+      "ch": [
+        [
+          "她"
+        ]
+      ],
+      "analysis": "此代詞源自中古英語 sche，源於古英語sēo（指示代詞的女性主格形式），在中古英語時期受北日耳曼語影響演變為現代拼字。專指女性的主格人稱代詞，在現代英語中維持高度穩定的單一核心語義群組。",
+      "definition": "1. used to refer to a woman, girl, or female animal previously mentioned or easily identified.",
+      "example": [
+        {
+          "eng": "She is reading a fascinating book in the library.",
+          "ch": "她正在圖書館裡讀一本引人入勝的書。"
+        }
+      ]
+    },
+    {
+      "eng": "her",
+      "kk": "hɝ",
+      "tense": "pron.",
+      "ch": [
+        [
+          "她（受格）"
+        ],
+        [
+          "她的（所有格代詞或形容詞）"
+        ]
+      ],
+      "analysis": "此代詞源自古英語 hire（女性代詞的受格與屬格形式），屬於日耳曼語族的繼承詞。在現代英語中兼作女性的受格代詞（受詞）以及修飾名詞的所有格限定詞（她的）。",
+      "definition": "1. used as the object of a verb or preposition to refer to a female person or animal; 2. belonging to or associated with a female person or animal.",
+      "example": [
+        {
+          "eng": "I gave her a nice present for her birthday.",
+          "ch": "我送了她一份精美的生日禮物。"
+        },
+        {
+          "eng": "She forgot her umbrella at home.",
+          "ch": "她把她的雨傘忘在家裡了。"
+        }
+      ]
+    },
+    {
+      "eng": "hers",
+      "kk": "hɝz",
+      "tense": "pron.",
+      "ch": [
+        [
+          "她的（所有格代詞）"
+        ]
+      ],
+      "analysis": "此獨立所有格代詞源自中古英語 hires，由古英語的屬格形式加上後綴演變而來。用來代替「her + 名詞」，表示某物為該女性所有，在現代英語中為獨立所有格形式。",
+      "definition": "1. belonging to or associated with a female person or animal (used to indicate possession without following a noun).",
+      "example": [
+        {
+          "eng": "This blue jacket is mine, and the red one is hers.",
+          "ch": "這件藍色夾克是我的，紅色的那件是她的。"
+        }
+      ]
+    },
+    {
+      "eng": "herself",
+      "kk": "hɝˈsɛlf",
+      "tense": "pron.",
+      "ch": [
+        [
+          "她自己"
+        ]
+      ],
+      "analysis": "此反身代詞由代詞 her 與 self 複合而成。用作反身代詞（當主詞與受詞為同一女性時）或強調主詞身分，在現代英語中為固定的複合代詞。",
+      "definition": "1. used as the object of a verb or preposition when the female subject is also the object, or to emphasize a female subject.",
+      "example": [
+        {
+          "eng": "She looked at herself in the mirror before going out.",
+          "ch": "她出門前在鏡子裡看了看自己。"
+        }
+      ]
+    },
+    {
+      "eng": "sheep",
+      "kk": "ʃip",
+      "tense": "n.",
+      "ch": [
+        [
+          "羊",
+          "綿羊"
+        ]
+      ],
+      "analysis": "此字為源自日耳曼語族的繼承詞，源於古英語 scēap（綿羊），與德語 Schaf 及荷蘭語 schaap 同源。基本義為畜養的草食性家畜綿羊，在現代英語中單複數同形，維持高度穩定的單一核心語義群組。",
+      "definition": "1. a domesticated ruminant mammal with a thick woolen coat, kept for its meat and wool.",
+      "example": [
+        {
+          "eng": "A flock of sheep was grazing peacefully on the green hillside.",
+          "ch": "一群綿羊正安詳地在綠色的山坡上吃草。"
+        }
+      ]
+    },
+    {
+      "eng": "ship",
+      "kk": "ʃɪp",
+      "tense": "n.",
+      "ch": [
+        [
+          "船",
+          "大型船隻"
+        ]
+      ],
+      "analysis": "此字為源自日耳曼語族的繼承詞，源於古英語 scip（船），與德語 Schiff 及荷蘭語 schip 同源。基本義為能在海上航行的大型水面交通工具，在現代英語中維持高度穩定的單一核心語義群組。",
+      "definition": "1. a large boat for transporting people or goods by sea.",
+      "example": [
+        {
+          "eng": "The massive cargo ship entered the harbor slowly.",
+          "ch": "這艘巨大的貨輪緩緩駛入港口。"
+        }
+      ]
+    },
+    {
+      "eng": "shirt",
+      "kk": "ʃɝt",
+      "tense": "n.",
+      "ch": [
+        [
+          "襯衫",
+          "男式襯衫"
+        ]
+      ],
+      "analysis": "此字為源自日耳曼語族的繼承詞，源於古英語 scyrte（短衣），與古諾斯語 skyrta 及德語 Schürze（圍裙）同源。基本義為上半身穿著的衣物，在現代英語中主要指襯衫。",
+      "definition": "1. a garment for the upper body, typically made of light fabric with a collar, sleeves, and buttons down the front.",
+      "example": [
+        {
+          "eng": "He wore a clean white cotton shirt to the interview.",
+          "ch": "他穿了一件乾淨的白色棉質襯衫去面試。"
+        }
+      ]
+    },
+    {
+      "eng": "shoe",
+      "kk": "ʃu",
+      "tense": "n.",
+      "ch": [
+        [
+          "鞋",
+          "鞋子"
+        ]
+      ],
+      "analysis": "此字為源自日耳曼語族的繼承詞，源於古英語 scōh（鞋），與德語 Schuh 及荷蘭語 schoen 同源。基本義為保護腳部、穿在腳上的外部覆蓋物，在現代英語中維持高度穩定的單一核心語義群組。",
+      "definition": "1. a covering for the foot, typically made of leather, canvas, or plastic, having a sturdy sole and heel.",
+      "example": [
+        {
+          "eng": "Please take off your shoes before entering the clean house.",
+          "ch": "進入這棟乾淨的房子前請脫鞋。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1344 @@
+{
+  "level": 1,
+  "chunkIndex": 19,
+  "inputs": [
+    "phone",
+    "television",
+    "TV",
+    "tell",
+    "temple",
+    "tennis",
+    "terrible",
+    "test",
+    "than",
+    "thank",
+    "that",
+    "the",
+    "theater",
+    "then",
+    "there",
+    "these",
+    "they",
+    "them",
+    "their",
+    "theirs",
+    "themselves",
+    "thick",
+    "thin",
+    "thing",
+    "think",
+    "third",
+    "this",
+    "those",
+    "though",
+    "thousand",
+    "throat",
+    "through",
+    "throw",
+    "ticket",
+    "tidy",
+    "tie",
+    "tiger",
+    "time",
+    "tip",
+    "tired",
+    "to",
+    "today",
+    "toe",
+    "together",
+    "toilet",
+    "tomato",
+    "tomorrow",
+    "tonight",
+    "too",
+    "tool"
+  ],
+  "rows": [
+    {
+      "eng": "phone",
+      "kk": "foʊn",
+      "tense": "n.",
+      "ch": [
+        [
+          "電話",
+          "話機"
+        ]
+      ],
+      "analysis": "此字為 telephone 的常見縮寫形式（clipping），截取後半音節而成。在現代英語中已高度自主化，常作為獨立名詞或動詞使用。",
+      "definition": "1. an electrical device used for talking to someone who is in a different place.",
+      "example": [
+        {
+          "eng": "She answered the phone after the second ring.",
+          "ch": "她在響了兩聲後接了電話。"
+        }
+      ]
+    },
+    {
+      "eng": "phone",
+      "kk": "foʊn",
+      "tense": "vt.",
+      "ch": [
+        [
+          "打電話給"
+        ]
+      ],
+      "analysis": "由名詞 phone 轉品而來的及物動詞，意指使用電話與某人聯繫，後面直接接受詞。",
+      "definition": "1. to call someone using a telephone.",
+      "example": [
+        {
+          "eng": "I will phone you later this evening.",
+          "ch": "我今晚晚點打電話給你。"
+        }
+      ]
+    },
+    {
+      "eng": "television",
+      "kk": "ˈtɛləˌvɪʒən",
+      "tense": "n.",
+      "ch": [
+        [
+          "電視",
+          "電視機"
+        ],
+        [
+          "電視廣播",
+          "電視節目"
+        ]
+      ],
+      "analysis": "源自複合構詞，由希臘語字根 tēle-（遠）與拉丁語 visio（看、視，源自 vidēre）結合而成，指遠距離傳送影像的技術與設備。",
+      "definition": "1. a piece of electrical equipment with a screen for receiving and displaying television broadcasts; 2. a system for broadcasting moving images and sound over a distance.",
+      "example": [
+        {
+          "eng": "They sat on the couch and watched television.",
+          "ch": "他們坐在沙發上看電視。"
+        },
+        {
+          "eng": "He works in television production.",
+          "ch": "他從事電視製作工作。"
+        }
+      ]
+    },
+    {
+      "eng": "TV",
+      "kk": "ˌtiˈvi",
+      "tense": "n.",
+      "ch": [
+        [
+          "電視",
+          "電視機"
+        ],
+        [
+          "電視廣播"
+        ]
+      ],
+      "analysis": "為 television 的首字母縮略詞（acronym/initialism），由 T 和 V 兩個字母拼讀而成，在口語與書面中極為常見。",
+      "definition": "1. a television set; 2. television as a medium of broadcasting.",
+      "example": [
+        {
+          "eng": "Turn off the TV and go to bed.",
+          "ch": "把電視關掉去睡覺。"
+        },
+        {
+          "eng": "There is nothing good on TV tonight.",
+          "ch": "今晚電視上沒有什麼好看的節目。"
+        }
+      ]
+    },
+    {
+      "eng": "tell",
+      "kk": "tɛl",
+      "tense": "vt.",
+      "ch": [
+        [
+          "告訴",
+          "告知"
+        ],
+        [
+          "吩咐",
+          "指示"
+        ],
+        [
+          "分辨",
+          "辨別"
+        ]
+      ],
+      "analysis": "源自古英語 tellan（計算、述說、講述），屬日耳曼語繼承詞。其語意從早期的「計算、排列」演變為「逐一說出、陳述」，進而引申出「命令」與「辨別」等用法。",
+      "definition": "1. to communicate information, facts, or instructions to someone; 2. to give someone an order or instruction to do something; 3. to recognize or be able to distinguish between two things.",
+      "example": [
+        {
+          "eng": "Can you tell me the way to the station?",
+          "ch": "你能告訴我去車站的路嗎？"
+        },
+        {
+          "eng": "She told the children to wash their hands.",
+          "ch": "她吩咐孩子們去洗手。"
+        },
+        {
+          "eng": "It is hard to tell the twins apart.",
+          "ch": "這對雙胞胎很難分辨。"
+        }
+      ]
+    },
+    {
+      "eng": "temple",
+      "kk": "ˈtɛmpəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "寺廟",
+          "神殿"
+        ],
+        [
+          "太陽穴"
+        ]
+      ],
+      "analysis": "寺廟義源自拉丁語 templum（祭祀空間、神殿）。頭部的「太陽穴」一義則源自拉丁語 tempora（複數），歷史上因該處皮膚較薄或脈搏跳動而得名，兩者在拉丁語源頭上形式相似但語義不同，在英語中視為同形異源詞彙。",
+      "definition": "1. a building devoted to the worship of a god or gods; 2. the flat area on each side of the human head between the forehead and the ear.",
+      "example": [
+        {
+          "eng": "They visited an ancient Buddhist temple.",
+          "ch": "他們參觀了一座古老的佛教寺廟。"
+        },
+        {
+          "eng": "He rubbed his temples to relieve the headache.",
+          "ch": "他揉了揉太陽穴來舒緩頭痛。"
+        }
+      ]
+    },
+    {
+      "eng": "tennis",
+      "kk": "ˈtɛnɪs",
+      "tense": "n.",
+      "ch": [
+        [
+          "網球"
+        ]
+      ],
+      "analysis": "經由中古法語 tenez（意為「拿著！」或「接球！」發令聲）借入英語，源自古法語 tenier，為古代網球運動員發球時的呼喊用語，後演變為該運動的名稱。",
+      "definition": "1. a game played with rackets in which two or four players hit a ball back and forth across a net.",
+      "example": [
+        {
+          "eng": "She plays tennis every weekend.",
+          "ch": "她每個週末都打網球。"
+        }
+      ]
+    },
+    {
+      "eng": "terrible",
+      "kk": "ˈtɛrəbəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "可怕的",
+          "嚇人的"
+        ],
+        [
+          "糟糕的",
+          "極壞的"
+        ]
+      ],
+      "analysis": "源自拉丁語 terribilis（可怕的），由動詞 terrēre（使恐懼、嚇唬）加上形容詞字根組成。語意從「引起恐懼的」延伸為現代口語中表示「品質極差的、糟透了的」。",
+      "definition": "1. causing terror or extreme fear; 2. of very poor quality or extremely unpleasant.",
+      "example": [
+        {
+          "eng": "We heard a terrible noise in the middle of the night.",
+          "ch": "我們在半夜聽到了一個可怕的聲音。"
+        },
+        {
+          "eng": "I had a terrible headache yesterday.",
+          "ch": "我昨天頭痛得厲害。"
+        }
+      ]
+    },
+    {
+      "eng": "test",
+      "kk": "tɛst",
+      "tense": "n.",
+      "ch": [
+        [
+          "測試",
+          "考查"
+        ],
+        [
+          "考試",
+          "測驗"
+        ]
+      ],
+      "analysis": "源自古法語 test，最終源自拉丁語 testum（試金石、陶器皿），因古代用陶器熔煉金屬來檢驗純度而引申出「檢驗、測試」之義。",
+      "definition": "1. a procedure intended to establish the quality, performance, or reliability of something; 2. an examination of someone's knowledge or ability.",
+      "example": [
+        {
+          "eng": "The new car passed all safety tests.",
+          "ch": "這輛新車通過了所有安全測試。"
+        },
+        {
+          "eng": "Students are studying hard for the math test.",
+          "ch": "學生們正努力準備數學考試。"
+        }
+      ]
+    },
+    {
+      "eng": "test",
+      "kk": "tɛst",
+      "tense": "vt.",
+      "ch": [
+        [
+          "測試",
+          "檢驗"
+        ],
+        [
+          "考查",
+          "考驗"
+        ]
+      ],
+      "analysis": "由名詞 test 轉品而來的及物動詞，指對事物進行檢查、試驗或對人的能力進行考核。",
+      "definition": "1. to take measures to check the quality, performance, or reliability of something; 2. to critically examine someone's knowledge or skills.",
+      "example": [
+        {
+          "eng": "Engineers test the brakes before the cars leave the factory.",
+          "ch": "工程師在汽車出廠前測試煞車。"
+        },
+        {
+          "eng": "The teacher tested the class on vocabulary.",
+          "ch": "老師就詞彙對全班進行了測驗。"
+        }
+      ]
+    },
+    {
+      "eng": "than",
+      "kk": "ðæn",
+      "tense": "prep.",
+      "ch": [
+        [
+          "比"
+        ]
+      ],
+      "analysis": "源自古英語 ðanne，與 then 同源，在日耳曼語中發展出用於比較級的介係詞與連接詞功能。",
+      "definition": "1. used to introduce the second element in a comparison.",
+      "example": [
+        {
+          "eng": "My brother is taller than I am.",
+          "ch": "我弟弟比我高。"
+        }
+      ]
+    },
+    {
+      "eng": "thank",
+      "kk": "θæŋk",
+      "tense": "vt.",
+      "ch": [
+        [
+          "感謝",
+          "謝謝"
+        ]
+      ],
+      "analysis": "源自古英語 þancian（感謝），與名詞 þanc（思想、感恩、感激）同源，屬於日耳曼語繼承詞，保留表達謝意的核心動詞用法。",
+      "definition": "1. to express gratitude to someone for something.",
+      "example": [
+        {
+          "eng": "I want to thank you for your help.",
+          "ch": "我想感謝你的幫助。"
+        }
+      ]
+    },
+    {
+      "eng": "that",
+      "kk": "ðæt",
+      "tense": "conj.",
+      "ch": [
+        [
+          "（引導名詞子句）",
+          "以致於"
+        ]
+      ],
+      "analysis": "由指示代名詞語法化（grammaticalization）而來的從屬連接詞，用於引導名詞子句、形容詞子句或結果子句。",
+      "definition": "1. used to introduce a subordinate clause that expresses a statement, reason, or result.",
+      "example": [
+        {
+          "eng": "She said that she would come.",
+          "ch": "她說她會來。"
+        }
+      ]
+    },
+    {
+      "eng": "that",
+      "kk": "ðæt",
+      "tense": "pron.",
+      "ch": [
+        [
+          "那個"
+        ]
+      ],
+      "analysis": "源自古英語指示代名詞 ðaet，在句中獨立擔任代名詞，指代前面提過或較遠的事物。",
+      "definition": "1. the person or thing indicated or understood.",
+      "example": [
+        {
+          "eng": "What is that in your hand?",
+          "ch": "你手裡拿的是什麼？"
+        }
+      ]
+    },
+    {
+      "eng": "that",
+      "kk": "ðæt",
+      "tense": "det.",
+      "ch": [
+        [
+          "那個"
+        ]
+      ],
+      "analysis": "源自古英語中性指示代名詞 ðaet，為日耳曼語指示代名詞與限定詞的歷史繼承形式，用於修飾單數名詞，指代較遠的人事物。",
+      "definition": "1. used to identify a specific person or thing observed or understood, typically one farther away or experienced in the past.",
+      "example": [
+        {
+          "eng": "That book on the shelf is mine.",
+          "ch": "架子上的那本書是我的。"
+        }
+      ]
+    },
+    {
+      "eng": "the",
+      "kk": "ði",
+      "tense": "det.",
+      "ch": [
+        [
+          "這",
+          "那",
+          "（定冠詞）"
+        ]
+      ],
+      "analysis": "源自古英語指示代名詞的弱化形式，經語法化演變為現代英語的定冠詞，用於限定已知或特定的名詞。",
+      "definition": "1. denoting one or more people or things already mentioned or assumed to be common knowledge.",
+      "example": [
+        {
+          "eng": "The sun rises in the east.",
+          "ch": "太陽從東方升起。"
+        }
+      ]
+    },
+    {
+      "eng": "theater",
+      "kk": "ˈθiətər",
+      "tense": "n.",
+      "ch": [
+        [
+          "戲院",
+          "電影院"
+        ],
+        [
+          "劇場",
+          "戲劇界"
+        ]
+      ],
+      "analysis": "源自希臘語 theatron（觀看的地方），由 theasthai（觀看）加上代表場所的字根組成，經拉丁語 theatrum 傳入英語。",
+      "definition": "1. a building or outdoor area in which plays and other dramatic performances are given; 2. the activity or profession of acting in, producing, or writing plays.",
+      "example": [
+        {
+          "eng": "We went to the theater to see a play.",
+          "ch": "我們去戲院看了一場戲劇。"
+        },
+        {
+          "eng": "She has dedicated her life to the theater.",
+          "ch": "她一生奉獻給劇場藝術。"
+        }
+      ]
+    },
+    {
+      "eng": "then",
+      "kk": "ðɛn",
+      "tense": "adv.",
+      "ch": [
+        [
+          "當時",
+          "那時"
+        ],
+        [
+          "然後",
+          "接著"
+        ],
+        [
+          "那麼",
+          "因此"
+        ]
+      ],
+      "analysis": "源自古英語 ðanne / ðæn（當時、在那時），與 than 同源，隨著時間推移延伸出表示順序的「然後」與邏輯推論的「那麼」。",
+      "definition": "1. at that time; 2. afterwards or next; 3. in that case; therefore.",
+      "example": [
+        {
+          "eng": "I was living in Paris then.",
+          "ch": "我當時住在巴黎。"
+        },
+        {
+          "eng": "We had dinner and then went for a walk.",
+          "ch": "我們吃過晚飯，然後去散步。"
+        },
+        {
+          "eng": "If you are ready, then let's go.",
+          "ch": "如果你準備好了，那我們走吧。"
+        }
+      ]
+    },
+    {
+      "eng": "there",
+      "kk": "ðɛr",
+      "tense": "adv.",
+      "ch": [
+        [
+          "在那裡",
+          "往那裡"
+        ]
+      ],
+      "analysis": "源自古英語 þǣr（在那裡），為日耳曼語的指示副詞，用於指涉特定地點或方向。",
+      "definition": "1. in, at, or to that place.",
+      "example": [
+        {
+          "eng": "Please put the box over there.",
+          "ch": "請把箱子放在那裡。"
+        }
+      ]
+    },
+    {
+      "eng": "these",
+      "kk": "ðiːz",
+      "tense": "pron.",
+      "ch": [
+        [
+          "這些"
+        ]
+      ],
+      "analysis": "源自古英語複數指示代名詞 þās，在句中獨立擔任代名詞，指代前面或附近的多個事物。",
+      "definition": "1. the persons or things indicated or understood (plural).",
+      "example": [
+        {
+          "eng": "These are my new shoes.",
+          "ch": "這些是我的新鞋。"
+        }
+      ]
+    },
+    {
+      "eng": "these",
+      "kk": "ðiːz",
+      "tense": "det.",
+      "ch": [
+        [
+          "這些"
+        ]
+      ],
+      "analysis": "源自古英語複數指示代名詞 þās，為 this 的複數形，用於修飾距離較近的複數名詞。",
+      "definition": "1. used to identify specific people or things close at hand or being experienced right now (plural).",
+      "example": [
+        {
+          "eng": "These apples are very sweet.",
+          "ch": "這些蘋果很甜。"
+        }
+      ]
+    },
+    {
+      "eng": "they",
+      "kk": "ðeɪ",
+      "tense": "pron.",
+      "ch": [
+        [
+          "他們",
+          "牠們",
+          "它們"
+        ]
+      ],
+      "analysis": "源自古諾斯語（Old Norse）的代名詞 þeir，在中古英語時期取代了原本的古英語第三人稱複數代名詞，成為現代英語的主格複數形式。",
+      "definition": "1. used to refer to two or more people or things previously mentioned or easily identified.",
+      "example": [
+        {
+          "eng": "They are playing soccer in the park.",
+          "ch": "他們正在公園踢足球。"
+        }
+      ]
+    },
+    {
+      "eng": "them",
+      "kk": "ðɛm",
+      "tense": "pron.",
+      "ch": [
+        [
+          "他們",
+          "牠們",
+          "它們（受格）"
+        ]
+      ],
+      "analysis": "源自古英語第三人稱複數受格 ēm / hēom，受日耳曼語源影響演變為現代英語的受格形式。",
+      "definition": "1. used as the object of a verb or preposition to refer to two or more people or things previously mentioned.",
+      "example": [
+        {
+          "eng": "I saw them at the supermarket.",
+          "ch": "我在超級市場看到他們了。"
+        }
+      ]
+    },
+    {
+      "eng": "their",
+      "kk": "ðɛr",
+      "tense": "det.",
+      "ch": [
+        [
+          "他們的",
+          "牠們的",
+          "它們的"
+        ]
+      ],
+      "analysis": "源自古諾斯語的代名詞所有格 þeirra，在中古英語時期融入英語系統，作為第三人稱複數的所有格限定詞。",
+      "definition": "1. belonging to or associated with two or more people or things previously mentioned.",
+      "example": [
+        {
+          "eng": "The students handed in their homework.",
+          "ch": "學生們交了他們的作業。"
+        }
+      ]
+    },
+    {
+      "eng": "theirs",
+      "kk": "ðɛrz",
+      "tense": "pron.",
+      "ch": [
+        [
+          "他們的（所有格代名詞）"
+        ]
+      ],
+      "analysis": "由 their 加上所有格詞尾 -s 演變而來的獨立所有格代名詞，用於代替「their + 名詞」。",
+      "definition": "1. belonging to or associated with them (used without a following noun).",
+      "example": [
+        {
+          "eng": "This car is ours, and that one is theirs.",
+          "ch": "這輛車是我們的，那一輛是他們的。"
+        }
+      ]
+    },
+    {
+      "eng": "themselves",
+      "kk": "ðɛmˈsɛlvz",
+      "tense": "pron.",
+      "ch": [
+        [
+          "他們自己",
+          "牠們自己"
+        ]
+      ],
+      "analysis": "由受格 them 與反身成分 selves 複合而成的複數反身代名詞，用於強調或指稱主詞本身。",
+      "definition": "1. used as the object of a verb or preposition when the people doing the action are the same as the people receiving it.",
+      "example": [
+        {
+          "eng": "The children washed themselves before dinner.",
+          "ch": "孩子們在晚飯前自己洗了澡。"
+        }
+      ]
+    },
+    {
+      "eng": "thick",
+      "kk": "θɪk",
+      "tense": "adj.",
+      "ch": [
+        [
+          "厚的",
+          "粗的"
+        ],
+        [
+          "濃的",
+          "稠的"
+        ]
+      ],
+      "analysis": "源自古英語 þicce（厚密的），為日耳曼語繼承詞，形容物體的三維空間中厚度較大，或液體質地濃稠。",
+      "definition": "1. with a large distance between opposite sides or surfaces; 2. relatively solid in consistency; not thin or watery.",
+      "example": [
+        {
+          "eng": "She wore a thick winter coat.",
+          "ch": "她穿了一件厚冬衣。"
+        },
+        {
+          "eng": "The soup was thick and creamy.",
+          "ch": "這道湯濃郁滑順。"
+        }
+      ]
+    },
+    {
+      "eng": "thin",
+      "kk": "θɪn",
+      "tense": "adj.",
+      "ch": [
+        [
+          "薄的",
+          "細的"
+        ],
+        [
+          "瘦的"
+        ]
+      ],
+      "analysis": "源自古英語 þynne（薄的），為日耳曼語繼承詞，與 thick 相反，形容厚度小、直徑小或身體消瘦。",
+      "definition": "1. having a small distance between opposite sides or surfaces; 2. having little fat or flesh on the body.",
+      "example": [
+        {
+          "eng": "Write your name on a thin sheet of paper.",
+          "ch": "把你的名字寫在一張薄紙上。"
+        },
+        {
+          "eng": "He is very thin because he exercises a lot.",
+          "ch": "他因為運動量大而非常瘦。"
+        }
+      ]
+    },
+    {
+      "eng": "thing",
+      "kk": "θɪŋ",
+      "tense": "n.",
+      "ch": [
+        [
+          "事物",
+          "東西"
+        ],
+        [
+          "事情",
+          "狀況"
+        ]
+      ],
+      "analysis": "源自古英語 þing（會議、訴訟、物品、存有），在日耳曼語系中本義指「集會」，後引申為「集會上討論的事物」，進而泛指一切實體或抽象的物體與事件。",
+      "definition": "1. an inanimate object, material, or entity without life or specific name; 2. an event, activity, or circumstance.",
+      "example": [
+        {
+          "eng": "Put your personal things in the locker.",
+          "ch": "把你的個人物品放在置物櫃裡。"
+        },
+        {
+          "eng": "The most important thing is to stay calm.",
+          "ch": "最重要的事情是保持冷靜。"
+        }
+      ]
+    },
+    {
+      "eng": "think",
+      "kk": "θɪŋk",
+      "tense": "v.",
+      "ch": [
+        [
+          "想",
+          "思考"
+        ],
+        [
+          "認為",
+          "覺得"
+        ]
+      ],
+      "analysis": "源自古英語 þencan（思考、想像），屬日耳曼語繼承詞。在現代英語中兼作及物與不及物動詞，表達心智活動或意見看法。",
+      "definition": "1. to use one's mind to consider something, reason, or form an opinion; 2. to have a particular belief, opinion, or idea about something.",
+      "example": [
+        {
+          "eng": "Give me a moment to think about your proposal.",
+          "ch": "給我一點時間考慮你的提案。"
+        },
+        {
+          "eng": "I think it will rain this afternoon.",
+          "ch": "我覺得今天下午會下雨。"
+        }
+      ]
+    },
+    {
+      "eng": "third",
+      "kk": "θɜrd",
+      "tense": "adj.",
+      "ch": [
+        [
+          "第三的"
+        ]
+      ],
+      "analysis": "源自古英語 þridda，由基數詞 three 的歷史詞根演變而來的序數詞，屬於日耳曼語繼承詞。",
+      "definition": "1. constituting number three in a sequence; coming after second.",
+      "example": [
+        {
+          "eng": "March is the third month of the year.",
+          "ch": "三月是一年中的第三個月。"
+        }
+      ]
+    },
+    {
+      "eng": "this",
+      "kk": "ðɪs",
+      "tense": "pron.",
+      "ch": [
+        [
+          "這個"
+        ]
+      ],
+      "analysis": "源自古英語指示代名詞 ðis，在句中獨立擔任代名詞，指代眼前或剛剛提及的事物。",
+      "definition": "1. the person or thing present, near, or just mentioned.",
+      "example": [
+        {
+          "eng": "This is my favorite song.",
+          "ch": "這是我最喜歡的歌。"
+        }
+      ]
+    },
+    {
+      "eng": "this",
+      "kk": "ðɪs",
+      "tense": "det.",
+      "ch": [
+        [
+          "這個"
+        ]
+      ],
+      "analysis": "源自古英語陽性指示代名詞 ðis，為日耳曼語近指限定詞，用於修飾距離說話者較近的單數名詞。",
+      "definition": "1. used to identify a specific person or thing close at hand or being experienced right now.",
+      "example": [
+        {
+          "eng": "This computer is brand new.",
+          "ch": "這台電腦是嶄新的。"
+        }
+      ]
+    },
+    {
+      "eng": "those",
+      "kk": "ðoʊz",
+      "tense": "pron.",
+      "ch": [
+        [
+          "那些"
+        ]
+      ],
+      "analysis": "源自中古英語複數指示代名詞，在句中獨立使用，指代遠處或先前提及的多個對象。",
+      "definition": "1. the persons or things indicated or understood (plural of that).",
+      "example": [
+        {
+          "eng": "Those are the keys you were looking for.",
+          "ch": "那些就是你在找的鑰匙。"
+        }
+      ]
+    },
+    {
+      "eng": "those",
+      "kk": "ðoʊz",
+      "tense": "det.",
+      "ch": [
+        [
+          "那些"
+        ]
+      ],
+      "analysis": "源自中古英語 ðaþe / thos，為 that 的複數形式，用於修飾距離較遠的複數名詞。",
+      "definition": "1. used to identify specific people or things observed or experienced, typically farther away or plural.",
+      "example": [
+        {
+          "eng": "Those birds in the tree are singing.",
+          "ch": "樹上的那些鳥兒正在唱歌。"
+        }
+      ]
+    },
+    {
+      "eng": "though",
+      "kk": "ðoʊ",
+      "tense": "conj.",
+      "ch": [
+        [
+          "雖然",
+          "儘管"
+        ]
+      ],
+      "analysis": "源自古英語 ðēah（雖然），屬日耳曼語繼承詞，用於引導讓步子句。",
+      "definition": "1. despite the fact that; although.",
+      "example": [
+        {
+          "eng": "Though it was raining, they went for a hike.",
+          "ch": "儘管在下雨，他們還是去健行了。"
+        }
+      ]
+    },
+    {
+      "eng": "thousand",
+      "kk": "ˈθaʊzənd",
+      "tense": "n.",
+      "ch": [
+        [
+          "一千",
+          "千"
+        ]
+      ],
+      "analysis": "源自日耳曼語祖語 *þūsundī（由 *þūni-「大」與 *hund-「百」複合而成，字面義為「大百」），為日耳曼語系共同的數詞遺產。",
+      "definition": "1. the cardinal number equal to 1,000.",
+      "example": [
+        {
+          "eng": "The city has a population of over fifty thousand.",
+          "ch": "這座城市的人口超過五萬。"
+        }
+      ]
+    },
+    {
+      "eng": "throat",
+      "kk": "θroʊt",
+      "tense": "n.",
+      "ch": [
+        [
+          "喉嚨",
+          "咽喉"
+        ]
+      ],
+      "analysis": "源自古英語 þrote（喉嚨），屬日耳曼語繼承詞，指頸部前方內部吞嚥與呼吸的通道。",
+      "definition": "1. the passage from the back of the mouth down to the stomach and lungs.",
+      "example": [
+        {
+          "eng": "She had a sore throat and could hardly speak.",
+          "ch": "她喉嚨痛得幾乎說不出話來。"
+        }
+      ]
+    },
+    {
+      "eng": "through",
+      "kk": "θruː",
+      "tense": "prep.",
+      "ch": [
+        [
+          "穿過",
+          "透過",
+          "以"
+        ]
+      ],
+      "analysis": "源自古英語 þurh（透過、穿過），為日耳曼語繼承詞，表示自內部穿入並穿出，或藉由某種媒介與手段。",
+      "definition": "1. moving in one side and out of the other side of an opening, channel, or location; 2. by means of; because of.",
+      "example": [
+        {
+          "eng": "The train passed through a long tunnel.",
+          "ch": "火車穿過了一條長長的隧道。"
+        },
+        {
+          "eng": "She succeeded through hard work.",
+          "ch": "她透過努力工作獲得了成功。"
+        }
+      ]
+    },
+    {
+      "eng": "throw",
+      "kk": "θroʊ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "投",
+          "擲",
+          "拋"
+        ]
+      ],
+      "analysis": "源自古英語 ðrawan（轉動、扭轉、拋擲），屬日耳曼語繼承詞。其歷史本義與「旋轉」有關，後在英語中演變出用力將物體投出的動作義。",
+      "definition": "1. to propel something with force through the air by a movement of the arm and hand.",
+      "example": [
+        {
+          "eng": "He threw the ball to his dog.",
+          "ch": "他把球扔給他的狗。"
+        }
+      ]
+    },
+    {
+      "eng": "ticket",
+      "kk": "ˈtɪkɪt",
+      "tense": "n.",
+      "ch": [
+        [
+          "票",
+          "入場券",
+          "車票"
+        ]
+      ],
+      "analysis": "源自中古法語 etiquette（標籤、標示），經由英文發音演變與詞義收窄，指明可用於搭乘交通工具或進入特定場所的憑證。",
+      "definition": "1. an official card or paper that gives the holder a right to enter a place, travel by public transport, or participate in an event.",
+      "example": [
+        {
+          "eng": "Please show your train ticket to the conductor.",
+          "ch": "請向車長出示您的火車票。"
+        }
+      ]
+    },
+    {
+      "eng": "tidy",
+      "kk": "ˈtaɪdi",
+      "tense": "adj.",
+      "ch": [
+        [
+          "整潔的",
+          "整齊的"
+        ]
+      ],
+      "analysis": "源自中古英語 tidi（按時的、適時的，源自 tid「時間」），其語意從「適時的、做得好的」引申為「井然有序的、乾淨整潔的」。",
+      "definition": "1. arranged neatly and in order.",
+      "example": [
+        {
+          "eng": "He keeps his desk very tidy.",
+          "ch": "他把書桌保持得非常整潔。"
+        }
+      ]
+    },
+    {
+      "eng": "tie",
+      "kk": "taɪ",
+      "tense": "n.",
+      "ch": [
+        [
+          "領帶",
+          "領結"
+        ],
+        [
+          "聯繫",
+          "關係"
+        ],
+        [
+          "平局",
+          "不分勝負"
+        ]
+      ],
+      "analysis": "由動詞 tie 轉品或衍生而來的名詞，引申出「繫在脖子上的帶子（領帶）」、「將人連結在一起的紐帶（關係）」以及「比賽雙方得分相等（平局）」等語意群組。",
+      "definition": "1. a strip of cloth worn around the neck under a collar, tied in a knot; 2. a connection or relationship between people or organizations; 3. a result in a game or competition in which two or more competitors have the same score.",
+      "example": [
+        {
+          "eng": "He wore a smart suit and a red tie.",
+          "ch": "他穿著筆挺的西裝，繫著紅色領帶。"
+        },
+        {
+          "eng": "Family ties are very important to her.",
+          "ch": "家庭紐帶對她而言非常重要。"
+        },
+        {
+          "eng": "The football match ended in a tie.",
+          "ch": "這場足球賽以平局收場。"
+        }
+      ]
+    },
+    {
+      "eng": "tie",
+      "kk": "taɪ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "繫",
+          "綁",
+          "扎"
+        ]
+      ],
+      "analysis": "源自古英語 tīgan / tēogan（綁、繫），屬日耳曼語繼承詞，指用繩索或帶子將物體固定或結在一起。",
+      "definition": "1. to fasten or attach something using a string, cord, or knot.",
+      "example": [
+        {
+          "eng": "He stopped to tie his shoelaces.",
+          "ch": "他停下來繫鞋帶。"
+        }
+      ]
+    },
+    {
+      "eng": "tiger",
+      "kk": "ˈtaɪɡər",
+      "tense": "n.",
+      "ch": [
+        [
+          "老虎"
+        ]
+      ],
+      "analysis": "經由拉丁語 tigris 與希臘語 tigris 借入英語，最初源自古波斯語詞彙（意為「箭」，比喻老虎奔跑的速度極快），後指大型貓科猛獸。",
+      "definition": "1. a large solitary cat that has a yellow-brown coat with black stripes, native to Asia.",
+      "example": [
+        {
+          "eng": "The tiger is a majestic and powerful animal.",
+          "ch": "老虎是一種雄偉而強大的動物。"
+        }
+      ]
+    },
+    {
+      "eng": "time",
+      "kk": "taɪm",
+      "tense": "n.",
+      "ch": [
+        [
+          "時間",
+          "時刻"
+        ],
+        [
+          "次",
+          "回"
+        ],
+        [
+          "時代",
+          "時期"
+        ]
+      ],
+      "analysis": "源自古英語 tima（時間、時期、節氣），為日耳曼語繼承詞。其核心概念為持續存在的流逝過程，並引申出計算事件發生的「次數」以及歷史「時期」等義項。",
+      "definition": "1. the indefinite continued progress of existence and events in the past, present, and future; 2. a particular instance of an event or action; 3. a particular period or era in history.",
+      "example": [
+        {
+          "eng": "What time is it now?",
+          "ch": "現在幾點了？"
+        },
+        {
+          "eng": "I have visited Japan three times.",
+          "ch": "我已經去過日本三次了。"
+        },
+        {
+          "eng": "He lived through difficult times during the war.",
+          "ch": "他在戰爭期間度過了艱難的時期。"
+        }
+      ]
+    },
+    {
+      "eng": "tip",
+      "kk": "tɪp",
+      "tense": "n.",
+      "ch": [
+        [
+          "頂端",
+          "尖端"
+        ],
+        [
+          "小費"
+        ],
+        [
+          "實用建議",
+          "竅門"
+        ]
+      ],
+      "analysis": "頂端義源自中低地德語或中荷蘭語 tip（尖端、末端）。「小費」與「建議」的語意可能源自俚語或特殊行話中「給予指點或酬勞」的隱喻演變，在現代英語中視為同形多義詞彙。",
+      "definition": "1. the extreme point or extremity of something; 2. a small sum of money given to someone as a reward for services; 3. a small piece of practical advice.",
+      "example": [
+        {
+          "eng": "She touched the tip of her nose.",
+          "ch": "她碰了碰鼻尖。"
+        },
+        {
+          "eng": "We left a generous tip for the waiter.",
+          "ch": "我們給服務生留了一筆豐厚的小費。"
+        },
+        {
+          "eng": "Here is a useful tip for learning English.",
+          "ch": "這裡有一個學習英語的實用小建議。"
+        }
+      ]
+    },
+    {
+      "eng": "tired",
+      "kk": "ˈtaɪərd",
+      "tense": "adj.",
+      "ch": [
+        [
+          "疲倦的",
+          "累的"
+        ],
+        [
+          "厭倦的"
+        ]
+      ],
+      "analysis": "由古英語動詞 teorian（疲勞、枯竭）的過去分詞演變而來的形容詞，表示體力耗盡或對某事感到不耐煩。",
+      "definition": "1. in need of sleep or rest; weary; 2. no longer having interest or patience in something; bored.",
+      "example": [
+        {
+          "eng": "He felt very tired after a long day at work.",
+          "ch": "工作了一整天後，他感到非常疲倦。"
+        },
+        {
+          "eng": "I am tired of listening to his complaints.",
+          "ch": "我聽膩了他的抱怨。"
+        }
+      ]
+    },
+    {
+      "eng": "to",
+      "kk": "tuː",
+      "tense": "prep.",
+      "ch": [
+        [
+          "向",
+          "朝",
+          "到"
+        ],
+        [
+          "（用於不定詞前）"
+        ]
+      ],
+      "analysis": "源自古英語 tō（向、朝、到），為日耳曼語繼承詞，表示方向、目的地、時間界限，或作為動詞不定詞的標記符號。",
+      "definition": "1. expressing motion in the direction of a particular location; 2. used with the base form of a verb to indicate an infinitive.",
+      "example": [
+        {
+          "eng": "She walked to the grocery store.",
+          "ch": "她步行去雜貨店。"
+        },
+        {
+          "eng": "I want to learn how to swim.",
+          "ch": "我想學游泳。"
+        }
+      ]
+    },
+    {
+      "eng": "today",
+      "kk": "təˈdeɪ",
+      "tense": "adv.",
+      "ch": [
+        [
+          "今天",
+          "在今天"
+        ]
+      ],
+      "analysis": "由古英語 to dæge（在這一日）合併演變而來的副詞，由介係詞 to 與名詞 dæg（日）結合而成。",
+      "definition": "1. on or for this present day.",
+      "example": [
+        {
+          "eng": "We have a big meeting today.",
+          "ch": "我們今天有一個大會議。"
+        }
+      ]
+    },
+    {
+      "eng": "toe",
+      "kk": "toʊ",
+      "tense": "n.",
+      "ch": [
+        [
+          "腳趾"
+        ]
+      ],
+      "analysis": "源自古英語 tān（腳趾），屬日耳曼語繼承詞，指足部的末端趾頭。",
+      "definition": "1. one of the five digits at the end of the human foot.",
+      "example": [
+        {
+          "eng": "I stubbed my toe against the chair leg.",
+          "ch": "我的腳趾頭踢到了椅子腿上。"
+        }
+      ]
+    },
+    {
+      "eng": "together",
+      "kk": "təˈɡɛðər",
+      "tense": "adv.",
+      "ch": [
+        [
+          "一起",
+          "共同"
+        ]
+      ],
+      "analysis": "源自古英語 tōgædere（聚集在一起），由前綴 tō（朝向）與 gædere（集合，源自 gaderian「收集」）複合而成。",
+      "definition": "1. with each other; in cooperation or association.",
+      "example": [
+        {
+          "eng": "They worked together on the school project.",
+          "ch": "他們一起合作完成學校的專案。"
+        }
+      ]
+    },
+    {
+      "eng": "toilet",
+      "kk": "ˈtɔɪlɪt",
+      "tense": "n.",
+      "ch": [
+        [
+          "馬桶",
+          "廁所"
+        ]
+      ],
+      "analysis": "源自中古法語 toilette（小塊布、梳妝打扮），最初指梳妝用的布或梳妝打扮的過程，後經由「梳洗室」引申並轉移指稱為現代的衛生潔具與廁所。",
+      "definition": "1. a fixed receptacle into which a person may urinate or defecate, typically consisting of a bowl connected to a flush system.",
+      "example": [
+        {
+          "eng": "Excuse me, where is the toilet?",
+          "ch": "請問廁所在哪裡？"
+        }
+      ]
+    },
+    {
+      "eng": "tomato",
+      "kk": "təˈmeɪtoʊ",
+      "tense": "n.",
+      "ch": [
+        [
+          "番茄",
+          "西紅柿"
+        ]
+      ],
+      "analysis": "經由西班牙語 tomate 借入，最終源自納瓦特爾語（阿茲特克語）tomatl。隨著美洲作物傳入歐洲與世界各地，名稱也隨之普及。",
+      "definition": "1. a glossy red, or occasionally yellow, pulpy edible fruit that is eaten as a vegetable.",
+      "example": [
+        {
+          "eng": "She sliced some fresh tomatoes for the salad.",
+          "ch": "她切了一些新鮮番茄做沙拉。"
+        }
+      ]
+    },
+    {
+      "eng": "tomorrow",
+      "kk": "təˈmɑroʊ",
+      "tense": "adv.",
+      "ch": [
+        [
+          "明天",
+          "在明天"
+        ]
+      ],
+      "analysis": "源自古英語 to morgene（在早晨 / 在明日），由介係詞 to 與名詞 morgen（早晨、明日）複合演變而來。",
+      "definition": "1. on the day after today.",
+      "example": [
+        {
+          "eng": "I will finish the report tomorrow.",
+          "ch": "我明天會完成這份報告。"
+        }
+      ]
+    },
+    {
+      "eng": "tonight",
+      "kk": "təˈnaɪt",
+      "tense": "adv.",
+      "ch": [
+        [
+          "今晚",
+          "在今晚"
+        ]
+      ],
+      "analysis": "源自古英語 to niht（在今晚），由介係詞 to 與名詞 niht（夜晚）複合演變而來。",
+      "definition": "1. on the present or coming night.",
+      "example": [
+        {
+          "eng": "What are you doing tonight?",
+          "ch": "你今晚要做什麼？"
+        }
+      ]
+    },
+    {
+      "eng": "too",
+      "kk": "tuː",
+      "tense": "adv.",
+      "ch": [
+        [
+          "也",
+          "同樣"
+        ],
+        [
+          "太",
+          "過於"
+        ]
+      ],
+      "analysis": "源自古英語 tō（此外、過度），為 to 的加長形式，在歷史演變中分化出表示「也」的平行義與表示「過度」的程度義。",
+      "definition": "1. in addition; also; 2. to a higher degree than is desirable, permissible, or possible; excessively.",
+      "example": [
+        {
+          "eng": "I would like a cup of coffee, and tea too.",
+          "ch": "我想要一杯咖啡，也想要茶。"
+        },
+        {
+          "eng": "The coffee is too hot to drink.",
+          "ch": "這咖啡太燙了，不能喝。"
+        }
+      ]
+    },
+    {
+      "eng": "tool",
+      "kk": "tuːl",
+      "tense": "n.",
+      "ch": [
+        [
+          "工具",
+          "器具"
+        ]
+      ],
+      "analysis": "源自古英語 tōl（器具、工具），最終源自日耳曼語祖語 *tōwą（準備、製造），本義指用來進行製造或工作的實物設備。",
+      "definition": "1. a device or implement, such as a hammer, screwdriver, or spade, used to carry out a particular function.",
+      "example": [
+        {
+          "eng": "He used the right tools to fix the broken bicycle.",
+          "ch": "他用合適的工具修理壞掉的腳踏車。"
+        }
+      ]
+    }
+  ]
+}

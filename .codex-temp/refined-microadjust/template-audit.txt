@@ -1,0 +1,14 @@
+Source structure
+- 12 source slides, 1280×720, one imported master and one TITLE layout.
+- Slides are primarily slide-local Google Shapes; no native charts and no native tables detected.
+- Visual system: off-white background, dark green top rule, navy/forest/gold accents, Microsoft JhengHei typography, small English section label, large Traditional Chinese takeaway title, lower-right slide number.
+- Source slide 1 is the brand bumper and is suitable for both the opening and the public-link closing page.
+- Source slides 2–11 are content slides. Source slide 12 is a blank placeholder and is omitted.
+
+Insertion and preservation contract
+- Preserve master, layout, logo, palette, fonts, top rule, and existing content geometry.
+- Rewrite only the mapped inherited text objects.
+- Shorten copy instead of shrinking fonts.
+- Reuse source slide 1 for the final public-link page and convert the inherited applicant block into a clickable URL block.
+- Keep all inherited screenshots and diagrams in place.
+

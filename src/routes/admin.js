@@ -221,7 +221,8 @@ router.get("/activity/visits", requireAuth, requireAdmin, async (req, res, next)
     const uniqueVisitorRow = await clientDb.get(
       `SELECT COUNT(DISTINCT user_id) AS uniqueVisitors
        FROM page_visit_sessions
-       WHERE started_at >= ${TAIWAN_SQL_LAST_14_DAYS_START}`
+       WHERE started_at >= ${TAIWAN_SQL_LAST_14_DAYS_START}
+         AND started_at <= CURRENT_TIMESTAMP`
     );
 
     const dailyRows = await clientDb.all(
@@ -232,11 +233,12 @@ router.get("/activity/visits", requireAuth, requireAdmin, async (req, res, next)
          SUM(
            MAX(
              0,
-             CAST((julianday(COALESCE(ended_at, last_seen_at)) - julianday(started_at)) * 86400 AS INTEGER)
+             (unixepoch(COALESCE(ended_at, last_seen_at)) - unixepoch(started_at))
            )
          ) AS durationSeconds
        FROM page_visit_sessions
        WHERE started_at >= ${TAIWAN_SQL_LAST_14_DAYS_START}
+         AND started_at <= CURRENT_TIMESTAMP
        GROUP BY ${taiwanDateExpr("started_at")}
        ORDER BY visitDate ASC`
     );
@@ -249,18 +251,19 @@ router.get("/activity/visits", requireAuth, requireAdmin, async (req, res, next)
          SUM(
            MAX(
              0,
-             CAST((julianday(COALESCE(ended_at, last_seen_at)) - julianday(started_at)) * 86400 AS INTEGER)
+             (unixepoch(COALESCE(ended_at, last_seen_at)) - unixepoch(started_at))
            )
          ) AS durationSeconds,
          AVG(
            MAX(
              0,
-             CAST((julianday(COALESCE(ended_at, last_seen_at)) - julianday(started_at)) * 86400 AS INTEGER)
+             (unixepoch(COALESCE(ended_at, last_seen_at)) - unixepoch(started_at))
            )
          ) AS avgDurationSeconds,
-         MAX(COALESCE(ended_at, last_seen_at)) AS lastVisitAt
+         MAX(started_at) AS lastVisitAt
        FROM page_visit_sessions
        WHERE started_at >= ${TAIWAN_SQL_LAST_14_DAYS_START}
+         AND started_at <= CURRENT_TIMESTAMP
        GROUP BY page_key
        ORDER BY visits DESC, durationSeconds DESC, uniqueUsers DESC, page_key ASC`
     );
@@ -275,7 +278,7 @@ router.get("/activity/visits", requireAuth, requireAdmin, async (req, res, next)
          pvs.ended_at AS endedAt,
          MAX(
            0,
-           CAST((julianday(COALESCE(pvs.ended_at, pvs.last_seen_at)) - julianday(pvs.started_at)) * 86400 AS INTEGER)
+           (unixepoch(COALESCE(pvs.ended_at, pvs.last_seen_at)) - unixepoch(pvs.started_at))
          ) AS durationSeconds,
          u.id AS userId,
          u.username,
@@ -283,6 +286,8 @@ router.get("/activity/visits", requireAuth, requireAdmin, async (req, res, next)
          u.role
        FROM page_visit_sessions pvs
        JOIN users u ON u.id = pvs.user_id
+       WHERE pvs.started_at >= ${TAIWAN_SQL_LAST_14_DAYS_START}
+         AND pvs.started_at <= CURRENT_TIMESTAMP
        ORDER BY pvs.started_at DESC
        LIMIT 80`
     );

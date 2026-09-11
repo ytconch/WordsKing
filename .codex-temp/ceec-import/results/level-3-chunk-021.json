@@ -1,0 +1,634 @@
+{
+  "level": 3,
+  "chunkIndex": 21,
+  "inputs": [
+    "weapon",
+    "weave",
+    "web",
+    "wed",
+    "weed",
+    "weekly",
+    "weep",
+    "wheat",
+    "whip",
+    "whistle",
+    "wicked",
+    "widen",
+    "wipe",
+    "wisdom",
+    "wrap",
+    "wrist",
+    "yearly",
+    "yell",
+    "yolk",
+    "youngster",
+    "zipper",
+    "zone"
+  ],
+  "rows": [
+    {
+      "eng": "weapon",
+      "kk": "ˈwɛpən",
+      "tense": "n.",
+      "ch": [
+        [
+          "武器",
+          "兵器"
+        ],
+        [
+          "手段",
+          "工具"
+        ]
+      ],
+      "analysis": "此字為名詞。歷史源自古英語 wǣpnen（意為武器、裝備），其根源可追溯至日耳曼語族，與原始的戰鬥裝備有關。語義從原始的實體戰鬥兵器，抽象引申出可用以對付敵手或達成目標的非實體手段、策略或工具。",
+      "definition": "1. An instrument used for killing, injuring, or fighting; 2. A means or instrument used to gain an advantage or defeat someone.",
+      "example": [
+        {
+          "eng": "The police found a dangerous weapon hidden in the car.",
+          "ch": "警察在車內搜出一把藏匿的危險武器。"
+        },
+        {
+          "eng": "Information can be a powerful weapon in modern business negotiations.",
+          "ch": "在現代商業談判中，資訊可以是一項強大的武器。"
+        }
+      ]
+    },
+    {
+      "eng": "weave",
+      "kk": "wiv",
+      "tense": "vt.",
+      "ch": [
+        [
+          "編織",
+          "交織"
+        ],
+        [
+          "編造",
+          "組合"
+        ]
+      ],
+      "analysis": "此字為及物動詞，原形為 weave，過去式為 wove，過去分詞為 woven。歷史源自古英語 wefan（屬日耳曼語族），其核心動作為將經線與緯線交錯以製成布料。語義隨後從實體的紡織延伸至抽象的故事、情節或元素的巧妙編造與組合。",
+      "definition": "1. To form fabric by interlacing threads or strands together on a loom; 2. To create a story, plot, or complex structure by combining various elements.",
+      "example": [
+        {
+          "eng": "She loves to weave colorful threads into traditional blankets.",
+          "ch": "她喜歡把色彩繽紛的線編織成傳統毯子。"
+        },
+        {
+          "eng": "The author managed to weave multiple subplots into a fascinating novel.",
+          "ch": "作者成功地將多條支線情節交織成一本引人入勝的小說。"
+        }
+      ]
+    },
+    {
+      "eng": "weave",
+      "kk": "wiv",
+      "tense": "vi.",
+      "ch": [
+        [
+          "蜿蜒前進",
+          "迂迴穿梭"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，源自古英語 wefan 的動作軌跡延伸。描述主體在行進時左右擺動、左閃右避或在障礙物之間迂迴穿梭的動態方式。",
+      "definition": "1. To move along a winding path by turning and dodging from side to side.",
+      "example": [
+        {
+          "eng": "The cyclist had to weave through the heavy morning traffic.",
+          "ch": "那名自行車手必須在擁擠的早晨車陣中迂迴穿梭。"
+        }
+      ]
+    },
+    {
+      "eng": "web",
+      "kk": "wɛb",
+      "tense": "n.",
+      "ch": [
+        [
+          "蜘蛛網",
+          "網狀物"
+        ],
+        [
+          "網路",
+          "網際網路"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古英語 wɛb（意為布料、織物、網），與動詞 weave 同源。其核心義指蜘蛛所織的網或任何交織而成的網狀結構；現代則因 World Wide Web 的普及，廣泛用來指稱全球資訊網或錯綜複雜的關係網路。",
+      "definition": "1. A trap made of fine sticky threads spun by a spider, or a similar intricate network; 2. The World Wide Web, or a complex system of interconnected elements.",
+      "example": [
+        {
+          "eng": "A delicate spider web glistened with morning dew.",
+          "ch": "一張精緻的蜘蛛網上閃爍著清晨的露水。"
+        },
+        {
+          "eng": "The police uncovered a vast web of international crime.",
+          "ch": "警方揭露了一張龐大的國際犯罪網路。"
+        }
+      ]
+    },
+    {
+      "eng": "wed",
+      "kk": "wɛd",
+      "tense": "vt.",
+      "ch": [
+        [
+          "娶",
+          "嫁",
+          "與...結婚"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自古英語 weddian（意為給予保證、訂婚或結婚，與 pledge 同源）。現代英語中主要用作及物動詞，指正式與某人結婚，或在文學與比喻用法中表示將兩者緊密結合。",
+      "definition": "1. To take someone as a husband or wife in a marriage ceremony.",
+      "example": [
+        {
+          "eng": "They decided to wed after dating for five years.",
+          "ch": "他們交往五年後決定結婚。"
+        }
+      ]
+    },
+    {
+      "eng": "weed",
+      "kk": "wid",
+      "tense": "n.",
+      "ch": [
+        [
+          "雜草",
+          "野草"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古英語 wēod（意為野草、雜草）。指生長在花園或農田中不受歡迎、會搶奪養分的野生植物。",
+      "definition": "1. A wild plant growing where it is not wanted and harming cultivated plants.",
+      "example": [
+        {
+          "eng": "He spent all Saturday morning pulling weeds in the garden.",
+          "ch": "他整個星期六上午都在花園裡拔雜草。"
+        }
+      ]
+    },
+    {
+      "eng": "weed",
+      "kk": "wid",
+      "tense": "vt.",
+      "ch": [
+        [
+          "除草",
+          "拔除雜草"
+        ],
+        [
+          "清除",
+          "淘汰"
+        ]
+      ],
+      "analysis": "此字為及物動詞，由名詞 weed 轉品而來。本義指清除花園中的雜草，引申指剔除、淘汰不需要的人事物或不良成分。",
+      "definition": "1. To remove unwanted plants from an area; 2. To get rid of inferior or unwanted elements.",
+      "example": [
+        {
+          "eng": "She needs to weed the vegetable patch before planting seeds.",
+          "ch": "她在播種前需要先幫菜圃除草。"
+        },
+        {
+          "eng": "The manager tried to weed out the least efficient employees.",
+          "ch": "經理試圖淘汰掉工作效率最低的員工。"
+        }
+      ]
+    },
+    {
+      "eng": "weekly",
+      "kk": "ˈwikli",
+      "tense": "adj.",
+      "ch": [
+        [
+          "每週的",
+          "一週一次的"
+        ]
+      ],
+      "analysis": "此字為形容詞，現代透明構詞由名詞 week 加上形容詞及副詞字尾 -ly 構成。修飾每隔七天發生一次或以週為單位的事件與刊物。",
+      "definition": "1. Done, happening, or produced once a week.",
+      "example": [
+        {
+          "eng": "The team holds a weekly meeting to discuss project updates.",
+          "ch": "團隊每週舉行一次會議來討論專案進度。"
+        }
+      ]
+    },
+    {
+      "eng": "weekly",
+      "kk": "ˈwikli",
+      "tense": "adv.",
+      "ch": [
+        [
+          "每週",
+          "一週一次地"
+        ]
+      ],
+      "analysis": "此字為副詞，現代透明構詞由 week + -ly 構成，修飾動詞，表示動作發生的頻率為每週一次。",
+      "definition": "1. Once every week.",
+      "example": [
+        {
+          "eng": "The magazine is published weekly on Fridays.",
+          "ch": "這本雜誌於每週五發行。"
+        }
+      ]
+    },
+    {
+      "eng": "weep",
+      "kk": "wip",
+      "tense": "vi.",
+      "ch": [
+        [
+          "哭泣",
+          "流淚"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，源自古英語 wēpan（意為哀悼、哭泣，屬日耳曼語族）。主要指因悲傷、痛苦或強烈情緒而流淚哭泣。",
+      "definition": "1. To shed tears because of sadness, pain, or other strong emotions.",
+      "example": [
+        {
+          "eng": "The little girl began to weep when she lost her favorite toy.",
+          "ch": "小女孩弄丟最愛的玩具時開始哭泣。"
+        }
+      ]
+    },
+    {
+      "eng": "wheat",
+      "kk": "hwit",
+      "tense": "n.",
+      "ch": [
+        [
+          "小麥"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古英語 hwǣte（意為小麥，與 white 的日耳曼語源頭有關，指其脫殼後的淡白顏色）。指製成麵粉的主要穀物作物。",
+      "definition": "1. A cereal grain that is widely cultivated for its seed, a crucial grain used to make flour.",
+      "example": [
+        {
+          "eng": "Farmers in this region grow vast fields of wheat.",
+          "ch": "這個地區的農夫種植大片的小麥田。"
+        }
+      ]
+    },
+    {
+      "eng": "whip",
+      "kk": "hwɪp",
+      "tense": "n.",
+      "ch": [
+        [
+          "鞭子"
+        ]
+      ],
+      "analysis": "此字為名詞，源自日耳曼語源（如中古荷蘭語 wippen 或日耳曼語系的動詞演變）。指用皮革或繩索製成、用於鞭打牲畜或人的鞭子工具。",
+      "definition": "1. A strip of leather or length of cord fastened to a handle, used for striking animals or persons.",
+      "example": [
+        {
+          "eng": "The rider used a whip to urge the horse to run faster.",
+          "ch": "騎手用鞭子催促馬跑得更快。"
+        }
+      ]
+    },
+    {
+      "eng": "whip",
+      "kk": "hwɪp",
+      "tense": "vt.",
+      "ch": [
+        [
+          "鞭打",
+          "抽打"
+        ],
+        [
+          "攪打",
+          "迅速移動"
+        ]
+      ],
+      "analysis": "此字為及物動詞，由名詞 whip 轉化而來。本義指用鞭子抽打，引申指快速揮動肢體或工具，亦指在烹飪中將鮮奶油等高速攪打起泡。",
+      "definition": "1. To strike with a whip or similar instrument; 2. To beat food into a foam, or to move something quickly and forcefully.",
+      "example": [
+        {
+          "eng": "The cruel driver tried to whip the exhausted horse.",
+          "ch": "那個殘忍的駕駛試圖鞭打疲憊不堪的馬。"
+        },
+        {
+          "eng": "She used an electric mixer to whip the cream until stiff peaks formed.",
+          "ch": "她用電動攪拌器將鮮奶油攪打至硬性發泡。"
+        }
+      ]
+    },
+    {
+      "eng": "whistle",
+      "kk": "ˈhwɪsəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "口哨",
+          "哨子"
+        ],
+        [
+          "鳴笛聲"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古英語 hwistlian（擬聲詞性質的日耳曼語源）。指用嘴唇吹出的聲音、作為信號的小哨子器具，或火車等發出的高亢鳴笛聲。",
+      "definition": "1. A clear, high-pitched sound made by forcing breath through a small opening or a small instrument that produces such a sound; 2. The shrill sound made by a train or factory horn.",
+      "example": [
+        {
+          "eng": "The referee blew his whistle to signal the end of the game.",
+          "ch": "裁判吹響哨子示意比賽結束。"
+        },
+        {
+          "eng": "We heard the loud whistle of the approaching train.",
+          "ch": "我們聽到進站火車的宏亮鳴笛聲。"
+        }
+      ]
+    },
+    {
+      "eng": "whistle",
+      "kk": "ˈhwɪsəl",
+      "tense": "vi.",
+      "ch": [
+        [
+          "吹口哨",
+          "鳴笛"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，對應名詞來源的擬聲動詞用法。指人利用嘴唇吹出旋律或信號，或指風、機器等發出尖銳的呼嘯聲。",
+      "definition": "1. To make a clear, high-pitched sound by forcing air through the lips or teeth, or through a device.",
+      "example": [
+        {
+          "eng": "The boy walked down the street, whistling a cheerful tune.",
+          "ch": "那男孩走在街上，吹著輕快的曲調。"
+        }
+      ]
+    },
+    {
+      "eng": "wicked",
+      "kk": "ˈwɪkɪd",
+      "tense": "adj.",
+      "ch": [
+        [
+          "邪惡的",
+          "不道德的"
+        ],
+        [
+          "淘氣的",
+          "頑皮的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自古英語 wicca（巫師、男巫）衍生而來的形容詞形式。原意與巫術或邪惡靈體有關，現代用來形容道德上極度邪惡的人事物；在非正式口語中也常轉義用來形容帶有惡作劇性質的淘氣或精明。",
+      "definition": "1. Evil or morally wrong; 2. Mischievous or playfully malicious in a clever way.",
+      "example": [
+        {
+          "eng": "The wicked witch cast a dark spell on the princess.",
+          "ch": "那個邪惡的女巫對公主施下了黑暗咒語。"
+        },
+        {
+          "eng": "He gave a wicked smile before playing a practical joke on his brother.",
+          "ch": "他在對弟弟惡作劇之前露出了淘氣的微笑。"
+        }
+      ]
+    },
+    {
+      "eng": "widen",
+      "kk": "ˈwaɪdən",
+      "tense": "vt.",
+      "ch": [
+        [
+          "加寬",
+          "使變寬"
+        ]
+      ],
+      "analysis": "此字為及物動詞，現代透明構詞由形容詞 wide 加上動詞化字尾 -en 構成。指使某物的空間、距離或範圍擴大、變寬。",
+      "definition": "1. To make something wider or broader in extent.",
+      "example": [
+        {
+          "eng": "The city council plans to widen the main road to ease traffic congestion.",
+          "ch": "市議會計畫拓寬主幹道以緩解交通擁塞。"
+        }
+      ]
+    },
+    {
+      "eng": "widen",
+      "kk": "ˈwaɪdən",
+      "tense": "vi.",
+      "ch": [
+        [
+          "變寬",
+          "擴大"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，現代透明構詞由 wide + -en 構成。指主體自身在空間或範圍上變得更寬闊。",
+      "definition": "1. To become wider or broader.",
+      "example": [
+        {
+          "eng": "The river begins to widen as it approaches the ocean.",
+          "ch": "河川在接近海洋時開始變寬。"
+        }
+      ]
+    },
+    {
+      "eng": "wipe",
+      "kk": "waɪp",
+      "tense": "vt.",
+      "ch": [
+        [
+          "擦拭",
+          "抹去"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自古英語 wīpian（意為擦拭、清理）。指用布、紙或手掌擦掉表面上的水分、灰塵或髒汙。",
+      "definition": "1. To clean or dry the surface of something by rubbing it with a cloth, paper, or one's hand.",
+      "example": [
+        {
+          "eng": "Please wipe the kitchen counter with a clean damp cloth.",
+          "ch": "請用乾淨的濕布擦拭廚房檯面。"
+        }
+      ]
+    },
+    {
+      "eng": "wisdom",
+      "kk": "ˈwɪzdəm",
+      "tense": "n.",
+      "ch": [
+        [
+          "智慧",
+          "明智"
+        ]
+      ],
+      "analysis": "此字為名詞，現代透明構詞源自古英語 wīsdom，由形容詞 wīs (wise) 加上名詞字尾 -dom（表示狀態、領域）組成。指擁有深刻的見解、判斷力與豐富的人生經驗。",
+      "definition": "1. The quality of having experience, knowledge, and good judgment; the soundness of an action or decision.",
+      "example": [
+        {
+          "eng": "Grandfather shared his wisdom with the younger generation.",
+          "ch": "爺爺將他的智慧分享給年輕一代。"
+        }
+      ]
+    },
+    {
+      "eng": "wrap",
+      "kk": "ræp",
+      "tense": "vt.",
+      "ch": [
+        [
+          "包",
+          "包裹",
+          "覆蓋"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自中古英語 wrappen（起源與日耳曼語族有關）。指用紙、布或其他材質將物品層層包覆或纏繞起來。",
+      "definition": "1. To cover or enclose something completely in paper, cloth, or other material.",
+      "example": [
+        {
+          "eng": "She carefully wrapped the birthday gift in shiny blue paper.",
+          "ch": "她小心翼翼地用閃亮的藍色紙把生日禮物包起來。"
+        }
+      ]
+    },
+    {
+      "eng": "wrist",
+      "kk": "rɪst",
+      "tense": "n.",
+      "ch": [
+        [
+          "手腕",
+          "腕關節"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古英語 wrist（屬日耳曼語族，與旋轉或彎曲的動作有關）。指連接手掌與前臂的關節部位。",
+      "definition": "1. The joint connecting the hand with the forearm.",
+      "example": [
+        {
+          "eng": "He wore a smart watch on his left wrist.",
+          "ch": "他的左手腕上戴著一支智慧型手錶。"
+        }
+      ]
+    },
+    {
+      "eng": "yearly",
+      "kk": "ˈjɪrli",
+      "tense": "adj.",
+      "ch": [
+        [
+          "每年的",
+          "年度的"
+        ]
+      ],
+      "analysis": "此字為形容詞，現代透明構詞由名詞 year 加上形容詞字尾 -ly 構成。修飾一年發生一次或與整年度相關的事物。",
+      "definition": "1. Happening or produced once every year; annual.",
+      "example": [
+        {
+          "eng": "The company holds its yearly performance review in December.",
+          "ch": "公司在十二月舉行年度績效考核。"
+        }
+      ]
+    },
+    {
+      "eng": "yearly",
+      "kk": "ˈjɪrli",
+      "tense": "adv.",
+      "ch": [
+        [
+          "每年",
+          "一年一次地"
+        ]
+      ],
+      "analysis": "此字為副詞，現代透明構詞由 year + -ly 構成，修飾動詞，表示動作發生的週期為每年一次。",
+      "definition": "1. Once a year; annually.",
+      "example": [
+        {
+          "eng": "The festival attracts thousands of visitors yearly.",
+          "ch": "這個節日每年吸引數千名遊客造訪。"
+        }
+      ]
+    },
+    {
+      "eng": "yell",
+      "kk": "jɛl",
+      "tense": "vi.",
+      "ch": [
+        [
+          "大叫",
+          "吼叫"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，源自古英語 gellan（意為叫喊、發出聲音，屬日耳曼語族）。指因憤怒、痛苦、驚恐或為了吸引注意而高聲喊叫。",
+      "definition": "1. To shout loudly in a loud, sharp voice because of anger, pain, or excitement.",
+      "example": [
+        {
+          "eng": "The angry driver began to yell at the other motorist.",
+          "ch": "那名生氣的駕駛開始向另一位駕駛大吼大叫。"
+        }
+      ]
+    },
+    {
+      "eng": "yolk",
+      "kk": "jok",
+      "tense": "n.",
+      "ch": [
+        [
+          "蛋黃"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古英語 geolca（由 geolu 形容詞演變而來，意為黃色）。指鳥類蛋中中央黃色、富含營養的部分。",
+      "definition": "1. The yellow central part of an egg.",
+      "example": [
+        {
+          "eng": "She likes to eat soft-boiled eggs with runny yolks.",
+          "ch": "她喜歡吃蛋黃會流汁的半熟蛋。"
+        }
+      ]
+    },
+    {
+      "eng": "youngster",
+      "kk": "ˈjʌŋstər",
+      "tense": "n.",
+      "ch": [
+        [
+          "年輕人",
+          "少年兒童"
+        ]
+      ],
+      "analysis": "此字為名詞，現代透明構詞由形容詞 young 加上名詞字尾 -ster（表示人員或具該特質者，源自古英語 -estre）組合而成。指處於年輕階段的人、少年或兒童。",
+      "definition": "1. A child, young person, or adolescent.",
+      "example": [
+        {
+          "eng": "The park was full of youngsters playing soccer after school.",
+          "ch": "放學後的公園裡擠滿了踢足球的少年兒童。"
+        }
+      ]
+    },
+    {
+      "eng": "zipper",
+      "kk": "ˈzɪpɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "拉鍊"
+        ]
+      ],
+      "analysis": "此字為名詞，現代透明構詞由狀聲動詞 zip 加上表工具或事物的字尾 -er 構成（最早於 20 世紀初作為商業商標出現，隨後成為通稱）。指衣物或包包上用來開合的拉鍊。",
+      "definition": "1. A device consisting of two flexible strips of teeth that interlock by means of a sliding tab, used for fastening garments or bags.",
+      "example": [
+        {
+          "eng": "He broke the zipper on his winter jacket.",
+          "ch": "他弄壞了冬季夾克上的拉鍊。"
+        }
+      ]
+    },
+    {
+      "eng": "zone",
+      "kk": "zon",
+      "tense": "n.",
+      "ch": [
+        [
+          "地帶",
+          "區域"
+        ]
+      ],
+      "analysis": "此字為名詞。歷史源自拉丁語 zona，其源頭為古希臘語 zōnē（意為腰帶、帶狀物）。語義從原本的地球氣候帶或腰帶延伸至現代用來劃分的特定區域、地帶或功能區。",
+      "definition": "1. An area or stretch of land having a particular characteristic, purpose, or use.",
+      "example": [
+        {
+          "eng": "Smoking is strictly prohibited in this designated zone.",
+          "ch": "在此指定區域內嚴禁吸菸。"
+        }
+      ]
+    }
+  ]
+}

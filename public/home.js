@@ -33,6 +33,16 @@ const HomePage = (() => {
     document.getElementById("showRegisterTab").addEventListener("click", () => switchAuthTab("register"));
     document.getElementById("showRecoveryLink").addEventListener("click", () => switchAuthTab("recovery"));
     document.getElementById("hideRecoveryLink").addEventListener("click", () => switchAuthTab("login"));
+    document.getElementById("guestLoginBtn").addEventListener("click", async () => {
+      try {
+        const response = await api("/api/auth/guest", { method: "POST" });
+        setAuth(response);
+        renderHeader();
+        goToWords();
+      } catch (error) {
+        showMessage(error.message);
+      }
+    });
 
     loginForm.addEventListener("submit", async (event) => {
       event.preventDefault();

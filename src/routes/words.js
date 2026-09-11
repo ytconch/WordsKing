@@ -1,49 +1,22 @@
 const express = require("express");
-const { wordsDb } = require("../db/connections");
-const { normalizeEnglish, parseMeaningEntries } = require("../utils/wordHelpers");
+const { wordsDb, clientDb } = require("../db/connections");
+const { optionalAuth, requireAuth } = require("../middleware/auth");
+const {
+  normalizeEnglish,
+  normalizeText,
+  parseMeaningEntries,
+  buildStarKey
+} = require("../utils/wordHelpers");
 const { naturalCompare } = require("../utils/sort");
 
 const router = express.Router();
 const GROUP_ORDER_SQL =
   "CASE WHEN instr(w.eng_normalized, ' ') > 0 THEN 1 ELSE 0 END, w.eng_normalized, length(w.eng_normalized)";
 
-async function loadExamMeaningMap(wordRefs) {
-  const uniqueRefs = [...new Set((wordRefs || []).filter(Boolean))];
-  if (!uniqueRefs.length) {
-    return new Map();
-  }
-
-  const rows = await wordsDb.all(
-    `SELECT
-       word_ref AS wordRef,
-       meaning_index AS meaningIndex,
-       meaning_text AS meaningText
-     FROM unit_exam_meanings
-     WHERE word_ref IN (${uniqueRefs.map(() => "?").join(",")})
-     ORDER BY word_ref, meaning_index`,
-    uniqueRefs
-  );
-
-  const map = new Map();
-  for (const row of rows) {
-    if (!map.has(row.wordRef)) {
-      map.set(row.wordRef, { indexes: [], texts: [] });
-    }
-
-    const target = map.get(row.wordRef);
-    target.indexes.push(Number(row.meaningIndex));
-    target.texts.push(row.meaningText);
-  }
-
-  return map;
-}
-
-function attachMeaningMetadata(word, examMeaningMap) {
+function attachMeaningMetadata(word) {
   return {
     ...word,
-    chEntries: parseMeaningEntries(word.ch),
-    examMeaningIndexes: examMeaningMap.get(word.wordRef)?.indexes || [],
-    examMeaningTexts: examMeaningMap.get(word.wordRef)?.texts || []
+    chEntries: parseMeaningEntries(word.ch)
   };
 }
 
@@ -203,17 +176,7 @@ router.get("/sources", async (req, res, next) => {
              SELECT COUNT(*)
              FROM words w
              WHERE w.unit_id = u.id
-           ) AS word_count,
-           (
-             SELECT COUNT(*)
-             FROM unit_exam_meanings em
-             WHERE em.unit_id = u.id
-           ) AS exam_meaning_count,
-           (
-             SELECT COUNT(DISTINCT em.word_ref)
-             FROM unit_exam_meanings em
-             WHERE em.unit_id = u.id
-           ) AS exam_word_count
+           ) AS word_count
          FROM units u
          WHERE u.source_id = ?
          ORDER BY u.name`,
@@ -244,10 +207,108 @@ router.get("/sources", async (req, res, next) => {
   }
 });
 
-router.get("/", async (req, res, next) => {
+router.get("/starred", requireAuth, async (req, res, next) => {
+  try {
+    if (req.user.isGuest) {
+      return res.json({ starredWordKeys: [], starredWords: [] });
+    }
+
+    const rows = await clientDb.all(
+      `SELECT word_key, eng, tense, word_ref, created_at
+       FROM user_starred_words
+       WHERE user_id = ?
+       ORDER BY created_at DESC`,
+      [req.user.id]
+    );
+
+    res.json({
+      starredWordKeys: rows.map((r) => r.word_key),
+      starredWords: rows
+    });
+  } catch (error) {
+    next(error);
+  }
+});
+
+router.post("/starred/toggle", requireAuth, async (req, res, next) => {
+  try {
+    const eng = normalizeText(req.body.eng);
+    const tense = normalizeText(req.body.tense);
+    const wordRef = normalizeText(req.body.wordRef) || null;
+
+    if (!eng) {
+      return res.status(400).json({ message: "英文單字不可為空。" });
+    }
+
+    const wordKey = buildStarKey(eng, tense);
+
+    if (req.user.isGuest) {
+      return res.json({
+        ok: true,
+        isGuest: true,
+        wordKey,
+        starred: Boolean(req.body.starred)
+      });
+    }
+
+    const existing = await clientDb.get(
+      "SELECT id FROM user_starred_words WHERE user_id = ? AND word_key = ?",
+      [req.user.id, wordKey]
+    );
+
+    if (existing) {
+      await clientDb.run("DELETE FROM user_starred_words WHERE id = ?", [existing.id]);
+      return res.json({
+        ok: true,
+        starred: false,
+        wordKey
+      });
+    }
+
+    await clientDb.run(
+      `INSERT INTO user_starred_words (user_id, word_key, eng, tense, word_ref)
+       VALUES (?, ?, ?, ?, ?)`,
+      [req.user.id, wordKey, eng, tense, wordRef]
+    );
+
+    res.json({
+      ok: true,
+      starred: true,
+      wordKey
+    });
+  } catch (error) {
+    next(error);
+  }
+});
+
+router.get("/", optionalAuth, async (req, res, next) => {
   try {
     const { limit, offset } = req.query;
-    const { whereClause, params, selectedUnitIds } = buildWordsFilter(req.query);
+    let { whereClause, params, selectedUnitIds } = buildWordsFilter(req.query);
+
+    if (req.query.starredOnly === "true") {
+      if (req.user?.id && !req.user?.isGuest) {
+        const starredRows = await clientDb.all(
+          "SELECT DISTINCT eng FROM user_starred_words WHERE user_id = ?",
+          [req.user.id]
+        );
+        const starredEngs = starredRows.map((r) => normalizeEnglish(r.eng)).filter(Boolean);
+        if (!starredEngs.length) {
+          return res.json({
+            words: [],
+            totalGroups: 0,
+            loadedGroups: 0,
+            hasMore: false,
+            nextOffset: 0
+          });
+        }
+        whereClause = whereClause
+          ? `${whereClause} AND w.eng_normalized IN (${starredEngs.map(() => "?").join(",")})`
+          : `WHERE w.eng_normalized IN (${starredEngs.map(() => "?").join(",")})`;
+        params.push(...starredEngs);
+      }
+    }
+
     const orderMode = normalizeWordOrderMode(req.query.order);
     const groupOrderSql = buildGroupOrderSql(orderMode, selectedUnitIds);
     const finalLimit = Math.min(Math.max(parseInt(limit, 10) || 36, 1), 120);
@@ -291,11 +352,10 @@ router.get("/", async (req, res, next) => {
 
     const engKeys = groupedRows.map((row) => row.eng_normalized);
     const pageWords = await fetchWordsByGroupKeys({ engKeys, whereClause, params, orderMode, selectedUnitIds });
-    const examMeaningMap = await loadExamMeaningMap(pageWords.map((word) => word.wordRef));
     const nextOffset = finalOffset + groupedRows.length;
 
     res.json({
-      words: pageWords.map((word) => attachMeaningMetadata(word, examMeaningMap)),
+      words: pageWords.map((word) => attachMeaningMetadata(word)),
       totalGroups: Number(totalRow?.total || 0),
       loadedGroups: groupedRows.length,
       hasMore: nextOffset < Number(totalRow?.total || 0),
@@ -348,11 +408,10 @@ router.get("/by-ref/:wordRef", async (req, res, next) => {
       orderMode,
       selectedUnitIds
     });
-    const examMeaningMap = await loadExamMeaningMap(pageWords.map((word) => word.wordRef));
     const nextOffset = pageOffset + pageGroupKeys.length;
 
     res.json({
-      words: pageWords.map((word) => attachMeaningMetadata(word, examMeaningMap)),
+      words: pageWords.map((word) => attachMeaningMetadata(word)),
       totalGroups: groupedRows.length,
       loadedGroups: pageGroupKeys.length,
       hasMore: nextOffset < groupedRows.length,
@@ -396,11 +455,9 @@ router.get("/overview", async (req, res, next) => {
        LIMIT 8`
     );
 
-    const examMeaningMap = await loadExamMeaningMap(latestWords.map((word) => word.wordRef));
-
     res.json({
       totals,
-      latestWords: latestWords.map((word) => attachMeaningMetadata(word, examMeaningMap))
+      latestWords: latestWords.map((word) => attachMeaningMetadata(word))
     });
   } catch (error) {
     next(error);
@@ -433,10 +490,8 @@ router.get("/:id", async (req, res, next) => {
       return res.status(404).json({ message: "找不到該單字。" });
     }
 
-    const examMeaningMap = await loadExamMeaningMap([word.wordRef]);
-
     res.json({
-      word: attachMeaningMetadata(word, examMeaningMap)
+      word: attachMeaningMetadata(word)
     });
   } catch (error) {
     next(error);
@@ -444,3 +499,4 @@ router.get("/:id", async (req, res, next) => {
 });
 
 module.exports = router;
+

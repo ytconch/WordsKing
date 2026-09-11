@@ -1,0 +1,1509 @@
+{
+  "level": 2,
+  "chunkIndex": 11,
+  "inputs": [
+    "joint",
+    "journal",
+    "judge",
+    "judgment",
+    "judgement",
+    "justice",
+    "keeper",
+    "ketchup",
+    "kilogram",
+    "lack",
+    "lady",
+    "ladybug",
+    "lamb",
+    "lane",
+    "lantern",
+    "lap",
+    "latest",
+    "latter",
+    "law",
+    "lay",
+    "leadership",
+    "leaf",
+    "legal",
+    "lend",
+    "length",
+    "lens",
+    "liberal",
+    "lid",
+    "lift",
+    "likely",
+    "limit",
+    "link",
+    "liquid",
+    "listener",
+    "liver",
+    "load",
+    "local",
+    "lone",
+    "loss",
+    "lower",
+    "luck",
+    "magazine",
+    "maintain",
+    "major",
+    "male",
+    "manage",
+    "management",
+    "manager",
+    "mango",
+    "manner"
+  ],
+  "rows": [
+    {
+      "eng": "joint",
+      "kk": "dʒɔɪnt",
+      "tense": "n.",
+      "ch": [
+        [
+          "關節",
+          "骨節"
+        ],
+        [
+          "接合處",
+          "接縫"
+        ],
+        [
+          "大麻菸",
+          "捲菸"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古法語 joint，最終源自拉丁語 iunctus（動詞 iungere「連接」的過去分詞），經由中世紀英語進入英語。基本義為「連接的部位」，引申出解剖學上的「關節」、器物結構的「接合處」，以及現代俚語中的「大麻菸」。",
+      "definition": "1. a structure in the human or animal body where two bones meet; 2. a place where two parts are joined together; 3. a cigarette containing marijuana.",
+      "example": [
+        {
+          "eng": "He felt a sharp pain in his knee joint.",
+          "ch": "他感到膝蓋關節一陣劇痛。"
+        },
+        {
+          "eng": "Water is leaking from the pipe joint.",
+          "ch": "水正從水管接合處滲漏出來。"
+        },
+        {
+          "eng": "They were passing a joint around the campfire.",
+          "ch": "他們在營火旁傳著一根大麻菸抽。"
+        }
+      ]
+    },
+    {
+      "eng": "joint",
+      "kk": "dʒɔɪnt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "聯合的",
+          "共同的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自同源名詞 joint 的形容詞用法，表示由兩個或多個主體「共同參與或擁有」的狀態。",
+      "definition": "1. shared or done by two or more people or organizations.",
+      "example": [
+        {
+          "eng": "The two countries issued a joint statement.",
+          "ch": "兩國發表了一份聯合聲明。"
+        }
+      ]
+    },
+    {
+      "eng": "journal",
+      "kk": "ˈdʒɜːrnl",
+      "tense": "n.",
+      "ch": [
+        [
+          "期刊",
+          "學術雜誌"
+        ],
+        [
+          "日誌",
+          "日記",
+          "航海日誌"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古法語 journal（源於拉丁語 diurnalis「每日的」，根源為 dies「日」）。原意指每日記事或帳目，後來演變出「日誌」與定期出版的「學術期刊」等義項。",
+      "definition": "1. a serious magazine or academic periodical published regularly; 2. a daily record of news and events of a personal or professional nature.",
+      "example": [
+        {
+          "eng": "Her research paper was published in a medical journal.",
+          "ch": "她的研究論文發表在一份醫學期刊上。"
+        },
+        {
+          "eng": "He kept a travel journal during his trip to Europe.",
+          "ch": "他在歐洲旅行期間寫了一本旅行日誌。"
+        }
+      ]
+    },
+    {
+      "eng": "judge",
+      "kk": "dʒʌdʒ",
+      "tense": "n.",
+      "ch": [
+        [
+          "法官",
+          "審判長"
+        ],
+        [
+          "裁判",
+          "評審"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古法語 juge，最終源自拉丁語 iudex（由 ius「法律」與 dicere「說、宣告」組成，原義為「宣告法律者」）。在現代英語中主要指法庭上的「法官」或競賽中的「裁判、評審」。",
+      "definition": "1. a public official appointed to decide cases in a court of law; 2. a person chosen to decide who wins a contest or competition.",
+      "example": [
+        {
+          "eng": "The judge sentenced the defendant to five years in prison.",
+          "ch": "法官判處被告五年有期徒刑。"
+        },
+        {
+          "eng": "One of the judges awarded the singer a high score.",
+          "ch": "其中一位評審給這位歌手打了高分。"
+        }
+      ]
+    },
+    {
+      "eng": "judge",
+      "kk": "dʒʌdʒ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "審判",
+          "斷定"
+        ],
+        [
+          "評判",
+          "估計",
+          "評斷"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自古法語 jugier，源於拉丁語 iudicare。基本義為「行使司法審判」或「對人事物做出評估、判斷」，帶有直接受詞。",
+      "definition": "1. to form an opinion or conclusion about something; 2. to act as a judge in a competition or trial.",
+      "example": [
+        {
+          "eng": "Do not judge a book by its cover.",
+          "ch": "切勿以貌取人（不要從封面判斷一本書）。"
+        },
+        {
+          "eng": "She was asked to judge the annual art competition.",
+          "ch": "她受邀擔任年度美術比賽的評審。"
+        }
+      ]
+    },
+    {
+      "eng": "judgment",
+      "kk": "ˈdʒʌdʒmənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "判決",
+          "裁決"
+        ],
+        [
+          "判斷力",
+          "見解"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 judge 加上名詞字尾 -ment 構成。指法庭上的正式「判決」，或個人心智的「判斷力、見解」。拼字上亦可寫作 judgement。",
+      "definition": "1. an official decision given by a court of law; 2. the ability to make considered decisions or come to sensible conclusions.",
+      "example": [
+        {
+          "eng": "The court will hand down its judgment tomorrow.",
+          "ch": "法院明天將宣佈判決。"
+        },
+        {
+          "eng": "It was poor judgment to drive after drinking.",
+          "ch": "酒後駕車是判斷力不佳的表現。"
+        }
+      ]
+    },
+    {
+      "eng": "judgement",
+      "kk": "ˈdʒʌdʒmənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "判決",
+          "裁決"
+        ],
+        [
+          "判斷力",
+          "見解"
+        ]
+      ],
+      "analysis": "此字為名詞，為 judgment 的常見異體拼字（英式英語中較常保留中間的 e），字源、詞性與語義完全相同，由 judge 加上 -ment 構成。",
+      "definition": "1. an official decision given by a court of law; 2. the ability to make considered decisions or come to sensible conclusions.",
+      "example": [
+        {
+          "eng": "The judge reserved his judgement until the following week.",
+          "ch": "法官將判決保留到下周宣布。"
+        },
+        {
+          "eng": "Trust your own clinical judgement.",
+          "ch": "相信你自己的臨床判斷。"
+        }
+      ]
+    },
+    {
+      "eng": "justice",
+      "kk": "ˈdʒʌstɪs",
+      "tense": "n.",
+      "ch": [
+        [
+          "正義",
+          "公正"
+        ],
+        [
+          "司法",
+          "法律制裁"
+        ],
+        [
+          "法官",
+          "大法官"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古法語 justice，源於拉丁語 iustitia（衍生自 iustus「公正的、合法的」，源頭為 ius「法律」）。在現代英語中指抽象的「正義」、體制上的「司法」，以及美式英語中對「法官／大法官」的稱謂。",
+      "definition": "1. just behavior or treatment; fairness; 2. the administration of the law or legal authority; 3. a judge of a supreme court.",
+      "example": [
+        {
+          "eng": "People around the world are demanding peace and justice.",
+          "ch": "世界各地的人們都在要求和平與正義。"
+        },
+        {
+          "eng": "He believes the criminal justice system needs reform.",
+          "ch": "他認為刑事司法體系需要改革。"
+        },
+        {
+          "eng": "She was appointed as a Supreme Court Justice.",
+          "ch": "她被任命為最高法院大法官。"
+        }
+      ]
+    },
+    {
+      "eng": "keeper",
+      "kk": "ˈkiːpər",
+      "tense": "n.",
+      "ch": [
+        [
+          "看守人",
+          "管理員"
+        ],
+        [
+          "飼養員",
+          "動物園管理員"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 keep 加上表示人的名詞字尾 -er 構成。原意為「負責照顧、保存或看守某物的人」，常見於動物園管理員或監獄看守等複合詞及獨立職稱中。",
+      "definition": "1. a person who manages, looks after, or is in charge of something; 2. a person who looks after animals in a zoo.",
+      "example": [
+        {
+          "eng": "The zookeeper fed the pandas with fresh bamboo.",
+          "ch": "動物園管理員用新鮮竹子餵貓熊。"
+        },
+        {
+          "eng": "He is the keeper of the town archives.",
+          "ch": "他是鎮上檔案館的管理員。"
+        }
+      ]
+    },
+    {
+      "eng": "ketchup",
+      "kk": "ˈketʃəp",
+      "tense": "n.",
+      "ch": [
+        [
+          "番茄醬"
+        ]
+      ],
+      "analysis": "此字為名詞，其歷史可追溯至閩南語（或粵語）的「鮭汁」（kê-chiap，一種醃魚汁），經由東南亞傳至英國，後來在西方演變加入番茄等成分，成為現代常見的「番茄醬」。",
+      "definition": "1. a thick, cold red sauce made from tomatoes, vinegar, and sugar.",
+      "example": [
+        {
+          "eng": "He put a lot of ketchup on his French fries.",
+          "ch": "他在薯條上擠了許多番茄醬。"
+        }
+      ]
+    },
+    {
+      "eng": "kilogram",
+      "kk": "ˈkɪləɡræm",
+      "tense": "n.",
+      "ch": [
+        [
+          "公斤"
+        ]
+      ],
+      "analysis": "此字為名詞，由希臘語前綴 chilioi（千）與法語 gramme（克，源於希臘語 gramma「小重量單位」）結合而成，國際標準公制重量單位，等於一千克。",
+      "definition": "1. the SI unit of mass, equivalent to one thousand grams.",
+      "example": [
+        {
+          "eng": "The watermelon weighs five kilograms.",
+          "ch": "這顆西瓜重五公斤。"
+        }
+      ]
+    },
+    {
+      "eng": "lack",
+      "kk": "læk",
+      "tense": "n.",
+      "ch": [
+        [
+          "缺乏",
+          "不足"
+        ]
+      ],
+      "analysis": "此字為名詞，源自中世紀英語 lak（可能源自日耳曼語族，如中古荷蘭語 lac「缺陷、不足」）。指某物數量不足或完全沒有的狀態。",
+      "definition": "1. the state of being without or not having enough of something.",
+      "example": [
+        {
+          "eng": "The plant died due to a lack of water.",
+          "ch": "這株植物因缺乏水分而枯死。"
+        }
+      ]
+    },
+    {
+      "eng": "lack",
+      "kk": "læk",
+      "tense": "vt.",
+      "ch": [
+        [
+          "缺乏",
+          "短缺",
+          "沒有"
+        ]
+      ],
+      "analysis": "此字為及物動詞，與名詞同源（中世紀英語 laken），表示主詞「沒有」或「在數量上缺乏」直接受詞所指的事物。",
+      "definition": "1. to be without or to not have enough of something needed.",
+      "example": [
+        {
+          "eng": "He lacks the experience required for this job.",
+          "ch": "他缺乏這份工作所需的經驗。"
+        }
+      ]
+    },
+    {
+      "eng": "lady",
+      "kk": "ˈleɪdi",
+      "tense": "n.",
+      "ch": [
+        [
+          "女士",
+          "小姐",
+          "夫人"
+        ],
+        [
+          "淑女",
+          "有教養的女子"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古英語 hlǣfdige（字面義為「揉麵團的人」，由 hlāf「麵包」與 dige「捏造、揉」組合而成，原指負責家裡分發麵包的女性主婦）。後來演變成對女性的尊稱或「淑女」之意。",
+      "definition": "1. a polite or formal way of referring to a woman; 2. a woman of good birth, social position, or fine behavior.",
+      "example": [
+        {
+          "eng": "Ladies and gentlemen, please take your seats.",
+          "ch": "女士們先生們，請就座。"
+        },
+        {
+          "eng": "She always conducts herself like a true lady.",
+          "ch": "她舉止總是像個真正的淑女。"
+        }
+      ]
+    },
+    {
+      "eng": "ladybug",
+      "kk": "ˈleɪdibʌɡ",
+      "tense": "n.",
+      "ch": [
+        [
+          "瓢蟲"
+        ]
+      ],
+      "analysis": "此字為複合名詞，由 lady（此處指聖母瑪利亞 Our Lady）與 bug（昆蟲）結合而成。歐洲傳統上稱這種益蟲為「聖母之蟲」（源於其翅鞘顏色常讓人聯想起聖母的紅斗篷），為美式英語中常見的昆蟲名稱（英式常稱 ladybird）。",
+      "definition": "1. a small round red or yellow beetle with black spots.",
+      "example": [
+        {
+          "eng": "A tiny ladybug landed on her hand.",
+          "ch": "一隻小瓢蟲停在了她的手上。"
+        }
+      ]
+    },
+    {
+      "eng": "lamb",
+      "kk": "læm",
+      "tense": "n.",
+      "ch": [
+        [
+          "羔羊",
+          "小羊"
+        ],
+        [
+          "羊肉"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古英語 lamb，屬於日耳曼語支的繼承詞（源自原始日耳曼語 *lambam）。指未成年的一歲以下小羊，亦可指其可食用的肉品。",
+      "definition": "1. a young sheep; 2. the meat of a young sheep eaten as food.",
+      "example": [
+        {
+          "eng": "The mother sheep stayed close to her newborn lamb.",
+          "ch": "母羊一直緊緊守在初生的羔羊身旁。"
+        },
+        {
+          "eng": "We ordered roasted lamb for dinner.",
+          "ch": "我們晚餐點了烤羊肉。"
+        }
+      ]
+    },
+    {
+      "eng": "lane",
+      "kk": "leɪn",
+      "tense": "n.",
+      "ch": [
+        [
+          "小巷",
+          "小路"
+        ],
+        [
+          "車道",
+          "跑道航道"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古英語 lano、lane，屬於日耳曼語支的繼承詞。原指鄉間狹窄的小徑或巷弄，現代引申為公路上的「車道」、游泳池或田徑場的「跑道」。",
+      "definition": "1. a narrow road, street, or pathway; 2. a designated section of a road, track, or pool for a single line of traffic or participants.",
+      "example": [
+        {
+          "eng": "Their house is located down a quiet country lane.",
+          "ch": "他們的房子坐落在一條安靜的鄉間小路旁。"
+        },
+        {
+          "eng": "He drives carefully in the slow lane of the highway.",
+          "ch": "他在高速公路的慢車道上小心駕駛。"
+        }
+      ]
+    },
+    {
+      "eng": "lantern",
+      "kk": "ˈlæntərn",
+      "tense": "n.",
+      "ch": [
+        [
+          "燈籠",
+          "提燈"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古法語 lanterne，最終源自拉丁語 lanterna（源自希臘語 lampein「發光」）。指一種帶有保護罩、可手提或懸掛的燈具。",
+      "definition": "1. a lamp with a transparent case protecting the flame or bulb, often with a handle for carrying.",
+      "example": [
+        {
+          "eng": "They lit paper lanterns during the Mid-Autumn Festival.",
+          "ch": "他們在中秋節時點燃了紙燈籠。"
+        }
+      ]
+    },
+    {
+      "eng": "lap",
+      "kk": "læp",
+      "tense": "n.",
+      "ch": [
+        [
+          "大腿部",
+          "膝頭上"
+        ],
+        [
+          "（跑道等的）一圈"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古英語 lappa（意為「衣襟、下垂的裙擺」）。坐下時雙腿橫跨軀幹形成的水平部位稱為「大腿部」；體育競賽中繞跑道一整圈則稱為「一圈（lap）」，源自衣襟折疊的概念。",
+      "definition": "1. the flat area formed by the thighs of a seated person; 2. one circuit of a racecourse or track.",
+      "example": [
+        {
+          "eng": "The cat fell asleep peacefully on her lap.",
+          "ch": "貓安詳地在她大腿上睡著了。"
+        },
+        {
+          "eng": "He is leading the race by two laps.",
+          "ch": "他在比賽中領先了兩圈。"
+        }
+      ]
+    },
+    {
+      "eng": "latest",
+      "kk": "ˈleɪtɪst",
+      "tense": "adj.",
+      "ch": [
+        [
+          "最新的",
+          "最近的"
+        ]
+      ],
+      "analysis": "此字為形容詞，是 late 的最高級形式（late + -est）。在現代英語中幾乎專門用來指時間上「最新發布的、最近的」事物。",
+      "definition": "1. of the most recent date; most modern or up-to-date.",
+      "example": [
+        {
+          "eng": "She bought the latest model of the smartphone.",
+          "ch": "她買了這款智慧型手機的最新型號。"
+        }
+      ]
+    },
+    {
+      "eng": "latter",
+      "kk": "ˈlætər",
+      "tense": "adj.",
+      "ch": [
+        [
+          "（兩者中的）後者的"
+        ],
+        [
+          "後半的",
+          "末了的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自古英語 lātra（late 的比較級變體）。專門用來指兩項事物中「順序在後的（latter）」，或是某個時期、過程「後半段的」。",
+      "definition": "1. situated or occurring nearer to the end of something than to the beginning; 2. denoting the second or second mentioned of two people or things.",
+      "example": [
+        {
+          "eng": "Between coffee and tea, she prefers the latter.",
+          "ch": "在咖啡和茶之間，她偏好後者。"
+        },
+        {
+          "eng": "Heavy rain is expected in the latter part of the day.",
+          "ch": "預計今天後半天會有大雨。"
+        }
+      ]
+    },
+    {
+      "eng": "law",
+      "kk": "lɔː",
+      "tense": "n.",
+      "ch": [
+        [
+          "法律",
+          "法規"
+        ],
+        [
+          "規律",
+          "定律"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古英語 lagu（借自古諾斯語 *lagu，意為「被設定或固定之物」）。指社群所公認的行為規範系統，或支配自然現象的科學原理。",
+      "definition": "1. the system of rules which a particular country or community recognizes as regulating the actions of its members; 2. a statement of fact meant to explain, in all cases, a particular kind of natural phenomenon.",
+      "example": [
+        {
+          "eng": "Breaking the law can result in severe punishment.",
+          "ch": "違反法律可能會招致嚴厲的懲罰。"
+        },
+        {
+          "eng": "Newton's law of universal gravitation explains planetary motion.",
+          "ch": "牛頓的萬有引力定律解釋了行星運動。"
+        }
+      ]
+    },
+    {
+      "eng": "lay",
+      "kk": "leɪ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "放置",
+          "平放",
+          "鋪設"
+        ],
+        [
+          "產卵",
+          "下蛋"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自古英語 lecgan（「使躺下、放置」），為 lie（躺）的使役動詞形式。基本義為將物體水平「放置、鋪設」，或指鳥類、昆蟲「產卵、下蛋」，後面必須接直接受詞。",
+      "definition": "1. to put something down carefully in a flat or horizontal position; 2. to produce and deposit an egg.",
+      "example": [
+        {
+          "eng": "Please lay the heavy book on the desk.",
+          "ch": "請把這本厚重的書平放在桌上。"
+        },
+        {
+          "eng": "The hen lays an egg every morning.",
+          "ch": "這隻母雞每天早晨生一顆蛋。"
+        }
+      ]
+    },
+    {
+      "eng": "leadership",
+      "kk": "ˈliːdərʃɪp",
+      "tense": "n.",
+      "ch": [
+        [
+          "領導能力",
+          "領導才能"
+        ],
+        [
+          "領導階層",
+          "管理高層"
+        ]
+      ],
+      "analysis": "此字為名詞，由領導者 leader 加上抽象名詞字尾 -ship 構成。指一個人或團體展現的「領導才能」，或集體合稱的「領導高層、領導階層」。",
+      "definition": "1. the action of leading a group of people or an organization; 2. the leaders of an organization, country, or group.",
+      "example": [
+        {
+          "eng": "Strong leadership is essential for the success of the company.",
+          "ch": "強而有力的領導能力對公司的成功至關重要。"
+        },
+        {
+          "eng": "The new leadership promised to bring major changes.",
+          "ch": "新的領導階層承諾帶來重大變革。"
+        }
+      ]
+    },
+    {
+      "eng": "leaf",
+      "kk": "liːf",
+      "tense": "n.",
+      "ch": [
+        [
+          "葉子",
+          "樹葉"
+        ],
+        [
+          "（書本等的）頁（雙面）",
+          "金屬薄片"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古英語 lēaf，屬於日耳曼語支的繼承詞。原指植物的「葉子」，因其形狀薄而平展，後來引申出書本的「紙頁」或金屬薄片（如金箔 leaf）之義。",
+      "definition": "1. a flattened structure of a higher plant, typically green and blade-like; 2. a sheet of a book or of metal foil.",
+      "example": [
+        {
+          "eng": "Autumn winds blew the yellow leaves off the trees.",
+          "ch": "秋風將樹上的黃葉吹落。"
+        },
+        {
+          "eng": "The ancient manuscript is missing several leaves.",
+          "ch": "這份古代手稿缺了好幾頁。"
+        }
+      ]
+    },
+    {
+      "eng": "legal",
+      "kk": "ˈliːɡl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "法律的",
+          "合法的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自拉丁語 legalis（源於 lex「法律」），經由古法語進入英語。指與「法律」相關的，或在法律允許範圍內的「合法的」。",
+      "definition": "1. connected with the law; 2. allowed by law.",
+      "example": [
+        {
+          "eng": "She sought professional legal advice before signing the contract.",
+          "ch": "她在簽署合約前尋求了專業的法律諮詢。"
+        },
+        {
+          "eng": "Parking here is not legal.",
+          "ch": "在這裡停車是不合法的。"
+        }
+      ]
+    },
+    {
+      "eng": "lend",
+      "kk": "lend",
+      "tense": "vt.",
+      "ch": [
+        [
+          "借出",
+          "貸與"
+        ],
+        [
+          "提供",
+          "給予（支持、特質等）"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自古英語 lænan（源於 lān「貸款、恩惠」）。指暫時把東西「借給」別人，或是抽象地「提供、賦予」某種特質（如 lend support / lend an air of elegance）。",
+      "definition": "1. to grant the use of something to someone on the understanding that it will be returned; 2. to contribute or add a quality to something.",
+      "example": [
+        {
+          "eng": "Can you lend me some money for lunch?",
+          "ch": "你可以借我一些吃午餐的錢嗎？"
+        },
+        {
+          "eng": "The red curtains lend warmth to the living room.",
+          "ch": "紅色的窗簾為客廳增添了一絲溫馨感。"
+        }
+      ]
+    },
+    {
+      "eng": "length",
+      "kk": "leŋkθ",
+      "tense": "n.",
+      "ch": [
+        [
+          "長度",
+          "篇幅",
+          "距離"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古英語 lengu，由形容詞 long 加上名詞字尾 -th 衍生而來（元音發生 umlaut 變化）。指物體在空間上的「長度」、文章的「篇幅」，或競賽中的「一場身位距離」。",
+      "definition": "1. the measurement of something from end to end; 2. the amount of time or the extent of something in space or writing.",
+      "example": [
+        {
+          "eng": "The swimming pool is fifty meters in length.",
+          "ch": "這個游泳池長度為五十公尺。"
+        },
+        {
+          "eng": "I was surprised by the great length of the report.",
+          "ch": "這份報告驚人的篇幅令我感到意外。"
+        }
+      ]
+    },
+    {
+      "eng": "lens",
+      "kk": "lenz",
+      "tense": "n.",
+      "ch": [
+        [
+          "鏡片",
+          "透鏡"
+        ],
+        [
+          "眼球水晶體"
+        ]
+      ],
+      "analysis": "此字為名詞，源自拉丁語 lēns（意為「扁豆」），因為雙凸透鏡的形狀類似扁豆而得名。用來指光學透鏡、眼鏡鏡片、相機鏡頭，或生物學上的眼球水晶體。",
+      "definition": "1. a piece of glass or other transparent substance with curved sides for magnifying or refracting light; 2. the transparent structure behind the pupil of the eye.",
+      "example": [
+        {
+          "eng": "He wiped the smudges off his camera lens.",
+          "ch": "他擦掉了相機鏡頭上的指紋污漬。"
+        },
+        {
+          "eng": "Prolonged exposure to UV light can damage the eye's lens.",
+          "ch": "長時間暴露在紫外線下會損害眼睛的水晶體。"
+        }
+      ]
+    },
+    {
+      "eng": "liberal",
+      "kk": "ˈlɪbərəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "自由主義的",
+          "開明的"
+        ],
+        [
+          "慷慨的",
+          "豐富的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自拉丁語 liberalis（源於 liber「自由的」）。原指「適合自由人的學問（自由藝科 liberal arts）」，後來演變成政治上的「開明、自由主義的」，亦可指給予或數量上的「慷慨的、豐富的」。",
+      "definition": "1. willing to respect or accept behavior or opinions different from one's own; open-minded; 2. giving generously; plentiful.",
+      "example": [
+        {
+          "eng": "She holds very liberal views on social issues.",
+          "ch": "她對社會議題抱持非常開明的觀點。"
+        },
+        {
+          "eng": "He added a liberal amount of butter to the recipe.",
+          "ch": "他在食譜中加入了相當豐富份量的奶油。"
+        }
+      ]
+    },
+    {
+      "eng": "lid",
+      "kk": "lɪd",
+      "tense": "n.",
+      "ch": [
+        [
+          "蓋子",
+          "罩子"
+        ],
+        [
+          "眼皮"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古英語 hlīd（意為「蓋子、掩蔽物」），屬於日耳曼語支的繼承詞。指容器的「蓋子」，或用來遮蔽眼睛的生理構造「眼皮（eyelid）」。",
+      "definition": "1. a removable or hinged cover for closing the opening of a container; 2. each of the upper and lower folds of skin that cover the eye.",
+      "example": [
+        {
+          "eng": "Put the lid back on the pot so the soup stays warm.",
+          "ch": "把鍋蓋蓋回去，這樣湯才能保持溫熱。"
+        },
+        {
+          "eng": "She closed her heavy lids and fell asleep.",
+          "ch": "她闔上沈重的眼皮睡著了。"
+        }
+      ]
+    },
+    {
+      "eng": "lift",
+      "kk": "lɪft",
+      "tense": "n.",
+      "ch": [
+        [
+          "電梯（英式）"
+        ],
+        [
+          "免費搭乘",
+          "便車"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古諾斯語 lypta（升起）。在英式英語中指「電梯」，在日常口語中也指讓人「免費搭便車（give someone a lift）」。",
+      "definition": "1. a platform or enclosure for raising and lowering people or goods to different levels (British); 2. a free ride in another person's vehicle.",
+      "example": [
+        {
+          "eng": "We took the lift up to the fifth floor.",
+          "ch": "我們搭電梯上到五樓。"
+        },
+        {
+          "eng": "Can you give me a lift to the train station?",
+          "ch": "你可以順便載我一程去火車站嗎？"
+        }
+      ]
+    },
+    {
+      "eng": "lift",
+      "kk": "lɪft",
+      "tense": "vt.",
+      "ch": [
+        [
+          "舉起",
+          "抬起",
+          "提昇"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自古諾斯語 lypta（抬起）。基本義為將物體從低處往高處「舉起、抬起」，或抽象地「提昇（士氣、心情等）」，後接直接受詞。",
+      "definition": "1. to raise something to a higher position or level.",
+      "example": [
+        {
+          "eng": "He lifted the heavy box with both hands.",
+          "ch": "他用雙手舉起了這個重箱子。"
+        }
+      ]
+    },
+    {
+      "eng": "likely",
+      "kk": "ˈlaɪkli",
+      "tense": "adj.",
+      "ch": [
+        [
+          "很有可能的",
+          "合乎情理的"
+        ]
+      ],
+      "analysis": "此字為形容詞，由名詞／形容詞 like 加上形容詞字尾 -ly 構成（意為「像…一樣的、有發生傾向的」）。在現代英語中主要用來描述某事「很有可能發生」或「傾向於…」。",
+      "definition": "1. such as well might happen or be true; probable.",
+      "example": [
+        {
+          "eng": "It is likely to rain this afternoon, so take an umbrella.",
+          "ch": "今天下午很有可能會下雨，帶把傘吧。"
+        }
+      ]
+    },
+    {
+      "eng": "limit",
+      "kk": "ˈlɪmɪt",
+      "tense": "n.",
+      "ch": [
+        [
+          "限制",
+          "極限",
+          "界線"
+        ]
+      ],
+      "analysis": "此字為名詞，源自拉丁語 limes（意為「界線、田地之間的界標」），經由古法語進入英語。指空間、時間或數量的「極限、邊界或規定限制」。",
+      "definition": "1. a point or level beyond which something does not or may not extend or pass.",
+      "example": [
+        {
+          "eng": "There is a speed limit of sixty miles per hour on this road.",
+          "ch": "這條道路的速限是每小時六十英里。"
+        }
+      ]
+    },
+    {
+      "eng": "link",
+      "kk": "lɪŋk",
+      "tense": "n.",
+      "ch": [
+        [
+          "連結",
+          "環節",
+          "網路超連結"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古諾斯語 *hlekkr（意為「鏈條的環」），屬於日耳曼語支詞彙。原指金屬鍊條上的「環節」，引申為事物之間的「關聯、連結」，在網際網路時代則指「超連結」。",
+      "definition": "1. each of the rings or separate pieces forming a chain; 2. a relationship or connection between two or more things; 3. a clickable reference on a website.",
+      "example": [
+        {
+          "eng": "Police found a vital link between the two crimes.",
+          "ch": "警方找到了這兩起犯罪之間至關重要的關聯。"
+        },
+        {
+          "eng": "Click on the link to download the software.",
+          "ch": "點擊該連結以下載軟體。"
+        }
+      ]
+    },
+    {
+      "eng": "link",
+      "kk": "lɪŋk",
+      "tense": "vt.",
+      "ch": [
+        [
+          "連結",
+          "結合",
+          "把…聯繫起來"
+        ]
+      ],
+      "analysis": "此字為及物動詞，與名詞同源，指將兩個或多個實體或概念「串聯、結合」在一起，後面接直接受詞。",
+      "definition": "1. to make a connection between two or more things or people.",
+      "example": [
+        {
+          "eng": "The new bridge links the island to the mainland.",
+          "ch": "這座新橋將該島與大陸連接起來。"
+        }
+      ]
+    },
+    {
+      "eng": "liquid",
+      "kk": "ˈlɪkwɪd",
+      "tense": "n.",
+      "ch": [
+        [
+          "液體"
+        ]
+      ],
+      "analysis": "此字為名詞，源自拉丁語 liquidus（意為「流動的、清澈的」），源自動詞 liquere（液化）。指物質處於流動、無固定形狀但體積固定的狀態（即液體）。",
+      "definition": "1. a substance that flows freely and has a constant volume but no fixed shape, such as water or oil.",
+      "example": [
+        {
+          "eng": "Patients are advised to drink plenty of clear liquids.",
+          "ch": "建議患者多喝清澈的液體（水分）。"
+        }
+      ]
+    },
+    {
+      "eng": "liquid",
+      "kk": "ˈlɪkwɪd",
+      "tense": "adj.",
+      "ch": [
+        [
+          "液體的",
+          "液態的"
+        ],
+        [
+          "清澈流暢的",
+          "（資產等）易變現的"
+        ]
+      ],
+      "analysis": "此字為形容詞，與液體名詞同源，指物質呈「液態的」，或形容聲音、資產等「流暢的」或「具流動性（易變現）的」。",
+      "definition": "1. in the form of a liquid; not solid or gas; 2. clear and smooth in sound, or easily converted into cash.",
+      "example": [
+        {
+          "eng": "Water is the most common liquid substance on Earth.",
+          "ch": "水是地球上最常見的液態物質。"
+        }
+      ]
+    },
+    {
+      "eng": "listener",
+      "kk": "ˈlɪsənər",
+      "tense": "n.",
+      "ch": [
+        [
+          "聽眾",
+          "聆聽者"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 listen 加上表示人的名詞字尾 -er 構成。指正在聽廣播、演講或聲音的人（聽眾）。",
+      "definition": "1. a person who is listening, especially to a radio broadcast or audience member.",
+      "example": [
+        {
+          "eng": "The radio station has millions of regular listeners.",
+          "ch": "這家廣播電台擁有數百萬固定聽眾。"
+        }
+      ]
+    },
+    {
+      "eng": "liver",
+      "kk": "ˈlɪvər",
+      "tense": "n.",
+      "ch": [
+        [
+          "肝臟"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古英語 lifer，屬於日耳曼語支的繼承詞。指脊椎動物體內負責新陳代謝與解毒的重要內臟器官「肝臟」。",
+      "definition": "1. a large lobed glandular organ in the abdomen of vertebrates, involved in metabolic processes.",
+      "example": [
+        {
+          "eng": "Excessive alcohol consumption can severely damage the liver.",
+          "ch": "過量飲酒會嚴重損害肝臟。"
+        }
+      ]
+    },
+    {
+      "eng": "load",
+      "kk": "loʊd",
+      "tense": "n.",
+      "ch": [
+        [
+          "負荷",
+          "負載",
+          "裝載量"
+        ],
+        [
+          "大量",
+          "重擔"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古英語 lād（意為「載運、道路、課程」）。原指運送的貨物或負荷，現代引申為機械的「負載量」或日常口語中的「大量（loads of）」。",
+      "definition": "1. a heavy or bulky thing that is being carried or is about to be carried; 2. a large amount or number of something.",
+      "example": [
+        {
+          "eng": "The truck was carrying a heavy load of gravel.",
+          "ch": "這輛卡車載著重重的碎石。"
+        },
+        {
+          "eng": "We have loads of time before the train departs.",
+          "ch": "在火車出發前我們還有充裕的時間。"
+        }
+      ]
+    },
+    {
+      "eng": "load",
+      "kk": "loʊd",
+      "tense": "vt.",
+      "ch": [
+        [
+          "裝載",
+          "把…裝上"
+        ],
+        [
+          "（軟體等）載入",
+          "輸入資料"
+        ]
+      ],
+      "analysis": "此字為及物動詞，與名詞同源，指將貨物「裝載」到車船上，或在電腦運算中將程式與資料「載入」記憶體中，後接直接受詞。",
+      "definition": "1. to put a load onto or into a vehicle, container, or machine; 2. to transfer data or programs into computer memory.",
+      "example": [
+        {
+          "eng": "Workers are busy loading boxes into the back of the van.",
+          "ch": "工人們正忙著把箱子裝到廂型車後車廂。"
+        },
+        {
+          "eng": "The webpage is taking a long time to load.",
+          "ch": "這個網頁載入花費了很長時間。"
+        }
+      ]
+    },
+    {
+      "eng": "local",
+      "kk": "ˈloʊkl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "當地的",
+          "本地的"
+        ],
+        [
+          "局部的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自拉丁語 localis（源於 locus「地方、場所」）。指與特定地點或社區相關的「當地的」，或是影響身體某個區域的「局部的」。",
+      "definition": "1. relating to or characteristic of a particular place or neighborhood; 2. affecting only a small area or part of the body.",
+      "example": [
+        {
+          "eng": "She likes to buy fresh vegetables at the local market.",
+          "ch": "她喜歡在當地市場買新鮮蔬菜。"
+        },
+        {
+          "eng": "He applied a local anesthetic before the minor surgery.",
+          "ch": "他在小手術前施用了局部麻醉劑。"
+        }
+      ]
+    },
+    {
+      "eng": "lone",
+      "kk": "loʊn",
+      "tense": "adj.",
+      "ch": [
+        [
+          "單獨的",
+          "孤獨的"
+        ]
+      ],
+      "analysis": "此字為形容詞，為 alone 的截短形式（或源自中世紀英語 lon，源於古諾斯語 lonr）。通常用在名詞前方，形容單獨一人或孤立的狀態。",
+      "definition": "1. having no companions; solitary or single.",
+      "example": [
+        {
+          "eng": "A lone wolf was spotted near the edge of the forest.",
+          "ch": "有人在森林邊緣發現了一隻孤狼。"
+        }
+      ]
+    },
+    {
+      "eng": "loss",
+      "kk": "lɔːs",
+      "tense": "n.",
+      "ch": [
+        [
+          "損失",
+          "喪失",
+          "遺失"
+        ],
+        [
+          "（競賽中的）失敗",
+          "輸掉"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古英語 los（意為「毀滅、消失」），與動詞 lose 緊密相關。指金錢、親人、物品的「喪失與損失」，或體育比賽中吞下的「敗仗」。",
+      "definition": "1. the fact or process of losing something or someone; 2. an instance of failing to win a game or contest.",
+      "example": [
+        {
+          "eng": "The company suffered a huge financial loss this quarter.",
+          "ch": "這家公司本季遭受了巨大的財務損失。"
+        },
+        {
+          "eng": "The team took the loss hard and trained harder.",
+          "ch": "球隊難以接受這次失敗，因而更加努力訓練。"
+        }
+      ]
+    },
+    {
+      "eng": "lower",
+      "kk": "ˈloʊər",
+      "tense": "vt.",
+      "ch": [
+        [
+          "降低",
+          "放下",
+          "減弱"
+        ]
+      ],
+      "analysis": "此字為及物動詞，由形容詞 low 加上動詞字尾 -er 轉品或衍生而來。指將物體的位置「放下、降低」，或減弱聲音、價格等，後接直接受詞。",
+      "definition": "1. to move something down to a lower position; 2. to reduce in amount, degree, or intensity.",
+      "example": [
+        {
+          "eng": "He lowered his voice so that no one else could hear.",
+          "ch": "他降低了音量，以便其他人聽不見。"
+        }
+      ]
+    },
+    {
+      "eng": "lower",
+      "kk": "ˈloʊər",
+      "tense": "adj.",
+      "ch": [
+        [
+          "較低的",
+          "下部的"
+        ]
+      ],
+      "analysis": "此字為形容詞，為 low 的比較級形式（low + -er）。在空間或位置上指相對處於「下方、較低」的部位。",
+      "definition": "1. situated below other things or parts of the same kind.",
+      "example": [
+        {
+          "eng": "Please check the items on the lower shelf.",
+          "ch": "請查看較低層架上的物品。"
+        }
+      ]
+    },
+    {
+      "eng": "luck",
+      "kk": "lʌk",
+      "tense": "n.",
+      "ch": [
+        [
+          "運氣",
+          "幸運"
+        ]
+      ],
+      "analysis": "此字為名詞，源自中古荷蘭語 orluck（意為「命運、好運或壞運」），在15世紀前後進入英語。指超出人為控制、由機緣決定的「好運或命運」。",
+      "definition": "1. success or failure apparently brought by chance rather than through one's own actions.",
+      "example": [
+        {
+          "eng": "It was pure luck that we found a parking space right in front.",
+          "ch": "我們剛好在正前方找到一個停車位，純粹是運氣好。"
+        }
+      ]
+    },
+    {
+      "eng": "magazine",
+      "kk": "ˌmæɡəˈziːn",
+      "tense": "n.",
+      "ch": [
+        [
+          "雜誌",
+          "期刊"
+        ],
+        [
+          "彈匣",
+          "軍火庫"
+        ]
+      ],
+      "analysis": "此字為名詞，源自阿拉伯語 makhāzin（makhzan「倉庫」的複數形式），經由義大利語與法語進入英語。原意為「儲存物資的倉庫」，引申出軍事上的「彈匣、軍火庫」，以及定期出版、內容豐富的「印刷雜誌」。",
+      "definition": "1. a periodical publication containing articles and illustrations; 2. a chamber for holding cartridges in a gun.",
+      "example": [
+        {
+          "eng": "She flipped through the fashion magazine while waiting.",
+          "ch": "她一邊等待一邊翻閱時尚雜誌。"
+        },
+        {
+          "eng": "The soldier loaded a fresh magazine into his rifle.",
+          "ch": "士兵將一個新彈匣裝進他的步槍裡。"
+        }
+      ]
+    },
+    {
+      "eng": "maintain",
+      "kk": "meɪnˈteɪn",
+      "tense": "vt.",
+      "ch": [
+        [
+          "維持",
+          "保持"
+        ],
+        [
+          "保養",
+          "維修"
+        ],
+        [
+          "堅稱",
+          "主張"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自古法語 maintenir，最終源自拉丁語 manu tenere（由 manus「手」與 tenere「握住」組成，字面義為「用手抓住、支撐」）。現代英語中用來指「維持現狀、維修設備」，或在言論中「堅持主張某觀點」，後接直接受詞。",
+      "definition": "1. to cause or enable a condition or state to continue; 2. to keep buildings or equipment in good condition; 3. to strongly assert a belief or opinion.",
+      "example": [
+        {
+          "eng": "It is important to maintain a healthy diet and lifestyle.",
+          "ch": "保持健康的飲食與生活方式非常重要。"
+        },
+        {
+          "eng": "The city council failed to maintain the public roads properly.",
+          "ch": "市政府未能妥善維修公共道路。"
+        },
+        {
+          "eng": "He continued to maintain his innocence throughout the trial.",
+          "ch": "他在整個審判過程中始終堅稱自己是無辜的。"
+        }
+      ]
+    },
+    {
+      "eng": "major",
+      "kk": "ˈmeɪdʒər",
+      "tense": "n.",
+      "ch": [
+        [
+          "（大學的）主修科目",
+          "主修學生"
+        ],
+        [
+          "少校（軍銜）"
+        ]
+      ],
+      "analysis": "此字為名詞，與形容詞同源。指大學學術上的「主修科目或主修學生」，或是陸軍、空軍及海軍陸戰隊的「少校」軍銜。",
+      "definition": "1. a specialized field of study in a university, or a student specializing in it; 2. an army officer of middle rank, above captain.",
+      "example": [
+        {
+          "eng": "He is an economics major at the local university.",
+          "ch": "他是當地大學的經濟學主修學生。"
+        },
+        {
+          "eng": "The major ordered his troops to hold their position.",
+          "ch": "少校下令他的部隊堅守陣地。"
+        }
+      ]
+    },
+    {
+      "eng": "major",
+      "kk": "ˈmeɪdʒər",
+      "tense": "adj.",
+      "ch": [
+        [
+          "主要的",
+          "重大的"
+        ],
+        [
+          "（大學的）主修的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自拉丁語 maior（magnus 的比較級，意為「更大的」）。在現代英語中指在重要性、規模上「主要的、重大的」，或在北美大學教育中指學術「主修的」。",
+      "definition": "1. important, serious, or significant; 2. relating to a student's main subject of study at a university.",
+      "example": [
+        {
+          "eng": "We are facing a major problem with the software delivery.",
+          "ch": "我們在軟體交付上面臨一個重大問題。"
+        },
+        {
+          "eng": "Her major subject in college is computer science.",
+          "ch": "她在大學的主修科目是計算機科學。"
+        }
+      ]
+    },
+    {
+      "eng": "male",
+      "kk": "meɪl",
+      "tense": "n.",
+      "ch": [
+        [
+          "男性",
+          "雄性動物"
+        ]
+      ],
+      "analysis": "此字為名詞，與形容詞同源，指屬於男性或雄性性別的人或動物個體。",
+      "definition": "1. a male person, animal, or plant.",
+      "example": [
+        {
+          "eng": "Both males and females participated in the survey.",
+          "ch": "男性與女性都參與了這項調查。"
+        }
+      ]
+    },
+    {
+      "eng": "male",
+      "kk": "meɪl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "男性的",
+          "雄性的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自古法語 male，最終源自拉丁語 masculus。指生物學或社會性別上的「男性、雄性」特徵。",
+      "definition": "1. of or denoting the sex that produces gametes, such as spermatozoa, that fertilize the female gametes.",
+      "example": [
+        {
+          "eng": "The male lion has a thick, impressive mane.",
+          "ch": "雄獅擁有濃密而威風的鬃毛。"
+        }
+      ]
+    },
+    {
+      "eng": "manage",
+      "kk": "ˈmænɪdʒ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "管理",
+          "經營",
+          "掌控"
+        ],
+        [
+          "設法應付",
+          "辦妥"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自義大利語 maneggiare（「訓練馬匹」，源於拉丁語 manus「手」）。原意為馴馬、操控，後來演變成對組織、資源的「管理與經營」，或在困難情況下「設法辦妥、應付」，後接直接受詞。",
+      "definition": "1. to be in charge of a business, organization, or resource; 2. to succeed in achieving or organizing something despite difficulties.",
+      "example": [
+        {
+          "eng": "She was hired to manage the company's marketing department.",
+          "ch": "她被聘來管理公司的行銷部門。"
+        },
+        {
+          "eng": "He managed to finish the report before the deadline.",
+          "ch": "他設法在截止日期前完成了報告。"
+        }
+      ]
+    },
+    {
+      "eng": "management",
+      "kk": "ˈmænɪdʒmənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "管理",
+          "經營"
+        ],
+        [
+          "管理階層",
+          "資方"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 manage 加上名詞字尾 -ment 構成。指對組織事務的「管理過程」，或統稱企業中負責決策的「管理階層、資方」。",
+      "definition": "1. the process of dealing with or controlling things or people; 2. the executives or managers who control an organization.",
+      "example": [
+        {
+          "eng": "Effective time management is the key to productivity.",
+          "ch": "有效的时间管理是提高工作效率的關鍵。"
+        },
+        {
+          "eng": "The union is currently in negotiations with management.",
+          "ch": "工會目前正與管理階層進行協商。"
+        }
+      ]
+    },
+    {
+      "eng": "manager",
+      "kk": "ˈmænɪdʒər",
+      "tense": "n.",
+      "ch": [
+        [
+          "經理",
+          "主管"
+        ],
+        [
+          "（運動隊的）總教練",
+          "領隊"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 manage 加上表示人的名詞字尾 -er 構成。指企業中的「經理、主管」，或體育競賽（如足球、棒球）中的「總教練、領隊」。",
+      "definition": "1. a person responsible for controlling or administering all or part of a company; 2. the person responsible for the training and tactics of a sports team.",
+      "example": [
+        {
+          "eng": "You need to speak to the store manager about a refund.",
+          "ch": "你需要找店經理談談退款事宜。"
+        },
+        {
+          "eng": "The football manager praised his players for their hard work.",
+          "ch": "足球總教練稱讚球員們的努力。"
+        }
+      ]
+    },
+    {
+      "eng": "mango",
+      "kk": "ˈmæŋɡoʊ",
+      "tense": "n.",
+      "ch": [
+        [
+          "芒果"
+        ]
+      ],
+      "analysis": "此字為名詞，源自馬來語 mangga，最終源自泰米爾語 māṅkāy。經由葡萄牙語傳入歐洲語系，指熱帶常見的甜美多汁水果「芒果」。",
+      "definition": "1. a sweet tropical fruit with a yellow-red flesh and a large flat stone.",
+      "example": [
+        {
+          "eng": "She blended fresh mango chunks into a smoothie.",
+          "ch": "她把新鮮的芒果塊打成了冰沙。"
+        }
+      ]
+    },
+    {
+      "eng": "manner",
+      "kk": "ˈmænər",
+      "tense": "n.",
+      "ch": [
+        [
+          "方式",
+          "方法",
+          "態度"
+        ],
+        [
+          "禮貌，規矩（常用複數 manners）"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古法語 maniere，最終源自拉丁語 manus（手），原指「手的動作、手法」。後來演變成做事的方法、個人的態度，以及表徵社會行為規範的「禮貌、規矩（manners）」。",
+      "definition": "1. a way in which a thing is done or happens; 2. behavior towards others; politeness (usually used as manners).",
+      "example": [
+        {
+          "eng": "She explained the complex rule in a calm manner.",
+          "ch": "她以鎮定的方式解釋了這項複雜的規則。"
+        },
+        {
+          "eng": "Children should be taught good manners from a young age.",
+          "ch": "應該從小教導孩子良好的禮貌。"
+        }
+      ]
+    }
+  ]
+}

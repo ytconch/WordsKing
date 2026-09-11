@@ -1,0 +1,1287 @@
+{
+  "level": 4,
+  "chunkIndex": 11,
+  "inputs": [
+    "helicopter",
+    "herd",
+    "hesitation",
+    "hive",
+    "homeland",
+    "honeymoon",
+    "hook",
+    "horizon",
+    "horrify",
+    "hose",
+    "household",
+    "housework",
+    "humanity",
+    "humidity",
+    "hurricane",
+    "hush",
+    "hydrogen",
+    "identical",
+    "identification",
+    "identify",
+    "idiom",
+    "idle",
+    "idol",
+    "ignorance",
+    "ignorant",
+    "illustrate",
+    "illustration",
+    "imaginary",
+    "imaginative",
+    "imitate",
+    "imitation",
+    "immigrant",
+    "immigrate",
+    "immigration",
+    "impact",
+    "imply",
+    "impose",
+    "impression",
+    "incident",
+    "including",
+    "incredible",
+    "indication",
+    "infant",
+    "infection",
+    "inflation",
+    "influential",
+    "informative",
+    "ingredient",
+    "initial",
+    "injure"
+  ],
+  "rows": [
+    {
+      "eng": "helicopter",
+      "kk": "[ˈhɛlɪˌkɑptɚ]",
+      "tense": "n.",
+      "ch": [
+        [
+          "直升機"
+        ],
+        [
+          "直升機停機坪",
+          "直升機起降場"
+        ]
+      ],
+      "analysis": "此字為現代科技複合詞，由希臘語字根 helix（螺旋、捲曲）與 pteron（翅膀）結合而成，字面義即「螺旋之翼」。19 世紀末至 20 世紀初隨著航空科技發展而出現並普及。在現代英語中主要作名詞使用，指由頂部旋翼提供升力與推進力的航空器，亦可引申指直升機起降場（heliport 的簡稱）。",
+      "definition": "1. an aircraft that gets its lift and thrust from one or more sets of large rotating blades on top; 2. a helicopter landing pad or heliport.",
+      "example": [
+        {
+          "eng": "The rescue team arrived at the mountain peak by helicopter.",
+          "ch": "救援隊乘直升機抵達山頂。"
+        },
+        {
+          "eng": "The medical helicopter landed on the hospital roof.",
+          "ch": "醫療直升機降落在醫院屋頂上。"
+        }
+      ]
+    },
+    {
+      "eng": "herd",
+      "kk": "[hɝd]",
+      "tense": "n.",
+      "ch": [
+        [
+          "獸群",
+          "牧群"
+        ],
+        [
+          "人群",
+          "群眾"
+        ]
+      ],
+      "analysis": "源自古英語 heord（獸群、牧群），屬於日耳曼語族繼承詞，與荷語 kudde、德語 Herde 同源。名詞主要指成群結隊的家畜或野生動物，引申可用來指稱或形容烏合之眾或毫無主見的一群人。",
+      "definition": "1. a large group of animals of the same type that live and feed together; 2. a large group of people, typically considered as a mass without individuality.",
+      "example": [
+        {
+          "eng": "A large herd of elephants was moving slowly across the grassy plain.",
+          "ch": "一大群大象正緩慢地越過長滿青草的平原。"
+        },
+        {
+          "eng": "She tried to escape from the tourist herd and find some quiet space.",
+          "ch": "她試著逃離觀光客群，尋找一些安靜的空間。"
+        }
+      ]
+    },
+    {
+      "eng": "herd",
+      "kk": "[hɝd]",
+      "tense": "vt.",
+      "ch": [
+        [
+          "放牧",
+          "管理獸群"
+        ],
+        [
+          "聚集",
+          "引導人群"
+        ]
+      ],
+      "analysis": "由名詞 herd 轉化而來的及物動詞，保留與獸群相關的動作核心。原意指驅趕或管理牲畜，現代亦常用於指引或引導人群集體移動。",
+      "definition": "1. to move or cause a group of animals to move together; 2. to bring or guide people together into a particular place.",
+      "example": [
+        {
+          "eng": "The young cowboy was hired to herd the cattle back to the barn.",
+          "ch": "這位年輕的牛仔被僱用來把牛群趕回畜棚。"
+        },
+        {
+          "eng": "The museum guides tried to herd the noisy tourists into the main hall.",
+          "ch": "博物館導遊試圖把吵鬧的遊客引導進大廳。"
+        }
+      ]
+    },
+    {
+      "eng": "hesitation",
+      "kk": "[ˌhɛzɪˈteʃən]",
+      "tense": "n.",
+      "ch": [
+        [
+          "猶豫",
+          "遲疑",
+          "躊躇"
+        ]
+      ],
+      "analysis": "由動詞 hesitate 加上名詞字尾 -ion 構成。動詞源自拉丁語 haesitare（結結巴巴、猶豫不決，原意為被絆住、黏住），經由法語進入英語。名詞指因拿不定主意或感到懷疑而產生的停頓與遲疑。",
+      "definition": "1. the action of pausing or hesitating before saying or doing something.",
+      "example": [
+        {
+          "eng": "She accepted the job offer without a moment of hesitation.",
+          "ch": "她毫不猶豫地接受了這份工作邀請。"
+        }
+      ]
+    },
+    {
+      "eng": "hive",
+      "kk": "[haɪv]",
+      "tense": "n.",
+      "ch": [
+        [
+          "蜂箱",
+          "蜂巢"
+        ],
+        [
+          "鬧市",
+          "人多熱鬧的地方"
+        ]
+      ],
+      "analysis": "源自古英語 hȳf（蜂箱、蜂巢），屬於日耳曼語族繼承詞。本義指人工或天然的蜜蜂居所，引申用來形容人聲鼎沸、活動頻繁的熱鬧場所或活躍組織。",
+      "definition": "1. a structure where bees live and raise their young, often placed there by humans; 2. a place that is very busy and crowded with people.",
+      "example": [
+        {
+          "eng": "Beekeepers inspected the hive to check the health of the queen bee.",
+          "ch": "養蜂人檢查蜂箱以確認蜂王的健康狀況。"
+        },
+        {
+          "eng": "The stock market floor was a busy hive of activity all morning.",
+          "ch": "整個上午，股市交易大廳都是一個繁忙喧鬧的中心。"
+        }
+      ]
+    },
+    {
+      "eng": "homeland",
+      "kk": "[ˈhomˌlænd]",
+      "tense": "n.",
+      "ch": [
+        [
+          "祖國",
+          "故鄉"
+        ]
+      ],
+      "analysis": "現代透明複合詞，由 home（家）與 land（土地）組合成詞。字面義即「家鄉的土地」，指一個人出生或效忠的國家或民族根源地。",
+      "definition": "1. a person's or a people's native land or country of origin.",
+      "example": [
+        {
+          "eng": "After living abroad for decades, he finally returned to his homeland.",
+          "ch": "在國外生活了幾十年後，他終於回到了祖國。"
+        }
+      ]
+    },
+    {
+      "eng": "honeymoon",
+      "kk": "[ˈhʌniˌmun]",
+      "tense": "n.",
+      "ch": [
+        [
+          "蜜月",
+          "新婚旅行"
+        ],
+        [
+          "蜜月期",
+          "和諧美好的初始階段"
+        ]
+      ],
+      "analysis": "由 honey（蜂蜜）與 moon（月亮）複合而成。早期日耳曼傳統中，新婚後一個月內飲用蜂蜜酒以示慶祝；另一說指婚姻的甜蜜如月亮般盈虧無常。現代主要指新婚夫婦的度假旅行，或引申為任何新組織、新關係初期的一段和諧期。",
+      "definition": "1. a holiday taken by a newly married couple; 2. a harmonious initial period of a new relationship or political term.",
+      "example": [
+        {
+          "eng": "They spent their honeymoon relaxing on a tropical beach in Hawaii.",
+          "ch": "他們在夏威夷的熱帶海灘放鬆度假，度過了他們的蜜月。"
+        },
+        {
+          "eng": "The political honeymoon between the new president and parliament ended quickly.",
+          "ch": "新總統與國會之間的蜜月期很快就結束了。"
+        }
+      ]
+    },
+    {
+      "eng": "hook",
+      "kk": "[hʊk]",
+      "tense": "n.",
+      "ch": [
+        [
+          "鉤",
+          "掛鉤"
+        ],
+        [
+          "釣魚鉤",
+          "釣鉤"
+        ]
+      ],
+      "analysis": "源自古英語 hōc（彎曲的鉤子），屬於日耳曼語族繼承詞。本義指任何彎曲成弧形的金屬或木製工具，用於懸掛物品或捕魚。",
+      "definition": "1. a curved piece of metal or other hard material used for catching, holding, or hanging things; 2. a small curved piece of wire or metal attached to a fishing line.",
+      "example": [
+        {
+          "eng": "He hung his heavy coat on the wall hook.",
+          "ch": "他把厚重的大衣掛在牆上的掛鉤上。"
+        },
+        {
+          "eng": "He carefully attached the worm to the fishing hook.",
+          "ch": "他小心翼翼地把蠕蟲裝到釣魚鉤上。"
+        }
+      ]
+    },
+    {
+      "eng": "hook",
+      "kk": "[hʊk]",
+      "tense": "vt.",
+      "ch": [
+        [
+          "鉤住",
+          "掛起"
+        ],
+        [
+          "釣魚",
+          "捕獲"
+        ]
+      ],
+      "analysis": "由名詞 hook 轉化而來的及物動詞，指使用鉤子進行固定、懸掛或捕撈的動作。",
+      "definition": "1. to catch, fasten, or secure something with a hook; 2. to catch a fish with a hook.",
+      "example": [
+        {
+          "eng": "She hooked her handbag over the back of the chair.",
+          "ch": "她把手提包掛在椅子背上。"
+        },
+        {
+          "eng": "He hooked a huge salmon after struggling for twenty minutes.",
+          "ch": "他奮戰了二十分鐘後，釣起了一條巨大的鮭魚。"
+        }
+      ]
+    },
+    {
+      "eng": "horizon",
+      "kk": "[həˈraɪzən]",
+      "tense": "n.",
+      "ch": [
+        [
+          "地平線",
+          "海天平線"
+        ],
+        [
+          "眼界",
+          "視野",
+          "見識"
+        ]
+      ],
+      "analysis": "源自古希臘語 horizon（限定圈、分界線，源自 horizein 意為劃界限），經由拉丁語與中古法語進入英語。本義指天與地交接的視覺線，引申用來指個人的知識、經驗或視野範圍。",
+      "definition": "1. the line at which the earth's surface and the sky appear to meet; 2. the limit of a person's knowledge, experience, or interest.",
+      "example": [
+        {
+          "eng": "The sun slowly sank below the western horizon.",
+          "ch": "太陽緩緩沉入西方地平線以下。"
+        },
+        {
+          "eng": "Traveling abroad can greatly broaden your horizons.",
+          "ch": "出國旅遊能大大拓寬你的眼界。"
+        }
+      ]
+    },
+    {
+      "eng": "horrify",
+      "kk": "[ˈhɔrəˌfaɪ]",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使驚恐",
+          "使駭然",
+          "使極度反感"
+        ]
+      ],
+      "analysis": "由拉丁語 horridus（可怕的、粗糙的）加上動詞字尾 -fy（使成為）構成。字面意思是「使感到恐怖或起雞皮疙瘩」。在現代英語中作為及物動詞，表示使人產生強烈的驚嚇或道德上的反感。",
+      "definition": "1. to fill with horror, shock, or great disgust.",
+      "example": [
+        {
+          "eng": "The graphic violence in the news report horrified the viewers.",
+          "ch": "新聞報導中血腥的暴力畫面讓觀眾感到震驚與駭然。"
+        }
+      ]
+    },
+    {
+      "eng": "hose",
+      "kk": "[hoz]",
+      "tense": "n.",
+      "ch": [
+        [
+          "軟管",
+          "水龍帶"
+        ],
+        [
+          "長襪",
+          "緊身褲"
+        ]
+      ],
+      "analysis": "源自古英語 hosa（腿套、短襪），屬於日耳曼語族繼承詞。早期指包覆腿部的衣物（如中古世紀長襪），後來引申為現代用來輸送液體或氣體的柔韌管子（水管、軟管）。",
+      "definition": "1. a flexible tube conveying water, gas, or other substances; 2. historical term for close-fitting leg coverings or stockings.",
+      "example": [
+        {
+          "eng": "He used a garden hose to wash his dusty car.",
+          "ch": "他用園藝水管清洗他那輛積滿灰塵的車。"
+        },
+        {
+          "eng": "Actors in the Renaissance play wore silk doublets and colorful hose.",
+          "ch": "文藝復興戲劇中的演員們穿著絲綢緊身上衣和色彩鮮豔的長襪。"
+        }
+      ]
+    },
+    {
+      "eng": "hose",
+      "kk": "[hoz]",
+      "tense": "vt.",
+      "ch": [
+        [
+          "用軟管沖洗",
+          "用水管澆水"
+        ]
+      ],
+      "analysis": "由名詞 hose 轉化而來的及物動詞，專指使用軟管噴水來清洗或澆灌的動作。",
+      "definition": "1. to water or clean something using a hose.",
+      "example": [
+        {
+          "eng": "She hosed down the driveway after the heavy rain.",
+          "ch": "大雨過後，她用軟管沖洗了車道。"
+        }
+      ]
+    },
+    {
+      "eng": "household",
+      "kk": "[ˈhaʊsˌhold]",
+      "tense": "n.",
+      "ch": [
+        [
+          "家庭",
+          "同住的一家人",
+          "戶"
+        ]
+      ],
+      "analysis": "現代透明複合詞，由 house（房子、家）與 hold（握持、掌控，引申為居住單位）構成。指住在同一屋簷下、共同生活的家庭成員或整個家戶單位。",
+      "definition": "1. a house and its occupants regarded as a unit.",
+      "example": [
+        {
+          "eng": "Most modern households now own at least two computers.",
+          "ch": "現在大多數現代家庭都擁有至少兩台電腦。"
+        }
+      ]
+    },
+    {
+      "eng": "housework",
+      "kk": "[ˈhaʊsˌwɝk]",
+      "tense": "n.",
+      "ch": [
+        [
+          "家務",
+          "家事"
+        ]
+      ],
+      "analysis": "現代透明複合詞，由 house（家）與 work（工作）組成。專指維持家庭運作日常所需的清掃、烹飪、洗滌等勞務工作。",
+      "definition": "1. the work of cleaning, cooking, and maintaining a house.",
+      "example": [
+        {
+          "eng": "They divide the household chores and housework equally between them.",
+          "ch": "他們在彼此之間平均分擔家務與打掃工作。"
+        }
+      ]
+    },
+    {
+      "eng": "humanity",
+      "kk": "[hjuˈmænəti]",
+      "tense": "n.",
+      "ch": [
+        [
+          "人類",
+          "全人類"
+        ],
+        [
+          "人道",
+          "仁慈",
+          "人性"
+        ]
+      ],
+      "analysis": "源自拉丁語 humanitas（人性、人類、文化修養，源自 humanus 人類的），經由中古法語進入英語。指全體人類的集合，或指人所應具有的同情心、仁慈等良善本質。",
+      "definition": "1. all human beings collectively; the human race; 2. the quality of being humane; kindness, benevolence, and compassion.",
+      "example": [
+        {
+          "eng": "Climate change is a major crisis facing the whole of humanity.",
+          "ch": "氣候變遷是全人類面臨的一大危機。"
+        },
+        {
+          "eng": "The judge appealed to the jury to show humanity in their sentencing.",
+          "ch": "法官呼籲陪審團在量刑時展現人道與仁慈。"
+        }
+      ]
+    },
+    {
+      "eng": "humidity",
+      "kk": "[hjuˈmɪdətɪ]",
+      "tense": "n.",
+      "ch": [
+        [
+          "濕度",
+          "潮濕"
+        ]
+      ],
+      "analysis": "源自拉丁語 humiditas（潮濕，源自 humidus 潮濕的），經由中古法語進入英語。名詞指空氣中水蒸氣的含量或環境的潮濕程度。",
+      "definition": "1. the state or quality of being humid; the amount of water vapor in the air.",
+      "example": [
+        {
+          "eng": "The summer humidity in this coastal city can be quite unbearable.",
+          "ch": "這個沿海城市的夏天濕度讓人相當難受。"
+        }
+      ]
+    },
+    {
+      "eng": "hurricane",
+      "kk": "[ˈhɝəˌken]",
+      "tense": "n.",
+      "ch": [
+        [
+          "颶風",
+          "烈風"
+        ]
+      ],
+      "analysis": "經由西班牙語 huracán 借入，其上源為加勒比海印地安語（Taino）中的暴風神名 oracan，隨地理大發現傳入歐洲語系。專指北大西洋與東北太平洋地區發生的強烈熱帶氣旋。",
+      "definition": "1. a storm with a violent wind, in particular a tropical cyclone in the Caribbean.",
+      "example": [
+        {
+          "eng": "The powerful hurricane destroyed hundreds of homes along the coast.",
+          "ch": "強烈的颶風摧毀了沿海數百棟房屋。"
+        }
+      ]
+    },
+    {
+      "eng": "hush",
+      "kk": "[hʌʃ]",
+      "tense": "n.",
+      "ch": [
+        [
+          "安靜",
+          "寂靜",
+          "沉寂"
+        ]
+      ],
+      "analysis": "擬聲詞起源（模仿噓聲的聲音），在中古英語晚期形成。名詞用來形容喧鬧後的突然安靜或平靜狀態。",
+      "definition": "1. a sudden, calm silence, especially after a period of noise or activity.",
+      "example": [
+        {
+          "eng": "A sudden hush fell over the crowded room when the curtain rose.",
+          "ch": "當布幕升起時，擁擠的房間內突然一片寂靜。"
+        }
+      ]
+    },
+    {
+      "eng": "hush",
+      "kk": "[hʌʃ]",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使安靜",
+          "使噤聲",
+          "安撫"
+        ]
+      ],
+      "analysis": "由名詞 hush 轉化或平行發展而來的及物動詞，意為叫某人安靜或平息喧鬧。",
+      "definition": "1. to make someone stop talking or crying; to make quiet.",
+      "example": [
+        {
+          "eng": "The mother gently tried to hush her crying baby.",
+          "ch": "母親溫柔地試圖讓哭泣的嬰兒安靜下來。"
+        }
+      ]
+    },
+    {
+      "eng": "hydrogen",
+      "kk": "[ˈhaɪdrəʤən]",
+      "tense": "n.",
+      "ch": [
+        [
+          "氫",
+          "氫氣"
+        ]
+      ],
+      "analysis": "現代科學拉丁語複合詞，由希臘語 hydor（水）與 -genes（產生的、生出者）結合，字面意為「生成水的物質」，由法國化學家拉瓦錫命名。指化學元素氫（H）。",
+      "definition": "1. a colorless, odorless, highly flammable gas that is the simplest and most abundant element in the universe.",
+      "example": [
+        {
+          "eng": "Hydrogen is considered a clean energy source for future vehicles.",
+          "ch": "氫氣被認為是未來車輛的清潔能源來源。"
+        }
+      ]
+    },
+    {
+      "eng": "identical",
+      "kk": "[aɪˈdɛntɪkəl]",
+      "tense": "adj.",
+      "ch": [
+        [
+          "完全相同的",
+          "同一的"
+        ]
+      ],
+      "analysis": "源自中古拉丁語 identicus（同等的，源自拉丁語 idem 意為「同一個」），加上形容詞字尾 -ical 構成。在現代英語中專門用來形容在各個細節上完全一致、沒有差別的事物。",
+      "definition": "1. similar in every detail; exactly alike.",
+      "example": [
+        {
+          "eng": "The twin sisters were wearing identical blue dresses.",
+          "ch": "這對雙胞胎姊妹穿著完全相同的藍色洋裝。"
+        }
+      ]
+    },
+    {
+      "eng": "identification",
+      "kk": "[aɪˌdɛntəfɪˈkeʃən]",
+      "tense": "n.",
+      "ch": [
+        [
+          "身份證明",
+          "證件"
+        ],
+        [
+          "辨認",
+          "識別",
+          "確認"
+        ]
+      ],
+      "analysis": "由動詞 identify 加上名詞字尾 -ication 構成。本義指辨認、識別的過程，或指用以證明個人身份的文件（如身分證、護照等）。",
+      "definition": "1. an official document proving who you are; 2. the action or process of identifying someone or something.",
+      "example": [
+        {
+          "eng": "The security guard asked to see some form of identification before letting me in.",
+          "ch": "警衛要求我出示某種身份證明才放我進去。"
+        },
+        {
+          "eng": "Police are asking for witnesses to help with the identification of the suspect.",
+          "ch": "警方呼籲目擊者協助辨認嫌疑人。"
+        }
+      ]
+    },
+    {
+      "eng": "identify",
+      "kk": "[aɪˈdɛntəˌfaɪ]",
+      "tense": "vt.",
+      "ch": [
+        [
+          "識別",
+          "辨認",
+          "確認"
+        ],
+        [
+          "發現",
+          "找出"
+        ]
+      ],
+      "analysis": "由拉丁語 idem（同一個）加上 facere（做）演變而來的近代拉丁語 identificare，再衍生出英語動詞。意為確定某人或某物的身份、特徵，或找出問題所在。",
+      "definition": "1. to establish or recognize who or what someone or something is; 2. to find out or show the identity of something.",
+      "example": [
+        {
+          "eng": "The witness was able to identify the thief in the police lineup.",
+          "ch": "目擊者在警方列隊中認出了小偷。"
+        },
+        {
+          "eng": "Scientists have successfully identified the gene responsible for the disease.",
+          "ch": "科學家已經成功找出了導致該疾病的基因。"
+        }
+      ]
+    },
+    {
+      "eng": "idiom",
+      "kk": "[ˈɪdiəm]",
+      "tense": "n.",
+      "ch": [
+        [
+          "慣用語",
+          "成語",
+          "習語"
+        ]
+      ],
+      "analysis": "源自希臘語 idioma（個人的奇特之處、語言特有之法，源自 idios 自己的、獨特的），經由拉丁語與法語進入英語。指某一語言中獨有的、字面意義無法推導出實際含義的固定片語結構。",
+      "definition": "1. a group of words established by usage as having a meaning not deducible from those of the individual words.",
+      "example": [
+        {
+          "eng": "The English idiom 'break a leg' is often used to wish performers good luck.",
+          "ch": "英語慣用語「break a leg」常用來祝表演者好運。"
+        }
+      ]
+    },
+    {
+      "eng": "idle",
+      "kk": "[ˈaɪdəl]",
+      "tense": "adj.",
+      "ch": [
+        [
+          "閒散的",
+          "無所事事的"
+        ],
+        [
+          "閒置的",
+          "未使用的"
+        ]
+      ],
+      "analysis": "源自古英語 īdel（空虛的、無用的、閒散的），屬於日耳曼語族繼承詞。形容人懶散不工作，或指機器、土地處於未運轉、未開墾的閒置狀態。",
+      "definition": "1. avoiding work; lazy or without purpose; 2. not operating or in use.",
+      "example": [
+        {
+          "eng": "He spent his entire Sunday afternoon sitting idle on the sofa.",
+          "ch": "他整個星期天下午都無所事事地坐在沙發上。"
+        },
+        {
+          "eng": "The factory stood idle after the company went bankrupt.",
+          "ch": "公司破產後，這家工廠便閒置了下來。"
+        }
+      ]
+    },
+    {
+      "eng": "idol",
+      "kk": "[ˈaɪdəl]",
+      "tense": "n.",
+      "ch": [
+        [
+          "偶像",
+          "崇拜對象"
+        ],
+        [
+          "神像",
+          "偶像崇拜物"
+        ]
+      ],
+      "analysis": "源自希臘語 eidolon（影像、幻影、偶像，源自 eidos 外觀），經由拉丁語 idola 與中古法語進入英語。本義指宗教上被膜拜的神像，引申指深受大眾崇拜或景仰的名人、偶像。",
+      "definition": "1. a person or thing that is greatly admired, loved, or revered; 2. an image or representation of a god used as an object of worship.",
+      "example": [
+        {
+          "eng": "The young basketball player was a childhood idol for millions of fans.",
+          "ch": "這位年輕的籃球員是數百萬球迷的童年偶像。"
+        },
+        {
+          "eng": "Ancient civilizations built magnificent temples to house their stone idols.",
+          "ch": "古代文明建造宏偉的神廟來供奉他們的石雕神像。"
+        }
+      ]
+    },
+    {
+      "eng": "ignorance",
+      "kk": "[ˈɪɡnərəns]",
+      "tense": "n.",
+      "ch": [
+        [
+          "無知",
+          "孤陋寡聞"
+        ]
+      ],
+      "analysis": "由形容詞 ignorant 轉化而來的名詞，源自拉丁語 ignorantia（無知、不知），由 ignorare（不理睬、不知道）衍生而來。指缺乏知識、學問或對某事一無所知。",
+      "definition": "1. lack of knowledge, education, or information about something.",
+      "example": [
+        {
+          "eng": "His ignorant remarks stemmed from pure ignorance of other cultures.",
+          "ch": "他無知的言論源於對其他文化的一無所知。"
+        }
+      ]
+    },
+    {
+      "eng": "ignorant",
+      "kk": "[ˈɪɡnərənt]",
+      "tense": "adj.",
+      "ch": [
+        [
+          "無知的",
+          "不了解的",
+          "孤陋寡聞的"
+        ]
+      ],
+      "analysis": "源自拉丁語 ignorantem（不理會的、不知道的），由 ignorare（不知道）加上形容詞字尾構成。用來形容某人對特定事實或一般知識缺乏了解。",
+      "definition": "1. lacking knowledge or awareness in general; uneducated or unsophisticated.",
+      "example": [
+        {
+          "eng": "It is dangerous to remain ignorant of basic scientific facts.",
+          "ch": "對基本的科學常識一無所知是危險的。"
+        }
+      ]
+    },
+    {
+      "eng": "illustrate",
+      "kk": "[ˈɪləˌstret]",
+      "tense": "vt.",
+      "ch": [
+        [
+          "闡明",
+          "解釋",
+          "說明"
+        ],
+        [
+          "為…畫插圖",
+          "圖解"
+        ]
+      ],
+      "analysis": "源自拉丁語 illustrare（照亮、使鮮明、闡明，由 in- 加強語氣 + lustrare 照耀），經由文藝復興時期進入英語。本義為用光照亮或用圖畫解釋，現代引申為用例子或圖表把道理說明清楚。",
+      "definition": "1. to explain or make something clear by using examples, charts, or comparison; 2. to provide pictures or diagrams for a book or article.",
+      "example": [
+        {
+          "eng": "The teacher used a simple experiment to illustrate the laws of physics.",
+          "ch": "老師用一個簡單的實驗來闡明物理定律。"
+        },
+        {
+          "eng": "Renowned artists were invited to illustrate the classic children's book.",
+          "ch": "知名藝術家受邀為這本經典童書繪製插圖。"
+        }
+      ]
+    },
+    {
+      "eng": "illustration",
+      "kk": "[ˌɪləˈstreʃən]",
+      "tense": "n.",
+      "ch": [
+        [
+          "圖解",
+          "插圖"
+        ],
+        [
+          "例證",
+          "說明"
+        ]
+      ],
+      "analysis": "由動詞 illustrate 加上名詞字尾 -ion 構成。指書本中的繪圖、插畫，或用以說明某個抽象概念的具體例證。",
+      "definition": "1. a picture illustrating a book, newspaper, etc.; 2. an example or explanation that helps make something clear.",
+      "example": [
+        {
+          "eng": "The textbook is packed with colorful illustrations and diagrams.",
+          "ch": "這本教科書充滿了色彩繽紛的插圖與圖表。"
+        },
+        {
+          "eng": "This successful business case serves as a clear illustration of modern marketing.",
+          "ch": "這個成功的商業案例適足以作為現代行銷的明證。"
+        }
+      ]
+    },
+    {
+      "eng": "imaginary",
+      "kk": "[ɪˈmædʒəˌnɛri]",
+      "tense": "adj.",
+      "ch": [
+        [
+          "虛構的",
+          "想像中的",
+          "非真實的"
+        ]
+      ],
+      "analysis": "源自拉丁語 imaginarius（想像的、虛擬的，源自 imago 影像），經由中古法語進入英語。用來形容純粹存在於心智或故事中、現實並不存在的事物。",
+      "definition": "1. existing only in the imagination; not real.",
+      "example": [
+        {
+          "eng": "The lonely child created an imaginary friend to play with.",
+          "ch": "這個孤單的孩子創造了一個想像中的朋友來陪伴玩耍。"
+        }
+      ]
+    },
+    {
+      "eng": "imaginative",
+      "kk": "[ɪˈmædʒənətɪv]",
+      "tense": "adj.",
+      "ch": [
+        [
+          "富有想像力的",
+          "創新的"
+        ]
+      ],
+      "analysis": "由動詞 imagine 衍生的形容詞 imaginat(e) 加上字尾 -ive 構成。用來形容人或作品充滿奇思妙想、富有創造力。",
+      "definition": "1. having or showing new and creative ideas; inventive.",
+      "example": [
+        {
+          "eng": "The young architect presented an imaginative design for the new museum.",
+          "ch": "這位年輕的建築師為新博物館提出了一個富有想像力的設計。"
+        }
+      ]
+    },
+    {
+      "eng": "imitate",
+      "kk": "[ˈɪməˌtet]",
+      "tense": "vt.",
+      "ch": [
+        [
+          "模仿",
+          "仿效",
+          "仿造"
+        ]
+      ],
+      "analysis": "源自拉丁語 imitatus（過去分詞，意為模仿，源自 imitor 仿效），經由十六世紀英語借入。指效仿某人的行為、言談，或製作仿製品。",
+      "definition": "1. to take or follow as a model; to mimic or copy the actions, appearance, or sound of someone or something.",
+      "example": [
+        {
+          "eng": "Young children often try to imitate everything their parents do.",
+          "ch": "幼兒經常試圖模仿父母所做的每一件事。"
+        }
+      ]
+    },
+    {
+      "eng": "imitation",
+      "kk": "[ˌɪməˈteʃən]",
+      "tense": "n.",
+      "ch": [
+        [
+          "模仿",
+          "仿效"
+        ],
+        [
+          "仿製品",
+          "假冒品"
+        ]
+      ],
+      "analysis": "由動詞 imitate 加上名詞字尾 -ion 構成。既指模仿的行為過程，也指模仿原物製作出來的物品（多指廉價或仿冒品）。",
+      "definition": "1. the action of using someone or something as a model; 2. a thing intended to copy or mimic something else, often cheaper.",
+      "example": [
+        {
+          "eng": "His acting career began with the clever imitation of famous actors.",
+          "ch": "他的演藝生涯始於對著名演員的巧妙模仿。"
+        },
+        {
+          "eng": "The jacket looked like expensive leather, but it was just a cheap imitation.",
+          "ch": "這件夾克看起來像是昂貴的皮革，但它只是一種廉價仿製品。"
+        }
+      ]
+    },
+    {
+      "eng": "immigrant",
+      "kk": "[ˈɪmɪɡrənt]",
+      "tense": "n.",
+      "ch": [
+        [
+          "移民",
+          "外來移民"
+        ]
+      ],
+      "analysis": "由拉丁語 immigrare（移入，in- 進入 + migrare 移動）衍生的名詞。指從一個國家或地區搬遷到另一個國家定居的人。",
+      "definition": "1. a person who comes to live permanently in a foreign country.",
+      "example": [
+        {
+          "eng": "Many immigrants moved to the city in search of better job opportunities.",
+          "ch": "許多移民為了尋找更好的工作機會而搬到了這座城市。"
+        }
+      ]
+    },
+    {
+      "eng": "immigrate",
+      "kk": "[ˈɪmɪˌɡret]",
+      "tense": "vi.",
+      "ch": [
+        [
+          "移居入境",
+          "外地移民來定居"
+        ]
+      ],
+      "analysis": "源自拉丁語 immigratus（移入的），由 in-（進入）與 migrare（遷徙）結合而成。作不及物動詞使用，指由原居地遷入並永久定居於外國。",
+      "definition": "1. to come to live permanently in a foreign country.",
+      "example": [
+        {
+          "eng": "Her grandparents chose to immigrate to Canada in the 1960s.",
+          "ch": "她的祖父母選擇在 1960 年代移民到加拿大。"
+        }
+      ]
+    },
+    {
+      "eng": "immigration",
+      "kk": "[ˌɪmɪˈɡreʃən]",
+      "tense": "n.",
+      "ch": [
+        [
+          "移民入境",
+          "移民潮"
+        ],
+        [
+          "出入境管理局",
+          "海關與移民檢查"
+        ]
+      ],
+      "analysis": "由動詞 immigrate 加上名詞字尾 -ion 構成。指大規模人口移入的現象，或機場港口負責審查外國旅客入境的管制機構。",
+      "definition": "1. the action of coming to live permanently in a foreign country; 2. the government agency regulating the entry of people.",
+      "example": [
+        {
+          "eng": "Stricter immigration laws were introduced by the parliament last year.",
+          "ch": "國會去年推出了更嚴格的移民法律。"
+        },
+        {
+          "eng": "Passengers had to go through customs and immigration at the airport.",
+          "ch": "乘客在機場必須通過海關與移民檢查。"
+        }
+      ]
+    },
+    {
+      "eng": "impact",
+      "kk": "[ˈɪmpækt]",
+      "tense": "n.",
+      "ch": [
+        [
+          "衝擊",
+          "影響"
+        ],
+        [
+          "撞擊",
+          "碰撞"
+        ]
+      ],
+      "analysis": "源自拉丁語 impactus（緊壓、撞擊，由 in- 進入 + pangere 固定、打入），在近代科學與英語中作為名詞使用。本義為物理上的強力撞擊，引申為對社會、思想或經濟產生的深遠影響。",
+      "definition": "1. a powerful effect or influence that something has on a situation or person; 2. the striking of one object against another.",
+      "example": [
+        {
+          "eng": "The new digital technology has a huge impact on modern education.",
+          "ch": "這項新的數位技術對現代教育產生了巨大的影響。"
+        },
+        {
+          "eng": "The car suffered heavy front-end damage upon impact with the wall.",
+          "ch": "汽車在撞擊牆壁時，車頭受到了嚴重損壞。"
+        }
+      ]
+    },
+    {
+      "eng": "imply",
+      "kk": "[ɪmˈplaɪ]",
+      "tense": "vt.",
+      "ch": [
+        [
+          "暗示",
+          "意指",
+          "暗含"
+        ]
+      ],
+      "analysis": "源自中古法語 implier，源自拉丁語 implicare（纏繞、牽涉，in- 進入 + plicare 摺疊）。字面意思是「把含義摺疊在裡面」。作及物動詞，指言談或行為中未明說但隱含的意思。",
+      "definition": "1. to strongly suggest the truth or existence of something without explicitly stating it.",
+      "example": [
+        {
+          "eng": "Her tone of voice seemed to imply that she was not satisfied with the plan.",
+          "ch": "她的語氣似乎在暗示她對這個計畫並不滿意。"
+        }
+      ]
+    },
+    {
+      "eng": "impose",
+      "kk": "[ɪmˈpoz]",
+      "tense": "vt.",
+      "ch": [
+        [
+          "強制實施",
+          "徵收（稅等）"
+        ],
+        [
+          "把…強加於"
+        ]
+      ],
+      "analysis": "源自中古法語 imposer，源自拉丁語 imponere（in- 進入 + ponere 放置），字面意為「放置上去」。本義指把重擔或規則強加在別人身上或頒布稅收法令。",
+      "definition": "1. to force something unwelcome or unnecessary to be accepted or put in place; 2. to officially force a rule, tax, or punishment.",
+      "example": [
+        {
+          "eng": "The government decided to impose a new tax on luxury goods.",
+          "ch": "政府決定對奢侈品徵收一項新稅。"
+        },
+        {
+          "eng": "Parents should not impose their own unfulfilled dreams on their children.",
+          "ch": "父母不應將自己未竟的夢想強加在孩子身上。"
+        }
+      ]
+    },
+    {
+      "eng": "impression",
+      "kk": "[ɪmˈprɛʃən]",
+      "tense": "n.",
+      "ch": [
+        [
+          "印象",
+          "感想"
+        ],
+        [
+          "壓痕",
+          "印記"
+        ]
+      ],
+      "analysis": "源自拉丁語 impressio（壓入、印記，源自 imprimere 壓上，in- + premere 壓），經由法語進入英語。本義指物體壓在表面留下的凹痕，引申為人事物在腦海中留下的心理感受或主觀印象。",
+      "definition": "1. an idea, feeling, or opinion about something or someone, especially one formed without conscious thought; 2. a mark pressed into a surface.",
+      "example": [
+        {
+          "eng": "She made a very positive impression during her job interview.",
+          "ch": "她在求職面試中給人留下了非常良好的印象。"
+        },
+        {
+          "eng": "The dinosaur footprint left a clear impression in the soft mud.",
+          "ch": "恐龍足跡在鬆軟的泥土中留下了清晰的壓痕。"
+        }
+      ]
+    },
+    {
+      "eng": "incident",
+      "kk": "[ˈɪnsədənt]",
+      "tense": "n.",
+      "ch": [
+        [
+          "事件",
+          "事故",
+          "小插曲"
+        ]
+      ],
+      "analysis": "源自拉丁語 incidentem（落下的、發生的，in- 落在 + cadere 落下），經由法語進入英語。指發生的某個事件、突發事故或經歷中的一段插曲。",
+      "definition": "1. an event or occurrence, typically one that is unusual, important, or unpleasant.",
+      "example": [
+        {
+          "eng": "The police report gave a detailed description of the traffic incident.",
+          "ch": "警方報告詳細描述了該起交通事故的經過。"
+        }
+      ]
+    },
+    {
+      "eng": "including",
+      "kk": "[ɪnˈkludɪŋ]",
+      "tense": "prep.",
+      "ch": [
+        [
+          "包括",
+          "包含在內"
+        ]
+      ],
+      "analysis": "由動詞 include 的現在分詞轉化而來的介系詞。源自拉丁語 includere（包含，in- 進入 + claudere 關閉）。在句中用作介系詞，後接名詞短語表示列舉的範圍。",
+      "definition": "1. containing as part of a whole; having as members of a group.",
+      "example": [
+        {
+          "eng": "The tour price covers all expenses, including meals and hotel accommodation.",
+          "ch": "旅遊價格包含所有費用，包括餐點與飯店住宿。"
+        }
+      ]
+    },
+    {
+      "eng": "incredible",
+      "kk": "[ɪnˈkrɛdəbəl]",
+      "tense": "adj.",
+      "ch": [
+        [
+          "難以置信的",
+          "極好的",
+          "驚人的"
+        ]
+      ],
+      "analysis": "源自拉丁語 incredibilis（in- 不 + credibilis 可信的，源自 credere 相信）。字面意思是「不能相信的」，現代口語中也常用來誇張地形容某事物極其精彩或美好。",
+      "definition": "1. impossible or difficult to believe; 2. extraordinary or remarkably good.",
+      "example": [
+        {
+          "eng": "It seemed incredible that anyone could survive such a terrible fall.",
+          "ch": "任何人經歷如此可怕的墜落還能生還，這似乎令人難以置信。"
+        },
+        {
+          "eng": "We had an incredible view of the sunset from the mountain top.",
+          "ch": "我們從山頂看到了絕佳的日落美景。"
+        }
+      ]
+    },
+    {
+      "eng": "indication",
+      "kk": "[ˌɪndəˈkeʃən]",
+      "tense": "n.",
+      "ch": [
+        [
+          "跡象",
+          "表明",
+          "象徵"
+        ]
+      ],
+      "analysis": "由動詞 indicate 加上名詞字尾 -ion 構成。動詞源自拉丁語 indicare（指出、顯示，in- 加強 + dicare 宣告）。指顯示某事存在或趨勢的跡象、信號。",
+      "definition": "1. a sign or piece of information that indicates something.",
+      "example": [
+        {
+          "eng": "Falling house prices are a clear indication of an economic slowdown.",
+          "ch": "房價下跌是經濟放緩的明顯跡象。"
+        }
+      ]
+    },
+    {
+      "eng": "infant",
+      "kk": "[ˈɪnfənt]",
+      "tense": "n.",
+      "ch": [
+        [
+          "嬰兒",
+          "幼兒"
+        ]
+      ],
+      "analysis": "源自拉丁語 infantem（不會說話的人，in- 不 + fans 說話的現在分詞，源自 fari 說話），經由法語進入英語。字面意思是「還不會說話的小孩」，專指未滿一歲的嬰幼兒。",
+      "definition": "1. a very young child or baby, typically under one year of age.",
+      "example": [
+        {
+          "eng": "The newborn infant slept peacefully in her mother's arms.",
+          "ch": "初生的嬰兒在母親的懷裡安詳地睡著。"
+        }
+      ]
+    },
+    {
+      "eng": "infection",
+      "kk": "[ɪnˈfɛkʃən]",
+      "tense": "n.",
+      "ch": [
+        [
+          "感染",
+          "傳染病"
+        ]
+      ],
+      "analysis": "由動詞 infect 加上名詞字尾 -ion 構成。動詞源自拉丁語 inficere（染上、浸透，in- 進入 + facere 做）。指病原體侵入人體組織引起的疾病或感染狀態。",
+      "definition": "1. the process of infecting or the state of being infected; a disease caused by germs.",
+      "example": [
+        {
+          "eng": "The doctor prescribed antibiotics to treat the bacterial throat infection.",
+          "ch": "醫生開了抗生素來治療細菌性咽喉感染。"
+        }
+      ]
+    },
+    {
+      "eng": "inflation",
+      "kk": "[ɪnˈfleʃən]",
+      "tense": "n.",
+      "ch": [
+        [
+          "通貨膨脹",
+          "物價漲幅"
+        ],
+        [
+          "充氣",
+          "膨脹"
+        ]
+      ],
+      "analysis": "由動詞 inflate（充氣、使膨脹，源自 in- + flare 吹氣）加上名詞字尾 -ion 構成。本義指把氣體吹入使其膨脹，經濟學上引申為貨幣貶值、物價普遍上漲的通貨膨脹現象。",
+      "definition": "1. a general increase in prices and fall in the purchasing value of money; 2. the action of inflating something with air or gas.",
+      "example": [
+        {
+          "eng": "High inflation makes it difficult for ordinary families to save money.",
+          "ch": "高通貨膨脹使得一般家庭很難存錢。"
+        },
+        {
+          "eng": "Check the tire pressure and perform proper inflation before a long trip.",
+          "ch": "長途旅行前請檢查胎壓並進行適當充氣。"
+        }
+      ]
+    },
+    {
+      "eng": "influential",
+      "kk": "[ˌɪnfluˈɛnʃəl]",
+      "tense": "adj.",
+      "ch": [
+        [
+          "有影響力的",
+          "具權勢的"
+        ]
+      ],
+      "analysis": "由名詞 influence 加上形容詞字尾 -ial 構成。influence 源自拉丁語 influentia（流入、天體影響，in- + fluere 流動）。用來形容人或事物對他人決策、意見或社會發展具有重大影響力。",
+      "definition": "1. having a great influence on someone or something.",
+      "example": [
+        {
+          "eng": "She is one of the most influential political figures in the country.",
+          "ch": "她是國內極具影響力的政治人物之一。"
+        }
+      ]
+    },
+    {
+      "eng": "informative",
+      "kk": "[ɪnˈfɔrmətɪv]",
+      "tense": "adj.",
+      "ch": [
+        [
+          "提供資訊的",
+          "具啟發性的",
+          "長知識的"
+        ]
+      ],
+      "analysis": "由動詞 inform 加上形容詞字尾 -ative 構成。inform 源自拉丁語 informare（塑造、形塑，引申為向心智傳授知識）。用來形容書籍、演講或談話內容豐富、能提供大量實用知識。",
+      "definition": "1. providing useful or interesting information.",
+      "example": [
+        {
+          "eng": "The documentary was both entertaining and highly informative.",
+          "ch": "這部紀錄片既具娛樂性又充滿豐富的知識。"
+        }
+      ]
+    },
+    {
+      "eng": "ingredient",
+      "kk": "[ɪnˈɡridiənt]",
+      "tense": "n.",
+      "ch": [
+        [
+          "成分",
+          "原料",
+          "要素"
+        ]
+      ],
+      "analysis": "源自拉丁語 ingredientem（進入其中的部分，源自 ingredi 進入，in- + gradi 走）。本義為混合物中的組成成分，常用於烹飪食譜的食材或成功要素的抽象比喻。",
+      "definition": "1. any of the foods or substances that are combined to make a particular dish; 2. a component part or element of something.",
+      "example": [
+        {
+          "eng": "Fresh vegetables are the most important ingredient in this salad.",
+          "ch": "新鮮蔬菜是這道沙拉最重要的食材。"
+        },
+        {
+          "eng": "Hard work and dedication are key ingredients for success.",
+          "ch": "努力工作與奉獻是成功的關鍵要素。"
+        }
+      ]
+    },
+    {
+      "eng": "initial",
+      "kk": "[ɪˈnɪʃəl]",
+      "tense": "adj.",
+      "ch": [
+        [
+          "最初的",
+          "開始的"
+        ]
+      ],
+      "analysis": "源自拉丁語 initialis（起點的，源自 initium 開始，ire 走），經由中古法語進入英語。用來形容事件、階段或計畫剛開始時的狀態。",
+      "definition": "1. existing or occurring at the beginning.",
+      "example": [
+        {
+          "eng": "Our initial plan was to drive to the coast, but the weather changed.",
+          "ch": "我們最初的計畫是開車去海邊，但天氣變了。"
+        }
+      ]
+    },
+    {
+      "eng": "injure",
+      "kk": "[ˈɪndʒɚ]",
+      "tense": "vt.",
+      "ch": [
+        [
+          "傷害",
+          "使受傷",
+          "損害"
+        ]
+      ],
+      "analysis": "源自拉丁語 iniuriari（對…不公或造成損害，in- 不 + ius 法律、正義，即違法行為），經由中古法語進入英語。作及物動詞，指對身體造成創傷，或對名譽、利益造成損害。",
+      "definition": "1. to harm or damage someone's body or someone's feelings, reputation, or interests.",
+      "example": [
+        {
+          "eng": "He managed to walk away from the car crash without being seriously injured.",
+          "ch": "他從車禍中走了出來，沒有受到重傷。"
+        }
+      ]
+    }
+  ]
+}

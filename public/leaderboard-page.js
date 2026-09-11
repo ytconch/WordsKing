@@ -1,5 +1,5 @@
 const LeaderboardPage = (() => {
-  const { api, refreshUser, enforcePageAccess, tutorial } = window.WordsApp;
+  const { api, refreshUser, enforcePageAccess } = window.WordsApp;
 
   function escapeHtml(value) {
     return String(value || "")
@@ -34,7 +34,6 @@ const LeaderboardPage = (() => {
 
     if (!list.length) {
       target.innerHTML = `<div class="empty">本週尚未產生排行榜資料。</div>`;
-      tutorial?.refresh?.();
       return;
     }
 
@@ -61,7 +60,6 @@ const LeaderboardPage = (() => {
           .join("")}
       </div>
     `;
-    tutorial?.refresh?.();
   }
 
   async function init() {

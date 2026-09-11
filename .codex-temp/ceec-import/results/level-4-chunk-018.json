@@ -1,0 +1,1670 @@
+{
+  "level": 4,
+  "chunkIndex": 18,
+  "inputs": [
+    "remark",
+    "remarkable",
+    "remedy",
+    "renew",
+    "repetition",
+    "representation",
+    "reputation",
+    "rescue",
+    "research",
+    "researcher",
+    "resemble",
+    "reservation",
+    "resign",
+    "resignation",
+    "resistance",
+    "resolution",
+    "resolve",
+    "respectable",
+    "respectful",
+    "restore",
+    "restriction",
+    "retain",
+    "retire",
+    "retirement",
+    "retreat",
+    "reunion",
+    "revenge",
+    "revise",
+    "revision",
+    "revolution",
+    "revolutionary",
+    "reward",
+    "rhyme",
+    "rhythm",
+    "riddle",
+    "robber",
+    "romance",
+    "route",
+    "ruin",
+    "rural",
+    "rusty",
+    "sacrifice",
+    "satellite",
+    "satisfaction",
+    "scarcely",
+    "scenery",
+    "scold",
+    "scoop",
+    "scratch",
+    "sculpture"
+  ],
+  "rows": [
+    {
+      "eng": "remark",
+      "kk": "rɪˈmɑrk",
+      "tense": "n.",
+      "ch": [
+        [
+          "評論",
+          "言論",
+          "意見"
+        ],
+        [
+          "談論",
+          "注目",
+          "注意"
+        ]
+      ],
+      "analysis": "此字為名詞與動詞同形。作為名詞時，由動詞 remark 轉品而來，指口頭或書面所表達的意見、評論或引人注目的事物。其歷史源自中古法語 remarquer（re- 表示加強 + marquer 標記、注意），最終可追溯至日耳曼語源。現代英語中作為名詞使用頻繁。",
+      "definition": "1. a spoken or written comment, statement, or observation; 2. the act of noticing or paying attention to something.",
+      "example": [
+        {
+          "eng": "Her closing remark left a strong impression on the audience.",
+          "ch": "她最後的評論給觀眾留下了深刻的印象。"
+        },
+        {
+          "eng": "The unusual building passed without special remark.",
+          "ch": "這棟不尋常的建築沒有引起特別的注意。"
+        }
+      ]
+    },
+    {
+      "eng": "remark",
+      "kk": "rɪˈmɑrk",
+      "tense": "vt.",
+      "ch": [
+        [
+          "說起",
+          "評論",
+          "談到"
+        ],
+        [
+          "注意到",
+          "察覺"
+        ]
+      ],
+      "analysis": "此動詞由前綴 re-（表示加強或反覆）結合動詞 marquer（源自中古法語，意為標記、做記號）構成，字面義為「再次標記、作記號」，引申為「留心、注意」，進而演變出口頭表達的「評論、談到」。及物動詞用法後接名詞片語或受詞子句。",
+      "definition": "1. to express a comment or opinion about something; 2. to notice or perceive something clearly.",
+      "example": [
+        {
+          "eng": "He remarked that the weather was unusually warm for November.",
+          "ch": "他評論說十一月的天氣異常溫暖。"
+        },
+        {
+          "eng": "She remarked a subtle change in his tone of voice.",
+          "ch": "她注意到他語氣中的微妙變化。"
+        }
+      ]
+    },
+    {
+      "eng": "remarkable",
+      "kk": "rɪˈmɑrkəbəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "非凡的",
+          "卓越的",
+          "令人注目的"
+        ]
+      ],
+      "analysis": "此形容詞由動詞 remark 加上形容詞字尾 -able（能夠……的、值得……的）構成，字面義為「值得注意的」。經語意演變，現代主要用來形容某人或某事物極為出色、非凡或令人驚嘆，超越一般水準。",
+      "definition": "1. worthy of attention; striking, extraordinary, or unusual in a way that is surprising or impressive.",
+      "example": [
+        {
+          "eng": "She made remarkable progress in learning Mandarin within six months.",
+          "ch": "她在六個月內學中文取得了非凡的進步。"
+        }
+      ]
+    },
+    {
+      "eng": "remedy",
+      "kk": "ˈrɛmədi",
+      "tense": "n.",
+      "ch": [
+        [
+          "療法",
+          "藥物"
+        ],
+        [
+          "補救辦法",
+          "解決方案"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 remedium（re- 表示重新、回 + mederi 醫治、療養），經中古法語進入英語。名詞指治療疾病的藥物、療法，或引申為解決問題、糾正錯誤的有效補救辦法。",
+      "definition": "1. a medicine or treatment for a disease or injury; 2. a means of dealing with or relieving a difficult situation or legal problem.",
+      "example": [
+        {
+          "eng": "This traditional herbal remedy helps soothe a sore throat.",
+          "ch": "這種傳統草藥療法有助於舒緩喉嚨痛。"
+        },
+        {
+          "eng": "Finding a permanent remedy for traffic congestion requires careful planning.",
+          "ch": "尋找解決交通擁堵的長久之計需要周密的規劃。"
+        }
+      ]
+    },
+    {
+      "eng": "renew",
+      "kk": "rɪˈnu",
+      "tense": "vt.",
+      "ch": [
+        [
+          "更新",
+          "使延期"
+        ],
+        [
+          "重新開始",
+          "恢復"
+        ],
+        [
+          "重申",
+          "重新強調"
+        ]
+      ],
+      "analysis": "此動詞由前綴 re-（重新、再）與形容詞 new（新的）結合而成，字面義為「使之重新變新」。語意從實體物品的修復、合約證件的展延，抽象延伸至關係或活動的恢復，以及言論的重申。",
+      "definition": "1. to extend the validity of something or replace it with a fresh one; 2. to begin something again or resume an activity; 3. to state or express something again formally.",
+      "example": [
+        {
+          "eng": "You need to renew your passport before traveling abroad.",
+          "ch": "你在出國旅行前需要換發護照。"
+        },
+        {
+          "eng": "They met to renew their old friendship.",
+          "ch": "他們見面以重續舊誼。"
+        },
+        {
+          "eng": "The government decided to renew its commitment to environmental protection.",
+          "ch": "政府決定重申其對環境保護的承諾。"
+        }
+      ]
+    },
+    {
+      "eng": "repetition",
+      "kk": "rɛpəˈtɪʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "重複",
+          "反覆"
+        ],
+        [
+          "重做",
+          "重現的事物"
+        ]
+      ],
+      "analysis": "此名詞源自拉丁語 repetitio（源自 repetere 重複、重做，re- 再次 + petere 追求、走向），經中古法語或直接進入英語。字面義為「再次追求或執行」，演變為指動作、聲音或行為的重複發生，或指照抄、重做的具體事物。",
+      "definition": "1. the action of repeating something that has already been said or written; 2. an instance of something being done or experienced again.",
+      "example": [
+        {
+          "eng": "Children learn languages quickly through listening and repetition.",
+          "ch": "兒童透過聽力與重複練習能迅速學會語言。"
+        },
+        {
+          "eng": "We must ensure there is no repetition of this serious mistake.",
+          "ch": "我們必須確保不再發生這種嚴重的錯誤。"
+        }
+      ]
+    },
+    {
+      "eng": "representation",
+      "kk": "rɛprɪzɛnˈteɪʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "代表",
+          "代理"
+        ],
+        [
+          "表現",
+          "描繪",
+          "陳述"
+        ]
+      ],
+      "analysis": "此名詞由動詞 represent（源自拉丁語 repraesentare，re- 加強 + praesentare 展示、呈現）衍生出名詞字尾 -ation。本義為呈獻、展示，現代主要指代表某人或某群體的身份與權益，或指藝術上的描繪、具體呈現以及正式的陳述與抗議。",
+      "definition": "1. the action of speaking or acting on behalf of someone else; 2. the description or portrayal of someone or something in a particular way.",
+      "example": [
+        {
+          "eng": "The union provides legal representation for its members.",
+          "ch": "工會為其成員提供法律代理與代表權。"
+        },
+        {
+          "eng": "The painting is a realistic representation of 19th-century rural life.",
+          "ch": "這幅畫是對十九世紀鄉村生活的寫實描繪。"
+        }
+      ]
+    },
+    {
+      "eng": "reputation",
+      "kk": "rɛpjəˈteɪʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "名譽",
+          "名聲"
+        ]
+      ],
+      "analysis": "此名詞源自拉丁語 reputatio（源自 reputare 計算、估價、考慮，re- + putare 思考），經古法語進入英語。本義為經過衡量與評價後的看法，演變為社會大眾對某人或某機構的整體觀感與名譽評價。",
+      "definition": "1. the beliefs or opinions that are generally held about someone or something.",
+      "example": [
+        {
+          "eng": "The company has built a solid reputation for reliable customer service.",
+          "ch": "該公司因可靠的客戶服務而建立起良好的信譽。"
+        }
+      ]
+    },
+    {
+      "eng": "rescue",
+      "kk": "ˈrɛskju",
+      "tense": "n.",
+      "ch": [
+        [
+          "營救",
+          "救援"
+        ]
+      ],
+      "analysis": "此字為動詞與名詞同形。名詞由動詞 rescue 轉品而來，源自古法語 rescouer（re- 再次、加強 + escourer 離開、驅逐，源自拉丁語 ex- + quatere 震動、驅散）。指將人或物從危險、困境或災難中解救出來的行動。",
+      "definition": "1. the act of saving someone or something from danger or harm.",
+      "example": [
+        {
+          "eng": "The mountain rescue team worked through the night to find the lost hikers.",
+          "ch": "山地救援隊通宵工作以尋找失蹤的登山客。"
+        }
+      ]
+    },
+    {
+      "eng": "rescue",
+      "kk": "ˈrɛskju",
+      "tense": "vt.",
+      "ch": [
+        [
+          "營救",
+          "拯救",
+          "救援"
+        ]
+      ],
+      "analysis": "此動詞源自古法語 rescouer，由拉丁語前綴 re- 與動詞詞根組成。本義為將人從敵手或危險中奪回、解救。現代英語中作為及物動詞，直接接被拯救的對象為受詞。",
+      "definition": "1. to save someone or something from a dangerous, harmful, or difficult situation.",
+      "example": [
+        {
+          "eng": "Firefighters managed to rescue the family from the burning building.",
+          "ch": "消防隊員設法將這一家人從燃燒的建築物中救出。"
+        }
+      ]
+    },
+    {
+      "eng": "research",
+      "kk": "riˈsɜrtʃ",
+      "tense": "n.",
+      "ch": [
+        [
+          "研究",
+          "調查"
+        ]
+      ],
+      "analysis": "此字為名詞與動詞同形。名詞由動詞 research 轉品或源自中古法語 ricercier（re- 加強 + cerchier 尋找、搜尋）。指為了發現新事實、驗證舊理論或深入了解某個主題而進行的系統性科學或學術調查研究。",
+      "definition": "1. the systematic investigation into and study of materials and sources in order to establish facts and reach new conclusions.",
+      "example": [
+        {
+          "eng": "She is currently conducting medical research on cancer treatment.",
+          "ch": "她目前正在進行關於癌症治療的醫學研究。"
+        }
+      ]
+    },
+    {
+      "eng": "research",
+      "kk": "riˈsɜrtʃ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "研究",
+          "調查",
+          "探究"
+        ]
+      ],
+      "analysis": "此動詞源自中古法語 ricercier，由前綴 re- 與 cerchier（尋找）結合。字面義為「深入且反覆地搜尋」，演變成現代對某一學術、科學或商業主題進行深入調查與探討的及物動詞。",
+      "definition": "1. to collect information about a particular subject in order to learn more about it or find new facts.",
+      "example": [
+        {
+          "eng": "The journalist spent months researching the background of the scandal.",
+          "ch": "這位記者花了好幾個月調查這起醜聞的背景。"
+        }
+      ]
+    },
+    {
+      "eng": "researcher",
+      "kk": "riˈsɜrtʃər",
+      "tense": "n.",
+      "ch": [
+        [
+          "研究人員",
+          "調查員"
+        ]
+      ],
+      "analysis": "此名詞由動詞 research 加上表人的名詞字尾 -er 構成，指專門從事科學、學術或商業研究與調查工作的人員。",
+      "definition": "1. a person who carries out academic or scientific research.",
+      "example": [
+        {
+          "eng": "Researchers at the university announced a major breakthrough in renewable energy.",
+          "ch": "該大學的研究人員宣布了再生能源的一項重大突破。"
+        }
+      ]
+    },
+    {
+      "eng": "resemble",
+      "kk": "rɪˈzɛmbəl",
+      "tense": "vt.",
+      "ch": [
+        [
+          "相似",
+          "像"
+        ]
+      ],
+      "analysis": "此動詞源自中古法語 resembler（re- 加強 + sembler 似乎、像，源自拉丁語 simulare 使相似）。作為及物動詞，用來描述人或事物在的外表、特徵或性質上與另一個對象相似。",
+      "definition": "1. to look or be like someone or something else.",
+      "example": [
+        {
+          "eng": "The young girl strongly resembles her mother in character and appearance.",
+          "ch": "這名年輕女孩在性格和外貌上都很像她的母親。"
+        }
+      ]
+    },
+    {
+      "eng": "reservation",
+      "kk": "rɛzərˈveɪʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "預訂",
+          "預約"
+        ],
+        [
+          "保留意見",
+          "疑慮"
+        ],
+        [
+          "保留區",
+          "自然保護區"
+        ]
+      ],
+      "analysis": "此名詞由動詞 reserve（源自拉丁語 reservare，re- 往回 + servare 保持、保護）加上名詞字尾 -ation 構成。本義為保留、留出，演變出保留座位或房間（預訂）、心存保留（疑慮）以及美洲原住民保留地等不同義項。",
+      "definition": "1. an arrangement in which something such as a seat, table, or room is kept for you; 2. a doubt or feeling of hesitation about something; 3. an area of land set aside for a particular group of people, such as Native Americans.",
+      "example": [
+        {
+          "eng": "I would like to make a table reservation for four people tonight.",
+          "ch": "我想預訂今天晚上四個人的桌位。"
+        },
+        {
+          "eng": "He accepted the proposal without any reservations.",
+          "ch": "他毫不保留地接受了這項提案。"
+        },
+        {
+          "eng": "The Navajo Nation is the largest Native American reservation in the United States.",
+          "ch": "納瓦霍族保留地是美國最大的美洲原住民保留區。"
+        }
+      ]
+    },
+    {
+      "eng": "resign",
+      "kk": "rɪˈzaɪn",
+      "tense": "vt.",
+      "ch": [
+        [
+          "辭去",
+          "放棄"
+        ],
+        [
+          "使順從",
+          "使託付"
+        ]
+      ],
+      "analysis": "作為及物動詞時，除了解作「辭去某職位」外，亦常見於片語 resign oneself to，表示使自己無奈地順從或接受某種不可避免的局面。",
+      "definition": "1. to give up a job or office; 2. to make oneself accept an unpleasant but inevitable situation.",
+      "example": [
+        {
+          "eng": "She resigned her post as director after ten years of service.",
+          "ch": "她在服務十年後辭去了主任職務。"
+        },
+        {
+          "eng": "He resigned himself to the fact that he would have to retake the exam.",
+          "ch": "他只好無奈地接受必須重考的事實。"
+        }
+      ]
+    },
+    {
+      "eng": "resign",
+      "kk": "rɪˈzaɪn",
+      "tense": "vi.",
+      "ch": [
+        [
+          "辭職",
+          "放棄職位"
+        ]
+      ],
+      "analysis": "此動詞源自拉丁語 resignare（re- 往回、反向 + signare 簽署、做標記），本義為解除簽約、交出印信，演變成現代漢語中的「辭職、放棄職位」。作不及物動詞時常搭配介詞 from。",
+      "definition": "1. to officially announce that you are leaving your job or position.",
+      "example": [
+        {
+          "eng": "The CEO decided to resign from his position following the scandal.",
+          "ch": "執行長在醜聞發生後決定辭去職務。"
+        }
+      ]
+    },
+    {
+      "eng": "resignation",
+      "kk": "rɛzɪɡˈneɪʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "辭職",
+          "辭職信"
+        ],
+        [
+          "順從",
+          "無奈的接受"
+        ]
+      ],
+      "analysis": "此名詞由動詞 resign 加上名詞字尾 -ation 構成。對應 resign 的兩個主要語義，既可指遞交的辭職信或辭職行為，也可用於抽象名詞，表示對逆境的無奈順從與認命。",
+      "definition": "1. an act of retiring or giving up a position, or a formal statement of this; 2. the acceptance of something unpleasant that cannot be avoided.",
+      "example": [
+        {
+          "eng": "The manager submitted his letter of resignation this morning.",
+          "ch": "經理今天早上提交了辭職信。"
+        },
+        {
+          "eng": "She accepted the bad news with quiet resignation.",
+          "ch": "她默默地、順從地接受了這個壞消息。"
+        }
+      ]
+    },
+    {
+      "eng": "resistance",
+      "kk": "rɪˈzɪstəns",
+      "tense": "n.",
+      "ch": [
+        [
+          "抵抗",
+          "反抗"
+        ],
+        [
+          "阻力",
+          "抵抗力"
+        ]
+      ],
+      "analysis": "此名詞由動詞 resist（源自拉丁語 resistere，re- 反抗 + sistere 站立）加上名詞字尾 -ance 構成。本義為站穩腳跟進行對抗，演變成泛指對外來力量、疾病、政治壓迫或物理摩擦（阻力）的抵抗。",
+      "definition": "1. the refusal to accept or comply with something, or the act of fighting against something; 2. the ability not to be affected by something, such as a disease or physical force.",
+      "example": [
+        {
+          "eng": "The proposed tax increase met with fierce public resistance.",
+          "ch": "擬議中的加稅計畫遭到公眾激烈的抵抗。"
+        },
+        {
+          "eng": "Eating a balanced diet helps build up your body's resistance to illness.",
+          "ch": "均衡飲食有助於增強身體對疾病的抵抗力。"
+        }
+      ]
+    },
+    {
+      "eng": "resolution",
+      "kk": "rɛzəˈluʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "決議",
+          "正式提案"
+        ],
+        [
+          "決心",
+          "抱負"
+        ],
+        [
+          "解決",
+          "消除"
+        ],
+        [
+          "解析度",
+          "清晰度"
+        ]
+      ],
+      "analysis": "此名詞由動詞 resolve 衍生而來，源自拉丁語 resolutio（解開、放鬆）。在中世紀與近代的發展中，延伸出會議的「正式決議」、個人的「新年決心」、衝突與問題的「解決」，以及現代科技中螢幕與影像的「解析度」等多元語義群組。",
+      "definition": "1. a formal decision or vote made by a committee or legislative body; 2. a firm decision to do or not to do something; 3. the action of solving a problem, dispute, or contentious matter; 4. the degree of detail visible in a photographic or digital image.",
+      "example": [
+        {
+          "eng": "The United Nations Security Council passed a resolution calling for an immediate ceasefire.",
+          "ch": "聯合國安理會通過了一項呼籲立即停火的決議。"
+        },
+        {
+          "eng": "Making a New Year's resolution to exercise more is easier than keeping it.",
+          "ch": "許下多運動的新年決心比實踐它容易。"
+        },
+        {
+          "eng": "Both countries are working toward a peaceful resolution of the conflict.",
+          "ch": "兩國正朝著和平解決該衝突的方向努力。"
+        },
+        {
+          "eng": "This modern camera is capable of capturing photos in high resolution.",
+          "ch": "這台現代相機具備拍攝高解析度照片的功能。"
+        }
+      ]
+    },
+    {
+      "eng": "resolve",
+      "kk": "rɪˈzɑlv",
+      "tense": "n.",
+      "ch": [
+        [
+          "決心",
+          "堅定的信念"
+        ]
+      ],
+      "analysis": "此字為動詞與名詞同形。名詞由動詞 resolve 轉品而來，指堅定的決心、意志力或抱負，帶有強烈的精神力量色彩。",
+      "definition": "1. firm determination to do something.",
+      "example": [
+        {
+          "eng": "The unexpected setback only strengthened their resolve to succeed.",
+          "ch": "意料之外的挫折反而堅定了他們成功的決心。"
+        }
+      ]
+    },
+    {
+      "eng": "resolve",
+      "kk": "rɪˈzɑlv",
+      "tense": "vt.",
+      "ch": [
+        [
+          "解決",
+          "消除（問題、疑慮）"
+        ],
+        [
+          "分解",
+          "解析"
+        ]
+      ],
+      "analysis": "此動詞源自拉丁語 resolvere（re- 表示反向、解開 + solvere 鬆開、解開）。本義為將複雜結構解開、融化，引申為解決複雜問題、化解分歧或將光線、化學物質分解。",
+      "definition": "1. to settle or find a solution to a problem, dispute, or difficulty; 2. to separate something into its component parts.",
+      "example": [
+        {
+          "eng": "The management team met to resolve the labor dispute.",
+          "ch": "管理團隊開會以解決勞資糾紛。"
+        },
+        {
+          "eng": "A prism can resolve white light into the colors of the rainbow.",
+          "ch": "稜鏡可以將白光分解成彩虹的各種顏色。"
+        }
+      ]
+    },
+    {
+      "eng": "resolve",
+      "kk": "rɪˈzɑlv",
+      "tense": "vi.",
+      "ch": [
+        [
+          "下決心",
+          "決定"
+        ]
+      ],
+      "analysis": "作為不及物動詞時，表示經過深思熟慮後做出堅定的決心或決定，常與不定詞片語連用（如 resolve to do sth.）。",
+      "definition": "1. to make a firm decision to do something.",
+      "example": [
+        {
+          "eng": "She resolved to study harder for the upcoming final exams.",
+          "ch": "她下定決心為即將到來的期末考更努力讀書。"
+        }
+      ]
+    },
+    {
+      "eng": "respectable",
+      "kk": "rɪˈspɛktəbəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "值得尊敬的",
+          "受人尊重的"
+        ],
+        [
+          "尚可的",
+          "體面的",
+          "可觀的"
+        ]
+      ],
+      "analysis": "此形容詞由動詞 respect 加上形容詞字尾 -able（值得……的）構成。本義為值得社會大眾尊敬的，引申為達到一定社會道德標準、體面的，或在數量、成績上「尚可、相當不錯、可觀的」。",
+      "definition": "1. regarded by society to be good, proper, or correct; deserving respect; 2. reasonably good in quality or acceptable in amount or size.",
+      "example": [
+        {
+          "eng": "He comes from a respectable family with a long history in education.",
+          "ch": "他出身於一個在教育界有長久歷史的受人尊敬的家庭。"
+        },
+        {
+          "eng": "The local sports team achieved a respectable score in the national championship.",
+          "ch": "當地運動隊在全國錦標賽中取得了相當不錯的成績。"
+        }
+      ]
+    },
+    {
+      "eng": "respectful",
+      "kk": "rɪˈspɛktfəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "恭敬的",
+          "表示敬意的"
+        ]
+      ],
+      "analysis": "此形容詞由動詞 respect 加上形容詞字尾 -ful（充滿……的）構成，與 respectable 不同，此字主動指「表現出對他人尊重、恭敬的」態度或行為。",
+      "definition": "1. showing deference, politeness, or respect toward someone.",
+      "example": [
+        {
+          "eng": "Students are expected to maintain a respectful silence during the ceremony.",
+          "ch": "學生在儀式進行期間應保持恭敬的安靜。"
+        }
+      ]
+    },
+    {
+      "eng": "restore",
+      "kk": "rɪˈstɔr",
+      "tense": "vt.",
+      "ch": [
+        [
+          "修復",
+          "重建",
+          "使恢復"
+        ],
+        [
+          "歸還",
+          "交還"
+        ]
+      ],
+      "analysis": "此動詞源自拉丁語 restaurare（re- 再次 + -sturare 建造、設立，源自 staurare），經中古法語 restorer 進入英語。本義為重新建造或重建，演變為將建築或古物修復至原狀、使身體健康或社會秩序恢復，以及將物歸原主。",
+      "definition": "1. to bring back a building, work of art, or system to its former original condition; 2. to return something to its rightful owner or original place.",
+      "example": [
+        {
+          "eng": "The historic castle was carefully restored to its original medieval appearance.",
+          "ch": "這座歷史悠久的城堡被精心修復至其原本的中世紀外觀。"
+        },
+        {
+          "eng": "The police managed to restore the stolen painting to the museum.",
+          "ch": "警方設法將失竊的畫作歸還給博物館。"
+        }
+      ]
+    },
+    {
+      "eng": "restriction",
+      "kk": "rɪˈstrɪkʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "限制",
+          "約束",
+          "規定"
+        ]
+      ],
+      "analysis": "此名詞由動詞 restrict（源自拉丁語 restringere，re- 往回 + stringere 綁緊、束縛）加上名詞字尾 -ation/ -ion 構成。字面義為「緊緊綁住、束縛」，演變為法律、規則或條件所造成的限制或約束。",
+      "definition": "1. a rule or condition that limits or controls what you can do or happen.",
+      "example": [
+        {
+          "eng": "The government imposed strict travel restrictions during the public health crisis.",
+          "ch": "政府在公共衛生危機期間實施了嚴格的旅行限制。"
+        }
+      ]
+    },
+    {
+      "eng": "retain",
+      "kk": "rɪˈteɪn",
+      "tense": "vt.",
+      "ch": [
+        [
+          "保持",
+          "保留"
+        ],
+        [
+          "記住",
+          "牢記"
+        ],
+        [
+          "聘請",
+          "雇用"
+        ]
+      ],
+      "analysis": "此動詞源自拉丁語 retinere（re- 往回、保留 + tenere 持有、握住），經中古法語 retenir 進入英語。本義為將手上的東西握住不放，引申為在腦海中保留（記住）、保留權利或資產，以及透過付費契約聘請律師或顧問（聘請）。",
+      "definition": "1. to continue to keep possession of something; 2. to keep something in your mind or memory; 3. to hire the services of a professional person, such as a lawyer, by paying a retainer.",
+      "example": [
+        {
+          "eng": "Drinking enough water helps your body retain moisture.",
+          "ch": "喝足夠的水有助於身體保持水分。"
+        },
+        {
+          "eng": "Young children often retain new vocabulary faster than adults.",
+          "ch": "幼童通常比成年人更快記住新詞彙。"
+        },
+        {
+          "eng": "The corporation decided to retain an experienced lawyer for the lawsuit.",
+          "ch": "該公司決定為這場訴訟聘請一位經驗豐富的律師。"
+        }
+      ]
+    },
+    {
+      "eng": "retire",
+      "kk": "rɪˈtaɪər",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使退休",
+          "讓……退役"
+        ],
+        [
+          "回收",
+          "淘汰"
+        ]
+      ],
+      "analysis": "作為及物動詞時，主動使某人退休、讓裝備或設施退役（不再使用），或在體育比賽中讓投手退場。",
+      "definition": "1. to cause someone to leave a job or position; 2. to withdraw equipment or currency from use.",
+      "example": [
+        {
+          "eng": "The airline decided to retire its older fleet of Boeing 747 aircraft.",
+          "ch": "該航空公司決定讓其較舊的波音747機隊退役。"
+        }
+      ]
+    },
+    {
+      "eng": "retire",
+      "kk": "rɪˈtaɪər",
+      "tense": "vi.",
+      "ch": [
+        [
+          "退休"
+        ],
+        [
+          "就寢",
+          "退下"
+        ],
+        [
+          "離開",
+          "退避"
+        ]
+      ],
+      "analysis": "此動詞源自法語 retirer（re- 往回 + tirer 拉、拖），字面義為「把自己拉開、撤退」。現代主要指達到年齡或條件後正式退休，也可指夜晚退到臥室休息（就寢）或從公共場所退開。",
+      "definition": "1. to leave your job and stop working because you have reached a particular age; 2. to go away to a quiet or private place, or go to bed.",
+      "example": [
+        {
+          "eng": "My father plans to retire from the company at the end of this year.",
+          "ch": "我父親計畫在今年年底從公司退休。"
+        },
+        {
+          "eng": "After a long day of sightseeing, they decided to retire to their rooms.",
+          "ch": "經過一整天的觀光後，他們決定回房間休息。"
+        }
+      ]
+    },
+    {
+      "eng": "retirement",
+      "kk": "rɪˈtaɪərmənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "退休",
+          "退休生活"
+        ]
+      ],
+      "analysis": "此名詞由動詞 retire 加上名詞字尾 -ment 構成。指終止職業生涯的退休狀態、退休後的時期，或隱居的狀態。",
+      "definition": "1. the period of your life after you have stopped working at your job.",
+      "example": [
+        {
+          "eng": "She is looking forward to spending her retirement traveling around the world.",
+          "ch": "她正期待著將退休生活花在環遊世界上。"
+        }
+      ]
+    },
+    {
+      "eng": "retreat",
+      "kk": "rɪˈtrit",
+      "tense": "n.",
+      "ch": [
+        [
+          "撤退",
+          "後退"
+        ],
+        [
+          "靜修處",
+          "避難所"
+        ]
+      ],
+      "analysis": "此字為動詞與名詞同形。名詞由動詞 retreat 轉品而來，源自古法語 retraire（拉丁語 retrahere，re- 往回 + trahere 拉）。本義為軍隊的撤退，引申為尋求安靜、遠離喧囂的度假勝地或心靈靜修所。",
+      "definition": "1. an act of moving back or withdrawing, especially from military forces; 2. a quiet or secluded place in which you can rest or relax.",
+      "example": [
+        {
+          "eng": "The invading army was forced to make a hasty retreat.",
+          "ch": "入侵軍隊被迫倉皇撤退。"
+        },
+        {
+          "eng": "They bought a small cabin in the mountains as a weekend retreat.",
+          "ch": "他們在山裡買了一間小木屋作為週末的避難度假處。"
+        }
+      ]
+    },
+    {
+      "eng": "retreat",
+      "kk": "rɪˈtrit",
+      "tense": "vi.",
+      "ch": [
+        [
+          "撤退",
+          "後退"
+        ],
+        [
+          "打退堂鼓",
+          "放棄（想法等）"
+        ]
+      ],
+      "analysis": "此動詞源自拉丁語 retrahere。本義為將軍隊拉回、撤退，引申為人因恐懼、羞怯或改變心意而向後退縮、放棄某種立場。",
+      "definition": "1. to move back or withdraw from a place or danger; 2. to change your opinion or position in the face of difficulty.",
+      "example": [
+        {
+          "eng": "Facing heavy enemy fire, the soldiers had to retreat.",
+          "ch": "面對猛烈的敵軍砲火，士兵們不得不撤退。"
+        },
+        {
+          "eng": "Faced with criticism, he quickly retreated from his original stance.",
+          "ch": "面對批評，他迅速從原本的立場退縮。"
+        }
+      ]
+    },
+    {
+      "eng": "reunion",
+      "kk": "riˈunjən",
+      "tense": "n.",
+      "ch": [
+        [
+          "重聚",
+          "團圓",
+          "同學會"
+        ]
+      ],
+      "analysis": "此名詞由前綴 re-（重新、再）與 union（結合、團結，源自拉丁語 unire）結合而成。字面義為「重新結合」，現代專指親友、家庭或多年未見的同學重新聚在一起的集會或團圓。",
+      "definition": "1. an event that brings people together again after a period of separation.",
+      "example": [
+        {
+          "eng": "Our high school graduating class is organizing a ten-year reunion this summer.",
+          "ch": "我們高中畢業班今年夏天正在籌辦十年同學會。"
+        }
+      ]
+    },
+    {
+      "eng": "revenge",
+      "kk": "rɪˈvɛndʒ",
+      "tense": "n.",
+      "ch": [
+        [
+          "報仇",
+          "復仇"
+        ]
+      ],
+      "analysis": "此字為名詞與動詞同形。名詞由動詞 revenge 轉品而來，源自古法語 revenchier（re- 反向、加強 + vengier 復仇，源自拉丁語 vindicare）。指為了遭受的傷害或侮辱而對他人進行的報復行為。",
+      "definition": "1. the action of inflicting hurt or harm on someone for an injury or wrong suffered at their hands.",
+      "example": [
+        {
+          "eng": "He sought revenge against the people who had betrayed him.",
+          "ch": "他尋求對那些背叛他的人進行報復。"
+        }
+      ]
+    },
+    {
+      "eng": "revenge",
+      "kk": "rɪˈvɛndʒ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "替……報仇",
+          "復仇"
+        ]
+      ],
+      "analysis": "此動詞源自古法語 revenchier。作為及物動詞時，受詞通常是被傷害的人（如 revenge oneself）或為某人的遭遇報仇。",
+      "definition": "1. to harm or punish someone who has harmed you or someone you care about.",
+      "example": [
+        {
+          "eng": "In many classic plays, the hero vows to revenge his father's murder.",
+          "ch": "在許多經典戲劇中，主角發誓要替父親的謀殺案報仇。"
+        }
+      ]
+    },
+    {
+      "eng": "revise",
+      "kk": "rɪˈvaɪz",
+      "tense": "vt.",
+      "ch": [
+        [
+          "修訂",
+          "修改（文本、計畫）"
+        ],
+        [
+          "複習",
+          "溫習"
+        ]
+      ],
+      "analysis": "此動詞源自拉丁語 revisere（re- 再次 + visere 檢視、看，源自 videre 看），本義為「再次前去檢視」。中世紀拉丁語中指校對、審查文件，演變成現代英語中對文章、法案、計畫的修訂，以及英式英語中學生「溫習、複習功課」的常用詞。",
+      "definition": "1. to re-examine and make alterations to written or printed matter; 2. to study something again in order to prepare for an examination.",
+      "example": [
+        {
+          "eng": "The author spent the weekend revising the final chapters of her novel.",
+          "ch": "這位作家周末花時間修改她小說的最後幾章。"
+        },
+        {
+          "eng": "Students are busy revising their notes for the upcoming history test.",
+          "ch": "學生們正忙著為即將到來的歷史考試複習筆記。"
+        }
+      ]
+    },
+    {
+      "eng": "revision",
+      "kk": "rɪˈvɪʒən",
+      "tense": "n.",
+      "ch": [
+        [
+          "修訂",
+          "修改版本"
+        ],
+        [
+          "複習",
+          "溫習功課"
+        ]
+      ],
+      "analysis": "此名詞由動詞 revise 加上名詞字尾 -ion 構成。對應 revise 的雙重義項，既可指文章或法律條文的修訂版本，也常用於英式英語中指考試前的溫習與複習。",
+      "definition": "1. the act of rewriting or altering a book, piece of writing, or law; 2. the process of studying material already learned in preparation for an exam.",
+      "example": [
+        {
+          "eng": "This textbook is a completely updated revision of the 2015 edition.",
+          "ch": "這本教科書是2015年版本的完全更新修訂本。"
+        },
+        {
+          "eng": "Set aside enough time for daily revision before the exams.",
+          "ch": "在考試前留出足夠的時間進行日常複習。"
+        }
+      ]
+    },
+    {
+      "eng": "revolution",
+      "kk": "rɛvəˈluʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "革命",
+          "政治革新"
+        ],
+        [
+          "巨大變革",
+          "突破"
+        ],
+        [
+          "旋轉",
+          "公轉"
+        ]
+      ],
+      "analysis": "此名詞源自拉丁語 revolutio（revolvere 轉回、滾回），最初在天文學中指天體的旋轉或公轉（一週），後來因17世紀英國光榮革命及法國大革命，引申出政權與社會制度的「大革命」，再廣泛延伸至技術或思想領域的「巨大變革」。",
+      "definition": "1. a forcible overthrow of a government or social order in favor of a new system; 2. a dramatic and wide-reaching change in the way something is thought about or done; 3. the movement of an object around a central point or axis.",
+      "example": [
+        {
+          "eng": "The French Revolution of 1789 transformed the political landscape of Europe.",
+          "ch": "1789年的法國大革命改變了歐洲的政治格局。"
+        },
+        {
+          "eng": "The internet has sparked a digital revolution in global communication.",
+          "ch": "網際網路在全球通訊中引發了一場數位革命。"
+        },
+        {
+          "eng": "The Earth completes one full revolution around the Sun in 365.25 days.",
+          "ch": "地球在365.25天內完成繞太陽公轉一圈。"
+        }
+      ]
+    },
+    {
+      "eng": "revolutionary",
+      "kk": "rɛvəˈluʃənɛri",
+      "tense": "adj.",
+      "ch": [
+        [
+          "革命的",
+          "革新性的"
+        ],
+        [
+          "突破性的",
+          "劃時代的"
+        ]
+      ],
+      "analysis": "此形容詞由名詞 revolution 加上形容詞字尾 -ary 構成。本義指與政治革命相關的，現代廣泛用來形容技術、思想或產品具有劃時代、突破性或徹底顛覆傳統的創新特質。",
+      "definition": "1. involving or causing a complete or dramatic change; 2. relating to a political revolution.",
+      "example": [
+        {
+          "eng": "The invention of the smartphone was a revolutionary development in telecommunications.",
+          "ch": "智慧型手機的發明是電信領域的一項革命性發展。"
+        }
+      ]
+    },
+    {
+      "eng": "reward",
+      "kk": "rɪˈwɔrd",
+      "tense": "n.",
+      "ch": [
+        [
+          "獎勵",
+          "報酬",
+          "懸賞金"
+        ]
+      ],
+      "analysis": "此字為名詞與動詞同形。名詞源自古法語 reguerdon（來自日耳曼語源，與古諾斯語 verð 價值相關，經語音混同演變為 reward）。指對於良好的表現、服務或提供破案線索所給予的金錢或物質回報。",
+      "definition": "1. a thing given in recognition of one's service, effort, or achievement, or offered for the capture of a criminal.",
+      "example": [
+        {
+          "eng": "The police offered a generous reward for information leading to the arrest of the suspect.",
+          "ch": "警方提供豐厚的懸賞金，以徵求能逮捕嫌疑犯的線索。"
+        }
+      ]
+    },
+    {
+      "eng": "reward",
+      "kk": "rɪˈwɔrd",
+      "tense": "vt.",
+      "ch": [
+        [
+          "獎勵",
+          "獎賞",
+          "給予報酬"
+        ]
+      ],
+      "analysis": "此動詞源自古法語語源，作及物動詞時，表示因為某人的努力、功績或優良行為而給予實質或精神上的回報與獎勵。",
+      "definition": "1. to give something to someone in recognition of their services, efforts, or achievements.",
+      "example": [
+        {
+          "eng": "The company decided to reward its employees with a generous year-end bonus.",
+          "ch": "公司決定以豐厚的年終獎金來獎勵員工。"
+        }
+      ]
+    },
+    {
+      "eng": "rhyme",
+      "kk": "raɪm",
+      "tense": "n.",
+      "ch": [
+        [
+          "押韻",
+          "韻腳"
+        ],
+        [
+          "韻文",
+          "詩歌"
+        ]
+      ],
+      "analysis": "此字為名詞與動詞同形。中古英語中受古法語 rime 影響，拼字誤植為與 rhythm 混淆而加上了 h。指詩歌中字尾發音相同的押韻現象、韻腳，或泛指具有韻律的詩歌作品。",
+      "definition": "1. correspondence of sound between words or the endings of lines of verse; 2. a short poem or song having rhyming lines.",
+      "example": [
+        {
+          "eng": "The poem has a simple AABB rhyme scheme.",
+          "ch": "這首詩採用了簡單的AABB押韻格式。"
+        },
+        {
+          "eng": "Children love learning nursery rhymes when they are very young.",
+          "ch": "小孩子在很小的時候就很喜歡學兒歌。"
+        }
+      ]
+    },
+    {
+      "eng": "rhyme",
+      "kk": "raɪm",
+      "tense": "vi.",
+      "ch": [
+        [
+          "押韻"
+        ]
+      ],
+      "analysis": "作為不及物動詞時，指兩個或多個單字的字尾發音相同、彼此押韻（常與 with 連用）。",
+      "definition": "1. to have the same ending sound as another word.",
+      "example": [
+        {
+          "eng": "In English poetry, the word 'light' rhymes with 'night'.",
+          "ch": "在英語詩歌中，'light'這個詞與'night'押韻。"
+        }
+      ]
+    },
+    {
+      "eng": "rhythm",
+      "kk": "ˈrɪðəm",
+      "tense": "n.",
+      "ch": [
+        [
+          "節奏",
+          "韻律"
+        ],
+        [
+          "規律的動作",
+          "節拍"
+        ]
+      ],
+      "analysis": "此名詞源自拉丁語 rhythmus，最終源自希臘語 rhythmos（源自 rhein 流動），本義為「流動中的規律起伏」。在音樂、舞蹈中指節奏，在日常生活中指生理時鐘或工作、生活的規律節拍。",
+      "definition": "1. a strong, regular, repeated pattern of movement or sound; 2. a regular pattern of changes or events.",
+      "example": [
+        {
+          "eng": "She tapped her foot to the lively rhythm of the jazz music.",
+          "ch": "她隨著爵士樂活潑的節奏輕敲著腳拍。"
+        },
+        {
+          "eng": "It takes a few days to get back into your normal work rhythm after a long vacation.",
+          "ch": "長假過後需要幾天時間才能恢復正常的工作節奏。"
+        }
+      ]
+    },
+    {
+      "eng": "riddle",
+      "kk": "ˈrɪdəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "謎語",
+          "令人費解的謎"
+        ],
+        [
+          "難題"
+        ]
+      ],
+      "analysis": "此名詞源自古英語 rædels（源自 rædan 解讀、解釋、勸告），字面義為「需要被解釋或猜測的事物」。演變成兒童喜愛的文字謎語，或泛指難以理解的謎團與難題。",
+      "definition": "1. a question or statement intentionally phrased so as to require cleverness in guessing its answer; 2. a mysterious person or thing.",
+      "example": [
+        {
+          "eng": "The children spent the afternoon trying to solve simple riddles.",
+          "ch": "孩子們整個下午都在試著猜簡單的謎語。"
+        },
+        {
+          "eng": "The sudden disappearance of the ancient civilization remains a riddle to scientists.",
+          "ch": "這個古代文明的突然消失對科學家來說仍然是一個謎。"
+        }
+      ]
+    },
+    {
+      "eng": "robber",
+      "kk": "ˈrɑbər",
+      "tense": "n.",
+      "ch": [
+        [
+          "強盜",
+          "搶劫犯"
+        ]
+      ],
+      "analysis": "此名詞由動詞 rob（源自日耳曼語源，經中古法語 rober 進入英語）加上名詞字尾 -er 構成。專指使用武力或恐嚇手段搶劫他人財物的人。",
+      "definition": "1. a person who steals from a person or place, especially using violence or threat of force.",
+      "example": [
+        {
+          "eng": "The bank robber was caught by the police within hours of the crime.",
+          "ch": "銀行搶匪在案發幾小時內就被警察逮捕了。"
+        }
+      ]
+    },
+    {
+      "eng": "romance",
+      "kk": "roʊˈmæns",
+      "tense": "n.",
+      "ch": [
+        [
+          "戀情",
+          "浪漫史"
+        ],
+        [
+          "浪漫愛情小說",
+          "浪漫色彩"
+        ]
+      ],
+      "analysis": "此名詞源自古法語 romanz（源自拉丁語 Romanice，指用羅曼諸語寫成的騎士傳奇故事）。在中世紀指充滿冒險與愛情的傳奇故事，近代演變為現實生活中的男女戀情、愛情小說，以及充滿幻想與神祕浪漫色彩的氛圍。",
+      "definition": "1. a feeling of excitement and mystery associated with love; a love affair; 2. a genre of fiction dealing with romantic love.",
+      "example": [
+        {
+          "eng": "Their summer romance blossomed into a lifelong marriage.",
+          "ch": "他們的夏日戀情開花結果，結為終身伴侶。"
+        },
+        {
+          "eng": "She enjoys reading historical romance novels in her spare time.",
+          "ch": "她閒暇時喜歡閱讀歷史羅曼史小說。"
+        }
+      ]
+    },
+    {
+      "eng": "route",
+      "kk": "rut",
+      "tense": "n.",
+      "ch": [
+        [
+          "路線",
+          "路程"
+        ],
+        [
+          "途徑",
+          "方法"
+        ]
+      ],
+      "analysis": "此名詞源自古法語 route（源自拉丁語 rupta [via]「被開闢出來的道路」，rumpere 破碎、劈開）。本義為穿過森林被劈開的道路，引申為交通出行的具體路線，或實現某個目標的途徑與方法。",
+      "definition": "1. a way or course taken in getting from a starting point to a destination; 2. a method or pathway for achieving something.",
+      "example": [
+        {
+          "eng": "We planned our driving route ahead of time to avoid heavy traffic.",
+          "ch": "我們提前規畫了開車路線以避開交通壅塞。"
+        },
+        {
+          "eng": "Higher education is often seen as a reliable route to a successful career.",
+          "ch": "高等教育通常被視為通往成功事業的可靠途徑。"
+        }
+      ]
+    },
+    {
+      "eng": "ruin",
+      "kk": "ˈruɪn",
+      "tense": "n.",
+      "ch": [
+        [
+          "毀壞",
+          "毀滅"
+        ],
+        [
+          "廢墟",
+          "遺跡"
+        ]
+      ],
+      "analysis": "此字為名詞與動詞同形。名詞源自拉丁語 ruina（ruere 倒塌、崩落），經中古法語進入英語。指完全的毀壞、破產，或複數形 ruins 常指古代建築倒塌後留下的歷史廢墟與遺跡。",
+      "definition": "1. the physical destruction or collapse of something; 2. the remaining pieces of a building, town, or structure that has been destroyed (often used as ruins).",
+      "example": [
+        {
+          "eng": "Poor financial management led to the complete ruin of his business.",
+          "ch": "不良的財務管理導致他生意的徹底破產。"
+        },
+        {
+          "eng": "Tourists from all over the world come to explore the ancient Roman ruins.",
+          "ch": "世界各地的遊客前來探索古羅馬廢墟。"
+        }
+      ]
+    },
+    {
+      "eng": "ruin",
+      "kk": "ˈruɪn",
+      "tense": "vt.",
+      "ch": [
+        [
+          "毀壞",
+          "毀滅",
+          "使破產"
+        ]
+      ],
+      "analysis": "此動詞源自拉丁語 ruere。作為及物動詞，指徹底摧毀某物的價值、外觀、健康，或是使某人傾家蕩產。",
+      "definition": "1. to reduce a building, place, or thing to a state of decay, collapse, or destruction; to spoil completely.",
+      "example": [
+        {
+          "eng": "A sudden downpour of rain completely ruined our outdoor wedding party.",
+          "ch": "一場突如其來的大雨完全毀了我們的戶外婚禮派對。"
+        }
+      ]
+    },
+    {
+      "eng": "rural",
+      "kk": "ˈrʊrəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "農村的",
+          "鄉下的"
+        ]
+      ],
+      "analysis": "此形容詞源自拉丁語 ruralis（rur-, rus 鄉村、田野），經中世紀拉丁語進入英語。用來形容與城市相對的、鄉村地區的風景、生活方式或經濟活動。",
+      "definition": "1. in, relating to, or characteristic of the countryside rather than the city.",
+      "example": [
+        {
+          "eng": "Many young people leave rural villages to find better job opportunities in big cities.",
+          "ch": "許多青年離開鄉村聚落，到大城市尋找更好的工作機會。"
+        }
+      ]
+    },
+    {
+      "eng": "rusty",
+      "kk": "ˈrʌsti",
+      "tense": "adj.",
+      "ch": [
+        [
+          "生鏽的"
+        ],
+        [
+          "生疏的",
+          "荒疏的"
+        ]
+      ],
+      "analysis": "此形容詞由名詞 rust（鐵鏽，源自日耳曼語源）加上形容詞字尾 -y 構成。本義為金屬表面生鏽的，引申為因長時間未練習或使用而變得生疏、不靈巧的技能或語言能力。",
+      "definition": "1. affected by rust; 2. impaired by lack of practice or use.",
+      "example": [
+        {
+          "eng": "The old bicycle had been left in the rain and its chain was completely rusty.",
+          "ch": "這輛舊腳踏車被放在雨中，其鏈條完全生鏽了。"
+        },
+        {
+          "eng": "My spoken French is a bit rusty because I haven't practiced it in years.",
+          "ch": "我的法語口說有點生疏了，因為我已經好幾年沒練習了。"
+        }
+      ]
+    },
+    {
+      "eng": "sacrifice",
+      "kk": "ˈsækrəˌfaɪs",
+      "tense": "n.",
+      "ch": [
+        [
+          "犧牲",
+          "奉獻"
+        ],
+        [
+          "祭品",
+          "祭祀"
+        ]
+      ],
+      "analysis": "此字為名詞與動詞同形。名詞源自拉丁語 sacrificium（sacer 神聖的 + facere 做），本義為古代宗教儀式中將祭品奉獻給神明的「祭祀與祭品」，演變為現代為了達成更高目標而自願放棄寶貴事物的「犧牲與奉獻」。",
+      "definition": "1. an act of giving up something valued for the sake of something else; 2. an act of slaughtering an animal or person or surrendering a possession as an offering to a deity.",
+      "example": [
+        {
+          "eng": "Parents often make great personal sacrifices to provide a good education for their children.",
+          "ch": "父母經常為了給孩子提供良好的教育而做出重大的個人犧牲。"
+        }
+      ]
+    },
+    {
+      "eng": "sacrifice",
+      "kk": "ˈsækrəˌfaɪs",
+      "tense": "vt.",
+      "ch": [
+        [
+          "犧牲",
+          "放棄"
+        ],
+        [
+          "獻祭"
+        ]
+      ],
+      "analysis": "此動詞源自拉丁語 sacrificium。作為及物動詞，指為了某種利益或顧全大局而主動捨棄利益、時間或生命。",
+      "definition": "1. to give up something important or valued for the sake of other considerations.",
+      "example": [
+        {
+          "eng": "He was not willing to sacrifice his personal principles for career advancement.",
+          "ch": "他不願意為了事業晉升而犧牲個人的原則。"
+        }
+      ]
+    },
+    {
+      "eng": "satellite",
+      "kk": "ˈsætəˌlaɪt",
+      "tense": "n.",
+      "ch": [
+        [
+          "衛星",
+          "人造衛星"
+        ]
+      ],
+      "analysis": "此名詞源自拉丁語 satelles（隨從、侍衛），經法語引入科學界。最初指繞行星運轉的自然天體（如月球），現代主要指人類發射並環繞地球運轉的人造通訊或氣象衛星。",
+      "definition": "1. an artificial body placed in orbit round the earth or another planet in order to collect information or for communication.",
+      "example": [
+        {
+          "eng": "Weather satellites provide meteorologists with real-time data on global storm patterns.",
+          "ch": "氣象衛星為氣象學家提供全球風暴模式的即時數據。"
+        }
+      ]
+    },
+    {
+      "eng": "satisfaction",
+      "kk": "sætɪsˈfækʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "滿意",
+          "滿足感"
+        ],
+        [
+          "償還",
+          "賠償"
+        ]
+      ],
+      "analysis": "此名詞由動詞 satisfy（源自拉丁語 satisfacere，satis 足夠 + facere 做）衍生出名詞字尾 -action。字面義為「使需求獲得滿足」，演變為內心的滿足感、工作成就感，或法律上的賠償與債務清償。",
+      "definition": "1. fulfillment of one's wishes, expectations, or needs, giving pleasure; 2. the payment of a debt or the redress of a wrong.",
+      "example": [
+        {
+          "eng": "She felt a deep sense of satisfaction after completing the marathon.",
+          "ch": "她在跑完馬拉松後感到一種深深的滿足感。"
+        }
+      ]
+    },
+    {
+      "eng": "scarcely",
+      "kk": "ˈskɛrsli",
+      "tense": "adv.",
+      "ch": [
+        [
+          "幾乎不",
+          "簡直不"
+        ],
+        [
+          "剛剛",
+          "才"
+        ]
+      ],
+      "analysis": "此副詞由形容詞 scarce（稀少的，源自拉丁語 excarsus）加上副詞字尾 -ly 構成。表否定或極低頻率，意指「幾乎沒有、勉強達到」，或與 when 連用表示「一……就……」。",
+      "definition": "1. only just; almost not; 2. almost certainly not.",
+      "example": [
+        {
+          "eng": "He had scarcely finished his speech when the audience broke into thunderous applause.",
+          "ch": "他話音剛落，觀眾就爆發出雷鳴般的掌聲。"
+        },
+        {
+          "eng": "The noise was so loud that she could scarcely hear herself speak.",
+          "ch": "噪音太大，她幾乎聽不見自己的說話聲。"
+        }
+      ]
+    },
+    {
+      "eng": "scenery",
+      "kk": "ˈsinəri",
+      "tense": "n.",
+      "ch": [
+        [
+          "風景",
+          "景色"
+        ],
+        [
+          "舞台佈景"
+        ]
+      ],
+      "analysis": "此名詞由義大利語 sceneria 或法語演變而來，源自希臘語 skēnē（舞台、帳篷）。最初專指戲劇舞台上的佈景，後來引申為大自然中優美的山水風光與景色。",
+      "definition": "1. the natural features of a landscape considered in terms of their appearance; 2. the painted background used to represent scenery on a theatre stage.",
+      "example": [
+        {
+          "eng": "We stopped several times during the road trip to admire the breathtaking mountain scenery.",
+          "ch": "我們在自駕旅行途中停了好幾次，以欣賞令人屏息的山區風景。"
+        },
+        {
+          "eng": "The stage crew worked quickly to change the scenery between acts.",
+          "ch": "舞台工作人員迅速在各幕之間更換佈景。"
+        }
+      ]
+    },
+    {
+      "eng": "scold",
+      "kk": "skoʊld",
+      "tense": "vt.",
+      "ch": [
+        [
+          "責罵",
+          "訓斥"
+        ]
+      ],
+      "analysis": "作為及物動詞時，直接接被斥責的人為受詞，指上級或長輩對犯錯者的嚴厲訓斥與批評。",
+      "definition": "1. to criticize someone harshly for doing something wrong.",
+      "example": [
+        {
+          "eng": "The mother gently scolded her son for spilling milk on the clean carpet.",
+          "ch": "母親溫和地責備兒子把牛奶灑在乾淨的地毯上。"
+        }
+      ]
+    },
+    {
+      "eng": "scold",
+      "kk": "skoʊld",
+      "tense": "vi.",
+      "ch": [
+        [
+          "責罵",
+          "愛發牢騷"
+        ]
+      ],
+      "analysis": "此字為動詞與名詞同形。動詞源自中古英語 scoldan。作為不及物動詞時，指大聲地、氣憤地斥責、訓斥或嘮叨抱怨。",
+      "definition": "1. to remonstrate with or rebuke someone angrily.",
+      "example": [
+        {
+          "eng": "She stood by the window, scolding at the children playing too noisily outside.",
+          "ch": "她站在窗邊，對著外面玩得太吵鬧的孩子們大聲責罵。"
+        }
+      ]
+    },
+    {
+      "eng": "scoop",
+      "kk": "skup",
+      "tense": "n.",
+      "ch": [
+        [
+          "勺子",
+          "舀勺"
+        ],
+        [
+          "獨家新聞"
+        ]
+      ],
+      "analysis": "此字為名詞與動詞同形。名詞源自日耳曼語源（荷蘭語 schoep）。本義是用來舀取冰淇淋、麵粉或液體的勺子，引申在新聞界中指搶先獲得的「獨家新聞」。",
+      "definition": "1. a utensil like a small shovel with a deep bowl used for taking up food or other substances; 2. a piece of important news that is published by a newspaper before its rivals.",
+      "example": [
+        {
+          "eng": "She used an ice cream scoop to serve two large balls of vanilla ice cream.",
+          "ch": "她用冰淇淋勺挖了兩大球香草冰淇淋。"
+        },
+        {
+          "eng": "The local newspaper managed to get a major scoop on the political scandal.",
+          "ch": "當地報紙設法得到了關於這起政治醜聞的重大獨家新聞。"
+        }
+      ]
+    },
+    {
+      "eng": "scoop",
+      "kk": "skup",
+      "tense": "vt.",
+      "ch": [
+        [
+          "舀出",
+          "挖出"
+        ],
+        [
+          "搶先報導（獨家新聞）"
+        ]
+      ],
+      "analysis": "此動詞源自名詞同源詞。作為及物動詞，指用勺子舀取物質，或在新聞競爭中搶先對手報導獨家消息。",
+      "definition": "1. to pick up and move something with a scoop; 2. to obtain and publish a news story before rival media.",
+      "example": [
+        {
+          "eng": "He scooped some soil into a small flowerpot to plant the seeds.",
+          "ch": "他用勺子舀了一些泥土到小花盆裡以種植種子。"
+        },
+        {
+          "eng": "The evening paper managed to scoop all its rivals with the resignation announcement.",
+          "ch": "晚報憑藉這項辭職公告搶先所有競爭對手進行了獨家報導。"
+        }
+      ]
+    },
+    {
+      "eng": "scratch",
+      "kk": "skrætʃ",
+      "tense": "n.",
+      "ch": [
+        [
+          "抓痕",
+          "擦傷"
+        ],
+        [
+          "起跑線",
+          "零點"
+        ]
+      ],
+      "analysis": "此字為名詞與動詞同形。名詞由動詞 scratch 轉品而來，指皮膚上的輕微抓傷、刮痕，或在體育競賽中指起跑線（from scratch 從頭開始、白手起家）。",
+      "definition": "1. a superficial wound or mark made by scratching; 2. a starting point in a race or competition.",
+      "example": [
+        {
+          "eng": "The cat left a few minor scratches on his hand.",
+          "ch": "那隻貓在他的手上留下了幾道輕微的抓痕。"
+        },
+        {
+          "eng": "Building a successful startup from scratch requires immense dedication and hard work.",
+          "ch": "從零開始建立一家成功的初創公司需要巨大的奉獻與努力。"
+        }
+      ]
+    },
+    {
+      "eng": "scratch",
+      "kk": "skrætʃ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "抓",
+          "搔"
+        ],
+        [
+          "劃破",
+          "刮傷"
+        ],
+        [
+          "刪除",
+          "取消"
+        ]
+      ],
+      "analysis": "此動詞源自日耳曼語源（模仿聲音）。本義用指甲抓癢、刮擦物體表面造成劃痕，引申為從名單中將某人或某項目刪除（scratch off）。",
+      "definition": "1. to rub the skin with the fingernails to relieve itching; 2. to score or mark the surface of something with a sharp object; 3. to cross out or remove something from a list.",
+      "example": [
+        {
+          "eng": "The mosquito bite made his arm itch, so he began to scratch it.",
+          "ch": "蚊子叮咬使他的手臂發癢，於是開始抓癢。"
+        },
+        {
+          "eng": "Be careful not to scratch the glass screen of your smartphone.",
+          "ch": "小心不要刮傷智慧型手機的玻璃螢幕。"
+        },
+        {
+          "eng": "He had to scratch his name from the race due to a sudden injury.",
+          "ch": "由於突發受傷，他不得不將自己的名字從比賽名單中刪除。"
+        }
+      ]
+    },
+    {
+      "eng": "sculpture",
+      "kk": "ˈskʌlpʧər",
+      "tense": "n.",
+      "ch": [
+        [
+          "雕刻",
+          "雕塑品"
+        ]
+      ],
+      "analysis": "此名詞源自拉丁語 sculptura（sculpere 雕刻、鑿刻），經法語進入英語。指使用木、石、金屬或泥土雕刻而成的藝術品，或雕刻此一藝術創作活動本身。",
+      "definition": "1. the art of making two- or three-dimensional representative or abstract forms, especially by carving or casting; a work of art produced in this way.",
+      "example": [
+        {
+          "eng": "The museum houses a magnificent collection of classical Greek marble sculptures.",
+          "ch": "該博物館收藏了大量精美的古希臘大理石雕塑品。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1233 @@
+{
+  "level": 1,
+  "chunkIndex": 10,
+  "inputs": [
+    "interest",
+    "interested",
+    "interesting",
+    "interview",
+    "into",
+    "invite",
+    "island",
+    "it",
+    "its",
+    "itself",
+    "item",
+    "jacket",
+    "jeans",
+    "job",
+    "join",
+    "joke",
+    "joy",
+    "juice",
+    "jump",
+    "just",
+    "keep",
+    "key",
+    "kick",
+    "kid",
+    "kill",
+    "kind",
+    "king",
+    "kiss",
+    "kitchen",
+    "kite",
+    "knee",
+    "knife",
+    "knock",
+    "know",
+    "knowledge",
+    "lake",
+    "lamp",
+    "land",
+    "language",
+    "large",
+    "last",
+    "late",
+    "later",
+    "laugh",
+    "lawyer",
+    "lazy",
+    "lead",
+    "leader",
+    "learn",
+    "least"
+  ],
+  "rows": [
+    {
+      "eng": "interest",
+      "kk": "ˈɪntərɪst",
+      "tense": "n.",
+      "ch": [
+        [
+          "興趣",
+          "愛好",
+          "關心"
+        ],
+        [
+          "利息",
+          "利率"
+        ],
+        [
+          "利益",
+          "好處"
+        ]
+      ],
+      "analysis": "此字為名詞與動詞同形，源自古法語 interest，最終源自拉丁語 interesse（意為「在其中存在、有重要性、有關係」），由 inter-（在……之間）與 esse（存在）複合而成。在現代英語中作為名詞使用時，主要指對某事物的關注或喜愛、資金借貸產生的利息，以及相關的權益或好處。",
+      "definition": "1. the feeling of wanting to learn more about something or to take part in something; 2. money paid regularly at a particular rate for the use of money lent; 3. an advantage, benefit, or legal share in something.",
+      "example": [
+        {
+          "eng": "She has a strong interest in art and history.",
+          "ch": "她對藝術和歷史有濃厚的興趣。"
+        },
+        {
+          "eng": "The bank charges a high rate of interest on loans.",
+          "ch": "這家銀行對貸款收取高利率。"
+        },
+        {
+          "eng": "They always act in the best interest of their children.",
+          "ch": "他們總是為了孩子們的最佳利益行事。"
+        }
+      ]
+    },
+    {
+      "eng": "interest",
+      "kk": "ˈɪntərɪst",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使感興趣",
+          "引起……的注意"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自名詞 interest 的動詞化用法。詞源上追溯至拉丁語 interesse。作為及物動詞時，句型通常為主詞（事物）interest 受詞（人），用以表達某事物吸引了某人的注意力或引發其好奇心。",
+      "definition": "1. to attract someone's attention and make them want to know more about something.",
+      "example": [
+        {
+          "eng": "Science fiction books always interest young readers.",
+          "ch": "科幻小說總是能引起年輕讀者的興趣。"
+        }
+      ]
+    },
+    {
+      "eng": "interested",
+      "kk": "ˈɪntərɪstɪd",
+      "tense": "adj.",
+      "ch": [
+        [
+          "感興趣的",
+          "關心的"
+        ]
+      ],
+      "analysis": "此字為動詞 interest 的過去分詞轉化而來的形容詞，保留了被動與狀態的語義，專門用來形容人對某事物感到有興趣或懷有熱忱，常用於片語 be interested in 中。",
+      "definition": "1. showing or feeling curiosity about something; giving attention to something.",
+      "example": [
+        {
+          "eng": "Are you interested in learning a new language?",
+          "ch": "你有興趣學習一門新語言嗎？"
+        }
+      ]
+    },
+    {
+      "eng": "interesting",
+      "kk": "ˈɪntrəstɪŋ",
+      "tense": "adj.",
+      "ch": [
+        [
+          "有趣的",
+          "引人入勝的"
+        ]
+      ],
+      "analysis": "此字是由動詞 interest 加上現在分詞字尾 -ing 形成的形容詞，用以修飾會主動引發他人興趣的事物或狀況。",
+      "definition": "1. arousing curiosity or holding the attention.",
+      "example": [
+        {
+          "eng": "I read a very interesting article about space travel yesterday.",
+          "ch": "我昨天讀了一篇關於太空旅行的非常有趣的文章。"
+        }
+      ]
+    },
+    {
+      "eng": "interview",
+      "kk": "ˈɪntɚvju",
+      "tense": "n.",
+      "ch": [
+        [
+          "面試",
+          "訪談",
+          "採訪"
+        ]
+      ],
+      "analysis": "此字為名詞與動詞同形，源自中古法語 entrevue（會面），源自動詞 s'entrevoir（互相看見），由前綴 entre-（互相）與 voir（看，源自拉丁語 videre）結合而成。在現代英語中，主要指為了工作錄用、新聞報導或研究目的而進行的正式會面與對話。",
+      "definition": "1. a formal meeting in which someone is asked questions to see if they are suitable for a job; 2. a meeting in which a journalist asks someone questions for a newspaper, television show, etc.",
+      "example": [
+        {
+          "eng": "She prepared carefully for her job interview.",
+          "ch": "她為她的工作面試做了精心的準備。"
+        },
+        {
+          "eng": "The celebrity gave an exclusive interview to the magazine.",
+          "ch": "這位名人接受了該雜誌的獨家專訪。"
+        }
+      ]
+    },
+    {
+      "eng": "interview",
+      "kk": "ˈɪntɚvju",
+      "tense": "vt.",
+      "ch": [
+        [
+          "面試",
+          "採訪",
+          "訪談"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自名詞 interview。作為及物動詞時，表示主詞（如面試官或記者）對受詞（如求職者或受訪者）進行提問與對話。",
+      "definition": "1. to ask someone questions in a formal meeting to get information or to evaluate them for a job.",
+      "example": [
+        {
+          "eng": "The manager will interview ten candidates today.",
+          "ch": "經理今天將面試十位候選人。"
+        }
+      ]
+    },
+    {
+      "eng": "into",
+      "kk": "ˈɪntu",
+      "tense": "prep.",
+      "ch": [
+        [
+          "進入……裡面",
+          "到……之中"
+        ],
+        [
+          "變成",
+          "轉化為"
+        ],
+        [
+          "對……很感興趣",
+          "熱衷於"
+        ]
+      ],
+      "analysis": "此字為介系詞，由 in（在……裡面）與 to（向、到）複合而成，古英語時期即已存在。基本語義表示由外向內的運動方向或位置轉移，進而引申出狀態的改變（變成）以及口語中對某事物的投入與喜愛。",
+      "definition": "1. expressing movement or action that results in something being inside a container, space, or area; 2. expressing a change in state from one form to another; 3. very interested in something or enthusiastic about it.",
+      "example": [
+        {
+          "eng": "She walked into the room and closed the door.",
+          "ch": "她走進房間並關上了門。"
+        },
+        {
+          "eng": "The caterpillar eventually turned into a butterfly.",
+          "ch": "毛毛蟲最終變成了蝴蝶。"
+        },
+        {
+          "eng": "My brother is really into video games.",
+          "ch": "我弟弟真的很迷電子遊戲。"
+        }
+      ]
+    },
+    {
+      "eng": "invite",
+      "kk": "ɪnˈvaɪt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "邀請",
+          "徵求"
+        ],
+        [
+          "招致",
+          "惹來"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自拉丁語 invitare（邀請、招待）。在現代英語中，主要指正式或非正式地請某人參與某項活動，亦可引申為無意中招致某種不良後果（如 invite criticism）。",
+      "definition": "1. to politely ask someone to come to a social event or to do something; 2. to bring something unpleasant upon oneself by one's actions.",
+      "example": [
+        {
+          "eng": "They decided to invite all their friends to the wedding.",
+          "ch": "他們決定邀請所有的朋友參加婚禮。"
+        },
+        {
+          "eng": "His careless remarks invited a lot of criticism.",
+          "ch": "他粗心的大放厥詞招致了許多批評。"
+        }
+      ]
+    },
+    {
+      "eng": "island",
+      "kk": "ˈaɪlənd",
+      "tense": "n.",
+      "ch": [
+        [
+          "島",
+          "島嶼"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古英語 īgland（意為水中的土地），由 īg（島）與 land（土地）複合而成。中古英語時期受法語 isle 拼字影響，被加上了不發音的字母 s。",
+      "definition": "1. a piece of land surrounded by water.",
+      "example": [
+        {
+          "eng": "They spent their summer vacation on a tropical island.",
+          "ch": "他們在一個熱帶島嶼上度過了暑假。"
+        }
+      ]
+    },
+    {
+      "eng": "it",
+      "kk": "ɪt",
+      "tense": "pron.",
+      "ch": [
+        [
+          "它"
+        ],
+        [
+          "（無指稱的虛主詞，用於天氣、時間、距離等）"
+        ]
+      ],
+      "analysis": "此字為代名詞，源自日耳曼語族的古英語 hit（中性第三人稱代名詞）。在現代英語中，既可用作指代先前提及的事物、動物或抽象概念，也可用作虛主詞（dummy pronoun）來表達時間、天氣、距離或環境。",
+      "definition": "1. used to refer to a thing previously mentioned, animal, or abstract concept; 2. used as a subject to talk about weather, time, distance, or general situations.",
+      "example": [
+        {
+          "eng": "I bought a new car, and it is very fast.",
+          "ch": "我買了一輛新車，它跑得很快。"
+        },
+        {
+          "eng": "It is starting to rain outside.",
+          "ch": "外面開始下雨了。"
+        }
+      ]
+    },
+    {
+      "eng": "its",
+      "kk": "ɪts",
+      "tense": "det.",
+      "ch": [
+        [
+          "它的"
+        ]
+      ],
+      "analysis": "此字為所有格限定詞，由代名詞 it 加上屬格詞尾 -s 演變而來，確立於17世紀（取代古英語的 his 作為中性所有格）。用以修飾名詞，表示屬於某個無生命物體、動物或抽象概念所有。",
+      "definition": "1. belonging to or associated with a thing previously mentioned.",
+      "example": [
+        {
+          "eng": "The cat wagged its tail happily.",
+          "ch": "那隻貓快樂地搖著它的尾巴。"
+        }
+      ]
+    },
+    {
+      "eng": "itself",
+      "kk": "ɪtˈsɛlf",
+      "tense": "pron.",
+      "ch": [
+        [
+          "它自己"
+        ]
+      ],
+      "analysis": "此字為反身代名詞或強化代名詞，由所有格限定詞 its 與 self（自己）複合而成。用以指代主詞本身，或加強語氣凸顯該事物本身。",
+      "definition": "1. used to refer back to the thing as the object of the action, or to emphasize the thing itself.",
+      "example": [
+        {
+          "eng": "The door opened by itself.",
+          "ch": "門自己開了。"
+        }
+      ]
+    },
+    {
+      "eng": "item",
+      "kk": "ˈaɪtəm",
+      "tense": "n.",
+      "ch": [
+        [
+          "項目",
+          "條目"
+        ],
+        [
+          "一件物品",
+          "物件"
+        ]
+      ],
+      "analysis": "此字為名詞，直接借自拉丁語 item（意為「同樣地、又」），在拉丁語會計或法律清單中常被用作逐項列出的連接詞，後來在中古英語中轉化為名詞，指清單中的一個個項目或一件件物品。",
+      "definition": "1. an individual article or unit in a list, collection, or set; 2. a single object or thing.",
+      "example": [
+        {
+          "eng": "Make sure to check every item on the shopping list.",
+          "ch": "務必檢查購物清單上的每一個項目。"
+        },
+        {
+          "eng": "She packed only a few essential items for the trip.",
+          "ch": "她為這次旅行只打包了幾件必備物品。"
+        }
+      ]
+    },
+    {
+      "eng": "jacket",
+      "kk": "ˈdʒækɪt",
+      "tense": "n.",
+      "ch": [
+        [
+          "夾克",
+          "短外套"
+        ]
+      ],
+      "analysis": "此字為名詞，源自中古法語 jaquette（短上衣、外衣），源自人名 Jacques（雅克，常用來代指農夫或普通平民）加上指小詞字尾 -et。原指平民穿的短上衣，現代演變為各種短外套或夾克的統稱。",
+      "definition": "1. a short coat worn as part of clothing, usually reaching to the hips or waist.",
+      "example": [
+        {
+          "eng": "He wore a warm jacket because the weather was cold.",
+          "ch": "因為天氣很冷，他穿了一件保暖的夾克。"
+        }
+      ]
+    },
+    {
+      "eng": "jeans",
+      "kk": "dʒinz",
+      "tense": "n.",
+      "ch": [
+        [
+          "牛仔褲"
+        ]
+      ],
+      "analysis": "此字為複數名詞，源自義大利城市熱那亞（Genoa，古時法語拼作 Jannes）的名稱，當地生產一種耐磨的斜紋棉布（jean），後來用來指稱用這種布料製作的褲子。現代英語中幾乎專以複數形式出現。",
+      "definition": "1. casual trousers made of denim or durable cotton fabric.",
+      "example": [
+        {
+          "eng": "She likes to wear comfortable jeans and a T-shirt on weekends.",
+          "ch": "她喜歡在週末穿舒適的牛仔褲和T恤。"
+        }
+      ]
+    },
+    {
+      "eng": "job",
+      "kk": "dʒɑb",
+      "tense": "n.",
+      "ch": [
+        [
+          "工作",
+          "職業"
+        ],
+        [
+          "任務",
+          "事情"
+        ]
+      ],
+      "analysis": "此字為名詞，其詞源在早期英語中較為模糊，可能源自中古英語 gobbe（塊、成團之物，指一塊工作或任務），於16世紀前後逐漸定型為指代受僱的工作或一項具體的任務。",
+      "definition": "1. a paid position of regular employment; 2. a task or piece of work that needs to be done.",
+      "example": [
+        {
+          "eng": "He applied for a new job at a tech company.",
+          "ch": "他向一家科技公司申請了一份新工作。"
+        },
+        {
+          "eng": "Finishing the report is my top job for today.",
+          "ch": "完成這份報告是我今天的第一要務。"
+        }
+      ]
+    },
+    {
+      "eng": "join",
+      "kk": "dʒɔɪn",
+      "tense": "vt.",
+      "ch": [
+        [
+          "連接",
+          "結合"
+        ],
+        [
+          "加入",
+          "參加（組織、活動等）"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自古法語 joindre，最終源自拉丁語 jungere（連接、聯結）。在現代英語中，既可指物理上的接合與連接，也可指成為某個團體、俱樂部或活動的成員。",
+      "definition": "1. to fasten or connect two or more things together; 2. to become a member of an organization, club, or group.",
+      "example": [
+        {
+          "eng": "Use a strong glue to join the broken pieces of wood together.",
+          "ch": "用強力膠將這塊斷掉的木頭黏合在一起。"
+        },
+        {
+          "eng": "She decided to join the school basketball team.",
+          "ch": "她決定加入學校的籃球隊。"
+        }
+      ]
+    },
+    {
+      "eng": "joke",
+      "kk": "dʒok",
+      "tense": "n.",
+      "ch": [
+        [
+          "笑話",
+          "玩笑"
+        ]
+      ],
+      "analysis": "此字為名詞與動詞同形，源自拉丁語 iocus（玩笑、嬉戲）。在現代英語中作為名詞時，指為了引人發笑而說的話或做的事情。",
+      "definition": "1. a thing that someone says to cause amusement or laughter, especially a funny story with a funny ending.",
+      "example": [
+        {
+          "eng": "He told a funny joke that made everyone laugh.",
+          "ch": "他講了一個逗得大家哈哈大笑的好笑笑話。"
+        }
+      ]
+    },
+    {
+      "eng": "joy",
+      "kk": "dʒɔɪ",
+      "tense": "n.",
+      "ch": [
+        [
+          "喜悅",
+          "歡樂",
+          "樂事"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古法語 joie，最終源自拉丁語 gaudia（歡樂、快樂，拉丁語中性複數名詞被當作單數法語名詞借入）。在現代英語中指高度的快樂、喜悅情緒，或帶來快樂的人事物。",
+      "definition": "1. a feeling of great pleasure and happiness; 2. a person or thing that causes happiness.",
+      "example": [
+        {
+          "eng": "The children's faces were full of joy on Christmas morning.",
+          "ch": "聖誕節早晨，孩子們臉上洋溢著喜悅。"
+        }
+      ]
+    },
+    {
+      "eng": "juice",
+      "kk": "dʒus",
+      "tense": "n.",
+      "ch": [
+        [
+          "果汁",
+          "菜汁",
+          "（肉類的）汁液"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古法語 jus（汁液、肉汁），最終源自拉丁語 ius（湯、肉汁）。在現代英語中主要指從水果或蔬菜中擠出的汁液，亦可指烹調時肉類釋出的肉汁。",
+      "definition": "1. the liquid that comes from fruit or vegetables; 2. the liquid contained in meat.",
+      "example": [
+        {
+          "eng": "She drinks a glass of fresh orange juice every morning.",
+          "ch": "她每天早晨喝一杯新鮮的柳橙汁。"
+        }
+      ]
+    },
+    {
+      "eng": "jump",
+      "kk": "dʒʌmp",
+      "tense": "vi.",
+      "ch": [
+        [
+          "跳躍",
+          "跳起"
+        ]
+      ],
+      "analysis": "此字為不及物動詞與名詞同形，其語源具模仿性質（onomatopoeic）或源自日耳曼語族，中古英語時期開始流行。作為不及物動詞時，表示雙腳離地向上或向前的動作，無需直接受詞。",
+      "definition": "1. to push oneself off a surface and into the air using the legs and feet.",
+      "example": [
+        {
+          "eng": "The happy dog can jump very high to catch the ball.",
+          "ch": "這隻快樂的狗可以跳得很高來接球。"
+        }
+      ]
+    },
+    {
+      "eng": "just",
+      "kk": "dʒʌst",
+      "tense": "adv.",
+      "ch": [
+        [
+          "剛剛",
+          "才"
+        ],
+        [
+          "僅僅",
+          "只"
+        ],
+        [
+          "正好",
+          "恰好"
+        ]
+      ],
+      "analysis": "此字為副詞，源自拉丁語 iustus（公正的、合法的），經由古法語 (juste) 與中古英語演變，其語義從「公正地、恰如其分地」引申為「剛好、僅僅、剛剛」。",
+      "definition": "1. a short time ago; 2. only; no more than; 3. exactly; precisely.",
+      "example": [
+        {
+          "eng": "I have just finished reading this interesting book.",
+          "ch": "我剛剛讀完這本有趣的書。"
+        },
+        {
+          "eng": "He has just ten dollars left in his wallet.",
+          "ch": "他皮夾裡只剩下十美元。"
+        },
+        {
+          "eng": "This is just what I wanted for my birthday.",
+          "ch": "這正是我生日想要的。"
+        }
+      ]
+    },
+    {
+      "eng": "keep",
+      "kk": "kip",
+      "tense": "vt.",
+      "ch": [
+        [
+          "保持",
+          "維持（某種狀態）"
+        ],
+        [
+          "保留",
+          "保存",
+          "留著"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自古英語 cēpan（抓住、守衛、照顧）。在現代英語中為高度核心動詞，主要表示使事物維持特定狀態、長期擁有某物或保存物品。",
+      "definition": "1. to stay in a specified state, or cause someone or something to stay in that state; 2. to have and not give away or return something.",
+      "example": [
+        {
+          "eng": "Please keep the door closed to keep out the noise.",
+          "ch": "請保持門關著以隔絕噪音。"
+        },
+        {
+          "eng": "You can keep the change as a tip.",
+          "ch": "零錢你可以留著當作小費。"
+        }
+      ]
+    },
+    {
+      "eng": "key",
+      "kk": "ki",
+      "tense": "n.",
+      "ch": [
+        [
+          "鑰匙"
+        ],
+        [
+          "關鍵",
+          "祕訣"
+        ],
+        [
+          "（鋼琴等的）琴鍵"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古英語 cǣg（鑰匙）。其基本語義為開啟鎖具的工具，並引申出解決問題的關鍵、鍵盤上的按鍵等抽象或衍生義。",
+      "definition": "1. a small piece of shaped metal used to open a lock; 2. a thing that provides a means of gaining access to or understanding something; 3. one of the set of buttons pressed to operate a piano or keyboard.",
+      "example": [
+        {
+          "eng": "I lost my house key and cannot get inside.",
+          "ch": "我弄丟了家裡的鑰匙，進不去。"
+        },
+        {
+          "eng": "Hard work is the key to success.",
+          "ch": "努力工作是成功的關鍵。"
+        },
+        {
+          "eng": "She played a lovely melody on the piano keys.",
+          "ch": "她在鋼琴琴鍵上彈奏了一段優美的旋律。"
+        }
+      ]
+    },
+    {
+      "eng": "kick",
+      "kk": "kɪk",
+      "tense": "vt.",
+      "ch": [
+        [
+          "踢",
+          "踹"
+        ]
+      ],
+      "analysis": "此字為及物動詞與名詞同形，源自中古英語 kicken，可能源自古諾斯語，具擬聲或具體動作模仿性質。作為及物動詞時，指用腳或蹄猛力踢擊某物，後面接直接受詞。",
+      "definition": "1. to strike someone or something with the foot.",
+      "example": [
+        {
+          "eng": "The boy loves to kick the football across the yard.",
+          "ch": "那男孩喜歡把足球踢過院子。"
+        }
+      ]
+    },
+    {
+      "eng": "kid",
+      "kk": "kɪd",
+      "tense": "n.",
+      "ch": [
+        [
+          "小孩",
+          "年輕人"
+        ],
+        [
+          "小山羊"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古諾斯語 kið（小山羊），其皮革被用來製作衣物。在現代英語中，原意指小山羊，自16世紀起延伸出指稱小孩子的口語用法，現代極為常見。",
+      "definition": "1. a child or young person; 2. a young goat.",
+      "example": [
+        {
+          "eng": "The park is full of playing kids every afternoon.",
+          "ch": "每天下午公園裡都充滿了玩耍的小孩。"
+        },
+        {
+          "eng": "A mother goat stood protectively near her kid.",
+          "ch": "一隻母山羊保護性地站在牠的小山羊旁邊。"
+        }
+      ]
+    },
+    {
+      "eng": "kill",
+      "kk": "kɪl",
+      "tense": "vt.",
+      "ch": [
+        [
+          "殺死",
+          "弄死"
+        ],
+        [
+          "消磨（時間）",
+          "中止"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自古英語 cwellan（殺死、撲滅），與古諾斯語 kvelja 同源。在現代英語中作為核心動詞，指剝奪生命，或引申為消磨時間、終止某項事物。",
+      "definition": "1. to cause the death of a person, animal, or plant; 2. to pass time while waiting for something.",
+      "example": [
+        {
+          "eng": "The heavy frost will kill the delicate flowers.",
+          "ch": "嚴重的霜凍會凍死嬌嫩的花朵。"
+        },
+        {
+          "eng": "We played board games to kill time before the movie started.",
+          "ch": "我們在電影開演前玩桌遊來打發時間。"
+        }
+      ]
+    },
+    {
+      "eng": "kind",
+      "kk": "kaɪnd",
+      "tense": "adj.",
+      "ch": [
+        [
+          "仁慈的",
+          "親切的",
+          "體貼的"
+        ]
+      ],
+      "analysis": "此字為形容詞（與表「種類」的名詞同形異源），源自古英語 ġe-cynde（天生的、自然的、親切的），由日耳曼語族字根演變而來。作為形容詞時，指心地善良、待人親切溫和。",
+      "definition": "1. having or showing a friendly, generous, and considerate nature.",
+      "example": [
+        {
+          "eng": "It was very kind of you to help me with heavy luggage.",
+          "ch": "你幫我搬重行李真是太好了。"
+        }
+      ]
+    },
+    {
+      "eng": "king",
+      "kk": "kɪŋ",
+      "tense": "n.",
+      "ch": [
+        [
+          "國王",
+          "君主"
+        ],
+        [
+          "（特定領域的）王者",
+          "大王"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古英語 cyning（部落首領、國王），源自日耳曼語族。在現代英語中指國家或王國的最高君主，亦可比喻某一領域中最傑出、最具權威的人。",
+      "definition": "1. the male ruler of an independent state, who usually inherits the position by right of birth; 2. a person or thing considered to be the best or most important in a particular sphere.",
+      "example": [
+        {
+          "eng": "The king ruled the country wisely for forty years.",
+          "ch": "國王英明地統治這個國家四十年。"
+        },
+        {
+          "eng": "Elvis Presley is often known as the king of rock and roll.",
+          "ch": "艾維斯·普里斯萊常被尊稱為搖滾樂之王。"
+        }
+      ]
+    },
+    {
+      "eng": "kiss",
+      "kk": "kɪs",
+      "tense": "vt.",
+      "ch": [
+        [
+          "親吻",
+          "吻"
+        ]
+      ],
+      "analysis": "此字為及物動詞與名詞同形，源自古英語 cyssan（親吻），源自日耳曼語族，具擬聲性質。作為及物動詞時，指用嘴唇觸碰他人以表達愛意、禮貌或問候，後接直接受詞。",
+      "definition": "1. to touch someone with your lips as a sign of love, affection, greeting, or respect.",
+      "example": [
+        {
+          "eng": "The mother gently kissed her sleeping baby on the forehead.",
+          "ch": "母親輕輕地在熟睡的嬰兒額頭上親了一下。"
+        }
+      ]
+    },
+    {
+      "eng": "kitchen",
+      "kk": "ˈkɪtʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "廚房"
+        ]
+      ],
+      "analysis": "此字為名詞，源自中古英語 cycene，最終源自拉丁語 coquina（廚房），經由日耳曼語族傳入古英語。在現代英語中專指房屋內用於烹飪食物的房間。",
+      "definition": "1. a room or area outfitted for cooking and preparing food.",
+      "example": [
+        {
+          "eng": "She is busy preparing dinner in the kitchen.",
+          "ch": "她正在廚房裡忙著準備晚餐。"
+        }
+      ]
+    },
+    {
+      "eng": "kite",
+      "kk": "kaɪt",
+      "tense": "n.",
+      "ch": [
+        [
+          "風箏"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古英語 cȳta（一種猛禽「鳶」，因其在空中翱翔盤旋的姿態類似風箏，故於14世紀起被借用來指稱玩具「風箏」）。",
+      "definition": "1. a toy made of a light frame covered with paper, cloth, or plastic, flown in the wind at the end of a long string.",
+      "example": [
+        {
+          "eng": "The children had great fun flying kites in the park on a windy day.",
+          "ch": "孩子們在大風天裡在公園放風箏玩得非常開心。"
+        }
+      ]
+    },
+    {
+      "eng": "knee",
+      "kk": "ni",
+      "tense": "n.",
+      "ch": [
+        [
+          "膝蓋"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古英語 cnēow（膝蓋），源自印歐語系詞根，與拉丁語 genu 同源。字首的 k 在中古英語晚期以後轉為不發音。",
+      "definition": "1. the joint between the thigh and the lower leg.",
+      "example": [
+        {
+          "eng": "He fell down while running and scraped his knee.",
+          "ch": "他在跑步時摔倒，擦傷了膝蓋。"
+        }
+      ]
+    },
+    {
+      "eng": "knife",
+      "kk": "naɪf",
+      "tense": "n.",
+      "ch": [
+        [
+          "刀",
+          "餐刀",
+          "小刀"
+        ]
+      ],
+      "analysis": "此字為名詞（複數為 knives），源自古英語 cnīf（小刀），源自日耳曼語族。字首的 k 在現代英語中不發音。指用於切割食物、工具或武器的利器。",
+      "definition": "1. an instrument with a sharp blade and a handle, used for cutting or as a weapon.",
+      "example": [
+        {
+          "eng": "Use a sharp knife to slice the bread evenly.",
+          "ch": "用一把鋒利的刀把麵包切得均勻。"
+        }
+      ]
+    },
+    {
+      "eng": "knock",
+      "kk": "nɑk",
+      "tense": "vi.",
+      "ch": [
+        [
+          "敲",
+          "擊",
+          "敲門"
+        ]
+      ],
+      "analysis": "此字為不及物動詞與及物動詞同形，源自古英語 cnocian（敲擊），具擬聲性質。作為不及物動詞時，常用於 knock on the door（敲門）等語境。",
+      "definition": "1. to strike a surface a blow or blows with your knuckles, a hammer, or an object to attract attention.",
+      "example": [
+        {
+          "eng": "Please knock before entering the room.",
+          "ch": "進入房間前請先敲門。"
+        }
+      ]
+    },
+    {
+      "eng": "know",
+      "kk": "no",
+      "tense": "vt.",
+      "ch": [
+        [
+          "知道",
+          "了解"
+        ],
+        [
+          "認識",
+          "熟悉"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自古英語 cnāwan（知道、認識），源自印歐語系詞根，與拉丁語 (g)noscere、希臘語 gignoskein 同源。字首的 k 在現代英語中不發音。為核心認知動詞。",
+      "definition": "1. to be aware of through observation, inquiry, or information; 2. to be familiar or acquainted with a person, place, or thing.",
+      "example": [
+        {
+          "eng": "I know the answer to your difficult question.",
+          "ch": "我知道你那個難題的答案。"
+        },
+        {
+          "eng": "Do you know any good restaurants in this neighborhood?",
+          "ch": "你認識這附近有什麼好餐廳嗎？"
+        }
+      ]
+    },
+    {
+      "eng": "knowledge",
+      "kk": "ˈnɑlɪdʒ",
+      "tense": "n.",
+      "ch": [
+        [
+          "知識",
+          "學問"
+        ],
+        [
+          "了解",
+          "知悉"
+        ]
+      ],
+      "analysis": "此字為名詞，由古英語動詞 cnāwan（知道）加上名詞字尾 -lecz / -edge 結合而成。在現代英語中主要指透過學習、研究或經驗獲得的知識、理解或資訊。",
+      "definition": "1. facts, information, and skills acquired through experience or education; 2. awareness or familiarity gained by experience of a fact or situation.",
+      "example": [
+        {
+          "eng": "Reading widely helps expand your knowledge of the world.",
+          "ch": "廣泛閱讀有助於擴展你對世界的知識。"
+        },
+        {
+          "eng": "The project was carried out without my knowledge.",
+          "ch": "這個專案是在我不知情的情況下進行的。"
+        }
+      ]
+    },
+    {
+      "eng": "lake",
+      "kk": "lek",
+      "tense": "n.",
+      "ch": [
+        [
+          "湖",
+          "湖泊"
+        ]
+      ],
+      "analysis": "此字為名詞，源自中古英語 lake，最終源自拉丁語 lacus（湖、池塘），透過古法語流入英語。專指被陸地環繞的大片內陸水體。",
+      "definition": "1. a large body of water surrounded by land.",
+      "example": [
+        {
+          "eng": "They love to go fishing by the quiet lake on weekends.",
+          "ch": "他們喜歡在週末去寧靜的湖邊釣魚。"
+        }
+      ]
+    },
+    {
+      "eng": "lamp",
+      "kk": "læmp",
+      "tense": "n.",
+      "ch": [
+        [
+          "燈",
+          "檯燈"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古法語 lampe，最終源自希臘語 lampas（火炬、燈），由 lambein（發光）衍生而來。在現代英語中泛指各種照明器具，如檯燈、電燈等。",
+      "definition": "1. a device for giving light, consisting of a bulb, electric source, or a container with oil and a wick.",
+      "example": [
+        {
+          "eng": "She turned on the desk lamp to read her textbook.",
+          "ch": "她打開檯燈閱讀教科書。"
+        }
+      ]
+    },
+    {
+      "eng": "land",
+      "kk": "lænd",
+      "tense": "n.",
+      "ch": [
+        [
+          "土地",
+          "陸地"
+        ],
+        [
+          "國家",
+          "國土"
+        ]
+      ],
+      "analysis": "此字為名詞與動詞同形，源自古英語 land（土地、國土），源自日耳曼語族。作為名詞時，指地球表面的固體陸地、農田，或指某個國家、領土。",
+      "definition": "1. the part of the earth's surface that is not covered by water; 2. a country or nation.",
+      "example": [
+        {
+          "eng": "After sailing for weeks, the sailors finally spotted land.",
+          "ch": "航行了數週後，水手們終於看到了陸地。"
+        },
+        {
+          "eng": "Visitors from all over the world come to this beautiful land.",
+          "ch": "來自世界各地的遊客來到這片美麗的土地。"
+        }
+      ]
+    },
+    {
+      "eng": "language",
+      "kk": "ˈlæŋɡwɪdʒ",
+      "tense": "n.",
+      "ch": [
+        [
+          "語言"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古法語 langage，最終源自拉丁語 lingua（舌頭、語言），經由詞根 lingua 演變出 lingual，再到法語的衍生形。在現代英語中指人類進行溝通的語言系統或特定國家的語言。",
+      "definition": "1. the method of human communication, either spoken or written, consisting of the use of words in a structured and conventional way.",
+      "example": [
+        {
+          "eng": "English has become an important international language.",
+          "ch": "英語已經成為一門重要的國際語言。"
+        }
+      ]
+    },
+    {
+      "eng": "large",
+      "kk": "lɑrdʒ",
+      "tense": "adj.",
+      "ch": [
+        [
+          "大的",
+          "大型的",
+          "寬大的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自古法語 large，最終源自拉丁語 larga（largo 的陰性形，意為寬闊的、豐盛的）。在現代英語中用來形容體積、面積、數量或規模超乎一般的大。",
+      "definition": "1. of considerable or relatively great size, extent, or capacity.",
+      "example": [
+        {
+          "eng": "They live in a house with a large backyard.",
+          "ch": "他們住在帶有大後院的房子裡。"
+        }
+      ]
+    },
+    {
+      "eng": "last",
+      "kk": "læst",
+      "tense": "adj.",
+      "ch": [
+        [
+          "最後的",
+          "最近的"
+        ],
+        [
+          "上一個的",
+          "剛過去的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自古英語 latost（lāte 的最高級形式，意為「最遲的」）。在現代英語中用來指順序上的最後一個，或時間上剛過去的最近一次。",
+      "definition": "1. coming after all other in time or order; 2. most recent in time.",
+      "example": [
+        {
+          "eng": "He was the last person to leave the office yesterday.",
+          "ch": "他是昨天最後一個離開辦公室的人。"
+        },
+        {
+          "eng": "I saw her at the grocery store last week.",
+          "ch": "我上週在雜貨店看到她。"
+        }
+      ]
+    },
+    {
+      "eng": "late",
+      "kk": "let",
+      "tense": "adj.",
+      "ch": [
+        [
+          "遲的",
+          "晚的"
+        ],
+        [
+          "已故的"
+        ]
+      ],
+      "analysis": "此字為形容詞與副詞，源自古英語 læt（遲緩的、晚的）。在現代英語中主要用來形容時間上超過預定時刻的（遲到、夜深），或用於稱呼已故的人（the late Mr. Smith）。",
+      "definition": "1. arriving or happening after the expected, proper, or usual time; 2. no longer alive; deceased.",
+      "example": [
+        {
+          "eng": "I am sorry I am late for the important meeting.",
+          "ch": "我很抱歉參加重要會議遲到了。"
+        },
+        {
+          "eng": "The late author wrote many inspiring books.",
+          "ch": "這位已故作家寫了許多啟發人心的書。"
+        }
+      ]
+    },
+    {
+      "eng": "later",
+      "kk": "ˈletɚ",
+      "tense": "adv.",
+      "ch": [
+        [
+          "稍後",
+          "以後",
+          "後來"
+        ]
+      ],
+      "analysis": "此字為副詞，由形容詞 late 的比較級演變而來（latre > later）。在現代英語中用來指在某個時間點之後的未來時刻。",
+      "definition": "1. at a time in the future; afterward.",
+      "example": [
+        {
+          "eng": "I am busy right now, but I can talk to you later.",
+          "ch": "我現在很忙，但我稍後可以跟你談談。"
+        }
+      ]
+    },
+    {
+      "eng": "laugh",
+      "kk": "læf",
+      "tense": "vi.",
+      "ch": [
+        [
+          "笑",
+          "大笑"
+        ]
+      ],
+      "analysis": "此字為不及物動詞與名詞同形，源自古英語 hliehhan（笑），具日耳曼語族擬聲性質。作為不及物動詞時，表示因開心或滑稽而發出笑聲，不需直接受詞。",
+      "definition": "1. to make the spontaneous sounds and movements of your face and body that express lively happiness or amusement.",
+      "example": [
+        {
+          "eng": "The funny comedy made everyone in the theater laugh.",
+          "ch": "這部有趣的喜劇讓戲院裡的每個人都笑了出來。"
+        }
+      ]
+    },
+    {
+      "eng": "lawyer",
+      "kk": "ˈlɔjɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "律師"
+        ]
+      ],
+      "analysis": "此字為名詞，由名詞 law（法律）加上職業名詞字尾 -yer 複合而成（源自中古英語 lawier）。在現代英語中專指受過法律專業訓練、執業協助客戶解決法律問題的人。",
+      "definition": "1. a person who practices or studies law, especially one who represents clients in court.",
+      "example": [
+        {
+          "eng": "She hired a skilled lawyer to handle her legal case.",
+          "ch": "她聘請了一位經驗豐富的律師來處理她的法律案件。"
+        }
+      ]
+    },
+    {
+      "eng": "lazy",
+      "kk": "ˈlezi",
+      "tense": "adj.",
+      "ch": [
+        [
+          "懶惰的",
+          "怠惰的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自中古英語 lasi，可能源自中低地德語或日耳曼語族，意指疲憊或懶散。在現代英語中用來形容不願意工作或動手、懶惰的人或態度。",
+      "definition": "1. unwilling to work or use energy; indolent.",
+      "example": [
+        {
+          "eng": "He is too lazy to clean his own room.",
+          "ch": "他太懶了，不肯打掃自己的房間。"
+        }
+      ]
+    },
+    {
+      "eng": "lead",
+      "kk": "lid",
+      "tense": "vt.",
+      "ch": [
+        [
+          "領導",
+          "帶領",
+          "引導"
+        ],
+        [
+          "過著（某種生活）"
+        ]
+      ],
+      "analysis": "此字為及物與不及物動詞，源自古英語 lǣdan（帶領、引導），源自日耳曼語族。在現代英語中作為動詞時，指走在前方帶領他人、引導方向，或引申為過著特定品質的生活（如 lead a happy life）。",
+      "definition": "1. to show the way by going in front, or to guide someone; 2. to live a particular way of life.",
+      "example": [
+        {
+          "eng": "The experienced guide will lead us through the mountain forest.",
+          "ch": "這位經驗豐富的導遊將帶領我們穿過山林。"
+        },
+        {
+          "eng": "She works hard to lead a happy and healthy life.",
+          "ch": "她努力過著快樂且健康的生活。"
+        }
+      ]
+    },
+    {
+      "eng": "leader",
+      "kk": "ˈlidɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "領導者",
+          "領袖",
+          "領導人"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 lead（領導）加上名詞字尾 -er 複合而成。在現代英語中指帶領團隊、組織或國家的領導人物。",
+      "definition": "1. the person who leads or commands a group, organization, or country.",
+      "example": [
+        {
+          "eng": "A good leader always listens to the opinions of team members.",
+          "ch": "一個好的領導者總是傾聽團隊成員的意見。"
+        }
+      ]
+    },
+    {
+      "eng": "learn",
+      "kk": "lɝn",
+      "tense": "vt.",
+      "ch": [
+        [
+          "學習",
+          "學會",
+          "得知"
+        ]
+      ],
+      "analysis": "此字為及物與不及物動詞，源自古英語 leornian（獲得知識、學習），源自日耳曼語族。在現代英語中主要指透過讀書、練習或經驗獲得知識、技能，或偶然得知某項消息。",
+      "definition": "1. to gain or acquire knowledge of or skill in something by study, experience, or being taught.",
+      "example": [
+        {
+          "eng": "Children learn foreign languages much faster than adults.",
+          "ch": "孩子們學習外語的速度比成年人快得多。"
+        }
+      ]
+    },
+    {
+      "eng": "least",
+      "kk": "list",
+      "tense": "adj.",
+      "ch": [
+        [
+          "最小的",
+          "最少的"
+        ]
+      ],
+      "analysis": "此字為形容詞與副詞，源自古英語 lǣst（lȳtel 的最高級形式，意為「最少、最小」）。在現代英語中用來表示數量、程度或體積達到最低或最少。",
+      "definition": "1. smallest in size, amount, or degree.",
+      "example": [
+        {
+          "eng": "This is the least expensive watch in the entire store.",
+          "ch": "這是整間店裡最便宜的手錶。"
+        }
+      ]
+    }
+  ]
+}

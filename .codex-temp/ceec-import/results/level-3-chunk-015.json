@@ -1,0 +1,1579 @@
+{
+  "level": 3,
+  "chunkIndex": 15,
+  "inputs": [
+    "punch",
+    "puppet",
+    "pure",
+    "purse",
+    "queer",
+    "quit",
+    "quote",
+    "racial",
+    "rag",
+    "rank",
+    "rate",
+    "raw",
+    "ray",
+    "razor",
+    "react",
+    "reaction",
+    "reasonable",
+    "receipt",
+    "receiver",
+    "recognize",
+    "recorder",
+    "rectangle",
+    "reduce",
+    "regional",
+    "regret",
+    "relax",
+    "release",
+    "reliable",
+    "relief",
+    "religious",
+    "rely",
+    "remain",
+    "remind",
+    "remote",
+    "replace",
+    "replacement",
+    "represent",
+    "representative",
+    "republic",
+    "request",
+    "reserve",
+    "resist",
+    "resource",
+    "response",
+    "responsibility",
+    "restrict",
+    "reveal",
+    "ribbon",
+    "rid",
+    "ripe"
+  ],
+  "rows": [
+    {
+      "eng": "punch",
+      "kk": "pʌntʃ",
+      "tense": "n.",
+      "ch": [
+        [
+          "重拳",
+          "出拳"
+        ],
+        [
+          "力量",
+          "效力"
+        ],
+        [
+          "潘趣酒",
+          "水果混合酒"
+        ]
+      ],
+      "analysis": "此字為名詞與動詞同形。名詞前兩義源自動詞的動作及其引申的抽象震撼力與影響力；第三義「潘趣酒」則源自印度的語言，與前兩者無歷史同源關係，但在現代拼字相同，合併於此 row 並在義項中區分。",
+      "definition": "1. A forceful blow with the fist.; 2. The ability to be effective, powerful, or forceful.; 3. A sweet beverage made of fruit juices and often alcoholic liquor.",
+      "example": [
+        {
+          "eng": "He delivered a powerful punch to his opponent's jaw.",
+          "ch": "他對對手的下巴狠狠揮出了一記重拳。"
+        },
+        {
+          "eng": "The advertising campaign lacked real punch.",
+          "ch": "這場廣告宣傳缺乏真正的震撼力。"
+        },
+        {
+          "eng": "They served fruit punch at the summer party.",
+          "ch": "他們在夏季派對上供應了水果潘趣酒。"
+        }
+      ]
+    },
+    {
+      "eng": "punch",
+      "kk": "pʌntʃ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "用拳重擊",
+          "猛擊"
+        ],
+        [
+          "打孔",
+          "按壓"
+        ]
+      ],
+      "analysis": "作為及物動詞，第一義指用拳頭擊打；第二義指使用器具打孔或按壓機器按鍵。兩者詞源不同但拼字相同，在現代用法中均為高頻及物動詞。",
+      "definition": "1. To hit someone or something hard with your fist.; 2. To make a hole in something with a tool, or to press a button or key.",
+      "example": [
+        {
+          "eng": "He threatened to punch the wall in anger.",
+          "ch": "他氣憤得威脅要一拳打在牆上。"
+        },
+        {
+          "eng": "Please punch your password into the keypad.",
+          "ch": "請在鍵盤上輸入你的密碼。"
+        }
+      ]
+    },
+    {
+      "eng": "puppet",
+      "kk": "ˈpʌpɪt",
+      "tense": "n.",
+      "ch": [
+        [
+          "木偶",
+          "傀儡"
+        ],
+        [
+          "受人操縱的人",
+          "傀儡政權"
+        ]
+      ],
+      "analysis": "源自中古法語 pupette（意為小女孩、玩偶），最終可追溯至拉丁語 pupa（女孩、娃娃）。由實體玩偶的形象，引申出在政治或人際關係中受他人完全控制的傀儡。",
+      "definition": "1. A movable model of a person or animal that is typically moved by strings, wires, or by hand inside it.; 2. A person, group, or country that is controlled by another and has no independent will.",
+      "example": [
+        {
+          "eng": "The children were entertained by a traditional puppet show.",
+          "ch": "孩子們觀看了傳統的木偶戲表演。"
+        },
+        {
+          "eng": "The dictator installed a puppet government in the occupied territory.",
+          "ch": "獨裁者在佔領區扶植了一個傀儡政府。"
+        }
+      ]
+    },
+    {
+      "eng": "pure",
+      "kk": "pjʊr",
+      "tense": "adj.",
+      "ch": [
+        [
+          "純淨的",
+          "無雜質的"
+        ],
+        [
+          "純粹的",
+          "完全的"
+        ],
+        [
+          "道德高尚的",
+          "純潔的"
+        ]
+      ],
+      "analysis": "經由古法語源自拉丁語 purus（乾淨的、純粹的）。詞義從物質上的無雜質，延伸至抽象概念的純粹性，以及道德與心靈上的清白無瑕。",
+      "definition": "1. Not mixed or adulterated with any other substance or material.; 2. Complete and total; absolute.; 3. Not morally corrupt or tainted; chaste or innocent.",
+      "example": [
+        {
+          "eng": "The ring is made of pure gold.",
+          "ch": "這枚戒指是用純金製成的。"
+        },
+        {
+          "eng": "It was pure coincidence that we met in London.",
+          "ch": "我們在倫敦相遇純粹是個巧合。"
+        },
+        {
+          "eng": "She had a pure heart and always helped the needy.",
+          "ch": "她心地純潔，總是幫助有需要的人。"
+        }
+      ]
+    },
+    {
+      "eng": "purse",
+      "kk": "pɜrs",
+      "tense": "n.",
+      "ch": [
+        [
+          "錢包",
+          "小手提包"
+        ],
+        [
+          "資金",
+          "獎金"
+        ]
+      ],
+      "analysis": "源自古法語，最終可追溯至希臘語 byrsa（獸皮），因早期錢包多由皮革製成。語義從裝錢的皮袋，演變為現代女性手提包或競賽中的獎金總額。",
+      "definition": "1. A small bag for carrying money, typically used by women; a handbag.; 2. A sum of money offered as a prize in a competition.",
+      "example": [
+        {
+          "eng": "She searched through her purse for her car keys.",
+          "ch": "她在錢包裡翻找她的車鑰匙。"
+        },
+        {
+          "eng": "The championship winner took home a massive cash purse.",
+          "ch": "錦標賽冠軍帶走了豐厚的現金獎金。"
+        }
+      ]
+    },
+    {
+      "eng": "queer",
+      "kk": "kwɪr",
+      "tense": "adj.",
+      "ch": [
+        [
+          "奇怪的",
+          "古怪的"
+        ],
+        [
+          "酷兒的",
+          "性別多元的"
+        ]
+      ],
+      "analysis": "源自日耳曼語族，早期意為「奇怪的、不舒服的」。在20世紀後半葉，該詞被LGBTQ+社群重新賦權（reclaimed），成為指代性別少數群體的高頻正面或中性詞彙。",
+      "definition": "1. Strange, odd, or unusual.; 2. Relating to people who are homosexual, bisexual, or whose sexual orientation or gender identity is not heterosexual or cisgender.",
+      "example": [
+        {
+          "eng": "He had a queer feeling that he was being watched.",
+          "ch": "他有一種奇怪的感覺，覺得自己被監視了。"
+        },
+        {
+          "eng": "The university hosted events to celebrate queer history month.",
+          "ch": "大學舉辦了慶祝酷兒歷史月的活動。"
+        }
+      ]
+    },
+    {
+      "eng": "quit",
+      "kk": "kwɪt",
+      "tense": "v.",
+      "ch": [
+        [
+          "辭職",
+          "離職"
+        ],
+        [
+          "停止",
+          "放棄"
+        ],
+        [
+          "離開",
+          "搬離"
+        ]
+      ],
+      "analysis": "源自中古英語 quiten，經由古法語與拉丁語 quietare（使安靜、解除、釋放），其最終詞根為 quietus（安靜的）。語義從「解除義務、結清債務」演變為「放棄、辭職、離開」。因其在現代兼具及物與不及物的高頻用法，合併為 v.。",
+      "definition": "1. To leave a job, school, etc., permanently.; 2. To stop doing something.; 3. To leave a place.",
+      "example": [
+        {
+          "eng": "He decided to quit his job after a dispute with his boss.",
+          "ch": "他在與老闆發生爭執後決定辭職。"
+        },
+        {
+          "eng": "You must never quit when things get tough.",
+          "ch": "情況艱難時你絕不能放棄。"
+        },
+        {
+          "eng": "She plans to quit the city and move to the countryside.",
+          "ch": "她計劃離開這座城市搬到鄉下。"
+        }
+      ]
+    },
+    {
+      "eng": "quote",
+      "kk": "kwot",
+      "tense": "n.",
+      "ch": [
+        [
+          "引語",
+          "引文"
+        ],
+        [
+          "報價"
+        ]
+      ],
+      "analysis": "源自動詞 quote 的截斷形式（clipping）。名詞第一義指引用的字句，第二義指商業上的估價或報價。",
+      "definition": "1. A group of words from a book, speech, etc., repeated by someone other than the original author.; 2. A statement of the exact cost for a job or service.",
+      "example": [
+        {
+          "eng": "She included an inspiring quote at the beginning of her essay.",
+          "ch": "她在論文開頭引用了一句鼓舞人心的名言。"
+        },
+        {
+          "eng": "Can you give me a quote for repairing the roof?",
+          "ch": "你能給我一個修理屋頂的報價嗎？"
+        }
+      ]
+    },
+    {
+      "eng": "quote",
+      "kk": "kwot",
+      "tense": "vt.",
+      "ch": [
+        [
+          "引用",
+          "引述"
+        ],
+        [
+          "報價"
+        ]
+      ],
+      "analysis": "源自中古拉丁語 quotare（分章、編號），來自拉丁語 quot（多少）。中世紀拉丁語演變出「標註出處、引用原文」的意義，隨後進入法語與英語。",
+      "definition": "1. To repeat exact words spoken or written by another person.; 2. To give a specific price for a service or product.",
+      "example": [
+        {
+          "eng": "He liked to quote famous philosophers in his speeches.",
+          "ch": "他喜歡在演講中引用著名哲學家的話。"
+        },
+        {
+          "eng": "The mechanic quoted me two hundred dollars for the repair.",
+          "ch": "機械師向我報價兩百美元修理費。"
+        }
+      ]
+    },
+    {
+      "eng": "racial",
+      "kk": "ˈreʃəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "種族的",
+          "種族間的"
+        ]
+      ],
+      "analysis": "由名詞 race（種族）加上形容詞字尾 -ial 構成。現代透明構詞，指與人類不同種族群體相關的事物。",
+      "definition": "1. Connected with or relating to people's race.",
+      "example": [
+        {
+          "eng": "The organization campaigns fiercely against racial discrimination.",
+          "ch": "該組織積極展開反對種族歧視的運動。"
+        }
+      ]
+    },
+    {
+      "eng": "rag",
+      "kk": "ræɡ",
+      "tense": "n.",
+      "ch": [
+        [
+          "破布",
+          "抹布"
+        ],
+        [
+          "碎屑",
+          "破爛衣物"
+        ]
+      ],
+      "analysis": "源自古斯堪地那維亞語源頭，歷史上指撕裂的布片或舊衣服。現代多用於清潔用的抹布或貶稱品質低劣的報紙。",
+      "definition": "1. A piece of old, often torn or dirty cloth used for cleaning.; 2. A worthless newspaper (informal).",
+      "example": [
+        {
+          "eng": "He used a damp rag to wipe the dust off the table.",
+          "ch": "他用一塊濕抹布擦掉桌上的灰塵。"
+        },
+        {
+          "eng": "She cut her old shirt into rags to clean the bike.",
+          "ch": "她把舊襯衫剪成破布來擦拭腳踏車。"
+        }
+      ]
+    },
+    {
+      "eng": "rank",
+      "kk": "ræŋk",
+      "tense": "n.",
+      "ch": [
+        [
+          "階級",
+          "地位"
+        ],
+        [
+          "行列",
+          "排"
+        ]
+      ],
+      "analysis": "源自日耳曼語源（比較德語 Rang），經由古法語進入英語。原意指直線或排成行列，隨後引申為社會或軍事組織中的階級與地位。",
+      "definition": "1. A position in a scale of organization, especially in the armed forces.; 2. A line or row of people or things.",
+      "example": [
+        {
+          "eng": "He rose through the ranks to become the company CEO.",
+          "ch": "他從基層晉升為公司執行長。"
+        },
+        {
+          "eng": "Taxis were lined up in a rank outside the station.",
+          "ch": "計程車在車站外的排隊候客區排成一列。"
+        }
+      ]
+    },
+    {
+      "eng": "rank",
+      "kk": "ræŋk",
+      "tense": "vt.",
+      "ch": [
+        [
+          "把...分類",
+          "評定等級"
+        ],
+        [
+          "排列",
+          "排行列"
+        ]
+      ],
+      "analysis": "由名詞 rank 轉品而來的及物動詞，指賦予某人或某物在等級系統中的位置，或將事物依順序排列。",
+      "definition": "1. To assign a position in a hierarchy or scale.; 2. To arrange things in a line or order.",
+      "example": [
+        {
+          "eng": "The university is ranked among the top ten in the world.",
+          "ch": "這所大學在世界排名前十名之列。"
+        },
+        {
+          "eng": "The teacher ranked the students by their test scores.",
+          "ch": "老師根據學生的考試成績給他們排名次。"
+        }
+      ]
+    },
+    {
+      "eng": "rate",
+      "kk": "ret",
+      "tense": "n.",
+      "ch": [
+        [
+          "比率",
+          "率"
+        ],
+        [
+          "價格",
+          "費用"
+        ],
+        [
+          "速度"
+        ]
+      ],
+      "analysis": "源自拉丁語 rata（確定的部分），經由中古法語進入英語。核心概念為「衡量標準下的數量比例」，延伸出利率、匯率、計費標準及速度等含義。",
+      "definition": "1. A measure, quantity, or frequency, typically measured against another quantity or measure.; 2. The cost or price charged for goods or services.; 3. The speed at which something happens.",
+      "example": [
+        {
+          "eng": "The inflation rate has increased significantly this year.",
+          "ch": "今年的通貨膨脹率顯著上升。"
+        },
+        {
+          "eng": "The hotel offers a special corporate room rate.",
+          "ch": "這家酒店提供特別的企業客房費率。"
+        },
+        {
+          "eng": "He drove the car at a dangerous rate of speed.",
+          "ch": "他以危險的速度駕駛汽車。"
+        }
+      ]
+    },
+    {
+      "eng": "rate",
+      "kk": "ret",
+      "tense": "vt.",
+      "ch": [
+        [
+          "評價",
+          "評定"
+        ],
+        [
+          "認為",
+          "看作"
+        ]
+      ],
+      "analysis": "由名詞 rate 轉品而來的及物動詞，指對人或事物的品質、價值進行估價或評分。",
+      "definition": "1. To assign a value, quality, or rating to something.; 2. To consider or judge someone or something to have a certain quality.",
+      "example": [
+        {
+          "eng": "Customers can rate the products on the website.",
+          "ch": "顧客可以在網站上對產品進行評價。"
+        },
+        {
+          "eng": "Experts rate him as one of the best pianists alive.",
+          "ch": "專家評價他是當今最優秀的鋼琴家之一。"
+        }
+      ]
+    },
+    {
+      "eng": "raw",
+      "kk": "rɔ",
+      "tense": "adj.",
+      "ch": [
+        [
+          "生的",
+          "未煮熟的"
+        ],
+        [
+          "未加工的",
+          "天然的"
+        ],
+        [
+          "（皮膚等）擦傷疼痛的",
+          "紅腫的"
+        ]
+      ],
+      "analysis": "源自古英語 hrēaw，屬於日耳曼語繼承詞。基本義為「未經處理或加熱的」，延伸至未加工的原材料，以及形容皮膚受損紅腫的狀態。",
+      "definition": "1. (Of food) Not cooked.; 2. In a natural state; not processed or refined.; 3. (Of skin) Red and painful, especially where the surface has been rubbed off.",
+      "example": [
+        {
+          "eng": "Sushi is made with fresh raw fish.",
+          "ch": "壽司是用新鮮的生魚製作的。"
+        },
+        {
+          "eng": "Factories import raw materials to manufacture goods.",
+          "ch": "工廠進口原材料來製造商品。"
+        },
+        {
+          "eng": "The friction left his hands raw and blistered.",
+          "ch": "摩擦讓他的雙手破皮紅腫且起了水泡。"
+        }
+      ]
+    },
+    {
+      "eng": "ray",
+      "kk": "re",
+      "tense": "n.",
+      "ch": [
+        [
+          "光線",
+          "光束"
+        ],
+        [
+          "一絲",
+          "微量（希望等）"
+        ]
+      ],
+      "analysis": "源自古法語 raye，源自拉丁語 radius（棍棒、輻條、光線）。本義為太陽發出的光束，引申出抽象的「一線希望」或微弱跡象。",
+      "definition": "1. A narrow beam of light coming from a source.; 2. A small amount or trace of a quality or feeling, especially hope.",
+      "example": [
+        {
+          "eng": "A warm ray of sunlight shone through the window.",
+          "ch": "一束溫暖的陽光透過窗戶照進來。"
+        },
+        {
+          "eng": "There was a ray of hope that the missing hikers were safe.",
+          "ch": "有一線希望表明失蹤的登山客是安全的。"
+        }
+      ]
+    },
+    {
+      "eng": "razor",
+      "kk": "ˈrezɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "剃刀"
+        ]
+      ],
+      "analysis": "源自中古法語 rasour，來自拉丁語 rādere（刮、擦）。現代透明構詞中指用於刮鬍子或毛髮的鋒利刀具。",
+      "definition": "1. A sharp-bladed instrument used for shaving hair from the face or body.",
+      "example": [
+        {
+          "eng": "He cut his chin slightly while using a new razor.",
+          "ch": "他在使用新剃刀時輕輕割傷了下巴。"
+        }
+      ]
+    },
+    {
+      "eng": "react",
+      "kk": "riˈækt",
+      "tense": "vi.",
+      "ch": [
+        [
+          "反應",
+          "作出反應"
+        ],
+        [
+          "起化學反應"
+        ]
+      ],
+      "analysis": "由字首 re-（回、重新）＋ act（行動）構成。現代透明構詞，指受到外界刺激後做出行為回應，或物質之間產生化學作用。",
+      "definition": "1. To act in response to something; to respond.; 2. To undergo a chemical change when combined with other substances.",
+      "example": [
+        {
+          "eng": "How did she react when you told her the news?",
+          "ch": "你告訴她這個消息時，她作何反應？"
+        },
+        {
+          "eng": "Sodium will react violently when it comes into contact with water.",
+          "ch": "鈉與水接觸時會劇烈起反應。"
+        }
+      ]
+    },
+    {
+      "eng": "reaction",
+      "kk": "riˈækʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "反應",
+          "回應"
+        ],
+        [
+          "化學反應"
+        ]
+      ],
+      "analysis": "由動詞 react 加上名詞字尾 -ion 構成。現代透明構詞，指對刺激、事件的回應或物質間的化學作用結果。",
+      "definition": "1. A response to something that has happened or been said.; 2. A chemical change taking place when substances are mixed.",
+      "example": [
+        {
+          "eng": "The public's reaction to the new tax policy was overwhelmingly negative.",
+          "ch": "公眾對新稅收政策的反應是一邊倒的負面。"
+        },
+        {
+          "eng": "Mixing acid and base causes a neutralizing reaction.",
+          "ch": "將酸和鹼混合會引起中和反應。"
+        }
+      ]
+    },
+    {
+      "eng": "reasonable",
+      "kk": "ˈrizənəbəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "合理的",
+          "合情理的"
+        ],
+        [
+          "（價格等）公道的",
+          "適中的"
+        ],
+        [
+          "尚可的",
+          "合乎理性的"
+        ]
+      ],
+      "analysis": "源自中古英語 raisonable，源自古法語，最終源自拉丁語 rationabilis，由 ratio（理性、理由）＋ -abilis（可...的）。指符合理性邏輯、價格公道或行為得體。",
+      "definition": "1. Fair, practical, and based on good sense.; 2. (Of a price or amount) Not too expensive; fair.; 3. Showing reason or sound judgment.",
+      "example": [
+        {
+          "eng": "It is not reasonable to expect him to finish the project in one day.",
+          "ch": "指望他一天之內完成這個專案是不合理的。"
+        },
+        {
+          "eng": "The restaurant serves delicious food at reasonable prices.",
+          "ch": "這家餐廳以公道的價格提供美味的食物。"
+        },
+        {
+          "eng": "She is a reasonable person and will listen to your explanation.",
+          "ch": "她是一個講道理的人，會聽你的解釋。"
+        }
+      ]
+    },
+    {
+      "eng": "receipt",
+      "kk": "rɪˈsit",
+      "tense": "n.",
+      "ch": [
+        [
+          "收據",
+          "發票"
+        ],
+        [
+          "收到",
+          "接收"
+        ]
+      ],
+      "analysis": "源自中古英語 receit，源自盎格魯-諾曼語 reseeite，最終源自拉丁語 recepta（已收到的東西）。字母 p 不發音，為歷史拼寫調整。第一義指購買憑證收據，第二義指收到信件或款項的動作。",
+      "definition": "1. A written statement showing that money or goods have been received.; 2. The act of receiving something.",
+      "example": [
+        {
+          "eng": "Keep your receipt in case you need to return the item.",
+          "ch": "請保留收據，以防你需要退貨。"
+        },
+        {
+          "eng": "Please confirm safe receipt of this email.",
+          "ch": "請確認已安全收到這封電子郵件。"
+        }
+      ]
+    },
+    {
+      "eng": "receiver",
+      "kk": "rɪˈsivɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "接收器",
+          "話筒"
+        ],
+        [
+          "收件人",
+          "受領人"
+        ]
+      ],
+      "analysis": "由動詞 receive 加上 agent 名詞字尾 -er 構成。現代透明構詞，指接收訊號的設備、電話話筒或接收財產財物的受讓人。",
+      "definition": "1. A piece of equipment that receives radio or television signals, or the part of a telephone you hold to your ear.; 2. A person who receives something.",
+      "example": [
+        {
+          "eng": "He picked up the telephone receiver and dialed the number.",
+          "ch": "他拿起電話話筒撥了號碼。"
+        },
+        {
+          "eng": "She is the designated receiver of the scholarship fund.",
+          "ch": "她是該獎學金基金指定的受領人。"
+        }
+      ]
+    },
+    {
+      "eng": "recognize",
+      "kk": "ˈrɛkəɡnaɪz",
+      "tense": "vt.",
+      "ch": [
+        [
+          "認出",
+          "辨認出"
+        ],
+        [
+          "承認",
+          "認可"
+        ],
+        [
+          "表彰",
+          "感謝"
+        ]
+      ],
+      "analysis": "由拉丁語 re-（再次、加強）＋ cognoscere（知道、認識），經由法語或學者借詞進入英語。核心意義為「在腦海中重新識別」，引申為正式承認或給予表彰。",
+      "definition": "1. To identify someone or something you have seen or known before.; 2. To officially acknowledge or accept something as valid or legal.; 3. To show official appreciation for someone's work or achievements.",
+      "example": [
+        {
+          "eng": "I didn't recognize her because she was wearing a heavy winter coat.",
+          "ch": "我認不出她了，因為她穿著一件厚重的冬衣。"
+        },
+        {
+          "eng": "Many countries refused to recognize the new regime.",
+          "ch": "許多國家拒絕承認這個新政權。"
+        },
+        {
+          "eng": "The company held a ceremony to recognize his twenty years of service.",
+          "ch": "公司舉辦了一場儀式來表彰他二十年的服務。"
+        }
+      ]
+    },
+    {
+      "eng": "recorder",
+      "kk": "rɪˈkɔrdɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "錄音機",
+          "記錄器"
+        ],
+        [
+          "直笛（樂器）"
+        ]
+      ],
+      "analysis": "由動詞 record 加上 agent 名詞字尾 -er 構成。第一義指用來記錄聲音或數據的儀器；第二義指木質或塑膠吹奏樂器「直笛」，此義源於其歷史上用於學習音樂基礎記錄的傳統。",
+      "definition": "1. A device used for recording sound, pictures, or data.; 2. A wooden or plastic musical instrument shaped like a tube, played by blowing into the mouthpiece.",
+      "example": [
+        {
+          "eng": "He played back the interview on his digital voice recorder.",
+          "ch": "他在數位錄音機上回放了採訪內容。"
+        },
+        {
+          "eng": "Primary school students often learn to play the recorder in music class.",
+          "ch": "小學生經常在音樂課上學習吹奏直笛。"
+        }
+      ]
+    },
+    {
+      "eng": "rectangle",
+      "kk": "ˈrɛktæŋɡəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "長方形",
+          "矩形"
+        ]
+      ],
+      "analysis": "源自中古法語，最終源自拉丁語 rectangulum，由 rectus（直的、正的）＋ angulus（角）。指擁有四個直角的平面幾何圖形。",
+      "definition": "1. A four-sided plane figure with four right angles and four sides, especially one with adjacent sides of unequal lengths.",
+      "example": [
+        {
+          "eng": "Draw a rectangle on the paper with a ruler and pencil.",
+          "ch": "用尺和鉛筆在紙上畫一個長方形。"
+        }
+      ]
+    },
+    {
+      "eng": "reduce",
+      "kk": "rɪˈdus",
+      "tense": "vt.",
+      "ch": [
+        [
+          "減少",
+          "減小"
+        ],
+        [
+          "降低",
+          "使降級"
+        ]
+      ],
+      "analysis": "由拉丁語 red-（回、向後）＋ dūcere（引導），核心義為「引回、帶回」，在中古英語中演變出「使數量或規模減少」的概念。",
+      "definition": "1. To make something smaller or less in amount, degree, or size.; 2. To bring someone or something to a lower state or condition.",
+      "example": [
+        {
+          "eng": "The factory managed to reduce carbon emissions by twenty percent.",
+          "ch": "這家工廠設法將碳排放量減少了百分之二十。"
+        },
+        {
+          "eng": "Supermarkets often reduce prices on food near its expiration date.",
+          "ch": "超級市場經常將接近有效期的食品降價。"
+        }
+      ]
+    },
+    {
+      "eng": "regional",
+      "kk": "ˈridʒənəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "地區的",
+          "區域性的"
+        ]
+      ],
+      "analysis": "由名詞 region（地區）加上形容詞字尾 -al 構成。現代透明構詞，指特定地理區域或行政區劃相關的事物。",
+      "definition": "1. Relating to or characteristic of a particular region or district.",
+      "example": [
+        {
+          "eng": "The company has several regional offices across the country.",
+          "ch": "這家公司在全國各地設有多個地區辦事處。"
+        }
+      ]
+    },
+    {
+      "eng": "regret",
+      "kk": "rɪˈɡrɛt",
+      "tense": "n.",
+      "ch": [
+        [
+          "遺憾",
+          "懊悔"
+        ]
+      ],
+      "analysis": "源自古法語 regreter，由 prefix re- ＋ 日耳曼語根（意為哀悼、哭泣）。名詞指因過去的決定或發生的不幸事件而產生的心靈遺憾與悲傷。",
+      "definition": "1. A feeling of sadness, repentance, or disappointment over an occurrence or something that one has done or failed to do.",
+      "example": [
+        {
+          "eng": "He looked back on his wasted youth with deep regret.",
+          "ch": "他帶著深深的遺憾回首自己虛度了的青春。"
+        }
+      ]
+    },
+    {
+      "eng": "relax",
+      "kk": "rɪˈlæks",
+      "tense": "v.",
+      "ch": [
+        [
+          "放鬆",
+          "休息"
+        ],
+        [
+          "（使）鬆弛",
+          "放寬"
+        ]
+      ],
+      "analysis": "由拉丁語 re-（加強或反轉）＋ laxare（放鬆、使寬鬆，源自 laxus 寬鬆的）。經由法語進入英語。及物與不及物用法高度重疊，合併為 v.。",
+      "definition": "1. To rest or engage in an enjoyable activity so as to become less tired or anxious.; 2. To make something less strict or tight.",
+      "example": [
+        {
+          "eng": "After a hard day at work, she likes to relax with a good book.",
+          "ch": "工作了一整天後，她喜歡讀一本好書來放鬆。"
+        },
+        {
+          "eng": "The government decided to relax restrictions on international travel.",
+          "ch": "政府決定放寬對國際旅行的限制。"
+        }
+      ]
+    },
+    {
+      "eng": "release",
+      "kk": "rɪˈlis",
+      "tense": "n.",
+      "ch": [
+        [
+          "釋放",
+          "解放"
+        ],
+        [
+          "發行",
+          "發表"
+        ],
+        [
+          "發布的新聞稿"
+        ]
+      ],
+      "analysis": "源自中古英語 releasen，源自古法語 relasser，最終源自拉丁語 relaxāre（放鬆、解開）。名詞第一義指從監禁或拘束中解放；第二義指電影、音樂或產品的正式上市發行；第三義指公關新聞稿。",
+      "definition": "1. The action or process of releasing someone or something from confinement or control.; 2. The action of making a film, recording, or other product available to the public.; 3. An official statement issued to newspapers giving information.",
+      "example": [
+        {
+          "eng": "The environmental group demanded the immediate release of the captive animals.",
+          "ch": "環保團體要求立即釋放被俘獲的動物。"
+        },
+        {
+          "eng": "Fans are eagerly awaiting the release of the new video game.",
+          "ch": "粉絲們正熱切期盼新電玩的發行。"
+        },
+        {
+          "eng": "The pop star's publicist issued a press release addressing the rumors.",
+          "ch": "這位流行巨星的公關人員發布了一份新聞稿來澄清謠言。"
+        }
+      ]
+    },
+    {
+      "eng": "release",
+      "kk": "rɪˈlis",
+      "tense": "vt.",
+      "ch": [
+        [
+          "釋放",
+          "解放"
+        ],
+        [
+          "發行",
+          "推出"
+        ],
+        [
+          "鬆開",
+          "放手"
+        ]
+      ],
+      "analysis": "由古法語動詞演變而來的及物動詞，指解除約束、將產品推出市場或放開手腳。",
+      "definition": "1. To allow someone or something to escape from confinement; to set free.; 2. To make a movie, record, etc., available for people to buy or see.; 3. To stop holding something; to let go.",
+      "example": [
+        {
+          "eng": "The police arrested the suspect but later released him due to lack of evidence.",
+          "ch": "警方逮捕了嫌疑人，但隨後因缺乏證據將其釋放。"
+        },
+        {
+          "eng": "The band plans to release a new album next month.",
+          "ch": "該樂團計劃在下個月發行新專輯。"
+        },
+        {
+          "eng": "Take a deep breath and slowly release your grip.",
+          "ch": "深吸一口氣，然後慢慢鬆開你的握持。"
+        }
+      ]
+    },
+    {
+      "eng": "reliable",
+      "kk": "rɪˈlaɪəbəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "可靠的",
+          "可信賴的"
+        ]
+      ],
+      "analysis": "由動詞 rely 加上形容詞字尾 -able（可...的）構成。混合了拉丁語基底與法語/英語後綴，指值得依賴、始終如一提供準確資訊或表現的人事物。",
+      "definition": "1. Consistently good in quality or performance; able to be trusted.",
+      "example": [
+        {
+          "eng": "We need a reliable car for our long road trip across the country.",
+          "ch": "我們需要一輛可靠的車來進行全國自駕長途旅行。"
+        }
+      ]
+    },
+    {
+      "eng": "relief",
+      "kk": "rɪˈlif",
+      "tense": "n.",
+      "ch": [
+        [
+          "寬慰",
+          "輕鬆"
+        ],
+        [
+          "救濟",
+          "援助"
+        ],
+        [
+          "浮雕（藝術）"
+        ]
+      ],
+      "analysis": "源自動詞 relieve 的對應名詞，源自拉丁語 relevāre（輕裝、減輕負擔）。第一義指痛苦或焦慮消除後的心理寬慰；第二義指對災民或貧困者的物質援助；第三義指雕刻中的浮雕藝術（因圖案從平面凸顯而得名）。",
+      "definition": "1. A feeling of reassurance and relaxation following release from anxiety or distress.; 2. Financial or practical assistance given to those in need.; 3. A method of molding or carving in which the design stands out from the background.",
+      "example": [
+        {
+          "eng": "It was a great relief to hear that everyone survived the accident.",
+          "ch": "聽到每個人都在這場事故中生還，真是鬆了一大口氣。"
+        },
+        {
+          "eng": "International organizations rushed food and medical relief to the disaster zone.",
+          "ch": "國際組織將食品和醫療救濟緊急運往災區。"
+        },
+        {
+          "eng": "The ancient temple walls were decorated with exquisite stone reliefs.",
+          "ch": "古老的廟宇牆壁上裝飾著精美的石雕浮雕。"
+        }
+      ]
+    },
+    {
+      "eng": "religious",
+      "kk": "rɪˈlɪdʒəs",
+      "tense": "adj.",
+      "ch": [
+        [
+          "宗教的",
+          "信仰的"
+        ],
+        [
+          "虔誠的",
+          "敬神的"
+        ]
+      ],
+      "analysis": "源自拉丁語 religiosus，由 religio（宗教、虔誠）＋ -osus（充滿...的）。指與宗教信仰相關的事物，或形容一個人對宗教十分虔誠。",
+      "definition": "1. Relating to or believing in a religion.; 2. Devoting oneself to a religion; pious and devout.",
+      "example": [
+        {
+          "eng": "Freedom of speech and freedom of religious belief are fundamental human rights.",
+          "ch": "言論自由與宗教信仰自由是基本人權。"
+        },
+        {
+          "eng": "She comes from a deeply religious family and attends church every Sunday.",
+          "ch": "她來自一個極為虔誠的宗教家庭，每週日都去教堂。"
+        }
+      ]
+    },
+    {
+      "eng": "rely",
+      "kk": "rɪˈlaɪ",
+      "tense": "vi.",
+      "ch": [
+        [
+          "依賴",
+          "依靠"
+        ],
+        [
+          "信賴",
+          "信任"
+        ]
+      ],
+      "analysis": "源自古法語 relier（綁緊、繫牢），源自拉丁語 religāre（re- 加強 ＋ ligāre 綁）。字面義為「被繫在一起或綁在某物上」，引申為在困難時依賴或信任某人（通常接介詞 on/upon）。",
+      "definition": "1. To depend on with full trust or confidence.; 2. To be dependent on someone or something for support or survival.",
+      "example": [
+        {
+          "eng": "You can always rely on him to keep a secret.",
+          "ch": "你總是能信賴他會保守秘密。"
+        },
+        {
+          "eng": "Many rural communities rely heavily on agriculture for their livelihood.",
+          "ch": "許多農村社區嚴重依賴農業來維持生計。"
+        }
+      ]
+    },
+    {
+      "eng": "remain",
+      "kk": "rɪˈmen",
+      "tense": "vi.",
+      "ch": [
+        [
+          "保持",
+          "繼續是"
+        ],
+        [
+          "剩下",
+          "留存"
+        ]
+      ],
+      "analysis": "源自古法語 remainer，源自拉丁語 remanēre（re- 遠離/留下 ＋ manēre 停留、居住）。原意為留在原地不動，引申為狀態保持不變或數量上還有剩餘。",
+      "definition": "1. To continue to exist, or to stay in the same place or condition.; 2. To be left over after other parts have been removed, used, or dealt with.",
+      "example": [
+        {
+          "eng": "Despite the fierce debate, the chairman remained neutral.",
+          "ch": "儘管爭論激烈，主席仍然保持中立。"
+        },
+        {
+          "eng": "Only a few cookies remained in the jar after the children visited.",
+          "ch": "孩子們來過之後，罐子裡只剩下幾塊餅乾。"
+        }
+      ]
+    },
+    {
+      "eng": "remind",
+      "kk": "rɪˈmaɪnd",
+      "tense": "vt.",
+      "ch": [
+        [
+          "提醒",
+          "使想起"
+        ]
+      ],
+      "analysis": "由 prefix re-（再次）＋ 動詞 mind（注意、記住）構成。字面義為「再次帶入某人的心智中」，指透過言語或視覺線索讓人想起某事或某人。",
+      "definition": "1. To cause someone to remember someone or something, or to do something.",
+      "example": [
+        {
+          "eng": "Please remind me to call my mother later this afternoon.",
+          "ch": "請提醒我今天下午晚些時候打電話給我媽媽。"
+        },
+        {
+          "eng": "That song always reminds me of our summer vacation in Italy.",
+          "ch": "那首歌總是讓我想起我們在義大利的暑假。"
+        }
+      ]
+    },
+    {
+      "eng": "remote",
+      "kk": "rɪˈmot",
+      "tense": "adj.",
+      "ch": [
+        [
+          "偏遠的",
+          "遙遠的"
+        ],
+        [
+          "微乎其微的",
+          "稀少的"
+        ],
+        [
+          "（電子設備）遠端的",
+          "遙控的"
+        ]
+      ],
+      "analysis": "源自拉丁語 remotus（移開的、遠處的），動詞 removēre 的過去分詞。本義指地理位置上的偏遠，延伸至機率微小或指電子遙控裝置（remote control 的簡稱）。",
+      "definition": "1. Situated far from the main centers of population; distant.; 2. (Of a chance or possibility) Unlikely; slight.; 3. Operating or controlled from a distance.",
+      "example": [
+        {
+          "eng": "They live in a remote village high up in the mountains.",
+          "ch": "他們住在高山深處的一個偏遠村莊裡。"
+        },
+        {
+          "eng": "There is still a remote chance that we can win the game.",
+          "ch": "我們仍然有一絲贏得比賽的微茫機會。"
+        },
+        {
+          "eng": "Many employees prefer working in a remote office setup.",
+          "ch": "許多員工偏好遠距辦公的模式。"
+        }
+      ]
+    },
+    {
+      "eng": "replace",
+      "kk": "rɪˈples",
+      "tense": "vt.",
+      "ch": [
+        [
+          "取代",
+          "替代"
+        ],
+        [
+          "更換",
+          "把...放回原處"
+        ]
+      ],
+      "analysis": "由 prefix re-（重新）＋ 名詞/動詞 place（地方）構成。字面義為「放回原位」，在中古英語與近代英語中演變出「拿新東西替代舊東西」或「接替某職位」的含義。",
+      "definition": "1. To take the place of someone or something; to be a substitute for.; 2. To put something back in its previous place or position.",
+      "example": [
+        {
+          "eng": "Electric cars will eventually replace traditional gasoline vehicles.",
+          "ch": "電動車最終將取代傳統汽油車。"
+        },
+        {
+          "eng": "Please replace the book on the shelf when you finish reading.",
+          "ch": "看完書後請把它放回書架上。"
+        }
+      ]
+    },
+    {
+      "eng": "replacement",
+      "kk": "rɪˈplesmənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "替代品",
+          "替換物"
+        ],
+        [
+          "接替者",
+          "替代人員"
+        ]
+      ],
+      "analysis": "由動詞 replace 加上名詞字尾 -ment 構成。現代透明構詞，指用來替代損壞物品的零件或接替職位的新人。",
+      "definition": "1. A thing that takes the place of something else, typically because the old one is broken or lost.; 2. A person who takes over a job or role from someone else.",
+      "example": [
+        {
+          "eng": "I need to order a battery replacement for my old laptop.",
+          "ch": "我需要為我的舊筆電訂購一個替換電池。"
+        },
+        {
+          "eng": "The coach is looking for a good replacement for the injured striker.",
+          "ch": "教練正在為受傷的主力前鋒尋找合適的替補人選。"
+        }
+      ]
+    },
+    {
+      "eng": "represent",
+      "kk": "ˌrɛprɪˈzɛnt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "代表",
+          "象徵"
+        ],
+        [
+          "描繪",
+          "展現"
+        ]
+      ],
+      "analysis": "源自拉丁語 repraesentāre（使在眼前出現、呈現），由 re-（加強）＋ praesentāre（呈現、展示）。核心義為「在當下重新呈現某人或某物的面貌」，引申為作為代表、象徵或繪畫描寫。",
+      "definition": "1. To be a symbol or equivalent of something; to act or speak on behalf of someone.; 2. To portray, depict, or describe something in a particular way.",
+      "example": [
+        {
+          "eng": "Elected officials represent the interests of their constituents.",
+          "ch": "民選官員代表其選民的利益。"
+        },
+        {
+          "eng": "The red lines on the map represent major highways.",
+          "ch": "地圖上的紅線代表主要公路。"
+        }
+      ]
+    },
+    {
+      "eng": "representative",
+      "kk": "ˌrɛprɪˈzɛntətɪv",
+      "tense": "n.",
+      "ch": [
+        [
+          "代表",
+          "代理人"
+        ]
+      ],
+      "analysis": "由動詞 represent 加上形容詞/名詞複合字尾 -ative 構成。現代透明構詞，指被授權代表個人、團體或公司發言的代理人或業務代表。",
+      "definition": "1. A person chosen or elected to speak or act for another or others, especially in a legislative assembly or business.",
+      "example": [
+        {
+          "eng": "A customer service representative will assist you with your order.",
+          "ch": "客服代表將協助您處理您的訂單。"
+        }
+      ]
+    },
+    {
+      "eng": "republic",
+      "kk": "rɪˈpʌblɪk",
+      "tense": "n.",
+      "ch": [
+        [
+          "共和國",
+          "共和政體"
+        ]
+      ],
+      "analysis": "源自拉丁語 rēs pūblica（公共事務、國家），由 rēs（事務、財產）＋ pūblica（公眾的）。指國家最高權力歸屬人民及由選民選出代表治理的政體。",
+      "definition": "1. A state in which supreme power is held by the people and their elected representatives, and which has an elected or nominated president rather than a monarch.",
+      "example": [
+        {
+          "eng": "France is a democratic republic with a president as head of state.",
+          "ch": "法國是一個以總統為國家元首的民主共和國。"
+        }
+      ]
+    },
+    {
+      "eng": "request",
+      "kk": "rɪˈkwɛst",
+      "tense": "n.",
+      "ch": [
+        [
+          "請求",
+          "要求"
+        ]
+      ],
+      "analysis": "源自古法語 requeste，源自拉丁語 requīsita（尋求、要求之物），動詞 requirere 的過去分詞。名詞指正式或禮貌的祈求與索取。",
+      "definition": "1. An act of asking politely or formally for something.",
+      "example": [
+        {
+          "eng": "The manager granted her request for a week of annual leave.",
+          "ch": "經理批准了她請一周年假的請求。"
+        }
+      ]
+    },
+    {
+      "eng": "request",
+      "kk": "rɪˈkwɛst",
+      "tense": "vt.",
+      "ch": [
+        [
+          "請求",
+          "要求"
+        ]
+      ],
+      "analysis": "由古法語名詞演變而來的及物動詞，指禮貌或正式地要求某人做某事或提供某物。",
+      "definition": "1. To politely or formally ask for something or ask someone to do something.",
+      "example": [
+        {
+          "eng": "Passengers are requested to remain seated until the plane comes to a complete halt.",
+          "ch": "旅客受請求在飛機完全停穩之前留在座位上。"
+        }
+      ]
+    },
+    {
+      "eng": "reserve",
+      "kk": "rɪˈzɝv",
+      "tense": "n.",
+      "ch": [
+        [
+          "儲備",
+          "儲備金"
+        ],
+        [
+          "自然保護區"
+        ],
+        [
+          "矜持",
+          "寡言"
+        ]
+      ],
+      "analysis": "源自拉丁語 reservāre（保留、留存），由 re-（回）＋ servāre（保持、保護）。名詞第一義指留存的物資或資金；第二義指政府劃定的生態保護區；第三義指性格上的拘謹與內向。",
+      "definition": "1. A supply of a commodity not needed for immediate use but available if required.; 2. An area of land set aside for the protection of wildlife or indigenous people.; 3. A quality of self-restraint in expression or behavior.",
+      "example": [
+        {
+          "eng": "The country maintains a large strategic petroleum reserve.",
+          "ch": "該國維持著龐大的戰略石油儲備。"
+        },
+        {
+          "eng": "Lions and elephants roam freely in the national game reserve.",
+          "ch": "獅子和大象在國家野生動物保護區內自由漫步。"
+        },
+        {
+          "eng": "Behind his professional reserve, he has a very warm personality.",
+          "ch": "在他專業的矜持背後，他有著非常熱情的性格。"
+        }
+      ]
+    },
+    {
+      "eng": "reserve",
+      "kk": "rɪˈzɝv",
+      "tense": "vt.",
+      "ch": [
+        [
+          "預訂",
+          "保留"
+        ],
+        [
+          "留出（時間、金錢等）"
+        ]
+      ],
+      "analysis": "由拉丁語動詞 reservāre 經由法語進入英語的及物動詞。核心義為「為將來使用或特定對象而將某物留下來」，如預訂座位或保留權利。",
+      "definition": "1. To keep something for a special purpose or future use.; 2. To arrange for a place, table, ticket, etc., to be kept for you to use.",
+      "example": [
+        {
+          "eng": "I would like to reserve a table for four for dinner tonight.",
+          "ch": "我想預訂今晚四人晚餐的桌位。"
+        },
+        {
+          "eng": "We must reserve some time to review the final report.",
+          "ch": "我們必須留出一些時間來審查最終報告。"
+        }
+      ]
+    },
+    {
+      "eng": "resist",
+      "kk": "rɪˈzɪst",
+      "tense": "vt.",
+      "ch": [
+        [
+          "抵抗",
+          "反抗"
+        ],
+        [
+          "抵制",
+          "忍住（誘惑等）"
+        ]
+      ],
+      "analysis": "源自拉丁語 resistere（向後站穩、抵抗），由 re-（反向、對抗）＋ sistere（立、站）。核心義為「頂住壓力不退縮」，引申為對抗外力或克制食欲與誘惑。",
+      "definition": "1. To fight against or oppose something; to withstand.; 2. To stop yourself from having or doing something that you like.",
+      "example": [
+        {
+          "eng": "Citizens banded together to resist the tyrannical invasion.",
+          "ch": "公民們團結起來抵抗暴政入侵。"
+        },
+        {
+          "eng": "She found it very hard to resist eating the chocolate cake.",
+          "ch": "她發現自己很難忍住不吃那塊巧克力蛋糕。"
+        }
+      ]
+    },
+    {
+      "eng": "resource",
+      "kk": "ˈrisɔrs",
+      "tense": "n.",
+      "ch": [
+        [
+          "資源",
+          "財力"
+        ],
+        [
+          "應變能力",
+          "智謀"
+        ]
+      ],
+      "analysis": "源自中古法語 ressource，源自拉丁語 resurgere（重新站起、復甦）。本義指可供依靠的來源或手段，引申為國家資源、自然資源或個人的機智與應變能力。",
+      "definition": "1. A stock or supply of money, materials, staff, and other assets that can be used by a person or organization.; 2. A person's ability to deal skillfully with difficult situations.",
+      "example": [
+        {
+          "eng": "Water is a precious natural resource that we must conserve.",
+          "ch": "水是我們必須保護的珍貴自然資源。"
+        },
+        {
+          "eng": "The teacher showed great resource in handling the unruly classroom.",
+          "ch": "這位老師在處理難管秩序的教室時展現了極高的應變能力。"
+        }
+      ]
+    },
+    {
+      "eng": "response",
+      "kk": "rɪˈspɑns",
+      "tense": "n.",
+      "ch": [
+        [
+          "回答",
+          "回應"
+        ],
+        [
+          "反應"
+        ]
+      ],
+      "analysis": "源自拉丁語 responsum（答覆），動詞 respondere 的過去分詞中性形。名詞指對言語問話的答覆，或對環境刺激、危機狀況的實際行動反應。",
+      "definition": "1. A spoken or written answer; 2. a reaction to something.",
+      "example": [
+        {
+          "eng": "He sent an immediate response to my email inquiry.",
+          "ch": "他對我的電子郵件詢問做出了即時的回應。"
+        },
+        {
+          "eng": "The emergency services' response time to the accident was under five minutes.",
+          "ch": "緊急救援部門對該事故的反應時間不到五分鐘。"
+        }
+      ]
+    },
+    {
+      "eng": "responsibility",
+      "kk": "rɪˌspɑnsəˈbɪləti",
+      "tense": "n.",
+      "ch": [
+        [
+          "責任",
+          "義務"
+        ],
+        [
+          "職責",
+          "任務"
+        ]
+      ],
+      "analysis": "由形容詞 responsible 加上名詞字尾 -ity 構成。現代透明構詞，指一個人應盡的義務、做事的擔當，或職位上被賦予的具體工作任務。",
+      "definition": "1. The state or fact of having a duty to deal with something or of having control over someone.; 2. A thing for which one is responsible.",
+      "example": [
+        {
+          "eng": "Parents bear the primary responsibility for raising their children.",
+          "ch": "父母負有撫養孩子的首要責任。"
+        },
+        {
+          "eng": "Managing the company's financial budget is her main job responsibility.",
+          "ch": "管理公司的財務預算是她的主要工作職責。"
+        }
+      ]
+    },
+    {
+      "eng": "restrict",
+      "kk": "rɪˈstrɪkt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "限制",
+          "約束"
+        ]
+      ],
+      "analysis": "源自拉丁語 restrictus（拉緊的、束縛的），動詞 restringere 的過去分詞，由 re-（回、向後）＋ stringere（繫緊、捆綁）。核心義為「將範圍或行動捆綁住不讓其擴散」，引申為法令上的限制。",
+      "definition": "1. To put a limit on; to keep under control; to confine.",
+      "example": [
+        {
+          "eng": "Doctors advise patients with high blood pressure to restrict their salt intake.",
+          "ch": "醫生建議高血壓患者限制鹽分攝取量。"
+        }
+      ]
+    },
+    {
+      "eng": "reveal",
+      "kk": "rɪˈvil",
+      "tense": "vt.",
+      "ch": [
+        [
+          "透露",
+          "洩露"
+        ],
+        [
+          "展現",
+          "顯示"
+        ]
+      ],
+      "analysis": "源自拉丁語 revelāre（揭開面紗、暴露），由 re-（反轉、取消）＋ velum（面紗、帷幕）。字面義為「拉開遮蓋的帷幕」，引申為把秘密公諸於世或顯露出本來面目。",
+      "definition": "1. To make previously unknown or secret information known to others.; 2. To cause or allow something to be seen; to show.",
+      "example": [
+        {
+          "eng": "The investigative report revealed widespread corruption in the government.",
+          "ch": "調查報導揭露了政府內部廣泛存在的腐敗現象。"
+        },
+        {
+          "eng": "She parted the curtains to reveal a stunning view of the ocean.",
+          "ch": "她拉開窗簾，展現出令人驚嘆的海景。"
+        }
+      ]
+    },
+    {
+      "eng": "ribbon",
+      "kk": "ˈrɪbən",
+      "tense": "n.",
+      "ch": [
+        [
+          "絲帶",
+          "緞帶"
+        ],
+        [
+          "（獎章等的）綬帶",
+          "條狀物"
+        ]
+      ],
+      "analysis": "源自中古英語 riban，可能源自凱爾特語族。指用於包裝禮物、裝飾頭髮的細長織帶，或軍事與榮譽獎章上的彩條（綬帶）。",
+      "definition": "1. A long, narrow strip of fabric, typically used for tying something or for decoration.; 2. A strip of material resembling this.",
+      "example": [
+        {
+          "eng": "She tied her hair back with a red silk ribbon.",
+          "ch": "她用一條紅色絲帶把頭髮綁在腦後。"
+        },
+        {
+          "eng": "The general pinned the medal with its colorful ribbon onto the soldier's chest.",
+          "ch": "將軍把帶有彩色綬帶的獎章別在士兵的胸前。"
+        }
+      ]
+    },
+    {
+      "eng": "rid",
+      "kk": "rɪd",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使擺脫",
+          "使免除"
+        ]
+      ],
+      "analysis": "源自古英語 hreddan（拯救、解放）與古諾斯語的結合。現代主要用於片語 get rid of（擺脫、丟棄）中作為及物動詞，表示清除令人討厭的人事物。",
+      "definition": "1. To make someone or something free of an unwanted person or thing.",
+      "example": [
+        {
+          "eng": "He finally managed to get rid of his old, broken refrigerator.",
+          "ch": "他終於設法處理掉了那台破舊的舊冰箱。"
+        }
+      ]
+    },
+    {
+      "eng": "ripe",
+      "kk": "raɪp",
+      "tense": "adj.",
+      "ch": [
+        [
+          "成熟的（果實等）"
+        ],
+        [
+          "時機成熟的"
+        ]
+      ],
+      "analysis": "源自古英語 rīpe，屬於日耳曼語繼承詞。本義專指水果或農作物長成可以採摘食用，隨後引申應用於抽象概念如「時機成熟」。",
+      "definition": "1. (Of fruit or grain) Developed to the point of readiness for harvesting and eating.; 2. Completely developed or ready for an activity or purpose.",
+      "example": [
+        {
+          "eng": "The apples on the tree are sweet and ripe for picking.",
+          "ch": "樹上的蘋果很甜，已經成熟可以採摘了。"
+        },
+        {
+          "eng": "The political conditions were ripe for a revolution.",
+          "ch": "政治情勢已經成熟，適合發動革命。"
+        }
+      ]
+    }
+  ]
+}

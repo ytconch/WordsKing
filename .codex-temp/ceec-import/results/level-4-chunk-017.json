@@ -1,0 +1,1321 @@
+{
+  "level": 4,
+  "chunkIndex": 17,
+  "inputs": [
+    "proposal",
+    "prosper",
+    "prosperity",
+    "prosperous",
+    "protein",
+    "protest",
+    "psychological",
+    "psychologist",
+    "psychology",
+    "publication",
+    "publicity",
+    "publish",
+    "publisher",
+    "pursue",
+    "pursuit",
+    "quarrel",
+    "quilt",
+    "quotation",
+    "radar",
+    "rage",
+    "rainfall",
+    "raisin",
+    "realistic",
+    "rebel",
+    "recall",
+    "reception",
+    "recipe",
+    "recognition",
+    "recovery",
+    "recreation",
+    "recycle",
+    "reduction",
+    "refer",
+    "reference",
+    "reflect",
+    "reflection",
+    "reform",
+    "refugee",
+    "refund",
+    "refusal",
+    "regarding",
+    "register",
+    "registration",
+    "regulate",
+    "regulation",
+    "rejection",
+    "relaxation",
+    "relevant",
+    "relieve",
+    "reluctant"
+  ],
+  "rows": [
+    {
+      "eng": "proposal",
+      "kk": "prəˈpoʊzəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "提議",
+          "建議"
+        ],
+        [
+          "求婚"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 propose 加上名詞字尾 -al 構成。字源可追溯至拉丁語 proponere（pro- 向前 + ponere 放置），經由古法語與英語發展，本義為「將某事擺在眼前或提出供人考慮」，現代演變出計畫性提議與婚姻求婚兩大核心義。",
+      "definition": "1. A plan or suggestion put forward for consideration or discussion by others.; 2. An act of asking someone to marry.",
+      "example": [
+        {
+          "eng": "The committee rejected the proposal to build a new library.",
+          "ch": "委員會拒絕了建造新圖書館的提議。"
+        },
+        {
+          "eng": "He went down on one knee to make a romantic proposal.",
+          "ch": "他單膝跪地進行了一場浪漫的求婚。"
+        }
+      ]
+    },
+    {
+      "eng": "prosper",
+      "kk": "ˈprɑːspər",
+      "tense": "vi.",
+      "ch": [
+        [
+          "繁榮",
+          "興旺",
+          "成功"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，源自拉丁語 prosperare（由 prosperus 衍生，pro- 依循、有利 + sperus 希望、幸運），意為「如希望般順利發展」。經由古法語進入英語，專門用來形容人、企業或經濟狀況的繁榮與成功。",
+      "definition": "1. To succeed in material terms; to be financially successful, flourish, or grow strong.",
+      "example": [
+        {
+          "eng": "Small businesses can prosper when the local economy is stable.",
+          "ch": "當地方經濟穩定時，小企業就能繁榮發展。"
+        }
+      ]
+    },
+    {
+      "eng": "prosperity",
+      "kk": "prɑːˈspɛrəti",
+      "tense": "n.",
+      "ch": [
+        [
+          "繁榮",
+          "興旺",
+          "富庶"
+        ]
+      ],
+      "analysis": "此字為名詞，由形容詞 prosperous 轉變詞性或對應拉丁語 prosperitas（源自 prosperus）而來，加上名詞字尾 -ity 表示狀態。用以指國家、社會或個人處於財富充裕、經濟繁榮的狀態。",
+      "definition": "1. The state of being successful, especially in making money; a successful, flourishing, or wealthy condition.",
+      "example": [
+        {
+          "eng": "The government aims to bring long-term economic prosperity to the nation.",
+          "ch": "政府旨在為國家帶來長期的經濟繁榮。"
+        }
+      ]
+    },
+    {
+      "eng": "prosperous",
+      "kk": "ˈprɑːspərəs",
+      "tense": "adj.",
+      "ch": [
+        [
+          "繁榮的",
+          "富裕的",
+          "興旺的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自拉丁語 prosperus，加上形容詞字尾 -ous。用來修飾經濟、國家或生活狀況良好且富裕的對象。",
+      "definition": "1. Successful in material terms; flourishing financially or economically.",
+      "example": [
+        {
+          "eng": "They live in a prosperous neighborhood with many high-end shops.",
+          "ch": "他們住在一個有許多高檔商店的繁榮社區。"
+        }
+      ]
+    },
+    {
+      "eng": "protein",
+      "kk": "ˈproʊtiːn",
+      "tense": "n.",
+      "ch": [
+        [
+          "蛋白質"
+        ]
+      ],
+      "analysis": "此字為名詞，現代科學借詞，源自德語 Protein，由荷蘭化學家傑爾杜斯·約翰內斯·穆爾德命名，根基於希臘語 prōteios（意為「第一的」、「首要的」），因為蛋白質被認為是生物體內最重要的有機物質。",
+      "definition": "1. A large molecule composed of one or more long chains of amino acids, essential for all living organisms.",
+      "example": [
+        {
+          "eng": "Chicken and fish are excellent sources of lean protein.",
+          "ch": "雞肉和魚肉是優質瘦蛋白質的良好來源。"
+        }
+      ]
+    },
+    {
+      "eng": "protest",
+      "kk": "prəˈtɛst",
+      "tense": "n.",
+      "ch": [
+        [
+          "抗議",
+          "反對"
+        ],
+        [
+          "抗議活動",
+          "示威"
+        ]
+      ],
+      "analysis": "此字為名詞，源自動詞 protest（拉丁語 protestari，pro- 公開 + testari 作證、聲明）。本義為「公開聲明反對」，現代延伸為抗議的言論或群眾集會抗議活動。",
+      "definition": "1. A statement or action expressing disapproval of or objection to something.; 2. A public demonstration or event where people gather to express disapproval.",
+      "example": [
+        {
+          "eng": "The new tax policy sparked widespread public protest.",
+          "ch": "新稅收政策引發了廣泛的公眾抗議。"
+        },
+        {
+          "eng": "Thousands of citizens joined the peaceful protest in the capital.",
+          "ch": "數千名市民參加了首都的和平示威活動。"
+        }
+      ]
+    },
+    {
+      "eng": "protest",
+      "kk": "prəˈtɛst",
+      "tense": "vt.",
+      "ch": [
+        [
+          "抗議",
+          "反對",
+          "強烈聲明"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自拉丁語 protestari（pro- 公開 + testari 作證），經中古法語進入英語。指以言語或行動公開表示強烈反對或抗議。",
+      "definition": "1. To express strong objection or disapproval of something publicly.",
+      "example": [
+        {
+          "eng": "Workers gathered outside the factory to protest the unfair wage cuts.",
+          "ch": "工人們聚集在工廠外抗議不公平的減薪。"
+        }
+      ]
+    },
+    {
+      "eng": "psychological",
+      "kk": "ˌsaɪkəˈlɑːdʒɪkəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "心理學的",
+          "心理上的"
+        ]
+      ],
+      "analysis": "此字為形容詞，由名詞 psychology 加上形容詞字尾 -ical 構成。源自希臘語 psychē（靈魂、心智）與 logia（學問），指與心智、精神或心理學相關的事物。",
+      "definition": "1. Relating to the mental and emotional state of a person; associated with psychology.",
+      "example": [
+        {
+          "eng": "The athlete suffered a major psychological barrier after the injury.",
+          "ch": "這名運動員在受傷後遭受了重大的心理障礙。"
+        }
+      ]
+    },
+    {
+      "eng": "psychologist",
+      "kk": "saɪˈkɑːlədʒɪst",
+      "tense": "n.",
+      "ch": [
+        [
+          "心理學家"
+        ]
+      ],
+      "analysis": "此字為名詞，由 psychology 去掉 -y 改加表示人的字尾 -ist 構成。指專門從事心理學研究或臨床診斷的專業人員。",
+      "definition": "1. An expert or specialist in psychology who studies the mind and human behavior.",
+      "example": [
+        {
+          "eng": "She consulted a clinical psychologist to help manage her anxiety.",
+          "ch": "她諮詢了一位臨床心理學家來幫助控制焦慮。"
+        }
+      ]
+    },
+    {
+      "eng": "psychology",
+      "kk": "saɪˈkɑːlədʒi",
+      "tense": "n.",
+      "ch": [
+        [
+          "心理學"
+        ],
+        [
+          "心理",
+          "心理狀態"
+        ]
+      ],
+      "analysis": "此字為名詞，源自新拉丁語 psychologia，由希臘語 psychē（靈魂、心智）與 logia（學問、研究）組合而成。本義為「研究心智的科學」，現代也常用來指特定群體或個人的心理狀態。",
+      "definition": "1. The scientific study of the human mind and its functions, especially those affecting behavior.; 2. The mental characteristics, attitude, or behavior of a person or group.",
+      "example": [
+        {
+          "eng": "He is currently majoring in psychology at university.",
+          "ch": "他目前在大學主修心理學。"
+        },
+        {
+          "eng": "To be a good marketer, you need to understand consumer psychology.",
+          "ch": "要成為一個好的行銷人員，你需要了解消費者心理。"
+        }
+      ]
+    },
+    {
+      "eng": "publication",
+      "kk": "ˌpʌblɪˈkeɪʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "出版",
+          "發行"
+        ],
+        [
+          "出版品",
+          "刊物"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 publish 加上名詞字尾 -ation 構成。源自拉丁語 publicare（使公開），經歷史演變，既指將作品公開發行的行為，也指出版物本身。",
+      "definition": "1. The act of making something available to the public, typically by printing it.; 2. A published work such as a book, magazine, or journal.",
+      "example": [
+        {
+          "eng": "The author celebrated the publication of her first novel.",
+          "ch": "這位作家慶祝她的第一本小說出版。"
+        },
+        {
+          "eng": "The library subscribes to several scientific publications.",
+          "ch": "這家圖書館訂閱了幾份科學刊物。"
+        }
+      ]
+    },
+    {
+      "eng": "publicity",
+      "kk": "pʌbˈlɪsəti",
+      "tense": "n.",
+      "ch": [
+        [
+          "宣傳",
+          "名氣",
+          "公眾關注"
+        ]
+      ],
+      "analysis": "此字為名詞，由形容詞 public 衍生出 publicist 再加上 -ity，或直接源自法語 publicité。意指吸引公眾注意、獲得媒體報導的宣傳行為或狀態。",
+      "definition": "1. Notice or attention given to someone or something by the media; the publicizing of a product, person, or service.",
+      "example": [
+        {
+          "eng": "The movie release generated a great deal of positive publicity.",
+          "ch": "這部電影的上映引起了大量的正面宣傳。"
+        }
+      ]
+    },
+    {
+      "eng": "publish",
+      "kk": "ˈpʌblɪʃ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "出版",
+          "發行"
+        ],
+        [
+          "發布",
+          "公開發表"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自中古法語 publīer（或由拉丁語 publicare 演變），加上英語動詞尾 -ish。本義為「使公眾知曉」，現代主要用於出版書籍或在媒體、網路發布官方訊息。",
+      "definition": "1. To prepare and issue a book, journal, or piece of music for sale.; 2. To officially make information known to the public.",
+      "example": [
+        {
+          "eng": "The publishing house decided to publish his new manuscript next spring.",
+          "ch": "這家出版社決定明年春天出版他的新書稿。"
+        },
+        {
+          "eng": "The government plans to publish the official report tomorrow.",
+          "ch": "政府計畫於明天發布官方報告。"
+        }
+      ]
+    },
+    {
+      "eng": "publisher",
+      "kk": "ˈpʌblɪʃər",
+      "tense": "n.",
+      "ch": [
+        [
+          "出版商",
+          "發行人"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 publish 加上表示人的字尾 -er 構成。指經營書籍、期刊等出版業務的公司或負責人。",
+      "definition": "1. A person or company that prepares and issues books, journals, or music for sale.",
+      "example": [
+        {
+          "eng": "She signed a lucrative contract with a major book publisher.",
+          "ch": "她與一家大型圖書出版商簽署了一份利潤豐厚的合約。"
+        }
+      ]
+    },
+    {
+      "eng": "pursue",
+      "kk": "pərˈsuː",
+      "tense": "vt.",
+      "ch": [
+        [
+          "追求",
+          "尋求"
+        ],
+        [
+          "追趕",
+          "追捕"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自古法語 pursuivre（拉丁語 prosequi，pro- 向前 + sequi 跟隨）。本義為「緊隨其後追趕」，引申為抽象地追尋目標、夢想或事業。",
+      "definition": "1. To follow or chase someone or something in order to catch them.; 2. To strive to gain or accomplish something over a period of time.",
+      "example": [
+        {
+          "eng": "Police officers had to pursue the speeding car through the city center.",
+          "ch": "警官們必須在市中心追趕超速行駛的汽車。"
+        },
+        {
+          "eng": "She decided to leave her job to pursue her passion for painting.",
+          "ch": "她決定辭職以追求她對繪畫的熱情。"
+        }
+      ]
+    },
+    {
+      "eng": "pursuit",
+      "kk": "pərˈsuːt",
+      "tense": "n.",
+      "ch": [
+        [
+          "追求",
+          "尋求"
+        ],
+        [
+          "嗜好",
+          "消遣活動"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 pursue 的過去分詞或詞幹衍生而來，經由古法語 pursuit 進入英語。既指追求某個目標的過程，也指個人在閒暇時從事的消遣嗜好。",
+      "definition": "1. The action of pursuing someone or something, or of trying to achieve a goal.; 2. An activity that one engages in as a pastime or hobby.",
+      "example": [
+        {
+          "eng": "His relentless pursuit of excellence made him a top scientist.",
+          "ch": "他對卓越的不懈追求使他成為頂尖科學家。"
+        },
+        {
+          "eng": "Reading and hiking are her favorite weekend pursuits.",
+          "ch": "閱讀和遠足是她最週末喜愛的消遣活動。"
+        }
+      ]
+    },
+    {
+      "eng": "quarrel",
+      "kk": "ˈkwɔːrəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "爭吵",
+          "口角"
+        ],
+        [
+          "不和的原因",
+          "爭端"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古法語 querelle（源自拉丁語 querella，意為「抱怨、訴訟」）。指人與人之間的口角、爭論或不滿的原因。",
+      "definition": "1. An angry argument or disagreement between people.; 2. A reason or ground for a dispute or complaint.",
+      "example": [
+        {
+          "eng": "They managed to resolve their minor quarrel quickly.",
+          "ch": "他們設法迅速解決了彼此的小爭吵。"
+        },
+        {
+          "eng": "I have no quarrel with your decision.",
+          "ch": "我对你的決定沒有任何異議。"
+        }
+      ]
+    },
+    {
+      "eng": "quarrel",
+      "kk": "ˈkwɔːrəl",
+      "tense": "vi.",
+      "ch": [
+        [
+          "爭吵",
+          "口角",
+          "爭論"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，源自名詞 quarrel（拉丁語 querella），在中古英語發展為動詞用法，指雙方發生言語爭執或不愉快。",
+      "definition": "1. To have a heated argument or disagreement with someone.",
+      "example": [
+        {
+          "eng": "The siblings used to quarrel over petty things when they were kids.",
+          "ch": "兄妹倆小時候常常為了一些瑣事爭吵。"
+        }
+      ]
+    },
+    {
+      "eng": "quilt",
+      "kk": "kwɪlt",
+      "tense": "n.",
+      "ch": [
+        [
+          "被子",
+          "棉被",
+          "縫被"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古法語 cuilte，最終源自拉丁語 culcita（床墊、軟墊）。指內部填充鋪棉並以縫線交叉固定的保暖被褥。",
+      "definition": "1. A warm bed cover made of two layers of cloth with padding stuffed between them, sewn together in patterns.",
+      "example": [
+        {
+          "eng": "She pulled the heavy quilt up to her chin on the cold winter night.",
+          "ch": "寒冷的冬夜裡，她把厚厚的被子拉到下巴。"
+        }
+      ]
+    },
+    {
+      "eng": "quotation",
+      "kk": "kwoʊˈteɪʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "引語",
+          "引文",
+          "語錄"
+        ],
+        [
+          "報價"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 quote 加上名詞字尾 -ation 構成。源自中古拉丁語 quotare（劃分章節、標明編號），現代主要指引用的名言佳句，或商業上的正式報價。",
+      "definition": "1. A group of words taken from a text or speech and repeated by someone other than the original author.; 2. A statement of the current price of something, especially a service or product.",
+      "example": [
+        {
+          "eng": "The essay begins with a famous quotation from Albert Einstein.",
+          "ch": "這篇論文以愛因斯坦的一句名言開頭。"
+        },
+        {
+          "eng": "Please send us a price quotation for the raw materials.",
+          "ch": "請寄給我們關於這些原材料的價格報價。"
+        }
+      ]
+    },
+    {
+      "eng": "radar",
+      "kk": "ˈreɪdɑːr",
+      "tense": "n.",
+      "ch": [
+        [
+          "雷達",
+          "無線電探測器"
+        ]
+      ],
+      "analysis": "此字為名詞，是現代英語的縮寫詞（Acronym），源自 radio detection and ranging（無線電探測與測距），二戰期間廣泛應用並成為標準名詞。",
+      "definition": "1. A system for detecting the presence, direction, distance, and speed of aircraft, ships, and other objects by sending out radio waves.",
+      "example": [
+        {
+          "eng": "The approaching storm was detected on the weather radar.",
+          "ch": "氣象雷達偵測到了逼近的風暴。"
+        }
+      ]
+    },
+    {
+      "eng": "rage",
+      "kk": "reɪdʒ",
+      "tense": "n.",
+      "ch": [
+        [
+          "狂怒",
+          "盛怒"
+        ],
+        [
+          "風靡一時的事物",
+          "時尚"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古法語 rage，源自晚期拉丁語 rabia（源自拉丁語 rabies，狂犬病、狂怒）。本義為極度的憤怒，在口語中也引申指一時大熱、風靡流行的事物。",
+      "definition": "1. A feeling of intense anger that is difficult to control.; 2. A widespread, temporary fashion, enthusiasm, or craze.",
+      "example": [
+        {
+          "eng": "His face turned red with rage when he heard the insult.",
+          "ch": "當他聽到侮辱時，氣得滿臉通紅。"
+        },
+        {
+          "eng": "Smartphones became all the rage among teenagers in the 2010s.",
+          "ch": "智慧型手機在 2010 年代成為青少年中風靡一時的潮流。"
+        }
+      ]
+    },
+    {
+      "eng": "rage",
+      "kk": "reɪdʒ",
+      "tense": "vi.",
+      "ch": [
+        [
+          "發怒",
+          "狂怒"
+        ],
+        [
+          "（暴風雨、戰鬥等）激烈進行",
+          "肆虐"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，源自名詞 rage（拉丁語 rabies）。用來形容人發脾氣狂怒，或用來形容暴風雨、火災、戰爭等猛烈肆虐、持續進行。",
+      "definition": "1. To feel or express violent uncontrollable anger.; 2. To continue with great force or intensity, such as a storm, battle, or illness.",
+      "example": [
+        {
+          "eng": "He began to rage against the unfair system.",
+          "ch": "他開始對這個不公平的體制發怒。"
+        },
+        {
+          "eng": "A fierce wildfire continued to rage across the forest.",
+          "ch": "一場猛烈的森林大火仍在持續肆虐。"
+        }
+      ]
+    },
+    {
+      "eng": "rainfall",
+      "kk": "ˈreɪnfɔːl",
+      "tense": "n.",
+      "ch": [
+        [
+          "降雨量",
+          "降雨"
+        ]
+      ],
+      "analysis": "此字為現代透明複合詞，由 rain（雨）與 fall（落下）組合而成。指在一定時間內降落到地面的雨水總量或降雨事件。",
+      "definition": "1. The fall of rain; the amount of rain that falls in a single place during a particular period.",
+      "example": [
+        {
+          "eng": "The region received below-average rainfall this spring.",
+          "ch": "這個地區今年春季的降雨量低於平均值。"
+        }
+      ]
+    },
+    {
+      "eng": "raisin",
+      "kk": "ˈreɪzɪn",
+      "tense": "n.",
+      "ch": [
+        [
+          "葡萄乾"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古法語 raisin（葡萄），最終源自拉丁語 racemus（葡萄串）。在法語中原指鮮葡萄，但在英語中專門演變為指乾燥後的葡萄乾。",
+      "definition": "1. A partially dried grape, typically sweet and used in cooking or eaten as a snack.",
+      "example": [
+        {
+          "eng": "She added some nuts and raisins to the oatmeal for extra flavor.",
+          "ch": "她在燕麥粥裡加了一些堅果和葡萄乾以增加風味。"
+        }
+      ]
+    },
+    {
+      "eng": "realistic",
+      "kk": "ˌriːəˈlɪstɪk",
+      "tense": "adj.",
+      "ch": [
+        [
+          "現實的",
+          "切合實際的"
+        ],
+        [
+          "寫實的",
+          "逼真的"
+        ]
+      ],
+      "analysis": "此字為形容詞，由名詞 realist（現實主義者）加上形容詞字尾 -ic 構成。用來形容人做事符合實際情況，或者藝術作品、畫面極為寫實逼真。",
+      "definition": "1. Having or showing a sensible and practical idea of what can be achieved or expected.; 2. Representing things in a way that is accurate and true to life.",
+      "example": [
+        {
+          "eng": "We need to set realistic goals for this project within our budget.",
+          "ch": "我們需要在預算範圍內為這個專案設定切合實際的目標。"
+        },
+        {
+          "eng": "The computer graphics in the new game are incredibly realistic.",
+          "ch": "這款新遊戲的電腦繪圖非常逼真。"
+        }
+      ]
+    },
+    {
+      "eng": "rebel",
+      "kk": "ˈrɛbəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "叛軍",
+          "反抗者",
+          "造反者"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古法語 rebel，源自拉丁語 rebellis（re- 相反、對抗 + bellum 戰爭）。指起身反抗當權者、政府或社會規範的人。",
+      "definition": "1. A person who rises in opposition or armed resistance against an established government or ruler.",
+      "example": [
+        {
+          "eng": "Rebel forces captured the town after a brief battle.",
+          "ch": "叛軍在經歷短暫戰鬥後佔領了該鎮。"
+        }
+      ]
+    },
+    {
+      "eng": "rebel",
+      "kk": "rɪˈbɛl",
+      "tense": "vi.",
+      "ch": [
+        [
+          "反叛",
+          "造反",
+          "反抗"
+        ]
+      ],
+      "analysis": "此字為不及物動詞（重音在第二音節），源自拉丁語 rebellare（發動戰爭、反抗）。指對權威、法律或父母規範採取抵抗行動。",
+      "definition": "1. To rise in opposition or armed resistance to an established government or leader; to resist authority or control.",
+      "example": [
+        {
+          "eng": "Many teenagers tend to rebel against their parents' rules.",
+          "ch": "許多青少年往往會反抗父母的規定。"
+        }
+      ]
+    },
+    {
+      "eng": "recall",
+      "kk": "rɪˈkɔːl",
+      "tense": "vt.",
+      "ch": [
+        [
+          "回想起",
+          "記起"
+        ],
+        [
+          "召回",
+          "撤回（瑕疵產品等）"
+        ]
+      ],
+      "analysis": "此字為及物動詞，由字首 re-（回、重新）與動詞 call（呼喚）組合而成。本義為「把某人呼喚回來」，引申出在腦海中重新呼喚出記憶（回憶），或要求瑕疵產品下架退回（召回）。",
+      "definition": "1. To bring back into one's mind an event, situation, or idea from the past.; 2. To officially order someone to return, or ask for a defective product to be returned to the maker.",
+      "example": [
+        {
+          "eng": "I cannot recall where I left my car keys.",
+          "ch": "我想不起來把車鑰匙放哪裡了。"
+        },
+        {
+          "eng": "The car company had to recall thousands of vehicles due to faulty brakes.",
+          "ch": "這家汽車公司因煞車故障不得不召回數千輛汽車。"
+        }
+      ]
+    },
+    {
+      "eng": "reception",
+      "kk": "rɪˈsɛpʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "接待",
+          "歡迎"
+        ],
+        [
+          "招待會",
+          "慶祝會"
+        ],
+        [
+          "（無線電信號等）接收效果"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 receive 的過去分詞詞幹受拉丁語 receptio 影響演變而來。核心義為「接收、接納」，衍生出迎接賓客的接待、婚宴招待會，以及手機或收音機的訊號接收狀況。",
+      "definition": "1. The action or process of receiving something or someone.; 2. A formal social occasion held to welcome someone or celebrate an event.; 3. The quality of a radio or television signal received.",
+      "example": [
+        {
+          "eng": "The visiting delegation received a warm reception at the airport.",
+          "ch": "來訪代表團在機場受到了熱烈的歡迎。"
+        },
+        {
+          "eng": "They held their wedding reception at a lovely hotel by the sea.",
+          "ch": "他們在海邊的一家可愛飯店舉辦了結婚喜宴。"
+        },
+        {
+          "eng": "I have no cell phone reception in this remote mountainous area.",
+          "ch": "我在這個偏遠山區收不到手機訊號。"
+        }
+      ]
+    },
+    {
+      "eng": "recipe",
+      "kk": "ˈrɛsəpi",
+      "tense": "n.",
+      "ch": [
+        [
+          "食譜",
+          "烹飪法"
+        ],
+        [
+          "訣竅",
+          "方法"
+        ]
+      ],
+      "analysis": "此字為名詞，直接源自拉丁語 recipe（意為「請拿取」），原本是古代醫學處方籤的開頭祈使語，後來在英語中演變為烹調食物的食譜，亦可比喻獲得成功的訣竅。",
+      "definition": "1. A set of instructions for preparing a particular dish, including a list of the ingredients required.; 2. A method or procedure that is likely to lead to a particular outcome.",
+      "example": [
+        {
+          "eng": "My grandmother shared her secret recipe for apple pie.",
+          "ch": "我祖母分享了她做蘋果派的祕密食譜。"
+        },
+        {
+          "eng": "Hard work combined with dedication is a recipe for success.",
+          "ch": "努力工作加上奉獻精神是成功的訣竅。"
+        }
+      ]
+    },
+    {
+      "eng": "recognition",
+      "kk": "ˌrɛkəɡˈnɪʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "認出",
+          "識別"
+        ],
+        [
+          "承認",
+          "讚賞",
+          "認可"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 recognize 加上名詞字尾 -ition 構成（源自拉丁語 recognitio）。核心義為「再次辨認出來」，引申為對某人身份、成就或事實的公開承認與讚賞。",
+      "definition": "1. The identification of someone or something from previous encounters or knowledge.; 2. Public acknowledgment or appreciation of a person's status, achievement, or validity.",
+      "example": [
+        {
+          "eng": "Face recognition technology is widely used for security purposes.",
+          "ch": "人臉識別技術被廣泛用於安全目的。"
+        },
+        {
+          "eng": "She received international recognition for her groundbreaking research.",
+          "ch": "她因其開創性的研究而獲得了國際認可。"
+        }
+      ]
+    },
+    {
+      "eng": "recovery",
+      "kk": "rɪˈkʌvəri",
+      "tense": "n.",
+      "ch": [
+        [
+          "恢復",
+          "康復"
+        ],
+        [
+          "找回",
+          "失而復得"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 recover 加上名詞字尾 -y 構成。指從疾病、受傷或經濟低迷中恢復健康或正常狀態，或指找回遺失物品的過程。",
+      "definition": "1. A return to a normal state of health, mind, or strength after an illness, injury, or setback.; 2. The act of finding or regaining something that was lost or stolen.",
+      "example": [
+        {
+          "eng": "His speedy recovery surprised all the doctors in the hospital.",
+          "ch": "他迅速康復，讓醫院裡的所有醫生都感到驚訝。"
+        },
+        {
+          "eng": "Police reported the successful recovery of the stolen artwork.",
+          "ch": "警方通報稱失竊的藝術品已成功尋回。"
+        }
+      ]
+    },
+    {
+      "eng": "recreation",
+      "kk": "ˌriːkriˈeɪʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "消遣",
+          "娛樂",
+          "休閒活動"
+        ]
+      ],
+      "analysis": "此字為名詞，源自拉丁語 recreatio（re- 重新 + creare 創造），本義為「使身心重新獲得創造力與活力」，演變為現代的休閒娛樂活動。",
+      "definition": "1. Activity done for enjoyment when one is not working; leisure pursuits or hobbies.",
+      "example": [
+        {
+          "eng": "Camping and fishing are popular outdoor forms of recreation.",
+          "ch": "露營和釣魚是很受歡迎的戶外休閒娛樂形式。"
+        }
+      ]
+    },
+    {
+      "eng": "recycle",
+      "kk": "ˌriːˈsaɪkəl",
+      "tense": "vt.",
+      "ch": [
+        [
+          "回收利用",
+          "再循環"
+        ]
+      ],
+      "analysis": "此字為及物動詞，由字首 re-（重新）與名詞 cycle（循環）組合而成。現代語境中指將廢棄物或舊物經過處理後再次製成可用資源。",
+      "definition": "1. To convert waste into reusable material; to process used objects or materials so that they can be used again.",
+      "example": [
+        {
+          "eng": "Citizens are encouraged to separate and recycle plastic bottles and paper.",
+          "ch": "鼓勵市民將塑膠瓶和紙張分類並回收利用。"
+        }
+      ]
+    },
+    {
+      "eng": "reduction",
+      "kk": "rɪˈdʌkʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "減少",
+          "降低",
+          "縮減"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 reduce 透過拉丁語 reductio（re- 向下、返回 + ducere 引導）演變而來，加上名詞字尾 -tion。指數量、尺寸或價格的減少與降低。",
+      "definition": "1. The action or fact of making something smaller or less in amount, degree, or size.",
+      "example": [
+        {
+          "eng": "The company announced a significant reduction in carbon emissions.",
+          "ch": "該公司宣布大幅減少碳排放量。"
+        }
+      ]
+    },
+    {
+      "eng": "refer",
+      "kk": "rɪˈfɜːr",
+      "tense": "vi.",
+      "ch": [
+        [
+          "提及",
+          "談到",
+          "查閱",
+          "參照"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，源自拉丁語 referre（re- 回、往返 + ferre 攜帶、拿）。本義為「將某物帶回」，引申為言談中提及某事，或翻閱書籍、查閱資料以獲取資訊（常搭配 to）。",
+      "definition": "1. To mention or speak about someone or something; to direct attention or glance to a source of information.",
+      "example": [
+        {
+          "eng": "The speaker did not refer to the previous scandal during his speech.",
+          "ch": "發言人在演講中沒有提及之前的醜聞。"
+        },
+        {
+          "eng": "You may refer to your notes during the open-book test.",
+          "ch": "在開卷考試期間，你可以參照你的筆記。"
+        }
+      ]
+    },
+    {
+      "eng": "reference",
+      "kk": "ˈrɛfrəns",
+      "tense": "n.",
+      "ch": [
+        [
+          "參考",
+          "查閱"
+        ],
+        [
+          "提及",
+          "涉及"
+        ],
+        [
+          "推薦信",
+          "證明書"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 refer 加上名詞字尾 -ence 構成。源自拉丁語 referrentia。指在寫作中參照的來源文獻、談話中提及某事，或求職時的個人推薦信與推薦人。",
+      "definition": "1. The action of mentioning or alluding to something.; 2. The use of a source of information in order to ascertain something.; 3. A letter from a previous employer testifying to someone's ability or reliability.",
+      "example": [
+        {
+          "eng": "Make sure to include a list of references at the end of your research paper.",
+          "ch": "確保在研究論文的結尾附上參考文獻列表。"
+        },
+        {
+          "eng": "His casual reference to the incident raised several questions.",
+          "ch": "他隨意提及該事件引起了幾個疑問。"
+        },
+        {
+          "eng": "Please provide the names of three professional references with your application.",
+          "ch": "請隨申請書附上三位職業推薦人的姓名。"
+        }
+      ]
+    },
+    {
+      "eng": "reflect",
+      "kk": "rɪˈflɛkt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "反射（光、熱、聲音等）"
+        ],
+        [
+          "反映",
+          "顯現",
+          "表明"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自拉丁語 reflectere（re- 回、反方向 + flectere 彎曲、折）。本義為「把光或波折回」，引申為鏡子反射影像，或抽象地反映、顯示出某種情況或特質。",
+      "definition": "1. To throw back heat, light, or sound without absorbing it.; 2. To embody or represent something faithfully; to show or manifest an attitude or characteristic.",
+      "example": [
+        {
+          "eng": "The smooth surface of the lake can perfectly reflect the mountains.",
+          "ch": "平靜的湖面能完美地反射群山。"
+        },
+        {
+          "eng": "The rising crime rates reflect deeper social problems in the city.",
+          "ch": "不斷上升的犯罪率反映了該城市更深層的社會問題。"
+        }
+      ]
+    },
+    {
+      "eng": "reflection",
+      "kk": "rɪˈflɛkʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "反射（光、影等）",
+          "倒影"
+        ],
+        [
+          "沉思",
+          "深思熟慮"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 reflect 加上名詞字尾 -ion 構成。源自拉丁語 reflexio。既指光線或鏡子產生的倒影，也指內心深處的沉思與反省。",
+      "definition": "1. The throwing back by a body or surface of light, heat, or sound without absorbing it; an image seen in a mirror or shiny surface.; 2. Serious thought or contemplation.",
+      "example": [
+        {
+          "eng": "She paused to admire her reflection in the store window.",
+          "ch": "她停下來欣賞自己在店鋪櫥窗裡的倒影。"
+        },
+        {
+          "eng": "After a few moments of quiet reflection, he made his decision.",
+          "ch": "經過一會兒的安靜沉思後，他做出了決定。"
+        }
+      ]
+    },
+    {
+      "eng": "reform",
+      "kk": "rɪˈfɔːrm",
+      "tense": "n.",
+      "ch": [
+        [
+          "改革",
+          "改良",
+          "改善"
+        ]
+      ],
+      "analysis": "此字為名詞，由字首 re-（重新）與動詞 form（形成）組合而成。源自拉丁語 reformare。指對政治、法律、教育或社會體制進行革新與改善。",
+      "definition": "1. The improvement or amendment of what is wrong, corrupt, unsatisfactory, or outdated in a system or law.",
+      "example": [
+        {
+          "eng": "The new administration promised to carry out sweeping tax reform.",
+          "ch": "新政府承諾推行全面的稅制改革。"
+        }
+      ]
+    },
+    {
+      "eng": "refugee",
+      "kk": "ˌrɛfjuˈdʒiː",
+      "tense": "n.",
+      "ch": [
+        [
+          "難民",
+          "避難者"
+        ]
+      ],
+      "analysis": "此字為名詞，源自法語 réfugié（動詞 réfugier 的過去分詞，源自拉丁語 refugium，re- 向後 + fugere 逃跑）。指為了躲避戰爭、政治迫害或天災而逃離家園的人。",
+      "definition": "1. A person who has been forced to leave their country in order to escape war, persecution, or natural disaster.",
+      "example": [
+        {
+          "eng": "Thousands of refugees fled across the border to escape the ongoing civil war.",
+          "ch": "數千名難民為了逃離持續不斷的內戰，越過邊境逃亡。"
+        }
+      ]
+    },
+    {
+      "eng": "refund",
+      "kk": "ˈriːfʌnd",
+      "tense": "n.",
+      "ch": [
+        [
+          "退款",
+          "退還的金額"
+        ]
+      ],
+      "analysis": "此字為名詞（重音在第一音節），由動詞 refund 轉品而來。指因商品瑕疵或服務不滿意而退還給顧客的款項。",
+      "definition": "1. A sum of money that is paid back, typically because you have paid too much or because you returned goods to a store.",
+      "example": [
+        {
+          "eng": "She demanded a full refund after discovering the dress was torn.",
+          "ch": "她在發現洋裝破損後，要求全額退款。"
+        }
+      ]
+    },
+    {
+      "eng": "refusal",
+      "kk": "rɪˈfjuːzəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "拒絕",
+          "回絕"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 refuse 加上名詞字尾 -al 構成。指拒絕接受請求、提議或邀請的行為。",
+      "definition": "1. An act of indicating that one is not willing to accept or grant something.",
+      "example": [
+        {
+          "eng": "His flat refusal to cooperate shocked the entire board of directors.",
+          "ch": "他乾脆地拒絕合作，震驚了全體董事會。"
+        }
+      ]
+    },
+    {
+      "eng": "regarding",
+      "kk": "rɪˈɡɑːrdɪŋ",
+      "tense": "prep.",
+      "ch": [
+        [
+          "關於",
+          "至於"
+        ]
+      ],
+      "analysis": "此字為介系詞，源自動詞 regard 的現在分詞形式。在用法上相當於 about 或 concerning，常用於商業書信或正式談話中引出主題。",
+      "definition": "1. In respect of; concerning or about a particular subject.",
+      "example": [
+        {
+          "eng": "I am writing to you regarding the job vacancy advertised online.",
+          "ch": "我寫信給您是關於網路上刊登的職缺。"
+        }
+      ]
+    },
+    {
+      "eng": "register",
+      "kk": "ˈrɛdʒɪstər",
+      "tense": "n.",
+      "ch": [
+        [
+          "登記簿",
+          "註冊表"
+        ],
+        [
+          "收銀機"
+        ]
+      ],
+      "analysis": "此字為名詞，源自中世紀拉丁語 registrum（源自拉丁語 regestum，意為「記載、記錄」）。本義為官方或組織用來記錄名冊的登記簿，現代也常用來指商店的收銀機（cash register）。",
+      "definition": "1. An official list or record of names, items, or events.; 2. A machine that calculates and records financial transactions in a store, often with a drawer for money.",
+      "example": [
+        {
+          "eng": "All new students must sign their names in the university register.",
+          "ch": "所有新生都必須在大學名冊上簽名。"
+        },
+        {
+          "eng": "The cashier rang up the items on the cash register.",
+          "ch": "收銀員在收銀機上輸入了商品。"
+        }
+      ]
+    },
+    {
+      "eng": "register",
+      "kk": "ˈrɛdʒɪstər",
+      "tense": "vt.",
+      "ch": [
+        [
+          "登記",
+          "註冊",
+          "記錄"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自中古拉丁語 registrare。指正式填寫資料以進行登記、註冊課程，或在儀器、臉部表情上顯示、流露出情感。",
+      "definition": "1. To enter or record information officially in a register or on a list.; 2. To show or express a feeling or emotion outwardly.",
+      "example": [
+        {
+          "eng": "You need to register your vehicle at the local motor vehicle office.",
+          "ch": "您需要在當地的車輛管理所登記您的車輛。"
+        },
+        {
+          "eng": "His face failed to register any emotion upon hearing the shocking news.",
+          "ch": "聽到這個令人震驚的消息時，他的臉上沒有流露出任何情緒。"
+        }
+      ]
+    },
+    {
+      "eng": "registration",
+      "kk": "ˌrɛdʒɪˈstreɪʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "登記",
+          "註冊",
+          "掛號"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 register 加上名詞字尾 -ation 構成。指辦理登記手續、註冊入學或車輛登記的行為與文件。",
+      "definition": "1. The action of registering something, or the state of being registered.",
+      "example": [
+        {
+          "eng": "The deadline for course registration is this Friday afternoon.",
+          "ch": "課程註冊的截止日期是本週五下午。"
+        }
+      ]
+    },
+    {
+      "eng": "regulate",
+      "kk": "ˈrɛɡjuleɪt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "管理",
+          "控制",
+          "調節",
+          "為…制定規章"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自拉丁語 regulare（源自 regula，規則、尺規）。指依據法律或標準對機構、市場進行管理控制，或調節機器、身體機能的運作速度與溫度。",
+      "definition": "1. To control or maintain the rate or speed of a machine or process so that it operates properly; to supervise or control by rules.",
+      "example": [
+        {
+          "eng": "The government passed new laws to strictly regulate financial markets.",
+          "ch": "政府通過了新法律以嚴格監管金融市場。"
+        },
+        {
+          "eng": "Sweating helps the human body regulate its internal temperature.",
+          "ch": "流汗有助於人體調節內部體溫。"
+        }
+      ]
+    },
+    {
+      "eng": "regulation",
+      "kk": "ˌrɛɡjuˈleɪʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "規章",
+          "規則",
+          "條例"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 regulate 加上名詞字尾 -ion 構成。通常指政府機構或機關為了管理特定行業或行為所制定的正式規章與規則（常用複數）。",
+      "definition": "1. A rule or directive made and maintained by an authority to control conduct.",
+      "example": [
+        {
+          "eng": "Airlines must strictly follow safety regulations set by the aviation authority.",
+          "ch": "航空公司必須嚴格遵守航空局制定的安全規章。"
+        }
+      ]
+    },
+    {
+      "eng": "rejection",
+      "kk": "rɪˈdʒɛkʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "拒絕",
+          "排斥",
+          "不錄用"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 reject 加上名詞字尾 -ion 構成（源自拉丁語 rejectio）。指拒絕接受提議、申請、求職履歷，或醫學上的器官排斥反應。",
+      "definition": "1. The act of refusing to accept, use, or believe something or someone; the medical condition where the body attacks a transplanted organ.",
+      "example": [
+        {
+          "eng": "Receiving a college rejection letter can be deeply disappointing to a teenager.",
+          "ch": "收到大學的拒絕信對青少年來說可能會非常失望。"
+        }
+      ]
+    },
+    {
+      "eng": "relaxation",
+      "kk": "ˌriːlækˈseɪʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "放鬆",
+          "鬆弛",
+          "消遣"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 relax 加上名詞字尾 -ation 構成（源自拉丁語 relaxatio）。指解除身體或心理緊張的放鬆狀態，或休閒消遣活動。",
+      "definition": "1. The state of being free from tension and anxiety; recreation or rest.",
+      "example": [
+        {
+          "eng": "Yoga and meditation are great methods for deep physical relaxation.",
+          "ch": "瑜伽和冥想是深度放鬆身心的絕佳方法。"
+        }
+      ]
+    },
+    {
+      "eng": "relevant",
+      "kk": "ˈrɛləvənt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "相關的",
+          "切題的",
+          "有價值的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自中世紀拉丁語 relevant-（源自拉丁語 relevare，減輕、抬起，後在經院哲學中轉意為「有關聯、有幫助」）。用來修飾與當前討論話題或問題緊密相關的事物。",
+      "definition": "1. Closely connected or appropriate to what is being done or considered.",
+      "example": [
+        {
+          "eng": "Please ensure that your application includes all relevant documents and certificates.",
+          "ch": "請確保您的申請書包含所有相關的文件和證書。"
+        }
+      ]
+    },
+    {
+      "eng": "relieve",
+      "kk": "rɪˈliːv",
+      "tense": "vt.",
+      "ch": [
+        [
+          "解除",
+          "減輕",
+          "使放心",
+          "緩解"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自古法語 relever（拉丁語 relevare，re- 向上 + levare 舉起、減輕）。本義為「把沉重的負擔舉起來減輕重量」，現代演變為減輕痛苦、焦慮，或解除某人的職務。",
+      "definition": "1. To cause pain, distress, or difficulty to become less severe or serious.; 2. To free someone from an unwanted burden, duty, or anxiety.",
+      "example": [
+        {
+          "eng": "Taking a hot bath can help relieve sore muscles after a workout.",
+          "ch": "洗個熱水澡有助於緩解運動後的肌肉酸痛。"
+        },
+        {
+          "eng": "The good news helped relieve her anxiety about the upcoming test.",
+          "ch": "這個好消息有助於解除她對即將到來考試的焦慮。"
+        }
+      ]
+    },
+    {
+      "eng": "reluctant",
+      "kk": "rɪˈlʌktənt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "不情願的",
+          "勉強的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自拉丁語 reluctant-（re- 相反 + luctari 搏鬥、掙扎），本義為「在心裡掙扎反抗」，現代用來形容某人做某事時內心不情願或勉強。",
+      "definition": "1. Unwilling and hesitant; disinclined to do something.",
+      "example": [
+        {
+          "eng": "He was reluctant to admit his mistake in front of his colleagues.",
+          "ch": "他在同事面前很不情願承認自己的錯誤。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1233 @@
+{
+  "level": 5,
+  "chunkIndex": 7,
+  "inputs": [
+    "disconnect",
+    "discourse",
+    "discriminate",
+    "discrimination",
+    "disrupt",
+    "dissolve",
+    "distinction",
+    "distinctive",
+    "distract",
+    "doctrine",
+    "document",
+    "documentary",
+    "domain",
+    "dome",
+    "donate",
+    "donation",
+    "donor",
+    "doorway",
+    "dough",
+    "dreadful",
+    "driveway",
+    "drought",
+    "ecological",
+    "ecology",
+    "ecosystem",
+    "ego",
+    "elaborate",
+    "eligible",
+    "eloquent",
+    "embrace",
+    "emission",
+    "endorse",
+    "endorsement",
+    "enterprise",
+    "enthusiastic",
+    "entitle",
+    "entity",
+    "entrepreneur",
+    "envious",
+    "envision",
+    "epidemic",
+    "episode",
+    "equation",
+    "equity",
+    "equivalent",
+    "erect",
+    "errand",
+    "erupt",
+    "escalator",
+    "essence"
+  ],
+  "rows": [
+    {
+      "eng": "disconnect",
+      "kk": "ˌdɪskəˈnɛkt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "切斷",
+          "斷開"
+        ],
+        [
+          "使脫節",
+          "使不連貫"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由否定字首 dis-（表示分離、相反）與動詞 connect（連接）結合而成。語意從「取消連接」演變出實體電源、通訊的「切斷」以及抽象概念的「使脫節」。",
+      "definition": "1. To break the connection of a supply, device, or line.; 2. To cause something to become detached or dissociated from a system or concept.",
+      "example": [
+        {
+          "eng": "Please disconnect the power supply before repairing the appliance.",
+          "ch": "修理電器前請先切斷電源。"
+        },
+        {
+          "eng": "Modern technology can sometimes disconnect people from real-life social interactions.",
+          "ch": "現代科技有時會使人們與現實生活中的社交互動脫節。"
+        }
+      ]
+    },
+    {
+      "eng": "discourse",
+      "kk": "ˈdɪskɔrs",
+      "tense": "n.",
+      "ch": [
+        [
+          "論述",
+          "對話"
+        ],
+        [
+          "演說",
+          "講道"
+        ]
+      ],
+      "analysis": "源自拉丁語 discursus（奔跑、來回奔波、論談），由 dis-（分散）與 currere（跑）的過去分詞詞幹結合而成。經由中世紀法語進入英語，歷史語義從「來回討論」演變為書面或口頭的「演說」與學術「論述」。",
+      "definition": "1. Written or spoken communication or debate on a particular topic.; 2. A formal and lengthy speech or writing addressing a subject.",
+      "example": [
+        {
+          "eng": "The book contributes significantly to the political discourse of our time.",
+          "ch": "這本書對我們時代的政治論述做出了重大貢獻。"
+        },
+        {
+          "eng": "The professor delivered a brilliant discourse on modern philosophy.",
+          "ch": "教授發表了一場關於現代哲學的精彩演說。"
+        }
+      ]
+    },
+    {
+      "eng": "discriminate",
+      "kk": "dɪˈskrɪmɪˌneɪt",
+      "tense": "vi.",
+      "ch": [
+        [
+          "歧視",
+          "差別待遇"
+        ],
+        [
+          "辨別",
+          "區分"
+        ]
+      ],
+      "analysis": "源自拉丁語 discriminare（分開、區分），由 dis-（分離）與 cribrare（篩選，源自 cribrum 篩子）結合而成。歷史語義從客觀的「分辨差異」演變出社會學上帶有偏見的「歧視」用法。",
+      "definition": "1. To treat a person or group unfairly on the basis of prejudice.; 2. To recognize a distinction; to differentiate between two or more things.",
+      "example": [
+        {
+          "eng": "It is illegal to discriminate against employees based on their race or gender.",
+          "ch": "基於種族或性別對員工進行歧視是非法的。"
+        },
+        {
+          "eng": "Infants can soon learn to discriminate between different sounds and voices.",
+          "ch": "嬰兒很快就能學會辨別不同的聲音與語調。"
+        }
+      ]
+    },
+    {
+      "eng": "discrimination",
+      "kk": "dɪˌskrɪmɪˈneɪʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "歧視",
+          "不平等待遇"
+        ],
+        [
+          "辨別力",
+          "識別力"
+        ]
+      ],
+      "analysis": "由動詞 discriminate 加上名詞字首 -ation 構成。語意對應動詞的兩個核心面向：一是社會不平等的「歧視」，二是心智上敏銳的「辨別力」。",
+      "definition": "1. The unjust or prejudicial treatment of different categories of people.; 2. The ability to recognize and understand the difference between things.",
+      "example": [
+        {
+          "eng": "The organization fights tirelessly against racial discrimination.",
+          "ch": "該組織不懈地與種族歧視抗爭。"
+        },
+        {
+          "eng": "It takes great artistic discrimination to appreciate subtle details in classical music.",
+          "ch": "欣賞古典音樂中的微妙細節需要極高的藝術辨別力。"
+        }
+      ]
+    },
+    {
+      "eng": "disrupt",
+      "kk": "dɪsˈrʌpt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "干擾",
+          "打斷"
+        ],
+        [
+          "使瓦解",
+          "使分裂"
+        ]
+      ],
+      "analysis": "源自拉丁語 disruptus，為 disrumpere（打破、撕裂）的過去分詞，由 dis-（加強語氣或分離）與 rumpere（打破、破裂）組成。歷史演變保留了「打破常態」的核心概念，引申為干擾活動或瓦解系統。",
+      "definition": "1. To interrupt an event, activity, or process by causing a disturbance.; 2. To drastically alter or destroy the structure of something, such as a market or system.",
+      "example": [
+        {
+          "eng": "Heavy snowstorms can severely disrupt public transportation services.",
+          "ch": "大風雪會嚴重打斷公共運輸服務。"
+        },
+        {
+          "eng": "New digital technologies continue to disrupt traditional business models.",
+          "ch": "新數位技術持續瓦解傳統商業模式。"
+        }
+      ]
+    },
+    {
+      "eng": "dissolve",
+      "kk": "dɪˈzɑlv",
+      "tense": "vt.",
+      "ch": [
+        [
+          "溶解",
+          "融化"
+        ],
+        [
+          "解散",
+          "解除"
+        ]
+      ],
+      "analysis": "源自拉丁語 dissolvere，由 dis-（分散、向下）與 solvere（鬆開、解開）結合而成。從「鬆開並散開」的物理動作，延伸出物質「溶解」以及組織、契約「解散」的抽象義。",
+      "definition": "1. To cause a solid substance to become incorporated into a liquid to form a solution.; 2. To formally close down or dismiss an assembly, official body, or legal agreement.",
+      "example": [
+        {
+          "eng": "Stir the mixture until the sugar crystals completely dissolve.",
+          "ch": "攪拌混合物直到糖晶體完全溶解。"
+        },
+        {
+          "eng": "The prime minister decided to dissolve parliament and call for new elections.",
+          "ch": "首相決定解散國會並宣布重新選舉。"
+        }
+      ]
+    },
+    {
+      "eng": "distinction",
+      "kk": "dɪˈstɪŋkʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "區別",
+          "差別"
+        ],
+        [
+          "優秀",
+          "卓越"
+        ],
+        [
+          "特質",
+          "特色"
+        ]
+      ],
+      "analysis": "源自拉丁語 distinctio，由 distinguere（區分）的名詞化衍生而來。語意從「分開的狀態或行為」引申出「事物間的區別」、「傑出優異的表現」以及「獨特的特質」。",
+      "definition": "1. A difference or contrast between similar things or people.; 2. Excellence that sets someone or something apart from others.; 3. A notable feature or characteristic.",
+      "example": [
+        {
+          "eng": "It is important to draw a clear distinction between theory and practice.",
+          "ch": "在理論與實踐之間劃分出明確的區別是很重要的。"
+        },
+        {
+          "eng": "She graduated from university with high distinction.",
+          "ch": "她以優異的成績從大學畢業。"
+        },
+        {
+          "eng": "His sharp wit is the chief distinction of his writing style.",
+          "ch": "他敏銳的機智是他寫作風格的主要特質。"
+        }
+      ]
+    },
+    {
+      "eng": "distinctive",
+      "kk": "dɪˈstɪŋktɪv",
+      "tense": "adj.",
+      "ch": [
+        [
+          "獨特的",
+          "有特色的"
+        ]
+      ],
+      "analysis": "由名詞 distinction 或動詞 distinguish 的詞幹加上形容詞字首 -ive 構成。指某人或某物具備能使之與眾不同、易於辨識的特質。",
+      "definition": "1. Characteristic of a particular person or thing, so as to serve to distinguish it from others.",
+      "example": [
+        {
+          "eng": "The bird is easily recognized by its distinctive yellow plumage.",
+          "ch": "這隻鳥因其獨特的黃色羽毛而很容易被認出來。"
+        }
+      ]
+    },
+    {
+      "eng": "distract",
+      "kk": "dɪˈstrækt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "分散注意力",
+          "使分心"
+        ],
+        [
+          "使轉移"
+        ]
+      ],
+      "analysis": "源自拉丁語 distractus，為 distrahere（拉開、扯開）的過去分詞，由 dis-（向四面八方、分離）與 trahere（拉）結合而成。歷史原義為「將心智拉向不同方向」，現代演變為使人分心或轉移焦點。",
+      "definition": "1. To prevent someone from giving their full attention to something.; 2. To draw someone's attention away from a worrisome thought or task.",
+      "example": [
+        {
+          "eng": "Loud noises outside the window can easily distract students during an exam.",
+          "ch": "窗外的喧鬧聲很容易在考試期間分散學生的注意力。"
+        },
+        {
+          "eng": "She tried to distract herself from the pain by listening to soothing music.",
+          "ch": "她試著聽舒緩的音樂來轉移對疼痛的注意力。"
+        }
+      ]
+    },
+    {
+      "eng": "doctrine",
+      "kk": "ˈdɑktrɪn",
+      "tense": "n.",
+      "ch": [
+        [
+          "教義",
+          "學說"
+        ],
+        [
+          "政策原則"
+        ]
+      ],
+      "analysis": "源自拉丁語 doctrina（教導、學問），由 doctor（老師，源自 docere 教導）衍生而來。經由中世紀法語進入英語，歷史語義從一般性的「教導、知識」定型為宗教「教義」或政治、軍事上的「官方政策原則」。",
+      "definition": "1. A belief or set of beliefs held and taught by a church, political party, or other group.; 2. A stated principle of government policy, especially in foreign or military affairs.",
+      "example": [
+        {
+          "eng": "The religious leaders debated the core doctrine of the faith.",
+          "ch": "宗教領袖們辯論了該信仰的核心教義。"
+        },
+        {
+          "eng": "The Monroe Doctrine shaped American foreign policy for over a century.",
+          "ch": "門主義政策影響了美國一個多世紀的外交政策。"
+        }
+      ]
+    },
+    {
+      "eng": "document",
+      "kk": "ˈdɑkjumənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "文件",
+          "公文"
+        ],
+        [
+          "記錄證明"
+        ]
+      ],
+      "analysis": "源自拉丁語 documentum（教訓、證明、文件），由 docere（教導）加上工具名詞字首/字尾組合而成。早期指提供教導或證據的物件，現代則專指書面、電子形式的正式文件或檔案記錄。",
+      "definition": "1. A piece of written, printed, or electronic matter that provides information or evidence.; 2. A written record that serves as proof of something.",
+      "example": [
+        {
+          "eng": "Please sign this important legal document before leaving.",
+          "ch": "離開前請簽署這份重要的法律文件。"
+        },
+        {
+          "eng": "Historians rely on ancient manuscripts and official documents to understand the past.",
+          "ch": "歷史學家依賴古代手稿與官方文件來理解過去。"
+        }
+      ]
+    },
+    {
+      "eng": "documentary",
+      "kk": "ˌdɑkjəˈmɛntəri",
+      "tense": "n.",
+      "ch": [
+        [
+          "紀錄片"
+        ]
+      ],
+      "analysis": "由 document 加上形容詞/名詞字首尾 -ary 形成。原先指「記錄事實的（形容詞）」，後來獨立作為名詞，專指以真實事件、社會議題或自然生態為主題的「紀錄片」。",
+      "definition": "1. A film or television program providing a factual report on a particular subject.",
+      "example": [
+        {
+          "eng": "We watched a fascinating documentary about marine life in the Arctic.",
+          "ch": "我們看了一部關於北極海洋生物的精彩紀錄片。"
+        }
+      ]
+    },
+    {
+      "eng": "domain",
+      "kk": "doʊˈmeɪn",
+      "tense": "n.",
+      "ch": [
+        [
+          "領域",
+          "範圍"
+        ],
+        [
+          "網域",
+          "網址網域"
+        ],
+        [
+          "產業領地"
+        ]
+      ],
+      "analysis": "源自古法語 demaine，最終源自拉丁語 dominium（所有權、統治權），根源於 dominus（主人）。歷史原義為「領主掌控的領地」，現代擴大至知識與活動的「領域」、網路上的「網域」。",
+      "definition": "1. An area of territory owned or controlled by a ruler or government; a sphere of knowledge or activity.; 2. A distinct subset of the internet identified by a particular name.; 3. A specified sphere of activity or interest.",
+      "example": [
+        {
+          "eng": "Artificial intelligence is a rapidly expanding domain of computer science.",
+          "ch": "人工智慧是電腦科學中一個快速擴展的領域。"
+        },
+        {
+          "eng": "The company registered a new web domain for its upcoming product launch.",
+          "ch": "該公司為即將推出的產品註冊了一個新的網站網域。"
+        },
+        {
+          "eng": "Science was once considered the exclusive domain of men.",
+          "ch": "科學曾被認為是男性的專屬領域。"
+        }
+      ]
+    },
+    {
+      "eng": "dome",
+      "kk": "doʊm",
+      "tense": "n.",
+      "ch": [
+        [
+          "圓頂",
+          "圓屋頂"
+        ]
+      ],
+      "analysis": "源自義大利語 duomo（大教堂，最終源自拉丁語 domus 屋子、家），在建築語境中因重要大教堂常有半球形屋頂而轉指「圓頂」。",
+      "definition": "1. A rounded vault forming the roof of a building or structure, typically with a circular base.",
+      "example": [
+        {
+          "eng": "The golden dome of the historic cathedral glistened in the sunlight.",
+          "ch": "歷史悠久的大教堂金色圓頂在陽光下閃閃發光。"
+        }
+      ]
+    },
+    {
+      "eng": "donate",
+      "kk": "ˈdoʊneɪt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "捐贈",
+          "捐獻"
+        ]
+      ],
+      "analysis": "源自拉丁語 donatus，為 donare（贈予、給予）的過去分詞，根源於 donum（禮物）。英語在18世紀透過後退構詞法（back-formation）由 donation 重新衍生出動詞形式。",
+      "definition": "1. To give money, food, or items to a charity, organization, or cause voluntarily.",
+      "example": [
+        {
+          "eng": "Many generous citizens decided to donate clothes and food to the earthquake victims.",
+          "ch": "許多慷慨的市民決定捐贈衣物和食物給地震災民。"
+        }
+      ]
+    },
+    {
+      "eng": "donation",
+      "kk": "doʊˈneɪʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "捐款",
+          "捐贈物"
+        ]
+      ],
+      "analysis": "源自拉丁語 donatio（贈予），由 donare（贈予）加上名詞字首尾 -ion 構成。指自願給予慈善機構或組織的金錢、物資或服務。",
+      "definition": "1. Something that is given to a charity, organization, or cause, especially a sum of money.",
+      "example": [
+        {
+          "eng": "The local hospital received a anonymous donation of one million dollars.",
+          "ch": "當地醫院收到了一筆一百萬美元的匿名捐款。"
+        }
+      ]
+    },
+    {
+      "eng": "donor",
+      "kk": "ˈdoʊnər",
+      "tense": "n.",
+      "ch": [
+        [
+          "捐贈者",
+          "捐血者"
+        ],
+        [
+          "器官捐贈者"
+        ]
+      ],
+      "analysis": "源自拉丁語 donator，由 donare（捐贈）加上表示人的字尾 -or 構成。指捐贈金錢、血液或器官給需要者的個人或機構。",
+      "definition": "1. A person who donates money, blood, or organs to help others.; 2. A person or organization that makes a charitable contribution.",
+      "example": [
+        {
+          "eng": "The blood bank is urgently appealing for more regular donors.",
+          "ch": "血庫正緊急呼籲更多固定的捐血者。"
+        },
+        {
+          "eng": "Card donor cards allow individuals to express their wish to save lives after death.",
+          "ch": "器官捐贈卡讓個人能夠表達在身後拯救生命的願望。"
+        }
+      ]
+    },
+    {
+      "eng": "doorway",
+      "kk": "ˈdɔrˌweɪ",
+      "tense": "n.",
+      "ch": [
+        [
+          "門口",
+          "出入口"
+        ]
+      ],
+      "analysis": "現代透明複合詞，由 door（門）與 way（道路、通道）結合而成。指通往房間或建築物的門口通道處。",
+      "definition": "1. An entrance to a room or building, typically consisting of a opening and a door.",
+      "example": [
+        {
+          "eng": "She stood in the doorway, waiting for her guests to arrive.",
+          "ch": "她站在門口，等待著客人的到來。"
+        }
+      ]
+    },
+    {
+      "eng": "dough",
+      "kk": "doʊ",
+      "tense": "n.",
+      "ch": [
+        [
+          "麵團"
+        ]
+      ],
+      "analysis": "源自古英語 dāg，屬於日耳曼語族的繼承詞（與德語 Teig 同源）。歷史上指將麵粉與水或其他液體混合揉成的黏稠塊狀物，準備用來烘焙麵包或糕點。",
+      "definition": "1. A thick, malleable mixture of flour, liquid, and other ingredients, used for baking bread or pastry.",
+      "example": [
+        {
+          "eng": "Knead the dough on a lightly floured surface until smooth and elastic.",
+          "ch": "在撒了薄麵粉的檯面上揉麵團，直到光滑且具彈性。"
+        }
+      ]
+    },
+    {
+      "eng": "dreadful",
+      "kk": "ˈdrɛdfəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "可怕的",
+          "糟糕的"
+        ],
+        [
+          "令人不快的"
+        ]
+      ],
+      "analysis": "現代透明複合構詞，由動詞/名詞 dread（懼怕、恐懼）加上形容詞字首尾 -ful（充滿……的）組成。歷史語義從「令人感到強烈恐懼的」泛化為口語中表示「極度糟糕的、討厭的」。",
+      "definition": "1. Causing great dread, fear, or suffering.; 2. Extremely bad, unpleasant, or of very poor quality.",
+      "example": [
+        {
+          "eng": "The survivors recounted the dreadful moments during the hurricane.",
+          "ch": "生還者敘述了颶風期間那段可怕的時刻。"
+        },
+        {
+          "eng": "We had dreadful weather throughout our entire vacation.",
+          "ch": "我們整個假期都遇到糟糕的天氣。"
+        }
+      ]
+    },
+    {
+      "eng": "driveway",
+      "kk": "ˈdraɪvˌweɪ",
+      "tense": "n.",
+      "ch": [
+        [
+          "私人車道"
+        ]
+      ],
+      "analysis": "現代透明複合詞，由動詞 drive（駕駛車輛）的名詞化/動名詞性質與 way（道路）結合而成。指連接街道與住宅車庫或停車位的私人專用車道。",
+      "definition": "1. A short private road that connects a house or garage to a public street.",
+      "example": [
+        {
+          "eng": "He parked his car neatly in the driveway.",
+          "ch": "他把車子整齊地停在私人車道上。"
+        }
+      ]
+    },
+    {
+      "eng": "drought",
+      "kk": "draʊt",
+      "tense": "n.",
+      "ch": [
+        [
+          "乾旱",
+          "旱災"
+        ]
+      ],
+      "analysis": "源自古英語 drūgað，根源於形容詞 drūgian（變乾，源自 dry）。屬於日耳曼語族繼承詞，指因長期缺乏降雨而導致土壤與水源乾涸的自然現象。",
+      "definition": "1. A prolonged period of abnormally low rainfall, leading to a shortage of water.",
+      "example": [
+        {
+          "eng": "The severe drought ruined crops and threatened livestock across the region.",
+          "ch": "嚴重的乾旱摧毀了該地區的農作物並威脅到家畜。"
+        }
+      ]
+    },
+    {
+      "eng": "ecological",
+      "kk": "ˌɛkəˈlɑdʒɪkəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "生態的",
+          "生態學的"
+        ]
+      ],
+      "analysis": "由名詞 ecology（生態學）加上形容詞字首尾 -ical 構成。指與生物與環境相互關係、生態平衡相關的事物。",
+      "definition": "1. Relating to ecology or the relations between organisms and their environment.",
+      "example": [
+        {
+          "eng": "Industrial pollution poses a serious threat to the ecological balance of the river.",
+          "ch": "工業污染對該河流的生態平衡構成了嚴重的威脅。"
+        }
+      ]
+    },
+    {
+      "eng": "ecology",
+      "kk": "ɪˈkɑlədʒi",
+      "tense": "n.",
+      "ch": [
+        [
+          "生態學",
+          "生態"
+        ]
+      ],
+      "analysis": "現代科學借詞，由希臘語 oikos（房屋、居住環境）與 -logia（學問、研究）結合而成。最初由德國生物學家於19世紀提出，指研究生物與其周遭環境互動關係的學門。",
+      "definition": "1. The branch of biology that deals with the relations of organisms to one another and to their physical surroundings.",
+      "example": [
+        {
+          "eng": "Students took a field trip to study the fragile ecology of the wetland.",
+          "ch": "學生們進行了一次戶外教學，以研究濕地脆弱的生態。"
+        }
+      ]
+    },
+    {
+      "eng": "ecosystem",
+      "kk": "ˈɛkoʊˌsɪstəm",
+      "tense": "n.",
+      "ch": [
+        [
+          "生態系統"
+        ]
+      ],
+      "analysis": "現代科學複合詞，由 eco-（生態，取自 ecology）與 system（系統）結合而成。指生物群落与其生存的非生物環境共同構成的統一整體。",
+      "definition": "1. A biological community of interacting organisms and their physical environment.",
+      "example": [
+        {
+          "eng": "Coral reefs support a vibrant and diverse marine ecosystem.",
+          "ch": "珊瑚礁支撐著充滿活力且多樣化的海洋生態系統。"
+        }
+      ]
+    },
+    {
+      "eng": "ego",
+      "kk": "ˈiɡoʊ",
+      "tense": "n.",
+      "ch": [
+        [
+          "自我",
+          "自負"
+        ]
+      ],
+      "analysis": "直接借自拉丁語 ego（我）。在心理學精神分析中被借用為表示「自我」的主體概念，在日常語義中則常引申指個人的「自負心」或「自尊心」。",
+      "definition": "1. A person's sense of self-esteem or self-importance.; 2. In psychoanalysis, the part of the mind that mediates between the conscious self and the outside world.",
+      "example": [
+        {
+          "eng": "His enormous ego prevented him from ever admitting when he was wrong.",
+          "ch": "他極度膨脹的自負使他從不肯承認自己錯了。"
+        },
+        {
+          "eng": "Overcoming one's ego is an essential step toward spiritual growth.",
+          "ch": "克服自我意識是邁向精神成長的重要一步。"
+        }
+      ]
+    },
+    {
+      "eng": "elaborate",
+      "kk": "ɪˈlæbəreɪt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "精心製作的",
+          "詳盡複雜的"
+        ]
+      ],
+      "analysis": "源自拉丁語 elaboratus（精心製作的），由 e-（加強語氣）與 laborare（勞動、工作）結合而成。歷史原義為「透過勞動與心血細心製作出來的」，引申為設計精巧繁複或說明極為詳盡。",
+      "definition": "1. Made or arranged with a great deal of care, detail, or complexity.",
+      "example": [
+        {
+          "eng": "The wedding reception featured an elaborate display of flowers and lights.",
+          "ch": "婚宴上有著精心佈置的花朵與燈光展示。"
+        }
+      ]
+    },
+    {
+      "eng": "eligible",
+      "kk": "ˈɛlɪdʒəbəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "有資格的",
+          "合適的"
+        ]
+      ],
+      "analysis": "源自中世紀拉丁語 eligibilis（可挑選的），源自拉丁語 eligere（挑選、選出，由 e- 外 + legere 選擇）。歷史演變為指符合特定條件、法律規定或標準而「具備被選中或參與資格的」。",
+      "definition": "1. Having the right to do or obtain something through satisfying the necessary conditions or qualifications.",
+      "example": [
+        {
+          "eng": "Citizens aged eighteen and over are eligible to vote in national elections.",
+          "ch": "年滿十八歲的公民有資格在全國選舉中投票。"
+        }
+      ]
+    },
+    {
+      "eng": "eloquent",
+      "kk": "ˈɛləkwənt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "雄辯的",
+          "口才流利的"
+        ],
+        [
+          "具說服力的",
+          "動人的"
+        ]
+      ],
+      "analysis": "源自拉丁語 eloquens，為 eloqui（流利地說話）的現在分詞，由 e-（向外）與 loqui（說話）組成。歷史語義指善於表達、言辭流暢，進而引申為無聲但極具感染力或說服力的表現。",
+      "definition": "1. Fluent or persuasive in speaking or writing.; 2. Clearly expressing or indicating something without using words.",
+      "example": [
+        {
+          "eng": "The civil rights leader gave an eloquent speech that moved the entire crowd.",
+          "ch": "這位民權領袖發表了一場感動全場的雄辯演說。"
+        },
+        {
+          "eng": "Her tearful eyes were an eloquent testimony to her profound grief.",
+          "ch": "她含淚的雙眼是對她極度悲傷的動人證明。"
+        }
+      ]
+    },
+    {
+      "eng": "embrace",
+      "kk": "ɪmˈbreɪs",
+      "tense": "vt.",
+      "ch": [
+        [
+          "擁抱"
+        ],
+        [
+          "欣然接受",
+          "採納"
+        ]
+      ],
+      "analysis": "源自古法語 embracer，由 em-（進入、置於，源自拉丁語 in-）與 brace（手臂，源自希臘語 brakhion 手臂）結合而成。字面義為「用手臂環抱」，引申出抽象的「全盤接受、欣然採納」新觀念或生活方式。",
+      "definition": "1. To hold someone closely in one's arms as a sign of affection.; 2. To accept or support a belief, theory, or change enthusiastically.",
+      "example": [
+        {
+          "eng": "The mother ran forward to embrace her son at the airport terminal.",
+          "ch": "母親在機場航廈向前跑去擁抱她的兒子。"
+        },
+        {
+          "eng": "Modern businesses must quickly embrace digital transformation to stay competitive.",
+          "ch": "現代企業必須迅速採納數位轉型以保持競爭力。"
+        }
+      ]
+    },
+    {
+      "eng": "emission",
+      "kk": "ɪˈmɪʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "排放",
+          "排放物"
+        ],
+        [
+          "發射",
+          "散發"
+        ]
+      ],
+      "analysis": "源自拉丁語 emissio，由 emittere（發射、放出，由 ex- 外 + mittere 發送）的名詞化衍生而來。歷史演變保留了「物質、光或輻射被釋放、發射出來」的行為與其產生物。",
+      "definition": "1. The production and discharge of something, especially gas or radiation.; 2. The act of emitting light, heat, or sound.",
+      "example": [
+        {
+          "eng": "Governments worldwide are implementing stricter regulations to reduce carbon emissions.",
+          "ch": "世界各國政府正實施更嚴格的法規以減少碳排放。"
+        },
+        {
+          "eng": "The emission of light from distant stars takes millions of years to reach Earth.",
+          "ch": "來自遙遠恆星的光線發射需要數百萬年才能到達地球。"
+        }
+      ]
+    },
+    {
+      "eng": "endorse",
+      "kk": "ɪnˈdɔrs",
+      "tense": "vt.",
+      "ch": [
+        [
+          "背書",
+          "公開支持"
+        ],
+        [
+          "簽署支票"
+        ]
+      ],
+      "analysis": "源自中世紀拉丁語 indorsare（在背後寫字），由 in-（在……上）與 dorsum（背部）結合而成。歷史原義為「在文件或支票背面簽名」，演變出商業代言、政治人物的「公開背書支持」。",
+      "definition": "1. To declare one's public approval or support of someone or something.; 2. To sign the back of a check or document to make it payable.",
+      "example": [
+        {
+          "eng": "Several prominent politicians decided to endorse the environmental candidate.",
+          "ch": "幾位知名政治人物決定公開支持這位環保候選人。"
+        },
+        {
+          "eng": "You need to endorse the back of the check before depositing it at the bank.",
+          "ch": "你在銀行存款前需要在支票背面簽名。"
+        }
+      ]
+    },
+    {
+      "eng": "endorsement",
+      "kk": "ɪnˈdɔrsmənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "背書",
+          "公開支持"
+        ],
+        [
+          "廣告代言"
+        ]
+      ],
+      "analysis": "由動詞 endorse 加上名詞字首尾 -ment 構成。指公開的批准、支持，或商業上名人為產品進行的廣告代言。",
+      "definition": "1. An act of giving one's public approval or support to someone or something.; 2. A form of advertising in which a celebrity recommends a product.",
+      "example": [
+        {
+          "eng": "The mayor's endorsement gave a major boost to the local charity campaign.",
+          "ch": "市長的公開背書給當地慈善活動帶來了極大的助力。"
+        },
+        {
+          "eng": "The famous athlete signed a lucrative endorsement contract with a sportswear brand.",
+          "ch": "這位知名運動員與一家運動服飾品牌簽署了一份利潤豐厚的代言合約。"
+        }
+      ]
+    },
+    {
+      "eng": "enterprise",
+      "kk": "ˈɛntərˌpraɪz",
+      "tense": "n.",
+      "ch": [
+        [
+          "企業",
+          "事業"
+        ],
+        [
+          "進取心",
+          "創業精神"
+        ]
+      ],
+      "analysis": "源自古法語 entreprise（一項承擔的任務），由 entre-（在之間，源自拉丁語 inter）與 prendre（抓住、採取，源自拉丁語 prehendere）結合而成。歷史原義為「展開或承擔的大膽計劃」，演變為商業「企業」及個人「進取精神」。",
+      "definition": "1. A project or undertaking, typically one that is difficult or requires energy; a business or company.; 2. Readiness to embark on new ventures; initiative and resourcefulness.",
+      "example": [
+        {
+          "eng": "Starting a new technological enterprise involves significant financial risks.",
+          "ch": "創辦一項新的科技企業涉及重大的財務風險。"
+        },
+        {
+          "eng": "The young entrepreneur showed remarkable enterprise in building her own company.",
+          "ch": "這位年輕企業家在建立自己的公司時展現了卓越的進取精神。"
+        }
+      ]
+    },
+    {
+      "eng": "enthusiastic",
+      "kk": "ɛnˌθuziˈæstɪk",
+      "tense": "adj.",
+      "ch": [
+        [
+          "熱情的",
+          "熱忱的"
+        ]
+      ],
+      "analysis": "源自希臘語 enthousiastikos（受神靈附體或啟發的），由 en-（在內部）與 theos（神）結合而成的名詞 entheos 衍生而來。歷史語義從「神明附體帶來的狂熱靈感」轉變為現代世俗意義上的「充滿熱情與強烈興趣」。",
+      "definition": "1. Having or showing intense and eager enjoyment, interest, or approval.",
+      "example": [
+        {
+          "eng": "The children were extremely enthusiastic about the upcoming school trip to the zoo.",
+          "ch": "孩子們對即將到來的學校動物園之旅感到非常熱情。"
+        }
+      ]
+    },
+    {
+      "eng": "entitle",
+      "kk": "ɪnˈtaɪtəl",
+      "tense": "vt.",
+      "ch": [
+        [
+          "賦予權利",
+          "使享有資格"
+        ],
+        [
+          "給予標題",
+          "為……命名"
+        ]
+      ],
+      "analysis": "源自古法語 entituler，由 en-（使成為）與 title（頭銜、標題，源自拉丁語 titulus）結合而成。歷史演變出兩個分支：一是給予合法「標題/書名」，二是給予法律或地位上的「權利或資格」。",
+      "definition": "1. To give someone a legal right or a just claim to receive or do something.; 2. To give a book, article, or piece of work a particular title.",
+      "example": [
+        {
+          "eng": "A full-time contract will entitle employees to paid medical leave and pensions.",
+          "ch": "全職合約將使員工享有帶薪醫療假與退休金的權利。"
+        },
+        {
+          "eng": "The author decided to entitle her new novel 'The Silent Sea'.",
+          "ch": "作者決定將她的新小說命名為《沉默之海》。"
+        }
+      ]
+    },
+    {
+      "eng": "entity",
+      "kk": "ˈɛntəti",
+      "tense": "n.",
+      "ch": [
+        [
+          "實體",
+          "獨立存在物"
+        ]
+      ],
+      "analysis": "源自中世紀拉丁語 entitas（存在、本質），由拉丁語 ens（存在者的分詞形式，源自 esse 是）加上抽象名詞字尾 -ity 構成。指具有獨立、客觀存在特性的事物或法人組織。",
+      "definition": "1. A thing with distinct and independent existence, whether physical, spiritual, or legal.",
+      "example": [
+        {
+          "eng": "The parent company divided its retail division into a separate legal entity.",
+          "ch": "母公司將其零售部門分割為一個獨立的法律實體。"
+        }
+      ]
+    },
+    {
+      "eng": "entrepreneur",
+      "kk": "ˌɑntrəprəˈnɜr",
+      "tense": "n.",
+      "ch": [
+        [
+          "企業家",
+          "創業者"
+        ]
+      ],
+      "analysis": "直接借自法語 entrepreneur（承包商、創辦者），由 entreprendre（承擔、著手，由 entre- 在間 + prendre 抓取）衍生而來。在經濟學中專指冒險開創事業、承擔商業風險的人。",
+      "definition": "1. A person who sets up a business or businesses, taking on financial risks in the hope of profit.",
+      "example": [
+        {
+          "eng": "Successful tech entrepreneurs often invest their wealth in innovative startup companies.",
+          "ch": "成功的科技企業家經常將他們的財富投資於創新的新創公司。"
+        }
+      ]
+    },
+    {
+      "eng": "envious",
+      "kk": "ˈɛnviəs",
+      "tense": "adj.",
+      "ch": [
+        [
+          "嫉妒的",
+          "羨慕的"
+        ]
+      ],
+      "analysis": "源自古法語 envious，根源於拉丁語 invidia（嫉妒，由 in- 向著 + videre 看，字面義為「惡意注視」）。經由形容詞字尾 -ous 構成，指對他人的成就或所有物感到羨慕或嫉妒。",
+      "definition": "1. Feeling or showing envy of someone or their achievements, advantages, or possessions.",
+      "example": [
+        {
+          "eng": "She felt slightly envious of her colleague who won the promotion.",
+          "ch": "她對獲得升遷的同事感到有點羨慕。"
+        }
+      ]
+    },
+    {
+      "eng": "envision",
+      "kk": "ɪnˈvɪʒən",
+      "tense": "vt.",
+      "ch": [
+        [
+          "預想",
+          "設想",
+          "展望"
+        ]
+      ],
+      "analysis": "現代透明構詞，由字首 en-（使成為）與名詞 vision（視力、遠見，源自拉丁語 videre）結合而成。指在心智中想像、預見未來可能發生的情景。",
+      "definition": "1. To imagine as a future possibility; to visualize a scenario or outcome.",
+      "example": [
+        {
+          "eng": "Urban planners envision a city with expansive green parks and efficient public transit.",
+          "ch": "都市規劃者展望著一座擁有廣闊綠色公園與高效公共運輸的城市。"
+        }
+      ]
+    },
+    {
+      "eng": "epidemic",
+      "kk": "ˌɛpəˈdɛmɪk",
+      "tense": "n.",
+      "ch": [
+        [
+          "流行病",
+          "疫情"
+        ],
+        [
+          "（不良現象的）盛行"
+        ]
+      ],
+      "analysis": "源自希臘語 epidēmios（流行於人群中的），由 epi-（在……之上）與 dēmos（人民、群眾）結合而成。早期專指傳染病的迅速蔓延，後來引申為抽象不良社會現象（如肥胖、暴力）的大規模盛行。",
+      "definition": "1. A widespread occurrence of an infectious disease in a community at a particular time.; 2. A sudden, widespread occurrence of an undesirable phenomenon.",
+      "example": [
+        {
+          "eng": "Public health officials worked round the clock to contain the seasonal flu epidemic.",
+          "ch": "公共衛生官員日夜趕工以控制季節性流感疫情。"
+        },
+        {
+          "eng": "Doctors have expressed deep concern over the rising epidemic of youth obesity.",
+          "ch": "醫生們對青少年肥胖問題的不斷盛行表達了深深的擔憂。"
+        }
+      ]
+    },
+    {
+      "eng": "episode",
+      "kk": "ˈɛpəˌsoʊd",
+      "tense": "n.",
+      "ch": [
+        [
+          "（連續劇的）一集"
+        ],
+        [
+          "插曲",
+          "事件"
+        ]
+      ],
+      "analysis": "源自希臘語 epeisodion（古希臘戲劇中兩段合唱之間的插曲），由 epi-（在之外、額外）與 eisodos（進入，由 eis 進 + hodos 路）結合而成。歷史語義從戲劇插曲擴大為廣播電視的「集」以及人生或歷史中的「一段經歷、事件」。",
+      "definition": "1. Each of the separate parts into which a serialized television or radio program is divided.; 2. An event or a short period of time having a particular character or significance.",
+      "example": [
+        {
+          "eng": "I cannot wait to watch the final episode of the dramatic series tonight.",
+          "ch": "我等不及看今晚這部戲劇影集的最後一集了。"
+        },
+        {
+          "eng": "The minor financial crisis was just a brief episode in the company's long history.",
+          "ch": "這場小規模的金融危機只是該公司漫長歷史中的一段短暫插曲。"
+        }
+      ]
+    },
+    {
+      "eng": "equation",
+      "kk": "ɪˈkweɪʒən",
+      "tense": "n.",
+      "ch": [
+        [
+          "方程式",
+          "等式"
+        ],
+        [
+          "平衡因素",
+          "綜合考量"
+        ]
+      ],
+      "analysis": "源自拉丁語 aequatio（均等、使相等），由 aequare（使相等，源自 aequus 平等的）加上名詞字尾 -ion 構成。數學上指兩端相等的「方程式」，引申指複雜狀況中多個互相關聯因素的「綜合平衡」。",
+      "definition": "1. A mathematical statement that two expressions are equal, represented by an equals sign.; 2. A complex set of factors to be considered in a situation.",
+      "example": [
+        {
+          "eng": "Students must solve a complex quadratic equation for their mathematics homework.",
+          "ch": "學生必須為數學作業解出一道複雜的二次方程式。"
+        },
+        {
+          "eng": "Cost is an important element in the equation when buying a new car.",
+          "ch": "在買新車時，成本是需要綜合考量的一個重要因素。"
+        }
+      ]
+    },
+    {
+      "eng": "equity",
+      "kk": "ˈɛkwəti",
+      "tense": "n.",
+      "ch": [
+        [
+          "公平",
+          "公正"
+        ],
+        [
+          "資產淨值",
+          "股票權益"
+        ]
+      ],
+      "analysis": "源自拉丁語 aequitas（公平、均等），源自 aequus（平等的）。歷史上在英國法律中發展出彌補成文法不足的「衡平法」概念，現代則廣泛應用於社會「公平」以及金融市場的「股權、資產淨值」。",
+      "definition": "1. The quality of being fair and impartial.; 2. The value of the shares issued by a company; the value of a property minus debts.",
+      "example": [
+        {
+          "eng": "The organization strives for greater social equity and educational opportunity.",
+          "ch": "該組織致力於爭取更高的社會公平與教育機會。"
+        },
+        {
+          "eng": "Homeowners can borrow against the accumulated equity in their properties.",
+          "ch": "屋主可以利用其房產中累積的資產淨值進行貸款。"
+        }
+      ]
+    },
+    {
+      "eng": "equivalent",
+      "kk": "ɪˈkwɪvələnt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "相等的",
+          "等值的"
+        ],
+        [
+          "相當的",
+          "等同的"
+        ]
+      ],
+      "analysis": "源自拉丁語 aequivalens，由 aequus（相等的）與 valere（有價值、有力量）的現在分詞組合而成。歷史原義為「具備相等價值或力量的」，現代泛指在數量、價值、意義或功能上相等的實體。",
+      "definition": "1. Equal in value, amount, function, meaning, or importance.",
+      "example": [
+        {
+          "eng": "Ten kilometers is roughly equivalent to six point two miles.",
+          "ch": "十公里大約等於六點二英里。"
+        }
+      ]
+    },
+    {
+      "eng": "erect",
+      "kk": "ɪˈrɛkt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "建造",
+          "豎立"
+        ],
+        [
+          "建立",
+          "創立"
+        ]
+      ],
+      "analysis": "源自拉丁語 erectus（直立的），為 erigere（使直立、豎起）的過去分詞，由 e-（向上）與 regere（引導、使筆直）結合而成。歷史語義從物理上的「垂直豎起建築物」引申為抽象體制或組織的「建立」。",
+      "definition": "1. To build, construct, or raise a structure such as a building, wall, or monument.; 2. To establish or create a system, institution, or framework.",
+      "example": [
+        {
+          "eng": "Workers began to erect a temporary stage for the outdoor summer concert.",
+          "ch": "工人們開始為戶外夏季音樂會搭設臨時舞台。"
+        },
+        {
+          "eng": "The state sought to erect a fair and transparent legal framework.",
+          "ch": "國家致力於建立一個公平且透明的法律體系。"
+        }
+      ]
+    },
+    {
+      "eng": "errand",
+      "kk": "ˈɛrənd",
+      "tense": "n.",
+      "ch": [
+        [
+          "差事",
+          "跑腿任務"
+        ]
+      ],
+      "analysis": "源自古英語 ærende（訊息、使命、差使），屬於日耳曼語族繼承詞。歷史語義從「受託傳遞的重要訊息」演變為現代日常生活中出門「辦理短程雜事、跑腿」的任務。",
+      "definition": "1. A short journey undertaken in order to deliver a message, collect goods, or perform a specific task.",
+      "example": [
+        {
+          "eng": "She left the office early to run a few personal errands before closing time.",
+          "ch": "她在打烊前早點離開辦公室去辦幾件個人雜事。"
+        }
+      ]
+    },
+    {
+      "eng": "erupt",
+      "kk": "ɪˈrʌpt",
+      "tense": "vi.",
+      "ch": [
+        [
+          "爆發",
+          "噴發"
+        ],
+        [
+          "（暴力或情緒）突然發作"
+        ]
+      ],
+      "analysis": "源自拉丁語 eruptus，為 erumpere（打破並湧出）的過去分詞，由 e-（向外）與 rumpere（打破、破裂）組成。歷史語義從火山岩漿的「噴發」引申出衝突、歡呼或疾病的「突然爆發」。",
+      "definition": "1. To break out suddenly and dramatically, such as lava from a volcano.; 2. To start suddenly and with violence, such as a war, dispute, or loud noise.",
+      "example": [
+        {
+          "eng": "The volcano began to erupt, sending clouds of ash high into the atmosphere.",
+          "ch": "火山開始噴發，將滾滾火山灰送入高空大氣層。"
+        },
+        {
+          "eng": "Protests erupted in the capital city following the controversial election results.",
+          "ch": "在具爭議性的選舉結果公布後，首都爆發了抗議活動。"
+        }
+      ]
+    },
+    {
+      "eng": "escalator",
+      "kk": "ˈɛskəˌleɪtər",
+      "tense": "n.",
+      "ch": [
+        [
+          "手扶梯",
+          "自動電梯"
+        ]
+      ],
+      "analysis": "現代造詞，由動詞 escalate（逐步升高，源自拉丁語 scala 梯子）加上表示器具的字尾 -or 構成。最初作為商標名稱，後來成為商業大樓與地鐵站中「自動手扶梯」的通用名詞。",
+      "definition": "1. A moving staircase consisting of an endlessly circulating belt of steps, used for carrying people between floors.",
+      "example": [
+        {
+          "eng": "Please stand on the right side of the escalator and walk on the left.",
+          "ch": "請站在手扶梯的右側，在左側行走。"
+        }
+      ]
+    },
+    {
+      "eng": "essence",
+      "kk": "ˈɛsəns",
+      "tense": "n.",
+      "ch": [
+        [
+          "本質",
+          "精髓"
+        ],
+        [
+          "精油",
+          "香精"
+        ]
+      ],
+      "analysis": "源自拉丁語 essentia（存在、本質），由 esse（是）衍生而來。哲學上指事物不可或缺的內在「本質、精髓」，在日用與美妝語境中則指植物萃取出的「精華、香精」。",
+      "definition": "1. The intrinsic nature or indispensable quality of something that determines its character.; 2. An extract or concentrate obtained from a plant or other substance, retaining its fragrance or flavor.",
+      "example": [
+        {
+          "eng": "Freedom of speech is the very essence of a democratic society.",
+          "ch": "言論自由是民主社會的真正本質。"
+        },
+        {
+          "eng": "A few drops of vanilla essence were added to enhance the flavor of the cake.",
+          "ch": "加入幾滴香草精來增添蛋糕的風味。"
+        }
+      ]
+    }
+  ]
+}

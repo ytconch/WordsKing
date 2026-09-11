@@ -1,0 +1,192 @@
+{
+  "sourcePptx": "C:\\Users\\ytcon\\server\\server\\WordsKingServer\\deliverables\\Words_King_特殊選才專案報告_詹秉睿.pptx",
+  "workspace": "C:\\Users\\ytcon\\server\\server\\WordsKingServer\\.codex-temp\\author-voice-deck",
+  "outDir": "C:\\Users\\ytcon\\server\\server\\WordsKingServer\\.codex-temp\\author-voice-deck\\template-inspect",
+  "generatedAt": "2026-08-15T14:32:27.447Z",
+  "slideCount": 15,
+  "slideArtifacts": [
+    {
+      "slide": 1,
+      "previewPath": "C:\\Users\\ytcon\\server\\server\\WordsKingServer\\.codex-temp\\author-voice-deck\\template-inspect\\source-slides\\source-slide-01.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-01.png",
+      "layoutPath": "C:\\Users\\ytcon\\server\\server\\WordsKingServer\\.codex-temp\\author-voice-deck\\template-inspect\\layouts\\source-slide-01.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-01.layout.json"
+    },
+    {
+      "slide": 2,
+      "previewPath": "C:\\Users\\ytcon\\server\\server\\WordsKingServer\\.codex-temp\\author-voice-deck\\template-inspect\\source-slides\\source-slide-02.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-02.png",
+      "layoutPath": "C:\\Users\\ytcon\\server\\server\\WordsKingServer\\.codex-temp\\author-voice-deck\\template-inspect\\layouts\\source-slide-02.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-02.layout.json"
+    },
+    {
+      "slide": 3,
+      "previewPath": "C:\\Users\\ytcon\\server\\server\\WordsKingServer\\.codex-temp\\author-voice-deck\\template-inspect\\source-slides\\source-slide-03.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-03.png",
+      "layoutPath": "C:\\Users\\ytcon\\server\\server\\WordsKingServer\\.codex-temp\\author-voice-deck\\template-inspect\\layouts\\source-slide-03.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-03.layout.json"
+    },
+    {
+      "slide": 4,
+      "previewPath": "C:\\Users\\ytcon\\server\\server\\WordsKingServer\\.codex-temp\\author-voice-deck\\template-inspect\\source-slides\\source-slide-04.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-04.png",
+      "layoutPath": "C:\\Users\\ytcon\\server\\server\\WordsKingServer\\.codex-temp\\author-voice-deck\\template-inspect\\layouts\\source-slide-04.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-04.layout.json"
+    },
+    {
+      "slide": 5,
+      "previewPath": "C:\\Users\\ytcon\\server\\server\\WordsKingServer\\.codex-temp\\author-voice-deck\\template-inspect\\source-slides\\source-slide-05.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-05.png",
+      "layoutPath": "C:\\Users\\ytcon\\server\\server\\WordsKingServer\\.codex-temp\\author-voice-deck\\template-inspect\\layouts\\source-slide-05.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-05.layout.json"
+    },
+    {
+      "slide": 6,
+      "previewPath": "C:\\Users\\ytcon\\server\\server\\WordsKingServer\\.codex-temp\\author-voice-deck\\template-inspect\\source-slides\\source-slide-06.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-06.png",
+      "layoutPath": "C:\\Users\\ytcon\\server\\server\\WordsKingServer\\.codex-temp\\author-voice-deck\\template-inspect\\layouts\\source-slide-06.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-06.layout.json"
+    },
+    {
+      "slide": 7,
+      "previewPath": "C:\\Users\\ytcon\\server\\server\\WordsKingServer\\.codex-temp\\author-voice-deck\\template-inspect\\source-slides\\source-slide-07.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-07.png",
+      "layoutPath": "C:\\Users\\ytcon\\server\\server\\WordsKingServer\\.codex-temp\\author-voice-deck\\template-inspect\\layouts\\source-slide-07.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-07.layout.json"
+    },
+    {
+      "slide": 8,
+      "previewPath": "C:\\Users\\ytcon\\server\\server\\WordsKingServer\\.codex-temp\\author-voice-deck\\template-inspect\\source-slides\\source-slide-08.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-08.png",
+      "layoutPath": "C:\\Users\\ytcon\\server\\server\\WordsKingServer\\.codex-temp\\author-voice-deck\\template-inspect\\layouts\\source-slide-08.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-08.layout.json"
+    },
+    {
+      "slide": 9,
+      "previewPath": "C:\\Users\\ytcon\\server\\server\\WordsKingServer\\.codex-temp\\author-voice-deck\\template-inspect\\source-slides\\source-slide-09.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-09.png",
+      "layoutPath": "C:\\Users\\ytcon\\server\\server\\WordsKingServer\\.codex-temp\\author-voice-deck\\template-inspect\\layouts\\source-slide-09.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-09.layout.json"
+    },
+    {
+      "slide": 10,
+      "previewPath": "C:\\Users\\ytcon\\server\\server\\WordsKingServer\\.codex-temp\\author-voice-deck\\template-inspect\\source-slides\\source-slide-10.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-10.png",
+      "layoutPath": "C:\\Users\\ytcon\\server\\server\\WordsKingServer\\.codex-temp\\author-voice-deck\\template-inspect\\layouts\\source-slide-10.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-10.layout.json"
+    },
+    {
+      "slide": 11,
+      "previewPath": "C:\\Users\\ytcon\\server\\server\\WordsKingServer\\.codex-temp\\author-voice-deck\\template-inspect\\source-slides\\source-slide-11.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-11.png",
+      "layoutPath": "C:\\Users\\ytcon\\server\\server\\WordsKingServer\\.codex-temp\\author-voice-deck\\template-inspect\\layouts\\source-slide-11.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-11.layout.json"
+    },
+    {
+      "slide": 12,
+      "previewPath": "C:\\Users\\ytcon\\server\\server\\WordsKingServer\\.codex-temp\\author-voice-deck\\template-inspect\\source-slides\\source-slide-12.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-12.png",
+      "layoutPath": "C:\\Users\\ytcon\\server\\server\\WordsKingServer\\.codex-temp\\author-voice-deck\\template-inspect\\layouts\\source-slide-12.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-12.layout.json"
+    },
+    {
+      "slide": 13,
+      "previewPath": "C:\\Users\\ytcon\\server\\server\\WordsKingServer\\.codex-temp\\author-voice-deck\\template-inspect\\source-slides\\source-slide-13.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-13.png",
+      "layoutPath": "C:\\Users\\ytcon\\server\\server\\WordsKingServer\\.codex-temp\\author-voice-deck\\template-inspect\\layouts\\source-slide-13.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-13.layout.json"
+    },
+    {
+      "slide": 14,
+      "previewPath": "C:\\Users\\ytcon\\server\\server\\WordsKingServer\\.codex-temp\\author-voice-deck\\template-inspect\\source-slides\\source-slide-14.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-14.png",
+      "layoutPath": "C:\\Users\\ytcon\\server\\server\\WordsKingServer\\.codex-temp\\author-voice-deck\\template-inspect\\layouts\\source-slide-14.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-14.layout.json"
+    },
+    {
+      "slide": 15,
+      "previewPath": "C:\\Users\\ytcon\\server\\server\\WordsKingServer\\.codex-temp\\author-voice-deck\\template-inspect\\source-slides\\source-slide-15.png",
+      "previewRelativePath": "template-inspect/source-slides/source-slide-15.png",
+      "layoutPath": "C:\\Users\\ytcon\\server\\server\\WordsKingServer\\.codex-temp\\author-voice-deck\\template-inspect\\layouts\\source-slide-15.layout.json",
+      "layoutRelativePath": "template-inspect/layouts/source-slide-15.layout.json"
+    }
+  ],
+  "inspectPath": "C:\\Users\\ytcon\\server\\server\\WordsKingServer\\.codex-temp\\author-voice-deck\\template-inspect\\template-inspect.ndjson",
+  "inspectRelativePath": "template-inspect/template-inspect.ndjson",
+  "inspectTruncated": true,
+  "inspectMetadata": {
+    "revision": "r3gq0z",
+    "target": {
+      "id": "pr/fyzs7g"
+    },
+    "kind": {
+      "requested": "slide,textbox,shape,image,table,chart",
+      "tokens": [
+        "slide",
+        "textbox",
+        "shape",
+        "image",
+        "table",
+        "chart"
+      ]
+    },
+    "include": {
+      "tokens": []
+    },
+    "exclude": {
+      "tokens": []
+    },
+    "notices": []
+  },
+  "extractedMedia": [
+    {
+      "entry": "ppt/media/image.png",
+      "path": "C:\\Users\\ytcon\\server\\server\\WordsKingServer\\.codex-temp\\author-voice-deck\\template-inspect\\assets\\ppt\\media\\image.png",
+      "relativePath": "template-inspect/assets/ppt/media/image.png",
+      "bytes": 313569
+    },
+    {
+      "entry": "ppt/media/image.jpeg",
+      "path": "C:\\Users\\ytcon\\server\\server\\WordsKingServer\\.codex-temp\\author-voice-deck\\template-inspect\\assets\\ppt\\media\\image.jpeg",
+      "relativePath": "template-inspect/assets/ppt/media/image.jpeg",
+      "bytes": 41379
+    },
+    {
+      "entry": "ppt/media/image2.jpeg",
+      "path": "C:\\Users\\ytcon\\server\\server\\WordsKingServer\\.codex-temp\\author-voice-deck\\template-inspect\\assets\\ppt\\media\\image2.jpeg",
+      "relativePath": "template-inspect/assets/ppt/media/image2.jpeg",
+      "bytes": 67805
+    },
+    {
+      "entry": "ppt/media/image3.jpeg",
+      "path": "C:\\Users\\ytcon\\server\\server\\WordsKingServer\\.codex-temp\\author-voice-deck\\template-inspect\\assets\\ppt\\media\\image3.jpeg",
+      "relativePath": "template-inspect/assets/ppt/media/image3.jpeg",
+      "bytes": 32302
+    },
+    {
+      "entry": "ppt/media/image4.jpeg",
+      "path": "C:\\Users\\ytcon\\server\\server\\WordsKingServer\\.codex-temp\\author-voice-deck\\template-inspect\\assets\\ppt\\media\\image4.jpeg",
+      "relativePath": "template-inspect/assets/ppt/media/image4.jpeg",
+      "bytes": 45945
+    },
+    {
+      "entry": "ppt/media/image5.jpeg",
+      "path": "C:\\Users\\ytcon\\server\\server\\WordsKingServer\\.codex-temp\\author-voice-deck\\template-inspect\\assets\\ppt\\media\\image5.jpeg",
+      "relativePath": "template-inspect/assets/ppt/media/image5.jpeg",
+      "bytes": 30405
+    }
+  ],
+  "fonts": [
+    "+mj-lt",
+    "+mn-lt",
+    "Calibri",
+    "Calibri Light",
+    "Microsoft JhengHei"
+  ],
+  "packageParts": {
+    "mediaCount": 6,
+    "slideXmlCount": 15,
+    "chartCount": 0,
+    "tableSlideCount": 0
+  }
+}

@@ -1,0 +1,1466 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/rdd356",
+    "id": "rdd356",
+    "slide": 6,
+    "layoutId": "/ppt/slideLayouts/slideLayout1.xml",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#F6F8F2",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "fontScheme": {
+      "name": "Office",
+      "majorFont": {
+        "latinTypeface": "Calibri Light",
+        "eastAsianTypeface": "Calibri Light",
+        "complexScriptTypeface": "Calibri Light"
+      },
+      "minorFont": {
+        "latinTypeface": "Calibri",
+        "eastAsianTypeface": "Calibri",
+        "complexScriptTypeface": "Calibri"
+      }
+    },
+    "typefaces": [
+      "Calibri",
+      "Calibri Light",
+      "Microsoft JhengHei"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "/ppt/slideLayouts/slideLayout1.xml",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "/ppt/slideMasters/slideMaster1.xml",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "/ppt/slideMasters/slideMaster1.xml",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/xovepsfa",
+      "id": "28",
+      "name": "top-rule-6",
+      "bbox": [
+        0,
+        0,
+        1280,
+        10
+      ],
+      "geometry": "rect",
+      "fillColor": "#315F45",
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/p0n6lkfi",
+      "id": "2",
+      "name": "section-6",
+      "bbox": [
+        72,
+        38,
+        360,
+        24
+      ],
+      "geometry": "rect",
+      "text": "ENGINEERING",
+      "textPreview": "ENGINEERING",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "ENGINEERING"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "ENGINEERING",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "typeface": "Microsoft JhengHei",
+            "color": "#315F45",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "ENGINEERING",
+              "fontSize": 15,
+              "typeface": "Microsoft JhengHei",
+              "color": "#315F45",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ozepcfex",
+      "id": "3",
+      "name": "title-6",
+      "bbox": [
+        72,
+        72,
+        1136,
+        62
+      ],
+      "geometry": "rect",
+      "text": "這是一個完整系統，而不是單頁展示",
+      "textPreview": "這是一個完整系統，而不是單頁展示",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "這是一個完整系統，而不是單頁展示"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "這是一個完整系統，而不是單頁展示",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "fontSize": 43,
+            "typeface": "Microsoft JhengHei",
+            "color": "#1F2D25",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "這是一個完整系統，而不是單頁展示",
+              "fontSize": 43,
+              "typeface": "Microsoft JhengHei",
+              "color": "#1F2D25",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/b2ponaxo",
+      "id": "4",
+      "name": "subtitle-6",
+      "bbox": [
+        72,
+        132,
+        1136,
+        32
+      ],
+      "geometry": "rect",
+      "text": "從使用者操作到資料留存、內容匯入與維運，我必須同時處理多個責任邊界。",
+      "textPreview": "從使用者操作到資料留存、內容匯入與維運，我必須同時處理多個責任邊界。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "從使用者操作到資料留存、內容匯入與維運，我必須同時處理多個責任邊界。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "從使用者操作到資料留存、內容匯入與維運，我必須同時處理多個責任邊界。",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "typeface": "Microsoft JhengHei",
+            "color": "#5D6B62",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "從使用者操作到資料留存、內容匯入與維運，我必須同時處理多個責任邊界。",
+              "fontSize": 20,
+              "typeface": "Microsoft JhengHei",
+              "color": "#5D6B62"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/a1g7e5w3",
+      "id": "5",
+      "name": "footer-brand-6",
+      "bbox": [
+        72,
+        686,
+        360,
+        18
+      ],
+      "geometry": "rect",
+      "text": "WORDS KING · 詹秉睿",
+      "textPreview": "WORDS KING · 詹秉睿",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "WORDS KING · 詹秉睿"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "WORDS KING · 詹秉睿",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "typeface": "Microsoft JhengHei",
+            "color": "#5D6B62",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "WORDS KING · 詹秉睿",
+              "fontSize": 13,
+              "typeface": "Microsoft JhengHei",
+              "color": "#5D6B62",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/x47qpkfu",
+      "id": "6",
+      "name": "footer-page-6",
+      "bbox": [
+        1170,
+        686,
+        38,
+        18
+      ],
+      "geometry": "rect",
+      "text": "06",
+      "textPreview": "06",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "06"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "06",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "typeface": "Microsoft JhengHei",
+            "color": "#5D6B62",
+            "bold": true,
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "06",
+              "fontSize": 13,
+              "typeface": "Microsoft JhengHei",
+              "color": "#5D6B62",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/c3ypgfe9",
+      "id": "7",
+      "name": "arch-link-1",
+      "bbox": [
+        338,
+        330,
+        90,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#CBD6C7",
+      "lineWidth": 4
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/z6p8ruxk",
+      "id": "8",
+      "name": "arch-link-2",
+      "bbox": [
+        788,
+        330,
+        90,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#CBD6C7",
+      "lineWidth": 4
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/y5g7ipwz",
+      "id": "9",
+      "name": "arch-0-bg",
+      "bbox": [
+        76,
+        210,
+        262,
+        326
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#CBD6C7",
+      "lineWidth": 1
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4rqxw7ml",
+      "id": "10",
+      "name": "arch-0-top",
+      "bbox": [
+        76,
+        210,
+        262,
+        12
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#102B4E",
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/psze5sn6",
+      "id": "11",
+      "name": "arch-0-icon",
+      "bbox": [
+        104,
+        250,
+        58,
+        58
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#DDE7F2",
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2p8fax4f",
+      "id": "12",
+      "name": "arch-0-num",
+      "bbox": [
+        104,
+        266,
+        58,
+        24
+      ],
+      "geometry": "rect",
+      "text": "01",
+      "textPreview": "01",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "01"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "01",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "typeface": "Microsoft JhengHei",
+            "color": "#102B4E",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "01",
+              "fontSize": 17,
+              "typeface": "Microsoft JhengHei",
+              "color": "#102B4E",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3qhw3250",
+      "id": "13",
+      "name": "arch-0-title",
+      "bbox": [
+        104,
+        336,
+        206,
+        44
+      ],
+      "geometry": "rect",
+      "text": "使用者體驗",
+      "textPreview": "使用者體驗",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "使用者體驗"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "使用者體驗",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "fontSize": 27,
+            "typeface": "Microsoft JhengHei",
+            "color": "#1F2D25",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "使用者體驗",
+              "fontSize": 27,
+              "typeface": "Microsoft JhengHei",
+              "color": "#1F2D25",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cvqx07mx",
+      "id": "14",
+      "name": "arch-0-items",
+      "bbox": [
+        104,
+        404,
+        206,
+        110
+      ],
+      "geometry": "rect",
+      "text": "單字庫\n多模式練習\n趨勢與排行榜",
+      "textPreview": "單字庫 | 多模式練習 | 趨勢與排行榜",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "單字庫"
+          },
+          {
+            "index": 2,
+            "text": "多模式練習"
+          },
+          {
+            "index": 3,
+            "text": "趨勢與排行榜"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "單字庫",
+          "lineSpacingPercent": 142000,
+          "resolvedTextStyle": {
+            "fontSize": 19,
+            "typeface": "Microsoft JhengHei",
+            "color": "#5D6B62",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "單字庫",
+              "fontSize": 19,
+              "typeface": "Microsoft JhengHei",
+              "color": "#5D6B62"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "多模式練習",
+          "lineSpacingPercent": 142000,
+          "resolvedTextStyle": {
+            "fontSize": 19,
+            "typeface": "Microsoft JhengHei",
+            "color": "#5D6B62",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "多模式練習",
+              "fontSize": 19,
+              "typeface": "Microsoft JhengHei",
+              "color": "#5D6B62"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "趨勢與排行榜",
+          "lineSpacingPercent": 142000,
+          "resolvedTextStyle": {
+            "fontSize": 19,
+            "typeface": "Microsoft JhengHei",
+            "color": "#5D6B62",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "趨勢與排行榜",
+              "fontSize": 19,
+              "typeface": "Microsoft JhengHei",
+              "color": "#5D6B62"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dwje9cn2",
+      "id": "15",
+      "name": "arch-1-bg",
+      "bbox": [
+        428,
+        210,
+        360,
+        326
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#CBD6C7",
+      "lineWidth": 1
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qt8fyx4r",
+      "id": "16",
+      "name": "arch-1-top",
+      "bbox": [
+        428,
+        210,
+        360,
+        12
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#315F45",
+      "lineWidth": 0
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ruhw725c",
+      "id": "17",
+      "name": "arch-1-icon",
+      "bbox": [
+        456,
+        250,
+        58,
+        58
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#DDE9D4",
+      "lineWidth": 0
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0zax4rmt",
+      "id": "18",
+      "name": "arch-1-num",
+      "bbox": [
+        456,
+        266,
+        58,
+        24
+      ],
+      "geometry": "rect",
+      "text": "02",
+      "textPreview": "02",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "02"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "02",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "typeface": "Microsoft JhengHei",
+            "color": "#315F45",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "02",
+              "fontSize": 17,
+              "typeface": "Microsoft JhengHei",
+              "color": "#315F45",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lkjydcne",
+      "id": "19",
+      "name": "arch-1-title",
+      "bbox": [
+        456,
+        336,
+        304,
+        44
+      ],
+      "geometry": "rect",
+      "text": "服務與資料",
+      "textPreview": "服務與資料",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "服務與資料"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "服務與資料",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "fontSize": 27,
+            "typeface": "Microsoft JhengHei",
+            "color": "#1F2D25",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "服務與資料",
+              "fontSize": 27,
+              "typeface": "Microsoft JhengHei",
+              "color": "#1F2D25",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9gfexcvi",
+      "id": "20",
+      "name": "arch-1-items",
+      "bbox": [
+        456,
+        404,
+        304,
+        110
+      ],
+      "geometry": "rect",
+      "text": "Express API／JWT 權限\nSQLite 三庫分工\n學習同步、通知、日誌",
+      "textPreview": "Express API／JWT 權限 | SQLite 三庫分工 | 學習同步、通知、日誌",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "Express API／JWT 權限"
+          },
+          {
+            "index": 2,
+            "text": "SQLite 三庫分工"
+          },
+          {
+            "index": 3,
+            "text": "學習同步、通知、日誌"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "Express API／JWT 權限",
+          "lineSpacingPercent": 142000,
+          "resolvedTextStyle": {
+            "fontSize": 19,
+            "typeface": "Microsoft JhengHei",
+            "color": "#5D6B62",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Express API／JWT 權限",
+              "fontSize": 19,
+              "typeface": "Microsoft JhengHei",
+              "color": "#5D6B62"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "SQLite 三庫分工",
+          "lineSpacingPercent": 142000,
+          "resolvedTextStyle": {
+            "fontSize": 19,
+            "typeface": "Microsoft JhengHei",
+            "color": "#5D6B62",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "SQLite 三庫分工",
+              "fontSize": 19,
+              "typeface": "Microsoft JhengHei",
+              "color": "#5D6B62"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "學習同步、通知、日誌",
+          "lineSpacingPercent": 142000,
+          "resolvedTextStyle": {
+            "fontSize": 19,
+            "typeface": "Microsoft JhengHei",
+            "color": "#5D6B62",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "學習同步、通知、日誌",
+              "fontSize": 19,
+              "typeface": "Microsoft JhengHei",
+              "color": "#5D6B62"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8f6xo7ex",
+      "id": "21",
+      "name": "arch-2-bg",
+      "bbox": [
+        878,
+        210,
+        326,
+        326
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#FFFFFF",
+      "lineColor": "#CBD6C7",
+      "lineWidth": 1
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7exwvmxc",
+      "id": "22",
+      "name": "arch-2-top",
+      "bbox": [
+        878,
+        210,
+        326,
+        12
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#8B641F",
+      "lineWidth": 0
+    },
+    {
+      "order": 23,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mdofmhwr",
+      "id": "23",
+      "name": "arch-2-icon",
+      "bbox": [
+        906,
+        250,
+        58,
+        58
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#F4E9D1",
+      "lineWidth": 0
+    },
+    {
+      "order": 24,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hkze1wve",
+      "id": "24",
+      "name": "arch-2-num",
+      "bbox": [
+        906,
+        266,
+        58,
+        24
+      ],
+      "geometry": "rect",
+      "text": "03",
+      "textPreview": "03",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "03"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "03",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "typeface": "Microsoft JhengHei",
+            "color": "#8B641F",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "03",
+              "fontSize": 17,
+              "typeface": "Microsoft JhengHei",
+              "color": "#8B641F",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 25,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wjqxsre9",
+      "id": "25",
+      "name": "arch-2-title",
+      "bbox": [
+        906,
+        336,
+        270,
+        44
+      ],
+      "geometry": "rect",
+      "text": "內容與維運",
+      "textPreview": "內容與維運",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "內容與維運"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "內容與維運",
+          "lineSpacingPercent": 100000,
+          "resolvedTextStyle": {
+            "fontSize": 27,
+            "typeface": "Microsoft JhengHei",
+            "color": "#1F2D25",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "內容與維運",
+              "fontSize": 27,
+              "typeface": "Microsoft JhengHei",
+              "color": "#1F2D25",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 26,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vihwzmdo",
+      "id": "26",
+      "name": "arch-2-items",
+      "bbox": [
+        906,
+        404,
+        270,
+        110
+      ],
+      "geometry": "rect",
+      "text": "OCR／Gemini 匯入\n管理後台與人工審核\n發音快取與 fallback",
+      "textPreview": "OCR／Gemini 匯入 | 管理後台與人工審核 | 發音快取與 fallback",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "OCR／Gemini 匯入"
+          },
+          {
+            "index": 2,
+            "text": "管理後台與人工審核"
+          },
+          {
+            "index": 3,
+            "text": "發音快取與 fallback"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "OCR／Gemini 匯入",
+          "lineSpacingPercent": 142000,
+          "resolvedTextStyle": {
+            "fontSize": 19,
+            "typeface": "Microsoft JhengHei",
+            "color": "#5D6B62",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "OCR／Gemini 匯入",
+              "fontSize": 19,
+              "typeface": "Microsoft JhengHei",
+              "color": "#5D6B62"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "管理後台與人工審核",
+          "lineSpacingPercent": 142000,
+          "resolvedTextStyle": {
+            "fontSize": 19,
+            "typeface": "Microsoft JhengHei",
+            "color": "#5D6B62",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "管理後台與人工審核",
+              "fontSize": 19,
+              "typeface": "Microsoft JhengHei",
+              "color": "#5D6B62"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "發音快取與 fallback",
+          "lineSpacingPercent": 142000,
+          "resolvedTextStyle": {
+            "fontSize": 19,
+            "typeface": "Microsoft JhengHei",
+            "color": "#5D6B62",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "發音快取與 fallback",
+              "fontSize": 19,
+              "typeface": "Microsoft JhengHei",
+              "color": "#5D6B62"
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 27,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/uhofqhw3",
+      "id": "27",
+      "name": "architecture-conclusion",
+      "bbox": [
+        110,
+        576,
+        1060,
+        48
+      ],
+      "geometry": "rect",
+      "text": "真正的挑戰不是『會不會寫一頁』，而是讓資料、權限、錯誤與使用流程能一起運作。",
+      "textPreview": "真正的挑戰不是『會不會寫一頁』，而是讓資料、權限、錯誤與使用流程能一起運作。",
+      "resolvedFontSize": 24,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 24,
+        "typeface": "Calibri",
+        "color": "tx1",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "真正的挑戰不是『會不會寫一頁』，而是讓資料、權限、錯誤與使用流程能一起運作。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "真正的挑戰不是『會不會寫一頁』，而是讓資料、權限、錯誤與使用流程能一起運作。",
+          "lineSpacingPercent": 110000,
+          "resolvedTextStyle": {
+            "fontSize": 23,
+            "typeface": "Microsoft JhengHei",
+            "color": "#315F45",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "真正的挑戰不是『會不會寫一頁』，而是讓資料、權限、錯誤與使用流程能一起運作。",
+              "fontSize": 23,
+              "typeface": "Microsoft JhengHei",
+              "color": "#315F45",
+              "bold": true
+            }
+          ],
+          "bulletCharacter": "",
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

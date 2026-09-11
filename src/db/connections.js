@@ -4,6 +4,8 @@ const { dbPaths } = require("../config");
 function createDatabase(filePath) {
   const db = new sqlite3.Database(filePath);
   db.serialize(() => {
+    db.run("PRAGMA journal_mode = WAL");
+    db.run("PRAGMA synchronous = NORMAL");
     db.run("PRAGMA foreign_keys = ON");
   });
 

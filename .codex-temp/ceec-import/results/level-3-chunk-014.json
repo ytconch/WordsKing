@@ -1,0 +1,1562 @@
+{
+  "level": 3,
+  "chunkIndex": 14,
+  "inputs": [
+    "pile",
+    "pill",
+    "pilot",
+    "pine",
+    "pineapple",
+    "pint",
+    "pit",
+    "pitch",
+    "pity",
+    "plastic",
+    "playful",
+    "plenty",
+    "plug",
+    "pole",
+    "political",
+    "politician",
+    "politics",
+    "poll",
+    "pollute",
+    "pollution",
+    "porcelain",
+    "portion",
+    "portrait",
+    "poster",
+    "postpone",
+    "postponement",
+    "pottery",
+    "pour",
+    "poverty",
+    "powder",
+    "practical",
+    "precious",
+    "preparation",
+    "presence",
+    "pretend",
+    "prevent",
+    "previous",
+    "probable",
+    "process",
+    "producer",
+    "product",
+    "professor",
+    "profit",
+    "promote",
+    "pronounce",
+    "proof",
+    "property",
+    "protection",
+    "pub",
+    "pump"
+  ],
+  "rows": [
+    {
+      "eng": "pile",
+      "kk": "paɪl",
+      "tense": "n.",
+      "ch": [
+        [
+          "一堆",
+          "疊"
+        ],
+        [
+          "大量",
+          "許多"
+        ],
+        [
+          "樁",
+          "地樁"
+        ]
+      ],
+      "analysis": "此字為現代透明單字，歷史上經由中古英語從古法語 pile（意為「柱、塔、堆」），最終源自拉丁語 pila（意為「柱子、石墩」）。名詞主要指疊放起來的一堆物體，引申為大量的抽象概念，或指建築工程中打入地下的支撐樁。",
+      "definition": "1. a mass of things heaped together; 2. a large amount or number of something; 3. a heavy stake or post driven into the ground as a foundation.",
+      "example": [
+        {
+          "eng": "There was a huge pile of laundry on the bed.",
+          "ch": "床上有一大堆待洗的衣物。"
+        },
+        {
+          "eng": "I have a pile of work to finish by tomorrow.",
+          "ch": "我有一大堆工作要在明天前完成。"
+        },
+        {
+          "eng": "The bridge is supported by concrete piles.",
+          "ch": "這座橋由混凝土樁支撐。"
+        }
+      ]
+    },
+    {
+      "eng": "pile",
+      "kk": "paɪl",
+      "tense": "vt.",
+      "ch": [
+        [
+          "堆積",
+          "疊起"
+        ],
+        [
+          "裝載",
+          "堆滿"
+        ]
+      ],
+      "analysis": "此動詞源自同形名詞 pile。及物用法指將物品一件件向上堆放，或將空間、車輛等裝載得滿滿的。",
+      "definition": "1. to put things one on top of another; 2. to load something heavily or fill a place with things.",
+      "example": [
+        {
+          "eng": "She piled the books neatly on the desk.",
+          "ch": "她把書整齊地堆在桌上。"
+        },
+        {
+          "eng": "They piled the car with luggage for the trip.",
+          "ch": "他們把行李裝滿了車子以備旅行之需。"
+        }
+      ]
+    },
+    {
+      "eng": "pill",
+      "kk": "pɪl",
+      "tense": "n.",
+      "ch": [
+        [
+          "藥丸",
+          "丸劑"
+        ],
+        [
+          "討厭的人",
+          "討厭的事物"
+        ]
+      ],
+      "analysis": "此字為現代單字，經由中古英語 pille，源自拉丁語 pilula（意為「小球」）。名詞核心義為口服的藥丸，在口語中也引申用來形容令人討厭的人或麻煩的事物。",
+      "definition": "1. a small solid piece of medicine to be swallowed; 2. an annoying or unpleasant person or thing.",
+      "example": [
+        {
+          "eng": "The doctor told me to take this pill twice a day.",
+          "ch": "醫生叫我一天吃兩次這顆藥丸。"
+        },
+        {
+          "eng": "Waiting in this long line is a real pill.",
+          "ch": "排這麼長的隊真是一件討厭的事。"
+        }
+      ]
+    },
+    {
+      "eng": "pilot",
+      "kk": "ˈpaɪlət",
+      "tense": "n.",
+      "ch": [
+        [
+          "飛行員",
+          "機師"
+        ],
+        [
+          "領航員",
+          "引水人"
+        ],
+        [
+          "試點計畫",
+          "試驗性的"
+        ]
+      ],
+      "analysis": "此字經由中古法語 pilote，源自義大利語 pilota，最終可追溯至古希臘語 pēdōn（意為「船槳」）。本義指在港口引導船隻進港的引水人，後擴大指飛機駕駛員，現代也常用作形容詞或名詞修飾語指「試點的、實驗性的」。",
+      "definition": "1. a person who operates the controls of an aircraft; 2. a person who steers a ship into or out of a port; 3. a small-scale trial or pilot project.",
+      "example": [
+        {
+          "eng": "The pilot announced that we would be landing shortly.",
+          "ch": "機長廣播宣佈我們將很快降落。"
+        },
+        {
+          "eng": "The ship required a local pilot to navigate the harbor safely.",
+          "ch": "該船需要當地引水人才能安全駛過港口。"
+        },
+        {
+          "eng": "The company launched a pilot program to test the new service.",
+          "ch": "公司推出了一項試點計畫來測試這項新服務。"
+        }
+      ]
+    },
+    {
+      "eng": "pine",
+      "kk": "paɪn",
+      "tense": "n.",
+      "ch": [
+        [
+          "松樹",
+          "松木"
+        ]
+      ],
+      "analysis": "此字源自古英語 pīn（源自拉丁語 pīnus）。指松科植物或其材質。",
+      "definition": "1. an evergreen coniferous tree with needle-shaped leaves, or its wood.",
+      "example": [
+        {
+          "eng": "Tall pine trees lined the mountain path.",
+          "ch": "高大的松樹林立在山徑兩旁。"
+        }
+      ]
+    },
+    {
+      "eng": "pine",
+      "kk": "paɪn",
+      "tense": "vi.",
+      "ch": [
+        [
+          "渴望",
+          "切望"
+        ],
+        [
+          "憔悴",
+          "因思念而日漸消瘦"
+        ]
+      ],
+      "analysis": "此動詞源自古英語 pīnian（意為「受折磨、受苦」），受拉丁語 poena（痛苦、懲罰）影響。現代主要指因極度渴望或強烈的思念而感到痛苦與消瘦。",
+      "definition": "1. to yearn intensely for something; 2. to suffer a mental decline or lose health through grief or longing.",
+      "example": [
+        {
+          "eng": "She pined for her home while studying abroad.",
+          "ch": "她在國外留學時非常渴望回到家鄉。"
+        },
+        {
+          "eng": "He pined away after his wife passed away.",
+          "ch": "他在妻子去世後因悲傷而日漸消瘦。"
+        }
+      ]
+    },
+    {
+      "eng": "pineapple",
+      "kk": "ˈpaɪnˌæpəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "鳳梨",
+          "菠蘿"
+        ]
+      ],
+      "analysis": "此複合詞由 pine（松樹，早期指松果）與 apple（蘋果，泛指圓形水果）結合而成，因其外表形似巨大的松果而得名。",
+      "definition": "1. a large juicy tropical fruit with spiky skin and yellow flesh.",
+      "example": [
+        {
+          "eng": "Fresh pineapple is sweet and refreshing.",
+          "ch": "新鮮的鳳梨香甜又清爽。"
+        }
+      ]
+    },
+    {
+      "eng": "pint",
+      "kk": "paɪnt",
+      "tense": "n.",
+      "ch": [
+        [
+          "品脫（容量單位）"
+        ]
+      ],
+      "analysis": "此字經由中古英語 pinte，透過古法語借自日耳曼語源或拉丁語 pictacium 的演變。為英美體積或液量單位。",
+      "definition": "1. a unit of capacity equal to one eighth of a gallon.",
+      "example": [
+        {
+          "eng": "He ordered a pint of beer at the pub.",
+          "ch": "他在酒吧點了一品脫啤酒。"
+        }
+      ]
+    },
+    {
+      "eng": "pit",
+      "kk": "pɪt",
+      "tense": "n.",
+      "ch": [
+        [
+          "坑",
+          "地洞"
+        ],
+        [
+          "果核"
+        ]
+      ],
+      "analysis": "此字源自古英語 pytt（意為「坑、井、水池」），源自拉丁語 puteus（水井）。名詞主要指地上的坑洞，亦可指某些水果（如桃子、櫻桃）內堅硬的果核。",
+      "definition": "1. a large natural or artificial hole in the ground; 2. the hard stone in the center of certain fruits.",
+      "example": [
+        {
+          "eng": "The car fell into a deep pit on the road.",
+          "ch": "車子掉進了路上的深坑裡。"
+        },
+        {
+          "eng": "Make sure to remove the pit before slicing the peach.",
+          "ch": "切桃子之前務必先取出果核。"
+        }
+      ]
+    },
+    {
+      "eng": "pitch",
+      "kk": "pɪtʃ",
+      "tense": "n.",
+      "ch": [
+        [
+          "投球",
+          "投擲"
+        ],
+        [
+          "音高",
+          "音調"
+        ],
+        [
+          "推銷說辭",
+          "宣傳"
+        ]
+      ],
+      "analysis": "此字與動詞 pitch 同源，源自中古英語 picchen（意為「固定、刺入」）。名詞演變出棒球中的投球動作、音樂中的音高概念，以及商業口語中的推銷說辭。",
+      "definition": "1. the act of throwing a ball in baseball; 2. the degree of highness or lowness of a tone; 3. a speech or act intended to persuade someone to buy something.",
+      "example": [
+        {
+          "eng": "The batter prepared for the next pitch.",
+          "ch": "打擊手準備迎接下一記投球。"
+        },
+        {
+          "eng": "Her voice reached a high pitch of excitement.",
+          "ch": "她的聲音達到了興奮的高音調。"
+        },
+        {
+          "eng": "He gave a convincing sales pitch for the new software.",
+          "ch": "他為這款新軟體做了一場令人信服的推銷。"
+        }
+      ]
+    },
+    {
+      "eng": "pitch",
+      "kk": "pɪtʃ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "投",
+          "擲"
+        ],
+        [
+          "搭起（帳篷）"
+        ],
+        [
+          "推銷"
+        ]
+      ],
+      "analysis": "源自中古英語 picchen。及物用法指用力投擲物體、豎立或搭設帳篷，或在商業情境中向客戶推銷產品。",
+      "definition": "1. to throw something with a certain force; 2. to set up a tent or camp; 3. to direct a sales talk at a particular audience.",
+      "example": [
+        {
+          "eng": "He pitched the ball across home plate.",
+          "ch": "他把球投越了本壘板。"
+        },
+        {
+          "eng": "We need to pitch our tents before it gets dark.",
+          "ch": "我們需要在天黑前把帳篷搭好。"
+        },
+        {
+          "eng": "The startup pitched its idea to potential investors.",
+          "ch": "這家新創公司向潛在投資者推銷了他們的構想。"
+        }
+      ]
+    },
+    {
+      "eng": "pitch",
+      "kk": "pɪtʃ",
+      "tense": "vi.",
+      "ch": [
+        [
+          "傾斜",
+          "搖晃"
+        ],
+        [
+          "投球"
+        ]
+      ],
+      "analysis": "不及物用法多指船隻或車輛等前後上下搖晃、傾斜，或在體育中擔任投手角色。",
+      "definition": "1. to plunge or dip heavily, as a ship in rough seas; 2. to act as a pitcher in baseball.",
+      "example": [
+        {
+          "eng": "The ship began to pitch in the stormy sea.",
+          "ch": "船在風暴的海面上開始上下搖晃。"
+        },
+        {
+          "eng": "He will pitch for the team in tonight's game.",
+          "ch": "他將在今晚的比賽中為球隊擔任投手。"
+        }
+      ]
+    },
+    {
+      "eng": "pity",
+      "kk": "ˈpɪti",
+      "tense": "n.",
+      "ch": [
+        [
+          "同情",
+          "憐憫"
+        ],
+        [
+          "遺憾的事",
+          "可惜"
+        ]
+      ],
+      "analysis": "此字經由中古英語 pite，源自古法語 pité，最終源自拉丁語 pietas（虔誠、仁慈、憐憫）。名詞指對他人不幸的同情心，也引申指令人感到可惜或遺憾的情況。",
+      "definition": "1. the feeling of sorrow and compassion caused by the sufferings of others; 2. a cause for regret or disappointment.",
+      "example": [
+        {
+          "eng": "She felt a deep sense of pity for the stray dog.",
+          "ch": "她對那隻流浪狗感到深深的憐憫。"
+        },
+        {
+          "eng": "It is a pity that you missed the wonderful concert.",
+          "ch": "沒能看到那場精彩的音樂會真是一大憾事。"
+        }
+      ]
+    },
+    {
+      "eng": "pity",
+      "kk": "ˈpɪti",
+      "tense": "vt.",
+      "ch": [
+        [
+          "同情",
+          "憐憫"
+        ]
+      ],
+      "analysis": "源自名詞 pity。及物用法指對某人的遭遇感到同情或憐憫。",
+      "definition": "1. to feel sorrow or compassion for someone.",
+      "example": [
+        {
+          "eng": "I pity anyone who has to work in these conditions.",
+          "ch": "我很同情任何必須在這種環境下工作的人。"
+        }
+      ]
+    },
+    {
+      "eng": "plastic",
+      "kk": "ˈplæstɪk",
+      "tense": "n.",
+      "ch": [
+        [
+          "塑膠",
+          "塑膠製品"
+        ],
+        [
+          "信用卡（口語）"
+        ]
+      ],
+      "analysis": "此字源自古希臘語 plastikos（意為「可塑造的」），經由拉丁語進入英語。名詞指人工合成的塑膠材料或製品，口語中也常代指塑膠信用卡。",
+      "definition": "1. a synthetic material made from polymers that can be molded into shape; 2. credit cards collectively.",
+      "example": [
+        {
+          "eng": "Most single-use plastics are harmful to the environment.",
+          "ch": "多數一次性塑膠製品對環境有害。"
+        },
+        {
+          "eng": "Do you take plastic, or cash only?",
+          "ch": "你們接受刷卡嗎，還是只收現金？"
+        }
+      ]
+    },
+    {
+      "eng": "plastic",
+      "kk": "ˈplæstɪk",
+      "tense": "adj.",
+      "ch": [
+        [
+          "塑膠的",
+          "塑膠製的"
+        ],
+        [
+          "可塑的",
+          "富於彈性的"
+        ]
+      ],
+      "analysis": "形容詞保留希臘語字根源意，指材質為塑膠的，或指物質具有可塑性、易於塑型的特性。",
+      "definition": "1. made of plastic; 2. easily shaped or molded.",
+      "example": [
+        {
+          "eng": "He stored the leftovers in a plastic container.",
+          "ch": "他把剩菜裝在塑膠容器裡。"
+        },
+        {
+          "eng": "Clay is a plastic material used in pottery.",
+          "ch": "黏土是製陶中常用的可塑性材料。"
+        }
+      ]
+    },
+    {
+      "eng": "playful",
+      "kk": "ˈpleɪfəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "愛玩的",
+          "嬉戲的"
+        ],
+        [
+          "幽默的",
+          "開玩笑的"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由名詞 play 加上形容詞字尾 -ful（充滿…的）組成。形容人或動物好玩、愛嬉戲，或指態度輕鬆、帶有玩笑意味。",
+      "definition": "1. fond of games and amusement; lighthearted; 2. humorous or joking in tone.",
+      "example": [
+        {
+          "eng": "The playful puppy chased its own tail.",
+          "ch": "那隻愛玩的小狗追著自己的尾巴跑。"
+        },
+        {
+          "eng": "He gave her a playful nudge on the shoulder.",
+          "ch": "他開玩笑地輕輕推了她肩膀一下。"
+        }
+      ]
+    },
+    {
+      "eng": "plenty",
+      "kk": "ˈplɛnti",
+      "tense": "n.",
+      "ch": [
+        [
+          "充足",
+          "大量",
+          "豐富"
+        ]
+      ],
+      "analysis": "此字經由中古英語 plente，源自古法語 plenté，最終源自拉丁語 plēnitūdō（完整、充滿），源自 plēnus（滿的）。名詞用來表示數量充足、豐富有餘。",
+      "definition": "1. a large or sufficient amount or quantity; more than enough.",
+      "example": [
+        {
+          "eng": "There is plenty of food for everyone at the party.",
+          "ch": "派對上有足夠的食物給每個人。"
+        }
+      ]
+    },
+    {
+      "eng": "plug",
+      "kk": "plʌg",
+      "tense": "n.",
+      "ch": [
+        [
+          "插頭"
+        ],
+        [
+          "塞子",
+          "栓"
+        ]
+      ],
+      "analysis": "此字源自低地德語或荷蘭語 plug（意為「木栓」）。名詞本義為堵住孔洞的塞子，現代引申為電器插頭。",
+      "definition": "1. a device at the end of a cord that is inserted into an electrical outlet; 2. a piece of wood or other material used to plug a hole.",
+      "example": [
+        {
+          "eng": "He pushed the plug into the wall socket.",
+          "ch": "他把插頭插進牆壁插座裡。"
+        },
+        {
+          "eng": "Remove the plug to let the water drain from the tub.",
+          "ch": "拔掉塞子讓浴缸的水流掉。"
+        }
+      ]
+    },
+    {
+      "eng": "plug",
+      "kk": "plʌg",
+      "tense": "vt.",
+      "ch": [
+        [
+          "把…插入插座"
+        ],
+        [
+          "堵塞",
+          "封住"
+        ]
+      ],
+      "analysis": "源自名詞 plug。及物用法指將電器插頭插入插座，或用塞子將孔洞堵住。",
+      "definition": "1. to connect an electrical device to a power source; 2. to block or fill up a hole or opening.",
+      "example": [
+        {
+          "eng": "Don't forget to plug in the laptop before you start.",
+          "ch": "開始工作前別忘了把筆電插上電源。"
+        },
+        {
+          "eng": "They used clay to plug the leak in the pipe.",
+          "ch": "他們用黏土堵住水管的漏水處。"
+        }
+      ]
+    },
+    {
+      "eng": "pole",
+      "kk": "poʊl",
+      "tense": "n.",
+      "ch": [
+        [
+          "竿",
+          "柱"
+        ],
+        [
+          "極（如地磁極、南北極）"
+        ]
+      ],
+      "analysis": "此字源自古英語 pāl（意為「木樁」），源自拉丁語 pālus；另一義「極點」則源自古希臘語 polos（轉轴、樞紐）。名詞主要指長形木竿或金屬竿，或科學地理上的極端位置。",
+      "definition": "1. a long, slender piece of wood or metal; 2. either of the two ends of the axis of a sphere, such as the Earth.",
+      "example": [
+        {
+          "eng": "The fisherman held a long fishing pole.",
+          "ch": "漁夫拿著一根長釣竿。"
+        },
+        {
+          "eng": "Temperatures are extremely low at the South Pole.",
+          "ch": "南極的氣溫極其寒冷。"
+        }
+      ]
+    },
+    {
+      "eng": "political",
+      "kk": "pəˈlɪtɪkəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "政治的",
+          "政治上的"
+        ]
+      ],
+      "analysis": "此字由名詞 politics 加上形容詞字尾 -al 構成（源自希臘語 politikos）。形容詞專指與政府、政治、政黨或公共事務相關的事物。",
+      "definition": "1. relating to the government, public affairs, or politics.",
+      "example": [
+        {
+          "eng": "The two candidates debated various political issues.",
+          "ch": "兩位候選人辯論了各種政治議題。"
+        }
+      ]
+    },
+    {
+      "eng": "politician",
+      "kk": "ˌpɑləˈtɪʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "政治家",
+          "政客"
+        ]
+      ],
+      "analysis": "此字由 politics 加上名詞字尾 -ian（表示從事某職業的人）構成。指從事政治活動、擔任公職的人員。",
+      "definition": "1. a person who is professionally involved in politics, especially as an elected holder of office.",
+      "example": [
+        {
+          "eng": "The politician promised to lower taxes if elected.",
+          "ch": "該政客承諾如果當選將降低稅收。"
+        }
+      ]
+    },
+    {
+      "eng": "politics",
+      "kk": "ˈpɑlətɪks",
+      "tense": "n.",
+      "ch": [
+        [
+          "政治",
+          "政治學"
+        ],
+        [
+          "政治活動",
+          "權力鬥爭"
+        ]
+      ],
+      "analysis": "此字源自古希臘語 politika（意為「城邦的事務」），經由拉丁語進入英語。雖然字尾為 -s，通常作單數動詞使用，指政治學科、政府運作或組織內部的權力競逐。",
+      "definition": "1. the activities associated with the governance of a country or area; 2. power struggles or maneuvering within an organization.",
+      "example": [
+        {
+          "eng": "She is studying modern history and politics at university.",
+          "ch": "她在大學主修現代史與政治學。"
+        },
+        {
+          "eng": "Office politics can sometimes make work stressful.",
+          "ch": "辦公室政治有時會讓工作變得很有壓力。"
+        }
+      ]
+    },
+    {
+      "eng": "poll",
+      "kk": "poʊl",
+      "tense": "n.",
+      "ch": [
+        [
+          "民意調查",
+          "民調"
+        ],
+        [
+          "投票",
+          "投票所（常用複數）"
+        ]
+      ],
+      "analysis": "此字源自中低地德語 polle（意為「頭部」），早期指計算人數時「按頭計算」，演變為統計選票與民意調查。複數 polls 常指投票站。",
+      "definition": "1. the recording of opinions or votes of a given group; 2. a place where votes are cast (usually polls).",
+      "example": [
+        {
+          "eng": "According to the latest poll, the mayor's approval rating is rising.",
+          "ch": "根據最新民調，市長的支持率正在上升。"
+        },
+        {
+          "eng": "Voters began lining up outside the polls early in the morning.",
+          "ch": "選民一大清早在投票所外排隊。"
+        }
+      ]
+    },
+    {
+      "eng": "poll",
+      "kk": "poʊl",
+      "tense": "vt.",
+      "ch": [
+        [
+          "對…進行民意調查"
+        ],
+        [
+          "獲得（選票）"
+        ]
+      ],
+      "analysis": "源自名詞 poll。及物用法指對群眾進行民意測驗，或在選舉中獲得多少選票。",
+      "definition": "1. to record the opinions or votes of; 2. to receive a specified number of votes in an election.",
+      "example": [
+        {
+          "eng": "The news station polled voters as they left the booths.",
+          "ch": "新聞台在選民離開投票亭時對他們進行了民調。"
+        },
+        {
+          "eng": "The opposition party polled well in urban districts.",
+          "ch": "反對黨在都市選區獲得了不錯的票數。"
+        }
+      ]
+    },
+    {
+      "eng": "pollute",
+      "kk": "pəˈlut",
+      "tense": "vt.",
+      "ch": [
+        [
+          "污染",
+          "弄髒"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 polluere（意為「弄髒、玷污」）。及物用法指將有害物質引入自然環境（如空氣、水、土地）中造成污染。",
+      "definition": "1. to contaminate water, air, or soil with harmful or poisonous substances.",
+      "example": [
+        {
+          "eng": "Factories should not pollute the river with chemical waste.",
+          "ch": "工廠不應該用化學廢料污染河流。"
+        }
+      ]
+    },
+    {
+      "eng": "pollution",
+      "kk": "pəˈluʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "污染",
+          "污染物"
+        ]
+      ],
+      "analysis": "此字由動詞 pollute 加上名詞字尾 -ion 構成。指環境遭受污染的現象或有害物質。",
+      "definition": "1. the presence in or introduction into the environment of a substance which has harmful or poisonous effects.",
+      "example": [
+        {
+          "eng": "Air pollution is a major problem in many big cities.",
+          "ch": "空氣污染是許多大城市的主要問題。"
+        }
+      ]
+    },
+    {
+      "eng": "porcelain",
+      "kk": "ˈpɔrsəlɪn",
+      "tense": "n.",
+      "ch": [
+        [
+          "瓷器"
+        ]
+      ],
+      "analysis": "此字經由義大利語 porcellana（原指寶貝螺的貝殼，因其光潔如瓷而轉稱），源自拉丁語 porcella（小母豬）。經由海上貿易傳入歐洲，指高級瓷器材質或製品。",
+      "definition": "1. a white vitrified translucent ceramic; china.",
+      "example": [
+        {
+          "eng": "She displayed her collection of fine porcelain in the cabinet.",
+          "ch": "她在櫃子裡展示她的精美瓷器收藏。"
+        }
+      ]
+    },
+    {
+      "eng": "portion",
+      "kk": "ˈpɔrʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "部分",
+          "一份"
+        ],
+        [
+          "（食物的）一份"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 portio（份額、分配）。名詞指整體當中的一部分，或餐館中單人份的食物量。",
+      "definition": "1. a part of a larger whole; 2. an amount of food served for one person.",
+      "example": [
+        {
+          "eng": "A large portion of the budget was spent on education.",
+          "ch": "預算中的很大一部分花在了教育上。"
+        },
+        {
+          "eng": "The restaurant serves very generous portions.",
+          "ch": "這家餐廳的餐點份量非常大。"
+        }
+      ]
+    },
+    {
+      "eng": "portrait",
+      "kk": "ˈpɔrtrɪt",
+      "tense": "n.",
+      "ch": [
+        [
+          "肖像",
+          "畫像",
+          "相片"
+        ],
+        [
+          "描繪",
+          "寫照"
+        ]
+      ],
+      "analysis": "此字源自中古法語 portrait，源自動詞 portraire（描繪、畫出），由拉丁語 pro-（向前）加上 trahere（拉、畫）複合而成。名詞主要指人物的肖像畫或照片，也引申為文字上的生動描繪。",
+      "definition": "1. a painting, drawing, photograph, or engraving of a person; 2. a description of someone or something in words.",
+      "example": [
+        {
+          "eng": "The museum holds an oil portrait of the former president.",
+          "ch": "博物館收藏了一幅前總統的油畫肖像。"
+        },
+        {
+          "eng": "The book provides a realistic portrait of working-class life.",
+          "ch": "這本書真實寫照了工人階級的生活。"
+        }
+      ]
+    },
+    {
+      "eng": "poster",
+      "kk": "ˈpoʊstər",
+      "tense": "n.",
+      "ch": [
+        [
+          "海報",
+          "巨幅廣告"
+        ]
+      ],
+      "analysis": "此字由動詞 post（張貼公告，源自拉丁語 postis「柱子」）加上名詞字尾 -er 構成。指張貼在牆上以作宣傳或裝飾的大型海報。",
+      "definition": "1. a large printed picture or notice used for decoration or advertising.",
+      "example": [
+        {
+          "eng": "They hung a concert poster on the bulletin board.",
+          "ch": "他們在佈告欄上貼了一張音樂會海報。"
+        }
+      ]
+    },
+    {
+      "eng": "postpone",
+      "kk": "poʊˈspoʊn",
+      "tense": "vt.",
+      "ch": [
+        [
+          "延期",
+          "延後"
+        ]
+      ],
+      "analysis": "此字為透明構詞，由字首 post-（在…之後，源自拉丁語）加上動詞 pono（放置、擺放），字面義為「放在後面」。及物用法指將活動或計畫延遲到以後舉行。",
+      "definition": "1. to arrange for an event to take place at a later time than originally planned.",
+      "example": [
+        {
+          "eng": "We had to postpone the outdoor meeting due to rain.",
+          "ch": "因為下雨，我們不得不將戶外會議延期。"
+        }
+      ]
+    },
+    {
+      "eng": "postponement",
+      "kk": "poʊˈspoʊnmənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "延期",
+          "延緩"
+        ]
+      ],
+      "analysis": "此字由動詞 postpone 加上名詞字尾 -ment 構成。指將活動延後執行的決定或狀態。",
+      "definition": "1. the action of postponing something; a delay.",
+      "example": [
+        {
+          "eng": "The sudden postponement of the flight caused great inconvenience.",
+          "ch": "航班的突然延期造成了極大的不便。"
+        }
+      ]
+    },
+    {
+      "eng": "pottery",
+      "kk": "ˈpɑtəri",
+      "tense": "n.",
+      "ch": [
+        [
+          "陶器",
+          "陶藝"
+        ],
+        [
+          "陶器廠",
+          "製陶作坊"
+        ]
+      ],
+      "analysis": "此字由 pot（陶罐，源自古英語 pott）加上集合名詞字尾 -ery 構成。指陶器製品總稱、製陶工藝，或製作陶器的工廠與作坊。",
+      "definition": "1. pots, dishes, and other articles made of earthenware or baked clay; 2. a place where pottery is made.",
+      "example": [
+        {
+          "eng": "She took a class to learn ancient pottery techniques.",
+          "ch": "她去上課學習古代製陶技藝。"
+        },
+        {
+          "eng": "They visited a local pottery in the countryside.",
+          "ch": "他們參觀了鄉下一家當地的陶器作坊。"
+        }
+      ]
+    },
+    {
+      "eng": "pour",
+      "kk": "pɔr",
+      "tense": "vt.",
+      "ch": [
+        [
+          "倒",
+          "注",
+          "灌"
+        ],
+        [
+          "傾瀉",
+          "湧出"
+        ]
+      ],
+      "analysis": "此字源自中古英語 pouren。及物用法指將液體從容器中傾倒出來，或引申形容人潮、情感或雨水等大量傾瀉湧出。",
+      "definition": "1. to cause a liquid to flow from a container in a steady stream; 2. to express or send forth in a continuous stream.",
+      "example": [
+        {
+          "eng": "She poured some fresh orange juice into a glass.",
+          "ch": "她把一些新鮮柳橙汁倒進杯子裡。"
+        },
+        {
+          "eng": "Fans poured into the stadium to watch the final match.",
+          "ch": "球迷們湧入體育場觀看決賽。"
+        }
+      ]
+    },
+    {
+      "eng": "pour",
+      "kk": "pɔr",
+      "tense": "vi.",
+      "ch": [
+        [
+          "傾盆而下（指雨）"
+        ],
+        [
+          "大量湧流"
+        ]
+      ],
+      "analysis": "不及物用法常指雨勢傾盆而下（如 It is pouring.），或形容液體、人群大量湧出。",
+      "definition": "1. to rain heavily; 2. to flow or stream continuously in a large quantity.",
+      "example": [
+        {
+          "eng": "It started to pour just as we left the house.",
+          "ch": "我們一出門就開始下起傾盆大雨。"
+        },
+        {
+          "eng": "Tears poured down her cheeks when she heard the news.",
+          "ch": "聽到這個消息時，淚水順著她的臉頰大量流淌下來。"
+        }
+      ]
+    },
+    {
+      "eng": "poverty",
+      "kk": "ˈpɑvərti",
+      "tense": "n.",
+      "ch": [
+        [
+          "貧窮",
+          "貧困"
+        ]
+      ],
+      "analysis": "此字經由中古英語 poverte，源自古法語 poverté，最終源自拉丁語 pauper（貧窮的）。名詞指經濟匱乏、生活貧困的狀態。",
+      "definition": "1. the state of being extremely poor.",
+      "example": [
+        {
+          "eng": "The charity organization works to lift families out of poverty.",
+          "ch": "該慈善機構致力於幫助家庭擺脫貧困。"
+        }
+      ]
+    },
+    {
+      "eng": "powder",
+      "kk": "ˈpaʊdər",
+      "tense": "n.",
+      "ch": [
+        [
+          "粉",
+          "粉末"
+        ]
+      ],
+      "analysis": "此字經由中古英語 poudre，源自古法語，最終源自拉丁語 pulvis（灰塵、粉末）。名詞指呈細小顆粒狀的粉末物質。",
+      "definition": "1. a fine, dry substance made up of small, loose particles.",
+      "example": [
+        {
+          "eng": "She dusted her face with a light layer of powder.",
+          "ch": "她在臉上撲了一層薄薄的蜜粉。"
+        }
+      ]
+    },
+    {
+      "eng": "practical",
+      "kk": "ˈpræktɪkəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "實際的",
+          "實用的"
+        ],
+        [
+          "務實的",
+          "行事敏捷的"
+        ]
+      ],
+      "analysis": "此字源自希臘語 praktikos（與實踐、行動相關），經由中古拉丁語演變，加上形容詞字尾 -al 構成。形容事物切合實際、具備實用價值，或指人做事講求實際、務實不浮誇。",
+      "definition": "1. concerned with the actual doing or use of something rather than with theory and ideas; 2. skilled at doing or making things; sensible and realistic.",
+      "example": [
+        {
+          "eng": "The course offers practical training in computer programming.",
+          "ch": "這門課程提供電腦程式設計的實務訓練。"
+        },
+        {
+          "eng": "She is a practical person who always finds effective solutions.",
+          "ch": "她是個務實的人，總是能找到有效的解決方案。"
+        }
+      ]
+    },
+    {
+      "eng": "precious",
+      "kk": "ˈprɛʃəs",
+      "tense": "adj.",
+      "ch": [
+        [
+          "珍貴的",
+          "寶貴的"
+        ],
+        [
+          "過分講究的",
+          "矯揉造作的"
+        ]
+      ],
+      "analysis": "此字經由中古英語 precious，源自古法語 precieus，最終源自拉丁語 pretiosus（有價值的），源自 pretium（代價、價值）。形容詞指價值極高、極為珍貴的事物，或貶義指過分拘泥、矯情。",
+      "definition": "1. of great value; not to be wasted or treated carelessly; 2. affectedly refined or fastidious.",
+      "example": [
+        {
+          "eng": "Time is precious, so we should not waste it.",
+          "ch": "時間是寶貴的，所以我們不應該浪費它。"
+        },
+        {
+          "eng": "Diamonds and rubies are precious stones.",
+          "ch": "鑽石和紅寶石是珍貴的寶石。"
+        }
+      ]
+    },
+    {
+      "eng": "preparation",
+      "kk": "ˌprɛpəˈreɪʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "準備",
+          "預備"
+        ],
+        [
+          "準備工作",
+          "籌備"
+        ]
+      ],
+      "analysis": "此字由動詞 prepare 衍生，加上名詞字尾 -ion 構成（源自拉丁語 praeparatio）。名詞指事前進行的準備行為或籌備工作。",
+      "definition": "1. the action or process of making ready for use or consideration; 2. measures taken to make something ready.",
+      "example": [
+        {
+          "eng": "In preparation for the exam, she studied all weekend.",
+          "ch": "為了準備考試，她整個週末都在唸書。"
+        },
+        {
+          "eng": "Preparations for the grand wedding are well underway.",
+          "ch": "盛大婚禮的籌備工作正在順利進行中。"
+        }
+      ]
+    },
+    {
+      "eng": "presence",
+      "kk": "ˈprɛzəns",
+      "tense": "n.",
+      "ch": [
+        [
+          "出席",
+          "在場"
+        ],
+        [
+          "風度",
+          "儀態",
+          "存在感"
+        ]
+      ],
+      "analysis": "此字源自中古英語 presence，源自古法語，最終源自拉丁語 praesentia（在場），源自 praesesse（在眼前、出席）。名詞指人或事物在某處的現身或存在，也引申指人的威嚴風度或強大存在感。",
+      "definition": "1. the state or fact of being present, or here; 2. an impressive manner or appearance.",
+      "example": [
+        {
+          "eng": "Her presence at the meeting was requested by the director.",
+          "ch": "主任要求她出席這次會議。"
+        },
+        {
+          "eng": "The actor has a commanding stage presence.",
+          "ch": "這位演員在舞台上具有強大的氣場與風度。"
+        }
+      ]
+    },
+    {
+      "eng": "pretend",
+      "kk": "prɪˈtɛnd",
+      "tense": "vt.",
+      "ch": [
+        [
+          "假裝",
+          "佯裝"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 praetendere（意為「在前面伸展、藉口、偽稱」），由 prae-（在…前面）加上 tendere（伸展）。及物用法指故意表現出與事實不符的姿態或假裝某種情況。",
+      "definition": "1. to speak and act as if something is true when it is not, especially as a game or as a deception.",
+      "example": [
+        {
+          "eng": "The children pretended to be superheroes.",
+          "ch": "孩子們假裝自己是超級英雄。"
+        }
+      ]
+    },
+    {
+      "eng": "prevent",
+      "kk": "prɪˈvɛnt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "預防",
+          "防止",
+          "阻止"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 praevenire（意為「先到、領先、阻止」），由 prae-（在…前面）加上 venire（來）。及物用法指預先採取行動使某事不發生。",
+      "definition": "1. to keep something from happening or someone from doing something.",
+      "example": [
+        {
+          "eng": "Vaccinations help prevent the spread of infectious diseases.",
+          "ch": "疫苗有助於預防傳染病的傳播。"
+        }
+      ]
+    },
+    {
+      "eng": "previous",
+      "kk": "ˈpriviəs",
+      "tense": "adj.",
+      "ch": [
+        [
+          "先前的",
+          "以前的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 praevius（在前面的），由 prae-（在…前面）加上 via（道路）複合而成。形容詞指時間或順序上在前的。",
+      "definition": "1. existing or happening before the present time or before a particular event.",
+      "example": [
+        {
+          "eng": "She had no previous experience in management.",
+          "ch": "她沒有先前的管理經驗。"
+        }
+      ]
+    },
+    {
+      "eng": "probable",
+      "kk": "ˈprɑbəbəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "很可能的",
+          "大概的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 probabilis（可證明的、可信的），源自 probare（證明、檢驗）。形容詞指某事發生的可能性極高、值得相信的。",
+      "definition": "1. likely to happen or to be true.",
+      "example": [
+        {
+          "eng": "The most probable cause of the fire was an electrical fault.",
+          "ch": "火災最可能的原因是電氣故障。"
+        }
+      ]
+    },
+    {
+      "eng": "process",
+      "kk": "ˈprɑsɛs",
+      "tense": "n.",
+      "ch": [
+        [
+          "過程",
+          "步驟"
+        ],
+        [
+          "加工程序",
+          "處理過程"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 processus（前進、進展），由 pro-（向前）加上 cedere（走、前進）。名詞指為達到特定目的而進行的一系列連續行動、步驟或工業加工製程。",
+      "definition": "1. a series of actions or steps taken in order to achieve a particular end; 2. a systematic series of actions directed to some purpose.",
+      "example": [
+        {
+          "eng": "Learning a new language is a slow and gradual process.",
+          "ch": "學習一門新語言是一個緩慢且漸進的過程。"
+        },
+        {
+          "eng": "The recycling process helps reduce environmental waste.",
+          "ch": "回收處理過程有助於減少環境廢棄物。"
+        }
+      ]
+    },
+    {
+      "eng": "process",
+      "kk": "ˈprɑsɛs",
+      "tense": "vt.",
+      "ch": [
+        [
+          "加工",
+          "處理"
+        ],
+        [
+          "審理",
+          "辦理"
+        ]
+      ],
+      "analysis": "源自名詞 process。及物用法指對原材料進行加工處理，或對文件、資料、申請等進行行政審理或辦理。",
+      "definition": "1. to perform a series of operations on something, especially to preserve or manufacture it; 2. to deal with documents or requests officially.",
+      "example": [
+        {
+          "eng": "Raw milk is pasteurized and packaged before it is sold.",
+          "ch": "生乳在銷售前會經過殺菌和包裝處理。"
+        },
+        {
+          "eng": "The bank takes three days to process your loan application.",
+          "ch": "銀行需要三天時間來審理您的貸款申請。"
+        }
+      ]
+    },
+    {
+      "eng": "producer",
+      "kk": "prəˈdusər",
+      "tense": "n.",
+      "ch": [
+        [
+          "生產者",
+          "製造商"
+        ],
+        [
+          "製作人（電影、電視等）"
+        ]
+      ],
+      "analysis": "此字由動詞 produce（生產，源自拉丁語 producere）加上名詞字尾 -er 構成。指製造商品的企業、生物學上的生產者，或影視作品的幕後製作人。",
+      "definition": "1. a person or company that manufactures goods or provides services; 2. a person responsible for the financial and administrative aspects of a movie, play, or broadcast.",
+      "example": [
+        {
+          "eng": "The country is a major producer of electronic goods.",
+          "ch": "該國是電子產品的主要生產國。"
+        },
+        {
+          "eng": "The film producer thanked the cast and crew at the premiere.",
+          "ch": "電影製作人在首映會上感謝了演員與劇組人員。"
+        }
+      ]
+    },
+    {
+      "eng": "product",
+      "kk": "ˈprɑdʌkt",
+      "tense": "n.",
+      "ch": [
+        [
+          "產品",
+          "產物"
+        ],
+        [
+          "乘積（數學）"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 productum（被產出的東西），源自動詞 producere（向前引出、生產）。名詞指工業生產製造出的商品，或在數學中指兩個數相乘得到的乘積。",
+      "definition": "1. an article or substance that is manufactured or refined for sale; 2. the result of multiplying two or more numbers together.",
+      "example": [
+        {
+          "eng": "The company launched a new eco-friendly cleaning product.",
+          "ch": "該公司推出了一款環保清潔新產品。"
+        },
+        {
+          "eng": "The product of five and six is thirty.",
+          "ch": "五乘以六的乘積是三十。"
+        }
+      ]
+    },
+    {
+      "eng": "professor",
+      "kk": "prəˈfɛsər",
+      "tense": "n.",
+      "ch": [
+        [
+          "教授"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 professor（公開宣告、教授某學科的人），源自動詞 profiteri。名詞指大學或高等教育機構中的最高學銜教師。",
+      "definition": "1. a university academic of the highest rank.",
+      "example": [
+        {
+          "eng": "Professor Smith gave an inspiring lecture on modern physics.",
+          "ch": "史密斯教授發表了一場關於現代物理學的精彩演講。"
+        }
+      ]
+    },
+    {
+      "eng": "profit",
+      "kk": "ˈprɑfɪt",
+      "tense": "n.",
+      "ch": [
+        [
+          "利潤",
+          "盈利",
+          "收益"
+        ]
+      ],
+      "analysis": "此字經由中古英語 profit，源自古法語，最終源自拉丁語 profectus（進步、利益），源自動詞 proficere（有益、獲益）。名詞指商業經營中所獲得的財務盈餘。",
+      "definition": "1. a financial gain, especially the difference between the amount earned and the amount spent in buying, operating, or producing something.",
+      "example": [
+        {
+          "eng": "The company made a huge profit in the third quarter.",
+          "ch": "該公司在第三季度賺取了巨額利潤。"
+        }
+      ]
+    },
+    {
+      "eng": "profit",
+      "kk": "ˈprɑfɪt",
+      "tense": "vi.",
+      "ch": [
+        [
+          "獲益",
+          "受益",
+          "有益於"
+        ]
+      ],
+      "analysis": "源自名詞 profit。不及物用法通常與介詞 from 連用，指從某種經驗或交易中獲得好處或利益。",
+      "definition": "1. to get or derive advantage or benefit from something.",
+      "example": [
+        {
+          "eng": "Everyone can profit from reading good books.",
+          "ch": "每個人都可以從閱讀好書中受益。"
+        }
+      ]
+    },
+    {
+      "eng": "promote",
+      "kk": "prəˈmoʊt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "促進",
+          "推動",
+          "推廣"
+        ],
+        [
+          "晉升",
+          "提升"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 promotus（推進、促進），由 pro-（向前）加上 movere（移動）。及物用法指推動某事發展、宣傳推廣商品，或將員工晉升到更高職位。",
+      "definition": "1. to support or actively encourage progress, growth, or public acceptance of something; 2. to raise someone to a higher position or rank.",
+      "example": [
+        {
+          "eng": "The organization works to promote international trade and cooperation.",
+          "ch": "該組織致力於促進國際貿易與合作。"
+        },
+        {
+          "eng": "She was promoted to senior manager after three years.",
+          "ch": "三年後她被晉升為高級經理。"
+        }
+      ]
+    },
+    {
+      "eng": "pronounce",
+      "kk": "prəˈnaʊns",
+      "tense": "vt.",
+      "ch": [
+        [
+          "發音",
+          "讀…的音"
+        ],
+        [
+          "宣佈",
+          "宣告"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 pronuntiare（公開宣告），由 pro-（向前、公開）加上 nuntiare（報告、通知）。及物用法指正確發出字詞的聲音，或正式宣告某項判決與結果。",
+      "definition": "1. to make the sound of a word or letter in a particular way; 2. to formally or solemnly declare something.",
+      "example": [
+        {
+          "eng": "Can you show me how to pronounce this difficult word?",
+          "ch": "你可以教我怎麼發這個困難單字的音嗎？"
+        },
+        {
+          "eng": "The judge pronounced sentence on the defendant.",
+          "ch": "法官對被告宣判。"
+        }
+      ]
+    },
+    {
+      "eng": "proof",
+      "kk": "pruf",
+      "tense": "n.",
+      "ch": [
+        [
+          "證明",
+          "證據"
+        ],
+        [
+          "防…的（作複合字字尾，如 waterproof）"
+        ]
+      ],
+      "analysis": "此字源自中古英語 prof，源自古法語 prove，與 prove 同源。名詞指能夠證實某事為真實的證據；在構詞中也常作後綴，表示「可抵禦、防…的」。",
+      "definition": "1. evidence or argument establishing a fact or the truth of a statement; 2. designed or treated to resist something specified (often as a suffix).",
+      "example": [
+        {
+          "eng": "The police need solid proof to arrest the suspect.",
+          "ch": "警方需要確鑿的證據來逮捕嫌疑人。"
+        },
+        {
+          "eng": "This jacket is waterproof and windproof.",
+          "ch": "這件夾克既防水又防風。"
+        }
+      ]
+    },
+    {
+      "eng": "property",
+      "kk": "ˈprɑpərti",
+      "tense": "n.",
+      "ch": [
+        [
+          "財產",
+          "資產"
+        ],
+        [
+          "房地產",
+          "房產"
+        ],
+        [
+          "特性",
+          "屬性"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 proprietas（專屬、特有性質），源自 proprius（自己的）。名詞指個人或企業擁有的財產、房地產土地，或指物質本身固有的物理與化學特性。",
+      "definition": "1. a thing or things belonging to someone; possessions; 2. buildings or land; 3. a attribute, quality, or characteristic of something.",
+      "example": [
+        {
+          "eng": "Please respect private property and do not trespass.",
+          "ch": "請尊重私人財產，切勿侵入。"
+        },
+        {
+          "eng": "Real estate prices and property taxes have increased.",
+          "ch": "房地產價格和房產稅都上漲了。"
+        },
+        {
+          "eng": "Scientists study the unique properties of various materials.",
+          "ch": "科學家研究各種材料的獨特特性。"
+        }
+      ]
+    },
+    {
+      "eng": "protection",
+      "kk": "prəˈtɛkʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "保護",
+          "防衛"
+        ]
+      ],
+      "analysis": "此字由動詞 protect（保護，源自拉丁語 protegere）加上名詞字尾 -ion 構成。名詞指使人或物免受傷害、危險或損害的防護狀態。",
+      "definition": "1. the action of protecting someone or something, or the state of being protected.",
+      "example": [
+        {
+          "eng": "Sunscreen provides essential protection against harmful UV rays.",
+          "ch": "防曬乳提供抵禦有害紫外線的必要保護。"
+        }
+      ]
+    },
+    {
+      "eng": "pub",
+      "kk": "pʌb",
+      "tense": "n.",
+      "ch": [
+        [
+          "酒吧",
+          "酒館"
+        ]
+      ],
+      "analysis": "此字為 public house（公共房屋）的縮寫簡稱。名詞指英國及愛爾蘭等地供應酒類與餐點的公共休閒社交場所。",
+      "definition": "1. a tavern or public house licensed to sell alcoholic drinks.",
+      "example": [
+        {
+          "eng": "The locals gathered at the neighborhood pub to watch the football match.",
+          "ch": "當地居民聚集在社區酒吧裡觀看足球賽。"
+        }
+      ]
+    },
+    {
+      "eng": "pump",
+      "kk": "pʌmp",
+      "tense": "n.",
+      "ch": [
+        [
+          "泵",
+          "抽水機",
+          "打氣筒"
+        ]
+      ],
+      "analysis": "此字源自十六世紀的荷蘭語 pomp。名詞指用於抽取或壓送液體、氣體的機械裝置。",
+      "definition": "1. a mechanical device used to move liquids, gases, or slurries.",
+      "example": [
+        {
+          "eng": "He used a bicycle pump to inflate the flat tire.",
+          "ch": "他用腳踏車打氣筒把癟掉的輪胎充氣。"
+        }
+      ]
+    },
+    {
+      "eng": "pump",
+      "kk": "pʌmp",
+      "tense": "vt.",
+      "ch": [
+        [
+          "用抽水機抽水",
+          "打氣"
+        ],
+        [
+          "湧出",
+          "傾注"
+        ]
+      ],
+      "analysis": "源自名詞 pump。及物用法指操作泵浦抽水或打氣，或形容心臟或管線等強力壓送血液或液體。",
+      "definition": "1. to move liquid or gas using a pump; 2. to cause a fluid to flow in a specified direction.",
+      "example": [
+        {
+          "eng": "It took ten minutes to pump water out of the flooded basement.",
+          "ch": "花了十分鐘才把淹水的地下室裡的水抽乾。"
+        },
+        {
+          "eng": "The heart pumps blood through the body.",
+          "ch": "心臟將血液壓送到全身。"
+        }
+      ]
+    }
+  ]
+}

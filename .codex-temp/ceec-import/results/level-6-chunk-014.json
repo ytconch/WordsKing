@@ -1,0 +1,1202 @@
+{
+  "level": 6,
+  "chunkIndex": 14,
+  "inputs": [
+    "outright",
+    "outset",
+    "outskirts",
+    "outward",
+    "outwards",
+    "overdo",
+    "overflow",
+    "overhear",
+    "overlap",
+    "overwork",
+    "oyster",
+    "ozone",
+    "packet",
+    "paddle",
+    "paperback",
+    "paradox",
+    "paralyze",
+    "parliament",
+    "pastime",
+    "patriot",
+    "patriotic",
+    "peacock",
+    "pebble",
+    "peek",
+    "pending",
+    "peninsula",
+    "perch",
+    "peril",
+    "perish",
+    "permissible",
+    "persevere",
+    "persistence",
+    "persistent",
+    "petrol",
+    "petroleum",
+    "pharmacist",
+    "pharmacy",
+    "pianist",
+    "pickpocket",
+    "pilgrim",
+    "pimple",
+    "pinch",
+    "plague",
+    "plantation",
+    "playwright",
+    "plow",
+    "pneumonia",
+    "polar",
+    "ponder",
+    "pony"
+  ],
+  "rows": [
+    {
+      "eng": "outright",
+      "kk": "/ˈaʊtˌraɪt/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "完全的",
+          "徹底的"
+        ],
+        [
+          "公開的",
+          "無保留的"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由副詞／介副詞字首 out（向外、完全）與形容詞 right（直、正確、完全）複合而成。作為形容詞使用時，修飾名詞，指毫無保留、徹底的狀態，或是直接且完全的所有權或結果。語意由空間上的「向外到底」引申為性質上的「完全、不打折扣」。",
+      "definition": "1. complete and total, without limitation; 2. open, direct, and straightforward.",
+      "example": [
+        {
+          "eng": "They achieved an outright victory in the championship game.",
+          "ch": "他們在冠軍賽中取得了徹底的勝利。"
+        },
+        {
+          "eng": "His behavior was an outright lie.",
+          "ch": "他的行為是一個徹頭徹尾的謊言。"
+        }
+      ]
+    },
+    {
+      "eng": "outright",
+      "kk": "/ˈaʊtˌraɪt/",
+      "tense": "adv.",
+      "ch": [
+        [
+          "完全地",
+          "徹底地"
+        ],
+        [
+          "直言不諱地",
+          "坦白地"
+        ],
+        [
+          "當場",
+          "即刻"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由副詞／介副詞字首 out（向外、完全）與形容詞／副詞 right（直、正確、完全）複合而成。歷史上自中古英語的 out-right 發展而來，原意為「完全直流或完全到底」，語意演變為直接、不加保留或毫無隱藏。在現代英語中主要作副詞，修飾動詞或形容詞，表示毫無保留、當場或直截了當的行為。",
+      "definition": "1. completely and totally; 2. without reservation or concealment, openly and directly; 3. instantly or on the spot.",
+      "example": [
+        {
+          "eng": "The company rejected the proposal outright.",
+          "ch": "公司完全拒絕了這項提案。"
+        },
+        {
+          "eng": "She laughed outright at the absurdity of the situation.",
+          "ch": "她對這荒謬的情況大笑出聲，毫不掩飾。"
+        },
+        {
+          "eng": "The driver was killed outright in the terrible crash.",
+          "ch": "駕駛在恐怖的車禍中當場喪生。"
+        }
+      ]
+    },
+    {
+      "eng": "outset",
+      "kk": "/ˈaʊtˌsɛt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "開端",
+          "開始"
+        ]
+      ],
+      "analysis": "此字由副詞 out（向外、出發）與動詞 set（放置、開始）複合而成。字面義為「設置出去」或「開始的起點」。歷史上由動詞短語 set out（出發、著手）的名詞化複合詞演變而來，現代英語中主要用於片語 at the outset 中，指事件或過程的最初階段。",
+      "definition": "1. the start or beginning of an event, process, or activity.",
+      "example": [
+        {
+          "eng": "We faced several challenges right at the outset of the project.",
+          "ch": "我們在專案剛開始時就面臨了幾個挑戰。"
+        }
+      ]
+    },
+    {
+      "eng": "outskirts",
+      "kk": "/ˈaʊtˌskɜrts/",
+      "tense": "n.",
+      "ch": [
+        [
+          "市郊",
+          "郊外",
+          "邊緣地區"
+        ]
+      ],
+      "analysis": "此字為複數名詞，由 out（外面的）與 skirt（邊緣、裙邊、環繞）複合而成。skirt 源自古諾斯語，本義指衣物的邊緣或界線。outskirts 字面即為「最外圍的邊緣」，歷史上用來指城鎮或都市中心以外、靠近鄉村的邊緣地帶。現代英語通常僅以複數形式出現。",
+      "definition": "1. the outer parts of a town, city, or area, away from the center.",
+      "example": [
+        {
+          "eng": "They live in a quiet residential area on the outskirts of London.",
+          "ch": "他們住在倫敦郊區的一個安靜住宅區。"
+        }
+      ]
+    },
+    {
+      "eng": "outward",
+      "kk": "/ˈaʊtwərd/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "向外的",
+          "外表上的",
+          "形於外的"
+        ]
+      ],
+      "analysis": "此字由副詞 out（向外）與表示方向和傾向的日耳曼語源形容詞字尾 -ward（朝向……的）結合而成。古英語即有 útweard。語意由空間上的「朝外移動」延伸至「外顯的、表面可見的」，與內在心理或實質核心相對。",
+      "definition": "1. directed toward the outside or away from a center; 2. visible to others, external rather than internal.",
+      "example": [
+        {
+          "eng": "There was no outward sign of damage on the building.",
+          "ch": "這棟建築物外表沒有任何受損的跡象。"
+        }
+      ]
+    },
+    {
+      "eng": "outwards",
+      "kk": "/ˈaʊtwərdz/",
+      "tense": "adv.",
+      "ch": [
+        [
+          "向外",
+          "朝外地"
+        ]
+      ],
+      "analysis": "此字由形容詞 outward 加上副詞屬格字尾 -s 構成，表示方向性。用作副詞，修飾動詞，指動作的方向是朝向中心或內部的反方向、往外擴展或移動。",
+      "definition": "1. toward the outside or away from a central point or place.",
+      "example": [
+        {
+          "eng": "The doors of the emergency exit open outwards.",
+          "ch": "緊急出口的門是向外開的。"
+        }
+      ]
+    },
+    {
+      "eng": "overdo",
+      "kk": "/ˌoʊvərˈdu/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "把……做得過頭",
+          "過度使用"
+        ],
+        [
+          "煮得過熟"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由表示「過度、超越」的字首 over- 與動詞 do（做、烹調）結合而成。歷史上由中古英語的 overdon 演變而來。語意涵蓋行為上的過度、工作上的勞累過度，以及食物烹調過久而變老或失去風味。",
+      "definition": "1. to do, use, or make something to an excessive degree; 2. to cook food for too long.",
+      "example": [
+        {
+          "eng": "Be careful not to overdo the exercise, or you will hurt your muscles.",
+          "ch": "小心不要運動過度，否則會傷到肌肉。"
+        },
+        {
+          "eng": "The chef managed to overdo the steak, making it tough and dry.",
+          "ch": "主廚把牛排給煎過頭了，變得很韌很乾。"
+        }
+      ]
+    },
+    {
+      "eng": "overflow",
+      "kk": "/ˌoʊvərˈfloʊ/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "溢出",
+          "淹沒",
+          "充滿超過容量"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由字首 over-（過度、超過）與動詞 flow（流動）複合而成。作為及物動詞時，指液體或其他內容物過多而滿出來，並漫過、淹沒周圍的邊界或容器。",
+      "definition": "1. to flow over the edges of a container or limit; 2. to flood or submerge an area with liquid.",
+      "example": [
+        {
+          "eng": "Heavy rains caused the river to overflow its banks.",
+          "ch": "大雨導致河水溢出河岸。"
+        }
+      ]
+    },
+    {
+      "eng": "overflow",
+      "kk": "/ˈoʊvərˌfloʊ/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "溢出",
+          "滿得流出來",
+          "過多而容納不下"
+        ]
+      ],
+      "analysis": "此字由 over- 與 flow 複合而成，作為不及物動詞使用時，表示容器或空間內部的水、物品或人群過多，導致滿出邊界或無法容納，亦可引申為情感或喜悅無法抑制而滿溢。",
+      "definition": "1. to spill over the edge because there is too much liquid or content; 2. to be filled beyond capacity.",
+      "example": [
+        {
+          "eng": "The bathtub is overflowing; turn off the tap immediately!",
+          "ch": "浴缸的水滿出來了，快把水龍頭關掉！"
+        }
+      ]
+    },
+    {
+      "eng": "overhear",
+      "kk": "/ˌoʊvərˈhɪr/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "無意中聽到",
+          "偷聽到"
+        ]
+      ],
+      "analysis": "此字由字首 over-（在此處表示從旁、越過或偶然）與動詞 hear（聽見）複合而成。歷史上由中古英語 overhieran 發展而來。與主動側耳傾聽的 listen 不同，overhear 強調非蓄意、偶然間或從旁聽見本不打算讓自己聽到的對話內容。",
+      "definition": "1. to hear a conversation or remarks accidentally or without the speakers' knowledge.",
+      "example": [
+        {
+          "eng": "I happened to overhear their conversation on the bus.",
+          "ch": "我在公車上無意中聽到他們的談話。"
+        }
+      ]
+    },
+    {
+      "eng": "overlap",
+      "kk": "/ˌoʊvərˈlæp/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "與……部分重疊",
+          "與……部分交集"
+        ]
+      ],
+      "analysis": "此字由字首 over-（在……上方、覆蓋）與動詞 lap（摺疊、重疊）複合而成。作為及物動詞時，指實體邊緣、時間區段或主題內容有一部分相互覆蓋、交織或共同佔用。",
+      "definition": "1. to cover a part of something else by extending over its edge; 2. to share some of the same parts, areas, or time periods.",
+      "example": [
+        {
+          "eng": "The roof tiles overlap to prevent rain from leaking through.",
+          "ch": "屋瓦相互重疊以防止雨水滲漏。"
+        }
+      ]
+    },
+    {
+      "eng": "overlap",
+      "kk": "/ˌoʊvərˈlæp/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "部分重疊",
+          "時間或範圍相交集"
+        ]
+      ],
+      "analysis": "此字由 over- 與 lap 複合而成。作為不及物動詞時，指兩個或多個事件、時間表或實體在邊緣或範圍上發生交錯與重疊，不需直接受詞。",
+      "definition": "1. to extend over each other or share the same space, time, or characteristics partially.",
+      "example": [
+        {
+          "eng": "Our vacations do not overlap, so one of us must stay in the office.",
+          "ch": "我們的假期沒有重疊，所以我們之中必須有一個人留在辦公室。"
+        }
+      ]
+    },
+    {
+      "eng": "overwork",
+      "kk": "/ˌoʊvərˈwɜrk/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使過度勞累",
+          "使過度工作"
+        ]
+      ],
+      "analysis": "此字由字首 over-（過度）與動詞 work（工作）複合而成。作為及物動詞時，指要求或導致員工、機器、土地甚至自己工作過度、超出負荷而造成疲勞或損壞。",
+      "definition": "1. to cause someone or something to work too hard or beyond safe limits.",
+      "example": [
+        {
+          "eng": "The manager tended to overwork his staff during the peak season.",
+          "ch": "經理在旺季時往往讓員工過度工作。"
+        }
+      ]
+    },
+    {
+      "eng": "overwork",
+      "kk": "/ˌoʊvərˈwɜrk/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "工作過度",
+          "勞累過度"
+        ]
+      ],
+      "analysis": "此字由 over- 與 work 複合而成。作為不及物動詞時，指自身付出過多心力與時間在工作上，導致身心疲憊。",
+      "definition": "1. to work excessively hard or beyond one's physical capacity.",
+      "example": [
+        {
+          "eng": "If you continue to overwork, your health will eventually break down.",
+          "ch": "如果你繼續工作過度，你的健康終究會垮掉。"
+        }
+      ]
+    },
+    {
+      "eng": "oyster",
+      "kk": "/ˈɔɪstər/",
+      "tense": "n.",
+      "ch": [
+        [
+          "牡蠣",
+          "蠔"
+        ]
+      ],
+      "analysis": "此字為歷史繼承詞與古法語借詞的結合。源自古法語 oistre，其最終源自拉丁語 ostrea / ostreum，再追溯至古希臘語 ostreon（帶殼軟體動物、牡蠣）。經由中古英語進入英語詞彙。指一種具有雙殼、常被作為海鮮食用的軟體動物。",
+      "definition": "1. an edible marine mollusk with a rough irregular shell, highly valued as food.",
+      "example": [
+        {
+          "eng": "He loves eating fresh oysters with a squeeze of lemon juice.",
+          "ch": "他喜歡擠一點檸檬汁吃新鮮生蠔。"
+        }
+      ]
+    },
+    {
+      "eng": "ozone",
+      "kk": "/ˈoʊzoʊn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "臭氧"
+        ]
+      ],
+      "analysis": "此字為近代科學人工造詞。由德國化學家克里斯蒂安·弗里德里希·尚拜因於 1840 年代創造，源自古希臘語 ozein（散發氣味、發臭），因其具有強烈刺激性氣味而得名。經由德語 Ozon 引入英語。指氧的同素異形體，在大氣平流層中具有吸收紫外線的重要功能。",
+      "definition": "1. a colorless unstable toxic gas with a pungent odor, formed from oxygen.",
+      "example": [
+        {
+          "eng": "The ozone layer in the stratosphere protects the Earth from harmful ultraviolet radiation.",
+          "ch": "平流層中的臭氧層保護地球免受有害紫外線輻射的侵害。"
+        }
+      ]
+    },
+    {
+      "eng": "packet",
+      "kk": "/ˈpækɪt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "小包裹",
+          "小袋",
+          "小盒"
+        ]
+      ],
+      "analysis": "此字為歷史借詞。源自古法語 pacquet（包裹、捆），為 pack（包、捆）的指小詞形式，帶有表示小型的后缀 -et。經由中古英語進入英語。原義指捆扎好的小包裹或信件包，現代泛指裝有食品、藥品或日用品的小型袋裝或盒裝包裝。",
+      "definition": "1. a small paper or cardboard container in which goods are packed for sale; 2. a small parcel or package.",
+      "example": [
+        {
+          "eng": "She opened a packet of sugar to sweeten her coffee.",
+          "ch": "她開了一小包糖來讓咖啡變甜。"
+        }
+      ]
+    },
+    {
+      "eng": "paddle",
+      "kk": "/ˈpædəl/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "用槳劃（船）",
+          "撥水"
+        ]
+      ],
+      "analysis": "此字源自日耳曼語族或荷蘭語平臺（如荷蘭語 paddel 或 paddle，意指短槳）。作及物動詞時，指手持短槳或船槳在水中撥動以推進船隻，或用手腳在水中拍打、涉水而行。",
+      "definition": "1. to move a boat through water using a paddle; 2. to move one's hands or feet through shallow water.",
+      "example": [
+        {
+          "eng": "They paddled the canoe across the calm lake.",
+          "ch": "他們用槳劃獨木舟渡過平靜的湖泊。"
+        }
+      ]
+    },
+    {
+      "eng": "paddle",
+      "kk": "/ˈpædəl/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "劃槳",
+          "涉水嬉戲"
+        ]
+      ],
+      "analysis": "作為不及物動詞，paddle 指人在水中划船，或赤腳在淺水中行走、嬉水，不需直接受詞。",
+      "definition": "1. to propel a boat with a paddle; 2. to walk with bare feet in shallow water for pleasure.",
+      "example": [
+        {
+          "eng": "The children took off their shoes and paddled in the shallow stream.",
+          "ch": "孩子們脫掉鞋子，在淺淺的小溪中涉水嬉戲。"
+        }
+      ]
+    },
+    {
+      "eng": "paperback",
+      "kk": "/ˈpeɪpərˌbæk/",
+      "tense": "n.",
+      "ch": [
+        [
+          "平裝書",
+          "平裝本"
+        ]
+      ],
+      "analysis": "此字為現代透明複合詞，由 paper（紙）與 back（書脊、背面）結合而成。指封面和書背採用厚紙板而非硬質精裝材料製成的書籍，出版物中常見且價格較為經濟。",
+      "definition": "1. a book with a flexible paper or card cover rather than a hard cover.",
+      "example": [
+        {
+          "eng": "I bought the novel in paperback because it was much cheaper.",
+          "ch": "我買了這本小說的平裝本，因為便宜得多。"
+        }
+      ]
+    },
+    {
+      "eng": "paradox",
+      "kk": "/ˈpɛrəˌdɑks/",
+      "tense": "n.",
+      "ch": [
+        [
+          "悖論",
+          "矛盾的說法",
+          "似是而非的議論"
+        ]
+      ],
+      "analysis": "此字為歷史借詞。源自中世紀拉丁語 paradoxum，其源自古希臘語 paradoxon（意為「出乎意料的、與常理相反的」），由 para-（超越、反抗、違背）與 doxa（觀點、意見、信念，源自 dokein 認為、顯現）複合而成。字面義為「與普遍觀點相左的意見」。現代英語指表面上看似矛盾或荒謬，但深入探討後可能包含真理的陳述或現象。",
+      "definition": "1. a seemingly absurd or self-contradictory statement or proposition that when investigated or explained may prove to be well-founded or true.",
+      "example": [
+        {
+          "eng": "It is a paradox that the more money you spend on advertising, the more you might sell, yet profits could drop.",
+          "ch": "這是一個悖論：你在廣告上花的錢越多，銷量可能越大，但利潤卻可能下降。"
+        }
+      ]
+    },
+    {
+      "eng": "paralyze",
+      "kk": "/ˈpɛrəˌlaɪz/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使癱瘓",
+          "使麻痺"
+        ],
+        [
+          "使陷入癱瘓狀態"
+        ]
+      ],
+      "analysis": "此字為歷史借詞與現代派生詞。源自中世紀拉丁語 paralyzare，其源自古希臘語 paralysis（癱瘓、放鬆），由 para-（旁、異常）與 lysis（解開、鬆弛，源自 lyein 解開）複合而成。透過法語轉入英語。字面義為「神經或身體機能的鬆弛與失控」。現代英語中既可指肉體神經受損導致癱瘓，也可引申為社會、經濟或交通系統因故陷入停頓與癱瘓。",
+      "definition": "1. to cause a person, body part, or animal to lose the ability to move or feel; 2. to bring a place or system to a standstill.",
+      "example": [
+        {
+          "eng": "The poison from the snakebite can paralyze the nervous system.",
+          "ch": "蛇毒會使神經系統癱瘓。"
+        },
+        {
+          "eng": "A massive snowstorm threatened to paralyze the entire city.",
+          "ch": "一場大風雪威脅要使整個城市陷入癱瘓。"
+        }
+      ]
+    },
+    {
+      "eng": "parliament",
+      "kk": "/ˈpɑrləmənt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "議會",
+          "國會"
+        ]
+      ],
+      "analysis": "此字為歷史借詞。源自古法語 parlement（協商、談判、會議），衍生自動詞 parler（說話、交談，源自晚期拉丁語 parabolare）。經由中古英語進入英語。原義指封建時代君主的諮詢會議或正式談判，現代特指民主國家的立法機構、議會或國會（如英國國會）。",
+      "definition": "1. the highest legislative body in a parliamentary democracy, consisting of a sovereign and elected representatives.",
+      "example": [
+        {
+          "eng": "The members of parliament debated the new tax bill for hours.",
+          "ch": "國會議員就新的稅收法案辯論了數小時。"
+        }
+      ]
+    },
+    {
+      "eng": "pastime",
+      "kk": "/ˈpæsˌtaɪm/",
+      "tense": "n.",
+      "ch": [
+        [
+          "消遣",
+          "娛樂",
+          "消磨時間的活動"
+        ]
+      ],
+      "analysis": "此字為歷史複合詞。由動詞 pass（渡過、度過）與名詞 time（時間）結合而成，字面義為「度過時間的活動」。中古英語時期即已出現。指人們在工作或責任之外，為了休閒放鬆而從事的興趣或娛樂活動。",
+      "definition": "1. an activity that someone does regularly for enjoyment when they are not working; a hobby or recreation.",
+      "example": [
+        {
+          "eng": "Gardening is her favorite pastime during the spring and summer.",
+          "ch": "園藝是她春夏期間最喜愛的消遣。"
+        }
+      ]
+    },
+    {
+      "eng": "patriot",
+      "kk": "/ˈpeɪtriət/",
+      "tense": "n.",
+      "ch": [
+        [
+          "愛國者"
+        ]
+      ],
+      "analysis": "此字為歷史借詞。源自法語 patriote 或直接借自中世紀拉丁語 patriota（同鄉、祖國同胞），其最終源自古希臘語 patriōtēs（同胞），源自 patrios（祖國的、父親的），衍生自 patēr（父親）。經由十六世紀英語借入。指熱愛並忠誠於自己國家、願為其利益奉獻的人。",
+      "definition": "1. a person who vigorously supports their country and is prepared to defend it against enemies or discontents.",
+      "example": [
+        {
+          "eng": "He was hailed as a true patriot who fought for his country's freedom.",
+          "ch": "他被譽為一位為國家自由而戰的真正愛國者。"
+        }
+      ]
+    },
+    {
+      "eng": "patriotic",
+      "kk": "/ˌpeɪtriˈɑtɪk/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "愛國的",
+          "具愛國主義精神的"
+        ]
+      ],
+      "analysis": "此字由名詞 patriot 加上形容詞字尾 -ic 衍生而成。歷史上在十八世紀形成。用來修飾展現對國家熱愛、忠誠或支持的行為、情緒、歌曲或人物。",
+      "definition": "1. having or expressing devotion to and vigorous support for one's country.",
+      "example": [
+        {
+          "eng": "The crowd sang patriotic songs to celebrate National Day.",
+          "ch": "群眾高唱愛國歌曲來慶祝國慶日。"
+        }
+      ]
+    },
+    {
+      "eng": "peacock",
+      "kk": "/ˈpiˌkɑk/",
+      "tense": "n.",
+      "ch": [
+        [
+          "孔雀",
+          "雄孔雀"
+        ]
+      ],
+      "analysis": "此字為歷史複合詞。前半部分 pea 源自古英語 pīwa / pēow（借自拉丁語 pavo 孔雀），後半部分 cock（公雞）。古英語時期即有 pēacoc。特指雄性、尾羽華麗開屏的孔雀，常比喻虛榮或愛炫耀的人。",
+      "definition": "1. a large male bird with very long, bright blue and green tail feathers that it can spread out like a fan.",
+      "example": [
+        {
+          "eng": "The magnificent peacock spread its feathers to attract a mate.",
+          "ch": "這隻華麗的雄孔雀展開羽毛來吸引配偶。"
+        }
+      ]
+    },
+    {
+      "eng": "pebble",
+      "kk": "/ˈpɛbəl/",
+      "tense": "n.",
+      "ch": [
+        [
+          "小圓石",
+          "卵石"
+        ]
+      ],
+      "analysis": "此字為歷史繼承詞。源自古英語 papol-（如 papolstān 卵石），其語源可能與古代日耳曼語族或擬聲疊音有關。經由中古英語 pebbel 演變而來。指經水流沖刷而圓潤的小石子。",
+      "definition": "1. a small, smooth, rounded stone, especially one found on a beach or riverbed.",
+      "example": [
+        {
+          "eng": "The children skipped flat pebbles across the surface of the pond.",
+          "ch": "孩子們將扁平的小圓石在池塘水面上打水漂。"
+        }
+      ]
+    },
+    {
+      "eng": "peek",
+      "kk": "/pik/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "偷看",
+          "窺視"
+        ]
+      ],
+      "analysis": "此字為歷史來源不明的日耳曼語族相關詞（可能與中古荷蘭語 pieken 或方言有關，十五世紀左右出現）。作為不及物動詞，指偷偷地、從狹窄的縫隙中或短暫地瞄一眼本不該公開或完全看見的事物。",
+      "definition": "1. to look secretly, slyly, or furtively, especially through a small opening or for a short time.",
+      "example": [
+        {
+          "eng": "The children tried to peek into the wrapped boxes to see their gifts.",
+          "ch": "孩子們試圖偷看包裝好的盒子以瞧瞧他們的禮物。"
+        }
+      ]
+    },
+    {
+      "eng": "pending",
+      "kk": "/ˈpɛndɪŋ/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "待定的",
+          "未決的",
+          "即將發生審理的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 pendere（懸掛、懸而未決）的現在分詞形式 pendens，經由拉丁語法律用語進入中世紀英語。在現代英語中作為形容詞使用，指事情仍在等待最終決定、審判、結果或簽署的狀態。",
+      "definition": "1. awaiting decision or settlement; ongoing or not yet decided.",
+      "example": [
+        {
+          "eng": "His promotion is still pending approval from the board of directors.",
+          "ch": "他的升職仍在等待董事會的批准。"
+        }
+      ]
+    },
+    {
+      "eng": "peninsula",
+      "kk": "/pəˈnɪnsələ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "半島"
+        ]
+      ],
+      "analysis": "此字為歷史借詞。源自拉丁語 paeninsula，由 paene（幾乎、差不多）與 insula（島嶼）複合而成。字面義即「幾乎是島嶼」的陸地。經由文藝復興時期學術英語引入。指三面環水、一面連接大陸的狹長地理地形。",
+      "definition": "1. a piece of land almost surrounded by water or projecting out into a body of water.",
+      "example": [
+        {
+          "eng": "Italy is a boot-shaped peninsula extending into the Mediterranean Sea.",
+          "ch": "義大利是一個延伸至地中海的靴形半島。"
+        }
+      ]
+    },
+    {
+      "eng": "perch",
+      "kk": "/pɜrtʃ/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "棲息",
+          "停留",
+          "暫時坐落"
+        ]
+      ],
+      "analysis": "此字為歷史借詞。源自古法語 perche（竿子、棍子），其源自拉丁語 pertica（長竿）。經由中古英語進入英語，最初指鳥類停駐的枝條或竿子，隨後引申為動詞，指鳥兒或人停歇、高高坐立在某個狹窄或高處的邊緣上。",
+      "definition": "1. to rest or sit on a high or narrow surface, especially like a bird on a branch.",
+      "example": [
+        {
+          "eng": "A small sparrow perched on the top branch of the tree.",
+          "ch": "一隻小麻雀棲息在樹的頂端枝頭上。"
+        }
+      ]
+    },
+    {
+      "eng": "peril",
+      "kk": "/ˈpɛrəl/",
+      "tense": "n.",
+      "ch": [
+        [
+          "危險",
+          "險境"
+        ]
+      ],
+      "analysis": "此字為歷史借詞。源自古法語 perill，其源自拉丁語 periculum（危險、風險、試煉），與動詞 periri（試探、冒險）相關。經由中古英語進入英語。指嚴重的危險、威脅或可能導致傷害的險境。",
+      "definition": "1. serious and immediate danger.",
+      "example": [
+        {
+          "eng": "The climbers realized they were in grave peril when the blizzard started.",
+          "ch": "當暴風雪開始時，登山者們意識到他們身處極度危險之中。"
+        }
+      ]
+    },
+    {
+      "eng": "perish",
+      "kk": "/ˈpɛrɪʃ/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "死亡",
+          "湮滅"
+        ],
+        [
+          "腐爛毀壞"
+        ]
+      ],
+      "analysis": "此字為歷史借詞。源自古法語 periss-（動詞 perir 的詞幹），其源自拉丁語 perire（消亡、毀壞），由 per-（完全、向壞的方向）與 ire（走）複合而成。經由中古英語進入英語。指生物死亡、物體毀壞、腐爛或文明、理念的消亡。",
+      "definition": "1. to die, especially in a violent or sudden way; 2. to be destroyed or ruined; to decay.",
+      "example": [
+        {
+          "eng": "Thousands of people perished in the devastating earthquake.",
+          "ch": "數千人在這場毀滅性的大地震中喪生。"
+        },
+        {
+          "eng": "Rubber will eventually perish and crack if exposed to direct sunlight.",
+          "ch": "橡膠如果暴露在陽光直射下，最終會腐爛毀壞並龜裂。"
+        }
+      ]
+    },
+    {
+      "eng": "permissible",
+      "kk": "/pərˈmɪsəbəl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "可允許的",
+          "獲得許可的"
+        ]
+      ],
+      "analysis": "此字由拉丁語動詞 permiss-（permit 的過去分詞詞幹，源自 per- + mittere 放）加上形容詞字尾 -ible 構成，經由中古法語或中世紀拉丁語進入英語。指符合規定、法律或道德標準，被允許進行的行為或狀態。",
+      "definition": "1. permitted; allowed according to rules, laws, or official policies.",
+      "example": [
+        {
+          "eng": "Parking in front of the fire hydrant is not permissible under any circumstances.",
+          "ch": "在任何情況下，將車停在消防栓前都是不被允許的。"
+        }
+      ]
+    },
+    {
+      "eng": "persevere",
+      "kk": "/ˌpɜrsəˈvɪr/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "堅持不懈",
+          "不屈不撓"
+        ]
+      ],
+      "analysis": "此字為歷史借詞。源自拉丁語 perseverare（持續、堅持），由 per-（徹底、持續）與 severus（嚴肅的、嚴格的、堅定的）複合而成。經由中世紀法語與中古英語進入英語。指在面對困難、阻礙或挫折時，仍然堅定意志、繼續努力不放棄。",
+      "definition": "1. to continue in a course of action even in the face of difficulty or with little or no prospect of success.",
+      "example": [
+        {
+          "eng": "Despite numerous failures, she persevered until she achieved her goal.",
+          "ch": "儘管經歷無數次失敗，她仍堅持不懈，直到實現目標。"
+        }
+      ]
+    },
+    {
+      "eng": "persistence",
+      "kk": "/pərˈsɪstəns/",
+      "tense": "n.",
+      "ch": [
+        [
+          "堅持",
+          "固執"
+        ],
+        [
+          "持續"
+        ]
+      ],
+      "analysis": "此字由拉丁語動詞 persistere（堅持，由 per- + sistere 站立）衍生出的名詞字尾 -ence 構成。指持續不懈的努力、品質，或某種現象（如疾病、記憶、污染）在一段時間內持續存在而不消失。",
+      "definition": "1. firm or obstinate continuance in a course of action in spite of difficulty or opposition; 2. the continuous occurrence of something over a prolonged period.",
+      "example": [
+        {
+          "eng": "His persistence finally paid off when he passed the difficult bar exam.",
+          "ch": "當他通過困難的律師資格考試時，他的堅持終於有了回報。"
+        },
+        {
+          "eng": "The persistence of toxic chemicals in the soil poses a threat to local wildlife.",
+          "ch": "土壤中有毒化學物質的持續存在對當地野生動物構成了威脅。"
+        }
+      ]
+    },
+    {
+      "eng": "persistent",
+      "kk": "/pərˈsɪstənt/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "堅持不懈的",
+          "固執的"
+        ],
+        [
+          "持續的",
+          "難以根除的"
+        ]
+      ],
+      "analysis": "此字為拉丁語 persistere 的現在分詞形容詞化形式（persistent-），由 per- + sistere 構成。用來修飾人堅持不屈的性格，或指某種不良狀況、氣味、咳嗽等持續存在、久久不散的現象。",
+      "definition": "1. continuing firmly or obstinately in a course of action; 2. continuing to exist or occur over a prolonged period.",
+      "example": [
+        {
+          "eng": "She is a persistent researcher who never gives up on a complex problem.",
+          "ch": "她是一位堅持不懈的研究員，對複雜的問題從不放棄。"
+        },
+        {
+          "eng": "She sought medical advice for a persistent cough that lasted three weeks.",
+          "ch": "她因持續三周的久咳不癒而尋求醫療建議。"
+        }
+      ]
+    },
+    {
+      "eng": "petrol",
+      "kk": "/ˈpɛtrəl/",
+      "tense": "n.",
+      "ch": [
+        [
+          "汽油（英式用法）"
+        ]
+      ],
+      "analysis": "此字為近代化學與商業簡稱。源自 petroleum（石油）的前綴 petro-（源自拉丁語 petra 石頭）加上表示化學液體的縮寫字尾 -ol。十九世紀末由英國商業公司用來指精煉自石油的揮發性燃油，為英式英語中「汽油」的標準稱呼（美式英語稱 gasoline）。",
+      "definition": "1. refined petroleum used as fuel for internal combustion engines (chiefly British).",
+      "example": [
+        {
+          "eng": "The driver stopped at the local station to fill the car with petrol.",
+          "ch": "駕駛在當地加油站停下來為汽車加滿汽油。"
+        }
+      ]
+    },
+    {
+      "eng": "petroleum",
+      "kk": "/pəˈtroʊliəm/",
+      "tense": "n.",
+      "ch": [
+        [
+          "石油"
+        ]
+      ],
+      "analysis": "此字為歷史學術借詞。源自中世紀拉丁語 petroleum，由 petra（石頭，源自希臘語）與 oleum（油，源自希臘語 elaion）複合而成。字面義為「石油」。十六世紀經由拉丁語引入英語，指自地層中開採出來的天然混合液態碳氫化合物。",
+      "definition": "1. a dark, thick oil obtained from underground, from which various fuels and other products are refined.",
+      "example": [
+        {
+          "eng": "Many modern industrial products are manufactured using by-products of petroleum.",
+          "ch": "許多現代工業產品都是利用石油的副產品製造的。"
+        }
+      ]
+    },
+    {
+      "eng": "pharmacist",
+      "kk": "/ˈfɑrməsɪst/",
+      "tense": "n.",
+      "ch": [
+        [
+          "藥劑師",
+          "藥師"
+        ]
+      ],
+      "analysis": "此字由名詞 pharmacy（藥房、藥學）加上表示專業從業人員的字尾 -ist 構成。近代科學分工下形成。指受過專業訓練、獲得執照，負責調配、核發處方藥並提供藥事諮詢的專業人員。",
+      "definition": "1. a health professional who is licensed to prepare and dispense prescription drugs and provide advice on their use.",
+      "example": [
+        {
+          "eng": "The pharmacist explained how to take the prescribed medicine safely.",
+          "ch": "藥劑師解釋了如何安全服用處方藥。"
+        }
+      ]
+    },
+    {
+      "eng": "pharmacy",
+      "kk": "/ˈfɑrməsi/",
+      "tense": "n.",
+      "ch": [
+        [
+          "藥局",
+          "藥房"
+        ],
+        [
+          "藥學"
+        ]
+      ],
+      "analysis": "此字為歷史借詞。源自古法語 farmacie，其源自晚期拉丁語 pharmacia，最終源自古希臘語 pharmakeia（使用藥物、巫術、毒藥），源自 pharmakon（藥物、毒藥）。經由中古英語進入英語。現代用來指販售藥品、醫療用品的藥局，或研究藥物配置的藥學學科。",
+      "definition": "1. a shop or hospital dispensary where medicinal drugs are prepared or sold; 2. the branch of science concerned with the preparation and dispensing of medical drugs.",
+      "example": [
+        {
+          "eng": "I need to pick up my prescription at the local pharmacy.",
+          "ch": "我需要去當地的藥局領取我的處方箋藥品。"
+        },
+        {
+          "eng": "She decided to study pharmacy at the university to become a licensed chemist.",
+          "ch": "她決定在大學修讀藥學，以便成為一名有牌照的藥劑師。"
+        }
+      ]
+    },
+    {
+      "eng": "pianist",
+      "kk": "/ˈpiənɪst/",
+      "tense": "n.",
+      "ch": [
+        [
+          "鋼琴家",
+          "鋼琴手"
+        ]
+      ],
+      "analysis": "此字由義大利語借詞 piano（鋼琴，全稱為 pianoforte）加上表示從事該職業或專長者的名詞字尾 -ist 結合而成。十九世紀歐洲音樂文化盛行時普及至英語。指演奏鋼琴的專業音樂家或表演者。",
+      "definition": "1. a person who plays the piano, especially professionally.",
+      "example": [
+        {
+          "eng": "The classical pianist received a standing ovation after the concert.",
+          "ch": "這位古典鋼琴家在音樂會後獲得全場起立鼓掌致敬。"
+        }
+      ]
+    },
+    {
+      "eng": "pickpocket",
+      "kk": "/ˈpɪkˌpɑkɪt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "扒手"
+        ]
+      ],
+      "analysis": "此字為現代透明複合詞。由動詞 pick（挑選、撬開、偷竊）與名詞 pocket（口袋）結合而成。十六世紀晚期開始使用。字面義即「把手伸入口袋中偷竊的人」，指專門在人群中偷取他人錢包或財物的扒手。",
+      "definition": "1. a thief who steals money or valuables from other people's pockets, especially in public places.",
+      "example": [
+        {
+          "eng": "The tourist was targeted by a pickpocket while riding the crowded subway.",
+          "ch": "這名遊客在搭乘擁擠的地鐵時成了扒手的目標。"
+        }
+      ]
+    },
+    {
+      "eng": "pilgrim",
+      "kk": "/ˈpɪlgrəm/",
+      "tense": "n.",
+      "ch": [
+        [
+          "朝聖者",
+          "香客"
+        ]
+      ],
+      "analysis": "此字為歷史借詞。源自古普羅旺斯語或古法語 pelegrin，其源自拉丁語 peregrinus（異鄉人、外國旅客），由 peregre（在國外，源自 per- 過、跨越 + ager 土地、鄉野）演變而來。經由中古英語進入英語。中世紀歐洲基督教文化中，原義指遠行前往聖地參拜的旅客，現代泛指任何前往具有神聖或歷史意義地點的朝聖者。",
+      "definition": "1. a person who journeys to a sacred place for religious reasons.",
+      "example": [
+        {
+          "eng": "Thousands of pilgrims travel to Mecca every year for the Hajj.",
+          "ch": "每年有數千名朝聖者前往麥加進行朝覲。"
+        }
+      ]
+    },
+    {
+      "eng": "pimple",
+      "kk": "/ˈpɪmpəl/",
+      "tense": "n.",
+      "ch": [
+        [
+          "粉刺",
+          "青春痘",
+          "丘疹"
+        ]
+      ],
+      "analysis": "此字為歷史繼承詞。源自古英語 pinples（皮膚上的小疙瘩或腫塊），其語源與中古荷蘭語或日耳曼語族中的小凸起詞彙相關。經由中古英語 pimple 演變而來。指皮膚上因油脂腺阻塞或發炎而形成的小丘疹。",
+      "definition": "1. a small raised spot on the skin, especially a small inflamed spot.",
+      "example": [
+        {
+          "eng": "She was upset to find a large pimple on her forehead before the party.",
+          "ch": "她很沮喪在派對前發現額头上有一顆大青春痘。"
+        }
+      ]
+    },
+    {
+      "eng": "pinch",
+      "kk": "/pɪntʃ/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "捏",
+          "掐"
+        ],
+        [
+          "夾痛"
+        ]
+      ],
+      "analysis": "此字為歷史借詞。源自古法語 pincer（捏、夾），其源自日耳曼語族。經由中古英語進入英語。作及物動詞時，指用拇指和食指緊緊夾住、捏住皮膚或物品，亦可指鞋子太緊夾腳疼痛。",
+      "definition": "1. to squeeze skin tightly between the thumb and finger; 2. to cause pain by being too tight.",
+      "example": [
+        {
+          "eng": "She pinched her brother playfully on the arm.",
+          "ch": "她開玩笑地捏了她哥哥的手臂一下。"
+        },
+        {
+          "eng": "These new shoes are pinching my toes.",
+          "ch": "這雙新鞋夾得我的腳趾很痛。"
+        }
+      ]
+    },
+    {
+      "eng": "plague",
+      "kk": "/pleɪɡ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "瘟疫",
+          "傳染病"
+        ],
+        [
+          "禍患",
+          "大災害"
+        ]
+      ],
+      "analysis": "此字為歷史借詞。源自拉丁語 plaga（打擊、傷口、災難），其源自希臘語 plēgē（打擊）。經由古普羅旺斯語或法語與中古英語進入英語。原義指神明降下的打擊與天災，後專指黑死病等毀滅性的傳染病，亦可泛指任何持續困擾人的災難或害蟲之災。",
+      "definition": "1. a contagious bacterial disease that is characterized by fever and delirium, typically spreading through fleas on rodents; 2. a cause of annoyance or a destructive pestilence.",
+      "example": [
+        {
+          "eng": "The bubonic plague wiped out a large portion of Europe's population in the Middle Ages.",
+          "ch": "腺鼠疫在中古時期消滅了歐洲很大一部分人口。"
+        },
+        {
+          "eng": "The farmers faced a plague of locusts that destroyed their entire harvest.",
+          "ch": "農夫們面臨了一場蝗災，摧毀了他們所有的收成。"
+        }
+      ]
+    },
+    {
+      "eng": "plantation",
+      "kk": "/plænˈteɪʃən/",
+      "tense": "n.",
+      "ch": [
+        [
+          "大型種植園",
+          "農場"
+        ],
+        [
+          "人造林"
+        ]
+      ],
+      "analysis": "此字由拉丁語 plantare（種植，源自 planta 植物、腳底）衍生出的名詞 plantat- 加上字尾 -ion 構成。經由法語或文藝復興拉丁語進入英語。原義指栽種植物的行為，後專指熱帶或亞熱帶地區種植經濟作物（如棉花、甘蔗、咖啡）的大型莊園，亦可指人工栽種的大片林木。",
+      "definition": "1. an estate on which crops such as coffee, sugar, and tobacco are cultivated by resident labor; 2. a large artificially planted area of trees.",
+      "example": [
+        {
+          "eng": "The historical novel describes life on a southern cotton plantation.",
+          "ch": "這部歷史小說描繪了南方棉花種植園的生活。"
+        },
+        {
+          "eng": "The government initiated a massive pine plantation project to protect the soil.",
+          "ch": "政府啟動了一項大型松樹人造林計畫以保護土壤。"
+        }
+      ]
+    },
+    {
+      "eng": "playwright",
+      "kk": "/ˈpleɪˌraɪt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "劇作家"
+        ]
+      ],
+      "analysis": "此字為歷史複合詞。前半部分 play 源自古英語 plegian（戲劇、遊戲），後半部分 wright 源自古英語 wryhta（工匠、建造者，源自 wyrcan 建造、工作）。雖然讀音與 write（寫）相同，但字面義實為「製造戲劇的工匠」，反映了早期工匠造物的歷史傳統。專指專門創作戲劇劇本的作家。",
+      "definition": "1. a person who writes plays; a dramatist.",
+      "example": [
+        {
+          "eng": "William Shakespeare is widely regarded as the greatest playwright in history.",
+          "ch": "威廉·莎士比亞被普遍認為是歷史上最偉大的劇作家。"
+        }
+      ]
+    },
+    {
+      "eng": "plow",
+      "kk": "/plaʊ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "犁",
+          "耕犁"
+        ]
+      ],
+      "analysis": "此字為歷史繼承詞。源自古英語 plōg（犁，其源自日耳曼語族）。經由中古英語 plough 演變而來（美式拼字常用 plow）。指農業上用於翻鬆土壤、耕作農田的大型農具。",
+      "definition": "1. a large farming tool with sharp blades used for cutting, turning over, and breaking up soil.",
+      "example": [
+        {
+          "eng": "The farmer attached a steel plow to his tractor to prepare the field for planting.",
+          "ch": "農夫將鋼犁安裝在拖拉機上，以為播種準備田地。"
+        }
+      ]
+    },
+    {
+      "eng": "pneumonia",
+      "kk": "/nuˈmoʊnyə/",
+      "tense": "n.",
+      "ch": [
+        [
+          "肺炎"
+        ]
+      ],
+      "analysis": "此字為歷史學術借詞。源自希臘語 pneumōn（肺，源自 pnein 呼吸），加上表示疾病的名詞字尾 -ia。十八世紀醫學英語採納此詞。指肺部感染發炎、肺泡充滿膿液與液體的嚴重呼吸道疾病。",
+      "definition": "1. lung inflammation caused by bacterial or viral infection, in which the air sacs fill with pus and may become solid.",
+      "example": [
+        {
+          "eng": "Elderly people are particularly vulnerable to developing severe pneumonia.",
+          "ch": "老年人特別容易罹患嚴重的肺炎。"
+        }
+      ]
+    },
+    {
+      "eng": "polar",
+      "kk": "/ˈpoʊlər/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "極地的",
+          "磁極的"
+        ],
+        [
+          "截然對立的"
+        ]
+      ],
+      "analysis": "此字由名詞 pole（地極、磁極，源自希臘語 polos 轉軸、樞紐）加上形容詞字尾 -ar 構成。經由中世紀拉丁語 polaris 進入英語。原義指與地球南北極或磁極相關的，現代科學與日常引申中，也用來形容觀點、立場或性質完全相反、兩極化的狀態。",
+      "definition": "1. relating to or near the North or South Pole; 2. directly opposite in character or tendency.",
+      "example": [
+        {
+          "eng": "Polar bears are specially adapted to survive in freezing Arctic conditions.",
+          "ch": "北極熊特別適應在極地嚴寒的環境中生存。"
+        },
+        {
+          "eng": "The two brothers hold polar views on political issues.",
+          "ch": "這兩兄弟在政治議題上持有截然對立的觀點。"
+        }
+      ]
+    },
+    {
+      "eng": "ponder",
+      "kk": "/ˈpɑndər/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "沉思",
+          "思索",
+          "仔細考慮"
+        ]
+      ],
+      "analysis": "此字為歷史借詞。源自拉丁語 ponderare（秤重量、衡量、深思），其源自 pondus（重量，源自 pendere 懸掛、稱重）。經由中古英語進入英語。原義為「掂量重量」，後引申為在心中反覆衡量、沉思、仔細考量各種可能性與含意。",
+      "definition": "1. to think about something carefully, especially before making a decision or reaching a conclusion.",
+      "example": [
+        {
+          "eng": "He sat quietly by the window to ponder his career options.",
+          "ch": "他靜靜地坐在窗邊，思索著他的職涯選擇。"
+        }
+      ]
+    },
+    {
+      "eng": "pony",
+      "kk": "/ˈpoʊni/",
+      "tense": "n.",
+      "ch": [
+        [
+          "小馬",
+          "矮馬"
+        ]
+      ],
+      "analysis": "此字為歷史借詞。源自古法語 poulenet（小馬駒的指小詞），其源自拉丁語 pullus（幼獸、馬駒）。經由中古英語 pooney 或 poney 進入英語。指體型較一般馬匹嬌小的各類矮馬品種，也常作為兒童騎乘的動物。",
+      "definition": "1. a horse of a small breed or a small individual horse.",
+      "example": [
+        {
+          "eng": "The children were thrilled to ride gentle ponies at the county fair.",
+          "ch": "孩子們很高興能在鄉鎮集市上騎溫馴的小馬。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1124 @@
+{
+  "level": 4,
+  "chunkIndex": 5,
+  "inputs": [
+    "construct",
+    "construction",
+    "constructive",
+    "consult",
+    "consultant",
+    "consume",
+    "consumer",
+    "container",
+    "content",
+    "contentment",
+    "contest",
+    "context",
+    "continual",
+    "continuous",
+    "contrary",
+    "contrast",
+    "contribute",
+    "contribution",
+    "convenience",
+    "convention",
+    "conventional",
+    "converse",
+    "convey",
+    "convince",
+    "cooperate",
+    "cooperation",
+    "cooperative",
+    "cope",
+    "copper",
+    "cord",
+    "correspond",
+    "costume",
+    "cottage",
+    "council",
+    "counter",
+    "courageous",
+    "courtesy",
+    "coward",
+    "crack",
+    "craft",
+    "creation",
+    "creativity",
+    "creep",
+    "critic",
+    "critical",
+    "criticism",
+    "criticize",
+    "cruelty",
+    "crunchy",
+    "crush"
+  ],
+  "rows": [
+    {
+      "eng": "construct",
+      "kk": "kənˈstrʌkt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "建造",
+          "建設",
+          "修建"
+        ],
+        [
+          "創立",
+          "構思",
+          "建構"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由拉丁語字首 con-（共同、加強）與動詞字根 struere（建造、堆疊）結合而成，經由中世紀晚期英語進入英語。作為及物動詞，其核心義為組合材料以建造實體物，隨後語義抽象化，延伸出在心智中構思、創立理論或系統的用法。",
+      "definition": "1. to build or form something such as a building, road, or machine by putting parts together; 2. to create or form an idea, theory, or system by combining various elements.",
+      "example": [
+        {
+          "eng": "The city plans to construct a new bridge across the river.",
+          "ch": "這座城市計畫在河上建造一座新橋。"
+        },
+        {
+          "eng": "Scientists construct a theoretical model to explain the phenomenon.",
+          "ch": "科學家建構了一個理論模型來解釋這種現象。"
+        }
+      ]
+    },
+    {
+      "eng": "construction",
+      "kk": "kənˈstrʌkʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "建設",
+          "建造",
+          "施工"
+        ],
+        [
+          "建築物",
+          "構造"
+        ],
+        [
+          "構想",
+          "創建",
+          "結構"
+        ]
+      ],
+      "analysis": "此字為動詞 construct 的名詞衍生形，加上名詞字尾 -ion（表示動作過程或結果）。歷史上源自拉丁語 constructio，經由古法語進入英語。語義上涵蓋建造的動作與過程、建造出的實體建築物、抽象概念的創建，以及語言學中的句型結構。",
+      "definition": "1. the process or industry of building things such as houses, roads, or bridges; 2. a building or other structure built on a site; 3. the way in which something is built, formed, or arranged, including grammatical structures.",
+      "example": [
+        {
+          "eng": "The new highway is currently under construction.",
+          "ch": "這條新公路目前正在施工中。"
+        },
+        {
+          "eng": "The ancient temple is an impressive wooden construction.",
+          "ch": "這座古老的寺廟是一座令人印象深刻的木造建築。"
+        },
+        {
+          "eng": "Students need to understand the grammatical construction of complex sentences.",
+          "ch": "學生需要理解複雜句子的文法結構。"
+        }
+      ]
+    },
+    {
+      "eng": "constructive",
+      "kk": "kənˈstrʌktɪv",
+      "tense": "adj.",
+      "ch": [
+        [
+          "建設性的",
+          "有助益的"
+        ]
+      ],
+      "analysis": "此字由動詞 construct 加上形容詞字尾 -ive（具有……傾向或性質的）構成。歷史上透過拉丁語組合直接進入英語。用以形容意見、批評或討論不是破壞性的，而是能帶來實質改善、正面幫助或具建設性成果的。",
+      "definition": "1. serving to improve or advance; having a positive and helpful effect rather than being negative or harmful.",
+      "example": [
+        {
+          "eng": "The manager offered constructive feedback during the performance review.",
+          "ch": "經理在績效考核中提供了具建設性的回饋。"
+        }
+      ]
+    },
+    {
+      "eng": "consult",
+      "kk": "kənˈsʌlt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "請教",
+          "諮詢",
+          "查閱"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 consultare（商議、請教），由 con-（共同）與根源 serere/sultare（商討、串聯）結合而成。作為及物動詞，其核心義為向專家尋求意見、商討對策，或為了獲取資訊而查閱書籍、地圖等資料。",
+      "definition": "1. to seek information, advice, or a professional opinion from someone, or to look up information in a book or map.",
+      "example": [
+        {
+          "eng": "You should consult a doctor if the symptoms persist.",
+          "ch": "如果症狀持續，你應該去諮詢醫生。"
+        }
+      ]
+    },
+    {
+      "eng": "consultant",
+      "kk": "kənˈsʌltənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "顧問",
+          "高級諮詢醫師"
+        ]
+      ],
+      "analysis": "此字由動詞 consult 加上現在分詞轉名詞字尾 -ant（表示人）構成。歷史上由拉丁語 consultant- 演變而來。現代主要指受聘提供專業建議與諮詢服務的專家，或醫療體系中的資深專科主治醫師。",
+      "definition": "1. a person who provides expert professional advice in a particular field, or a senior specialist doctor in a hospital.",
+      "example": [
+        {
+          "eng": "The company hired an IT consultant to upgrade their security system.",
+          "ch": "這家公司聘請了一位資訊科技顧問來升級他們的安全系統。"
+        }
+      ]
+    },
+    {
+      "eng": "consume",
+      "kk": "kənˈsuːm",
+      "tense": "vt.",
+      "ch": [
+        [
+          "消費",
+          "消耗",
+          "吃喝"
+        ],
+        [
+          "吞噬",
+          "毀滅",
+          "使極度著迷"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 consumere，由 con-（加強語氣）與 sumere（拿取、使用）組成。基本義為用盡、吃掉或消耗資源；引申義則指火災、情感等徹底吞噬、毀滅某物，或使人內心被強烈的情緒所佔據。",
+      "definition": "1. to use up resources such as time, energy, or fuel, or to eat and drink something; 2. to destroy completely, or to occupy someone's thoughts or emotions intensely.",
+      "example": [
+        {
+          "eng": "Modern vehicles consume less fuel than older models.",
+          "ch": "現代車輛比舊車型消耗更少的燃料。"
+        },
+        {
+          "eng": "He was consumed by a deep sense of guilt.",
+          "ch": "他被深深的罪惡感所吞噬。"
+        }
+      ]
+    },
+    {
+      "eng": "consumer",
+      "kk": "kənˈsuːmər",
+      "tense": "n.",
+      "ch": [
+        [
+          "消費者",
+          "顧客"
+        ]
+      ],
+      "analysis": "此字由動詞 consume 加上名詞字尾 -er（表示做……動作的人）構成。在中世紀晚期英語中形成，指購買並使用商品或服務的最終使用者，在經濟學與日常生活中為高頻詞彙。",
+      "definition": "1. a person who purchases goods and services for personal use.",
+      "example": [
+        {
+          "eng": "Consumer demand for eco-friendly products has increased significantly.",
+          "ch": "消費者對環保產品的需求顯著增加。"
+        }
+      ]
+    },
+    {
+      "eng": "container",
+      "kk": "kənˈteɪnər",
+      "tense": "n.",
+      "ch": [
+        [
+          "容器",
+          "貨櫃"
+        ]
+      ],
+      "analysis": "此字由動詞 contain（容納、包含，源自拉丁語 continere）加上名詞字尾 -er 構成。核心義為用來裝載、盛放物品的器具，現代亦廣泛指用於海運或陸運的大型標準化貨櫃。",
+      "definition": "1. an object such as a box, bottle, or can used for holding or transporting something; 2. a standard-sized metal box used for transporting goods on ships, trucks, and trains.",
+      "example": [
+        {
+          "eng": "Store the leftover food in an airtight plastic container.",
+          "ch": "把吃剩的食物保存在密封的塑膠容器中。"
+        }
+      ]
+    },
+    {
+      "eng": "content",
+      "kk": "kənˈtɛnt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "滿意的",
+          "滿足的"
+        ]
+      ],
+      "analysis": "此形容詞源自拉丁語 contentus（含有的、滿足的，為 continere 的分詞形式），經由古法語進入英語。字面義為「心有所容而無所求」，現代主要用來形容人對現狀感到知足、不貪求更多。",
+      "definition": "1. feeling happy and satisfied with one's situation; not wanting more or anything else.",
+      "example": [
+        {
+          "eng": "She was content with a simple life in the countryside.",
+          "ch": "她對鄉村的簡單生活感到滿足。"
+        }
+      ]
+    },
+    {
+      "eng": "contentment",
+      "kk": "kənˈtɛntmənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "滿意",
+          "滿足",
+          "知足"
+        ]
+      ],
+      "analysis": "此字由形容詞 content 加上名詞字尾 -ment（表示狀態或結果）構成。用以表達內心平靜、對現狀感到知足與快樂的心理狀態。",
+      "definition": "1. a state of happiness and satisfaction.",
+      "example": [
+        {
+          "eng": "He found true contentment in spending time with his family.",
+          "ch": "他在與家人相處中找到了真正的滿足感。"
+        }
+      ]
+    },
+    {
+      "eng": "contest",
+      "kk": "ˈkɑntɛst",
+      "tense": "n.",
+      "ch": [
+        [
+          "競賽",
+          "比賽",
+          "爭奪"
+        ]
+      ],
+      "analysis": "此名詞源自拉丁語 contestari（起誓作證、爭訟），由 con-（共同）與 testari（作證，源自 testis 證人）結合而成。名詞重音在前音節，指多方參與的競技、比賽或權力、資源的爭奪。",
+      "definition": "1. a competition or game in which people try to win, or a struggle for power or control.",
+      "example": [
+        {
+          "eng": "She won first place in the national singing contest.",
+          "ch": "她在全國歌唱比賽中獲得第一名。"
+        }
+      ]
+    },
+    {
+      "eng": "context",
+      "kk": "ˈkɑntɛkst",
+      "tense": "n.",
+      "ch": [
+        [
+          "上下文",
+          "語境",
+          "背景"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 contextus（緊密結合、文體結構），由 con-（共同）與 texere（編織）結合而成。字面義為「織在一起的文字」，引申為文字的前後文脈，或事件發生時的周邊情境與社會背景。",
+      "definition": "1. the circumstances that form the setting for an event, statement, or idea, in terms of which it can be fully understood.",
+      "example": [
+        {
+          "eng": "You need to look at the sentence in context to understand its true meaning.",
+          "ch": "你需要結合上下文來看這個句子，才能理解它的真實含義。"
+        }
+      ]
+    },
+    {
+      "eng": "continual",
+      "kk": "kənˈtɪnjuəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "頻繁的",
+          "不斷發生的"
+        ]
+      ],
+      "analysis": "此字由拉丁語 continuus（連續的）衍生而來，加上形容詞字尾 -al。在傳統語義區分中，continual 通常指「頻繁重複、間歇性發生但令人困擾的」，與 continuous（毫無間斷的）有所區別。",
+      "definition": "1. happening repeatedly over a period of time, often in an annoying way.",
+      "example": [
+        {
+          "eng": "The project was delayed due to continual rain.",
+          "ch": "由於頻繁降雨，該專案延誤了。"
+        }
+      ]
+    },
+    {
+      "eng": "continuous",
+      "kk": "kənˈtɪnjuəs",
+      "tense": "adj.",
+      "ch": [
+        [
+          "連續不斷的",
+          "無間斷的"
+        ]
+      ],
+      "analysis": "此字由拉丁語 continuus 加上形容詞字尾 -ous 構成。強調在時間或空間上毫無中斷、持續進行的特性，與 continual 的間歇重複性質不同。",
+      "definition": "1. forming an unbroken whole; without interruption or cessation in time or space.",
+      "example": [
+        {
+          "eng": "The machinery requires a continuous supply of electricity.",
+          "ch": "這台機械需要不間斷的電力供應。"
+        }
+      ]
+    },
+    {
+      "eng": "contrary",
+      "kk": "ˈkɑntrɛri",
+      "tense": "adj.",
+      "ch": [
+        [
+          "相反的",
+          "對立的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 contrarius，由 contra（對抗、反對）衍生而來，經由古法語進入英語。用以形容方向、意見、性質完全相反或對立的事物。",
+      "definition": "1. opposite in nature, direction, or meaning.",
+      "example": [
+        {
+          "eng": "Despite the contrary evidence, he insisted he was innocent.",
+          "ch": "儘管有相反的證據，他堅稱自己是無辜的。"
+        }
+      ]
+    },
+    {
+      "eng": "contrast",
+      "kk": "ˈkɑntræst",
+      "tense": "n.",
+      "ch": [
+        [
+          "對比",
+          "對照",
+          "差異"
+        ]
+      ],
+      "analysis": "此名詞源自拉丁語 contra-（反對）與 stare（站立），意為「站在對立面」。重音在前音節時為名詞，指人、事、物並置時顯現出的明顯差異或對比效果。",
+      "definition": "1. the state of being strikingly different from something else in juxtaposition or close association.",
+      "example": [
+        {
+          "eng": "The sharp contrast between the rich and the poor is a major social issue.",
+          "ch": "貧富之間強烈的對比是一個重大的社會問題。"
+        }
+      ]
+    },
+    {
+      "eng": "contribute",
+      "kk": "kənˈtrɪbjut",
+      "tense": "vt.",
+      "ch": [
+        [
+          "貢獻",
+          "捐助",
+          "投稿"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 contribuere，由 con-（共同）與 tribuere（給予、分配，源自 tribus 部落）結合而成。基本義為將金錢、時間、心力或文章提供出來，共同促成某個目標。",
+      "definition": "1. to give something, especially money, time, or resources, to help achieve or provide something, or to submit an article for publication.",
+      "example": [
+        {
+          "eng": "Many local residents contributed money to build the community center.",
+          "ch": "許多當地居民捐款建造社區中心。"
+        }
+      ]
+    },
+    {
+      "eng": "contribution",
+      "kk": "ˌkɑntrəˈbjuʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "貢獻",
+          "捐款",
+          "投稿"
+        ]
+      ],
+      "analysis": "此字由動詞 contribute 加上名詞字尾 -ion 形成。指個人對團體或社會所做出的實質貢獻、金錢捐助，或向媒體發表的文章創作。",
+      "definition": "1. a gift or payment to a common fund or collection, or an action or factor that helps to cause or produce something.",
+      "example": [
+        {
+          "eng": "Her scientific discoveries were a major contribution to medicine.",
+          "ch": "她的科學發現對醫學做出了重大貢獻。"
+        }
+      ]
+    },
+    {
+      "eng": "convenience",
+      "kk": "kənˈviːnyəns",
+      "tense": "n.",
+      "ch": [
+        [
+          "便利",
+          "方便",
+          "便利設施"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 convenientia（適宜、合拍），由 convenire（集結、合適）衍生而來。指事物帶來的省時、省力或舒適狀態，亦可指生活中的便利設施。",
+      "definition": "1. the state of being able to proceed with something with little effort or difficulty, or a useful device or facility.",
+      "example": [
+        {
+          "eng": "Online shopping offers great convenience for busy people.",
+          "ch": "網路購物為忙碌的人們提供了極大的便利。"
+        }
+      ]
+    },
+    {
+      "eng": "convention",
+      "kk": "kənˈvɛnʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "大會",
+          "會議"
+        ],
+        [
+          "慣例",
+          "習俗"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 conventio（集會、協議），由 convenire（聚集）衍生而來。歷史上由大型集會的意義，延伸出社會成員默認並遵守的行為準則、傳統或慣例。",
+      "definition": "1. a large meeting or conference of a particular group of people; 2. a way in which something is usually done; a custom or traditional rule.",
+      "example": [
+        {
+          "eng": "Thousands of comic fans attended the annual convention.",
+          "ch": "數千名漫畫迷參加了年度年會。"
+        },
+        {
+          "eng": "Writers often break traditional literary conventions.",
+          "ch": "作家經常打破傳統的文學慣例。"
+        }
+      ]
+    },
+    {
+      "eng": "conventional",
+      "kk": "kənˈvɛnʃənəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "傳統的",
+          "慣例的",
+          "常規的"
+        ]
+      ],
+      "analysis": "此字由名詞 convention 加上形容詞字尾 -al 構成。用以形容符合社會大眾既定習俗、傳統作法或非創新的常規事物。",
+      "definition": "1. based on what is generally done or believed; traditional and ordinary.",
+      "example": [
+        {
+          "eng": "The company decided to use conventional advertising methods.",
+          "ch": "公司決定採用傳統的廣告宣傳方式。"
+        }
+      ]
+    },
+    {
+      "eng": "converse",
+      "kk": "kənˈvɝs",
+      "tense": "vi.",
+      "ch": [
+        [
+          "談話",
+          "交談"
+        ]
+      ],
+      "analysis": "此動詞源自拉丁語 conversari（與人交往、往來），由 con-（共同）與 vertere（轉動）結合而成。字面義為「與人互動轉折對話」，現代主要指兩人或多人之間的言語交談。",
+      "definition": "1. to engage in conversation; to talk with someone.",
+      "example": [
+        {
+          "eng": "Guests were mingling and conversing in the lounge.",
+          "ch": "賓客們在休息室裡寒暄交談。"
+        }
+      ]
+    },
+    {
+      "eng": "convey",
+      "kk": "kənˈveɪ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "運送",
+          "輸送"
+        ],
+        [
+          "表達",
+          "傳達"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 con-（加強）與 via（道路），經由古法語 conveier 進入英語。字面義為「在道路上護送或運送」，後延伸出運送貨物以及透過語言、藝術形式傳達抽象意念與情感的用法。",
+      "definition": "1. to transport or carry something from one place to another; 2. to make an idea, feeling, or information known to someone.",
+      "example": [
+        {
+          "eng": "Pipes are used to convey water from the reservoir to the city.",
+          "ch": "管線是用來將水從水庫輸送到城市的。"
+        },
+        {
+          "eng": "Her paintings convey a deep sense of loneliness.",
+          "ch": "她的畫作傳達了一種深深的孤獨感。"
+        }
+      ]
+    },
+    {
+      "eng": "convince",
+      "kk": "kənˈvɪns",
+      "tense": "vt.",
+      "ch": [
+        [
+          "說服",
+          "使確信",
+          "使信服"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 convincere，由 con-（加強）與 vincere（征服、勝過）結合而成。字面義為「以論據徹底戰勝對方」，現代指用理由或事實使人信服或改變觀點。",
+      "definition": "1. to persuade someone to do something, or to make someone feel sure that something is true.",
+      "example": [
+        {
+          "eng": "She managed to convince her parents to let her study abroad.",
+          "ch": "她設法說服父母讓她出國留學。"
+        }
+      ]
+    },
+    {
+      "eng": "cooperate",
+      "kk": "koʊˈɑpəˌreɪt",
+      "tense": "vi.",
+      "ch": [
+        [
+          "合作",
+          "配合"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由字首 co-（共同）與動詞 operate（運作、工作，源自拉丁語 operari）結合而成。指多方為了共同目標而一起工作或相互配合。",
+      "definition": "1. to work jointly towards the same end, or to assist someone willingly.",
+      "example": [
+        {
+          "eng": "The two departments must cooperate to complete the project on time.",
+          "ch": "這兩個部門必須合作才能如期完成專案。"
+        }
+      ]
+    },
+    {
+      "eng": "cooperation",
+      "kk": "koʊˌɑpəˈreɪʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "合作",
+          "配合"
+        ]
+      ],
+      "analysis": "此字由動詞 cooperate 加上名詞字尾 -ion 構成。指為了共同利益或目標而進行的聯合行動或彼此配合的狀態。",
+      "definition": "1. the action of working together to the same end.",
+      "example": [
+        {
+          "eng": "We appreciate your kind cooperation in this matter.",
+          "ch": "感謝您在此事上的親切配合。"
+        }
+      ]
+    },
+    {
+      "eng": "cooperative",
+      "kk": "koʊˈɑpəˌreɪtɪv",
+      "tense": "adj.",
+      "ch": [
+        [
+          "合作的",
+          "樂意配合的"
+        ]
+      ],
+      "analysis": "此字由 cooperate 加上形容詞字尾 -ive 形成。用以形容人樂於與他人協同工作、配合指揮。",
+      "definition": "1. involving mutual assistance or willing to be helpful and work with others.",
+      "example": [
+        {
+          "eng": "All employees have been very cooperative during the transition.",
+          "ch": "在過渡期間，所有員工都非常配合。"
+        }
+      ]
+    },
+    {
+      "eng": "cope",
+      "kk": "koʊp",
+      "tense": "vi.",
+      "ch": [
+        [
+          "應付",
+          "處理",
+          "對抗"
+        ]
+      ],
+      "analysis": "此動詞源自中世紀英語 copen（爭鬥、對抗），最終可追溯至拉丁語 colpa（過失、鬥爭）。現代英語中主要指成功應對困境、壓力或處理艱難的狀況，通常與介詞 with 連用。",
+      "definition": "1. to deal successfully with and manage a difficult situation or problem.",
+      "example": [
+        {
+          "eng": "She learned how to cope with stress through meditation.",
+          "ch": "她學會了透過冥想來應付壓力。"
+        }
+      ]
+    },
+    {
+      "eng": "copper",
+      "kk": "ˈkɑpər",
+      "tense": "n.",
+      "ch": [
+        [
+          "銅",
+          "銅幣"
+        ]
+      ],
+      "analysis": "此名詞源自古英語 coper，最終可追溯至拉丁語 cuprum（賽普勒斯島的金屬，因該島盛產銅而得名）。指化學元素銅，亦可指銅製硬幣。",
+      "definition": "1. a red-brown metallic chemical element used for electrical wires and pipes, or a coin made of copper.",
+      "example": [
+        {
+          "eng": "Copper is an excellent conductor of electricity.",
+          "ch": "銅是極佳的導電體。"
+        }
+      ]
+    },
+    {
+      "eng": "cord",
+      "kk": "kɔrd",
+      "tense": "n.",
+      "ch": [
+        [
+          "細繩",
+          "粗線",
+          "電線"
+        ]
+      ],
+      "analysis": "此名詞源自古法語 cord（源自希臘語 khordē 琴弦、腸線）。指由多股纖維絞合成的細繩、粗線，或指包覆絕緣體的電線。",
+      "definition": "1. a thin, flexible string or rope made of twisted strands, or an insulated electrical wire.",
+      "example": [
+        {
+          "eng": "Plug the lamp cord into the wall outlet.",
+          "ch": "把燈的電線插進牆壁插座裡。"
+        }
+      ]
+    },
+    {
+      "eng": "correspond",
+      "kk": "ˌkɔrəˈspɑnd",
+      "tense": "vi.",
+      "ch": [
+        [
+          "符合",
+          "一致"
+        ],
+        [
+          "通信",
+          "書信往來"
+        ]
+      ],
+      "analysis": "此字源自中世紀拉丁語 correspondere，由 com-（共同）與 respondere（回應）結合而成。字面義為「彼此互相呼應」，引申為兩事物相符、一致，或指兩人透過書信或電子郵件互相交流聯繫。",
+      "definition": "1. to match or be similar to something; 2. to communicate with someone by exchanging letters or emails.",
+      "example": [
+        {
+          "eng": "His actions do not correspond with his words.",
+          "ch": "他的言行不一。"
+        },
+        {
+          "eng": "We have continued to correspond over the years.",
+          "ch": "這些年來我們一直保持書信往來。"
+        }
+      ]
+    },
+    {
+      "eng": "costume",
+      "kk": "ˈkɑstum",
+      "tense": "n.",
+      "ch": [
+        [
+          "服裝",
+          "戲服",
+          "化裝服"
+        ]
+      ],
+      "analysis": "此名詞源自義大利語 costuma（習慣、風俗）與法語 costume（風俗、服飾）。詞源上與 custom 同源，原本指特定地區或時代的風俗穿著，現代則專指戲劇、萬聖節或化裝舞會中所穿的特定服裝。",
+      "definition": "1. a set of clothes worn in order to look like a particular person or period, especially for a play, movie, or party.",
+      "example": [
+        {
+          "eng": "The children wore colorful costumes for the school play.",
+          "ch": "孩子們為了學校的戲劇表演穿上了色彩繽紛的戲服。"
+        }
+      ]
+    },
+    {
+      "eng": "cottage",
+      "kk": "ˈkɑtɪdʒ",
+      "tense": "n.",
+      "ch": [
+        [
+          "村舍",
+          "小屋",
+          "鄉間別墅"
+        ]
+      ],
+      "analysis": "此名詞源自中世紀英語 cot（小農舍）加上名詞字尾 -age（場所或建築）。最初指農民或佃農居住的小木屋，現代則常指鄉村或度假區的精緻小型住宅。",
+      "definition": "1. a small, simple house, typically one in the country.",
+      "example": [
+        {
+          "eng": "They rented a cozy cottage by the lake for the weekend.",
+          "ch": "他們租了湖畔的一間舒適小屋度過週末。"
+        }
+      ]
+    },
+    {
+      "eng": "council",
+      "kk": "ˈkaʊnsəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "委員會",
+          "理事會",
+          "地方議會"
+        ]
+      ],
+      "analysis": "此名詞源自拉丁語 concilium（集會、議會，由 con- 共同與 calare 召集組成）。拼字與意思常與 counsel（勸告、律師）混淆，但 council 專指經過組織成立、負責商議或管理事務的正式團體或議會。",
+      "definition": "1. an advisory, deliberative, or administrative body of people formally constituted and meeting regularly.",
+      "example": [
+        {
+          "eng": "The city council approved plans for a new public park.",
+          "ch": "市議會批准了新建公共公園的計畫。"
+        }
+      ]
+    },
+    {
+      "eng": "counter",
+      "kk": "ˈkaʊntər",
+      "tense": "n.",
+      "ch": [
+        [
+          "櫃台",
+          "計數器"
+        ]
+      ],
+      "analysis": "此名詞源自古法語 countoir（計算桌，源自拉丁語 computare 計算）。基本義為用於計算的器具或籌碼，引申為商店、銀行或餐廳裡用於接待顧客、結帳或擺放物品的長形檯面。",
+      "definition": "1. a long flat surface in a store, bank, or restaurant where customers are served; 2. a device used for counting things.",
+      "example": [
+        {
+          "eng": "She placed her purchases on the checkout counter.",
+          "ch": "她把購買的商品放在結帳櫃台上。"
+        }
+      ]
+    },
+    {
+      "eng": "courageous",
+      "kk": "kəˈreɪdʒəs",
+      "tense": "adj.",
+      "ch": [
+        [
+          "勇敢的",
+          "有膽量的"
+        ]
+      ],
+      "analysis": "此字由名詞 courage（勇氣，源自拉丁語 cor 心臟、膽識）加上形容詞字尾 -ous 構成。用以形容面對危險、恐懼或逆境時展現出堅強意志與勇氣的人或行為。",
+      "definition": "1. not deterred by danger or pain; brave.",
+      "example": [
+        {
+          "eng": "The firefighter made a courageous rescue attempt.",
+          "ch": "這名消防員進行了英勇的救援嘗試。"
+        }
+      ]
+    },
+    {
+      "eng": "courtesy",
+      "kk": "ˈkɝtəsi",
+      "tense": "n.",
+      "ch": [
+        [
+          "禮貌",
+          "謙恭",
+          "禮遇"
+        ]
+      ],
+      "analysis": "此名詞源自古法語 curteisie（宮廷風範），源自 court（宮廷）。原本指宮廷貴族應有的優雅與禮儀，現代泛指日常生活中展現的禮貌、教養或出於客氣的免費招待。",
+      "definition": "1. the quality of being polite and respectful; courteous behavior.",
+      "example": [
+        {
+          "eng": "He held the door open as a matter of common courtesy.",
+          "ch": "他順手幫忙扶著門，這是最基本的禮貌。"
+        }
+      ]
+    },
+    {
+      "eng": "coward",
+      "kk": "ˈkaʊərd",
+      "tense": "n.",
+      "ch": [
+        [
+          "膽小鬼",
+          "懦夫"
+        ]
+      ],
+      "analysis": "此名詞源自古法語 cuard（源自拉丁語 cauda 尾巴，字面意指像動物一樣夾著尾巴逃跑的動物或人）。用以指稱缺乏勇氣、遇事退縮的懦弱之人。",
+      "definition": "1. a person who lacks the courage to do or endure dangerous or unpleasant things.",
+      "example": [
+        {
+          "eng": "He was too much of a coward to admit his mistake.",
+          "ch": "他太懦弱了，不敢承認自己的錯誤。"
+        }
+      ]
+    },
+    {
+      "eng": "crack",
+      "kk": "kræk",
+      "tense": "vi.",
+      "ch": [
+        [
+          "破裂",
+          "爆裂",
+          "發出清脆聲響"
+        ]
+      ],
+      "analysis": "此字為日耳曼語族的擬聲詞（onomatopoeia），用來模擬硬物斷裂或鞭子揮動時的清脆聲響。作為不及物動詞，指物體表面產生裂痕、破裂，或發出爆裂聲。",
+      "definition": "1. to break without completely separating into parts, forming a line on the surface, or to make a sharp, sudden noise.",
+      "example": [
+        {
+          "eng": "The windshield began to crack after being hit by a small stone.",
+          "ch": "擋風玻璃被小石頭擊中後開始出現裂痕。"
+        }
+      ]
+    },
+    {
+      "eng": "craft",
+      "kk": "kræft",
+      "tense": "n.",
+      "ch": [
+        [
+          "工藝",
+          "手藝"
+        ],
+        [
+          "船隻",
+          "飛行器"
+        ]
+      ],
+      "analysis": "此名詞源自古英語 cræft（力量、技能、藝術）。歷史上指需要專業手藝的技藝或手工藝；因早期造船與航海技術被視為高階工藝，故單複數同形的 craft 也演變出指稱船隻或飛行器的特殊用法。",
+      "definition": "1. an activity involving skill in making things by hand; 2. a boat, ship, or aircraft.",
+      "example": [
+        {
+          "eng": "She teaches traditional folk crafts like pottery and weaving.",
+          "ch": "她教授陶藝和編織等傳統民間工藝。"
+        },
+        {
+          "eng": "Several small craft were sailing across the bay.",
+          "ch": "幾艘小型船隻正航行過海灣。"
+        }
+      ]
+    },
+    {
+      "eng": "creation",
+      "kk": "kriˈeɪʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "創造",
+          "創立",
+          "作品"
+        ]
+      ],
+      "analysis": "此字由動詞 create（創造，源自拉丁語 creare）加上名詞字尾 -ion 構成。指創造的動作過程、被創造出來的事物，或特指藝術與文學創作的作品。",
+      "definition": "1. the action or process of bringing something into existence, or a product of human creativity.",
+      "example": [
+        {
+          "eng": "The chef proudly presented his latest culinary creation.",
+          "ch": "主廚自豪地展示了他最新的烹飪作品。"
+        }
+      ]
+    },
+    {
+      "eng": "creativity",
+      "kk": "ˌkri.eɪˈtɪvəti",
+      "tense": "n.",
+      "ch": [
+        [
+          "創造力",
+          "創意"
+        ]
+      ],
+      "analysis": "此字由形容詞 creative 加上抽象名詞字尾 -ity 構成。指個人或團體展現獨特構想、藝術發明或解決問題的創造性能力。",
+      "definition": "1. the use of imagination or original ideas to create something; inventiveness.",
+      "example": [
+        {
+          "eng": "Advertising requires a high level of imagination and creativity.",
+          "ch": "廣告業需要高度的想像力與創造力。"
+        }
+      ]
+    },
+    {
+      "eng": "creep",
+      "kk": "krip",
+      "tense": "vi.",
+      "ch": [
+        [
+          "爬行",
+          "緩慢行進",
+          "潛行"
+        ]
+      ],
+      "analysis": "此不及物動詞源自古英語 crēopan（爬行、匍匐），屬於日耳曼語源的強變化動詞。指動物、昆蟲或人類貼近地面緩慢、安靜地移動，也可用於形容時間或霧氣不知不覺地蔓延。",
+      "definition": "1. to move slowly and carefully, especially in order not to be heard or seen.",
+      "example": [
+        {
+          "eng": "The cat crept slowly toward the mouse.",
+          "ch": "貓緩緩地向老鼠潛行過去。"
+        }
+      ]
+    },
+    {
+      "eng": "critic",
+      "kk": "ˈkrɪtɪk",
+      "tense": "n.",
+      "ch": [
+        [
+          "批評家",
+          "評論家"
+        ]
+      ],
+      "analysis": "此名詞源自希臘語 kritikos（有判斷力的，源自 krinein 區分、評判）。經由拉丁語與法語進入英語，專指對文學、藝術、電影、食物或社會政策進行專業評論與評判的人。",
+      "definition": "1. a person who expresses an opinion or evaluates the merits of works of art, books, movies, etc.",
+      "example": [
+        {
+          "eng": "The movie received glowing reviews from major film critics.",
+          "ch": "這部電影獲得各大影評人的一致好評。"
+        }
+      ]
+    },
+    {
+      "eng": "critical",
+      "kk": "ˈkrɪtɪkəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "批判性的",
+          "挑剔的"
+        ],
+        [
+          "關鍵的",
+          "至關重要的"
+        ],
+        [
+          "危急的",
+          "危險的"
+        ]
+      ],
+      "analysis": "此字由名詞 critic 加上形容詞字尾 -al 構成。其語義分化為三種主要脈絡：1. 批判性思考或挑剔的；2. 決定成敗的關鍵時刻；3. 醫療或局勢上的危急狀態。",
+      "definition": "1. expressing adverse or disapproving comments, or involving the objective analysis of an issue; 2. extremely important or decisive; 3. at a point of crisis.",
+      "example": [
+        {
+          "eng": "Critical thinking is an essential skill for university students.",
+          "ch": "批判性思考是大學生必備的技能。"
+        },
+        {
+          "eng": "Water is a critical resource for survival in the desert.",
+          "ch": "水是沙漠中生存的關鍵資源。"
+        },
+        {
+          "eng": "The injured patient remains in critical condition.",
+          "ch": "受傷的患者病情仍然危急。"
+        }
+      ]
+    },
+    {
+      "eng": "criticism",
+      "kk": "ˈkrɪtəˌsɪzəm",
+      "tense": "n.",
+      "ch": [
+        [
+          "批評",
+          "指責",
+          "評論"
+        ]
+      ],
+      "analysis": "此字由名詞 critic 加上抽象名詞字尾 -ism 構成。指對缺點的批評、指責，或指學術與文藝上的專業評論與分析。",
+      "definition": "1. the expression of disapproval of someone or something based on perceived faults or mistakes, or the analysis and judgment of the merits of a literary or artistic work.",
+      "example": [
+        {
+          "eng": "The new policy faced sharp criticism from the opposition party.",
+          "ch": "這項新政策面臨反對黨的強烈批評。"
+        }
+      ]
+    },
+    {
+      "eng": "criticize",
+      "kk": "ˈkrɪtəˌsaɪz",
+      "tense": "vt.",
+      "ch": [
+        [
+          "批評",
+          "批判",
+          "挑剔"
+        ]
+      ],
+      "analysis": "此動詞由名詞 critic 加上動詞字尾 -ize（使成為、從事……動作）構成。指指出某人或某事的缺點、進行負面評價或批判。",
+      "definition": "1. to indicate the faults of someone or something in a disapproving way.",
+      "example": [
+        {
+          "eng": "It is easy to criticize others, but hard to do better yourself.",
+          "ch": "批評別人很容易，自己要做好卻很難。"
+        }
+      ]
+    },
+    {
+      "eng": "cruelty",
+      "kk": "ˈkruəlti",
+      "tense": "n.",
+      "ch": [
+        [
+          "殘酷",
+          "殘忍",
+          "虐待行為"
+        ]
+      ],
+      "analysis": "此名詞源自古法語 cruelté（源自拉丁語 crudelitas，從 crudelis 殘忍的衍生而來）。指殘酷的性格特質、心理狀態，或具體的殘忍虐待行為。",
+      "definition": "1. cruel behavior or a cruel act that causes pain and suffering to people or animals.",
+      "example": [
+        {
+          "eng": "Laws were passed to prevent cruelty to animals.",
+          "ch": "通過了旨在防止虐待動物的法律。"
+        }
+      ]
+    },
+    {
+      "eng": "crunchy",
+      "kk": "ˈkrʌntʃi",
+      "tense": "adj.",
+      "ch": [
+        [
+          "酥脆的",
+          "清脆作響的"
+        ]
+      ],
+      "analysis": "此字由擬聲動詞 crunch（咀嚼時發出喀吱聲）加上形容詞字尾 -y 構成。用以形容食物（如餅乾、洋芋片、新鮮蔬菜）咬起來酥脆並發出清脆聲音的口感。",
+      "definition": "1. (of food) firm and crisp and making a sharp sound when chewed.",
+      "example": [
+        {
+          "eng": "She added fresh, crunchy carrots to the salad.",
+          "ch": "她在沙拉裡加入了新鮮、酥脆的胡蘿蔔。"
+        }
+      ]
+    },
+    {
+      "eng": "crush",
+      "kk": "krʌʃ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "壓碎",
+          "壓扁"
+        ],
+        [
+          "徹底擊敗",
+          "潰敗"
+        ]
+      ],
+      "analysis": "此動詞源自古法語 cruchier（打破、壓碎）。作為及物動詞，其核心義為用強大壓力將物體壓碎、變形，引申義則指在軍事、比賽或政治上徹底擊潰對手。",
+      "definition": "1. to deform, press, or break something so that it is crushed or injured; 2. to defeat someone completely.",
+      "example": [
+        {
+          "eng": "Use a heavy stone to crush the garlic cloves.",
+          "ch": "用重石把大蒜瓣壓碎。"
+        },
+        {
+          "eng": "The home team crushed their opponents in the championship game.",
+          "ch": "主隊在冠軍賽中徹底擊敗了對手。"
+        }
+      ]
+    }
+  ]
+}

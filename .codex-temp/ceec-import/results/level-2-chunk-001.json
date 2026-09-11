@@ -1,0 +1,1738 @@
+{
+  "level": 2,
+  "chunkIndex": 1,
+  "inputs": [
+    "absence",
+    "absent",
+    "accept",
+    "accident",
+    "account",
+    "active",
+    "activity",
+    "actual",
+    "addition",
+    "address",
+    "admit",
+    "adult",
+    "advance",
+    "advice",
+    "affair",
+    "affect",
+    "against",
+    "ahead",
+    "aid",
+    "aim",
+    "aircraft",
+    "alarm",
+    "album",
+    "alike",
+    "alive",
+    "alone",
+    "aloud",
+    "altogether",
+    "among",
+    "amount",
+    "ancient",
+    "anger",
+    "angle",
+    "ankle",
+    "anytime",
+    "anyway",
+    "anywhere",
+    "anyplace",
+    "ape",
+    "appearance",
+    "appetite",
+    "apply",
+    "appreciate",
+    "approach",
+    "argue",
+    "argument",
+    "army",
+    "arrange",
+    "arrangement",
+    "arrival"
+  ],
+  "rows": [
+    {
+      "eng": "absence",
+      "kk": "ˈæbsəns",
+      "tense": "n.",
+      "ch": [
+        [
+          "缺席",
+          "不在場"
+        ],
+        [
+          "缺乏",
+          "不存在"
+        ]
+      ],
+      "analysis": "此字為名詞，對應形容詞 absent。歷史上源自古法語 absence，最終源自拉丁語 absentia（由前綴 ab-「離開」+ esse「存在」組成的現在分詞衍生名詞）。語意從「不在某處」的狀態引申出「缺乏某物、不存在」的概念。",
+      "definition": "1. the state of being away from a place or person; 2. the lack or shortage of something.",
+      "example": [
+        {
+          "eng": "His sudden absence from the meeting raised concerns.",
+          "ch": "他突然缺席會議引發了擔憂。"
+        },
+        {
+          "eng": "The plant died due to an absence of water.",
+          "ch": "這株植物因缺乏水分而枯死。"
+        }
+      ]
+    },
+    {
+      "eng": "absent",
+      "kk": "ˈæbsənt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "缺席的",
+          "不在場的"
+        ],
+        [
+          "心不在焉的",
+          "茫然的"
+        ],
+        [
+          "缺乏的",
+          "不存在的"
+        ]
+      ],
+      "analysis": "此字為形容詞。歷史上源自拉丁語 absens（由 ab-「離開」+ esse「存在」的現在分詞演變而來）。語意從「不在現場」演變為「心思不在當下」及客觀上的「事物不存在」。",
+      "definition": "1. not present in a place; 2. inattentive or lost in thought; 3. not existing; lacking.",
+      "example": [
+        {
+          "eng": "Three students were absent from class today.",
+          "ch": "今天有三名學生缺席課程。"
+        },
+        {
+          "eng": "She gave an absent nod without listening.",
+          "ch": "她心不在焉地點了點頭，根本沒在聽。"
+        },
+        {
+          "eng": "Evidence of foul play was absent.",
+          "ch": "沒有發現違法行為的證據。"
+        }
+      ]
+    },
+    {
+      "eng": "accept",
+      "kk": "ækˈsɛpt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "接受",
+          "收受"
+        ],
+        [
+          "同意",
+          "答應"
+        ],
+        [
+          "承認",
+          "認可"
+        ]
+      ],
+      "analysis": "此字為及物動詞。歷史上源自拉丁語 acceptare（capere「拿取」的頻動詞形式，前綴 ad- 經同化轉變為 ac-）。語意從「主動伸手接住」演變為「同意接受提議」及「承認事實」。",
+      "definition": "1. to receive something offered willingly; 2. to consent to receive or undertake something; 3. to recognize as true or valid.",
+      "example": [
+        {
+          "eng": "She decided to accept the job offer.",
+          "ch": "她決定接受這份工作錄用通知。"
+        },
+        {
+          "eng": "He accepted the invitation to the wedding.",
+          "ch": "他接受了婚禮的邀請。"
+        },
+        {
+          "eng": "Scientists accept this theory as fact.",
+          "ch": "科學家承認這個理論為事實。"
+        }
+      ]
+    },
+    {
+      "eng": "accident",
+      "kk": "ˈæksədənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "意外",
+          "事故"
+        ],
+        [
+          "偶然",
+          "巧合"
+        ]
+      ],
+      "analysis": "此字為名詞。歷史上源自拉丁語 accidens（accidere「發生、偶然發生」的現在分詞，由 ad- + cadere「落下」組成）。語意從「偶然降臨的事件」逐漸演變為「交通意外」或「不幸事故」。",
+      "definition": "1. an unfortunate incident that happens unexpectedly and unintentionally; 2. an event that happens by chance or without planning.",
+      "example": [
+        {
+          "eng": "He was injured in a car accident.",
+          "ch": "他在一場車禍中受傷了。"
+        },
+        {
+          "eng": "Meeting her at the bookstore was a happy accident.",
+          "ch": "在書店遇到她是一場美好的巧合。"
+        }
+      ]
+    },
+    {
+      "eng": "account",
+      "kk": "əˈkaʊnt",
+      "tense": "n.",
+      "ch": [
+        [
+          "帳戶",
+          "帳目"
+        ],
+        [
+          "報導",
+          "記述"
+        ],
+        [
+          "理由",
+          "解釋"
+        ]
+      ],
+      "analysis": "此字為名詞。歷史上源自古法語 acont，最終由拉丁語 computare（計算）演變而來。語意從商業上的「計算、記帳」延伸為「對事件的描述（交代帳目）」及「原因或理由」。",
+      "definition": "1. an arrangement with a bank to keep money; 2. a report or description of an event; 3. a reason or explanation.",
+      "example": [
+        {
+          "eng": "I need to check my bank account balance.",
+          "ch": "我需要檢查我的銀行帳戶餘額。"
+        },
+        {
+          "eng": "His account of the accident differed from hers.",
+          "ch": "他對這起事故的描述與她的說法不同。"
+        },
+        {
+          "eng": "On no account should you open this door.",
+          "ch": "你絕不應該打開這扇門。"
+        }
+      ]
+    },
+    {
+      "eng": "account",
+      "kk": "əˈkaʊnt",
+      "tense": "vi.",
+      "ch": [
+        [
+          "說明",
+          "解釋"
+        ],
+        [
+          "佔（比例）"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，常與介詞 for 連用（account for）。由名詞用法轉化而來，原意指「交代帳目」或「對結果負起責任並做出說明」。",
+      "definition": "1. to explain the cause or origin of something; 2. to make up a specified portion or percentage.",
+      "example": [
+        {
+          "eng": "How do you account for the missing money?",
+          "ch": "你如何解釋失蹤的錢？"
+        },
+        {
+          "eng": "Electric cars account for ten percent of sales.",
+          "ch": "電動車佔了百分之十的銷售量。"
+        }
+      ]
+    },
+    {
+      "eng": "active",
+      "kk": "ˈæktɪv",
+      "tense": "adj.",
+      "ch": [
+        [
+          "活躍的",
+          "積極的"
+        ],
+        [
+          "起作用的",
+          "運作中的"
+        ]
+      ],
+      "analysis": "此字為形容詞。現代透明構詞由動詞 act 加上形容詞字尾 -ive 構成。語意從「付諸行動的」演變為「精力充沛、積極參與」及「持續運作中」。",
+      "definition": "1. engaging or ready to engage in physically energetic pursuits; showing physical or mental energy; 2. working, functioning, or in operation.",
+      "example": [
+        {
+          "eng": "She remains very active in local politics.",
+          "ch": "她持續高度活躍於地方政治。"
+        },
+        {
+          "eng": "The volcano is still considered active.",
+          "ch": "這座火山仍然被認為是活火山。"
+        }
+      ]
+    },
+    {
+      "eng": "activity",
+      "kk": "ækˈtɪvəti",
+      "tense": "n.",
+      "ch": [
+        [
+          "活動",
+          "行動"
+        ],
+        [
+          "忙碌",
+          "活躍"
+        ]
+      ],
+      "analysis": "此字為名詞。現代透明構詞由形容詞 active 加上名詞字尾 -ity 構成。指具體或抽象的行動、事件，或指狀態的活躍與忙碌。",
+      "definition": "1. a thing that a person does or takes part in; 2. the condition in which things are happening or being done.",
+      "example": [
+        {
+          "eng": "Outdoor activities are good for health.",
+          "ch": "戶外活動對健康有益。"
+        },
+        {
+          "eng": "There was a lot of activity in the kitchen.",
+          "ch": "廚房裡一片忙碌景象。"
+        }
+      ]
+    },
+    {
+      "eng": "actual",
+      "kk": "ˈæktʃuəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "實際的",
+          "真實的"
+        ]
+      ],
+      "analysis": "此字為形容詞。歷史上源自拉丁語 actualis（來自 actus「行為、實動」）。語意強調非想像或虛構，而是實際存在或發生的真實情況。",
+      "definition": "1. existing in fact; real rather than estimated or imagined.",
+      "example": [
+        {
+          "eng": "The actual cost was higher than expected.",
+          "ch": "實際成本比預期的還要高。"
+        }
+      ]
+    },
+    {
+      "eng": "addition",
+      "kk": "əˈdɪʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "增加",
+          "附加物"
+        ],
+        [
+          "加法"
+        ]
+      ],
+      "analysis": "此字為名詞。歷史上源自拉丁語 additio（來自 addere「添加」）。語意從「將某物加到另一物上」的動作，延伸為「增加的人事物」及數學上的「加法運算」。",
+      "definition": "1. the action or process of adding something to something else; a thing added; 2. the process of calculating the total of two or more numbers.",
+      "example": [
+        {
+          "eng": "The new library is a great addition to the school.",
+          "ch": "新圖書館對學校來說是一大加分。"
+        },
+        {
+          "eng": "Children learn basic addition in first grade.",
+          "ch": "小學一年級的孩子會學習基礎加法。"
+        }
+      ]
+    },
+    {
+      "eng": "address",
+      "kk": "əˈdrɛs",
+      "tense": "n.",
+      "ch": [
+        [
+          "地址",
+          "住址"
+        ],
+        [
+          "演講",
+          "致詞"
+        ]
+      ],
+      "analysis": "此字為名詞。歷史上源自古法語 aresser，最終源自拉丁語 *adirectiare（導向、對準）。語意從「引導信件送達的方向」演變為「通訊地址」，另因引申出「向群眾對話」而有演講之意。",
+      "definition": "1. the particulars of the place where someone lives or an organization is located; 2. a formal speech delivered to an audience.",
+      "example": [
+        {
+          "eng": "Please write your name and address on the envelope.",
+          "ch": "請在信封上寫下您的姓名與地址。"
+        },
+        {
+          "eng": "The president gave a televised address to the nation.",
+          "ch": "總統向全國發表了電視演說。"
+        }
+      ]
+    },
+    {
+      "eng": "address",
+      "kk": "əˈdrɛs",
+      "tense": "vt.",
+      "ch": [
+        [
+          "處理",
+          "對付"
+        ],
+        [
+          "向……發表演說",
+          "稱呼"
+        ]
+      ],
+      "analysis": "此字為及物動詞。由名詞用法轉化而來，意指「將注意力或言辭導向某個對象」，可用於處理問題、向人發表演說或在信件上書寫稱呼。",
+      "definition": "1. to think about and begin to deal with an issue or problem; 2. to speak to or write to a person or group.",
+      "example": [
+        {
+          "eng": "We need to address this problem immediately.",
+          "ch": "我們需要立刻處理這個問題。"
+        },
+        {
+          "eng": "How should I address the director?",
+          "ch": "我該如何稱呼這位主任？"
+        }
+      ]
+    },
+    {
+      "eng": "admit",
+      "kk": "ədˈmɪt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "承認",
+          "招認"
+        ],
+        [
+          "准許進入",
+          "接納"
+        ]
+      ],
+      "analysis": "此字為及物動詞。歷史上源自拉丁語 admittere（ad-「向、去」+ mittere「送出、放進」）。語意從「允許進入某處」引申出「坦承過錯或事實（讓真相進入心裡）」。",
+      "definition": "1. to confess to be true or to be the case; 2. to allow someone to enter a place or organization.",
+      "example": [
+        {
+          "eng": "He admitted making a serious mistake.",
+          "ch": "他承認犯了一個嚴重的錯誤。"
+        },
+        {
+          "eng": "Tickets admit two adults to the museum.",
+          "ch": "門票可允許兩名成人進入博物館。"
+        }
+      ]
+    },
+    {
+      "eng": "admit",
+      "kk": "ədˈmɪt",
+      "tense": "vi.",
+      "ch": [
+        [
+          "容許",
+          "留有餘地"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，通常與 of 連用（admit of），表示某事客觀上「容許、容納」某種解釋或可能性。",
+      "definition": "1. to allow for or permit a particular interpretation or possibility.",
+      "example": [
+        {
+          "eng": "The rules admit of no exceptions.",
+          "ch": "這些規定不容許任何例外。"
+        }
+      ]
+    },
+    {
+      "eng": "adult",
+      "kk": "əˈdʌlt",
+      "tense": "n.",
+      "ch": [
+        [
+          "成年人"
+        ]
+      ],
+      "analysis": "此字為名詞。歷史上源自拉丁語 adultus（adolescere「長大、發育」的過去分詞）。指生理及法律上已發育完全、具備成年資格的人。",
+      "definition": "1. a person who is fully grown or legally of age.",
+      "example": [
+        {
+          "eng": "Children must be accompanied by an adult.",
+          "ch": "兒童必須由成年人陪同。"
+        }
+      ]
+    },
+    {
+      "eng": "adult",
+      "kk": "əˈdʌlt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "成年的",
+          "成熟的"
+        ]
+      ],
+      "analysis": "此字為形容詞，由成年人名詞直接轉用，用來修飾已發育完全的生物或僅限成人的內容。",
+      "definition": "1. fully grown and mature; intended for grown-ups.",
+      "example": [
+        {
+          "eng": "An adult dog requires different nutrition.",
+          "ch": "成年犬需要不同的營養。"
+        }
+      ]
+    },
+    {
+      "eng": "advance",
+      "kk": "ədˈvæns",
+      "tense": "n.",
+      "ch": [
+        [
+          "前進",
+          "進展"
+        ],
+        [
+          "預付金",
+          "預支"
+        ]
+      ],
+      "analysis": "此字為名詞。歷史上源自古法語 avancement，動詞源自拉丁語 ab- + *abante（在前方）。語意從「向前移動」引申為「科技或局勢的進步」以及「預先支付的款項」。",
+      "definition": "1. forward movement or progress in development; 2. a payment made before it is due.",
+      "example": [
+        {
+          "eng": "Technological advances have changed our lives.",
+          "ch": "科技的進步改變了我們的生活。"
+        },
+        {
+          "eng": "He requested a cash advance on his salary.",
+          "ch": "他請求預支部分薪水現金。"
+        }
+      ]
+    },
+    {
+      "eng": "advance",
+      "kk": "ədˈvæns",
+      "tense": "vt.",
+      "ch": [
+        [
+          "推進",
+          "促進"
+        ],
+        [
+          "預付",
+          "提前"
+        ]
+      ],
+      "analysis": "此字為及物動詞，指使某事物向前發展、加速進程，或在時間或金錢上提前支付。",
+      "definition": "1. to move or cause to move forward; to develop or promote; 2. to pay money before it is due or move an event to an earlier date.",
+      "example": [
+        {
+          "eng": "The company hopes to advance its market position.",
+          "ch": "公司希望能提升其市場地位。"
+        },
+        {
+          "eng": "The meeting was advanced to Monday.",
+          "ch": "會議提前到星期一舉行。"
+        }
+      ]
+    },
+    {
+      "eng": "advance",
+      "kk": "ədˈvæns",
+      "tense": "vi.",
+      "ch": [
+        [
+          "前進",
+          "向前移動"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，指人或部隊等朝目標或前方移動。",
+      "definition": "1. to move forward in a purposeful way.",
+      "example": [
+        {
+          "eng": "The army began to advance at dawn.",
+          "ch": "軍隊在破曉時分開始向前推進。"
+        }
+      ]
+    },
+    {
+      "eng": "advice",
+      "kk": "ədˈvaɪs",
+      "tense": "n.",
+      "ch": [
+        [
+          "忠告",
+          "建議"
+        ]
+      ],
+      "analysis": "此字為不可數名詞。歷史上源自古法語 avis，源於拉丁語 ad visum（依我看來）。與動詞 advise 字尾拼法不同（-ice 為名詞，-ise 為動詞），指給予他人的專業或人生建議。",
+      "definition": "1. guidance or recommendations offered with regard to prudent future action.",
+      "example": [
+        {
+          "eng": "Thank you for your valuable advice.",
+          "ch": "謝謝你寶貴的建議。"
+        }
+      ]
+    },
+    {
+      "eng": "affair",
+      "kk": "əˈfɛr",
+      "tense": "n.",
+      "ch": [
+        [
+          "事務",
+          "事件"
+        ],
+        [
+          "外遇",
+          "風流韻事"
+        ]
+      ],
+      "analysis": "此字為名詞。歷史上源自古法語 a faire（要做的事，由 à「到」+ faire「做」組成）。語意從「日常要處理的事務」引申為「特定的事件」及「婚外情」。",
+      "definition": "1. an event or a matter of public or private concern; 2. a secret romantic relationship between two people, typically when one is married.",
+      "example": [
+        {
+          "eng": "Foreign affairs are crucial for the country.",
+          "ch": "外交事務對國家至關重要。"
+        },
+        {
+          "eng": "He had an affair with his colleague.",
+          "ch": "他和同事有染。"
+        }
+      ]
+    },
+    {
+      "eng": "affect",
+      "kk": "əˈfɛkt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "影響",
+          "對……產生作用"
+        ],
+        [
+          "使感動",
+          "侵襲（疾病）"
+        ]
+      ],
+      "analysis": "此字為及物動詞。歷史上源自拉丁語 afficere（ad-「向」+ facere「做」）。指外力對人事物造成改變、影響或情緒上的觸動。切勿與名詞 effect 混淆。",
+      "definition": "1. to have an influence on or make a change to something; 2. to touch the emotions of someone.",
+      "example": [
+        {
+          "eng": "Lack of sleep can affect your health.",
+          "ch": "睡眠不足會影響你的健康。"
+        },
+        {
+          "eng": "The sad movie deeply affected everyone.",
+          "ch": "這部悲傷的電影深深感動了每個人。"
+        }
+      ]
+    },
+    {
+      "eng": "against",
+      "kk": "əˈɡɛnst",
+      "tense": "prep.",
+      "ch": [
+        [
+          "反對",
+          "違反"
+        ],
+        [
+          "緊靠著",
+          "倚著"
+        ],
+        [
+          "對抗",
+          "迎著"
+        ]
+      ],
+      "analysis": "此字為介系詞。歷史上源自古英語 ongegn（面向、對著）。表示方向上的對立、實體上的接觸靠緊，或在競賽中對戰某方。",
+      "definition": "1. in opposition to; contrary to; 2. in physical contact with; leaning upon; 3. competing with in a game or contest.",
+      "example": [
+        {
+          "eng": "Smoking is against the law here.",
+          "ch": "這裡抽菸是違法的。"
+        },
+        {
+          "eng": "She leaned her bicycle against the wall.",
+          "ch": "她把腳踏車靠在牆上。"
+        },
+        {
+          "eng": "The local team played against the champions.",
+          "ch": "當地球隊與冠軍隊伍進行對戰。"
+        }
+      ]
+    },
+    {
+      "eng": "ahead",
+      "kk": "əˈhɛd",
+      "tense": "adv.",
+      "ch": [
+        [
+          "向前",
+          "在前方"
+        ],
+        [
+          "領先",
+          "提前"
+        ]
+      ],
+      "analysis": "此字為副詞。現代透明構詞由前綴 a-（在……狀態）+ 名詞 head（頭）組合而成。指身體朝前、空間在前面，或時間、進度上領先。",
+      "definition": "1. further forward in space or time; ahead of position; 2. winning or in a leading position.",
+      "example": [
+        {
+          "eng": "Look ahead and you will see the sign.",
+          "ch": "向前看，你會看到那個標誌。"
+        },
+        {
+          "eng": "Our team is ahead by two points.",
+          "ch": "我們隊領先兩分。"
+        }
+      ]
+    },
+    {
+      "eng": "aid",
+      "kk": "eɪd",
+      "tense": "n.",
+      "ch": [
+        [
+          "援助",
+          "救助"
+        ],
+        [
+          "輔助工具",
+          "幫手"
+        ]
+      ],
+      "analysis": "此字為名詞。歷史上源自古法語 aide，源於拉丁語 adjutare（幫助）。指提供金錢、物資或醫療上的協助，亦可指輔助學習或工作的器具。",
+      "definition": "1. help, assistance, or relief given to those in need; 2. a piece of equipment that helps someone do something.",
+      "example": [
+        {
+          "eng": "The government sent financial aid to flood victims.",
+          "ch": "政府向水災災民發送了經濟援助。"
+        },
+        {
+          "eng": "Visual aids make presentations more effective.",
+          "ch": "視覺輔助工具能讓簡報更有效率。"
+        }
+      ]
+    },
+    {
+      "eng": "aid",
+      "kk": "eɪd",
+      "tense": "vt.",
+      "ch": [
+        [
+          "援助",
+          "幫忙"
+        ]
+      ],
+      "analysis": "此字為及物動詞，指提供實質上的幫助以促成某事的完成。",
+      "definition": "1. to help, assist, or support someone or something.",
+      "example": [
+        {
+          "eng": "Good nutrition aids recovery after surgery.",
+          "ch": "良好的營養有助於術後康復。"
+        }
+      ]
+    },
+    {
+      "eng": "aim",
+      "kk": "eɪm",
+      "tense": "n.",
+      "ch": [
+        [
+          "目標",
+          "目的"
+        ],
+        [
+          "瞄準",
+          "準星"
+        ]
+      ],
+      "analysis": "此字為名詞。歷史上源自古法語 aesmer，最終源自拉丁語 aestimare（估算、評價）。語意從「估計方向」演變為「瞄準目標」及抽象的「人生志向、目的」。",
+      "definition": "1. a goal or intended outcome; 2. the direction of a weapon or missile toward a target.",
+      "example": [
+        {
+          "eng": "Our main aim is to improve customer satisfaction.",
+          "ch": "我們的主要目標是提升客戶滿意度。"
+        },
+        {
+          "eng": "He took careful aim before shooting.",
+          "ch": "他在射擊前仔細進行了瞄準。"
+        }
+      ]
+    },
+    {
+      "eng": "aim",
+      "kk": "eɪm",
+      "tense": "vt.",
+      "ch": [
+        [
+          "瞄準",
+          "對準"
+        ],
+        [
+          "意欲",
+          "旨在"
+        ]
+      ],
+      "analysis": "此字為及物動詞，指將武器、相機或計劃對準某個具體目標或特定對象。",
+      "definition": "1. to point or direct a weapon, camera, or object at a target; 2. to direct a plan or action at a particular audience or goal.",
+      "example": [
+        {
+          "eng": "She aimed the camera at the bird.",
+          "ch": "她把相機鏡頭對準那隻鳥。"
+        },
+        {
+          "eng": "The campaign is aimed at teenagers.",
+          "ch": "這項活動旨在針對青少年族群。"
+        }
+      ]
+    },
+    {
+      "eng": "aim",
+      "kk": "eɪm",
+      "tense": "vi.",
+      "ch": [
+        [
+          "旨在",
+          "立志於"
+        ],
+        [
+          "打算",
+          "意欲"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，常與 at 連用（aim at），表示心裡期望達成某個目標。",
+      "definition": "1. to have the intention of achieving a specific goal.",
+      "example": [
+        {
+          "eng": "We aim to finish the project by Friday.",
+          "ch": "我們力求在週五前完成這項專案。"
+        }
+      ]
+    },
+    {
+      "eng": "aircraft",
+      "kk": "ˈɛrˌkræft",
+      "tense": "n.",
+      "ch": [
+        [
+          "航空器",
+          "飛機"
+        ]
+      ],
+      "analysis": "此字為名詞。現代透明構詞由 air（空氣、天空）與 craft（船筏、工藝，此處指飛行載具）複合而成。泛指飛機、直升機等所有飛行器，單複數同形。",
+      "definition": "1. an aeroplane, helicopter, or other machine capable of flight.",
+      "example": [
+        {
+          "eng": "Several commercial aircraft were grounded due to the storm.",
+          "ch": "幾架民航機因風暴而停飛。"
+        }
+      ]
+    },
+    {
+      "eng": "alarm",
+      "kk": "əˈlɑrm",
+      "tense": "n.",
+      "ch": [
+        [
+          "警報器",
+          "鬧鐘"
+        ],
+        [
+          "恐慌",
+          "憂慮"
+        ]
+      ],
+      "analysis": "此字為名詞。歷史上源自義大利語 all'arme（到武器去！由 alla + arma 組成）。語意從軍事上的「緊急號角」演變成「火災警報器、鬧鐘」以及心理上的「驚慌」。",
+      "definition": "1. an automated device that sounds a warning or wakes someone up; 2. a sense of fear or anxiety caused by the sudden realization of danger.",
+      "example": [
+        {
+          "eng": "The smoke alarm went off during cooking.",
+          "ch": "烹煮時煙霧警報器響了起來。"
+        },
+        {
+          "eng": "The news caused widespread alarm among investors.",
+          "ch": "這則消息引起了投資人廣泛的恐慌。"
+        }
+      ]
+    },
+    {
+      "eng": "alarm",
+      "kk": "əˈlɑrm",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使驚慌",
+          "使擔憂"
+        ]
+      ],
+      "analysis": "此字為及物動詞，指使人感到突然的恐懼或不安。",
+      "definition": "1. to cause someone to feel frightened, disturbed, or danger-conscious.",
+      "example": [
+        {
+          "eng": "The sudden loud noise alarmed the cat.",
+          "ch": "突如其來的巨大聲響嚇壞了貓。"
+        }
+      ]
+    },
+    {
+      "eng": "album",
+      "kk": "ˈælbəm",
+      "tense": "n.",
+      "ch": [
+        [
+          "相簿",
+          "集郵冊"
+        ],
+        [
+          "音樂專輯"
+        ]
+      ],
+      "analysis": "此字為名詞。歷史上源自拉丁語 albus（白色），古羅馬時期指寫有公共公告的白板。現代引申為「黏貼照片的相簿」及「灌錄音樂作品的專輯唱片」。",
+      "definition": "1. a blank book for the insertion of photographs, stamps, or collections; 2. a collection of recorded songs released as a single item.",
+      "example": [
+        {
+          "eng": "She keeps all her childhood photos in an album.",
+          "ch": "她把所有童年照片都保存在一本相簿裡。"
+        },
+        {
+          "eng": "The band released their debut album last week.",
+          "ch": "該樂團上週發行了他們的出道音樂專輯。"
+        }
+      ]
+    },
+    {
+      "eng": "alike",
+      "kk": "əˈlaɪk",
+      "tense": "adj.",
+      "ch": [
+        [
+          "相像的",
+          "類似的"
+        ]
+      ],
+      "analysis": "此字為形容詞。歷史上源自古英語 anlic（an「一」+ lic「像」）。通常作敘述用法（放在 be 動詞後面），表示兩者外表或性質極為相似。",
+      "definition": "1. similar to each other in appearance, nature, or form.",
+      "example": [
+        {
+          "eng": "The twin brothers look very much alike.",
+          "ch": "這對雙胞胎兄弟長得非常相像。"
+        }
+      ]
+    },
+    {
+      "eng": "alike",
+      "kk": "əˈlaɪk",
+      "tense": "adv.",
+      "ch": [
+        [
+          "同樣地",
+          "相像地"
+        ]
+      ],
+      "analysis": "此字為副詞，常用於句尾，表示兩者在某種情況下「無差別地、同樣地」受到對待。",
+      "definition": "1. in the same way or to the same degree.",
+      "example": [
+        {
+          "eng": "The new tax policy affects rich and poor alike.",
+          "ch": "這項新稅收政策對富人和窮人一視同仁。"
+        }
+      ]
+    },
+    {
+      "eng": "alive",
+      "kk": "əˈlaɪv",
+      "tense": "adj.",
+      "ch": [
+        [
+          "活著的",
+          "有生氣的"
+        ],
+        [
+          "持續存在的",
+          "活躍的"
+        ]
+      ],
+      "analysis": "此字為形容詞。歷史上源自古英語 on live（在生命中）。多用作敘述語，指生物尚有生命氣息，或指事物、氣氛充滿活力與生機。",
+      "definition": "1. having life; not dead; 2. full of energy, activity, or continuing in existence.",
+      "example": [
+        {
+          "eng": "Miraculously, all the passengers were found alive.",
+          "ch": "奇蹟似地，所有乘客都被發現還活著。"
+        },
+        {
+          "eng": "Music kept the party atmosphere alive.",
+          "ch": "音樂讓派對氣氛保持熱鬧。"
+        }
+      ]
+    },
+    {
+      "eng": "alone",
+      "kk": "əˈloʊn",
+      "tense": "adj.",
+      "ch": [
+        [
+          "單獨的",
+          "孤單的"
+        ]
+      ],
+      "analysis": "此字為形容詞。由 all（全）+ one（一）組合而成的中世紀英語複合詞。專指客觀上身邊沒有其他人，或是主觀上感到孤獨（常作敘述用法）。",
+      "definition": "1. having no one else present; solitary or lonely.",
+      "example": [
+        {
+          "eng": "She prefers to live alone in the apartment.",
+          "ch": "她喜歡獨自住在這間公寓裡。"
+        }
+      ]
+    },
+    {
+      "eng": "alone",
+      "kk": "əˈloʊn",
+      "tense": "adv.",
+      "ch": [
+        [
+          "獨自地",
+          "僅僅",
+          "只有"
+        ]
+      ],
+      "analysis": "此字為副詞，置於名詞或代名詞之後，表示「僅憑……本身」或「唯獨」。",
+      "definition": "1. exclusively; solely; without any other person or thing.",
+      "example": [
+        {
+          "eng": "Money alone cannot buy true happiness.",
+          "ch": "金錢並不能單獨買到真正的幸福。"
+        }
+      ]
+    },
+    {
+      "eng": "aloud",
+      "kk": "əˈlaʊd",
+      "tense": "adv.",
+      "ch": [
+        [
+          "出聲地",
+          "大聲地"
+        ]
+      ],
+      "analysis": "此字為副詞。現代透明構詞由前綴 a- + loud（大聲的）構成。指說話或朗讀時發出聲音，能讓人聽見，而非在心裡默念。",
+      "definition": "1. audibly; not silently or in a whisper.",
+      "example": [
+        {
+          "eng": "He read the poem aloud to the class.",
+          "ch": "他向全班大聲朗讀了這首詩。"
+        }
+      ]
+    },
+    {
+      "eng": "altogether",
+      "kk": "ˌɔltəˈɡɛðər",
+      "tense": "adv.",
+      "ch": [
+        [
+          "完全",
+          "總共"
+        ],
+        [
+          "總之",
+          "整體而言"
+        ]
+      ],
+      "analysis": "此字為副詞。現代透明構詞由 all（全部）+ together（在一起）組合而成。指數量上的完全加總，或是程度上的「全然、總括來說」。",
+      "definition": "1. completely; wholly; 2. in total; considering everything.",
+      "example": [
+        {
+          "eng": "The bill came to fifty dollars altogether.",
+          "ch": "總共帳單金額為五十美元。"
+        },
+        {
+          "eng": "Altogether, it was a successful event.",
+          "ch": "總體而言，這是一場成功的活動。"
+        }
+      ]
+    },
+    {
+      "eng": "among",
+      "kk": "əˈmʌŋ",
+      "tense": "prep.",
+      "ch": [
+        [
+          "在……之中（三者或以上）"
+        ],
+        [
+          "在群體中",
+          "與……交往"
+        ]
+      ],
+      "analysis": "此字為介系詞。歷史上源自古英語 ongemang（在混合或群體之中）。用於指三者或以上的人事物之間，或表示屬於某群體的一部分。",
+      "definition": "1. surrounded by; in the middle of three or more things or people; 2. being a member of a particular group.",
+      "example": [
+        {
+          "eng": "She hid the letter among the books.",
+          "ch": "她把信藏在書堆之中。"
+        },
+        {
+          "eng": "He is popular among his classmates.",
+          "ch": "他在同學之中很有人緣。"
+        }
+      ]
+    },
+    {
+      "eng": "amount",
+      "kk": "əˈmaʊnt",
+      "tense": "n.",
+      "ch": [
+        [
+          "數量",
+          "總額"
+        ]
+      ],
+      "analysis": "此字為名詞。歷史上源自古法語 amounter（源自拉丁語 ad montem「到達山頂、升到最高點」）。語意從「向上攀升到頂點」演變為「總計、數量」。",
+      "definition": "1. a quantity of something, typically the total of a thing or things.",
+      "example": [
+        {
+          "eng": "A large amount of money was spent on the project.",
+          "ch": "一大筆錢花在這個專案上。"
+        }
+      ]
+    },
+    {
+      "eng": "amount",
+      "kk": "əˈmaʊnt",
+      "tense": "vi.",
+      "ch": [
+        [
+          "總計",
+          "等同於",
+          "發展成"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，常與 to 連用（amount to），表示數量總計達多少，或性質上等同於某種情況。",
+      "definition": "1. to add up to a particular number or total; 2. to be equivalent to something.",
+      "example": [
+        {
+          "eng": "His debts amounted to thousands of dollars.",
+          "ch": "他的債務總計達數千美元。"
+        },
+        {
+          "eng": "What he said amounts to a confession.",
+          "ch": "他說的話等於是招認。"
+        }
+      ]
+    },
+    {
+      "eng": "ancient",
+      "kk": "ˈeɪnʃənt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "古代的",
+          "古老的"
+        ],
+        [
+          "極度年老的"
+        ]
+      ],
+      "analysis": "此字為形容詞。歷史上源自古法語 ancien，最終源自拉丁語 ante（在……之前）。指發生或存在於遙遠過去的歷史時期，或形容人或物非常老舊。",
+      "definition": "1. belonging to the very distant past; of great age; 2. very old.",
+      "example": [
+        {
+          "eng": "We visited the ancient ruins of Greece.",
+          "ch": "我們參觀了希臘的古代遺跡。"
+        },
+        {
+          "eng": "That car looks ancient.",
+          "ch": "那輛車看起來非常古老。"
+        }
+      ]
+    },
+    {
+      "eng": "anger",
+      "kk": "ˈæŋɡər",
+      "tense": "n.",
+      "ch": [
+        [
+          "憤怒",
+          "氣憤"
+        ]
+      ],
+      "analysis": "此字為名詞。歷史上源自古諾斯語 angr（痛苦、悲傷、憤怒），與日耳曼語族源頭相通。指因受到傷害或不公待遇而產生的強烈不滿情緒。",
+      "definition": "1. a strong feeling of annoyance, displeasure, or hostility.",
+      "example": [
+        {
+          "eng": "He struggled to control his anger.",
+          "ch": "他努力克制自己的憤怒。"
+        }
+      ]
+    },
+    {
+      "eng": "anger",
+      "kk": "ˈæŋɡər",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使憤怒",
+          "激怒"
+        ]
+      ],
+      "analysis": "此字為及物動詞，指引起他人的不滿或憤怒情緒。",
+      "definition": "1. to make someone angry; to incense or provoke.",
+      "example": [
+        {
+          "eng": "Her rude remarks angered everyone in the room.",
+          "ch": "她無禮的言論激怒了房間裡的每個人。"
+        }
+      ]
+    },
+    {
+      "eng": "angle",
+      "kk": "ˈæŋɡəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "角度",
+          "角落"
+        ],
+        [
+          "觀點",
+          "立場"
+        ]
+      ],
+      "analysis": "此字為名詞。歷史上源自拉丁語 angulus（角落、角）。幾何學上指兩條直線相交的夾角，引申出思考問題的「切入點、觀點」。",
+      "definition": "1. the space measured between two intersecting lines or surfaces; 2. a particular way of approaching or considering an issue.",
+      "example": [
+        {
+          "eng": "The triangle has three angles.",
+          "ch": "這個三角形有三個角。"
+        },
+        {
+          "eng": "We need to look at the problem from a different angle.",
+          "ch": "我們需要從不同的角度來看這個問題。"
+        }
+      ]
+    },
+    {
+      "eng": "ankle",
+      "kk": "ˈæŋkəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "腳踝",
+          "踝節"
+        ]
+      ],
+      "analysis": "此字為名詞。歷史上源自古英語 ancleow，與日耳曼語族的足部關節詞源相關。指連接小腿與腳掌的關節部位。",
+      "definition": "1. the joint connecting the foot with the leg.",
+      "example": [
+        {
+          "eng": "She sprained her ankle while playing tennis.",
+          "ch": "她打網球時扭傷了腳踝。"
+        }
+      ]
+    },
+    {
+      "eng": "anytime",
+      "kk": "ˈɛniˌtaɪm",
+      "tense": "adv.",
+      "ch": [
+        [
+          "隨時",
+          "任何時候"
+        ]
+      ],
+      "analysis": "此字為副詞。現代透明構詞由 any（任何）+ time（時間）複合而成。表示在不特定或任何的時間點皆可。",
+      "definition": "1. at any time; whenever you like.",
+      "example": [
+        {
+          "eng": "You can call me anytime you need help.",
+          "ch": "你需要幫忙時隨時可以打給我。"
+        }
+      ]
+    },
+    {
+      "eng": "anyway",
+      "kk": "ˈɛniˌweɪ",
+      "tense": "adv.",
+      "ch": [
+        [
+          "無論如何",
+          "反正"
+        ],
+        [
+          "縱然如此"
+        ]
+      ],
+      "analysis": "此字為副詞。現代透明構詞由 any（任何）+ way（方式、途徑）複合而成。用於轉折語氣，表示不論前述情況如何，結果或話題照常進行。",
+      "definition": "1. whatever else is happening; regardless; in any case; 2. used to change the subject or return to a previous point.",
+      "example": [
+        {
+          "eng": "It is raining, but I will go out anyway.",
+          "ch": "外面在下雨，但我反正還是要出去。"
+        },
+        {
+          "eng": "Anyway, let us get back to work.",
+          "ch": "總之，我們回到工作上吧。"
+        }
+      ]
+    },
+    {
+      "eng": "anywhere",
+      "kk": "ˈɛniˌwɛr",
+      "tense": "adv.",
+      "ch": [
+        [
+          "任何地方",
+          "隨處"
+        ]
+      ],
+      "analysis": "此字為副詞。現代透明構詞由 any（任何）+ where（地方）複合而成。常出現於否定句、疑問句或條件句中，表示不拘何處。",
+      "definition": "1. in or to any place.",
+      "example": [
+        {
+          "eng": "I cannot find my keys anywhere.",
+          "ch": "我到處都找不到我的鑰匙。"
+        }
+      ]
+    },
+    {
+      "eng": "anyplace",
+      "kk": "ˈɛniˌpleɪs",
+      "tense": "adv.",
+      "ch": [
+        [
+          "任何地方"
+        ]
+      ],
+      "analysis": "此字為副詞。現代透明構詞由 any（任何）+ place（地方）複合而成，為 anywhere 的口語同義詞，用法相似。",
+      "definition": "1. anywhere; at or in any place.",
+      "example": [
+        {
+          "eng": "We can sit down anyplace you like.",
+          "ch": "我們可以在你喜歡的任何地方坐下來。"
+        }
+      ]
+    },
+    {
+      "eng": "ape",
+      "kk": "eɪp",
+      "tense": "n.",
+      "ch": [
+        [
+          "類人猿",
+          "無尾猿"
+        ]
+      ],
+      "analysis": "此字為名詞。歷史上源自古英語 apa（猿猴）。指大猩猩、黑猩猩、長臂猿等無尾靈長類動物。",
+      "definition": "1. a large primate that lacks a tail, such as the chimpanzee, gorilla, or orangutan.",
+      "example": [
+        {
+          "eng": "Gorillas are the largest living apes.",
+          "ch": "大猩猩是現存最大的類人猿。"
+        }
+      ]
+    },
+    {
+      "eng": "appearance",
+      "kk": "əˈpɪrəns",
+      "tense": "n.",
+      "ch": [
+        [
+          "外表",
+          "外貌"
+        ],
+        [
+          "出現",
+          "露面"
+        ]
+      ],
+      "analysis": "此字為名詞。現代透明構詞由動詞 appear 加上名詞字尾 -ance 構成。語意從「在公眾面前露面」引申為個人的「外表穿著儀容」。",
+      "definition": "1. the way that someone or something looks; 2. an act of arriving or coming into view.",
+      "example": [
+        {
+          "eng": "First impressions are often based on personal appearance.",
+          "ch": "第一印象通常基於個人外表。"
+        },
+        {
+          "eng": "The singer made a surprise appearance on stage.",
+          "ch": "這位歌手在舞台上驚喜現身。"
+        }
+      ]
+    },
+    {
+      "eng": "appetite",
+      "kk": "ˈæpəˌtaɪt",
+      "tense": "n.",
+      "ch": [
+        [
+          "食慾",
+          "胃口"
+        ],
+        [
+          "強烈的欲望",
+          "愛好"
+        ]
+      ],
+      "analysis": "此字為名詞。歷史上源自古法語 apetit，源於拉丁語 appetitus（ad-「向」+ petere「追求」）。語意從生理上的「對食物的渴望」延伸為對知識或權力的「強烈欲望」。",
+      "definition": "1. a natural desire to satisfy a bodily need, especially for food; 2. a strong desire or liking for something.",
+      "example": [
+        {
+          "eng": "Hard work gave him a healthy appetite.",
+          "ch": "辛苦的工作讓他有了好胃口。"
+        },
+        {
+          "eng": "She has an insatiable appetite for reading books.",
+          "ch": "她對閱讀書籍有著永不滿足的渴望。"
+        }
+      ]
+    },
+    {
+      "eng": "apply",
+      "kk": "əˈplaɪ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "應用",
+          "運用"
+        ],
+        [
+          "塗抹",
+          "敷"
+        ],
+        [
+          "將……適用於"
+        ]
+      ],
+      "analysis": "此字為及物動詞。歷史上源自拉丁語 applicare（ad-「向」+ plicare「摺疊、貼近」）。語意從「將一物緊貼於另一物」演變為「運用理論」及「在皮膚上塗抹藥膏」。",
+      "definition": "1. to put to use for a particular purpose; 2. to put or spread a substance such as paint or cream onto a surface; 3. to bring a rule or principle into action.",
+      "example": [
+        {
+          "eng": "You should apply what you learned in class.",
+          "ch": "你應該應用你在課堂上學到的東西。"
+        },
+        {
+          "eng": "Apply the cream gently to the cut.",
+          "ch": "輕輕把乳霜塗在傷口上。"
+        }
+      ]
+    },
+    {
+      "eng": "apply",
+      "kk": "əˈplaɪ",
+      "tense": "vi.",
+      "ch": [
+        [
+          "申請",
+          "應徵"
+        ],
+        [
+          "適用",
+          "有關聯"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，常與 for（申請工作或補助）或 to（適用於某對象）連用。",
+      "definition": "1. to make a formal application for a job, permit, or university; 2. to be relevant or appropriate.",
+      "example": [
+        {
+          "eng": "He decided to apply for the scholarship.",
+          "ch": "他決定申請這項獎學金。"
+        },
+        {
+          "eng": "This rule applies to all students.",
+          "ch": "這條規定適用於所有學生。"
+        }
+      ]
+    },
+    {
+      "eng": "appreciate",
+      "kk": "əˈpriʃiˌet",
+      "tense": "vt.",
+      "ch": [
+        [
+          "感激",
+          "感謝"
+        ],
+        [
+          "欣賞",
+          "賞識"
+        ],
+        [
+          "理解",
+          "體會"
+        ]
+      ],
+      "analysis": "此字為及物動詞。歷史上源自中世紀拉丁語 appretiare（ad- + pretium「價格、價值」）。語意從「標定價值」演變為「認識並肯定某事物的價值（欣賞或感激）」。",
+      "definition": "1. to be grateful for something; 2. to recognize the full worth or quality of something; 3. to understand a situation fully.",
+      "example": [
+        {
+          "eng": "I deeply appreciate your kind help.",
+          "ch": "我深深感激你的熱心協助。"
+        },
+        {
+          "eng": "She appreciates classical music and fine art.",
+          "ch": "她懂得欣賞古典音樂與美術。"
+        },
+        {
+          "eng": "Few people appreciate the seriousness of the crisis.",
+          "ch": "很少人體會到這次危機的嚴重性。"
+        }
+      ]
+    },
+    {
+      "eng": "approach",
+      "kk": "əˈproʊtʃ",
+      "tense": "n.",
+      "ch": [
+        [
+          "接近",
+          "靠近"
+        ],
+        [
+          "方法",
+          "途徑"
+        ]
+      ],
+      "analysis": "此字為名詞。歷史上源自古法語 apochier，最終源自拉丁語 *adprope（ad-「向」+ prope「接近」）。語意從「在空間上靠近」演變為「解決問題的方式或方法」。",
+      "definition": "1. the act of coming closer in distance or time; 2. a way of dealing with a situation or problem.",
+      "example": [
+        {
+          "eng": "The approach of winter brought colder weather.",
+          "ch": "冬天的來臨帶來了更寒冷的天氣。"
+        },
+        {
+          "eng": "We need a new approach to teaching languages.",
+          "ch": "我們需要一種教授語言的新方法。"
+        }
+      ]
+    },
+    {
+      "eng": "approach",
+      "kk": "əˈproʊtʃ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "接近",
+          "靠近"
+        ],
+        [
+          "著手處理",
+          "與……接洽"
+        ]
+      ],
+      "analysis": "此字為及物動詞，指在空間或時間上向某目標移動，或主動接觸某人以商討事務。",
+      "definition": "1. to come near or nearer to someone or something in distance or time; 2. to speak to someone with a proposal or request.",
+      "example": [
+        {
+          "eng": "As we approached the city, we saw the skyline.",
+          "ch": "當我們接近這座城市時，我們看到了天際線。"
+        },
+        {
+          "eng": "The company approached him with a job offer.",
+          "ch": "公司向他接洽並提出了工作邀約。"
+        }
+      ]
+    },
+    {
+      "eng": "argue",
+      "kk": "ˈɑrɡju",
+      "tense": "vt.",
+      "ch": [
+        [
+          "主張",
+          "論證"
+        ],
+        [
+          "表明",
+          "證明"
+        ]
+      ],
+      "analysis": "此字為及物動詞，接子句或名詞作受詞，表示透過理由證明某觀點，或客觀跡象顯示某事。",
+      "definition": "1. to give reasons for or against something; to maintain or assert; 2. to provide clear evidence or indication of.",
+      "example": [
+        {
+          "eng": "She argued that the policy would fail.",
+          "ch": "她主張這項政策將會失敗。"
+        },
+        {
+          "eng": "His behavior argues a lack of respect.",
+          "ch": "他的行為證明了缺乏尊重。"
+        }
+      ]
+    },
+    {
+      "eng": "argue",
+      "kk": "ˈɑrɡju",
+      "tense": "vi.",
+      "ch": [
+        [
+          "爭論",
+          "爭吵"
+        ],
+        [
+          "辯論",
+          "論證"
+        ]
+      ],
+      "analysis": "此字為不及物動詞。歷史上源自拉丁語 arguere（使明晰、證明、責難）。指透過言語交換意見、激辯，或提出邏輯論點。",
+      "definition": "1. to exchange angry or heated verbal disagreement; 2. to give reasons or cite evidence in support of an idea.",
+      "example": [
+        {
+          "eng": "The couple often argue about money matters.",
+          "ch": "這對夫妻經常為金錢問題爭吵。"
+        },
+        {
+          "eng": "Lawyers argued fiercely in the courtroom.",
+          "ch": "律師們在法庭上激烈辯論。"
+        }
+      ]
+    },
+    {
+      "eng": "argument",
+      "kk": "ˈɑrɡjəmənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "爭論",
+          "口角"
+        ],
+        [
+          "論點",
+          "論據"
+        ]
+      ],
+      "analysis": "此字為名詞。現代透明構詞由動詞 argue 加上名詞字尾 -ment 構成。指人與人之間的激烈爭吵，或指支持某種立場的理性論證與理由。",
+      "definition": "1. an angry exchange of differing views; a quarrel; 2. a reason or set of reasons given with the aim of persuading others.",
+      "example": [
+        {
+          "eng": "They had an argument over who should drive.",
+          "ch": "他們為了誰該開車而爭吵。"
+        },
+        {
+          "eng": "He presented a strong argument for tax reform.",
+          "ch": "他提出了支持稅制改革的有力論點。"
+        }
+      ]
+    },
+    {
+      "eng": "army",
+      "kk": "ˈɑrmi",
+      "tense": "n.",
+      "ch": [
+        [
+          "陸軍",
+          "軍隊"
+        ],
+        [
+          "大批群眾",
+          "龐大數量"
+        ]
+      ],
+      "analysis": "此字為名詞。歷史上源自古法語 armée，源於拉丁語 armata（armare「武裝」的過去分詞）。原指武裝部隊，現專指陸軍或泛指龐大的群體。",
+      "definition": "1. an organized military force equipped for fighting on land; 2. a large number of people or things gathered together.",
+      "example": [
+        {
+          "eng": "He served in the army for five years.",
+          "ch": "他在陸軍服役了五年。"
+        },
+        {
+          "eng": "An army of volunteers showed up to clean the beach.",
+          "ch": "大批志工湧現來清理海灘。"
+        }
+      ]
+    },
+    {
+      "eng": "arrange",
+      "kk": "əˈreɪndʒ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "安排",
+          "籌備"
+        ],
+        [
+          "整理",
+          "排列"
+        ]
+      ],
+      "analysis": "此字為及物動詞。歷史上源自古法語 arangier（ad-「向」+ rang「行列」）。語意從「將事物排成行列」延伸為「規劃、籌備活動或行程」。",
+      "definition": "1. to plan, organize, or make preparations for an event; 2. to put things in a neat, attractive, or required order.",
+      "example": [
+        {
+          "eng": "We need to arrange a meeting for next week.",
+          "ch": "我們需要為下週安排一場會議。"
+        },
+        {
+          "eng": "She arranged the books neatly on the shelf.",
+          "ch": "她把書本整齊地排列在書架上。"
+        }
+      ]
+    },
+    {
+      "eng": "arrange",
+      "kk": "əˈreɪndʒ",
+      "tense": "vi.",
+      "ch": [
+        [
+          "商量",
+          "協商作準備"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，通常與 for 連用（arrange for），表示主動出面協調或安排某事。",
+      "definition": "1. to make plans or preparations with someone for something to happen.",
+      "example": [
+        {
+          "eng": "Can you arrange for a taxi to pick us up?",
+          "ch": "你能安排計程車來接我們嗎？"
+        }
+      ]
+    },
+    {
+      "eng": "arrangement",
+      "kk": "əˈreɪndʒmənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "安排",
+          "準備工作"
+        ],
+        [
+          "協議",
+          "約定"
+        ]
+      ],
+      "analysis": "此字為名詞。現代透明構詞由動詞 arrange 加上名詞字尾 -ment 構成。指事前規劃的行動、協議，或物件的裝飾排列。",
+      "definition": "1. a plan or preparation made for a future event; 2. an agreement or settlement between parties.",
+      "example": [
+        {
+          "eng": "Travel arrangements are almost complete.",
+          "ch": "旅遊行程的安排大致已完成。"
+        },
+        {
+          "eng": "They came to a mutually beneficial arrangement.",
+          "ch": "他們達成了互利互惠的協議。"
+        }
+      ]
+    },
+    {
+      "eng": "arrival",
+      "kk": "əˈraɪvəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "到達",
+          "抵達"
+        ],
+        [
+          "新到之人或物"
+        ]
+      ],
+      "analysis": "此字為名詞。現代透明構詞由動詞 arrive 加上名詞字尾 -al 構成。指人車抵達目的地，或指新誕生的小孩、新推出的產品。",
+      "definition": "1. the act of coming to a place; 2. a person or thing that has recently arrived.",
+      "example": [
+        {
+          "eng": "We awaited the arrival of the train.",
+          "ch": "我們等待火車的進站抵達。"
+        },
+        {
+          "eng": "The family celebrated the arrival of a new baby.",
+          "ch": "這家人慶祝新寶寶的誕生。"
+        }
+      ]
+    }
+  ]
+}

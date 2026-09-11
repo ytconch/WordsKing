@@ -151,45 +151,19 @@ function getCoreMeaningIndexes(entries, maxItems = 2) {
   return entries.slice(0, Math.max(1, maxItems)).map((_, index) => index);
 }
 
-function resolveExamMeaningEntries(word, options = {}) {
-  const entries = parseMeaningEntries(word?.ch || word?.definition || "");
-  if (!entries.length) {
-    return [];
+function getWordParsedMeanings(word) {
+  if (Array.isArray(word?._parsedMeanings)) {
+    return word._parsedMeanings;
   }
-
-  const examMeaningTexts = new Set(
-    (Array.isArray(word?.examMeaningTexts) ? word.examMeaningTexts : [])
-      .map((item) => cleanMeaningEntry(item))
-      .filter(Boolean)
-  );
-  const examMeaningIndexes = sanitizeMeaningIndexes(word?.examMeaningIndexes || [], entries.length);
-
-  const matched = entries.filter(
-    (entry, index) => examMeaningTexts.has(cleanMeaningEntry(entry)) || examMeaningIndexes.includes(index)
-  );
-
-  const unmatchedSelectedTexts = [...examMeaningTexts].filter(
-    (selectedText) => !entries.some((entry) => cleanMeaningEntry(entry) === selectedText)
-  );
-
-  if (matched.length || unmatchedSelectedTexts.length) {
-    return [...new Set([...matched, ...unmatchedSelectedTexts])];
+  const parsed = parseMeaningEntries(word?.ch || word?.definition || "");
+  if (word && typeof word === "object") {
+    word._parsedMeanings = parsed;
   }
-
-  return [];
+  return parsed;
 }
 
-function resolveMeaningScopeEntries(word, meaningScope = "all_meanings", options = {}) {
-  const entries = parseMeaningEntries(word?.ch || word?.definition || "");
-  if (!entries.length) {
-    return [];
-  }
-
-  if (meaningScope === "exam_only") {
-    return resolveExamMeaningEntries(word, options);
-  }
-
-  return entries;
+function buildStarKey(eng, tense) {
+  return `${normalizeEnglish(eng)}::${normalizeText(tense).toLowerCase()}`;
 }
 
 function splitPracticeMeaning(value) {
@@ -217,7 +191,7 @@ function buildPracticeDisplayText(value, options = {}) {
 }
 
 function pickPracticeMeaning(word, preferredIndex = 0) {
-  const entries = parseMeaningEntries(word?.ch || word?.definition || "");
+  const entries = getWordParsedMeanings(word);
   if (!entries.length) {
     return stripPracticeParentheses(word?.ch || word?.definition || "");
   }
@@ -263,12 +237,12 @@ module.exports = {
   normalizeEnglish,
   slugify,
   buildWordRef,
+  buildStarKey,
   stripPracticeParentheses,
   cleanMeaningEntry,
   parseMeaningEntries,
+  getWordParsedMeanings,
   getCoreMeaningIndexes,
-  resolveExamMeaningEntries,
-  resolveMeaningScopeEntries,
   pickPracticeMeaning,
   splitPracticeMeaning,
   buildPracticeDisplayText,
@@ -276,3 +250,4 @@ module.exports = {
   buildExpectedAnswer,
   isAnswerCorrect
 };
+

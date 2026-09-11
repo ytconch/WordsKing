@@ -1,6 +1,7 @@
 const express = require("express");
 const bcrypt = require("bcryptjs");
 const jwt = require("jsonwebtoken");
+const { randomUUID } = require("crypto");
 const { clientDb } = require("../db/connections");
 const { jwtSecret } = require("../config");
 const { requireAuth } = require("../middleware/auth");
@@ -39,6 +40,12 @@ const registerRateLimit = createRateLimiter({
   windowMs: 60 * 60 * 1000,
   max: 5,
   message: "Too many registration attempts. Please try again later."
+});
+const guestRateLimit = createRateLimiter({
+  key: "auth:guest",
+  windowMs: 15 * 60 * 1000,
+  max: 30,
+  message: "Too many guest sessions. Please try again later."
 });
 const recoveryRateLimit = createRateLimiter({
   key: "auth:recovery",
@@ -123,6 +130,29 @@ function toUserPayload(user) {
   };
 }
 
+function toGuestUserPayload() {
+  return {
+    id: "guest",
+    username: "guest",
+    displayName: "訪客",
+    role: "guest",
+    isGuest: true,
+    theme: "sage",
+    leaderboardVisible: false,
+    practiceNextQuestionDelayMs: DEFAULT_PRACTICE_NEXT_QUESTION_DELAY_MS,
+    practiceChoiceTimeLimitSeconds: DEFAULT_PRACTICE_CHOICE_TIME_LIMIT_SECONDS,
+    practiceTypingTimeLimitSeconds: DEFAULT_PRACTICE_TYPING_TIME_LIMIT_SECONDS,
+    createdAt: null
+  };
+}
+
+function requireRegisteredUser(req, res, next) {
+  if (req.user?.isGuest) {
+    return res.status(403).json({ message: "訪客模式不會儲存帳號資料。" });
+  }
+  next();
+}
+
 async function fetchUserById(userId) {
   return clientDb.get(
     `SELECT
@@ -138,7 +168,6 @@ async function fetchUserById(userId) {
        practice_next_question_delay_ms,
        practice_choice_time_limit_seconds,
        practice_typing_time_limit_seconds,
-       student_tutorial_completed_at,
        token_version,
        created_at
      FROM users
@@ -159,6 +188,33 @@ function issueToken(user) {
     { expiresIn: "7d" }
   );
 }
+
+function issueGuestToken() {
+  return jwt.sign(
+    {
+      guest: true,
+      role: "guest",
+      sessionId: randomUUID()
+    },
+    jwtSecret,
+    { expiresIn: "12h" }
+  );
+}
+
+router.post(
+  "/guest",
+  (req, res, next) => {
+    req.__skipAuditLog = true;
+    next();
+  },
+  guestRateLimit,
+  (req, res) => {
+    res.json({
+      token: issueGuestToken(),
+      user: toGuestUserPayload()
+    });
+  }
+);
 
 router.post("/register", registerRateLimit, async (req, res, next) => {
   try {
@@ -191,10 +247,9 @@ router.post("/register", registerRateLimit, async (req, res, next) => {
            tts_repeat_count,
            practice_next_question_delay_ms,
            practice_choice_time_limit_seconds,
-           practice_typing_time_limit_seconds,
-           student_tutorial_completed_at
+           practice_typing_time_limit_seconds
          )
-       VALUES (?, ?, ?, ?, 'sage', 1, 'auto', 0.9, 1, ?, ?, ?, NULL)`,
+       VALUES (?, ?, ?, ?, 'sage', 1, 'auto', 0.9, 1, ?, ?, ?)`,
       [
         username,
         passwordHash,
@@ -235,7 +290,6 @@ router.post("/login", loginRateLimit, async (req, res, next) => {
          practice_next_question_delay_ms,
          practice_choice_time_limit_seconds,
          practice_typing_time_limit_seconds,
-         student_tutorial_completed_at,
          token_version,
          created_at
        FROM users
@@ -263,6 +317,10 @@ router.post("/login", loginRateLimit, async (req, res, next) => {
 
 router.get("/me", requireAuth, async (req, res, next) => {
   try {
+    if (req.user.isGuest) {
+      return res.json({ user: toGuestUserPayload() });
+    }
+
     const user = await fetchUserById(req.user.id);
     if (!user) {
       return res.status(404).json({ message: "User not found." });
@@ -274,7 +332,7 @@ router.get("/me", requireAuth, async (req, res, next) => {
   }
 });
 
-router.patch("/me/profile", requireAuth, async (req, res, next) => {
+router.patch("/me/profile", requireAuth, requireRegisteredUser, async (req, res, next) => {
   try {
     const displayName = validateTextField(req.body.displayName, "Display name", FIELD_LIMITS.displayName);
     const theme = sanitizeTheme(req.body.theme);
@@ -320,7 +378,7 @@ router.patch("/me/profile", requireAuth, async (req, res, next) => {
   }
 });
 
-router.patch("/me/password", requireAuth, async (req, res, next) => {
+router.patch("/me/password", requireAuth, requireRegisteredUser, async (req, res, next) => {
   try {
     const currentPassword = validateSecretField(req.body.currentPassword, "Current password", FIELD_LIMITS.password);
     const nextPassword = validateSecretField(req.body.newPassword, "New password", FIELD_LIMITS.password);
@@ -347,7 +405,7 @@ router.patch("/me/password", requireAuth, async (req, res, next) => {
   }
 });
 
-router.delete("/me", requireAuth, async (req, res, next) => {
+router.delete("/me", requireAuth, requireRegisteredUser, async (req, res, next) => {
   try {
     const currentPassword = validateSecretField(req.body.currentPassword, "Current password", FIELD_LIMITS.password);
     const user = await clientDb.get("SELECT id, role, password_hash FROM users WHERE id = ?", [req.user.id]);
@@ -377,6 +435,10 @@ router.delete("/me", requireAuth, async (req, res, next) => {
 
 router.post("/visit", requireAuth, async (req, res, next) => {
   try {
+    if (req.user.isGuest) {
+      return res.json({ ok: true });
+    }
+
     const pageKey = normalizeText(req.body.pageKey).toLowerCase();
     const path = normalizeText(req.body.path).slice(0, 120);
 
@@ -398,6 +460,10 @@ router.post("/visit", requireAuth, async (req, res, next) => {
 
 router.post("/visit/session/start", requireAuth, async (req, res, next) => {
   try {
+    if (req.user.isGuest) {
+      return res.json({ ok: true, sessionId: 0 });
+    }
+
     const pageKey = normalizeText(req.body.pageKey).toLowerCase();
     const path = normalizeText(req.body.path).slice(0, 120);
 
@@ -428,6 +494,10 @@ router.post("/visit/session/start", requireAuth, async (req, res, next) => {
 
 router.post("/visit/session/:id/heartbeat", requireAuth, async (req, res, next) => {
   try {
+    if (req.user.isGuest) {
+      return res.json({ ok: true });
+    }
+
     const sessionId = Number(req.params.id);
     if (!Number.isFinite(sessionId) || sessionId <= 0) {
       return res.status(400).json({ message: "Invalid session id." });
@@ -455,6 +525,10 @@ router.post("/visit/session/:id/heartbeat", requireAuth, async (req, res, next) 
 
 router.post("/visit/session/:id/end", requireAuth, async (req, res, next) => {
   try {
+    if (req.user.isGuest) {
+      return res.json({ ok: true });
+    }
+
     const sessionId = Number(req.params.id);
     if (!Number.isFinite(sessionId) || sessionId <= 0) {
       return res.status(400).json({ message: "Invalid session id." });

@@ -1,0 +1,2071 @@
+{
+  "level": 1,
+  "chunkIndex": 3,
+  "inputs": [
+    "bite",
+    "black",
+    "blind",
+    "block",
+    "blow",
+    "blue",
+    "boat",
+    "body",
+    "book",
+    "bored",
+    "boring",
+    "born",
+    "borrow",
+    "boss",
+    "both",
+    "bottle",
+    "bottom",
+    "bow",
+    "bowl",
+    "box",
+    "boy",
+    "brave",
+    "bread",
+    "break",
+    "breakfast",
+    "bridge",
+    "bright",
+    "bring",
+    "brother",
+    "brown",
+    "bug",
+    "build",
+    "bus",
+    "business",
+    "busy",
+    "but",
+    "butter",
+    "butterfly",
+    "button",
+    "buy",
+    "by",
+    "cake",
+    "call",
+    "camera",
+    "camp",
+    "can",
+    "cap",
+    "car",
+    "card",
+    "care"
+  ],
+  "rows": [
+    {
+      "eng": "bite",
+      "kk": "/baɪt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "一口",
+          "咬"
+        ],
+        [
+          "叮咬傷口"
+        ],
+        [
+          "小吃",
+          "點心"
+        ]
+      ],
+      "analysis": "由動詞 bite 轉化而來的名詞，保留動作結果義，指咬的動作或一口的量，並進一步延伸指昆蟲造成的傷口，或簡便的一餐、點心。",
+      "definition": "1. An act of biting or the amount taken by biting; 2. A wound caused by the bite of an animal or insect; 3. A small snack or quick meal.",
+      "example": [
+        {
+          "eng": "He took a big bite of the apple.",
+          "ch": "他咬了一大口蘋果。"
+        },
+        {
+          "eng": "She showed me the mosquito bite on her arm.",
+          "ch": "她給我看她手臂上的蚊蟲叮咬傷口。"
+        },
+        {
+          "eng": "Let's grab a quick bite before the movie.",
+          "ch": "我們在電影開演前去簡單吃個點心吧。"
+        }
+      ]
+    },
+    {
+      "eng": "bite",
+      "kk": "/baɪt/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "咬",
+          "啄",
+          "啃"
+        ],
+        [
+          "叮",
+          "蟄"
+        ],
+        [
+          "受騙",
+          "上鉤"
+        ]
+      ],
+      "analysis": "此字為繼承自日耳曼語族的強變化動詞，源自原始日耳曼語 *bītaną（咬），對應古英語 bītan。其過去式為 bit，過去分詞為 bitten。語意從以牙齒切斷或咬合物理動作，延伸出昆蟲叮咬、以及引申義的受騙上鉤。",
+      "definition": "1. To use the teeth to cut, pierce, or grip something; 2. To sting or puncture skin, typically by an insect; 3. To take a bait or be tricked by something.",
+      "example": [
+        {
+          "eng": "The dog might bite if you disturb it while eating.",
+          "ch": "如果你在狗吃東西時打擾牠，牠可能會咬人。"
+        },
+        {
+          "eng": "Mosquitoes love to bite me during summer evenings.",
+          "ch": "蚊子很喜歡在夏天的傍晚叮我。"
+        },
+        {
+          "eng": "The fish didn't bite all morning.",
+          "ch": "魚整個早上都沒有上鉤。"
+        }
+      ]
+    },
+    {
+      "eng": "bite",
+      "kk": "/baɪt/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "咬",
+          "啃"
+        ],
+        [
+          "叮咬"
+        ]
+      ],
+      "analysis": "作為不及物動詞使用時，維持動詞 bite 的基本動作義，指進行咬合或叮咬的行為，常見於描述動物進食習慣或昆蟲的攻擊性。",
+      "definition": "1. To use the teeth to bite something; 2. To bite or sting as an insect.",
+      "example": [
+        {
+          "eng": "Does your dog bite?",
+          "ch": "你的狗會咬人嗎？"
+        },
+        {
+          "eng": "Watch out, these bugs bite.",
+          "ch": "小心，這些蟲會叮人。"
+        }
+      ]
+    },
+    {
+      "eng": "black",
+      "kk": "/blæk/",
+      "tense": "n.",
+      "ch": [
+        [
+          "黑色"
+        ],
+        [
+          "黑人"
+        ]
+      ],
+      "analysis": "由形容詞 black 轉化而來的名詞，指黑色這種顏色，或用作指稱黑人族群的詞彙（需視語境而定）。",
+      "definition": "1. The darkest color, the opposite of white; 2. A person of black African descent.",
+      "example": [
+        {
+          "eng": "She prefers to paint the walls in black and white.",
+          "ch": "她偏好把牆壁漆成黑色和白色。"
+        },
+        {
+          "eng": "The museum celebrates the history and culture of Blacks.",
+          "ch": "這座博物館旨在慶祝黑人的歷史與文化。"
+        }
+      ]
+    },
+    {
+      "eng": "black",
+      "kk": "/blæk/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "黑色的",
+          "黑"
+        ],
+        [
+          "黑暗的",
+          "無光的"
+        ]
+      ],
+      "analysis": "源自古英語 blæc（黑色的、暗色的），追溯至原始日耳曼語 *blakaz（燃燒的、墨黑的），與 blaze（烈火）同源，原意指因燃燒而變黑的痕跡。現代用以形容色彩或缺乏光線的狀態。",
+      "definition": "1. Of the very darkest color, absorbing all light; 2. Completely dark or lacking light.",
+      "example": [
+        {
+          "eng": "He wore a black suit to the formal dinner.",
+          "ch": "他穿了一套黑色西裝參加正式晚宴。"
+        },
+        {
+          "eng": "The night sky was pitch black without any stars.",
+          "ch": "沒有半顆星星的夜空漆黑一片。"
+        }
+      ]
+    },
+    {
+      "eng": "blind",
+      "kk": "/blaɪnd/",
+      "tense": "n.",
+      "ch": [
+        [
+          "百葉窗",
+          "窗簾"
+        ],
+        [
+          "遮蔽處",
+          "百葉簾"
+        ]
+      ],
+      "analysis": "由形容詞 blind 轉化而來的名詞，指遮擋視線、阻擋光線的窗簾或百葉窗，亦可指狩獵時用於隱蔽的掩體。",
+      "definition": "1. A window covering made of slats or a screen; 2. A shelter used to conceal hunters.",
+      "example": [
+        {
+          "eng": "She lowered the blinds to keep out the afternoon sun.",
+          "ch": "她拉下百葉窗以擋住午後的陽光。"
+        },
+        {
+          "eng": "The hunters waited quietly in the duck blind.",
+          "ch": "獵人們安靜地在鴨子掩體中等待。"
+        }
+      ]
+    },
+    {
+      "eng": "blind",
+      "kk": "/blaɪnd/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "盲的",
+          "失明的"
+        ],
+        [
+          "盲目的",
+          "視而不見的"
+        ]
+      ],
+      "analysis": "源自古英語 blind，追溯至原始日耳曼語 *blindaz（盲的、混淆的），與動詞 blindan 相關。基本義指視覺受損無法看見，引申為對某事缺乏判斷力或視而不見。",
+      "definition": "1. Unable to see; 2. Lacking perception, awareness, or judgment.",
+      "example": [
+        {
+          "eng": "The guide dog helps the blind man cross the street.",
+          "ch": "導盲犬協助盲人過馬路。"
+        },
+        {
+          "eng": "We should not turn a blind eye to environmental problems.",
+          "ch": "我們不應該對環境問題視而不見。"
+        }
+      ]
+    },
+    {
+      "eng": "block",
+      "kk": "/blɑk/",
+      "tense": "n.",
+      "ch": [
+        [
+          "街區",
+          "方塊街區"
+        ],
+        [
+          "木塊",
+          "石塊",
+          "大木塊"
+        ],
+        [
+          "障礙物",
+          "阻礙"
+        ]
+      ],
+      "analysis": "經由古法語 bloc 借自日耳曼語源（比較荷蘭語 blok），本義指厚重的木塊或石塊。因城市規劃中的方正街區形似大方塊而引申出「街區」義，亦可指阻礙通行的障礙。",
+      "definition": "1. A solid piece of a hard substance like wood or stone; 2. A city block surrounded by streets; 3. An obstruction or hindrance.",
+      "example": [
+        {
+          "eng": "He lives just two blocks away from the office.",
+          "ch": "他住的地方離辦公室只有兩個街區遠。"
+        },
+        {
+          "eng": "Children love playing with wooden building blocks.",
+          "ch": "孩子們喜歡玩木製積木。"
+        },
+        {
+          "eng": "A fallen tree caused a traffic block on the highway.",
+          "ch": "倒塌的樹木造成高速公路交通受阻。"
+        }
+      ]
+    },
+    {
+      "eng": "block",
+      "kk": "/blɑk/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "阻塞",
+          "堵塞"
+        ],
+        [
+          "阻擋",
+          "妨礙"
+        ]
+      ],
+      "analysis": "由名詞 block 轉化而來的動詞，指放置物體以形成障礙，進而引申為阻礙行動、交通或視線。",
+      "definition": "1. To obstruct a passage, road, or flow; 2. To hinder or prevent progress or action.",
+      "example": [
+        {
+          "eng": "The parked truck is blocking the driveway.",
+          "ch": "停放的卡車擋住了車道。"
+        },
+        {
+          "eng": "Sunscreen helps block harmful ultraviolet rays.",
+          "ch": "防曬乳有助於阻擋有害的紫外線。"
+        }
+      ]
+    },
+    {
+      "eng": "blow",
+      "kk": "/bloʊ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "打擊",
+          "重創"
+        ],
+        [
+          "吹拂",
+          "強風"
+        ]
+      ],
+      "analysis": "與動詞 blow 同源的名詞，本義指重擊或拳擊，引申為人生或計畫遭受的重大打擊，亦可指一陣強風。",
+      "definition": "1. A sudden hard stroke with a hand or weapon, or an unexpected misfortune; 2. A strong gust of wind.",
+      "example": [
+        {
+          "eng": "Losing his job was a severe blow to his confidence.",
+          "ch": "失去工作對他的自信是一次沉重的打擊。"
+        },
+        {
+          "eng": "The sailors braced themselves against the sudden blow.",
+          "ch": "水手們挺身對抗突如其來的強風。"
+        }
+      ]
+    },
+    {
+      "eng": "blow",
+      "kk": "/bloʊ/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "吹奏",
+          "吹響"
+        ],
+        [
+          "吹拂",
+          "吹走"
+        ]
+      ],
+      "analysis": "動詞 blow 的及物用法，指透過氣流吹動樂器發聲，或將某物吹走、吹散。",
+      "definition": "1. To produce sound by blowing into a wind instrument; 2. To carry or move something by the force of wind or breath.",
+      "example": [
+        {
+          "eng": "He knows how to blow the trumpet.",
+          "ch": "他會吹小號。"
+        },
+        {
+          "eng": "The strong wind blew my hat off my head.",
+          "ch": "強風把我的帽子吹掉了。"
+        }
+      ]
+    },
+    {
+      "eng": "blow",
+      "kk": "/bloʊ/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "吹動",
+          "吹氣"
+        ],
+        [
+          "刮風"
+        ]
+      ],
+      "analysis": "源自古英語 blāwan（吹、呼吸、發芽），屬強變化動詞，原始日耳曼語 *blēaną。基本義指氣流的流動，如風在吹或人用力吹氣。",
+      "definition": "1. To move and create an air current; 2. To expel air from the mouth.",
+      "example": [
+        {
+          "eng": "The wind began to blow fiercely before the storm.",
+          "ch": "暴風雨來臨前，風開始猛烈地吹拂。"
+        },
+        {
+          "eng": "Blow hard to put out all the birthday candles.",
+          "ch": "用力吹氣把所有的生日蠟燭吹熄。"
+        }
+      ]
+    },
+    {
+      "eng": "blue",
+      "kk": "/blu/",
+      "tense": "n.",
+      "ch": [
+        [
+          "藍色"
+        ]
+      ],
+      "analysis": "由形容詞 blue 轉化而來的名詞，專指藍色這種光譜顏色或顏料。",
+      "definition": "1. The color blue.",
+      "example": [
+        {
+          "eng": "She wore a lovely dress in pale blue.",
+          "ch": "她穿了一件好看的淺藍色洋裝。"
+        }
+      ]
+    },
+    {
+      "eng": "blue",
+      "kk": "/blu/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "藍色的",
+          "藍"
+        ],
+        [
+          "憂鬱的",
+          "沮喪的"
+        ]
+      ],
+      "analysis": "經由古法語 blu / blo 借自日耳曼語源（比較古諾斯語 blárr），最終源自原始日耳曼語 *blēwaz。除表示藍色外，自16世紀起引申出心情憂鬱、沮喪的含義（如 feel blue）。",
+      "definition": "1. Of a color intermediate between green and violet; 2. Feeling gloomy, depressed, or sad.",
+      "example": [
+        {
+          "eng": "The clear sky is a brilliant blue today.",
+          "ch": "今天晴朗的天空是一片燦爛的藍色。"
+        },
+        {
+          "eng": "She felt a bit blue after watching the sad movie.",
+          "ch": "看完那部悲傷的電影後，她覺得心情有點沮喪。"
+        }
+      ]
+    },
+    {
+      "eng": "boat",
+      "kk": "/boʊt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "船",
+          "小船",
+          "舟"
+        ]
+      ],
+      "analysis": "源自古英語 bāt（小船），追溯至原始日耳曼語 *baitaz（挖空樹幹製成的船），與 bite（咬、鑿）同源，指將木頭鑿空製成的水上載具。",
+      "definition": "1. A small vessel for traveling on water.",
+      "example": [
+        {
+          "eng": "They rented a small boat to fish on the lake.",
+          "ch": "他們租了一艘小船在湖上釣魚。"
+        }
+      ]
+    },
+    {
+      "eng": "body",
+      "kk": "/ˈbɑdi/",
+      "tense": "n.",
+      "ch": [
+        [
+          "身體",
+          "軀體"
+        ],
+        [
+          "屍體"
+        ],
+        [
+          "主體",
+          "主要部分"
+        ]
+      ],
+      "analysis": "源自古英語 bodig（身體、軀幹），原始日耳曼語 *budagą。基本義指人的肉體，引申指死去的軀體（屍體），或事物的主要主體、機構。",
+      "definition": "1. The physical structure of a human or animal; 2. A dead body or corpse; 3. The main or central part of something.",
+      "example": [
+        {
+          "eng": "Regular exercise keeps both the body and mind healthy.",
+          "ch": "規律運動能保持身心健康。"
+        },
+        {
+          "eng": "The police found a body in the abandoned building.",
+          "ch": "警方在廢棄大樓裡發現了一具屍體。"
+        },
+        {
+          "eng": "You should focus on the body of your essay.",
+          "ch": "你應該把重點放在文章的主體部分。"
+        }
+      ]
+    },
+    {
+      "eng": "book",
+      "kk": "/bʊk/",
+      "tense": "n.",
+      "ch": [
+        [
+          "書",
+          "書籍"
+        ],
+        [
+          "帳冊",
+          "名冊"
+        ]
+      ],
+      "analysis": "源自古英語 bōc（書、文書），原始日耳曼語 *bōkō（山毛櫸），因早期日耳曼人常將文字刻在山毛櫸木板上而得名。現代泛指裝訂成冊的出版物。",
+      "definition": "1. A written or printed work consisting of pages glued or sewn together; 2. A set of written records or accounts.",
+      "example": [
+        {
+          "eng": "She borrowed three library books to read over the weekend.",
+          "ch": "她借了三本圖書館的書準備週末閱讀。"
+        },
+        {
+          "eng": "The accountant is busy balancing the books.",
+          "ch": "會計師正忙著結算帳目。"
+        }
+      ]
+    },
+    {
+      "eng": "book",
+      "kk": "/bʊk/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "預訂",
+          "預約"
+        ],
+        [
+          "登記",
+          "記名（違規等）"
+        ]
+      ],
+      "analysis": "由名詞 book 轉化而來的動詞，原意為在帳簿上記錄，引申為預訂房間、機票等服務，或警方在記錄簿上登記嫌犯罪名。",
+      "definition": "1. To reserve something such as a hotel room, ticket, or table in advance; 2. To record the name of a suspect for an offense.",
+      "example": [
+        {
+          "eng": "We need to book our flights well in advance.",
+          "ch": "我們需要提前很久預訂機票。"
+        },
+        {
+          "eng": "The police booked him for speeding.",
+          "ch": "警方因他超速而對他進行了登記開單。"
+        }
+      ]
+    },
+    {
+      "eng": "bored",
+      "kk": "/bɔrd/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "感到無聊的",
+          "厭煩的"
+        ]
+      ],
+      "analysis": "由動詞 bore（使厭煩）派生出的分詞形容詞，加上 -ed 表示人自身的心理感受，指對現狀或缺乏趣味的事物感到無聊。",
+      "definition": "1. Feeling weary and restless through lack of interest.",
+      "example": [
+        {
+          "eng": "The children got bored because it rained all afternoon.",
+          "ch": "孩子們因為下午整天下雨而感到無聊。"
+        }
+      ]
+    },
+    {
+      "eng": "boring",
+      "kk": "/ˈbɔrɪŋ/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "無聊的",
+          "乏味的",
+          "令人厭煩的"
+        ]
+      ],
+      "analysis": "由動詞 bore 加上 -ing 形成的現在分詞形容詞，用以形容事物本身具有令人感到枯燥乏味的特質。",
+      "definition": "1. Causing weariness and restlessness through lack of interest.",
+      "example": [
+        {
+          "eng": "I fell asleep during the boring lecture.",
+          "ch": "我在那場乏味的演講中睡著了。"
+        }
+      ]
+    },
+    {
+      "eng": "born",
+      "kk": "/bɔrn/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "出生的",
+          "天生的"
+        ]
+      ],
+      "analysis": "動詞 bear（生產、誕生）的過去分詞傳統形式，獨立用作形容詞，指呱呱墜地或具有天賦的特質。",
+      "definition": "1. Brought into life or having a natural ability for something from birth.",
+      "example": [
+        {
+          "eng": "She was born in a small town in Canada.",
+          "ch": "她出生於加拿大的一個小鎮。"
+        },
+        {
+          "eng": "He is a born leader who inspires everyone.",
+          "ch": "他是個能激勵所有人的天生領導者。"
+        }
+      ]
+    },
+    {
+      "eng": "borrow",
+      "kk": "/ˈbɑroʊ/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "借入",
+          "借用"
+        ]
+      ],
+      "analysis": "源自古英語 borgian（借貸、擔保），原始日耳曼語 *borgōjaną，與 borrow 的反義詞 lend 相對。指暫時取得並使用他人的物品，承諾日後歸還。",
+      "definition": "1. To take and use something belonging to someone else with the intention of returning it.",
+      "example": [
+        {
+          "eng": "May I borrow your umbrella for a moment?",
+          "ch": "我可以借一下你的傘嗎？"
+        }
+      ]
+    },
+    {
+      "eng": "boss",
+      "kk": "/bɑs/",
+      "tense": "n.",
+      "ch": [
+        [
+          "老闆",
+          "上司",
+          "主管"
+        ]
+      ],
+      "analysis": "借自早期荷蘭語 baas（主人、工頭），經由美國英語普及。原本是用來尊稱或稱呼工頭或雇主，現代泛指各級主管與老闆。",
+      "definition": "1. A person in charge of workers or an organization; an employer.",
+      "example": [
+        {
+          "eng": "The boss wants to see you in his office right now.",
+          "ch": "老闆現在就要在辦公室見你。"
+        }
+      ]
+    },
+    {
+      "eng": "both",
+      "kk": "/boʊθ/",
+      "tense": "det.",
+      "ch": [
+        [
+          "兩者都",
+          "雙方"
+        ]
+      ],
+      "analysis": "源自古英語 bā tū（兩個皆是），原始日耳曼語 *ba-twô。用作限定詞或代名詞，指成對的兩個個體全部包含在內。",
+      "definition": "1. Used to refer to two people or things together; the one and the other.",
+      "example": [
+        {
+          "eng": "Both sisters have dark hair and blue eyes.",
+          "ch": "這兩位姐妹都有黑髮和藍眼睛。"
+        }
+      ]
+    },
+    {
+      "eng": "bottle",
+      "kk": "/ˈbɑtəl/",
+      "tense": "n.",
+      "ch": [
+        [
+          "瓶子"
+        ]
+      ],
+      "analysis": "經由古法語 botte 借自中世紀拉丁語 botticula（小酒桶、小瓶），源自晚期拉丁語 buttis（酒桶）。指用來裝液體的瓶狀容器。",
+      "definition": "1. A glass or plastic container with a narrow neck, used for storing liquids.",
+      "example": [
+        {
+          "eng": "He drank a whole bottle of water after running.",
+          "ch": "他跑步後喝了一整瓶水。"
+        }
+      ]
+    },
+    {
+      "eng": "bottle",
+      "kk": "/ˈbɑtəl/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "裝瓶"
+        ]
+      ],
+      "analysis": "由名詞 bottle 轉化而來的動詞，指將液體製品灌裝進瓶子裡。",
+      "definition": "1. To put liquid into bottles for sale or storage.",
+      "example": [
+        {
+          "eng": "The factory begins to bottle the fresh juice.",
+          "ch": "這家工廠開始將新鮮果汁裝瓶。"
+        }
+      ]
+    },
+    {
+      "eng": "bottom",
+      "kk": "/ˈbɑtəm/",
+      "tense": "n.",
+      "ch": [
+        [
+          "底部",
+          "底端"
+        ],
+        [
+          "臀部"
+        ]
+      ],
+      "analysis": "源自古英語 botm（地基、底座），原始日耳曼語 *butmaz。基本義指物體的最低部分，口語中也常指人體的臀部。",
+      "definition": "1. The lowest point or part of something; 2. The buttocks.",
+      "example": [
+        {
+          "eng": "I found my keys at the bottom of my bag.",
+          "ch": "我在包包底部找到了我的鑰匙。"
+        },
+        {
+          "eng": "The toddler sat down hard on his bottom.",
+          "ch": "那名幼兒一屁股坐在地上。"
+        }
+      ]
+    },
+    {
+      "eng": "bow",
+      "kk": "/boʊ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "弓",
+          "弓箭的弓"
+        ],
+        [
+          "蝴蝶結"
+        ]
+      ],
+      "analysis": "源自古英語 boga（彎曲之物、弓），與動詞 būgan 同源。因形狀彎曲，既指射箭用的武器（弓），也指綁成環狀的裝飾結（蝴蝶結）。",
+      "definition": "1. A weapon for shooting arrows, made of a curved piece of wood; 2. A knot tied with loops, resembling a bow.",
+      "example": [
+        {
+          "eng": "The archer pulled his bow and aimed at the target.",
+          "ch": "弓箭手拉開弓瞄準靶心。"
+        },
+        {
+          "eng": "She tied her hair with a pretty red bow.",
+          "ch": "她用一個漂亮的紅色蝴蝶結綁頭髮。"
+        }
+      ]
+    },
+    {
+      "eng": "bow",
+      "kk": "/baʊ/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "鞠躬",
+          "彎腰致意"
+        ],
+        [
+          "屈服",
+          "低頭認輸"
+        ]
+      ],
+      "analysis": "源自古英語 būgan（彎曲、轉向），原始日耳曼語 *būganą。基本義為彎曲身體以示敬意或順從。",
+      "definition": "1. To bend the top part of the body forward in respect or greeting; 2. To yield or submit.",
+      "example": [
+        {
+          "eng": "The actors bowed to the audience at the end of the play.",
+          "ch": "演員們在戲劇結束時向觀眾鞠躬。"
+        },
+        {
+          "eng": "We will never bow to pressure.",
+          "ch": "我們絕不會向壓力屈服。"
+        }
+      ]
+    },
+    {
+      "eng": "bowl",
+      "kk": "/boʊl/",
+      "tense": "n.",
+      "ch": [
+        [
+          "碗",
+          "缽"
+        ]
+      ],
+      "analysis": "源自古英語 bolla（圓形容器、杯、碗），原始日耳曼語 *bullun-。指形狀圓弧、開口向上的盛湯或盛飯器皿。",
+      "definition": "1. A round, deep dish used for food or liquid.",
+      "example": [
+        {
+          "eng": "He ate a warm bowl of soup for lunch.",
+          "ch": "他午餐吃了一碗熱湯。"
+        }
+      ]
+    },
+    {
+      "eng": "bowl",
+      "kk": "/boʊl/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "滾球",
+          "玩保齡球"
+        ]
+      ],
+      "analysis": "由名詞 bowl（原本亦指木球）派生出的動詞，指投擲球或進行保齡球運動。",
+      "definition": "1. To play the game of bowling or roll a ball.",
+      "example": [
+        {
+          "eng": "They went to the local alley to bowl on Friday night.",
+          "ch": "他們週五晚上去當地球館打保齡球。"
+        }
+      ]
+    },
+    {
+      "eng": "box",
+      "kk": "/bɑks/",
+      "tense": "n.",
+      "ch": [
+        [
+          "箱子",
+          "盒子"
+        ],
+        [
+          "包廂",
+          "方座"
+        ]
+      ],
+      "analysis": "源自古英語 box（黃楊木小箱），最終源自拉丁語 buxus（黃楊木），因古人用黃楊木製做小盒子而得名。現代泛指各種材質的方型容器或戲院包廂。",
+      "definition": "1. A container with a flat base and sides, typically square or rectangular; 2. A small private compartment in a theater.",
+      "example": [
+        {
+          "eng": "She packed all her old clothes into a cardboard box.",
+          "ch": "她把所有舊衣服打包進一個紙箱裡。"
+        },
+        {
+          "eng": "They watched the opera from a private box.",
+          "ch": "他們在私人包廂裡觀賞歌劇。"
+        }
+      ]
+    },
+    {
+      "eng": "box",
+      "kk": "/bɑks/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "拳擊",
+          "用拳打"
+        ],
+        [
+          "裝箱",
+          "把…裝入盒中"
+        ]
+      ],
+      "analysis": "作為動詞有兩個來源：一是名詞 box 派生出的「裝入箱中」；二是來源不明的 box（用拳頭打，可能與荷蘭語 boks 相關），指拳擊或打耳光。",
+      "definition": "1. To fight with the fists as a sport; 2. To put something into a box.",
+      "example": [
+        {
+          "eng": "He learned how to box at a local gym.",
+          "ch": "他在當地健身房學會了拳擊。"
+        },
+        {
+          "eng": "Please box these fragile items carefully.",
+          "ch": "請把這些易碎物品小心裝箱。"
+        }
+      ]
+    },
+    {
+      "eng": "boy",
+      "kk": "/bɔɪ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "男孩",
+          "少年"
+        ]
+      ],
+      "analysis": "源自中古英語 boi（男孩、僕人），語源不詳，可能與日耳曼方言有關。現代專指男性兒童或少年。",
+      "definition": "1. A male child or young man.",
+      "example": [
+        {
+          "eng": "The little boy is flying a kite in the park.",
+          "ch": "那個小男孩正在公園裡放風箏。"
+        }
+      ]
+    },
+    {
+      "eng": "brave",
+      "kk": "/breɪv/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "勇敢的",
+          "無畏的"
+        ]
+      ],
+      "analysis": "經由中古法語 brave 借自義大利語 bravo（兇猛的、勇敢的），最終可追溯至拉丁語 barbarus（野蠻的）。進入英語後固定為「勇敢、無畏」之意。",
+      "definition": "1. Ready to face and endure danger or pain; showing courage.",
+      "example": [
+        {
+          "eng": "The brave firefighter rescued the cat from the burning house.",
+          "ch": "勇敢的消防員將貓從失火的房子中救出來。"
+        }
+      ]
+    },
+    {
+      "eng": "bread",
+      "kk": "/brɛd/",
+      "tense": "n.",
+      "ch": [
+        [
+          "麵包"
+        ],
+        [
+          "生計",
+          "謀生"
+        ]
+      ],
+      "analysis": "源自古英語 brēad（片、塊、麵包），原始日耳曼語 *braudą（發酵的塊狀物）。基本義為主食麵包，西方文化中也常用來引申指基本生計或錢財。",
+      "definition": "1. A baked food made of flour, water, and yeast; 2. Livelihood or money.",
+      "example": [
+        {
+          "eng": "She bought a loaf of fresh bread from the bakery.",
+          "ch": "她從麵包店買了一條新鮮麵包。"
+        },
+        {
+          "eng": "He works hard every day to earn his bread.",
+          "ch": "他每天努力工作以賺取生計。"
+        }
+      ]
+    },
+    {
+      "eng": "break",
+      "kk": "/breɪk/",
+      "tense": "n.",
+      "ch": [
+        [
+          "休息",
+          "間歇"
+        ],
+        [
+          "裂縫",
+          "缺口"
+        ]
+      ],
+      "analysis": "由動詞 break 派生出的名詞，指工作或活動中的短暫休息時間，或物體斷裂形成的缺口。",
+      "definition": "1. A pause or intermission in work or activity; 2. A fracture, split, or opening.",
+      "example": [
+        {
+          "eng": "We can have a coffee break after this meeting.",
+          "ch": "開完這個會後我們可以喝杯咖啡休息一下。"
+        },
+        {
+          "eng": "There is a small break in the fence where the dog got out.",
+          "ch": "籬笆上有個小缺口，狗就是從那裡跑出去的。"
+        }
+      ]
+    },
+    {
+      "eng": "break",
+      "kk": "/breɪk/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "打破",
+          "折斷",
+          "弄壞"
+        ],
+        [
+          "破壞",
+          "違反"
+        ],
+        [
+          "打斷",
+          "使暫停"
+        ]
+      ],
+      "analysis": "源自古英語 brecan（打破），屬強變化動詞，原始日耳曼語 *brekaną。其過去式為 broke，過去分詞為 broken。基本義為使物體分裂，並引申出打破規則、打斷連續動作等抽象用法。",
+      "definition": "1. To separate into pieces as a result of a blow or strain; 2. To fail to obey a law, rule, or promise; 3. To interrupt a continuous process or silence.",
+      "example": [
+        {
+          "eng": "Be careful not to break the fragile glass vase.",
+          "ch": "小心別打破易碎的玻璃花瓶。"
+        },
+        {
+          "eng": "If you break the school rules, you will be punished.",
+          "ch": "如果你違反學校規定，將會受到懲罰。"
+        },
+        {
+          "eng": "She spoke up to break the awkward silence.",
+          "ch": "她開口打破了尷尬的沉默。"
+        }
+      ]
+    },
+    {
+      "eng": "break",
+      "kk": "/breɪk/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "破裂",
+          "碎裂"
+        ],
+        [
+          "黎明破曉",
+          "天亮"
+        ],
+        [
+          "休息",
+          "暫停"
+        ]
+      ],
+      "analysis": "動詞 break 的不及物用法，指物體自身碎裂、天光初現（break of day），或工作告一段落的短暫休息。",
+      "definition": "1. To separate into pieces suddenly; 2. To begin or appear; 3. To take a short pause from work.",
+      "example": [
+        {
+          "eng": "The thick ice began to break under our feet.",
+          "ch": "厚厚的冰層開始在我們的腳下破裂。"
+        },
+        {
+          "eng": "Dawn was just beginning to break as we drove out.",
+          "ch": "我們開車出發時，天剛開始亮。"
+        },
+        {
+          "eng": "Let's take a ten-minute break before continuing.",
+          "ch": "我們繼續之前先休息十分鐘吧。"
+        }
+      ]
+    },
+    {
+      "eng": "breakfast",
+      "kk": "/ˈbrɛkfəst/",
+      "tense": "n.",
+      "ch": [
+        [
+          "早餐",
+          "早飯"
+        ]
+      ],
+      "analysis": "由動詞 break（打破）與名詞 fast（齋戒、禁食）複合而成，字面義為打破禁食，指經歷一夜睡眠未進食後的早晨第一餐。",
+      "definition": "1. The first meal of the day, eaten after waking up.",
+      "example": [
+        {
+          "eng": "Eggs and toast are my favorite foods for breakfast.",
+          "ch": "蛋和吐司是我早餐最喜歡的食物。"
+        }
+      ]
+    },
+    {
+      "eng": "bridge",
+      "kk": "/brɪdʒ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "橋",
+          "橋樑"
+        ],
+        [
+          "鼻樑"
+        ]
+      ],
+      "analysis": "源自古英語 brycg（橋），原始日耳曼語 *brugjō。基本義跨越河流或障礙的橋樑，因形狀或功能相似，也用來指眼鏡架在鼻子上的鼻樑或牙橋。",
+      "definition": "1. A structure carrying a road or path across an obstacle; 2. The upper bony part of the human nose.",
+      "example": [
+        {
+          "eng": "The old stone bridge connects the two sides of the river.",
+          "ch": "那座古老的石橋連接了河的兩岸。"
+        },
+        {
+          "eng": "Her glasses slipped down the bridge of her nose.",
+          "ch": "她的眼鏡從鼻樑上滑下來。"
+        }
+      ]
+    },
+    {
+      "eng": "bridge",
+      "kk": "/brɪdʒ/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "架橋於",
+          "渡過"
+        ],
+        [
+          "彌合"
+        ]
+      ],
+      "analysis": "由名詞 bridge 轉化而來的動詞，原意為造橋跨越，引申為彌合雙方的分歧或差距。",
+      "definition": "1. To build a bridge over something; 2. To reduce or cross the difference between two things.",
+      "example": [
+        {
+          "eng": "New negotiations helped to bridge the gap between the two countries.",
+          "ch": "新的談判有助於彌合兩國之間的差距。"
+        }
+      ]
+    },
+    {
+      "eng": "bright",
+      "kk": "/braɪt/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "明亮的",
+          "發光的"
+        ],
+        [
+          "鮮豔的",
+          "色彩明亮的"
+        ],
+        [
+          "聰明的",
+          "機靈的"
+        ]
+      ],
+      "analysis": "源自古英語 beorht（明亮的、輝煌的），原始日耳曼語 *berhtaz。基本義指發光或色彩鮮明，引申指人的頭腦聰明靈敏。",
+      "definition": "1. Giving out or reflecting much light; 2. Vivid in color; 3. Intelligent and quick-witted.",
+      "example": [
+        {
+          "eng": "The sun is so bright that I need my sunglasses.",
+          "ch": "陽光太刺眼了，我需要戴太陽眼鏡。"
+        },
+        {
+          "eng": "She wore a bright yellow dress to the party.",
+          "ch": "她穿了一件鮮黃色的洋裝去參加派對。"
+        },
+        {
+          "eng": "He is a bright student who always asks insightful questions.",
+          "ch": "他是個聰明的學生，總能提出有見地的問題。"
+        }
+      ]
+    },
+    {
+      "eng": "bring",
+      "kk": "/brɪŋ/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "帶來",
+          "拿來"
+        ],
+        [
+          "導致",
+          "引起"
+        ]
+      ],
+      "analysis": "源自古英語 bringan（帶來、攜帶），屬強變化動詞，原始日耳曼語 *bringaną。基本義指將人或物從別處帶到說話者所在地，亦可引申為導致某種結果。",
+      "definition": "1. To come to a place with someone or something; 2. To cause a particular state or result.",
+      "example": [
+        {
+          "eng": "Please bring your dictionary to tomorrow's class.",
+          "ch": "請把你的字典帶到明天的課堂上。"
+        },
+        {
+          "eng": "Heavy rain can bring floods to low-lying areas.",
+          "ch": "大雨可能會給低窪地區帶來洪水。"
+        }
+      ]
+    },
+    {
+      "eng": "brother",
+      "kk": "/ˈbrʌðər/",
+      "tense": "n.",
+      "ch": [
+        [
+          "兄弟",
+          "兄台"
+        ]
+      ],
+      "analysis": "源自古英語 brōthor，原始日耳曼語 *brōþēr，屬於印歐語系同源詞（如拉丁語 frater）。指同父母的男性手足，或社群中的男性同仁。",
+      "definition": "1. A man or boy in relation to other sons and daughters of his parents.",
+      "example": [
+        {
+          "eng": "My older brother is studying engineering at university.",
+          "ch": "我哥哥正在大學主修工程學。"
+        }
+      ]
+    },
+    {
+      "eng": "brown",
+      "kk": "/braʊn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "棕色",
+          "褐色"
+        ]
+      ],
+      "analysis": "由形容詞 brown 轉化而來的名詞，指棕色這種顏色。",
+      "definition": "1. The color brown.",
+      "example": [
+        {
+          "eng": "Autumn leaves turn from green to rich shades of brown.",
+          "ch": "秋天的落葉從綠色轉變成濃郁的棕色。"
+        }
+      ]
+    },
+    {
+      "eng": "brown",
+      "kk": "/braʊn/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "棕色的",
+          "褐色的",
+          "咖啡色的"
+        ]
+      ],
+      "analysis": "源自古英語 brūn（棕色、暗色），原始日耳曼語 *brūnaz。指介於紅與黃之間的暗色調，常見於描述木材、大地或膚色。",
+      "definition": "1. Of a color produced by mixing red, yellow, and black.",
+      "example": [
+        {
+          "eng": "He wore a pair of comfortable brown leather shoes.",
+          "ch": "他穿了一雙舒適的棕色皮鞋。"
+        }
+      ]
+    },
+    {
+      "eng": "bug",
+      "kk": "/bʌg/",
+      "tense": "n.",
+      "ch": [
+        [
+          "蟲子",
+          "昆蟲"
+        ],
+        [
+          "竊聽器"
+        ],
+        [
+          "軟體錯誤",
+          "小故障"
+        ]
+      ],
+      "analysis": "語源較不確定，可能與中古英語 bugge（可怕的幽靈、怪物）相關，後義轉為指小昆蟲。20世紀初期因電腦硬體故障確實在繼電器中夾死昆蟲，引申出電腦軟體錯誤（bug）的意思。",
+      "definition": "1. An insect or small creepy-crawly; 2. A concealed listening device; 3. A defect or fault in a computer program or machine.",
+      "example": [
+        {
+          "eng": "A tiny bug crawled across my picnic blanket.",
+          "ch": "一隻小蟲子爬過了我的野餐墊。"
+        },
+        {
+          "eng": "Spies planted a secret bug under the conference table.",
+          "ch": "間諜在會議桌下安裝了秘密竊聽器。"
+        },
+        {
+          "eng": "The programmers spent hours fixing bugs in the software.",
+          "ch": "程式員們花了好幾個小時修復軟體中的錯誤。"
+        }
+      ]
+    },
+    {
+      "eng": "bug",
+      "kk": "/bʌg/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "裝竊聽器"
+        ],
+        [
+          "煩擾",
+          "使惱怒"
+        ]
+      ],
+      "analysis": "由名詞 bug 轉化而來的動詞，指暗中安裝竊聽器，或口語中指像蟲子般纏人、讓人感到煩躁。",
+      "definition": "1. To conceal a listening device in a room; 2. To annoy or irritate someone.",
+      "example": [
+        {
+          "eng": "They suspected their office phone was bugged.",
+          "ch": "他們懷疑自己的辦公室電話被裝了竊聽器。"
+        },
+        {
+          "eng": "Stop playing that loud music, it's really bugging me.",
+          "ch": "別再放那麼大聲的音樂了，真的很煩人。"
+        }
+      ]
+    },
+    {
+      "eng": "build",
+      "kk": "/bɪld/",
+      "tense": "n.",
+      "ch": [
+        [
+          "體型",
+          "體格"
+        ]
+      ],
+      "analysis": "由動詞 build 轉化而來的名詞，指人或動物身體結構的骨架與體格特徵。",
+      "definition": "1. The physical structure and proportions of a person's body.",
+      "example": [
+        {
+          "eng": "He has a strong athletic build from years of swimming.",
+          "ch": "因為多年游泳，他擁有結實的運動員體格。"
+        }
+      ]
+    },
+    {
+      "eng": "build",
+      "kk": "/bɪld/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "建造",
+          "建築",
+          "建設"
+        ]
+      ],
+      "analysis": "源自古英語 byldan（建造），衍生自 bold（房屋），原始日耳曼語 *builtą。基本義為組合材料構築房舍或物體，亦可引申抽象的信心或關係建立。",
+      "definition": "1. To construct something by putting parts or material together.",
+      "example": [
+        {
+          "eng": "They plan to build a new house near the coast.",
+          "ch": "他們計劃在海邊附近建造一棟新房子。"
+        }
+      ]
+    },
+    {
+      "eng": "bus",
+      "kk": "/bʌs/",
+      "tense": "n.",
+      "ch": [
+        [
+          "公車",
+          "巴士"
+        ]
+      ],
+      "analysis": "為 omnibus（拉丁語「為了所有人」之意的大型公共馬車）的縮寫形式。19世紀末隨汽車工業普及而定型，專指大型載客汽車。",
+      "definition": "1. A large motor vehicle carrying passengers by road, typically following a fixed route.",
+      "example": [
+        {
+          "eng": "I take the city bus to work every morning.",
+          "ch": "我每天早上搭市區公車去上班。"
+        }
+      ]
+    },
+    {
+      "eng": "business",
+      "kk": "/ˈbɪznəs/",
+      "tense": "n.",
+      "ch": [
+        [
+          "生意",
+          "商業",
+          "企業"
+        ],
+        [
+          "事務",
+          "公事"
+        ]
+      ],
+      "analysis": "由 busy（忙碌的）加上名詞字尾 -ness 演變而來的複合抽象名詞，中古英語為 bisiness。本義為處於忙碌的狀態，引申為商業營運或必須處理的公務。",
+      "definition": "1. The activity of making, buying, or selling goods and services for money; 2. A person's concerns, affairs, or work.",
+      "example": [
+        {
+          "eng": "She started her own online fashion business last year.",
+          "ch": "她去年創辦了自己的網路時裝生意。"
+        },
+        {
+          "eng": "I am traveling to New York on business.",
+          "ch": "我因公出差去紐約。"
+        }
+      ]
+    },
+    {
+      "eng": "busy",
+      "kk": "/ˈbɪzi/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使忙碌",
+          "使投入"
+        ]
+      ],
+      "analysis": "由形容詞 busy 派生出的及物動詞，常與反身代名詞連用（busy oneself），表示讓自己全神貫注於某事。",
+      "definition": "1. To keep oneself occupied with a task or activity.",
+      "example": [
+        {
+          "eng": "She busied herself with gardening all afternoon.",
+          "ch": "她整個下午都忙著園藝工作。"
+        }
+      ]
+    },
+    {
+      "eng": "busy",
+      "kk": "/ˈbɪzi/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "忙碌的"
+        ],
+        [
+          "繁忙的",
+          "熱鬧的"
+        ]
+      ],
+      "analysis": "源自古英語 bisig（忙碌的、勤奮的），原始日耳曼語 *bisigaz。基本義指人事務繁多無法分身，亦可形容街道或場所非常繁忙熱鬧。",
+      "definition": "1. Currently occupied with an activity or task; 2. Full of activity or traffic.",
+      "example": [
+        {
+          "eng": "The manager is too busy to see visitors right now.",
+          "ch": "經理現在太忙了，無法會見訪客。"
+        },
+        {
+          "eng": "Oxford Street is always busy with shoppers on Saturdays.",
+          "ch": "牛津街每逢週六總是擠滿了購物人潮。"
+        }
+      ]
+    },
+    {
+      "eng": "but",
+      "kk": "/bʌt/",
+      "tense": "prep.",
+      "ch": [
+        [
+          "除了…之外"
+        ]
+      ],
+      "analysis": "保留古英語古義「在…之外、除…之外」的介詞用法，常與 all、none、nobody 等詞連用。",
+      "definition": "1. Except for; apart from.",
+      "example": [
+        {
+          "eng": "Everyone passed the difficult exam but him.",
+          "ch": "除了他以外，大家都通過了那場困難的考試。"
+        }
+      ]
+    },
+    {
+      "eng": "but",
+      "kk": "/bʌt/",
+      "tense": "conj.",
+      "ch": [
+        [
+          "但是",
+          "然而"
+        ]
+      ],
+      "analysis": "源自古英語 būtan（在…之外、除了、如果不是），由 būtan 演變而來，原始日耳曼語 *bū-utan。在句中用作對等連接詞，連接兩個語意轉折或對比的子句。",
+      "definition": "1. Used to introduce a phrase or clause contrasting with what has already been mentioned.",
+      "example": [
+        {
+          "eng": "It was raining hard, but they still went for a walk.",
+          "ch": "雨下得很大，但他們還是去散步了。"
+        }
+      ]
+    },
+    {
+      "eng": "butter",
+      "kk": "/ˈbʌtər/",
+      "tense": "n.",
+      "ch": [
+        [
+          "奶油",
+          "牛油"
+        ]
+      ],
+      "analysis": "經由拉丁語 butyrum 借自古希臘語 boutyron（字面義為牛的乳酪：bous 牛 + tyros 乳酪），透過日耳曼語族傳入古英語 butere。指將牛奶或羊奶中的乳脂攪打凝固製成的調味品。",
+      "definition": "1. A pale yellow edible fat obtained by churning cream.",
+      "example": [
+        {
+          "eng": "She spread a layer of butter and jam on her toast.",
+          "ch": "她在吐司上抹了一層奶油和果醬。"
+        }
+      ]
+    },
+    {
+      "eng": "butter",
+      "kk": "/bʌtər/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "塗奶油於"
+        ]
+      ],
+      "analysis": "由名詞 butter 轉化而來的動詞，指在麵包等食物表面抹上奶油。",
+      "definition": "1. To spread butter on something.",
+      "example": [
+        {
+          "eng": "He quickly buttered two slices of bread for breakfast.",
+          "ch": "他迅速地為早餐抹好了兩片麵包的奶油。"
+        }
+      ]
+    },
+    {
+      "eng": "butterfly",
+      "kk": "/ˈbʌtərˌflaɪ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "蝴蝶"
+        ],
+        [
+          "緊張感",
+          "心神不寧"
+        ]
+      ],
+      "analysis": "由 butterfly 複合而成，源自古英語 butorflēoge。現代指美麗的鱗翅目昆蟲，複數形也常比喻緊張時胃部翻攪的感覺（have butterflies in one's stomach）。",
+      "definition": "1. An insect with large, often brightly colored wings; 2. A nervous feeling in the stomach.",
+      "example": [
+        {
+          "eng": "A colorful butterfly landed gently on the flower.",
+          "ch": "一隻色彩繽紛的蝴蝶輕輕停在花朵上。"
+        },
+        {
+          "eng": "She had butterflies in her stomach before giving her speech.",
+          "ch": "她在上台演講前感到肚子裡七上八下的。"
+        }
+      ]
+    },
+    {
+      "eng": "button",
+      "kk": "/ˈbʌtən/",
+      "tense": "n.",
+      "ch": [
+        [
+          "鈕扣"
+        ],
+        [
+          "按鈕",
+          "開關"
+        ]
+      ],
+      "analysis": "借自中古法語 boton（突起物、芽、鈕扣），源自 boter（推、打）。本義指衣物上的小圓形裝飾或扣合物件，因形狀類似也引申指機器的電子按鈕。",
+      "definition": "1. A small disk or knob sewn onto a garment, used to fasten it; 2. A small switch pressed to operate a device.",
+      "example": [
+        {
+          "eng": "He fastened the top button of his shirt.",
+          "ch": "他扣上了襯衫最上面的鈕扣。"
+        },
+        {
+          "eng": "Press the red button to stop the machine.",
+          "ch": "按下紅色按鈕即可停止機器運作。"
+        }
+      ]
+    },
+    {
+      "eng": "button",
+      "kk": "/ˈbʌtən/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "扣上鈕扣"
+        ]
+      ],
+      "analysis": "由名詞 button 轉化而來的動詞，指將衣物的鈕扣扣好。",
+      "definition": "1. To fasten clothing with buttons.",
+      "example": [
+        {
+          "eng": "Can you help me button up my coat?",
+          "ch": "你可以幫我把外套扣好嗎？"
+        }
+      ]
+    },
+    {
+      "eng": "buy",
+      "kk": "/baɪ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "購買",
+          "交易",
+          "划算的買賣"
+        ]
+      ],
+      "analysis": "由動詞 buy 轉化而來的名詞，常用於口語中指一次划算的購物或交易。",
+      "definition": "1. An act of buying something; a bargain.",
+      "example": [
+        {
+          "eng": "This second-hand bicycle is a really good buy.",
+          "ch": "這輛二手腳踏車真是一筆划算的買賣。"
+        }
+      ]
+    },
+    {
+      "eng": "buy",
+      "kk": "/baɪ/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "買",
+          "購買"
+        ]
+      ],
+      "analysis": "源自古英語 bycgan（購買、獲取），原始日耳曼語 *bugjaną。基本義為支付貨幣以取得物品的所有權。",
+      "definition": "1. To obtain something in exchange for payment, usually money.",
+      "example": [
+        {
+          "eng": "She saved enough money to buy a new laptop.",
+          "ch": "她存夠了錢買一台新筆電。"
+        }
+      ]
+    },
+    {
+      "eng": "by",
+      "kk": "/baɪ/",
+      "tense": "prep.",
+      "ch": [
+        [
+          "在…旁邊",
+          "靠近"
+        ],
+        [
+          "藉由",
+          "透過"
+        ],
+        [
+          "在…之前"
+        ]
+      ],
+      "analysis": "源自古英語 bī（在…旁邊、附近），原始日耳曼語 *bi。原意表示空間上的鄰近，隨歷史演變衍生出表示方法、手段、被動語態的施事者，以及時間期限等多種語法功能。",
+      "definition": "1. Near, next to, or beside something; 2. Through the agency, means, or method of; 3. Not later than a particular time.",
+      "example": [
+        {
+          "eng": "We sat by the window and watched the rain.",
+          "ch": "我們坐在窗邊看著雨。"
+        },
+        {
+          "eng": "You can improve your English by reading more books.",
+          "ch": "你可以透過多閱讀書籍來增進英語能力。"
+        },
+        {
+          "eng": "Please finish this report by Friday afternoon.",
+          "ch": "請在週五下午之前完成這份報告。"
+        }
+      ]
+    },
+    {
+      "eng": "cake",
+      "kk": "/keɪk/",
+      "tense": "n.",
+      "ch": [
+        [
+          "蛋糕",
+          "餅"
+        ]
+      ],
+      "analysis": "源自中古英語 cake，源自古諾斯語 kaka（蛋糕、扁餅），原始日耳曼語 *kakon。基本義為烤製的甜點或塊狀麵食。",
+      "definition": "1. A sweet baked food made from a mixture of flour, sugar, and other ingredients.",
+      "example": [
+        {
+          "eng": "They baked a chocolate birthday cake for their son.",
+          "ch": "他們為兒子烤了一個巧克力生日蛋糕。"
+        }
+      ]
+    },
+    {
+      "eng": "call",
+      "kk": "/kɔl/",
+      "tense": "n.",
+      "ch": [
+        [
+          "呼叫",
+          "喊聲"
+        ],
+        [
+          "電話交談",
+          "通話"
+        ],
+        [
+          "拜訪",
+          "短暫停留"
+        ]
+      ],
+      "analysis": "由動詞 call 轉化而來的名詞，指喊聲、電話通話或拜訪。",
+      "definition": "1. A shout or cry; 2. A telephone conversation; 3. A brief visit.",
+      "example": [
+        {
+          "eng": "I heard a distant call from across the valley.",
+          "ch": "我聽到山谷對面傳來遠處的喊聲。"
+        },
+        {
+          "eng": "I need to make a quick phone call.",
+          "ch": "我需要打個簡短的電話。"
+        },
+        {
+          "eng": "Thank you for stopping by for a friendly call.",
+          "ch": "謝謝你抽空來友善拜訪。"
+        }
+      ]
+    },
+    {
+      "eng": "call",
+      "kk": "/kɔl/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "叫",
+          "稱呼",
+          "喊"
+        ],
+        [
+          "打電話"
+        ],
+        [
+          "召集",
+          "召喚"
+        ]
+      ],
+      "analysis": "源自古英語 kalla（呼喊、大聲叫喚），源自古諾斯語 kalla，原始日耳曼語 *kallōjaną。基本義為高聲呼叫，引申為給予命名、打電話溝通以及召集人員。",
+      "definition": "1. To cry out in a loud voice; to give a specified name; 2. To communicate with someone by telephone; 3. To summon someone to assemble.",
+      "example": [
+        {
+          "eng": "Please call me by my first name.",
+          "ch": "請直接叫我的名字。"
+        },
+        {
+          "eng": "I will call my mother when I arrive home.",
+          "ch": "我一到家就會打電話給我媽媽。"
+        },
+        {
+          "eng": "The manager called an emergency meeting.",
+          "ch": "經理召集了一場緊急會議。"
+        }
+      ]
+    },
+    {
+      "eng": "call",
+      "kk": "/kɔl/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "大喊",
+          "呼叫"
+        ],
+        [
+          "造訪",
+          "拜訪"
+        ]
+      ],
+      "analysis": "動詞 call 的不及物用法，指發出呼喊聲，或短暫拜訪某處或某人。",
+      "definition": "1. To shout out; 2. To make a brief visit.",
+      "example": [
+        {
+          "eng": "Someone was calling for help in the dark.",
+          "ch": "黑暗中有人在大聲呼救。"
+        },
+        {
+          "eng": "I plan to call on my grandparents this weekend.",
+          "ch": "我計劃這週末去探望我的祖父母。"
+        }
+      ]
+    },
+    {
+      "eng": "camera",
+      "kk": "/ˈkæmərə/",
+      "tense": "n.",
+      "ch": [
+        [
+          "照相機",
+          "相機",
+          "攝影機"
+        ]
+      ],
+      "analysis": "源自拉丁語 camera obscura（暗室），由希臘語 kamara（拱頂、有拱頂的房間）演變而來。原指文藝復興時期的光學投影暗室，現代專指捕捉影像的攝影器材。",
+      "definition": "1. A device for taking photographs or recording moving images.",
+      "example": [
+        {
+          "eng": "She captured the beautiful sunset with her digital camera.",
+          "ch": "她用數位相機捕捉了美麗的日落。"
+        }
+      ]
+    },
+    {
+      "eng": "camp",
+      "kk": "/kæmp/",
+      "tense": "n.",
+      "ch": [
+        [
+          "營地",
+          "營區"
+        ],
+        [
+          "陣營",
+          "派別"
+        ]
+      ],
+      "analysis": "借自法語 camp，最終源自拉丁語 campus（平原、戰場）。本義指軍隊紮營的平坦場地，引申為度假營隊或政治上的派別陣營。",
+      "definition": "1. A place with temporary accommodations such as tents; 2. A faction or group sharing similar beliefs.",
+      "example": [
+        {
+          "eng": "We set up our camp near the river before dark.",
+          "ch": "我們在天黑前把營地設在河邊。"
+        },
+        {
+          "eng": "The two political parties belong to different camps.",
+          "ch": "這兩個政黨屬於不同的政治陣營。"
+        }
+      ]
+    },
+    {
+      "eng": "camp",
+      "kk": "/kæmp/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "露營",
+          "紮營"
+        ]
+      ],
+      "analysis": "由名詞 camp 轉化而來的動詞，指在戶外搭帳篷過夜或進行露營活動。",
+      "definition": "1. To live temporarily in a tent or outdoor shelter.",
+      "example": [
+        {
+          "eng": "We love to camp in the mountains during summer.",
+          "ch": "我們很喜歡夏天在山裡露營。"
+        }
+      ]
+    },
+    {
+      "eng": "can",
+      "kk": "/kæn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "罐頭",
+          "金屬罐"
+        ]
+      ],
+      "analysis": "源自古英語 canne（金屬或陶製容器），原始日耳曼語 *kannōn。原指容器，現代專指用於密封保存食物或飲料的金屬罐或罐頭。",
+      "definition": "1. A metal container used for storing food or liquids.",
+      "example": [
+        {
+          "eng": "He used a can opener to open the tuna can.",
+          "ch": "他用開罐器打開了鮪魚罐頭。"
+        }
+      ]
+    },
+    {
+      "eng": "can",
+      "kk": "/kæn/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "把…裝入罐頭",
+          "製成罐頭"
+        ]
+      ],
+      "analysis": "由名詞 can 轉化而來的及物動詞，指將新鮮蔬果或魚肉放入金屬罐中進行真空密封保存。",
+      "definition": "1. To preserve food by sealing it in a can.",
+      "example": [
+        {
+          "eng": "The farm workers spend autumn harvesting and canning fruits.",
+          "ch": "農場工人們花費秋天採收水果並將其製成罐頭。"
+        }
+      ]
+    },
+    {
+      "eng": "can",
+      "kk": "/kæn/",
+      "tense": "modal v.",
+      "ch": [
+        [
+          "能",
+          "會"
+        ],
+        [
+          "可能",
+          "可以"
+        ]
+      ],
+      "analysis": "源自古英語 cunnan（知道、懂得如何做），屬過去現在動詞，原始日耳曼語 *kunnaną。其過去式為 could。語意從知道如何做演變為現代表示能力、可能性或許可的助動詞。",
+      "definition": "1. Used to indicate physical or mental ability; 2. Used to express possibility or permission.",
+      "example": [
+        {
+          "eng": "Birds can fly high up in the sky.",
+          "ch": "鳥兒能在高空中飛翔。"
+        },
+        {
+          "eng": "Can I borrow your pen for a second?",
+          "ch": "我可以借一下你的筆嗎？"
+        }
+      ]
+    },
+    {
+      "eng": "cap",
+      "kk": "/kæp/",
+      "tense": "n.",
+      "ch": [
+        [
+          "帽子",
+          "便帽"
+        ],
+        [
+          "蓋子",
+          "瓶蓋"
+        ]
+      ],
+      "analysis": "源自古英語 cæppe，最終源自晚期拉丁語 cappa（頭巾、斗篷），與 cape 同源。基本義為覆蓋頭頂的無邊便帽，因形狀覆蓋頂部也引申為瓶蓋或筆套。",
+      "definition": "1. A type of soft, flat hat without a brim; 2. A lid or cover for a bottle or pen.",
+      "example": [
+        {
+          "eng": "He wore a baseball cap to block the sun.",
+          "ch": "他戴了一頂棒球帽來擋太陽。"
+        },
+        {
+          "eng": "Make sure to screw the bottle cap on tightly.",
+          "ch": "記得把瓶蓋轉緊。"
+        }
+      ]
+    },
+    {
+      "eng": "cap",
+      "kk": "/kæp/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "加蓋於",
+          "覆蓋頂部"
+        ],
+        [
+          "限制"
+        ]
+      ],
+      "analysis": "由名詞 cap 轉化而來的動詞，原意為給物體加上蓋子，現代也引申出為價格或花費設定上限的用法。",
+      "definition": "1. To put a cap or cover on something; 2. To set an upper limit on prices or spending.",
+      "example": [
+        {
+          "eng": "The government decided to cap gas prices for the winter.",
+          "ch": "政府決定限制今年冬天的天然氣價格上限。"
+        }
+      ]
+    },
+    {
+      "eng": "car",
+      "kk": "/kɑr/",
+      "tense": "n.",
+      "ch": [
+        [
+          "汽車",
+          "轎車"
+        ],
+        [
+          "車廂"
+        ]
+      ],
+      "analysis": "源自中古英語 carre（帶輪子的載具），經由諾曼法語借自凱爾特語源。原指馬車或運貨車，隨工業革命演變為現代專指汽車，亦可指火車車廂。",
+      "definition": "1. A road vehicle powered by an engine, designed to carry a small number of passengers; 2. A railway carriage.",
+      "example": [
+        {
+          "eng": "They parked their car in the underground garage.",
+          "ch": "他們把車停在地下車庫裡。"
+        },
+        {
+          "eng": "We rode in the front car of the subway train.",
+          "ch": "我們搭乘地鐵列車的最前節車廂。"
+        }
+      ]
+    },
+    {
+      "eng": "card",
+      "kk": "/kɑrd/",
+      "tense": "n.",
+      "ch": [
+        [
+          "卡片",
+          "名片",
+          "信用卡"
+        ],
+        [
+          "紙牌",
+          "撲克牌"
+        ]
+      ],
+      "analysis": "經由中古法語 carte 借自拉丁語 charta（紙莎草紙、紙張），源自古希臘語 khartēs。指硬紙板製成的卡片，如問候卡、信用卡，或用於遊戲的撲克牌。",
+      "definition": "1. A piece of thick, stiff paper or plastic used for writing, printing, or banking; 2. One of a set of rectangular pieces of thick paper used for playing games.",
+      "example": [
+        {
+          "eng": "She sent me a lovely birthday card.",
+          "ch": "她寄給我一張生日卡片。"
+        },
+        {
+          "eng": "The children sat on the floor playing cards.",
+          "ch": "孩子們坐在地板上玩撲克牌。"
+        }
+      ]
+    },
+    {
+      "eng": "card",
+      "kk": "/kɑrd/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "查驗身份證"
+        ]
+      ],
+      "analysis": "由名詞 card 派生出的及物動詞，指店家要求顧客出示身分證件以核實法定飲酒或購票年齡。",
+      "definition": "1. To ask someone to show an identity card to prove their age.",
+      "example": [
+        {
+          "eng": "The bartender asked to card him before serving alcohol.",
+          "ch": "酒保在供應酒精飲料前要求查看他的身分證。"
+        }
+      ]
+    },
+    {
+      "eng": "care",
+      "kk": "/kɛr/",
+      "tense": "n.",
+      "ch": [
+        [
+          "照顧",
+          "照料",
+          "照管"
+        ],
+        [
+          "小心",
+          "謹慎"
+        ],
+        [
+          "擔憂",
+          "掛念"
+        ]
+      ],
+      "analysis": "源自古英語 cearu（憂傷、擔憂、焦慮），原始日耳曼語 *karō。語意從最初的憂慮、操心，逐漸演變出正面的關懷、照顧，以及做事時的小心謹慎。",
+      "definition": "1. The provision of what is necessary for the health, welfare, maintenance, and protection of someone or something; 2. Serious attention or caution; 3. Worry or anxiety.",
+      "example": [
+        {
+          "eng": "The elderly patients receive excellent medical care.",
+          "ch": "老年病患得到了極佳的醫療照顧。"
+        },
+        {
+          "eng": "Please handle these delicate wine glasses with care.",
+          "ch": "請小心輕放這些易碎的高腳酒杯。"
+        },
+        {
+          "eng": "She tried to live a life free from financial cares.",
+          "ch": "她試圖過著沒有財務憂慮的生活。"
+        }
+      ]
+    },
+    {
+      "eng": "care",
+      "kk": "/kɛr/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "關心",
+          "在乎"
+        ],
+        [
+          "介意",
+          "在意"
+        ]
+      ],
+      "analysis": "動詞 care 的不及物用法，表示心裡在乎、關切某人某事，或在疑問句與否定句中表示介意。",
+      "definition": "1. To feel interest or concern; 2. To mind or object to something.",
+      "example": [
+        {
+          "eng": "True friends will always care about your well-being.",
+          "ch": "真正的朋友總是會關心你的近況。"
+        },
+        {
+          "eng": "I don't care what people say about me.",
+          "ch": "我不在乎別人怎麼議論我。"
+        }
+      ]
+    }
+  ]
+}

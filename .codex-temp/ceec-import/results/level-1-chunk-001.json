@@ -1,0 +1,1546 @@
+{
+  "level": 1,
+  "chunkIndex": 1,
+  "inputs": [
+    "a",
+    "an",
+    "ability",
+    "able",
+    "about",
+    "above",
+    "abroad",
+    "across",
+    "act",
+    "action",
+    "actor",
+    "actress",
+    "add",
+    "afraid",
+    "after",
+    "afternoon",
+    "again",
+    "age",
+    "ago",
+    "agree",
+    "agreement",
+    "air",
+    "airplane",
+    "plane",
+    "airport",
+    "all",
+    "allow",
+    "almost",
+    "along",
+    "already",
+    "also",
+    "although",
+    "always",
+    "am",
+    "a.m.",
+    "and",
+    "angry",
+    "animal",
+    "another",
+    "answer",
+    "ant",
+    "any",
+    "anybody",
+    "anyone",
+    "anything",
+    "apartment",
+    "appear",
+    "apple",
+    "area",
+    "arm"
+  ],
+  "rows": [
+    {
+      "eng": "a",
+      "kk": "/ə/",
+      "tense": "det.",
+      "ch": [
+        [
+          "一個",
+          "一項"
+        ],
+        [
+          "每一",
+          "任一"
+        ]
+      ],
+      "analysis": "此字為不定冠詞，源自古英語單數數字 ān（一個），經弱化與語法化演變成表不特定單數可數名詞的限定詞。句法上置於子音音素開頭的單數可數名詞之前。語義演變從具體的「單一數量」抽象化為「某一、任一」或「每一」的類別指稱。",
+      "definition": "1. used before singular countable nouns to refer to a single, unspecified person or thing; 2. used to mean 'every' or 'any' in a general sense.",
+      "example": [
+        {
+          "eng": "I saw a cat in the garden.",
+          "ch": "我在花園裡看到了一隻貓。"
+        },
+        {
+          "eng": "The medicine is taken three times a day.",
+          "ch": "這種藥一天吃三次。"
+        }
+      ]
+    },
+    {
+      "eng": "an",
+      "kk": "/ən/",
+      "tense": "det.",
+      "ch": [
+        [
+          "一個",
+          "一項"
+        ]
+      ],
+      "analysis": "此字為不定冠詞，為 a 的音位變體，源自古英語單數數字 ān。因歷史上後接母音音素開頭的字時保留了鼻音／子音尾音，演變為專門置於母音音素（母音發音）開頭的單數可數名詞前的限定詞，用以指稱不特定的單數人或物。",
+      "definition": "1. used instead of 'a' before singular countable nouns that begin with a vowel sound to refer to an unspecified person or thing.",
+      "example": [
+        {
+          "eng": "She ate an apple for breakfast.",
+          "ch": "她早餐吃了一個蘋果。"
+        }
+      ]
+    },
+    {
+      "eng": "ability",
+      "kk": "/əˈbɪləti/",
+      "tense": "n.",
+      "ch": [
+        [
+          "能力",
+          "才能",
+          "本領"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞與歷史借詞結合。源自中古英語 abilité，借自古法語 abilité，再上溯至拉丁語 habilitatem（accusative of habilitas，意為適宜、能力），由形容詞 habilis（有能力的、合適的）加上名詞字尾 -ity 構成。現代英語中作為抽象名詞，用以表示某人做某事的實際本領、才能或潛力。",
+      "definition": "1. the physical, mental, or legal power or skill to do something.",
+      "example": [
+        {
+          "eng": "She has the ability to learn languages quickly.",
+          "ch": "她有快速學習語言的能力。"
+        }
+      ]
+    },
+    {
+      "eng": "able",
+      "kk": "/ˈeɪbl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "能夠的",
+          "有能力的"
+        ],
+        [
+          "出色的",
+          "能幹的"
+        ]
+      ],
+      "analysis": "此字源自中古英語 able，借自古法語 able，最終源自拉丁語 habilis（意為易於持有的、合適的、有能力的），與 habere（持有、擁有）相關。語義從「合適的、勝任的」演變為現代的「有能力做某事的」及形容人「才華洋溢、能幹的」。",
+      "definition": "1. having the power, skill, or time to do something; 2. talented, competent, or skillful.",
+      "example": [
+        {
+          "eng": "He is able to finish the project by Friday.",
+          "ch": "他能夠在星期五前完成這個專案。"
+        },
+        {
+          "eng": "She is an able manager who handles crises well.",
+          "ch": "她是一位能幹的經理，危機處理能力很好。"
+        }
+      ]
+    },
+    {
+      "eng": "about",
+      "kk": "/əˈbaʊt/",
+      "tense": "adv.",
+      "ch": [
+        [
+          "大約",
+          "幾乎"
+        ],
+        [
+          "四處",
+          "周圍"
+        ]
+      ],
+      "analysis": "此副詞形式源自古英語 ābūtan 的副詞用法。保留了空間上的「四處、周圍」及數量上的「大約、將近」之義，現代亦常與不定詞連用表示正要、準備做某事。",
+      "definition": "1. approximately; nearly; 2. in or to various places; around.",
+      "example": [
+        {
+          "eng": "It is about time we left.",
+          "ch": "我們差不多該離開了。"
+        },
+        {
+          "eng": "He looked about for his keys.",
+          "ch": "他四處尋找他的鑰匙。"
+        }
+      ]
+    },
+    {
+      "eng": "about",
+      "kk": "/əˈbaʊt/",
+      "tense": "prep.",
+      "ch": [
+        [
+          "關於",
+          "對於"
+        ],
+        [
+          "大約",
+          "左右"
+        ]
+      ],
+      "analysis": "此字源自古英語 ābūtan，由前綴 ān（在……上）加上 būtan（在外部、之外）組合而成。本義指實體空間的「在周圍、四處」，中古英語時期語義擴大並抽象化，演變為表示話題的「關於、對於」，以及表示數量或時間的「大約、左右」。",
+      "definition": "1. on the subject of; concerning; 2. a little more or less than; approximately.",
+      "example": [
+        {
+          "eng": "We talked about our future plans.",
+          "ch": "我們談論了關於我們未來計畫的事。"
+        },
+        {
+          "eng": "The trip took about two hours.",
+          "ch": "這趟旅程大約花了兩小時。"
+        }
+      ]
+    },
+    {
+      "eng": "above",
+      "kk": "/əˈbʌv/",
+      "tense": "adv.",
+      "ch": [
+        [
+          "在上面",
+          "上述的"
+        ]
+      ],
+      "analysis": "此副詞用法源自古英語 ābūfan 的獨立副詞功能，指空間上的上方，或在書面文本中指稱前面已經提過的部分。",
+      "definition": "1. at a higher place or in a previous part of a text.",
+      "example": [
+        {
+          "eng": "For more information, see the section above.",
+          "ch": "欲知更多資訊，請參閱上述段落。"
+        }
+      ]
+    },
+    {
+      "eng": "above",
+      "kk": "/əˈbʌv/",
+      "tense": "prep.",
+      "ch": [
+        [
+          "在……上方",
+          "高於"
+        ]
+      ],
+      "analysis": "此字源自古英語 ābūfan，由前綴 ān（在……上）與 būfan（在上方的）結合而成（其內部包含上古日耳曼語的 bē- 與 hūfan 頭部／上方）。空間義維持「高於某物表面或位置」，抽象義則引申為程度、階級、數量或價值的高於、優於。",
+      "definition": "1. at a higher place, position, or level than something else.",
+      "example": [
+        {
+          "eng": "The plane flew above the clouds.",
+          "ch": "飛機在雲層上方飛行。"
+        }
+      ]
+    },
+    {
+      "eng": "abroad",
+      "kk": "/əˈbrɔːd/",
+      "tense": "adv.",
+      "ch": [
+        [
+          "在國外",
+          "到國外"
+        ]
+      ],
+      "analysis": "此字源自中古英語 abrōd，由前綴 a-（表示狀態或位置，源自古英語 on）與 broad（寬闊的、廣闊的）結合而成。本義為「在開闊處、廣泛地四處」，中古英語時期引申出「離開家鄉、出國、在異國」的常見義項。",
+      "definition": "1. in or to a foreign country or countries.",
+      "example": [
+        {
+          "eng": "She studies abroad in France.",
+          "ch": "她在法國留學（在國外求學）。"
+        }
+      ]
+    },
+    {
+      "eng": "across",
+      "kk": "/əˈkrɔːs/",
+      "tense": "adv.",
+      "ch": [
+        [
+          "橫過",
+          "從一端到另一端"
+        ]
+      ],
+      "analysis": "此副詞用法源自中古英語，表示動作或方向從一邊到另一邊的完全穿過，或使人理解、傳達訊息（如 get the message across）。",
+      "definition": "1. from one side to the other.",
+      "example": [
+        {
+          "eng": "The river is too wide to swim across.",
+          "ch": "這條河太寬了，游不過去。"
+        }
+      ]
+    },
+    {
+      "eng": "across",
+      "kk": "/əˈkrɔːs/",
+      "tense": "prep.",
+      "ch": [
+        [
+          "橫過",
+          "穿過"
+        ],
+        [
+          "在……的另一邊"
+        ]
+      ],
+      "analysis": "此字源自中古英語 acros，由前綴 a-（在……上，源自 on）與 cros（十字、交叉，源自古諾斯語 kross 或古愛爾蘭語 crois）結合而成。原意為「呈十字交叉狀」，後演變為描述從一端到另一端「橫越、穿過」表面或空間，或指位於某物的「對面、另一側」。",
+      "definition": "1. from one side to the other of something; 2. on the opposite side of.",
+      "example": [
+        {
+          "eng": "They walked across the street.",
+          "ch": "他們走過街道。"
+        },
+        {
+          "eng": "The bank is across the road.",
+          "ch": "銀行在馬路的對面。"
+        }
+      ]
+    },
+    {
+      "eng": "act",
+      "kk": "/ækt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "行為",
+          "行動"
+        ],
+        [
+          "（戲劇的）幕"
+        ],
+        [
+          "法案"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 actus（做、驅動、行動的結果），源自動詞 agere（做、驅動）。經由古法語與中古英語進入英語。名詞義涵蓋具體的「單一行為」、戲劇結構的「幕」，以及立法機構通過的「法案」。",
+      "definition": "1. a thing done; a deed; 2. a main division of a play, opera, or ballet; 3. a law passed by a legislative body.",
+      "example": [
+        {
+          "eng": "Saving the child from the fire was a brave act.",
+          "ch": "從火場中救出小孩是一個勇敢的行為。"
+        },
+        {
+          "eng": "The play has three acts.",
+          "ch": "這部戲有三幕。"
+        },
+        {
+          "eng": "Congress passed a new tax act.",
+          "ch": "國會通過了一項新的稅收法案。"
+        }
+      ]
+    },
+    {
+      "eng": "act",
+      "kk": "/ækt/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "扮演",
+          "演（戲劇、角色）"
+        ]
+      ],
+      "analysis": "此及物動詞源自拉丁語 actus 的動詞形式 agere 或後續衍生。作及物用時，指在舞台或電影中「扮演」某個角色或「演」某出戲劇。",
+      "definition": "1. to perform a role in a play, movie, or television show.",
+      "example": [
+        {
+          "eng": "He can act the part of Hamlet brilliantly.",
+          "ch": "他能精湛地扮演哈姆雷特這個角色。"
+        }
+      ]
+    },
+    {
+      "eng": "act",
+      "kk": "/ækt/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "行動",
+          "採取行動"
+        ],
+        [
+          "表演",
+          "演戲"
+        ],
+        [
+          "起作用",
+          "見效"
+        ]
+      ],
+      "analysis": "此不及物動詞源自拉丁語 agere。常見用法包含「採取行動、實施作為」、「從事表演工作或演戲」，以及指藥物或機制「發揮作用、見效」。",
+      "definition": "1. to take action; do something; 2. to perform as an actor; 3. to have a particular effect.",
+      "example": [
+        {
+          "eng": "We must act now before it is too late.",
+          "ch": "我們必須現在採取行動，以免為時已晚。"
+        },
+        {
+          "eng": "She has always wanted to act on stage.",
+          "ch": "她一直想在舞台上表演。"
+        },
+        {
+          "eng": "The medicine began to act quickly.",
+          "ch": "這藥很快就開始起作用了。"
+        }
+      ]
+    },
+    {
+      "eng": "action",
+      "kk": "/ˈækʃn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "行動",
+          "動作"
+        ],
+        [
+          "情節",
+          "活動"
+        ],
+        [
+          "訴訟"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 actionem（主格 actio，意為做事、起訴），由動詞 agere 加上名詞字尾 -ion 構成。經由古法語進入中古英語。語義從抽象的「實施行為、動作」延伸出「故事中的情節或戰鬥活動」，以及法律上的「訴訟程序」。",
+      "definition": "1. the process of doing something, especially to deal with a problem; 2. events that form the main story of a book or movie; 3. a legal process in a court.",
+      "example": [
+        {
+          "eng": "Actions speak louder than words.",
+          "ch": "事實勝於雄辯（行動比言語更有力）。"
+        },
+        {
+          "eng": "The movie is full of thrilling action.",
+          "ch": "這部電影充滿了緊張刺激的情節。"
+        },
+        {
+          "eng": "They took legal action against the company.",
+          "ch": "他們對該公司採取了法律訴訟。"
+        }
+      ]
+    },
+    {
+      "eng": "actor",
+      "kk": "/ˈæktər/",
+      "tense": "n.",
+      "ch": [
+        [
+          "演員",
+          "男演員"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 actor（doer，行動者、表演者），由 agere 加上表示人的名詞字尾 -or 構成。經由古法語（actor / acteur）進入英語。在現代英語中專指從事舞台劇、電影或電視演出的演員（早期不分男女，現今多特指男演員）。",
+      "definition": "1. a person who performs in plays, movies, or television shows.",
+      "example": [
+        {
+          "eng": "He is a famous Hollywood actor.",
+          "ch": "他是個著名的好萊塢男演員。"
+        }
+      ]
+    },
+    {
+      "eng": "actress",
+      "kk": "/ˈæktrəs/",
+      "tense": "n.",
+      "ch": [
+        [
+          "女演員"
+        ]
+      ],
+      "analysis": "此字由 actor 加上源自法語的陰性字尾 -ress 複合而成（源自拉丁語 -atrix）。在近代英語中專門用來指稱女性演員，近年來亦有傾向直接統稱為 actor 的趨勢，但 actress 仍為極常見的高頻字。",
+      "definition": "1. a female actor.",
+      "example": [
+        {
+          "eng": "She won the award for best actress.",
+          "ch": "她贏得了最佳女演員獎。"
+        }
+      ]
+    },
+    {
+      "eng": "add",
+      "kk": "/æd/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "添加",
+          "增加"
+        ],
+        [
+          "補充說",
+          "繼續說"
+        ],
+        [
+          "把……加起來",
+          "相加"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 addere（ad- 向 + dare 給予），經由中古英語進入英語。語義從最初的「給予、加入」演變出實體或抽象的「添加、增加」、言談中的「補充說明」，以及數學上的「數值相加」。",
+      "definition": "1. to put something together with something else to increase size, amount, or importance; 2. to say something further; 3. to calculate the total of two or more numbers.",
+      "example": [
+        {
+          "eng": "Add some sugar to the coffee.",
+          "ch": "在咖啡裡加點糖。"
+        },
+        {
+          "eng": "She added that she would be late.",
+          "ch": "她補充說她會遲到。"
+        },
+        {
+          "eng": "If you add 5 and 3, you get 8.",
+          "ch": "如果你把 5 和 3 相加，就得到 8。"
+        }
+      ]
+    },
+    {
+      "eng": "afraid",
+      "kk": "/əˈfreɪd/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "害怕的",
+          "擔心的"
+        ],
+        [
+          "（委婉）恐怕"
+        ]
+      ],
+      "analysis": "此字源自中古英語 afrayed，為古法語動詞 affrayier（嚇壞、驚擾，由 ad- + frangere 破壞、打碎衍生）的過去分詞轉用形容詞。語義從「被嚇到的」演變為現今描述內心「恐懼、擔心的」狀態，或在禮貌對話中用作「恐怕、遺憾地」的委婉語。",
+      "definition": "1. feeling fear, anxiety, or worry; 2. used politely to express regret or a negative response.",
+      "example": [
+        {
+          "eng": "The little boy is afraid of the dark.",
+          "ch": "小男孩害怕黑暗。"
+        },
+        {
+          "eng": "I am afraid I cannot come to the party.",
+          "ch": "我恐怕無法來參加派對。"
+        }
+      ]
+    },
+    {
+      "eng": "after",
+      "kk": "/ˈæftər/",
+      "tense": "adv.",
+      "ch": [
+        [
+          "之後",
+          "後來"
+        ]
+      ],
+      "analysis": "此副詞用法源自古英語 æfter 的獨立副詞功能，通常置於句末或子句中，表示某個事件發生後的「後來、隨後」。",
+      "definition": "1. at a later time; afterwards.",
+      "example": [
+        {
+          "eng": "They lived happily ever after.",
+          "ch": "他們從此過著幸福快樂的日子。"
+        }
+      ]
+    },
+    {
+      "eng": "after",
+      "kk": "/ˈæftər/",
+      "tense": "prep.",
+      "ch": [
+        [
+          "在……之後",
+          "隨後"
+        ],
+        [
+          "仿照",
+          "根據"
+        ]
+      ],
+      "analysis": "此字源自古英語 æfter（意為在後、向後），源自日耳曼語族。在現代英語中，主要作介詞表示時間或空間上的「在……之後」，或表示順序、追尋、仿照（如 named after 依……命名）。",
+      "definition": "1. later in time than, or behind in place; 2. in imitation of or named in honor of.",
+      "example": [
+        {
+          "eng": "We will leave after lunch.",
+          "ch": "我們將在午餐後離開。"
+        },
+        {
+          "eng": "The boy was named after his grandfather.",
+          "ch": "這個男孩是以他祖父的名字命名的。"
+        }
+      ]
+    },
+    {
+      "eng": "afternoon",
+      "kk": "/ˌæftərˈnuːn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "下午",
+          "午后"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞。由 after（在……之後）與 noon（正午，源自拉丁語nona hora第九個小時）複合而成。字面義即「正午之後的時間」，自中古英語晚期開始穩定使用，指從中午到傍晚之間的時段。",
+      "definition": "1. the time of day from noon until evening.",
+      "example": [
+        {
+          "eng": "We had a meeting this afternoon.",
+          "ch": "我們今天下午開了一個會。"
+        }
+      ]
+    },
+    {
+      "eng": "again",
+      "kk": "/əˈɡen/",
+      "tense": "adv.",
+      "ch": [
+        [
+          "再一次",
+          "又",
+          "再"
+        ]
+      ],
+      "analysis": "此字源自古英語 ongegn（向着、對着、反方向），由 on 與 gegn（直接的、便利的）複合而成。中古英語時期語音與拼字演變，意義從「反向、返回」轉變為「重複發生、再一次」。",
+      "definition": "1. once more; another time.",
+      "example": [
+        {
+          "eng": "Please say that again.",
+          "ch": "請再說一次。"
+        }
+      ]
+    },
+    {
+      "eng": "age",
+      "kk": "/eɪdʒ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "年齡",
+          "歲數"
+        ],
+        [
+          "時代",
+          "時期"
+        ],
+        [
+          "長時間",
+          "很久（常用複數）"
+        ]
+      ],
+      "analysis": "此字源自古法語 aage（早期寫作 aedage），最終源自拉丁語 aetaticem（主格 aetas，意為時期、年齡、世代），由 aevum（生命、時代、永恆）衍生而來。經由中古英語進入英語。語義從個人生命的「年齡、歲數」引申為歷史或文化上的「時代、時期」，再到口語中表示「漫長的時間」。",
+      "definition": "1. the length of time that a person has lived or a thing has existed; 2. a distinct period of history; 3. a very long time (informal, plural).",
+      "example": [
+        {
+          "eng": "What is your age?",
+          "ch": "你的年齡是多少？"
+        },
+        {
+          "eng": "We live in the computer age.",
+          "ch": "我們生活在電腦時代。"
+        },
+        {
+          "eng": "I haven't seen you in ages.",
+          "ch": "我有好長一段時間沒見到你了。"
+        }
+      ]
+    },
+    {
+      "eng": "ago",
+      "kk": "/əˈɡoʊ/",
+      "tense": "adv.",
+      "ch": [
+        [
+          "以前"
+        ]
+      ],
+      "analysis": "此字源自中古英語 ago、agoon，原為動詞 ȝān（去、走，源自古英語 ġān）的過去分詞 agān（過去了的）。經由「時間已經過去」的狀態轉變為副詞，置於時間段之後，表示從現在算起的「……以前」。",
+      "definition": "1. in the past; back in time from the present.",
+      "example": [
+        {
+          "eng": "They left ten minutes ago.",
+          "ch": "他們十分鐘前離開了。"
+        }
+      ]
+    },
+    {
+      "eng": "agree",
+      "kk": "/əˈɡriː/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "同意",
+          "贊成"
+        ],
+        [
+          "意見一致",
+          "相契合"
+        ],
+        [
+          "（食物、氣候等）適合",
+          "相合"
+        ]
+      ],
+      "analysis": "此字源自中古英語 agréen，借自古法語 agréer（使喜悅、接受、同意），由 ad-（向）+ gré（意願、喜悅，源自拉丁語 gratum）組成。現代英語中主要作不及物動詞，表示對某事「同意、意見一致」，或指飲食、氣候對身體「適合、相宜」。",
+      "definition": "1. to have the same opinion; to consent to something; 2. to be consistent or compatible; 3. to be suitable for one's health (of food or climate).",
+      "example": [
+        {
+          "eng": "We all agree on this plan.",
+          "ch": "我們大家對這個計畫都意見一致。"
+        },
+        {
+          "eng": "His story agrees with mine.",
+          "ch": "他的說法與我的相符。"
+        },
+        {
+          "eng": "Rich food does not agree with me.",
+          "ch": "油膩的食物不適合我的腸胃。"
+        }
+      ]
+    },
+    {
+      "eng": "agreement",
+      "kk": "/əˈɡriːmənt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "協議",
+          "協定"
+        ],
+        [
+          "同意",
+          "一致"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞。由動詞 agree 加上名詞字尾 -ment（表狀態或結果）複合而成。在中古英語時期已見使用。語義涵蓋雙方或多方達成的正式「協議、合約」，以及心理或意見上的「同意、一致狀態」。",
+      "definition": "1. an arrangement or promise between people, groups, or countries; 2. harmony of opinion or feeling.",
+      "example": [
+        {
+          "eng": "The two countries signed a trade agreement.",
+          "ch": "兩國簽署了一項貿易協定。"
+        },
+        {
+          "eng": "The decision was made by general agreement.",
+          "ch": "這項決定是透過普遍一致的共識做出的。"
+        }
+      ]
+    },
+    {
+      "eng": "air",
+      "kk": "/er/",
+      "tense": "n.",
+      "ch": [
+        [
+          "空氣",
+          "大氣"
+        ],
+        [
+          "空中",
+          "航空"
+        ],
+        [
+          "神態",
+          "架子"
+        ]
+      ],
+      "analysis": "此字源自中古英語 air，借自古法語 air，最終源自拉丁語 aer，源自希臘語 aēr（氣體、大氣、低層大氣）。語義從客觀的「空氣、氣體」延伸出「航空、空中」的環境，以及形容人的「神態、架子、氣派」。",
+      "definition": "1. the mixture of gases surrounding the earth; 2. the space above the ground; aviation; 3. a particular manner, appearance, or expression.",
+      "example": [
+        {
+          "eng": "Open the window to let some fresh air in.",
+          "ch": "打開窗戶讓一些新鮮空氣進來。"
+        },
+        {
+          "eng": "The goods were sent by air.",
+          "ch": "貨物是用空運（航空）寄送的。"
+        },
+        {
+          "eng": "She walked into the room with an air of confidence.",
+          "ch": "她帶著自信的神態走進房間。"
+        }
+      ]
+    },
+    {
+      "eng": "airplane",
+      "kk": "/ˈerpleɪn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "飛機"
+        ]
+      ],
+      "analysis": "此字為美式英語的現代透明複合詞。由 air（空氣、航空）與 plane（滑翔機、平面，源自法語 plane / 拉丁語 planus）組合而成，20世紀初因航空發展而普及，指靠發動機推進、能在空中飛行的固定翼航空器。",
+      "definition": "1. a powered flying vehicle with fixed wings.",
+      "example": [
+        {
+          "eng": "The airplane took off smoothly.",
+          "ch": "飛機平穩地起飛了。"
+        }
+      ]
+    },
+    {
+      "eng": "plane",
+      "kk": "/pleɪn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "飛機（簡稱）"
+        ],
+        [
+          "平面"
+        ],
+        [
+          "水平",
+          "程度"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 planus（平坦的、平的），經由中古英語及法語進入英語。名詞義一方面作為 airplane 的常見簡稱，另一方面指幾何學上的「平面」或抽象的「水準、階段、程度」。",
+      "definition": "1. an airplane (informal short form); 2. a flat surface; 3. a level of existence, thought, or development.",
+      "example": [
+        {
+          "eng": "We booked our tickets for the plane.",
+          "ch": "我們預訂了機票。"
+        },
+        {
+          "eng": "A triangle lies in a single plane.",
+          "ch": "三角形位於同一個平面上。"
+        },
+        {
+          "eng": "Their relationship reached a new plane.",
+          "ch": "他們的關係達到了一個新的層次。"
+        }
+      ]
+    },
+    {
+      "eng": "airport",
+      "kk": "/ˈerpɔːrt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "機場",
+          "航空站"
+        ]
+      ],
+      "analysis": "此字為現代透明複合詞。由 air（航空）與 port（港口、口岸，源自拉丁語 portus）結合而成。20世紀隨商業航空興起而出現，專指供飛機起降、停放及旅客乘降的航空站設施。",
+      "definition": "1. a complex of runways and buildings for the takeoff, landing, and maintenance of civil aircraft.",
+      "example": [
+        {
+          "eng": "We arrived at the airport two hours before the flight.",
+          "ch": "我們在航班起飛前兩小時抵達機場。"
+        }
+      ]
+    },
+    {
+      "eng": "all",
+      "kk": "/ɔːl/",
+      "tense": "adv.",
+      "ch": [
+        [
+          "完全",
+          "十分",
+          "全都"
+        ]
+      ],
+      "analysis": "此副詞用法源自古英語，用以加強語氣，修飾形容詞或副詞，表示「完全地、十分」。",
+      "definition": "1. completely; wholly.",
+      "example": [
+        {
+          "eng": "She was all wet from the rain.",
+          "ch": "她被雨淋得全身濕透。"
+        }
+      ]
+    },
+    {
+      "eng": "all",
+      "kk": "/ɔːl/",
+      "tense": "pron.",
+      "ch": [
+        [
+          "全部",
+          "一切"
+        ]
+      ],
+      "analysis": "此代名詞用法源自古英語 eall 的獨立代名詞功能，用以指代「全部的人事物」或「一切」。",
+      "definition": "1. everything or everyone.",
+      "example": [
+        {
+          "eng": "All is well that ends well.",
+          "ch": "結果好就什麼都好（大團圓）。"
+        }
+      ]
+    },
+    {
+      "eng": "all",
+      "kk": "/ɔːl/",
+      "tense": "det.",
+      "ch": [
+        [
+          "全部的",
+          "所有的"
+        ]
+      ],
+      "analysis": "此字源自古英語 eall（全部的、所有的），屬於日耳曼語族的共同詞彙。作限定詞時，置於複數可數名詞或不可數名詞之前，用以指稱群體或數量的全體、全部。",
+      "definition": "1. the whole quantity or extent of a particular group or thing.",
+      "example": [
+        {
+          "eng": "All children need love and care.",
+          "ch": "所有的孩子都需要愛與關懷。"
+        }
+      ]
+    },
+    {
+      "eng": "allow",
+      "kk": "/əˈlaʊ/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "允許",
+          "准許"
+        ],
+        [
+          "給予",
+          "留出（時間、金錢等）"
+        ]
+      ],
+      "analysis": "此字源自中古英語 allowen，合併了兩個不同來源：一是源自拉丁語 allaudare（稱讚、讚許，經由古法語 alower），二是源自日耳曼語根源的古法語 alouer（指派、分配，源自拉丁語 allocare）。在現代英語中，讚許義已少見，主要保留「准許、允許」以及「撥出、給予（時間或金錢）」的語義。",
+      "definition": "1. to let someone do something; to permit; 2. to make provision for; to give a certain amount of time, money, etc.",
+      "example": [
+        {
+          "eng": "Dogs are not allowed in the restaurant.",
+          "ch": "餐廳內不允許帶狗進入。"
+        },
+        {
+          "eng": "Please allow extra time for traffic.",
+          "ch": "請為交通多留出一些時間。"
+        }
+      ]
+    },
+    {
+      "eng": "almost",
+      "kk": "/ˈɔːlmoʊst/",
+      "tense": "adv.",
+      "ch": [
+        [
+          "幾乎",
+          "差不多"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞。由 all（全部）與 most（最多、大部分）在中古英語時期（al-most）結合而成。原意為「完全最多、達到幾乎全部」，演變為現代專門表示「差一點就、幾乎」的副詞。",
+      "definition": "1. very nearly; not quite.",
+      "example": [
+        {
+          "eng": "I have almost finished my homework.",
+          "ch": "我的作業快寫完了（幾乎寫完了）。"
+        }
+      ]
+    },
+    {
+      "eng": "along",
+      "kk": "/əˈlɔːŋ/",
+      "tense": "adv.",
+      "ch": [
+        [
+          "向前",
+          "一起",
+          "帶著"
+        ]
+      ],
+      "analysis": "此副詞用法源自古英語 andlang 的獨立副詞功能，表示動作向前推進，或伴隨某人「一道、一起」行動。",
+      "definition": "1. forward; onward; 2. together with others.",
+      "example": [
+        {
+          "eng": "Come along with us to the movies.",
+          "ch": "跟我們一起去看電影吧。"
+        }
+      ]
+    },
+    {
+      "eng": "along",
+      "kk": "/əˈlɔːŋ/",
+      "tense": "prep.",
+      "ch": [
+        [
+          "順著",
+          "沿著"
+        ]
+      ],
+      "analysis": "此字源自古英語 andlang（沿著長度方向），由 and-（反向、對著）與 lang（長的）複合而成。在現代英語中作介詞，表示沿著一條線狀、道路或邊緣的方向前進或延伸。",
+      "definition": "1. from one end to the other of something linear; moving parallel to the length of.",
+      "example": [
+        {
+          "eng": "They walked along the river bank.",
+          "ch": "他們沿著河岸散步。"
+        }
+      ]
+    },
+    {
+      "eng": "already",
+      "kk": "/ɔːlˈredi/",
+      "tense": "adv.",
+      "ch": [
+        [
+          "已經"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞。由 all（完全）與 ready（準備好的）在中古英語時期（al-redi）結合而成。原意為「全部準備就緒」，後演變為現代表示某事在預期之前「已經」發生的時間副詞，常與完成時態連用。",
+      "definition": "1. before a particular time; previously or so soon.",
+      "example": [
+        {
+          "eng": "I have already eaten lunch.",
+          "ch": "我已經吃過午餐了。"
+        }
+      ]
+    },
+    {
+      "eng": "also",
+      "kk": "/ˈɔːlsoʊ/",
+      "tense": "adv.",
+      "ch": [
+        [
+          "也",
+          "同樣地"
+        ]
+      ],
+      "analysis": "此字源自古英語 eallswā（意為完全如此），由 eall（全部）與 swā（如此）複合而成。經歷中古英語語音演變，字面義從「完全如此」轉變為表並列、補充的副詞「也、同樣」。",
+      "definition": "1. in addition; too; likewise.",
+      "example": [
+        {
+          "eng": "She speaks French, and she also speaks Spanish.",
+          "ch": "她會說法語，她也會說西班牙語。"
+        }
+      ]
+    },
+    {
+      "eng": "although",
+      "kk": "/ɔːlˈðoʊ/",
+      "tense": "conj.",
+      "ch": [
+        [
+          "雖然",
+          "儘管"
+        ]
+      ],
+      "analysis": "此字源自中古英語 altho（由 all + though 強調複合而成），源自古英語 eall ðēah。原意為「完全即使、縱然」，在現代英語中作為從屬連接詞，用以引導讓步子句，表示「雖然、儘管」。",
+      "definition": "1. in spite of the fact that; even though.",
+      "example": [
+        {
+          "eng": "Although it was raining, they went out.",
+          "ch": "雖然在下雨，他們還是出門了。"
+        }
+      ]
+    },
+    {
+      "eng": "always",
+      "kk": "/ˈɔːlweɪz/",
+      "tense": "adv.",
+      "ch": [
+        [
+          "總是",
+          "一直",
+          "永遠"
+        ]
+      ],
+      "analysis": "此字源自古英語 ealne weg（意為全路、每一條路／全程），由 ealne（all 的受格形式）與 weg（路、方式）複合而成。中古英語時期固定為副詞形式 -s，意義從「每一次、全程」演變為現代的「總是、一直、永遠」。",
+      "definition": "1. at all times; on every occasion; 2. forever.",
+      "example": [
+        {
+          "eng": "She always arrives on time.",
+          "ch": "她總是準時到達。"
+        },
+        {
+          "eng": "I will always remember you.",
+          "ch": "我會永遠記住你。"
+        }
+      ]
+    },
+    {
+      "eng": "am",
+      "kk": "/æm/",
+      "tense": "aux.",
+      "ch": [
+        [
+          "是（第一人稱單數現在式）"
+        ]
+      ],
+      "analysis": "此字源自古英語 eom（第一人稱單數現在式），源自原始日耳曼語 *immi，與印歐語系同源詞（如拉丁語 sum、希臘語 eimi）具深厚歷史淵源。現代英語中作為第一人稱單數主詞（I）專用的 be 動詞現在式助動詞或連系動詞。",
+      "definition": "1. the first-person singular present tense of the verb 'be'.",
+      "example": [
+        {
+          "eng": "I am a student.",
+          "ch": "我是一名學生。"
+        }
+      ]
+    },
+    {
+      "eng": "a.m.",
+      "kk": "/ˌeɪˈem/",
+      "tense": "adv.",
+      "ch": [
+        [
+          "上午",
+          "午前"
+        ]
+      ],
+      "analysis": "此縮寫源自拉丁語ante meridiem（意為午夜之後、中午之前），由 ante（在……之前）與 meridies（中午、正午，由 medius 中間 + dies 日期組合）組成。在現代英語中作為時間副詞縮寫，專指從午夜零時起到中午十二時之前的時段。",
+      "definition": "1. before noon; in the morning (used with the 12-hour clock).",
+      "example": [
+        {
+          "eng": "The train leaves at 8:30 a.m.",
+          "ch": "火車在上午 8 點 30 分開出。"
+        }
+      ]
+    },
+    {
+      "eng": "and",
+      "kk": "/ænd/",
+      "tense": "conj.",
+      "ch": [
+        [
+          "和",
+          "與",
+          "而且"
+        ]
+      ],
+      "analysis": "此字源自古英語 and、ond（意為此外、並列），屬於日耳曼語族的原始連接詞。在現代英語中作為最基礎的對等連接詞，用以連接同類型的詞彙、片語或子句，表示並列、順承或遞進關係。",
+      "definition": "1. used to connect words, phrases, or clauses that belong to the same grammatical group; in addition to.",
+      "example": [
+        {
+          "eng": "I bought apples and bananas.",
+          "ch": "我買了蘋果和香蕉。"
+        }
+      ]
+    },
+    {
+      "eng": "angry",
+      "kk": "/ˈæŋɡri/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "生氣的",
+          "憤怒的"
+        ]
+      ],
+      "analysis": "此字源自中古英語 angry，源自古諾斯語 angr（悲傷、痛苦、煩惱），與古英語 anga（刺、痛）同源。語義從北歐語的「感到痛苦或心煩」在中古英語時期轉變為現今標準英語的「發怒的、生氣的」。",
+      "definition": "1. feeling or showing strong annoyance, displeasure, or hostility.",
+      "example": [
+        {
+          "eng": "He was angry about the delay.",
+          "ch": "他對這次的延誤感到生氣。"
+        }
+      ]
+    },
+    {
+      "eng": "animal",
+      "kk": "/ˈænɪml/",
+      "tense": "n.",
+      "ch": [
+        [
+          "動物"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 animal（活的生物、有氣息之物），由 anima（呼吸、靈魂、生命，源自印歐語根 *an- 吹氣）衍生而來。經由中古英語進入英語。現代英語中專指除人類之外的生物或廣義的動物界生物。",
+      "definition": "1. a living organism that feeds on organic matter, typically having specialized sense organs and nervous system and able to respond rapidly to stimuli.",
+      "example": [
+        {
+          "eng": "The lion is a wild animal.",
+          "ch": "獅子是一隻野生動物。"
+        }
+      ]
+    },
+    {
+      "eng": "another",
+      "kk": "/əˈnʌðər/",
+      "tense": "pron.",
+      "ch": [
+        [
+          "另一個",
+          "又一個"
+        ]
+      ],
+      "analysis": "此代名詞用法源自 an + other 的獨立代名詞功能，用以指代同類中的另一個個體或事物。",
+      "definition": "1. an additional or different person or thing.",
+      "example": [
+        {
+          "eng": "If you don't like this one, I can give you another.",
+          "ch": "如果你不喜欢這個，我可以給你另一個。"
+        }
+      ]
+    },
+    {
+      "eng": "another",
+      "kk": "/əˈnʌðər/",
+      "tense": "det.",
+      "ch": [
+        [
+          "另一種",
+          "另一個"
+        ],
+        [
+          "再一個",
+          "又一個"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞。由 an（一個）與 other（其他的）在中古英語時期（an-other）合併而成。原意為「另一個」，現代常見於修飾單數可數名詞，表示同類中的「另一個」或額外的「又一個」。",
+      "definition": "1. one more, in addition to the one(s) already mentioned; 2. a different person or thing.",
+      "example": [
+        {
+          "eng": "Would you like another cup of tea?",
+          "ch": "你想再喝一杯茶嗎？"
+        },
+        {
+          "eng": "That is another story.",
+          "ch": "那是另外一回事了。"
+        }
+      ]
+    },
+    {
+      "eng": "answer",
+      "kk": "/ˈænsər/",
+      "tense": "n.",
+      "ch": [
+        [
+          "答案",
+          "回覆"
+        ],
+        [
+          "應對",
+          "解決辦法"
+        ]
+      ],
+      "analysis": "此字源自古英語 andswaru（由 and- 對抗 + swarjan 回應、宣誓組成）。在中古英語時期演變為 answer。名詞涵蓋對問題或信件的「回答、回覆」，以及對難題的「解決辦法」。",
+      "definition": "1. a thing said, written, or done as a reaction to a question, letter, or event; 2. a successful solution to a problem.",
+      "example": [
+        {
+          "eng": "I am waiting for an answer to my question.",
+          "ch": "我正在等待我問題的答案。"
+        },
+        {
+          "eng": "Education is the answer to poverty.",
+          "ch": "教育是解決貧窮的辦法。"
+        }
+      ]
+    },
+    {
+      "eng": "answer",
+      "kk": "/ˈænsər/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "回答",
+          "答覆"
+        ],
+        [
+          "接聽（電話）"
+        ],
+        [
+          "符合（要求、條件）"
+        ]
+      ],
+      "analysis": "此及物動詞源自古英語動詞 andswarian。現代用法包含直接「回答」問題、「接聽」電話或門鈴，以及抽象地「符合、滿足」特定條件或標準。",
+      "definition": "1. to speak or write in reaction to a question; 2. to pick up the phone when it rings; 3. to meet certain requirements or conditions.",
+      "example": [
+        {
+          "eng": "Please answer the phone.",
+          "ch": "請接電話。"
+        },
+        {
+          "eng": "She answered all the test questions correctly.",
+          "ch": "她正確地回答了所有考題。"
+        },
+        {
+          "eng": "He answers the description of the suspect.",
+          "ch": "他符合嫌疑犯的特徵描述。"
+        }
+      ]
+    },
+    {
+      "eng": "answer",
+      "kk": "/ˈænsər/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "回答",
+          "作答"
+        ]
+      ],
+      "analysis": "此不及物動詞用法指在被問話時作出反應或答覆，不直接外加受詞。",
+      "definition": "1. to make a reply or response.",
+      "example": [
+        {
+          "eng": "Answer when you are spoken to.",
+          "ch": "有人對你說話時就要回答。"
+        }
+      ]
+    },
+    {
+      "eng": "ant",
+      "kk": "/ænt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "螞蟻"
+        ]
+      ],
+      "analysis": "此字源自古英語 ǣmete（意為咬東西的小昆蟲），屬於日耳曼語族。經由中古英語 amte、ante 的語音演變，最終定型為現代的 ant，指一種群居的小型昆蟲。",
+      "definition": "1. a small insect that lives in highly organized colonies.",
+      "example": [
+        {
+          "eng": "The ants are carrying food to their nest.",
+          "ch": "螞蟻正在把食物搬回巢穴。"
+        }
+      ]
+    },
+    {
+      "eng": "any",
+      "kk": "/ˈeni/",
+      "tense": "adv.",
+      "ch": [
+        [
+          "（常用於否定句或疑問句）稍微",
+          "一點"
+        ]
+      ],
+      "analysis": "此副詞用法源自日耳曼語法，用在否定句或疑問句中修飾動詞或形容詞，表示「一點也不、稍微」。",
+      "definition": "1. at all; to any extent (used in questions and negative sentences).",
+      "example": [
+        {
+          "eng": "Do you feel any better today?",
+          "ch": "你今天覺得有好一點嗎？"
+        }
+      ]
+    },
+    {
+      "eng": "any",
+      "kk": "/ˈeni/",
+      "tense": "pron.",
+      "ch": [
+        [
+          "任何一個",
+          "任何事物"
+        ],
+        [
+          "一些"
+        ]
+      ],
+      "analysis": "此代名詞用法源自古英語 ǣnig 的獨立代名詞功能，用以指代未特定的人、事、物或數量。",
+      "definition": "1. one or more of something, without specifying which.",
+      "example": [
+        {
+          "eng": "If you need more paper, I have some, but I don't think there is any left in the drawer.",
+          "ch": "如果你需要更多紙，我有一些，但我想抽屜裡已經沒有任何剩餘的了。"
+        }
+      ]
+    },
+    {
+      "eng": "any",
+      "kk": "/ˈeni/",
+      "tense": "det.",
+      "ch": [
+        [
+          "任何的",
+          "任一的"
+        ],
+        [
+          "（用於否定句或疑問句）一些",
+          "任何"
+        ]
+      ],
+      "analysis": "此字源自古英語 ǣnig（由 ǣn 表單一 + -ig 形容詞字尾構成，意為「任何一個」）。在現代英語中，主要作限定詞，常用於否定句、疑問句或條件句中代替 some，表示「任何」或「一些」，或在肯定句中表示「無論哪一個、任何一個」。",
+      "definition": "1. used to refer to one or some of a thing or number, no matter how much or many; 2. used in questions and negative sentences to mean 'some'.",
+      "example": [
+        {
+          "eng": "Do you have any questions?",
+          "ch": "你有任何問題嗎？"
+        },
+        {
+          "eng": "You can borrow any book you like.",
+          "ch": "你可以借任何你喜歡的書。"
+        }
+      ]
+    },
+    {
+      "eng": "anybody",
+      "kk": "/ˈenibɑːdi/",
+      "tense": "pron.",
+      "ch": [
+        [
+          "任何人"
+        ]
+      ],
+      "analysis": "此字為現代透明複合詞。由 any（任何的）與 body（身體、人，源自古英語 bodig）結合而成。自中古英語晚期開始廣泛使用，專門用作代名詞，指代不特定的人、任何人（多用於疑問句、否定句或條件句中，亦可見於肯定句中表示「任何人都可以」）。",
+      "definition": "1. no matter what person; anyone.",
+      "example": [
+        {
+          "eng": "Is anybody home?",
+          "ch": "家裡有人嗎？"
+        }
+      ]
+    },
+    {
+      "eng": "anyone",
+      "kk": "/ˈeniwʌn/",
+      "tense": "pron.",
+      "ch": [
+        [
+          "任何人"
+        ]
+      ],
+      "analysis": "此字為現代透明複合詞。由 any（任何的）與 one（一個、人）結合而成。與 anybody 同義且用法相近，專門用作代名詞指代任何不特定的人。",
+      "definition": "1. any person; anybody.",
+      "example": [
+        {
+          "eng": "Anyone can learn to swim with practice.",
+          "ch": "任何人透過練習都可以學會游泳。"
+        }
+      ]
+    },
+    {
+      "eng": "anything",
+      "kk": "/ˈeniθɪŋ/",
+      "tense": "pron.",
+      "ch": [
+        [
+          "任何事物",
+          "任何東西"
+        ]
+      ],
+      "analysis": "此字為現代透明複合詞。由 any（任何的）與 thing（事物、東西，源自古英語 ðing）結合而成。用作代名詞，指代不具體指明的事物，常見於疑問句、否定句與肯定句中。",
+      "definition": "1. a thing of any kind; whatever is desired or needed.",
+      "example": [
+        {
+          "eng": "Would you like anything to drink?",
+          "ch": "你想喝點什麼嗎？"
+        }
+      ]
+    },
+    {
+      "eng": "apartment",
+      "kk": "/əˈpɑːrtmənt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "公寓",
+          "房間（美式）"
+        ]
+      ],
+      "analysis": "此字源自義大利語 appartamento（由 appartare 分離、隔開，源自 a parte 一部分），經由法語 appartement 進入英語。本義指建築物內部被隔開的獨立套房或房間；在美式英語中演變為專指一棟大樓內供居住的獨立住宅單位（公寓）。",
+      "definition": "1. a set of rooms for living in, usually on one floor of a large building (chiefly US).",
+      "example": [
+        {
+          "eng": "He lives in a small apartment downtown.",
+          "ch": "他住在市中心的一間小公寓裡。"
+        }
+      ]
+    },
+    {
+      "eng": "appear",
+      "kk": "/əˈpɪr/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "出現",
+          "顯現"
+        ],
+        [
+          "似乎",
+          "顯得"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 apparere（ad- 向 + parere 出現、露面），經由古法語 aparoir 進入中古英語。語義從實體空間的「露面、出現」引申為狀態上的「似乎、顯得」。",
+      "definition": "1. to become visible or to be seen; 2. to give the impression of being; seem.",
+      "example": [
+        {
+          "eng": "The sun appeared from behind the clouds.",
+          "ch": "太陽從雲層後面露面了。"
+        },
+        {
+          "eng": "She appeared to be happy with the news.",
+          "ch": "她似乎對這個消息感到高興。"
+        }
+      ]
+    },
+    {
+      "eng": "apple",
+      "kk": "/ˈæpl/",
+      "tense": "n.",
+      "ch": [
+        [
+          "蘋果",
+          "蘋果樹"
+        ]
+      ],
+      "analysis": "此字源自古英語 æppel（意為水果、蘋果），屬於日耳曼語族的共同詞彙（與德語 Apfel 同源）。在中古英語及現代英語中專指蘋果這種常見的水果及其樹木。",
+      "definition": "1. a round fruit with red, green, or yellow skin and a crisp interior.",
+      "example": [
+        {
+          "eng": "An apple a day keeps the doctor away.",
+          "ch": "一日一蘋果，醫生遠離我。"
+        }
+      ]
+    },
+    {
+      "eng": "area",
+      "kk": "/ˈeriə/",
+      "tense": "n.",
+      "ch": [
+        [
+          "地區",
+          "區域"
+        ],
+        [
+          "面積"
+        ],
+        [
+          "範圍",
+          "領域"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 area（空曠的地塊、廣場、庭院）。在16世紀引入英語，最初用於數學與幾何學表示平面「面積」，後引申為地理上的「地區、區域」，以及抽象學術或興趣的「範圍、領域」。",
+      "definition": "1. a region or part of a town, a country, or the world; 2. the amount of space inside the boundary of a flat object; 3. a particular subject, range, or scope.",
+      "example": [
+        {
+          "eng": "This is a quiet residential area.",
+          "ch": "這是一個安靜的住宅區。"
+        },
+        {
+          "eng": "Calculate the area of the rectangle.",
+          "ch": "計算長方形的面積。"
+        },
+        {
+          "eng": "She works in the area of artificial intelligence.",
+          "ch": "她從事人工智慧領域的工作。"
+        }
+      ]
+    },
+    {
+      "eng": "arm",
+      "kk": "/ɑːrm/",
+      "tense": "n.",
+      "ch": [
+        [
+          "手臂",
+          "臂"
+        ],
+        [
+          "袖子"
+        ],
+        [
+          "（機構、椅子的）支架、分部"
+        ]
+      ],
+      "analysis": "此字源自古英語 earm（手臂），屬於日耳曼語族的共同詞彙（與德語 Arm 同源）。名詞本義為人體的「手臂」，後引申為衣服的「袖子」，或形似手臂的物體（如椅子的扶手、組織的分支機構）。",
+      "definition": "1. either of the two upper limbs of the human body; 2. the sleeve of a garment; 3. a branch or part of an organization or object resembling an arm.",
+      "example": [
+        {
+          "eng": "He carried the baby in his arms.",
+          "ch": "他把嬰兒抱在手臂裡。"
+        },
+        {
+          "eng": "Roll up your sleeves.",
+          "ch": "捲起你的袖子。"
+        },
+        {
+          "eng": "The research is an arm of the university.",
+          "ch": "這項研究是該大學的一個分支機構。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1141 @@
+{
+  "level": 4,
+  "chunkIndex": 15,
+  "inputs": [
+    "objection",
+    "objective",
+    "observation",
+    "obstacle",
+    "obtain",
+    "occasional",
+    "occupation",
+    "occupy",
+    "offend",
+    "offense",
+    "offensive",
+    "opera",
+    "oppose",
+    "option",
+    "orbit",
+    "orchestra",
+    "orientation",
+    "orphan",
+    "otherwise",
+    "outcome",
+    "outstanding",
+    "oval",
+    "overcoat",
+    "overcome",
+    "overlook",
+    "overnight",
+    "overthrow",
+    "oxygen",
+    "pace",
+    "panel",
+    "parachute",
+    "paragraph",
+    "partial",
+    "participation",
+    "partnership",
+    "passive",
+    "pasta",
+    "paw",
+    "peculiar",
+    "peep",
+    "peer",
+    "penalty",
+    "percent",
+    "percentage",
+    "perfection",
+    "perfume",
+    "permanent",
+    "persuasion",
+    "persuasive",
+    "pessimistic"
+  ],
+  "rows": [
+    {
+      "eng": "objection",
+      "kk": "əbˈdʒɛkʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "異議",
+          "反對"
+        ],
+        [
+          "反對理由"
+        ]
+      ],
+      "analysis": "此字為名詞表面詞形，對應動詞 lemma 為 object，加上名詞字尾 -ion。源自拉丁語 objectio（源自 ob-「向著、反對」+ iacere「投擲」），原意為「投擲在對面前面以阻擋之物」，經中世紀拉丁語及中古法語進入英語，演變出現代表示反對意見或異議的語義。",
+      "definition": "1. An expression or feeling of disapproval or opposition.; 2. A reason or argument presented in opposition.",
+      "example": [
+        {
+          "eng": "Several members raised strong objections to the new proposal.",
+          "ch": "幾位成員對這項新提案提出強烈異議。"
+        },
+        {
+          "eng": "The defense attorney made an objection to the judge's question.",
+          "ch": "辯護律師對法官的提問提出了反對理由。"
+        }
+      ]
+    },
+    {
+      "eng": "objective",
+      "kk": "əbˈdʒɛktɪv",
+      "tense": "n.",
+      "ch": [
+        [
+          "目標",
+          "目的"
+        ]
+      ],
+      "analysis": "此字為名詞表面詞形，亦可作形容詞（此處依名詞 row 處理）。源自中世紀拉丁語 obiectivus，由 object- 結合形容詞字尾 -ive。在哲學與軍事語境中逐漸名詞化，指「被投射、追求或作為目標的事物」，現代英語中常用作指稱明確的目標或目的。",
+      "definition": "1. A thing aimed at or sought; a goal or purpose.",
+      "example": [
+        {
+          "eng": "Our main objective this year is to increase sales by twenty percent.",
+          "ch": "我們今年的主要目標是將銷售額提高百分之二十。"
+        }
+      ]
+    },
+    {
+      "eng": "objective",
+      "kk": "əbˈdʒɛktɪv",
+      "tense": "adj.",
+      "ch": [
+        [
+          "客觀的"
+        ]
+      ],
+      "analysis": "此字為形容詞表面詞形。源自中世紀拉丁語 obiectivus，由 object- 結合形容詞字尾 -ive。最初在經院哲學中指「存在於心智之外的客體」，後演變出現代指不受個人情感、偏見或主觀意見影響的客觀性質。",
+      "definition": "1. Based on real facts and not influenced by personal beliefs or feelings.",
+      "example": [
+        {
+          "eng": "It is important for a judge to remain objective during a trial.",
+          "ch": "法官在審判期間保持客觀是非常重要的。"
+        }
+      ]
+    },
+    {
+      "eng": "observation",
+      "kk": "ˌɑbzərˈveɪʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "觀察",
+          "監視"
+        ],
+        [
+          "評論",
+          "言論"
+        ]
+      ],
+      "analysis": "此字為名詞表面詞形，對應動詞 lemma 為 observe，加上名詞字尾 -ion。源自拉丁語 observatio（源自 observare「注意、守望」），經中古法語進入英語。語義從最初的「遵循、看守」演變出「仔細察看、科學觀察」以及「由觀察所得出的評論或感想」。",
+      "definition": "1. The action or process of closely observing something or someone.; 2. A remark, statement, or comment based on something one has seen or noticed.",
+      "example": [
+        {
+          "eng": "The scientist spent years in the field under close observation of wildlife.",
+          "ch": "科學家在野外對野生動物進行了多年的密切觀察。"
+        },
+        {
+          "eng": "She made an insightful observation about human behavior.",
+          "ch": "她對人類行為發表了一番深刻的見解。"
+        }
+      ]
+    },
+    {
+      "eng": "obstacle",
+      "kk": "ˈɑbstəkəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "障礙",
+          "阻礙物"
+        ]
+      ],
+      "analysis": "此字為名詞表面詞形。源自拉丁語 obstaculum（源自 obstare「站立在前方、阻擋」），由 ob-「向著、反對」+ stare「站立」結合而成。經由中古法語進入英語，指任何阻擋前進或阻礙事情發展的事物。",
+      "definition": "1. A thing that blocks one's way or prevents or hinders progress.",
+      "example": [
+        {
+          "eng": "Lack of funding is the main obstacle to completing the project.",
+          "ch": "資金不足是完成該專案的主要障礙。"
+        }
+      ]
+    },
+    {
+      "eng": "obtain",
+      "kk": "əbˈteɪn",
+      "tense": "vt.",
+      "ch": [
+        [
+          "獲得",
+          "得到"
+        ]
+      ],
+      "analysis": "此字為及物動詞表面詞形。源自拉丁語 ottenere / obtinere（ob-「向前、加強」+ tenere「持有、握住」），經由古法語 obtenir 進入英語。核心義為「緊緊抓住並取得」，現代英語用以指透過努力、購買或請求而獲得某物。",
+      "definition": "1. To get or secure something through effort, purchase, or request.",
+      "example": [
+        {
+          "eng": "He managed to obtain a copy of the rare book.",
+          "ch": "他設法取得了一本那本罕見的書。"
+        }
+      ]
+    },
+    {
+      "eng": "occasional",
+      "kk": "əˈkeɪʒənəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "偶爾的",
+          "間歇的"
+        ]
+      ],
+      "analysis": "此字為形容詞表面詞形，由名詞 occasion 加上形容詞字尾 -al。源自拉丁語 occasio「機會、時機」，經由法語進入英語。字面意思是「視機會或情況而發生的」，現代英語引申為不經常、偶爾發生的。",
+      "definition": "1. Happening infrequently and irregularly; now and then.",
+      "example": [
+        {
+          "eng": "They enjoy taking occasional trips to the countryside.",
+          "ch": "他們喜歡偶爾去鄉下旅行。"
+        }
+      ]
+    },
+    {
+      "eng": "occupation",
+      "kk": "ˌɑkjəˈpeɪʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "職業",
+          "工作"
+        ],
+        [
+          "佔領",
+          "佔用"
+        ]
+      ],
+      "analysis": "此字為名詞表面詞形，對應動詞 lemma 為 occupy，加上名詞字尾 -ion。源自拉丁語 occupatio（源自 occupare「佔據、佔有」），經由中古法語進入英語。其雙重義項分別保留了「佔據某個空間或狀態（佔領）」以及「人所佔據的時間或心力的活動（職業）」。",
+      "definition": "1. A job or profession.; 2. The action, state, or period of occupying or being occupied by a military force or people.",
+      "example": [
+        {
+          "eng": "Please state your name, age, and occupation on the form.",
+          "ch": "請在表格上填寫您的姓名、年齡和職業。"
+        },
+        {
+          "eng": "The military occupation of the territory lasted for five years.",
+          "ch": "該領土的軍事佔領持續了五年。"
+        }
+      ]
+    },
+    {
+      "eng": "occupy",
+      "kk": "ˈɑkjəˌpaɪ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "佔據",
+          "佔用"
+        ],
+        [
+          "使忙碌",
+          "使從事"
+        ]
+      ],
+      "analysis": "此字為及物動詞表面詞形。源自拉丁語 occupare（ob-「加強」+ capere「拿取、抓取」），經由中古法語 occuper 進入英語。原意為「完全抓住並佔有」，現代英語引申為佔據空間、時間，或使某人忙於某項事務。",
+      "definition": "1. To fill, take up, or use a space, time, or position.; 2. To keep someone busy or engaged.",
+      "example": [
+        {
+          "eng": "Books and papers occupy most of the space on his desk.",
+          "ch": "書本和文件佔據了他桌子的大部分空間。"
+        },
+        {
+          "eng": "She tried to occupy the children with a puzzle while she cooked.",
+          "ch": "她試圖在她做飯時用拼圖讓孩子們忙起來。"
+        }
+      ]
+    },
+    {
+      "eng": "offend",
+      "kk": "əˈfɛnd",
+      "tense": "vt.",
+      "ch": [
+        [
+          "冒犯",
+          "觸怒"
+        ]
+      ],
+      "analysis": "此字為及物動詞表面詞形。源自拉丁語 offendere（ob-「對著、違反」+ fendere「擊打、碰撞」），字面意思是「撞擊到某人或某物」。經由古法語 offendre 進入英語，語義從物理上的碰撞演變為精神或情感上的冒犯、觸怒。",
+      "definition": "1. To cause to feel upset, annoyed, or resentful by a remark or action.",
+      "example": [
+        {
+          "eng": "I didn't mean to offend anyone with my joke.",
+          "ch": "我開玩笑並不是故意要冒犯任何人。"
+        }
+      ]
+    },
+    {
+      "eng": "offense",
+      "kk": "əˈfɛns",
+      "tense": "n.",
+      "ch": [
+        [
+          "犯罪",
+          "違法行為"
+        ],
+        [
+          "冒犯",
+          "得罪"
+        ],
+        [
+          "進攻",
+          "攻擊"
+        ]
+      ],
+      "analysis": "此字為名詞表面詞形，對應動詞 offend。源自拉丁語 offensa（offendere 的分詞詞幹），經由古法語 offense 進入英語。其語義分化為法律上的「違法行為」、心理上的「被冒犯感」，以及在體育中相對於防守（defense）的「進攻方或進攻戰術」。",
+      "definition": "1. A breach of a law or rule; an illegal act.; 2. Annoyance or resentment brought about by a perceived insult.; 3. The team or players taking the offensive in a game or sport.",
+      "example": [
+        {
+          "eng": "Shoplifting is a serious criminal offense.",
+          "ch": "店鋪盜竊是一項嚴重的刑事犯罪。"
+        },
+        {
+          "eng": "No offense was intended by my remarks.",
+          "ch": "我的話並無惡意，請勿見怪。"
+        },
+        {
+          "eng": "Their team has a powerful offense this season.",
+          "ch": "他們球隊本賽季擁有強大的進攻火力。"
+        }
+      ]
+    },
+    {
+      "eng": "offensive",
+      "kk": "əˈfɛnsɪv",
+      "tense": "adj.",
+      "ch": [
+        [
+          "冒犯的",
+          "令人不快的"
+        ],
+        [
+          "進攻性的",
+          "攻擊性的"
+        ]
+      ],
+      "analysis": "此字為形容詞表面詞形，由 offense 結合形容詞字尾 -ive。經由法語進入英語，保留了源自動詞 offend 的「令人不快的、冒犯的」以及對應 defense 的「進攻的、攻擊性的」兩大語義群組。",
+      "definition": "1. Causing someone to feel resentful, annoyed, or upset; unpleasant or insulting.; 2. Active, aggressive, or used for attacking.",
+      "example": [
+        {
+          "eng": "He made several offensive remarks during the meeting.",
+          "ch": "他在會議期間發表了幾句令人反感的言論。"
+        },
+        {
+          "eng": "The military launched an offensive operation at dawn.",
+          "ch": "軍隊在拂曉發動了一場進攻行動。"
+        }
+      ]
+    },
+    {
+      "eng": "opera",
+      "kk": "ˈɑpərə",
+      "tense": "n.",
+      "ch": [
+        [
+          "歌劇"
+        ]
+      ],
+      "analysis": "此字為名詞表面詞形。源自義大利語 opera（意為「作品、勞動」），源自拉丁語 opera（opus 的複數形式，後轉為陰性單數）。17世紀引入英語，專指將音樂、歌唱與戲劇表演結合的藝術形式或演出。",
+      "definition": "1. A dramatic work in one or more acts, set to music for singers and instrumentalists.",
+      "example": [
+        {
+          "eng": "She dreams of performing on stage at the Vienna State Opera.",
+          "ch": "她夢想能在維也納國家歌劇院的舞台上表演。"
+        }
+      ]
+    },
+    {
+      "eng": "oppose",
+      "kk": "əˈpoʊz",
+      "tense": "vt.",
+      "ch": [
+        [
+          "反對",
+          "抵制"
+        ]
+      ],
+      "analysis": "此字為及物動詞表面詞形。由拉丁語 ob-「對著」結合拉丁語 ponere「放置」的變體混合演變，經由古法語 opposer 進入英語。字面意思是「將某物放置在對立面」，現代英語指在意見、行動或政策上進行反對或抵抗。",
+      "definition": "1. To disagree with and attempt to prevent, or to fight against.",
+      "example": [
+        {
+          "eng": "Local residents strongly oppose the construction of the new factory.",
+          "ch": "當地居民強烈反對興建新工廠。"
+        }
+      ]
+    },
+    {
+      "eng": "option",
+      "kk": "ˈɑpʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "選擇",
+          "選項"
+        ]
+      ],
+      "analysis": "此字為名詞表面詞形，對應動詞 lemma 為 opt，加上名詞字尾 -ion。源自拉丁語 optio「選擇、自由選擇權」（源自 optare「選擇、希望」），經由法語進入英語，指可供選擇的事物或選擇的權利。",
+      "definition": "1. A thing that is or may be chosen; a choice.",
+      "example": [
+        {
+          "eng": "We have several options available for solving this problem.",
+          "ch": "我們有幾個可用於解決這個問題的選項。"
+        }
+      ]
+    },
+    {
+      "eng": "orbit",
+      "kk": "ˈɔrbɪt",
+      "tense": "n.",
+      "ch": [
+        [
+          "軌道"
+        ]
+      ],
+      "analysis": "此字為名詞表面詞形（亦可作動詞）。源自拉丁語 orbita「輪轍、軌跡」（源自 orbis「圓圈、輪子」），經由16世紀拉丁語及法語進入英語，最初用於天文學，指天體在宇宙中運行的環形軌跡。",
+      "definition": "1. The curved path through which a celestial object or spacecraft revolves around another body.",
+      "example": [
+        {
+          "eng": "The satellite was successfully placed into orbit around the Earth.",
+          "ch": "該衛星被成功送入繞地球運行的軌道。"
+        }
+      ]
+    },
+    {
+      "eng": "orchestra",
+      "kk": "ˈɔrkɪstrə",
+      "tense": "n.",
+      "ch": [
+        [
+          "管弦樂團"
+        ]
+      ],
+      "analysis": "此字為名詞表面詞形。源自古希臘語 orkhēstra，原指古希臘劇場中歌舞隊表演的圓形場地，源自 orkheisthai「跳舞」。經拉丁語進入現代英語，演變為指演奏交響樂等大型音樂作品的管弦樂團。",
+      "definition": "1. A large group of musicians who play various musical instruments together, led by a conductor.",
+      "example": [
+        {
+          "eng": "He plays the violin in the city's symphony orchestra.",
+          "ch": "他在城市交響樂團裡拉小提琴。"
+        }
+      ]
+    },
+    {
+      "eng": "orientation",
+      "kk": "ˌɔriɛnˈteɪʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "方向",
+          "定位"
+        ],
+        [
+          "迎新會",
+          "職前培訓"
+        ]
+      ],
+      "analysis": "此字為名詞表面詞形，對應動詞 orient，加上名詞字尾 -ion。源自法語 orientation（源自 orient「東方」，因早期教堂面向東方而引申出「確定方位」）。現代英語引申出「對新環境的適應說明、職前培訓或迎新活動」的常用義。",
+      "definition": "1. The determination of the relative position of something or someone.; 2. A training session or meeting designed to introduce new employees or students to a place or organization.",
+      "example": [
+        {
+          "eng": "The map helps hikers keep the correct orientation in the mountains.",
+          "ch": "這張地圖幫助登山者在山中保持正確的方向。"
+        },
+        {
+          "eng": "All new students must attend the campus orientation on Monday.",
+          "ch": "所有新生都必須參加週一的校園迎新會。"
+        }
+      ]
+    },
+    {
+      "eng": "orphan",
+      "kk": "ˈɔrfən",
+      "tense": "n.",
+      "ch": [
+        [
+          "孤兒"
+        ]
+      ],
+      "analysis": "此字為名詞表面詞形。源自古希臘語 orphanos「孤兒、無依無靠的」，經由拉丁語 orphanus 及古法語進入英語，指父母雙亡或遭遺棄的兒童。",
+      "definition": "1. A child whose parents are dead.",
+      "example": [
+        {
+          "eng": "The charity organization provides support and shelter for local orphans.",
+          "ch": "該慈善機構為當地孤兒提供支援和庇護所。"
+        }
+      ]
+    },
+    {
+      "eng": "otherwise",
+      "kk": "ˈʌðərˌwaɪz",
+      "tense": "adv.",
+      "ch": [
+        [
+          "否則",
+          "不然"
+        ],
+        [
+          "在其他方面",
+          "其他情況下"
+        ]
+      ],
+      "analysis": "此字為副詞表面詞形。由古英語 other「其他」+ wise「方式、樣態」複合而成。字面意思是「以其他方式」，在語義演變中發展出表示條件轉折的「否則」以及描述其他面向的「在其他方面」。",
+      "definition": "1. If not; under other circumstances.; 2. In other respects or ways.",
+      "example": [
+        {
+          "eng": "You need to finish your homework now, otherwise you can't watch TV.",
+          "ch": "你現在得寫完作業，否則不能看電視。"
+        },
+        {
+          "eng": "The weather was cold, but otherwise the trip was wonderful.",
+          "ch": "天氣很冷，但在其他方面這趟旅行非常棒。"
+        }
+      ]
+    },
+    {
+      "eng": "outcome",
+      "kk": "ˈaʊtˌkʌm",
+      "tense": "n.",
+      "ch": [
+        [
+          "結果",
+          "成果"
+        ]
+      ],
+      "analysis": "此字為名詞表面詞形。由副詞性成分 out「向外」+ 動詞 come「來」組合而成的複合詞，約於15世紀出現，字面意思是「從過程中走出來的事物」，即事件發展的最終結果。",
+      "definition": "1. The way a thing turns out; a consequence or result.",
+      "example": [
+        {
+          "eng": "We are still waiting for the final outcome of the election.",
+          "ch": "我們仍在等待選舉的最終結果。"
+        }
+      ]
+    },
+    {
+      "eng": "outstanding",
+      "kk": "aʊtˈstændɪŋ",
+      "tense": "adj.",
+      "ch": [
+        [
+          "傑出的",
+          "優秀的"
+        ]
+      ],
+      "analysis": "此字為形容詞表面詞形，由動詞 stand out 的分詞形式化身而來（out-「突出」+ stand「站立」）。字面意思是「站在群體之外、極為突出的」，現代英語用以形容表現極佳、傑出或未解決的事物。",
+      "definition": "1. Extremely good; excellent; superior to others.",
+      "example": [
+        {
+          "eng": "She received an award for her outstanding contribution to science.",
+          "ch": "她因對科學的傑出貢獻而獲得獎項。"
+        }
+      ]
+    },
+    {
+      "eng": "oval",
+      "kk": "ˈoʊvəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "橢圓形的"
+        ]
+      ],
+      "analysis": "此字為形容詞表面詞形。源自中世紀拉丁語 ovalis（源自 ovum「蛋」），經由法語進入英語。字面意思是「像蛋一樣的」，用以形容形狀呈兩頭圓、中間微曲的橢圓形。",
+      "definition": "1. Having a rounded and slightly elongated shape like an egg.",
+      "example": [
+        {
+          "eng": "The courtyard in front of the building is oval in shape.",
+          "ch": "建築物前面的庭院呈橢圓形。"
+        }
+      ]
+    },
+    {
+      "eng": "overcoat",
+      "kk": "ˈoʊvərˌkoʊt",
+      "tense": "n.",
+      "ch": [
+        [
+          "大衣",
+          "外套"
+        ]
+      ],
+      "analysis": "此字為名詞表面詞形。由介系詞／字首 over「在……上面」+ 名詞 coat「外套、上衣」複合而成，指穿在其他衣物外面的防寒長大衣。",
+      "definition": "1. A long, warm coat worn over other clothing in cold weather.",
+      "example": [
+        {
+          "eng": "He buttoned up his heavy overcoat against the winter wind.",
+          "ch": "他扣緊厚重的大衣以抵禦冬天的寒風。"
+        }
+      ]
+    },
+    {
+      "eng": "overcome",
+      "kk": "ˌoʊvərˈkʌm",
+      "tense": "vt.",
+      "ch": [
+        [
+          "克服",
+          "戰勝"
+        ]
+      ],
+      "analysis": "此字為及物動詞表面詞形。由古英語 ofercuman（ofer「跨越、在上方」+ cuman「來」）演變而來。字面意思是「在上方壓倒或勝過」，現代英語用以指克服困難、戰勝障礙或情緒。",
+      "definition": "1. To succeed in dealing with or controlling a problem, difficulty, or feeling.",
+      "example": [
+        {
+          "eng": "With hard work, she managed to overcome her fear of public speaking.",
+          "ch": "憑藉著努力，她設法克服了當眾演說的恐懼。"
+        }
+      ]
+    },
+    {
+      "eng": "overlook",
+      "kk": "ˌoʊvərˈlʊk",
+      "tense": "vt.",
+      "ch": [
+        [
+          "忽略",
+          "沒注意到"
+        ],
+        [
+          "俯瞰",
+          "眺望"
+        ]
+      ],
+      "analysis": "此字為及物動詞表面詞形。由 over「在上方」+ look「看」複合而成。字面意思是「從高處往下看」或「從上方看過去而漏掉」，因而發展出「俯瞰風景」與「忽略、未察覺缺點」的雙重語義。",
+      "definition": "1. To fail to notice or consider something.; 2. To have a view of something from above.",
+      "example": [
+        {
+          "eng": "It is easy to overlook minor details when you are in a rush.",
+          "ch": "匆忙時很容易忽略一些小細節。"
+        },
+        {
+          "eng": "Our hotel room has a balcony that overlooks the blue ocean.",
+          "ch": "我們的飯店房間有一個能俯瞰藍色海洋的陽台。"
+        }
+      ]
+    },
+    {
+      "eng": "overnight",
+      "kk": "ˌoʊvərˈnaɪt",
+      "tense": "adv.",
+      "ch": [
+        [
+          "在一夜之間",
+          "突然"
+        ],
+        [
+          "過夜地",
+          "停留一夜"
+        ]
+      ],
+      "analysis": "此字為副詞表面詞形（亦可作形容詞）。由 over「跨過」+ night「夜晚」複合而成，原意為「過了一整夜」，現代引申為「突然之間、短時間內發生的變化」或「在夜間停留」。",
+      "definition": "1. Happening quickly or overnight; suddenly.; 2. For or during the night.",
+      "example": [
+        {
+          "eng": "The small band became famous overnight after their video went viral.",
+          "ch": "這支小樂團的影片爆紅後，一夜之間成名了。"
+        },
+        {
+          "eng": "She decided to stay overnight in the city instead of driving back late.",
+          "ch": "她決定在城裡過夜，而不深夜開車回去。"
+        }
+      ]
+    },
+    {
+      "eng": "overthrow",
+      "kk": "ˈoʊvərˌθroʊ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "推翻",
+          "打倒"
+        ]
+      ],
+      "analysis": "此字為及物動詞表面詞形。由 over「跨越、翻轉」+ throw「投擲」複合而成。字面意思是「將某物用力拋翻過去」，現代英語常用於政治或體制語境，指推翻政府或統治權力。",
+      "definition": "1. To remove a leader or government from power by force.",
+      "example": [
+        {
+          "eng": "The citizens rose up in revolt to overthrow the corrupt regime.",
+          "ch": "公民起義推翻了腐敗的政權。"
+        }
+      ]
+    },
+    {
+      "eng": "oxygen",
+      "kk": "ˈɑksɪdʒən",
+      "tense": "n.",
+      "ch": [
+        [
+          "氧",
+          "氧氣"
+        ]
+      ],
+      "analysis": "此字為名詞表面詞形。由法國化學家拉瓦錫創造，結合希臘語 oxus「酸」+ -gen「產生者」（因當時誤以為所有酸都含有氧），18世紀末引入英語，指地球大氣中維持生物呼吸的重要氣體。",
+      "definition": "1. A colorless, odorless reactive gas that is essential for life in most living organisms.",
+      "example": [
+        {
+          "eng": "All human beings need a continuous supply of oxygen to survive.",
+          "ch": "所有人類都需要持續供應氧氣才能生存。"
+        }
+      ]
+    },
+    {
+      "eng": "pace",
+      "kk": "peɪs",
+      "tense": "n.",
+      "ch": [
+        [
+          "步伐",
+          "速度"
+        ]
+      ],
+      "analysis": "此字為名詞表面詞形（亦可作動詞）。源自拉丁語 passus「一步」（源自 pandere「伸展、跨步」），經由古法語 pas 進入英語，指走路的步幅，引申為事情進行的速度或節奏。",
+      "definition": "1. A single step taken in walking; the speed at which something happens or is done.",
+      "example": [
+        {
+          "eng": "He walked at a slow pace down the quiet street.",
+          "ch": "他以緩慢的步伐走在安靜的街道上。"
+        }
+      ]
+    },
+    {
+      "eng": "panel",
+      "kk": "ˈpænəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "面板",
+          "控制板"
+        ],
+        [
+          "專家小組",
+          "討論小組"
+        ]
+      ],
+      "analysis": "此字為名詞表面詞形。源自拉丁語 pannellus「一小塊布料或板子」（pannus「布片」的指小詞），經由中古法語進入英語。原指建築或裝飾用的小方塊板，後演變出儀表板（控制板）以及由數人組成的專家或討論小組之義。",
+      "definition": "1. A flat, distinct piece of wood, metal, or glass, often containing controls.; 2. A small group of people brought together to discuss, investigate, or judge something.",
+      "example": [
+        {
+          "eng": "The pilot checked the switches on the control panel before takeoff.",
+          "ch": "飛行員在起飛前檢查了控制面板上的開關。"
+        },
+        {
+          "eng": "A panel of experts was invited to discuss the future of renewable energy.",
+          "ch": "邀請了一組專家小組來討論再生能源的未來。"
+        }
+      ]
+    },
+    {
+      "eng": "parachute",
+      "kk": "ˈpɛrəˌʃut",
+      "tense": "n.",
+      "ch": [
+        [
+          "降落傘"
+        ]
+      ],
+      "analysis": "此字為名詞表面詞形。由法語詞根 para-「防護、抵抗」（源自義大利語 parare）結合法語 chute「落下」（源自拉丁語 cadere）複合而成，字面意思是「防止墜落的裝置」，18世紀末出現於英語。",
+      "definition": "1. A large cloth device attached to people or objects to slow down their fall when dropped from an aircraft.",
+      "example": [
+        {
+          "eng": "The pilot successfully deployed his parachute after ejecting from the fighter jet.",
+          "ch": "飛行員從戰鬥機彈射後，成功打開了降落傘。"
+        }
+      ]
+    },
+    {
+      "eng": "paragraph",
+      "kk": "ˈpɛrəˌɡræf",
+      "tense": "n.",
+      "ch": [
+        [
+          "段落"
+        ]
+      ],
+      "analysis": "此字為名詞表面詞形。源自古希臘語 paragraphos（para-「在旁邊」+ graphein「寫」），原指古希臘手稿中標示行文轉折的邊記符號，後演變為指文章中由數句組成的獨立段落。",
+      "definition": "1. A distinct section of a piece of writing, usually dealing with a single theme and indicated by a new line.",
+      "example": [
+        {
+          "eng": "Please write a short paragraph summarizing your thoughts on the book.",
+          "ch": "請寫一小段總結你對這本書看法的短文。"
+        }
+      ]
+    },
+    {
+      "eng": "partial",
+      "kk": "ˈpɑrʃəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "部分的",
+          "局部的"
+        ],
+        [
+          "偏心的",
+          "偏袒的"
+        ]
+      ],
+      "analysis": "此字為形容詞表面詞形。源自拉丁語 partialis（源自 pars「部分」），經由中古法語進入英語。語義分化為指「只佔一部分的」以及引申自「傾向某一部分（人）」的「偏心的、偏袒的」。",
+      "definition": "1. Existing only in part; incomplete.; 2. Having a liking for or biased toward someone or something.",
+      "example": [
+        {
+          "eng": "We only have partial information about what happened last night.",
+          "ch": "我們對於昨晚發生的事情只有部分資訊。"
+        },
+        {
+          "eng": "A teacher should never be partial to any particular student.",
+          "ch": "老師絕不應該偏袒任何特定的學生。"
+        }
+      ]
+    },
+    {
+      "eng": "participation",
+      "kk": "pɑrˌtɪsəˈpeɪʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "參與",
+          "參加"
+        ]
+      ],
+      "analysis": "此字為名詞表面詞形，對應動詞 participate，加上名詞字尾 -ion。源自拉丁語 participatio（pars「部分」+ capere「拿取」），字面意思是「成為一部分」，經由法語進入英語。",
+      "definition": "1. The action of taking part in something.",
+      "example": [
+        {
+          "eng": "Active participation in class discussions is encouraged.",
+          "ch": "鼓勵積極參與課堂討論。"
+        }
+      ]
+    },
+    {
+      "eng": "partnership",
+      "kk": "ˈpɑrtnərˌʃɪp",
+      "tense": "n.",
+      "ch": [
+        [
+          "夥伴關係",
+          "合夥關係"
+        ]
+      ],
+      "analysis": "此字為名詞表面詞形。由名詞 partner「夥伴」結合名詞字尾 -ship（表示狀態、關係）複合而成，指個人、企業或國家之間建立的合作夥伴關係。",
+      "definition": "1. The state of being a partner or partners; a cooperative relationship between people or groups.",
+      "example": [
+        {
+          "eng": "The two companies formed a strategic partnership to expand their market share.",
+          "ch": "兩家公司建立戰略夥伴關係以擴大市場份額。"
+        }
+      ]
+    },
+    {
+      "eng": "passive",
+      "kk": "ˈpæsɪv",
+      "tense": "adj.",
+      "ch": [
+        [
+          "被動的",
+          "消極的"
+        ]
+      ],
+      "analysis": "此字為形容詞表面詞形。源自拉丁語 passivus（源自 pati「遭受、忍受」），經由中古法語進入英語。原意為「承受外界作用而無主動抵抗的」，在語法中指被動語態，日常則指行事消極、不主動。",
+      "definition": "1. Accepting or allowing what happens or what others do, without active response or resistance.",
+      "example": [
+        {
+          "eng": "He tends to be passive and rarely expresses his own opinions in meetings.",
+          "ch": "他傾向於被動，在會議中很少表達自己的意見。"
+        }
+      ]
+    },
+    {
+      "eng": "pasta",
+      "kk": "ˈpɑstə",
+      "tense": "n.",
+      "ch": [
+        [
+          "義大利麵",
+          "麵食"
+        ]
+      ],
+      "analysis": "此字為名詞表面詞形。源自義大利語 pasta（源自希臘語 pasta「大麥粥」），19世紀末借入英語，專指以麵粉和水（或雞蛋）製成的各類義大利麵製品。",
+      "definition": "1. A dish originating in Italy made from an unleavened dough of wheat flour mixed with water or eggs, shaped into various forms.",
+      "example": [
+        {
+          "eng": "We ordered a large plate of creamy pasta for dinner.",
+          "ch": "我們晚餐點了一大盤濃郁奶油義大利麵。"
+        }
+      ]
+    },
+    {
+      "eng": "paw",
+      "kk": "pɔ",
+      "tense": "n.",
+      "ch": [
+        [
+          "爪子"
+        ]
+      ],
+      "analysis": "此字為名詞表面詞形（亦可作動詞）。源自古法語 poe 或 pode，最終源自日耳曼語族源，指貓、狗、熊等具備爪墊的動物足部。",
+      "definition": "1. An animal's foot having claws or nails, such as that of a cat, dog, or bear.",
+      "example": [
+        {
+          "eng": "The puppy rested its paw gently on my knee.",
+          "ch": "小狗把爪子輕輕放在我的膝蓋上。"
+        }
+      ]
+    },
+    {
+      "eng": "peculiar",
+      "kk": "pɪˈkjuljər",
+      "tense": "adj.",
+      "ch": [
+        [
+          "奇怪的",
+          "古怪的"
+        ],
+        [
+          "特有的",
+          "規屬的"
+        ]
+      ],
+      "analysis": "此字為形容詞表面詞形。源自拉丁語 peculiaris「個人的、私有的」（源自 pecus「牲畜、財產」），經由中古法語進入英語。語義從最初的「某人或某物獨有的、特有的」演變出「與眾不同、奇怪古怪的」之義。",
+      "definition": "1. Strange or odd; unusual.; 2. Belonging exclusively to a particular person, place, or thing.",
+      "example": [
+        {
+          "eng": "I noticed a peculiar smell coming from the basement.",
+          "ch": "我注意到地下室傳來一股奇怪的味道。"
+        },
+        {
+          "eng": "This type of plant is peculiar to the mountainous regions of Australia.",
+          "ch": "這種植物是澳洲山區所特有的。"
+        }
+      ]
+    },
+    {
+      "eng": "peep",
+      "kk": "pip",
+      "tense": "vi.",
+      "ch": [
+        [
+          "偷看",
+          "窺視"
+        ]
+      ],
+      "analysis": "此字為不及物動詞表面詞形（亦可作名詞）。源自擬聲詞或中英語 ōpen-like 演變的短促聲音與動作，指透過狹窄的縫隙偷偷看。",
+      "definition": "1. To look secretly through a small opening or from a hidden place.",
+      "example": [
+        {
+          "eng": "The curious child peeped through the keyhole to see the surprise.",
+          "ch": "好奇的小孩透過鑰匙孔偷看驚喜。"
+        }
+      ]
+    },
+    {
+      "eng": "peer",
+      "kk": "pɪr",
+      "tense": "n.",
+      "ch": [
+        [
+          "同儕",
+          "同輩"
+        ],
+        [
+          "貴族"
+        ]
+      ],
+      "analysis": "此字為名詞表面詞形（亦可作動詞）。源自拉丁語 par「平等的人」，經由古法語 peer 進入英語。原指社會地位或年齡平等的人（同儕），在英國傳統中亦指享有特殊貴族頭銜的貴族階級。",
+      "definition": "1. A person of the same age, status, or ability as another specified person.; 2. A member of the nobility in Britain, such as a duke or lord.",
+      "example": [
+        {
+          "eng": "Teenagers are often heavily influenced by their peers.",
+          "ch": "青少年經常深受同儕的影響。"
+        },
+        {
+          "eng": "He was made a peer of the realm for his political services.",
+          "ch": "他因政治貢獻而被封為王國貴族。"
+        }
+      ]
+    },
+    {
+      "eng": "penalty",
+      "kk": "ˈpɛnlti",
+      "tense": "n.",
+      "ch": [
+        [
+          "懲罰",
+          "處罰"
+        ],
+        [
+          "罰球",
+          "罰分"
+        ]
+      ],
+      "analysis": "此字為名詞表面詞形。源自拉丁語 poena「懲罰、痛苦」（源自希臘語 poinē），經由中古法語進入英語。語義涵蓋法律與規則違反後的「懲罰或罰款」，以及體育競賽中的「罰球或犯規罰分」。",
+      "definition": "1. A punishment imposed for breaking a law, rule, or contract.; 2. A disadvantage or handicap imposed on a team or player for a rule violation in a game.",
+      "example": [
+        {
+          "eng": "The criminal faced a heavy financial penalty for tax evasion.",
+          "ch": "該罪犯因逃漏稅面臨沉重的財務罰款。"
+        },
+        {
+          "eng": "The striker scored the winning goal from a penalty in the final minute.",
+          "ch": "前鋒在最後一分鐘透過罰球踢進了致勝球。"
+        }
+      ]
+    },
+    {
+      "eng": "percent",
+      "kk": "pərˈsɛnt",
+      "tense": "n.",
+      "ch": [
+        [
+          "百分之……"
+        ]
+      ],
+      "analysis": "此字為名詞表面詞形（亦可作副詞或形容詞）。源自義大利語 per cento「每一百個當中」，由拉丁語 per「透過、每一」+ centum「一百」組成，16世紀經由商業文書進入英語。",
+      "definition": "1. One part in every hundred; a specified amount in or for every hundred.",
+      "example": [
+        {
+          "eng": "Over eighty percent of the students passed the difficult exam.",
+          "ch": "超過百分之八十的學生通過了這項困難的考試。"
+        }
+      ]
+    },
+    {
+      "eng": "percentage",
+      "kk": "pərˈsɛntɪdʒ",
+      "tense": "n.",
+      "ch": [
+        [
+          "百分比",
+          "百分率"
+        ]
+      ],
+      "analysis": "此字為名詞表面詞形，由 percent 加上名詞字尾 -age（表示總體或集合）複合而成，指以百分數表示的比例或數量。",
+      "definition": "1. A rate, number, or amount in each hundred, or a general proportion.",
+      "example": [
+        {
+          "eng": "A large percentage of the population relies on public transportation.",
+          "ch": "很大一部分人口依賴公共交通。"
+        }
+      ]
+    },
+    {
+      "eng": "perfection",
+      "kk": "pərˈfɛkʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "完美",
+          "完善"
+        ]
+      ],
+      "analysis": "此字為名詞表面詞形，對應動詞 perfect，加上名詞字尾 -ion。源自拉丁語 perfectio（per-「完全」+ facere「做」），字面意思是「完全做完、達到極致」，經由法語進入英語。",
+      "definition": "1. The state or quality of being complete and flawless.",
+      "example": [
+        {
+          "eng": "She practiced the piano piece for hours to achieve perfection.",
+          "ch": "她練習這首鋼琴曲數小時以達到完美的境界。"
+        }
+      ]
+    },
+    {
+      "eng": "perfume",
+      "kk": "pərˈfjum",
+      "tense": "n.",
+      "ch": [
+        [
+          "香水",
+          "香味"
+        ]
+      ],
+      "analysis": "此字為名詞表面詞形（亦可作動詞）。源自義大利語 perfumo（per-「透過」+ fumare「冒煙、散發氣味」），原意是「透過燃燒香料散發的煙霧」，經法語進入英語，演變為指液體香水及其散發的芬芳氣味。",
+      "definition": "1. A fragrant liquid typically made from essential oils extracted from flowers and spices, used to give a pleasant smell.",
+      "example": [
+        {
+          "eng": "She wore a subtle and elegant perfume to the dinner party.",
+          "ch": "她噴了淡雅高貴的香水去參加晚宴。"
+        }
+      ]
+    },
+    {
+      "eng": "permanent",
+      "kk": "ˈpɜrmənənt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "永久的",
+          "長久的"
+        ]
+      ],
+      "analysis": "此字為形容詞表面詞形。源自拉丁語 permanens（per-「自始至終」+ manere「停留、保持」），字面意思是「一直留存的」，經由中古法語進入英語，指長久持續、不常改變的事物。",
+      "definition": "1. Lasting or intended to last or remain unchanged indefinitely.",
+      "example": [
+        {
+          "eng": "He finally secured a permanent job at the research institute.",
+          "ch": "他終於在研究所獲得了一份長期穩定的工作。"
+        }
+      ]
+    },
+    {
+      "eng": "persuasion",
+      "kk": "pərˈsweɪʒən",
+      "tense": "n.",
+      "ch": [
+        [
+          "說服",
+          "勸說"
+        ]
+      ],
+      "analysis": "此字為名詞表面詞形，對應動詞 persuade，加上名詞字尾 -ion。源自拉丁語 persuasio（per-「加強」+ suadere「勸導、建議」），經由中古法語進入英語，指成功說服他人改變觀點或行動的過程。",
+      "definition": "1. The action or process of persuading someone or of being persuaded to do or believe something.",
+      "example": [
+        {
+          "eng": "Through gentle persuasion, she convinced him to join the volunteer group.",
+          "ch": "透過溫和的勸說，她說服他加入志願者團體。"
+        }
+      ]
+    },
+    {
+      "eng": "persuasive",
+      "kk": "pərˈsweɪsɪv",
+      "tense": "adj.",
+      "ch": [
+        [
+          "有說服力的"
+        ]
+      ],
+      "analysis": "此字為形容詞表面詞形，由動詞 persuade 的過去分詞詞幹結合形容詞字尾 -ive 構成。經由法語進入英語，指能夠有效說服他人相信某事或採取行動的特質。",
+      "definition": "1. Good at persuading someone to do or believe something through reasoning or argument.",
+      "example": [
+        {
+          "eng": "The lawyer gave a very persuasive speech in front of the jury.",
+          "ch": "律師在陪審團面前發表了非常有說服力的演說。"
+        }
+      ]
+    },
+    {
+      "eng": "pessimistic",
+      "kk": "ˌpɛsəˈmɪstɪk",
+      "tense": "adj.",
+      "ch": [
+        [
+          "悲觀的"
+        ]
+      ],
+      "analysis": "此字為形容詞表面詞形。源自拉丁語 pessimus「最壞的」（bad 的最高級），加上名詞字尾 -ist 與形容詞字尾 -ic 複合而成。18世紀末在哲學語境中出現，指傾向於看壞事情發展、抱持負面看法的態度。",
+      "definition": "1. Tending to see the worst aspect of things or believe that the worst will happen.",
+      "example": [
+        {
+          "eng": "He has a pessimistic view about the future of the local economy.",
+          "ch": "他對當地經濟的未來抱持悲觀的看法。"
+        }
+      ]
+    }
+  ]
+}

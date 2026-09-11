@@ -1,0 +1,1113 @@
+{
+  "level": 3,
+  "chunkIndex": 17,
+  "inputs": [
+    "shallow",
+    "shampoo",
+    "shepherd",
+    "shiny",
+    "shorten",
+    "shortly",
+    "shovel",
+    "shrimp",
+    "shrink",
+    "sigh",
+    "signal",
+    "significant",
+    "silk",
+    "similarity",
+    "sin",
+    "sincere",
+    "sink",
+    "sip",
+    "situation",
+    "skate",
+    "ski",
+    "skillful",
+    "skinny",
+    "skip",
+    "slave",
+    "sleeve",
+    "slender",
+    "slice",
+    "slippery",
+    "slope",
+    "snap",
+    "solid",
+    "someday",
+    "somehow",
+    "sometime",
+    "sorrow",
+    "spaghetti",
+    "specific",
+    "spice",
+    "spill",
+    "spin",
+    "spinach",
+    "spit",
+    "spite",
+    "splash",
+    "spoil",
+    "spray",
+    "spy",
+    "squeeze",
+    "squirrel"
+  ],
+  "rows": [
+    {
+      "eng": "shallow",
+      "kk": "ˈʃæloʊ",
+      "tense": "adj.",
+      "ch": [
+        [
+          "淺的",
+          "不深的"
+        ],
+        [
+          "膚淺的",
+          "淺薄的"
+        ]
+      ],
+      "analysis": "此字為繼承自日耳曼語族的形容詞，歷史上與 shoal（淺灘）同源，無複雜複合前綴。語意從物理空間上的「水或容器不深」引申出抽象義，指人的思想、言論或情感「缺乏深度、膚淺」。",
+      "definition": "1. measuring little from the surface to the bottom; not deep.; 2. lacking depth of intellect, meaning, or feeling; superficial.",
+      "example": [
+        {
+          "eng": "The water in this part of the pool is quite shallow.",
+          "ch": "泳池這部分的深淺度相當淺。"
+        },
+        {
+          "eng": "I found his remarks rather shallow and uninformative.",
+          "ch": "我發現他的言論相當膚淺且缺乏資訊。"
+        }
+      ]
+    },
+    {
+      "eng": "shampoo",
+      "kk": "ʃæmˈpuː",
+      "tense": "n.",
+      "ch": [
+        [
+          "洗髮精",
+          "洗髮劑"
+        ]
+      ],
+      "analysis": "源自印地語 'chāmpō'（按壓、按摩），其印地語動詞源自梵語 'caṭayati'（壓、揉）。該詞經由英屬印度時期進入英語，原意為頭部按摩，後於 19 世紀轉化為清洗頭髮的洗劑名稱。",
+      "definition": "1. a liquid or gel used for washing hair.",
+      "example": [
+        {
+          "eng": "She bought a bottle of herbal shampoo for dry hair.",
+          "ch": "她買了一瓶專為乾性髮質設計的草本洗髮精。"
+        }
+      ]
+    },
+    {
+      "eng": "shampoo",
+      "kk": "ʃæmˈpuː",
+      "tense": "vt.",
+      "ch": [
+        [
+          "洗髮",
+          "用洗髮精洗"
+        ]
+      ],
+      "analysis": "由名詞 shampoo 轉品而來的及物動詞，指使用洗髮精清洗頭髮或地毯等織物。",
+      "definition": "1. to wash hair or a carpet with shampoo.",
+      "example": [
+        {
+          "eng": "He shampooed his hair before going to the party.",
+          "ch": "他去參加派對前先洗了頭髮。"
+        }
+      ]
+    },
+    {
+      "eng": "shepherd",
+      "kk": "ˈʃɛpərd",
+      "tense": "n.",
+      "ch": [
+        [
+          "牧羊人",
+          "羊倌"
+        ]
+      ],
+      "analysis": "源自古英語 'scēaphierde'，由 'scēap'（羊，sheep）與 'hierde'（看守人、牧者，herd）複合而成，字面義即「看守羊群的人」。",
+      "definition": "1. a person who tends and guards sheep.",
+      "example": [
+        {
+          "eng": "The shepherd guided his flock across the green meadow.",
+          "ch": "牧羊人帶領他的羊群穿過綠色草地。"
+        }
+      ]
+    },
+    {
+      "eng": "shiny",
+      "kk": "ˈʃaɪni",
+      "tense": "adj.",
+      "ch": [
+        [
+          "有光澤的",
+          "發光的"
+        ]
+      ],
+      "analysis": "由古英語繼承而來的動詞 shine 加上形容詞字尾 -y 構成，指表面光滑、會反射光線而顯得明亮發光的狀態。",
+      "definition": "1. reflecting light; bright and polished.",
+      "example": [
+        {
+          "eng": "He wore a pair of shiny black shoes to the wedding.",
+          "ch": "他穿了一雙發亮的黑色皮鞋去參加婚禮。"
+        }
+      ]
+    },
+    {
+      "eng": "shorten",
+      "kk": "ˈʃɔːrtən",
+      "tense": "vt.",
+      "ch": [
+        [
+          "縮短",
+          "使變短"
+        ]
+      ],
+      "analysis": "由日耳曼語族繼承詞形容詞 short 加上動詞化字尾 -en 構成，表示使某物長度、時間或距離減少的動作。",
+      "definition": "1. to make or become shorter in length or duration.",
+      "example": [
+        {
+          "eng": "The tailor needs to shorten these trousers for me.",
+          "ch": "裁縫師需要幫我把這條褲子改短。"
+        }
+      ]
+    },
+    {
+      "eng": "shortly",
+      "kk": "ˈʃɔːrtli",
+      "tense": "adv.",
+      "ch": [
+        [
+          "不久",
+          "很快",
+          "稍後"
+        ]
+      ],
+      "analysis": "由形容詞 short 加上副詞字尾 -ly 構成，在時間軸上表示在短暫時間之內發生的事。",
+      "definition": "1. in a short time; soon.",
+      "example": [
+        {
+          "eng": "The train will arrive shortly on platform two.",
+          "ch": "火車不久將在第二月台進站。"
+        }
+      ]
+    },
+    {
+      "eng": "shovel",
+      "kk": "ˈʃʌvəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "鏟子",
+          "鐵鍬"
+        ]
+      ],
+      "analysis": "源自古英語 'scofl'，由動詞 'scufan'（推、 shove）衍生而來，指用於掘土、鏟雪或搬運散裝物料的手持工具。",
+      "definition": "1. a tool with a broad blade and a long handle, used for lifting and moving earth, snow, or other materials.",
+      "example": [
+        {
+          "eng": "He used a shovel to clear the snow from the driveway.",
+          "ch": "他用鏟子把車道上的雪清除掉。"
+        }
+      ]
+    },
+    {
+      "eng": "shrimp",
+      "kk": "ʃrɪmp",
+      "tense": "n.",
+      "ch": [
+        [
+          "蝦",
+          "蝦仁"
+        ]
+      ],
+      "analysis": "源自中古英語 'schrimpe'（瘦小的人或物），可能與日耳曼語族中表示「縮小、枯萎」的詞根同源，現代標準英語中專指小型游泳甲殼類動物。",
+      "definition": "1. a small, long-tailed, edible crustacean.",
+      "example": [
+        {
+          "eng": "She ordered a plate of garlic shrimp for dinner.",
+          "ch": "她晚餐點了一盤蒜香蝦仁。"
+        }
+      ]
+    },
+    {
+      "eng": "shrink",
+      "kk": "ʃrɪŋk",
+      "tense": "vi.",
+      "ch": [
+        [
+          "縮水",
+          "變小"
+        ],
+        [
+          "退縮",
+          "畏縮"
+        ]
+      ],
+      "analysis": "源自古英語 'scrincan'（乾縮、枯萎），為不規則動詞。語意從物理上的因受熱、受潮而尺寸變小，引申為心理上面對困難時的畏縮或退卻。",
+      "definition": "1. to become smaller in size, amount, or value; 2. to draw back or move away with fear or reluctance.",
+      "example": [
+        {
+          "eng": "Woolen sweaters may shrink if you wash them in hot water.",
+          "ch": "羊毛衫如果用熱水洗可能會縮水。"
+        },
+        {
+          "eng": "She did not shrink from taking responsibility for the mistake.",
+          "ch": "她沒有逃避承擔這個錯誤的責任。"
+        }
+      ]
+    },
+    {
+      "eng": "sigh",
+      "kk": "saɪ",
+      "tense": "vi.",
+      "ch": [
+        [
+          "嘆氣",
+          "長嘆"
+        ]
+      ],
+      "analysis": "源自古英語 'sīcan'（嘆息），其歷史上可能源自日耳曼語族擬聲詞，指因疲倦、悲傷、失望或放鬆而發出深沉的呼吸聲。",
+      "definition": "1. to emit a long, deep audible breath expressing sadness, relief, tiredness, or similar feelings.",
+      "example": [
+        {
+          "eng": "He sighed deeply after hearing the disappointing news.",
+          "ch": "聽到這個令人失望的消息後，他深深地嘆了一口氣。"
+        }
+      ]
+    },
+    {
+      "eng": "signal",
+      "kk": "ˈsɪɡnəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "信號",
+          "暗號",
+          "跡象"
+        ]
+      ],
+      "analysis": "源自中世紀拉丁語 'signale'（記號、標誌），最終源自拉丁語 'signum'（標記）。指傳遞訊息、指示或警告的動作、聲音或物體。",
+      "definition": "1. a gesture, action, or sound that is used to convey information or instructions.",
+      "example": [
+        {
+          "eng": "The traffic light turned red as a signal for us to stop.",
+          "ch": "交通燈變成紅色，作為我們停車的信號。"
+        }
+      ]
+    },
+    {
+      "eng": "significant",
+      "kk": "sɪɡˈnɪfɪkənt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "重大的",
+          "顯著的"
+        ],
+        [
+          "意味深長的",
+          "有意義的"
+        ]
+      ],
+      "analysis": "源自拉丁語 'significant-'（significare 的現在分詞詞幹，意為表示、象徵）。由 'signum'（標記）與 'facere'（做）結合而成，現代多指具有重要統計價值、明顯影響或深遠意涵的。",
+      "definition": "1. sufficiently great or important to be worthy of attention; 2. having a meaning that is not immediately obvious; suggestive.",
+      "example": [
+        {
+          "eng": "There has been a significant increase in sales this month.",
+          "ch": "本月的銷售量有了顯著的增長。"
+        },
+        {
+          "eng": "She gave him a significant glance across the room.",
+          "ch": "她隔着房間給了他一個意味深長的眼神。"
+        }
+      ]
+    },
+    {
+      "eng": "silk",
+      "kk": "sɪlk",
+      "tense": "n.",
+      "ch": [
+        [
+          "絲綢",
+          "蠶絲"
+        ]
+      ],
+      "analysis": "源自古英語 'sioloc'，經由希臘語 'sērikon' 及拉丁語 'sericum' 最終借自東亞語言（源自古中國北方方言的「絲」），指蠶蛾幼蟲吐出的高級天然紡織纖維。",
+      "definition": "1. a fine, strong, soft, lustrous fiber produced by silkworms.",
+      "example": [
+        {
+          "eng": "She wore a gorgeous red silk dress to the banquet.",
+          "ch": "她穿了一件華麗的紅色絲綢洋裝出席宴會。"
+        }
+      ]
+    },
+    {
+      "eng": "similarity",
+      "kk": "ˌsɪmɪˈlærəti",
+      "tense": "n.",
+      "ch": [
+        [
+          "相似性",
+          "類似處"
+        ]
+      ],
+      "analysis": "由形容詞 similar 加上名詞字尾 -ity 構成。similar 借自中世紀拉丁語 'similis'（相像的），指事物之間相像或具有共同特徵的性質或具體表現。",
+      "definition": "1. the state or fact of being similar; a resemblance.",
+      "example": [
+        {
+          "eng": "The two brothers bear a striking similarity in their facial features.",
+          "ch": "這兩兄弟在面部特徵上有著驚人的相似處。"
+        }
+      ]
+    },
+    {
+      "eng": "sin",
+      "kk": "sɪn",
+      "tense": "n.",
+      "ch": [
+        [
+          "罪",
+          "罪孽",
+          "過犯"
+        ]
+      ],
+      "analysis": "源自古英語 'synn'（罪惡、違犯道德或宗教法律），為日耳曼語族繼承詞，與德語 'Sünde' 同源。",
+      "definition": "1. an immoral act considered to be a transgression against divine law or moral principles.",
+      "example": [
+        {
+          "eng": "In many cultures, stealing is considered a serious sin.",
+          "ch": "在許多文化中，偷竊被認為是一項嚴重的罪行。"
+        }
+      ]
+    },
+    {
+      "eng": "sincere",
+      "kk": "sɪnˈsɪr",
+      "tense": "adj.",
+      "ch": [
+        [
+          "真誠的",
+          "誠懇的"
+        ]
+      ],
+      "analysis": "源自拉丁語 'sincerus'（純淨的、未受污染的、真實的），歷史上原義可能與「純淨無雜質的蜜」有關，後引申為人的情感、言論不虛偽、出自內心。",
+      "definition": "1. free from pretense or deceit; proceeding from genuine feelings.",
+      "example": [
+        {
+          "eng": "Please accept my sincere apologies for the misunderstanding.",
+          "ch": "對於這場誤會，請接受我誠摯的歉意。"
+        }
+      ]
+    },
+    {
+      "eng": "sink",
+      "kk": "sɪŋk",
+      "tense": "vi.",
+      "ch": [
+        [
+          "下沉",
+          "沉沒"
+        ],
+        [
+          "陷入",
+          "下陷"
+        ]
+      ],
+      "analysis": "源自古英語 'sincan'，為不規則動詞。本義指物體在液體中因密度大於液體而往下沉，後引申為精神萎靡或身體陷入沙發、泥沼等。",
+      "definition": "1. to go down below the surface of something, especially of a liquid; 2. to move slowly downwards, typically through exhaustion or weakness.",
+      "example": [
+        {
+          "eng": "The ship began to sink rapidly after hitting the reef.",
+          "ch": "船撞擊礁石後開始快速下沉。"
+        },
+        {
+          "eng": "He sank exhausted into the comfortable armchair.",
+          "ch": "他精疲力竭地陷進了舒適的單人扶手椅中。"
+        }
+      ]
+    },
+    {
+      "eng": "sip",
+      "kk": "sɪp",
+      "tense": "vt.",
+      "ch": [
+        [
+          "啜飲",
+          "輕嘗"
+        ]
+      ],
+      "analysis": "源自中古英語 'sippen'，可能與日耳曼語族的擬聲詞有關，指每次只喝一小口液體。",
+      "definition": "1. to drink something in small quantities.",
+      "example": [
+        {
+          "eng": "She sat by the window, sipping her hot tea.",
+          "ch": "她坐在窗邊，小口啜飲着熱茶。"
+        }
+      ]
+    },
+    {
+      "eng": "situation",
+      "kk": "ˌsɪtʃuˈeɪʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "情況",
+          "形勢",
+          "處境"
+        ]
+      ],
+      "analysis": "源自中世紀拉丁語 'situatio'，由拉丁語 'situs'（位置、地方）衍生出的動詞 'situare' 派生而來，指某個特定時間與地點下發生的整體局勢或人的處境。",
+      "definition": "1. a set of circumstances in which one finds oneself; a state of affairs.",
+      "example": [
+        {
+          "eng": "The government is trying to handle the economic situation carefully.",
+          "ch": "政府正試圖謹慎處理當前的經濟情勢。"
+        }
+      ]
+    },
+    {
+      "eng": "skate",
+      "kk": "skeɪt",
+      "tense": "vi.",
+      "ch": [
+        [
+          "溜冰",
+          "滑冰"
+        ]
+      ],
+      "analysis": "經由中荷蘭語 'schaat' 借入英語，最初指穿戴木製冰鞋在冰上滑行，現代指腳穿冰鞋或輪鞋在冰面或地面上滑行的運動或行為。",
+      "definition": "1. to move on skates, either ice skates or roller skates.",
+      "example": [
+        {
+          "eng": "Children love to skate on the frozen lake during winter.",
+          "ch": "孩子們喜歡在冬天的結冰湖面上溜冰。"
+        }
+      ]
+    },
+    {
+      "eng": "ski",
+      "kk": "skiː",
+      "tense": "vi.",
+      "ch": [
+        [
+          "滑雪"
+        ]
+      ],
+      "analysis": "借自挪威語 'ski'（雪板），源自古諾斯語，指腳穿長條雪板在雪地上滑行的冬季運動。",
+      "definition": "1. to move over snow on skis as a sport or recreation.",
+      "example": [
+        {
+          "eng": "We plan to travel to the Alps to ski next month.",
+          "ch": "我們計劃下個月去阿爾卑斯山滑雪。"
+        }
+      ]
+    },
+    {
+      "eng": "skillful",
+      "kk": "ˈskɪlfəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "熟練的",
+          "靈巧的"
+        ]
+      ],
+      "analysis": "由名詞 skill（源自古諾斯語 'skil'，意為區分、能力）加上形容詞字尾 -ful 構成，指具有高度專業技術、能力或熟練度。",
+      "definition": "1. having or showing skill; proficient and competent.",
+      "example": [
+        {
+          "eng": "The chef is very skillful at carving decorative fruit.",
+          "ch": "這位主廚非常擅長雕刻裝飾用水果。"
+        }
+      ]
+    },
+    {
+      "eng": "skinny",
+      "kk": "ˈskɪni",
+      "tense": "adj.",
+      "ch": [
+        [
+          "極瘦的",
+          "皮包骨的"
+        ]
+      ],
+      "analysis": "由古諾斯語來源的名詞 skin 加上形容詞字尾 -y 構成，字面義為「只有皮的」，現代指人或動物過分消瘦、皮包骨的狀態。",
+      "definition": "1. (of a person or part of the body) very thin; lean.",
+      "example": [
+        {
+          "eng": "The stray dog looked very skinny and needed food.",
+          "ch": "這隻流浪狗看起來骨瘦如柴，需要食物。"
+        }
+      ]
+    },
+    {
+      "eng": "skip",
+      "kk": "skɪp",
+      "tense": "vi.",
+      "ch": [
+        [
+          "蹦跳",
+          "跳躍"
+        ],
+        [
+          "略過",
+          "跳過"
+        ]
+      ],
+      "analysis": "源自斯堪地那維亞語源（與古諾斯語 'skopa' 跳躍、奔跑有關），本義為輕快地跳躍或蹦跳，後引申出在閱讀、程序中「跳過、略過」某個環節的用法。",
+      "definition": "1. to move along with light, bouncing steps; 2. to omit or pass over something.",
+      "example": [
+        {
+          "eng": "The little girl skipped happily down the garden path.",
+          "ch": "小女孩高興地在花園小徑上蹦跳着前行。"
+        },
+        {
+          "eng": "You can skip the introductory chapter and start with chapter two.",
+          "ch": "你可以跳過導論章節，從第二章開始讀。"
+        }
+      ]
+    },
+    {
+      "eng": "slave",
+      "kk": "sleɪv",
+      "tense": "n.",
+      "ch": [
+        [
+          "奴隸",
+          "奴隸勞工"
+        ]
+      ],
+      "analysis": "源自中世紀拉丁語 'Sclavus'（斯拉夫人），因中世紀早期許多斯拉夫人在中歐及地中海地區被俘虜並淪為奴隸，該詞遂演變為奴隸的通稱。",
+      "definition": "1. a person who is the legal property of another and is forced to obey them.",
+      "example": [
+        {
+          "eng": "Many slaves fought bravely for their freedom in history.",
+          "ch": "歷史上有許多奴隸為爭取自由而勇敢抗爭。"
+        }
+      ]
+    },
+    {
+      "eng": "sleeve",
+      "kk": "sliːv",
+      "tense": "n.",
+      "ch": [
+        [
+          "袖子",
+          "袖套"
+        ]
+      ],
+      "analysis": "源自古英語 'slīfe'（衣袖），與動詞 slip（滑入）同源，指衣服覆蓋手臂的管狀部分。",
+      "definition": "1. the part of a garment that covers all or part of the arm.",
+      "example": [
+        {
+          "eng": "He rolled up his sleeves before starting to paint the wall.",
+          "ch": "他開始漆牆之前把袖子捲了起來。"
+        }
+      ]
+    },
+    {
+      "eng": "slender",
+      "kk": "ˈslɛndər",
+      "tense": "adj.",
+      "ch": [
+        [
+          "細長的",
+          "苗條的"
+        ],
+        [
+          "微薄的",
+          "稀少的"
+        ]
+      ],
+      "analysis": "源自中古英語 'slendre'，可能經由古法語借自日耳曼語族。本義指身材或物體細長優美，後亦引申可用於形容機會、希望等「微薄、稀少」。",
+      "definition": "1. (of a person or part of the body) gracefully thin; 2. (of a quantity or amount) very small or meager.",
+      "example": [
+        {
+          "eng": "She has a slender figure and moves with great elegance.",
+          "ch": "她有着苗條的身材，舉止非常優雅。"
+        },
+        {
+          "eng": "There is only a slender chance that our team will win the championship.",
+          "ch": "我們隊贏得冠軍的機會微乎其微。"
+        }
+      ]
+    },
+    {
+      "eng": "slice",
+      "kk": "slaɪs",
+      "tense": "n.",
+      "ch": [
+        [
+          "薄片",
+          "切片"
+        ]
+      ],
+      "analysis": "源自古法語 'esclice'（碎片、木片），源自日耳曼語族，指從大塊食物（如麵包、蛋糕、肉）上切下來的扁平薄片。",
+      "definition": "1. a thin, broad piece of food, such as bread or meat, cut from a larger portion.",
+      "example": [
+        {
+          "eng": "Would you like another slice of pizza for lunch?",
+          "ch": "你午餐想要再來一片披薩嗎？"
+        }
+      ]
+    },
+    {
+      "eng": "slippery",
+      "kk": "ˈslɪpəri",
+      "tense": "adj.",
+      "ch": [
+        [
+          "滑的",
+          "滑溜的"
+        ],
+        [
+          "不可靠的",
+          "狡猾的"
+        ]
+      ],
+      "analysis": "由日耳曼語族來源的動詞 slip 加上形容詞字尾 -ery 構成。本義指表面光滑、容易讓人滑倒的物理特徵，後引申為人的性格「狡猾、滑頭、不可信賴」。",
+      "definition": "1. (of a surface or object) difficult to hold on to or stand on because it is smooth, wet, or polished; 2. (of a person) elusive or untrustworthy.",
+      "example": [
+        {
+          "eng": "The sidewalk was icy and very slippery after the freezing rain.",
+          "ch": "凍雨過後，人行道結冰且非常滑。"
+        },
+        {
+          "eng": "Don't trust him; he is a slippery character who always breaks his promises.",
+          "ch": "別相信他，他是一個總是違背諾言的狡猾傢伙。"
+        }
+      ]
+    },
+    {
+      "eng": "slope",
+      "kk": "sloʊp",
+      "tense": "n.",
+      "ch": [
+        [
+          "斜坡",
+          "斜面"
+        ]
+      ],
+      "analysis": "源自古英語 'slāp'（傾斜的），與動詞 slip 同源，指地面或表面傾斜的斜坡或山坡。",
+      "definition": "1. an inclined surface, position, or direction; a hillside.",
+      "example": [
+        {
+          "eng": "Skiers were gliding down the snowy mountain slope.",
+          "ch": "滑雪者們正沿着雪白的山坡滑下。"
+        }
+      ]
+    },
+    {
+      "eng": "snap",
+      "kk": "snæp",
+      "tense": "vi.",
+      "ch": [
+        [
+          "折斷",
+          "崩斷"
+        ],
+        [
+          "猛咬",
+          "怒喝"
+        ]
+      ],
+      "analysis": "源自低地德語或荷蘭語的擬聲詞，本義指發出清脆的折斷聲或開合聲，後引申為物體應力過大而斷裂，或動物, 人因不耐煩而「猛咬、惡狠狠地斥責」。",
+      "definition": "1. to break suddenly and with a sharp, cracking sound; 2. to make a sudden, quick bite or to speak sharply in irritation.",
+      "example": [
+        {
+          "eng": "The old wooden branch began to snap under our weight.",
+          "ch": "那根老樹枝在我們的重量下開始斷裂。"
+        },
+        {
+          "eng": "Tired from working all night, she snapped at her coworker.",
+          "ch": "通宵工作感到疲憊的她，對同事沒好氣地吼了一句。"
+        }
+      ]
+    },
+    {
+      "eng": "solid",
+      "kk": "ˈsɑːlɪd",
+      "tense": "adj.",
+      "ch": [
+        [
+          "固體的",
+          "實心的"
+        ],
+        [
+          "堅固的",
+          "可靠的"
+        ]
+      ],
+      "analysis": "源自拉丁語 'solidus'（結實的、堅固的、全額的），現代指物質狀態非氣體或液體，或引申為結構與證據「紮實、可靠」。",
+      "definition": "1. firm and stable in shape; not liquid or gas; 2. strongly built or dependable; of good quality.",
+      "example": [
+        {
+          "eng": "Water turns into solid ice when the temperature drops below zero.",
+          "ch": "當溫度降到零度以下時，水會變成固體的冰。"
+        },
+        {
+          "eng": "The police have built a solid case against the suspect.",
+          "ch": "警方針對嫌疑人建立了一個證據確鑿的堅實案件。"
+        }
+      ]
+    },
+    {
+      "eng": "someday",
+      "kk": "ˈsʌmdeɪ",
+      "tense": "adv.",
+      "ch": [
+        [
+          "有朝一日",
+          "未來某一天"
+        ]
+      ],
+      "analysis": "由不定代名詞 some 與名詞 day 複合而成的副詞，指未來某個不確定的日子裏。",
+      "definition": "1. at some future time, typically a long time away.",
+      "example": [
+        {
+          "eng": "She hopes to travel around the world someday.",
+          "ch": "她希望有朝一日能環遊世界。"
+        }
+      ]
+    },
+    {
+      "eng": "somehow",
+      "kk": "ˈsʌmhaʊ",
+      "tense": "adv.",
+      "ch": [
+        [
+          "不知怎麼地",
+          "以某種方式"
+        ]
+      ],
+      "analysis": "由 some 與 how 複合而成的副詞，用來表示原因或方法不明，但結果確實發生了。",
+      "definition": "1. in a way that is not specified or understood; by some means.",
+      "example": [
+        {
+          "eng": "Somehow, we managed to finish the project before the deadline.",
+          "ch": "不知怎麼地，我們竟然在截止日期前完成了這個專案。"
+        }
+      ]
+    },
+    {
+      "eng": "sometime",
+      "kk": "ˈsʌmtaɪm",
+      "tense": "adv.",
+      "ch": [
+        [
+          "改天",
+          "在某個時候"
+        ]
+      ],
+      "analysis": "由 some 與 time 複合而成的副詞，指過去或未來某個未確切指明時間點的時刻。",
+      "definition": "1. at a point in the future or the past that is not precisely specified.",
+      "example": [
+        {
+          "eng": "Let's get together for coffee sometime next week.",
+          "ch": "我們下周找個時間一起喝咖啡吧。"
+        }
+      ]
+    },
+    {
+      "eng": "sorrow",
+      "kk": "ˈsɑːroʊ",
+      "tense": "n.",
+      "ch": [
+        [
+          "悲傷",
+          "哀痛",
+          "憾事"
+        ]
+      ],
+      "analysis": "源自古英語 'sorh'（悲傷、憂慮），為日耳曼語族繼承詞，與德語 'Sorge' 同源，指失去親人或遭遇重大打擊時產生的深切痛苦與哀愁。",
+      "definition": "1. a feeling of deep distress caused by loss, disappointment, or other misfortune.",
+      "example": [
+        {
+          "eng": "Words cannot express the sorrow we felt upon hearing the tragic news.",
+          "ch": "言語無法表達我們聽到這悲慘消息時感受到的哀痛。"
+        }
+      ]
+    },
+    {
+      "eng": "spaghetti",
+      "kk": "spəˈɡɛti",
+      "tense": "n.",
+      "ch": [
+        [
+          "義大利麵",
+          "細長義大利粉"
+        ]
+      ],
+      "analysis": "借自義大利語 'spaghetti'（spaghetto 的複數形式，意為細繩），源自 'spago'（細繩、細麻線），指這種長條細線狀的義大利麵食。",
+      "definition": "1. pasta made in long, slender, solid strings.",
+      "example": [
+        {
+          "eng": "Children usually enjoy eating spaghetti with rich tomato sauce.",
+          "ch": "孩子們通常喜歡吃配着濃郁番茄醬的義大利麵。"
+        }
+      ]
+    },
+    {
+      "eng": "specific",
+      "kk": "spəˈsɪfɪk",
+      "tense": "adj.",
+      "ch": [
+        [
+          "具體的",
+          "明確的"
+        ],
+        [
+          "特定的",
+          "專門的"
+        ]
+      ],
+      "analysis": "源自中世紀拉丁語 'specificus'，由拉丁語 'species'（種類）與 'facere'（製造）複合而成，原意為「構成特定種類的」，現代引申指明確、不含糊或專指某個特定對象。",
+      "definition": "1. clearly defined or identified; 2. belonging or relating uniquely to a particular subject.",
+      "example": [
+        {
+          "eng": "Could you give me a specific example of what you mean?",
+          "ch": "你能給我一個具體的例子說明你的意思嗎？"
+        },
+        {
+          "eng": "This medicine is designed for a specific type of infection.",
+          "ch": "這種藥物專門針對特定類型的感染而設計。"
+        }
+      ]
+    },
+    {
+      "eng": "spice",
+      "kk": "spaɪs",
+      "tense": "n.",
+      "ch": [
+        [
+          "香料",
+          "調味品"
+        ]
+      ],
+      "analysis": "經由古法語 'espice' 借自拉丁語 'species'（商品、種類，在晚期拉丁語中特指有價值的進口香料貨物），指用於為食物增添風味的植物性調味品。",
+      "definition": "1. a seed, fruit, root, bark, or other plant substance primarily used for flavoring or coloring food.",
+      "example": [
+        {
+          "eng": "Cinnamon and nutmeg are popular spices used in holiday baking.",
+          "ch": "肉桂和肉豆蔻是節日烘焙中常用的香料。"
+        }
+      ]
+    },
+    {
+      "eng": "spill",
+      "kk": "spɪl",
+      "tense": "vt.",
+      "ch": [
+        [
+          "濺出",
+          "溢出",
+          "灑落"
+        ]
+      ],
+      "analysis": "源自古英語 'spillan'（毀壞、殺害、浪費），在中古英語中語義轉移為液體溢出或散落容器之外。",
+      "definition": "1. to cause or allow liquid to flow over the edge of its container unintentionally.",
+      "example": [
+        {
+          "eng": "Be careful not to spill your coffee on the keyboard.",
+          "ch": "小心別把咖啡灑在鍵盤上。"
+        }
+      ]
+    },
+    {
+      "eng": "spin",
+      "kk": "spɪn",
+      "tense": "vi.",
+      "ch": [
+        [
+          "旋轉",
+          "自轉"
+        ]
+      ],
+      "analysis": "源自古英語 'spinnan'（紡織羊毛），本義為紡紗時轉動紡車，後引申為任何物體繞着中心快速旋轉的動作。",
+      "definition": "1. to turn or cause to turn or whirl round quickly.",
+      "example": [
+        {
+          "eng": "The dancer spun gracefully across the stage.",
+          "ch": "舞者在舞台上優雅地轉圈。"
+        }
+      ]
+    },
+    {
+      "eng": "spinach",
+      "kk": "ˈspɪnɪtʃ",
+      "tense": "n.",
+      "ch": [
+        [
+          "菠菜"
+        ]
+      ],
+      "analysis": "經由古法語與中世紀拉丁語，最終借自阿拉伯語 'isfānākh'，指綠色葉菜類的菠菜。",
+      "definition": "1. a edible dark green plant with leaves that are eaten as a vegetable.",
+      "example": [
+        {
+          "eng": "Popeye always gets strong after eating a can of spinach.",
+          "ch": "大力水手吃了一罐菠菜後總是會變得很強壯。"
+        }
+      ]
+    },
+    {
+      "eng": "spit",
+      "kk": "spɪt",
+      "tense": "vi.",
+      "ch": [
+        [
+          "吐口水",
+          "吐痰"
+        ]
+      ],
+      "analysis": "源自日耳曼語族的擬聲詞（與德語 'spitzen' 等相關），模仿口中液體被強制噴出的聲音與動作。",
+      "definition": "1. to eject saliva or food from the mouth.",
+      "example": [
+        {
+          "eng": "It is impolite to spit on the street.",
+          "ch": "在街上吐痰是不禮貌的行為。"
+        }
+      ]
+    },
+    {
+      "eng": "spite",
+      "kk": "spaɪt",
+      "tense": "n.",
+      "ch": [
+        [
+          "惡意",
+          "怨恨"
+        ]
+      ],
+      "analysis": "為 despise（鄙視）的截斷形式（apocope），源自拉丁語 'despicere'。在中世紀英語中獨立成為名詞，指因憤恨或嫉妒而產生的惡意。",
+      "definition": "1. a desire to hurt, annoy, or offend someone; malice.",
+      "example": [
+        {
+          "eng": "He damaged her car out of pure spite.",
+          "ch": "他出於純粹的惡意破壞了她的車。"
+        }
+      ]
+    },
+    {
+      "eng": "splash",
+      "kk": "splæʃ",
+      "tense": "vi.",
+      "ch": [
+        [
+          "潑濺",
+          "戲水"
+        ]
+      ],
+      "analysis": "英語中的擬聲構詞（結合了 splash 的音響特徵，與 plash 相關），指液體受衝擊四處飛濺或人在水面嬉戲濺水。",
+      "definition": "1. (of a liquid) to fall, scatter, or splash about noisily.",
+      "example": [
+        {
+          "eng": "The children laughed as they splashed in the puddles.",
+          "ch": "孩子們在水窪裏嬉戲濺水，開心地笑了起來。"
+        }
+      ]
+    },
+    {
+      "eng": "spoil",
+      "kk": "spɔɪl",
+      "tense": "vi.",
+      "ch": [
+        [
+          "變壞",
+          "腐敗",
+          "變質"
+        ]
+      ],
+      "analysis": "源自拉丁語 'spoliare'（剝奪、掠奪），經由古法語進入英語，在中古英語中演變出物品因存放過久而「損壞、腐敗」的語義。",
+      "definition": "1. (of food) to become unfit for consumption; to go bad.",
+      "example": [
+        {
+          "eng": "Milk will spoil quickly if you leave it out of the refrigerator.",
+          "ch": "如果把牛奶放在冰箱外面，它很快就會變質。"
+        }
+      ]
+    },
+    {
+      "eng": "spray",
+      "kk": "spreɪ",
+      "tense": "n.",
+      "ch": [
+        [
+          "水霧",
+          "噴霧",
+          "噴劑"
+        ]
+      ],
+      "analysis": "源自中荷蘭語 'spraeyen'（噴灑、灑水），指被高壓或霧化噴成微小液滴懸浮在空中的液體或噴霧罐裝容器。",
+      "definition": "1. liquid scattered in microscopic drops as a mist, or a container holding such liquid.",
+      "example": [
+        {
+          "eng": "She felt the cool spray of the ocean waves on her face.",
+          "ch": "她感受到海浪打在臉上的清涼水霧。"
+        }
+      ]
+    },
+    {
+      "eng": "spy",
+      "kk": "spaɪ",
+      "tense": "n.",
+      "ch": [
+        [
+          "間諜",
+          "特務"
+        ]
+      ],
+      "analysis": "經由古法語 'espie' 借自日耳曼語源（與德語 'spähen' 監視、觀察的詞根同源），指秘密刺探國家機密或他人隱私的人。",
+      "definition": "1. a person who keeps secret watch on others, especially for a government or political organization.",
+      "example": [
+        {
+          "eng": "The movie tells the story of a secret spy during the Cold War.",
+          "ch": "這部電影講述了冷戰時期一名祕密間諜的故事。"
+        }
+      ]
+    },
+    {
+      "eng": "squeeze",
+      "kk": "skwiːz",
+      "tense": "vt.",
+      "ch": [
+        [
+          "擠壓",
+          "捏",
+          "榨取"
+        ]
+      ],
+      "analysis": "源自古英語 'cwīsan'（壓、榨），結合 s- 加強前綴，現代指用雙手或工具用力施壓擠出液體或使物體變形。",
+      "definition": "1. to firmly press or twist something, typically with one's fingers, to extract liquid or change its shape.",
+      "example": [
+        {
+          "eng": "She squeezed fresh juice from several ripe oranges.",
+          "ch": "她從幾個熟透的柳橙中榨出新鮮果汁。"
+        }
+      ]
+    },
+    {
+      "eng": "squirrel",
+      "kk": "ˈskwɜːrəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "松鼠"
+        ]
+      ],
+      "analysis": "經由古法語 'esquirel' 借自拉丁語 'sciurus'，最終源自希臘語 'skiouros'，由 'skia'（影子）與 'oura'（尾巴）複合而成，字面義即「拖着大尾巴像遮陽傘一樣的動物」。",
+      "definition": "1. an agile tree-dwelling rodent with a bushy tail.",
+      "example": [
+        {
+          "eng": "A cute little squirrel was gathering nuts in the park.",
+          "ch": "一隻可愛的小松鼠正在公園裏搜集堅果。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1262 @@
+{
+  "level": 4,
+  "chunkIndex": 16,
+  "inputs": [
+    "pest",
+    "phenomenon",
+    "philosopher",
+    "philosophical",
+    "philosophy",
+    "photography",
+    "physical",
+    "physician",
+    "physicist",
+    "physics",
+    "pickle",
+    "pioneer",
+    "plentiful",
+    "plot",
+    "plum",
+    "plumber",
+    "poisonous",
+    "polish",
+    "popularity",
+    "portable",
+    "portray",
+    "possess",
+    "possession",
+    "postage",
+    "potential",
+    "precise",
+    "predict",
+    "prediction",
+    "pregnancy",
+    "pregnant",
+    "presentation",
+    "preservation",
+    "preserve",
+    "prevention",
+    "prime",
+    "primitive",
+    "priority",
+    "privacy",
+    "privilege",
+    "procedure",
+    "proceed",
+    "productive",
+    "profession",
+    "professional",
+    "profitable",
+    "prominent",
+    "promising",
+    "promotion",
+    "prompt",
+    "pronunciation"
+  ],
+  "rows": [
+    {
+      "eng": "pest",
+      "kk": "/pɛst/",
+      "tense": "n.",
+      "ch": [
+        [
+          "害蟲",
+          "有害生物"
+        ],
+        [
+          "討人厭的人或事物",
+          "令人煩惱的事"
+        ]
+      ],
+      "analysis": "此字為現代單字，歷史上源自17世紀縮寫自拉丁語 pestis（意為瘟疫、致命疾病）。語意由原先的瘟疫與致命傳染病，引申為會帶來嚴重損害的害蟲，再進一步借喻為生活中討人厭、甩不掉的人或令人煩惱的事物。",
+      "definition": "1. a destructive insect or other animal that attacks crops, food, livestock, etc.; 2. an annoying person, thing, or nuisance.",
+      "example": [
+        {
+          "eng": "The farmer used a pesticide to protect his crops from insect pests.",
+          "ch": "農夫使用殺蟲劑來保護農作物免受害蟲侵害。"
+        },
+        {
+          "eng": "My younger brother can be such a pest when I am trying to study.",
+          "ch": "當我試著讀書時，我弟弟真是一個討人厭的傢伙。"
+        }
+      ]
+    },
+    {
+      "eng": "phenomenon",
+      "kk": "/fəˈnɑːmənən/",
+      "tense": "n.",
+      "ch": [
+        [
+          "現象",
+          "客觀事實"
+        ],
+        [
+          "轟動一時的人或事",
+          "奇蹟"
+        ]
+      ],
+      "analysis": "此字源自希臘語 phainōmenon（意為出現的事物、顯現），由動詞 phainein（顯示、照耀）演變而來，經由拉丁語引入英語。語意由哲學與科學上的「感官或自然界中觀察到的現象」，演變出日常生活中引人注目的「轟動人事物或奇特現象」。複數形為 phenomena。",
+      "definition": "1. a fact or situation that is observed to happen or exist, especially one whose cause or explanation is in question; 2. a remarkable or outstanding person, thing, or event.",
+      "example": [
+        {
+          "eng": "The Northern Lights are a breathtaking natural phenomenon.",
+          "ch": "極光是一種令人屏息的自然現象。"
+        },
+        {
+          "eng": "The band became a global phenomenon overnight.",
+          "ch": "這個樂團在一夜之間成為轟動全球的奇蹟。"
+        }
+      ]
+    },
+    {
+      "eng": "philosopher",
+      "kk": "/fəˈlɑːsəfər/",
+      "tense": "n.",
+      "ch": [
+        [
+          "哲學家"
+        ],
+        [
+          "深思熟慮的人",
+          "人生導師"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由字首 philo-（喜愛）結合 sophos（智慧，即 sophia）再加上表示人的名詞字尾 -er 構成，源自古希臘語 philosophos（愛智慧的人）。歷史上指專門研究哲學的學者，現代也常引申用來形容遇事冷靜、喜歡思考人生哲理的人。",
+      "definition": "1. a person who engages in or writes about philosophy; 2. a person who offers a deep and calm view of life and its problems.",
+      "example": [
+        {
+          "eng": "Socrates is one of the most famous ancient Greek philosophers.",
+          "ch": "蘇格拉底是最著名的古希臘哲學家之一。"
+        },
+        {
+          "eng": "My grandfather is a bit of a philosopher when he talks about his past.",
+          "ch": "我爺爺在談論他的過去時，頗有一點哲學家的深沉思維。"
+        }
+      ]
+    },
+    {
+      "eng": "philosophical",
+      "kk": "/ˌfɪləˈsɑːfɪkl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "哲學的",
+          "哲學上的"
+        ],
+        [
+          "達觀的",
+          "遇事冷靜的"
+        ]
+      ],
+      "analysis": "此字為構詞衍生形容詞，由名詞 philosophy 加上形容詞字尾 -ical（由 -ic 與 -al 複合）構成。語意從原本學術領域的「哲學的、符合哲學原理的」，延伸至日常用語中形容人面對逆境時保持「達觀、冷靜、理性看待」的態度。",
+      "definition": "1. relating to the study or the practice of philosophy; 2. having a calm attitude towards difficulties and disappointments.",
+      "example": [
+        {
+          "eng": "The researchers debated the philosophical implications of artificial intelligence.",
+          "ch": "研究人員辯論了人工智慧的哲學意涵。"
+        },
+        {
+          "eng": "She took the loss of her job in a very philosophical way.",
+          "ch": "她以非常達觀的態度看待失業這件事。"
+        }
+      ]
+    },
+    {
+      "eng": "philosophy",
+      "kk": "/fəˈlɑːsəfi/",
+      "tense": "n.",
+      "ch": [
+        [
+          "哲學"
+        ],
+        [
+          "人生哲學",
+          "基本理念"
+        ]
+      ],
+      "analysis": "此字源自古希臘語 philosophia，由 philein（愛）與 sophia（智慧）複合而成，意即「對智慧的愛與追求」。經由拉丁語與中古法語進入英語。語意從古典的學術哲學學科，引申為個人或組織在生活、企業經營上所奉行的基本理念與原則。",
+      "definition": "1. the study of the fundamental nature of knowledge, reality, and existence; 2. a theory or attitude that acts as a guiding principle for behavior.",
+      "example": [
+        {
+          "eng": "He is majoring in philosophy at the university.",
+          "ch": "他在大學主修哲學。"
+        },
+        {
+          "eng": "Our company's core philosophy is putting customers first.",
+          "ch": "我們公司的核心理念是顧客至上。"
+        }
+      ]
+    },
+    {
+      "eng": "photography",
+      "kk": "/fəˈtɑːɡrəfi/",
+      "tense": "n.",
+      "ch": [
+        [
+          "攝影",
+          "攝影術"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由希臘語字根 photo-（光，源自 phōs）結合 -graphy（書寫、記錄，源自 graphein）組合而成，字面義為「以光描繪、光影記錄」。19世紀隨著照相技術發明而定型，指使用相機捕捉光線影像的技術與藝術。",
+      "definition": "1. the art or practice of taking and processing photographs.",
+      "example": [
+        {
+          "eng": "She took a course in digital photography to improve her skills.",
+          "ch": "她修了一門數位攝影課程以增進技巧。"
+        }
+      ]
+    },
+    {
+      "eng": "physical",
+      "kk": "/ˈfɪzɪkl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "身體的",
+          "肉體的"
+        ],
+        [
+          "物質的",
+          "實體的"
+        ],
+        [
+          "物理的",
+          "物理學的"
+        ]
+      ],
+      "analysis": "此字由希臘語 physikos（自然的、物質的）經拉丁語 physica 演變而來，字根源自 physis（自然）。在英語中發展出多個互不混淆的高頻語義，分別對應「人體的生理肉體」、「客觀物質世界」以及「物理學科相關」的範疇。",
+      "definition": "1. relating to the body as opposed to the mind; 2. relating to things you can see, touch, or experience; 3. relating to physics or the laws of nature.",
+      "example": [
+        {
+          "eng": "Regular exercise improves your physical and mental health.",
+          "ch": "規律運動能改善你的身心健康。"
+        },
+        {
+          "eng": "We live in a physical world governed by natural laws.",
+          "ch": "我們生活在一個受自然法則支配的物質世界中。"
+        },
+        {
+          "eng": "Gravity is a fundamental physical force.",
+          "ch": "重力是一種基本的物理力。"
+        }
+      ]
+    },
+    {
+      "eng": "physician",
+      "kk": "/fɪˈzɪʃn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "內科醫生",
+          "醫師"
+        ]
+      ],
+      "analysis": "此字源自古法語 physicien，其根源為拉丁語 physica（自然科學、醫學），結合表示人的名詞字尾。在現代英語中，專門用來指經過正式醫學訓練並取得執照的「醫師」（尤指內科醫生），與外科醫生（surgeon）有所區別。",
+      "definition": "1. a qualified medical doctor, especially one who does not perform surgery.",
+      "example": [
+        {
+          "eng": "The physician advised her to rest for a few days.",
+          "ch": "醫師建議她休息幾天。"
+        }
+      ]
+    },
+    {
+      "eng": "physicist",
+      "kk": "/ˈfɪzɪsɪst/",
+      "tense": "n.",
+      "ch": [
+        [
+          "物理學家"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由 physics（物理學）去除詞尾後加上學科從業人員的名詞字尾 -ist 構成。指專門從事物理學研究、探索自然界基本規律的科學家。",
+      "definition": "1. a scientist who studies physics.",
+      "example": [
+        {
+          "eng": "Albert Einstein was a theoretical physicist who changed our view of the universe.",
+          "ch": "阿爾伯特·愛因斯坦是一位改變了我們宇宙觀的理論物理學家。"
+        }
+      ]
+    },
+    {
+      "eng": "physics",
+      "kk": "/ˈfɪzɪks/",
+      "tense": "n.",
+      "ch": [
+        [
+          "物理學"
+        ]
+      ],
+      "analysis": "此字源自古希臘語 ta physika（關於自然的事物），經由拉丁語進入英語。字尾 -ics 用於表示學科名稱（如 mathematics、economics）。指研究物質、能量、空間與時間等自然界基本規律的科學。",
+      "definition": "1. the scientific study of matter, energy, space, and time.",
+      "example": [
+        {
+          "eng": "Quantum physics is a complex branch of science.",
+          "ch": "量子物理學是一個複雜的科學分支。"
+        }
+      ]
+    },
+    {
+      "eng": "pickle",
+      "kk": "/ˈpɪkl/",
+      "tense": "n.",
+      "ch": [
+        [
+          "醃黃瓜",
+          "醃菜"
+        ],
+        [
+          "困境",
+          "窘境"
+        ]
+      ],
+      "analysis": "此字源自中低地德語或荷蘭語 pekel（意為鹽水、醃汁）。名詞原本指「浸泡在鹽水或醋中的醃製蔬菜」（特別是小黃瓜），在口語中也引申出「陷入困境、糟糕的處境」之意（源於浸泡在調味汁中的窘迫感）。",
+      "definition": "1. a cucumber that has been preserved in vinegar or brine; 2. a difficult or messy situation.",
+      "example": [
+        {
+          "eng": "She likes to add pickles to her hamburger.",
+          "ch": "她喜歡在漢堡裡加酸黃瓜。"
+        },
+        {
+          "eng": "I lost my wallet and my phone, so I'm in a real pickle.",
+          "ch": "我弄丟了錢包和手機，所以我現在處境真的很糟。"
+        }
+      ]
+    },
+    {
+      "eng": "pioneer",
+      "kk": "/ˌpaɪəˈnɪr/",
+      "tense": "n.",
+      "ch": [
+        [
+          "先驅",
+          "開拓者",
+          "先鋒"
+        ]
+      ],
+      "analysis": "此字源自古法語 peonier（步兵、開路工），源自 pes（足，源於拉丁語 ped-）。歷史上指軍隊中負責清除障礙的先鋒，後引申為開墾新土地的移民，現代廣泛指在科學、技術或藝術等領域中率先開創先河的「先驅者」。",
+      "definition": "1. a person who is the first to study or develop a new area of knowledge, culture, or activity.",
+      "example": [
+        {
+          "eng": "Marie Curie was a pioneer in the field of radioactivity.",
+          "ch": "居禮夫人是放射線研究領域的先驅。"
+        }
+      ]
+    },
+    {
+      "eng": "plentiful",
+      "kk": "/ˈplɛntɪfl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "豐富的",
+          "大量的",
+          "充足的"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由名詞 plenty（豐富、大量，源自拉丁語 plenus 滿的）結合形容詞字尾 -ful（充滿……的）構成。指某物數量充裕、供應充足，超越一般所需。",
+      "definition": "1. existing in large quantities; abundant.",
+      "example": [
+        {
+          "eng": "Fresh vegetables were plentiful during the summer season.",
+          "ch": "夏季時新鮮蔬菜非常豐富。"
+        }
+      ]
+    },
+    {
+      "eng": "plot",
+      "kk": "/plɑːt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "故事情節",
+          "戲劇結構"
+        ],
+        [
+          "陰謀",
+          "密謀"
+        ],
+        [
+          "小塊土地",
+          "地基"
+        ]
+      ],
+      "analysis": "此字在古英語中即有草圖、地塊之意。歷史上語義多元：從測量土地繪製的「小塊土地（plot of land）」，衍生出在地圖上規畫布局，進而演變出暗中策畫的「陰謀」，以及文學作品中結構布局的「故事情節」。",
+      "definition": "1. the main events of a play, novel, movie, or similar work; 2. a secret plan to make something happen, especially something illegal; 3. a small piece of ground marked out for a purpose.",
+      "example": [
+        {
+          "eng": "The movie had a complex and surprising plot.",
+          "ch": "這部電影有著複雜且令人驚喜的故事情節。"
+        },
+        {
+          "eng": "The police uncovered a plot to rob the bank.",
+          "ch": "警方破獲了一起搶劫銀行的陰謀。"
+        },
+        {
+          "eng": "They bought a small plot of land to build a house.",
+          "ch": "他們買了一小塊地來蓋房子。"
+        }
+      ]
+    },
+    {
+      "eng": "plum",
+      "kk": "/plʌm/",
+      "tense": "n.",
+      "ch": [
+        [
+          "李子",
+          "梅子"
+        ],
+        [
+          "令人滿意的好東西",
+          "上選"
+        ]
+      ],
+      "analysis": "此字源自日耳曼語源（古英語 plūme，借自拉丁語 prunum，源於希臘語 prounōn）。指李子樹的果實。因李子在歷史上被視為甘美珍貴的水果，英語中常以 plum 形容「極佳的、令人稱羨的」事物（如 plum job 好工作）。",
+      "definition": "1. a round sweet fruit with thin skin and a stone; 2. highly desirable or rewarding.",
+      "example": [
+        {
+          "eng": "She picked a ripe plum from the tree in the backyard.",
+          "ch": "她從後院的樹上摘了一顆熟透的李子。"
+        },
+        {
+          "eng": "He landed a plum job at a top tech company.",
+          "ch": "他在一家頂尖科技公司找到了一份令人稱羨的好工作。"
+        }
+      ]
+    },
+    {
+      "eng": "plumber",
+      "kk": "/ˈplʌmər/",
+      "tense": "n.",
+      "ch": [
+        [
+          "水管工",
+          "水電工"
+        ]
+      ],
+      "analysis": "此字源自中古法語 plummier，源於拉丁語 plumbarius（鉛匠），源自 plumbum（鉛）。歷史上最早的管線多用鉛製作，因此負責安裝與維修水管及鉛管工人的職業被稱為 plumber，現代雖不再用鉛管，但名稱保留至今，指水管維修技師。",
+      "definition": "1. a person whose job is to install and repair water pipes, baths, toilets, etc.",
+      "example": [
+        {
+          "eng": "We had to call a plumber to fix the leaking kitchen sink.",
+          "ch": "我們不得不請水管工來修理漏水的廚房水槽。"
+        }
+      ]
+    },
+    {
+      "eng": "poisonous",
+      "kk": "/ˈpɔɪzənəs/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "有毒的",
+          "分泌毒素的"
+        ],
+        [
+          "惡毒的",
+          "有害的"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由名詞 poison（毒藥，源自古法語 poison，源於拉丁語 potio 藥劑、毒劑）結合形容詞字尾 -ous（充滿……的）構成。指含有毒素、會對生物造成危害的物質，或引申為言語、行為極具惡意與破壞性的。",
+      "definition": "1. containing poison that can kill or injure you; 2. very harmful or malicious in behavior or speech.",
+      "example": [
+        {
+          "eng": "Some species of frogs in the rainforest are highly poisonous.",
+          "ch": "雨林中的某些品種青蛙劇毒無比。"
+        },
+        {
+          "eng": "The two colleagues had a poisonous relationship.",
+          "ch": "這兩位同事之間的關係非常惡劣。"
+        }
+      ]
+    },
+    {
+      "eng": "polish",
+      "kk": "/ˈpɑːlɪʃ/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "擦亮",
+          "拋光"
+        ],
+        [
+          "潤飾",
+          "修改完善"
+        ]
+      ],
+      "analysis": "此字源自中古法語 poliss-（動詞 polir 的詞幹），源於拉丁語 polire（使光滑、擦亮）。及物動詞指透過擦拭或研磨使表面光滑發亮，也引申為對文章、演講或技能進行反覆修飾與完善。",
+      "definition": "1. make the surface of something smooth and shiny by rubbing it; 2. improve, refine, or add the finishing touches to a piece of work.",
+      "example": [
+        {
+          "eng": "He took out a cloth to polish his shoes.",
+          "ch": "他拿出布來擦亮他的鞋子。"
+        },
+        {
+          "eng": "She spent the evening polishing her presentation slides.",
+          "ch": "她花了一整個晚上潤飾她的簡報幻燈片。"
+        }
+      ]
+    },
+    {
+      "eng": "popularity",
+      "kk": "/ˌpɑːpjuˈlærəti/",
+      "tense": "n.",
+      "ch": [
+        [
+          "普及",
+          "流行"
+        ],
+        [
+          "受歡迎程度",
+          "聲望"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由形容詞 popular（大眾的、流行的，源自拉丁語 popularis）加上抽象名詞字尾 -ity 構成。指事物在社會上廣泛被接受的「普及度」，或個人、產品「受大眾歡迎的程度與聲望」。",
+      "definition": "1. the state of being liked, enjoyed, or supported by a large number of people; 2. the condition of being popular.",
+      "example": [
+        {
+          "eng": "Smartphones have grown immensely in popularity over the last decade.",
+          "ch": "智慧型手機在過去十年中普及率大幅增長。"
+        },
+        {
+          "eng": "The politician's popularity dropped after the scandal.",
+          "ch": "醜聞過後，這位政治人物的聲望大跌。"
+        }
+      ]
+    },
+    {
+      "eng": "portable",
+      "kk": "/ˈpɔːrtəbl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "便攜式的",
+          "手提的",
+          "輕便的"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，由拉丁語 portare（攜帶、搬運）加上形容詞字尾 -able（可……的）構成。指設計輕巧、方便隨身攜帶或移動的設備與物品。",
+      "definition": "1. able to be easily carried or moved, especially because of being a lighter and smaller version than usual.",
+      "example": [
+        {
+          "eng": "I bought a portable charger so my phone won't die while traveling.",
+          "ch": "我買了一個行動電源，這樣手機在旅行時就不會沒電。"
+        }
+      ]
+    },
+    {
+      "eng": "portray",
+      "kk": "/pɔːrˈtreɪ/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "描繪",
+          "描寫"
+        ],
+        [
+          "扮演",
+          "飾演"
+        ]
+      ],
+      "analysis": "此字源自古法語 pourtraire（描繪、畫肖像），由前綴 pro-（加強語氣或往前，此處作 pour-）結合拉丁語 trahere（拉、畫，源自畫線）構成。及物動詞指透過文字、繪畫等藝術形式「描繪」某人事物，或指演員在影視作品中「扮演」某個角色。",
+      "definition": "1. depict (someone or something) in a work of art or literature; 2. play the part of (a character) in a movie or play.",
+      "example": [
+        {
+          "eng": "The novel portrays the struggles of working-class families.",
+          "ch": "這部小說描繪了工人階級家庭的奮鬥歷程。"
+        },
+        {
+          "eng": "The actor did an amazing job portraying Winston Churchill.",
+          "ch": "這位演員在飾演溫斯頓·邱吉爾時表現得非常出色。"
+        }
+      ]
+    },
+    {
+      "eng": "possess",
+      "kk": "/pəˈzɛs/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "擁有",
+          "具有"
+        ],
+        [
+          "支配",
+          "纏住（心智）"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 possidere（擁有、佔有），由 potis（有能力的、主人的）與 sedere（坐）複合而成。及物動詞指合法「擁有、具備」某種特質或財產，在抽象語境中也指惡魔或強烈情感「附身、完全控制」某人的心智。",
+      "definition": "1. have as belonging to one; own or display as a quality; 2. (of an evil spirit or strong emotion) completely control the mind of.",
+      "example": [
+        {
+          "eng": "Does he possess the necessary skills for this job?",
+          "ch": "他具備這項工作所需的必要技能嗎？"
+        },
+        {
+          "eng": "What possessed you to do such a crazy thing?",
+          "ch": "你到底是哪根筋不對，竟會做出這麼瘋狂的事？"
+        }
+      ]
+    },
+    {
+      "eng": "possession",
+      "kk": "/pəˈzɛʃn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "擁有",
+          "佔有"
+        ],
+        [
+          "所有物",
+          "個人財產"
+        ]
+      ],
+      "analysis": "此字為名詞衍生形，由動詞 possess 加上名詞字尾 -ion 構成。語意涵蓋抽象的「擁有狀態」以及具體的「個人隨身財產、所有物」高頻義。",
+      "definition": "1. the state of having, owning, or controlling something; 2. an item of property; something that belongs to someone.",
+      "example": [
+        {
+          "eng": "The police found illegal drugs in his possession.",
+          "ch": "警方在他身上搜出了違禁毒品。"
+        },
+        {
+          "eng": "She packed her few precious possessions into a single suitcase.",
+          "ch": "她把她那幾件珍貴的財產打包進了一個行李箱裡。"
+        }
+      ]
+    },
+    {
+      "eng": "postage",
+      "kk": "/ˈpoʊstɪdʒ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "郵資",
+          "郵費"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由 post（郵政、信件，源自拉丁語 positus 設立的驛站）加上名詞字尾 -age（費用、狀態）構成。指寄送信件或包裹所需支付給郵局的費用。",
+      "definition": "1. the cost of sending a letter or parcel by mail.",
+      "example": [
+        {
+          "eng": "Please check the weight of the package to calculate the correct postage.",
+          "ch": "請檢查包裹重量以計算正確的郵資。"
+        }
+      ]
+    },
+    {
+      "eng": "potential",
+      "kk": "/pəˈtɛnʃl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "潛在的",
+          "可能的"
+        ]
+      ],
+      "analysis": "此字源自中古拉丁語 potentialis，由拉丁語 potentia（力量、能力，源自 potens 有力的）加上形容詞字尾 -al 構成。形容人事物目前尚未完全發揮、但未來有發展可能性的狀態。",
+      "definition": "1. having or showing the capacity to develop into something in the future.",
+      "example": [
+        {
+          "eng": "We need to identify potential risks before starting the project.",
+          "ch": "我們在啟動專案前需要識別潛在的風險。"
+        }
+      ]
+    },
+    {
+      "eng": "precise",
+      "kk": "/prɪˈsaɪs/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "精確的",
+          "準確的"
+        ],
+        [
+          "嚴謹的",
+          "明確的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 praecisus（切斷的、精確的），由前綴 prae-（在……之前）與 caedere（切、割）複合而成。字面原意為「精準修剪過的」，引申為數字、時間或描述上的「精確、一絲不苟、嚴謹明確」。",
+      "definition": "1. marked by exactness and accuracy of expression or detail; 2. exact, clear, and strict in habits or requirements.",
+      "example": [
+        {
+          "eng": "The scientist needed precise measurements for the experiment.",
+          "ch": "這位科學家需要實驗的精確測量數據。"
+        },
+        {
+          "eng": "Could you give me a precise date for the meeting?",
+          "ch": "你可以給我開會的確切日期嗎？"
+        }
+      ]
+    },
+    {
+      "eng": "predict",
+      "kk": "/prɪˈdɪkt/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "預測",
+          "預言"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由前綴 pre-（在……之前）結合拉丁語 dicere（說、講）構成。及物動詞指透過跡象、數據或直覺「預先說出」未來會發生的事情。",
+      "definition": "1. say or estimate that (a specified thing) will happen in the future.",
+      "example": [
+        {
+          "eng": "Economists predict a steady growth in the housing market next year.",
+          "ch": "經濟學家預測明年房市將穩定成長。"
+        }
+      ]
+    },
+    {
+      "eng": "prediction",
+      "kk": "/prɪˈdɪkʃn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "預測",
+          "預言"
+        ]
+      ],
+      "analysis": "此字為名詞衍生形，由動詞 predict 加上名詞字尾 -ion 構成。指對未來事件所做出的預先推測或論斷。",
+      "definition": "1. a thing predicted; a forecast.",
+      "example": [
+        {
+          "eng": "Meteorologists made an accurate prediction about the severe storm.",
+          "ch": "氣象學家對這場強烈風暴做出了準確的預測。"
+        }
+      ]
+    },
+    {
+      "eng": "pregnancy",
+      "kk": "/ˈprɛɡnənsi/",
+      "tense": "n.",
+      "ch": [
+        [
+          "懷孕",
+          "妊娠期間"
+        ]
+      ],
+      "analysis": "此字由形容詞 pregnant 加上抽象名詞字尾 -cy 構成。指女性或雌性動物懷胎的生理狀態及其持續的妊娠期。",
+      "definition": "1. the condition or period of being pregnant.",
+      "example": [
+        {
+          "eng": "Regular check-ups are essential during a healthy pregnancy.",
+          "ch": "規律的產檢在健康的懷孕期間至關重要。"
+        }
+      ]
+    },
+    {
+      "eng": "pregnant",
+      "kk": "/ˈprɛɡnənt/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "懷孕的",
+          "妊娠的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 praegnas，由前綴 prae-（在……之前）與源自 gignere（生殖、產生）的詞幹複合而成。指體內孕育著胎兒的女性或雌性動物狀態。",
+      "definition": "1. (of a woman or female animal) having a child or young developing in the uterus.",
+      "example": [
+        {
+          "eng": "She was six months pregnant when she moved to the new house.",
+          "ch": "她搬進新家時已經懷孕六個月了。"
+        }
+      ]
+    },
+    {
+      "eng": "presentation",
+      "kk": "/ˌprɪznˈteɪʃn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "簡報",
+          "報告"
+        ],
+        [
+          "頒發",
+          "授予"
+        ],
+        [
+          "呈現方式",
+          "展現"
+        ]
+      ],
+      "analysis": "此字為名詞衍生形，由動詞 present（贈送、呈現，源自拉丁語 praesentare）加上名詞字尾 -ion 構成。語意涵蓋商業或學術上的「口頭簡報報告」、獎項的「頒發儀式」，以及事物外觀的「呈現方式」。",
+      "definition": "1. a talk or display in which someone explains a new idea, product, or piece of work; 2. the act of giving something to someone formally; 3. the way in which something is shown or offered.",
+      "example": [
+        {
+          "eng": "She gave a brilliant presentation on renewable energy.",
+          "ch": "她就再生能源做了一場精彩的簡報。"
+        },
+        {
+          "eng": "The presentation of the award took place at the annual gala.",
+          "ch": "獎項的頒發儀式在年度盛會上舉行。"
+        },
+        {
+          "eng": "The presentation of the food in this restaurant is impressive.",
+          "ch": "這家餐廳的菜餚擺盤呈現令人印象深刻。"
+        }
+      ]
+    },
+    {
+      "eng": "preservation",
+      "kk": "/ˌprɛzərˈveɪʃn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "保存",
+          "維護",
+          "保護"
+        ]
+      ],
+      "analysis": "此字為名詞衍生形，由動詞 preserve 加上名詞字尾 -ion 構成。指為了防止古蹟、自然環境、文物或食物腐壞、受損而進行的「保護與維護」行動。",
+      "definition": "1. the action of preserving something, such as historical buildings, natural environments, or food, from harm, decay, or loss.",
+      "example": [
+        {
+          "eng": "The historical society is dedicated to the preservation of old buildings.",
+          "ch": "歷史學會致力於古老建築的保存。"
+        }
+      ]
+    },
+    {
+      "eng": "preserve",
+      "kk": "/prɪˈzɜːrv/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "保護",
+          "維護"
+        ],
+        [
+          "保存",
+          "保鮮"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 praeservare，由前綴 prae-（在……之前）與 servare（保護、看守）複合而成。及物動詞指維持人事物原狀、防止其遭到破壞（如保護自然、古蹟），或透過冷凍、醃製等方式防止食物腐敗（保鮮）。",
+      "definition": "1. maintain (something) in its original or existing state; 2. maintain (food or other perishable items) safe from spoilage.",
+      "example": [
+        {
+          "eng": "We must work together to preserve our natural resources.",
+          "ch": "我們必須共同努力保護我們的自然資源。"
+        },
+        {
+          "eng": "Freezing is an effective way to preserve fresh vegetables.",
+          "ch": "冷凍是保存新鮮蔬菜的有效方法。"
+        }
+      ]
+    },
+    {
+      "eng": "prevention",
+      "kk": "/prɪˈvɛnʃn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "預防",
+          "阻止"
+        ]
+      ],
+      "analysis": "此字為名詞衍生形，由動詞 prevent（預防，源自拉丁語 praevenire 搶先、阻止）加上名詞字尾 -ion 構成。指為了防止不良事件、疾病或災害發生而採取的前期「預防與阻止」措施。",
+      "definition": "1. the action of stopping something from happening or arising.",
+      "example": [
+        {
+          "eng": "Crime prevention is one of the main responsibilities of the police.",
+          "ch": "犯罪預防是警察的主要職責之一。"
+        }
+      ]
+    },
+    {
+      "eng": "prime",
+      "kk": "/praɪm/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "首要的",
+          "主要的"
+        ],
+        [
+          "極佳的",
+          "頂級的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 primus（第一的）。形容詞指在重要性上居於第一位的「首要的、核心的」，或是指品質達到顛峰狀態的「頂級的、優質的」（如 prime beef 頂級牛肉）。",
+      "definition": "1. of primary importance; most important; 2. of the best possible quality; excellent.",
+      "example": [
+        {
+          "eng": "Safety is our prime concern when operating heavy machinery.",
+          "ch": "操作重型機械時，安全是我們首要考量。"
+        },
+        {
+          "eng": "The restaurant is famous for serving prime cuts of beef.",
+          "ch": "這家餐廳以供應頂級切塊牛肉而聞名。"
+        }
+      ]
+    },
+    {
+      "eng": "primitive",
+      "kk": "/ˈprɪmətɪv/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "原始的",
+          "遠古的"
+        ],
+        [
+          "簡陋的",
+          "粗糙的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 primitivus（最早的、原始的），由 primus（第一）加上形容詞字尾構成。形容人類社會早期發展階段的「原始遠古狀態」，或現代科技、設備極為「簡陋、粗糙、未開發」的。",
+      "definition": "1. belonging to or denoting an early stage in the evolution of humans or things; 2. very basic or unrefined in style or construction.",
+      "example": [
+        {
+          "eng": "Archeologists found primitive stone tools in the cave.",
+          "ch": "考古學家在山洞裡找到了原始的石器。"
+        },
+        {
+          "eng": "The cabin had very primitive living conditions with no electricity.",
+          "ch": "這間木屋的居住條件非常簡陋，沒有電。"
+        }
+      ]
+    },
+    {
+      "eng": "priority",
+      "kk": "/praɪˈɔːrəti/",
+      "tense": "n.",
+      "ch": [
+        [
+          "優先事項",
+          "當務之急"
+        ],
+        [
+          "優先權"
+        ]
+      ],
+      "analysis": "此字源自中古拉丁語 prioritat-（走在前面的），源自 prior（較早的、前者的）。指在眾多待辦事務中排序最前面的「優先事項／當務之急」，或是法律與制度上的「優先權」。",
+      "definition": "1. the fact or condition of being regarded or treated as more important than others; 2. the right to take precedence over others.",
+      "example": [
+        {
+          "eng": "Finishing this report is my top priority for today.",
+          "ch": "完成這份報告是我今天的第一優先事項。"
+        },
+        {
+          "eng": "Emergency vehicles have priority on the road.",
+          "ch": "緊急救護車輛在路上享有優先權。"
+        }
+      ]
+    },
+    {
+      "eng": "privacy",
+      "kk": "/ˈpraɪvəsi/",
+      "tense": "n.",
+      "ch": [
+        [
+          "隱私",
+          "獨處的權利"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由形容詞 private（私人的，源自拉丁語 privatus 個人的）加上抽象名詞字尾 -acy 構成。指個人不被打擾、保有私人祕密與獨處空間的狀態或權利。",
+      "definition": "1. the state or condition of being free from being observed or disturbed by other people.",
+      "example": [
+        {
+          "eng": "Everyone has the right to privacy in their personal life.",
+          "ch": "每個人在個人生活中都有享有隱私的權利。"
+        }
+      ]
+    },
+    {
+      "eng": "privilege",
+      "kk": "/ˈprɪvəlɪdʒ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "特權",
+          "優待"
+        ],
+        [
+          "榮幸"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 privilegium（針對個人的法律、特權），由 privus（個人的、私有的）與 lex/leg-（法律）複合而成。歷史上指給予特定個人的專屬法律特權，現代廣泛指特定階層或身份享有的「特權／優待」，以及口語常用來表示感到「無上的榮幸」。",
+      "definition": "1. a special right, advantage, or immunity granted or available only to a particular person or group; 2. a special honor.",
+      "example": [
+        {
+          "eng": "Access to good education should be a right, not a privilege.",
+          "ch": "享有良好教育應該是一種權利，而不是特權。"
+        },
+        {
+          "eng": "It is a great privilege to work with such talented scientists.",
+          "ch": "能與如此優秀的科學家們共事，是一大榮幸。"
+        }
+      ]
+    },
+    {
+      "eng": "procedure",
+      "kk": "/prəˈsiːdʒər/",
+      "tense": "n.",
+      "ch": [
+        [
+          "程序",
+          "步驟",
+          "手續"
+        ]
+      ],
+      "analysis": "此字源自法語 procédure，源自拉丁語 procedere（前進、進行）。指辦理事務、醫療手術或科學實驗時，必須遵循的標準「程序、步驟與固定手續」。",
+      "definition": "1. an established or official way of doing something.",
+      "example": [
+        {
+          "eng": "Follow the standard safety procedure when entering the laboratory.",
+          "ch": "進入實驗室時，請遵循標準安全程序。"
+        }
+      ]
+    },
+    {
+      "eng": "proceed",
+      "kk": "/proʊˈsiːd/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "繼續進行",
+          "接著做"
+        ],
+        [
+          "前進",
+          "移動"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 procedere，由前綴 pro-（向前）與 cedere（走、行）複合而成。不及物動詞指事件或計畫「繼續進行、照常推動」，或指人「往某個方向前進」。",
+      "definition": "1. begin or continue a course of action; 2. move forward, especially after a pause.",
+      "example": [
+        {
+          "eng": "After a short break, the meeting will proceed.",
+          "ch": "短暫休息後，會議將繼續進行。"
+        },
+        {
+          "eng": "Please proceed to gate number four for boarding.",
+          "ch": "請前往四號登機門登機。"
+        }
+      ]
+    },
+    {
+      "eng": "productive",
+      "kk": "/prəˈdʌktɪv/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "多產的",
+          "高產出的"
+        ],
+        [
+          "富有成效的",
+          "有建設性的"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由動詞 produce（生產，源自拉丁語 producere）加上形容詞字尾 -ive 構成。形容農作物或工廠產量豐富的「多產狀態」，或指工作、討論過程「富有成效、具建設性」的高效率。",
+      "definition": "1. producing or achieving a lot; yielding favorable results; 2. effective in bringing about a result.",
+      "example": [
+        {
+          "eng": "The fertile soil makes the valley highly productive for farming.",
+          "ch": "肥沃的土壤使得這個山谷非常適合農耕，產量極高。"
+        },
+        {
+          "eng": "We had a very productive meeting and solved most of the issues.",
+          "ch": "我們開了一場非常富有成效的會議，解決了大部分的問題。"
+        }
+      ]
+    },
+    {
+      "eng": "profession",
+      "kk": "/prəˈfɛʃn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "專業",
+          "職業（尤指需專門學位者）"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 professio（公開宣告），由 profiteri（公開宣誓）演變而來（源自 pro- + fateri 承認）。歷史上醫學、法律與神職人員在執業前需宣誓，因此這類需要高等教育與專業執照的「專業職業」被稱為 profession。",
+      "definition": "1. a paid occupation, especially one that involves prolonged training and a formal qualification.",
+      "example": [
+        {
+          "eng": "Law and medicine are traditionally respected professions.",
+          "ch": "法律和醫學是傳統上備受尊敬的專業職業。"
+        }
+      ]
+    },
+    {
+      "eng": "professional",
+      "kk": "/prəˈfɛʃənl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "專業的",
+          "職業的"
+        ],
+        [
+          "內行的",
+          "訓練有素的"
+        ]
+      ],
+      "analysis": "此字由名詞 profession 加上形容詞字尾 -al 構成。形容符合專業標準的「職業水準、專業領域」，或指個人表現「內行、展現出高度技術與職業素養」的狀態。",
+      "definition": "1. relating to or connected with a profession; 2. showing a high level of skill and competence.",
+      "example": [
+        {
+          "eng": "She received professional training in graphic design.",
+          "ch": "她在平面設計方面接受了專業訓練。"
+        },
+        {
+          "eng": "His calm response to the angry customer was very professional.",
+          "ch": "他對憤怒顧客的冷靜回應展現了極高的職業素養。"
+        }
+      ]
+    },
+    {
+      "eng": "profitable",
+      "kk": "/ˈprɑːfɪtəbl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "營利性的",
+          "賺錢的"
+        ],
+        [
+          "有益的",
+          "有價值的"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由名詞 profit（利潤，源自拉丁語 profectus 進步、收益）結合形容詞字尾 -able 構成。形容商業活動「有利可圖、賺錢的」，或引申為活動、經驗「有益處、有價值的」。",
+      "definition": "1. yielding profit or financial gain; 2. bringing advantage or benefit.",
+      "example": [
+        {
+          "eng": "The small café has become very profitable after a year of hard work.",
+          "ch": "經過一年的努力，這家小咖啡館已經開始獲利。"
+        },
+        {
+          "eng": "Our discussion was very profitable and helped us reach a decision.",
+          "ch": "我們的討論非常有益，幫助我們做出了決定。"
+        }
+      ]
+    },
+    {
+      "eng": "prominent",
+      "kk": "/ˈprɑːmɪnənt/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "傑出的",
+          "著名的"
+        ],
+        [
+          "顯著的",
+          "突出的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 prominent-（突出的），由前綴 pro-（向前）與 eminere（突出、站立）複合而成。字面原意為「向前凸出、引人注目的」，引申為人物在社會上「傑出、聲譽卓著的」，或物體在視覺上「顯著、清晰可見」的。",
+      "definition": "1. important, famous, or well-known; 2. projecting from something; easily seen.",
+      "example": [
+        {
+          "eng": "She is a prominent scientist in the field of genetics.",
+          "ch": "她是遺傳學領域中一位傑出的科學家。"
+        },
+        {
+          "eng": "The new building has a prominent sign above the main entrance.",
+          "ch": "這棟新建築的正門上方有一個顯著的招牌。"
+        }
+      ]
+    },
+    {
+      "eng": "promising",
+      "kk": "/ˈprɑːmɪsɪŋ/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "有前途的",
+          "有希望的"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由動詞 promise（許諾、承諾，源自拉丁語 promittere）加上現在分詞轉形容詞的 -ing 構成。形容人事物展現出良好潛力、未來發展「大有可為、前途光明」的狀態。",
+      "definition": "1. showing signs of future success or excellence.",
+      "example": [
+        {
+          "eng": "The young actor gave a promising performance in his first movie.",
+          "ch": "這位年輕演員在他的第一部電影中展現了非常有前途的演技。"
+        }
+      ]
+    },
+    {
+      "eng": "promotion",
+      "kk": "/prəˈmoʊʃn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "晉升",
+          "升職"
+        ],
+        [
+          "促銷",
+          "推廣"
+        ]
+      ],
+      "analysis": "此字為名詞衍生形，由動詞 promote（促進、升職，源自拉丁語 promovere 向前推進）加上名詞字尾 -ion 構成。語意涵蓋職場上的「職位晉升」，以及商業行銷上的「產品促銷與推廣活動」。",
+      "definition": "1. the advancement of an employee to a higher rank or position; 2. activity that encourages people to buy a product or service.",
+      "example": [
+        {
+          "eng": "He received a promotion after successfully managing the major project.",
+          "ch": "在成功管理這個大型專案後，他獲得了升職。"
+        },
+        {
+          "eng": "The supermarket is running a special promotion on organic fruit.",
+          "ch": "這家超級市場正在舉辦有機水果的特別促銷活動。"
+        }
+      ]
+    },
+    {
+      "eng": "prompt",
+      "kk": "/prɑːmpt/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "迅速的",
+          "即時的"
+        ],
+        [
+          "準時的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 promptus（準備好的、顯現的），由 promere（取出、展現）演變而來。形容反應或行動「迅速、即時不拖延」的，或指人「準時」的習慣。",
+      "definition": "1. done without delay; immediate; 2. acting or arriving on time.",
+      "example": [
+        {
+          "eng": "Thank you for your prompt reply to my email.",
+          "ch": "謝謝你對我電子郵件的即時回覆。"
+        },
+        {
+          "eng": "Please be prompt for the meeting tomorrow morning.",
+          "ch": "請明天早上開會時務必準時。"
+        }
+      ]
+    },
+    {
+      "eng": "pronunciation",
+      "kk": "/prəˌnʌnsiˈeɪʃn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "發音",
+          "發音方式"
+        ]
+      ],
+      "analysis": "此字為名詞衍生形，由動詞 pronounce（發音，源自拉丁語 pronuntiare 公開宣告、讀出）加上名詞字ation 構成。指單字或語言被口頭發出的「讀音與發音方法」。",
+      "definition": "1. the way in which a word is pronounced.",
+      "example": [
+        {
+          "eng": "You can check the dictionary for the correct pronunciation of this word.",
+          "ch": "你可以查字典來確認這個單字的正確發音。"
+        }
+      ]
+    }
+  ]
+}

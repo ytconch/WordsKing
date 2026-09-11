@@ -1,0 +1,1440 @@
+{
+  "level": 1,
+  "chunkIndex": 2,
+  "inputs": [
+    "around",
+    "arrive",
+    "art",
+    "as",
+    "ask",
+    "at",
+    "attack",
+    "aunt",
+    "away",
+    "baby",
+    "back",
+    "bad",
+    "bag",
+    "ball",
+    "banana",
+    "band",
+    "bank",
+    "baseball",
+    "basket",
+    "basketball",
+    "bat",
+    "bath",
+    "bathroom",
+    "be",
+    "beach",
+    "bean",
+    "bear",
+    "beautiful",
+    "because",
+    "become",
+    "bed",
+    "bedroom",
+    "bee",
+    "beef",
+    "before",
+    "begin",
+    "behind",
+    "believe",
+    "bell",
+    "belong",
+    "below",
+    "belt",
+    "bench",
+    "beside",
+    "best",
+    "between",
+    "bicycle",
+    "bike",
+    "big",
+    "bird"
+  ],
+  "rows": [
+    {
+      "eng": "around",
+      "kk": "əˈraʊnd",
+      "tense": "adv.",
+      "ch": [
+        [
+          "各處",
+          "四處"
+        ],
+        [
+          "大約",
+          "上下"
+        ]
+      ],
+      "analysis": "此字為副詞用法，由介詞用法演變而來，用以修飾動詞表示動作發生的範圍在附近各地，或表示數量、程度的約略估計。",
+      "definition": "1. In every direction or in various locations nearby.; 2. In approximately the stated number or quantity.",
+      "example": [
+        {
+          "eng": "She looked around for her keys.",
+          "ch": "她四處尋找她的鑰匙。"
+        },
+        {
+          "eng": "He weighs around seventy kilograms.",
+          "ch": "他體重約七十公斤。"
+        }
+      ]
+    },
+    {
+      "eng": "around",
+      "kk": "əˈraʊnd",
+      "tense": "prep.",
+      "ch": [
+        [
+          "在...周圍",
+          "圍繞"
+        ],
+        [
+          "大約",
+          "左右"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由字首 a-（在...之中、處於...狀態）結合名詞 round（圓、周圍）而成。語意演變由具體的空間位置「環繞四周」，抽象延伸出時間、數量上的「大約、左右」。",
+      "definition": "1. Located or moving on every side of; surrounding.; 2. Approximately; more or less.",
+      "example": [
+        {
+          "eng": "They sat around the campfire.",
+          "ch": "他們坐在營火周圍。"
+        },
+        {
+          "eng": "The trip costs around five hundred dollars.",
+          "ch": "這趟旅行大約花費五百美元。"
+        }
+      ]
+    },
+    {
+      "eng": "arrive",
+      "kk": "əˈraɪv",
+      "tense": "vi.",
+      "ch": [
+        [
+          "到達",
+          "抵達"
+        ],
+        [
+          "到來",
+          "登場"
+        ]
+      ],
+      "analysis": "此字源自古法語 arriver，最終追溯至拉丁語 ad-（至）與 rīpa（河岸），原意為「船隻靠岸、登陸」。歷史演變將此概念擴大至泛指任何交通工具或人員的「到達目的地」，並進一步引申為季節、時刻或機會的「到來」。",
+      "definition": "1. To reach a destination, especially at the end of a journey.; 2. To happen or appear; to arrive at a certain time.",
+      "example": [
+        {
+          "eng": "We will arrive in Tokyo tonight.",
+          "ch": "我們今晚會到達東京。"
+        },
+        {
+          "eng": "Spring has finally arrived.",
+          "ch": "春天終於來臨了。"
+        }
+      ]
+    },
+    {
+      "eng": "art",
+      "kk": "ɑrt",
+      "tense": "n.",
+      "ch": [
+        [
+          "藝術",
+          "美術"
+        ],
+        [
+          "技藝",
+          "藝術品"
+        ]
+      ],
+      "analysis": "此字經由古法語借自拉丁語 ars（技藝、技術、學術）。歷史語意由古羅馬時期的「實用技能或工藝」逐漸演變，在文藝復興後重心轉移至強調美學、創造力與表現力的「精美藝術（fine arts）」。",
+      "definition": "1. The expression or application of human creative skill and imagination, typically in a visual form.; 2. A skill or craft acquired by experience, study, or observation.",
+      "example": [
+        {
+          "eng": "She studies modern art at the university.",
+          "ch": "她在大學主修現代藝術。"
+        },
+        {
+          "eng": "The art of storytelling takes practice.",
+          "ch": "說故事的技藝需要練習。"
+        }
+      ]
+    },
+    {
+      "eng": "as",
+      "kk": "æz",
+      "tense": "prep.",
+      "ch": [
+        [
+          "作為",
+          "擔任"
+        ]
+      ],
+      "analysis": "此字源自日耳曼語源的古英語 eallswā（意即 just as、完全如此），經語音弱化與功能轉化，現代主要用作介詞，表示身分、資格或功能的擔當。",
+      "definition": "1. In the role or function of.",
+      "example": [
+        {
+          "eng": "He works as a teacher.",
+          "ch": "他擔任老師的工作。"
+        }
+      ]
+    },
+    {
+      "eng": "as",
+      "kk": "æz",
+      "tense": "conj.",
+      "ch": [
+        [
+          "當...時",
+          "在...同時"
+        ],
+        [
+          "如同",
+          "像...一樣"
+        ],
+        [
+          "因為",
+          "由於"
+        ]
+      ],
+      "analysis": "此連接詞用法由古英語程度副詞與連接詞演變而來，透過時間上的「同時」、性質上的「對應相似」以及邏輯上的「原因說明」，在句中引導不同類型的子句。",
+      "definition": "1. While; during the time that.; 2. In the same way that; like.; 3. Because; since.",
+      "example": [
+        {
+          "eng": "She sang as she walked home.",
+          "ch": "她一邊走回家一邊唱歌。"
+        },
+        {
+          "eng": "Do as I told you.",
+          "ch": "照我告訴你的去做。"
+        },
+        {
+          "eng": "As it was raining, we stayed indoors.",
+          "ch": "因為在下雨，我們待在室內。"
+        }
+      ]
+    },
+    {
+      "eng": "ask",
+      "kk": "æsk",
+      "tense": "vt.",
+      "ch": [
+        [
+          "詢問",
+          "打聽"
+        ],
+        [
+          "請求",
+          "要求"
+        ]
+      ],
+      "analysis": "此字源自古英語 āscian，具有日耳曼語源。基本語意為「提出問題以獲得資訊」，在歷史發展中自然延伸出「向人提出獲取物品、協助或許可之請求」的及物動詞用法。",
+      "definition": "1. To say something in order to obtain an answer or information.; 2. To request or demand something from someone.",
+      "example": [
+        {
+          "eng": "He asked me a difficult question.",
+          "ch": "他問了我一個困難的問題。"
+        },
+        {
+          "eng": "She asked for a glass of water.",
+          "ch": "她要求要一杯水。"
+        }
+      ]
+    },
+    {
+      "eng": "ask",
+      "kk": "æsk",
+      "tense": "vi.",
+      "ch": [
+        [
+          "詢問",
+          "請求"
+        ]
+      ],
+      "analysis": "此字為 ask 的不及物用法，不需要直接受詞，專門指發起提問或提出要求的行為動作。",
+      "definition": "1. To make a request or put a question.",
+      "example": [
+        {
+          "eng": "If you don't know the way, feel free to ask.",
+          "ch": "如果你不知道路，儘管問吧。"
+        }
+      ]
+    },
+    {
+      "eng": "at",
+      "kk": "æt",
+      "tense": "prep.",
+      "ch": [
+        [
+          "在...",
+          "於..."
+        ],
+        [
+          "向...",
+          "朝..."
+        ]
+      ],
+      "analysis": "此字源自古英語 æt，為日耳曼語源的常用介詞。核心空間意義為指出一個具體的點或位置，隨後抽象化應用於時間點、目標指向及狀態。",
+      "definition": "1. Expressing a specific location or position.; 2. Expressing a target or direction of an action.",
+      "example": [
+        {
+          "eng": "She is waiting at the bus stop.",
+          "ch": "她正在公車站等車。"
+        },
+        {
+          "eng": "He threw the ball at the wall.",
+          "ch": "他把球朝牆壁扔去。"
+        }
+      ]
+    },
+    {
+      "eng": "attack",
+      "kk": "əˈtæk",
+      "tense": "n.",
+      "ch": [
+        [
+          "攻擊",
+          "襲擊"
+        ],
+        [
+          "發作",
+          "病發"
+        ]
+      ],
+      "analysis": "此名詞源自義大利語 attaccare（原意為釘上、繫上，後轉為發動攻擊），經法語進入英語。名詞義涵由軍事或實體「攻擊」延伸至生理疾病（如心臟病）的急性「發作」。",
+      "definition": "1. An aggressive and violent action against a person or place.; 2. A sudden occurrence of a disease.",
+      "example": [
+        {
+          "eng": "The city suffered a heavy enemy attack.",
+          "ch": "這座城市遭受了猛烈的敵軍攻擊。"
+        },
+        {
+          "eng": "He suffered a heart attack last night.",
+          "ch": "他昨晚突發心臟病。"
+        }
+      ]
+    },
+    {
+      "eng": "attack",
+      "kk": "əˈtæk",
+      "tense": "vt.",
+      "ch": [
+        [
+          "攻擊",
+          "進攻"
+        ],
+        [
+          "抨擊",
+          "指責"
+        ]
+      ],
+      "analysis": "此動詞與同形名詞同源，由義大利語引進。及物動詞直接受詞可為軍事敵對目標，亦可引申為言論或文字上的「嚴厲抨擊」。",
+      "definition": "1. To take aggressive action against a place or enemy forces.; 2. To criticize strongly in speech or writing.",
+      "example": [
+        {
+          "eng": "The army prepared to attack the fort.",
+          "ch": "軍隊準備進攻要塞。"
+        },
+        {
+          "eng": "The newspaper attacked the politician's policies.",
+          "ch": "該報紙抨擊了該政治人物的政策。"
+        }
+      ]
+    },
+    {
+      "eng": "attack",
+      "kk": "əˈtæk",
+      "tense": "vi.",
+      "ch": [
+        [
+          "發動攻擊",
+          "進攻"
+        ]
+      ],
+      "analysis": "此為 attack 的不及物用法，強調主詞採取主動攻勢的行為，不帶直接受詞。",
+      "definition": "1. To initiate an aggressive action.",
+      "example": [
+        {
+          "eng": "The soldiers received the order to attack.",
+          "ch": "士兵們接到了進攻的命令。"
+        }
+      ]
+    },
+    {
+      "eng": "aunt",
+      "kk": "ænt",
+      "tense": "n.",
+      "ch": [
+        [
+          "姑母",
+          "阿姨",
+          "舅母",
+          "伯母"
+        ]
+      ],
+      "analysis": "此字經由古法語 amte、ante，源自拉丁語 amita（父親的姐妹）。歷史語義指稱父系或母系的女性長輩親屬，現代在許多文化中亦可用作對非親屬年長女性的尊稱。",
+      "definition": "1. The sister of one's father or mother, or the wife of one's uncle.",
+      "example": [
+        {
+          "eng": "My aunt lives in New York.",
+          "ch": "我阿姨住在紐約。"
+        }
+      ]
+    },
+    {
+      "eng": "away",
+      "kk": "əˈweɪ",
+      "tense": "adv.",
+      "ch": [
+        [
+          "離開",
+          "遠離"
+        ],
+        [
+          "持續地",
+          "不斷地"
+        ]
+      ],
+      "analysis": "此字源自古英語 on weg（意即 on way，在路上、離去中）。基本語意由原來的「在道路上、向外離去」演變為空間上的「離開、不在原地」，亦可作為副詞片語修飾動作的持續進行。",
+      "definition": "1. At a distance from a particular place, person, or thing.; 2. Continuously or steadily.",
+      "example": [
+        {
+          "eng": "He walked away without saying goodbye.",
+          "ch": "他連再見沒說就走開了。"
+        },
+        {
+          "eng": "She worked away at her desk all afternoon.",
+          "ch": "她整個下午都在桌前埋頭苦幹。"
+        }
+      ]
+    },
+    {
+      "eng": "baby",
+      "kk": "ˈbeɪbi",
+      "tense": "n.",
+      "ch": [
+        [
+          "嬰兒",
+          "寶貝"
+        ]
+      ],
+      "analysis": "此字為擬聲詞性質的兒童語彙，模仿嬰兒發出的聲音，在中世紀英語中定型。除了指剛出生的孩子外，也常用作親密愛人間的稱呼。",
+      "definition": "1. A very young child, especially one newly born or not yet able to walk or talk.",
+      "example": [
+        {
+          "eng": "The baby is sleeping peacefully.",
+          "ch": "嬰兒正安詳地睡著。"
+        }
+      ]
+    },
+    {
+      "eng": "back",
+      "kk": "bæk",
+      "tense": "n.",
+      "ch": [
+        [
+          "背",
+          "背部"
+        ],
+        [
+          "後面",
+          "後部"
+        ]
+      ],
+      "analysis": "此字源自古英語 bæc，為日耳曼語源。本義指人體或動物的脊椎背側，空間概念上引申為物體、建築物或書本的「背面、後方」。",
+      "definition": "1. The rear surface of the human body from the shoulders to the hips.; 2. The rear or posterior part of something.",
+      "example": [
+        {
+          "eng": "He carried his backpack on his back.",
+          "ch": "他把後背包背在背上。"
+        },
+        {
+          "eng": "Sign your name at the back of the paper.",
+          "ch": "在紙張背面簽上你的名字。"
+        }
+      ]
+    },
+    {
+      "eng": "back",
+      "kk": "bæk",
+      "tense": "adv.",
+      "ch": [
+        [
+          "向後",
+          "往回"
+        ],
+        [
+          "返回",
+          "回原處"
+        ]
+      ],
+      "analysis": "此副詞用法源自名詞或形容詞定位，表示動作方向的「朝向背後」或「回到原本的出發點」。",
+      "definition": "1. In, to, or toward the rear.; 2. In, to, or toward a former place, position, or state.",
+      "example": [
+        {
+          "eng": "He stepped back to avoid the puddle.",
+          "ch": "他向後退了一步以避開水漥。"
+        },
+        {
+          "eng": "She will be back in five minutes.",
+          "ch": "她五分鐘後就會回來。"
+        }
+      ]
+    },
+    {
+      "eng": "bad",
+      "kk": "bæd",
+      "tense": "adj.",
+      "ch": [
+        [
+          "壞的",
+          "不好的"
+        ],
+        [
+          "嚴重的心情或情況",
+          "糟糕的"
+        ]
+      ],
+      "analysis": "此字源自古英語 bæddel（意即雌雄同體者，後義轉為軟弱、低劣）。歷史語意由指人品或狀態的卑劣，泛化為所有品質低劣、令人不快或情況嚴重的通用形容詞。",
+      "definition": "1. Of poor quality or a low standard; unpleasant or unwelcome.; 2. Severe or serious in effect.",
+      "example": [
+        {
+          "eng": "Smoking is bad for your health.",
+          "ch": "抽菸對你的健康有害。"
+        },
+        {
+          "eng": "He had a bad cold last week.",
+          "ch": "他上週得了場嚴重的感冒。"
+        }
+      ]
+    },
+    {
+      "eng": "bag",
+      "kk": "bæg",
+      "tense": "n.",
+      "ch": [
+        [
+          "袋子",
+          "提袋"
+        ]
+      ],
+      "analysis": "此字源自斯堪地那維亞語源（古諾斯語 baggi），在中世紀英語中普及。基本義為用布、紙或塑膠製成、用於裝納物品的容器。",
+      "definition": "1. A flexible container made of paper, plastic, cloth, or leather, used for carrying things.",
+      "example": [
+        {
+          "eng": "She put the groceries in a plastic bag.",
+          "ch": "她把雜貨裝進塑膠袋裡。"
+        }
+      ]
+    },
+    {
+      "eng": "ball",
+      "kk": "bɔl",
+      "tense": "n.",
+      "ch": [
+        [
+          "球"
+        ],
+        [
+          "舞會"
+        ]
+      ],
+      "analysis": "此字有兩個不同來源的同形異源詞。其一源自古諾斯語 böllr（球形物體），指各種球類運動用的球；其二源自拉丁語 ballare（跳舞），經法語演變指大型社交「舞會」。",
+      "definition": "1. A round object used in various games.; 2. A large formal gathering for dancing.",
+      "example": [
+        {
+          "eng": "The boy kicked the ball across the yard.",
+          "ch": "那男孩把球踢過庭院。"
+        },
+        {
+          "eng": "Cinderella attended the royal ball.",
+          "ch": "灰姑娘參加了皇室舞會。"
+        }
+      ]
+    },
+    {
+      "eng": "banana",
+      "kk": "bəˈnænə",
+      "tense": "n.",
+      "ch": [
+        [
+          "香蕉"
+        ]
+      ],
+      "analysis": "此字透過西非語言（如 Wolof 語 banana）經由西班牙語或葡萄牙語傳入英語。專指熱帶地區產出的香蕉樹果實。",
+      "definition": "1. A long curved fruit with a yellow skin and soft sweet flesh.",
+      "example": [
+        {
+          "eng": "Monkeys love to eat bananas.",
+          "ch": "猴子喜歡吃香蕉。"
+        }
+      ]
+    },
+    {
+      "eng": "band",
+      "kk": "bænd",
+      "tense": "n.",
+      "ch": [
+        [
+          "樂團",
+          "樂隊"
+        ],
+        [
+          "帶子",
+          "箍"
+        ]
+      ],
+      "analysis": "此字源自日耳曼語源（如古諾斯語 band，意即綑綁之物），在中世紀英語中發展。基本義為「束縛、帶狀物」，後來引申出「聚集在一起演奏音樂的樂團」或「一幫人」。",
+      "definition": "1. A small musical group playing popular music or jazz.; 2. A flat, narrow strip of material used to tie, bind, or connect things.",
+      "example": [
+        {
+          "eng": "The rock band played at the concert.",
+          "ch": "這個搖滾樂團在音樂會上表演。"
+        },
+        {
+          "eng": "She wore a gold band on her finger.",
+          "ch": "她手指上戴著一個金戒環。"
+        }
+      ]
+    },
+    {
+      "eng": "bank",
+      "kk": "bæŋk",
+      "tense": "n.",
+      "ch": [
+        [
+          "銀行"
+        ],
+        [
+          "河岸",
+          "堤岸"
+        ]
+      ],
+      "analysis": "此字有兩個同形異源詞。其一源自義大利語 banca（長椅、兌換商櫃檯），指金融機構「銀行」；其二源自日耳曼語源，指河水兩側的「河岸或土堤」。",
+      "definition": "1. A financial establishment that invests money, takes deposits, and makes loans.; 2. The land alongside or sloping down to a river or lake.",
+      "example": [
+        {
+          "eng": "I need to go to the bank to cash a check.",
+          "ch": "我需要去銀行兌現支票。"
+        },
+        {
+          "eng": "They sat on the grassy bank of the river.",
+          "ch": "他們坐在長滿青草的河岸上。"
+        }
+      ]
+    },
+    {
+      "eng": "baseball",
+      "kk": "ˈbeɪsˌbɔl",
+      "tense": "n.",
+      "ch": [
+        [
+          "棒球",
+          "棒球運動"
+        ]
+      ],
+      "analysis": "此字為現代透明複合詞，由 base（壘包）與 ball（球）組合而成。指使用壘包與球的美國傳統團隊球類運動，亦指該運動所使用的球。",
+      "definition": "1. A ball game played with a bat and ball between two teams of nine players, involving running around four bases.",
+      "example": [
+        {
+          "eng": "He enjoys playing baseball with his friends.",
+          "ch": "他喜歡和朋友打棒球。"
+        }
+      ]
+    },
+    {
+      "eng": "basket",
+      "kk": "ˈbæskɪt",
+      "tense": "n.",
+      "ch": [
+        [
+          "籃子",
+          "簍子"
+        ]
+      ],
+      "analysis": "此字源自古拉丁語 bascauda（源自凱爾特語族），經由古法語進入英語。專指用柳條、藤蔓或塑膠編織而成的盛裝器皿。",
+      "definition": "1. A container used for holding or carrying things, typically made from interwoven strips of cane, plastic, or wire.",
+      "example": [
+        {
+          "eng": "She collected fresh apples in a wooden basket.",
+          "ch": "她用木籃子收集新鮮的蘋果。"
+        }
+      ]
+    },
+    {
+      "eng": "basketball",
+      "kk": "ˈbæskɪtˌbɔl",
+      "tense": "n.",
+      "ch": [
+        [
+          "籃球",
+          "籃球運動"
+        ]
+      ],
+      "analysis": "此字為現代透明複合詞，由 basket（籃子、籃框）與 ball（球）結合而成，指於19世紀末發明、將球投入高處懸掛籃框的球類運動及球本身。",
+      "definition": "1. A game played by two teams of five players in which goals are scored by throwing a ball through a netted hoop fixed above each end of the court.",
+      "example": [
+        {
+          "eng": "Basketball is a very popular sport worldwide.",
+          "ch": "籃球是全球非常普及的運動。"
+        }
+      ]
+    },
+    {
+      "eng": "bat",
+      "kk": "bæt",
+      "tense": "n.",
+      "ch": [
+        [
+          "球棒",
+          "球拍"
+        ],
+        [
+          "蝙蝠"
+        ]
+      ],
+      "analysis": "此字有兩個同形異源詞。其一源自古諾斯語 batr 或古英語 batt（棍棒），指棒球、板球等用的球棒；其二源自中古英語 bakte（源自古諾斯語），指會飛的哺乳動物「蝙蝠」。",
+      "definition": "1. A club used to hit the ball in games such as baseball or cricket.; 2. A nocturnal flying mammal with wings formed from membranes.",
+      "example": [
+        {
+          "eng": "He bought a new wooden baseball bat.",
+          "ch": "他買了一支新的木製棒球棒。"
+        },
+        {
+          "eng": "A bat flew out of the dark cave.",
+          "ch": "一隻蝙蝠從黑暗的山洞裡飛出來。"
+        }
+      ]
+    },
+    {
+      "eng": "bath",
+      "kk": "bæθ",
+      "tense": "n.",
+      "ch": [
+        [
+          "洗澡",
+          "浴缸"
+        ]
+      ],
+      "analysis": "此字源自古英語 bæð，為日耳曼語源。基本義為將全身浸泡在溫水或藥水中的清潔、醫療行為，或指裝水的浴缸設施。",
+      "definition": "1. An act of washing the body by immersion in water; a bathtub.",
+      "example": [
+        {
+          "eng": "The tired child fell asleep after his bath.",
+          "ch": "疲憊的孩子洗完澡後就睡著了。"
+        }
+      ]
+    },
+    {
+      "eng": "bathroom",
+      "kk": "ˈbæθˌrum",
+      "tense": "n.",
+      "ch": [
+        [
+          "浴室",
+          "洗手間",
+          "廁所"
+        ]
+      ],
+      "analysis": "此字為現代透明複合詞，由 bath（洗澡）與 room（房間）組成。原意為設有浴缸的浴室，現代美式英語中廣泛用作附有馬桶的廁所或洗手間的委婉代稱。",
+      "definition": "1. A room containing a bath or shower and typically also a washbasin and a toilet.",
+      "example": [
+        {
+          "eng": "Excuse me, where is the bathroom?",
+          "ch": "不好意思，請問洗手間在哪裡？"
+        }
+      ]
+    },
+    {
+      "eng": "be",
+      "kk": "bi",
+      "tense": "aux.",
+      "ch": [
+        [
+          "是",
+          "存在"
+        ]
+      ],
+      "analysis": "此字源自古英語 bēon / wesan，為印歐語系最古老且高度不規則的動詞之一。作為助動詞時，與其他動詞結合構成進行式或被動語態。",
+      "definition": "1. Used as an auxiliary verb to form continuous tenses and the passive voice.",
+      "example": [
+        {
+          "eng": "She is reading a book.",
+          "ch": "她正在讀書。"
+        }
+      ]
+    },
+    {
+      "eng": "beach",
+      "kk": "bitʃ",
+      "tense": "n.",
+      "ch": [
+        [
+          "海灘",
+          "沙灘"
+        ]
+      ],
+      "analysis": "此字源自中世紀英語 beche，最初指沙礫覆蓋的河灘或海岸，隨後演變專指海洋、湖泊邊鋪滿細沙或卵石的平坦岸邊。",
+      "definition": "1. A pebbly or sandy shore, especially by the ocean between high- and low-water marks.",
+      "example": [
+        {
+          "eng": "We like to walk along the sandy beach at sunset.",
+          "ch": "我們喜歡在日落時分沿著沙灘散步。"
+        }
+      ]
+    },
+    {
+      "eng": "bean",
+      "kk": "bin",
+      "tense": "n.",
+      "ch": [
+        [
+          "豆",
+          "豆子"
+        ]
+      ],
+      "analysis": "此字源自古英語 bēan，為日耳曼語源。專指豆科植物所結、可供食用的種子或豆莢。",
+      "definition": "1. An edible seed or pod of certain leguminous plants.",
+      "example": [
+        {
+          "eng": "Coffee beans are roasted before being ground.",
+          "ch": "咖啡豆在磨碎之前會先烘焙。"
+        }
+      ]
+    },
+    {
+      "eng": "bear",
+      "kk": "bɛr",
+      "tense": "n.",
+      "ch": [
+        [
+          "熊"
+        ]
+      ],
+      "analysis": "此字源自古英語 bera，為日耳曼語源。指大型、毛茸茸、尾短的雜食性哺乳動物「熊」。",
+      "definition": "1. A large, heavy, carnivorous or omnivorous mammal with thick fur and a very short tail.",
+      "example": [
+        {
+          "eng": "We saw a brown bear in the forest.",
+          "ch": "我們在森林裡看到一隻棕熊。"
+        }
+      ]
+    },
+    {
+      "eng": "bear",
+      "kk": "bɛr",
+      "tense": "vt.",
+      "ch": [
+        [
+          "承受",
+          "忍受"
+        ],
+        [
+          "懷有",
+          "負擔"
+        ]
+      ],
+      "analysis": "此動詞源自古英語 beran（攜帶、承受），與名詞「熊」同源但詞義不同。其核心義為「支撐重量或負擔」，引申為「忍受痛苦、壓力」或「心中懷有（恨意、希望等）」。",
+      "definition": "1. To endure an ordeal or difficulty; to tolerate.; 2. To carry the weight of or hold something.",
+      "example": [
+        {
+          "eng": "I cannot bear the loud noise any longer.",
+          "ch": "我再也無法忍受這個噪音了。"
+        },
+        {
+          "eng": "She bears no ill will toward anyone.",
+          "ch": "她對任何人都沒有懷恨意。"
+        }
+      ]
+    },
+    {
+      "eng": "beautiful",
+      "kk": "ˈbjutɪfəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "美麗的",
+          "漂亮的"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由名詞 beauty（透過古法語借自拉丁語）加上形容詞字尾 -ful（充滿...的）結合而成。字面義即「充滿美麗的」，用以形容人、事物或景色極具美感。",
+      "definition": "1. Pleasing the senses or mind aesthetically.",
+      "example": [
+        {
+          "eng": "She wore a beautiful dress to the party.",
+          "ch": "她穿了一件美麗的洋裝去派對。"
+        }
+      ]
+    },
+    {
+      "eng": "because",
+      "kk": "bɪˈkɔz",
+      "tense": "conj.",
+      "ch": [
+        [
+          "因為"
+        ]
+      ],
+      "analysis": "此複合連接詞由副詞 by 與名詞 cause（原因，源自拉丁語）組合演變而來。中世紀英語時期定型，專門用來引導原因子句，說明某事發生的理由。",
+      "definition": "1. For the reason that; since.",
+      "example": [
+        {
+          "eng": "The match was canceled because it rained.",
+          "ch": "比賽因為下雨而取消了。"
+        }
+      ]
+    },
+    {
+      "eng": "become",
+      "kk": "bɪˈkʌm",
+      "tense": "vt.",
+      "ch": [
+        [
+          "變成",
+          "成為"
+        ]
+      ],
+      "analysis": "此字源自古英語 becuman（意即到來、變成）。由字首 be- 與動詞 come 組成。歷史語義由「降臨、來到某狀態」演變為現代穩定的「轉變成為某種身分或狀態」之聯綴動詞用法。",
+      "definition": "1. To begin to be; to pass into a state.",
+      "example": [
+        {
+          "eng": "He wants to become a doctor when he grows up.",
+          "ch": "他長大後想成為一名醫生。"
+        }
+      ]
+    },
+    {
+      "eng": "bed",
+      "kk": "bɛd",
+      "tense": "n.",
+      "ch": [
+        [
+          "床"
+        ],
+        [
+          "苗圃",
+          "河床"
+        ]
+      ],
+      "analysis": "此字源自古英語 bedd，為日耳曼語源。基本義為睡眠或休息用的「床鋪」，隨後因形狀相似或功能對應，引申出花草種植的「花圃（flower bed）」或河流底部的「河床（river bed）」。",
+      "definition": "1. A piece of furniture for sleeping or resting on.; 2. A garden plot or the bottom of a body of water.",
+      "example": [
+        {
+          "eng": "It is time to go to bed.",
+          "ch": "是時候上床睡覺了。"
+        },
+        {
+          "eng": "She planted tulips in her garden bed.",
+          "ch": "她在花圃裡種了鬱金香。"
+        }
+      ]
+    },
+    {
+      "eng": "bedroom",
+      "kk": "ˈbɛdˌrum",
+      "tense": "n.",
+      "ch": [
+        [
+          "臥室",
+          "睡房"
+        ]
+      ],
+      "analysis": "此字為現代透明複合詞，由 bed（床）與 room（房間）結合而成。專指供人睡眠與休息的私人房間。",
+      "definition": "1. A room used for sleeping in.",
+      "example": [
+        {
+          "eng": "My bedroom is on the second floor.",
+          "ch": "我的臥室在二樓。"
+        }
+      ]
+    },
+    {
+      "eng": "bee",
+      "kk": "bi",
+      "tense": "n.",
+      "ch": [
+        [
+          "蜜蜂"
+        ]
+      ],
+      "analysis": "此字源自古英語 bēo，為日耳曼語源。專指會採集花蜜、製造蜂蜜的飛蟲「蜜蜂」。",
+      "definition": "1. A stinging winged insect that collects nectar and pollen, produces wax and honey.",
+      "example": [
+        {
+          "eng": "A busy bee was collecting pollen from the flowers.",
+          "ch": "一隻忙碌的蜜蜂正在花朵上採集花粉。"
+        }
+      ]
+    },
+    {
+      "eng": "beef",
+      "kk": "bif",
+      "tense": "n.",
+      "ch": [
+        [
+          "牛肉"
+        ]
+      ],
+      "analysis": "此字經由古法語 boef（源自拉丁語 bōs / bovis，牛）進入英語。在諾曼征服後，貴族食用的肉類多使用法語借詞，因此由牛（ox）之肉衍生出專門指稱食用「牛肉」的詞彙。",
+      "definition": "1. The flesh of a cow, bull, or ox, used as food.",
+      "example": [
+        {
+          "eng": "We had grilled beef for dinner last night.",
+          "ch": "我們昨晚晚餐吃了烤牛肉。"
+        }
+      ]
+    },
+    {
+      "eng": "before",
+      "kk": "bɪˈfɔr",
+      "tense": "adv.",
+      "ch": [
+        [
+          "以前",
+          "以往"
+        ]
+      ],
+      "analysis": "此副詞用法指過去某個時間點之前，不帶受詞，通常置於句尾或動詞後方修飾。",
+      "definition": "1. At a time earlier than the present; previously.",
+      "example": [
+        {
+          "eng": "I have visited this museum before.",
+          "ch": "我以前參觀過這座博物館。"
+        }
+      ]
+    },
+    {
+      "eng": "before",
+      "kk": "bɪˈfɔr",
+      "tense": "prep.",
+      "ch": [
+        [
+          "在...之前"
+        ]
+      ],
+      "analysis": "此字源自古英語 beforan，由字首 be-（在...旁）與 foran（在前面）組合而成。核心空間義為「在...前面」，隨時間推移擴展並主要用作時間上的「在...之前」。",
+      "definition": "1. Earlier than a particular time or event.",
+      "example": [
+        {
+          "eng": "You must finish your homework before dinner.",
+          "ch": "你必須在晚餐前完成作業。"
+        }
+      ]
+    },
+    {
+      "eng": "before",
+      "kk": "bɪˈfɔr",
+      "tense": "conj.",
+      "ch": [
+        [
+          "在...之前"
+        ]
+      ],
+      "analysis": "此連接詞用法引導時間子句，表示某一動作或事件發生在另一動作或事件之前。",
+      "definition": "1. Earlier than the time that.",
+      "example": [
+        {
+          "eng": "Please lock the door before you leave.",
+          "ch": "請在你離開前把門鎖上。"
+        }
+      ]
+    },
+    {
+      "eng": "begin",
+      "kk": "bɪˈɡɪn",
+      "tense": "vt.",
+      "ch": [
+        [
+          "開始",
+          "著手"
+        ]
+      ],
+      "analysis": "此字源自古英語 beginnan，為日耳曼語源。基本義為「採取行動踏出第一步、展開一項活動或過程」。",
+      "definition": "1. To start, perform or undergo the first part of an action or activity.",
+      "example": [
+        {
+          "eng": "The students began their final exam.",
+          "ch": "學生們開始了他們的期末考。"
+        }
+      ]
+    },
+    {
+      "eng": "begin",
+      "kk": "bɪˈɡɪn",
+      "tense": "vi.",
+      "ch": [
+        [
+          "開始",
+          "起步"
+        ]
+      ],
+      "analysis": "此為 begin 的不及物用法，指事件或過程自動開始發生，不需直接受詞。",
+      "definition": "1. To start happening or take place.",
+      "example": [
+        {
+          "eng": "The movie is about to begin.",
+          "ch": "電影快要開始了。"
+        }
+      ]
+    },
+    {
+      "eng": "behind",
+      "kk": "bɪˈhaɪnd",
+      "tense": "adv.",
+      "ch": [
+        [
+          "在後面",
+          "向後"
+        ],
+        [
+          "遺留",
+          "落後"
+        ]
+      ],
+      "analysis": "此副詞用法指留在後方或沒有跟上進度，作為獨立修飾語使用。",
+      "definition": "1. In or toward the rear; 2. remaining in a place after others have left.",
+      "example": [
+        {
+          "eng": "She stayed behind to help clean the room.",
+          "ch": "她留下來幫忙打掃房間。"
+        }
+      ]
+    },
+    {
+      "eng": "behind",
+      "kk": "bɪˈhaɪnd",
+      "tense": "prep.",
+      "ch": [
+        [
+          "在...後面",
+          "落後於"
+        ]
+      ],
+      "analysis": "此字源自古英語 behindan，由字首 be- 與 hindan（在後面）組成。空間本義為「在某物體的後側」，並引申出進度或表現上的「落後於」。",
+      "definition": "1. At the back of; on the farther side of.; 2. Late or slower than required.",
+      "example": [
+        {
+          "eng": "The cat hid behind the sofa.",
+          "ch": "那隻貓躲在沙發後面。"
+        },
+        {
+          "eng": "He is behind schedule with his work.",
+          "ch": "他的工作進度落後了。"
+        }
+      ]
+    },
+    {
+      "eng": "believe",
+      "kk": "bɪˈliv",
+      "tense": "vt.",
+      "ch": [
+        [
+          "相信",
+          "認為"
+        ]
+      ],
+      "analysis": "此字源自古英語 gelīfan，經中世紀英語演變。字首 ge- 脫落後定型為 believe。其核心義為「在心中認定某事為真、信任某人所言」。",
+      "definition": "1. To accept something as true, genuine, or real; to trust.",
+      "example": [
+        {
+          "eng": "I believe his story is completely true.",
+          "ch": "我相信他的故事完全是真的。"
+        }
+      ]
+    },
+    {
+      "eng": "believe",
+      "kk": "bɪˈliv",
+      "tense": "vi.",
+      "ch": [
+        [
+          "信任",
+          "信仰"
+        ]
+      ],
+      "analysis": "此為 believe 的不及物用法，常與介詞 in 連用，表示對某種信念、價值或神祇的虔誠信仰與信任。",
+      "definition": "1. To have faith or confidence in the existence of something, often with 'in'.",
+      "example": [
+        {
+          "eng": "Children often believe in magic.",
+          "ch": "孩子們通常相信魔法。"
+        }
+      ]
+    },
+    {
+      "eng": "bell",
+      "kk": "bɛl",
+      "tense": "n.",
+      "ch": [
+        [
+          "鈴",
+          "鐘"
+        ]
+      ],
+      "analysis": "此字源自古英語 belle，為日耳曼語源。指金屬製成、敲擊會發出清脆聲響的鐘或鈴鐺。",
+      "definition": "1. A hollow metal object shaped like a cup that rings when struck.",
+      "example": [
+        {
+          "eng": "The school bell rang to signal the end of class.",
+          "ch": "學校的鐘聲響起，標誌著下課。"
+        }
+      ]
+    },
+    {
+      "eng": "belong",
+      "kk": "bɪˈlɔŋ",
+      "tense": "vi.",
+      "ch": [
+        [
+          "屬於",
+          "歸屬"
+        ]
+      ],
+      "analysis": "此字由字首 be- 與古英語 langian（渴望、牽掛）組合而成，經中世紀英語演變出「與某人具備關聯、應歸於某處」的語義。",
+      "definition": "1. To be the property of someone; to fit in a specified place or group.",
+      "example": [
+        {
+          "eng": "This jacket belongs to my brother.",
+          "ch": "這件夾克是我弟弟的。"
+        }
+      ]
+    },
+    {
+      "eng": "below",
+      "kk": "bɪˈloʊ",
+      "tense": "adv.",
+      "ch": [
+        [
+          "在下面",
+          "在下方"
+        ]
+      ],
+      "analysis": "此副詞用法指位於較低之處，常用於文章中指「見下文」或空間上的樓下、下方。",
+      "definition": "1. At a lower place, grade, or altitude.",
+      "example": [
+        {
+          "eng": "Please read the instructions provided below.",
+          "ch": "請閱讀下方提供的說明。"
+        }
+      ]
+    },
+    {
+      "eng": "below",
+      "kk": "bɪˈloʊ",
+      "tense": "prep.",
+      "ch": [
+        [
+          "在...下方",
+          "低於"
+        ]
+      ],
+      "analysis": "此字由字首 be- 與古英語 lōh（低處、下方）演變而來。核心空間義為「在低於某個水平或標準的位置」。",
+      "definition": "1. At a lower level or layer than.",
+      "example": [
+        {
+          "eng": "The temperature dropped below zero last night.",
+          "ch": "昨晚氣溫降到零度以下。"
+        }
+      ]
+    },
+    {
+      "eng": "belt",
+      "kk": "bɛlt",
+      "tense": "n.",
+      "ch": [
+        [
+          "皮帶",
+          "腰帶"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 balteus（軍用腰帶），經由古英語或中古英語借入。現代指圍在腰部用於固定衣物或裝飾的帶狀物。",
+      "definition": "1. A strip of leather or other material worn around the waist to support clothes or for decoration.",
+      "example": [
+        {
+          "eng": "He wore a brown leather belt with his jeans.",
+          "ch": "他穿著牛仔褲，繫著一條棕色皮帶。"
+        }
+      ]
+    },
+    {
+      "eng": "bench",
+      "kk": "bɛntʃ",
+      "tense": "n.",
+      "ch": [
+        [
+          "長椅",
+          "長凳"
+        ]
+      ],
+      "analysis": "此字源自古英語 benc，為日耳曼語源。基本義為供多人同時坐著的木製或石製長凳，亦可指法官坐的法官席。",
+      "definition": "1. A long, usually wooden seat for multiple people to sit on.",
+      "example": [
+        {
+          "eng": "They sat on a park bench and talked.",
+          "ch": "他們坐在公園的長椅上聊天。"
+        }
+      ]
+    },
+    {
+      "eng": "beside",
+      "kk": "bɪˈsaɪd",
+      "tense": "prep.",
+      "ch": [
+        [
+          "在...旁邊",
+          "緊靠"
+        ]
+      ],
+      "analysis": "此字由介詞 by 與名詞 side（側面）組合成複合詞。核心義為「位於某人或某物的側邊或旁邊」。",
+      "definition": "1. At the side of; next to.",
+      "example": [
+        {
+          "eng": "She parked her car beside mine.",
+          "ch": "她把車停在我的車旁邊。"
+        }
+      ]
+    },
+    {
+      "eng": "best",
+      "kk": "bɛst",
+      "tense": "adj.",
+      "ch": [
+        [
+          "最好的",
+          "最優秀的"
+        ]
+      ],
+      "analysis": "此字源自古英語 betst，為 good 的最高級形式（根源來自日耳曼語），表示在同類事物中品質或程度最高。",
+      "definition": "1. Of the most excellent quality or highest standard.",
+      "example": [
+        {
+          "eng": "She is my best friend.",
+          "ch": "她是我最好的朋友。"
+        }
+      ]
+    },
+    {
+      "eng": "best",
+      "kk": "bɛst",
+      "tense": "adv.",
+      "ch": [
+        [
+          "最好地",
+          "最"
+        ]
+      ],
+      "analysis": "此字為 well 的最高級副詞形式，表示在各個選項中以最佳或最理想的方式進行。",
+      "definition": "1. Most excellently or to the highest degree.",
+      "example": [
+        {
+          "eng": "He speaks English best in our class.",
+          "ch": "我們班上屬他英語說得最好。"
+        }
+      ]
+    },
+    {
+      "eng": "between",
+      "kk": "bɪˈtwin",
+      "tense": "prep.",
+      "ch": [
+        [
+          "在...之間"
+        ]
+      ],
+      "analysis": "此字源自古英語 betwēonan，由 be-（在...旁）與 twēon（兩個，源自 two）組成。核心義為「介於兩個空間、時間或群體的中間」。",
+      "definition": "1. In the space separating two points, objects, or people.",
+      "example": [
+        {
+          "eng": "The bookstore is between the bank and the cafe.",
+          "ch": "書店在銀行和咖啡廳之間。"
+        }
+      ]
+    },
+    {
+      "eng": "bicycle",
+      "kk": "ˈbaɪsɪkəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "腳踏車",
+          "單車"
+        ]
+      ],
+      "analysis": "此字為近代構詞，由希臘語字首 bi-（兩個）與拉丁語 cyclus（圓圈、輪子，源自希臘語 kyklos）結合而成。字面意即「兩個輪子的交通工具」。",
+      "definition": "1. A vehicle with two wheels held in a frame one behind the other, propelled by pedals.",
+      "example": [
+        {
+          "eng": "He rides his bicycle to school every morning.",
+          "ch": "他每天早上騎腳踏車上學。"
+        }
+      ]
+    },
+    {
+      "eng": "bike",
+      "kk": "baɪk",
+      "tense": "n.",
+      "ch": [
+        [
+          "腳踏車",
+          "機車"
+        ]
+      ],
+      "analysis": "此字為 bicycle 的口語截短形式（clipping），在英語日常對話中廣泛使用，指腳踏車或摩托車。",
+      "definition": "1. A bicycle or a motorcycle.",
+      "example": [
+        {
+          "eng": "She locked her bike to the pole.",
+          "ch": "她把腳踏車鎖在柱子上。"
+        }
+      ]
+    },
+    {
+      "eng": "big",
+      "kk": "bɪɡ",
+      "tense": "adj.",
+      "ch": [
+        [
+          "大的",
+          "巨大的"
+        ],
+        [
+          "重大的",
+          "重要的"
+        ]
+      ],
+      "analysis": "此字源自中古英語 bigge，其日耳曼語源歷史淵源複雜。基本義為實體尺寸或體積上的「大」，隨後抽象化引申為事件或責任上的「重大、重要」。",
+      "definition": "1. Of considerable size, extent, or intensity.; 2. Of great importance or seriousness.",
+      "example": [
+        {
+          "eng": "They live in a big house with a garden.",
+          "ch": "他們住在一棟帶有花園的大房子裡。"
+        },
+        {
+          "eng": "Today is a big day for our company.",
+          "ch": "今天是我們公司的大日子。"
+        }
+      ]
+    },
+    {
+      "eng": "bird",
+      "kk": "bɝd",
+      "tense": "n.",
+      "ch": [
+        [
+          "鳥",
+          "鳥類"
+        ]
+      ],
+      "analysis": "此字源自古英語 bridd（原意指雛鳥、幼鳥），在中世紀英語中語義擴大，取代了古英語原有的 fugol（現為 foul 的同源詞），成為泛指所有羽毛與翅膀脊椎動物「鳥」的統稱。",
+      "definition": "1. A warm-blooded egg-laying vertebrate distinguished by the possession of feathers, wings, and a beak.",
+      "example": [
+        {
+          "eng": "A little bird was singing on the branch.",
+          "ch": "一隻小鳥正在樹枝上唱歌。"
+        }
+      ]
+    }
+  ]
+}

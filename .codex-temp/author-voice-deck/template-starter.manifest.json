@@ -1,0 +1,177 @@
+{
+  "sourcePptx": "C:\\Users\\ytcon\\server\\server\\WordsKingServer\\deliverables\\Words_King_特殊選才專案報告_詹秉睿.pptx",
+  "mapPath": "C:\\Users\\ytcon\\server\\server\\WordsKingServer\\.codex-temp\\author-voice-deck\\template-frame-map.json",
+  "output": "C:\\Users\\ytcon\\server\\server\\WordsKingServer\\.codex-temp\\author-voice-deck\\template-starter.pptx",
+  "outputBytes": 565066,
+  "sourceSlideCount": 15,
+  "slideCount": 15,
+  "previewDir": "C:\\Users\\ytcon\\server\\server\\WordsKingServer\\.codex-temp\\author-voice-deck\\template-starter-preview",
+  "layoutDir": "C:\\Users\\ytcon\\server\\server\\WordsKingServer\\.codex-temp\\author-voice-deck\\template-starter-layout",
+  "slides": [
+    {
+      "outputSlide": 1,
+      "sourceSlide": 1,
+      "narrativeRole": "preserve-only cover",
+      "reuseMode": "duplicate-slide",
+      "editTargetCount": 0,
+      "previewPath": "C:\\Users\\ytcon\\server\\server\\WordsKingServer\\.codex-temp\\author-voice-deck\\template-starter-preview\\starter-slide-01.png",
+      "previewRelativePath": "template-starter-preview/starter-slide-01.png",
+      "layoutPath": "C:\\Users\\ytcon\\server\\server\\WordsKingServer\\.codex-temp\\author-voice-deck\\template-starter-layout\\starter-slide-01.layout.json",
+      "layoutRelativePath": "template-starter-layout/starter-slide-01.layout.json"
+    },
+    {
+      "outputSlide": 2,
+      "sourceSlide": 2,
+      "narrativeRole": "author origin story",
+      "reuseMode": "duplicate-slide",
+      "editTargetCount": 1,
+      "previewPath": "C:\\Users\\ytcon\\server\\server\\WordsKingServer\\.codex-temp\\author-voice-deck\\template-starter-preview\\starter-slide-02.png",
+      "previewRelativePath": "template-starter-preview/starter-slide-02.png",
+      "layoutPath": "C:\\Users\\ytcon\\server\\server\\WordsKingServer\\.codex-temp\\author-voice-deck\\template-starter-layout\\starter-slide-02.layout.json",
+      "layoutRelativePath": "template-starter-layout/starter-slide-02.layout.json"
+    },
+    {
+      "outputSlide": 3,
+      "sourceSlide": 3,
+      "narrativeRole": "learning loop",
+      "reuseMode": "duplicate-slide",
+      "editTargetCount": 1,
+      "previewPath": "C:\\Users\\ytcon\\server\\server\\WordsKingServer\\.codex-temp\\author-voice-deck\\template-starter-preview\\starter-slide-03.png",
+      "previewRelativePath": "template-starter-preview/starter-slide-03.png",
+      "layoutPath": "C:\\Users\\ytcon\\server\\server\\WordsKingServer\\.codex-temp\\author-voice-deck\\template-starter-layout\\starter-slide-03.layout.json",
+      "layoutRelativePath": "template-starter-layout/starter-slide-03.layout.json"
+    },
+    {
+      "outputSlide": 4,
+      "sourceSlide": 4,
+      "narrativeRole": "product loop",
+      "reuseMode": "duplicate-slide",
+      "editTargetCount": 1,
+      "previewPath": "C:\\Users\\ytcon\\server\\server\\WordsKingServer\\.codex-temp\\author-voice-deck\\template-starter-preview\\starter-slide-04.png",
+      "previewRelativePath": "template-starter-preview/starter-slide-04.png",
+      "layoutPath": "C:\\Users\\ytcon\\server\\server\\WordsKingServer\\.codex-temp\\author-voice-deck\\template-starter-layout\\starter-slide-04.layout.json",
+      "layoutRelativePath": "template-starter-layout/starter-slide-04.layout.json"
+    },
+    {
+      "outputSlide": 5,
+      "sourceSlide": 5,
+      "narrativeRole": "development timeline",
+      "reuseMode": "duplicate-slide",
+      "editTargetCount": 1,
+      "previewPath": "C:\\Users\\ytcon\\server\\server\\WordsKingServer\\.codex-temp\\author-voice-deck\\template-starter-preview\\starter-slide-05.png",
+      "previewRelativePath": "template-starter-preview/starter-slide-05.png",
+      "layoutPath": "C:\\Users\\ytcon\\server\\server\\WordsKingServer\\.codex-temp\\author-voice-deck\\template-starter-layout\\starter-slide-05.layout.json",
+      "layoutRelativePath": "template-starter-layout/starter-slide-05.layout.json"
+    },
+    {
+      "outputSlide": 6,
+      "sourceSlide": 6,
+      "narrativeRole": "system engineering",
+      "reuseMode": "duplicate-slide",
+      "editTargetCount": 1,
+      "previewPath": "C:\\Users\\ytcon\\server\\server\\WordsKingServer\\.codex-temp\\author-voice-deck\\template-starter-preview\\starter-slide-06.png",
+      "previewRelativePath": "template-starter-preview/starter-slide-06.png",
+      "layoutPath": "C:\\Users\\ytcon\\server\\server\\WordsKingServer\\.codex-temp\\author-voice-deck\\template-starter-layout\\starter-slide-06.layout.json",
+      "layoutRelativePath": "template-starter-layout/starter-slide-06.layout.json"
+    },
+    {
+      "outputSlide": 7,
+      "sourceSlide": 7,
+      "narrativeRole": "AI content reliability",
+      "reuseMode": "duplicate-slide",
+      "editTargetCount": 1,
+      "previewPath": "C:\\Users\\ytcon\\server\\server\\WordsKingServer\\.codex-temp\\author-voice-deck\\template-starter-preview\\starter-slide-07.png",
+      "previewRelativePath": "template-starter-preview/starter-slide-07.png",
+      "layoutPath": "C:\\Users\\ytcon\\server\\server\\WordsKingServer\\.codex-temp\\author-voice-deck\\template-starter-layout\\starter-slide-07.layout.json",
+      "layoutRelativePath": "template-starter-layout/starter-slide-07.layout.json"
+    },
+    {
+      "outputSlide": 8,
+      "sourceSlide": 8,
+      "narrativeRole": "usage results",
+      "reuseMode": "duplicate-slide",
+      "editTargetCount": 1,
+      "previewPath": "C:\\Users\\ytcon\\server\\server\\WordsKingServer\\.codex-temp\\author-voice-deck\\template-starter-preview\\starter-slide-08.png",
+      "previewRelativePath": "template-starter-preview/starter-slide-08.png",
+      "layoutPath": "C:\\Users\\ytcon\\server\\server\\WordsKingServer\\.codex-temp\\author-voice-deck\\template-starter-layout\\starter-slide-08.layout.json",
+      "layoutRelativePath": "template-starter-layout/starter-slide-08.layout.json"
+    },
+    {
+      "outputSlide": 9,
+      "sourceSlide": 9,
+      "narrativeRole": "iteration examples",
+      "reuseMode": "duplicate-slide",
+      "editTargetCount": 1,
+      "previewPath": "C:\\Users\\ytcon\\server\\server\\WordsKingServer\\.codex-temp\\author-voice-deck\\template-starter-preview\\starter-slide-09.png",
+      "previewRelativePath": "template-starter-preview/starter-slide-09.png",
+      "layoutPath": "C:\\Users\\ytcon\\server\\server\\WordsKingServer\\.codex-temp\\author-voice-deck\\template-starter-layout\\starter-slide-09.layout.json",
+      "layoutRelativePath": "template-starter-layout/starter-slide-09.layout.json"
+    },
+    {
+      "outputSlide": 10,
+      "sourceSlide": 10,
+      "narrativeRole": "reflection and next step",
+      "reuseMode": "duplicate-slide",
+      "editTargetCount": 1,
+      "previewPath": "C:\\Users\\ytcon\\server\\server\\WordsKingServer\\.codex-temp\\author-voice-deck\\template-starter-preview\\starter-slide-10.png",
+      "previewRelativePath": "template-starter-preview/starter-slide-10.png",
+      "layoutPath": "C:\\Users\\ytcon\\server\\server\\WordsKingServer\\.codex-temp\\author-voice-deck\\template-starter-layout\\starter-slide-10.layout.json",
+      "layoutRelativePath": "template-starter-layout/starter-slide-10.layout.json"
+    },
+    {
+      "outputSlide": 11,
+      "sourceSlide": 11,
+      "narrativeRole": "system scope appendix",
+      "reuseMode": "duplicate-slide",
+      "editTargetCount": 1,
+      "previewPath": "C:\\Users\\ytcon\\server\\server\\WordsKingServer\\.codex-temp\\author-voice-deck\\template-starter-preview\\starter-slide-11.png",
+      "previewRelativePath": "template-starter-preview/starter-slide-11.png",
+      "layoutPath": "C:\\Users\\ytcon\\server\\server\\WordsKingServer\\.codex-temp\\author-voice-deck\\template-starter-layout\\starter-slide-11.layout.json",
+      "layoutRelativePath": "template-starter-layout/starter-slide-11.layout.json"
+    },
+    {
+      "outputSlide": 12,
+      "sourceSlide": 12,
+      "narrativeRole": "test coverage appendix",
+      "reuseMode": "duplicate-slide",
+      "editTargetCount": 1,
+      "previewPath": "C:\\Users\\ytcon\\server\\server\\WordsKingServer\\.codex-temp\\author-voice-deck\\template-starter-preview\\starter-slide-12.png",
+      "previewRelativePath": "template-starter-preview/starter-slide-12.png",
+      "layoutPath": "C:\\Users\\ytcon\\server\\server\\WordsKingServer\\.codex-temp\\author-voice-deck\\template-starter-layout\\starter-slide-12.layout.json",
+      "layoutRelativePath": "template-starter-layout/starter-slide-12.layout.json"
+    },
+    {
+      "outputSlide": 13,
+      "sourceSlide": 13,
+      "narrativeRole": "engineering decisions appendix",
+      "reuseMode": "duplicate-slide",
+      "editTargetCount": 1,
+      "previewPath": "C:\\Users\\ytcon\\server\\server\\WordsKingServer\\.codex-temp\\author-voice-deck\\template-starter-preview\\starter-slide-13.png",
+      "previewRelativePath": "template-starter-preview/starter-slide-13.png",
+      "layoutPath": "C:\\Users\\ytcon\\server\\server\\WordsKingServer\\.codex-temp\\author-voice-deck\\template-starter-layout\\starter-slide-13.layout.json",
+      "layoutRelativePath": "template-starter-layout/starter-slide-13.layout.json"
+    },
+    {
+      "outputSlide": 14,
+      "sourceSlide": 14,
+      "narrativeRole": "author responsibilities appendix",
+      "reuseMode": "duplicate-slide",
+      "editTargetCount": 1,
+      "previewPath": "C:\\Users\\ytcon\\server\\server\\WordsKingServer\\.codex-temp\\author-voice-deck\\template-starter-preview\\starter-slide-14.png",
+      "previewRelativePath": "template-starter-preview/starter-slide-14.png",
+      "layoutPath": "C:\\Users\\ytcon\\server\\server\\WordsKingServer\\.codex-temp\\author-voice-deck\\template-starter-layout\\starter-slide-14.layout.json",
+      "layoutRelativePath": "template-starter-layout/starter-slide-14.layout.json"
+    },
+    {
+      "outputSlide": 15,
+      "sourceSlide": 15,
+      "narrativeRole": "public access and privacy appendix",
+      "reuseMode": "duplicate-slide",
+      "editTargetCount": 1,
+      "previewPath": "C:\\Users\\ytcon\\server\\server\\WordsKingServer\\.codex-temp\\author-voice-deck\\template-starter-preview\\starter-slide-15.png",
+      "previewRelativePath": "template-starter-preview/starter-slide-15.png",
+      "layoutPath": "C:\\Users\\ytcon\\server\\server\\WordsKingServer\\.codex-temp\\author-voice-deck\\template-starter-layout\\starter-slide-15.layout.json",
+      "layoutRelativePath": "template-starter-layout/starter-slide-15.layout.json"
+    }
+  ]
+}

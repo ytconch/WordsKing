@@ -1,0 +1,1295 @@
+{
+  "level": 5,
+  "chunkIndex": 20,
+  "inputs": [
+    "unemployment",
+    "unfold",
+    "unlock",
+    "unprecedented",
+    "update",
+    "upgrade",
+    "utility",
+    "utilize",
+    "vacuum",
+    "vague",
+    "valid",
+    "variable",
+    "variation",
+    "vein",
+    "vendor",
+    "venture",
+    "venue",
+    "verbal",
+    "verdict",
+    "version",
+    "versus",
+    "vertical",
+    "veteran",
+    "via",
+    "viable",
+    "vicious",
+    "viewer",
+    "viewpoint",
+    "vinegar",
+    "virtual",
+    "visa",
+    "vocal",
+    "volcano",
+    "vomit",
+    "voucher",
+    "vow",
+    "vulnerable",
+    "warehouse",
+    "warrior",
+    "wary",
+    "weird",
+    "whatsoever",
+    "wheelchair",
+    "whereabouts",
+    "whereas",
+    "whine",
+    "widespread",
+    "wig",
+    "wilderness",
+    "wildlife"
+  ],
+  "rows": [
+    {
+      "eng": "unemployment",
+      "kk": "ˌʌnɪmˈplɔɪmənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "失業",
+          "失業狀態"
+        ],
+        [
+          "失業率",
+          "失業人數"
+        ]
+      ],
+      "analysis": "由否定字首 un- 加上形容詞 unemployed 的字根，再結合名詞字尾 -ment 組成。現代英語中主要指沒有工作或處於失業狀態的狀況，也可指整個社會或地區的失業率與失業人口數據。語義由「無法被雇用」的狀態引申為宏觀的經濟指標。",
+      "definition": "1. the state of being unemployed and looking for a job; 2. the number of people who are unemployed or the rate at which they are unemployed in a given area.",
+      "example": [
+        {
+          "eng": "The factory closure led to widespread unemployment in the town.",
+          "ch": "這座工廠的倒閉導致該鎮出現廣泛的失業現象。"
+        },
+        {
+          "eng": "The government is trying to find ways to reduce youth unemployment.",
+          "ch": "政府正設法尋找降低青年失業率的方法。"
+        }
+      ]
+    },
+    {
+      "eng": "unfold",
+      "kk": "ʌnˈfoʊld",
+      "tense": "vt.",
+      "ch": [
+        [
+          "展開",
+          "攤開"
+        ],
+        [
+          "呈現",
+          "吐露",
+          "逐漸展現"
+        ]
+      ],
+      "analysis": "由字首 un-（表示相反動作、解除）與動詞 fold（摺疊）結合而成。字面義為解除摺疊，因此作及物動詞時，既可指物理上將摺起來的東西攤開，也可抽象地指情節、計畫或真相的逐漸公開與發展。",
+      "definition": "1. to open or spread out something that has been folded; 2. to gradually make known or develop a story, plan, or information.",
+      "example": [
+        {
+          "eng": "She unfolded the map on the table to check the route.",
+          "ch": "她在桌上攤開地圖以檢查路線。"
+        },
+        {
+          "eng": "We watched the dramatic events unfold on live television.",
+          "ch": "我們在現場直播中觀看戲劇性事件的逐漸展現。"
+        }
+      ]
+    },
+    {
+      "eng": "unfold",
+      "kk": "ʌnˈfoʊld",
+      "tense": "vi.",
+      "ch": [
+        [
+          "展開",
+          "逐漸呈現",
+          "逐步發展"
+        ]
+      ],
+      "analysis": "由字首 un- 與動詞 fold 結合而成的及物動詞之自動詞用法。在不及物用法中，主語通常是事件、情勢或風景，表示其自然地攤開、發生或揭露在眼前，不需接受詞。",
+      "definition": "1. to develop, happen, or be revealed gradually.",
+      "example": [
+        {
+          "eng": "The true story began to unfold as the investigation continued.",
+          "ch": "隨著調查持續進行，真實的故事開始展現出來。"
+        }
+      ]
+    },
+    {
+      "eng": "unlock",
+      "kk": "ʌnˈlɑːk",
+      "tense": "vt.",
+      "ch": [
+        [
+          "開鎖",
+          "解開"
+        ],
+        [
+          "揭開",
+          "釋放",
+          "開啟"
+        ]
+      ],
+      "analysis": "由字首 un-（表示解除或相反動作）與名詞／動詞 lock（鎖）結合而成。字面義為把鎖打開，現代英語中除了解開門鎖或密碼鎖等實體鎖之外，也常抽象引申為揭開祕密、釋放潛能或開啟新局面。",
+      "definition": "1. to open something that is locked using a key or code; 2. to reveal, release, or discover something hidden or potential.",
+      "example": [
+        {
+          "eng": "He used his key to unlock the front door.",
+          "ch": "他用鑰匙打開了前門的鎖。"
+        },
+        {
+          "eng": "Education can help unlock a child's full potential.",
+          "ch": "教育有助於開發孩子全部的潛能。"
+        }
+      ]
+    },
+    {
+      "eng": "unprecedented",
+      "kk": "ʌnˈprɛsɪdɛntɪd",
+      "tense": "adj.",
+      "ch": [
+        [
+          "空前的",
+          "史無前例的"
+        ]
+      ],
+      "analysis": "由否定字首 un- 加上 precedent（先例、前例）的分詞形容詞 unprecedented 構成。字面義為「沒有先例的」，在現代英語中專門用來形容某事在歷史或經驗上從未發生過。",
+      "definition": "1. never having happened or existed before.",
+      "example": [
+        {
+          "eng": "The company reported unprecedented growth in profits this year.",
+          "ch": "該公司報導今年獲利呈史無前例的成長。"
+        }
+      ]
+    },
+    {
+      "eng": "update",
+      "kk": "ˈʌpˌdeɪt",
+      "tense": "n.",
+      "ch": [
+        [
+          "更新",
+          "最新消息",
+          "最新報導"
+        ]
+      ],
+      "analysis": "由動詞 update 轉品而來的名詞，重音前移至第一音節。用來指提供最新資訊的內容、軟體更新版本或事件的最新發展狀況。",
+      "definition": "1. a piece of news or a version that brings something up to date with the latest information.",
+      "example": [
+        {
+          "eng": "We are waiting for a weather update from the meteorological office.",
+          "ch": "我們正在等待氣象局的天氣最新消息。"
+        }
+      ]
+    },
+    {
+      "eng": "update",
+      "kk": "ʌpˈdeɪt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "更新",
+          "使最新"
+        ],
+        [
+          "向……提供最新消息"
+        ]
+      ],
+      "analysis": "由副詞／介系詞 up（向上、朝向最新）與名詞／動詞 date（日期）複合而成。字面義為「帶到最新的日期」，作及物動詞時指為軟體、資料或資訊補充最新內容，或告知某人最新進展。",
+      "definition": "1. to make something more modern or add the most recent information to it; 2. to give someone the most recent information about something.",
+      "example": [
+        {
+          "eng": "You should update your computer software regularly.",
+          "ch": "你應該定期更新你的電腦軟體。"
+        },
+        {
+          "eng": "Please update me on the project status as soon as possible.",
+          "ch": "請盡快將專案的最新進展告訴我。"
+        }
+      ]
+    },
+    {
+      "eng": "upgrade",
+      "kk": "ˈʌpˌɡreɪd",
+      "tense": "n.",
+      "ch": [
+        [
+          "升級",
+          "改善",
+          "升等"
+        ]
+      ],
+      "analysis": "由動詞 upgrade 轉品而來的名詞，重音落在第一音節。指設備、服務或機位等獲得提升、改善或升等的狀態或具體項目。",
+      "definition": "1. an improvement that makes something of higher quality, or a change to a better seat or service.",
+      "example": [
+        {
+          "eng": "I got a free upgrade to business class on my flight.",
+          "ch": "我的班機免費升等到了商務艙。"
+        }
+      ]
+    },
+    {
+      "eng": "upgrade",
+      "kk": "ʌpˈɡreɪd",
+      "tense": "vt.",
+      "ch": [
+        [
+          "升級",
+          "提升",
+          "改善"
+        ]
+      ],
+      "analysis": "由副詞 up（向上）與名詞 grade（等級、階段）結合而成的動詞。字面義為「提升等級」，在現代英語中廣泛用於設備、服務、軟體或人員職級的提升與改善。",
+      "definition": "1. to raise something to a higher standard, or improve equipment, software, or services.",
+      "example": [
+        {
+          "eng": "They decided to upgrade their ticketing system to improve efficiency.",
+          "ch": "他們決定升級售票系統以提高效率。"
+        }
+      ]
+    },
+    {
+      "eng": "utility",
+      "kk": "juˈtɪləti",
+      "tense": "n.",
+      "ch": [
+        [
+          "效用",
+          "實用性",
+          "功用"
+        ],
+        [
+          "公用事業",
+          "公用事業公司"
+        ]
+      ],
+      "analysis": "源自拉丁語 utilitas（從 utilis「有用的」衍生）。在現代英語中，主要指事物提供實際好處的實用價值（utility），或是指水、電、瓦斯等提供社會基本服務的公用事業（utilities 的單數或集合代稱）。",
+      "definition": "1. the quality of being useful or profitable; 2. a service such as gas, electricity, or water provided to the public.",
+      "example": [
+        {
+          "eng": "The utility of this tool in emergency situations is unquestionable.",
+          "ch": "這個工具在緊急情況下的實用性是無庸置疑的。"
+        },
+        {
+          "eng": "Monthly utility bills have increased significantly this winter.",
+          "ch": "今年冬天每月的公用事業帳單大幅增加。"
+        }
+      ]
+    },
+    {
+      "eng": "utilize",
+      "kk": "ˈjuːtəˌlaɪz",
+      "tense": "vt.",
+      "ch": [
+        [
+          "利用",
+          "使用"
+        ]
+      ],
+      "analysis": "由形容詞 utility 的詞源基礎加上動詞字尾 -ize 構成。與簡單的 use 相比，utilize 往往帶有「有效發揮功能」、「妥善運用資源」或較正式的語體色彩。",
+      "definition": "1. to make practical and effective use of something.",
+      "example": [
+        {
+          "eng": "The company aims to utilize renewable energy sources in all its factories.",
+          "ch": "該公司旨在在其所有工廠中利用可再生能源。"
+        }
+      ]
+    },
+    {
+      "eng": "vacuum",
+      "kk": "ˈvækjuəm",
+      "tense": "n.",
+      "ch": [
+        [
+          "真空",
+          "真空狀態"
+        ],
+        [
+          "空虛",
+          "空白"
+        ]
+      ],
+      "analysis": "源自拉丁語 vacuum（空的空間、中性形容詞 vacuus 的名詞用法）。在現代英語中，指物理上的真空環境，也常引申用來形容失去某重要事物後的精神空虛或權力、影響力消失造成的真空狀態。",
+      "definition": "1. a space entirely devoid of matter; 2. a situation or state characterized by a lack of something important, such as leadership or guidance.",
+      "example": [
+        {
+          "eng": "Sound cannot travel through a vacuum.",
+          "ch": "聲音無法在真空中傳播。"
+        },
+        {
+          "eng": "The sudden resignation of the CEO left a leadership vacuum in the company.",
+          "ch": "執行長突然辭職在公司留下了一個領導真空。"
+        }
+      ]
+    },
+    {
+      "eng": "vacuum",
+      "kk": "ˈvækjuəm",
+      "tense": "vt.",
+      "ch": [
+        [
+          "用吸塵器清掃"
+        ]
+      ],
+      "analysis": "由名詞 vacuum 直接轉化而來的及物動詞，指利用真空吸塵原理來清理地板或地毯。",
+      "definition": "1. to clean a floor or carpet using a vacuum cleaner.",
+      "example": [
+        {
+          "eng": "She needs to vacuum the living room before the guests arrive.",
+          "ch": "她需要在客人到來之前用吸塵器清理客廳。"
+        }
+      ]
+    },
+    {
+      "eng": "vague",
+      "kk": "veɪɡ",
+      "tense": "adj.",
+      "ch": [
+        [
+          "模糊的",
+          "含糊不清的",
+          "籠統的"
+        ]
+      ],
+      "analysis": "源自拉丁語 vagus（漫遊的、不固定的）。其歷史核心義為「不確定的、無固定形體的」，經由法語進入英語後，現代主要用來形容記憶、回答、描述或輪廓不夠清晰、明確。",
+      "definition": "1. not clear in meaning, expression, or detail; uncertain or indefinite.",
+      "example": [
+        {
+          "eng": "He gave only a vague explanation of why he was late.",
+          "ch": "他對自己為什麼遲到只給了一個含糊不清的解釋。"
+        }
+      ]
+    },
+    {
+      "eng": "valid",
+      "kk": "ˈvælɪd",
+      "tense": "adj.",
+      "ch": [
+        [
+          "有效的",
+          "合法的"
+        ],
+        [
+          "正當的",
+          "有根據的"
+        ]
+      ],
+      "analysis": "源自拉丁語 validus（強壯的、有力的、生效的），由拉丁語基底 valeo（有力量、有價值）衍生。現代英語中主要指法律或票證等具備效力（valid），或指論點、理由站得住腳、具備合理根據。",
+      "definition": "1. legally or officially acceptable and binding; 2. well-founded, logical, and justifiable.",
+      "example": [
+        {
+          "eng": "Your passport must remain valid for at least six more months.",
+          "ch": "你的護照必須至少還要再有效六個月。"
+        },
+        {
+          "eng": "She raised a valid point during the team meeting.",
+          "ch": "她在團隊會議中提出了個很有根據的觀點。"
+        }
+      ]
+    },
+    {
+      "eng": "variable",
+      "kk": "ˈvɛriəbəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "變數",
+          "可變因素"
+        ]
+      ],
+      "analysis": "由形容詞 variable 轉化而成的名詞。在數學、科學或商業分析中，指會隨情境改變而影響結果的數值、條件或因素。",
+      "definition": "1. an element, feature, or factor that is liable to vary or change in an experiment or situation.",
+      "example": [
+        {
+          "eng": "There are too many variables to predict the exact outcome.",
+          "ch": "變數太多，無法預測確切的結果。"
+        }
+      ]
+    },
+    {
+      "eng": "variable",
+      "kk": "ˈvɛriəbəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "易變的",
+          "多變的",
+          "可變的"
+        ]
+      ],
+      "analysis": "源自拉丁語 variabilis，由動詞 variare（變化）加上形容詞字尾 -able 組成。現代英語中用來形容天氣、情緒、條件等容易發生變化或不固定之特性。",
+      "definition": "1. liable to change or frequent variation; not consistent.",
+      "example": [
+        {
+          "eng": "Spring weather in the mountains can be highly variable.",
+          "ch": "山區的春季天氣可能非常多變。"
+        }
+      ]
+    },
+    {
+      "eng": "variation",
+      "kk": "ˌvɛriˈeɪʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "變化",
+          "變動",
+          "差異"
+        ],
+        [
+          "變體",
+          "變奏"
+        ]
+      ],
+      "analysis": "源自拉丁語 variatio，由動詞 variare（變化）的名詞化字尾 -ation 構成。指事物在形式、數量或規律上的改變、不同版本（如音樂變奏或生物變體），或是數據間的起伏差異。",
+      "definition": "1. a change or difference in condition, amount, or level; 2. a variant form of something, or a musical theme developed with modifications.",
+      "example": [
+        {
+          "eng": "There is a slight regional variation in the pronunciation of this word.",
+          "ch": "這個字的發音在不同地區有些微的差異。"
+        },
+        {
+          "eng": "This dish is a delicious variation of a traditional recipe.",
+          "ch": "這道菜是對傳統食譜的一種美味變體。"
+        }
+      ]
+    },
+    {
+      "eng": "vein",
+      "kk": "veɪn",
+      "tense": "n.",
+      "ch": [
+        [
+          "靜脈",
+          "血管"
+        ],
+        [
+          "礦脈",
+          "葉脈",
+          "風格調子"
+        ]
+      ],
+      "analysis": "源自拉丁語 vena（血脈、管道）。其核心義為輸送液體或構成脈絡的管狀結構。因此在生物學上指靜脈，在地理地質上指礦脈，在文學或語氣上則可指某種風格、基調（in a similar vein）。",
+      "definition": "1. any of the tubes that transport blood back to the heart; 2. a streak or line in a leaf, rock, or marble, or a specific style or tone of writing or speech.",
+      "example": [
+        {
+          "eng": "Nurses usually draw blood from a vein in the arm.",
+          "ch": "護理師通常從手臂的靜脈抽血。"
+        },
+        {
+          "eng": "The speech continued in a serious and reflective vein.",
+          "ch": "這場演講以嚴肅而反思的調子持續進行。"
+        }
+      ]
+    },
+    {
+      "eng": "vendor",
+      "kk": "ˈvɛndər",
+      "tense": "n.",
+      "ch": [
+        [
+          "小販",
+          "攤商",
+          "供應商"
+        ]
+      ],
+      "analysis": "源自中古法語 vendeor，最終根源為拉丁語 vendere（出售）。現代英語中指在街頭擺攤的小販，或商業鏈中負責供應商品、服務的企業或廠商。",
+      "definition": "1. a person or company offering something for sale, especially a street trader or a business supplier.",
+      "example": [
+        {
+          "eng": "We bought fresh fruit from a street vendor.",
+          "ch": "我們跟一個街頭小販買了新鮮水果。"
+        },
+        {
+          "eng": "The IT department is evaluating new software vendors.",
+          "ch": "資訊部門正在評估新的軟體供應商。"
+        }
+      ]
+    },
+    {
+      "eng": "venture",
+      "kk": "ˈvɛntʃər",
+      "tense": "n.",
+      "ch": [
+        [
+          "企業",
+          "冒險事業",
+          "投機活動"
+        ]
+      ],
+      "analysis": "為 adventure 的截短形式（源自拉丁語 adventurus「將要發生的事」），在中世紀英語中演變為 venture，指承擔風險去嘗試的商業計畫或冒險行動。",
+      "definition": "1. a risky or daring journey or enterprise, especially a new business venture.",
+      "example": [
+        {
+          "eng": "Their new online business venture turned out to be a great success.",
+          "ch": "他們的新網路創業計畫結果獲得了巨大成功。"
+        }
+      ]
+    },
+    {
+      "eng": "venture",
+      "kk": "ˈvɛntʃər",
+      "tense": "vt.",
+      "ch": [
+        [
+          "冒險去做",
+          "小心翼翼地說",
+          "斗膽提出"
+        ]
+      ],
+      "analysis": "由名詞 venture 轉化而來的及物動詞。用來指冒著風險去執行某事，或在不確定是否正確時謹慎地提出意見、猜測。",
+      "definition": "1. to dare to do, say, or suggest something that may involve risk or criticism.",
+      "example": [
+        {
+          "eng": "She decided to venture an opinion during the heated debate.",
+          "ch": "她決定在激烈的辯論中斗膽發表一個意見。"
+        }
+      ]
+    },
+    {
+      "eng": "venture",
+      "kk": "ˈvɛntʃər",
+      "tense": "vi.",
+      "ch": [
+        [
+          "冒險前往",
+          "涉足"
+        ]
+      ],
+      "analysis": "venture 的不及物動詞用法，指勇敢或小心地踏入未知的、危險的地方（如 venture into the forest）。",
+      "definition": "1. to go somewhere that is unknown, dangerous, or unpleasant.",
+      "example": [
+        {
+          "eng": "Few hikers dare to venture into the deep forest alone.",
+          "ch": "很少有登山客敢獨自冒險進入深山林中。"
+        }
+      ]
+    },
+    {
+      "eng": "venue",
+      "kk": "ˈvɛnjuː",
+      "tense": "n.",
+      "ch": [
+        [
+          "活動場地",
+          "集會地點",
+          "會場"
+        ]
+      ],
+      "analysis": "源自盎格魯-諾曼語與古法語 venue（到來、到達），源自拉丁語 venire（來）。在法律原意中指審判管轄地，在現代英語中則泛指舉辦音樂會、會議、體育賽事等活動的特定場所。",
+      "definition": "1. the place where something happens, especially an organized event such as a concert, conference, or sports competition.",
+      "example": [
+        {
+          "eng": "The stadium has been chosen as the main venue for the Olympic opening ceremony.",
+          "ch": "該體育場已被選為奧運開幕式的舉辦主會場。"
+        }
+      ]
+    },
+    {
+      "eng": "verbal",
+      "kk": "ˈvɜːrbəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "言辭的",
+          "口頭的"
+        ],
+        [
+          "動詞的",
+          "字面的"
+        ]
+      ],
+      "analysis": "源自拉丁語 verbalis，由 verbum（字、詞、動詞）衍生。現代英語中主要指用言語表達的（與文字或實際行動相對），或指口頭承諾（verbal agreement），在語法中也指與動詞相關的（verbal noun）。",
+      "definition": "1. relating to or expressed in words, especially spoken rather than written; 2. relating to or derived from a verb.",
+      "example": [
+        {
+          "eng": "They made a verbal agreement, but nothing was signed in writing.",
+          "ch": "他們達成了解口頭協議，但沒有任何書面簽署。"
+        },
+        {
+          "eng": "Gerunds and infinitives are common verbal forms in English.",
+          "ch": "動名詞和不定詞是英語中常見的動詞衍生形式。"
+        }
+      ]
+    },
+    {
+      "eng": "verdict",
+      "kk": "ˈvɜːrdɪkt",
+      "tense": "n.",
+      "ch": [
+        [
+          "裁決",
+          "陪審團裁決",
+          "定論"
+        ]
+      ],
+      "analysis": "源自盎格魯-諾曼語 verdit，由拉丁語 verus（真實的）與 dictum（說出的話、決定，自 dicere「說」）複合而成。字面義為「說出真實的話」，在法律上專指陪審團做出的裁決，也引申為公眾或個人的最後評價與結論。",
+      "definition": "1. a decision on a disputed issue in a civil or criminal case or an inquest by a jury; 2. an opinion or judgment on something.",
+      "example": [
+        {
+          "eng": "The jury reached a unanimous verdict of guilty after hours of deliberation.",
+          "ch": "陪審團經過數小時的審議，做出了全體一致的有罪裁決。"
+        },
+        {
+          "eng": "We are still waiting for customer verdicts on the new product line.",
+          "ch": "我們仍在等待顧客對新產品線的評價。"
+        }
+      ]
+    },
+    {
+      "eng": "version",
+      "kk": "ˈvɜːrʒən",
+      "tense": "n.",
+      "ch": [
+        [
+          "版本",
+          "譯本",
+          "說法"
+        ]
+      ],
+      "analysis": "源自中世紀拉丁語 versio（轉譯、翻譯），由 vertere（轉動、轉變）衍生。歷史上指從一種語言翻譯成另一種語言的文本，現代英語中擴大指同一軟體、電影、故事或事件的不同改編版、形式或當事人的個人說法。",
+      "definition": "1. a particular form of something differing in certain respects from an earlier or other forms of the same thing; 2. a specific account of a matter given by a particular person.",
+      "example": [
+        {
+          "eng": "You need to download the latest version of the app to fix bugs.",
+          "ch": "你需要下載該應用程式的最新版本來修復錯誤。"
+        },
+        {
+          "eng": "The police listened to both drivers' versions of the accident.",
+          "ch": "警察聽取了雙方駕駛對這起事故各自的說法。"
+        }
+      ]
+    },
+    {
+      "eng": "versus",
+      "kk": "ˈvɜːrsəs",
+      "tense": "prep.",
+      "ch": [
+        [
+          "對抗",
+          "與……相比"
+        ]
+      ],
+      "analysis": "直接借自拉丁語 versus（轉向、對立，源自 vertere「轉」）。在英語法律文件、體育賽事對戰表及對比討論中作為介系詞使用，常簡寫為 vs.。",
+      "definition": "1. against (used to indicate the team or person playing against another, or to compare two alternative options).",
+      "example": [
+        {
+          "eng": "Tonight's game is Manchester United versus Liverpool.",
+          "ch": "今晚的比賽是曼聯對決利物浦。"
+        }
+      ]
+    },
+    {
+      "eng": "vertical",
+      "kk": "ˈvɜːrtɪkəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "垂直的",
+          "直立的"
+        ]
+      ],
+      "analysis": "源自中世紀拉丁語 verticalis，由拉丁語 vertex（頭頂、最高點、頂點，自 vertere「轉」）衍生。指與地平線呈直角、由上而下的方向或狀態。",
+      "definition": "1. at a right angle to a horizontal plane; pointing straight up or down.",
+      "example": [
+        {
+          "eng": "The cliff face is almost completely vertical.",
+          "ch": "這處懸崖峭壁幾乎完全是垂直的。"
+        }
+      ]
+    },
+    {
+      "eng": "veteran",
+      "kk": "ˈvɛtərən",
+      "tense": "n.",
+      "ch": [
+        [
+          "退伍軍人",
+          "老兵"
+        ],
+        [
+          "資深人員",
+          "老手"
+        ]
+      ],
+      "analysis": "源自拉丁語 veteranus，由 vetus（老舊的、年代久遠的）衍生。最初專指服役多年的退伍老兵，在現代英語中也廣泛引申用來形容在某一領域或行業擁有豐富經驗的資深工作者。",
+      "definition": "1. a person who has had long service in a particular field or military force; 2. a former member of the armed forces.",
+      "example": [
+        {
+          "eng": "The parade honors military veterans who served their country.",
+          "ch": "這場遊行向為國家服務的退伍軍人致敬。"
+        },
+        {
+          "eng": "She is a veteran journalist with over twenty years of experience.",
+          "ch": "她是一位擁有二十多年經驗的資深記者。"
+        }
+      ]
+    },
+    {
+      "eng": "via",
+      "kk": "ˈvaɪə",
+      "tense": "prep.",
+      "ch": [
+        [
+          "經由",
+          "透過",
+          "經由……途中"
+        ]
+      ],
+      "analysis": "直接借自拉丁語 via（道路、路徑的奪格形式）。在現代英語中作為介系詞，表示藉由某種交通路線、中轉站，或是利用某種方式、管道來達成目標或傳遞訊息。",
+      "definition": "1. traveling through a place en route to a destination; 2. by means of a particular person, medium, or system.",
+      "example": [
+        {
+          "eng": "We flew from London to Tokyo via Frankfurt.",
+          "ch": "我們從倫敦飛往東京，中途經由法蘭克福轉機。"
+        },
+        {
+          "eng": "You can submit your application via email.",
+          "ch": "你可以透過電子郵件提交申請。"
+        }
+      ]
+    },
+    {
+      "eng": "viable",
+      "kk": "ˈvaɪəbəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "可行的",
+          "能生存的"
+        ]
+      ],
+      "analysis": "源自法語 viable，由拉丁語 vita（生命）衍生出的動詞根源演變而來。最初在生物學上指新生兒或胚胎有能力存活（viable fetus），現代英語中廣泛引申為計畫、商業方案或構想「切實可行、行得通」的。",
+      "definition": "1. capable of working successfully; feasible; 2. capable of surviving or developing independently.",
+      "example": [
+        {
+          "eng": "The committee is looking for a financially viable solution to the project.",
+          "ch": "委員會正在尋找一個該專案在財務上可行的解決方案。"
+        }
+      ]
+    },
+    {
+      "eng": "vicious",
+      "kk": "ˈvɪʃəs",
+      "tense": "adj.",
+      "ch": [
+        [
+          "惡毒的",
+          "兇惡的",
+          "惡性的"
+        ]
+      ],
+      "analysis": "源自古法語 vicios，由拉丁語 vitium（缺點、罪惡）衍生。現代英語中用來形容人性格殘暴、惡毒，或是指循環、圈子等具有惡性且會不斷惡化的特質（如 vicious circle）。",
+      "definition": "1. deliberately cruel or violent; 2. serious or dangerous, often used to describe a negative loop or cycle.",
+      "example": [
+        {
+          "eng": "She was attacked by a vicious stray dog.",
+          "ch": "她遭到了一隻兇惡的流浪狗攻擊。"
+        },
+        {
+          "eng": "Stress and lack of sleep can create a vicious cycle.",
+          "ch": "壓力與睡眠不足會形成一個惡性循環。"
+        }
+      ]
+    },
+    {
+      "eng": "viewer",
+      "kk": "ˈvjuːər",
+      "tense": "n.",
+      "ch": [
+        [
+          "觀眾",
+          "收看者",
+          "瀏覽者"
+        ]
+      ],
+      "analysis": "由動詞 view（觀看）加上名詞字尾 -er（表示人或物）構成。現代英語中主要指觀看電視節目、線上影片或數位內容的觀眾或使用者。",
+      "definition": "1. a person who watches television, broadcasts, or online video content.",
+      "example": [
+        {
+          "eng": "The television network attracted millions of viewers for the live broadcast.",
+          "ch": "該電視網為現場直播吸引了數百萬名觀眾。"
+        }
+      ]
+    },
+    {
+      "eng": "viewpoint",
+      "kk": "ˈvjuːpɔɪnt",
+      "tense": "n.",
+      "ch": [
+        [
+          "觀點",
+          "看法",
+          "視角"
+        ]
+      ],
+      "analysis": "由名詞 view（視野、看法）與 point（點）複合而成。字面義為「看事情的立足點」，在現代英語中指個人或群體對某議題的思考角度、立場或見解。",
+      "definition": "1. a particular way of considering or judging a situation; an attitude or opinion.",
+      "example": [
+        {
+          "eng": "We need to listen to different viewpoints before making a final decision.",
+          "ch": "我們在做出最終決定之前，需要聽取不同的觀點。"
+        }
+      ]
+    },
+    {
+      "eng": "vinegar",
+      "kk": "ˈvɪnɪɡər",
+      "tense": "n.",
+      "ch": [
+        [
+          "醋"
+        ]
+      ],
+      "analysis": "源自古法語 vinerie（由 vin「酒」與 aigre「酸的」複合而成，即 vinum acre「酸酒」）。經語音演變進入英語成為 vinegar，指發酵製成的酸性調味液體。",
+      "definition": "1. a sour liquid made by the fermentation of alcohol, used as a condiment or in cooking.",
+      "example": [
+        {
+          "eng": "Salad dressing is typically made with a mixture of oil and vinegar.",
+          "ch": "沙拉醬通常是用油和醋混合製成的。"
+        }
+      ]
+    },
+    {
+      "eng": "virtual",
+      "kk": "ˈvɜːrtʃuəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "虛擬的",
+          "模擬的"
+        ]
+      ],
+      "analysis": "源自中世紀拉丁語 virtualis，由 virtus（力量、德行）衍生。其中世紀哲學原意為「具有實質效果但未具備形體」，在現代科技語境中轉化為指透過電腦模擬、不具備實體但能提供相似體驗的「虛擬」世界。",
+      "definition": "1. created, simulated, or carried on by means of a computer or virtual reality network; 2. almost or nearly the thing described.",
+      "example": [
+        {
+          "eng": "Many companies now hold virtual meetings instead of traveling.",
+          "ch": "許多公司現在舉行虛擬會議，而不是出差。"
+        }
+      ]
+    },
+    {
+      "eng": "visa",
+      "kk": "ˈviːzə",
+      "tense": "n.",
+      "ch": [
+        [
+          "簽證"
+        ]
+      ],
+      "analysis": "源自拉丁語 charta visa（被檢視過的文書，字面義為「已被看見的文件」，由 videre「看」的分詞 visus 衍生）。近代透過法語進入英語，專指護照上由官方核准入境的簽證。",
+      "definition": "1. an official endorsement on a passport allowing the holder to enter, leave, or stay in a country for a specified period.",
+      "example": [
+        {
+          "eng": "You need to apply for a tourist visa before traveling to that country.",
+          "ch": "你在前往該國旅行之前，需要申請觀光簽證。"
+        }
+      ]
+    },
+    {
+      "eng": "vocal",
+      "kk": "ˈvoʊkəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "發聲的",
+          "嗓音的"
+        ],
+        [
+          "直言不諱的",
+          "強烈表達意見的"
+        ]
+      ],
+      "analysis": "源自拉丁語 vocalis，由 vox（聲音、語音）衍生。在現代英語中，除了解剖學上與發聲器官有關的（vocal cords），也常引申用來形容人敢於大聲表達、直言不諱地批評或支持某事的態度。",
+      "definition": "1. relating to or produced by the human voice; 2. expressing opinions or feelings freely and strongly.",
+      "example": [
+        {
+          "eng": "Singers must take good care of their vocal cords.",
+          "ch": "歌手必須好好照顧他們的聲帶。"
+        },
+        {
+          "eng": "Local residents have been very vocal in their opposition to the new highway.",
+          "ch": "當地居民對於反對這條新公路一直表現得非常直言不諱。"
+        }
+      ]
+    },
+    {
+      "eng": "volcano",
+      "kk": "vɑːlˈkeɪnoʊ",
+      "tense": "n.",
+      "ch": [
+        [
+          "火山"
+        ]
+      ],
+      "analysis": "源自義大利語 volcano，其字源可追溯至拉丁神話中的火神 Vulcanus（伏爾甘）。指地殼表面裂開、能噴發熔岩、火山灰和氣體的山地結構。",
+      "definition": "1. a mountain or hill having a crater through which lava, rock fragments, hot vapor, and gas have been erupted from the earth's crust.",
+      "example": [
+        {
+          "eng": "The active volcano erupted, sending ash high into the atmosphere.",
+          "ch": "這座活火山噴發了，將火山灰送上高空大氣中。"
+        }
+      ]
+    },
+    {
+      "eng": "vomit",
+      "kk": "ˈvɑːmɪt",
+      "tense": "vi.",
+      "ch": [
+        [
+          "嘔吐"
+        ]
+      ],
+      "analysis": "源自拉丁語 vomere（吐出、嘔吐）及其分詞衍生詞。現代英語中作為不及物動詞，指胃中食物因生病、中毒或不適而由口中排出的生理反應。",
+      "definition": "1. to eject matter from the stomach through the mouth; throw up.",
+      "example": [
+        {
+          "eng": "He felt so sick after eating the spoiled seafood that he began to vomit.",
+          "ch": "他在吃了變質的海鮮後感到極度不適，開始嘔吐。"
+        }
+      ]
+    },
+    {
+      "eng": "voucher",
+      "kk": "ˈvaʊtʃər",
+      "tense": "n.",
+      "ch": [
+        [
+          "折價券",
+          "現金券",
+          "憑證"
+        ]
+      ],
+      "analysis": "源自中古英語 voutcher（證實者、擔保人），由動詞 vouch（保證、作證，源自拉丁語 vocare「呼叫、傳喚」）衍生。歷史上指能證明帳目無誤的憑據，現代則指可用來兌換商品、折抵金額的折價券或禮券。",
+      "definition": "1. a small printed piece of paper that entitles the holder to a discount, or that can be exchanged for goods or services.",
+      "example": [
+        {
+          "eng": "She received a shopping voucher as a birthday gift.",
+          "ch": "她收到了一張購物禮券作為生日禮物。"
+        }
+      ]
+    },
+    {
+      "eng": "vow",
+      "kk": "vaʊ",
+      "tense": "n.",
+      "ch": [
+        [
+          "誓言",
+          "誓約"
+        ]
+      ],
+      "analysis": "源自古法語 vou（源自拉丁語 votum「誓言、許願」）。指個人向神明、社會或伴侶做出的莊嚴承諾或誓約（如 wedding vows）。",
+      "definition": "1. a solemn promise, pledge, or commitment, especially one made to a deity or in marriage.",
+      "example": [
+        {
+          "eng": "The couple exchanged marriage vows in front of their families and friends.",
+          "ch": "這對新人在親友面前交換了結婚誓言。"
+        }
+      ]
+    },
+    {
+      "eng": "vow",
+      "kk": "vaʊ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "發誓",
+          "鄭重許下"
+        ]
+      ],
+      "analysis": "由名詞 vow 轉化而來的及物動詞，指嚴肅地承諾或發誓要做某事。",
+      "definition": "1. to solemnly promise to do something or achieve a goal.",
+      "example": [
+        {
+          "eng": "The politician vowed to clean up corruption in the city government.",
+          "ch": "這位政治人物發誓要肅清市政府的腐敗。"
+        }
+      ]
+    },
+    {
+      "eng": "vulnerable",
+      "kk": "ˈvʌlnərəbəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "脆弱的",
+          "易受傷的",
+          "易受影響的"
+        ]
+      ],
+      "analysis": "源自中古拉丁語 vulnerabilis，由拉丁語 vulnus（傷口）加上形容詞字尾 -able 組成。字面義為「容易受到傷害的」，現代英語中可指人在情感或生理上脆弱，也可指系統或群體容易遭受攻擊或災害影響。",
+      "definition": "1. exposed to the possibility of being attacked or harmed, either physically or emotionally.",
+      "example": [
+        {
+          "eng": "Newborn babies are particularly vulnerable to infections.",
+          "ch": "初生嬰兒特別容易受到感染。"
+        }
+      ]
+    },
+    {
+      "eng": "warehouse",
+      "kk": "ˈwɛrˌhaʊs",
+      "tense": "n.",
+      "ch": [
+        [
+          "倉庫",
+          "貨棧"
+        ]
+      ],
+      "analysis": "由名詞 ware（貨物、商品，源自日耳曼語族）與 house（房子）複合而成。字面義為「存放貨物的房屋」，專指儲存商業商品與批發物資的大型建築物。",
+      "definition": "1. a large building where raw materials or manufactured goods may be stored before their export or distribution.",
+      "example": [
+        {
+          "eng": "The online retailer stores its products in a massive distribution warehouse.",
+          "ch": "這家網路零售商將其產品存放在一個大型物流倉庫中。"
+        }
+      ]
+    },
+    {
+      "eng": "warrior",
+      "kk": "ˈwɔːriər",
+      "tense": "n.",
+      "ch": [
+        [
+          "武士",
+          "戰士"
+        ]
+      ],
+      "analysis": "源自古諾曼語 werreor，由日耳曼語源的 werra（戰爭、紛爭）衍生。在歷史語境中指受過訓練、參與戰鬥的武士或戰士，也常比喻在困境中不屈不撓奮戰的人。",
+      "definition": "1. a brave or experienced soldier or fighter, especially in historical contexts.",
+      "example": [
+        {
+          "eng": "Ancient warriors fought fiercely with swords and shields.",
+          "ch": "古代戰士們手持刀劍與盾牌進行了激烈的戰鬥。"
+        }
+      ]
+    },
+    {
+      "eng": "wary",
+      "kk": "ˈwɛri",
+      "tense": "adj.",
+      "ch": [
+        [
+          "謹慎的",
+          "戒備的",
+          "猜疑的"
+        ]
+      ],
+      "analysis": "源自古英語 wær（留心的、警惕的），與德語 wahr（真實的）及英文 beware 同源。現代英語中用來形容對可能發生的危險或欺騙保持高度警惕與防範的態度。",
+      "definition": "1. feeling or showing caution about possible dangers or problems.",
+      "example": [
+        {
+          "eng": "Consumers should be wary of online scams promising easy money.",
+          "ch": "消費者對於承諾輕鬆賺錢的網路詐騙應該保持戒心。"
+        }
+      ]
+    },
+    {
+      "eng": "weird",
+      "kk": "wɪrd",
+      "tense": "adj.",
+      "ch": [
+        [
+          "怪異的",
+          "奇特的",
+          "不尋常的"
+        ]
+      ],
+      "analysis": "源自古英語 wyrd（命運、命運女神，如莎劇中的 Weird Sisters）。其歷史義原本與命運、超自然力量有關，經長期演變，現代英語中主要用來形容人事物非常奇特、古怪、不符合常理。",
+      "definition": "1. strikingly odd or unusual, especially in an inexplicable or uncanny way.",
+      "example": [
+        {
+          "eng": "I heard a weird noise coming from the basement last night.",
+          "ch": "我昨晚聽到地下室傳來一個怪異的聲音。"
+        }
+      ]
+    },
+    {
+      "eng": "whatsoever",
+      "kk": "ˌwʌtsəʊˈɛvər",
+      "tense": "adj.",
+      "ch": [
+        [
+          "任何（用於加強否定語氣）"
+        ]
+      ],
+      "analysis": "由 what（什麼）、so（如此）與 ever（永遠、無論）複合而成。通常置於名詞片語之後，用來加強否定句的語氣，表示「絲毫沒有、任何一點也沒有」。",
+      "definition": "1. used after a noun phrase to emphasize that there is absolutely nothing of that kind.",
+      "example": [
+        {
+          "eng": "There is no doubt whatsoever that she is the best candidate for the job.",
+          "ch": "毫無疑問地，她是這份工作最適合的人選。"
+        }
+      ]
+    },
+    {
+      "eng": "wheelchair",
+      "kk": "ˈwiːlˌtʃɛr",
+      "tense": "n.",
+      "ch": [
+        [
+          "輪椅"
+        ]
+      ],
+      "analysis": "由名詞 wheel（輪子）與 chair（椅子）複合而成。字面義為「附有輪子的椅子」，指專為行動不便者設計、裝有輪子的移動坐椅。",
+      "definition": "1. a chair fitted with wheels for use by people who cannot walk or have difficulty walking.",
+      "example": [
+        {
+          "eng": "The museum provides wheelchair access for visitors with physical disabilities.",
+          "ch": "該博物館為肢體殘障的參觀者提供輪椅通道。"
+        }
+      ]
+    },
+    {
+      "eng": "whereabouts",
+      "kk": "ˈwɛrəˌbaʊts",
+      "tense": "n.",
+      "ch": [
+        [
+          "行蹤",
+          "下落",
+          "所在之處"
+        ]
+      ],
+      "analysis": "由副詞 where（哪裡）與 abouts（大約、周圍）複合而成。現代英語中常作為複數形單數使用的名詞，用來指某人或某物目前大約所在的確切位置或下落。",
+      "definition": "1. the place where someone or something is.",
+      "example": [
+        {
+          "eng": "The police are still trying to determine the suspect's current whereabouts.",
+          "ch": "警方仍在設法確定嫌疑人目前的行蹤。"
+        }
+      ]
+    },
+    {
+      "eng": "whereas",
+      "kk": "wɛrˈæz",
+      "tense": "conj.",
+      "ch": [
+        [
+          "然而",
+          "反之",
+          "鑒於"
+        ]
+      ],
+      "analysis": "由 where（在……地方、鑑於）與 as（如同）複合而成。在現代英語中作為對比連接詞，用來連接兩個形成鮮明對比的子句，或在法律文件開頭表示「鑑於……」。",
+      "definition": "1. while on the contrary; considering that; used to compare two different facts or situations.",
+      "example": [
+        {
+          "eng": "My brother loves intense action movies, whereas I prefer romantic comedies.",
+          "ch": "我弟弟喜歡緊張刺激的動作片，而我則比較喜歡浪漫喜劇。"
+        }
+      ]
+    },
+    {
+      "eng": "whine",
+      "kk": "waɪn",
+      "tense": "vi.",
+      "ch": [
+        [
+          "哀鳴",
+          "發牢騷",
+          "抱怨"
+        ]
+      ],
+      "analysis": "源自古英語 hwīnan（發出呼嘯聲、嗡嗡聲，為擬聲詞）。歷史上指風或動物發出的尖銳高頻聲音，現代英語中主要用來形容小孩或成年人發出討厭的哭號、抱怨與發牢騷的聲音。",
+      "definition": "1. to make a long, high-pitched cry, or to complain in an annoying, childish way.",
+      "example": [
+        {
+          "eng": "The dog began to whine when its owner left the room.",
+          "ch": "當主人離開房間時，這隻狗開始發出哀鳴。"
+        }
+      ]
+    },
+    {
+      "eng": "widespread",
+      "kk": "ˈwaɪdˌsprɛd",
+      "tense": "adj.",
+      "ch": [
+        [
+          "廣泛的",
+          "普遍的"
+        ]
+      ],
+      "analysis": "由形容詞 wide（廣泛的）與 spread（展開、分佈的分詞）複合而成。字面義為「向四面八方廣泛展開的」，現代英語中用來形容某種現象、疾病、擔憂或影響範圍波及甚廣。",
+      "definition": "1. found or distributed over a large area or among a large number of people; common.",
+      "example": [
+        {
+          "eng": "The new policy received widespread support from the public.",
+          "ch": "這項新政策獲得了社會大眾的廣泛支持。"
+        }
+      ]
+    },
+    {
+      "eng": "wig",
+      "kk": "wɪɡ",
+      "tense": "n.",
+      "ch": [
+        [
+          "假髮"
+        ]
+      ],
+      "analysis": "為 periwig（假髮）的截短形式，源自法語 perruque。在17至18世紀歐洲非常流行，現代英語中則泛指用於裝扮、遮蓋脫髮或戲劇表演的人造假髮。",
+      "definition": "1. a covering for the head made of real or artificial hair.",
+      "example": [
+        {
+          "eng": "The actor wore a blonde wig for his role in the play.",
+          "ch": "這位演員在劇中為了角色戴了一頂金色的假髮。"
+        }
+      ]
+    },
+    {
+      "eng": "wilderness",
+      "kk": "ˈwɪldərnəs",
+      "tense": "n.",
+      "ch": [
+        [
+          "荒野",
+          "荒涼地區"
+        ]
+      ],
+      "analysis": "由形容詞 wild（野生的）加上名詞字尾 -deor（野獸）及表狀態的 -ness 演變而來（字面義為「野獸出沒的荒涼無人區」）。現代英語中指未受人類開發、保持原始自然風貌的廣大山林或荒漠。",
+      "definition": "1. an uncultivated, uninhabited, and wild natural region.",
+      "example": [
+        {
+          "eng": "They spent a week hiking through the remote mountain wilderness.",
+          "ch": "他們花了一個禮拜在偏遠的山區荒野中健行。"
+        }
+      ]
+    },
+    {
+      "eng": "wildlife",
+      "kk": "ˈwaɪldˌlaɪf",
+      "tense": "n.",
+      "ch": [
+        [
+          "野生動物",
+          "野生動植物"
+        ]
+      ],
+      "analysis": "由形容詞 wild（野生的）與名詞 life（生命）複合而成。字面義為「在野外生存的生命」，專指未被馴化的野生動物及鳥類，有時也包含野生植物。",
+      "definition": "1. wild animals and birds that live in a natural, uncultivated environment.",
+      "example": [
+        {
+          "eng": "The national park is home to a rich variety of wildlife.",
+          "ch": "這座國家公園是豐富多樣的野生動物的家園。"
+        }
+      ]
+    }
+  ]
+}

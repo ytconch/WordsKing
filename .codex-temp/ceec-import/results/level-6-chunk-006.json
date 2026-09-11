@@ -1,0 +1,1154 @@
+{
+  "level": 6,
+  "chunkIndex": 6,
+  "inputs": [
+    "diabetes",
+    "dictate",
+    "dictation",
+    "dictator",
+    "dictatorship",
+    "diesel",
+    "differentiate",
+    "diplomacy",
+    "directive",
+    "disable",
+    "disastrous",
+    "disbelief",
+    "discard",
+    "discharge",
+    "disciple",
+    "disciplinary",
+    "disclosure",
+    "discomfort",
+    "discreet",
+    "disgrace",
+    "dismay",
+    "dispensable",
+    "dispense",
+    "disposable",
+    "disposal",
+    "dispose",
+    "dissent",
+    "distraction",
+    "distress",
+    "disturbance",
+    "diversify",
+    "diversion",
+    "divert",
+    "dividend",
+    "doom",
+    "dormitory",
+    "dorm",
+    "downward",
+    "downwards",
+    "doze",
+    "drastic",
+    "draught",
+    "dresser",
+    "dressing",
+    "dual",
+    "dubious",
+    "duration",
+    "dusk",
+    "dwarf",
+    "dwell"
+  ],
+  "rows": [
+    {
+      "eng": "diabetes",
+      "kk": "ˌdaɪəˈbitiz",
+      "tense": "n.",
+      "ch": [
+        [
+          "糖尿病"
+        ],
+        [
+          "多尿症"
+        ]
+      ],
+      "analysis": "此字為現代醫學名詞，源自拉丁語，最終追溯至希臘語 diabētēs，由 dia-（穿過、通過）與 bainein（走、行）結合而成，原意指「像虹吸管一樣穿過」，用以形容該病症患者大量飲水並頻繁排尿的特徵。在英語中固定作名詞使用，通常視為單數。語義演變從古代指稱多尿症的生理現象，演進並集中指稱以血糖調節異常為核心的代謝疾病。",
+      "definition": "1. A metabolic disorder characterized by high blood sugar levels over a prolonged period.; 2. A medical condition involving excessive urination and thirst, from which the historical name is derived.",
+      "example": [
+        {
+          "eng": "Type 2 diabetes is often linked to lifestyle and diet.",
+          "ch": "第二型糖尿病通常與生活方式和飲食有關。"
+        },
+        {
+          "eng": "Excessive thirst can be an early warning sign of diabetes.",
+          "ch": "過度口渴可能是糖尿病的早期預警信號。"
+        }
+      ]
+    },
+    {
+      "eng": "dictate",
+      "kk": "ˈdɪktet",
+      "tense": "vt.",
+      "ch": [
+        [
+          "口述",
+          "口授"
+        ],
+        [
+          "命令",
+          "支配"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 dictare（反复說、命令，為 dicere「說」的頻動詞形）。在現代英語中作為及物動詞，核心義包含口述文字及發號施令。語義由「重複地說」演變為「口授給他人記錄」以及「以權威強制規定、支配」。",
+      "definition": "1. To say or read aloud words to be recorded by another person or written down by a machine.; 2. To lay down authoritative rules or commands that must be obeyed.",
+      "example": [
+        {
+          "eng": "She likes to dictate her letters to her secretary every morning.",
+          "ch": "她喜歡每天早上向祕書口述信件。"
+        },
+        {
+          "eng": "We should not let foreign powers dictate our domestic policies.",
+          "ch": "我們不應該讓外國勢力支配我們的國內政策。"
+        }
+      ]
+    },
+    {
+      "eng": "dictate",
+      "kk": "ˈdɪktet",
+      "tense": "vi.",
+      "ch": [
+        [
+          "發號施令",
+          "下達命令"
+        ]
+      ],
+      "analysis": "此為 dictate 的不及物動詞用法，源自拉丁語 dictare。在現代英語中獨立運作，常與介詞片語連用，強調發揮權威或主導地位而不直接接受詞。",
+      "definition": "1. To give orders authoritatively or demand compliance without taking a direct grammatical object.",
+      "example": [
+        {
+          "eng": "He tends to dictate in meetings without listening to others.",
+          "ch": "他在會議中總愛發號施令，而不聽取別人的意見。"
+        }
+      ]
+    },
+    {
+      "eng": "dictation",
+      "kk": "dɪkˈteʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "口述",
+          "聽寫"
+        ]
+      ],
+      "analysis": "此字由動詞 dictate 加上名詞字尾 -ion 構成，用以表示動作的結果或過程。歷史上透過英語構詞機制形成。語義直接延續自 dictate 的口述、聽寫練習或威權命令。",
+      "definition": "1. The action of uttering words to be transcribed by another or typed by a machine.; 2. An exercise in which passages are read aloud for students to write down.",
+      "example": [
+        {
+          "eng": "The teacher gave a short dictation test to the language class.",
+          "ch": "老師給語言班進行了一次短的聽寫測驗。"
+        }
+      ]
+    },
+    {
+      "eng": "dictator",
+      "kk": "ˈdɪktetɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "獨裁者",
+          "專制者"
+        ]
+      ],
+      "analysis": "此字由動詞 dictate 加上表示主事者的名詞字尾 -or 構成。在古羅馬時期指共和國面臨危機時獲授全權的臨時最高長官，但在現代英語中語義轉為指全面掌控國家政權、不受法律約束的獨裁者。",
+      "definition": "1. A ruler with total power over a country, typically one who has obtained control by force.",
+      "example": [
+        {
+          "eng": "The country was liberated from the cruel rule of a dictator.",
+          "ch": "這個國家從一個獨裁者殘酷的統治下解放出來。"
+        }
+      ]
+    },
+    {
+      "eng": "dictatorship",
+      "kk": "dɪkˈtetɚʃɪp",
+      "tense": "n.",
+      "ch": [
+        [
+          "獨裁政權",
+          "獨裁統治"
+        ]
+      ],
+      "analysis": "此字由名詞 dictator 加上抽象名詞字尾 -ship 構成，用以表示身分、狀態或政體。在現代英語中指獨裁者的統治制度或由獨裁者治理的政權。",
+      "definition": "1. Government by a dictator or a system of government characterized by absolute authoritarian rule.",
+      "example": [
+        {
+          "eng": "The military coup turned the fragile democracy into a brutal dictatorship.",
+          "ch": "軍事政變將脆弱的民主政體變成了殘酷的獨裁政權。"
+        }
+      ]
+    },
+    {
+      "eng": "diesel",
+      "kk": "ˈdizəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "柴油",
+          "柴油引擎"
+        ]
+      ],
+      "analysis": "此字為 eponym（源自人名），紀念德國發明家魯道夫·狄塞爾（Rudolf Diesel），他於 1892 年發明瞭壓縮點火式內燃機。在英語中經由詞性轉化或省略，既可指柴油引擎，也可指該引擎所使用的燃油。",
+      "definition": "1. An internal combustion engine in which heat produced by the compression of air in the cylinder ignites the fuel.; 2. A refined petroleum oil used as fuel in diesel engines.",
+      "example": [
+        {
+          "eng": "Many modern trucks and buses run on diesel.",
+          "ch": "許多現代卡車和公車都是使用柴油行駛的。"
+        }
+      ]
+    },
+    {
+      "eng": "differentiate",
+      "kk": "ˌdɪfəˈrɛnʃiˌet",
+      "tense": "vt.",
+      "ch": [
+        [
+          "區分",
+          "辨別"
+        ],
+        [
+          "使不同",
+          "使具備差異"
+        ]
+      ],
+      "analysis": "此字由形容詞 different 的詞幹經由拉丁語源頭演變並加上動詞字尾 -iate 構成。在現代英語中兼具及物與不及物用法。此處為 vt.，核心義為識別事物間的不同之處，或使某個體展現獨特特徵。",
+      "definition": "1. To recognize or ascertain what makes someone or something different.; 2. To make someone or something appear different or distinct.",
+      "example": [
+        {
+          "eng": "It is hard to differentiate between the identical twins.",
+          "ch": "很難分辨這對雙胞胎。"
+        },
+        {
+          "eng": "Good customer service helps to differentiate our brand from competitors.",
+          "ch": "良好的客戶服務有助於使我們的品牌與競爭對手區別開來。"
+        }
+      ]
+    },
+    {
+      "eng": "diplomacy",
+      "kk": "dəˈploməsi",
+      "tense": "n.",
+      "ch": [
+        [
+          "外交",
+          "外交手腕"
+        ],
+        [
+          "圓滑處理",
+          "交際手腕"
+        ]
+      ],
+      "analysis": "此字源自法語 diplomatie，最終來自希臘語 diploma（官方文書、證書）。在現代英語中作名詞，指國家之間的官方交往與協商藝術，引申泛指處理人際關係時的圓滑與 tact（老練）。",
+      "definition": "1. The profession, activity, or skill of managing international relations, typically by a country's representatives abroad.; 2. The skill in managing negotiations and handling people without offending them.",
+      "example": [
+        {
+          "eng": "The crisis was averted through careful international diplomacy.",
+          "ch": "這場危機透過審慎的國際外交得以避免。"
+        },
+        {
+          "eng": "It required great diplomacy to resolve the dispute among colleagues.",
+          "ch": "解決同事間的爭端需要高度的圓滑手腕。"
+        }
+      ]
+    },
+    {
+      "eng": "directive",
+      "kk": "dəˈrɛktɪv",
+      "tense": "n.",
+      "ch": [
+        [
+          "指示",
+          "指令",
+          "方針"
+        ]
+      ],
+      "analysis": "此字由動詞 direct 加上形容詞或名詞字尾 -ive 構成。在現代英語中既可作形容詞，也可作名詞。此處為名詞 row，指官方或權威機構發布的正式指導方針或命令。",
+      "definition": "1. An official instruction or order given by someone in authority.",
+      "example": [
+        {
+          "eng": "Management issued a new directive regarding remote work.",
+          "ch": "管理層發布了一項關於遠距工作的新指示。"
+        }
+      ]
+    },
+    {
+      "eng": "disable",
+      "kk": "dɪsˈebəl",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使失能",
+          "使傷殘"
+        ],
+        [
+          "使無效",
+          "使停用"
+        ]
+      ],
+      "analysis": "此字由否定字首 dis- 與形容詞 able 結合而成的動詞。在現代英語中作及物動詞，原意為剝奪能力，既可用於指生理上的傷殘，也可用於指設備或系統功能的關閉與失效。",
+      "definition": "1. To make someone unable to work or move normally through illness or injury.; 2. To damage or alter something so that it is no longer able to work.",
+      "example": [
+        {
+          "eng": "The accident left him disabled for life.",
+          "ch": "那場事故使他終身殘疾。"
+        },
+        {
+          "eng": "You can disable cookies in your browser settings.",
+          "ch": "你可以在瀏覽器設定中停用 Cookie。"
+        }
+      ]
+    },
+    {
+      "eng": "disastrous",
+      "kk": "dɪˈzæstrəs",
+      "tense": "adj.",
+      "ch": [
+        [
+          "災難性的",
+          "極糟的"
+        ]
+      ],
+      "analysis": "此字由名詞 disaster（源自義大利語 disastro，dis-「不良」+ astro「星星、命運」，原意為「星象不祥」）加上形容詞字尾 -ous 構成。在現代英語中作為形容詞，用以形容造成嚴重毀壞或極度失敗的事件。",
+      "definition": "1. Causing great damage, harm, or failure; extremely unsuccessful.",
+      "example": [
+        {
+          "eng": "The heavy rain had a disastrous effect on the crops.",
+          "ch": "大雨對農作物造成了災難性的影響。"
+        }
+      ]
+    },
+    {
+      "eng": "disbelief",
+      "kk": "ˌdɪsbɪˈlif",
+      "tense": "n.",
+      "ch": [
+        [
+          "不信",
+          "懷疑",
+          "詫異"
+        ]
+      ],
+      "analysis": "此字由否定字首 dis- 與名詞 belief（信念、相信）結合而成。在現代英語中作名詞，用以表達對某事真實性或可能性的不相信、懷疑，或因過於震驚而產生的難以置信。",
+      "definition": "1. Inability or refusal to accept that something is true or real.",
+      "example": [
+        {
+          "eng": "She stared at him in utter disbelief when she heard the news.",
+          "ch": "聽到這個消息時，她完全以難以置信的眼神盯著他。"
+        }
+      ]
+    },
+    {
+      "eng": "discard",
+      "kk": "dɪsˈkɑrd",
+      "tense": "vt.",
+      "ch": [
+        [
+          "丟棄",
+          "拋棄",
+          "摒棄"
+        ]
+      ],
+      "analysis": "此字由否定或分離字首 dis- 與動詞 card（源自名詞 card，原意為在紙牌遊戲中把牌扔掉）結合而成。在現代英語中作及物動詞，指將不再需要、無用或不受歡迎的物品或觀念扔掉或拋棄。",
+      "definition": "1. To get rid of something as no longer useful or desirable.",
+      "example": [
+        {
+          "eng": "Remember to discard old batteries properly at designated collection points.",
+          "ch": "記得要在指定的收集點妥善丟棄舊電池。"
+        }
+      ]
+    },
+    {
+      "eng": "discharge",
+      "kk": "dɪsˈtʃɑrdʒ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "釋放",
+          "排出"
+        ],
+        [
+          "履行（職責）",
+          "解除職務",
+          "准許出院"
+        ]
+      ],
+      "analysis": "此字由否定或相反動作字首 dis- 與動詞 charge（裝載、負擔、指控）結合而成。在現代英語中作及物動詞（亦可作名詞）。字面原意為卸下負擔，引申出釋放氣體或液體、履行義務、解除職務或病患出院等多樣化的高頻義。",
+      "definition": "1. To allow someone to leave an official place, such as a hospital or prison, or to release a substance; 2. To perform or fulfill a duty, or to dismiss someone from employment.",
+      "example": [
+        {
+          "eng": "The patient was discharged from the hospital yesterday.",
+          "ch": "該名患者昨天獲准出院。"
+        },
+        {
+          "eng": "He failed to discharge his duties as a director.",
+          "ch": "他未能盡到作為董事的職責。"
+        }
+      ]
+    },
+    {
+      "eng": "disciple",
+      "kk": "dɪˈsaɪpəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "門徒",
+          "信徒",
+          "追隨者"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 discipulus（學習者、學生），由 discere（學習）衍生而來。透過古英語或中古英語借入。在現代英語中作名詞，專指宗教導師、哲學家或藝術家的追隨者與門徒。",
+      "definition": "1. A personal follower of a teacher, leader, or philosopher, especially one of the twelve apostles of Jesus.",
+      "example": [
+        {
+          "eng": "The philosopher and his disciples gathered in the garden to discuss ethics.",
+          "ch": "這位哲學家與他的門徒們聚集在花園裡討論倫理學。"
+        }
+      ]
+    },
+    {
+      "eng": "disciplinary",
+      "kk": "ˈdɪsəpləˌnɛri",
+      "tense": "adj.",
+      "ch": [
+        [
+          "紀律的",
+          "懲戒的"
+        ]
+      ],
+      "analysis": "此字由名詞 discipline（紀律、學科）加上形容詞字尾 -ary 構成。在現代英語中作形容詞，主要用於指維持紀律、執行處分或與學科專業相關的領域。此處保留最常見的懲戒與紀律義。",
+      "definition": "1. Concerned with or enforcing discipline; intended to punish or correct bad behavior.",
+      "example": [
+        {
+          "eng": "The employee faces disciplinary action for repeated tardiness.",
+          "ch": "該員工因屢次遲到而面臨懲戒處分。"
+        }
+      ]
+    },
+    {
+      "eng": "disclosure",
+      "kk": "dɪsˈkloʒɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "揭露",
+          "透露",
+          "公開的事項"
+        ]
+      ],
+      "analysis": "此字由動詞 disclose（dis-「解除」+ close「關閉」，即打開、使顯露）加上名詞字尾 -ure 構成。在現代英語中作名詞，指將原本保密或隱藏的事實公諸於世的行為或結果。",
+      "definition": "1. The action of making new or secret information known to others; a revealed fact.",
+      "example": [
+        {
+          "eng": "The company was criticized for the late disclosure of financial losses.",
+          "ch": "該公司因延遲揭露財務虧損而遭到批評。"
+        }
+      ]
+    },
+    {
+      "eng": "discomfort",
+      "kk": "dɪsˈkʌmfɚt",
+      "tense": "n.",
+      "ch": [
+        [
+          "不適",
+          "輕微疼痛",
+          "不安"
+        ]
+      ],
+      "analysis": "此字由否定字首 dis- 與名詞 comfort（舒適、安慰）結合而成。在現代英語中作名詞，指身體上的輕微痛苦或心理上的不自在、窘迫。",
+      "definition": "1. A state of physical or mental unease or pain.",
+      "example": [
+        {
+          "eng": "Mild stomach discomfort is a common side effect of this medication.",
+          "ch": "輕微的胃部不適是這種藥物常見的副作用。"
+        }
+      ]
+    },
+    {
+      "eng": "discreet",
+      "kk": "dɪˈskrit",
+      "tense": "adj.",
+      "ch": [
+        [
+          "謹慎的",
+          "言行審慎的",
+          "低調的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 discretus（分開的、辨別力強的，為 discernere 的分詞形），在中古英語中語義由「有辨別力的」演變為「言行謹慎、不引人注目以避免麻煩的」。與 discrete（離散的、不連續的）同源但拼法與語義分化。",
+      "definition": "1. Careful in one's speech or actions, especially in order to avoid offense or to gain an advantage; unobtrusive.",
+      "example": [
+        {
+          "eng": "He made discreet inquiries about her background before hiring her.",
+          "ch": "他在雇用她之前，對她的背景進行了謹慎的打聽。"
+        }
+      ]
+    },
+    {
+      "eng": "disgrace",
+      "kk": "dɪsˈgres",
+      "tense": "n.",
+      "ch": [
+        [
+          "恥辱",
+          "丟臉的事物"
+        ]
+      ],
+      "analysis": "此字由否定字首 dis- 與名詞 grace（恩寵、榮譽、優雅）結合而成。在現代英語中既可作名詞也可作動詞。此處為名詞 row，指喪失榮譽、名譽掃地或令人感到極度羞恥的人事物。",
+      "definition": "1. Loss of reputation or respect as the result of a dishonorable action; a person or thing that causes shame.",
+      "example": [
+        {
+          "eng": "His corrupt behavior brought disgrace upon his family.",
+          "ch": "他的腐敗行為給他的家族帶來了恥辱。"
+        }
+      ]
+    },
+    {
+      "eng": "dismay",
+      "kk": "dɪsˈme",
+      "tense": "n.",
+      "ch": [
+        [
+          "沮喪",
+          "驚愕",
+          "氣餒"
+        ]
+      ],
+      "analysis": "此字源自古法語 desmaier（使失去勇氣、使驚慌），由否定字首 des- 與日耳曼語源的動詞詞根結合而成。在現代英語中可作名詞與動詞。此處為名詞 row，指面對突發困境或壞消息時產生的驚慌與灰心。",
+      "definition": "1. Concern and distress caused by something unexpected; a feeling of despair.",
+      "example": [
+        {
+          "eng": "Much to our dismay, the concert was canceled at the last minute.",
+          "ch": "令我們大失所望的是，音樂會在最後一刻被取消了。"
+        }
+      ]
+    },
+    {
+      "eng": "dispensable",
+      "kk": "dɪˈspɛnsəbəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "可有可無的",
+          "非必要的"
+        ]
+      ],
+      "analysis": "此字由動詞 dispense 加上形容詞字尾 -able（能……的）構成。在現代英語中作形容詞，字面原意為「可以被分配掉的」，引申為「不是絕對必需的、可以捨棄的」。",
+      "definition": "1. Able to be replaced or dispensed with; not absolutely necessary.",
+      "example": [
+        {
+          "eng": "In an efficient team, no member's contribution is truly dispensable.",
+          "ch": "在一個高效的團隊中，沒有哪個成員的貢獻是真正可有可無的。"
+        }
+      ]
+    },
+    {
+      "eng": "dispense",
+      "kk": "dɪˈspɛns",
+      "tense": "vt.",
+      "ch": [
+        [
+          "分發",
+          "分配"
+        ],
+        [
+          "配藥",
+          "執行"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 dispensare（分配、管理），由 dis-（分散）與 pensare（稱重、衡量）複合而成。在現代英語中作及物動詞，核心義為將物品、藥物或司法服務分配給需要的人。",
+      "definition": "1. To distribute or provide a service or information to a number of people.; 2. To prepare and give out medicine in accordance with a prescription.",
+      "example": [
+        {
+          "eng": "Volunteers helped dispense food and water to the refugees.",
+          "ch": "志工協助向難民分發食物和水。"
+        },
+        {
+          "eng": "The pharmacist can dispense your prescription right away.",
+          "ch": "藥劑師可以立刻為你配發處方藥。"
+        }
+      ]
+    },
+    {
+      "eng": "disposable",
+      "kk": "dɪˈspozəbəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "免洗的",
+          "用完即可丟棄的"
+        ],
+        [
+          "可自由支配的"
+        ]
+      ],
+      "analysis": "此字由動詞 dispose 加上形容詞字尾 -able 構成。在現代英語中作形容詞，主要指設計為使用一次後即丟棄的產品，亦常用於經濟學語境中指可自由支配的資金。",
+      "definition": "1. Designed to be thrown away after being used only once.; 2. Available to be spent or used as one pleases after taxes and necessities are met.",
+      "example": [
+        {
+          "eng": "We should reduce our use of disposable plastic utensils.",
+          "ch": "我們應該減少使用免洗塑膠餐具。"
+        },
+        {
+          "eng": "An increase in wages gives consumers more disposable income.",
+          "ch": "薪資調漲賦予消費者更多可自由支配的收入。"
+        }
+      ]
+    },
+    {
+      "eng": "disposal",
+      "kk": "dɪˈspozəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "清除",
+          "處理",
+          "丟棄"
+        ]
+      ],
+      "analysis": "此字由動詞 dispose 加上名詞字尾 -al 構成。在現代英語中作名詞，主要指將垃圾、廢棄物處理掉的行為，或在特定片語中表示「可供某人支配使用」。",
+      "definition": "1. The action or process of throwing away or getting rid of something.",
+      "example": [
+        {
+          "eng": "Strict regulations govern the disposal of hazardous chemical waste.",
+          "ch": "嚴格的法規規範了有害化學廢棄物的處理。"
+        }
+      ]
+    },
+    {
+      "eng": "dispose",
+      "kk": "dɪˈspoz",
+      "tense": "vt.",
+      "ch": [
+        [
+          "佈置",
+          "安排"
+        ],
+        [
+          "使傾向於"
+        ]
+      ],
+      "analysis": "此字源自古法語 disponere（拉丁語 disponere，dis-「分開」+ ponere「放置」）。在現代英語中主要作及物與不及物動詞，最常見的現代用法為片語 dispose of，此處單列其動詞本義（佈置、使傾向）。",
+      "definition": "1. To arrange or put things in a particular order or position.; 2. To make someone inclined or disposed toward a certain attitude.",
+      "example": [
+        {
+          "eng": "The furniture was neatly disposed around the living room.",
+          "ch": "家具被整齊地擺設在客廳周圍。"
+        }
+      ]
+    },
+    {
+      "eng": "dissent",
+      "kk": "dɪˈsɛnt",
+      "tense": "vi.",
+      "ch": [
+        [
+          "持異議",
+          "不同意"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 dissentire，由 dis-（分離）與 sentire（感覺、認為）複合而成。在現代英語中主要作不及物動詞與名詞。此處為 vi. row，指公開表達與官方、主流或多數人不同的意見。",
+      "definition": "1. To hold or express opinions that are different from those previously, commonly, or officially held.",
+      "example": [
+        {
+          "eng": "Only one judge chose to dissent from the majority ruling.",
+          "ch": "只有一位法官選擇對多數裁決表示不同意。"
+        }
+      ]
+    },
+    {
+      "eng": "distraction",
+      "kk": "dɪˈstrækʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "分心",
+          "分散注意力的事物"
+        ],
+        [
+          "娛樂",
+          "消遣"
+        ]
+      ],
+      "analysis": "此字由動詞 distract（dis-「離開」+ trahere「拉」，即把心智拉開）加上名詞字尾 -ion 構成。在現代英語中作名詞，指妨礙專注力的事物，或指讓人放鬆身心的消遣娛樂活動。",
+      "definition": "1. A thing that prevents someone from giving full attention to something else.; 2. Entertainment or amusement that helps to divert one's mind from worries.",
+      "example": [
+        {
+          "eng": "Turn off your phone to avoid any distraction while studying.",
+          "ch": "唸書時關掉手機以避免任何分心。"
+        },
+        {
+          "eng": "Reading books provides a welcome distraction from daily stress.",
+          "ch": "閱讀書籍提供了一種受歡迎的日常壓力消遣。"
+        }
+      ]
+    },
+    {
+      "eng": "distress",
+      "kk": "dɪˈstrɛs",
+      "tense": "n.",
+      "ch": [
+        [
+          "痛苦",
+          "憂慮",
+          "危難"
+        ]
+      ],
+      "analysis": "此字源自古法語 destresse，最終源自拉丁語 distringere（拉開、束縛、使苦惱）。在現代英語中可作名詞與動詞。此處為名詞 row，指極度的身心痛苦、焦慮，或指船隻、飛機遭遇危險的困境。",
+      "definition": "1. Extreme anxiety, sorrow, or pain; a state of danger or desperate need.",
+      "example": [
+        {
+          "eng": "The shipwrecked sailors sent out an urgent distress signal.",
+          "ch": "失事的船員發出了緊急求救信號。"
+        }
+      ]
+    },
+    {
+      "eng": "disturbance",
+      "kk": "dɪˈstɝbəns",
+      "tense": "n.",
+      "ch": [
+        [
+          "騷動",
+          "動亂",
+          "打擾"
+        ]
+      ],
+      "analysis": "此字由動詞 disturb（dis-「徹底」+ turbare「擾亂、使混亂」）加上名詞字尾 -ance 構成。在現代英語中作名詞，指打破平靜狀態的騷動、社會動亂，或對睡眠、心智安寧的干擾。",
+      "definition": "1. An interruption of a settled and peaceful condition; a public uproar or commotion.",
+      "example": [
+        {
+          "eng": "Police were called to investigate a disturbance in the neighborhood.",
+          "ch": "警方被召集去調查鄰里間的一起騷動。"
+        }
+      ]
+    },
+    {
+      "eng": "diversify",
+      "kk": "daɪˈvɝsəˌfaɪ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使多樣化",
+          "多元化"
+        ]
+      ],
+      "analysis": "此字由形容詞 diverse（多樣的）加上動詞化字尾 -fy 構成。在現代英語中兼具及物與不及物動詞。此處為 vt. row，指擴充產品線、投資組合或業務範圍，以降低單一依賴帶來的風險。",
+      "definition": "1. To make or become more diverse or varied, especially by expanding into new areas of business or production.",
+      "example": [
+        {
+          "eng": "The company decided to diversify its product line to attract new customers.",
+          "ch": "該公司決定使其產品線多樣化，以吸引新客戶。"
+        }
+      ]
+    },
+    {
+      "eng": "diversion",
+      "kk": "daɪˈvɝʒən",
+      "tense": "n.",
+      "ch": [
+        [
+          "轉移注意力",
+          "轉彎",
+          "消遣"
+        ]
+      ],
+      "analysis": "此字由動詞 divert（di-「分開」+ vertere「轉」）加上名詞字尾 -ion 構成。在現代英語中作名詞，指將注意力從某事引開的策略、交通改道，或輕鬆的娛樂消遣活動。",
+      "definition": "1. An instance of turning something aside from its course; something that distracts attention.; 2. An activity that takes up one's time and thoughts pleasantly; a pastime.",
+      "example": [
+        {
+          "eng": "Road signs directed drivers to take a diversion around the construction site.",
+          "ch": "道路標誌引導駕駛人在施工現場周圍繞道行駛。"
+        }
+      ]
+    },
+    {
+      "eng": "divert",
+      "kk": "daɪˈvɝt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使轉向",
+          "轉移（注意力等）",
+          "挪用（資金）"
+        ],
+        [
+          "娛樂",
+          "消遣"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 divertere，由 di-（分離、離開）與 vertere（轉動）複合而成。在現代英語中作及物動詞，核心義為改變方向或將資源、注意力引向他處。",
+      "definition": "1. To cause someone or something to change course or turn from one direction to another; to redirect funds or attention.; 2. To entertain someone.",
+      "example": [
+        {
+          "eng": "Extra police officers were deployed to divert traffic away from the accident.",
+          "ch": "部署了額外的警力將交通從事故現場引開。"
+        },
+        {
+          "eng": "The government had to divert funds to support healthcare services.",
+          "ch": "政府不得不挪用資金來支持醫療服務。"
+        }
+      ]
+    },
+    {
+      "eng": "dividend",
+      "kk": "ˈdɪvəˌdɛnd",
+      "tense": "n.",
+      "ch": [
+        [
+          "股息",
+          "紅利",
+          "回報"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 dividendum（要被分配的東西，為 dividere「分割」動名詞的被動分詞形）。在現代英語中作名詞，商業上指公司分派給股東的紅利，引申指長期努力後獲得的好處與回報。",
+      "definition": "1. A sum of money paid regularly by a company to its shareholders out of its profits.; 2. A benefit or advantage that results from an action.",
+      "example": [
+        {
+          "eng": "Investors received a higher annual dividend this year.",
+          "ch": "投資人今年領到了較高的年度股利。"
+        },
+        {
+          "eng": "Investing in early childhood education pays long-term dividends.",
+          "ch": "投資幼兒早期教育會帶來長期的回報。"
+        }
+      ]
+    },
+    {
+      "eng": "doom",
+      "kk": "dum",
+      "tense": "n.",
+      "ch": [
+        [
+          "厄運",
+          "毀滅",
+          "劫數"
+        ]
+      ],
+      "analysis": "此字源自古英語 dōm（判決、法令），與動詞 do 同源。在現代英語中可作名詞與動詞。此處為名詞 row，語義由古代的「法律判決」演變為「不可避免的壞結局、毀滅或世界末日」。",
+      "definition": "1. Death, destruction, or some other terrible and unavoidable fate.",
+      "example": [
+        {
+          "eng": "The gloomy weather seemed to portend impending doom.",
+          "ch": "陰沉的天氣似乎預示著即將到來的厄運。"
+        }
+      ]
+    },
+    {
+      "eng": "dormitory",
+      "kk": "ˈdɔrməˌtɔri",
+      "tense": "n.",
+      "ch": [
+        [
+          "學生宿舍"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 dormitorium（臥室），由 dormire（睡眠）加上場所字尾構成。在現代英語中作名詞，主要指學校或大學內供學生居住的宿舍建築。",
+      "definition": "1. A large bedroom for a number of people, especially a school or university building providing sleeping quarters for students.",
+      "example": [
+        {
+          "eng": "First-year students are usually required to live in the campus dormitory.",
+          "ch": "大一新生通常被要求住在校內宿舍。"
+        }
+      ]
+    },
+    {
+      "eng": "dorm",
+      "kk": "dɔrm",
+      "tense": "n.",
+      "ch": [
+        [
+          "學生宿舍"
+        ]
+      ],
+      "analysis": "此字為 dormitory 的常見縮寫形式，在現代美式英語的口語與非正式語境中極為普遍，詞義與完整形式完全相同。",
+      "definition": "1. A college or university residence hall; short for dormitory.",
+      "example": [
+        {
+          "eng": "He left his laptop charger back in his dorm room.",
+          "ch": "他把筆電充電器忘在宿舍房間裡了。"
+        }
+      ]
+    },
+    {
+      "eng": "downward",
+      "kk": "ˈdaʊnwɚd",
+      "tense": "adj.",
+      "ch": [
+        [
+          "向下的",
+          "下降的"
+        ]
+      ],
+      "analysis": "此字由副詞性成分 down（向下）與表示方向的字尾 -ward 結合而成。在現代英語中主要作形容詞。此處為形容詞 row，用以修飾趨勢或物理移動方向的向下。",
+      "definition": "1. Moving or pointing toward a lower position, level, or trend.",
+      "example": [
+        {
+          "eng": "The stock market showed a downward trend throughout the week.",
+          "ch": "股市整週呈現下跌趨勢。"
+        }
+      ]
+    },
+    {
+      "eng": "downwards",
+      "kk": "ˈdaʊnwɚdz",
+      "tense": "adv.",
+      "ch": [
+        [
+          "向下地",
+          "朝下地"
+        ]
+      ],
+      "analysis": "此字由形容詞或副詞 downward 加上副詞性的屬格字尾 -s 構成。在現代英語中作為副詞使用，專門修飾動詞，表示方向朝下。",
+      "definition": "1. Toward a lower place or level; in a downward direction.",
+      "example": [
+        {
+          "eng": "She looked downwards from the balcony at the bustling street below.",
+          "ch": "她從陽台向下俯瞰下方熱鬧的街道。"
+        }
+      ]
+    },
+    {
+      "eng": "doze",
+      "kk": "doz",
+      "tense": "vi.",
+      "ch": [
+        [
+          "打瞌睡",
+          "打盹"
+        ]
+      ],
+      "analysis": "此字源自斯堪地那維亞語源（類似古諾斯語 daūsi，意為呆滯、昏睡）。在現代英語中主要作不及物動詞與名詞。此處為 vi. row，指輕微、短暫地入睡。",
+      "definition": "1. To sleep lightly, especially during the day; to nap.",
+      "example": [
+        {
+          "eng": "He began to doze during the long afternoon lecture.",
+          "ch": "他在漫長的下午講座中開始打瞌睡。"
+        }
+      ]
+    },
+    {
+      "eng": "drastic",
+      "kk": "ˈdræstɪk",
+      "tense": "adj.",
+      "ch": [
+        [
+          "激烈的",
+          "極端的",
+          "果斷的"
+        ]
+      ],
+      "analysis": "此字源自希臘語 drastikos（積極的、起作用的），由 drān（做、實行）衍生而來。在現代英語中作形容詞，用以形容為解決嚴重問題而採取的大刀闊斧、影響深遠的強烈手段。",
+      "definition": "1. Likely to have a strong or far-reaching effect; severe and radical in action.",
+      "example": [
+        {
+          "eng": "The company had to take drastic measures to avoid bankruptcy.",
+          "ch": "該公司不得不採取激烈的措施來避免破產。"
+        }
+      ]
+    },
+    {
+      "eng": "draught",
+      "kk": "dræft",
+      "tense": "n.",
+      "ch": [
+        [
+          "通風",
+          "一股涼風"
+        ],
+        [
+          "草稿",
+          "現打啤酒"
+        ]
+      ],
+      "analysis": "此字為 draught 的傳統英式拼法，源自古英語 dragan（拉、拖）。在現代英語中作名詞，主要指室內流動的冷空氣、文件草稿或從酒桶中直接打出來的啤酒。",
+      "definition": "1. A current of cool air in a room or other confined space.; 2. A preliminary version of a piece of writing; beer served from a cask.",
+      "example": [
+        {
+          "eng": "Close the window; there is a cold draught coming in.",
+          "ch": "把窗戶關上，有股冷風吹進來。"
+        }
+      ]
+    },
+    {
+      "eng": "dresser",
+      "kk": "ˈdrɛsɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "抽屜櫃",
+          "衣櫃"
+        ],
+        [
+          "服裝師"
+        ]
+      ],
+      "analysis": "此字由動詞 dress 加上表工具或人的名詞字尾 -er 構成。在現代英語中作名詞，在北美家具語境中指帶有抽屜的矮衣櫃，在劇場語境中指協助演員換裝的服裝管理員。",
+      "definition": "1. A chest of drawers used for storing clothes, typically with a mirror.; 2. A person who helps actors dress for a performance.",
+      "example": [
+        {
+          "eng": "She placed her jewelry on top of the wooden dresser.",
+          "ch": "她把珠寶放在木製抽屜櫃的頂部。"
+        }
+      ]
+    },
+    {
+      "eng": "dressing",
+      "kk": "ˈdrɛsɪŋ",
+      "tense": "n.",
+      "ch": [
+        [
+          "調味醬",
+          "沙拉醬"
+        ],
+        [
+          "繃帶",
+          "包紮敷料"
+        ]
+      ],
+      "analysis": "此字由動詞 dress 加上名詞化字尾 -ing 構成。在現代英語中作名詞，指用於沙拉等食物的液體調味料，或指用於覆蓋傷口的醫用敷料與繃帶。",
+      "definition": "1. A sauce for salads, typically made of oil, vinegar, and seasonings.; 2. A sterile covering applied to a wound to protect it.",
+      "example": [
+        {
+          "eng": "Would you prefer Italian dressing or ranch for your salad?",
+          "ch": "你的沙拉想要義大利油醋醬還是牧場沙拉醬？"
+        },
+        {
+          "eng": "The nurse changed the dressing on his leg wound.",
+          "ch": "護士幫他腿上的傷口換了敷料。"
+        }
+      ]
+    },
+    {
+      "eng": "dual",
+      "kk": "ˈduəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "雙重的",
+          "兩部分的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 dualis（由 duo「二」衍生而來）。在現代英語中主要作形容詞，用以形容某個事物具有兩個組成部分、兩個層面或雙重性質。",
+      "definition": "1. Consisting of two parts, elements, or aspects; having a double character or function.",
+      "example": [
+        {
+          "eng": "He holds dual citizenship in Canada and the United Kingdom.",
+          "ch": "他擁有加拿大和英國的雙重國籍。"
+        }
+      ]
+    },
+    {
+      "eng": "dubious",
+      "kk": "ˈdubɪəs",
+      "tense": "adj.",
+      "ch": [
+        [
+          "懷疑的",
+          "可疑的",
+          "沒有把握的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 dubiosus，由 dubium（疑問）衍生而來。在現代英語中作形容詞，用以形容某事令人懷疑、不可靠，或某人對某事感到猶豫、沒有把握。",
+      "definition": "1. Hesitating or doubting; not yielding to conviction.; 2. Suspect; of questionable value or truth.",
+      "example": [
+        {
+          "eng": "I was rather dubious about the safety of the old bridge.",
+          "ch": "我對那座老舊橋樑的安全性相當懷疑。"
+        },
+        {
+          "eng": "The company made some dubious financial claims.",
+          "ch": "該公司做出了一些可疑的財務聲明。"
+        }
+      ]
+    },
+    {
+      "eng": "duration",
+      "kk": "dʊˈreʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "持續時間",
+          "期間"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 duratio，由 durare（持續、忍耐，源自 durus「堅硬的、持久的」）加上名詞字尾構成。在現代英語中作名詞，專指某個事件或狀態從開始到結束所持續的時間長度。",
+      "definition": "1. The time during which something continues or lasts.",
+      "example": [
+        {
+          "eng": "The lecture had a duration of approximately ninety minutes.",
+          "ch": "該講座大約持續了九十分鐘。"
+        }
+      ]
+    },
+    {
+      "eng": "dusk",
+      "kk": "dʌsk",
+      "tense": "n.",
+      "ch": [
+        [
+          "黃昏",
+          "薄暮"
+        ]
+      ],
+      "analysis": "此字源自古英語 dosc（黑暗的、陰暗的），與日耳曼語源相關。在現代英語中作名詞，專指日落後、天色即將完全變黑的黃昏時刻。",
+      "definition": "1. The darker stage of twilight, especially just before nightfall.",
+      "example": [
+        {
+          "eng": "The farmers returned from the fields as dusk fell.",
+          "ch": "農夫們在黃昏降臨的時候從田裡返回。"
+        }
+      ]
+    },
+    {
+      "eng": "dwarf",
+      "kk": "dwɔrf",
+      "tense": "n.",
+      "ch": [
+        [
+          "侏儒",
+          "矮人"
+        ]
+      ],
+      "analysis": "此字源自古英語 dweorg，為日耳曼語源的繼承詞。在現代英語中可作名詞、動詞與形容詞。此處為名詞 row，指身材異常矮小的人或神話中的矮人。",
+      "definition": "1. A person, animal, or plant much below the ordinary size, or a mythical creature in folklore.",
+      "example": [
+        {
+          "eng": "In Norse mythology, dwarfs are often depicted as skilled metalworkers.",
+          "ch": "在北歐神話中，矮人常被描繪為技藝高超的金屬工匠。"
+        }
+      ]
+    },
+    {
+      "eng": "dwell",
+      "kk": "dwɛl",
+      "tense": "vi.",
+      "ch": [
+        [
+          "居住",
+          "棲息"
+        ],
+        [
+          "老是想着",
+          "細想"
+        ]
+      ],
+      "analysis": "此字源自古英語 dwellan（引申為誤入迷途、逗留、居住，源自日耳曼語源）。在現代英語中作不及物動詞，核心義為居住在某處，或在心理上滯留、對某事念念不忘。",
+      "definition": "1. To live in or at a specified place.; 2. To keep the attention directed on a particular subject, often unhelpfully for too long.",
+      "example": [
+        {
+          "eng": "Many different species of birds dwell in this wetland reserve.",
+          "ch": "許多不同種類的鳥類棲息在這個濕地保護區。"
+        },
+        {
+          "eng": "There is no use dwelling on past mistakes.",
+          "ch": "對過去的錯誤耿耿於懷是沒有用的。"
+        }
+      ]
+    }
+  ]
+}

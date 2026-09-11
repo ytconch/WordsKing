@@ -1,0 +1,1390 @@
+{
+  "level": 3,
+  "chunkIndex": 19,
+  "inputs": [
+    "tablet",
+    "tag",
+    "tailor",
+    "talent",
+    "talkative",
+    "tame",
+    "tangerine",
+    "tank",
+    "tap",
+    "tasty",
+    "tease",
+    "technical",
+    "technique",
+    "teenage",
+    "temper",
+    "temporary",
+    "tend",
+    "tender",
+    "tent",
+    "terrific",
+    "territory",
+    "thankful",
+    "theory",
+    "thirst",
+    "thread",
+    "threat",
+    "threaten",
+    "thumb",
+    "tide",
+    "tight",
+    "tighten",
+    "timber",
+    "tobacco",
+    "ton",
+    "toss",
+    "tough",
+    "tourism",
+    "tourist",
+    "tow",
+    "tower",
+    "trace",
+    "trader",
+    "trail",
+    "transport",
+    "traveler",
+    "tray",
+    "trend",
+    "tribe",
+    "tricky",
+    "troop"
+  ],
+  "rows": [
+    {
+      "eng": "tablet",
+      "kk": "ˈtæblɪt",
+      "tense": "n.",
+      "ch": [
+        [
+          "平板電腦"
+        ],
+        [
+          "藥片",
+          "藥丸"
+        ],
+        [
+          "匾額",
+          "碑"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由古法語借詞 table（源自拉丁語 tabula 意為木板、平板）加上指小與具體化字尾 -let 構成，最初指小塊的板子或寫字板，後隨技術與醫療發展引申出藥片、記事平板及現代的平板電腦。",
+      "definition": "1. a thin, flat mobile computer with a touch screen; 2. a small, solid piece of medicine in the shape of a disc or cylinder; 3. a flat piece of stone or wood with writing on it, attached to a wall.",
+      "example": [
+        {
+          "eng": "She uses a tablet to read digital books and watch videos.",
+          "ch": "她用平板電腦閱讀電子書和觀看影片。"
+        },
+        {
+          "eng": "Take one tablet of this medicine every eight hours.",
+          "ch": "這種藥每八小時服用一粒。"
+        },
+        {
+          "eng": "A bronze tablet on the wall commemorates the school's founders.",
+          "ch": "牆上的青銅匾額紀念著學校的創辦人。"
+        }
+      ]
+    },
+    {
+      "eng": "tag",
+      "kk": "tæɡ",
+      "tense": "n.",
+      "ch": [
+        [
+          "標籤",
+          "吊牌"
+        ],
+        [
+          "抓人遊戲"
+        ]
+      ],
+      "analysis": "名詞 tag 的歷史來源較不確定，可能源自斯堪地那維亞語源（如古諾斯語），原義指懸垂的布條或末端裝飾，後來演變出商品吊牌、電子標籤等義；而孩童的抓人遊戲義則源自其動詞標記或觸碰的動作語意。",
+      "definition": "1. a small label attached to something to give information; 2. a children's playground game where one chaser tries to touch others.",
+      "example": [
+        {
+          "eng": "Check the price tag before you buy the jacket.",
+          "ch": "買夾克前先看一下價格標籤。"
+        },
+        {
+          "eng": "The children are running around the yard playing tag.",
+          "ch": "孩子們正在院子裡跑來跑去玩抓人遊戲。"
+        }
+      ]
+    },
+    {
+      "eng": "tag",
+      "kk": "tæɡ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "加標籤於",
+          "給...加上吊牌"
+        ],
+        [
+          "尾隨",
+          "緊隨"
+        ]
+      ],
+      "analysis": "及物動詞 tag 由同形名詞轉品而來，本義為加上吊牌或標記，引申出在系統中標註某人或緊緊跟隨在後（常與 along 連用）的用法。",
+      "definition": "1. to attach a label or tag to something; 2. to follow closely behind someone.",
+      "example": [
+        {
+          "eng": "Remember to tag your luggage before checking in.",
+          "ch": "登機託運前記得給行李掛上標籤。"
+        },
+        {
+          "eng": "He likes to tag along with his older brother wherever he goes.",
+          "ch": "他喜歡無論哥哥去哪裡都一路緊緊跟著。"
+        }
+      ]
+    },
+    {
+      "eng": "tailor",
+      "kk": "ˈtelɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "裁縫師"
+        ]
+      ],
+      "analysis": "名詞 tailor 經由中古英語借自古法語 tailleur（意為裁縫），源自拉丁語動詞 taliare（意為切割），指專門裁剪布料並製作衣物的人。",
+      "definition": "1. a person whose job is to make, mend, and alter clothes.",
+      "example": [
+        {
+          "eng": "He had his suit custom-made by a local tailor.",
+          "ch": "他的西裝是請當地裁縫師量身訂製的。"
+        }
+      ]
+    },
+    {
+      "eng": "tailor",
+      "kk": "ˈtelɚ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "量身訂製",
+          "使適應",
+          "修改"
+        ]
+      ],
+      "analysis": "及物動詞 tailor 由裁縫師（tailor）的名詞轉為動作，比喻將方案、衣物或計畫針對特定對象或需求進行精準裁剪與修改。",
+      "definition": "1. to make or adapt something for a particular purpose or person.",
+      "example": [
+        {
+          "eng": "The training program was tailored to meet the needs of beginners.",
+          "ch": "該訓練計畫是為了符合初學者的需求而量身訂製的。"
+        }
+      ]
+    },
+    {
+      "eng": "talent",
+      "kk": "ˈtælənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "才能",
+          "天賦"
+        ],
+        [
+          "人才",
+          "資優者"
+        ]
+      ],
+      "analysis": "名詞 talent 源自古英語 talentum（意為古希臘羅馬的重量與貨幣單位），透過《新約聖經》中著名的「按才幹授銀子」寓言，其義從金錢財產轉化為上帝賦予人的「才能、天賦」，現代亦可指具備此才能的人才。",
+      "definition": "1. a natural aptitude or skill; 2. talented people collectively.",
+      "example": [
+        {
+          "eng": "She showed a remarkable talent for playing the piano at a young age.",
+          "ch": "她在很小的時候就展現出驚人的彈鋼琴天賦。"
+        },
+        {
+          "eng": "The company is always looking to attract top talent in the industry.",
+          "ch": "這家公司一直致力於吸引業界頂尖人才。"
+        }
+      ]
+    },
+    {
+      "eng": "talkative",
+      "kk": "ˈtɔːkətɪv",
+      "tense": "adj.",
+      "ch": [
+        [
+          "話多的",
+          "健談的"
+        ]
+      ],
+      "analysis": "形容詞 talkative 由動詞 talk 加上形容詞字尾 -ative（表示傾向、性質）構成，指人喜愛說話、滔滔不絕的特質。",
+      "definition": "1. fond of or given to talking a lot.",
+      "example": [
+        {
+          "eng": "My younger sister is very talkative after coming back from school.",
+          "ch": "我妹妹放學回家後話非常多。"
+        }
+      ]
+    },
+    {
+      "eng": "tame",
+      "kk": "teɪm",
+      "tense": "vt.",
+      "ch": [
+        [
+          "馴服",
+          "使溫順"
+        ],
+        [
+          "控制",
+          "抑制"
+        ]
+      ],
+      "analysis": "及物動詞 tame 源自同形形容詞的使役動詞用法，指將野生動物馴化，或引申為克服、壓制困難的局勢或強烈的情緒。",
+      "definition": "1. to domesticate an animal; 2. to control or manage something wild or difficult.",
+      "example": [
+        {
+          "eng": "It takes patience to tame a wild horse.",
+          "ch": "馴服野馬需要耐心。"
+        },
+        {
+          "eng": "She managed to tame her anger and spoke calmly.",
+          "ch": "她設法壓抑住怒氣，冷靜地開口。"
+        }
+      ]
+    },
+    {
+      "eng": "tame",
+      "kk": "teɪm",
+      "tense": "adj.",
+      "ch": [
+        [
+          "馴服的",
+          "溫順的"
+        ],
+        [
+          "平淡的",
+          "缺乏刺激的"
+        ]
+      ],
+      "analysis": "形容詞 tame 源自日耳曼語族（對應古英語 tam），本義指動物被人類馴化而溫順，引申形容情境、活動或文章平淡乏味、缺乏刺激。",
+      "definition": "1. (of an animal) domestic and not dangerous; 2. (of an event or situation) not exciting or adventurous.",
+      "example": [
+        {
+          "eng": "The park deer are so tame that they eat right out of your hand.",
+          "ch": "公園裡的鹿非常溫馴，會直接從你手中吃東西。"
+        },
+        {
+          "eng": "Compared to the first movie, the sequel felt a bit tame.",
+          "ch": "跟第一部電影比起來，續集感覺有點平淡。"
+        }
+      ]
+    },
+    {
+      "eng": "tangerine",
+      "kk": "ˌtændʒəˈriːn",
+      "tense": "n.",
+      "ch": [
+        [
+          "橘子",
+          "柑橘"
+        ],
+        [
+          "橘紅色"
+        ]
+      ],
+      "analysis": "名詞 tangerine 源自地名 Tangier（摩洛哥港市丹吉爾），因為這種柑橘最初是透過該港口出口到歐洲而得名，後來也用來形容其鮮豔的橘紅色。",
+      "definition": "1. a small citrus fruit with loose skin, similar to a mandarin; 2. a bright reddish-orange color.",
+      "example": [
+        {
+          "eng": "He peeled a sweet tangerine after lunch.",
+          "ch": "他在午餐後剝了一顆甜橘子來吃。"
+        },
+        {
+          "eng": "She wore a vibrant tangerine dress to the party.",
+          "ch": "她穿了一件鮮豔橘紅色的洋裝去參加派對。"
+        }
+      ]
+    },
+    {
+      "eng": "tank",
+      "kk": "tæŋk",
+      "tense": "n.",
+      "ch": [
+        [
+          "坦克",
+          "戰車"
+        ],
+        [
+          "儲水槽",
+          "油箱"
+        ]
+      ],
+      "analysis": "名詞 tank 的歷史經由葡萄牙語（源自印度語系）傳入英語，最初指蓄水池、水槽，第一次世界大戰時英國軍方為了保密，將新型裝甲戰車偽裝成「水箱（water tanks）」運送，因而成為這種裝甲武器的正式名稱。",
+      "definition": "1. a heavy armored fighting vehicle equipped with tracks and a large gun; 2. a large container for storing liquid or gas.",
+      "example": [
+        {
+          "eng": "The military deployed tanks to secure the border.",
+          "ch": "軍方部署了坦克以確保邊境安全。"
+        },
+        {
+          "eng": "We need to stop at a gas station to fill up the car's tank.",
+          "ch": "我們需要在加油站停下來加滿車子的油箱。"
+        }
+      ]
+    },
+    {
+      "eng": "tap",
+      "kk": "tæp",
+      "tense": "n.",
+      "ch": [
+        [
+          "水龍頭",
+          "閥門"
+        ],
+        [
+          "輕敲",
+          "輕拍"
+        ]
+      ],
+      "analysis": "名詞 tap 歷史上源自日耳曼語支（古英語 tæppa），本義指木桶的栓子或放酒的閥門，引申出現代的水龍頭；同時也包含輕輕拍打的動作義。",
+      "definition": "1. a device that controls the flow of liquid from a pipe; 2. a light, quick touch or blow.",
+      "example": [
+        {
+          "eng": "Turn off the tap while brushing your teeth to save water.",
+          "ch": "刷牙時關掉水龍頭以節約用水。"
+        },
+        {
+          "eng": "He felt a light tap on his shoulder.",
+          "ch": "他感覺到肩膀被輕輕拍了一下。"
+        }
+      ]
+    },
+    {
+      "eng": "tap",
+      "kk": "tæp",
+      "tense": "vt.",
+      "ch": [
+        [
+          "輕敲",
+          "輕拍"
+        ],
+        [
+          "利用",
+          "開發"
+        ]
+      ],
+      "analysis": "及物動詞 tap 指用手指或物體輕輕敲擊，引申自「在樹幹上鑿洞取汁（tap a tree）」或「接通電話竊聽」的動作，進一步引申為開發、利用資源或潛力。",
+      "definition": "1. to strike lightly with a quick blow; 2. to draw liquid from or make use of a resource.",
+      "example": [
+        {
+          "eng": "She tapped her fingers on the desk while waiting.",
+          "ch": "她等待時用手指輕敲桌子。"
+        },
+        {
+          "eng": "The company wants to tap into new overseas markets.",
+          "ch": "這家公司希望能開發新的海外市場。"
+        }
+      ]
+    },
+    {
+      "eng": "tasty",
+      "kk": "ˈteɪsti",
+      "tense": "adj.",
+      "ch": [
+        [
+          "美味的",
+          "可口的"
+        ]
+      ],
+      "analysis": "形容詞 tasty 由名詞 taste 加上形容詞字尾 -y 構成，指食物具有良好、濃郁且令人愉悅的味道。",
+      "definition": "1. (of food) having a pleasant and appetizing flavor.",
+      "example": [
+        {
+          "eng": "The chef prepared a tasty meal for the guests.",
+          "ch": "主廚為客人們準備了一頓美味的餐點。"
+        }
+      ]
+    },
+    {
+      "eng": "tease",
+      "kk": "tiːz",
+      "tense": "vt.",
+      "ch": [
+        [
+          "戲弄",
+          "取笑"
+        ],
+        [
+          "逗弄",
+          "逗引"
+        ]
+      ],
+      "analysis": "及物動詞 tease 源自古英語 tǣsan（本義為梳理羊毛或麻纖維），透過梳理時反複拉扯的動作，引申出捉弄、戲弄人或是逗引寵物的語意。",
+      "definition": "1. to laugh at or make fun of someone playfully; 2. to annoy or excite someone playfully.",
+      "example": [
+        {
+          "eng": "Older brothers often like to tease their younger siblings.",
+          "ch": "哥哥姐姐經常喜歡捉弄弟弟妹妹。"
+        },
+        {
+          "eng": "He used a feather to tease the kitten.",
+          "ch": "他用羽毛逗弄小貓。"
+        }
+      ]
+    },
+    {
+      "eng": "technical",
+      "kk": "ˈtɛknɪkəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "技術的",
+          "工藝的"
+        ],
+        [
+          "專門的",
+          "學理的"
+        ]
+      ],
+      "analysis": "形容詞 technical 源自希臘語 tekhnikos（源自 tekhnē 意為技藝、藝術），加上形容詞字尾 -ical，指與特定工藝、科學技術或專業學理相關的性質。",
+      "definition": "1. relating to a particular subject, art, or craft, or its techniques; 2. connected with machinery or industrial arts.",
+      "example": [
+        {
+          "eng": "The failure was caused by a minor technical error.",
+          "ch": "這次故障是由一個微小的技術失誤引起的。"
+        },
+        {
+          "eng": "The manual is full of complex technical terms.",
+          "ch": "這本手冊充滿了複雜的專業術語。"
+        }
+      ]
+    },
+    {
+      "eng": "technique",
+      "kk": "tɛkˈnik",
+      "tense": "n.",
+      "ch": [
+        [
+          "技巧",
+          "技藝"
+        ],
+        [
+          "手法",
+          "工藝"
+        ]
+      ],
+      "analysis": "名詞 technique 源自法語（追溯至希臘語 tekhnē 意為技藝），指執行某項具體任務、藝術創作或科學實驗所需的專業方法與技巧。",
+      "definition": "1. a way of carrying out a particular task, especially the execution or performance of an artistic work or a scientific procedure.",
+      "example": [
+        {
+          "eng": "She improved her swimming technique with the help of a coach.",
+          "ch": "在教練的協助下，她改進了自己的游泳技巧。"
+        }
+      ]
+    },
+    {
+      "eng": "teenage",
+      "kk": "ˈtiːnˌeɪdʒ",
+      "tense": "adj.",
+      "ch": [
+        [
+          "青少年時期的",
+          "十幾歲的"
+        ]
+      ],
+      "analysis": "形容詞 teenage 由複合詞 teens（指 13 至 19 歲的年齡段）加上 age 組合而成的修飾語，專門用來形容十三至十九歲青少年的年齡層或相關事物。",
+      "definition": "1. relating to people who are between 13 and 19 years old.",
+      "example": [
+        {
+          "eng": "She wrote a book about teenage emotional development.",
+          "ch": "她寫了一本關於青少年情緒發展的書。"
+        }
+      ]
+    },
+    {
+      "eng": "temper",
+      "kk": "ˈtɛmpɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "脾氣",
+          "情緒"
+        ],
+        [
+          "怒氣",
+          "暴躁"
+        ]
+      ],
+      "analysis": "名詞 temper 源自拉丁語 temperamentum（混合、均衡），經古法語進入英語。原指體液平衡所決定的性格或心境，現代則演變為指人的脾氣、性情，或特指容易發怒的壞脾氣。",
+      "definition": "1. a person's state of mind seen in terms of being angry or calm; 2. a tendency to become angry easily.",
+      "example": [
+        {
+          "eng": "He has a calm temper and rarely gets upset.",
+          "ch": "他脾氣溫和，很少生氣。"
+        },
+        {
+          "eng": "She lost her temper and shouted at the driver.",
+          "ch": "她發脾氣對司機大喊。"
+        }
+      ]
+    },
+    {
+      "eng": "temper",
+      "kk": "ˈtɛmpɚ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "鍛鍊",
+          "淬火"
+        ],
+        [
+          "緩和",
+          "調劑"
+        ]
+      ],
+      "analysis": "及物動詞 temper 源自拉丁語 temperare（調節、混合），金屬加工中指將加熱的金屬淬火以增加韌性，引申為透過經歷困難來鍛鍊心志，或緩和、調節過於極端的情緒與強度。",
+      "definition": "1. to improve the hardness and elasticity of a metal by heating and cooling; 2. to act as a neutralizing or mitigating force to something.",
+      "example": [
+        {
+          "eng": "Steel is tempered to make it stronger and more durable.",
+          "ch": "鋼鐵經過淬火處理以變得更強韌耐用。"
+        },
+        {
+          "eng": "You should temper your criticism with some praise.",
+          "ch": "你的批評應該帶有一些稱讚來緩和一下。"
+        }
+      ]
+    },
+    {
+      "eng": "temporary",
+      "kk": "ˈtɛmpəˌrɛri",
+      "tense": "adj.",
+      "ch": [
+        [
+          "暫時的",
+          "臨時的"
+        ]
+      ],
+      "analysis": "形容詞 temporary 源自拉丁語 temporarius（源自 tempus 意為時間），加上形容詞字尾 -ary，指僅持續一段有限時間、非永久性的性質。",
+      "definition": "1. lasting for only a limited period of time; not permanent.",
+      "example": [
+        {
+          "eng": "They found a temporary shelter before the storm hit.",
+          "ch": "暴風雨來臨前，他們找到了一個臨時避難所。"
+        }
+      ]
+    },
+    {
+      "eng": "tend",
+      "kk": "tɛnd",
+      "tense": "vt.",
+      "ch": [
+        [
+          "照顧",
+          "照料"
+        ]
+      ],
+      "analysis": "及物動詞 tend 為 attend 的截斷形，源自拉丁語 attendere，指專注並照料、看護傷患、花草或牲畜。",
+      "definition": "1. to care for or look after someone or something.",
+      "example": [
+        {
+          "eng": "The gardener spends hours every day tending the roses.",
+          "ch": "園丁每天花幾個小時照料玫瑰花。"
+        }
+      ]
+    },
+    {
+      "eng": "tend",
+      "kk": "tɛnd",
+      "tense": "vi.",
+      "ch": [
+        [
+          "傾向於",
+          "往往會"
+        ]
+      ],
+      "analysis": "不及物動詞 tend 源自拉丁語 tendere（延伸、伸展），經古法語進入英語，其核心義為「方向朝向某處」，引申為人在行為、性格或情勢上「傾向於」做某事。",
+      "definition": "1. to be likely to behave in a particular way or have a certain characteristic.",
+      "example": [
+        {
+          "eng": "Prices tend to rise during the holiday season.",
+          "ch": "物價在假期期間往往會上漲。"
+        }
+      ]
+    },
+    {
+      "eng": "tender",
+      "kk": "ˈtɛndɚ",
+      "tense": "adj.",
+      "ch": [
+        [
+          "溫柔的",
+          "親切的"
+        ],
+        [
+          "脆弱的",
+          "嬌嫩的"
+        ],
+        [
+          "（食物）嫩的"
+        ]
+      ],
+      "analysis": "形容詞 tender 源自拉丁語 tener（柔嫩的、纖細的），經古法語進入英語。其基本義為柔軟、不堅硬，進而引申出情感上的溫柔體貼、身體或植物的嬌嫩易損，以及食物烹調後的軟嫩口感。",
+      "definition": "1. showing gentleness, kindness, and affection; 2. easily broken or damaged; delicate; 3. (of food) easy to cut or chew.",
+      "example": [
+        {
+          "eng": "She gave her child a tender hug before school.",
+          "ch": "她在上學前給了孩子一個溫柔的擁抱。"
+        },
+        {
+          "eng": "Young seedlings have tender roots that need gentle care.",
+          "ch": "幼苗有著脆弱的根，需要溫柔呵護。"
+        },
+        {
+          "eng": "The beef was cooked slowly until it was tender.",
+          "ch": "牛肉慢燉到軟嫩為止。"
+        }
+      ]
+    },
+    {
+      "eng": "tent",
+      "kk": "tɛnt",
+      "tense": "n.",
+      "ch": [
+        [
+          "帳篷"
+        ]
+      ],
+      "analysis": "名詞 tent 源自拉丁語 tendere（延伸、撐開，因帳篷需張拉帆布而得名），經古法語中形動詞 tendant 演變而來，指用帆布和支架搭建的臨時住所。",
+      "definition": "1. a portable shelter made of cloth, supported by poles and ropes.",
+      "example": [
+        {
+          "eng": "We pitched our tent near the lake before dark.",
+          "ch": "天黑前我們在湖畔搭好了帳篷。"
+        }
+      ]
+    },
+    {
+      "eng": "terrific",
+      "kk": "təˈrɪfɪk",
+      "tense": "adj.",
+      "ch": [
+        [
+          "極好的",
+          "非常棒的"
+        ],
+        [
+          "極大的",
+          "劇烈的"
+        ]
+      ],
+      "analysis": "形容詞 terrific 源自拉丁語 terrificus（源自 terrere 意為嚇唬、使驚恐），早期意為「可怕的、駭人的」（如古語 terrific noise），但語意在近代發生劇烈轉化，演變成現代口語中表示「極好的、了不起的」，同時保留少數表示規模巨大的用法。",
+      "definition": "1. of great size, amount, or intensity; 2. extremely good or excellent.",
+      "example": [
+        {
+          "eng": "We had a terrific time at the amusement park.",
+          "ch": "我們在遊樂園度過了一段非常棒的時光。"
+        },
+        {
+          "eng": "The storm caused terrific damage to the coastal town.",
+          "ch": "暴風雨對沿海城鎮造成了極大的破壞。"
+        }
+      ]
+    },
+    {
+      "eng": "territory",
+      "kk": "ˈtɛrəˌtɔri",
+      "tense": "n.",
+      "ch": [
+        [
+          "領土",
+          "屬地"
+        ],
+        [
+          "地盤",
+          "區域"
+        ]
+      ],
+      "analysis": "名詞 territory 源自拉丁語 territorium（源自 terra 意為土地），指國家主權管轄下的土地、動物防守的地盤，或某個特定的地理區域。",
+      "definition": "1. an area of land under the jurisdiction of a ruler or state; 2. a particular area or region.",
+      "example": [
+        {
+          "eng": "The two countries signed a treaty regarding the disputed territory.",
+          "ch": "兩國就爭議領土簽署了一項條約。"
+        },
+        {
+          "eng": "The wolf pack patrols its territory every morning.",
+          "ch": "狼群每天早上巡視牠們的地盤。"
+        }
+      ]
+    },
+    {
+      "eng": "thankful",
+      "kk": "ˈθæŋkfəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "感謝的",
+          "感激的"
+        ]
+      ],
+      "analysis": "形容詞 thankful 由名詞 thank（感謝）加上形容詞字尾 -ful（充滿...的）構成，指心懷感謝、感到慶幸的心理狀態。",
+      "definition": "1. pleased and relieved that something good has happened or that something bad has not happened; grateful.",
+      "example": [
+        {
+          "eng": "I am thankful for all the support my friends gave me.",
+          "ch": "我對朋友們給予我的所有支持心存感激。"
+        }
+      ]
+    },
+    {
+      "eng": "theory",
+      "kk": "ˈθɪri",
+      "tense": "n.",
+      "ch": [
+        [
+          "理論",
+          "學說"
+        ],
+        [
+          "假說",
+          "推測"
+        ]
+      ],
+      "analysis": "名詞 theory 源自希臘語 theōria（觀察、審視、思辨），由 theoros（觀看者）演變而來。原指精神上的觀看與思考，後引申為科學上經過驗證的系統化解釋（理論），或日常生活中未證實的推測與假說。",
+      "definition": "1. a system of ideas intended to explain something; 2. a set of principles on which the practice of an activity is based.",
+      "example": [
+        {
+          "eng": "Albert Einstein is famous for his theory of relativity.",
+          "ch": "阿爾伯特·愛因斯坦以其相對論聞名。"
+        },
+        {
+          "eng": "That is only a theory; we need practical evidence to prove it.",
+          "ch": "那只是一種推測；我們需要實質證據來證明它。"
+        }
+      ]
+    },
+    {
+      "eng": "thirst",
+      "kk": "θɝst",
+      "tense": "n.",
+      "ch": [
+        [
+          "口渴",
+          "渴望"
+        ]
+      ],
+      "analysis": "名詞 thirst 源自日耳曼語支（古英語 þurst），本義指因缺水而產生的生理口渴感，引申為對某事物（如知識、權力、成功）的強烈渴望。",
+      "definition": "1. a feeling of needing or wanting to drink something; 2. a strong desire for something.",
+      "example": [
+        {
+          "eng": "Working under the hot sun gave him a terrible thirst.",
+          "ch": "在烈日下工作讓他口渴得厲害。"
+        },
+        {
+          "eng": "She has an insatiable thirst for knowledge.",
+          "ch": "她對知識有著永無止境的渴望。"
+        }
+      ]
+    },
+    {
+      "eng": "thread",
+      "kk": "θrɛd",
+      "tense": "n.",
+      "ch": [
+        [
+          "線",
+          "細絲"
+        ],
+        [
+          "（論述或故事的）脈絡",
+          "線索"
+        ]
+      ],
+      "analysis": "名詞 thread 源自日耳曼語支（古英語 þrǣd），本義指紡織用的棉線或細絲，引申比喻文章、談話或事件發展的邏輯脈絡與線索。",
+      "definition": "1. a long, thin strand of cotton, silk, or other fibers used in sewing; 2. a unifying theme or link in a story or process.",
+      "example": [
+        {
+          "eng": "She threaded the needle carefully before sewing the button.",
+          "ch": "她在縫扣子前小心翼翼地把線穿過針眼。"
+        },
+        {
+          "eng": "It is easy to lose the thread of the argument in such a long speech.",
+          "ch": "在這麼長的演講中，很容易失去論述的脈絡。"
+        }
+      ]
+    },
+    {
+      "eng": "threat",
+      "kk": "θrɛt",
+      "tense": "n.",
+      "ch": [
+        [
+          "威脅",
+          "恐嚇"
+        ],
+        [
+          "徵兆",
+          "惡化預兆"
+        ]
+      ],
+      "analysis": "名詞 threat 源自日耳曼語支（古英語 þrēat 意為壓迫、群體壓制），其後演變出表示口頭或行為上的威脅、恐嚇，以及災害或危機即將來臨的徵兆。",
+      "definition": "1. a statement of an intention to inflict pain, injury, damage, or hostile action; 2. a person or thing likely to cause damage or danger.",
+      "example": [
+        {
+          "eng": "The criminal made threats against the witness.",
+          "ch": "該罪犯對證人發出威脅。"
+        },
+        {
+          "eng": "Dark clouds on the horizon were a threat of rain.",
+          "ch": "地平線上的烏雲是即將下雨的徵兆。"
+        }
+      ]
+    },
+    {
+      "eng": "threaten",
+      "kk": "ˈθrɛtən",
+      "tense": "vt.",
+      "ch": [
+        [
+          "威脅",
+          "恐嚇"
+        ],
+        [
+          "預示...的凶兆",
+          "危及"
+        ]
+      ],
+      "analysis": "及物動詞 threaten 由名詞 threat 加上動詞字尾 -en 構成，指對某人施以威脅，或指某種危機、災害對人身安全或生存環境構成危險與破壞。",
+      "definition": "1. to state one's intention to take hostile action against someone; 2. to cause someone or something to be vulnerable to danger.",
+      "example": [
+        {
+          "eng": "The bully threatened to beat up smaller kids.",
+          "ch": "那個惡霸威脅要毆打較小的孩子。"
+        },
+        {
+          "eng": "Rising sea levels threaten many coastal cities.",
+          "ch": "海平面上升危及了許多沿海城市。"
+        }
+      ]
+    },
+    {
+      "eng": "thumb",
+      "kk": "θʌm",
+      "tense": "n.",
+      "ch": [
+        [
+          "拇指"
+        ]
+      ],
+      "analysis": "名詞 thumb 源自日耳曼語支（古英語 þūma），為手部五指中最粗短的第一指，通常與其他四指相對。",
+      "definition": "1. the short, thick first digit of the human hand, set lower than and opposite the other four fingers.",
+      "example": [
+        {
+          "eng": "He gave me a thumbs-up to show that everything was fine.",
+          "ch": "他對我比了個大拇指手勢，表示一切都很好。"
+        }
+      ]
+    },
+    {
+      "eng": "tide",
+      "kk": "taɪd",
+      "tense": "n.",
+      "ch": [
+        [
+          "潮汐",
+          "潮水"
+        ],
+        [
+          "趨勢",
+          "潮流"
+        ]
+      ],
+      "analysis": "名詞 tide 源自日耳曼語支（古英語 tīd 意為時間、季節），本義與時間週期有關，因海水受引力影響具有規律的週期性漲落而專指「潮汐」，並引申出社會潮流或歷史發展趨勢。",
+      "definition": "1. the alternate rising and falling of the sea, caused by the gravitational attraction of the moon and sun; 2. a trend or tendency.",
+      "example": [
+        {
+          "eng": "The tide is coming in, so we should move our towels further up the beach.",
+          "ch": "潮水正在漲上來，我們應該把毛巾往沙灘高處移。"
+        },
+        {
+          "eng": "We must work hard to turn the tide of public opinion.",
+          "ch": "我們必須努力扭轉輿論的潮流。"
+        }
+      ]
+    },
+    {
+      "eng": "tight",
+      "kk": "taɪt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "緊的",
+          "牢固的"
+        ],
+        [
+          "（時間、金錢等）緊湊的",
+          "拮据的"
+        ]
+      ],
+      "analysis": "形容詞 tight 源自日耳曼語支（古諾斯語 þéttr 緊密的），指物理上貼得很緊、扣得牢固，或引申為時間安排毫無空隙（緊湊）或預算非常有限（拮據）。",
+      "definition": "1. fixed, fastened, or closed firmly; hard to move; 2. closely restricted in terms of time, money, or space.",
+      "example": [
+        {
+          "eng": "These shoes are too tight for my feet.",
+          "ch": "這雙鞋對我的腳來說太緊了。"
+        },
+        {
+          "eng": "We have a very tight budget for this marketing campaign.",
+          "ch": "這次行銷活動我們的預算非常吃緊。"
+        }
+      ]
+    },
+    {
+      "eng": "tighten",
+      "kk": "ˈtaɪtən",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使變緊",
+          "拉緊"
+        ],
+        [
+          "加緊",
+          "收緊（限制）"
+        ]
+      ],
+      "analysis": "及物動詞 tighten 由形容詞 tight 加上動詞字尾 -en 構成，指將繩索、螺絲或衣物拉緊，亦可引申為加強法規管制或收緊政策限制。",
+      "definition": "1. to make or become tighter; 2. to make restrictions or controls stricter.",
+      "example": [
+        {
+          "eng": "He tightened the screws on the chair legs.",
+          "ch": "他轉緊了椅子腿上的螺絲。"
+        },
+        {
+          "eng": "The government decided to tighten security measures at the airport.",
+          "ch": "政府決定加緊機場的安全管制措施。"
+        }
+      ]
+    },
+    {
+      "eng": "timber",
+      "kk": "ˈtɪmbɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "木材",
+          "木料"
+        ]
+      ],
+      "analysis": "名詞 timber 源自日耳曼語支（古英語 timbor 意為建築、房屋），本義指用於建造房屋的木材或樹木。",
+      "definition": "1. wood prepared for use in building and carpentry.",
+      "example": [
+        {
+          "eng": "The cabin was built of heavy timber.",
+          "ch": "這間小木屋是用厚重的木材建造的。"
+        }
+      ]
+    },
+    {
+      "eng": "tobacco",
+      "kk": "təˈbæko",
+      "tense": "n.",
+      "ch": [
+        [
+          "菸草"
+        ]
+      ],
+      "analysis": "名詞 tobacco 經由西班牙語引入歐洲，原產於美洲印第安語言（指加勒比海地區的一種菸管或菸葉植物），指製作香菸、雪茄的加工菸草植物。",
+      "definition": "1. the prepared leaves of the tobacco plant, used in smoking, chewing, or snuffing.",
+      "example": [
+        {
+          "eng": "The health department warns against the dangers of tobacco use.",
+          "ch": "衛生部門警告使用菸草帶來的危害。"
+        }
+      ]
+    },
+    {
+      "eng": "ton",
+      "kk": "tʌn",
+      "tense": "n.",
+      "ch": [
+        [
+          "公噸",
+          "噸"
+        ],
+        [
+          "大量",
+          "許多"
+        ]
+      ],
+      "analysis": "名詞 ton 源自古英語 tunne（意為大型酒桶、大桶），因大桶的重量或容量標準演變出重量單位「噸」，現代口語中也常複數使用來誇張表示「大量的...」。",
+      "definition": "1. a unit of weight equal to 2,000 pounds (short ton) or 1,000 kilograms (metric ton); 2. a large quantity or amount.",
+      "example": [
+        {
+          "eng": "The truck was carrying several tons of steel.",
+          "ch": "那輛卡車載了好幾噸鋼材。"
+        },
+        {
+          "eng": "I have tons of paperwork to finish before Friday.",
+          "ch": "我在星期五之前有大量的文書工作要完成。"
+        }
+      ]
+    },
+    {
+      "eng": "toss",
+      "kk": "tɔs",
+      "tense": "vt.",
+      "ch": [
+        [
+          "拋",
+          "擲",
+          "扔"
+        ]
+      ],
+      "analysis": "及物動詞 toss 的語源不詳，可能源自擬聲或方言，指輕輕地或隨意地把東西向上拋起或向外扔去。",
+      "definition": "1. to throw something lightly, casually, or roughly.",
+      "example": [
+        {
+          "eng": "He tossed the keys to me across the room.",
+          "ch": "他隔著房間把鑰匙拋給我。"
+        }
+      ]
+    },
+    {
+      "eng": "tough",
+      "kk": "tʌf",
+      "tense": "adj.",
+      "ch": [
+        [
+          "堅韌的",
+          "不易碎的"
+        ],
+        [
+          "艱難的",
+          "棘手的"
+        ],
+        [
+          "強硬的",
+          "堅強的"
+        ]
+      ],
+      "analysis": "形容詞 tough 源自日耳曼語支（古英語 tōh），本義指物質堅韌、不易折斷或食物肉質太老難嚼，引申為局勢或任務非常艱難棘手，或是形容人意志堅強、作風強硬。",
+      "definition": "1. strong enough to withstand rough treatment or adverse conditions; 2. difficult to do or deal with; 3. (of a person) strong and resilient.",
+      "example": [
+        {
+          "eng": "Leather is a tough material often used for making boots.",
+          "ch": "皮革是一種經常被用來製作靴子的堅韌材料。"
+        },
+        {
+          "eng": "We are facing some tough economic challenges this year.",
+          "ch": "我們今年正面臨一些艱難的經濟挑戰。"
+        },
+        {
+          "eng": "She is a tough businesswoman who never gives up easily.",
+          "ch": "她是一位作風強硬的女商人，從不輕言放棄。"
+        }
+      ]
+    },
+    {
+      "eng": "tourism",
+      "kk": "ˈtʊrɪzəm",
+      "tense": "n.",
+      "ch": [
+        [
+          "旅遊業",
+          "觀光業"
+        ]
+      ],
+      "analysis": "名詞 tourism 由名詞 tourist（遊客）加上抽象名詞字尾 -ism 構成，指以遊客為服務對象的商業活動及整體的觀光旅遊產業。",
+      "definition": "1. the commercial organization and operation of vacations and visits to places of interest.",
+      "example": [
+        {
+          "eng": "The coastal city relies heavily on tourism for its income.",
+          "ch": "這座沿海城市主要依靠旅遊業來獲取收入。"
+        }
+      ]
+    },
+    {
+      "eng": "tourist",
+      "kk": "ˈtʊrɪst",
+      "tense": "n.",
+      "ch": [
+        [
+          "觀光客",
+          "遊客"
+        ]
+      ],
+      "analysis": "名詞 tourist 由 tour（旅遊、巡迴）加上表人的字尾 -ist 構成，指為了休閒娛樂而前往外地或國外參觀遊覽的人。",
+      "definition": "1. a person who is visiting a place for pleasure and interest.",
+      "example": [
+        {
+          "eng": "Foreign tourists gathered around the famous monument to take photos.",
+          "ch": "外國遊客聚集在著名紀念碑周圍拍照。"
+        }
+      ]
+    },
+    {
+      "eng": "tow",
+      "kk": "to",
+      "tense": "vt.",
+      "ch": [
+        [
+          "拖",
+          "拉",
+          "牽引"
+        ]
+      ],
+      "analysis": "及物動詞 tow 源自日耳曼語支（古英語 tōn 意為拉、扯），指用繩索、鏈條或車輛將故障的車子或船隻在後面拉著走。",
+      "definition": "1. to pull a boat, car, or other vehicle along behind another using a rope or chain.",
+      "example": [
+        {
+          "eng": "The broken-down car was towed to the nearest repair shop.",
+          "ch": "故障的汽車被拖到了最近的修車廠。"
+        }
+      ]
+    },
+    {
+      "eng": "tower",
+      "kk": "ˈtaʊɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "塔",
+          "高樓"
+        ]
+      ],
+      "analysis": "名詞 tower 源自拉丁語 turris（塔），經古法語進入英語，指高度遠大於寬度的垂直建築物，如鐘塔、通訊塔或高層大樓。",
+      "definition": "1. a tall, narrow building or structure, either standalone or forming part of a building.",
+      "example": [
+        {
+          "eng": "The clock tower can be seen from anywhere in the city.",
+          "ch": "從城市的任何地方都能看到那座鐘塔。"
+        }
+      ]
+    },
+    {
+      "eng": "trace",
+      "kk": "treɪs",
+      "tense": "n.",
+      "ch": [
+        [
+          "痕跡",
+          "蹤跡"
+        ],
+        [
+          "微量",
+          "少許"
+        ]
+      ],
+      "analysis": "名詞 trace 源自拉丁語 tractus（拉出的軌跡），經古法語進入英語。本義指動物或人走過留下的足跡與痕跡，引申為某種物質的微量殘留（如化學檢驗中的微量）。",
+      "definition": "1. a mark, object, or other indication of the existence or passing of something; 2. a very small quantity of something.",
+      "example": [
+        {
+          "eng": "Police found no trace of the missing wallet.",
+          "ch": "警方沒有找到失竊錢包的任何痕跡。"
+        },
+        {
+          "eng": "Traces of poison were found in the food sample.",
+          "ch": "在食物樣本中發現了微量的毒物。"
+        }
+      ]
+    },
+    {
+      "eng": "trader",
+      "kk": "ˈtredɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "商人",
+          "交易員"
+        ]
+      ],
+      "analysis": "名詞 trader 由動詞 trade（進行交易）加上表人的字尾 -er 構成，指從事商品買賣的商人，或金融市場中從事股票、外匯買賣的交易員。",
+      "definition": "1. a person who buys and sells goods, currency, or stocks.",
+      "example": [
+        {
+          "eng": "Stock traders reacted quickly to the morning news.",
+          "ch": "股票交易員對早晨的新聞迅速做出反應。"
+        }
+      ]
+    },
+    {
+      "eng": "trail",
+      "kk": "trel",
+      "tense": "n.",
+      "ch": [
+        [
+          "小徑",
+          "林間小路"
+        ],
+        [
+          "蹤跡",
+          "痕跡"
+        ]
+      ],
+      "analysis": "名詞 trail 源自拉丁語 trahere（拖拉），經中古英語演變而來。本義指在草地或森林中被踩出來的路徑（小徑），或是人或動物移動時留下的長串蹤跡。",
+      "definition": "1. a rough path through a countryside, forest, or mountain; 2. a mark or a series of signs left behind by someone or something.",
+      "example": [
+        {
+          "eng": "The hikers followed the mountain trail to the top.",
+          "ch": "登山客們沿著山間小徑走到了山頂。"
+        },
+        {
+          "eng": "Muddy boots left a trail of footprints on the clean floor.",
+          "ch": "泥濘的靴子在乾淨的地板上留下一串腳印。"
+        }
+      ]
+    },
+    {
+      "eng": "transport",
+      "kk": "trænsˈpɔrt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "運輸",
+          "運送"
+        ]
+      ],
+      "analysis": "及物動詞 transport 由拉丁語字首 trans-（跨越、越過）加上 portare（攜帶、搬運）組合而成，指將貨物或人員從一個地方運送轉移到另一個地方。",
+      "definition": "1. to take or carry people or goods from one place to another by means of a vehicle, aircraft, or ship.",
+      "example": [
+        {
+          "eng": "Large trucks are used to transport goods across the country.",
+          "ch": "大型卡車被用來將貨物運送到全國各地。"
+        }
+      ]
+    },
+    {
+      "eng": "traveler",
+      "kk": "ˈtrævəlɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "旅客",
+          "旅行者"
+        ]
+      ],
+      "analysis": "名詞 traveler 由動詞 travel（旅行）加上表人的字尾 -er 構成，指外出旅行或出差的人。",
+      "definition": "1. a person who is traveling or who often travels.",
+      "example": [
+        {
+          "eng": "The airport was crowded with weary travelers.",
+          "ch": "機場擠滿了疲憊的旅客。"
+        }
+      ]
+    },
+    {
+      "eng": "tray",
+      "kk": "tre",
+      "tense": "n.",
+      "ch": [
+        [
+          "托盤",
+          "盤子"
+        ]
+      ],
+      "analysis": "名詞 tray 源自古英語 trēg（木製淺槽或容器），現代指用來盛裝食物、杯子或文件的扁平托盤。",
+      "definition": "1. a flat, shallow container with a raised rim, used for carrying food and glassware.",
+      "example": [
+        {
+          "eng": "She carried a tray of coffee cups to the meeting room.",
+          "ch": "她端著一托盤的咖啡杯走到會議室。"
+        }
+      ]
+    },
+    {
+      "eng": "trend",
+      "kk": "trɛnd",
+      "tense": "n.",
+      "ch": [
+        [
+          "趨勢",
+          "時尚",
+          "走向"
+        ]
+      ],
+      "analysis": "名詞 trend 源自日耳曼語支（古英語 trendan 意為轉動、滾動），本義指方向的轉變，近代演變為指社會風尚、經濟數據或大眾審美的發展趨勢。",
+      "definition": "1. a general direction in which something is developing or changing.",
+      "example": [
+        {
+          "eng": "Online shopping has become a major global trend.",
+          "ch": "網上購物已成為一項主要的全球趨勢。"
+        }
+      ]
+    },
+    {
+      "eng": "tribe",
+      "kk": "traɪb",
+      "tense": "n.",
+      "ch": [
+        [
+          "部落",
+          "部族"
+        ]
+      ],
+      "analysis": "名詞 tribe 源自拉丁語 tribus（羅馬共和國早期的三個古代部落之一），指具有共同文化、語言和祖先的傳統原住民社群（部落）。",
+      "definition": "1. a social group made up of a number of families, clans, or generations sharing a common culture and language.",
+      "example": [
+        {
+          "eng": "The indigenous tribe still lives deep within the Amazon rainforest.",
+          "ch": "這個原住民部落依然住在亞馬遜雨林深處。"
+        }
+      ]
+    },
+    {
+      "eng": "tricky",
+      "kk": "ˈtrɪki",
+      "tense": "adj.",
+      "ch": [
+        [
+          "棘手的",
+          "難辦的"
+        ],
+        [
+          "狡猾的",
+          "機警的"
+        ]
+      ],
+      "analysis": "形容詞 tricky 由名詞 trick（詭計、技巧）加上形容詞字尾 -y 構成，本義指愛耍詐、狡猾的人，現代更常引申用來形容情況、任務非常棘手、難以處理。",
+      "definition": "1. (of a task or problem) requiring care and skill because it is difficult; 2. clever at deceiving people; crafty.",
+      "example": [
+        {
+          "eng": "Fixing this computer bug is a tricky job.",
+          "ch": "修復這個電腦程式錯誤是一項棘手的工作。"
+        },
+        {
+          "eng": "He is a tricky politician who changes his stance often.",
+          "ch": "他是一個立場多變、狡猾的政治人物。"
+        }
+      ]
+    },
+    {
+      "eng": "troop",
+      "kk": "trup",
+      "tense": "n.",
+      "ch": [
+        [
+          "軍隊",
+          "部隊"
+        ],
+        [
+          "群",
+          "隊伍"
+        ]
+      ],
+      "analysis": "名詞 troop 源自日耳曼語支透過古法語（trope/troupe）借入英語，本義指聚集在一起的人群或軍隊，現代常以複數 troops 指正規軍隊士兵，或指團體組織（如童軍小隊）。",
+      "definition": "1. (often troops) soldiers or armed forces collectively; 2. a group of people or animals.",
+      "example": [
+        {
+          "eng": "The government decided to withdraw troops from the conflict zone.",
+          "ch": "政府決定從衝突地區撤回部隊。"
+        },
+        {
+          "eng": "A troop of monkeys was spotted playing in the trees.",
+          "ch": "有人看到一群猴子在樹上嬉戲。"
+        }
+      ]
+    }
+  ]
+}

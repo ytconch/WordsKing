@@ -8,13 +8,60 @@ const {
   cleanMeaningEntry,
   normalizeText,
   parseMeaningEntries,
-  resolveMeaningScopeEntries
+  getWordParsedMeanings,
+  buildStarKey
 } = require("../utils/wordHelpers");
 
 const router = express.Router();
 const ALLOWED_MODES = new Set(["zh_to_en", "en_to_zh", "type_en_from_zh", "cloze_en"]);
 const CLOZE_MODE = "cloze_en";
 const DEFAULT_WEIGHT = 1;
+const PRACTICE_MAX_QUESTIONS = 5000;
+
+function parsePracticeQuestionLimit(value) {
+  const parsed = Number(value);
+  return Number.isInteger(parsed) && parsed >= 1 && parsed <= PRACTICE_MAX_QUESTIONS ? parsed : null;
+}
+
+// --- Practice word cache (TTL-based) ---
+const PRACTICE_WORD_CACHE_TTL_MS = 5 * 60 * 1000; // 5 分鐘
+const practiceWordCache = new Map();
+
+function buildPracticeWordCacheKey(query) {
+  const sourceId = query?.sourceId ? String(query.sourceId).trim() : "";
+  const unitId = query?.unitId ? String(query.unitId).trim() : "";
+  const unitIds = query?.unitIds
+    ? String(query.unitIds)
+        .split(",")
+        .map((item) => item.trim())
+        .filter(Boolean)
+        .sort()
+        .join(",")
+    : "";
+  return `${sourceId}::${unitId}::${unitIds}`;
+}
+
+function getPracticeWordCacheEntry(key) {
+  const entry = practiceWordCache.get(key);
+  if (!entry) return null;
+  if (Date.now() - entry.timestamp > PRACTICE_WORD_CACHE_TTL_MS) {
+    practiceWordCache.delete(key);
+    return null;
+  }
+  return entry.words;
+}
+
+function setPracticeWordCacheEntry(key, words) {
+  if (practiceWordCache.size > 100) {
+    const oldestKey = practiceWordCache.keys().next().value;
+    practiceWordCache.delete(oldestKey);
+  }
+  practiceWordCache.set(key, { words, timestamp: Date.now() });
+}
+
+function clearPracticeWordCache() {
+  practiceWordCache.clear();
+}
 
 function shuffle(list) {
   const clone = [...list];
@@ -123,27 +170,6 @@ function findClozeMatch(sentence, targetText) {
   };
 }
 
-function exampleMatchesExamMeaning(exampleTranslation, examMeanings) {
-  const exampleParts = parseMeaningEntries(exampleTranslation || exampleTranslation === 0 ? exampleTranslation : "")
-    .concat([normalizeText(exampleTranslation)])
-    .map(normalizeMeaningForMatch)
-    .filter((item) => item.length >= 2);
-  const meaningParts = (examMeanings || [])
-    .flatMap((meaning) => parseMeaningEntries(meaning).concat([meaning]))
-    .map(normalizeMeaningForMatch)
-    .filter((item) => item.length >= 2);
-
-  if (!exampleParts.length || !meaningParts.length) {
-    return false;
-  }
-
-  return exampleParts.some((examplePart) =>
-    meaningParts.some(
-      (meaningPart) => examplePart === meaningPart || examplePart.includes(meaningPart) || meaningPart.includes(examplePart)
-    )
-  );
-}
-
 function mergePracticeWord(baseWord, incomingWord) {
   const sourceNames = new Set([...(baseWord.sourceNames || []), incomingWord.source_name].filter(Boolean));
   const unitNames = new Set([...(baseWord.unitNames || []), incomingWord.unit_name].filter(Boolean));
@@ -160,8 +186,6 @@ function mergePracticeWord(baseWord, incomingWord) {
     analysis: baseWord.analysis || incomingWord.analysis,
     definition: baseWord.definition || incomingWord.definition,
     example: baseWord.example || incomingWord.example,
-    examMeaningIndexes: [...new Set([...(baseWord.examMeaningIndexes || []), ...(incomingWord.examMeaningIndexes || [])])],
-    examMeaningTexts: [...new Set([...(baseWord.examMeaningTexts || []), ...(incomingWord.examMeaningTexts || [])])],
     sourceNames: [...sourceNames],
     unitNames: [...unitNames],
     sourceUnitPairs: [...sourceUnitPairs],
@@ -171,6 +195,7 @@ function mergePracticeWord(baseWord, incomingWord) {
 
 function dedupePracticeWords(words) {
   const map = new Map();
+  const indexMap = new Map();
   const result = [];
 
   for (const word of words) {
@@ -178,40 +203,33 @@ function dedupePracticeWords(words) {
     if (!key || key === "::") continue;
 
     if (!map.has(key)) {
-        const initial = {
-          ...word,
-          examMeaningIndexes: Array.isArray(word.examMeaningIndexes) ? word.examMeaningIndexes : [],
-          examMeaningTexts: Array.isArray(word.examMeaningTexts) ? word.examMeaningTexts : [],
-          sourceNames: [word.source_name].filter(Boolean),
-          unitNames: [word.unit_name].filter(Boolean),
-          sourceUnitPairs: [[word.source_name, word.unit_name].filter(Boolean).join(" / ")].filter(Boolean),
-          wordRefs: [word.word_ref].filter(Boolean)
-        };
+      const initial = {
+        ...word,
+        sourceNames: [word.source_name].filter(Boolean),
+        unitNames: [word.unit_name].filter(Boolean),
+        sourceUnitPairs: [[word.source_name, word.unit_name].filter(Boolean).join(" / ")].filter(Boolean),
+        wordRefs: [word.word_ref].filter(Boolean)
+      };
       map.set(key, initial);
+      indexMap.set(key, result.length);
       result.push(initial);
       continue;
     }
 
-    map.set(key, mergePracticeWord(map.get(key), word));
-    const index = result.findIndex((item) => buildPracticeWordKey(item) === key);
-    if (index >= 0) {
-      result[index] = map.get(key);
+    const merged = mergePracticeWord(map.get(key), word);
+    map.set(key, merged);
+    const index = indexMap.get(key);
+    if (typeof index === "number" && index >= 0 && index < result.length) {
+      result[index] = merged;
     }
   }
 
   return result;
 }
 
-function expandPracticeItems(words, options = {}) {
-  const meaningScope = options.meaningScope || "all_meanings";
-
+function expandPracticeItems(words) {
   return words.flatMap((word) => {
-    const allMeanings = parseMeaningEntries(word.ch || word.definition || "");
-    const meanings = resolveMeaningScopeEntries(word, meaningScope, { fallbackCoreCount: 2 });
-    if (meaningScope === "exam_only" && !meanings.length) {
-      return [];
-    }
-
+    const meanings = getWordParsedMeanings(word);
     if (!meanings.length) {
       return [
         {
@@ -223,46 +241,24 @@ function expandPracticeItems(words, options = {}) {
       ];
     }
 
-    const usedIndexes = new Set();
-    return meanings.map((meaning, index) => {
-      let meaningIndex = allMeanings.findIndex(
-        (entry, entryIndex) => !usedIndexes.has(entryIndex) && entry === meaning
-      );
-      if (meaningIndex === -1) {
-        meaningIndex = index;
-      }
-      usedIndexes.add(meaningIndex);
-
-      return {
-        ...word,
-        practiceMeaning: meaning,
-        meaningIndex,
-        practiceKey: `${word.word_ref}::meaning::${meaningIndex}`,
-        meaningPriority: meaningIndex <= 1 ? meaningIndex : meaningIndex + 10
-      };
-    });
+    return meanings.map((meaning, index) => ({
+      ...word,
+      practiceMeaning: meaning,
+      meaningIndex: index,
+      practiceKey: `${word.word_ref}::meaning::${index}`,
+      meaningPriority: index <= 1 ? index : index + 10
+    }));
   });
 }
 
-function expandClozeItems(words, options = {}) {
-  const meaningScope = options.meaningScope || "all_meanings";
-
+function expandClozeItems(words) {
   return words.flatMap((word) => {
     const examples = parseExampleItems(word.example);
     if (!examples.length) {
       return [];
     }
 
-    const examMeanings = resolveMeaningScopeEntries(word, "exam_only");
-    if (meaningScope === "exam_only" && !examMeanings.length) {
-      return [];
-    }
-
     return examples.flatMap((example, exampleIndex) => {
-      if (meaningScope === "exam_only" && !exampleMatchesExamMeaning(example.ch, examMeanings)) {
-        return [];
-      }
-
       const cloze = findClozeMatch(example.eng, word.eng);
       if (!cloze) {
         return [];
@@ -271,7 +267,7 @@ function expandClozeItems(words, options = {}) {
       return [
         {
           ...word,
-          practiceMeaning: normalizeText(example.ch || examMeanings[0] || word.ch || word.definition || ""),
+          practiceMeaning: normalizeText(example.ch || word.ch || word.definition || ""),
           meaningIndex: Number.isInteger(word.meaningIndex) ? word.meaningIndex : 0,
           practiceKey: `${word.word_ref}::cloze::${exampleIndex}::${normalizeText(cloze.answer).toLowerCase()}`,
           clozeSentence: cloze.sentence,
@@ -284,9 +280,8 @@ function expandClozeItems(words, options = {}) {
   });
 }
 
-async function buildClozePracticeItems(words, options = {}) {
-  const meaningScope = options.meaningScope || "all_meanings";
-  return expandClozeItems(words, { meaningScope });
+async function buildClozePracticeItems(words) {
+  return expandClozeItems(words);
 }
 
 function daysSince(value) {
@@ -578,37 +573,38 @@ function buildQuestionWordPlan(wordPool, totalQuestions, options = {}) {
     familyMap.get(familyKey).push(word);
   }
 
-  const families = [...familyMap.entries()].map(([familyKey, items]) => ({
+  const families = shuffle([...familyMap.entries()].map(([familyKey, items]) => ({
     familyKey,
     items: shuffle(items)
-  }));
+  })));
+
+  families.sort((a, b) => {
+    const weightDelta =
+      safeNumber(b.items[0]?.practiceWeight, 1) - safeNumber(a.items[0]?.practiceWeight, 1);
+    if (weightDelta !== 0) return weightDelta;
+
+    const priorityDelta =
+      safeNumber(a.items[0]?.meaningPriority, 999) - safeNumber(b.items[0]?.meaningPriority, 999);
+    if (priorityDelta !== 0) return priorityDelta;
+
+    return 0;
+  });
 
   const plan = [];
   let previousFamilyKey = "";
 
   while (plan.length < totalQuestions) {
-    const roundFamilies = shuffle(families.filter((family) => family.items.length)).sort((a, b) => {
-        const weightDelta =
-          safeNumber(b.items[0]?.practiceWeight, 1) - safeNumber(a.items[0]?.practiceWeight, 1);
-        if (weightDelta !== 0) return weightDelta;
-
-        const priorityDelta =
-          safeNumber(a.items[0]?.meaningPriority, 999) - safeNumber(b.items[0]?.meaningPriority, 999);
-        if (priorityDelta !== 0) return priorityDelta;
-
-        return 0;
-      });
-
-    if (!roundFamilies.length) {
+    const activeFamilies = families.filter((family) => family.items.length);
+    if (!activeFamilies.length) {
       break;
     }
 
     const orderedFamilies = previousFamilyKey
       ? [
-          ...roundFamilies.filter((family) => family.familyKey !== previousFamilyKey),
-          ...roundFamilies.filter((family) => family.familyKey === previousFamilyKey)
+          ...activeFamilies.filter((family) => family.familyKey !== previousFamilyKey),
+          ...activeFamilies.filter((family) => family.familyKey === previousFamilyKey)
         ]
-      : roundFamilies;
+      : activeFamilies;
 
     let pickedInRound = false;
     for (const family of orderedFamilies) {
@@ -633,93 +629,6 @@ function buildQuestionWordPlan(wordPool, totalQuestions, options = {}) {
   }
 
   return plan;
-}
-
-function spreadQuestionPlan(words) {
-  if (words.length <= 1) {
-    return words;
-  }
-
-  const familyMap = new Map();
-  for (const word of words) {
-    const familyKey = buildPracticeFamilyKey(word);
-    if (!familyMap.has(familyKey)) {
-      familyMap.set(familyKey, []);
-    }
-    familyMap.get(familyKey).push(word);
-  }
-
-  const result = [];
-  let previousFamilyKey = "";
-
-  while (result.length < words.length) {
-    const candidates = [...familyMap.entries()]
-      .filter(([, items]) => items.length)
-      .map(([familyKey, items]) => ({ familyKey, items }))
-      .sort((a, b) => {
-        if (a.familyKey === previousFamilyKey && b.familyKey !== previousFamilyKey) return 1;
-        if (b.familyKey === previousFamilyKey && a.familyKey !== previousFamilyKey) return -1;
-
-        const countDelta = b.items.length - a.items.length;
-        if (countDelta !== 0) return countDelta;
-
-        const weightDelta =
-          safeNumber(b.items[0]?.practiceWeight, 1) - safeNumber(a.items[0]?.practiceWeight, 1);
-        if (weightDelta !== 0) return weightDelta;
-
-        const priorityDelta =
-          safeNumber(a.items[0]?.meaningPriority, 999) -
-          safeNumber(b.items[0]?.meaningPriority, 999);
-        if (priorityDelta !== 0) return priorityDelta;
-
-        return a.familyKey.localeCompare(b.familyKey);
-      });
-
-    if (!candidates.length) {
-      break;
-    }
-
-    const nextFamily = candidates[0];
-    const nextWord = nextFamily.items.shift();
-    if (!nextWord) {
-      break;
-    }
-
-    result.push(nextWord);
-    previousFamilyKey = nextFamily.familyKey;
-  }
-
-  return result.length === words.length ? result : words;
-}
-
-async function loadExamMeaningMap(wordRefs) {
-  const uniqueRefs = [...new Set((wordRefs || []).filter(Boolean))];
-  if (!uniqueRefs.length) {
-    return new Map();
-  }
-
-  const rows = await wordsDb.all(
-    `SELECT
-       word_ref AS wordRef,
-       meaning_index AS meaningIndex,
-       meaning_text AS meaningText
-     FROM unit_exam_meanings
-     WHERE word_ref IN (${uniqueRefs.map(() => "?").join(",")})
-     ORDER BY word_ref, meaning_index`,
-    uniqueRefs
-  );
-
-  const map = new Map();
-  for (const row of rows) {
-    if (!map.has(row.wordRef)) {
-      map.set(row.wordRef, { indexes: [], texts: [] });
-    }
-    const target = map.get(row.wordRef);
-    target.indexes.push(Number(row.meaningIndex));
-    target.texts.push(row.meaningText);
-  }
-
-  return map;
 }
 
 function buildPracticeScopeFilters(query) {
@@ -754,6 +663,12 @@ function buildPracticeScopeFilters(query) {
 }
 
 async function loadScopedPracticeWords(query) {
+  const cacheKey = buildPracticeWordCacheKey(query);
+  const cached = getPracticeWordCacheEntry(cacheKey);
+  if (cached) {
+    return cached;
+  }
+
   const { whereClause, params } = buildPracticeScopeFilters(query);
   const rawWords = await wordsDb.all(
     `SELECT
@@ -776,38 +691,48 @@ async function loadScopedPracticeWords(query) {
     params
   );
 
-  const examMeaningMap = await loadExamMeaningMap(rawWords.map((word) => word.word_ref));
-  const wordsWithExamScope = rawWords.map((word) => ({
-    ...word,
-    examMeaningIndexes: examMeaningMap.get(word.word_ref)?.indexes || [],
-    examMeaningTexts: examMeaningMap.get(word.word_ref)?.texts || []
-  }));
-
-  return dedupePracticeWords(wordsWithExamScope);
+  const result = dedupePracticeWords(rawWords);
+  setPracticeWordCacheEntry(cacheKey, result);
+  return result;
 }
 
 router.get("/availability", requireAuth, async (req, res, next) => {
   try {
-    const meaningScope = req.query.meaningScope === "exam_only" ? "exam_only" : "all_meanings";
-    const words = await loadScopedPracticeWords(req.query);
-    const allMeaningItems = expandPracticeItems(words, { meaningScope: "all_meanings" });
-    const examOnlyItems = expandPracticeItems(words, { meaningScope: "exam_only" });
-    const [clozeAllItems, clozeExamItems] = await Promise.all([
-      buildClozePracticeItems(words, { meaningScope: "all_meanings" }),
-      buildClozePracticeItems(words, { meaningScope: "exam_only" })
-    ]);
-    const normalCount = meaningScope === "exam_only" ? examOnlyItems.length : allMeaningItems.length;
-    const clozeCount = meaningScope === "exam_only" ? clozeExamItems.length : clozeAllItems.length;
+    const starredOnly = req.query.starredOnly === "true" || req.query.starredOnly === "1";
+    let words = await loadScopedPracticeWords(req.query);
+
+    if (starredOnly) {
+      let starredSet = new Set();
+      if (req.user?.id && !req.user?.isGuest) {
+        const rows = await clientDb.all(
+          "SELECT word_key FROM user_starred_words WHERE user_id = ?",
+          [req.user.id]
+        );
+        starredSet = new Set(rows.map((r) => r.word_key));
+      } else if (req.query.guestStarredKeys) {
+        try {
+          const parsed = typeof req.query.guestStarredKeys === "string" && req.query.guestStarredKeys.startsWith("[")
+            ? JSON.parse(req.query.guestStarredKeys)
+            : String(req.query.guestStarredKeys).split(",");
+          starredSet = new Set(parsed.map((k) => String(k).trim()).filter(Boolean));
+        } catch {
+          starredSet = new Set();
+        }
+      }
+      words = words.filter((w) => starredSet.has(buildStarKey(w.eng, w.tense)));
+    }
+
+    const allMeaningItems = expandPracticeItems(words);
+    const clozeAllItems = await buildClozePracticeItems(words);
+    const normalCount = allMeaningItems.length;
+    const clozeCount = clozeAllItems.length;
 
     res.json({
       wordCount: words.length,
-      allMeaningCount: allMeaningItems.length,
-      examMeaningCount: examOnlyItems.length,
-      examWordCount: words.filter((word) => (word.examMeaningIndexes || []).length > 0).length,
-      hasExamMeanings: examOnlyItems.length > 0,
+      allMeaningCount: normalCount,
       clozeCount,
-      clozeAllCount: clozeAllItems.length,
-      clozeExamCount: clozeExamItems.length,
+      clozeAllCount: clozeCount,
+      starredOnly,
       modeAvailability: {
         zh_to_en: normalCount,
         en_to_zh: normalCount,
@@ -822,9 +747,13 @@ router.get("/availability", requireAuth, async (req, res, next) => {
 
 router.get("/session", requireAuth, async (req, res, next) => {
   try {
-    const { sourceId, unitId, unitIds, limit = 20, modeWeights } = req.query;
-    const meaningScope = req.query.meaningScope === "exam_only" ? "exam_only" : "all_meanings";
-    const requestedLimit = parseInt(limit, 10) || 20;
+    const { sourceId, unitId, unitIds, limit = 20, modeWeights, starredOnly, guestStarredKeys } = req.query;
+    const isStarredOnly = starredOnly === "true" || starredOnly === "1";
+    const requestedLimit = parsePracticeQuestionLimit(limit);
+    if (requestedLimit === null) {
+      return res.status(400).json({ message: `題數需為 1 到 ${PRACTICE_MAX_QUESTIONS} 題。` });
+    }
+
     const selectedModes = parseSelectedModes(req.query);
     const isClozeSession = selectedModes.includes(CLOZE_MODE);
     if (isClozeSession && selectedModes.length > 1) {
@@ -833,7 +762,32 @@ router.get("/session", requireAuth, async (req, res, next) => {
 
     const weightedModes = parseModeWeights(modeWeights, selectedModes);
     const selectedUnitIds = parseSelectedUnitIds(req.query);
-    const words = await loadScopedPracticeWords(req.query);
+    let words = await loadScopedPracticeWords(req.query);
+
+    if (isStarredOnly) {
+      let starredSet = new Set();
+      if (req.user?.id && !req.user?.isGuest) {
+        const rows = await clientDb.all(
+          "SELECT word_key FROM user_starred_words WHERE user_id = ?",
+          [req.user.id]
+        );
+        starredSet = new Set(rows.map((r) => r.word_key));
+      } else if (guestStarredKeys) {
+        try {
+          const parsed = typeof guestStarredKeys === "string" && guestStarredKeys.startsWith("[")
+            ? JSON.parse(guestStarredKeys)
+            : String(guestStarredKeys).split(",");
+          starredSet = new Set(parsed.map((k) => String(k).trim()).filter(Boolean));
+        } catch {
+          starredSet = new Set();
+        }
+      }
+      words = words.filter((w) => starredSet.has(buildStarKey(w.eng, w.tense)));
+    }
+
+    if (req.aborted || res.destroyed) {
+      return;
+    }
 
     if (!words.length) {
       res.json({ questions: [] });
@@ -873,8 +827,8 @@ router.get("/session", requireAuth, async (req, res, next) => {
     }
 
     const practiceItems = isClozeSession
-      ? await buildClozePracticeItems(words, { meaningScope })
-      : expandPracticeItems(words, { meaningScope });
+      ? await buildClozePracticeItems(words)
+      : expandPracticeItems(words);
     const availableQuestionCount = practiceItems.length;
 
     if (!availableQuestionCount) {
@@ -904,17 +858,22 @@ router.get("/session", requireAuth, async (req, res, next) => {
 
     const wordPool = profiledWords;
     const choiceBuckets = buildChoiceBuckets(profiledWords);
-    const effectiveLimit = isFullScopeSelection && !isClozeSession ? wordPool.length : finalLimit;
+    const effectiveLimit = finalLimit;
     const modeQueue = buildModeQueue(weightedModes, effectiveLimit);
-    const questionWords = spreadQuestionPlan(
-      buildQuestionWordPlan(wordPool, effectiveLimit, {
-        preferFocusedReview,
-        uniqueOnly: isFullScopeSelection
-      })
-    );
+    const questionWords = buildQuestionWordPlan(wordPool, effectiveLimit, {
+      preferFocusedReview,
+      uniqueOnly: isFullScopeSelection
+    });
     const questions = [];
 
     for (let index = 0; index < questionWords.length; index += 1) {
+      if (index > 0 && index % 100 === 0) {
+        await new Promise((resolve) => setImmediate(resolve));
+        if (req.aborted || res.destroyed) {
+          return;
+        }
+      }
+
       const word = questionWords[index];
       const mode = modeQueue[index] || pickWeightedMode(weightedModes);
       questions.push({
@@ -945,7 +904,7 @@ router.get("/session", requireAuth, async (req, res, next) => {
           kk: word.kk,
           tense: word.tense,
           ch: word.ch,
-          chEntries: parseMeaningEntries(word.ch),
+          chEntries: word._parsedMeanings || parseMeaningEntries(word.ch),
           practiceMeaning: word.practiceMeaning,
           analysis: word.analysis,
           definition: word.definition,
@@ -974,124 +933,163 @@ router.post("/submit", requireAuth, async (req, res, next) => {
     let correctAnswers = 0;
     const results = [];
 
-    for (const [questionIndex, item] of answers.entries()) {
-      const answerMode = ALLOWED_MODES.has(item.mode) ? item.mode : mode || "zh_to_en";
-      const currentWord =
-        (item.wordRef &&
-          (await wordsDb.get(
-            `SELECT
-               w.id,
-               w.word_ref,
-               w.eng,
-               w.ch,
-               u.name AS unit_name,
-               s.name AS source_name
-             FROM words w
-             JOIN units u ON u.id = w.unit_id
-             JOIN sources s ON s.id = u.source_id
-             WHERE w.word_ref = ?`,
-            [item.wordRef]
-          ))) ||
-        null;
+    // 批量預載單字與熟練度資料
+    const allWordRefs = [...new Set(answers.map((item) => item.wordRef).filter(Boolean))];
+    const wordLookupMap = new Map();
+    if (allWordRefs.length) {
+      const wordRows = await wordsDb.all(
+        `SELECT
+           w.id,
+           w.word_ref,
+           w.eng,
+           w.ch,
+           u.name AS unit_name,
+           s.name AS source_name
+         FROM words w
+         JOIN units u ON u.id = w.unit_id
+         JOIN sources s ON s.id = u.source_id
+         WHERE w.word_ref IN (${allWordRefs.map(() => "?").join(",")})`,
+        allWordRefs
+      );
+      for (const row of wordRows) {
+        wordLookupMap.set(row.word_ref, row);
+      }
+    }
 
-      const wordRef = item.wordRef || currentWord?.word_ref;
-      if (!wordRef) {
-        continue;
+    const streakMap = new Map();
+    if (!req.user.isGuest && allWordRefs.length) {
+      const masteryRows = await clientDb.all(
+        `SELECT word_ref AS wordRef, streak
+         FROM mastery_stats
+         WHERE user_id = ? AND word_ref IN (${allWordRefs.map(() => "?").join(",")})`,
+        [req.user.id, ...allWordRefs]
+      );
+      for (const row of masteryRows) {
+        streakMap.set(row.wordRef, row.streak || 0);
+      }
+    }
+
+    if (!req.user.isGuest) {
+      await clientDb.run("BEGIN TRANSACTION");
+    }
+
+    try {
+      for (const [questionIndex, item] of answers.entries()) {
+        const answerMode = ALLOWED_MODES.has(item.mode) ? item.mode : mode || "zh_to_en";
+        const currentWord = item.wordRef ? wordLookupMap.get(item.wordRef) || null : null;
+
+        const wordRef = item.wordRef || currentWord?.word_ref;
+        if (!wordRef) {
+          continue;
+        }
+
+        const expectedAnswer =
+          answerMode === CLOZE_MODE
+            ? normalizeText(item.expectedAnswer || item.clozeAnswer || "")
+            : answerMode === "en_to_zh"
+            ? normalizeText(item.reference?.practiceMeaning || item.expectedAnswer || currentWord?.ch || "")
+            : currentWord
+              ? buildExpectedAnswer(answerMode, currentWord)
+              : normalizeText(item.expectedAnswer || item.reference?.eng);
+        const answer = normalizeText(item.answer);
+        const correct = isAnswerCorrect(answerMode, answer, expectedAnswer);
+
+        if (correct) {
+          correctAnswers += 1;
+        }
+
+        const snapshot = {
+          wordId: currentWord?.id || null,
+          eng: currentWord?.eng || item.reference?.eng || "",
+          ch: currentWord?.ch || item.reference?.ch || "",
+          sourceName: currentWord?.source_name || item.reference?.sourceName || "",
+          unitName: currentWord?.unit_name || item.reference?.unitName || ""
+        };
+
+        if (!req.user.isGuest) {
+          await clientDb.run(
+            `INSERT INTO study_logs
+               (user_id, word_ref, word_id, mode, user_answer, is_correct, source_name, unit_name)
+             VALUES (?, ?, ?, ?, ?, ?, ?, ?)`,
+            [
+              req.user.id,
+              wordRef,
+              snapshot.wordId,
+              answerMode,
+              answer,
+              correct ? 1 : 0,
+              snapshot.sourceName,
+              snapshot.unitName
+            ]
+          );
+
+          const previousStreak = streakMap.get(wordRef) || 0;
+          const nextStreak = correct ? previousStreak + 1 : 0;
+          streakMap.set(wordRef, nextStreak);
+
+          await clientDb.run(
+            `INSERT INTO mastery_stats
+               (user_id, word_ref, word_id, source_name, unit_name, attempts, correct_count, wrong_count, last_mode, last_result, streak, last_answered_at)
+             VALUES (?, ?, ?, ?, ?, 1, ?, ?, ?, ?, ?, CURRENT_TIMESTAMP)
+             ON CONFLICT(user_id, word_ref) DO UPDATE SET
+               word_id = excluded.word_id,
+               source_name = excluded.source_name,
+               unit_name = excluded.unit_name,
+               attempts = mastery_stats.attempts + 1,
+               correct_count = mastery_stats.correct_count + excluded.correct_count,
+               wrong_count = mastery_stats.wrong_count + excluded.wrong_count,
+               last_mode = excluded.last_mode,
+               last_result = excluded.last_result,
+               streak = excluded.streak,
+               last_answered_at = CURRENT_TIMESTAMP`,
+            [
+              req.user.id,
+              wordRef,
+              snapshot.wordId,
+              snapshot.sourceName,
+              snapshot.unitName,
+              correct ? 1 : 0,
+              correct ? 0 : 1,
+              answerMode,
+              correct ? 1 : 0,
+              nextStreak
+            ]
+          );
+        }
+
+        results.push({
+          questionIndex,
+          wordRef,
+          wordId: snapshot.wordId,
+          mode: answerMode,
+          correct,
+          expectedAnswer
+        });
       }
 
-      const expectedAnswer =
-        answerMode === CLOZE_MODE
-          ? normalizeText(item.expectedAnswer || item.clozeAnswer || "")
-          : answerMode === "en_to_zh"
-          ? normalizeText(item.reference?.practiceMeaning || item.expectedAnswer || currentWord?.ch || "")
-          : currentWord
-            ? buildExpectedAnswer(answerMode, currentWord)
-            : normalizeText(item.expectedAnswer || item.reference?.eng);
-      const answer = normalizeText(item.answer);
-      const correct = isAnswerCorrect(answerMode, answer, expectedAnswer);
-
-      if (correct) {
-        correctAnswers += 1;
+      if (!req.user.isGuest) {
+        await clientDb.run("COMMIT");
       }
-
-      const snapshot = {
-        wordId: currentWord?.id || null,
-        eng: currentWord?.eng || item.reference?.eng || "",
-        ch: currentWord?.ch || item.reference?.ch || "",
-        sourceName: currentWord?.source_name || item.reference?.sourceName || "",
-        unitName: currentWord?.unit_name || item.reference?.unitName || ""
-      };
-
-      await clientDb.run(
-        `INSERT INTO study_logs
-           (user_id, word_ref, word_id, mode, user_answer, is_correct, source_name, unit_name)
-         VALUES (?, ?, ?, ?, ?, ?, ?, ?)`,
-        [
-          req.user.id,
-          wordRef,
-          snapshot.wordId,
-          answerMode,
-          answer,
-          correct ? 1 : 0,
-          snapshot.sourceName,
-          snapshot.unitName
-        ]
-      );
-
-      const previous = await clientDb.get(
-        "SELECT streak FROM mastery_stats WHERE user_id = ? AND word_ref = ?",
-        [req.user.id, wordRef]
-      );
-      const nextStreak = correct ? (previous?.streak || 0) + 1 : 0;
-
-      await clientDb.run(
-        `INSERT INTO mastery_stats
-           (user_id, word_ref, word_id, source_name, unit_name, attempts, correct_count, wrong_count, last_mode, last_result, streak, last_answered_at)
-         VALUES (?, ?, ?, ?, ?, 1, ?, ?, ?, ?, ?, CURRENT_TIMESTAMP)
-         ON CONFLICT(user_id, word_ref) DO UPDATE SET
-           word_id = excluded.word_id,
-           source_name = excluded.source_name,
-           unit_name = excluded.unit_name,
-           attempts = mastery_stats.attempts + 1,
-           correct_count = mastery_stats.correct_count + excluded.correct_count,
-           wrong_count = mastery_stats.wrong_count + excluded.wrong_count,
-           last_mode = excluded.last_mode,
-           last_result = excluded.last_result,
-           streak = excluded.streak,
-           last_answered_at = CURRENT_TIMESTAMP`,
-        [
-          req.user.id,
-          wordRef,
-          snapshot.wordId,
-          snapshot.sourceName,
-          snapshot.unitName,
-          correct ? 1 : 0,
-          correct ? 0 : 1,
-          answerMode,
-          correct ? 1 : 0,
-          nextStreak
-        ]
-      );
-
-      results.push({
-        questionIndex,
-        wordRef,
-        wordId: snapshot.wordId,
-        mode: answerMode,
-        correct,
-        expectedAnswer
-      });
+    } catch (writeError) {
+      if (!req.user.isGuest) {
+        try {
+          await clientDb.run("ROLLBACK");
+        } catch {}
+      }
+      throw writeError;
     }
 
     const sessionModeValue = Array.isArray(sessionModes) && sessionModes.length
       ? sessionModes.join(",")
       : mode || "mixed";
 
-    await serverDb.run(
-      `INSERT INTO practice_sessions (user_id, mode, total_questions, correct_answers)
-       VALUES (?, ?, ?, ?)`,
-      [req.user.id, sessionModeValue, answers.length, correctAnswers]
-    );
+    if (!req.user.isGuest) {
+      await serverDb.run(
+        `INSERT INTO practice_sessions (user_id, mode, total_questions, correct_answers)
+         VALUES (?, ?, ?, ?)`,
+        [req.user.id, sessionModeValue, answers.length, correctAnswers]
+      );
+    }
 
     res.json({
       totalQuestions: answers.length,
@@ -1105,3 +1103,6 @@ router.post("/submit", requireAuth, async (req, res, next) => {
 });
 
 module.exports = router;
+module.exports.clearPracticeWordCache = clearPracticeWordCache;
+module.exports.parsePracticeQuestionLimit = parsePracticeQuestionLimit;
+module.exports.PRACTICE_MAX_QUESTIONS = PRACTICE_MAX_QUESTIONS;

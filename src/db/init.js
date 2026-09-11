@@ -100,17 +100,7 @@ async function rebuildWordsDatabase() {
       FOREIGN KEY(unit_id) REFERENCES units(id) ON DELETE CASCADE
     );
 
-    CREATE TABLE unit_exam_meanings (
-      id INTEGER PRIMARY KEY AUTOINCREMENT,
-      unit_id INTEGER NOT NULL,
-      word_ref TEXT NOT NULL,
-      meaning_index INTEGER NOT NULL,
-      meaning_text TEXT NOT NULL,
-      created_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP,
-      updated_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP,
-      UNIQUE(unit_id, word_ref, meaning_index),
-      FOREIGN KEY(unit_id) REFERENCES units(id) ON DELETE CASCADE
-    );
+    DROP TABLE IF EXISTS unit_exam_meanings;
 
     CREATE INDEX idx_sources_slug ON sources(slug);
     CREATE INDEX idx_units_source ON units(source_id);
@@ -118,7 +108,6 @@ async function rebuildWordsDatabase() {
     CREATE INDEX idx_words_unit ON words(unit_id);
     CREATE INDEX idx_words_ref ON words(word_ref);
     CREATE INDEX idx_words_eng_normalized ON words(eng_normalized);
-    CREATE INDEX idx_unit_exam_meanings_unit_ref ON unit_exam_meanings(unit_id, word_ref);
   `);
 
   const sourceMap = new Map();
@@ -292,11 +281,6 @@ async function loadLegacyUsers() {
     "users",
     "practice_typing_time_limit_seconds"
   );
-  const hasStudentTutorialCompletedAt = await columnExists(
-    clientDb,
-    "users",
-    "student_tutorial_completed_at"
-  );
   const hasTokenVersion = await columnExists(clientDb, "users", "token_version");
   const hasUpdatedAt = await columnExists(clientDb, "users", "updated_at");
 
@@ -326,11 +310,6 @@ async function loadLegacyUsers() {
          hasPracticeTypingTimeLimitSeconds
            ? "practice_typing_time_limit_seconds"
            : "30 AS practice_typing_time_limit_seconds"
-       },
-       ${
-         hasStudentTutorialCompletedAt
-           ? "student_tutorial_completed_at"
-           : "NULL AS student_tutorial_completed_at"
        },
        ${hasTokenVersion ? "token_version" : "0 AS token_version"},
        created_at,
@@ -666,11 +645,25 @@ async function rebuildClientDatabase(legacyWordMap, currentWordMap) {
       practice_next_question_delay_ms INTEGER NOT NULL DEFAULT 1000,
       practice_choice_time_limit_seconds INTEGER NOT NULL DEFAULT 15,
       practice_typing_time_limit_seconds INTEGER NOT NULL DEFAULT 30,
-      student_tutorial_completed_at TEXT,
       token_version INTEGER NOT NULL DEFAULT 0,
       created_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP,
       updated_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP
     );
+
+    CREATE TABLE user_starred_words (
+      id INTEGER PRIMARY KEY AUTOINCREMENT,
+      user_id INTEGER NOT NULL,
+      word_key TEXT NOT NULL,
+      eng TEXT NOT NULL,
+      tense TEXT NOT NULL DEFAULT '',
+      word_ref TEXT,
+      created_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP,
+      UNIQUE(user_id, word_key),
+      FOREIGN KEY(user_id) REFERENCES users(id) ON DELETE CASCADE
+    );
+
+    CREATE INDEX idx_user_starred_words_user ON user_starred_words(user_id);
+    CREATE INDEX idx_user_starred_words_user_key ON user_starred_words(user_id, word_key);
 
     CREATE TABLE study_logs (
       id INTEGER PRIMARY KEY AUTOINCREMENT,
@@ -787,12 +780,11 @@ async function rebuildClientDatabase(legacyWordMap, currentWordMap) {
            practice_next_question_delay_ms,
            practice_choice_time_limit_seconds,
            practice_typing_time_limit_seconds,
-           student_tutorial_completed_at,
            token_version,
            created_at,
            updated_at
          )
-       VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, COALESCE(?, CURRENT_TIMESTAMP), COALESCE(?, CURRENT_TIMESTAMP))`,
+       VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, COALESCE(?, CURRENT_TIMESTAMP), COALESCE(?, CURRENT_TIMESTAMP))`,
       [
         user.id,
         normalizeText(user.username),
@@ -819,7 +811,6 @@ async function rebuildClientDatabase(legacyWordMap, currentWordMap) {
             Number(user.practice_typing_time_limit_seconds) <= 40))
           ? Number(user.practice_typing_time_limit_seconds)
           : 30,
-        normalizeText(user.student_tutorial_completed_at) || null,
         Number.isFinite(Number(user.token_version)) ? Number(user.token_version) : 0,
         user.created_at || null,
         user.updated_at || null
@@ -945,6 +936,7 @@ async function optimizeClientStorage() {
     CREATE INDEX idx_logs_word_ref ON study_logs(word_ref);
     CREATE INDEX idx_mastery_user ON mastery_stats(user_id);
     CREATE INDEX idx_mastery_word_ref ON mastery_stats(word_ref);
+    CREATE INDEX idx_mastery_user_wordref ON mastery_stats(user_id, word_ref);
   `);
 
   for (const row of logs) {
@@ -1026,18 +1018,7 @@ async function initializeDatabases() {
     CREATE INDEX IF NOT EXISTS idx_words_unit ON words(unit_id);
     CREATE INDEX IF NOT EXISTS idx_words_ref ON words(word_ref);
     CREATE INDEX IF NOT EXISTS idx_words_eng_normalized ON words(eng_normalized);
-    CREATE TABLE IF NOT EXISTS unit_exam_meanings (
-      id INTEGER PRIMARY KEY AUTOINCREMENT,
-      unit_id INTEGER NOT NULL,
-      word_ref TEXT NOT NULL,
-      meaning_index INTEGER NOT NULL,
-      meaning_text TEXT NOT NULL,
-      created_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP,
-      updated_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP,
-      UNIQUE(unit_id, word_ref, meaning_index),
-      FOREIGN KEY(unit_id) REFERENCES units(id) ON DELETE CASCADE
-    );
-    CREATE INDEX IF NOT EXISTS idx_unit_exam_meanings_unit_ref ON unit_exam_meanings(unit_id, word_ref);
+    DROP TABLE IF EXISTS unit_exam_meanings;
   `);
 
   await serverDb.exec(`
@@ -1220,6 +1201,7 @@ async function initializeDatabases() {
     CREATE INDEX IF NOT EXISTS idx_logs_word_ref ON study_logs(word_ref);
     CREATE INDEX IF NOT EXISTS idx_mastery_user ON mastery_stats(user_id);
     CREATE INDEX IF NOT EXISTS idx_mastery_word_ref ON mastery_stats(word_ref);
+    CREATE INDEX IF NOT EXISTS idx_mastery_user_wordref ON mastery_stats(user_id, word_ref);
     CREATE INDEX IF NOT EXISTS idx_recovery_status ON recovery_requests(status, created_at);
     CREATE INDEX IF NOT EXISTS idx_notifications_recipient_date ON notifications(recipient_user_id, created_at);
     CREATE INDEX IF NOT EXISTS idx_notification_reads_user ON notification_reads(user_id, read_at);
@@ -1288,12 +1270,26 @@ async function initializeDatabases() {
     `);
   }
 
-  if (!(await columnExists(clientDb, "users", "student_tutorial_completed_at"))) {
-    await clientDb.exec(`
-      ALTER TABLE users
-      ADD COLUMN student_tutorial_completed_at TEXT;
-    `);
+  if (await columnExists(clientDb, "users", "student_tutorial_completed_at")) {
+    await clientDb.exec("ALTER TABLE users DROP COLUMN student_tutorial_completed_at;");
   }
+
+  await clientDb.exec(`
+    CREATE TABLE IF NOT EXISTS user_starred_words (
+      id INTEGER PRIMARY KEY AUTOINCREMENT,
+      user_id INTEGER NOT NULL,
+      word_key TEXT NOT NULL,
+      eng TEXT NOT NULL,
+      tense TEXT NOT NULL DEFAULT '',
+      word_ref TEXT,
+      created_at TEXT NOT NULL DEFAULT CURRENT_TIMESTAMP,
+      UNIQUE(user_id, word_key),
+      FOREIGN KEY(user_id) REFERENCES users(id) ON DELETE CASCADE
+    );
+
+    CREATE INDEX IF NOT EXISTS idx_user_starred_words_user ON user_starred_words(user_id);
+    CREATE INDEX IF NOT EXISTS idx_user_starred_words_user_key ON user_starred_words(user_id, word_key);
+  `);
 
   if (!(await columnExists(clientDb, "users", "token_version"))) {
     await clientDb.exec(`
@@ -1317,6 +1313,8 @@ async function initializeDatabases() {
   if (await columnExists(wordsDb, "words", "latin_root")) {
     await wordsDb.exec("ALTER TABLE words DROP COLUMN latin_root;");
   }
+
+  await wordsDb.exec("DROP TABLE IF EXISTS unit_exam_meanings;");
 
   await wordsDb.exec(`
     DELETE FROM words

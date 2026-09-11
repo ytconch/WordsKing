@@ -1,0 +1,1659 @@
+{
+  "level": 4,
+  "chunkIndex": 3,
+  "inputs": [
+    "blade",
+    "blend",
+    "blessing",
+    "blink",
+    "bloom",
+    "blossom",
+    "boast",
+    "bond",
+    "bounce",
+    "bracelet",
+    "breed",
+    "bridegroom",
+    "groom",
+    "broke",
+    "broom",
+    "brutal",
+    "bulletin",
+    "burglar",
+    "cabinet",
+    "calculate",
+    "calculation",
+    "calorie",
+    "campaign",
+    "candidate",
+    "cane",
+    "canoe",
+    "capacity",
+    "capital",
+    "capitalism",
+    "capitalist",
+    "cargo",
+    "carrier",
+    "carve",
+    "catalogue",
+    "category",
+    "cease",
+    "celebration",
+    "chamber",
+    "championship",
+    "characteristic",
+    "charity",
+    "chemistry",
+    "cherish",
+    "chew",
+    "choke",
+    "chorus",
+    "circular",
+    "circulate",
+    "circulation",
+    "circumstance"
+  ],
+  "rows": [
+    {
+      "eng": "blade",
+      "kk": "/bleɪd/",
+      "tense": "n.",
+      "ch": [
+        [
+          "刀刃",
+          "刀片"
+        ],
+        [
+          "葉片",
+          "草葉"
+        ],
+        [
+          "槳葉",
+          "風扇葉片"
+        ]
+      ],
+      "analysis": "此字為現代單一獨立名詞，源自古英語 blæd（意為葉子、草葉、劍刃）。歷史上由植物的葉片引申出扁平而銳利的金屬刀刃，現代亦延伸指風力發電機或槳的扁平扇葉。無複雜的現代可辨識字首字尾構詞。",
+      "definition": "1. the flat, cutting edge of a knife, sword, or tool; 2. a flat, narrow leaf of grass or a plant; 3. a flat, rotating part of a propeller, oar, or turbine.",
+      "example": [
+        {
+          "eng": "He sharpened the dull blade of his pocketknife.",
+          "ch": "他磨利了小刀那鈍掉的刀刃。"
+        },
+        {
+          "eng": "A single blade of grass pushed through the crack in the concrete.",
+          "ch": "一株小草從混凝土的裂縫中長出來。"
+        },
+        {
+          "eng": "The wind turbine's blades rotated slowly in the breeze.",
+          "ch": "風力發電機的槳葉在微風中緩緩轉動。"
+        }
+      ]
+    },
+    {
+      "eng": "blend",
+      "kk": "/blend/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "混合",
+          "攙合"
+        ],
+        [
+          "融合",
+          "調和"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自古英語 blendan（意為使混雜，與古諾斯語 blanda 有關）。現代主要指將不同物質或元素混合在一起，或在抽象層面上使色彩、風格等完美融合成一體，常帶有及物用法接直接受詞。",
+      "definition": "1. to mix two or more substances together thoroughly; 2. to combine different elements, qualities, or styles harmoniously.",
+      "example": [
+        {
+          "eng": "She decided to blend the milk and fresh strawberries in the blender.",
+          "ch": "她決定把牛奶和新鮮草莓放在果汁機裡混合。"
+        },
+        {
+          "eng": "The artist knows how to blend different colors smoothly.",
+          "ch": "這位藝術家知道如何流暢地調和不同的顏色。"
+        }
+      ]
+    },
+    {
+      "eng": "blend",
+      "kk": "/blend/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "混合",
+          "融合"
+        ],
+        [
+          "相融",
+          "協調"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，為 blend 的自動詞用法，表示事物本身自然地混合、融為一體，或人事物融入周遭環境中而不突兀，常與介詞 into 或 in 搭配。",
+      "definition": "1. to mix or merge smoothly together; 2. to become a harmonious part of a surrounding environment or group.",
+      "example": [
+        {
+          "eng": "The two musical genres blend seamlessly in this new song.",
+          "ch": "這兩種音樂風格在這首新歌中完美地融合在一起。"
+        },
+        {
+          "eng": "The camouflage uniform helps the soldier blend into the forest.",
+          "ch": "迷彩服有助於士兵融入森林環境中。"
+        }
+      ]
+    },
+    {
+      "eng": "blessing",
+      "kk": "/ˈblesɪŋ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "祝福",
+          "祝禱"
+        ],
+        [
+          "幸事",
+          "恩賜"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 bless 加上名詞化字尾 -ing 構詞而成，源自古英語 blēdsian。歷史上與祝聖有關，現代則演變為祈求神明庇佑的祝禱，或引申為生活中令人感激的幸運好事或恩賜。",
+      "definition": "1. a prayer asking for divine favor and protection; 2. a desirable or beneficial event, circumstance, or relationship that brings happiness.",
+      "example": [
+        {
+          "eng": "The priest offered a solemn blessing to the congregation.",
+          "ch": "牧師向會眾致以莊嚴的祝福。"
+        },
+        {
+          "eng": "Finding a reliable friend during tough times was a true blessing.",
+          "ch": "在艱難時刻找到一個可靠的朋友真是件幸事。"
+        }
+      ]
+    },
+    {
+      "eng": "blink",
+      "kk": "/blɪŋk/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "眨動（眼睛）",
+          "使閃爍"
+        ]
+      ],
+      "analysis": "此字為及物動詞，由 blink 的自動詞衍生而來，直接接身體部位（如 eyes）作為受詞，表示刻意或反射性地眨動眼睛。",
+      "definition": "1. to shut and open one's eyes repeatedly or briefly.",
+      "example": [
+        {
+          "eng": "He blinked his eyes to clear the sleep away.",
+          "ch": "他眨了眨眼睛以趕走睡意。"
+        }
+      ]
+    },
+    {
+      "eng": "blink",
+      "kk": "/blɪŋk/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "眨眼",
+          "閉開眼睛"
+        ],
+        [
+          "閃爍",
+          "明滅不定"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，源自日耳曼語族源頭（如中古荷蘭語 blinken 發光、閃爍），在英語中發展出眼睛開閉的動作義，同時保留了光源閃爍的自動詞用法。",
+      "definition": "1. to shut and open the eyes quickly; 2. to shine with an unsteady or intermittent light.",
+      "example": [
+        {
+          "eng": "The bright sunlight made her blink repeatedly.",
+          "ch": "刺眼的陽光使她不停地眨眼。"
+        },
+        {
+          "eng": "The warning light on the dashboard began to blink.",
+          "ch": "儀表板上的警示燈開始閃爍。"
+        }
+      ]
+    },
+    {
+      "eng": "bloom",
+      "kk": "/bluːm/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "開花",
+          "盛開"
+        ],
+        [
+          "繁榮",
+          "煥發青春"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，源自古諾斯語 blóm 及古英語同源詞，本義即指植物開花。歷史上由植物的盛開引申出人的容貌煥發、才華展現或事業繁榮昌盛的自動詞用法。",
+      "definition": "1. to produce flowers; to open into flower; 2. to flourish, thrive, or glow with health and beauty.",
+      "example": [
+        {
+          "eng": "Roses begin to bloom in the garden during early summer.",
+          "ch": "玫瑰花在初夏時節開始在花園裡盛開。"
+        },
+        {
+          "eng": "Her confidence started to bloom as she gained more stage experience.",
+          "ch": "隨著舞台經驗增加，她的自信心也開始綻放光芒。"
+        }
+      ]
+    },
+    {
+      "eng": "blossom",
+      "kk": "/ˈblɑːsəm/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "開花",
+          "滿樹花開"
+        ],
+        [
+          "蓬勃發展",
+          "展現潛能"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，源自古英語 blōstm（花朵）。與 bloom 語義相近，但 blossom 常特別指果樹開花，或比喻人事物經過發展後展現出繁榮美好的面貌。",
+      "definition": "1. to produce blossoms or flowers, especially on a tree or bush; 2. to develop or mature into a healthy, attractive, or successful state.",
+      "example": [
+        {
+          "eng": "The cherry trees blossom magnificently every spring.",
+          "ch": "櫻桃樹每年春天都開滿了燦爛的花朵。"
+        },
+        {
+          "eng": "Their friendship blossomed into a lifelong partnership.",
+          "ch": "他們的友誼蓬勃發展，最終成為終身的夥伴關係。"
+        }
+      ]
+    },
+    {
+      "eng": "boast",
+      "kk": "/boʊst/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "誇耀",
+          "以擁有...而自豪"
+        ]
+      ],
+      "analysis": "此字為及物動詞，由不及物用法演變而來，現代英文中常作為主詞帶有某種令人自豪的優良設施、特質或成就作為直接受詞。",
+      "definition": "1. to possess something proud, impressive, or beneficial as a feature.",
+      "example": [
+        {
+          "eng": "The luxury hotel boasts a breathtaking view of the ocean.",
+          "ch": "這家豪華飯店擁有令人屏息的壯麗海景。"
+        }
+      ]
+    },
+    {
+      "eng": "boast",
+      "kk": "/boʊst/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "自誇",
+          "吹噓"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，起源於中古英語 bosten。主要用來表示人言語間過度誇耀自己的成就、財富或能力，常與介詞 of 或 about 連用。",
+      "definition": "1. to talk with excessive pride and self-satisfaction about one's achievements, possessions, or abilities.",
+      "example": [
+        {
+          "eng": "He likes to boast about his high scores on every test.",
+          "ch": "他喜歡吹噓自己每次考試都拿高分。"
+        }
+      ]
+    },
+    {
+      "eng": "bond",
+      "kk": "/bɑːnd/",
+      "tense": "n.",
+      "ch": [
+        [
+          "紐帶",
+          "連結"
+        ],
+        [
+          "束縛",
+          "枷鎖"
+        ],
+        [
+          "債券",
+          "公債"
+        ],
+        [
+          "保證金",
+          "保釋金"
+        ]
+      ],
+      "analysis": "此字為名詞，為 band（帶子、束縛）的語音變體，源自日耳曼語根。歷史上由實體捆綁的帶子，抽象化演變出人際情感的「紐帶」、法律上的「束縛／合約」、金融市場的「債券」以及司法上的「保釋金」等多重義項。",
+      "definition": "1. a strong emotional force, relationship, or tie uniting people; 2. something that binds, fastens, or restrains; 3. a financial certificate issued by a government or corporation promising to repay borrowed money; 4. a sum of money paid as bail or guarantee.",
+      "example": [
+        {
+          "eng": "Sharing hardships forged an unbreakable bond between the teammates.",
+          "ch": "共享患難在隊友之間建立起不可動搖的情感紐帶。"
+        },
+        {
+          "eng": "The family lives under the bond of traditional rules.",
+          "ch": "這個家族生活在傳統規矩的束縛之下。"
+        },
+        {
+          "eng": "Investors bought government bonds for safe returns.",
+          "ch": "投資人買進政府公債以求穩健回報。"
+        },
+        {
+          "eng": "The judge set a high bail bond for the suspect.",
+          "ch": "法官為嫌疑人設定了高額保釋金。"
+        }
+      ]
+    },
+    {
+      "eng": "bounce",
+      "kk": "/baʊns/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使彈起",
+          "拍打（球）"
+        ]
+      ],
+      "analysis": "此字為及物動詞，由 bounce 的自動詞引申而來，直接接球類等物體作受詞，表示用手或力量使其在地面或牆面上彈跳。",
+      "definition": "1. to cause a ball or similar object to spring back off a surface.",
+      "example": [
+        {
+          "eng": "The little boy loves to bounce his red ball on the sidewalk.",
+          "ch": "小男孩喜歡在人行道上拍彈他的紅球。"
+        }
+      ]
+    },
+    {
+      "eng": "bounce",
+      "kk": "/baʊns/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "彈跳",
+          "反彈"
+        ],
+        [
+          "（支票）跳票",
+          "被退回"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，具擬聲色彩，源自中古英語 bounsen。本義指球類或彈性物體撞擊表面後彈回，金融語境中則借用其「彈回」的形象，指支票因存款不足而被銀行退票（跳票）。",
+      "definition": "1. to spring back after hitting a solid surface; 2. (of a check) to be refused by a bank because of a lack of funds.",
+      "example": [
+        {
+          "eng": "The basketball bounced off the rim and missed the basket.",
+          "ch": "籃球從籃框上彈開，沒有投中。"
+        },
+        {
+          "eng": "If your account has no money, the check will bounce.",
+          "ch": "如果你的帳戶沒錢，支票就會跳票。"
+        }
+      ]
+    },
+    {
+      "eng": "bracelet",
+      "kk": "/ˈbreɪslət/",
+      "tense": "n.",
+      "ch": [
+        [
+          "手鐲",
+          "手鍊"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古法語 bracelet，最終源自拉丁語 brachiale（手臂護腕／裝飾），由 brachium（手臂）衍生而來。現代專指戴在手腕上的裝飾性環狀飾品，無複雜現代拆解。",
+      "definition": "1. an ornamental band or chain worn around the wrist as jewelry.",
+      "example": [
+        {
+          "eng": "She wore a delicate silver bracelet on her right wrist.",
+          "ch": "她右手上戴著一條精緻的銀手鍊。"
+        }
+      ]
+    },
+    {
+      "eng": "breed",
+      "kk": "/briːd/",
+      "tense": "n.",
+      "ch": [
+        [
+          "品種",
+          "類型"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 breed 轉品而來，指經過人工培育或自然演化而具有穩定特徵的動物或植物「品種」，亦可引申指特定類型或款式的人。",
+      "definition": "1. a particular kind or sort of animal, plant, or even person.",
+      "example": [
+        {
+          "eng": "The Border Collie is a very intelligent breed of dog.",
+          "ch": "邊境牧羊犬是一種非常聰明的狗品種。"
+        }
+      ]
+    },
+    {
+      "eng": "breed",
+      "kk": "/briːd/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "飼養",
+          "繁殖"
+        ],
+        [
+          "孕育",
+          "滋生"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自古英語 brēdan（使溫暖、孵卵、生養）。歷史上由動物的孵化與繁殖，抽象延伸出滋生問題或孕育某种氛圍及特質的及物用法。",
+      "definition": "1. to keep and produce animals or plants for the purpose of obtaining new generations; 2. to cause, foster, or be the source of something, especially bad conditions.",
+      "example": [
+        {
+          "eng": "Farmers breed cattle mainly for milk and meat production.",
+          "ch": "農夫飼養牛隻主要是為了生產牛奶與肉品。"
+        },
+        {
+          "eng": "Poverty and lack of education often breed crime.",
+          "ch": "貧窮與缺乏教育往往會滋生犯罪。"
+        }
+      ]
+    },
+    {
+      "eng": "breed",
+      "kk": "/briːd/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "繁殖",
+          "交配生殖"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，指動物自然交配與繁衍後代，為 breed 的自動詞用法。",
+      "definition": "1. to mate and produce offspring.",
+      "example": [
+        {
+          "eng": "Many birds migrate to this wetland to feed and breed.",
+          "ch": "許多鳥類遷徙到這片濕地來覓食與繁殖。"
+        }
+      ]
+    },
+    {
+      "eng": "bridegroom",
+      "kk": "/ˈbraɪdɡruːm/",
+      "tense": "n.",
+      "ch": [
+        [
+          "新郎"
+        ]
+      ],
+      "analysis": "此字為複合名詞，由古英語 brīd（新娘）與 guma（男子，受 groom 影響而拼寫改變）結合而成。指即將結婚或剛結婚的男性。",
+      "definition": "1. a man on his wedding day or just before and after it.",
+      "example": [
+        {
+          "eng": "The handsome bridegroom waited anxiously at the altar.",
+          "ch": "帥氣的新郎焦急地在聖壇前等候。"
+        }
+      ]
+    },
+    {
+      "eng": "groom",
+      "kk": "/ɡruːm/",
+      "tense": "n.",
+      "ch": [
+        [
+          "馬夫",
+          "馬房管理員"
+        ],
+        [
+          "新郎"
+        ]
+      ],
+      "analysis": "此字為名詞，源自中古英語 grom（男孩、年輕侍衛），後多指負責照顧馬匹的馬夫，亦為 bridegroom 的簡稱。",
+      "definition": "1. a person whose job is to feed, clean, and care for horses; 2. a bridegroom.",
+      "example": [
+        {
+          "eng": "The stable groom brushed the black horse's coat until it shone.",
+          "ch": "馬夫把黑馬的毛刷得發亮。"
+        }
+      ]
+    },
+    {
+      "eng": "groom",
+      "kk": "/ɡruːm/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "梳理（毛髮）",
+          "打扮"
+        ],
+        [
+          "培訓",
+          "物色培養"
+        ]
+      ],
+      "analysis": "此字為及物動詞，本義指馬夫為馬梳理毛髮，引申為人的打扮修飾，近代亦引申為精心培訓或挑選某人擔任特定職務的政治或職場用語。",
+      "definition": "1. to clean, brush, and maintain the appearance of an animal or oneself; 2. to prepare or train someone for a particular purpose or job.",
+      "example": [
+        {
+          "eng": "Cats spend hours every day grooming their fur.",
+          "ch": "貓咪每天花幾個小時梳理牠們的毛髮。"
+        },
+        {
+          "eng": "The company is grooming him for the position of chief executive.",
+          "ch": "公司正在培訓他擔任執行長一職。"
+        }
+      ]
+    },
+    {
+      "eng": "broke",
+      "kk": "/broʊk/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "身無分文的",
+          "破產的"
+        ]
+      ],
+      "analysis": "此字原為動詞 break 的過去式，但在現代英語中已完全詞典化為形容詞，專門用來口語或非正式地形容個人或公司花光所有錢、一貧如洗的狀態。",
+      "definition": "1. having completely run out of money; penniless.",
+      "example": [
+        {
+          "eng": "After buying the expensive sports car, he was completely broke.",
+          "ch": "買下那輛昂貴的跑車後，他徹底身無分文了。"
+        }
+      ]
+    },
+    {
+      "eng": "broom",
+      "kk": "/bruːm/",
+      "tense": "n.",
+      "ch": [
+        [
+          "掃帚",
+          "掃把"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古英語 brōm（金雀花，因早期掃帚常以金雀花枝紮成而得名）。現代專指用於清掃地面的長柄清潔工具。",
+      "definition": "1. a cleaning implement for sweeping floors, consisting of a bundle of stiff fibers attached to a long handle.",
+      "example": [
+        {
+          "eng": "She used a broom to sweep the fallen leaves off the porch.",
+          "ch": "她用掃帚把門廊上的落葉掃乾淨。"
+        }
+      ]
+    },
+    {
+      "eng": "brutal",
+      "kk": "/ˈbruːtl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "殘忍的",
+          "野蠻的"
+        ],
+        [
+          "嚴酷的",
+          "無情的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自中世紀拉丁語 brutalis，由拉丁語 brutus（愚蠢的、殘忍的、如野獸般的）加上形容詞字尾 -al 構詞而成。用來形容行為極度殘暴，或環境、氣候、事實極端嚴酷難受。",
+      "definition": "1. savagely violent, cruel, or merciless; 2. extremely harsh, severe, or unsparing.",
+      "example": [
+        {
+          "eng": "The dictator was condemned worldwide for his brutal treatment of prisoners.",
+          "ch": "該獨裁者因對待囚犯的殘暴行徑而受到世界各地的譴責。"
+        },
+        {
+          "eng": "They had to survive the brutal winter storm in the mountains.",
+          "ch": "他們必須在山中挺過嚴酷的冬季風暴。"
+        }
+      ]
+    },
+    {
+      "eng": "bulletin",
+      "kk": "/ˈbʊlətɪn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "公告",
+          "簡報"
+        ],
+        [
+          "新聞快報"
+        ]
+      ],
+      "analysis": "此字為名詞，源自義大利語 bollettino（小票據、官方公文）。原指官方發布的短小正式報告或新聞快報，現代多指佈告欄中的公告或機關學校的定期簡訊。",
+      "definition": "1. a short official statement or broadcast news report on a matter of public interest; 2. a regular newsletter or notice published by an organization.",
+      "example": [
+        {
+          "eng": "The hospital released a new medical bulletin regarding the president's health.",
+          "ch": "醫院發布了關於總統健康狀況的最新醫療簡報。"
+        },
+        {
+          "eng": "Please check the school bulletin board for the examination schedule.",
+          "ch": "請查看學校公告欄以了解考試日程。"
+        }
+      ]
+    },
+    {
+      "eng": "burglar",
+      "kk": "/ˈbɜːrɡlər/",
+      "tense": "n.",
+      "ch": [
+        [
+          "竊賊",
+          "夜賊"
+        ]
+      ],
+      "analysis": "此字為名詞，源自盎格魯-拉丁語 burgator，由日耳曼語源的 burg（城堡、城鎮、房屋）加上表示人的字尾組合而成，原指破門入室行竊的江洋大盜或夜賊。",
+      "definition": "1. a person who commits burglary by illegally entering a building with the intent to steal.",
+      "example": [
+        {
+          "eng": "The burglar broke into the jewelry store through the back window.",
+          "ch": "小偷從後窗破門闖入珠寶店。"
+        }
+      ]
+    },
+    {
+      "eng": "cabinet",
+      "kk": "/ˈkæbɪnət/",
+      "tense": "n.",
+      "ch": [
+        [
+          "櫥櫃",
+          "陳列櫃"
+        ],
+        [
+          "內閣"
+        ]
+      ],
+      "analysis": "此字為名詞，源自義大利語 gabinetto（小房間）。原指存放珍貴物品的小房間，後演變為放器皿或檔案的「櫥櫃」；政治上則由「國王與謀臣密商的小房間」引申為政府的「內閣」。",
+      "definition": "1. a piece of furniture with shelves and doors used for storing or displaying items; 2. a group of senior ministers chosen by the head of government to advise on policy.",
+      "example": [
+        {
+          "eng": "She stored her fine china plates inside the wooden kitchen cabinet.",
+          "ch": "她把精美的瓷盤收納在木製廚房櫥櫃裡。"
+        },
+        {
+          "eng": "The prime minister called an emergency meeting of the cabinet.",
+          "ch": "總理召開了內閣緊急會議。"
+        }
+      ]
+    },
+    {
+      "eng": "calculate",
+      "kk": "/ˈkælkjuleɪt/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "計算",
+          "核算"
+        ],
+        [
+          "預測",
+          "推算"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自拉丁語 calculatus（過去分詞，意為用小石子計算），由 calculus（小石子）加上動詞字尾 -ate 構詞而成。現代指運用數學或邏輯進行精確計算，或引申推測某種結果。",
+      "definition": "1. to determine a mathematical sum, figure, or amount by careful reasoning or using a tool; 2. to estimate or ascertain something beforehand by judgment.",
+      "example": [
+        {
+          "eng": "It takes seconds for the computer to calculate the complex math problem.",
+          "ch": "電腦只需要幾秒鐘就能計算出這個複雜的數學題。"
+        },
+        {
+          "eng": "Experts tried to calculate the total economic cost of the disaster.",
+          "ch": "專家們試圖推算這場災難的整體經濟成本。"
+        }
+      ]
+    },
+    {
+      "eng": "calculation",
+      "kk": "/ˌkælkjuˈleɪʃn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "計算",
+          "核算"
+        ],
+        [
+          "深思熟慮",
+          "盤算"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 calculate 加上名詞化字尾 -ion 構詞而成。指數學或數據的計算過程，亦可抽象指事前精明的盤算或策略考量。",
+      "definition": "1. the mathematical process of determining something; 2. careful assessment or planning of actions and their consequences.",
+      "example": [
+        {
+          "eng": "According to my calculations, we should arrive before sunset.",
+          "ch": "根據我的計算，我們應該會在日落前抵達。"
+        },
+        {
+          "eng": "His decision to resign was a matter of political calculation.",
+          "ch": "他辭職的決定是一場政治盤算。"
+        }
+      ]
+    },
+    {
+      "eng": "calorie",
+      "kk": "/ˈkæləri/",
+      "tense": "n.",
+      "ch": [
+        [
+          "卡路里",
+          "熱量單位"
+        ]
+      ],
+      "analysis": "此字為名詞，源自法語 calorie，最終源自拉丁語 calor（熱量、高溫）。在物理學與營養學中，用來表示食物所含能量的單位。",
+      "definition": "1. a unit of energy used to measure the amount of energy food provides to the body.",
+      "example": [
+        {
+          "eng": "An apple contains fewer calories than a slice of chocolate cake.",
+          "ch": "一顆蘋果所含的熱量比一片巧克力蛋糕少。"
+        }
+      ]
+    },
+    {
+      "eng": "campaign",
+      "kk": "/kæmˈpeɪn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "競選活動",
+          "社會運動"
+        ],
+        [
+          "軍事行動",
+          "戰役"
+        ]
+      ],
+      "analysis": "此字為名詞，源自拉丁語 campania（平原地區，因古代軍隊多在平原紮營作戰而得名）。歷史上指軍事戰役，現代則普遍指為了達成特定政治、商業或社會目標而展開的有組織活動。",
+      "definition": "1. a planned set of activities intended to achieve a social, political, or commercial goal; 2. a series of military operations intended to achieve a specific objective in a war.",
+      "example": [
+        {
+          "eng": "The mayoral candidate launched his election campaign with a public speech.",
+          "ch": "市長候選人以一場公開演講拉開了競選活動的序幕。"
+        },
+        {
+          "eng": "The winter military campaign proved exhausting for the troops.",
+          "ch": "冬季軍事行動讓部隊精疲力竭。"
+        }
+      ]
+    },
+    {
+      "eng": "campaign",
+      "kk": "/kæmˈpeɪn/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "發起運動",
+          "從事競選"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，由名詞 campaign 轉用而來，指參與或領導政治競選、社會抗爭等組織性活動，常與介詞 for 或 against 搭配。",
+      "definition": "1. to work in an organized and active way toward a particular goal, especially a political or social one.",
+      "example": [
+        {
+          "eng": "Activists are campaigning for stricter laws against environmental pollution.",
+          "ch": "活動人士正在發起運動，爭取制定更嚴格的環境汙染防治法。"
+        }
+      ]
+    },
+    {
+      "eng": "candidate",
+      "kk": "/ˈkændɪdeɪt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "候選人",
+          "參選人"
+        ],
+        [
+          "求職者",
+          "應徵者"
+        ]
+      ],
+      "analysis": "此字為名詞，源自拉丁語 candidatus（穿白袍的人，古羅馬競選公職者需穿白色長袍以示清白）。現代泛指所有競選職位、申請入學或應徵工作的人選。",
+      "definition": "1. a person who applies for a job or is nominated for an election; 2. a person running for public office.",
+      "example": [
+        {
+          "eng": "The interview panel evaluated each job candidate based on their practical experience.",
+          "ch": "面試小組根據實務經驗評估了每一位求職者。"
+        },
+        {
+          "eng": "There are three major candidates running for president this year.",
+          "ch": "今年有三位主要候選人競選總統。"
+        }
+      ]
+    },
+    {
+      "eng": "cane",
+      "kk": "/keɪn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "手杖",
+          "拐杖"
+        ],
+        [
+          "莖",
+          "植物莖幹"
+        ]
+      ],
+      "analysis": "此字為名詞，源自希臘語 kanna，經拉丁語與法語演變而來。本義指蘆葦或竹子等植物堅韌的莖，引申為供老人或傷者行走的「手杖」，亦可用於指甘蔗等植物莖幹。",
+      "definition": "1. a short stick or staff used to help someone walk; 2. the hollow, jointed stem of a tall grass, such as bamboo, sugar, or rattan.",
+      "example": [
+        {
+          "eng": "The elderly man walks steadily with the help of a wooden cane.",
+          "ch": "這位老先生靠著一根木製拐杖穩步前行。"
+        },
+        {
+          "eng": "Sugar cane is harvested extensively in tropical regions.",
+          "ch": "甘蔗在熱帶地區被廣泛收割。"
+        }
+      ]
+    },
+    {
+      "eng": "canoe",
+      "kk": "/kəˈnuː/",
+      "tense": "n.",
+      "ch": [
+        [
+          "獨木舟",
+          "輕艇"
+        ]
+      ],
+      "analysis": "此字為名詞，透過加勒比海原住民語言（Carib）經西班牙語 canoa 進入英語。專指一種狹長、兩端尖細、需用槳劃動的小型輕便船隻。",
+      "definition": "1. a narrow, lightweight boat pointed at both ends, propelled with a paddle by one or more people.",
+      "example": [
+        {
+          "eng": "They paddled their canoe slowly across the calm alpine lake.",
+          "ch": "他們劃著獨木舟緩緩橫渡平靜的高山湖泊。"
+        }
+      ]
+    },
+    {
+      "eng": "capacity",
+      "kk": "/kəˈpæsəti/",
+      "tense": "n.",
+      "ch": [
+        [
+          "容量",
+          "容積"
+        ],
+        [
+          "能力",
+          "才能"
+        ],
+        [
+          "身分",
+          "職位"
+        ]
+      ],
+      "analysis": "此字為名詞，源自拉丁語 capacitas，由 capax（能容納的）加上名詞字尾 -ity 構詞而成。歷史上由容器能裝載多少東西的「容量」，抽象延伸出人類心智或機構的「能力」，以及個人擔任某職務的「身分」。",
+      "definition": "1. the maximum amount that something can contain or produce; 2. the ability or power to do, experience, or understand something; 3. a specified role, position, or official function.",
+      "example": [
+        {
+          "eng": "The stadium reached its full seating capacity for the championship final.",
+          "ch": "這座體育場在冠軍決賽時座無虛席，達到最大容納量。"
+        },
+        {
+          "eng": "She has an extraordinary capacity for learning foreign languages quickly.",
+          "ch": "她具有快速學習外語的非凡能力。"
+        },
+        {
+          "eng": "He attended the meeting in his capacity as a legal advisor.",
+          "ch": "他以法律顧問的身分出席了會議。"
+        }
+      ]
+    },
+    {
+      "eng": "capital",
+      "kk": "/ˈkæpɪtl/",
+      "tense": "n.",
+      "ch": [
+        [
+          "首都",
+          "省會"
+        ],
+        [
+          "資本",
+          "資金"
+        ],
+        [
+          "大寫字母"
+        ]
+      ],
+      "analysis": "此字為名詞，源自拉丁語 capitalis（頭部的、主要的），由 caput（頭）衍生而來。古時指「最重要的城市」（首都），中世紀商業發展後衍生出商業「資本」，在排版上則指「大寫字母」。",
+      "definition": "1. the most important city or town of a country or region, usually its seat of government; 2. wealth in the form of money or other assets owned by a person or organization; 3. a capital letter.",
+      "example": [
+        {
+          "eng": "Tokyo is the bustling capital of Japan.",
+          "ch": "東京是日本繁華的首都。"
+        },
+        {
+          "eng": "The startup company requires more venture capital to expand its business.",
+          "ch": "這家新創公司需要更多的創業資本來擴展業務。"
+        },
+        {
+          "eng": "Always begin a sentence with a capital letter.",
+          "ch": "句子開頭永遠要用大寫字母。"
+        }
+      ]
+    },
+    {
+      "eng": "capital",
+      "kk": "/ˈkæpɪtl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "首要的",
+          "重大的"
+        ],
+        [
+          "死刑的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自拉丁語 capitalis（源於 caput 頭部），表示「頭等重要」的事物，或在法律用語中指涉及生命的重罪。",
+      "definition": "1. most important, primary, or excellent; 2. involving or punishable by death.",
+      "example": [
+        {
+          "eng": "Making a mistake on safety procedures is a capital error.",
+          "ch": "在安全程序上犯錯是重大的錯誤。"
+        },
+        {
+          "eng": "Some countries still retain capital punishment for heinous crimes.",
+          "ch": "有些國家對滔天大罪仍保留死刑。"
+        }
+      ]
+    },
+    {
+      "eng": "capitalism",
+      "kk": "/ˈkæpɪtəlɪzəm/",
+      "tense": "n.",
+      "ch": [
+        [
+          "資本主義"
+        ]
+      ],
+      "analysis": "此字為名詞，由 capital（資本）加上抽象名詞與制度字尾 -ism 組合而成。指一種以私人企業、市場競爭、資本累積與自由市場機制為核心的經濟體系。",
+      "definition": "1. an economic and political system in which a country's trade and industry are controlled by private owners for profit, rather than by the state.",
+      "example": [
+        {
+          "eng": "Modern capitalism relies heavily on consumer spending and global markets.",
+          "ch": "現代資本主義高度依賴消費支出與全球市場。"
+        }
+      ]
+    },
+    {
+      "eng": "capitalist",
+      "kk": "/ˈkæpɪtəlɪst/",
+      "tense": "n.",
+      "ch": [
+        [
+          "資本家",
+          "富商"
+        ]
+      ],
+      "analysis": "此字為名詞，由 capital（資本）加上表人的名詞字尾 -ist 構詞而成。指擁大量資本、投資企業並藉此獲利的富商或資本主義制度下的財閥。",
+      "definition": "1. a wealthy person who uses money to invest in trade and industry for profit in a capitalist system.",
+      "example": [
+        {
+          "eng": "Early 20th-century capitalists funded the rapid industrialization of the nation.",
+          "ch": "20世紀初期的資本家資助了該國的快速工業化。"
+        }
+      ]
+    },
+    {
+      "eng": "cargo",
+      "kk": "/ˈkɑːrɡoʊ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "貨物",
+          "船貨"
+        ]
+      ],
+      "analysis": "此字為名詞，源自西班牙語 carga（負載、擔子）。專門指透過船隻、飛機或大型卡車等交通工具長途運送的商業貨物。",
+      "definition": "1. goods carried on a ship, aircraft, or large vehicle.",
+      "example": [
+        {
+          "eng": "The cargo ship safely unloaded containers at the bustling port.",
+          "ch": "貨輪在繁忙的港口安全卸下了貨櫃。"
+        }
+      ]
+    },
+    {
+      "eng": "carrier",
+      "kk": "/ˈkæriər/",
+      "tense": "n.",
+      "ch": [
+        [
+          "運輸公司",
+          "貨運商"
+        ],
+        [
+          "航空母艦"
+        ],
+        [
+          "帶原者",
+          "載體"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 carry（搬運）加上表人的名詞字尾 -er 構詞而成。本義指搬運者或運輸工具，引申為物流公司、軍事上的航空母艦，以及醫學上的疾病「帶原者」。",
+      "definition": "1. a company that transports goods or passengers; 2. a warship that serves as a seagoing airbase (aircraft carrier); 3. a person or animal that transmits a disease without suffering from it.",
+      "example": [
+        {
+          "eng": "Several international air carriers cancelled flights due to the typhoon.",
+          "ch": "幾家國際航空公司因颱風取消了航班。"
+        },
+        {
+          "eng": "Mosquitoes act as carriers for several dangerous tropical diseases.",
+          "ch": "蚊子是幾種危險熱帶疾病的帶原者。"
+        }
+      ]
+    },
+    {
+      "eng": "carve",
+      "kk": "/kɑːrv/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "雕刻",
+          "雕琢"
+        ],
+        [
+          "切（肉等）"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自古英語 ceorfan（切、割）。歷史上由用利刃切割或削刻木石，演變為藝術雕刻，或在餐桌上將烤肉切片分享的及物動作。",
+      "definition": "1. to cut an object or material in order to form an artistic shape or design; 2. to slice cooked meat into pieces.",
+      "example": [
+        {
+          "eng": "The artisan spent weeks carving intricate patterns into the piece of wood.",
+          "ch": "這位工匠花了好幾個禮拜在木頭上雕刻精緻的圖案。"
+        },
+        {
+          "eng": "He used a sharp knife to carve the roasted turkey for Thanksgiving dinner.",
+          "ch": "他用一把利刀為感恩節晚餐切開烤火雞。"
+        }
+      ]
+    },
+    {
+      "eng": "catalogue",
+      "kk": "/ˈkætəlɔːɡ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "目錄",
+          "商品型錄"
+        ]
+      ],
+      "analysis": "此字為名詞，源自希臘語 katalogos（名冊、清單），由 kata-（向下）加 logos（言說、清單）構詞而成。指有系統排列的商品清單、圖書館藏書目錄或藝術品展覽圖錄。",
+      "definition": "1. a complete list of items, such as goods for sale, books in a library, or exhibits in a museum, typically arranged systematically.",
+      "example": [
+        {
+          "eng": "She browsed through the online clothing catalogue to find a new winter coat.",
+          "ch": "她瀏覽線上服飾目錄以尋找一件新的冬衣。"
+        }
+      ]
+    },
+    {
+      "eng": "category",
+      "kk": "/ˈkætəɡɔːri/",
+      "tense": "n.",
+      "ch": [
+        [
+          "類別",
+          "種類"
+        ]
+      ],
+      "analysis": "此字為名詞，源自希臘語 kategoria（指控、斷言、分類）。經拉丁語與法語進入英語，現代演變為根據共同特徵劃分的「類別」或「範疇」。",
+      "definition": "1. a class or division of people or things regarded as having particular shared characteristics.",
+      "example": [
+        {
+          "eng": "Books in the library are organized strictly by genre and category.",
+          "ch": "圖書館裏的書是嚴格按照流派和類別來分類的。"
+        }
+      ]
+    },
+    {
+      "eng": "cease",
+      "kk": "/siːs/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "停止",
+          "終止（做某事）"
+        ]
+      ],
+      "analysis": "此字為及物動詞，直接接名詞、動名詞或不定詞作為受詞，表示主動停止某項正在進行的行動或敵對狀態。",
+      "definition": "1. to stop doing something or to cause an activity to end.",
+      "example": [
+        {
+          "eng": "Both conflicting nations agreed to cease hostilities immediately.",
+          "ch": "交戰雙方同意立即停止敵對行動。"
+        }
+      ]
+    },
+    {
+      "eng": "cease",
+      "kk": "/siːs/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "停止",
+          "終止"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，源自古法語 cesser，最終源自拉丁語 cessare（暫停、退讓）。用來表示某種動作、聲音或狀態的自然停止或終止，常帶有正式文體色彩。",
+      "definition": "1. to bring or come to an end; to stop.",
+      "example": [
+        {
+          "eng": "The heavy rain finally began to cease by late afternoon.",
+          "ch": "大雨終於在傍晚時分開始停止。"
+        }
+      ]
+    },
+    {
+      "eng": "celebration",
+      "kk": "/ˌseləˈbreɪʃn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "慶祝",
+          "慶典"
+        ],
+        [
+          "讚頌",
+          "頌揚"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 celebrate 加上名詞化字尾 -ion 構詞而成，源自拉丁語 celebratio。指為了紀念重大節日、生日或成就而舉行的歡慶活動，或對某種價值或人物的公開讚頌。",
+      "definition": "1. the action of marking a joyful event or occasion with festivities; 2. a social gathering or organized event celebrating something.",
+      "example": [
+        {
+          "eng": "The city held a grand New Year's Eve celebration in the central square.",
+          "ch": "這座城市在中央廣場舉行了盛大的跨年慶祝活動。"
+        },
+        {
+          "eng": "The poetry festival is a celebration of local literary talent.",
+          "ch": "這個詩歌節是對當地文學才華的一場讚頌。"
+        }
+      ]
+    },
+    {
+      "eng": "chamber",
+      "kk": "/ˈtʃeɪmbər/",
+      "tense": "n.",
+      "ch": [
+        [
+          "房間",
+          "臥室"
+        ],
+        [
+          "會場",
+          "議事廳"
+        ],
+        [
+          "腔室",
+          "密室"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古法語 chambre，最終源自拉丁語 camera（房間、拱頂）。歷史上指私人的房間或臥室，後引申為政府的議事廳、商業總會，或生物體及機械內部的密閉「腔室」。",
+      "definition": "1. a private room, especially a bedroom; 2. a hall used for formal meetings of a legislative or judicial body; 3. an enclosed space or compartment inside the body or a machine.",
+      "example": [
+        {
+          "eng": "The king retired to his private royal chamber to rest.",
+          "ch": "國王退回他私人的皇家寢宮休息。"
+        },
+        {
+          "eng": "Senators debated the new bill inside the main legislative chamber.",
+          "ch": "參議員們在主要議事廳內辯論這項新法案。"
+        },
+        {
+          "eng": "The human heart is divided into four distinct chambers.",
+          "ch": "人體的心臟分為四個不同的腔室。"
+        }
+      ]
+    },
+    {
+      "eng": "championship",
+      "kk": "/ˈtʃæmpiənʃɪp/",
+      "tense": "n.",
+      "ch": [
+        [
+          "錦標賽",
+          "冠軍賽"
+        ],
+        [
+          "冠軍頭銜",
+          "寶座"
+        ]
+      ],
+      "analysis": "此字為名詞，由 champion（冠軍）加上表示身分與狀態的字尾 -ship 構詞而成。指爭奪最高榮譽的運動錦標賽，或指贏得的冠軍頭銜本身。",
+      "definition": "1. a contest held to determine the champion in a sport or game; 2. the position or title of being a champion.",
+      "example": [
+        {
+          "eng": "Thousands of fans cheered as their team won the national baseball championship.",
+          "ch": "當他們的球隊贏得全國棒球錦標賽時，數千名球迷歡呼雀躍。"
+        },
+        {
+          "eng": "She successfully defended her world boxing championship title last night.",
+          "ch": "她昨晚成功衛冕了她的世界拳擊冠軍頭銜。"
+        }
+      ]
+    },
+    {
+      "eng": "characteristic",
+      "kk": "/ˌkærəktəˈrɪstɪk/",
+      "tense": "n.",
+      "ch": [
+        [
+          "特徵",
+          "特性"
+        ]
+      ],
+      "analysis": "此字為名詞，由 characteristic 形容詞轉用而來，指人、動物或事物所具備的顯著標記、典型屬性或獨特性質。",
+      "definition": "1. a feature or quality belonging typically to a person, place, or thing and serving to identify them.",
+      "example": [
+        {
+          "eng": "Curiosity is a defining characteristic of a good scientist.",
+          "ch": "好奇心是優秀科學家的一項決定性特徵。"
+        }
+      ]
+    },
+    {
+      "eng": "characteristic",
+      "kk": "/ˌkærəktəˈrɪstɪk/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "特有的",
+          "典型的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自希臘語 charakter（刻痕、特徵）衍生而來的形容詞，用來形容某人或某物所表現出的一貫、獨特且符合其本質的典型特徵。",
+      "definition": "1. typical of a particular person, place, or thing; belonging to the essential nature of something.",
+      "example": [
+        {
+          "eng": "He smiled with his characteristic warmth and friendliness.",
+          "ch": "他露出了他那特有的溫暖與友善微笑。"
+        }
+      ]
+    },
+    {
+      "eng": "charity",
+      "kk": "/ˈtʃærəti/",
+      "tense": "n.",
+      "ch": [
+        [
+          "慈善機構",
+          "慈善團體"
+        ],
+        [
+          "慈善",
+          "救濟金"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古法語 charité，最終源自拉丁語 caritas（愛、博愛），由 carus（親愛的）衍生而來。後演變為救濟窮人的「慈善事業」或註冊的「慈善機構」。",
+      "definition": "1. an organization set up to provide help and raise money for those in need; 2. generous actions or donations given to help the poor or homeless.",
+      "example": [
+        {
+          "eng": "She donates a portion of her monthly salary to local children's charities.",
+          "ch": "她每個月將部分薪水捐給當地的兒童慈善機構。"
+        },
+        {
+          "eng": "The food bank relies entirely on public charity to feed the hungry.",
+          "ch": "這家食物銀行完全依靠大眾的慈善捐助來餵飽飢餓的人。"
+        }
+      ]
+    },
+    {
+      "eng": "chemistry",
+      "kk": "/ˈkemɪstri/",
+      "tense": "n.",
+      "ch": [
+        [
+          "化學"
+        ],
+        [
+          "（人與人之間的）化學反應",
+          "默契"
+        ]
+      ],
+      "analysis": "此字為名詞，源自中古英語 alchemye（煉金術，源自阿拉伯語 al-kīmiyāʾ，追溯至希臘語），去掉字首後演變為化學。除了指自然科學的「化學」學科外，現代廣泛引申指人與人之間微妙的吸引力或相處默契。",
+      "definition": "1. the branch of science that studies the composition, structure, properties, and reactions of matter; 2. the complex emotional or psychological interaction between people.",
+      "example": [
+        {
+          "eng": "Students are conducting an experiment in the school chemistry laboratory.",
+          "ch": "學生們正在學校的化學實驗室裡做實驗。"
+        },
+        {
+          "eng": "The two actors had wonderful chemistry on screen, making the romance believable.",
+          "ch": "兩位演員在銀幕上展現了絕佳的化學反應，讓這段浪漫情愫十分真實。"
+        }
+      ]
+    },
+    {
+      "eng": "cherish",
+      "kk": "/ˈtʃerɪʃ/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "珍愛",
+          "愛護"
+        ],
+        [
+          "懷有（希望、記憶等）"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自古法語 chierir（使親愛），由 cher（親愛的）衍生而來。用來表示對人、感情、回憶的深切疼愛與珍視，或心裡懷抱著美好的希望與夢想。",
+      "definition": "1. to protect and care for someone or something lovingly; 2. to keep hopes, memories, or ideals warm and alive in one's mind.",
+      "example": [
+        {
+          "eng": "Parents always cherish the precious moments spent with their growing children.",
+          "ch": "父母總是珍愛與日益長大的孩子們度過的寶貴時光。"
+        },
+        {
+          "eng": "She will always cherish the memory of her late grandparents.",
+          "ch": "她將永遠懷念並珍藏她已故祖父母的記憶。"
+        }
+      ]
+    },
+    {
+      "eng": "chew",
+      "kk": "/tʃuː/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "咀嚼",
+          "咬碎"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自古英語 cēowan（咀嚼）。指使用牙齒將食物磨碎以便吞嚥，為及物動詞，直接接食物或其他物品作受詞。",
+      "definition": "1. to bite food repeatedly with the teeth in order to make it easier to swallow.",
+      "example": [
+        {
+          "eng": "It is important to chew your food thoroughly before swallowing it.",
+          "ch": "吞嚥前將食物徹底咀嚼是很重要的。"
+        }
+      ]
+    },
+    {
+      "eng": "chew",
+      "kk": "/tʃuː/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "咀嚼",
+          "嚼東西"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，為 chew 的自動詞用法，專注於動作本身（如 chew on something 嚼著某物），不強調特定的受詞直接承受。",
+      "definition": "1. to use one's teeth to bite food or an object continuously.",
+      "example": [
+        {
+          "eng": "The puppy loves to chew on old leather shoes.",
+          "ch": "這隻小狗喜歡咬舊皮鞋。"
+        }
+      ]
+    },
+    {
+      "eng": "choke",
+      "kk": "/tʃoʊk/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使窒息",
+          "掐住...的脖子"
+        ],
+        [
+          "阻塞",
+          "塞滿"
+        ]
+      ],
+      "analysis": "此字為及物動詞，直接以受詞承受掐脖子致窒息的動作，或引申用來形容雜草「扼殺」植物生長，以及交通擁擠「堵塞」道路。",
+      "definition": "1. to cause someone to breathe with difficulty or die by cutting off their supply of air; 2. to fill or block a passage or space so that movement is difficult.",
+      "example": [
+        {
+          "eng": "Thick smoke from the forest fire began to choke the residents.",
+          "ch": "森林大火產生的濃煙開始讓居民感到窒息。"
+        },
+        {
+          "eng": "Heavy traffic accidents often choke the city's main highways during rush hour.",
+          "ch": "嚴重的交通事故經常在尖峰時刻堵塞該市的主要高速公路。"
+        }
+      ]
+    },
+    {
+      "eng": "choke",
+      "kk": "/tʃoʊk/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "噎住",
+          "窒息"
+        ],
+        [
+          "（因情緒激動而）說不出話"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，源自古英語 ā-čeocian（噎住、堵塞）。指呼吸道被異物阻塞導致呼吸困難，或引申為人在極度悲傷、憤怒或緊張時喉嚨哽咽、說不出話的自動詞狀態。",
+      "definition": "1. to have severe difficulty in breathing because of a constricted or obstructed throat; 2. to be unable to speak because of strong emotion.",
+      "example": [
+        {
+          "eng": "He began to choke on a small fishbone during dinner.",
+          "ch": "他在晚餐時吃魚不小心被小魚刺噎到了。"
+        },
+        {
+          "eng": "She choked with emotion as she tried to thank her parents.",
+          "ch": "當她試著向父母道謝時，激動得哽咽得說不出話來。"
+        }
+      ]
+    },
+    {
+      "eng": "chorus",
+      "kk": "/ˈkɔːrəs/",
+      "tense": "n.",
+      "ch": [
+        [
+          "合唱團",
+          "唱詩班"
+        ],
+        [
+          "副歌",
+          "合唱段落"
+        ],
+        [
+          "異口同聲的話",
+          "齊聲喧嘩"
+        ]
+      ],
+      "analysis": "此字為名詞，源自希臘語 khoros（古希臘戲劇中的歌舞隊）。歷史上指歌舞隊，演變為現代的「合唱團」、流行歌曲中的「副歌」，以及引申眾人「異口同聲」的議論。",
+      "definition": "1. a large organized group of singers; 2. a part of a song that is repeated after each verse (refrain); 3. a simultaneous utterance of something by many people.",
+      "example": [
+        {
+          "eng": "The school chorus performed a beautiful Christmas medley.",
+          "ch": "學校合唱團演唱了一曲優美的聖誕組曲。"
+        },
+        {
+          "eng": "Everyone knows the catchy lyrics of the song's chorus.",
+          "ch": "大家都知道這首歌副歌部分那首旋律朗朗上口的歌詞。"
+        },
+        {
+          "eng": "The announcement was met with a chorus of disapproval from the audience.",
+          "ch": "這項公告一出，引起了觀眾席上一片異口同聲的抗議與反對。"
+        }
+      ]
+    },
+    {
+      "eng": "circular",
+      "kk": "/ˈsɜːrkjələr/",
+      "tense": "n.",
+      "ch": [
+        [
+          "傳單",
+          "通告"
+        ],
+        [
+          "廣告信函"
+        ]
+      ],
+      "analysis": "此字為名詞，由 circular 形容詞轉化而來，指派發給大眾的商業傳單或機關內部的通告信函。",
+      "definition": "1. a letter or advertisement printed in a large quantity and distributed to many people.",
+      "example": [
+        {
+          "eng": "She found a grocery store promotional circular in her mailbox.",
+          "ch": "她在信箱裡發現了一張雜貨店的促銷傳單。"
+        }
+      ]
+    },
+    {
+      "eng": "circular",
+      "kk": "/ˈsɜːrkjələr/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "圓形的",
+          "環形的"
+        ],
+        [
+          "循環的",
+          "周而復始的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自拉丁語 circularis，由 circulus（小圓圈）加上形容詞字尾 -ar 構詞而成。指幾何上的圓形，或邏輯與過程中首尾相接、不斷循環的狀態。",
+      "definition": "1. having the shape of a circle; round; 2. moving in a circle or cycle; winding back to the starting point.",
+      "example": [
+        {
+          "eng": "The children sat in a circular formation on the rug.",
+          "ch": "孩子們在地毯上圍成一個圓形坐著。"
+        },
+        {
+          "eng": "His argument relied on a circular reasoning that proved nothing.",
+          "ch": "他的論點依賴了一種循環論證，什麼也沒證明。"
+        }
+      ]
+    },
+    {
+      "eng": "circulate",
+      "kk": "/ˈsɜːrkjuleɪt/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "發布",
+          "分發（資訊或物品）"
+        ]
+      ],
+      "analysis": "此字為及物動詞，由 circulate 的自動詞引申而來，帶有主動發放、傳閱文件或散布訊息的及物用法。",
+      "definition": "1. to cause goods, information, or money to pass from person to person or place to place.",
+      "example": [
+        {
+          "eng": "The manager decided to circulate the meeting minutes to all department heads.",
+          "ch": "經理決定將會議記錄發布並傳閱給所有部門主管。"
+        }
+      ]
+    },
+    {
+      "eng": "circulate",
+      "kk": "/ˈsɜːrkjuleɪt/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "循環",
+          "流通"
+        ],
+        [
+          "流傳",
+          "散布"
+        ],
+        [
+          "社交",
+          "來往交際"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，源自拉丁語 circulatus（繞圈子運動），由 circulus 衍生而來。指液體或氣體在系統中「循環」、消息在人群間「流傳」，或人在宴會中四處走動「社交交際」。",
+      "definition": "1. to move continuously around a closed system or area; 2. (of news or information) to spread from person to person; 3. to move around a room at a party to talk to different people.",
+      "example": [
+        {
+          "eng": "Blood circulates through the human body via the heart and blood vessels.",
+          "ch": "血液透過心臟和血管在人體內循環。"
+        },
+        {
+          "eng": "Rumors about the company's merger began to circulate among the employees.",
+          "ch": "有關公司合併的謠言開始在員工之間流傳。"
+        },
+        {
+          "eng": "The host made an effort to circulate among all the guests at the reception.",
+          "ch": "主人努力在招待會的眾多賓客間四處交際走動。"
+        }
+      ]
+    },
+    {
+      "eng": "circulation",
+      "kk": "/ˌsɜːrkjuˈleɪʃn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "（血液等體液的）循環",
+          "流通"
+        ],
+        [
+          "（報章雜誌的）發行量",
+          "銷路"
+        ],
+        [
+          "（貨幣等的）流通使用"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 circulate 加上名詞化字尾 -ion 構詞而成。指生理血液循環、紙鈔與硬幣的市場流通，或報刊雜誌的定期發行與銷售數量。",
+      "definition": "1. the movement of blood through the body, or the continuous movement of air or water; 2. the public issuance, sale, or distribution of books, newspapers, or currency; 3. the total number of copies of a newspaper or magazine that are published and sold.",
+      "example": [
+        {
+          "eng": "Regular physical exercise helps to improve blood circulation.",
+          "ch": "規律的體育運動有助於改善血液循環。"
+        },
+        {
+          "eng": "The central bank introduced a new series of coins into general circulation.",
+          "ch": "中央銀行發行了一系列新硬幣投入市場流通。"
+        },
+        {
+          "eng": "The daily newspaper boasts the highest circulation in the region.",
+          "ch": "這家日報擁有該地區最高的發行量。"
+        }
+      ]
+    },
+    {
+      "eng": "circumstance",
+      "kk": "/ˈsɜːrkəmstæns/",
+      "tense": "n.",
+      "ch": [
+        [
+          "情況",
+          "環境"
+        ],
+        [
+          "境遇",
+          "經濟狀況"
+        ]
+      ],
+      "analysis": "此字為名詞，源自拉丁語 circumstantia，由 circum-（周圍）加 stantia（站立，源自 stare）構詞而成，字面義即「站在周圍的事物」。引申指環繞某個事件的客觀「情況」、「環境」，或個人所處的經濟「境遇」。",
+      "definition": "1. a condition, fact, or event connected with and affecting an action or event; 2. a person's material state of financial well-being (often plural).",
+      "example": [
+        {
+          "eng": "Due to unforeseen circumstances, the outdoor concert had to be cancelled.",
+          "ch": "由於無法預見的情況，戶外音樂會被迫取消。"
+        },
+        {
+          "eng": "Despite their difficult financial circumstances, they managed to send their children to college.",
+          "ch": "儘管面臨艱難的經濟境遇，他們還是設法送孩子上了大學。"
+        }
+      ]
+    }
+  ]
+}

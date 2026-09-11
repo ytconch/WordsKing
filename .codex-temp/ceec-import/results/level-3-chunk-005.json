@@ -1,0 +1,1535 @@
+{
+  "level": 3,
+  "chunkIndex": 5,
+  "inputs": [
+    "countable",
+    "county",
+    "crab",
+    "cradle",
+    "crane",
+    "crash",
+    "crawl",
+    "creative",
+    "creator",
+    "creature",
+    "credit",
+    "crew",
+    "cricket",
+    "criminal",
+    "crispy",
+    "crop",
+    "crown",
+    "cruel",
+    "cupboard",
+    "dairy",
+    "dam",
+    "dare",
+    "darling",
+    "dash",
+    "database",
+    "dawn",
+    "dealer",
+    "decade",
+    "deck",
+    "decorate",
+    "decrease",
+    "deed",
+    "deepen",
+    "definition",
+    "democracy",
+    "democratic",
+    "deposit",
+    "designer",
+    "desirable",
+    "desire",
+    "dessert",
+    "destroy",
+    "detect",
+    "determine",
+    "devil",
+    "dim",
+    "dime",
+    "dine",
+    "dinosaur",
+    "dip"
+  ],
+  "rows": [
+    {
+      "eng": "countable",
+      "kk": "ˈkaʊntəbl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "可數的",
+          "可計算的"
+        ],
+        [
+          "有價值的",
+          "重要值得計入的"
+        ]
+      ],
+      "analysis": "此字由動詞 count 加上形容詞字尾 -able（表示「可……的」、「具備……能力的」）構成，現代透明構詞。歷史上 count 源自拉丁語 computare（計算），經由古法語 cunter 進入英語。語意從「能夠被數數的」具體概念，延伸至文法學中的「可數名詞」，以及比喻意義上的「重要或值得計算的」。",
+      "definition": "1. capable of being counted or measured; 2. (of a noun) that can be expressed as a plural or used with numbers.",
+      "example": [
+        {
+          "eng": "There are only a countable number of tickets left for the concert.",
+          "ch": "演唱會只剩下少數幾張可數的票。"
+        },
+        {
+          "eng": "In English, 'apple' is a countable noun, while 'water' is not.",
+          "ch": "在英語中，「蘋果」是可數名詞，而「水」則不是。"
+        }
+      ]
+    },
+    {
+      "eng": "county",
+      "kk": "ˈkaʊnti",
+      "tense": "n.",
+      "ch": [
+        [
+          "郡",
+          "縣"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自古法語 contee（意即領地、伯爵的轄區），最終源自拉丁語 comitatus（伴隨、隨從，後引申為伯爵的封地），由 comes（伯爵、同伴）衍生而來。進入中古英語後演變為 county，在行政區劃上指大於市鎮、小於州或省的區域。",
+      "definition": "1. a territorial division of a state or country for local administration.",
+      "example": [
+        {
+          "eng": "He was elected as the sheriff of the county.",
+          "ch": "他被選為該郡的警長。"
+        }
+      ]
+    },
+    {
+      "eng": "crab",
+      "kk": "kræb",
+      "tense": "n.",
+      "ch": [
+        [
+          "螃蟹"
+        ],
+        [
+          "脾氣壞的人",
+          "抱怨者"
+        ]
+      ],
+      "analysis": "此字為日耳曼語族繼承詞，源自古英語 crabba，與古諾斯語 krabbi 同源，本義指這種有著十隻腳和硬殼的甲殼類動物。因其橫著走路及夾人的特性，中古時期開始衍生出比喻義，用來形容性情乖戾、愛發牢騷或脾氣暴躁的人。",
+      "definition": "1. a sea creature with a flat round body, eight legs, and two pincers; 2. an easily annoyed or grumbling person.",
+      "example": [
+        {
+          "eng": "We caught several small crabs near the rocky shore.",
+          "ch": "我們在岩石海岸附近抓到了幾隻小螃蟹。"
+        },
+        {
+          "eng": "Don't be such an old crab this morning!",
+          "ch": "今天早上別當個愛抱怨的怪脾氣老頭！"
+        }
+      ]
+    },
+    {
+      "eng": "cradle",
+      "kk": "ˈkreɪdl",
+      "tense": "n.",
+      "ch": [
+        [
+          "搖籃"
+        ],
+        [
+          "發源地",
+          "孕育處"
+        ]
+      ],
+      "analysis": "此字為日耳曼語族繼承詞，源自古英語 cradol（小床、搖籃），帶有 diminutive（指小）詞尾 -el。其更早的日耳曼語源頭與編織、柳條筐有關。語意從實體供嬰兒搖晃睡眠的小床，抽象延伸為文明、文化或某種事物萌芽的「發源地」。",
+      "definition": "1. a small bed for a baby, especially one that rocks back and forth; 2. a place where something important or a civilization is nurtured or begins.",
+      "example": [
+        {
+          "eng": "The baby fell asleep peacefully in his wooden cradle.",
+          "ch": "嬰兒安詳地在他的木搖籃裡睡著了。"
+        },
+        {
+          "eng": "Greece is often considered the cradle of Western civilization.",
+          "ch": "希臘常被認為是西方文明的搖籃。"
+        }
+      ]
+    },
+    {
+      "eng": "crane",
+      "kk": "kren",
+      "tense": "n.",
+      "ch": [
+        [
+          "鶴"
+        ],
+        [
+          "起重機"
+        ]
+      ],
+      "analysis": "此字為日耳曼語族繼承詞，源自古英語 cran（鶴），與德語 Kranich 同源。因大型鳥類長頸的特徵，中古英語時期開始將此詞借用來指稱具有長臂、用以吊掛重物的機械裝置「起重機」。",
+      "definition": "1. a large tall tall-legged wading bird with a long neck and bill; 2. a tall machine used for lifting and moving heavy objects.",
+      "example": [
+        {
+          "eng": "A flock of cranes flew south for the winter.",
+          "ch": "一群鶴向南飛過冬。"
+        },
+        {
+          "eng": "A large crane was used to lift steel beams to the top floor.",
+          "ch": "一台大型起重機被用來將鋼樑吊到頂樓。"
+        }
+      ]
+    },
+    {
+      "eng": "crane",
+      "kk": "kren",
+      "tense": "vt.",
+      "ch": [
+        [
+          "伸長（脖子）以看清"
+        ]
+      ],
+      "analysis": "此動詞用法由名詞 crane（鶴）轉化而來，因鶴具有伸長脖子的典型動作，進而衍生出動詞「伸長脖子、探頭看」的意涵。",
+      "definition": "1. to stretch your neck out in order to see something better.",
+      "example": [
+        {
+          "eng": "She had to crane her neck to see over the tall man in front.",
+          "ch": "她不得不伸長脖子，才能越過前面高個子男人的頭看到前方。"
+        }
+      ]
+    },
+    {
+      "eng": "crash",
+      "kk": "kræʃ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "撞碎",
+          "使墜毀"
+        ],
+        [
+          "擅闖（無邀請參加）"
+        ]
+      ],
+      "analysis": "此為 crash 的及物動詞用法，保留撞擊、破壞的核心義；口語上藉由「闖入、撞入」的動態感，衍生出「不請自來、擅闖派對」等社交用法。",
+      "definition": "1. to cause a vehicle or object to hit something violently and break; 2. to enter a social event without an invitation.",
+      "example": [
+        {
+          "eng": "He crashed his father's car into a wall.",
+          "ch": "他把父親的車撞到牆上。"
+        },
+        {
+          "eng": "They decided to crash the wedding party just for fun.",
+          "ch": "他們決定好玩去擅闖婚禮派對。"
+        }
+      ]
+    },
+    {
+      "eng": "crash",
+      "kk": "kræʃ",
+      "tense": "vi.",
+      "ch": [
+        [
+          "碰撞",
+          "墜毀"
+        ],
+        [
+          "（系統）當機",
+          "故障"
+        ],
+        [
+          "突然借宿",
+          "倒頭大睡"
+        ]
+      ],
+      "analysis": "此字為擬聲詞（onomatopoeia），模仿物體破碎、碰撞時發出的巨大聲響。隨後語意從物理上的猛烈撞擊，擴大延伸至電腦軟硬體無預警當機，以及口語中疲憊地借宿或倒下睡覺。",
+      "definition": "1. to collide violently with something or fall with a loud noise; 2. (of a computer or system) to stop working suddenly; 3. to sleep somewhere informally or temporarily.",
+      "example": [
+        {
+          "eng": "The car lost control and crashed into a tree.",
+          "ch": "車子失控撞上了一棵樹。"
+        },
+        {
+          "eng": "My computer crashed and I lost all my unsaved work.",
+          "ch": "我的電腦當機了，我所有未存檔的工作都遺失了。"
+        },
+        {
+          "eng": "Can I crash on your couch tonight?",
+          "ch": "我今晚可以借睡一下你的沙發嗎？"
+        }
+      ]
+    },
+    {
+      "eng": "crawl",
+      "kk": "krɔl",
+      "tense": "vi.",
+      "ch": [
+        [
+          "爬行",
+          "緩慢行進"
+        ]
+      ],
+      "analysis": "此字源自古諾斯語 krafla（用爪子抓爬），經由北日耳曼語支進入中古英語。本義指人或動物貼著地面緩慢移動，後也引申用來形容交通或進度極度緩慢。",
+      "definition": "1. to move forward on hands and knees, or with the body close to the ground.",
+      "example": [
+        {
+          "eng": "The baby is just learning to crawl across the floor.",
+          "ch": "那名嬰兒正學著在地板上爬行。"
+        }
+      ]
+    },
+    {
+      "eng": "creative",
+      "kk": "kriˈetɪv",
+      "tense": "adj.",
+      "ch": [
+        [
+          "有創意的",
+          "創造性的"
+        ]
+      ],
+      "analysis": "此字由拉丁語動詞 creare（創造）的過去分詞詞幹 creat- 加上形容詞字尾 -ive 構成。透過中世紀拉丁語流入英語，現代指具有原創構想、藝術發明能力或富於想象力的特質。",
+      "definition": "1. having the ability to make new things or think of new ideas.",
+      "example": [
+        {
+          "eng": "She is a very creative writer with a unique style.",
+          "ch": "她是一位極具創意且風格獨特的作家。"
+        }
+      ]
+    },
+    {
+      "eng": "creator",
+      "kk": "kriˈetɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "創作者",
+          "創造者"
+        ],
+        [
+          "造物主（大寫時）"
+        ]
+      ],
+      "analysis": "由拉丁語 creare（創造）加上名詞字尾 -or（表執行動作的人或物）構成。在宗教或神學語境中大寫指上帝（造物主），在一般世俗語境中則指藝術品、構想、軟體或內容的發明者與創作者。",
+      "definition": "1. a person who has made or invented something; 2. (the Creator) God.",
+      "example": [
+        {
+          "eng": "The director is recognized as the creator of this amazing film series.",
+          "ch": "這位導演被公認為這部精彩系列電影的創作者。"
+        },
+        {
+          "eng": "We thank our Creator for the food we eat.",
+          "ch": "我們感謝造物主賜予我們食物。"
+        }
+      ]
+    },
+    {
+      "eng": "creature",
+      "kk": "ˈkritʃɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "生物",
+          "動物"
+        ],
+        [
+          "人（帶有憐憫或特定情感色彩）"
+        ]
+      ],
+      "analysis": "源自中古英語 creature，借自古法語 creature，最終源自拉丁語 creatura（被創造出來的事物），由 creare 衍生而來。本義指所有受造之物，後來主要用來指稱動物、奇幻生物，或被動受環境影響的人。",
+      "definition": "1. any living thing, animal or human, that can move and feel; 2. a person, often used with sympathy or disapproval.",
+      "example": [
+        {
+          "eng": "Whales are magnificent creatures of the ocean.",
+          "ch": "鯨魚是海洋中雄偉的生物。"
+        },
+        {
+          "eng": "Poor creature, she has been through so much hardship.",
+          "ch": "可憐的人，她經歷了那麼多的苦難。"
+        }
+      ]
+    },
+    {
+      "eng": "credit",
+      "kk": "ˈkrɛdɪt",
+      "tense": "n.",
+      "ch": [
+        [
+          "信用",
+          "賒帳"
+        ],
+        [
+          "讚譽",
+          "功勞"
+        ],
+        [
+          "學分（大學課程）"
+        ]
+      ],
+      "analysis": "源自拉丁語 creditum（借款、信託）, 源自 credere（相信、信任）。經由義大利語 credito 或法語 crédit 進入英語。語意從初期的「相信、信任」演變成「財務上的信用與賒帳」，再延伸出「值得讚許的功勞」以及學校教育中的「學分」。",
+      "definition": "1. the ability of a customer to obtain goods or services before payment, based on the trust that payment will be made in the future; 2. public praise, honor, or acknowledgement; 3. a unit of study at a college or university.",
+      "example": [
+        {
+          "eng": "They decided to buy the new furniture on credit.",
+          "ch": "他們決定用賒帳的方式買這套新傢俱。"
+        },
+        {
+          "eng": "She deserves a lot of credit for the success of the project.",
+          "ch": "這個專案的成功，她居功厥偉。"
+        },
+        {
+          "eng": "You need 120 credits to graduate from this university.",
+          "ch": "你需要120個學分才能從這所大學畢業。"
+        }
+      ]
+    },
+    {
+      "eng": "crew",
+      "kk": "kru",
+      "tense": "n.",
+      "ch": [
+        [
+          "全體船員",
+          "全體機組人員"
+        ],
+        [
+          "工作團隊",
+          "一幫人"
+        ]
+      ],
+      "analysis": "源自中古英語 creue（增援部隊、隊伍），借自古法語 crue（增長、增加），源自拉丁語 crescere（生長）。在航海語境中演變為船上全體工作人員的專稱，現代更廣泛用於航空、影視拍攝工作人員及一般同伴團體。",
+      "definition": "1. all the people working on a ship, plane, or train; 2. a group of people who work together or hang out together.",
+      "example": [
+        {
+          "eng": "The captain and his crew prepared for the long voyage.",
+          "ch": "船長和他的船員為長途航行做好了準備。"
+        },
+        {
+          "eng": "He and his crew are working on the stage design.",
+          "ch": "他和他的團隊正在進行舞台設計。"
+        }
+      ]
+    },
+    {
+      "eng": "cricket",
+      "kk": "ˈkrɪkɪt",
+      "tense": "n.",
+      "ch": [
+        [
+          "蟋蟀"
+        ],
+        [
+          "板球（運動）"
+        ]
+      ],
+      "analysis": "此字有兩個不同來源的同形異源詞：昆蟲「蟋蟀」源自古法語 criquet（擬聲其叫聲）；而球類運動「板球」則源自古法語 criquet（一種棍棒或柱子遊戲）。兩者在歷史上形同但語源獨立，現代合併在同一詞性下。",
+      "definition": "1. a small brown jumping insect that makes a short loud noise by rubbing its wings together; 2. an outdoor game played with a bat and ball between two teams of eleven players.",
+      "example": [
+        {
+          "eng": "We could hear the sound of crickets in the grass at night.",
+          "ch": "我們在夜裡的草叢中聽得到蟋蟀的叫聲。"
+        },
+        {
+          "eng": "Cricket is a very popular sport in England and Australia.",
+          "ch": "板球在英國和澳洲是一項非常受歡迎的運動。"
+        }
+      ]
+    },
+    {
+      "eng": "criminal",
+      "kk": "ˈkrɪmənəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "罪犯",
+          "犯罪分子"
+        ]
+      ],
+      "analysis": "源自拉丁語 criminalis（關於刑事的），源自 crimen（罪行、控訴）。經由古法語進入英語。作為名詞使用時，指觸犯刑法、從事犯罪行為的人。",
+      "definition": "1. a person who has committed a crime.",
+      "example": [
+        {
+          "eng": "The police finally caught the dangerous criminal.",
+          "ch": "警察終於抓到了那個危險的罪犯。"
+        }
+      ]
+    },
+    {
+      "eng": "crispy",
+      "kk": "ˈkrɪspi",
+      "tense": "adj.",
+      "ch": [
+        [
+          "脆的",
+          "酥脆的"
+        ]
+      ],
+      "analysis": "由名詞 crisp（脆的、捲曲的，源自古英語 crisp，借自拉丁語 crispus）加上形容詞字尾 -y 構成，現代透明構詞。用來形容食物外表酥脆、易碎的口感。",
+      "definition": "1. (of food) pleasantly hard and dry, or easily broken when bitten.",
+      "example": [
+        {
+          "eng": "I love eating freshly baked crispy cookies.",
+          "ch": "我喜歡吃剛烤好的酥脆餅乾。"
+        }
+      ]
+    },
+    {
+      "eng": "crop",
+      "kk": "krɑp",
+      "tense": "n.",
+      "ch": [
+        [
+          "農作物",
+          "收成"
+        ],
+        [
+          "（鳥類的）嗉囊"
+        ]
+      ],
+      "analysis": "源自古英語 cropp（植物的頂端、穗、果實）。語意從植物頂部可收割的部分，演變為大面積種植的「農作物」與總收成；另一個生物學義項則指鳥類食道膨大的「嗉囊」。",
+      "definition": "1. a plant that is grown in large quantities for food or other use; 2. a part of a bird's alimentary canal where food is stored.",
+      "example": [
+        {
+          "eng": "The farmers are hoping for a good corn crop this year.",
+          "ch": "農夫們希望今年的玉米有好的收成。"
+        },
+        {
+          "eng": "The bird swallowed the seeds into its crop.",
+          "ch": "鳥把種子吞進了嗉囊中。"
+        }
+      ]
+    },
+    {
+      "eng": "crop",
+      "kk": "krɑp",
+      "tense": "vt.",
+      "ch": [
+        [
+          "修剪",
+          "剪短（頭髮等）"
+        ],
+        [
+          "收割",
+          "莊稼收穫"
+        ]
+      ],
+      "analysis": "由名詞 crop 轉化而來的及物動詞，本義指剪去植物的頂端，後延伸為剪短頭髮，或在數位影像中「裁切」畫面邊緣。",
+      "definition": "1. to cut the top or ends off plants, hair, etc. short.",
+      "example": [
+        {
+          "eng": "She decided to crop her long hair short for the summer.",
+          "ch": "她決定在夏天把長髮剪短。"
+        }
+      ]
+    },
+    {
+      "eng": "crown",
+      "kk": "kraʊn",
+      "tense": "n.",
+      "ch": [
+        [
+          "王冠",
+          "冕"
+        ],
+        [
+          "頂點",
+          "最高處"
+        ],
+        [
+          "牙冠"
+        ]
+      ],
+      "analysis": "源自古法語 coroune，源自拉丁語 corona（花環、王冠），源自希臘語 korōnē（曲線、花環）。語意從君主的象徵王冠，延伸出物體的頂端（如頭頂、山頂），以及牙醫學中的「牙冠」。",
+      "definition": "1. a circular ornamental headdress worn by a monarch as a symbol of authority; 2. the top part of something, such as the head or a hill; 3. an artificial replacement for the top part of a tooth.",
+      "example": [
+        {
+          "eng": "The queen placed the heavy gold crown on her head.",
+          "ch": "女王把沉重的金王冠戴在頭上。"
+        },
+        {
+          "eng": "Snow covers the crown of the mountain year-round.",
+          "ch": "積雪終年覆蓋著山頂。"
+        },
+        {
+          "eng": "The dentist said I need a crown on my molar.",
+          "ch": "牙醫說我的大臼齒需要做個牙冠。"
+        }
+      ]
+    },
+    {
+      "eng": "cruel",
+      "kk": "ˈkruəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "殘忍的",
+          "冷酷的"
+        ],
+        [
+          "痛苦的",
+          "折磨人的"
+        ]
+      ],
+      "analysis": "源自中古英語 cruel，借自古法語 cruel，源自拉丁語 crudelis（粗暴的、殘酷的），與 cruor（血、凝血）同源。本義指造成他人痛苦、缺乏同情心的殘忍性格，後引申用來形容命運或現實「殘酷、無情」。",
+      "definition": "1. willfully causing pain or suffering to others; 2. causing severe and continuous pain or hardship.",
+      "example": [
+        {
+          "eng": "It is cruel to treat animals with neglect.",
+          "ch": "虐待動物是殘忍的。"
+        },
+        {
+          "eng": "Life played a cruel trick on him.",
+          "ch": "生活跟他開了一個殘酷的玩笑。"
+        }
+      ]
+    },
+    {
+      "eng": "cupboard",
+      "kk": "ˈkʌbɚd",
+      "tense": "n.",
+      "ch": [
+        [
+          "櫥櫃",
+          "壁櫥"
+        ]
+      ],
+      "analysis": "此字為歷史上的複合詞，由 cup（杯子）與 board（木板、桌子）組合而成。中世紀時原本指放置杯子與餐具的「展示桌或層架」，隨著時間推演，演變成現代封閉式的「碗櫃、櫥櫃」。",
+      "definition": "1. a piece of furniture with doors and shelves used for storing dishes, food, etc.",
+      "example": [
+        {
+          "eng": "She put the plates back into the kitchen cupboard.",
+          "ch": "她把盤子放回廚房的櫥櫃裡。"
+        }
+      ]
+    },
+    {
+      "eng": "dairy",
+      "kk": "ˈdɛri",
+      "tense": "n.",
+      "ch": [
+        [
+          "乳品廠",
+          "乳製品店"
+        ],
+        [
+          "乳品（總稱）"
+        ]
+      ],
+      "analysis": "源自中古英語 deye（擠奶女工），源自古英語 dæge（女僕、麵包師）。字尾 -ry 表示場所或產物。本義指製作奶油與起司的農場或工作坊，後延伸為乳製品的總稱。",
+      "definition": "1. a building or room where milk is processed and butter or cheese is made; 2. milk, eggs, cheese, and other dairy products.",
+      "example": [
+        {
+          "eng": "They buy fresh milk and cheese from the local dairy.",
+          "ch": "他們向當地的乳品廠買新鮮牛奶和起司。"
+        },
+        {
+          "eng": "Doctors recommend eating less dairy if you have certain allergies.",
+          "ch": "如果你有特定過敏，醫生建議少吃乳製品。"
+        }
+      ]
+    },
+    {
+      "eng": "dam",
+      "kk": "dæm",
+      "tense": "n.",
+      "ch": [
+        [
+          "水壩",
+          "水堤"
+        ]
+      ],
+      "analysis": "源自中古英語 dam，與中古荷蘭語 dam、古諾斯語 dammr 同源，屬於日耳曼語族繼承詞。本義指攔截水流、調節水位而建造的障礙構造物。",
+      "definition": "1. a barrier built across a river to stop the flow of water and store it.",
+      "example": [
+        {
+          "eng": "The hydroelectric dam generates electricity for the entire region.",
+          "ch": "這座水力發電水壩為整個地區發電。"
+        }
+      ]
+    },
+    {
+      "eng": "dam",
+      "kk": "dæm",
+      "tense": "vt.",
+      "ch": [
+        [
+          "築壩攔水"
+        ],
+        [
+          "抑制",
+          "堵住"
+        ]
+      ],
+      "analysis": "由名詞 dam 轉化而來的及物動詞，本義為築起水壩阻擋水流，引申為遏止、阻擋情感或物質的流動。",
+      "definition": "1. to build a dam across a river or stream; 2. to block or hold back the flow of something.",
+      "example": [
+        {
+          "eng": "Workers are planning to dam the river to create a reservoir.",
+          "ch": "工人們計劃在河上築壩以建造水庫。"
+        }
+      ]
+    },
+    {
+      "eng": "dare",
+      "kk": "dɛr",
+      "tense": "vt.",
+      "ch": [
+        [
+          "激將",
+          "向……挑戰"
+        ]
+      ],
+      "analysis": "dare 作為及物動詞時，保留了挑戰他人勇氣的語義，常用於 dare 某人去做某項冒險或困難的事。",
+      "definition": "1. to challenge someone to do something difficult or dangerous.",
+      "example": [
+        {
+          "eng": "His friends dared him to jump into the cold swimming pool.",
+          "ch": "他的朋友激將他跳進冰冷的游泳池裡。"
+        }
+      ]
+    },
+    {
+      "eng": "dare",
+      "kk": "dɛr",
+      "tense": "vi.",
+      "ch": [
+        [
+          "敢",
+          "膽敢"
+        ]
+      ],
+      "analysis": "源自古英語 (ġe)dear（勇於、敢於），為日耳曼語族強變化動詞的繼承詞。在現代英語中兼具普通動詞與情態動詞（modal verb）的特徵，常用於否定句或疑問句中表示是否有勇氣做某事。",
+      "definition": "1. to be brave enough to do something.",
+      "example": [
+        {
+          "eng": "He didn't dare to ask her for help.",
+          "ch": "他不敢向她請求協助。"
+        }
+      ]
+    },
+    {
+      "eng": "darling",
+      "kk": "ˈdɑrlɪŋ",
+      "tense": "n.",
+      "ch": [
+        [
+          "心愛的人",
+          "寶貝"
+        ]
+      ],
+      "analysis": "源自古英語 deorling，由形容詞 deor（親愛的、珍貴的）加上指小／親暱字尾 -ling 構成。現代主要用作對摯愛之人的親密稱呼。",
+      "definition": "1. a beloved person, used as a term of affection.",
+      "example": [
+        {
+          "eng": "Good night, my darling.",
+          "ch": "晚安，我的寶貝。"
+        }
+      ]
+    },
+    {
+      "eng": "dash",
+      "kk": "dæʃ",
+      "tense": "n.",
+      "ch": [
+        [
+          "短跑",
+          "急奔"
+        ],
+        [
+          "破折號（—）"
+        ],
+        [
+          "少許",
+          "少量"
+        ]
+      ],
+      "analysis": "由動詞 dash 衍生出的名詞，保留急速動作義；同時在印刷符號中指破折號；在烹飪中指「少許的添加量」。",
+      "definition": "1. a sudden swift run; 2. a punctuation mark (—) used to break a sentence; 3. a small amount of something added.",
+      "example": [
+        {
+          "eng": "He won the 100-meter dash in the school sports day.",
+          "ch": "他在學校運動會中贏得了100公尺短跑冠軍。"
+        },
+        {
+          "eng": "Add a dash of salt and pepper to the soup.",
+          "ch": "在湯裡加少許的鹽和胡椒。"
+        }
+      ]
+    },
+    {
+      "eng": "dash",
+      "kk": "dæʃ",
+      "tense": "vi.",
+      "ch": [
+        [
+          "猛衝",
+          "急奔"
+        ]
+      ],
+      "analysis": "源自日耳曼語族（如丹麥語 daske 或瑞典語 daska，意指猛擊、摔碎）。中古英語時期引申出「急速移動、猛衝」的意涵。",
+      "definition": "1. to run or move quickly and suddenly.",
+      "example": [
+        {
+          "eng": "I must dash, or I will miss my train.",
+          "ch": "我必須快跑，否則會趕不上火車。"
+        }
+      ]
+    },
+    {
+      "eng": "database",
+      "kk": "ˈdetəˌbes",
+      "tense": "n.",
+      "ch": [
+        [
+          "資料庫",
+          "數據庫"
+        ]
+      ],
+      "analysis": "現代科技複合詞，由 data（數據、資料，源自拉丁語 datum 的複數）與 base（基底、基礎）組合而成，20世紀中葉電腦科學興起後確立的標準詞彙。",
+      "definition": "1. a structured set of data held in a computer, especially one that is accessible in various ways.",
+      "example": [
+        {
+          "eng": "The company stores all customer information in a secure database.",
+          "ch": "公司將所有客戶資料儲存在安全的資料庫中。"
+        }
+      ]
+    },
+    {
+      "eng": "dawn",
+      "kk": "dɔn",
+      "tense": "n.",
+      "ch": [
+        [
+          "黎明",
+          "拂曉"
+        ],
+        [
+          "開端",
+          "曙光"
+        ]
+      ],
+      "analysis": "源自中古英語 dawen（動詞原形 dagian 的衍生），源自古英語 dæġ（白天）。因指天亮之際，後引申為任何新事物、新時代的「開端或曙光」。",
+      "definition": "1. the first appearance of light in the sky before sunrise; 2. the beginning of a phenomenon or period.",
+      "example": [
+        {
+          "eng": "We woke up before dawn to catch the sunrise.",
+          "ch": "我們在黎明前醒來以觀賞日出。"
+        },
+        {
+          "eng": "This discovery marks the dawn of a new era in medicine.",
+          "ch": "這項發現標誌著醫學新時代的開端。"
+        }
+      ]
+    },
+    {
+      "eng": "dawn",
+      "kk": "dɔn",
+      "tense": "vi.",
+      "ch": [
+        [
+          "破曉",
+          "天亮"
+        ],
+        [
+          "（逐漸）明白",
+          "開始清晰"
+        ]
+      ],
+      "analysis": "由名詞 dawn 轉化而來的不及物動詞，除表示天色漸亮外，常以「it dawns on someone」的句型表示某事開始被某人所領悟或理解。",
+      "definition": "1. (of a day) to begin to grow light; 2. (of a realization) to begin to dawn on someone.",
+      "example": [
+        {
+          "eng": "A clear morning began to dawn over the valley.",
+          "ch": "一個晴朗的早晨開始在山谷中破曉。"
+        },
+        {
+          "eng": "It slowly dawned on him that he had lost his keys.",
+          "ch": "他慢慢才意識到自己把鑰匙弄丟了。"
+        }
+      ]
+    },
+    {
+      "eng": "dealer",
+      "kk": "ˈdilɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "商人",
+          "業者"
+        ],
+        [
+          "發牌者（紙牌遊戲）"
+        ]
+      ],
+      "analysis": "由動詞 deal（分發、交易，源自古英語 dælan）加上名詞字尾 -er 構成，現代透明構詞。指從事買賣業務的商人（如汽車經銷商），或在紙牌遊戲中負責發牌的人。",
+      "definition": "1. a person who buys and sells goods; 2. a person who distributes the cards in a card game.",
+      "example": [
+        {
+          "eng": "He bought his second-hand car from a trusted dealer.",
+          "ch": "他向一家信譽良好的車商買了這輛二手車。"
+        },
+        {
+          "eng": "It is your turn to be the dealer in this round of poker.",
+          "ch": "這一輪撲克牌輪到你發牌了。"
+        }
+      ]
+    },
+    {
+      "eng": "decade",
+      "kk": "ˈdɛked",
+      "tense": "n.",
+      "ch": [
+        [
+          "十年"
+        ]
+      ],
+      "analysis": "源自古法語 decade，借自拉丁語 decas，源自希臘語 dekas（由 deka「十」衍生而來）。專門用來指長達十年的時間段。",
+      "definition": "1. a period of ten years.",
+      "example": [
+        {
+          "eng": "They have lived in this city for over a decade.",
+          "ch": "他們在這個城市住了十多年了。"
+        }
+      ]
+    },
+    {
+      "eng": "deck",
+      "kk": "dɛk",
+      "tense": "n.",
+      "ch": [
+        [
+          "甲板（船面）"
+        ],
+        [
+          "（房屋的）露臺",
+          "平台"
+        ],
+        [
+          "一副撲克牌"
+        ]
+      ],
+      "analysis": "源自中古英語 dec（屋頂、覆蓋物），借自中古荷蘭語 dec（覆蓋）。語意從船隻的頂層覆蓋面（甲板），延伸至現代建築的露臺，以及疊放整齊的一副撲克牌。",
+      "definition": "1. a floor of a ship; 2. a wooden platform attached to a house; 3. a full set of playing cards.",
+      "example": [
+        {
+          "eng": "Passengers stood on the deck to enjoy the sea breeze.",
+          "ch": "乘客們站在甲板上享受海風。"
+        },
+        {
+          "eng": "We like to sit on the back deck during summer evenings.",
+          "ch": "我們喜歡在夏天的傍晚坐在後院露臺上。"
+        },
+        {
+          "eng": "He shuffled a deck of cards before dealing.",
+          "ch": "他在發牌前洗了一副撲克牌。"
+        }
+      ]
+    },
+    {
+      "eng": "decorate",
+      "kk": "ˈdɛkəˌret",
+      "tense": "vt.",
+      "ch": [
+        [
+          "裝飾",
+          "佈置"
+        ],
+        [
+          "授勳於"
+        ]
+      ],
+      "analysis": "源自拉丁語 decoratus（裝飾過的），過去分詞動詞源自 decora（美觀、得體），源自 decus（榮譽、尊嚴）。語意從「使房間或物品變得美觀」延伸出「頒發勳章以表彰榮譽」。",
+      "definition": "1. to make something look more attractive by adding items; 2. to award a medal or honor to someone.",
+      "example": [
+        {
+          "eng": "They spent hours decorating the Christmas tree.",
+          "ch": "他們花了好幾個小時裝飾聖誕樹。"
+        },
+        {
+          "eng": "The brave soldier was decorated for his service in the war.",
+          "ch": "這位勇敢的士兵因戰功獲頒勳章。"
+        }
+      ]
+    },
+    {
+      "eng": "decrease",
+      "kk": "dɪˈkris",
+      "tense": "vt.",
+      "ch": [
+        [
+          "減小",
+          "使降低"
+        ]
+      ],
+      "analysis": "作為及物動詞時，表示主體主動或使某個數量、強度減弱的動作。",
+      "definition": "1. to make something smaller or less in quantity or degree.",
+      "example": [
+        {
+          "eng": "The factory managed to decrease its carbon emissions by twenty percent.",
+          "ch": "該工廠成功將碳排放量減少了百分之二十。"
+        }
+      ]
+    },
+    {
+      "eng": "decrease",
+      "kk": "dɪˈkris",
+      "tense": "vi.",
+      "ch": [
+        [
+          "減少",
+          "降低"
+        ]
+      ],
+      "analysis": "由拉丁語 prefix de-（向下、減損）與 crescere（生長、增大）結合，經由古法語 decrestre 進入英語。作不及物動詞時表示數量、程度或規模的自然減少。",
+      "definition": "1. to become smaller or less in size, amount, or intensity.",
+      "example": [
+        {
+          "eng": "The number of tourists tends to decrease during winter.",
+          "ch": "遊客數量在冬天往往會減少。"
+        }
+      ]
+    },
+    {
+      "eng": "deed",
+      "kk": "did",
+      "tense": "n.",
+      "ch": [
+        [
+          "行為",
+          "功績"
+        ],
+        [
+          "房地產契據",
+          "轉讓證書"
+        ]
+      ],
+      "analysis": "源自古英語 dēd（行為、成就），為日耳曼語族繼承詞，與 do 同源。本義指人所做出的具體行動，後來在法律用語中專指不動產權屬的「契據、合約證明文件」。",
+      "definition": "1. an action that is performed intentionally; 2. a legal document that proves ownership of property.",
+      "example": [
+        {
+          "eng": "He is always ready to do a good deed for others.",
+          "ch": "他總是隨時準備好為他人行善。"
+        },
+        {
+          "eng": "She signed the deed to transfer ownership of the house.",
+          "ch": "她簽署了契據以轉讓房子的所有權。"
+        }
+      ]
+    },
+    {
+      "eng": "deepen",
+      "kk": "ˈdipən",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使加深",
+          "加深"
+        ],
+        [
+          "深化（情感、危機等）"
+        ]
+      ],
+      "analysis": "由形容詞 deep（深的，源自古英語 dēop）加上動詞化字尾 -en 構成，現代透明構詞。語意從實體的物理深度增加，延伸至抽象層面如友誼、危機或理解的加深。",
+      "definition": "1. to make something deeper; 2. to become more intense or serious.",
+      "example": [
+        {
+          "eng": "Workers are planning to deepen the river channel for large ships.",
+          "ch": "工人們計劃加深河道以便大型船隻通行。"
+        },
+        {
+          "eng": "The ongoing economic crisis began to deepen.",
+          "ch": "持續中的經濟危機開始加深。"
+        }
+      ]
+    },
+    {
+      "eng": "definition",
+      "kk": "ˌdɛfəˈnɪʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "定義",
+          "釋義"
+        ],
+        [
+          "（影像或螢幕的）清晰度"
+        ]
+      ],
+      "analysis": "源自拉丁語 definitio，由動詞 definire（界定、確定範圍）衍生而來，由 de- 與 finis（界線、終點）組成。語意從字面意義的「釐清邊界與定義」，延伸出影像科技中pixels邊緣分明的「高清晰度（High Definition）」。",
+      "definition": "1. an exact statement of the meaning of a word or phrase; 2. the degree of clarity of a digital image or television picture.",
+      "example": [
+        {
+          "eng": "Please look up the definition of this term in the dictionary.",
+          "ch": "請在字典裡查這個詞的定義。"
+        },
+        {
+          "eng": "The new camera shoots videos in high definition.",
+          "ch": "這台新相機以高清晰度拍攝影片。"
+        }
+      ]
+    },
+    {
+      "eng": "democracy",
+      "kk": "dɪˈmɑkrəsi",
+      "tense": "n.",
+      "ch": [
+        [
+          "民主",
+          "民主主義"
+        ],
+        [
+          "民主國家"
+        ]
+      ],
+      "analysis": "源自希臘語 dēmokratia，由 dēmos（人民）與 kratos（統治、權力）組合而成。意指由人民作主、權力歸屬大眾的政治體制與民主國家。",
+      "definition": "1. a system of government by the whole population, typically through elected representatives; 2. a country with this form of government.",
+      "example": [
+        {
+          "eng": "Freedom of speech is a fundamental pillar of democracy.",
+          "ch": "言論自由是民主的基本支柱。"
+        },
+        {
+          "eng": "They fought hard to protect their emerging democracy.",
+          "ch": "他們努力奮戰以保護剛萌芽的民主國家。"
+        }
+      ]
+    },
+    {
+      "eng": "democratic",
+      "kk": "ˌdɛməˈkrætɪk",
+      "tense": "adj.",
+      "ch": [
+        [
+          "民主的"
+        ]
+      ],
+      "analysis": "由名詞 democracy 衍生並加上形容詞字尾 -ic 構成，指符合民主原則、由多數決或公民參與決策的性質。",
+      "definition": "1. based on the principles of democracy or government by the people.",
+      "example": [
+        {
+          "eng": "The country held a free and democratic election.",
+          "ch": "該國舉行了一場自由且民主的選舉。"
+        }
+      ]
+    },
+    {
+      "eng": "deposit",
+      "kk": "dɪˈpɑzɪt",
+      "tense": "n.",
+      "ch": [
+        [
+          "存款"
+        ],
+        [
+          "訂金",
+          "保證金"
+        ],
+        [
+          "沉積物",
+          "礦床"
+        ]
+      ],
+      "analysis": "由動詞 deposit 轉化而來的名詞，指存入銀行的錢、購買商品時預付的訂金，或是地質學上的礦床與沉積物質。",
+      "definition": "1. a sum of money placed in a bank account; 2. a partial payment made as security; 3. a layer of a substance left in the ground.",
+      "example": [
+        {
+          "eng": "I need to make a cash deposit at the ATM.",
+          "ch": "我需要去提款機存款現金。"
+        },
+        {
+          "eng": "We paid a ten percent deposit to reserve the apartment.",
+          "ch": "我們付了百分之十的訂金來保留這間公寓。"
+        },
+        {
+          "eng": "The region is rich in gold and silver deposits.",
+          "ch": "該地區擁有豐富的金銀礦床。"
+        }
+      ]
+    },
+    {
+      "eng": "deposit",
+      "kk": "dɪˈpɑzɪt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "寄存",
+          "存入（銀行）"
+        ],
+        [
+          "放置",
+          "放下"
+        ],
+        [
+          "沉積"
+        ]
+      ],
+      "analysis": "源自拉丁語 depositus（放下的），過去分詞動詞源自 deponere（放下），由 de-（向下）與 ponere（放置）組合而成。語意涵蓋將金錢存入銀行、將物品置於某處，以及自然界泥沙的沉積。",
+      "definition": "1. to put money into a bank account; 2. to put something down in a specific place; 3. (of a river or flood) to leave a layer of substance behind.",
+      "example": [
+        {
+          "eng": "She decided to deposit her paycheck into her savings account.",
+          "ch": "她決定將薪水支票存入儲蓄帳戶。"
+        },
+        {
+          "eng": "He deposited his heavy backpack on the floor.",
+          "ch": "他把沉重的背包放在地板上。"
+        },
+        {
+          "eng": "The floodwaters deposited mud all over the streets.",
+          "ch": "洪水在街道各處留下了泥沙沉積。"
+        }
+      ]
+    },
+    {
+      "eng": "designer",
+      "kk": "dɪˈzaɪnɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "設計師",
+          "建築師"
+        ]
+      ],
+      "analysis": "由動詞 design（設計，源自拉丁語 designare）加上名詞字尾 -er 構成，現代透明構詞。指專門從事服裝、室內、工業或平面等視覺與結構規劃的專業人員。",
+      "definition": "1. a person who plans the form, look, or workings of something before it is made.",
+      "example": [
+        {
+          "eng": "She works as a fashion designer for a famous brand in Paris.",
+          "ch": "她在巴黎一家知名品牌擔任時裝設計師。"
+        }
+      ]
+    },
+    {
+      "eng": "desirable",
+      "kk": "dɪˈzaɪrəbl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "值得擁有的",
+          "合意的",
+          "令人嚮往的"
+        ]
+      ],
+      "analysis": "由動詞 desire（渴望）加上形容詞字尾 -able（可……的）構成，現代透明構詞。指某事或某物符合大眾期望、具有吸引力或值得追求的特質。",
+      "definition": "1. worth having or seeking; pleasing, excellent, or popular.",
+      "example": [
+        {
+          "eng": "Living in a quiet neighborhood is a very desirable quality for a home.",
+          "ch": "居住在安靜的社區是住宅非常令人嚮往的特質。"
+        }
+      ]
+    },
+    {
+      "eng": "desire",
+      "kk": "dɪˈzaɪr",
+      "tense": "n.",
+      "ch": [
+        [
+          "渴望",
+          "欲望"
+        ]
+      ],
+      "analysis": "由動詞 desire 轉化而來的名詞，指強烈的願望、慾念或求知渴望。",
+      "definition": "1. a strong feeling of wanting to have something or wishing for something to happen.",
+      "example": [
+        {
+          "eng": "She has a deep desire to travel around the world.",
+          "ch": "她有著環遊世界的強烈渴望。"
+        }
+      ]
+    },
+    {
+      "eng": "desire",
+      "kk": "dɪˈzaɪr",
+      "tense": "vt.",
+      "ch": [
+        [
+          "渴望",
+          "強烈希望"
+        ]
+      ],
+      "analysis": "源自中古英語 desiren，借自古法語 desirer，源自拉丁語 desiderare（渴望、想念），可能與星象有關（從 sidus「星星」衍生）。作為及物動詞指內心強烈盼望獲得某物。",
+      "definition": "1. to strongly wish for or want something.",
+      "example": [
+        {
+          "eng": "We all desire peace and happiness in our lives.",
+          "ch": "我們都在生活中渴望和平與幸福。"
+        }
+      ]
+    },
+    {
+      "eng": "dessert",
+      "kk": "dɪˈzɝt",
+      "tense": "n.",
+      "ch": [
+        [
+          "甜點",
+          "甜品"
+        ]
+      ],
+      "analysis": "源自法語 desservir（清理餐桌），由 de-（解除）與 servir（服務、上菜）組成。字面原意是正餐吃完、把餐桌上的碗盤清理乾淨後端上來的最後一道甜食。",
+      "definition": "1. the sweet course eaten at the end of a meal.",
+      "example": [
+        {
+          "eng": "Would you like some chocolate cake for dessert?",
+          "ch": "你想要來點巧克力蛋糕當甜點嗎？"
+        }
+      ]
+    },
+    {
+      "eng": "destroy",
+      "kk": "dɪˈstrɔɪ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "破壞",
+          "毀壞",
+          "消滅"
+        ]
+      ],
+      "analysis": "源自中古英語 destroien，借自古法語 destroire，源自拉丁語 destruere（拆毀、demolishing），由 de-（反轉、向下）與 struere（建造、堆疊）組合而成。字面原意即為「拆除、推翻建造物」，引申為徹底毀壞或消滅。",
+      "definition": "1. to put an end to the existence of something by damaging or ruining it completely.",
+      "example": [
+        {
+          "eng": "The heavy storm destroyed several houses in the village.",
+          "ch": "強烈暴風雨摧毀了村裡的幾棟房屋。"
+        }
+      ]
+    },
+    {
+      "eng": "detect",
+      "kk": "dɪˈtɛkt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "察覺",
+          "偵測",
+          "發現"
+        ]
+      ],
+      "analysis": "源自拉丁語 detectus，過去分詞動詞源自 detegere（揭露、掀開遮蓋物），由 de-（剝離、移開）與 tegere（覆蓋）組合而成。字面原意為「移開遮蔽物使其顯露」，現代用於偵測微弱信號、疾病徵兆或犯罪行為。",
+      "definition": "1. to discover or notice something, especially something that is difficult to see, hear, or smell.",
+      "example": [
+        {
+          "eng": "The smoke detector can detect even tiny amounts of smoke in the air.",
+          "ch": "這個煙霧探測器甚至能偵測到空氣中極微量的煙霧。"
+        }
+      ]
+    },
+    {
+      "eng": "determine",
+      "kk": "dɪˈtɝmɪn",
+      "tense": "vt.",
+      "ch": [
+        [
+          "決定",
+          "決意"
+        ],
+        [
+          "查明",
+          "測定"
+        ]
+      ],
+      "analysis": "源自中古英語 determinen，借自古法語 determiner，源自拉丁語 determinare（界定、確定界線），由 de-（加強語氣）與 terminare（劃定界限、源自 terminus「界線」）組成。語意從「劃定邊界」演變成「下定決心」或「透過檢驗查明事實」。",
+      "definition": "1. to officially decide or control something; 2. to discover the facts about something accurately.",
+      "example": [
+        {
+          "eng": "The committee will determine the date of the next meeting.",
+          "ch": "委員會將決定下次會議的日期。"
+        },
+        {
+          "eng": "Scientists are trying to determine the cause of the disease.",
+          "ch": "科學家們正試圖查明該疾病的病因。"
+        }
+      ]
+    },
+    {
+      "eng": "devil",
+      "kk": "ˈdɛvəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "魔鬼",
+          "惡魔"
+        ],
+        [
+          "傢伙",
+          "淘氣的人（口語）"
+        ]
+      ],
+      "analysis": "源自古英語 dēofol，經由日耳曼語族從拉丁語 diabolus（惡魔、誹謗者）借入，最終源自希臘語 diabolos（控告者、惡魔）。在宗教中專指撒旦或邪靈，口語中也常親切或戲謔地用來形容某個淘氣的人。",
+      "definition": "1. (in christian and other religions) the supreme spirit of evil; Satan; 2. a mischievous or clever person.",
+      "example": [
+        {
+          "eng": "In many stories, heroes must fight against the devil.",
+          "ch": "在許多故事中，英雄必須對抗惡魔。"
+        },
+        {
+          "eng": "He is a lucky devil to win the lottery twice!",
+          "ch": "他真是個幸運的傢伙，竟然中了兩次彩券！"
+        }
+      ]
+    },
+    {
+      "eng": "dim",
+      "kk": "dɪm",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使昏暗",
+          "調弱（燈光）"
+        ]
+      ],
+      "analysis": "由形容詞 dim 轉化而來的及物動詞，指主動減弱燈光亮度或使某物變暗。",
+      "definition": "1. to make something less bright or clear.",
+      "example": [
+        {
+          "eng": "Please dim the lights before the movie starts.",
+          "ch": "請在電影開始前把燈光調暗。"
+        }
+      ]
+    },
+    {
+      "eng": "dim",
+      "kk": "dɪm",
+      "tense": "adj.",
+      "ch": [
+        [
+          "昏暗的",
+          "微弱的"
+        ],
+        [
+          "（記憶等）模糊的",
+          "依稀的"
+        ]
+      ],
+      "analysis": "源自古英語 dimm（暗淡的、黑暗的），為日耳曼語族繼承詞。本義指光線不足的昏暗環境，後抽象延伸應用於記憶、印象或理解力變得模糊不清。",
+      "definition": "1. not bright or well-lit; 2. (of memories or light) not clear or distinct.",
+      "example": [
+        {
+          "eng": "He was reading a book in the dim light of the lamp.",
+          "ch": "他正在燈泡昏暗的光線下讀書。"
+        },
+        {
+          "eng": "I only have a dim memory of my first day at school.",
+          "ch": "我對上學第一天只有模糊的記憶。"
+        }
+      ]
+    },
+    {
+      "eng": "dime",
+      "kk": "daɪm",
+      "tense": "n.",
+      "ch": [
+        [
+          "一角硬幣（美國十分錢硬幣）"
+        ]
+      ],
+      "analysis": "源自古法語 dime（十分之一），源自拉丁語 decima（十分之一），由 decem（十）衍生而來。在美國貨幣系統中專指面額為十美分的硬幣。",
+      "definition": "1. a ten-cent coin in the United States and Canada.",
+      "example": [
+        {
+          "eng": "He paid for the candy with a couple of dimes.",
+          "ch": "他用了幾個一角硬幣買了糖果。"
+        }
+      ]
+    },
+    {
+      "eng": "dine",
+      "kk": "daɪn",
+      "tense": "vi.",
+      "ch": [
+        [
+          "進餐",
+          "用餐（尤指晚餐）"
+        ]
+      ],
+      "analysis": "源自中古英語 dinen，借自古法語 disner（早先意指吃早餐或進食，後指正餐），最終源自晚期拉丁語 disjejunare（打破齋戒），由 dis-（解除）與 jejunare（禁食、齋戒）組成。",
+      "definition": "1. to eat the main meal of the day, usually dinner.",
+      "example": [
+        {
+          "eng": "They decided to dine at an Italian restaurant tonight.",
+          "ch": "他們決定今晚在一家義大利餐廳用餐。"
+        }
+      ]
+    },
+    {
+      "eng": "dinosaur",
+      "kk": "ˈdaɪnəˌsɔr",
+      "tense": "n.",
+      "ch": [
+        [
+          "恐龍"
+        ],
+        [
+          "過時的事物",
+          "老古董（比喻）"
+        ]
+      ],
+      "analysis": "現代科學複合詞，於19世紀由英國古生物學家理查·歐Owen創造，結合希臘語 deinos（可怕的、巨大的）與 sauros（蜥蜴）。本義指巨大的古代爬行動物，後引申用來諷刺或形容已經過時、無法適應新時代的組織或機器。",
+      "definition": "1. a type of extinct reptile that lived millions of years ago; 2. something that is outdated and no longer useful.",
+      "example": [
+        {
+          "eng": "Children are always fascinated by dinosaur skeletons in museums.",
+          "ch": "孩子們總是對博物館裡的恐龍骨架感到著迷。"
+        },
+        {
+          "eng": "Without a computer system, the company will become a business dinosaur.",
+          "ch": "沒有電腦系統，這家公司將會變成商業上的老古董。"
+        }
+      ]
+    },
+    {
+      "eng": "dip",
+      "kk": "dɪp",
+      "tense": "n.",
+      "ch": [
+        [
+          "浸泡",
+          "沾醬"
+        ],
+        [
+          "下降",
+          "凹陷處"
+        ]
+      ],
+      "analysis": "由動詞 dip 轉化而來的名詞，指沾醬（用來沾餅乾或蔬菜的濃稠醬料）、快速的下水游泳，或地形與數值的短暫下降。",
+      "definition": "1. a thick sauce into which pieces of food are dipped; 2. a downward slope or quick drop in level.",
+      "example": [
+        {
+          "eng": "We served potato chips with a creamy garlic dip.",
+          "ch": "我們準備了洋芋片搭配香濃的蒜味沾醬。"
+        },
+        {
+          "eng": "There is a sudden dip in the road ahead, so drive carefully.",
+          "ch": "前面道路上有個突如其來的凹陷處，開車請小心。"
+        }
+      ]
+    },
+    {
+      "eng": "dip",
+      "kk": "dɪp",
+      "tense": "vt.",
+      "ch": [
+        [
+          "浸",
+          "蘸",
+          "沾"
+        ],
+        [
+          "向下傾斜",
+          "下降"
+        ]
+      ],
+      "analysis": "源自古英語 dyppan（浸入、使沒入水中），為日耳曼語族繼承詞。本義指將物體快速放入液體中沾一下，後也引申指水平線、數值或價格的短暫向下凹陷或降低。",
+      "definition": "1. to put something quickly into a liquid and take it out again; 2. to move downward or lower in level.",
+      "example": [
+        {
+          "eng": "He likes to dip his bread into the hot soup.",
+          "ch": "他喜歡把麵包沾進熱湯裡。"
+        },
+        {
+          "eng": "Stock prices began to dip in the afternoon session.",
+          "ch": "股票價格在下午盤開始下跌。"
+        }
+      ]
+    }
+  ]
+}

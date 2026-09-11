@@ -1,0 +1,1333 @@
+{
+  "level": 6,
+  "chunkIndex": 13,
+  "inputs": [
+    "mute",
+    "nag",
+    "narrate",
+    "narrator",
+    "nationalism",
+    "navigate",
+    "navigation",
+    "nearsighted",
+    "nickel",
+    "nostril",
+    "notable",
+    "notorious",
+    "nourish",
+    "nourishment",
+    "novice",
+    "nucleus",
+    "nude",
+    "nurture",
+    "oasis",
+    "oath",
+    "oatmeal",
+    "oblige",
+    "obsess",
+    "obstinate",
+    "occurrence",
+    "octopus",
+    "odor",
+    "offshore",
+    "offspring",
+    "operative",
+    "oppress",
+    "oppression",
+    "ordeal",
+    "orderly",
+    "organizer",
+    "orient",
+    "oriental",
+    "originate",
+    "ornament",
+    "orphanage",
+    "orthodox",
+    "ounce",
+    "outbreak",
+    "outgoing",
+    "outing",
+    "outlaw",
+    "outlook",
+    "outnumber",
+    "outrage",
+    "outrageous"
+  ],
+  "rows": [
+    {
+      "eng": "mute",
+      "kk": "/mjut/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "減弱（聲音）",
+          "使聲音變輕"
+        ],
+        [
+          "消除",
+          "使不發出聲音"
+        ]
+      ],
+      "analysis": "此動詞由形容詞 mute 透過零轉品（zero-derivation）轉化而來，保持相同的拼字與語義核心。語義從形容詞原意「無聲的、不發言的」轉化為及物動詞的施動行為，表示「使變得無聲、減弱或消除聲音」。",
+      "definition": "1. to deaden, muffle, or reduce the sound of something; 2. to silence or suppress a sound.",
+      "example": [
+        {
+          "eng": "Please mute your microphone during the online meeting.",
+          "ch": "請線上開會時將你的麥克風靜音。"
+        },
+        {
+          "eng": "He tried to mute his footsteps as he walked down the hall.",
+          "ch": "他走過走廊時試圖放輕腳步。"
+        }
+      ]
+    },
+    {
+      "eng": "mute",
+      "kk": "/mjut/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "啞的",
+          "不能說話的"
+        ],
+        [
+          "無聲的",
+          "不出聲的"
+        ]
+      ],
+      "analysis": "此單字為現代透明的形容詞，源自中古英語 mut，可追溯至拉丁語 mūtus（啞的、發不出聲音的）。語義從原本生理上的「無法說話」延伸出抽象的「不發言的、無聲的」。",
+      "definition": "1. unable to speak; 2. making no sound or kept silent.",
+      "example": [
+        {
+          "eng": "He was born deaf and mute.",
+          "ch": "他生來又聾又啞。"
+        },
+        {
+          "eng": "The building stood in mute darkness.",
+          "ch": "這棟建築物在無聲的黑暗中佇立著。"
+        }
+      ]
+    },
+    {
+      "eng": "nag",
+      "kk": "/næɡ/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "嘮叨",
+          "不斷抱怨"
+        ]
+      ],
+      "analysis": "此動詞為日耳曼語族起源的擬聲或根源詞，與古諾斯語 nagga（呢喃、抱怨）相關。作為及物動詞時，指持續不斷地對某人抱怨、挑剔或催促。",
+      "definition": "1. to keep annoying someone by complaining, urging, or finding fault constantly.",
+      "example": [
+        {
+          "eng": "She kept nagging him to clean his room.",
+          "ch": "她一直嘮叨叫他清理房間。"
+        }
+      ]
+    },
+    {
+      "eng": "nag",
+      "kk": "/næɡ/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "嘮叨",
+          "喋喋不休"
+        ]
+      ],
+      "analysis": "此動詞的不及物用法，同樣源自日耳曼語源。指持續發出抱怨或挑剔的言論，不接直接受詞。",
+      "definition": "1. to habitually find fault or complain persistently.",
+      "example": [
+        {
+          "eng": "It is no use to nag about past mistakes.",
+          "ch": "嘮叨過去的錯誤是沒有用的。"
+        }
+      ]
+    },
+    {
+      "eng": "narrate",
+      "kk": "/ˈnɛˌreɪt/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "敘述",
+          "講述（故事或事件）"
+        ],
+        [
+          "擔任旁白",
+          "為……配旁白"
+        ]
+      ],
+      "analysis": "此動詞源自拉丁語 nārrātus（nārrāre 的過去分詞，意為講述、使人知道），由根源 nārus（明了的、知曉的）衍生而來。語義從「詳細說出事情經過」引申出「為影片或廣播擔任旁白」。",
+      "definition": "1. to tell a story or give a spoken account of events; 2. to provide spoken commentary for a film, documentary, or broadcast.",
+      "example": [
+        {
+          "eng": "The author narrates the story from a child's perspective.",
+          "ch": "作者從孩子的視角敘述這個故事。"
+        },
+        {
+          "eng": "A famous actor will narrate the nature documentary.",
+          "ch": "一位著名的演員將為這部自然紀錄片擔任旁白。"
+        }
+      ]
+    },
+    {
+      "eng": "narrator",
+      "kk": "/ˈnɛˌreɪtər/",
+      "tense": "n.",
+      "ch": [
+        [
+          "敘述者",
+          "講故事的人"
+        ],
+        [
+          "旁白者"
+        ]
+      ],
+      "analysis": "此名詞由動詞 narrate 加上表示人的名詞字尾 -or 構成。指負責敘述故事、事件或擔任節目旁白的人或角色。",
+      "definition": "1. a person who tells a story or gives an account of something; 2. the voice that provides commentary in a film or broadcast.",
+      "example": [
+        {
+          "eng": "The novel uses an unreliable narrator to create suspense.",
+          "ch": "這部小說採用了不可靠的敘述者來營造懸疑感。"
+        },
+        {
+          "eng": "The narrator's voice set a calm tone for the film.",
+          "ch": "旁白的聲音為這部電影定下了平靜的基調。"
+        }
+      ]
+    },
+    {
+      "eng": "nationalism",
+      "kk": "/ˈnæʃənəˌlɪzəm/",
+      "tense": "n.",
+      "ch": [
+        [
+          "民族主義",
+          "國家主義"
+        ],
+        [
+          "愛國主義",
+          "民族優越感"
+        ]
+      ],
+      "analysis": "此名詞由形容詞 national（國家的、民族的，源自 nation）加上表示主義、學說的名詞字尾 -ism 構成。指對自身民族或國家的強烈認同、忠誠，或追求國家獨立與主權的政治思想。",
+      "definition": "1. patriotic feeling, principles, or efforts; 2. an ideology that emphasizes loyalty and devotion to a particular nation.",
+      "example": [
+        {
+          "eng": "The 19th century saw a rise in European nationalism.",
+          "ch": "19世紀見證了歐洲民族主義的興起。"
+        },
+        {
+          "eng": "Extreme nationalism can lead to international conflicts.",
+          "ch": "極端的國家主義可能導致國際衝突。"
+        }
+      ]
+    },
+    {
+      "eng": "navigate",
+      "kk": "/ˈnævəˌɡeɪt/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "導航",
+          "判定並控制（船隻或飛機）的航向"
+        ],
+        [
+          "成功穿越",
+          "應付並通過（困難的情勢）"
+        ]
+      ],
+      "analysis": "此動詞源自拉丁語 nāvigātus（nāvigāre 的過去分詞，由 nāvis「船」與 agere「驅動、引導」複合而成）。語義從原本的「駕駛船隻航行」抽象延伸為「在複雜情勢中找尋道路或應付難題」。",
+      "definition": "1. to plan and direct the course of a ship, aircraft, or vehicle; 2. to successfully maneuver through a difficult situation.",
+      "example": [
+        {
+          "eng": "Sailors used the stars to navigate the open sea.",
+          "ch": "水手們利用星星在公海上導航。"
+        },
+        {
+          "eng": "The company had to navigate a severe financial crisis.",
+          "ch": "這家公司必須應付並度過嚴重的金融危機。"
+        }
+      ]
+    },
+    {
+      "eng": "navigation",
+      "kk": "/ˌnævəˈɡeɪʃən/",
+      "tense": "n.",
+      "ch": [
+        [
+          "導航",
+          "航行"
+        ],
+        [
+          "導航系統"
+        ]
+      ],
+      "analysis": "此名詞由動詞 navigate 加上名詞字尾 -ion 結合而成。指引導船隻、飛機或車輛行進的科學或技術，亦指車用或電子設備中的導航功能。",
+      "definition": "1. the process or activity of accurately plotting and controlling the movement of a craft or vehicle; 2. a system or software that guides drivers or pilots.",
+      "example": [
+        {
+          "eng": "Modern navigation relies heavily on satellites and GPS.",
+          "ch": "現代導航極度依賴衛星與全球定位系統。"
+        },
+        {
+          "eng": "Turn on the car's navigation to find the fastest route.",
+          "ch": "開啟汽車的導航以尋找最快的路線。"
+        }
+      ]
+    },
+    {
+      "eng": "nearsighted",
+      "kk": "/ˈnɪrˌsaɪtɪd/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "近視的"
+        ],
+        [
+          "目光短淺的",
+          "缺乏遠見的"
+        ]
+      ],
+      "analysis": "此形容詞為透明的複合詞，由 near（近的）與 sighted（看得見的、有視力的，源自 sight）結合而成。字面意為「只能看見近處的」，進而引申出「目光短淺、缺乏遠見」的抽象義。",
+      "definition": "1. able to see objects clearly only when they are close to the eye; 2. lacking foresight or imagination.",
+      "example": [
+        {
+          "eng": "She is nearsighted and needs glasses to read the board.",
+          "ch": "她有近視，需要戴眼鏡才能看清黑板。"
+        },
+        {
+          "eng": "Cutting education funding now is a nearsighted policy.",
+          "ch": "現在削減教育經費是一項目光短淺的政策。"
+        }
+      ]
+    },
+    {
+      "eng": "nickel",
+      "kk": "/ˈnɪkəl/",
+      "tense": "n.",
+      "ch": [
+        [
+          "鎳（化學元素，符號 Ni）"
+        ],
+        [
+          "五分硬幣（美國或加拿大幣值五分的硬幣）"
+        ]
+      ],
+      "analysis": "此名詞源自德語 Nickel，原為 Kupfernickel（意為「假銅礦、惡魔的銅」），用來形容一種外表像銅卻煉不出銅的礦石，後用來指金屬「鎳」；在北美因該金屬常被用於鑄造五分錢而衍生出「五分硬幣」的義項。",
+      "definition": "1. a hard silvery-white metallic element; 2. a US or Canadian coin worth five cents.",
+      "example": [
+        {
+          "eng": "Stainless steel contains a high percentage of nickel.",
+          "ch": "不鏽鋼含有高比例的鎳。"
+        },
+        {
+          "eng": "He dropped a nickel into the parking meter.",
+          "ch": "他投了一個五分硬幣到停車計費器裡。"
+        }
+      ]
+    },
+    {
+      "eng": "nostril",
+      "kk": "/ˈnɑstrəl/",
+      "tense": "n.",
+      "ch": [
+        [
+          "鼻孔"
+        ]
+      ],
+      "analysis": "此名詞源自古英語 nōstȳrel，由 nōse（鼻子）與 thyrel（孔、洞，源自 thurh「穿過」）複合而成。字面即「鼻子上的孔洞」，經語音演變為現代拼字。",
+      "definition": "1. one of the two external openings of the nose.",
+      "example": [
+        {
+          "eng": "He took a deep breath through his nostrils.",
+          "ch": "他透過鼻孔深深吸了一口氣。"
+        }
+      ]
+    },
+    {
+      "eng": "notable",
+      "kk": "/ˈnoʊtəbəl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "值得注意的",
+          "顯著的"
+        ],
+        [
+          "著名的",
+          "知名的"
+        ]
+      ],
+      "analysis": "此形容詞源自拉丁語 notabilis（意為值得注意的，由 notāre「注意、標記」與形容詞字尾 -abilis「可……的」複合而成）。字面意為「值得被注意或記住的」。",
+      "definition": "1. worthy of attention or notice; 2. striking, remarkable, or well-known.",
+      "example": [
+        {
+          "eng": "There was a notable increase in sales this quarter.",
+          "ch": "本季的銷售額有顯著的成長。"
+        },
+        {
+          "eng": "She is a notable scientist in the field of genetics.",
+          "ch": "她是遺傳學領域中一位著名的科學家。"
+        }
+      ]
+    },
+    {
+      "eng": "notorious",
+      "kk": "/noʊˈtɔriəs/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "聲名狼藉的",
+          "惡名昭彰的"
+        ]
+      ],
+      "analysis": "此形容詞源自中世紀拉丁語 notōrius（意為眾所周知的，由拉丁語 nōtus「已知的」衍生而來）。在歷史演變中，其義項逐漸貶化，專門用來指因為壞事而「眾所周知、聲名狼藉」。",
+      "definition": "1. famous or well known, typically for some bad quality or deed.",
+      "example": [
+        {
+          "eng": "The city is notorious for its heavy traffic jams.",
+          "ch": "這座城市以交通嚴重堵塞而惡名昭彰。"
+        }
+      ]
+    },
+    {
+      "eng": "nourish",
+      "kk": "/ˈnɜrɪʃ/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "滋養",
+          "給予營養"
+        ],
+        [
+          "培育",
+          "懷有（希望、想法等）"
+        ]
+      ],
+      "analysis": "此動詞源自古法語 noriss-, nourrir（餵養、扶養），最終源自拉丁語 nūtrīre（哺乳、滋養）。語義從生理上的「提供營養以助生長」引申出抽象的「孕育情感或想法」。",
+      "definition": "1. to provide the food or substances necessary for growth, health, and good condition; 2. to keep alive, hold, or foster an idea, feeling, or ambition.",
+      "example": [
+        {
+          "eng": "Healthy food helps nourish the body.",
+          "ch": "健康的食物有助於滋養身體。"
+        },
+        {
+          "eng": "She continued to nourish a secret dream of becoming a writer.",
+          "ch": "她心中依然懷著成為作家的秘密夢想。"
+        }
+      ]
+    },
+    {
+      "eng": "nourishment",
+      "kk": "/ˈnɜrɪʃmənt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "營養",
+          "滋養物"
+        ],
+        [
+          "精神上的養分"
+        ]
+      ],
+      "analysis": "此名詞由動詞 nourish 加上名詞字尾 -ment 構成。指維持生命與健康所需的食物或養分，亦可抽象指心靈或精神獲得的滋潤與支持。",
+      "definition": "1. substance that is necessary for growth, health, and good condition; 2. mental or emotional support.",
+      "example": [
+        {
+          "eng": "Plants draw nourishment from the soil.",
+          "ch": "植物從土壤中吸取養分。"
+        },
+        {
+          "eng": "Art and literature provide nourishment for the soul.",
+          "ch": "藝術與文學為靈魂提供養分。"
+        }
+      ]
+    },
+    {
+      "eng": "novice",
+      "kk": "/ˈnɑvɪs/",
+      "tense": "n.",
+      "ch": [
+        [
+          "新手",
+          "初學者"
+        ],
+        [
+          "修道院中的初學修士／修女"
+        ]
+      ],
+      "analysis": "此名詞源自拉丁語 novicius（新近的、初學的，由 novus「新的」衍生而來）。經由中古法語與拉丁教會用語進入英語，原本專指修道院中剛入會、尚未發願的初修修士，後泛指各領域的初學者。",
+      "definition": "1. a person new to and inexperienced in a job or situation; 2. a person who has entered a religious order but has not yet taken final vows.",
+      "example": [
+        {
+          "eng": "The software is easy to use even for a novice.",
+          "ch": "這套軟體即便是新手也很容易上手。"
+        },
+        {
+          "eng": "She spent a year as a novice before taking her vows.",
+          "ch": "她在發願前當了一年的修女初學者。"
+        }
+      ]
+    },
+    {
+      "eng": "nucleus",
+      "kk": "/ˈnukliəs/",
+      "tense": "n.",
+      "ch": [
+        [
+          "原子核"
+        ],
+        [
+          "核心",
+          "中心人物或組織"
+        ]
+      ],
+      "analysis": "此名詞直接借自拉丁語 nucleus（意為核、仁，由 nux「堅果」衍生而來）。在科學上用來指原子核或細胞核，隨後引申出一般事物或團隊的「核心、中心」。",
+      "definition": "1. the central and most important part of an object, movement, or group; 2. the positively charged central core of an atom.",
+      "example": [
+        {
+          "eng": "A few experienced employees formed the nucleus of the new team.",
+          "ch": "幾位經驗豐富的員工成了新團隊的核心。"
+        },
+        {
+          "eng": "Protons and neutrons are found in the nucleus of an atom.",
+          "ch": "質子與中子存在於原子核中。"
+        }
+      ]
+    },
+    {
+      "eng": "nude",
+      "kk": "/nud/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "裸體的",
+          "赤裸的"
+        ]
+      ],
+      "analysis": "此形容詞源自拉丁語 nūdus（赤裸的、無遮蔽的）。在現代英語中用來形容人體未穿衣服或未受遮蔽的狀態。",
+      "definition": "1. without clothes on; naked.",
+      "example": [
+        {
+          "eng": "The painting depicts a human figure in the nude.",
+          "ch": "這幅畫描繪了一個裸體的人形。"
+        }
+      ]
+    },
+    {
+      "eng": "nurture",
+      "kk": "/ˈnɜrtʃər/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "養育",
+          "培育"
+        ],
+        [
+          "培植",
+          "扶植（計畫或關係）"
+        ]
+      ],
+      "analysis": "此動詞源自中古法語 nurture（nourrir 的名詞與動詞衍生形，最終源自拉丁語 nūtrīre「餵養, 滋養」）。在英語中演變為動詞，指提供養分、教育與關愛以促成生物或事物的成長。",
+      "definition": "1. to care for and encourage the growth or development of someone or something; 2. to cherish a hope, belief, or ambition.",
+      "example": [
+        {
+          "eng": "Parents need patience to nurture their children.",
+          "ch": "父母需要耐心來養育孩子。"
+        },
+        {
+          "eng": "She nurtured a dream of opening her own bakery.",
+          "ch": "她懷揣著開一家自己烘焙坊的夢想。"
+        }
+      ]
+    },
+    {
+      "eng": "oasis",
+      "kk": "/oʊˈeɪsɪs/",
+      "tense": "n.",
+      "ch": [
+        [
+          "綠洲"
+        ],
+        [
+          "（困境中的）舒適地方",
+          "樂土"
+        ]
+      ],
+      "analysis": "此名詞源自希臘語 ὄασις（wāsis，源自古埃及語 wḥst），原本指沙漠中有水草的肥沃地區（綠洲），後引申出抽象義，指喧囂或壓力環境中的寧靜避難所。",
+      "definition": "1. a fertile spot in a desert where water is found; 2. a pleasant place or period in the midst of a difficult, troubled, or hectic situation.",
+      "example": [
+        {
+          "eng": "The travelers rested at a shady oasis in the desert.",
+          "ch": "旅客們在沙漠中陰涼的綠洲休息。"
+        },
+        {
+          "eng": "The quiet library was an oasis of calm in the busy city.",
+          "ch": "安靜的圖書館是喧囂城市中的一處寧靜綠洲。"
+        }
+      ]
+    },
+    {
+      "eng": "oath",
+      "kk": "/oʊθ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "誓言",
+          "宣誓"
+        ],
+        [
+          "詛咒",
+          "髒話"
+        ]
+      ],
+      "analysis": "此名詞源自古英語 āth（誓言、盟約），屬於日耳曼語源。語義從對神明或法律所做的嚴肅承諾（誓言），延伸出在憤怒時脫口而出的咒罵或穢語（詛咒）。",
+      "definition": "1. a solemn promise, often invoking a divine witness, regarding one's future action or behavior; 2. a rude or offensive expression using sacred words; a swear word.",
+      "example": [
+        {
+          "eng": "The president took an oath of office before starting his term.",
+          "ch": "總統在就職前進行了就職宣誓。"
+        },
+        {
+          "eng": "He let out an angry oath when he dropped his keys.",
+          "ch": "當他掉落鑰匙時，憤怒地罵了一句髒話。"
+        }
+      ]
+    },
+    {
+      "eng": "oatmeal",
+      "kk": "/ˈoʊtˌmil/",
+      "tense": "n.",
+      "ch": [
+        [
+          "燕麥片",
+          "燕麥粥"
+        ]
+      ],
+      "analysis": "此名詞為透明的複合詞，由 oat（燕麥）與 meal（粗磨粉，源自古英語 mēle）結合而成。字面意為「磨碎的燕麥粉」，現代則普遍指用燕麥片煮成的溫熱早餐粥。",
+      "definition": "1. meal made from ground oats; 2. a porridge made by boiling oats in milk or water.",
+      "example": [
+        {
+          "eng": "She likes to eat a bowl of warm oatmeal for breakfast.",
+          "ch": "她喜歡早餐吃一碗溫熱的燕麥粥。"
+        }
+      ]
+    },
+    {
+      "eng": "oblige",
+      "kk": "/əˈblaɪdʒ/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "施恩幫忙",
+          "效勞"
+        ],
+        [
+          "迫使",
+          "使負有義務"
+        ]
+      ],
+      "analysis": "此動詞源自拉丁語 obligāre（ob-「向著、加強」+ ligāre「綁、繫」，意為綁緊、使負義務），經由中古法語進入英語。語義從早期的「法律或道德上的束縛、強制」，演變出現代的「答應請求以幫忙」及「迫使」兩個核心義。",
+      "definition": "1. to do as someone asks in order to help or please them; 2. to constrain, compel, or legally bind someone to do something.",
+      "example": [
+        {
+          "eng": "We were happy to oblige our guests with extra towels.",
+          "ch": "我們很樂意提供額外的毛巾來幫客人的忙。"
+        },
+        {
+          "eng": "The law obliges employers to provide a safe workplace.",
+          "ch": "法律強迫雇主提供安全的工作場所。"
+        }
+      ]
+    },
+    {
+      "eng": "obsess",
+      "kk": "/əbˈsɛs/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使著迷",
+          "使腦海揮之不去"
+        ]
+      ],
+      "analysis": "此動詞源自拉丁語 obsessus（obsidere 的過去分詞，ob-「對面、包圍」+ sedēre「坐」，本義為「包圍、圍城」）。在歷史演變中，意義從實體包圍轉為「心靈或意念被某事物持續佔據、盤旋不去」。",
+      "definition": "1. to preoccupy the mind of someone continually and to a troubling extent.",
+      "example": [
+        {
+          "eng": "He tends to obsess over small details in his work.",
+          "ch": "他在工作上往往會過度執著於小細節。"
+        }
+      ]
+    },
+    {
+      "eng": "obstinate",
+      "kk": "/ˈɑbstənət/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "頑固的",
+          "固執己見的"
+        ],
+        [
+          "（疾病等）難治癒的",
+          "根深蒂固的"
+        ]
+      ],
+      "analysis": "此形容詞源自拉丁語 obstinātus（obstināre 的過去分詞，ob-「對抗」+ stāre「站立」，意為「站著對抗、固執」）。語義從人格特質的「固執不聽勸」，延伸出描述問題或疾病「難以根除或治療」。",
+      "definition": "1. stubbornly refusing to change one's opinion or chosen course of action; 2. difficult to deal with, cure, or overcome.",
+      "example": [
+        {
+          "eng": "Despite all advice, he remained obstinate in his decision.",
+          "ch": "儘管有諸多勸告，他在決定上依然十分頑固。"
+        },
+        {
+          "eng": "She suffered from an obstinate cough that lasted for weeks.",
+          "ch": "她飽受持續數周、難以治癒的咳嗽之苦。"
+        }
+      ]
+    },
+    {
+      "eng": "occurrence",
+      "kk": "/əˈkɜrəns/",
+      "tense": "n.",
+      "ch": [
+        [
+          "發生",
+          "事件"
+        ],
+        [
+          "出現率",
+          "發生率"
+        ]
+      ],
+      "analysis": "此名詞由動詞 occur（發生，源自拉丁語 occurrere）加上名詞字尾 -ence 構成。指某個事件發生的實體，或某事發生的頻率。",
+      "definition": "1. an incident, event, or happening; 2. the fact or frequency of something happening.",
+      "example": [
+        {
+          "eng": "Earthquakes are a common occurrence in this region.",
+          "ch": "地震在這個地區是司空見慣的事。"
+        },
+        {
+          "eng": "The high occurrence of errors required a system update.",
+          "ch": "高頻率的錯誤發生需要進行系統更新。"
+        }
+      ]
+    },
+    {
+      "eng": "octopus",
+      "kk": "/ˈɑktəpəs/",
+      "tense": "n.",
+      "ch": [
+        [
+          "章魚"
+        ]
+      ],
+      "analysis": "此名詞源自希臘語 ὀκτώπους（oktōpous，由 ὀκτώ「八」與 ποῦς「腳」複合而成）。字面意為「八隻腳的動物」，指頭足綱章魚屬的海生動物。",
+      "definition": "1. a sea animal with a soft body and eight long arms.",
+      "example": [
+        {
+          "eng": "The octopus can change its color to hide from predators.",
+          "ch": "章魚可以改變體色來躲避掠食者。"
+        }
+      ]
+    },
+    {
+      "eng": "odor",
+      "kk": "/ˈoʊdər/",
+      "tense": "n.",
+      "ch": [
+        [
+          "氣味",
+          "臭味"
+        ]
+      ],
+      "analysis": "此名詞源自拉丁語 odor（氣味、香味或臭味）。在現代英語中可指任何氣味，但常帶有稍微強烈或刺鼻的氣味（尤其是異味）之意。",
+      "definition": "1. a smell, often one that is unpleasant.",
+      "example": [
+        {
+          "eng": "A strange odor came from the old refrigerator.",
+          "ch": "舊冰箱裡飄出了一股奇怪的氣味。"
+        }
+      ]
+    },
+    {
+      "eng": "offshore",
+      "kk": "/ˈɔfˌʃɔr/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "離岸的",
+          "近海的"
+        ],
+        [
+          "（公司或資產）海外的",
+          "境外避稅的"
+        ]
+      ],
+      "analysis": "此形容詞為透明的複合詞，由 off（離開、遠離）與 shore（海岸）結合而成。字面意為「離開海岸的」，在地理上指海面上離岸一定距離的事物，在商業與金融上則引申指「海外的、境外設立的」。",
+      "definition": "1. moving or operating away from the shore, out at sea; 2. based or registered in a foreign country, typically for tax or legal benefits.",
+      "example": [
+        {
+          "eng": "The wind was blowing offshore, carrying the boat further out.",
+          "ch": "風正向離岸方向吹去，將小船推得更遠。"
+        },
+        {
+          "eng": "Many corporations set up offshore accounts to manage assets.",
+          "ch": "許多企業設立境外帳戶來管理資產。"
+        }
+      ]
+    },
+    {
+      "eng": "offspring",
+      "kk": "/ˈɔfˌsprɪŋ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "子女",
+          "後代"
+        ],
+        [
+          "幼獸",
+          "動物的下一代"
+        ]
+      ],
+      "analysis": "此名詞為古英語遺留的複合詞，由 off（遠離、自……衍生）與 spring（發芽、躍出，源自 springan）結合而成。字面意為「從主體衍生出的幼苗或後代」，可用於人類或動物的下一代。",
+      "definition": "1. a person's child or children; 2. the young of an animal.",
+      "example": [
+        {
+          "eng": "She was very protective of her offspring.",
+          "ch": "她對自己的孩子們極具保護欲。"
+        },
+        {
+          "eng": "The lioness watched over her young offspring.",
+          "ch": "母獅看守著她幼小的後代。"
+        }
+      ]
+    },
+    {
+      "eng": "operative",
+      "kk": "/ˈɑpərətɪv/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "起作用的",
+          "生效的"
+        ],
+        [
+          "手術的"
+        ]
+      ],
+      "analysis": "此形容詞源自中世紀拉丁語 operatīvus（由拉丁語 operārī「工作、運作」衍生而來）。指某法律、規則或規定目前正在實施並發揮效力，亦可指與外科手術有關的。",
+      "definition": "1. in force, working, or having effect; 2. relating to or used in surgical operations.",
+      "example": [
+        {
+          "eng": "The new safety regulations are now operative.",
+          "ch": "新的安全規章現在已經生效實施。"
+        },
+        {
+          "eng": "The patient was prepared for operative procedures.",
+          "ch": "病患已準備好接受手術程序。"
+        }
+      ]
+    },
+    {
+      "eng": "oppress",
+      "kk": "/əˈprɛs/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "壓迫",
+          "壓制"
+        ],
+        [
+          "使（心靈）沉重憂鬱"
+        ]
+      ],
+      "analysis": "此動詞源自拉丁語 oppressus（opprimere 的過去分詞，ob-「反對、對抗」+ premere「壓」，意為「壓在上面、壓垮」）。語義從物理上的壓迫，延伸至政治社會上的殘酷壓榨，以及心理上使人感到沉重和喘不過氣。",
+      "definition": "1. to keep someone in subservience and hardship, especially by the unjust exercise of authority; 2. to weigh heavily on the mind or spirit of someone.",
+      "example": [
+        {
+          "eng": "Dictators often oppress their own people to maintain power.",
+          "ch": "獨裁者經常壓迫自己的人民來維持權力。"
+        },
+        {
+          "eng": "A sense of gloom oppressed her throughout the winter.",
+          "ch": "整個冬天，一股陰霾的心情使她感到沉重鬱悶。"
+        }
+      ]
+    },
+    {
+      "eng": "oppression",
+      "kk": "/əˈprɛʃən/",
+      "tense": "n.",
+      "ch": [
+        [
+          "壓迫",
+          "壓榨"
+        ],
+        [
+          "鬱悶",
+          "沉重感"
+        ]
+      ],
+      "analysis": "此名詞由動詞 oppress 加上名詞字尾 -ion 結合而成。指長期受到不公義權力施加的殘酷統治或奴役，亦可指精神上的壓抑與憂鬱。",
+      "definition": "1. prolonged cruel or unjust treatment or control; 2. a sense of physical or mental heaviness and distress.",
+      "example": [
+        {
+          "eng": "The citizens fought bravely against years of political oppression.",
+          "ch": "市民們勇敢地對抗多年的政治壓迫。"
+        },
+        {
+          "eng": "She felt a deep sense of oppression in the dark room.",
+          "ch": "她在黑暗的房間裡感到一股深深的壓抑與沉重感。"
+        }
+      ]
+    },
+    {
+      "eng": "ordeal",
+      "kk": "/ɔrˈdiəl/",
+      "tense": "n.",
+      "ch": [
+        [
+          "嚴酷的考驗",
+          "痛苦的經歷",
+          "煎熬"
+        ]
+      ],
+      "analysis": "此名詞源自古英語 ordāl（判決、神明裁判法，由 or-「超出、外」+ dēljan「分配、判決」複合而成）。歷史上指中古世紀用受火刑或水刑來測試有罪與否的「神判法」，後來語義泛指任何極度痛苦、艱難的經歷。",
+      "definition": "1. a very unpleasant and painful or difficult experience.",
+      "example": [
+        {
+          "eng": "She finally recovered from the ordeal of her long illness.",
+          "ch": "她終於從那場久病煎熬的痛苦經歷中恢復過來。"
+        }
+      ]
+    },
+    {
+      "eng": "orderly",
+      "kk": "/ˈɔrdərli/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "整齊的",
+          "有秩序的"
+        ],
+        [
+          "守紀律的",
+          "循規蹈矩的"
+        ]
+      ],
+      "analysis": "此形容詞由名詞 order（秩序）加上形容詞字尾 -ly 構成。指事物排列井然有序、合乎規則，或人的行為舉止守紀律、不混亂。",
+      "definition": "1. neatly and methodically arranged; 2. well-behaved and respectful of rules and authority.",
+      "example": [
+        {
+          "eng": "The books on the shelf were kept in an orderly fashion.",
+          "ch": "書架上的書保持得井然有序。"
+        },
+        {
+          "eng": "The protesters remained peaceful and orderly.",
+          "ch": "抗議者們保持和平且守秩序。"
+        }
+      ]
+    },
+    {
+      "eng": "organizer",
+      "kk": "/ˈɔrɡəˌnaɪzər/",
+      "tense": "n.",
+      "ch": [
+        [
+          "組織者",
+          "籌辦人"
+        ],
+        [
+          "收納盒",
+          "文件整理夾"
+        ]
+      ],
+      "analysis": "此名詞由動詞 organize（組織、安排）加上表示人或物的名詞字尾 -er 構成。可用於指籌劃活動的「主辦人、籌辦者」，亦可指幫助分類整理物品的「收納用品或整理夾」。",
+      "definition": "1. a person who arranges or plans an event or organization; 2. a container, folder, or software used for storing and sorting items.",
+      "example": [
+        {
+          "eng": "The event organizers worked hard to make the conference a success.",
+          "ch": "活動籌辦人努力使這次會議順利成功。"
+        },
+        {
+          "eng": "She uses a desk organizer to keep her stationery neat.",
+          "ch": "她用桌上收納盒來保持文具整潔。"
+        }
+      ]
+    },
+    {
+      "eng": "orient",
+      "kk": "/ˈɔriənt/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使適應",
+          "使熟悉（環境）"
+        ],
+        [
+          "以……為方向",
+          "定位"
+        ]
+      ],
+      "analysis": "此動詞源自拉丁語 oriēns（日出之處、東方，源自 orīrī「升起」）。歷史上建築常面向東方以迎接日出，因而衍生出「確定方位、校準方向」之義，並進一步演變為「使人熟悉新環境、使適應」。",
+      "definition": "1. to align or position something relative to the points of a compass or other specified positions; 2. to adapt or familiarize someone to a new environment or situation.",
+      "example": [
+        {
+          "eng": "New employees need a few days to orient themselves to the office culture.",
+          "ch": "新進員工需要幾天來讓自己適應辦公室文化。"
+        },
+        {
+          "eng": "The map helped him orient his position in the city.",
+          "ch": "這張地圖幫助他在城裡辨認自己的方位。"
+        }
+      ]
+    },
+    {
+      "eng": "oriental",
+      "kk": "/ˌɔriˈɛntəl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "東方的",
+          "東方世界的"
+        ]
+      ],
+      "analysis": "此形容詞由名詞 orient（東方，源自拉丁語 oriēns「升起、東方」）加上形容詞字尾 -al 構成。傳統上用來指稱東方世界（特別是亞洲）的文化、藝術或地理特徵。",
+      "definition": "1. of, from, or characteristic of the East, especially the eastern regions of Asia.",
+      "example": [
+        {
+          "eng": "The museum has a rich collection of Oriental art.",
+          "ch": "這座博物館藏有豐富的東方藝術品。"
+        }
+      ]
+    },
+    {
+      "eng": "originate",
+      "kk": "/əˈrɪdʒəˌneɪt/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "起源",
+          "發源"
+        ],
+        [
+          "創立",
+          "產生"
+        ]
+      ],
+      "analysis": "此動詞由拉丁語 orīgō（起源、源頭，源自 orīrī「升起」）衍生出的動詞形。作為不及物動詞時，指事物最初從某個地方、時間或情況中開始萌芽或產生。",
+      "definition": "1. to have a specified beginning or come into existence from a particular source.",
+      "example": [
+        {
+          "eng": "Many ancient legends originate from local folklore.",
+          "ch": "許多古老的傳說起源於當地的民間傳說。"
+        }
+      ]
+    },
+    {
+      "eng": "ornament",
+      "kk": "/ˈɔrnəmənt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "裝飾品",
+          "飾物"
+        ]
+      ],
+      "analysis": "此名詞源自拉丁語 ōrnāmentum（裝飾、裝備，由 ōrnāre「裝飾、打扮」衍生而來）。指用來增加美觀或點綴的物品。",
+      "definition": "1. a thing used to make something look more attractive, but usually having no practical purpose.",
+      "example": [
+        {
+          "eng": "They hung colorful glass ornaments on the Christmas tree.",
+          "ch": "他們在聖誕樹上掛了五顏六色的玻璃裝飾品。"
+        }
+      ]
+    },
+    {
+      "eng": "orphanage",
+      "kk": "/ˈɔrfənɪdʒ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "孤兒院"
+        ]
+      ],
+      "analysis": "此名詞由 orphan（孤兒，源自希臘語 ὀρφανός）加上名詞字尾 -age（表示場所或狀態）構成。指專門收容和撫養孤兒的機構或設施。",
+      "definition": "1. a residential institution for the care and protection of orphans.",
+      "example": [
+        {
+          "eng": "He grew up in an orphanage before being adopted.",
+          "ch": "他在被收養前是在孤兒院長大的。"
+        }
+      ]
+    },
+    {
+      "eng": "orthodox",
+      "kk": "/ˈɔrθəˌdɑks/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "正統的",
+          "傳統的"
+        ],
+        [
+          "（宗教信仰）正教會的",
+          "東正教的"
+        ]
+      ],
+      "analysis": "此形容詞源自希臘語 ὀρθόδοξος（orthodoxos，由 ὀρθός「正、直」與 δόξα「觀點、榮耀、教義」複合而成）。字面意為「正統的見解、符合傳統教義的」，廣泛用於思想、習俗或特指基督教東正教（Orthodox Church）。",
+      "definition": "1. conforming to what is generally or traditionally accepted as right or true; 2. belonging to the Orthodox Church.",
+      "example": [
+        {
+          "eng": "The doctor decided to use orthodox medical treatments.",
+          "ch": "醫生決定採用正統的醫療方法。"
+        },
+        {
+          "eng": "She practices the traditions of the Greek Orthodox faith.",
+          "ch": "她奉行希臘東正教信仰的傳統。"
+        }
+      ]
+    },
+    {
+      "eng": "ounce",
+      "kk": "/aʊns/",
+      "tense": "n.",
+      "ch": [
+        [
+          "盎司（重量單位）"
+        ],
+        [
+          "少許",
+          "微量"
+        ]
+      ],
+      "analysis": "此名詞源自拉丁語 uncia（意為十二分之一，為羅馬磅或尺的十二分之一單位），經由古法語進入英語。在現代英語中作為常衡制或金衡制的重量單位，亦可抽象引申為「極少量的某特質」。",
+      "definition": "1. a unit of weight equal to one sixteenth of a pound (about 28.3 grams); 2. a very small amount.",
+      "example": [
+        {
+          "eng": "The recipe calls for six ounces of cheese.",
+          "ch": "這道食譜需要六盎司的起司。"
+        },
+        {
+          "eng": "He did not show an ounce of remorse for his actions.",
+          "ch": "他的行為沒有流露出一絲一毫的悔意。"
+        }
+      ]
+    },
+    {
+      "eng": "outbreak",
+      "kk": "/ˈaʊtˌbreɪk/",
+      "tense": "n.",
+      "ch": [
+        [
+          "（疾病、戰爭、暴力等壞事的）爆發",
+          "突然發生"
+        ]
+      ],
+      "analysis": "此名詞為透明的複合詞，由副詞 out（向外）與動詞 break（爆發、打破）的名詞化組合而成。字面意為「衝破束縛而爆發」，通常指流行病、戰爭、暴動等事件的突然發生。",
+      "definition": "1. a sudden occurrence of something unwelcome, such as a war, disease, or riot.",
+      "example": [
+        {
+          "eng": "Public health officials worked to prevent an outbreak of the flu.",
+          "ch": "公共衛生官員努力防止流感的爆發。"
+        }
+      ]
+    },
+    {
+      "eng": "outgoing",
+      "kk": "/ˈaʊtˌɡoʊɪŋ/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "外向的",
+          "好交際的"
+        ],
+        [
+          "即將卸任的",
+          "即將離職的"
+        ]
+      ],
+      "analysis": "此形容詞由副詞 out（向外）與現在分詞 going（進行的、走的）複合而成。字面意為「向外展現的」，引申出人格特質上的「外向、隨和、喜歡與人交往」，亦可指職位上「即將卸任、交棒的」。",
+      "definition": "1. friendly and socially confident; 2. leaving a position, office, or place.",
+      "example": [
+        {
+          "eng": "She has an outgoing personality and makes friends easily.",
+          "ch": "她性格外向，很容易交到朋友。"
+        },
+        {
+          "eng": "The speech was given by the outgoing president.",
+          "ch": "這場演講是由即將卸任的總統發表的。"
+        }
+      ]
+    },
+    {
+      "eng": "outing",
+      "kk": "/ˈaʊtɪŋ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "遠足",
+          "郊遊",
+          "短途旅行"
+        ]
+      ],
+      "analysis": "此名詞由動詞 out（或由副詞 out 轉化的動詞行為）加上名詞字尾 -ing 構成。指短期的休閒旅行、戶外郊遊或團體遠足活動。",
+      "definition": "1. a brief trip or excursion for pleasure, usually lasting less than a day.",
+      "example": [
+        {
+          "eng": "The school organized a weekend outing to the national park.",
+          "ch": "學校組織了一次周末前往國家公園的郊遊。"
+        }
+      ]
+    },
+    {
+      "eng": "outlaw",
+      "kk": "/ˈaʊtˌlɔ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "逃犯",
+          "歹徒",
+          "不受法律保護的人"
+        ]
+      ],
+      "analysis": "此名詞由古諾斯語 útlagr（被逐出法外的人）經由古英語演變而來，由 out（在外）與 law（法律）複合而成。歷史上指被剝奪法律保護權的罪犯或流亡者。",
+      "definition": "1. a person who has broken the law and is hiding or running from the authorities.",
+      "example": [
+        {
+          "eng": "Sheriff hunted down the notorious outlaw in the old west.",
+          "ch": "警長在舊西部追捕了那個惡名昭彰的逃犯。"
+        }
+      ]
+    },
+    {
+      "eng": "outlaw",
+      "kk": "/ˈaʊtˌlɔ/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "宣佈……為非法",
+          "取締",
+          "禁止"
+        ]
+      ],
+      "analysis": "此動詞由名詞 outlaw 透過零轉品（zero-derivation）轉化而來。字面意為「使某人或某行為置於法律之外」，現代多指政府以法律形式正式禁止、取締某項危險或不良的事物。",
+      "definition": "1. to make something illegal; to ban or prohibit by law.",
+      "example": [
+        {
+          "eng": "The government decided to outlaw smoking in all public places.",
+          "ch": "政府決定在所有公共場所取締吸菸。"
+        }
+      ]
+    },
+    {
+      "eng": "outlook",
+      "kk": "/ˈaʊtˌlʊk/",
+      "tense": "n.",
+      "ch": [
+        [
+          "觀點",
+          "人生觀",
+          "世界觀"
+        ],
+        [
+          "前景",
+          "預測",
+          "展望"
+        ]
+      ],
+      "analysis": "此名詞為透明的複合詞，由副詞 out（向外）與動詞 look（看）組合而成。字面意為「向外看的視角」，引申出個人對事物的看法（人生觀）或對未來局勢的預測（前景）。",
+      "definition": "1. a person's point of view or general attitude to life; 2. the likely future situation; a forecast or prospect.",
+      "example": [
+        {
+          "eng": "She maintains a positive outlook on life despite hardships.",
+          "ch": "儘管生活艱難，她依然保持著積極的人生觀。"
+        },
+        {
+          "eng": "The economic outlook for the next quarter is quite promising.",
+          "ch": "下一季的經濟前景相當樂觀。"
+        }
+      ]
+    },
+    {
+      "eng": "outnumber",
+      "kk": "/ˌaʊtˈnʌmbər/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "數量上超過",
+          "比……多"
+        ]
+      ],
+      "analysis": "此動詞為透明的複合詞，由字首 out-（超過、勝過）與動詞 number（計數、編號）結合而成。指在數量上比對方更多。",
+      "definition": "1. to be greater in number than someone or something.",
+      "example": [
+        {
+          "eng": "The home team was heavily outnumbered by the fans of the visitors.",
+          "ch": "主場球隊在人數上遠遠被客隊球迷所超越。"
+        }
+      ]
+    },
+    {
+      "eng": "outrage",
+      "kk": "/ˈaʊtˌreɪdʒ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "憤慨",
+          "憤怒"
+        ],
+        [
+          "暴行",
+          "令人髮指的事"
+        ]
+      ],
+      "analysis": "此名詞源自古法語 outrage（過分行為、暴力，最終源自拉丁語 ultra「超出」的衍生詞）。字面意為「超越極限的行為」，引申為人們對不公不義之事感到的強烈憤慨，亦可指實際發生的殘暴罪行。",
+      "definition": "1. a fierce anger caused by something perceived as wrong or cruel; 2. an act of extreme cruelty, violence, or wickedness.",
+      "example": [
+        {
+          "eng": "The new tax policy sparked public outrage.",
+          "ch": "新的稅收政策引發了公眾的強烈憤慨。"
+        },
+        {
+          "eng": "The bombing of the hospital was a terrible outrage.",
+          "ch": "轟炸醫院是一起令人髮指的暴行。"
+        }
+      ]
+    },
+    {
+      "eng": "outrageous",
+      "kk": "/aʊtˈreɪdʒəs/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "駭人聽聞的",
+          "殘暴的"
+        ],
+        [
+          "荒謬的",
+          "過分的",
+          "離譜的"
+        ]
+      ],
+      "analysis": "此形容詞由名詞 outrage 加上形容詞字尾 -ous 構成。指超越常理、極度殘暴或荒唐離譜，常形容價格高得離譜或行為極端誇張。",
+      "definition": "1. shockingly bad, fierce, or unacceptable; 2. wildly exaggerated or unreasonable, especially in price or behavior.",
+      "example": [
+        {
+          "eng": "Her behavior at the formal dinner was quite outrageous.",
+          "ch": "她在正式晚宴上的行為實在是太離譜了。"
+        },
+        {
+          "eng": "He refused to pay such an outrageous price for a jacket.",
+          "ch": "他拒絕為一件夾克付如此高得離譜的價格。"
+        }
+      ]
+    }
+  ]
+}

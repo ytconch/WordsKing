@@ -1,0 +1,1418 @@
+{
+  "level": 6,
+  "chunkIndex": 18,
+  "inputs": [
+    "sneaker",
+    "sneakers",
+    "sneaky",
+    "sneeze",
+    "snore",
+    "sociable",
+    "socialism",
+    "socialist",
+    "socialize",
+    "sociology",
+    "solemn",
+    "solidarity",
+    "solitary",
+    "solitude",
+    "soothe",
+    "sorrowful",
+    "sovereign",
+    "spacecraft",
+    "spaceship",
+    "span",
+    "sparrow",
+    "spectacle",
+    "spiral",
+    "splendor",
+    "spokesperson",
+    "spokesman",
+    "spokeswoman",
+    "spontaneous",
+    "sportsman",
+    "sportswoman",
+    "sportsmanship",
+    "spotlight",
+    "spur",
+    "stabilize",
+    "stagger",
+    "staple",
+    "starvation",
+    "statesman",
+    "stationary",
+    "stationery",
+    "stature",
+    "statute",
+    "stepchild",
+    "stepfather",
+    "stepmother",
+    "stimulation",
+    "strait",
+    "strangle",
+    "stray",
+    "stride"
+  ],
+  "rows": [
+    {
+      "eng": "sneaker",
+      "kk": "ˈsniːkər",
+      "tense": "n.",
+      "ch": [
+        [
+          "運動鞋",
+          "球鞋"
+        ],
+        [
+          "卑鄙的人",
+          "鬼祟的人"
+        ]
+      ],
+      "analysis": "此字由動詞 sneak（偷走、鬼祟行動）加上名詞字尾 -er 構成。原始由 sneak 的「鬼祟行事、走路不出聲」延伸出名詞指「橡膠底鞋、輕便運動鞋」，因其走路安靜無聲而得名；少數情況下亦可指鬼祟的人。",
+      "definition": "1. a soft shoe with a rubber sole worn for sports or casual walking; 2. a person who acts in a sneaky or stealthy manner.",
+      "example": [
+        {
+          "eng": "He laced up his sneakers and went out for a morning run.",
+          "ch": "他繫緊運動鞋帶，出去晨跑。"
+        },
+        {
+          "eng": "Don't trust him; he is a sneaky sneaker behind your back.",
+          "ch": "不要相信他，他是在你背後搞鬼的卑鄙小人。"
+        }
+      ]
+    },
+    {
+      "eng": "sneakers",
+      "kk": "ˈsniːkərz",
+      "tense": "n.",
+      "ch": [
+        [
+          "運動鞋",
+          "球鞋"
+        ]
+      ],
+      "analysis": "此字為 sneaker 的複數形，因鞋子通常成雙出現，日常英語中多以複數形式 sneakers 統稱運動鞋或休閒鞋。",
+      "definition": "1. shoes with a rubber sole used for sports, exercise, or casual wear, usually worn in pairs.",
+      "example": [
+        {
+          "eng": "She bought a new pair of white sneakers for the summer.",
+          "ch": "她買了一雙新的白色夏天運動鞋。"
+        }
+      ]
+    },
+    {
+      "eng": "sneaky",
+      "kk": "ˈsniːki",
+      "tense": "adj.",
+      "ch": [
+        [
+          "鬼祟的",
+          "偷偷摸摸的"
+        ],
+        [
+          "卑鄙的",
+          "偷偷幹壞事的"
+        ]
+      ],
+      "analysis": "此字由動詞 sneak 加上形容詞字尾 -y 構成，用以形容人或行為偷偷摸摸、鬼鬼祟祟，或帶有暗中使壞、不光明磊落的意味。",
+      "definition": "1. moving or behaving in a stealthy, secretive, or furtive manner; 2. dishonest or underhanded in behavior.",
+      "example": [
+        {
+          "eng": "I caught him making a sneaky attempt to look at my test paper.",
+          "ch": "我抓包他偷偷摸摸企圖偷看我的考卷。"
+        },
+        {
+          "eng": "That was a sneaky trick to play on your coworkers.",
+          "ch": "對同事耍這種暗地裡的招數實在太卑鄙了。"
+        }
+      ]
+    },
+    {
+      "eng": "sneeze",
+      "kk": "sniːz",
+      "tense": "vi.",
+      "ch": [
+        [
+          "打噴嚏"
+        ]
+      ],
+      "analysis": "此字源自中古英語 snese（源自古英語），屬於模仿噴嚏聲音的擬聲詞演變而來的動詞，指鼻腔因受到刺激而急促用力排氣的生理現象。",
+      "definition": "1. to make a sudden, involuntary expulsion of air from the nose and mouth, usually due to irritation in the nasal passage.",
+      "example": [
+        {
+          "eng": "The dust in the old attic made everyone sneeze.",
+          "ch": "舊閣樓裡的灰塵讓每個人都打噴嚏。"
+        }
+      ]
+    },
+    {
+      "eng": "snore",
+      "kk": "snɔːr",
+      "tense": "vi.",
+      "ch": [
+        [
+          "打鼾",
+          "打呼"
+        ]
+      ],
+      "analysis": "此字為日耳曼語族來源的擬聲詞，指人在睡眠時因呼吸道受阻或鬆弛導致軟組織振動而發出的粗糙聲音。",
+      "definition": "1. to breathe with a rough, rattling noise while sleeping, caused by the vibration of the soft palate.",
+      "example": [
+        {
+          "eng": "My roommate snores so loudly that I cannot fall asleep.",
+          "ch": "我的室友打呼太大聲了，害我睡不著。"
+        }
+      ]
+    },
+    {
+      "eng": "sociable",
+      "kk": "ˈsoʊʃəbəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "好交際的",
+          "合群的"
+        ],
+        [
+          "友善的",
+          "熱絡的"
+        ]
+      ],
+      "analysis": "源自拉丁語 sociabilis（可結合的、友善的），衍生自 socius（同伴、盟友），加上形容詞字尾 -able。指人喜歡與他人接觸、樂於社交或待人親切熱絡。",
+      "definition": "1. inclined to associate with or be in the company of others; 2. friendly, pleasant, and easy to talk to in social situations.",
+      "example": [
+        {
+          "eng": "She is a very sociable person who loves attending parties.",
+          "ch": "她是個非常合群且喜歡參加派對的人。"
+        },
+        {
+          "eng": "The stray dog turned out to be remarkably sociable with visitors.",
+          "ch": "這隻流浪狗對訪客意外地十分友善。"
+        }
+      ]
+    },
+    {
+      "eng": "socialism",
+      "kk": "ˈsoʊʃəlɪzəm",
+      "tense": "n.",
+      "ch": [
+        [
+          "社會主義"
+        ]
+      ],
+      "analysis": "由 social（社會的）加上表示主義、學說的名詞字尾 -ism 構成。指主張生產資料與分配由社會或公眾集體擁有的政治與經濟思想體系。",
+      "definition": "1. a political and economic theory of social organization which advocates that the means of production, distribution, and exchange should be owned or regulated by the community as a whole.",
+      "example": [
+        {
+          "eng": "Political scientists often debate the merits and drawbacks of democratic socialism.",
+          "ch": "政治學者經常辯論民主社會主義的優缺點。"
+        }
+      ]
+    },
+    {
+      "eng": "socialist",
+      "kk": "ˈsoʊʃəlɪst",
+      "tense": "n.",
+      "ch": [
+        [
+          "社會主義者"
+        ]
+      ],
+      "analysis": "由 social 加上表示從事某主義者或信奉者的名詞字尾 -ist 構成，指信仰或實踐社會主義的人。",
+      "definition": "1. a person who advocates or practices socialism.",
+      "example": [
+        {
+          "eng": "He has been a dedicated socialist since his college years.",
+          "ch": "他自大學時代起便是一位堅定的社會主義者。"
+        }
+      ]
+    },
+    {
+      "eng": "socialist",
+      "kk": "ˈsoʊʃəlɪst",
+      "tense": "adj.",
+      "ch": [
+        [
+          "社會主義的"
+        ]
+      ],
+      "analysis": "由 socialism 衍生或由 social 加上表示人員或屬性的 -ist 轉化的形容詞，指符合或主張社會主義原則的。",
+      "definition": "1. based on or advocating the principles of socialism.",
+      "example": [
+        {
+          "eng": "The party introduced several socialist policies to reduce economic inequality.",
+          "ch": "該政黨推行了幾項旨在減少經濟不平等的社會主義政策。"
+        }
+      ]
+    },
+    {
+      "eng": "socialize",
+      "kk": "ˈsoʊʃəlaɪz",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使社會化",
+          "使適應社會生活"
+        ]
+      ],
+      "analysis": "由 social 加上動詞字尾 -ize 構成的及物用法，指引導個人（如兒童或新人）學習並融入社會規範與價值觀。",
+      "definition": "1. to train someone, especially a child, to behave in a way that is acceptable in society.",
+      "example": [
+        {
+          "eng": "Schools play a vital role in socializing children into community norms.",
+          "ch": "學校在使兒童社會化、融入社群規範方面扮演著關鍵角色。"
+        }
+      ]
+    },
+    {
+      "eng": "socialize",
+      "kk": "ˈsoʊʃəlaɪz",
+      "tense": "vi.",
+      "ch": [
+        [
+          "社交",
+          "交際"
+        ]
+      ],
+      "analysis": "由 social 加上動詞字尾 -ize 構成，指與他人進行社會交往、互動或參與聚會。",
+      "definition": "1. to mix socially with others; to spend time interacting with people in a friendly way.",
+      "example": [
+        {
+          "eng": "Employees gathered in the break room to relax and socialize.",
+          "ch": "員工們聚集在休息室放鬆並進行社交互動。"
+        }
+      ]
+    },
+    {
+      "eng": "sociology",
+      "kk": "ˌsoʊsiˈɑːlədʒi",
+      "tense": "n.",
+      "ch": [
+        [
+          "社會學"
+        ]
+      ],
+      "analysis": "結合拉丁字首 socius（夥伴、社會）與希臘語字根 -logy（學科、科學），指研究人類社會結構、發展、互動與行為規範的學問。",
+      "definition": "1. the study of the development, structure, and functioning of human society.",
+      "example": [
+        {
+          "eng": "She is majoring in sociology to better understand cultural dynamics.",
+          "ch": "她主修社會學以更深入了解文化動態。"
+        }
+      ]
+    },
+    {
+      "eng": "solemn",
+      "kk": "ˈsɑːləm",
+      "tense": "adj.",
+      "ch": [
+        [
+          "嚴肅的",
+          "莊嚴的"
+        ],
+        [
+          "誠懇的",
+          "鄭重的"
+        ]
+      ],
+      "analysis": "源自拉丁語 sollemnis（莊嚴的、定期的、隆重的），指態度、儀式或誓言極具嚴謹、不輕浮且令人敬畏的性質。",
+      "definition": "1. formal and dignified; serious and lacking humor or triviality; 2. performed with careful, earnest, or religious ceremony.",
+      "example": [
+        {
+          "eng": "The judge delivered a solemn warning to the defendant.",
+          "ch": "法官對被告提出了嚴肅的警告。"
+        },
+        {
+          "eng": "They made a solemn promise to support each other through thick and thin.",
+          "ch": "他們莊嚴地許下承諾，無論好壞都要互相支持。"
+        }
+      ]
+    },
+    {
+      "eng": "solidarity",
+      "kk": "ˌsɑːlɪˈdærəti",
+      "tense": "n.",
+      "ch": [
+        [
+          "團結",
+          "同心協力",
+          "休戚與共"
+        ]
+      ],
+      "analysis": "源自法語 solidarité，最終源自拉丁語 solidus（堅固的、結實的）。指團體成員間基於共同利益、信念或情感而產生的緊密團結與互助精神。",
+      "definition": "1. unity or agreement of feeling or action, especially among individuals with a common interest; mutual support within a group.",
+      "example": [
+        {
+          "eng": "Workers went on strike in solidarity with their underpaid colleagues.",
+          "ch": "工人們罷工以表示對薪資過低同事的聲援與團結。"
+        }
+      ]
+    },
+    {
+      "eng": "solitary",
+      "kk": "ˈsɑːləteri",
+      "tense": "adj.",
+      "ch": [
+        [
+          "獨居的",
+          "單獨的"
+        ],
+        [
+          "偏僻的",
+          "人跡罕至的"
+        ]
+      ],
+      "analysis": "源自拉丁語 solitarius，衍生自 solus（單獨的），加上形容詞字尾。指人習慣獨處、孤立無援，或地點荒涼偏遠。",
+      "definition": "1. done or existing alone; living without companions; 2. remote or secluded; isolated from others.",
+      "example": [
+        {
+          "eng": "He enjoys taking long, solitary walks along the rocky coastline.",
+          "ch": "他喜歡沿著岩石海岸進行長時間的獨自散步。"
+        },
+        {
+          "eng": "They built a cabin in a solitary valley far from the city.",
+          "ch": "他們在遠離城市的偏僻山谷中建造了一間小屋。"
+        }
+      ]
+    },
+    {
+      "eng": "solitude",
+      "kk": "ˈsɑːlətuːd",
+      "tense": "n.",
+      "ch": [
+        [
+          "獨處",
+          "清靜",
+          "孤獨"
+        ]
+      ],
+      "analysis": "源自拉丁語 solitudo，衍生自 solus（單獨的），加上名詞字尾。指獨自一人、不受打擾的狀態，通常帶有平靜、享受清靜的正面或中性意涵。",
+      "definition": "1. the state or situation of being alone, often valued for privacy and peace.",
+      "example": [
+        {
+          "eng": "She retreated to her cabin in the mountains to write in peace and solitude.",
+          "ch": "她隱退到山中小屋，以便在平靜與清靜中寫作。"
+        }
+      ]
+    },
+    {
+      "eng": "soothe",
+      "kk": "suːð",
+      "tense": "vt.",
+      "ch": [
+        [
+          "安慰",
+          "撫慰"
+        ],
+        [
+          "平息",
+          "減輕（疼痛等）"
+        ]
+      ],
+      "analysis": "源自古英語 sōthian（證明為真實，後來引申為使人平靜、使之相信或順從），由 sōth（真實的）轉化而來。現代主要指撫平情緒、減輕焦慮或舒緩身體疼痛。",
+      "definition": "1. to gently calm or comfort someone who is upset or angry; 2. to reduce pain, discomfort, or irritation.",
+      "example": [
+        {
+          "eng": "The mother gently sang a lullaby to soothe her crying baby.",
+          "ch": "母親輕輕哼著搖籃曲來安撫哭泣的嬰兒。"
+        },
+        {
+          "eng": "Applying cold aloe vera gel can soothe a sunburn.",
+          "ch": "敷上冰涼的蘆薈膠可以舒緩曬傷。"
+        }
+      ]
+    },
+    {
+      "eng": "sorrowful",
+      "kk": "ˈsɑːroʊfəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "悲傷的",
+          "令人傷心的"
+        ]
+      ],
+      "analysis": "由名詞 sorrow（悲傷）加上形容詞字尾 -ful 構成，指充滿悲傷或引起哀傷的。",
+      "definition": "1. feeling, showing, or causing great sorrow and sadness.",
+      "example": [
+        {
+          "eng": "She read the sorrowful letter with tears in her eyes.",
+          "ch": "她含著淚水讀了那封令人傷心的信。"
+        }
+      ]
+    },
+    {
+      "eng": "sovereign",
+      "kk": "ˈsɑːvrɪn",
+      "tense": "n.",
+      "ch": [
+        [
+          "君主",
+          "元首"
+        ]
+      ],
+      "analysis": "由形容詞 sovereign 轉化的名詞，指國家中具有最高統治權的君主或國家元首。",
+      "definition": "1. a supreme ruler, especially a monarch such as a king or queen.",
+      "example": [
+        {
+          "eng": "The visiting sovereign was greeted with full military honors.",
+          "ch": "來訪的君主受到了最高規格的軍禮歡迎。"
+        }
+      ]
+    },
+    {
+      "eng": "sovereign",
+      "kk": "ˈsɑːvrɪn",
+      "tense": "adj.",
+      "ch": [
+        [
+          "擁有主權的",
+          "獨立自主的"
+        ],
+        [
+          "最高權力的",
+          "至高無上的"
+        ]
+      ],
+      "analysis": "源自古英語經由古法語 souverain（最高統治者），源自拉丁語 super（在…之上）。指國家獨立自主、不受外來干涉，或權力地位達到最高。",
+      "definition": "1. possessing supreme or independent political power; self-governing; 2. supreme in rank, power, or authority.",
+      "example": [
+        {
+          "eng": "Every sovereign state has the right to defend its borders.",
+          "ch": "每一個主權國家都有權防衛其邊界。"
+        },
+        {
+          "eng": "The constitution ensures that the people remain the sovereign authority.",
+          "ch": "憲法確保人民保持最高權力。"
+        }
+      ]
+    },
+    {
+      "eng": "spacecraft",
+      "kk": "ˈspeɪskræft",
+      "tense": "n.",
+      "ch": [
+        [
+          "太空船",
+          "航天器"
+        ]
+      ],
+      "analysis": "由 space（太空、空間）與 craft（船隻、飛行器）結合而成的複合名詞，指設計用於在太空航行的載具。",
+      "definition": "1. a vehicle used for traveling in space, whether manned or unmanned.",
+      "example": [
+        {
+          "eng": "Scientists successfully launched an unmanned spacecraft to study Mars.",
+          "ch": "科學家成功發射了一艘無人太空船去研究火星。"
+        }
+      ]
+    },
+    {
+      "eng": "spaceship",
+      "kk": "ˈspeɪsʃɪp",
+      "tense": "n.",
+      "ch": [
+        [
+          "太空船",
+          "宇宙飛船"
+        ]
+      ],
+      "analysis": "由 space（太空）與 ship（船隻）結合而成的複合名詞，主要用於科幻或一般語境中指載人的太空飛行器。",
+      "definition": "1. a vehicle designed for travel or operation in outer space, typically a large manned vessel.",
+      "example": [
+        {
+          "eng": "In science fiction movies, spaceships often travel faster than light.",
+          "ch": "在科幻電影中，太空船經常以超過光速的速度航行。"
+        }
+      ]
+    },
+    {
+      "eng": "span",
+      "kk": "spæn",
+      "tense": "n.",
+      "ch": [
+        [
+          "跨度",
+          "期間",
+          "範圍"
+        ]
+      ],
+      "analysis": "由動詞 span 轉化而來的名詞，指空間的距離跨度、時間的持續期間，或某個範圍。",
+      "definition": "1. the full extent of something from end to end; a duration of time.",
+      "example": [
+        {
+          "eng": "Human attention span has decreased significantly with modern technology.",
+          "ch": "隨著現代科技的發展，人類的注意力持續時間明顯縮短了。"
+        }
+      ]
+    },
+    {
+      "eng": "span",
+      "kk": "spæn",
+      "tense": "vt.",
+      "ch": [
+        [
+          "跨越",
+          "橫跨（時間或空間）"
+        ],
+        [
+          "持續",
+          "涵蓋"
+        ]
+      ],
+      "analysis": "源自古英語 spannan（用手掌張開的距離丈量），本義為手掌張開的長度。現代演變為及物動詞，指在空間上橫跨、或在時間上持續涵蓋一段期間。",
+      "definition": "1. to extend across a period of time or a distance; 2. to include a wide range of things.",
+      "example": [
+        {
+          "eng": "The bridge spans across the wide river, connecting two cities.",
+          "ch": "這座橋橫跨寬闊的河流，連接了兩座城市。"
+        },
+        {
+          "eng": "Her acting career spanned over five decades.",
+          "ch": "她的演藝生涯持續了五十多年。"
+        }
+      ]
+    },
+    {
+      "eng": "sparrow",
+      "kk": "ˈspæroʊ",
+      "tense": "n.",
+      "ch": [
+        [
+          "麻雀"
+        ]
+      ],
+      "analysis": "源自古英語 spearwa，屬於日耳曼語族來源的鳥類名稱，泛指一種常見的小型灰褐色鳴禽。",
+      "definition": "1. a small, common brownish-grey bird found worldwide, especially in urban and rural areas.",
+      "example": [
+        {
+          "eng": "A little sparrow hopped onto the balcony to pick up bread crumbs.",
+          "ch": "一隻小麻雀跳上陽台撿拾麵包屑。"
+        }
+      ]
+    },
+    {
+      "eng": "spectacle",
+      "kk": "ˈspektəkəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "景象",
+          "奇觀",
+          "壯觀的表演"
+        ],
+        [
+          "出醜的滑稽景象",
+          "笑柄"
+        ]
+      ],
+      "analysis": "源自拉丁語 spectaculum（觀看之物、劇場），源自 spectare（觀看）。指引人注目的盛大景象、奇觀，或引人圍觀的誇張、尷尬事件。",
+      "definition": "1. a visually striking performance, display, or scene; 2. an unusual or noticeable event that attracts public attention, often in a negative or foolish way.",
+      "example": [
+        {
+          "eng": "The New Year fireworks display was a magnificent spectacle.",
+          "ch": "新年煙火施放是一場壯觀的奇觀。"
+        },
+        {
+          "eng": "They started arguing loudly in the restaurant and made a spectacle of themselves.",
+          "ch": "他們在餐廳裡大聲爭吵，把自己搞成了眾人圍觀的笑柄。"
+        }
+      ]
+    },
+    {
+      "eng": "spiral",
+      "kk": "ˈspaɪrəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "螺旋",
+          "螺旋形"
+        ]
+      ],
+      "analysis": "源自拉丁語 spira 的名詞形式，指螺旋狀的曲線或物體。",
+      "definition": "1. a curve that winds around a central point while getting progressively farther or closer to it.",
+      "example": [
+        {
+          "eng": "She drew a neat spiral on the paper with a pen.",
+          "ch": "她用筆在紙上畫了一個整齊的螺旋形。"
+        }
+      ]
+    },
+    {
+      "eng": "spiral",
+      "kk": "ˈspaɪrəl",
+      "tense": "vi.",
+      "ch": [
+        [
+          "螺旋式上升或下降",
+          "急劇惡化或上升"
+        ]
+      ],
+      "analysis": "由形容詞／名詞 spiral 轉化而成的動詞，指物體呈螺旋狀移動，或比喻局勢、價格、情緒等失控般地急遽惡化或飆升。",
+      "definition": "1. to move in a spiral course; to increase or decrease continually and rapidly.",
+      "example": [
+        {
+          "eng": "Inflation caused housing prices to spiral out of control.",
+          "ch": "通貨膨脹導致房價失控般地螺旋式飆升。"
+        }
+      ]
+    },
+    {
+      "eng": "spiral",
+      "kk": "ˈspaɪrəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "螺旋形的"
+        ]
+      ],
+      "analysis": "源自拉丁語 spira（捲曲、螺線），源自希臘語 speira。指呈螺旋狀繞著中心點旋轉上升或下降的形狀。",
+      "definition": "1. winding in a continuous curve around a central point on a flat or rising plane.",
+      "example": [
+        {
+          "eng": "DNA has a famous double-spiral structure.",
+          "ch": "DNA 具有著名的雙螺旋結構。"
+        }
+      ]
+    },
+    {
+      "eng": "splendor",
+      "kk": "ˈsplendər",
+      "tense": "n.",
+      "ch": [
+        [
+          "壯麗",
+          "輝煌",
+          "雄偉"
+        ]
+      ],
+      "analysis": "源自拉丁語 splendor，源自 splendere（發光、閃耀）。指華麗、壯觀、光輝奪目的外觀或氣勢。",
+      "definition": "1. magnificent and spectacular appearance, quality, or features.",
+      "example": [
+        {
+          "eng": "Tourists flocked to see the palace restored to its former splendor.",
+          "ch": "遊客紛至沓來，觀賞這座恢復昔日輝煌的宮殿。"
+        }
+      ]
+    },
+    {
+      "eng": "spokesperson",
+      "kk": "ˈspoʊkspɜːrsən",
+      "tense": "n.",
+      "ch": [
+        [
+          "發言人"
+        ]
+      ],
+      "analysis": "由 speak 的過去分詞轉化成分詞詞幹 spoke 加上 person（人）結合而成的複合名詞，指代表組織、政府或個人對外發言的人。",
+      "definition": "1. a person who makes statements on behalf of a group, organization, or government.",
+      "example": [
+        {
+          "eng": "The company spokesperson declined to comment on the merger rumors.",
+          "ch": "公司發言人拒絕就合併傳聞發表評論。"
+        }
+      ]
+    },
+    {
+      "eng": "spokesman",
+      "kk": "ˈspoʊksmən",
+      "tense": "n.",
+      "ch": [
+        [
+          "男發言人"
+        ]
+      ],
+      "analysis": "由 spoke 結合 man（男性）構成的複合名詞，特指代表機構發言的男性代表。",
+      "definition": "1. a male spokesperson who speaks on behalf of an organization or group.",
+      "example": [
+        {
+          "eng": "A police spokesman announced that the investigation is still ongoing.",
+          "ch": "警方發言人宣布調查工作仍在進行中。"
+        }
+      ]
+    },
+    {
+      "eng": "spokeswoman",
+      "kk": "ˈspoʊkswʊmən",
+      "tense": "n.",
+      "ch": [
+        [
+          "女發言人"
+        ]
+      ],
+      "analysis": "由 spoke 結合 woman（女性）構成的複合名詞，特指代表機構發言的女性代表。",
+      "definition": "1. a female spokesperson who speaks on behalf of an organization or group.",
+      "example": [
+        {
+          "eng": "The ministry's spokeswoman clarified the new tax policy during the briefing.",
+          "ch": "該部門的女發言人在簡報會中釐清了新的稅收政策。"
+        }
+      ]
+    },
+    {
+      "eng": "spontaneous",
+      "kk": "spɑːnˈteɪniəs",
+      "tense": "adj.",
+      "ch": [
+        [
+          "自發的",
+          "非強迫的"
+        ],
+        [
+          "即興的",
+          "自然而然的"
+        ]
+      ],
+      "analysis": "源自拉丁語 sponte（憑自願、自動地），加上形容詞字尾 -aneous。指不受外力強迫、出於自然意願或即興發生的行為或反應。",
+      "definition": "1. performed or occurring as a result of a sudden inner impulse or inclination, without premeditation or external stimulus; 2. natural and unforced.",
+      "example": [
+        {
+          "eng": "The audience burst into spontaneous applause at the end of the song.",
+          "ch": "歌曲結束時，觀眾爆發出自發性的掌聲。"
+        },
+        {
+          "eng": "They decided to take a spontaneous road trip over the weekend.",
+          "ch": "他們決定在週末來一場說走就走的即興公路旅行。"
+        }
+      ]
+    },
+    {
+      "eng": "sportsman",
+      "kk": "ˈspɔːrtsmən",
+      "tense": "n.",
+      "ch": [
+        [
+          "運動員",
+          "男子運動家"
+        ],
+        [
+          "重體育道德的人"
+        ]
+      ],
+      "analysis": "由 sport（運動）加上 man（人）構成的複合名詞，指從事體育活動的人，或指具備公平競爭與體育道德精神的人。",
+      "definition": "1. a man who takes part in sports; 2. a person who exhibits fairness, respect, and good sportsmanship.",
+      "example": [
+        {
+          "eng": "He was renowned as a top-tier sportsman in track and field.",
+          "ch": "他以頂尖田徑運動員的身份聞名。"
+        },
+        {
+          "eng": "He proved to be a true sportsman by congratulating his opponent after the defeat.",
+          "ch": "他在落敗後向對手道賀，證明了他是一位真正的運動家。"
+        }
+      ]
+    },
+    {
+      "eng": "sportswoman",
+      "kk": "ˈspɔːrtswʊmən",
+      "tense": "n.",
+      "ch": [
+        [
+          "女運動員",
+          "女子運動家"
+        ]
+      ],
+      "analysis": "由 sport（運動）與 woman（女性）構成的複合名詞，指從事體育活動的女性運動員。",
+      "definition": "1. a woman who takes part in sports or outdoor athletic activities.",
+      "example": [
+        {
+          "eng": "The talented sportswoman won three gold medals at the championship.",
+          "ch": "這位才華橫溢的女運動員在錦標賽中贏得三枚金牌。"
+        }
+      ]
+    },
+    {
+      "eng": "sportsmanship",
+      "kk": "ˈspɔːrtsmənʃɪp",
+      "tense": "n.",
+      "ch": [
+        [
+          "運動家精神",
+          "公平競爭的精神"
+        ]
+      ],
+      "analysis": "由 sportsman（運動員）加上抽象名詞字尾 -ship 構成，指在體育競技中展現的公平、尊重對手、勝不驕敗不餒的精神。",
+      "definition": "1. fair play, respect for opponents, and polite behavior in a sport or contest.",
+      "example": [
+        {
+          "eng": "Shaking hands after the hard-fought match is a great display of sportsmanship.",
+          "ch": "在艱苦的比賽結束後互相握手，是展現運動家精神的最佳表現。"
+        }
+      ]
+    },
+    {
+      "eng": "spotlight",
+      "kk": "ˈspɑːtlaɪt",
+      "tense": "n.",
+      "ch": [
+        [
+          "聚光燈"
+        ],
+        [
+          "公眾注目",
+          "焦點"
+        ]
+      ],
+      "analysis": "由 spot（斑點、狹小區域）與 light（光線）結合而成的複合名詞。本義指舞台上投射強光的小型燈具，引申為公眾關注的焦點。",
+      "definition": "1. a lamp projecting a strong, focused beam of light onto a specific area or person on stage; 2. public attention and notice.",
+      "example": [
+        {
+          "eng": "The actor stepped into the bright beam of the spotlight.",
+          "ch": "演員走進聚光燈明亮的光束中。"
+        },
+        {
+          "eng": "The young politician has been in the political spotlight for months.",
+          "ch": "這位年輕政治家數月來一直是政治焦點。"
+        }
+      ]
+    },
+    {
+      "eng": "spotlight",
+      "kk": "ˈspɑːtlaɪt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "聚光照射",
+          "使受到公眾注目",
+          "凸顯"
+        ]
+      ],
+      "analysis": "由名詞 spotlight 轉化而成的及物動詞，指用聚光燈照亮，或引申為使某人或某議題成為公眾注目的焦點。",
+      "definition": "1. to illuminate with a spotlight; 2. to draw attention to something or highlight its importance.",
+      "example": [
+        {
+          "eng": "The documentary aims to spotlight the challenges faced by homeless veterans.",
+          "ch": "這部紀錄片旨在凸顯無家可歸的退伍軍人所面臨的挑戰。"
+        }
+      ]
+    },
+    {
+      "eng": "spur",
+      "kk": "spɜːr",
+      "tense": "n.",
+      "ch": [
+        [
+          "馬刺"
+        ],
+        [
+          "刺激物",
+          "鞭策"
+        ]
+      ],
+      "analysis": "源自古英語 spura，指裝在靴後刺馬的鐵刺，引申為促使人前進的推動力或刺激因素。",
+      "definition": "1. a spiked metal device worn on a rider's heel to urge a horse forward; 2. a motive or incentive that urges action.",
+      "example": [
+        {
+          "eng": "His father's ambition served as a spur to his own success.",
+          "ch": "他父親的雄心壯志成為他自身成功的鞭策力量。"
+        }
+      ]
+    },
+    {
+      "eng": "spur",
+      "kk": "spɜːr",
+      "tense": "vt.",
+      "ch": [
+        [
+          "鞭策",
+          "鼓勵",
+          "促使"
+        ],
+        [
+          "刺激",
+          "激勵"
+        ]
+      ],
+      "analysis": "源自古英語 spura（馬刺），本義指騎士靴後端用來刺馬加速的金屬尖刺。引申為及物動詞，指激勵、鞭策或推動某人採取行動。",
+      "definition": "1. to encourage or prompt someone to do something; 2. to drive to action.",
+      "example": [
+        {
+          "eng": "The government launched tax incentives to spur economic growth.",
+          "ch": "政府推出稅收優惠以刺激經濟成長。"
+        }
+      ]
+    },
+    {
+      "eng": "stabilize",
+      "kk": "ˈsteɪbəlaɪz",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使穩定",
+          "使安穩"
+        ]
+      ],
+      "analysis": "由形容詞 stable（穩定的，源自拉丁語 stabilis）加上動詞字尾 -ize 構成，指使局勢、價格、狀況等停止波動而趨於穩定。",
+      "definition": "1. to make or become stable, firm, or unchanging.",
+      "example": [
+        {
+          "eng": "The central bank took emergency measures to stabilize the currency.",
+          "ch": "中央銀行採取緊急措施來穩定貨幣。"
+        }
+      ]
+    },
+    {
+      "eng": "stabilize",
+      "kk": "ˈsteɪbəlaɪz",
+      "tense": "vi.",
+      "ch": [
+        [
+          "趨於穩定",
+          "安定下來"
+        ]
+      ],
+      "analysis": "由 stable 加上 -ize 構成的不及物用法，指狀況或數據停止劇烈變動而穩定下來。",
+      "definition": "1. to become stable or cease fluctuating.",
+      "example": [
+        {
+          "eng": "Weather conditions are expected to stabilize by tomorrow morning.",
+          "ch": "預計天氣狀況將在明天早上前趨於穩定。"
+        }
+      ]
+    },
+    {
+      "eng": "stagger",
+      "kk": "ˈstæɡər",
+      "tense": "vi.",
+      "ch": [
+        [
+          "搖晃地走",
+          "踉蹌",
+          "蹒跚"
+        ],
+        [
+          "錯開（時間或安排）"
+        ]
+      ],
+      "analysis": "源自古諾斯語（Old Norse）stakra（跌跌撞撞），本義指因醉酒、受傷或疲憊而站不穩、步履踉蹌；引申義指將工作時間、休假或活動錯開（staggered shifts）。",
+      "definition": "1. to walk or move unsteadily, as if about to fall; 2. to arrange events, shifts, or working hours at different times to avoid overcrowding.",
+      "example": [
+        {
+          "eng": "The exhausted hiker managed to stagger back to the base camp.",
+          "ch": "筋疲力竭的登山客設法踉蹌著走回大本營。"
+        },
+        {
+          "eng": "The factory decided to stagger employee lunch breaks to ease cafeteria traffic.",
+          "ch": "工廠決定錯開員工的午休時間，以紓解餐廳人潮。"
+        }
+      ]
+    },
+    {
+      "eng": "staple",
+      "kk": "ˈsteɪpəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "主食",
+          "主要產物",
+          "主要成分"
+        ],
+        [
+          "訂書針"
+        ]
+      ],
+      "analysis": "源自中古英語 staple（主要的市場、集散地），源自日耳曼語族。原指常設的商品集散市場，進而指市場上不可或缺的「主要商品、主食」；另一義（U字形金屬釘或訂書針）源自日耳曼語中固定用的鐵件。",
+      "definition": "1. a main or important product, element, or food eaten regularly; 2. a small piece of wire used to fasten papers together.",
+      "example": [
+        {
+          "eng": "Rice and wheat are dietary staples for billions of people worldwide.",
+          "ch": "米和麥是全球數十億人的日常主食。"
+        },
+        {
+          "eng": "Please fasten these documents together with a staple.",
+          "ch": "請用訂書針把這些文件釘在一起。"
+        }
+      ]
+    },
+    {
+      "eng": "staple",
+      "kk": "ˈsteɪpəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "主要的",
+          "常用的",
+          "基本產物的"
+        ]
+      ],
+      "analysis": "由名詞 staple 轉化而成的形容詞，指構成基礎、最重要或最常被消耗的。",
+      "definition": "1. main or principal; regularly produced, used, or eaten.",
+      "example": [
+        {
+          "eng": "Corn is a staple crop in Central America.",
+          "ch": "玉米是中美洲的主要農作物。"
+        }
+      ]
+    },
+    {
+      "eng": "starvation",
+      "kk": "stɑːrˈveɪʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "飢餓",
+          "挨餓",
+          "餓死"
+        ]
+      ],
+      "analysis": "由動詞 starve（挨餓，源自古英語 steorfan「死去」）加上名詞字尾 -ation 構成，指因長期缺乏食物而導致嚴重飢餓或死亡的狀態。",
+      "definition": "1. suffering or death caused by a severe and prolonged lack of food.",
+      "example": [
+        {
+          "eng": "Millions of people in the war-torn region are facing the threat of starvation.",
+          "ch": "戰亂地區數百萬人正面臨飢餓的威脅。"
+        }
+      ]
+    },
+    {
+      "eng": "statesman",
+      "kk": "ˈsteɪtsmən",
+      "tense": "n.",
+      "ch": [
+        [
+          "政治家",
+          "賢能的政治家"
+        ]
+      ],
+      "analysis": "由 state（國家）加上 man（人）構成的複合名詞，指經驗豐富、深謀遠慮、為國家做出卓越貢獻且受人尊重的傑出政治領袖（與僅謀求黨派利益的政客 politician 相區分）。",
+      "definition": "1. an experienced, wise, and respected political leader or public figure.",
+      "example": [
+        {
+          "eng": "He was remembered not just as a politician, but as a true statesman.",
+          "ch": "人們記憶中的他不僅是一位政客，更是一位真正的政治家。"
+        }
+      ]
+    },
+    {
+      "eng": "stationary",
+      "kk": "ˈsteɪʃəneri",
+      "tense": "adj.",
+      "ch": [
+        [
+          "固定的",
+          "靜止的",
+          "不動的"
+        ]
+      ],
+      "analysis": "源自拉丁語 stationarius（駐守的、停留的），源自 station-（站、位置）。用作形容詞時指位置固定、沒有移動的狀態（注意拼字結尾為 -ary）。",
+      "definition": "1. not moving; staying in one place or position without change.",
+      "example": [
+        {
+          "eng": "The cyclist lost control and crashed into a stationary car.",
+          "ch": "這名自行車手失控，撞上一輛停著不動的汽車。"
+        }
+      ]
+    },
+    {
+      "eng": "stationery",
+      "kk": "ˈsteɪʃəneri",
+      "tense": "n.",
+      "ch": [
+        [
+          "文具",
+          "信紙"
+        ]
+      ],
+      "analysis": "源自中古英語 stationer（書店老闆、文具商，因為他們有固定的攤位 station）。其拼字結尾為 -ery，專門指紙張、信封、筆等文具用品。",
+      "definition": "1. writing materials such as paper, envelopes, and pens.",
+      "example": [
+        {
+          "eng": "She bought some elegant new stationery to write thank-you notes.",
+          "ch": "她買了一些高雅的新信紙來寫感謝卡。"
+        }
+      ]
+    },
+    {
+      "eng": "stature",
+      "kk": "ˈstætʃər",
+      "tense": "n.",
+      "ch": [
+        [
+          "身高",
+          "身材"
+        ],
+        [
+          "聲望",
+          "地位"
+        ]
+      ],
+      "analysis": "源自拉丁語 statura（身高、體型），源自 stare（站立）。本義指人的身高或身材，引申為人在社會或行業中的崇高聲望與地位。",
+      "definition": "1. a person's natural height; 2. importance, status, or reputation gained by ability and achievement.",
+      "example": [
+        {
+          "eng": "Despite his short stature, he was a giant on the basketball court.",
+          "ch": "儘管身材矮小，他在籃球場上卻是一位巨人。"
+        },
+        {
+          "eng": "The scientist achieved international stature for her groundbreaking research.",
+          "ch": "這位科學家因其開創性的研究而獲得了國際聲望。"
+        }
+      ]
+    },
+    {
+      "eng": "statute",
+      "kk": "ˈstætʃuːt",
+      "tense": "n.",
+      "ch": [
+        [
+          "法規",
+          "法令",
+          "成文法"
+        ]
+      ],
+      "analysis": "源自拉丁語 statutum（法令、規定），源自 statuere（設立、建立）。指由立法機關制定並頒布的正式成文法律或規章。",
+      "definition": "1. a written law passed by a legislative body.",
+      "example": [
+        {
+          "eng": "The company's operations must comply with local environmental statutes.",
+          "ch": "公司的營運必須符合當地的環境法規。"
+        }
+      ]
+    },
+    {
+      "eng": "stepchild",
+      "kk": "ˈsteptʃaɪld",
+      "tense": "n.",
+      "ch": [
+        [
+          "繼子",
+          "繼女"
+        ]
+      ],
+      "analysis": "由古英語 stēop-（失親的、繼親的，源自「剝奪、失落」之意）與 child（孩子）結合而成的複合名詞，指配偶與前一段婚姻所生的孩子。",
+      "definition": "1. a child of one's husband or wife by a previous marriage.",
+      "example": [
+        {
+          "eng": "He treats his stepchild with the same love and care as his own.",
+          "ch": "他對待繼子如同親生孩子一般充滿愛與關心。"
+        }
+      ]
+    },
+    {
+      "eng": "stepfather",
+      "kk": "ˈstɛpˌfɑːðər",
+      "tense": "n.",
+      "ch": [
+        [
+          "繼父"
+        ]
+      ],
+      "analysis": "由古英語 stēop-（繼親的）與 father（父親）結合而成的複合名詞，指母親再婚後的丈夫。",
+      "definition": "1. a man who is married to one's mother after the death or divorce of one's biological father.",
+      "example": [
+        {
+          "eng": "Her stepfather walked her down the aisle at her wedding.",
+          "ch": "她的繼父在婚禮上挽著她走紅毯。"
+        }
+      ]
+    },
+    {
+      "eng": "stepmother",
+      "kk": "ˈstɛpˌmʌðər",
+      "tense": "n.",
+      "ch": [
+        [
+          "繼母"
+        ]
+      ],
+      "analysis": "由古英語 stēop-（繼親的）與 mother（母親）結合而成的複合名詞，指父親再婚後的妻子。",
+      "definition": "1. a woman who is married to one's father after the death or divorce of one's biological mother.",
+      "example": [
+        {
+          "eng": "She built a warm and supportive relationship with her stepmother.",
+          "ch": "她與繼母建立了溫馨且互相支持的關係。"
+        }
+      ]
+    },
+    {
+      "eng": "stimulation",
+      "kk": "ˌstɪmjuˈleɪʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "刺激",
+          "激勵",
+          "興奮作用"
+        ]
+      ],
+      "analysis": "由動詞 stimulate（刺激，源自拉丁語 stimulare「用刺棒刺」）加上名詞字尾 -ation 構成，指激發活力、興趣或生理反應的過程或作用。",
+      "definition": "1. the action of causing activity, interest, or enthusiasm in someone or a biological process.",
+      "example": [
+        {
+          "eng": "Young children need plenty of mental stimulation to learn and grow.",
+          "ch": "幼兒需要充足的心智刺激來學習與成長。"
+        }
+      ]
+    },
+    {
+      "eng": "strait",
+      "kk": "streɪt",
+      "tense": "n.",
+      "ch": [
+        [
+          "海峽"
+        ],
+        [
+          "困境",
+          "窘境（常用複數 straits)"
+        ]
+      ],
+      "analysis": "源自中古英語 streit（狹窄的），源自拉丁語 strictus（拉緊的、狹窄的）。本義指連接兩片海域的狹窄水道（海峽）；複數形 dire straits 引申指嚴重的困境或財務窘境。",
+      "definition": "1. a narrow passage of water connecting two seas or large bodies of water; 2. a state of serious difficulty or distress (usually used in plural 'straits').",
+      "example": [
+        {
+          "eng": "Cargo ships must navigate carefully through the narrow strait.",
+          "ch": "貨船必須小心翼翼地駛過這個狹窄的海峽。"
+        },
+        {
+          "eng": "The family fell into dire financial straits after the business failed.",
+          "ch": "生意失敗後，這家人陷入了嚴重的財務困境。"
+        }
+      ]
+    },
+    {
+      "eng": "strangle",
+      "kk": "ˈstræŋɡəl",
+      "tense": "vt.",
+      "ch": [
+        [
+          "勒死",
+          "掐死"
+        ],
+        [
+          "壓制",
+          "扼殺（發展或自由等）"
+        ]
+      ],
+      "analysis": "源自拉丁語 strangulare，源自希臘語 strangaloun（扭緊、掐住）。本義指掐住頸部使窒息而死；引申為扼殺、壓制計畫或言論自由等抽象概念。",
+      "definition": "1. to squeeze someone's neck tightly so that they cannot breathe; to choke; 2. to suppress, stifle, or prevent something from growing or developing.",
+      "example": [
+        {
+          "eng": "The suspect attempted to strangle the guard during the escape.",
+          "ch": "嫌犯在逃跑時企圖勒死警衛。"
+        },
+        {
+          "eng": "Heavy taxes and strict regulations can strangle small businesses.",
+          "ch": "繁重的稅賦與嚴格的規章可能會扼殺小型企業的發展。"
+        }
+      ]
+    },
+    {
+      "eng": "stray",
+      "kk": "streɪ",
+      "tense": "n.",
+      "ch": [
+        [
+          "走失的動物",
+          "流浪寵物"
+        ]
+      ],
+      "analysis": "由動詞 stray 轉化而來的名詞，指走失或無家可歸的動物（如流浪狗、流浪貓）。",
+      "definition": "1. a domestic animal that has wandered away from home or is lost.",
+      "example": [
+        {
+          "eng": "The shelter takes care of dozens of strays every week.",
+          "ch": "這家收容所每週照顧數十隻流浪動物。"
+        }
+      ]
+    },
+    {
+      "eng": "stray",
+      "kk": "streɪ",
+      "tense": "vi.",
+      "ch": [
+        [
+          "迷路",
+          "走失"
+        ],
+        [
+          "偏離（正題、方向等）"
+        ]
+      ],
+      "analysis": "源自古法語 estraier（流浪、走失），源自拉丁語 extravagari（漫遊）。指人或動物偏離原定路線、迷失方向，或指思緒、話題偏離主題。",
+      "definition": "1. to move away from home, a group, or the correct route; to get lost; 2. to deviate from a subject, purpose, or standard.",
+      "example": [
+        {
+          "eng": "Children should be careful not to stray from the tour group.",
+          "ch": "孩子們應注意不要脫隊迷路。"
+        },
+        {
+          "eng": "Let's stick to the agenda and not stray into unrelated topics.",
+          "ch": "我們照議程走，不要偏離不相關的主題。"
+        }
+      ]
+    },
+    {
+      "eng": "stray",
+      "kk": "streɪ",
+      "tense": "adj.",
+      "ch": [
+        [
+          "迷路的",
+          "流浪的"
+        ],
+        [
+          "零星的",
+          "偶爾散落的"
+        ]
+      ],
+      "analysis": "由動詞 stray 轉化而成的形容詞，指走失的動物、流浪在外的，或零星散落各處的事物。",
+      "definition": "1. (of an animal or domestic pet) homeless, lost, or wandering; 2. isolated, random, or scattered.",
+      "example": [
+        {
+          "eng": "She took the stray cat to the local animal shelter.",
+          "ch": "她把這隻流浪貓送到當地的動物收容所。"
+        },
+        {
+          "eng": "A stray bullet shattered the window during the incident.",
+          "ch": "事件中一顆流浪的流彈擊碎了窗戶。"
+        }
+      ]
+    },
+    {
+      "eng": "stride",
+      "kk": "straɪd",
+      "tense": "n.",
+      "ch": [
+        [
+          "大步",
+          "步幅"
+        ],
+        [
+          "進展",
+          "進步（常用複數 strides）"
+        ]
+      ],
+      "analysis": "由動詞 stride 轉化而來的名詞，指邁步的動作或步幅大小；複數形 make strides 引申指在事業或學習上取得顯著的進展。",
+      "definition": "1. a long, decisive step; the distance covered by a step; 2. an advancement, progress, or improvement (usually used in plural 'strides').",
+      "example": [
+        {
+          "eng": "He crossed the room in three long strides.",
+          "ch": "他跨了三大步就穿過了房間。"
+        },
+        {
+          "eng": "The country has made remarkable strides in renewable energy technology.",
+          "ch": "該國在再生能源技術方面取得了顯著的進展。"
+        }
+      ]
+    },
+    {
+      "eng": "stride",
+      "kk": "straɪd",
+      "tense": "vi.",
+      "ch": [
+        [
+          "大步走",
+          "闊步前進"
+        ]
+      ],
+      "analysis": "源自古英語 strīdan（張開雙腿跨過、大步走），屬於日耳曼語族來源的強變化動詞（過去式 strode，過去分詞 stridden）。指邁開大步、自信且快速地行走。",
+      "definition": "1. to walk with long, decisive steps in a specific direction.",
+      "example": [
+        {
+          "eng": "The CEO strode confidently into the boardroom for the meeting.",
+          "ch": "執行長自信地大步走進董事會議室開會。"
+        }
+      ]
+    }
+  ]
+}

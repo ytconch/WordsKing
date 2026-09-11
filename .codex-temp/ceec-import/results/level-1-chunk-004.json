@@ -1,0 +1,1333 @@
+{
+  "level": 1,
+  "chunkIndex": 4,
+  "inputs": [
+    "careful",
+    "carrot",
+    "carry",
+    "case",
+    "cat",
+    "catch",
+    "celebrate",
+    "cellphone",
+    "cent",
+    "center",
+    "certain",
+    "chair",
+    "chance",
+    "change",
+    "cheap",
+    "check",
+    "cheese",
+    "chicken",
+    "child",
+    "chocolate",
+    "choice",
+    "choose",
+    "church",
+    "circle",
+    "city",
+    "class",
+    "clean",
+    "clear",
+    "clerk",
+    "climb",
+    "clock",
+    "close",
+    "clothes",
+    "cloud",
+    "club",
+    "coat",
+    "coffee",
+    "cold",
+    "collect",
+    "color",
+    "come",
+    "comfortable",
+    "common",
+    "computer",
+    "convenient",
+    "cook",
+    "cookie",
+    "cool",
+    "copy",
+    "corner"
+  ],
+  "rows": [
+    {
+      "eng": "careful",
+      "kk": "ˈkɛr.fəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "小心翼翼的",
+          "謹慎的",
+          "注意的"
+        ],
+        [
+          "仔細的",
+          "周到的",
+          "一絲不苟的"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由名詞 care（小心、照料）加上形容詞字尾 -ful（充滿……的）組成，字面義即「充滿注意力的」。歷史上，care 源自古英語 caru、cearu（憂慮、關切），屬於日耳曼語繼承詞。語意演變從最初的「充滿憂慮與關切」逐漸轉為現代的「行事謹慎、不疏忽」以及「做事仔細、周到」。",
+      "definition": "1. cautious and attentive to potential danger, errors, or trouble; 2. done with thorough attention, accuracy, and detail.",
+      "example": [
+        {
+          "eng": "Be careful when you cross the busy street.",
+          "ch": "你過這條繁忙的街道時要小心。"
+        },
+        {
+          "eng": "She wrote a careful report on the company's financial status.",
+          "ch": "她寫了一份關於公司財務狀況的仔細報告。"
+        }
+      ]
+    },
+    {
+      "eng": "carrot",
+      "kk": "ˈkær.ət",
+      "tense": "n.",
+      "ch": [
+        [
+          "胡蘿蔔"
+        ],
+        [
+          "胡蘿蔔般的誘因",
+          "好處"
+        ]
+      ],
+      "analysis": "此字為歷史借詞。源自中世紀英語 carrotte，經由中古法語 carotte，最終源自拉丁語 carota，其更古老的根源可追溯至希臘語 karōton（胡蘿蔔）。在語意演變上，除了指根莖類蔬菜的原本實物外，現代英語中也常借用「胡蘿蔔」（相對於棍棒 stick）來比喻吸引人上鉤的誘因或好處（如 carrot and stick policy 蘿蔔與棒子政策）。",
+      "definition": "1. a tapering orange-colored root eaten as a vegetable; 2. an enticement or reward offered to persuade someone to do something.",
+      "example": [
+        {
+          "eng": "Rabbits like to eat fresh carrots from the garden.",
+          "ch": "兔子喜歡吃花園裡的新鮮胡蘿蔔。"
+        },
+        {
+          "eng": "The manager used a bonus as a carrot to boost team productivity.",
+          "ch": "經理用獎金作為誘因來提升團隊的工作效率。"
+        }
+      ]
+    },
+    {
+      "eng": "carry",
+      "kk": "ˈkɛr.i",
+      "tense": "vt.",
+      "ch": [
+        [
+          "攜帶",
+          "搬運",
+          "背負"
+        ],
+        [
+          "運送",
+          "輸送",
+          "傳遞"
+        ],
+        [
+          "支撐",
+          "承載"
+        ],
+        [
+          "具有",
+          "懷有",
+          "包含"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自盎格魯-諾曼語與中古法語 carier（以車運送），最終可追溯至拉丁語 carrus（四輪運貨馬車），屬於基於車輛運輸工具而延伸的動詞。語意演變從最初的「用車載運」，擴大為泛指「用手或身體任何部位拿著、搬運、運送物品」，進一步抽象化為「承載重量」、「傳送訊號或聲音」，以及「身上帶有某種特質、責任或含意」。",
+      "definition": "1. to support and move something from one place to another; 2. to convey or transmit things, substances, or signals; 3. to bear the weight or responsibility of something; 4. to possess, contain, or bear a specific quality or meaning.",
+      "example": [
+        {
+          "eng": "He carried a heavy backpack on his way to school.",
+          "ch": "他去學校的路上背著一個沉重的背包。"
+        },
+        {
+          "eng": "Pipes are used to carry water from the reservoir to the city.",
+          "ch": "水管用來把水從水庫輸送給城市。"
+        },
+        {
+          "eng": "The main pillars carry the entire weight of the roof.",
+          "ch": "主支柱承載著屋頂的全部重量。"
+        },
+        {
+          "eng": "Her words carried a strong message of warning.",
+          "ch": "她說的話帶有強烈的警告意味。"
+        }
+      ]
+    },
+    {
+      "eng": "case",
+      "kk": "keɪs",
+      "tense": "n.",
+      "ch": [
+        [
+          "情況",
+          "病例",
+          "事件"
+        ],
+        [
+          "箱",
+          "盒",
+          "套",
+          "容器"
+        ],
+        [
+          "案件",
+          "訴訟案"
+        ]
+      ],
+      "analysis": "此字歷史上有兩個不同的語源匯流於現代英語的同形異源詞（homonym）。第一組義項（情況、病例、案件）源自古法語 cas，根源為拉丁語 casus（落下、發生、機會），由 cadere（落下）衍生而來；第二組義項（箱、盒、套）源自古法語 casse，源自拉丁語 capsa（箱、櫃）。兩者在歷史上獨立發展，但在現代拼字與發音完全相同，因此合併於此單一 n. 詞性 row 中。",
+      "definition": "1. a particular instance, situation, or example of something; 2. a container designed for holding or protecting something; 3. a legal matter or crime being investigated or tried in court.",
+      "example": [
+        {
+          "eng": "In this case, we need to change our marketing strategy.",
+          "ch": "在這種情況下，我們需要改變行銷策略。"
+        },
+        {
+          "eng": "She keeps her expensive sunglasses in a hard leather case.",
+          "ch": "她把昂貴的太陽眼鏡放在硬皮眼鏡盒裡。"
+        },
+        {
+          "eng": "The police are still investigating the murder case.",
+          "ch": "警方仍在調查這起謀殺案。"
+        }
+      ]
+    },
+    {
+      "eng": "cat",
+      "kk": "kæt",
+      "tense": "n.",
+      "ch": [
+        [
+          "貓",
+          "貓科動物"
+        ]
+      ],
+      "analysis": "此字為日耳曼語繼承詞與古老借詞。源自古英語 catt，其更早來源可追溯至後期拉丁語 cattus，並向西歐多種語言擴散。語意核心指小型的毛皮肉食性哺乳動物，常被人類作為寵物飼養，亦可泛指貓科動物。無複雜的現代透明構詞。",
+      "definition": "1. a small domesticated carnivorous mammal with soft fur, a short snout, and retractile claws, often kept as a pet.",
+      "example": [
+        {
+          "eng": "My cat loves to sleep on the warm sofa all afternoon.",
+          "ch": "我的貓喜歡整個下午都在溫暖的沙發上睡覺。"
+        }
+      ]
+    },
+    {
+      "eng": "catch",
+      "kk": "kætʃ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "抓住",
+          "接住",
+          "捕獲"
+        ],
+        [
+          "趕上",
+          "搭乘（車船等）"
+        ],
+        [
+          "感染",
+          "染上（疾病）"
+        ],
+        [
+          "聽見",
+          "理解",
+          "看清"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自中古英語 cacchen，經由盎格魯-法語 cachier，最終源自拉丁語 captare（企圖抓住、捕捉），為 capere（拿取）的頻率動詞形式。語意由具體的「動手捕捉物體」向外延伸，發展出「趕上移動中的交通工具」、「染上傳染病」，以及抽象地「用耳朵或眼睛捕捉到聲音或資訊以理解之」。",
+      "definition": "1. to intercept and hold something moving through the air or fleeing; 2. to arrive in time to board a vehicle or make an appointment; 3. to contract an illness or disease; 4. to hear, see, or understand something clearly.",
+      "example": [
+        {
+          "eng": "The baseball player made a brilliant catch to save the game.",
+          "ch": "那名棒球選手做了一次精彩的接球挽救了比賽。"
+        },
+        {
+          "eng": "We need to run if we want to catch the last train home.",
+          "ch": "我們如果想趕上末班火車回家就得跑。"
+        },
+        {
+          "eng": "He stayed home from school because he caught a bad cold.",
+          "ch": "他因為得了重感冒而留在家裡沒去學校。"
+        },
+        {
+          "eng": "Could you repeat that? I didn't catch your last sentence.",
+          "ch": "你可以重複一遍嗎？我沒聽清楚你的最後一句話。"
+        }
+      ]
+    },
+    {
+      "eng": "celebrate",
+      "kk": "ˈsɛl.əˌbreɪt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "慶祝",
+          "歡慶",
+          "頌揚"
+        ]
+      ],
+      "analysis": "此字為直接借自拉丁語的學術性動詞。源自拉丁語 celebratus（過去分詞詞幹），源自動詞 celebrare（使頻繁、常去、大肆宣傳、慶祝），其根本源自形容詞 celeber（繁華的、著名的、熱鬧的）。語意演變從拉丁語中「使之熱鬧、廣為聚集」延續為現代英語中「舉辦儀式或聚會以慶祝某個重要日子或成就」。",
+      "definition": "1. to acknowledge a special day or event with social gatherings, activities, or ceremonies.",
+      "example": [
+        {
+          "eng": "The family gathered together to celebrate grandparents' golden wedding anniversary.",
+          "ch": "全家人聚在一起慶祝祖父母的金婚紀念日。"
+        }
+      ]
+    },
+    {
+      "eng": "cellphone",
+      "kk": "ˈsɛl.foʊn",
+      "tense": "n.",
+      "ch": [
+        [
+          "手機",
+          "行動電話"
+        ]
+      ],
+      "analysis": "此字為現代複合詞（compound word），由 cell（細胞，此處指行動通訊的「基地台涵蓋區、蜂窩」縮寫）與 phone（電話，源自希臘語 phōnē 聲音）組合而成。20世紀末隨著蜂巢式行動通訊技術普及而出現的新詞，指可攜帶且透過無線電基地台進行通話的終端設備。",
+      "definition": "1. a portable telephone that connects to a telecommunication network over a radio frequency link without the need for a physical wire connection.",
+      "example": [
+        {
+          "eng": "Please turn off your cellphone before the theatrical performance begins.",
+          "ch": "請在戲劇表演開始前將您的手機關機。"
+        }
+      ]
+    },
+    {
+      "eng": "cent",
+      "kk": "sɛnt",
+      "tense": "n.",
+      "ch": [
+        [
+          "分",
+          "分幣（貨幣單位）"
+        ]
+      ],
+      "analysis": "此字為歷史借詞。源自法語 cent（一百），其最終源自拉丁語 centum（一百）。在貨幣史上，作為元（dollar、euro 等）的百分之一單位而得名。無複雜的現代透明構詞。",
+      "definition": "1. a monetary unit of various countries, equal to one hundredth of a basic currency unit such as a dollar or euro.",
+      "example": [
+        {
+          "eng": "I didn't have a single cent left in my pocket after shopping.",
+          "ch": "我購物完後口袋裡連一分錢都沒有了。"
+        }
+      ]
+    },
+    {
+      "eng": "center",
+      "kk": "ˈsɛn.tər",
+      "tense": "n.",
+      "ch": [
+        [
+          "中心",
+          "中央",
+          "核心"
+        ],
+        [
+          "中心機構",
+          "場所"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自中古法語 centre，經由拉丁語 centrum，最終源自希臘語 kentron（尖刺、圓規尖端、圓心）。語意演變從希臘語的「畫圓時的圓規尖端所在」轉為「圓的幾何中心」，再進一步抽象化為「任何事物的核心、正中央」或「提供特定服務的集中場所（如 community center）」。",
+      "definition": "1. the middle point or part of something; 2. a facility or place where a specific activity, service, or group is concentrated.",
+      "example": [
+        {
+          "eng": "A large fountain stood in the center of the town square.",
+          "ch": "城鎮廣場的中央矗立著一座大噴泉。"
+        },
+        {
+          "eng": "She works as a volunteer at the local community center.",
+          "ch": "她在當地社區中心擔任志工。"
+        }
+      ]
+    },
+    {
+      "eng": "certain",
+      "kk": "ˈsɝː.tən",
+      "tense": "adj.",
+      "ch": [
+        [
+          "確定的",
+          "確信的",
+          "無疑的"
+        ],
+        [
+          "某個",
+          "某些（未明指的）"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自古法語 certain，源自通俗拉丁語 *certanus，衍生自拉丁語 certus（確定的、確信的），原意為「經過區分、分門別類而確實無誤的」。語意由主觀或客觀的「毫無疑問、確信」分化出修飾名詞時的「某個特定但未明言的」用法（如 a certain person）。",
+      "definition": "1. knowing for sure and having no doubts about something; 2. specific but not explicitly named or described.",
+      "example": [
+        {
+          "eng": "I am certain that I locked the front door before leaving.",
+          "ch": "我很確定我出門前把大門鎖上了。"
+        },
+        {
+          "eng": "A certain manager called to ask about your project status.",
+          "ch": "某位經理打電話來詢問你們的專案進度。"
+        }
+      ]
+    },
+    {
+      "eng": "chair",
+      "kk": "tʃɛr",
+      "tense": "n.",
+      "ch": [
+        [
+          "椅子",
+          "交椅"
+        ],
+        [
+          "職位",
+          "主席職位"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自中古法語 chaiere，最終源自拉丁語 cathedra（座椅、講臺、教皇座，源自希臘語 kathedra）。語意從最初供人坐的「有背靠的家具」，透過 Metonymy（借代）延伸出會議或學術單位的「主席職位」（如 hold a chair in physics）或主持會議的主席本身（chairperson 的簡稱）。",
+      "definition": "1. a separate seat for one person, typically with a back and four legs; 2. the position of being a chairperson, or the seat of authority in an academic department.",
+      "example": [
+        {
+          "eng": "He pulled up a chair and joined the discussion around the table.",
+          "ch": "他搬了一張椅子加入桌邊的討論。"
+        },
+        {
+          "eng": "She was elected to the chair of the committee last month.",
+          "ch": "她上個月被選為該委員會的主席。"
+        }
+      ]
+    },
+    {
+      "eng": "chance",
+      "kk": "tʃæns",
+      "tense": "n.",
+      "ch": [
+        [
+          "機會",
+          "機緣"
+        ],
+        [
+          "可能性",
+          "機率"
+        ],
+        [
+          "運氣",
+          "意外"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自古法語 chance，最終源自通俗拉丁語 *cadentia（落下、偶然發生的事情），源自拉丁語 cadere（落下）。在古羅馬骰子遊戲中，骰子落下的結果代表命運與機會，因此語意從「落下」演變為「發生的機率、機會、偶然或運氣」。",
+      "definition": "1. a possibility of doing something or an occasion that makes it possible; 2. the likelihood of something happening; 3. a stroke of fortune or luck without a planned cause.",
+      "example": [
+        {
+          "eng": "This job interview is a great chance for my future career.",
+          "ch": "這次工作面試對我未來職涯是一個很好的機會。"
+        },
+        {
+          "eng": "There is a strong chance that it will rain tomorrow afternoon.",
+          "ch": "明天下午很有可能會下雨。"
+        },
+        {
+          "eng": "Meeting my old friend at the airport was just by chance.",
+          "ch": "在機場遇到老朋友純粹是個意外。"
+        }
+      ]
+    },
+    {
+      "eng": "change",
+      "kk": "tʃeɪndʒ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "改變",
+          "更改",
+          "修改"
+        ],
+        [
+          "更換",
+          "替換"
+        ],
+        [
+          "找零錢",
+          "兌換貨幣"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自古法語 changier，最終源自通俗拉丁語 *cambiare（兌換、改變），其更早根源可追溯至凱爾特語族。語意由商業上的「貨幣兌換」逐漸擴大為「使事物變成另一種樣子（改變）」、「替換成新的物品（更換衣服或零件）」、以及「找付帳時剩餘的零錢」。",
+      "definition": "1. to make someone or something different, or to become different; 2. to replace one thing with another, such as clothes or parts; 3. to give smaller coins or bills in exchange for an equivalent larger amount.",
+      "example": [
+        {
+          "eng": "We need to change our travel plans due to the bad weather.",
+          "ch": "我們因為惡劣天氣需要改變旅行計畫。"
+        },
+        {
+          "eng": "She went to the restroom to change her wet clothes.",
+          "ch": "她去洗手間換掉濕衣服。"
+        },
+        {
+          "eng": "Can you change a twenty-dollar bill into smaller ones for me?",
+          "ch": "你可以幫我把二十元紙鈔找開嗎？"
+        }
+      ]
+    },
+    {
+      "eng": "cheap",
+      "kk": "tʃiːp",
+      "tense": "adj.",
+      "ch": [
+        [
+          "便宜的",
+          "低廉的"
+        ],
+        [
+          "劣質的",
+          "低級的"
+        ]
+      ],
+      "analysis": "此字為日耳曼語繼承詞。源自中古英語 chep（便宜貨、買賣），衍生自古英語片語 cēapian（討價還價、購買），其根源 cēap 意為「貨物、生意」。語意在歷史上從「交易時價格公道、物超所值」逐漸貶義化為「廉價而品質低劣的」或「吝嗇的」。",
+      "definition": "1. costing very little money or less than expected; 2. of low quality or inferior value.",
+      "example": [
+        {
+          "eng": "I bought some cheap vegetables at the morning farmers' market.",
+          "ch": "我在早晨的農夫市集買了一些便宜的蔬菜。"
+        },
+        {
+          "eng": "The plastic toy broke easily because it was made of cheap materials.",
+          "ch": "這個塑膠玩具很容易壞，因為它是用劣質材料做的。"
+        }
+      ]
+    },
+    {
+      "eng": "check",
+      "kk": "tʃɛk",
+      "tense": "vt.",
+      "ch": [
+        [
+          "檢查",
+          "核對",
+          "查看"
+        ],
+        [
+          "阻止",
+          "抑制",
+          "控制"
+        ]
+      ],
+      "analysis": "此字歷史上有趣地源自波斯語的象棋用語 shah（國王），經由阿拉伯語與古法語 check 或 eschif。在象棋中當「將軍 (check)」時，意味著國王受到攻擊而被迫停止或限制行動。因此，語意一方面演變出「核對、檢查狀況是否正確」，另一方面保留了「阻止、壓抑、抑制（某人的進攻或不良趨勢）」的古典義項。",
+      "definition": "1. to examine something in order to determine its accuracy, quality, or condition; 2. to stop or slow down the progress of something undesirable.",
+      "example": [
+        {
+          "eng": "Please check your answers before you submit the exam paper.",
+          "ch": "請在交考卷前檢查你的答案。"
+        },
+        {
+          "eng": "The government took emergency measures to check the spread of the disease.",
+          "ch": "政府採取緊急措施來抑制該疾病的蔓延。"
+        }
+      ]
+    },
+    {
+      "eng": "cheese",
+      "kk": "tʃiːz",
+      "tense": "n.",
+      "ch": [
+        [
+          "起司",
+          "乳酪"
+        ]
+      ],
+      "analysis": "此字為日耳曼語族透過拉丁語早期借入古英語的繼承詞。源自古英語 cēse、cīse，最終源自拉丁語 cāseus（乳酪）。指將牛奶或羊奶凝固、發酵後製成的乳製品。無複雜的現代透明構詞。",
+      "definition": "1. a food made from the pressed curd of milk, showing a wide range of flavors, textures, and forms.",
+      "example": [
+        {
+          "eng": "She likes to put a slice of cheese on top of her hamburger.",
+          "ch": "她喜歡在漢堡上放一片起司。"
+        }
+      ]
+    },
+    {
+      "eng": "chicken",
+      "kk": "ˈtʃɪk.ən",
+      "tense": "n.",
+      "ch": [
+        [
+          "雞",
+          "雞肉"
+        ]
+      ],
+      "analysis": "此字為日耳曼語繼承詞。源自古英語 cicen（小雞），由印歐語根基底衍生並帶有指小詞綴。語意涵蓋活的家禽（小雞或泛指雞）以及作為食物的雞肉。無複雜的現代透明構詞。",
+      "definition": "1. a domestic fowl kept for its eggs or meat, or the meat of this bird eaten as food.",
+      "example": [
+        {
+          "eng": "The farmer raises hundreds of chickens in the backyard coop.",
+          "ch": "農夫在後院的雞舍裡養了幾百隻雞。"
+        },
+        {
+          "eng": "We had roasted chicken and mashed potatoes for dinner.",
+          "ch": "我們晚餐吃了烤雞和馬鈴薯泥。"
+        }
+      ]
+    },
+    {
+      "eng": "child",
+      "kk": "tʃaɪld",
+      "tense": "n.",
+      "ch": [
+        [
+          "兒童",
+          "小孩",
+          "子女"
+        ]
+      ],
+      "analysis": "此字為日耳曼語繼承詞。源自古英語 cild（嬰兒、兒童），屬於日耳曼語族中源自早期印歐語的詞彙。複數形 children 帶有古老的弱變化複數詞綴 -ern 與音變。語意指未成年的人類，或相對於父母的親生子女。",
+      "definition": "1. a young human being below the age of puberty or below the legal age of majority, or a son or daughter of any age.",
+      "example": [
+        {
+          "eng": "Parents should provide a safe and loving environment for every child.",
+          "ch": "父母應該為每個孩子提供安全且充滿愛的環境。"
+        }
+      ]
+    },
+    {
+      "eng": "chocolate",
+      "kk": "ˈtʃɑː.klət",
+      "tense": "n.",
+      "ch": [
+        [
+          "巧克力",
+          "巧克力糖"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，經由西班牙語引入歐洲。最終源自納瓦特爾語（阿茲特克語）chocolātl，由 chōcolli（苦的）與 ātl（水）複合而成。隨著大航海時代美洲可可豆傳入歐洲，名稱與製品一同普及至全球。",
+      "definition": "1. a food preparation in the form of a paste or solid block made from roasted and ground cacao seeds, typically sweetened.",
+      "example": [
+        {
+          "eng": "He gave his girlfriend a box of dark chocolate on Valentine's Day.",
+          "ch": "他在情人節送給女朋友一盒黑巧克力。"
+        }
+      ]
+    },
+    {
+      "eng": "choice",
+      "kk": "tʃɔɪs",
+      "tense": "n.",
+      "ch": [
+        [
+          "選擇",
+          "抉擇",
+          "選項"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自古法語 chois（選擇、挑選），對應動詞 choisir（挑選），其源自日耳曼語源（與德語 küuren、英語 choose 同源）。語意指在多種可能性中進行挑選的權利、行為，或指被挑選出來的事物本身。",
+      "definition": "1. an act of selecting or making a decision when faced with two or more possibilities.",
+      "example": [
+        {
+          "eng": "You have a difficult choice to make between the two job offers.",
+          "ch": "在這兩個工作機會之間，你有一個艱難的選擇要做。"
+        }
+      ]
+    },
+    {
+      "eng": "choose",
+      "kk": "tʃuːz",
+      "tense": "vt.",
+      "ch": [
+        [
+          "選擇",
+          "挑選",
+          "挑中"
+        ]
+      ],
+      "analysis": "此字為日耳曼語繼承詞。源自古英語 cēosan（選擇、試驗），屬於強變化動詞（過去式 chose，過去分詞 chosen）。與古高地德語 kiosan 同源。語意核心為根據個人意願在多個選項中做出決定與挑選。",
+      "definition": "1. to pick out or select someone or something as being the best or most appropriate of two or more alternatives.",
+      "example": [
+        {
+          "eng": "She carefully chose a blue dress for the graduation party.",
+          "ch": "她為畢業派對精心挑選了一件藍色洋裝。"
+        }
+      ]
+    },
+    {
+      "eng": "church",
+      "kk": "tʃɝːtʃ",
+      "tense": "n.",
+      "ch": [
+        [
+          "教堂",
+          "禮拜堂"
+        ],
+        [
+          "教會",
+          "教派"
+        ]
+      ],
+      "analysis": "此字為日耳曼語繼承詞，透過基督教傳入日耳曼地區而進入古英語。源自古英語 cirice、circe，最終源自晚期希臘語 kyriakon (dōma)（主的房屋），由 kyrios（主、主人）衍生而來。語意從具體的基督教建築物（教堂），延伸擴大至全體信徒組成的宗教團體或組織（教會）。",
+      "definition": "1. a building used for public Christian worship; 2. a particular Christian organization or denomination, or the body of all Christians.",
+      "example": [
+        {
+          "eng": "The old stone church stands quietly at the end of the village.",
+          "ch": "那座古老的石造教堂安靜地矗立在村莊盡頭。"
+        },
+        {
+          "eng": "Many people go to church every Sunday morning.",
+          "ch": "許多人每週日早上去做禮拜。"
+        }
+      ]
+    },
+    {
+      "eng": "circle",
+      "kk": "ˈsɝː.kəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "圓圈",
+          "圓形"
+        ],
+        [
+          "圈子",
+          "階層",
+          "界別"
+        ]
+      ],
+      "analysis": "此字為歷史借詞。源自中古法語 cercle，最終源自拉丁語 circulus（小環、圓圈），為 circus（競技場、圓圈）的指小詞形式。幾何學上的「圓圈」義引申出社交或專業領域中志趣相投的人群組成的「圈子、社交界」。",
+      "definition": "1. a round plane figure whose boundary consists of points equidistant from the center; 2. a group of people with a shared interest, profession, or social status.",
+      "example": [
+        {
+          "eng": "Draw a perfect circle using a compass on the paper.",
+          "ch": "在紙上用圓規畫一個完美的圓。"
+        },
+        {
+          "eng": "She is well known within literary circles for her essays.",
+          "ch": "她因其散文作品在文學界享有盛名。"
+        }
+      ]
+    },
+    {
+      "eng": "city",
+      "kk": "ˈsɪt.i",
+      "tense": "n.",
+      "ch": [
+        [
+          "城市",
+          "都市"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自古法語 cite，經由拉丁語 civitas（公民身份、城邦、城市），其源自 civis（公民）。在中世紀歐洲，此詞原本專指擁有主教座堂的大城鎮或自治市，現代則泛指人口稠密、規模大於城鎮的都會區。",
+      "definition": "1. a large town or urban area with a high population density and administrative importance.",
+      "example": [
+        {
+          "eng": "New York is a bustling international city that never sleeps.",
+          "ch": "紐約是一座永不歇息、熙熙攘攘的國際大都市。"
+        }
+      ]
+    },
+    {
+      "eng": "class",
+      "kk": "klæs",
+      "tense": "n.",
+      "ch": [
+        [
+          "班級",
+          "課堂",
+          "課程"
+        ],
+        [
+          "階級",
+          "社會階層"
+        ],
+        [
+          "等級",
+          "種類"
+        ]
+      ],
+      "analysis": "此字為直接借自拉丁語的學術與行政借詞。源自拉丁語 classis（古羅馬公民依財產劃分的等級、艦隊、班級），最初源自用來召集或分組的詞根。語意從古羅馬的「公民等級」擴展至學校中的「班級、課程」，並在社會學中指「社會階層」，在生物學或商業中指「等級、種類」。",
+      "definition": "1. a group of students taught together, or a period of instruction; 2. a social stratum or division based on status or wealth; 3. a category of things divided by quality, grade, or type.",
+      "example": [
+        {
+          "eng": "All students in our class passed the final mathematics exam.",
+          "ch": "我們班的所有學生都通過了期末數學考試。"
+        },
+        {
+          "eng": "The industrial revolution changed the economic structure and class relations.",
+          "ch": "工業革命改變了經濟結構與階級關係。"
+        },
+        {
+          "eng": "This hotel offers first-class service to all its VIP guests.",
+          "ch": "這家飯店為所有貴賓提供頭等服務。"
+        }
+      ]
+    },
+    {
+      "eng": "clean",
+      "kk": "kliːn",
+      "tense": "adj.",
+      "ch": [
+        [
+          "乾淨的",
+          "整潔的"
+        ],
+        [
+          "純潔的",
+          "無辜的",
+          "無瑕疵的"
+        ]
+      ],
+      "analysis": "此字為日耳曼語繼承詞。源自古英語 clǣne（純淨的、無汙染的、整潔的），屬於日耳曼語族同源詞（如德語 klein 原義為乾淨、精細，現轉為小）。語意由實體物質的「沒有汙垢、乾淨」延伸至道德上的「清白、無罪」或操作上的「乾淨俐落」。",
+      "definition": "1. free from dirt, stains, or impurities; 2. morally pure, innocent, or free from wrongdoing and flaws.",
+      "example": [
+        {
+          "eng": "Please wash your hands and keep them clean before eating.",
+          "ch": "吃飯前請把手洗乾淨。"
+        },
+        {
+          "eng": "The suspect maintained a clean criminal record throughout his life.",
+          "ch": "嫌疑犯一生都保持著乾淨的無犯罪紀錄。"
+        }
+      ]
+    },
+    {
+      "eng": "clear",
+      "kk": "klɪr",
+      "tense": "adj.",
+      "ch": [
+        [
+          "清澈的",
+          "透明的",
+          "晴朗的"
+        ],
+        [
+          "清楚的",
+          "明白的",
+          "顯而易見的"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自古法語 cler，最終源自拉丁語 clarus（明亮的、響亮的、清楚的）。語意從物理上的「光線充足、水質清澈、天氣晴朗」引申出抽象認知上的「邏輯清晰、毫無疑問、容易理解」。",
+      "definition": "1. transparent, bright, or free from cloudiness and obstruction; 2. easy to perceive, understand, or interpret without confusion.",
+      "example": [
+        {
+          "eng": "The lake water was so clear that we could see small fish swimming.",
+          "ch": "湖水清澈見底，我們可以看到小魚在游動。"
+        },
+        {
+          "eng": "The teacher gave a clear explanation of the grammar rule.",
+          "ch": "老師對這個文法規則做了清晰易懂的解釋。"
+        }
+      ]
+    },
+    {
+      "eng": "clerk",
+      "kk": "klɝːk",
+      "tense": "n.",
+      "ch": [
+        [
+          "店員",
+          "辦事員",
+          "書記"
+        ]
+      ],
+      "analysis": "此字為歷史借詞。源自中古英語 clerk，源自古英語 cleric（教士、學者），最終源自拉丁語 clericus（神職人員，源自希臘語 klēros 抽籤分配的土地/神職）。在中世紀歐洲，唯有神職人員識字，因此 clerk 最初專指「辦公文書與書記的文職人員」，隨後語意演變為現代辦公室職員與零售店店員。",
+      "definition": "1. a person employed in an office to keep records, file accounts, or undertake other routine clerical work, or a sales assistant in a store.",
+      "example": [
+        {
+          "eng": "The store clerk helped me find the right size of shoes.",
+          "ch": "店員幫我找到合適尺寸的鞋子。"
+        }
+      ]
+    },
+    {
+      "eng": "climb",
+      "kk": "klaɪm",
+      "tense": "vi.",
+      "ch": [
+        [
+          "攀登",
+          "爬",
+          "上升"
+        ]
+      ],
+      "analysis": "此字為日耳曼語繼承詞。源自古英語 climban（攀爬、上升），屬於強變化動詞。與德語 klimmen 同源。語意核心為手腳並用向上爬升，或抽象地指價格、溫度、地位等數據的「上升、攀升」。",
+      "definition": "1. to go up, ascend, or climb a steep slope or structure, or to rise in value or status.",
+      "example": [
+        {
+          "eng": "Experienced mountaineers spent hours trying to climb the steep rock cliff.",
+          "ch": "經驗豐富的登山者花了好幾個小時試圖攀登那座陡峭的岩壁。"
+        }
+      ]
+    },
+    {
+      "eng": "clock",
+      "kk": "klɑːk",
+      "tense": "n.",
+      "ch": [
+        [
+          "時鐘",
+          "鐘"
+        ]
+      ],
+      "analysis": "此字為歷史借詞。源自中世紀荷蘭語 clocke 或古法語 cloque，最終源自中世紀拉丁語 clocca（鐘）。在中世紀，教堂的鐘用來按時敲擊報時，隨後該詞轉移指室內或牆上用來計時的儀器（時鐘）。",
+      "definition": "1. a mechanical or electronic instrument used for measuring and indicating time, typically placed on a wall or desk.",
+      "example": [
+        {
+          "eng": "The classroom clock ticked loudly as students concentrated on the test.",
+          "ch": "當學生專心考試時，教室裡的時鐘滴答滴答大聲響著。"
+        }
+      ]
+    },
+    {
+      "eng": "close",
+      "kk": "kloʊz",
+      "tense": "vt.",
+      "ch": [
+        [
+          "關閉",
+          "合上"
+        ],
+        [
+          "結束",
+          "使終止"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自古法語 clos-, stem of clorre（關閉），最終源自拉丁語 claudere（關閉）。語意從實體的「將門窗、容器關上」引申為抽象的「結束會議、帳戶或營業狀態」。",
+      "definition": "1. to move a door, lid, or opening into a position that blocks passage; 2. to bring an event, discussion, or institution to an end.",
+      "example": [
+        {
+          "eng": "Please close the window to keep the cold wind outside.",
+          "ch": "請把窗戶關上以擋住冷風。"
+        },
+        {
+          "eng": "The chairman decided to close the meeting with a short speech.",
+          "ch": "主席決定以一段簡短的致詞來結束會議。"
+        }
+      ]
+    },
+    {
+      "eng": "clothes",
+      "kk": "kloʊðz",
+      "tense": "n.",
+      "ch": [
+        [
+          "衣服",
+          "服裝"
+        ]
+      ],
+      "analysis": "此字為日耳曼語繼承詞。源自古英語 clāðas（複數形，單數為 clāð 布料、織物）。歷史上由名詞布料衍生出複數形式的「穿在身上的成套衣物」。發音上通常省略中間的 [ð]，形成 [kloʊðz] 或 [kloʊz]。",
+      "definition": "1. items worn on the body, such as shirts, trousers, and dresses, to cover and protect.",
+      "example": [
+        {
+          "eng": "She washed all her dirty clothes and hung them out to dry.",
+          "ch": "她洗了所有髒衣服並把牠們晾出去曬乾。"
+        }
+      ]
+    },
+    {
+      "eng": "cloud",
+      "kk": "klaʊd",
+      "tense": "n.",
+      "ch": [
+        [
+          "雲",
+          "雲朵"
+        ],
+        [
+          "陰影",
+          "陰霾",
+          "一大片懸浮物"
+        ]
+      ],
+      "analysis": "此字為日耳曼語繼承詞。源自古英語 clūd（岩石、大石塊），其語意在中古英語時期發生重大轉移：從「天空中的雲看起來像巨大的浮動岩石」，演變成專指天空中的水滴或冰晶聚集體（雲）。現代亦可比喻籠罩的陰霾或電腦運算中的雲端（cloud computing）。",
+      "definition": "1. a visible mass of condensed water vapor floating in the atmosphere; 2. a dark or threatening mass resembling a cloud, or a network of remote servers.",
+      "example": [
+        {
+          "eng": "Dark rain clouds gathered quickly over the mountains before the storm.",
+          "ch": "暴風雨來臨前，烏黑的雨雲迅速在群山上方聚集。"
+        }
+      ]
+    },
+    {
+      "eng": "club",
+      "kk": "klʌb",
+      "tense": "n.",
+      "ch": [
+        [
+          "俱樂部",
+          "社團"
+        ],
+        [
+          "棍棒",
+          "球桿（如高爾夫球桿）"
+        ]
+      ],
+      "analysis": "此字歷史上有兩個主要來源的同形異源義。第一組義項（俱樂部、社團）源自斯堪地那維亞語源（意為黏聚、聚集在一塊）；第二組義項（棍棒、球桿）源自古諾斯語 klubba（沉重的棍棒）。兩者拼字相同但在語義上獨立，故歸納於同一 n. 詞性 row 中。",
+      "definition": "1. an association of people dedicated to a particular interest or activity; 2. a heavy stick used as a weapon or a specialized implement used to strike a ball in sports.",
+      "example": [
+        {
+          "eng": "He joined the school photography club to learn more about camera skills.",
+          "ch": "他加入了學校的攝影社以學習更多相機技巧。"
+        },
+        {
+          "eng": "She selected a pitching wedge golf club from her bag.",
+          "ch": "她從球袋裡選了一支劈起沙坑桿。"
+        }
+      ]
+    },
+    {
+      "eng": "coat",
+      "kk": "koʊt",
+      "tense": "n.",
+      "ch": [
+        [
+          "外套",
+          "大衣"
+        ],
+        [
+          "覆蓋層",
+          "塗層"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自古法語 cote（外衣、罩衫），其根源可能來自日耳曼語族。語意從穿在最外層的保暖衣物（大衣）引申出物理表面上塗抹的一層油漆或保護膜（如 a fresh coat of paint）。",
+      "definition": "1. an outer garment worn outdoors, having sleeves and typically extending below the hips; 2. a layer of a substance covering a surface.",
+      "example": [
+        {
+          "eng": "He put on his heavy winter coat before stepping out into the snow.",
+          "ch": "他穿上厚重的冬衣才踏入雪地中。"
+        },
+        {
+          "eng": "The wooden fence needs another coat of white paint.",
+          "ch": "這道木柵欄需要再刷上一層白漆。"
+        }
+      ]
+    },
+    {
+      "eng": "coffee",
+      "kk": "ˈkɑː.fi",
+      "tense": "n.",
+      "ch": [
+        [
+          "咖啡",
+          "咖啡飲品"
+        ]
+      ],
+      "analysis": "此字為經由土耳其語與威尼斯語進入歐洲語言的歷史借詞。最終源自阿拉伯語 qahwah（咖啡，原意可能指某種酒類），經由鄂圖曼土耳其語 kahve 傳入西方。指由烘焙磨碎的咖啡豆沖泡而成的提神飲料。",
+      "definition": "1. a hot or cold dark-colored drink prepared from roasted and ground coffee beans.",
+      "example": [
+        {
+          "eng": "She drinks a cup of black coffee every morning to stay awake.",
+          "ch": "她每天早晨喝一杯黑咖啡來保持清醒。"
+        }
+      ]
+    },
+    {
+      "eng": "cold",
+      "kk": "koʊld",
+      "tense": "adj.",
+      "ch": [
+        [
+          "寒冷的",
+          "冷的"
+        ],
+        [
+          "冷淡的",
+          "無情的"
+        ]
+      ],
+      "analysis": "此字為日耳曼語繼承詞。源自古英語 cald、ceald（寒冷的），屬於日耳曼語同源詞（如德語 kalt）。語意從物理溫度的低下引申出情感上的冷漠、不友善或冷酷無情。",
+      "definition": "1. of or at a low temperature, especially compared to the human body; 2. lacking affection, warmth, enthusiasm, or emotion.",
+      "example": [
+        {
+          "eng": "The weather outside is very cold, so please wear a warm jacket.",
+          "ch": "外面天氣非常冷，請穿暖和的外套。"
+        },
+        {
+          "eng": "His cold response made her feel unwelcome at the meeting.",
+          "ch": "他冷淡的回應讓她在會議上感到不受歡迎。"
+        }
+      ]
+    },
+    {
+      "eng": "collect",
+      "kk": "kəˈlɛkt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "收集",
+          "採集",
+          "收藏"
+        ],
+        [
+          "聚集",
+          "集合"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自拉丁語 collectus，為 colligere（收集）的過去分詞，由字首 con-（共同、加強）與 legere（挑選、收集）同化組合而成。語意演變從將分散的事物「挑選並聚集在一起」延伸至集郵、收藏藝術品或匯集資料。",
+      "definition": "1. to bring or gather things together from various sources into a group or collection; 2. to bring people or items together into one place.",
+      "example": [
+        {
+          "eng": "My grandfather has been collecting vintage stamps for over forty years.",
+          "ch": "我祖父收集古董郵票已經四十多年了。"
+        },
+        {
+          "eng": "The teacher asked the students to collect their homework assignments.",
+          "ch": "老師要求學生把家庭作業收齊。"
+        }
+      ]
+    },
+    {
+      "eng": "color",
+      "kk": "ˈkʌl.ɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "顏色",
+          "色彩"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，經由盎格魯-諾曼語 color 引入英語，源自拉丁語 color（色彩、外貌）。在美式拼字中寫作 color，英式拼字寫作 colour。指光譜照射物體後反射呈現的視覺色彩屬性。",
+      "definition": "1. the property possessed by an object of producing different sensations on the eye as a result of the way the object reflects or emits light.",
+      "example": [
+        {
+          "eng": "Blue is her favorite color because it reminds her of the quiet ocean.",
+          "ch": "藍色是她最喜歡的顏色，因為這讓她想起寧靜的海洋。"
+        }
+      ]
+    },
+    {
+      "eng": "come",
+      "kk": "kʌm",
+      "tense": "vi.",
+      "ch": [
+        [
+          "來",
+          "來到",
+          "抵達"
+        ]
+      ],
+      "analysis": "此字為日耳曼語繼承詞。源自古英語 cuman（來、抵達），屬於強變化動詞（過去式 came，過去分詞 come）。與德語 kommen 同源。為英語中最基本、高頻的移動動詞，表示向說話者或指定地點靠近。",
+      "definition": "1. to move or travel toward or into a place closer to the speaker or a specified destination.",
+      "example": [
+        {
+          "eng": "Please come to my office tomorrow morning so we can discuss the project.",
+          "ch": "請明天早上來我的辦公室，以便我們討論這個專案。"
+        }
+      ]
+    },
+    {
+      "eng": "comfortable",
+      "kk": "ˈkʌm.fɚ.tə.bəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "舒適的",
+          "舒服的"
+        ],
+        [
+          "自在的",
+          "安逸的"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞結合歷史借詞。由動詞 comfort（安慰、舒適，源自拉丁語 confortare）加上形容詞字尾 -able（能夠……的、具有……性質的）組合而成。語意從「提供慰藉的」演變為讓人身體感覺舒適或心理感到安逸自在。",
+      "definition": "1. providing physical ease and relaxation; 2. feeling physically and mentally at ease without stress or pain.",
+      "example": [
+        {
+          "eng": "This leather sofa is extremely comfortable for reading books.",
+          "ch": "這張皮沙發坐起來看書極為舒適。"
+        },
+        {
+          "eng": "She felt completely comfortable and relaxed speaking in front of the audience.",
+          "ch": "她在觀眾面前發言時感到十分自在且放鬆。"
+        }
+      ]
+    },
+    {
+      "eng": "common",
+      "kk": "ˈkɑː.mən",
+      "tense": "adj.",
+      "ch": [
+        [
+          "常見的",
+          "普遍的"
+        ],
+        [
+          "共同的",
+          "共有的"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自古法語 comun，最終源自拉丁語 communis（共同的、公有的）。語意從羅馬法中的「眾人共有、不屬於私人」演變出「普遍存在、經常發生」的常見義（如 common sense 常識）。",
+      "definition": "1. occurring, found, or done frequently; prevalent; 2. belonging to or shared by two or more people or things.",
+      "example": [
+        {
+          "eng": "Headaches are a very common symptom among people who work too much.",
+          "ch": "頭痛是工作過度的人群中非常常見的症狀。"
+        },
+        {
+          "eng": "The two countries share a common border and historical background.",
+          "ch": "這兩個國家擁有共同的邊界與歷史背景。"
+        }
+      ]
+    },
+    {
+      "eng": "computer",
+      "kk": "kəmˈpjuː.tɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "電腦",
+          "計算機"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞。由動詞 compute（計算，源自拉丁語 computare）加上agent noun 字尾 -er（表示工具或執行者）組成。原意為「進行計算的人或機器」，在20世紀中葉電子數位計算機發明後，專指現代能執行大量資料處理與程式運算的電子計算機（電腦）。",
+      "definition": "1. an electronic device for storing and processing data, typically in binary form, according to instructions given to it in a variable program.",
+      "example": [
+        {
+          "eng": "He spent the whole night writing software code on his laptop computer.",
+          "ch": "他整晚都在筆記型電腦上寫軟體程式碼。"
+        }
+      ]
+    },
+    {
+      "eng": "convenient",
+      "kk": "kənˈviː.ni.ənt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "便利的",
+          "方便的",
+          "合宜的"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自拉丁語 conveniens（合適的、相配的），為 convenire（聚集、適合）的現在分詞。由字首 con-（共同）與 venire（來）組成。語意從拉丁語的「適合時機或情況」演變為現代英語中「使用方便、省時省力的便利狀態」。",
+      "definition": "1. fitting in well with a person's needs, activities, or plans; causing little trouble or difficulty.",
+      "example": [
+        {
+          "eng": "Living near the subway station is very convenient for my daily commute.",
+          "ch": "住在捷運站附近對我每天的通勤非常方便。"
+        }
+      ]
+    },
+    {
+      "eng": "cook",
+      "kk": "kʊk",
+      "tense": "vt.",
+      "ch": [
+        [
+          "烹調",
+          "煮",
+          "燒（飯菜）"
+        ]
+      ],
+      "analysis": "此字為日耳曼語繼承詞。源自古英語 cōcian（烹調），最終源自拉丁語 coquere（烹飪、煮熟）。語意指透過加熱將生食製成熟食的烹調行為。亦可作為名詞指廚師，此處建立 vt. row。",
+      "definition": "1. to prepare food for eating by heating it, combining ingredients, or applying other culinary methods.",
+      "example": [
+        {
+          "eng": "My father likes to cook delicious Italian pasta for Sunday dinner.",
+          "ch": "我父親喜歡在週日晚餐時煮美味的義大利麵。"
+        }
+      ]
+    },
+    {
+      "eng": "cookie",
+      "kk": "ˈkʊk.i",
+      "tense": "n.",
+      "ch": [
+        [
+          "餅乾",
+          "小甜餅"
+        ]
+      ],
+      "analysis": "此字為歷史借詞。源自荷蘭語 koekje（小蛋糕、小餅乾），為 koek（蛋糕）的指小詞形式。透過荷蘭移民傳入美國紐約地區（新阿姆斯特丹）並逐漸演變成美式英語中泛指烤餅乾的詞彙（英式多用 biscuit）。",
+      "definition": "1. a small, flat, sweet baked good, typically containing flour, sugar, and various inclusions such as chocolate chips or nuts.",
+      "example": [
+        {
+          "eng": "The children eagerly waited for the warm chocolate chip cookies to come out of the oven.",
+          "ch": "孩子們急切地等待著熱騰騰的巧克力豆餅乾出爐。"
+        }
+      ]
+    },
+    {
+      "eng": "cool",
+      "kk": "kuːl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "涼爽的",
+          "微涼的"
+        ],
+        [
+          "冷靜的",
+          "沉著的"
+        ],
+        [
+          "時髦的",
+          "酷的（口語）"
+        ]
+      ],
+      "analysis": "此字為日耳曼語繼承詞。源自古英語 cōl（涼爽的）。語意從物理上的「微寒、溫度適宜」引申出心理上的「冷靜、不慌張」，在20世紀爵士樂文化中進一步轉化為口語中形容人或事物「時髦、出色、酷」的讚美詞。",
+      "definition": "1. of or at a fairly low temperature, pleasantly moderate; 2. showing calmness, self-control, and lack of excitement; 3. fashionably attractive or impressive.",
+      "example": [
+        {
+          "eng": "A cool autumn breeze blew gently through the open window.",
+          "ch": "一陣涼爽的秋風輕輕吹過開著的窗戶。"
+        },
+        {
+          "eng": "Stay cool and don't panic when faced with unexpected emergencies.",
+          "ch": "面對突發緊急狀況時，要保持冷靜、切勿慌張。"
+        },
+        {
+          "eng": "That new electric sports car looks extremely cool.",
+          "ch": "那輛新的電動跑車看起來非常酷。"
+        }
+      ]
+    },
+    {
+      "eng": "copy",
+      "kk": "ˈkɑː.pi",
+      "tense": "n.",
+      "ch": [
+        [
+          "複製品",
+          "抄本"
+        ],
+        [
+          "一本（書籍、報刊等）"
+        ]
+      ],
+      "analysis": "此字為歷史借詞。源自中古英語 copie，最終源自拉丁語 copia（豐富、大量），其後在中古拉丁語中轉義為「抄寫的文本、逐字模仿的複本（源自：以原稿為範本大量抄寫）」。語意演變保留了「複製件」以及「出版品的冊數（如 buy a copy of the book）」。",
+      "definition": "1. a thing made to be similar or identical to another; a reproduction; 2. a single specimen of a particular book, newspaper, or magazine.",
+      "example": [
+        {
+          "eng": "Please sign your name on the copy of the contract.",
+          "ch": "請在這份合約的複本上簽名。"
+        },
+        {
+          "eng": "The bestselling novel sold over one million copies in its first week.",
+          "ch": "這本暢銷小說在上市第一週就賣出了一百多萬冊。"
+        }
+      ]
+    },
+    {
+      "eng": "corner",
+      "kk": "ˈkɔːr.nɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "角落",
+          "街角"
+        ],
+        [
+          "窮途末路",
+          "困境"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自盎格魯-諾曼語 corner、古法語 corniere，最終源自拉丁語 cornus（角），其根源為 cornu。語意從動物的「角」或幾何上的「兩線交匯的尖角、房間或街道的角落」引申出陷入「死角、困境」（如 paint oneself into a corner）。",
+      "definition": "1. a place or angle where two sides or edges meet; 2. a difficult or inescapable position.",
+      "example": [
+        {
+          "eng": "A small wooden desk was placed neatly in the bedroom corner.",
+          "ch": "一張小木桌整齊地擺放在臥室角落。"
+        },
+        {
+          "eng": "Bad financial decisions backed the company into a corner.",
+          "ch": "糟糕的財務決策把公司逼入了絕境。"
+        }
+      ]
+    }
+  ]
+}

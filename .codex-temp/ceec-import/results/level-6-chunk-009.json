@@ -1,0 +1,1288 @@
+{
+  "level": 6,
+  "chunkIndex": 9,
+  "inputs": [
+    "glitter",
+    "gloom",
+    "goalkeeper",
+    "goodwill",
+    "gorilla",
+    "gospel",
+    "grapefruit",
+    "graze",
+    "grease",
+    "groan",
+    "growl",
+    "grumble",
+    "hacker",
+    "hail",
+    "hamper",
+    "handicap",
+    "handicraft",
+    "harass",
+    "harassment",
+    "harden",
+    "harmonica",
+    "harness",
+    "haunt",
+    "headphone",
+    "headphones",
+    "healthful",
+    "hearty",
+    "hedge",
+    "heighten",
+    "hemisphere",
+    "heroic",
+    "heroin",
+    "heterosexual",
+    "hierarchy",
+    "hijack",
+    "hoarse",
+    "homosexual",
+    "honorary",
+    "hospitable",
+    "hospitality",
+    "hospitalize",
+    "hostel",
+    "hover",
+    "humiliate",
+    "hunch",
+    "hurdle",
+    "hybrid",
+    "hygiene",
+    "hypocrite",
+    "iceberg"
+  ],
+  "rows": [
+    {
+      "eng": "glitter",
+      "kk": "ˈɡlɪtɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "閃爍",
+          "閃耀"
+        ],
+        [
+          "光彩",
+          "耀眼"
+        ],
+        [
+          "亮片",
+          "裝飾亮片"
+        ]
+      ],
+      "analysis": "此字為名詞與動詞同形，源自中古英語 gliteren，其根源與日耳曼語族有關，古諾斯語中亦有 glitra（意為閃爍）。作為名詞時，主要指光線閃爍的效果、吸引人的虛浮光彩，或是服裝裝飾用的微小亮片。",
+      "definition": "1. A bright, shimmering reflected light; 2. An attractive appearance that is often deceptive or superficial; 3. Small pieces of shiny material used for decoration.",
+      "example": [
+        {
+          "eng": "The glitter of the city lights could be seen from afar.",
+          "ch": "從遠處可以看到城市燈光的閃爍。"
+        },
+        {
+          "eng": "She was unimpressed by the glitter of fame and fortune.",
+          "ch": "她對名利的光彩毫不在意。"
+        },
+        {
+          "eng": "The children used glue and glitter to decorate their cards.",
+          "ch": "孩子們用膠水和亮片來裝飾他們的卡片。"
+        }
+      ]
+    },
+    {
+      "eng": "glitter",
+      "kk": "ˈɡlɪtɚ",
+      "tense": "vi.",
+      "ch": [
+        [
+          "閃爍",
+          "閃耀"
+        ]
+      ],
+      "analysis": "作為不及物動詞，glitter 表示散發出閃爍、燦爛的光芒，常用於描述星光、水面或珠寶的折射。其歷史字源與名詞相同，表示一種不連續但明亮的閃光。",
+      "definition": "1. To shine with a bright, shimmering reflected light.",
+      "example": [
+        {
+          "eng": "The stars glittered in the clear night sky.",
+          "ch": "星星在晴朗的夜空中閃爍。"
+        }
+      ]
+    },
+    {
+      "eng": "gloom",
+      "kk": "ɡlum",
+      "tense": "n.",
+      "ch": [
+        [
+          "黑暗",
+          "陰暗"
+        ],
+        [
+          "沮喪",
+          "憂鬱"
+        ]
+      ],
+      "analysis": "此字源自中古英語 glomen（意為昏暗、黃昏），與 gleam 的語源有對立關係。歷史演變從實體的物理光線不足，引申出心理上的陰霾與情緒低落。",
+      "definition": "1. Partial or total darkness; 2. A state of depression or despondency.",
+      "example": [
+        {
+          "eng": "A deep gloom settled over the abandoned house.",
+          "ch": "這棟廢棄的房子籠罩在一片深沉的陰暗中。"
+        },
+        {
+          "eng": "Economic gloom has made consumers hesitant to spend.",
+          "ch": "經濟的陰霾讓消費者在消費時感到猶豫。"
+        }
+      ]
+    },
+    {
+      "eng": "goalkeeper",
+      "kk": "ˈɡolˌkipɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "守門員"
+        ]
+      ],
+      "analysis": "現代透明複合詞，由 goal（球門、目標）與 keeper（守護者、維持者，源自 keep）結合而成。指足球、曲棍球等球類運動中負責防守球門的球員。",
+      "definition": "1. The player in sports such as football or hockey whose primary role is to prevent the ball or puck from entering the goal.",
+      "example": [
+        {
+          "eng": "The goalkeeper made a brilliant save in the final minute.",
+          "ch": "守門員在最後一分鐘做出了一次精彩的撲救。"
+        }
+      ]
+    },
+    {
+      "eng": "goodwill",
+      "kk": "ˌɡʊdˈwɪl",
+      "tense": "n.",
+      "ch": [
+        [
+          "善意",
+          "友好"
+        ],
+        [
+          "商譽"
+        ]
+      ],
+      "analysis": "現代透明複合詞，由 good（好的）與 will（意願、心意）結合而成。原本指樂意助人、友好的心態，在商業語境中則引申為企業的「商譽」，即客戶對品牌的信任與良好形象。",
+      "definition": "1. Friendly, helpful, or cooperative feelings or attitude; 2. The established reputation of a business regarded as a quantifiable asset.",
+      "example": [
+        {
+          "eng": "The visit was intended to foster goodwill between the two countries.",
+          "ch": "這次訪問旨在增進兩國之間的善意。"
+        },
+        {
+          "eng": "A large part of the company's value lies in its brand goodwill.",
+          "ch": "該公司的大部分價值在於其品牌商譽。"
+        }
+      ]
+    },
+    {
+      "eng": "gorilla",
+      "kk": "ɡəˈrɪlə",
+      "tense": "n.",
+      "ch": [
+        [
+          "大猩猩"
+        ]
+      ],
+      "analysis": "源自希臘語 gorillai，最早見於迦太基航海家 Hanno 在公元前5世紀左右對西非毛髮濃密的人形生物之記載，後來在19世紀被生物學家借用來命名現今已知體型最大的靈長類動物。",
+      "definition": "1. A large, powerful African ape with a stocky body and dark hair.",
+      "example": [
+        {
+          "eng": "Gorillas live in family groups led by a dominant silverback.",
+          "ch": "大猩猩生活在由一隻佔主導地位的銀背大猩猩帶領的家族群體中。"
+        }
+      ]
+    },
+    {
+      "eng": "gospel",
+      "kk": "ˈɡɑspəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "福音",
+          "耶穌言行錄"
+        ],
+        [
+          "信條",
+          "真理"
+        ]
+      ],
+      "analysis": "源自古英語 gōdspell，由 gōd（好）與 spell（消息、話語）複合而成，用來翻譯拉丁語 evangelium（源自希臘語 euangelion，意為好消息）。宗教上指基督耶穌的教義；引申義則指絕對可靠的真理或信條。",
+      "definition": "1. The teachings of Jesus Christ or the first four books of the New Testament; 2. A thing that is absolutely true or is accepted as infallible.",
+      "example": [
+        {
+          "eng": "The choir sang traditional gospel music at the service.",
+          "ch": "詩班在禮拜儀式中演唱了傳統的福音音樂。"
+        },
+        {
+          "eng": "Do not take everything he says as gospel.",
+          "ch": "不要把他所說的一切都當成絕對真理。"
+        }
+      ]
+    },
+    {
+      "eng": "grapefruit",
+      "kk": "ˈɡrepˌfrut",
+      "tense": "n.",
+      "ch": [
+        [
+          "葡萄柚"
+        ]
+      ],
+      "analysis": "現代透明複合詞，由 grape（葡萄）與 fruit（果實）組成。此命名是因為這種柑橘類水果在樹上結成串狀，外觀類似葡萄串而得名。",
+      "definition": "1. A large, round, yellow citrus fruit with an acidic and slightly bitter pulp.",
+      "example": [
+        {
+          "eng": "She likes to eat half a grapefruit with a little sugar for breakfast.",
+          "ch": "她喜歡早餐吃半個加了一點糖的葡萄柚。"
+        }
+      ]
+    },
+    {
+      "eng": "graze",
+      "kk": "ɡrez",
+      "tense": "vt.",
+      "ch": [
+        [
+          "擦傷",
+          "擦過"
+        ],
+        [
+          "放牧"
+        ]
+      ],
+      "analysis": "此 vt. 用法歷史上源自日耳曼語族，與草地表面接觸的概念相關。除了引申為讓牲畜在某處吃草（放牧），現代更常見的意思是指物體表面輕輕擦過、劃破皮膚造成輕微擦傷。",
+      "definition": "1. To scrape or touch lightly in passing; 2. To put cattle or sheep out to feed on grass.",
+      "example": [
+        {
+          "eng": "He fell off his bicycle and grazed his knee.",
+          "ch": "他從腳踏車上摔下來，擦傷了膝蓋。"
+        },
+        {
+          "eng": "The farmer grazes his sheep on the hillside.",
+          "ch": "農夫把他的羊群放在山坡上吃草。"
+        }
+      ]
+    },
+    {
+      "eng": "graze",
+      "kk": "ɡrez",
+      "tense": "vi.",
+      "ch": [
+        [
+          "吃草",
+          "放牧"
+        ]
+      ],
+      "analysis": "源自古英語 grasian（意為吃草），其根源為 grass（草）。作為不及物動詞，專指牲畜在草地上吃草的行為。",
+      "definition": "1. Of cattle, sheep, or other ruminants to eat grass in a field.",
+      "example": [
+        {
+          "eng": "Cows were grazing peacefully in the green pasture.",
+          "ch": "乳牛在綠色的牧場上安詳地吃草。"
+        }
+      ]
+    },
+    {
+      "eng": "grease",
+      "kk": "ɡris",
+      "tense": "n.",
+      "ch": [
+        [
+          "動物脂",
+          "潤滑油",
+          "油脂"
+        ]
+      ],
+      "analysis": "源自中古英語 grece，借自古法語 gresse，最終追溯至拉丁語 crassus（厚、肥的）。指動物脂肪或任何黏稠的潤滑油脂。",
+      "definition": "1. Oily or fatty matter, especially of animal origin, or a thick lubricating substance.",
+      "example": [
+        {
+          "eng": "Wipe the kitchen counter to remove any cooking grease.",
+          "ch": "擦拭廚房檯面以清除任何烹飪油脂。"
+        }
+      ]
+    },
+    {
+      "eng": "grease",
+      "kk": "ɡriz",
+      "tense": "vt.",
+      "ch": [
+        [
+          "塗油脂",
+          "潤滑"
+        ]
+      ],
+      "analysis": "由名詞 grease 轉品而來的及物動詞，指在機械零件、烤盤或表面塗抹油脂以達到潤滑或防沾黏的效果。",
+      "definition": "1. To smear or lubricate with grease.",
+      "example": [
+        {
+          "eng": "Remember to grease the baking pan before pouring in the batter.",
+          "ch": "倒麵糊前記得在烤盤上抹油。"
+        }
+      ]
+    },
+    {
+      "eng": "groan",
+      "kk": "ɡron",
+      "tense": "vi.",
+      "ch": [
+        [
+          "呻吟",
+          "發出怨言"
+        ]
+      ],
+      "analysis": "源自古英語 grānian（呻吟），為擬聲詞，用以模擬人在痛苦、悲傷、負重或不滿時發出的低沉、拖長的聲音。",
+      "definition": "1. To make a deep, inarticulate sound in response to pain, despair, or irritation.",
+      "example": [
+        {
+          "eng": "The injured player groaned as the medic touched his leg.",
+          "ch": "受傷的球員在醫護人員觸碰他的腿時發出了呻吟。"
+        }
+      ]
+    },
+    {
+      "eng": "growl",
+      "kk": "ɡraʊl",
+      "tense": "vi.",
+      "ch": [
+        [
+          "咆哮",
+          "低吼"
+        ]
+      ],
+      "analysis": "源自日耳曼語族擬聲詞（如中古荷蘭語 grollen），用來模擬猛獸（如狗、獅子）或人因憤怒而發出的低沉嘶吼聲。",
+      "definition": "1. Of an animal, especially a dog, to make a low, guttural, threatening sound.",
+      "example": [
+        {
+          "eng": "The guard dog began to growl when the stranger approached the gate.",
+          "ch": "當陌生人靠近大門時，看門狗開始低吼。"
+        }
+      ]
+    },
+    {
+      "eng": "grumble",
+      "kk": "ˈɡrʌmbəl",
+      "tense": "vi.",
+      "ch": [
+        [
+          "抱怨",
+          "發牢騷"
+        ]
+      ],
+      "analysis": "源自中古荷蘭語 orromrommen 或中古低地德語，為擬聲複合詞，用來形容不斷發出低沉、含糊不清的不滿聲音。引申為日常生活中持續且不滿的碎念或抱怨。",
+      "definition": "1. To complain about something in a bad-tempered way; to mutter discontentedly.",
+      "example": [
+        {
+          "eng": "Employees grumbled about the new office regulations.",
+          "ch": "員工們對新的辦公室規章發牢騷。"
+        }
+      ]
+    },
+    {
+      "eng": "hacker",
+      "kk": "ˈhækɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "駭客",
+          "電腦高手"
+        ],
+        [
+          "砍伐者"
+        ]
+      ],
+      "analysis": "由動詞 hack（劈, 砍，後引申為對電腦系統進行巧妙修改或侵入）加上表示人的名詞字尾 -er 構成。原意指擅長精妙電腦程式設計的高手，現代多指非法入侵電腦網路的駭客。",
+      "definition": "1. A person who uses computers to gain unauthorized access to data; 2. An enthusiastic and skilled computer programmer.",
+      "example": [
+        {
+          "eng": "The bank's security system successfully blocked an attack by hackers.",
+          "ch": "該銀行的安全系統成功阻止了一次駭客攻擊。"
+        },
+        {
+          "eng": "He is a computer hacker who loves solving complex coding puzzles.",
+          "ch": "他是一位熱愛解決複雜編碼難題的電腦高手。"
+        }
+      ]
+    },
+    {
+      "eng": "hail",
+      "kk": "hel",
+      "tense": "n.",
+      "ch": [
+        [
+          "冰雹"
+        ]
+      ],
+      "analysis": "源自古英語 hægl，屬於日耳曼語族的共同詞彙。專指從空中降下的冰塊顆粒。",
+      "definition": "1. Pellets of frozen rain that fall in showers from cumulonimbus clouds.",
+      "example": [
+        {
+          "eng": "The sudden storm brought heavy rain and hail.",
+          "ch": "突如其來的暴風雨帶來了大雨和冰雹。"
+        }
+      ]
+    },
+    {
+      "eng": "hail",
+      "kk": "hel",
+      "tense": "vt.",
+      "ch": [
+        [
+          "歡呼",
+          "讚揚"
+        ],
+        [
+          "招呼",
+          "攔截"
+        ],
+        [
+          "下冰雹"
+        ]
+      ],
+      "analysis": "此 vt. 包含兩個歷史上不同源的詞：一是源自古英語 hāl（意為健康的，演變出問候與祝賀），用來表示讚揚或歡呼、在街頭高聲招呼計程車；二是與冰雹同源的動詞用法，表示降下冰雹。",
+      "definition": "1. To acclaim, praise, or enthusiastically greet; 2. To signal or call out to summon a vehicle; 3. Of frozen rain to fall as hail.",
+      "example": [
+        {
+          "eng": "Critics hailed the movie as a masterpiece.",
+          "ch": "影評人讚揚這部電影是一部傑作。"
+        },
+        {
+          "eng": "She stood by the curb to hail a taxi.",
+          "ch": "她站在路邊攔計程車。"
+        },
+        {
+          "eng": "It started to hail just as we reached the car.",
+          "ch": "我們剛走到車旁就開始下冰雹了。"
+        }
+      ]
+    },
+    {
+      "eng": "hamper",
+      "kk": "ˈhæmpɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "大籃子",
+          "有蓋洗衣籃"
+        ]
+      ],
+      "analysis": "源自中古英語 hampere，可能縮寫自古法語 hanapier（裝酒杯的箱子），原本指帶蓋的大型編織籃，現代最常指裝髒衣服的洗衣籃。",
+      "definition": "1. A large basket with a lid, used for laundry or food.",
+      "example": [
+        {
+          "eng": "Throw your dirty clothes into the laundry hamper.",
+          "ch": "把你的髒衣服丟進洗衣籃裡。"
+        }
+      ]
+    },
+    {
+      "eng": "hamper",
+      "kk": "ˈhæmpɚ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "妨礙",
+          "阻礙"
+        ]
+      ],
+      "analysis": "此動詞源自中古英語 hampren（意為綁縛、限制、羈絆），其確切日耳曼語源頭不詳。引申為在行動、進展上造成束縛或阻礙。",
+      "definition": "1. To hinder or impede the movement or progress of.",
+      "example": [
+        {
+          "eng": "Heavy snow hampered rescue operations in the mountains.",
+          "ch": "大雪阻礙了山區的救援行動。"
+        }
+      ]
+    },
+    {
+      "eng": "handicap",
+      "kk": "ˈhændɪˌkæp",
+      "tense": "n.",
+      "ch": [
+        [
+          "殘疾",
+          "身體障礙"
+        ],
+        [
+          "不利條件",
+          "障礙"
+        ]
+      ],
+      "analysis": "源自17世紀英國的一種手氣交換遊戲「Hand in cap」（把手伸進帽中抽籤），後來演變成賽馬運動中為平衡實力而給予強馬負重或劣勢的規則（讓磅制）。現代則引申為生理、心理上的殘疾或生活中的不利條件。",
+      "definition": "1. A physical or mental disability; 2. A circumstance that makes progress or success difficult.",
+      "example": [
+        {
+          "eng": "Despite his physical handicap, he became a successful athlete.",
+          "ch": "儘管有身體障礙，他還是成為了一名成功的運動員。"
+        },
+        {
+          "eng": "Lack of experience is a major handicap in this job.",
+          "ch": "缺乏經驗是這份工作的一大不利條件。"
+        }
+      ]
+    },
+    {
+      "eng": "handicap",
+      "kk": "ˈhændɪˌkæp",
+      "tense": "vt.",
+      "ch": [
+        [
+          "妨礙",
+          "使不利"
+        ]
+      ],
+      "analysis": "由名詞 handicap 衍生而來的及物動詞，指在競賽中給予不平等條件，或在日常生活中造成某人行動、發展的不利影響。",
+      "definition": "1. To act as a handicap to; to hinder or impede.",
+      "example": [
+        {
+          "eng": "An injured ankle handicapped him throughout the race.",
+          "ch": "受傷的腳踝在整場比賽中對他造成了不利影響。"
+        }
+      ]
+    },
+    {
+      "eng": "handicraft",
+      "kk": "ˈhændɪˌkræft",
+      "tense": "n.",
+      "ch": [
+        [
+          "手藝",
+          "手工藝品"
+        ]
+      ],
+      "analysis": "現代透明複合詞，由 hand（手）與 craft（技藝、手藝）結合而成。指使用雙手進行創造性的工藝製作，或指製作出來的手工製品。",
+      "definition": "1. An activity involving the making of decorative objects by hand; 2. A product made by such an activity.",
+      "example": [
+        {
+          "eng": "The local market sells a variety of traditional handicrafts.",
+          "ch": "當地市場出售各種傳統手工藝品。"
+        }
+      ]
+    },
+    {
+      "eng": "harass",
+      "kk": "həˈræs",
+      "tense": "vt.",
+      "ch": [
+        [
+          "騷擾",
+          "困擾"
+        ]
+      ],
+      "analysis": "源自法語 harasser（原意為追獵、折磨，源自古法語 hare，意為激怒狗的叫聲）。現代用來指持續對他人進行言語、行為上的騷擾、挑釁或精神折磨。",
+      "definition": "1. To subject to aggressive pressure or intimidation; to persistently annoy.",
+      "example": [
+        {
+          "eng": "She reported her colleague to HR for workplace harassment.",
+          "ch": "她向人力資源部舉報了同事的職場騷擾。"
+        }
+      ]
+    },
+    {
+      "eng": "harassment",
+      "kk": "həˈræsmənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "騷擾",
+          "滋擾"
+        ]
+      ],
+      "analysis": "由動詞 harass 加上名詞字尾 -ment 構成，指持續進行的騷擾行為或精神虐待。",
+      "definition": "1. Aggressive pressure or intimidation, especially unwanted and repeated behavior.",
+      "example": [
+        {
+          "eng": "The company has a zero-tolerance policy for sexual harassment.",
+          "ch": "公司對性騷擾採取零容忍政策。"
+        }
+      ]
+    },
+    {
+      "eng": "harden",
+      "kk": "ˈhɑrdn",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使變硬",
+          "使堅固"
+        ],
+        [
+          "使冷酷",
+          "使堅強"
+        ]
+      ],
+      "analysis": "現代透明構詞，由形容詞 hard（硬的）加上動詞化字尾 -en（使……）構成。可指物質物理性質的變硬，或指人的心態、態度變得冷酷、強硬或堅定。",
+      "definition": "1. To make or become hard or harder; 2. To make someone more resilient, callous, or determined.",
+      "example": [
+        {
+          "eng": "Allow the clay to dry and harden in the sun.",
+          "ch": "讓黏土在太陽下乾燥變硬。"
+        },
+        {
+          "eng": "Years of hardship had hardened his heart.",
+          "ch": "多年的艱辛使他的心變得冷酷。"
+        }
+      ]
+    },
+    {
+      "eng": "harmonica",
+      "kk": "hɑrˈmɑnɪkə",
+      "tense": "n.",
+      "ch": [
+        [
+          "口琴"
+        ]
+      ],
+      "analysis": "源自德語 Harmonika，最終源自希臘語 harmonikos（和諧的）。指一種吹奏時透過內部金屬簧片發聲的小型手風琴式吹奏樂器（口琴）。",
+      "definition": "1. A small rectangular free-reed wind instrument played by blowing and drawing air through holes.",
+      "example": [
+        {
+          "eng": "He sat on the porch and played a blues tune on his harmonica.",
+          "ch": "他坐在門廊上，用口琴吹奏了一曲藍調。"
+        }
+      ]
+    },
+    {
+      "eng": "harness",
+      "kk": "ˈhɑrnɪs",
+      "tense": "n.",
+      "ch": [
+        [
+          "馬具",
+          "安全帶",
+          "吊帶"
+        ]
+      ],
+      "analysis": "源自中古英語 haneis，借自古法語 haneis（戰馬的全套裝備、盔甲）。後來語義轉移，指套在馬匹身上的皮革拉力帶（馬具），現代亦廣泛指登山、高空作業或嬰兒車上使用的安全吊帶。",
+      "definition": "1. A set of straps and fittings by which a horse is fastened to a cart or plow; 2. A strap arrangement used to secure a person for safety.",
+      "example": [
+        {
+          "eng": "The farmer adjusted the leather harness on the horse.",
+          "ch": "農夫調整了馬身上的皮革馬具。"
+        },
+        {
+          "eng": "Rock climbers must wear a safety harness at all times.",
+          "ch": "攀岩者必須隨時穿戴安全吊帶。"
+        }
+      ]
+    },
+    {
+      "eng": "harness",
+      "kk": "ˈhɑrnɪs",
+      "tense": "vt.",
+      "ch": [
+        [
+          "利用",
+          "控制",
+          "給馬套上馬具"
+        ]
+      ],
+      "analysis": "由名詞 harness 轉品而來的及物動詞。原意是給馬匹套上馬具；引申義則指像控制拉車的馬一樣，將自然力（如風力、太陽能）或資源收集並加以有效「利用」。",
+      "definition": "1. To control and make use of natural resources, especially to produce energy; 2. To put a harness on a horse.",
+      "example": [
+        {
+          "eng": "Scientists are looking for new ways to harness solar energy.",
+          "ch": "科學家們正在尋找利用太陽能的新方法。"
+        }
+      ]
+    },
+    {
+      "eng": "haunt",
+      "kk": "hɔnt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "出沒於",
+          "常去"
+        ],
+        [
+          "縈繞在心",
+          "使揮之不去"
+        ]
+      ],
+      "analysis": "源自中古英語 haunten，借自古法語 hanter（經常去、常到）。原意為經常出入某地（如鬼魂出沒之處），後引申為痛苦的回憶或恐懼感在記憶中揮之不去、不斷折磨人。",
+      "definition": "1. Of a ghost to manifest itself at a place regularly; 2. Of a memory or unpleasant thought to continually trouble someone.",
+      "example": [
+        {
+          "eng": "Legend says the old castle is haunted by a headless knight.",
+          "ch": "相傳這座古城堡有無頭騎士的鬼魂出沒。"
+        },
+        {
+          "eng": "The memory of the accident continued to haunt him for years.",
+          "ch": "那起事故的記憶多年來一直縈繞在他心頭。"
+        }
+      ]
+    },
+    {
+      "eng": "headphone",
+      "kk": "ˈhɛdˌfon",
+      "tense": "n.",
+      "ch": [
+        [
+          "頭戴式耳機"
+        ]
+      ],
+      "analysis": "現代透明複合詞，由 head（頭部）與 phone（電話、聲音，源自希臘語 phōnē）結合而成。指戴在頭上、罩住或貼近耳朵的聆聽設備。",
+      "definition": "1. A pair of earphones joined by a band placed over the head, for listening to audio.",
+      "example": [
+        {
+          "eng": "Put on your headphone so you don't disturb others.",
+          "ch": "戴上耳機，以免打擾別人。"
+        }
+      ]
+    },
+    {
+      "eng": "headphones",
+      "kk": "ˈhɛdˌfonz",
+      "tense": "n.",
+      "ch": [
+        [
+          "耳機"
+        ]
+      ],
+      "analysis": "headphone 的複數形式。因耳機通常由左右兩個單體組成，日常生活中絕大多數情況下均習慣使用複數形 headphones 來指稱耳機。",
+      "definition": "1. A pair of earphones connected by a band, used for listening to audio.",
+      "example": [
+        {
+          "eng": "He listens to podcasts through his wireless headphones every morning.",
+          "ch": "他每天早上都透過無線耳機收聽廣播節目。"
+        }
+      ]
+    },
+    {
+      "eng": "healthful",
+      "kk": "ˈhɛlθfəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "有益健康的"
+        ]
+      ],
+      "analysis": "現代透明構詞，由名詞 health（健康）加上形容詞字尾 -ful（充滿……的）構成。指食物、環境或生活方式對身體健康有正面助益。",
+      "definition": "1. Good for one's health; beneficial to physical well-being.",
+      "example": [
+        {
+          "eng": "A balanced diet and regular exercise lead to a healthful lifestyle.",
+          "ch": "均衡的飲食與規律的運動能帶來有益健康的生活方式。"
+        }
+      ]
+    },
+    {
+      "eng": "hearty",
+      "kk": "ˈhɑrti",
+      "tense": "adj.",
+      "ch": [
+        [
+          "熱誠的",
+          "衷心的"
+        ],
+        [
+          "豐盛的",
+          "飽足的"
+        ]
+      ],
+      "analysis": "現代透明構詞，由名詞 heart（心臟、內心）加上形容詞字尾 -y 構成。原意指出自內心的、熱情的；引申可用來形容餐點非常豐盛、能滿足食欲。",
+      "definition": "1. Expressed warmly and deeply; sincere and enthusiastic; 2. (Of a meal) large, satisfying, and nourishing.",
+      "example": [
+        {
+          "eng": "We gave our guests a hearty welcome.",
+          "ch": "我們對客人表示了熱烈的歡迎。"
+        },
+        {
+          "eng": "After the long hike, we enjoyed a hearty breakfast.",
+          "ch": "長途健行後，我們享用了一頓豐盛的早餐。"
+        }
+      ]
+    },
+    {
+      "eng": "hedge",
+      "kk": "hɛdʒ",
+      "tense": "n.",
+      "ch": [
+        [
+          "樹籬",
+          "灌木籬笆"
+        ],
+        [
+          "防範措施",
+          "避險"
+        ]
+      ],
+      "analysis": "源自古英語 hecg（圍欄、樹籬），屬於日耳曼語族。原意為用密集的灌木叢組成的天然圍籬；在金融與商業中引申為「為了防範損失而做的避險或對沖措施」。",
+      "definition": "1. A fence or boundary formed by closely growing bushes or shrubs; 2. A way of protecting oneself against financial loss or other risk.",
+      "example": [
+        {
+          "eng": "The gardener is trimming the hedge in front of the house.",
+          "ch": "園丁正在修剪屋前的樹籬。"
+        },
+        {
+          "eng": "Buying gold is often seen as a hedge against inflation.",
+          "ch": "購買黃金常被視為對抗通貨膨脹的避險手段。"
+        }
+      ]
+    },
+    {
+      "eng": "heighten",
+      "kk": "ˈhaɪtn",
+      "tense": "vt.",
+      "ch": [
+        [
+          "提高",
+          "加強",
+          "增高"
+        ]
+      ],
+      "analysis": "現代透明構詞，由形容詞 high（高的）加上名詞/形容詞轉動詞字尾 -en 構成。指使程度、強度、高度增加。",
+      "definition": "1. To make or become more intense or pronounced.",
+      "example": [
+        {
+          "eng": "The new security measures are designed to heighten airport safety.",
+          "ch": "新的安全措施旨在提高機場的安全性。"
+        }
+      ]
+    },
+    {
+      "eng": "hemisphere",
+      "kk": "ˈhɛmɪˌsfɪr",
+      "tense": "n.",
+      "ch": [
+        [
+          "半球"
+        ]
+      ],
+      "analysis": "歷史借詞，由希臘語字首 hēmi-（半，相當於拉丁語 semi-）與 sphaira（球體、球形，演變出 sphere）結合而成。指球體被平面平分後的二分之一部分，常用於地理上的東、西、南、北半球或腦半球。",
+      "definition": "1. A half of a sphere, or one of the halves of the earth divided into northern and southern, or eastern and western halves.",
+      "example": [
+        {
+          "eng": "Australia is located in the Southern Hemisphere.",
+          "ch": "澳洲位於南半球。"
+        }
+      ]
+    },
+    {
+      "eng": "heroic",
+      "kk": "hɪˈroɪk",
+      "tense": "adj.",
+      "ch": [
+        [
+          "英雄的",
+          "英勇的"
+        ]
+      ],
+      "analysis": "源自拉丁語 hēroicus，最終源自希臘語 hēroikos（屬於英雄的），根源為 hērōs（英雄）。形容行為表現出非凡的勇氣、自我犧牲與英雄氣概。",
+      "definition": "1. Having the characteristics of a hero; very brave and admirable.",
+      "example": [
+        {
+          "eng": "The firefighter made a heroic effort to rescue the trapped child.",
+          "ch": "消防員做出了英勇的努力來營救受困的兒童。"
+        }
+      ]
+    },
+    {
+      "eng": "heroin",
+      "kk": "ˈhɛroɪn",
+      "tense": "n.",
+      "ch": [
+        [
+          "海洛因"
+        ]
+      ],
+      "analysis": "德國拜耳藥廠於1898年註冊的商品名，源自德語 Heroin，由希臘語 hērōs（英雄）衍生而來，最初是因為試驗時感覺服用者精神振奮、有如英雄般強大而命名，後來才發現是高度成癮的毒品。",
+      "definition": "1. A highly addictive illegal drug made from morphine.",
+      "example": [
+        {
+          "eng": "The police seized a large shipment of heroin at the border.",
+          "ch": "警方在邊境查獲了一批大量的海洛因。"
+        }
+      ]
+    },
+    {
+      "eng": "heterosexual",
+      "kk": "ˌhɛtərəsˈɛkʃuəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "異性戀的"
+        ]
+      ],
+      "analysis": "現代科學與心理學複合詞，由希臘語字首 hetero-（異類的、不同的）與英語 sexual（性向的，源自拉丁語 sexus）結合而成。指對異性產生浪漫吸引或性吸引的。",
+      "definition": "1. Sexually attracted to people of the opposite sex.",
+      "example": [
+        {
+          "eng": "Society has become more accepting of diverse sexual orientations, beyond traditional heterosexual relationships.",
+          "ch": "社會對於多元性傾向（超越傳統的異性戀關係）變得更加包容。"
+        }
+      ]
+    },
+    {
+      "eng": "hierarchy",
+      "kk": "ˈhaɪəˌrɑrki",
+      "tense": "n.",
+      "ch": [
+        [
+          "階級",
+          "階層",
+          "等級制度"
+        ]
+      ],
+      "analysis": "源自中世紀拉丁語 hierarchia，最終源自希臘語 hierarkhiā（神聖統治），由 hieros（神聖的）與 arche（統治、權力）組成。原意指教會內部的神職人員等級制度，後來泛指任何組織或社會中的權力與地位等級結構。",
+      "definition": "1. A system in which members of an organization or society are ranked according to relative status or authority.",
+      "example": [
+        {
+          "eng": "She worked her way up through the corporate hierarchy to become CEO.",
+          "ch": "她在企業階層中不斷晉升，最終成為執行長。"
+        }
+      ]
+    },
+    {
+      "eng": "hijack",
+      "kk": "ˈhaɪˌdʒæk",
+      "tense": "vt.",
+      "ch": [
+        [
+          "劫持",
+          "強奪",
+          "控制"
+        ]
+      ],
+      "analysis": "美國20世紀初禁酒令時期的俚語，語源可能來自「Hi, Jack!」（當時劫匪打劫私酒販子常用的招呼語）。原意指在半路攔截並搶劫載貨卡車，後來語義擴大，專門用來指劫持飛機、船隻，或引申為強行控制某個會議、話題或系統。",
+      "definition": "1. To illegally seize control of an aircraft, vehicle, or ship while it is in transit; 2. To forcibly take control of something.",
+      "example": [
+        {
+          "eng": "Terrorists attempted to hijack the commercial airplane.",
+          "ch": "恐怖分子企圖劫持這架商業客機。"
+        },
+        {
+          "eng": "Activists tried to hijack the meeting to promote their own agenda.",
+          "ch": "激進人士試圖劫持會議來推動他們自己的議程。"
+        }
+      ]
+    },
+    {
+      "eng": "hoarse",
+      "kk": "hɔrs",
+      "tense": "adj.",
+      "ch": [
+        [
+          "沙啞的",
+          "嘶啞的"
+        ]
+      ],
+      "analysis": "源自古英語 hās（沙啞的），屬於日耳曼語族。用來形容因感冒、大喊或聲帶受損而導致聲音低沉、粗糙沙啞。",
+      "definition": "1. (Of a person's voice) sounding rough and harsh, typically as the result of a sore throat or shouting.",
+      "example": [
+        {
+          "eng": "He shouted so loud at the football match that he became hoarse.",
+          "ch": "他在足球比賽中喊得太大聲，以致於聲音都沙啞了。"
+        }
+      ]
+    },
+    {
+      "eng": "homosexual",
+      "kk": "ˌhomoˈsɛkʃuəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "同性戀的"
+        ]
+      ],
+      "analysis": "現代科學複合詞，由希臘語字首 homo-（相同的，源自 homos）與英語 sexual（性向的）結合而成。指對同性產生浪漫吸引或性吸引的。",
+      "definition": "1. Sexually attracted to people of the same sex.",
+      "example": [
+        {
+          "eng": "The law protects homosexual couples from employment discrimination.",
+          "ch": "法律保護同性戀伴侶免受就業歧視。"
+        }
+      ]
+    },
+    {
+      "eng": "honorary",
+      "kk": "ˈɑnəˌrɛri",
+      "tense": "adj.",
+      "ch": [
+        [
+          "名譽上的",
+          "榮譽的"
+        ]
+      ],
+      "analysis": "源自拉丁語 honorarius（為表示敬意而給予的），根源為 honor（榮譽、敬意）。指因為某人的傑出成就而授予的頭銜、學位或職位，通常不帶有實際職責或薪資。",
+      "definition": "1. Conferred as an honor, without the usual duties or privileges of the office or position.",
+      "example": [
+        {
+          "eng": "The university awarded him an honorary doctorate in science.",
+          "ch": "該大學授予他科學名譽博士學位。"
+        }
+      ]
+    },
+    {
+      "eng": "hospitable",
+      "kk": "hɑˈspɪtəbəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "好客的",
+          "熱情招待的"
+        ],
+        [
+          "（氣候環境）宜人的"
+        ]
+      ],
+      "analysis": "源自中古法語 hospitable，最終源自拉丁語 hospes（客人、主人）。原意指對客人親切、熱情招待；引申可用來形容某個地理環境或氣候非常舒適、適合居住。",
+      "definition": "1. Friendly and welcoming to strangers or guests; 2. (Of an environment) pleasant and favorable for living in.",
+      "example": [
+        {
+          "eng": "The local people were extremely hospitable to travelers.",
+          "ch": "當地人對旅客非常熱情好客。"
+        },
+        {
+          "eng": "The harsh desert climate is hardly hospitable to human life.",
+          "ch": "惡劣的沙漠氣候幾乎不適合人類居住。"
+        }
+      ]
+    },
+    {
+      "eng": "hospitality",
+      "kk": "ˌhɑspɪˈtæləti",
+      "tense": "n.",
+      "ch": [
+        [
+          "好客",
+          "殷勤招待"
+        ]
+      ],
+      "analysis": "源自古法語 hospitalité，最終源自拉丁語 hospitalitatem（主人的友善與款待），根源同 hospes（客人）。指對訪客或顧客熱情友善的款待態度，也是飯店餐飲業（Hospitality industry）的核心概念。",
+      "definition": "1. The friendly and generous reception and entertainment of guests, visitors, or strangers.",
+      "example": [
+        {
+          "eng": "We were touched by the warm hospitality of our hosts.",
+          "ch": "我們被主人的熱情招待深深感動。"
+        }
+      ]
+    },
+    {
+      "eng": "hospitalize",
+      "kk": "ˈhɑspɪtəlˌaɪz",
+      "tense": "vt.",
+      "ch": [
+        [
+          "送醫住院",
+          "使住院"
+        ]
+      ],
+      "analysis": "現代透明構詞，由名詞 hospital（醫院，源自拉丁語 hospitale）加上動詞化字尾 -ize 構成。指因傷病嚴重而將患者送入醫院接受治療。",
+      "definition": "1. To send someone to a hospital for medical treatment.",
+      "example": [
+        {
+          "eng": "Several people were hospitalized after eating contaminated food.",
+          "ch": "數人在吃了受污染的食物後被送醫住院。"
+        }
+      ]
+    },
+    {
+      "eng": "hostel",
+      "kk": "ˈhɑstəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "青年旅館",
+          "招待所"
+        ]
+      ],
+      "analysis": "源自中古英語 hostel，借自古法語 hostel（住所、旅館），與 hotel 同源，最終追溯至拉丁語 hospitale（客房）。現代專指提供經濟實惠、通常為上下舖床位的青年旅館或背包客棧。",
+      "definition": "1. An establishment that provides inexpensive food and lodging, typically for young travelers.",
+      "example": [
+        {
+          "eng": "They stayed in a cheap youth hostel during their backpacking trip across Europe.",
+          "ch": "他們在歐洲自助旅行期間住了一家便宜的青年旅館。"
+        }
+      ]
+    },
+    {
+      "eng": "hover",
+      "kk": "ˈhʌvɚ",
+      "tense": "vi.",
+      "ch": [
+        [
+          "盤旋",
+          "浮游"
+        ],
+        [
+          "徘徊",
+          "猶豫不決"
+        ]
+      ],
+      "analysis": "源自中古英語 hoven（停留空中、徘徊），與 heave 的歷史源頭相關。原意指鳥類或直升機在空中某一固定點上下浮動、盤旋；引申可指人在某處徘徊，或數據、價格在某個數值附近上下起伏不定。",
+      "definition": "1. (Of a bird, helicopter, etc.) to remain in one place in the air; 2. To linger close by, or wait uncertainly.",
+      "example": [
+        {
+          "eng": "A helicopter hovered overhead during the search operation.",
+          "ch": "搜尋行動期間，一架直升機在上空盤旋。"
+        },
+        {
+          "eng": "The temperature hovered around zero all day.",
+          "ch": "氣溫整天都在零度附近徘徊。"
+        }
+      ]
+    },
+    {
+      "eng": "humiliate",
+      "kk": "hjuˈmɪliˌet",
+      "tense": "vt.",
+      "ch": [
+        [
+          "羞辱",
+          "使丟臉"
+        ]
+      ],
+      "analysis": "源自拉丁語 humiliatus（humiliare 的過去分詞，意為使卑微、降格），根源為 humilis（低矮的、謙卑的，源自 humus 地面）。原意是使人地位降低或感到卑微，現代演變為使人在公眾面前感到極大羞恥與難堪。",
+      "definition": "1. To make someone feel ashamed and foolish by injuring their dignity.",
+      "example": [
+        {
+          "eng": "He felt completely humiliated when he failed the test in front of everyone.",
+          "ch": "當他在大家面前考試不及格時，他感到徹底被羞辱了。"
+        }
+      ]
+    },
+    {
+      "eng": "hunch",
+      "kk": "hʌntʃ",
+      "tense": "n.",
+      "ch": [
+        [
+          "直覺",
+          "預感"
+        ],
+        [
+          "駝峰",
+          "隆起"
+        ]
+      ],
+      "analysis": "其動詞原意為推擠或弓起背部（與 hump 同源）。名詞用法演變出兩個義項：一是因背部弓起聯想出的隆起色塊；二是心理上的「直覺、預感」（源自心中隱隱不安、身體緊縮的感覺）。",
+      "definition": "1. A feeling or guess based on intuition rather than known facts; 2. A thick lump or piece.",
+      "example": [
+        {
+          "eng": "I had a hunch that she would win the election.",
+          "ch": "我有種直覺她會贏得選舉。"
+        },
+        {
+          "eng": "He cut a large hunch of bread from the loaf.",
+          "ch": "他從那條麵包上切了一大塊。"
+        }
+      ]
+    },
+    {
+      "eng": "hurdle",
+      "kk": "ˈhɝdəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "欄架",
+          "障礙"
+        ],
+        [
+          "難關",
+          "困難"
+        ]
+      ],
+      "analysis": "源自古英語 hyrdel（編織而成的框架、籬笆），屬於日耳曼語族。原意是用樹枝編成的臨時圍欄或跨欄賽跑用的欄架；引申為達成目標過程中所必須克服的各種難關與障礙。",
+      "definition": "1. Each of a series of upright frames that athletes jump over in a race; 2. One of a number of problems that must be solved or dealt with.",
+      "example": [
+        {
+          "eng": "She tripped over the last hurdle and lost the race.",
+          "ch": "她在最後一個欄架絆倒，輸了比賽。"
+        },
+        {
+          "eng": "Securing enough funding is the biggest hurdle for our project.",
+          "ch": "獲得充足資金是我們專案面臨的最大難關。"
+        }
+      ]
+    },
+    {
+      "eng": "hybrid",
+      "kk": "ˈhaɪbrɪd",
+      "tense": "n.",
+      "ch": [
+        [
+          "混合種",
+          "雜交品種"
+        ],
+        [
+          "油電混合車"
+        ]
+      ],
+      "analysis": "源自拉丁語 hybrida（原意指野豬與家豬雜交的後代，後泛指雜交動物或植物）。現代科技與日常生活廣泛用於生物學上的雜交種，或汽車工業中結合燃油引擎與電動馬達的「混合動力車」。",
+      "definition": "1. The offspring of two plants or animals of different species or varieties; 2. A vehicle powered by two or more different sources of energy, such as petrol and electricity.",
+      "example": [
+        {
+          "eng": "This rose is a hardy hybrid developed by local gardeners.",
+          "ch": "這朵玫瑰是由當地園丁培育出的耐寒雜交品種。"
+        },
+        {
+          "eng": "Many drivers are switching to hybrid cars to save fuel.",
+          "ch": "許多駕駛為了省油正轉向購買油電混合車。"
+        }
+      ]
+    },
+    {
+      "eng": "hygiene",
+      "kk": "ˈhaɪdʒin",
+      "tense": "n.",
+      "ch": [
+        [
+          "衛生",
+          "保健"
+        ]
+      ],
+      "analysis": "源自法語 hygiène，最終源自希臘語 hygieinē (techne)（健康的藝術），根源為 hygiēs（健康的）。指維護身體清潔、預防疾病的科學與實務做法。",
+      "definition": "1. Conditions or practices conducive to maintaining health and preventing disease, through cleanliness.",
+      "example": [
+        {
+          "eng": "Good personal hygiene, such as washing hands regularly, prevents the spread of germs.",
+          "ch": "良好的個人衛生習慣（如定期洗手）能防止細菌傳播。"
+        }
+      ]
+    },
+    {
+      "eng": "hypocrite",
+      "kk": "ˈhɪpəkrɪt",
+      "tense": "n.",
+      "ch": [
+        [
+          "偽君子",
+          "虛偽的人"
+        ]
+      ],
+      "analysis": "源自古法語 hypocrite，借自拉丁語 hypocrita，最終源自希臘語 hypokritēs（舞台上的演員、解說者），由 hypo-（在下方）與 krinein（評判、解釋）組成。因古希臘演員需戴面具扮演角色，後來在基督教早期語境中演變為「表面裝作虔誠、內心虛偽的人」。",
+      "definition": "1. A person who claims to have moral standards to which their own behavior does not conform; a deceitful person.",
+      "example": [
+        {
+          "eng": "He is a hypocrite who preaches honesty but cheats on his taxes.",
+          "ch": "他是一個標榜誠實卻逃漏稅的偽君子。"
+        }
+      ]
+    },
+    {
+      "eng": "iceberg",
+      "kk": "ˈaɪsˌbɝɡ",
+      "tense": "n.",
+      "ch": [
+        [
+          "冰山"
+        ]
+      ],
+      "analysis": "透過荷蘭語 ijsberg 進入英語，由日耳曼語族的 is（冰，相當於英語 ice）與 berg（山，相當於英語 mountain 的親屬詞）複合而成。專指脫落並漂浮在海洋中的巨大冰塊。",
+      "definition": "1. A large floating mass of ice detached from a glacier or ice sheet and carried out to sea.",
+      "example": [
+        {
+          "eng": "The Titanic sank after colliding with a massive iceberg.",
+          "ch": "鐵達尼號在與一座巨大的冰山相撞後沉沒了。"
+        }
+      ]
+    }
+  ]
+}

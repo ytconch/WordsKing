@@ -1,0 +1,1359 @@
+{
+  "level": 1,
+  "chunkIndex": 9,
+  "inputs": [
+    "healthy",
+    "hear",
+    "heart",
+    "heat",
+    "heavy",
+    "height",
+    "hello",
+    "help",
+    "helpful",
+    "hen",
+    "here",
+    "hide",
+    "high",
+    "hill",
+    "history",
+    "hit",
+    "hobby",
+    "hold",
+    "holiday",
+    "home",
+    "homework",
+    "honest",
+    "honey",
+    "hope",
+    "horse",
+    "hospital",
+    "hot",
+    "hotel",
+    "hour",
+    "house",
+    "housewife",
+    "how",
+    "however",
+    "hundred",
+    "hungry",
+    "hurt",
+    "husband",
+    "I",
+    "me",
+    "my",
+    "mine",
+    "myself",
+    "ice",
+    "idea",
+    "if",
+    "important",
+    "in",
+    "inch",
+    "insect",
+    "inside"
+  ],
+  "rows": [
+    {
+      "eng": "healthy",
+      "kk": "/ˈhɛlθi/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "健康的",
+          "健壯的"
+        ],
+        [
+          "有益健康的",
+          "健全的"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由名詞 health 加上形容詞字尾 -y 構成，表示「具有…性質的」。源自古英語 hǣlth（意為健壯、完整），其根本源自日耳曼語族。語意從「保持完整無缺」演變為現代的「身體健康」與「對健康有益的」。",
+      "definition": "1. enjoying good health and free from disease; 2. conducive to or promoting good health.",
+      "example": [
+        {
+          "eng": "She tries to stay healthy by exercising every day.",
+          "ch": "她試著每天運動來保持健康。"
+        },
+        {
+          "eng": "Eating vegetables is part of a healthy diet.",
+          "ch": "吃蔬菜是有益健康飲食的一部分。"
+        }
+      ]
+    },
+    {
+      "eng": "hear",
+      "kk": "/hɪr/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "聽見",
+          "聽到"
+        ],
+        [
+          "聽取",
+          "聽說"
+        ]
+      ],
+      "analysis": "此字為繼承自古英語的 hieran，源自原始日耳曼語。作為及物動詞，其後直接接聽覺對象或子句，表示感知聲音或獲悉消息。語意由生理上的「接收聲音」引申為「得知、聽說」。",
+      "definition": "1. to perceive with the ear the sound of; 2. to be informed of or learn about.",
+      "example": [
+        {
+          "eng": "Can you hear the birds singing outside?",
+          "ch": "你聽得到外面鳥兒在唱歌嗎？"
+        },
+        {
+          "eng": "I hear that the company is hiring new people.",
+          "ch": "我聽說公司正在招募新員工。"
+        }
+      ]
+    },
+    {
+      "eng": "heart",
+      "kk": "/hɑrt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "心臟"
+        ],
+        [
+          "內心",
+          "感情"
+        ],
+        [
+          "核心",
+          "中心"
+        ]
+      ],
+      "analysis": "此字為繼承自古英語的 heorte，源自印歐語根，與拉丁語 cor 及希臘語 kardia 同源。語意從解剖學的「心臟」器官，經由隱喻擴展至「情感與意志的藏所（內心）」，再進一步引申為事物的「核心或中心」。",
+      "definition": "1. the muscular organ that pumps blood through the body; 2. the seat of one's innermost feelings, emotions, or moral nature; 3. the central or innermost part of something.",
+      "example": [
+        {
+          "eng": "The heart pumps blood through the body.",
+          "ch": "心臟把血液壓送全身。"
+        },
+        {
+          "eng": "He spoke from the bottom of his heart.",
+          "ch": "他由衷地發言。"
+        },
+        {
+          "eng": "They live in the heart of the city.",
+          "ch": "他們住在市中心。"
+        }
+      ]
+    },
+    {
+      "eng": "heat",
+      "kk": "/hit/",
+      "tense": "n.",
+      "ch": [
+        [
+          "熱",
+          "高溫"
+        ],
+        [
+          "熱度",
+          "加熱"
+        ]
+      ],
+      "analysis": "此字為繼承自古英語的 hǣto（名詞形），源自原始日耳曼語。與形容詞 hot 同源。語意指溫度高或傳遞熱能的現象，亦可延伸指加熱的動作或激烈的情緒狀態。",
+      "definition": "1. the quality of being hot; high temperature; 2. the action or process of making something hot.",
+      "example": [
+        {
+          "eng": "The heat of the summer sun was unbearable.",
+          "ch": "夏日太陽的熱度讓人難以忍受。"
+        },
+        {
+          "eng": "Turn down the heat on the stove.",
+          "ch": "把爐子的火侯調小。"
+        }
+      ]
+    },
+    {
+      "eng": "heat",
+      "kk": "/hit/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "加熱",
+          "使變熱"
+        ]
+      ],
+      "analysis": "由此字的名詞詞形轉品或古英語同源動詞發展而來，作為及物動詞直接受詞，表示對某物施加熱能使其溫度升高。",
+      "definition": "1. to make something hot or warm.",
+      "example": [
+        {
+          "eng": "She heated some soup for lunch.",
+          "ch": "她加熱了一些湯當午餐。"
+        }
+      ]
+    },
+    {
+      "eng": "heavy",
+      "kk": "/ˈhɛvi/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "重的",
+          "沉重的"
+        ],
+        [
+          "大量的",
+          "密集的"
+        ],
+        [
+          "繁重的",
+          "艱難的"
+        ]
+      ],
+      "analysis": "此字源自古英語 hefig，源自原始日耳曼語，與動詞 heave（舉起）同源。語意從客觀物理重量的「沉重」，引申為數量或程度上的「大量、密集」，再延伸至工作或責任上的「繁重、沉重負擔」。",
+      "definition": "1. of great weight; difficult to lift; 2. of large amount, force, or intensity; 3. burdensome or hard to bear.",
+      "example": [
+        {
+          "eng": "This suitcase is too heavy for me to carry.",
+          "ch": "這行李箱對我來說太重了，提不動。"
+        },
+        {
+          "eng": "We experienced heavy traffic on the way home.",
+          "ch": "我們在回家的路上遇到了濃厚的交通阻塞。"
+        },
+        {
+          "eng": "He has a heavy workload this week.",
+          "ch": "他這週工作負擔很重。"
+        }
+      ]
+    },
+    {
+      "eng": "height",
+      "kk": "/haɪt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "高度",
+          "身高"
+        ],
+        [
+          "高處",
+          "頂峰"
+        ]
+      ],
+      "analysis": "此字源自古英語 hiehþu，由形容詞 high 加上名詞字尾構成，經日耳曼語演變而來。語意從具體的「垂直距離或身高」延伸至抽象或地理上的「最高點、頂峰」。",
+      "definition": "1. the measurement of someone or something from head to foot or from base to top; 2. the highest point or peak of something.",
+      "example": [
+        {
+          "eng": "What is the height of this building?",
+          "ch": "這棟建築物的高度是多少？"
+        },
+        {
+          "eng": "The plane is flying at a height of 30,000 feet.",
+          "ch": "飛機正飛行在三萬英尺的高度。"
+        }
+      ]
+    },
+    {
+      "eng": "hello",
+      "kk": "/həˈloʊ/",
+      "tense": "interj.",
+      "ch": [
+        [
+          "哈囉",
+          "喂（打招呼用語）"
+        ]
+      ],
+      "analysis": "此字為近代出現的驚嘆詞與問候語，為 hallo、hallo 的變體（源自 holla 意指「聽著、停下」）。在電話發明與現代社交普及後成為標準的問候語。不具備傳統詞性變化。",
+      "definition": "1. used as a greeting or to begin a phone conversation.",
+      "example": [
+        {
+          "eng": "Hello, how are you today?",
+          "ch": "哈囉，你今天好嗎？"
+        }
+      ]
+    },
+    {
+      "eng": "help",
+      "kk": "/hɛlp/",
+      "tense": "n.",
+      "ch": [
+        [
+          "幫助",
+          "援助"
+        ],
+        [
+          "幫手",
+          "有用之物"
+        ]
+      ],
+      "analysis": "由同形動詞 help 轉品而來的名詞，保留協助、援助及提供幫助的人或事物之義。",
+      "definition": "1. the action of helping someone; assistance; 2. a person or thing that helps.",
+      "example": [
+        {
+          "eng": "Thanks for your help with my homework.",
+          "ch": "謝謝你幫我寫功課。"
+        },
+        {
+          "eng": "Your advice was a great help to me.",
+          "ch": "你的建議對我很有幫助。"
+        }
+      ]
+    },
+    {
+      "eng": "help",
+      "kk": "/hɛlp/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "幫助",
+          "協助"
+        ],
+        [
+          "治癒",
+          "改善"
+        ]
+      ],
+      "analysis": "此字為繼承自古英語的 helpan（動詞），源自原始日耳曼語。作為及物動詞，可接直接受詞或原形動詞（帶或不帶 to），表示提供援助、促進事情順利或改善某種狀況。",
+      "definition": "1. to make it easier for someone to do something by offering one's services or resources; 2. to improve or remedy a situation.",
+      "example": [
+        {
+          "eng": "Can you help me carry these boxes?",
+          "ch": "你可以幫我搬這些箱子嗎？"
+        },
+        {
+          "eng": "Medicine can help cure the disease.",
+          "ch": "藥物有助於治癒這種疾病。"
+        }
+      ]
+    },
+    {
+      "eng": "helpful",
+      "kk": "/ˈhɛlpfl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "有幫助的",
+          "有益的"
+        ],
+        [
+          "肯幫忙的",
+          "熱心助人的"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由名詞／動詞 help 加上形容詞字尾 -ful（充滿…的）構成。語意指事物「具有提供幫助的效用」或人「樂於助人的性格」。",
+      "definition": "1. giving help; useful or beneficial; 2. willing to help others.",
+      "example": [
+        {
+          "eng": "The shop assistant gave us some helpful advice.",
+          "ch": "店員給了我們一些很有幫助的建議。"
+        },
+        {
+          "eng": "She is a very helpful person in the office.",
+          "ch": "她是辦公室裡非常熱心助人的人。"
+        }
+      ]
+    },
+    {
+      "eng": "hen",
+      "kk": "/hɛn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "母雞"
+        ],
+        [
+          "雌鳥"
+        ]
+      ],
+      "analysis": "此字為繼承自古英語的 hēn，源自原始日耳曼語，與 rooster（公雞）相對。語意指家禽母雞，亦可泛指某些鳥類的雌鳥。",
+      "definition": "1. an adult female chicken; 2. the female of certain other birds.",
+      "example": [
+        {
+          "eng": "The hen lays an egg every morning.",
+          "ch": "這隻母雞每天早上下一個蛋。"
+        }
+      ]
+    },
+    {
+      "eng": "here",
+      "kk": "/hɪr/",
+      "tense": "adv.",
+      "ch": [
+        [
+          "在這裡",
+          "向這裡"
+        ],
+        [
+          "此時",
+          "這時"
+        ]
+      ],
+      "analysis": "此字為繼承自古英語的 hēr，源自日耳曼語族。作為地方副詞，表示說話者所在的位置或方向，亦可引申指目前的這個時間點或階段。",
+      "definition": "1. in, at, or to this place; 2. at this point in time or in an argument.",
+      "example": [
+        {
+          "eng": "Please sit here next to me.",
+          "ch": "請坐在我旁邊這裡。"
+        },
+        {
+          "eng": "Here our discussion ends.",
+          "ch": "我們的討論到此結束。"
+        }
+      ]
+    },
+    {
+      "eng": "hide",
+      "kk": "/haɪd/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "隱藏",
+          "掩蓋"
+        ],
+        [
+          "隱瞞",
+          "掩飾"
+        ]
+      ],
+      "analysis": "此字為繼承自古英語的 hȳdan（動詞），源自原始日耳曼語。作為及物動詞，其後接實體物品表示「藏匿」，或接抽象名詞、真相表示「隱瞞、掩飾」。",
+      "definition": "1. to put or keep out of sight; conceal; 2. to keep secret or prevent from being known.",
+      "example": [
+        {
+          "eng": "The children like to hide their toys.",
+          "ch": "孩子們喜歡把玩具藏起來。"
+        },
+        {
+          "eng": "He tried to hide his disappointment.",
+          "ch": "他試圖掩飾他的失望。"
+        }
+      ]
+    },
+    {
+      "eng": "hide",
+      "kk": "/haɪd/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "躲藏",
+          "隱蔽"
+        ]
+      ],
+      "analysis": "為同形動詞 hide 的不及物用法，表示主詞自身躲起來不被看見，句尾不接直接受詞。",
+      "definition": "1. to put oneself in a place where one cannot be seen.",
+      "example": [
+        {
+          "eng": "The cat hid under the bed.",
+          "ch": "貓躲在床底下。"
+        }
+      ]
+    },
+    {
+      "eng": "high",
+      "kk": "/haɪ/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "高的",
+          "高處的"
+        ],
+        [
+          "高級的",
+          "重大的"
+        ]
+      ],
+      "analysis": "此字為繼承自古英語的 hēah，源自原始日耳曼語。作為形容詞，表示垂直距離大、位置高，或引申為地位崇高、數量或程度達到頂點。",
+      "definition": "1. of great vertical extent; rising far above; 2. of high status, importance, or degree.",
+      "example": [
+        {
+          "eng": "That building is very high.",
+          "ch": "那棟建築物很高。"
+        },
+        {
+          "eng": "She holds a high position in the company.",
+          "ch": "她在公司擔任高職位。"
+        }
+      ]
+    },
+    {
+      "eng": "hill",
+      "kk": "/hɪl/",
+      "tense": "n.",
+      "ch": [
+        [
+          "小山",
+          "山丘"
+        ]
+      ],
+      "analysis": "此字為繼承自古英語的 hyll，源自原始日耳曼語，與拉丁語 collis（山丘）有遠親關係。語意指自然形成的隆起高地，比山（mountain）小。",
+      "definition": "1. a naturally raised area of land, not as high as a mountain.",
+      "example": [
+        {
+          "eng": "They climbed up the hill to watch the sunset.",
+          "ch": "他們爬上小山去看日落。"
+        }
+      ]
+    },
+    {
+      "eng": "history",
+      "kk": "/ˈhɪstəri/",
+      "tense": "n.",
+      "ch": [
+        [
+          "歷史",
+          "歷史學"
+        ],
+        [
+          "過去的經歷",
+          "過往事蹟"
+        ]
+      ],
+      "analysis": "此字源自古希臘語 ἱστορία (historia，意為「調查、探究、由查詢得知的知識」)，透過拉丁語與古法語中介傳入英語。語意從「對過去事件的探究與記載」演變為「歷史學」以及個人或事物的「過往經歷」。",
+      "definition": "1. the study of past events, particularly in human affairs; 2. the whole series of past events connected with a person or thing.",
+      "example": [
+        {
+          "eng": "She is a professor of European history.",
+          "ch": "她是歐洲歷史學教授。"
+        },
+        {
+          "eng": "Our school has a long and proud history.",
+          "ch": "我們學校有著悠久而光榮的歷史。"
+        }
+      ]
+    },
+    {
+      "eng": "hit",
+      "kk": "/hɪt/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "打",
+          "擊中"
+        ],
+        [
+          "碰撞",
+          "侵襲"
+        ]
+      ],
+      "analysis": "此字源自古諾斯語 hitta（意為「遇見、偶然碰上」），進入中古英語後語意演變為「用力擊中、打擊」。作為及物動詞，後接直接受詞，表示施力打擊或災難、風暴等突然侵襲。",
+      "definition": "1. to bring one's hand or a weapon into contact with quickly and with force; 2. to strike or affect something forcefully, like a storm or disaster.",
+      "example": [
+        {
+          "eng": "He hit the ball with a bat.",
+          "ch": "他用球棒打球。"
+        },
+        {
+          "eng": "A massive earthquake hit the region last night.",
+          "ch": "昨晚規模巨大的地震侵襲了該地區。"
+        }
+      ]
+    },
+    {
+      "eng": "hobby",
+      "kk": "/ˈhɑbi/",
+      "tense": "n.",
+      "ch": [
+        [
+          "嗜好",
+          "業餘愛好"
+        ]
+      ],
+      "analysis": "此字源自中古英語 hobyn（原意指小馬、走馬），在 18 世紀時由 hobbyhorse（木馬玩具、兒童遊戲）演變出 hobby，指人們在閒暇時熱衷進行的趣味活動。經由歷史詞源語意轉化而來。",
+      "definition": "1. an activity done regularly in one's leisure time for pleasure.",
+      "example": [
+        {
+          "eng": "Gardening is her favorite hobby.",
+          "ch": "園藝是她最喜歡的嗜好。"
+        }
+      ]
+    },
+    {
+      "eng": "hold",
+      "kk": "/hoʊld/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "拿著",
+          "握住"
+        ],
+        [
+          "擁有",
+          "保持"
+        ],
+        [
+          "舉行",
+          "容納"
+        ]
+      ],
+      "analysis": "此字為繼承自古英語的 haldan（動詞），源自原始日耳曼語。作為及物動詞，其核心義為「用手抓住或掌控」，並由此引申出「心裡懷有、保有某職位」、「容納空間」以及「舉辦活動（如會議）」等多個穩定語義。",
+      "definition": "1. to grasp, carry, or support with one's hands; 2. to keep or maintain in a particular position, state, or office; 3. to contain or have capacity for; 4. to organize or cause to take place.",
+      "example": [
+        {
+          "eng": "Please hold this bag for a second.",
+          "ch": "請幫我拿一下這個袋子。"
+        },
+        {
+          "eng": "This stadium can hold 50,000 people.",
+          "ch": "這個體育場可容納五萬人。"
+        },
+        {
+          "eng": "The meeting will be held in the conference room.",
+          "ch": "會議將在會議室舉行。"
+        }
+      ]
+    },
+    {
+      "eng": "holiday",
+      "kk": "/ˈhɑlədeɪ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "假日",
+          "節假日"
+        ],
+        [
+          "假期",
+          "度假"
+        ]
+      ],
+      "analysis": "此字為歷史上透明複合詞，由古英語 hālig（神聖的）+ dæg（日子）結合而成，原意為「聖日、宗教節日」。隨著社會演變，語意從宗教節慶擴大為一般公眾假期，並在英式英語中常指「休假、度假」。",
+      "definition": "1. a day of festivity or recreation when no work is done; a religious or national festival; 2. an extended period of recreation spent away from home or in travel.",
+      "example": [
+        {
+          "eng": "Christmas is a national holiday.",
+          "ch": "聖誕節是國定假日。"
+        },
+        {
+          "eng": "They are going to Spain for their summer holiday.",
+          "ch": "他們要去西班牙度暑假。"
+        }
+      ]
+    },
+    {
+      "eng": "home",
+      "kk": "/hoʊm/",
+      "tense": "n.",
+      "ch": [
+        [
+          "家",
+          "住所"
+        ],
+        [
+          "故鄉",
+          "產地"
+        ]
+      ],
+      "analysis": "此字為繼承自古英語的 hām，源自原始日耳曼語，表示居住的村莊或家園。語意從具體的「房屋、住所」延伸至情感上的「家、家庭」，或指某物起源的「故鄉、產地」。",
+      "definition": "1. the place where one lives permanently, especially as a member of a family; 2. the place of origin or habitat of something.",
+      "example": [
+        {
+          "eng": "After a long day at work, I just want to go home.",
+          "ch": "工作了一整天後，我只想回家。"
+        },
+        {
+          "eng": "This forest is the home of many rare animals.",
+          "ch": "這座森林是許多稀有動物的棲息地（家園）。"
+        }
+      ]
+    },
+    {
+      "eng": "homework",
+      "kk": "/ˈhoʊmwɜrk/",
+      "tense": "n.",
+      "ch": [
+        [
+          "家庭作業",
+          "功課"
+        ]
+      ],
+      "analysis": "此字為現代透明複合詞，由 home（家）+ work（工作）組成。最初指在家中做的手工業或勞動，19 世紀起固定指學生帶回家完成的學校功課。",
+      "definition": "1. schoolwork that a student is given to do at home.",
+      "example": [
+        {
+          "eng": "Don't forget to finish your math homework.",
+          "ch": "別忘了完成你的數學功課。"
+        }
+      ]
+    },
+    {
+      "eng": "honest",
+      "kk": "/ˈɑnɪst/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "誠實的",
+          "正直的"
+        ],
+        [
+          "坦誠的",
+          "真實的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 honestus（受尊敬的、榮譽的），經由古法語 honeste 傳入英語。語意從「具備良好品德、受人尊敬」演變為現代的「誠實不說謊」及「坦率、真實的」。",
+      "definition": "1. free of deceit and untruthfulness; sincere; 2. truthful, fair, and trustworthy.",
+      "example": [
+        {
+          "eng": "He is an honest man who never tells lies.",
+          "ch": "他是個從不說謊的誠實人。"
+        },
+        {
+          "eng": "To be honest, I didn't like the movie at all.",
+          "ch": "老實說，我一點也不喜歡這部電影。"
+        }
+      ]
+    },
+    {
+      "eng": "honey",
+      "kk": "/ˈhʌni/",
+      "tense": "n.",
+      "ch": [
+        [
+          "蜂蜜"
+        ],
+        [
+          "寶貝",
+          "親愛的（稱呼）"
+        ]
+      ],
+      "analysis": "此字為繼承自古英語的 hunig，源自日耳曼語族。語意指蜜蜂釀造的甜漿（蜂蜜），並因其甜美特質而引申為對愛人或親密之人的愛稱（親愛的）。",
+      "definition": "1. a sweet, yellowish-brown fluid made by bees from nectar; 2. a term of endearment for a loved one.",
+      "example": [
+        {
+          "eng": "She likes to add honey to her tea.",
+          "ch": "她喜歡在茶裡加蜂蜜。"
+        },
+        {
+          "eng": "Could you pass me the salt, honey?",
+          "ch": "親愛的，可以把鹽遞給我嗎？"
+        }
+      ]
+    },
+    {
+      "eng": "hope",
+      "kk": "/hoʊp/",
+      "tense": "n.",
+      "ch": [
+        [
+          "希望",
+          "期望"
+        ],
+        [
+          "希望的源頭",
+          "指望"
+        ]
+      ],
+      "analysis": "由同形動詞 hope 轉品而來的名詞，表示心中懷有的願望、期望，或指帶來希望的人事物。",
+      "definition": "1. a feeling of expectation and desire for a certain thing to happen; 2. a person or thing that may help bring about a desired result.",
+      "example": [
+        {
+          "eng": "There is still hope for our team to win.",
+          "ch": "我們隊伍仍然有贏球的希望。"
+        },
+        {
+          "eng": "She is the only hope for the project.",
+          "ch": "她是這個專案唯一的指望。"
+        }
+      ]
+    },
+    {
+      "eng": "hope",
+      "kk": "/hoʊp/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "希望",
+          "期望"
+        ]
+      ],
+      "analysis": "此字為繼承自古英語的 hopian（動詞），源自原始日耳曼語。作為及物動詞，其後可接名詞子句或不定詞，表示心裡期待某事發生或達成。",
+      "definition": "1. to want something to happen and think that it is possible.",
+      "example": [
+        {
+          "eng": "I hope that you can come to my party.",
+          "ch": "我希望你能來參加我的派對。"
+        }
+      ]
+    },
+    {
+      "eng": "horse",
+      "kk": "/hɔrs/",
+      "tense": "n.",
+      "ch": [
+        [
+          "馬"
+        ]
+      ],
+      "analysis": "此字為繼承自古英語的 hors，源自原始日耳曼語。語意指大型蹄類哺乳動物馬，為人類古代重要的交通與勞動力來源。",
+      "definition": "1. a large, solid-hoofed herbivorous mammal used for riding, racing, and pulling loads.",
+      "example": [
+        {
+          "eng": "He loves to ride horses on weekends.",
+          "ch": "他喜歡在週末騎馬。"
+        }
+      ]
+    },
+    {
+      "eng": "hospital",
+      "kk": "/ˈhɑspɪtəl/",
+      "tense": "n.",
+      "ch": [
+        [
+          "醫院"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 hospitale（客房、招待所，源自 hospes 客人／主人），經由古法語與中世紀拉丁語演變而來。最初指收容貧民、旅客或病人的慈善機構，中世紀後語意逐漸專門化為治療病患的「醫院」。",
+      "definition": "1. an institution providing medical and surgical treatment and nursing care for sick or injured people.",
+      "example": [
+        {
+          "eng": "He was taken to the hospital after the accident.",
+          "ch": "他在事故後被送往醫院。"
+        }
+      ]
+    },
+    {
+      "eng": "hot",
+      "kk": "/hɑt/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "熱的",
+          "燙的"
+        ],
+        [
+          "辣的"
+        ],
+        [
+          "熱門的",
+          "搶手的"
+        ]
+      ],
+      "analysis": "此字為繼承自古英語的 hāt，源自原始日耳曼語，與名词 heat 同源。語意從客觀溫度高（熱、燙），延伸至食物口感的「辛辣」，再引申為流行趨勢上的「熱門、搶手」。",
+      "definition": "1. having a high temperature; 2. producing a burning sensation in the mouth due to spices; 3. currently popular, fashionable, or in high demand.",
+      "example": [
+        {
+          "eng": "Be careful, the soup is very hot.",
+          "ch": "小心，湯很燙。"
+        },
+        {
+          "eng": "I don't like eating hot food with too much pepper.",
+          "ch": "我不喜歡吃加太多胡椒的辣食。"
+        },
+        {
+          "eng": "Tickets for the concert are hot right now.",
+          "ch": "這場音樂會的門票現在非常搶手。"
+        }
+      ]
+    },
+    {
+      "eng": "hotel",
+      "kk": "/hoʊˈtɛl/",
+      "tense": "n.",
+      "ch": [
+        [
+          "旅館",
+          "飯店"
+        ]
+      ],
+      "analysis": "此字源自法語 hôtel（源自古法語 hostel，意即客棧、招待所，最終源自拉丁語 hospitale）。17 世紀進入英語時原指大型府邸或公共建築，到 18 世紀末起專門指提供旅客住宿與餐飲的現代旅館。",
+      "definition": "1. an establishment providing accommodation, meals, and other services for travelers and tourists.",
+      "example": [
+        {
+          "eng": "We booked a nice hotel near the beach.",
+          "ch": "我們在海灘附近預訂了一家不錯的飯店。"
+        }
+      ]
+    },
+    {
+      "eng": "hour",
+      "kk": "/ˈaʊər/",
+      "tense": "n.",
+      "ch": [
+        [
+          "小時",
+          "鐘頭"
+        ],
+        [
+          "特定時刻",
+          "時間"
+        ]
+      ],
+      "analysis": "此字源自古希臘語 ὥρα (hōra，意為季節、時期、一天中的某個時刻)，經由拉丁語 hora 與古法語 hour 傳入英語（字母 h 在法語中不發音並保留至今）。語意指一天 24 小時中的 60 分鐘時段，亦可泛指特定時刻或緊要關頭。",
+      "definition": "1. a period of time equal to sixty minutes; 2. a particular point in time or a specific period.",
+      "example": [
+        {
+          "eng": "It takes about an hour to drive there.",
+          "ch": "開車到那裡大約需要一個小時。"
+        },
+        {
+          "eng": "This is a critical hour for our company.",
+          "ch": "這是我們公司面臨的關鍵時刻。"
+        }
+      ]
+    },
+    {
+      "eng": "house",
+      "kk": "/haʊs/",
+      "tense": "n.",
+      "ch": [
+        [
+          "房子",
+          "住宅"
+        ],
+        [
+          "機構",
+          "議院"
+        ]
+      ],
+      "analysis": "此字為繼承自古英語的 hūs，源自原始日耳曼語。語意從人類居住的獨立建築物（房子），引申為商業機構、家族（如皇室家族）或議會機構（如眾議院）。",
+      "definition": "1. a building for human habitation, especially one that is lived in by a family; 2. a commercial firm, legislative assembly, or noble family.",
+      "example": [
+        {
+          "eng": "They bought a new house in the suburbs.",
+          "ch": "他們在郊區買了一棟新房子。"
+        },
+        {
+          "eng": "The bill was passed by the House.",
+          "ch": "該法案已獲議院通過。"
+        }
+      ]
+    },
+    {
+      "eng": "housewife",
+      "kk": "/ˈhaʊswaɪf/",
+      "tense": "n.",
+      "ch": [
+        [
+          "家庭主婦"
+        ]
+      ],
+      "analysis": "此字為現代透明複合詞，由 house（房子）+ wife（妻子）結合而成（中古英語 houswif）。原意指管理家務的女主人，現代固定指專職操持家務、不外出工作的已婚女性。",
+      "definition": "1. a married woman who manages her own household as her main occupation.",
+      "example": [
+        {
+          "eng": "She works as a housewife and takes care of two children.",
+          "ch": "她是一名家庭主婦，照顧兩個孩子。"
+        }
+      ]
+    },
+    {
+      "eng": "how",
+      "kk": "/haʊ/",
+      "tense": "adv.",
+      "ch": [
+        [
+          "如何",
+          "怎樣"
+        ],
+        [
+          "多麼（表示程度）"
+        ]
+      ],
+      "analysis": "此字為繼承自古英語的 hū，源自原始日耳曼語疑問代名詞／副詞根。用來詢問方式、手段、狀態，或在驚嘆句中修飾形容詞或副詞以表示程度（多麼…）。",
+      "definition": "1. in what way or manner; by what means; 2. to what extent or degree.",
+      "example": [
+        {
+          "eng": "How do you solve this math problem?",
+          "ch": "你如何解決這道數學題？"
+        },
+        {
+          "eng": "How beautiful the sunset is!",
+          "ch": "日落多麼美麗啊！"
+        }
+      ]
+    },
+    {
+      "eng": "however",
+      "kk": "/haʊˈɛvər/",
+      "tense": "adv.",
+      "ch": [
+        [
+          "然而",
+          "不過"
+        ]
+      ],
+      "analysis": "此字為歷史透明複合詞，由 how（如何）+ ever（總是、究竟）結合而成，古英語即有類似結構。在句中作為連接副詞，表示轉折，意即「然而、不過」。",
+      "definition": "1. used to introduce a statement that contrasts with or seems to contradict something that has been said previously.",
+      "example": [
+        {
+          "eng": "It was raining heavily; however, they still went hiking.",
+          "ch": "雨下得很大；然而，他們還是去健行了。"
+        }
+      ]
+    },
+    {
+      "eng": "hundred",
+      "kk": "/ˈhʌndrəd/",
+      "tense": "n.",
+      "ch": [
+        [
+          "一百",
+          "一百個"
+        ]
+      ],
+      "analysis": "此字為繼承自古英語的 hundred，源自原始日耳曼語，與印歐語系許多語言的「百」同源。作為數字名詞，表示 100 的數量。",
+      "definition": "1. the cardinal number equivalent to the product of ten and ten",
+      "example": [
+        {
+          "eng": "There are one hundred students in the hall.",
+          "ch": "大廳裡有一百名學生。"
+        }
+      ]
+    },
+    {
+      "eng": "hungry",
+      "kk": "/ˈhʌŋɡri/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "飢餓的",
+          "感到餓的"
+        ],
+        [
+          "渴望的"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由古英語 hungor（飢餓，名詞）加上形容詞字尾 -y 演變而來。語意從生理上的「肚子餓」，引申為對某事物的強烈渴望（如渴望成功）。",
+      "definition": "1. feeling or showing the need for food; 2. having a strong desire for something.",
+      "example": [
+        {
+          "eng": "I am so hungry that I could eat a horse.",
+          "ch": "我餓得可以吃下一頭馬。"
+        },
+        {
+          "eng": "The young players are hungry for success.",
+          "ch": "年輕球員們渴望成功。"
+        }
+      ]
+    },
+    {
+      "eng": "hurt",
+      "kk": "/hɜrt/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使受傷",
+          "傷害"
+        ],
+        [
+          "使痛苦",
+          "使疼痛"
+        ]
+      ],
+      "analysis": "此字源自中古英語 hurten（意指猛撞、傷害），可能借自古法語 hurter（衝撞）。作為及物動詞，三態同形（hurt-hurt-hurt），表示對肉體造成傷害或對心靈造成痛苦。",
+      "definition": "1. to cause physical pain or injury to; 2. to cause emotional pain or distress to.",
+      "example": [
+        {
+          "eng": "He hurt his leg playing football.",
+          "ch": "他踢足球時弄傷了腿。"
+        },
+        {
+          "eng": "Her cruel words hurt his feelings.",
+          "ch": "她殘酷的話語傷害了他的感情。"
+        }
+      ]
+    },
+    {
+      "eng": "hurt",
+      "kk": "/hɜrt/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "疼痛",
+          "受傷"
+        ]
+      ],
+      "analysis": "為同形動詞 hurt 的不及物用法，表示身體某部位產生痛感，句中不接直接受詞。",
+      "definition": "1. to feel pain.",
+      "example": [
+        {
+          "eng": "My back hurts after sitting all day.",
+          "ch": "坐了一整天後，我的背很痛。"
+        }
+      ]
+    },
+    {
+      "eng": "husband",
+      "kk": "/ˈhʌzbənd/",
+      "tense": "n.",
+      "ch": [
+        [
+          "丈夫",
+          "先生"
+        ]
+      ],
+      "analysis": "此字源自古諾斯語 húsbóndi（意為房屋主人、家長，由 hús「房子」+ bōndi「居民、農夫」組成），經古英語演變而來。語意從「一戶之主」專門化為已婚女性的配偶「丈夫」。",
+      "definition": "1. a married man considered in relation to his spouse.",
+      "example": [
+        {
+          "eng": "She and her husband went on a trip to Japan.",
+          "ch": "她和她丈夫去日本旅行了。"
+        }
+      ]
+    },
+    {
+      "eng": "I",
+      "kk": "/aɪ/",
+      "tense": "pron.",
+      "ch": [
+        [
+          "我（主格）"
+        ]
+      ],
+      "analysis": "此字為繼承自古英語的 ic，源自原始日耳曼語及印歐語根。作為第一人稱單數主格代名詞，用作句子的主詞。在現代英語拼法中大寫為 I。",
+      "definition": "1. used by a speaker to refer to themselves as the subject of a sentence.",
+      "example": [
+        {
+          "eng": "I am learning English grammar.",
+          "ch": "我在學習英文文法。"
+        }
+      ]
+    },
+    {
+      "eng": "me",
+      "kk": "/mi/",
+      "tense": "pron.",
+      "ch": [
+        [
+          "我（受格）"
+        ]
+      ],
+      "analysis": "此字為繼承自古英語的 mē，為第一人稱單數的受格代名詞，用作動詞或介詞的受詞。與主格 I 同源但語法格位不同。",
+      "definition": "1. used by a speaker to refer to themselves as the object of a verb or preposition.",
+      "example": [
+        {
+          "eng": "Please give the book to me.",
+          "ch": "請把這本書給我。"
+        }
+      ]
+    },
+    {
+      "eng": "my",
+      "kk": "/maɪ/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "我的（所有格限定詞）"
+        ]
+      ],
+      "analysis": "此字源自中古英語 mī（由 mīn 弱化而來），為第一人稱單數的所有格限定詞（所有格代形容詞），置於名詞前方修飾該名詞。",
+      "definition": "1. belonging to or associated with the speaker.",
+      "example": [
+        {
+          "eng": "This is my new car.",
+          "ch": "這是我的新車。"
+        }
+      ]
+    },
+    {
+      "eng": "mine",
+      "kk": "/maɪn/",
+      "tense": "pron.",
+      "ch": [
+        [
+          "我的（所有格代名詞）"
+        ]
+      ],
+      "analysis": "此字源自古英語 mīn（所有格形式），在名詞省略時獨立作為所有格代名詞使用，代指「屬於我的東西」。",
+      "definition": "1. used to refer to a thing or things belonging to or associated with the speaker.",
+      "example": [
+        {
+          "eng": "That red car is mine.",
+          "ch": "那輛紅色的車是我的。"
+        }
+      ]
+    },
+    {
+      "eng": "myself",
+      "kk": "/maɪˈsɛlf/",
+      "tense": "pron.",
+      "ch": [
+        [
+          "我自己（反身代名詞）"
+        ],
+        [
+          "我親自（強調）"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由 my（我的）+ self（自我）結合而成。用作反身代名詞（動作施予自身）或加強語氣（我親自）。",
+      "definition": "1. used as the object of a verb or preposition when the speaker is the object of the action; 2. used to emphasize the speaker.",
+      "example": [
+        {
+          "eng": "I cut myself while chopping vegetables.",
+          "ch": "我切菜時割傷了自己。"
+        },
+        {
+          "eng": "I baked the cake myself.",
+          "ch": "這個蛋糕是我親手烤的。"
+        }
+      ]
+    },
+    {
+      "eng": "ice",
+      "kk": "/aɪs/",
+      "tense": "n.",
+      "ch": [
+        [
+          "冰"
+        ]
+      ],
+      "analysis": "此字為繼承自古英語的 īs，源自原始日耳曼語。語意指水凝結成的固體（冰）。",
+      "definition": "1. frozen water, a brittle transparent crystalline solid.",
+      "example": [
+        {
+          "eng": "Would you like some ice in your drink?",
+          "ch": "你的飲料要加點冰塊嗎？"
+        }
+      ]
+    },
+    {
+      "eng": "idea",
+      "kk": "/aɪˈdiə/",
+      "tense": "n.",
+      "ch": [
+        [
+          "主意",
+          "想法"
+        ],
+        [
+          "概念",
+          "意念"
+        ]
+      ],
+      "analysis": "此字源自古希臘語 ἰδέα (idea，意為形態、外觀、心智中的概念，源自 idein「看」)，透過拉丁語與現代歐洲語言引入英語。語意從柏拉圖哲學的「形體、概念」演變為一般人腦海中的「主意、想法」。",
+      "definition": "1. a thought or suggestion as to a possible course of action; 2. a mental concept or impression.",
+      "example": [
+        {
+          "eng": "That is a brilliant idea for our project.",
+          "ch": "這是我們專案的一個絕佳主意。"
+        },
+        {
+          "eng": "I have no idea what you are talking about.",
+          "ch": "我完全不懂你在說什麼。"
+        }
+      ]
+    },
+    {
+      "eng": "if",
+      "kk": "/ɪf/",
+      "tense": "conj.",
+      "ch": [
+        [
+          "如果",
+          "假使"
+        ],
+        [
+          "是否"
+        ]
+      ],
+      "analysis": "此字為繼承自古英語的 gif，源自原始日耳曼語。作為從屬連接詞，用來引導條件子句（如果）或間接問句（是否）。",
+      "definition": "1. on the condition or supposition that; in the event that; 2. whether.",
+      "example": [
+        {
+          "eng": "If it rains tomorrow, we will cancel the trip.",
+          "ch": "如果明天下雨，我們將取消行程。"
+        },
+        {
+          "eng": "I don't know if he will come to the meeting.",
+          "ch": "我不知道他是否會來開會。"
+        }
+      ]
+    },
+    {
+      "eng": "important",
+      "kk": "/ɪmˈpɔrtənt/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "重要的"
+        ],
+        [
+          "重大的"
+        ]
+      ],
+      "analysis": "此字源自中世紀拉丁語 importantem（源自動詞 importare，由 in-「入」+ portare「攜帶」組成，原意為「帶來重大意義或結果」），經由法語傳入英語。語意指具備價值、重大影響力或緊急性。",
+      "definition": "1. of great significance or value; 2. likely to have a serious effect.",
+      "example": [
+        {
+          "eng": "This is an important decision for our future.",
+          "ch": "這是我們未來的一項重要決定。"
+        }
+      ]
+    },
+    {
+      "eng": "in",
+      "kk": "/ɪn/",
+      "tense": "prep.",
+      "ch": [
+        [
+          "在…之內",
+          "於（時間／空間）"
+        ],
+        [
+          "以…方式（狀態）"
+        ]
+      ],
+      "analysis": "此字為繼承自古英語的 in，源自原始日耳曼語及印歐語根（與拉丁語 in 同源）。作為介詞，表示空間上的包含、時間上的期間，或狀態與工具的媒介。",
+      "definition": "1. expressing the situation of something that is enclosed or surrounded by something else; 2. expressing a period of time or a state/manner.",
+      "example": [
+        {
+          "eng": "The keys are in the drawer.",
+          "ch": "鑰匙在抽屜裡。"
+        },
+        {
+          "eng": "She spoke in a quiet voice.",
+          "ch": "她用輕柔的聲音說話。"
+        }
+      ]
+    },
+    {
+      "eng": "inch",
+      "kk": "/ɪntʃ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "英寸（長度單位）"
+        ]
+      ],
+      "analysis": "此字源自古英語 ynce，最終借自拉丁語 uncia（意為十二分之一，源自羅馬的長度或重量單位量度）。語意指英制長度單位「英寸」（一英尺的十二分之一）。",
+      "definition": "1. a unit of linear measure equal to one twelfth of a foot (2.54 centimeters).",
+      "example": [
+        {
+          "eng": "The rainfall was measured at two inches.",
+          "ch": "降雨量測得為兩英寸。"
+        }
+      ]
+    },
+    {
+      "eng": "insect",
+      "kk": "/ˈɪnsɛkt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "昆蟲"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 insectum（源自動詞 insectare「切割」，因昆蟲身體節段分明，翻譯自希臘語 ἔντομον entomon），經 16 世紀學術借用進入英語。語意專門指節肢動物門的「昆蟲」。",
+      "definition": "1. a small arthropod animal that has six legs and generally one or two pairs of wings.",
+      "example": [
+        {
+          "eng": "Butterflies and bees are common insects.",
+          "ch": "蝴蝶和蜜蜂是常見的昆蟲。"
+        }
+      ]
+    },
+    {
+      "eng": "inside",
+      "kk": "/ɪnˈsaɪd/",
+      "tense": "prep.",
+      "ch": [
+        [
+          "在…裡面"
+        ]
+      ],
+      "analysis": "此字為歷史透明複合詞，由 in（在…內）+ side（側、邊）結合而成。作介詞時表示位於某容器或範圍的內部。",
+      "definition": "1. situated or taking place within the interior of something.",
+      "example": [
+        {
+          "eng": "We waited inside the building during the storm.",
+          "ch": "暴風雨期間我們在建築物裡面等候。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="zh-Hant">
   <head>
     <meta charset="UTF-8" />
@@ -6,7 +6,7 @@
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon.png?v=20260722a" />
     <link rel="apple-touch-icon" sizes="192x192" href="/wordking-icon-192.png?v=20260722a" />
     <title>Words King | 練習</title>
-    <link rel="stylesheet" href="/styles.css?v=20260727a" />
+    <link rel="stylesheet" href="/styles.css?v=20260908b" />
   </head>
   <body data-page="practice">
     <div id="siteHeader"></div>
@@ -32,10 +32,31 @@
               <select id="practiceSource" aria-label="來源"></select>
             </label>
 
-            <label class="input-group">
-              題義範圍
-              <select id="meaningScope"></select>
-            </label>
+            <div class="input-group practice-scope-control">
+              <span class="practice-scope-label">單字範圍</span>
+              <div id="practiceScopeSwitch" class="practice-scope-switch" role="group" aria-label="練習單字範圍">
+                <button
+                  type="button"
+                  id="practiceScopeAllBtn"
+                  class="practice-scope-option is-active"
+                  data-scope="all"
+                  aria-pressed="true"
+                >
+                  全部單字
+                </button>
+                <button
+                  type="button"
+                  id="practiceScopeStarredBtn"
+                  class="practice-scope-option"
+                  data-scope="starred"
+                  aria-pressed="false"
+                >
+                  <span class="scope-option-icon">⭐</span>
+                  <span>僅標記單字</span>
+                </button>
+              </div>
+              <input type="checkbox" id="practiceStarredOnly" style="display: none;" />
+            </div>
 
             <div id="unitSelectorContainer" class="custom-unit-selector">
               <p class="small-text muted">單元</p>
@@ -116,7 +137,7 @@
               <div class="practice-start-row">
                 <label class="input-group">
                   題數
-                  <input type="number" id="practiceLimit" value="20" min="10" step="1" />
+                  <input type="number" id="practiceLimit" value="20" min="10" max="5000" step="1" />
                 </label>
                 <button id="loadPracticeBtn" type="button">開始一般練習</button>
               </div>
@@ -139,7 +160,7 @@
               <div class="practice-start-row">
                 <label class="input-group">
                   題數
-                  <input type="number" id="clozeLimit" value="10" min="1" step="1" />
+                  <input type="number" id="clozeLimit" value="10" min="1" max="5000" step="1" />
                 </label>
                 <button id="loadClozeBtn" type="button">開始克漏字</button>
               </div>
@@ -152,7 +173,7 @@
       <section id="practiceArea" class="card empty practice-stage"></section>
     </main>
     <div id="messageBar" class="message-bar"></div>
-    <script src="/shared.js?v=20260722e"></script>
-    <script src="/practice-page.js?v=20260727d"></script>
+    <script src="/shared.js?v=20260909a"></script>
+    <script src="/practice-page.js?v=20260908b"></script>
   </body>
 </html>

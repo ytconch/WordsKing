@@ -1,0 +1,1640 @@
+{
+  "level": 2,
+  "chunkIndex": 19,
+  "inputs": [
+    "succeed",
+    "success",
+    "such",
+    "sudden",
+    "suggest",
+    "suit",
+    "suitable",
+    "super",
+    "supper",
+    "supply",
+    "support",
+    "suppose",
+    "surf",
+    "surface",
+    "survival",
+    "survive",
+    "swallow",
+    "sweater",
+    "sweep",
+    "swim",
+    "swimsuit",
+    "swing",
+    "switch",
+    "symbol",
+    "system",
+    "tale",
+    "target",
+    "task",
+    "tax",
+    "teapot",
+    "tear",
+    "technology",
+    "teens",
+    "temperature",
+    "term",
+    "terrorism",
+    "terrorist",
+    "text",
+    "textbook",
+    "therefore",
+    "thief",
+    "thirsty",
+    "thought",
+    "throughout",
+    "thunder",
+    "thus",
+    "till",
+    "tiny",
+    "tire",
+    "tissue"
+  ],
+  "rows": [
+    {
+      "eng": "succeed",
+      "kk": "səkˈsid",
+      "tense": "vt.",
+      "ch": [
+        [
+          "繼承",
+          "接替"
+        ],
+        [
+          "接續",
+          "隨後發生"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由拉丁語字首 sub-（在...下面、隨後）的同化形式 suc- 結合 cedere（走、行進）演變而來。作為及物動詞時，保留了拉丁語「緊隨其後、接替」的歷史核心義，現代主要用於繼承王位、職位或在時間上接續某事。",
+      "definition": "1. to follow and take the place of someone in an office, position, or title; 2. to come next after another in time or order.",
+      "example": [
+        {
+          "eng": "Prince Charles succeeded his mother to the throne.",
+          "ch": "查理王子繼承了他母親的王位。"
+        },
+        {
+          "eng": "Winter succeeds autumn.",
+          "ch": "冬天繼隨秋天之後。"
+        }
+      ]
+    },
+    {
+      "eng": "succeed",
+      "kk": "səkˈsid",
+      "tense": "vi.",
+      "ch": [
+        [
+          "成功",
+          "達成目標"
+        ],
+        [
+          "接替",
+          "繼任"
+        ]
+      ],
+      "analysis": "源自拉丁語 succedere（從下方走上來、緊隨、成功）。不及物動詞的最常見用法是「獲得成功」，其語意演變由「緊隨某人之後取得位置」延伸為「在事業或競爭中達到目標、獲得好結果」；亦可作「接替」。",
+      "definition": "1. to achieve the desired aim, result, or outcome; 2. to take over a position, title, or role after someone else.",
+      "example": [
+        {
+          "eng": "If you work hard, you will surely succeed.",
+          "ch": "如果你努力工作，你一定會成功。"
+        },
+        {
+          "eng": "He succeeded to the family business after his father retired.",
+          "ch": "他父親退休後，他接手了家族企業。"
+        }
+      ]
+    },
+    {
+      "eng": "success",
+      "kk": "səkˈsɛs",
+      "tense": "n.",
+      "ch": [
+        [
+          "成功",
+          "成就"
+        ],
+        [
+          "成功的人或事物"
+        ]
+      ],
+      "analysis": "為 succeed 的名詞形式，源自拉丁語 successus（進展、結果、成功）。結構上由 suc-（sub- 的同化）結合 cedere（走、行進）的過去分詞詞幹衍生而來，表示「事情順利走下去的結果」。",
+      "definition": "1. the accomplishment of an aim or purpose; 2. a person or thing that achieves desired goals or widespread recognition.",
+      "example": [
+        {
+          "eng": "Hard work is the key to success.",
+          "ch": "努力工作是成功的關鍵。"
+        },
+        {
+          "eng": "The new restaurant was an overnight success.",
+          "ch": "這家新餐廳一夕之間獲得巨大成功。"
+        }
+      ]
+    },
+    {
+      "eng": "such",
+      "kk": "sʌtʃ",
+      "tense": "adj.",
+      "ch": [
+        [
+          "這樣的",
+          "如此的"
+        ],
+        [
+          "某個特定的",
+          "上述的"
+        ]
+      ],
+      "analysis": "源自古英語 swylc，由 swā（如此、這樣）與 līc（相似的、如...的）複合而成，屬於日耳曼語繼承詞。在現代英語中作為限定形容詞或代詞，用來修飾名詞或指代前文提過的人事物。",
+      "definition": "1. of the type or degree previously mentioned or implied; 2. of this or that kind; similar.",
+      "example": [
+        {
+          "eng": "I have never seen such a beautiful sunset.",
+          "ch": "我從未見過如此美麗的日落。"
+        },
+        {
+          "eng": "Such behavior is completely unacceptable.",
+          "ch": "這樣的行為是完全無法接受的。"
+        }
+      ]
+    },
+    {
+      "eng": "sudden",
+      "kk": "ˈsʌdən",
+      "tense": "adj.",
+      "ch": [
+        [
+          "突然的",
+          "意外的"
+        ]
+      ],
+      "analysis": "源自中古英語 soden，經由古法語 sotain（源自拉丁語 subitānus，意為「突然的、出其不意的」），其核心根源為拉丁語 subitus（突然的、隱祕發生的）。現代主要用來形容毫無預警、出乎意料的動作或情況。",
+      "definition": "1. happening or coming quickly and without warning.",
+      "example": [
+        {
+          "eng": "There was a sudden change in the weather.",
+          "ch": "天氣突然發生了變化。"
+        }
+      ]
+    },
+    {
+      "eng": "suggest",
+      "kk": "səɡˈdʒɛst",
+      "tense": "vt.",
+      "ch": [
+        [
+          "建議",
+          "提議"
+        ],
+        [
+          "暗示",
+          "表明"
+        ]
+      ],
+      "analysis": "源自拉丁語 suggerere（由下方帶上來、提供、暗示），由 sub-（在...下方）與 gerere（帶、攜帶、執行）組合而成。英語借入後語意演變為「將想法從下方或暗中帶出」，延伸出「提出建議」與「間接表明或暗示」兩個核心義。",
+      "definition": "1. to put forward an idea or plan for consideration; 2. to state or express indirectly; to imply.",
+      "example": [
+        {
+          "eng": "I suggest that we start the meeting early.",
+          "ch": "我建議我們早點開始開會。"
+        },
+        {
+          "eng": "Her expression suggested that she was not happy.",
+          "ch": "她的表情暗示她很不開心。"
+        }
+      ]
+    },
+    {
+      "eng": "suit",
+      "kk": "sut",
+      "tense": "n.",
+      "ch": [
+        [
+          "套裝",
+          "西裝"
+        ],
+        [
+          "訴訟",
+          "控告"
+        ]
+      ],
+      "analysis": "源自古英語時期透過中古英語與古法語 suite（追隨、隨從、一套衣服），其拉丁語源為 secta（追隨、訴訟），衍生自 sequi（跟隨）。字義由「隨行、相配的一套」演變出「一套西裝」與法律上的「訴訟案」兩大語義。",
+      "definition": "1. a set of clothes made of the same fabric, typically consisting of a jacket and trousers or a skirt; 2. a legal proceeding brought by one person against another.",
+      "example": [
+        {
+          "eng": "He wore a dark suit and a tie to the interview.",
+          "ch": "他穿著深色西裝和領帶去面試。"
+        },
+        {
+          "eng": "The company filed a lawsuit against its competitor.",
+          "ch": "這家公司對其競爭對手提起訴訟。"
+        }
+      ]
+    },
+    {
+      "eng": "suit",
+      "kk": "sut",
+      "tense": "vt.",
+      "ch": [
+        [
+          "適合",
+          "相配"
+        ],
+        [
+          "對...方便",
+          "使滿意"
+        ]
+      ],
+      "analysis": "動詞用法與名詞同源，源自古法語 suire（追隨、適合），拉丁語 sequi（跟隨）。語義由「緊隨、跟隨某人的需求」演變為「合身、相配」以及「迎合某人的時間或心意」。",
+      "definition": "1. to be right or convenient for someone; to fit well; 2. to satisfy the needs or preferences of someone.",
+      "example": [
+        {
+          "eng": "The new hairstyle really suits her.",
+          "ch": "這個新髮型真的很適合她。"
+        },
+        {
+          "eng": "Does this time suit you for our meeting?",
+          "ch": "這個時間開會對你合適嗎？"
+        }
+      ]
+    },
+    {
+      "eng": "suitable",
+      "kk": "ˈsutəbəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "合適的",
+          "適當的"
+        ]
+      ],
+      "analysis": "由動詞 suit 結合形容詞字尾 -able（可...的、具備能力的）構成的現代透明構詞。字面意思是「能夠合適的、適宜的」，用來描述某事物符合特定條件、目的或場合。",
+      "definition": "1. right or appropriate for a particular person, purpose, or situation.",
+      "example": [
+        {
+          "eng": "This film is not suitable for young children.",
+          "ch": "這部電影不適合小孩子觀看。"
+        }
+      ]
+    },
+    {
+      "eng": "super",
+      "kk": "ˈsupɚ",
+      "tense": "adj.",
+      "ch": [
+        [
+          "超級的",
+          "極佳的"
+        ]
+      ],
+      "analysis": "源自拉丁語字首 super（在...上方、超過、極度），在現代英語中獨立發展為形容詞，表示超出一般水準、極其優秀或規模宏大的意思。",
+      "definition": "1. excellent; of high quality or grade.",
+      "example": [
+        {
+          "eng": "We had a super time at the party last night.",
+          "ch": "我們昨晚在派對上玩得非常開心。"
+        }
+      ]
+    },
+    {
+      "eng": "supper",
+      "kk": "ˈsʌpɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "晚餐",
+          "夜宵"
+        ]
+      ],
+      "analysis": "源自中古英語 souper，經由古法語 souper（源自日耳曼語源，與 soupa 湯有關）。在歷史上原本指傍晚食用的清淡湯品或晚間正餐，現代多指晚餐或較晚的簡便夜宵。",
+      "definition": "1. an evening meal, typically a light or informal one eaten before bedtime.",
+      "example": [
+        {
+          "eng": "We had soup and bread for supper.",
+          "ch": "我們晚餐吃了湯和麵包。"
+        }
+      ]
+    },
+    {
+      "eng": "supply",
+      "kk": "səˈplaɪ",
+      "tense": "n.",
+      "ch": [
+        [
+          "供應",
+          "供給"
+        ],
+        [
+          "供應品",
+          "庫存物"
+        ]
+      ],
+      "analysis": "源自中古英語 supleie，經由古法語 soupleer，源自拉丁語 supplere（填滿、補足），由 sub-（在...下面、加強）與 plere（填滿）複合而成。名詞表示供應的行為或儲備的物資。",
+      "definition": "1. the act of providing goods, services, or essentials; 2. an amount of something available for use; stock.",
+      "example": [
+        {
+          "eng": "The school has a limited supply of textbooks.",
+          "ch": "這所學校的教科書供應量有限。"
+        },
+        {
+          "eng": "We need to stock up on medical supplies.",
+          "ch": "我們需要囤積醫療物資。"
+        }
+      ]
+    },
+    {
+      "eng": "supply",
+      "kk": "səˈplaɪ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "供應",
+          "供給",
+          "提供"
+        ]
+      ],
+      "analysis": "動詞用法直接繼承自拉丁語 supplere（填滿、補足），表示將缺乏之處填滿、向他人提供所需物資或服務。",
+      "definition": "1. to provide something that is needed or wanted.",
+      "example": [
+        {
+          "eng": "The local river supplies water to the entire city.",
+          "ch": "當地河流為整個城市供應水資源。"
+        }
+      ]
+    },
+    {
+      "eng": "support",
+      "kk": "səˈpɔrt",
+      "tense": "n.",
+      "ch": [
+        [
+          "支持",
+          "贊助"
+        ],
+        [
+          "支柱",
+          "支撐物"
+        ]
+      ],
+      "analysis": "源自中古英語 supporten，經由古法語 supporter，源自拉丁語 supportare（攜帶至下方、承受、支撐），由 sub-（在...下方）與 portare（攜帶）組成。名詞表達心理上的支持或物理上的支撐結構。",
+      "definition": "1. approval, encouragement, or help given to someone or something; 2. a physical structure that holds the weight of something.",
+      "example": [
+        {
+          "eng": "Thank you for your continuous support.",
+          "ch": "謝謝你持續不斷的支持。"
+        },
+        {
+          "eng": "The bridge needs extra steel supports.",
+          "ch": "這座橋需要額外的鋼鐵支撐。"
+        }
+      ]
+    },
+    {
+      "eng": "support",
+      "kk": "səˈpɔrt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "支持",
+          "贊助"
+        ],
+        [
+          "支撐",
+          "承受（重量）"
+        ],
+        [
+          "撫養",
+          "養活"
+        ]
+      ],
+      "analysis": "源自拉丁語 supportare（在下方承載），及物動詞保留了物理上的「承受重量」、經濟上的「負擔家計／養活」以及抽象的「支持、擁護」等多重語義。",
+      "definition": "1. to agree with and give encouragement or help to a person, cause, or policy; 2. to bear the weight of an object or structure; 3. to provide enough money to feed and clothe a family.",
+      "example": [
+        {
+          "eng": "Most fans support the local football team.",
+          "ch": "大多數球迷都支持當地足球隊。"
+        },
+        {
+          "eng": "The thick walls support the heavy roof.",
+          "ch": "厚重的牆壁支撐著沈重的屋頂。"
+        },
+        {
+          "eng": "He works two jobs to support his family.",
+          "ch": "他身兼兩職來養家糊口。"
+        }
+      ]
+    },
+    {
+      "eng": "suppose",
+      "kk": "səˈpoz",
+      "tense": "vt.",
+      "ch": [
+        [
+          "猜想",
+          "推測",
+          "以為"
+        ],
+        [
+          "假定",
+          "假設"
+        ]
+      ],
+      "analysis": "源自中古英語 supposen，經由古法語 supposer，源自拉丁語 supponere（置於下方、作為基礎、假定），由 sub-（在...下面）與 ponere（放置）複合而成。語意演變為「在心裡將某事作為假設或前提」。",
+      "definition": "1. to think or believe that something is true or probable; 2. to assume something as a hypothesis or basis for argument.",
+      "example": [
+        {
+          "eng": "I suppose you are right about the traffic.",
+          "ch": "我想你對交通狀況的看法是對的。"
+        },
+        {
+          "eng": "Suppose we miss the train, what should we do?",
+          "ch": "假設我們錯過了火車，該怎麼辦？"
+        }
+      ]
+    },
+    {
+      "eng": "surf",
+      "kk": "sɝf",
+      "tense": "n.",
+      "ch": [
+        [
+          "海浪",
+          "拍岸浪"
+        ]
+      ],
+      "analysis": "起源於17世紀的航海英語，可能與早期印度或波斯語源有關（如源自印地語 safēd 白色的），指衝擊海岸時泛起的白沫與海浪。在現代也衍生出網路衝浪（surf the internet）的用法。",
+      "definition": "1. the mass of foamy water formed as waves break upon the shore.",
+      "example": [
+        {
+          "eng": "We could hear the sound of the surf from our hotel room.",
+          "ch": "從我們的飯店房間裡可以聽到海浪拍岸的聲音。"
+        }
+      ]
+    },
+    {
+      "eng": "surf",
+      "kk": "sɝf",
+      "tense": "vi.",
+      "ch": [
+        [
+          "衝浪"
+        ],
+        [
+          "瀏覽（網站）"
+        ]
+      ],
+      "analysis": "由名詞 surf 轉品而來的動詞。最初指在海浪上進行衝浪運動，1990年代網際網路興起後，由「在海浪上滑行」借喻為「在資訊網頁中快速瀏覽、跳躍」。",
+      "definition": "1. to ride on waves using a surfboard; 2. to browse casually through various websites or channels.",
+      "example": [
+        {
+          "eng": "He loves to surf in Hawaii during the summer.",
+          "ch": "他喜歡在夏天去夏威夷衝浪。"
+        },
+        {
+          "eng": "She spent hours surfing the web for information.",
+          "ch": "她花了好幾個小時在網上瀏覽資料。"
+        }
+      ]
+    },
+    {
+      "eng": "surface",
+      "kk": "ˈsɝfɪs",
+      "tense": "n.",
+      "ch": [
+        [
+          "表面",
+          "面"
+        ],
+        [
+          "外表",
+          "假象"
+        ]
+      ],
+      "analysis": "源自法語 surface，由拉丁語 super（在上方）與 facies（臉、面貌、外表）複合而成。字面意思是「最高的外層面」，既可用於物理空間的表面，也可用於抽象的外在表現或表面現象。",
+      "definition": "1. the outside part or uppermost layer of something; 2. the outer appearance of a person or situation rather than its inner nature.",
+      "example": [
+        {
+          "eng": "Oil floats on the surface of water.",
+          "ch": "油浮在水面上。"
+        },
+        {
+          "eng": "Beneath a calm surface, he was very nervous.",
+          "ch": "在平靜的外表下，他其實非常緊張。"
+        }
+      ]
+    },
+    {
+      "eng": "survival",
+      "kk": "sɚˈvaɪvəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "生存",
+          "存活"
+        ],
+        [
+          "殘存物",
+          "遺風"
+        ]
+      ],
+      "analysis": "由動詞 survive 結合名詞字尾 -al 構成的現代透明構詞。指持續活著、度過危機的狀態，或歷史上流傳至今的古老習俗或物件。",
+      "definition": "1. the state or fact of continuing to live or exist, especially in spite of difficult conditions; 2. a custom, practice, or object that has survived from earlier times.",
+      "example": [
+        {
+          "eng": "Food and clean water are essential for survival.",
+          "ch": "食物和乾淨的水是生存的必需品。"
+        },
+        {
+          "eng": "This tradition is a survival of ancient pagan rituals.",
+          "ch": "這個傳統是古代異教儀式的遺風。"
+        }
+      ]
+    },
+    {
+      "eng": "survive",
+      "kk": "sɚˈvaɪv",
+      "tense": "vt.",
+      "ch": [
+        [
+          "在...之後仍然存活",
+          "挺過（災難等）"
+        ],
+        [
+          "比...活得長"
+        ]
+      ],
+      "analysis": "源自中古英語 surviven，經由古法語 survivre，源自拉丁語 supervivere，由 super（在上方、超過）與 vivere（活著）複合而成。及物動詞表示在危險、災難或競爭中撐過，或壽命長於他人。",
+      "definition": "1. to continue to live or exist after a dangerous event, accident, or illness; 2. to live longer than another person.",
+      "example": [
+        {
+          "eng": "Only a few passengers survived the crash.",
+          "ch": "只有少數乘客在墜機事故中倖存。"
+        },
+        {
+          "eng": "She survived her husband by ten years.",
+          "ch": "她比她丈夫多活了十年。"
+        }
+      ]
+    },
+    {
+      "eng": "survive",
+      "kk": "sɚˈvaɪv",
+      "tense": "vi.",
+      "ch": [
+        [
+          "存活",
+          "活下來"
+        ]
+      ],
+      "analysis": "不及物動詞用法，指在惡劣環境或艱難困境中維持生命、繼續存在。",
+      "definition": "1. to remain alive or continue to exist under difficult or adverse conditions.",
+      "example": [
+        {
+          "eng": "Few animals can survive in the desert without water.",
+          "ch": "沒有水，很少動物能在沙漠中存活。"
+        }
+      ]
+    },
+    {
+      "eng": "swallow",
+      "kk": "ˈswɑloʊ",
+      "tense": "n.",
+      "ch": [
+        [
+          "燕子"
+        ]
+      ],
+      "analysis": "源自古英語 swalwe，屬於日耳曼語族繼承詞（與荷蘭語 zwaluw、德語 Schwalbe 同源）。專指一種具有分叉尾羽、善於飛翔的候鳥「燕子」。",
+      "definition": "1. a small migratory bird with a fork-shaped tail and pointed wings, known for catching insects in flight.",
+      "example": [
+        {
+          "eng": "One swallow does not make a summer.",
+          "ch": "一隻燕子飛不來夏天（孤證不立）。"
+        }
+      ]
+    },
+    {
+      "eng": "swallow",
+      "kk": "ˈswɑloʊ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "吞下",
+          "嚥下"
+        ],
+        [
+          "輕信",
+          "盲目接受"
+        ],
+        [
+          "忍受",
+          "吞聲吐氣"
+        ]
+      ],
+      "analysis": "源自古英語 swelgan（吞嚥、吸收），與鳥名 swallow 同形異源。語義由物理上的「將食物經由食道嚥入胃中」，延伸出「盲目相信謊言」以及「強行壓抑情緒、忍氣吞聲」。",
+      "definition": "1. to cause food, drink, or other substances to move from the mouth down into the stomach; 2. to accept or believe something uncritically; 3. to suppress or restrain an emotion.",
+      "example": [
+        {
+          "eng": "Remember to chew your food well before you swallow it.",
+          "ch": "吞嚥食物前記得先充分咀嚼。"
+        },
+        {
+          "eng": "He was gullible enough to swallow the whole story.",
+          "ch": "他太輕信了，竟然把整個故事都信以為真。"
+        },
+        {
+          "eng": "She had to swallow her pride and apologize.",
+          "ch": "她不得不放下自尊道歉。"
+        }
+      ]
+    },
+    {
+      "eng": "sweater",
+      "kk": "ˈswɛtɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "毛衣",
+          "針織衫"
+        ]
+      ],
+      "analysis": "由動詞 sweat（流汗）加上表「人或物」的名詞字尾 -er 構成。原本在19世紀末指一種用來促進發汗、減肥的厚重厚衣物，後演變成泛指各種保暖的針織毛衣。",
+      "definition": "1. a knitted or crocheted garment worn on the upper body, typically with long sleeves.",
+      "example": [
+        {
+          "eng": "She wore a warm wool sweater on the chilly morning.",
+          "ch": "她在寒冷的早晨穿了一件保暖的羊毛毛衣。"
+        }
+      ]
+    },
+    {
+      "eng": "sweep",
+      "kk": "swip",
+      "tense": "vt.",
+      "ch": [
+        [
+          "打掃",
+          "清掃"
+        ],
+        [
+          "橫掃",
+          "迅速掠過"
+        ]
+      ],
+      "analysis": "源自古英語 swāpan（揮動、掃過、移動），屬於日耳曼語繼承詞。其歷史核心義為「用刷子或掃帚快速清理表面」，引申出風或浪潮「迅速席捲、橫掃」的動作。",
+      "definition": "1. to clean a floor or surface by using a broom or brush; 2. to move swiftly and forcefully across an area.",
+      "example": [
+        {
+          "eng": "Please sweep the kitchen floor after dinner.",
+          "ch": "請在晚飯後打掃廚房地板。"
+        },
+        {
+          "eng": "A fierce storm swept the coastal region.",
+          "ch": "一場猛烈的暴風雨橫掃了沿海地區。"
+        }
+      ]
+    },
+    {
+      "eng": "sweep",
+      "kk": "swip",
+      "tense": "vi.",
+      "ch": [
+        [
+          "清掃"
+        ],
+        [
+          "迅速掠過",
+          "席捲而過"
+        ]
+      ],
+      "analysis": "不及物動詞用法，表示進行打掃動作，或指風、氣流、視線等快速而優雅地掠過、移動。",
+      "definition": "1. to clean surfaces with a broom; 2. to move smoothly and swiftly.",
+      "example": [
+        {
+          "eng": "She helped to sweep around the living room.",
+          "ch": "她幫忙清理客廳周圍。"
+        },
+        {
+          "eng": "The wind swept through the empty streets.",
+          "ch": "強風呼嘯著掠過空無一人的街道。"
+        }
+      ]
+    },
+    {
+      "eng": "swim",
+      "kk": "swɪm",
+      "tense": "vt.",
+      "ch": [
+        [
+          "游過（水域）"
+        ]
+      ],
+      "analysis": "源自古英語 swimman 的及物延伸用法，指以游泳的方式橫渡或通過某個水域。",
+      "definition": "1. to cross a body of water by swimming.",
+      "example": [
+        {
+          "eng": "He managed to swim the river despite the strong current.",
+          "ch": "儘管水流湍急，他還是設法游過了這條河。"
+        }
+      ]
+    },
+    {
+      "eng": "swim",
+      "kk": "swɪm",
+      "tense": "vi.",
+      "ch": [
+        [
+          "游泳"
+        ],
+        [
+          "載浮載沉",
+          "旋轉眩暈"
+        ]
+      ],
+      "analysis": "源自古英語 swimman（漂浮、游泳），屬於日耳曼語繼承詞（與荷蘭語 zwemmen、德語 schwimmen 同源）。核心義為藉由肢體動作在水中前進，引申指頭腦昏沉、感到天旋地轉。",
+      "definition": "1. to propel the body through water by using the limbs; 2. to experience a whirling sensation in the head; to feel dizzy.",
+      "example": [
+        {
+          "eng": "The children love to swim in the pool during summer.",
+          "ch": "孩子們夏天喜歡在泳池裡游泳。"
+        },
+        {
+          "eng": "After the long boat ride, his head began to swim.",
+          "ch": "坐了長途船後，他開始感到頭暈目眩。"
+        }
+      ]
+    },
+    {
+      "eng": "swimsuit",
+      "kk": "ˈswɪmˌsut",
+      "tense": "n.",
+      "ch": [
+        [
+          "泳裝",
+          "游泳衣"
+        ]
+      ],
+      "analysis": "現代複合詞，由 swim（游泳）與 suit（套裝、衣服）組合而成，指專門用於游泳活動的服裝。",
+      "definition": "1. an article of clothing worn for swimming.",
+      "example": [
+        {
+          "eng": "She packed her favorite swimsuit for the beach trip.",
+          "ch": "她為海灘之旅打包了她最喜歡的泳衣。"
+        }
+      ]
+    },
+    {
+      "eng": "swing",
+      "kk": "swɪŋ",
+      "tense": "n.",
+      "ch": [
+        [
+          "鞦韆"
+        ],
+        [
+          "擺動",
+          "搖晃"
+        ]
+      ],
+      "analysis": "由動詞 swing 轉品而來的名詞，指供人坐在上面前後搖晃的遊樂設施「鞦韆」，或指動作的擺動幅度。",
+      "definition": "1. a hanging seat on which someone may sit and swing back and forth for recreation; 2. an act of swaying or moving back and forth.",
+      "example": [
+        {
+          "eng": "The little girl is playing on the garden swing.",
+          "ch": "小女孩正在花園的鞦韆上玩耍。"
+        },
+        {
+          "eng": "With a quick swing of his arm, he threw the ball.",
+          "ch": "他手臂迅猛一揮，把球投了出去。"
+        }
+      ]
+    },
+    {
+      "eng": "swing",
+      "kk": "swɪŋ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "揮舞",
+          "甩動"
+        ],
+        [
+          "使懸掛擺動"
+        ]
+      ],
+      "analysis": "及物動詞用法，保留古英語中「手持物體用力揮動、甩動」或「使懸掛物體搖晃」的動作。",
+      "definition": "1. to move or wave something back and forth or in a curve; 2. to cause a suspended object to sway.",
+      "example": [
+        {
+          "eng": "The batter swung the bat with all his might.",
+          "ch": "打擊手竭盡全力揮舞球棒。"
+        },
+        {
+          "eng": "The children took turns to swing their legs.",
+          "ch": "孩子們輪流晃動他們的雙腿。"
+        }
+      ]
+    },
+    {
+      "eng": "swing",
+      "kk": "swɪŋ",
+      "tense": "vi.",
+      "ch": [
+        [
+          "擺動",
+          "搖晃"
+        ],
+        [
+          "轉向",
+          "迴轉"
+        ]
+      ],
+      "analysis": "源自古英語 swingan（揮舞、鞭打、擺動），屬於日耳曼語繼承詞。其語義由「懸掛並來回擺動」引申為方向的突然轉變或漫步而行。",
+      "definition": "1. to move or cause to move back and forth or from side to side while suspended; 2. to change direction suddenly.",
+      "example": [
+        {
+          "eng": "The pendulum began to swing back and forth.",
+          "ch": "鐘擺開始來回擺動。"
+        },
+        {
+          "eng": "The car swung around the sharp corner.",
+          "ch": "汽車急轉彎繞過了急轉角。"
+        }
+      ]
+    },
+    {
+      "eng": "switch",
+      "kk": "swɪtʃ",
+      "tense": "n.",
+      "ch": [
+        [
+          "開關",
+          "電閘"
+        ],
+        [
+          "轉變",
+          "改變"
+        ]
+      ],
+      "analysis": "源自中古英語 swiche（細枝、鞭子），可能源自低地德語或日耳曼語族。原意指柔韌的樹枝或鞭子，後因「抽打、轉向」的動作引申出鐵路道岔、電器「開關」以及意見或做法的「突變、轉換」。",
+      "definition": "1. a device for turning an electrical current on and off or directing it; 2. a sudden change from one thing to another.",
+      "example": [
+        {
+          "eng": "Turn off the light switch before leaving the room.",
+          "ch": "離開房間前把電燈開關關掉。"
+        },
+        {
+          "eng": "Making a career switch can be challenging.",
+          "ch": "轉換職涯可能會充滿挑戰。"
+        }
+      ]
+    },
+    {
+      "eng": "switch",
+      "kk": "swɪtʃ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "轉換",
+          "切換"
+        ],
+        [
+          "打開或關閉（開關）"
+        ]
+      ],
+      "analysis": "動詞用法由名詞或其動作引申而來，表示將狀態、頻道或物件進行替換，或操作開關來控制電源。",
+      "definition": "1. to change from one thing to another; 2. to turn an electrical device on or off using a switch.",
+      "example": [
+        {
+          "eng": "Can we switch channels to watch the news?",
+          "ch": "我們可以切換頻道看新聞嗎？"
+        },
+        {
+          "eng": "Please switch on the computer.",
+          "ch": "請打開電腦。"
+        }
+      ]
+    },
+    {
+      "eng": "symbol",
+      "kk": "ˈsɪmbəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "符號",
+          "標誌"
+        ],
+        [
+          "象徵"
+        ]
+      ],
+      "analysis": "源自拉丁語 symbolum（信物、標誌、符號），借自古希臘語 σύμβολον（symbolon，由 syn- 一起與 ballein 拋、投組成，字面意為「把兩半拼合在一起的辨識信物」）。語義演變為代表某種意義、概念或物件的圖形、記號或象徵。",
+      "definition": "1. a mark or character used as a conventional representation of an object, function, or process; 2. a person, object, or event that represents a larger abstract idea.",
+      "example": [
+        {
+          "eng": "The dove is a universal symbol of peace.",
+          "ch": "鴿子是普遍的和平象徵。"
+        },
+        {
+          "eng": "Mathematical symbols can be difficult to memorize.",
+          "ch": "數學符號可能很難記住。"
+        }
+      ]
+    },
+    {
+      "eng": "system",
+      "kk": "ˈsɪstəm",
+      "tense": "n.",
+      "ch": [
+        [
+          "系統",
+          "體制"
+        ],
+        [
+          "方法",
+          "制度"
+        ]
+      ],
+      "analysis": "源自近代拉丁語 systema，借自古希臘語 σύστημα（systēma，由 syn- 一起與 histanai 使站立、組合而成，意為「組合起來的整體、組織」）。指由多個互相作用的元素組成、具備特定功能的有組織體系或規章制度。",
+      "definition": "1. a set of connected things or parts forming a complex whole; 2. a set of principles or procedures according to which something is done.",
+      "example": [
+        {
+          "eng": "The solar system consists of the sun and eight planets.",
+          "ch": "太陽系由太陽和八大行星組成。"
+        },
+        {
+          "eng": "We need a better filing system for our office.",
+          "ch": "我們的辦公室需要一個更好的檔案管理系統。"
+        }
+      ]
+    },
+    {
+      "eng": "tale",
+      "kk": "tel",
+      "tense": "n.",
+      "ch": [
+        [
+          "故事",
+          "傳說"
+        ],
+        [
+          "謊言",
+          "流言"
+        ]
+      ],
+      "analysis": "源自古英語 talu（計算、編排、話語、故事），屬於日耳曼語族繼承詞（與德語 Zahl 數字同源）。歷史基礎義為「按順序清單或列舉的事項」，演變為講述一連串事件的「故事、傳說」或虛構的「流言蜚語」。",
+      "definition": "1. a narrative or story, true or fictitious; 2. a rumor, gossip, or fabricated account.",
+      "example": [
+        {
+          "eng": "Grandfather told the children a magical fairy tale.",
+          "ch": "爺爺給孩子們講了一個神奇的童話故事。"
+        },
+        {
+          "eng": "Do not listen to his wild tales about treasure.",
+          "ch": "不要聽信他那些關於寶藏的荒誕傳聞。"
+        }
+      ]
+    },
+    {
+      "eng": "target",
+      "kk": "ˈtɑrɡɪt",
+      "tense": "n.",
+      "ch": [
+        [
+          "目標",
+          "指標"
+        ],
+        [
+          "靶子",
+          "攻擊對象"
+        ]
+      ],
+      "analysis": "源自中古英語 targe（小盾牌），為古法語 targe 的縮小詞（后缀 -et）。原本指用於防禦的圓形小盾牌，因為圓形盾牌上有標靶樣式的中心，後於18世紀引申出射擊的「靶子」，再進一步抽象化為計畫或追求的「目標、指標」。",
+      "definition": "1. a person, object, or place selected as the aim of an attack; 2. a result or level that you intend to achieve; a goal.",
+      "example": [
+        {
+          "eng": "The archer hit the center of the target with precision.",
+          "ch": "弓箭手精準地擊中了靶心。"
+        },
+        {
+          "eng": "We need to reach our sales target by the end of the month.",
+          "ch": "我們需要在月底前達到銷售目標。"
+        }
+      ]
+    },
+    {
+      "eng": "target",
+      "kk": "ˈtɑrɡɪt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "把...作為目標",
+          "瞄準"
+        ],
+        [
+          "針對"
+        ]
+      ],
+      "analysis": "由名詞 target 轉品而成的及物動詞，意指將火力、精力或行銷策略集中指向某個特定的對象或目標市場。",
+      "definition": "1. to direct an attack, object, or plan at a particular person or group; 2. to aim at.",
+      "example": [
+        {
+          "eng": "The new advertising campaign is targeted at teenagers.",
+          "ch": "這項新的廣告活動是針對青少年的。"
+        }
+      ]
+    },
+    {
+      "eng": "task",
+      "kk": "tæsk",
+      "tense": "n.",
+      "ch": [
+        [
+          "任務",
+          "工作",
+          "作業"
+        ]
+      ],
+      "analysis": "源自中古英語 taske，經由古法語 tasque（源自拉丁語 taxa，意為「評定、稅額、工作量」），與 tax 同源。最初指被指派的一定工作量或評定任務，後泛指各類需要完成的工作或作業。",
+      "definition": "1. a piece of work assigned or expected to be done.",
+      "example": [
+        {
+          "eng": "Cleaning the entire house is a difficult task.",
+          "ch": "打掃整棟房子是一項艱鉅的任務。"
+        }
+      ]
+    },
+    {
+      "eng": "tax",
+      "kk": "tæks",
+      "tense": "n.",
+      "ch": [
+        [
+          "稅",
+          "稅金"
+        ]
+      ],
+      "analysis": "源自中古英語 taxen，源自拉丁語 taxare（估價、評定、責難），與 task 同源。核心義為政府依法對人民或企業的收入、財產、消費徵收的法定金錢。",
+      "definition": "1. a compulsory contribution to state revenue levied by the government on workers' income and business profits or added to the cost of some goods.",
+      "example": [
+        {
+          "eng": "Everyone is required to pay income tax.",
+          "ch": "每個人都必須繳納所得稅。"
+        }
+      ]
+    },
+    {
+      "eng": "tax",
+      "kk": "tæks",
+      "tense": "vt.",
+      "ch": [
+        [
+          "對...課稅",
+          "徵稅"
+        ],
+        [
+          "使負重擔",
+          "使竭盡全力"
+        ]
+      ],
+      "analysis": "動詞用法保留拉丁語 taxare 的評定與負擔之意，除了解作「向...徵稅」外，也引申出對人的耐力、記憶力或財力造成沉重負荷、使之疲憊。",
+      "definition": "1. to impose a tax on goods, income, or transactions; 2. to place a heavy demand on someone's resources, strength, or patience.",
+      "example": [
+        {
+          "eng": "The government plans to tax luxury goods.",
+          "ch": "政府計畫對奢侈品徵稅。"
+        },
+        {
+          "eng": "This difficult problem really taxes my brain.",
+          "ch": "這個難題真的很傷腦筋。"
+        }
+      ]
+    },
+    {
+      "eng": "teapot",
+      "kk": "ˈtiˌpɑt",
+      "tense": "n.",
+      "ch": [
+        [
+          "茶壺"
+        ]
+      ],
+      "analysis": "現代透明複合詞，由 tea（茶）與 pot（壺、罐）結合而成，專指用來沖泡和倒茶的帶嘴壺具。",
+      "definition": "1. a pot with a handle, spout, and lid, used for brewing and pouring tea.",
+      "example": [
+        {
+          "eng": "She filled the teapot with boiling water.",
+          "ch": "她把沸水注入茶壺中。"
+        }
+      ]
+    },
+    {
+      "eng": "tear",
+      "kk": "tɪr",
+      "tense": "n.",
+      "ch": [
+        [
+          "眼淚",
+          "淚水"
+        ]
+      ],
+      "analysis": "源自古英語 tēar（淚水），屬於日耳曼語族繼承詞。與希臘語 dákryon（淚）同源。指眼睛因悲傷、喜悅或刺激而流出的分泌液滴。",
+      "definition": "1. a drop of clear salty liquid secreted by the lacrimal glands of the eye.",
+      "example": [
+        {
+          "eng": "A tear rolled down her cheek as she said goodbye.",
+          "ch": "她道別時，一滴眼淚順著臉頰滾落。"
+        }
+      ]
+    },
+    {
+      "eng": "tear",
+      "kk": "tɛr",
+      "tense": "vt.",
+      "ch": [
+        [
+          "撕裂",
+          "撕破"
+        ],
+        [
+          "扯開",
+          "使分裂"
+        ]
+      ],
+      "analysis": "源自古英語 teran（撕裂、扯破），與名詞「眼淚」同形異源。作為及物動詞時，表示用外力將紙張、布料或組織強行扯破或撕開。",
+      "definition": "1. to pull or be pulled apart or to pieces with force; 2. to damage or injure tissue or a surface.",
+      "example": [
+        {
+          "eng": "He accidentally tore the important document in half.",
+          "ch": "他不小心把那份重要的文件撕成了兩半。"
+        },
+        {
+          "eng": "She tore a muscle in her leg during practice.",
+          "ch": "她在練習時拉傷了腿部肌肉。"
+        }
+      ]
+    },
+    {
+      "eng": "technology",
+      "kk": "tɛkˈnɑlədʒi",
+      "tense": "n.",
+      "ch": [
+        [
+          "科技",
+          "技術"
+        ]
+      ],
+      "analysis": "現代國際學術借詞，由希臘語 τέχνη（technē，工藝、技能、藝術）結合 -logia（學問、研究）組合而成。原本指工藝學或技術研究，現代則泛指應用科學於工業、商業或日常生活的科學技術。",
+      "definition": "1. the application of scientific knowledge for practical purposes, especially in industry.",
+      "example": [
+        {
+          "eng": "Modern technology has changed the way we communicate.",
+          "ch": "現代科技改變了我們的溝通方式。"
+        }
+      ]
+    },
+    {
+      "eng": "teens",
+      "kk": "tinz",
+      "tense": "n.",
+      "ch": [
+        [
+          "青少年時期（13至19歲）"
+        ],
+        [
+          "十幾歲的年齡"
+        ]
+      ],
+      "analysis": "由數字字尾 -teen（源自古英語 tēone，意為十幾）的複數形式構成。指年齡介於13歲到19歲之間的青少年時期，或指溫度、年份等數字中的10到19。",
+      "definition": "1. the years of a person's age ranging from thirteen to nineteen; 2. the numbers from 10 to 19 in a series, such as temperatures or years.",
+      "example": [
+        {
+          "eng": "She has two children in their teens.",
+          "ch": "她有兩個正值青春期的孩子。"
+        },
+        {
+          "eng": "The temperature dropped into the teens last night.",
+          "ch": "昨晚氣溫降到了十幾度。"
+        }
+      ]
+    },
+    {
+      "eng": "temperature",
+      "kk": "ˈtɛmpərətʃər",
+      "tense": "n.",
+      "ch": [
+        [
+          "溫度",
+          "氣溫"
+        ],
+        [
+          "發燒",
+          "體溫過高"
+        ]
+      ],
+      "analysis": "源自拉丁語 temperatura（溫和、比例、氣溫），由 temperare（調節、調和）衍生而來。引申指物體或大氣的冷熱程度，也常特指人體溫度高於正常的「發燒」狀態。",
+      "definition": "1. the degree or intensity of heat present in a substance or object; 2. an abnormal elevation of body temperature; fever.",
+      "example": [
+        {
+          "eng": "The temperature outside is dropping rapidly.",
+          "ch": "戶外氣溫正在急速下降。"
+        },
+        {
+          "eng": "The sick child has a high temperature and needs to rest.",
+          "ch": "那個生病的孩子發燒了，需要休息。"
+        }
+      ]
+    },
+    {
+      "eng": "term",
+      "kk": "tɝm",
+      "tense": "n.",
+      "ch": [
+        [
+          "學期"
+        ],
+        [
+          "術語",
+          "專門用語"
+        ],
+        [
+          "期間",
+          "期限"
+        ]
+      ],
+      "analysis": "源自古法語 terme，源自拉丁語 terminus（界限、端點、期限），與古希臘神話中的疆界之神同源。語義由「界限、期限」演變出學校的「學期」、合約的「條件」、語言學的「術語」等多元義項。",
+      "definition": "1. a fixed or limited period for which something lasts, such as an academic school term; 2. a word or phrase used to describe a particular thing or class of things.",
+      "example": [
+        {
+          "eng": "The school term ends next month.",
+          "ch": "學期於下個月結束。"
+        },
+        {
+          "eng": "Medical terms can be difficult for laymen to understand.",
+          "ch": "醫學術語對外行人來說可能很難理解。"
+        }
+      ]
+    },
+    {
+      "eng": "terrorism",
+      "kk": "ˈtɛrəˌrɪzəm",
+      "tense": "n.",
+      "ch": [
+        [
+          "恐怖主義",
+          "恐怖活動"
+        ]
+      ],
+      "analysis": "由 terror（恐怖、恐懼）結合抽象名詞字尾 -ism 構成的現代構詞。源自法國大革命時期的法語 terrorisme，指為了達到政治或社會目的，蓄意對平民使用暴力與恐嚇的極端主義手法。",
+      "definition": "1. the unlawful use of violence and intimidation, especially against civilians, in the pursuit of political aims.",
+      "example": [
+        {
+          "eng": "Governments around the world are uniting to fight terrorism.",
+          "ch": "世界各國正聯合起來打擊恐怖主義。"
+        }
+      ]
+    },
+    {
+      "eng": "terrorist",
+      "kk": "ˈtɛrərɪst",
+      "tense": "n.",
+      "ch": [
+        [
+          "恐怖分子"
+        ]
+      ],
+      "analysis": "由 terror 結合表示人的字尾 -ist 構成。指參與或策劃恐怖主義活動、使用暴力威脅平民與政府的人。",
+      "definition": "1. a person who uses unlawful violence and intimidation, especially against civilians, in the pursuit of political aims.",
+      "example": [
+        {
+          "eng": "The police captured a dangerous terrorist hiding in the city.",
+          "ch": "警方逮捕了一名藏匿在市內的危險恐怖分子。"
+        }
+      ]
+    },
+    {
+      "eng": "text",
+      "kk": "tɛkst",
+      "tense": "n.",
+      "ch": [
+        [
+          "文本",
+          "課文",
+          "文字"
+        ],
+        [
+          "手機簡訊"
+        ]
+      ],
+      "analysis": "源自中古英語 texte，源自拉丁語 textus（織物、文章的編排結構），由 texere（編織）衍生而來。原意為「編織好的文字結構」，現代指書面或電子文檔的內容、教科書的「課文」，以及現代通訊中的「手機簡訊」。",
+      "definition": "1. a book or other written or printed work, regarded in terms of its content rather than its physical form; 2. a short electronic message sent over a cellular network.",
+      "example": [
+        {
+          "eng": "Please read the text on page 45 carefully.",
+          "ch": "請仔細閱讀第45頁的課文。"
+        },
+        {
+          "eng": "She sent me a text message to confirm the appointment.",
+          "ch": "她傳了一則簡訊給我以確認預約。"
+        }
+      ]
+    },
+    {
+      "eng": "textbook",
+      "kk": "ˈtɛkstˌbʊk",
+      "tense": "n.",
+      "ch": [
+        [
+          "教科書",
+          "課本"
+        ]
+      ],
+      "analysis": "現代複合詞，由 text（文本、課文）與 book（書）組合而成，專指學校教學或學習特定學科所使用的標準書籍。",
+      "definition": "1. a book used as a standard source of information for formal study of a subject.",
+      "example": [
+        {
+          "eng": "Students are required to bring their math textbooks to class.",
+          "ch": "學生上課時必須帶數學教科書。"
+        }
+      ]
+    },
+    {
+      "eng": "therefore",
+      "kk": "ˈðɛrˌfɔr",
+      "tense": "adv.",
+      "ch": [
+        [
+          "因此",
+          "所以"
+        ]
+      ],
+      "analysis": "源自古英語 þǣrfore，由 þǣr（在那裡、因此）與 fore（為了...）複合而成。屬於連接副詞，用來連接前後因果關係，表示「基於上述原因，因此...」。",
+      "definition": "1. for that reason; consequently.",
+      "example": [
+        {
+          "eng": "It started to rain; therefore, we postponed the picnic.",
+          "ch": "開始下雨了，因此我們延期了野餐。"
+        }
+      ]
+    },
+    {
+      "eng": "thief",
+      "kk": "θif",
+      "tense": "n.",
+      "ch": [
+        [
+          "小偷",
+          "賊"
+        ]
+      ],
+      "analysis": "源自古英語 þēof（小偷），屬於日耳曼語族繼承詞（與荷蘭語 dief、德語 Dieb 同源）。指祕密竊取他人財產的人。",
+      "definition": "1. a person who steals another person's property, especially secretly and without using force.",
+      "example": [
+        {
+          "eng": "The thief stole my wallet while I was shopping.",
+          "ch": "我在購物時，小偷把我的錢包偷走了。"
+        }
+      ]
+    },
+    {
+      "eng": "thirsty",
+      "kk": "ˈθɝsti",
+      "tense": "adj.",
+      "ch": [
+        [
+          "口渴的",
+          "感到口乾的"
+        ],
+        [
+          "渴望的",
+          "熱切的"
+        ]
+      ],
+      "analysis": "源自古英語 þurstig，由 þurst（渴，源自日耳曼語根）加上形容詞字尾 -y 構成。除瞭物理上的「口渴、需要水分」外，也常引申比喻為「渴望知識或成功」。",
+      "definition": "1. feeling a need to drink something; 2. having a strong desire for something.",
+      "example": [
+        {
+          "eng": "After running a marathon, he was extremely thirsty.",
+          "ch": "跑完馬拉松後，他感到極度口渴。"
+        },
+        {
+          "eng": "The students were thirsty for knowledge.",
+          "ch": "學生們對知識充滿渴望。"
+        }
+      ]
+    },
+    {
+      "eng": "thought",
+      "kk": "θɔt",
+      "tense": "n.",
+      "ch": [
+        [
+          "想法",
+          "思維",
+          "念頭"
+        ],
+        [
+          "思考",
+          "思索過程"
+        ]
+      ],
+      "analysis": "源自古英語 geþōht（思想、思維），為動詞 think 的古代過去分詞衍生名詞，屬於日耳曼語繼承詞。指大腦思考的產物（一個想法）或思考的整個行為活動。",
+      "definition": "1. an idea or opinion produced by thinking or occurring suddenly in the mind; 2. the process of thinking or consideration.",
+      "example": [
+        {
+          "eng": "She shared her thoughts on the new project.",
+          "ch": "她分享了她對新專案的想法。"
+        },
+        {
+          "eng": "After much thought, he decided to accept the job offer.",
+          "ch": "經過深思熟慮後，他決定接受這份工作邀約。"
+        }
+      ]
+    },
+    {
+      "eng": "throughout",
+      "kk": "θruˈaʊt",
+      "tense": "prep.",
+      "ch": [
+        [
+          "遍及",
+          "貫穿",
+          "在...各處"
+        ],
+        [
+          "在...整段期間"
+        ]
+      ],
+      "analysis": "由副詞與介詞 through（穿過、透過）與 out（在外、全部）複合而成的現代透明構詞。用作介詞時，表示空間上的「遍布各處」或時間上的「自始至終、貫穿整個期間」。",
+      "definition": "1. in, to, or through all parts of a place; 2. during the whole of a period of time.",
+      "example": [
+        {
+          "eng": "English is spoken throughout the world.",
+          "ch": "英語在世界各地都被說著。"
+        },
+        {
+          "eng": "It rained throughout the night.",
+          "ch": "雨下了一整夜。"
+        }
+      ]
+    },
+    {
+      "eng": "thunder",
+      "kk": "ˈθʌndɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "雷",
+          "雷聲"
+        ]
+      ],
+      "analysis": "源自古英語 þunor（雷鳴、雷神 Thor 的同源詞），屬於日耳曼語繼承詞。指閃電過後大氣中因劇烈膨脹發出的轟隆聲響。",
+      "definition": "1. a loud rumbling or crashing sound heard after a lightning flash, caused by the expansion of rapidly heated air.",
+      "example": [
+        {
+          "eng": "The loud crash of thunder frightened the little dog.",
+          "ch": "巨大的雷聲嚇壞了小狗。"
+        }
+      ]
+    },
+    {
+      "eng": "thus",
+      "kk": "ðʌs",
+      "tense": "adv.",
+      "ch": [
+        [
+          "因此",
+          "因而"
+        ],
+        [
+          "這樣",
+          "如此"
+        ]
+      ],
+      "analysis": "源自古英語 þus（以此方式、這樣），屬於日耳曼語族繼承詞。用作副詞，表示「用這種方式」或作為連接詞引申出「因此、因而」的結果。",
+      "definition": "1. as a result or consequence of this; therefore; 2. in this way or manner; like this.",
+      "example": [
+        {
+          "eng": "He didn't study hard, and thus failed the exam.",
+          "ch": "他沒有努力讀書，因此考試不及格。"
+        },
+        {
+          "eng": "Hold the pen thus for better handwriting.",
+          "ch": "這樣拿筆可以寫出更好的字。"
+        }
+      ]
+    },
+    {
+      "eng": "till",
+      "kk": "tɪl",
+      "tense": "prep.",
+      "ch": [
+        [
+          "直到...為止"
+        ]
+      ],
+      "analysis": "源自古斯堪地那維亞語 til（到...為止），與古英語 til 相近。在現代英語中作為介詞或連接詞，用法與 until 相似，表示時間或事件延續的終點。",
+      "definition": "1. up to the time of; until.",
+      "example": [
+        {
+          "eng": "I will be working till five o'clock this evening.",
+          "ch": "我今天傍晚會工作到五點。"
+        }
+      ]
+    },
+    {
+      "eng": "tiny",
+      "kk": "ˈtaɪni",
+      "tense": "adj.",
+      "ch": [
+        [
+          "極小的",
+          "微小的"
+        ]
+      ],
+      "analysis": "源自中古英語 tyne（極小、微弱），可能與 rine 或 tiny 的古義衍生有關。現代主要用來形容體積、數量或規模非常微小。",
+      "definition": "1. very small in size or amount.",
+      "example": [
+        {
+          "eng": "She found a tiny kitten hiding under the bush.",
+          "ch": "她發現一隻躲在灌木叢下的小貓咪。"
+        }
+      ]
+    },
+    {
+      "eng": "tire",
+      "kk": "taɪr",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使疲勞",
+          "使筋疲力竭"
+        ]
+      ],
+      "analysis": "及物動詞用法，表示透過勞動、運動或長時間工作，使他人或自己感到精疲力竭。",
+      "definition": "1. to make someone feel weary or exhausted.",
+      "example": [
+        {
+          "eng": "The long hike in the mountains tired the children completely.",
+          "ch": "山區的漫長徒步旅行把孩子們累壞了。"
+        }
+      ]
+    },
+    {
+      "eng": "tire",
+      "kk": "taɪr",
+      "tense": "vi.",
+      "ch": [
+        [
+          "疲勞",
+          "感到疲倦"
+        ],
+        [
+          "厭倦",
+          "厭煩"
+        ]
+      ],
+      "analysis": "源自古英語 tēorian（衰竭、疲乏），屬於日耳曼語繼承詞。不及物動詞表示體力耗盡而疲勞，或對某事物失去興趣而感到厭倦（常與 of 連用）。",
+      "definition": "1. to grow weary or lose strength; 2. to lose interest or become bored with something.",
+      "example": [
+        {
+          "eng": "He began to tire after walking for three hours.",
+          "ch": "走了三個小時後，他開始感到疲勞。"
+        },
+        {
+          "eng": "I never tire of listening to classical music.",
+          "ch": "我聽古典音樂永遠不會聽膩。"
+        }
+      ]
+    },
+    {
+      "eng": "tissue",
+      "kk": "ˈtɪʃu",
+      "tense": "n.",
+      "ch": [
+        [
+          "組織（生物學）"
+        ],
+        [
+          "面紙",
+          "衛生紙"
+        ]
+      ],
+      "analysis": "源自中古英語 tisshew（織物、絹布），經由古法語 tissu（源自拉丁語 texere 紡織的過去分詞 textus）。歷史義由「編織物」演變出生物學上的「細胞組織」，後因質地柔軟薄如織物，在20世紀引申出「面紙、衛生紙」的日常用語。",
+      "definition": "1. any of the distinct types of material of which animals or plants are made, consisting of specialized cells; 2. a piece of soft, absorbent thin paper used for wiping.",
+      "example": [
+        {
+          "eng": "Muscle tissue contracts to produce movement.",
+          "ch": "肌肉組織收縮以產生運動。"
+        },
+        {
+          "eng": "She used a tissue to wipe away her tears.",
+          "ch": "她用面紙擦去眼淚。"
+        }
+      ]
+    }
+  ]
+}

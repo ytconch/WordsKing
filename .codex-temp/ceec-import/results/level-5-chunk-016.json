@@ -1,0 +1,1387 @@
+{
+  "level": 5,
+  "chunkIndex": 16,
+  "inputs": [
+    "rival",
+    "rod",
+    "sacred",
+    "saddle",
+    "saint",
+    "salmon",
+    "salon",
+    "sandal",
+    "scan",
+    "scandal",
+    "scar",
+    "scenario",
+    "scent",
+    "scheme",
+    "scope",
+    "scramble",
+    "scrap",
+    "script",
+    "sector",
+    "segment",
+    "seminar",
+    "senator",
+    "sensation",
+    "sensitivity",
+    "sensor",
+    "sentiment",
+    "sentimental",
+    "sequence",
+    "series",
+    "server",
+    "session",
+    "setting",
+    "shareholder",
+    "shatter",
+    "shed",
+    "sheer",
+    "sheriff",
+    "shield",
+    "shiver",
+    "shortage",
+    "shove",
+    "shrug",
+    "shuttle",
+    "sibling",
+    "siege",
+    "skeleton",
+    "skull",
+    "slam",
+    "slap",
+    "slavery"
+  ],
+  "rows": [
+    {
+      "eng": "rival",
+      "kk": "ˈraɪvəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "競爭者",
+          "對手"
+        ],
+        [
+          "可匹敵的人",
+          "媲美者"
+        ]
+      ],
+      "analysis": "現代透明構詞與歷史借詞：源自拉丁語 rīvālis（意為「使用同一條溪流的人」，源自 rīvus「溪流」），指因爭奪水源而產生爭端的人。經由中古法語進入英語，演變為現代「競爭者、對手」之義。",
+      "definition": "1. a person, company, or thing that competes with another in the same field or area; 2. a person or thing that is as good as or better than another in a specified quality.",
+      "example": [
+        {
+          "eng": "The two companies are fierce rivals in the smartphone market.",
+          "ch": "這兩家公司在智慧型手機市場上是激烈的競爭對手。"
+        },
+        {
+          "eng": "She has no rival in classical singing.",
+          "ch": "她在古典聲樂方面無人能敵。"
+        }
+      ]
+    },
+    {
+      "eng": "rival",
+      "kk": "ˈraɪvəl",
+      "tense": "vt.",
+      "ch": [
+        [
+          "與...競爭",
+          "跟...對抗"
+        ],
+        [
+          "比得上",
+          "媲美"
+        ]
+      ],
+      "analysis": "動詞用法，由名詞 rival 轉化而來。保留「溪流對手」的競爭意涵，引申出「與之競爭」及「其表現或品質足以與之匹敵、媲美」的動詞義。",
+      "definition": "1. to compete with someone or something; 2. to be as good as or nearly as good as someone or something else.",
+      "example": [
+        {
+          "eng": "No other runner can rival him in speed.",
+          "ch": "沒有其他跑者在速度上能與他競爭。"
+        },
+        {
+          "eng": "The beauty of the sunset rivals that of a painting.",
+          "ch": "日落的美景足以媲美一幅畫作。"
+        }
+      ]
+    },
+    {
+      "eng": "rod",
+      "kk": "rɑd",
+      "tense": "n.",
+      "ch": [
+        [
+          "桿",
+          "條",
+          "棒"
+        ],
+        [
+          "懲罰的棍子",
+          "戒尺"
+        ]
+      ],
+      "analysis": "繼承詞：源自古英語 rodd（意為「細樹枝、桿條」），屬於日耳曼語族源頭。語意從早期的植物枝條演變為各種材質的直桿、釣竿，以及歷史上用作懲罰工具的棍棒或戒尺。",
+      "definition": "1. a thin, straight bar or stick of wood, metal, or other material; 2. a switch or stick formerly used for corporal punishment.",
+      "example": [
+        {
+          "eng": "He used a fishing rod to catch trout in the river.",
+          "ch": "他用釣竿在河裡釣鱒魚。"
+        },
+        {
+          "eng": "The teacher did not spare the rod in the old days.",
+          "ch": "過去的老師對學生管教嚴格，不吝於施以體罰。"
+        }
+      ]
+    },
+    {
+      "eng": "sacred",
+      "kk": "ˈseɪkrɪd",
+      "tense": "adj.",
+      "ch": [
+        [
+          "神聖的",
+          "宗教的"
+        ],
+        [
+          "不可侵犯的",
+          "極重要的"
+        ]
+      ],
+      "analysis": "歷史借詞：源自拉丁語 sacer（意為「神聖的、奉獻給神的」），其過去分詞形式經由中古英語演變為形容詞。語意從宗教上的神聖奉獻，抽象延伸為世俗中「不可侵犯、極度重要或珍貴」的事物。",
+      "definition": "1. connected with God or a god; dedicated to a religious purpose and so deserving veneration; 2. regarded as too important to be interfered with; inviolable.",
+      "example": [
+        {
+          "eng": "The temple is a sacred place for the local community.",
+          "ch": "這座寺廟是當地社群的神聖場所。"
+        },
+        {
+          "eng": "Freedom of speech is a sacred right for citizens.",
+          "ch": "言論自由是公民不可侵犯的權利。"
+        }
+      ]
+    },
+    {
+      "eng": "saddle",
+      "kk": "ˈsædəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "馬鞍",
+          "鞍座"
+        ],
+        [
+          "山脊",
+          "鞍狀山形"
+        ]
+      ],
+      "analysis": "繼承詞：源自古英語 sadol，屬於日耳曼語族。原始意義為騎馬時放在背上的鞍具，因形狀類似而延伸應用於腳踏車座、摩托車座，以及地理上連接兩座山峰低窪處的「山脊、鞍部」。",
+      "definition": "1. a seat fastened on the back of a horse or other animal for riding, or on a bicycle; 2. a low ridge connecting two higher peaks.",
+      "example": [
+        {
+          "eng": "The cowboy adjusted the leather saddle on his horse.",
+          "ch": "牛仔調整了他馬背上的皮鞍。"
+        },
+        {
+          "eng": "The hikers rested at the saddle of the mountain.",
+          "ch": "登山客在山脊的鞍部休息。"
+        }
+      ]
+    },
+    {
+      "eng": "saddle",
+      "kk": "ˈsædəl",
+      "tense": "vt.",
+      "ch": [
+        [
+          "給馬裝上鞍"
+        ],
+        [
+          "使負擔",
+          "使背負重任"
+        ]
+      ],
+      "analysis": "動詞用法，由名詞 saddle 衍生。除字面上的「為馬裝設馬鞍」外，引申出將沉重任務或責任強加於某人身上的比喻義（如 be saddled with）。",
+      "definition": "1. to put a saddle on a horse; 2. to burden someone with an unwelcome responsibility or task.",
+      "example": [
+        {
+          "eng": "He quickly saddled his horse before setting off.",
+          "ch": "他出發前迅速幫馬裝上馬鞍。"
+        },
+        {
+          "eng": "She was saddled with heavy debts after the business failed.",
+          "ch": "生意失敗後，她背負了沉重的債務。"
+        }
+      ]
+    },
+    {
+      "eng": "saint",
+      "kk": "seɪnt",
+      "tense": "n.",
+      "ch": [
+        [
+          "聖徒",
+          "聖人"
+        ],
+        [
+          "品格高尚的人",
+          "善人"
+        ]
+      ],
+      "analysis": "歷史借詞：源自拉丁語 sanctus（意為「神聖的」），經由中古法語 saint 進入英語。原指經教會冊封的聖徒，後引申用來形容現實生活中極具耐心、善良或品格高尚的人。",
+      "definition": "1. a person acknowledged as holy or virtuous and typically regarded as being in heaven after death; 2. a very virtuous, kind, or patient person.",
+      "example": [
+        {
+          "eng": "Joan of Arc was later canonized as a saint.",
+          "ch": "聖女貞德後來被冊封為聖徒。"
+        },
+        {
+          "eng": "My mother is a saint for putting up with my messy room.",
+          "ch": "我媽能忍受我凌亂的房間，簡直是個聖人。"
+        }
+      ]
+    },
+    {
+      "eng": "salmon",
+      "kk": "ˈsæmən",
+      "tense": "n.",
+      "ch": [
+        [
+          "鮭魚",
+          "鮭魚肉"
+        ]
+      ],
+      "analysis": "歷史借詞：源自拉丁語 salmō（源自 salīre「跳躍」，指鮭魚逆流跳躍的特性），經由諾曼法語進入英語。指常見的鮭魚及其可食用的肉品。",
+      "definition": "1. a large edible fish that has pink flesh and lives in both fresh and salt water.",
+      "example": [
+        {
+          "eng": "Grilled salmon is a healthy and delicious dinner option.",
+          "ch": "烤鮭魚是一道健康又美味的晚餐選擇。"
+        }
+      ]
+    },
+    {
+      "eng": "salon",
+      "kk": "səˈlɑn",
+      "tense": "n.",
+      "ch": [
+        [
+          "美容院",
+          "美髮沙龍"
+        ],
+        [
+          "高級社交聚會場所",
+          "文藝沙龍"
+        ]
+      ],
+      "analysis": "歷史借詞：直接借自法語 salon（源自義大利語 salone「大廳」）。最初指歐洲歷史上文人雅士聚集討論藝術與政治的沙龍聚會，現代則多指提供美髮、美容等服務的時尚店鋪。",
+      "definition": "1. an establishment operated by a hairdresser, beautician, or dressmaker; 2. a gathering of people held by an inspiring host.",
+      "example": [
+        {
+          "eng": "She went to the hair salon to get a new haircut.",
+          "ch": "她去美髮沙龍剪了新髮型。"
+        },
+        {
+          "eng": "In the 18th century, Parisian salons were centers of intellectual debate.",
+          "ch": "在18世紀，巴黎的沙龍是知識分子辯論的中心。"
+        }
+      ]
+    },
+    {
+      "eng": "sandal",
+      "kk": "ˈsændəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "涼鞋"
+        ]
+      ],
+      "analysis": "歷史借詞：經由拉丁語 sandaliom、希臘語 sandallon 進入英語，最終可能源自中東語言。指一種鞋底透過帶子固定在腳背上的輕便開放式鞋具。",
+      "definition": "1. a light shoe with a sole secured to the foot by straps.",
+      "example": [
+        {
+          "eng": "He likes to wear comfortable leather sandals in the summer.",
+          "ch": "他喜歡在夏天穿舒適的皮涼鞋。"
+        }
+      ]
+    },
+    {
+      "eng": "scan",
+      "kk": "skæn",
+      "tense": "vt.",
+      "ch": [
+        [
+          "掃描",
+          "細查"
+        ],
+        [
+          "粗略瀏覽",
+          "快速審視"
+        ]
+      ],
+      "analysis": "歷史借詞：源自拉丁語 scandere（原意為「登高、爬行」，後在詩學中指「掃描詩律、按音步誦讀」），其義演變為仔細檢查結構、掃描圖像或文字，現代亦衍生出快速瀏覽大意的用法。",
+      "definition": "1. to look at something carefully, or cause an electronic device to examine something; 2. to glance at or look over quickly.",
+      "example": [
+        {
+          "eng": "Please scan this document and send it to my email.",
+          "ch": "請把這份文件掃描並寄到我的電子信箱。"
+        },
+        {
+          "eng": "He scanned the headlines of the morning newspaper.",
+          "ch": "他迅速瀏覽了早報的頭條新聞。"
+        }
+      ]
+    },
+    {
+      "eng": "scandal",
+      "kk": "ˈskændəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "醜聞",
+          "令人震驚的事"
+        ],
+        [
+          "流言蜚語",
+          "誹謗"
+        ]
+      ],
+      "analysis": "歷史借詞：源自希臘語 skandalon（意為「陷阱、絆腳石」，引申為導致道德跌倒的事物），經由拉丁語 scandalum 及中古法語進入英語。指引發公眾憤慨或震驚的醜聞事件，或相關的閒話。",
+      "definition": "1. an action or event regarded as morally or legally wrong and causing public outrage; 2. gossip about the personal lives of others.",
+      "example": [
+        {
+          "eng": "The political scandal forced the minister to resign.",
+          "ch": "這起政治醜聞迫使部長辭職。"
+        },
+        {
+          "eng": "She loves to gossip and spread scandal about her neighbors.",
+          "ch": "她喜歡閒聊並散布關於鄰居的流言蜚語。"
+        }
+      ]
+    },
+    {
+      "eng": "scar",
+      "kk": "skɑr",
+      "tense": "n.",
+      "ch": [
+        [
+          "傷疤",
+          "創痕"
+        ],
+        [
+          "精神創傷",
+          "心靈創傷"
+        ]
+      ],
+      "analysis": "歷史借詞：源自古諾斯語 skarð（意為「缺口、裂縫」），經由古法語（對應現代法語 écharre 的遠親）或直接進入英語。原指物理上的缺口或皮膚癒合後的傷疤，後引申為心理上的創傷。",
+      "definition": "1. a mark left on the skin or tissue where a wound, burn, or sore has not healed completely; 2. a lasting emotional effect of trauma.",
+      "example": [
+        {
+          "eng": "He has a small scar on his forehead from a childhood accident.",
+          "ch": "他額頭上有一個小傷疤，是童年意外造成的。"
+        },
+        {
+          "eng": "The war left deep scars on the minds of the survivors.",
+          "ch": "戰爭在倖存者心中留下了深深的創傷。"
+        }
+      ]
+    },
+    {
+      "eng": "scenario",
+      "kk": "səˈnɛrioʊ",
+      "tense": "n.",
+      "ch": [
+        [
+          "劇本大綱",
+          "情節概要"
+        ],
+        [
+          "可能的情況",
+          "設想局勢"
+        ]
+      ],
+      "analysis": "歷史借詞：源自義大利語 scenario（源自 scaena「舞臺、景幕」），最初用於戲劇領域指劇本梗概或大綱，現代廣泛用於各領域指「可能發生的情況或發展設想」。",
+      "definition": "1. an outline of the plot of a dramatic work; 2. a postulated sequence or possible series of events.",
+      "example": [
+        {
+          "eng": "The writer outlined a new scenario for the movie sequel.",
+          "ch": "編劇為電影續集勾勒了一個新的劇本大綱。"
+        },
+        {
+          "eng": "We need to prepare for the worst-case scenario.",
+          "ch": "我們必須為最壞的情況做好準備。"
+        }
+      ]
+    },
+    {
+      "eng": "scent",
+      "kk": "sɛnt",
+      "tense": "n.",
+      "ch": [
+        [
+          "氣味",
+          "香味"
+        ],
+        [
+          "蹤跡",
+          "線索"
+        ]
+      ],
+      "analysis": "歷史借詞：源自古法語 sentir（意為「感覺、聞到」），其名詞形式在英語中演化出拼寫上的 c（受 scentire 影響）。原指獵犬追蹤時留下的氣味線索，後泛指各種氣味、香味。",
+      "definition": "1. a distinctive smell, especially one that is pleasant; 2. a trail of a scent left by an animal or person, used in hunting.",
+      "example": [
+        {
+          "eng": "The sweet scent of roses filled the garden.",
+          "ch": "玫瑰的甜美香氣充滿了整個花園。"
+        },
+        {
+          "eng": "The hunting dogs picked up the fox's scent.",
+          "ch": "獵犬嗅出了狐狸的蹤跡。"
+        }
+      ]
+    },
+    {
+      "eng": "scheme",
+      "kk": "skim",
+      "tense": "n.",
+      "ch": [
+        [
+          "計畫",
+          "方案"
+        ],
+        [
+          "陰謀",
+          "詭計"
+        ]
+      ],
+      "analysis": "歷史借詞：源自拉丁語 schēma（源自希臘語 skhēma「形狀、輪廓、計劃」），經由文藝復興時期進入英語。最初指圖表或系統規劃，後演變為一般計畫，在貶義語境下則指陰謀詭計。",
+      "definition": "1. a large-scale systematic plan or arrangement for attaining some object; 2. a secret or cunning plan, usually to do something illegal or harmful.",
+      "example": [
+        {
+          "eng": "The government launched a new housing scheme for low-income families.",
+          "ch": "政府為低收入家庭推出了一項新的房屋建設計畫。"
+        },
+        {
+          "eng": "The police uncovered a financial scheme to defraud investors.",
+          "ch": "警方破獲了一起詐騙投資人的金融陰謀。"
+        }
+      ]
+    },
+    {
+      "eng": "scope",
+      "kk": "skoʊp",
+      "tense": "n.",
+      "ch": [
+        [
+          "範圍",
+          "領域"
+        ],
+        [
+          "發揮餘地",
+          "機會"
+        ]
+      ],
+      "analysis": "歷史借詞：源自義大利語 scopo（意為「目標、目的」），源自希臘語 skopos（觀察者、目標）。在英語演變中，意義從觀察目標擴大為視野所及的「範圍」與行動的「發揮餘地」。",
+      "definition": "1. the extent of the area or subject matter that something deals with or to which it is relevant; 2. the opportunity or possibility to do or deal with something.",
+      "example": [
+        {
+          "eng": "This topic is beyond the scope of our research.",
+          "ch": "這個主題超出了我們研究的範圍。"
+        },
+        {
+          "eng": "The new job gives her plenty of scope for creativity.",
+          "ch": "這份新工作給了她發揮創意的廣闊空間。"
+        }
+      ]
+    },
+    {
+      "eng": "scramble",
+      "kk": "ˈskræmbəl",
+      "tense": "vi.",
+      "ch": [
+        [
+          "攀爬",
+          "艱難行進"
+        ],
+        [
+          "爭奪",
+          "搶奪"
+        ]
+      ],
+      "analysis": "近代日耳曼語源：可能源自日耳曼語族（類似荷蘭語 schrammelen 或方言動詞），指手腳並用地艱難爬行或胡亂爭搶。現代常見於攀登陡坡或眾人爭奪有限資源的語境。",
+      "definition": "1. to move hurriedly, especially by using hands and feet; 2. to make a sudden, rushed attempt to get something or reach a destination.",
+      "example": [
+        {
+          "eng": "The children scrambled up the rocky hill.",
+          "ch": "孩子們手腳並用地爬上多石的小山。"
+        },
+        {
+          "eng": "Shoppers scrambled for discounted items on Black Friday.",
+          "ch": "消費者在黑色星期五搶購打折商品。"
+        }
+      ]
+    },
+    {
+      "eng": "scrap",
+      "kk": "skræp",
+      "tense": "n.",
+      "ch": [
+        [
+          "碎屑",
+          "少量"
+        ],
+        [
+          "廢金屬",
+          "廢料"
+        ]
+      ],
+      "analysis": "歷史借詞：源自古諾斯語 skrap（意為「碎屑、殘餘」）。指物質剝落或切除後剩下的零星碎片，或廢棄不用的金屬材料與舊物。",
+      "definition": "1. a small piece or amount of something, especially one that is left over; 2. discarded metal or other waste material.",
+      "example": [
+        {
+          "eng": "He wrote his phone number on a scrap of paper.",
+          "ch": "他在一張紙條上寫下他的電話號碼。"
+        },
+        {
+          "eng": "Old cars are often sent to the yard to be sold as scrap.",
+          "ch": "舊汽車經常被送到場地作為廢鐵出售。"
+        }
+      ]
+    },
+    {
+      "eng": "scrap",
+      "kk": "skræp",
+      "tense": "vt.",
+      "ch": [
+        [
+          "廢棄",
+          "取消",
+          "報廢"
+        ]
+      ],
+      "analysis": "動詞用法，由名詞 scrap（廢料）轉化而來。指將不再有用或過時的計畫、物品當作廢物拋棄或終止。",
+      "definition": "1. to discard or get rid of as useless or no longer useful; to abandon a plan.",
+      "example": [
+        {
+          "eng": "The company decided to scrap the old project and start fresh.",
+          "ch": "公司決定廢棄舊專案，重新開始。"
+        }
+      ]
+    },
+    {
+      "eng": "script",
+      "kk": "skrɪpt",
+      "tense": "n.",
+      "ch": [
+        [
+          "劇本",
+          "底稿"
+        ],
+        [
+          "筆跡",
+          "手寫體"
+        ]
+      ],
+      "analysis": "歷史借詞：源自拉丁語 scrīptum（意為「寫下的東西」），為動詞 scrībere（書寫）的中性過去分詞。在英語中指戲劇、電影或廣播的文字劇本，亦指書寫的字體或筆跡。",
+      "definition": "1. the written text of a play, film, broadcast, or presentation; 2. handwriting, as distinct from printed letters.",
+      "example": [
+        {
+          "eng": "Actors spent weeks memorizing their lines from the script.",
+          "ch": "演員們花了好幾週從劇本中背誦台詞。"
+        },
+        {
+          "eng": "The old letter was written in a neat cursive script.",
+          "ch": "這封舊信是用工整的草書寫成的。"
+        }
+      ]
+    },
+    {
+      "eng": "sector",
+      "kk": "ˈsɛktər",
+      "tense": "n.",
+      "ch": [
+        [
+          "部門",
+          "行業"
+        ],
+        [
+          "扇形",
+          "防區"
+        ]
+      ],
+      "analysis": "歷史借詞：源自拉丁語 sector（意為「切割者」），由 secāre（切割）加上名詞字尾 -tor 組成。原指幾何學中的扇形，後引申指經濟體系中的各個板塊、行業或軍事防區。",
+      "definition": "1. an area of economy or society, such as the private or public sector; 2. a distinct part or subdivision, especially in geometry or military.",
+      "example": [
+        {
+          "eng": "Many people in the private sector work long hours.",
+          "ch": "許多民間企業部門的人工作時間很長。"
+        },
+        {
+          "eng": "The military forces were assigned to patrol a specific sector.",
+          "ch": "部隊被指派巡邏特定的防區。"
+        }
+      ]
+    },
+    {
+      "eng": "segment",
+      "kk": "ˈsɛgmənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "部分",
+          "片段"
+        ],
+        [
+          "環節",
+          "割段"
+        ]
+      ],
+      "analysis": "歷史借詞：源自拉丁語 segmentum（意為「切片、部分」），源自 secāre（切割）。指從整體中分割出來的一個具體部分或環節（如市場區隔、廣播節目段落）。",
+      "definition": "1. each of the parts into which something is or may be divided; 2. a part of a broadcast program or a market sector.",
+      "example": [
+        {
+          "eng": "Older people make up a large segment of the population.",
+          "ch": "老年人占了總人口很大的一部分。"
+        },
+        {
+          "eng": "The news program featured a special segment on climate change.",
+          "ch": "該新聞節目播出了關於氣候變遷的特別報導環節。"
+        }
+      ]
+    },
+    {
+      "eng": "seminar",
+      "kk": "ˈsɛmɪˌnɑr",
+      "tense": "n.",
+      "ch": [
+        [
+          "研討會",
+          "專題討論課"
+        ]
+      ],
+      "analysis": "歷史借詞：源自拉丁語 sēminārium（意為「苗圃、培育所」），源自 sēmen（種子）。原意為培育知識之苗圃，後演變為大學或專業機構中師生共同研討學術問題的研討會。",
+      "definition": "1. a conference or other meeting for discussion or training, especially at a university level.",
+      "example": [
+        {
+          "eng": "Professor Smith is leading a seminar on modern history.",
+          "ch": "史密斯教授正在主持一場關於現代史的研討會。"
+        }
+      ]
+    },
+    {
+      "eng": "senator",
+      "kk": "ˈsɛnətər",
+      "tense": "n.",
+      "ch": [
+        [
+          "參議員"
+        ]
+      ],
+      "analysis": "歷史借詞：源自拉丁語 senātor（意為「長老、參議員」），源自 senex（老人、年長者）。經由中古法語進入英語，指各國參議院（Senate）的成員。",
+      "definition": "1. a member of a senate, such as the US Senate or similar legislative bodies.",
+      "example": [
+        {
+          "eng": "The senator proposed a new bill to reduce taxes.",
+          "ch": "該參議員提出了一項減稅的新法案。"
+        }
+      ]
+    },
+    {
+      "eng": "sensation",
+      "kk": "sɛnˈseɪʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "感覺",
+          "知覺"
+        ],
+        [
+          "轟動",
+          "引起轟動的人或事"
+        ]
+      ],
+      "analysis": "歷史借詞：源自新拉丁語 sensātiō（源自拉丁語 sentire「去感覺」），加上名詞字尾 -ation。原指由感官引起的身體知覺，後引申為在社會上引起巨大轟動的事件或人物。",
+      "definition": "1. a physical feeling or perception resulting from something that happens to or comes into contact with the body; 2. a widespread reaction of interest and excitement.",
+      "example": [
+        {
+          "eng": "She felt a stinging sensation in her hand after the bee sting.",
+          "ch": "被蜜蜂螫後，她感覺手部有一陣刺痛。"
+        },
+        {
+          "eng": "The young singer became an overnight sensation.",
+          "ch": "這位年輕歌手一夜之間引起轟動。"
+        }
+      ]
+    },
+    {
+      "eng": "sensitivity",
+      "kk": "ˌsɛnsəˈtɪvəti",
+      "tense": "n.",
+      "ch": [
+        [
+          "敏感度",
+          "靈敏度"
+        ],
+        [
+          "敏感",
+          "容易受影響的特性"
+        ]
+      ],
+      "analysis": "現代透明構詞：由形容詞 sensitive 加上名詞字尾 -ity 組成。指人體、儀器或情感對外界刺激、批評或環境變化的敏銳反應程度。",
+      "definition": "1. the quality or condition of being sensitive; responsiveness to external conditions or stimuli; 2. awareness of and responsiveness to the feelings of others.",
+      "example": [
+        {
+          "eng": "The camera has high sensitivity in low-light conditions.",
+          "ch": "這台相機在低光源環境下具有高感光度。"
+        },
+        {
+          "eng": "He handled the delicate situation with great sensitivity.",
+          "ch": "他以高度的敏感度處理了這個棘手的局勢。"
+        }
+      ]
+    },
+    {
+      "eng": "sensor",
+      "kk": "ˈsɛnsər",
+      "tense": "n.",
+      "ch": [
+        [
+          "感測器",
+          "探測器"
+        ]
+      ],
+      "analysis": "現代透明構詞：由動詞 sense（感測）加上名詞字尾 -or 組成。指能夠偵測或測量物理量（如光、熱、壓力）並將其轉化為信號的裝置。",
+      "definition": "1. a device which detects or measures a physical property and records, indicates, or otherwise responds to it.",
+      "example": [
+        {
+          "eng": "The automatic lights turn on when the motion sensor is triggered.",
+          "ch": "當動作感測器被觸發時，自動燈光就會開啟。"
+        }
+      ]
+    },
+    {
+      "eng": "sentiment",
+      "kk": "ˈsɛntəmənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "觀點",
+          "情緒",
+          "情感"
+        ],
+        [
+          "多愁善感",
+          "感傷"
+        ]
+      ],
+      "analysis": "歷史借詞：源自中世紀拉丁語 sentimentum（意為「感覺、意見」），源自 sentire（去感覺）。指群體或個人的情感傾向、意見看法，或帶有感傷色彩的情緒。",
+      "definition": "1. a view of or attitude toward a situation or event; an opinion; 2. refined and tender emotion, sometimes excessive.",
+      "example": [
+        {
+          "eng": "Public sentiment is strongly against the new tax policy.",
+          "ch": "公眾情緒強烈反對這項新稅收政策。"
+        },
+        {
+          "eng": "He kept the old ticket stub purely out of sentiment.",
+          "ch": "他純粹出於情感留著這張舊票根。"
+        }
+      ]
+    },
+    {
+      "eng": "sentimental",
+      "kk": "ˌsɛntəˈmɛntəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "感情用事的",
+          "多愁善感的"
+        ],
+        [
+          "念舊的",
+          "富有情感紀念意義的"
+        ]
+      ],
+      "analysis": "現代透明構詞：由名詞 sentiment 加上形容詞字尾 -al 組成。指容易受情感支配、過度感傷，或因充滿回憶而具有情感價值的物品。",
+      "definition": "1. prompted by feelings of tenderness, sadness, or nostalgia; 2. of or prompted by sentiment rather than reason.",
+      "example": [
+        {
+          "eng": "She gets sentimental whenever she looks at her baby photos.",
+          "ch": "她每次看嬰兒照片時都會變得多愁善感。"
+        },
+        {
+          "eng": "The watch has no great monetary value, but it has high sentimental value.",
+          "ch": "這隻錶沒有太大的金錢價值，但它具有高度的情感紀念價值。"
+        }
+      ]
+    },
+    {
+      "eng": "sequence",
+      "kk": "ˈsikwəns",
+      "tense": "n.",
+      "ch": [
+        [
+          "順序",
+          "次序"
+        ],
+        [
+          "連續事件",
+          "一連串"
+        ]
+      ],
+      "analysis": "歷史借詞：源自拉丁語 sequentia（意為「續發事件」），源自 sequī（跟隨）。指事物排列或發生的先後順序，或前後相繼的一連串事件、畫面。",
+      "definition": "1. a particular order in which related things follow each other; 2. a set of related events, actions, or items that follow each other in a particular order.",
+      "example": [
+        {
+          "eng": "Events happened in a logical sequence.",
+          "ch": "事件按著合乎邏輯的順序發生。"
+        },
+        {
+          "eng": "The movie begins with a thrilling dream sequence.",
+          "ch": "電影以一段驚悚的夢境畫面開場。"
+        }
+      ]
+    },
+    {
+      "eng": "series",
+      "kk": "ˈsɪriz",
+      "tense": "n.",
+      "ch": [
+        [
+          "系列",
+          "連續"
+        ],
+        [
+          "電視連續劇",
+          "叢書"
+        ]
+      ],
+      "analysis": "歷史借詞：源自拉丁語 seriēs（意為「一連串、聯結」），源自 serere（串連、編織）。指一連串相似或相關的事件、物品，或按集數播放的電視連續劇、書籍叢書。",
+      "definition": "1. a number of things, events, or people of a similar kind coming one after another; 2. a set of television or radio broadcasts following one another.",
+      "example": [
+        {
+          "eng": "A series of lectures will be held this semester.",
+          "ch": "這學期將舉辦一系列講座。"
+        },
+        {
+          "eng": "She is addicted to watching drama series on Netflix.",
+          "ch": "她沉迷於看 Netflix 上的電視劇集。"
+        }
+      ]
+    },
+    {
+      "eng": "server",
+      "kk": "ˈsɜrvər",
+      "tense": "n.",
+      "ch": [
+        [
+          "伺服器",
+          "電腦伺服器"
+        ],
+        [
+          "服務生",
+          "端菜人員"
+        ]
+      ],
+      "analysis": "現代透明構詞：由動詞 serve（服務）加上名詞字尾 -er 組成。除傳統餐飲業中提供服務的「服務生」外，在現代科技語境中指為其他電腦提供資料與服務的「伺服器」。",
+      "definition": "1. a computer or computer program that manages access to a centralized resource or service in a network; 2. a person who serves food or drink, as in a restaurant.",
+      "example": [
+        {
+          "eng": "The website crashed because the main server went down.",
+          "ch": "網站掛了，因為主伺服器故障了。"
+        },
+        {
+          "eng": "The restaurant server brought our food with a smile.",
+          "ch": "餐廳服務生面帶微笑地把我們的餐點端上來。"
+        }
+      ]
+    },
+    {
+      "eng": "session",
+      "kk": "ˈsɛʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "會議",
+          "集會"
+        ],
+        [
+          "學期",
+          "活動時段"
+        ]
+      ],
+      "analysis": "歷史借詞：源自拉丁語 sessio（意為「坐著、開會」），源自 sedēre（坐）。指法庭開庭、議會開議或學術機構聚會的「一段時間或場次」。",
+      "definition": "1. a meeting, class, or assembly where a group sits together for a specific activity; 2. a period allocated for a particular activity.",
+      "example": [
+        {
+          "eng": "The parliament is currently in session.",
+          "ch": "國會目前正在開議中。"
+        },
+        {
+          "eng": "Yoga training sessions are held every Tuesday morning.",
+          "ch": "瑜伽訓練課程於每週二早上舉行。"
+        }
+      ]
+    },
+    {
+      "eng": "setting",
+      "kk": "ˈsɛtɪŋ",
+      "tense": "n.",
+      "ch": [
+        [
+          "背景",
+          "環境",
+          "佈景"
+        ],
+        [
+          "（儀器、機器的）設定值",
+          "調節"
+        ]
+      ],
+      "analysis": "現代透明構詞：由動詞 set 加上動名詞字尾 -ing 組成。指故事發生的時空背景、周遭環境，或調整設備功能的選項設定。",
+      "definition": "1. the place or type of surroundings where something is positioned or where an event takes place; 2. the level or position to which a control is set on a machine.",
+      "example": [
+        {
+          "eng": "The resort provides a romantic setting for weddings.",
+          "ch": "該度假村為婚禮提供了浪漫的背景環境。"
+        },
+        {
+          "eng": "Adjust the air conditioner to a higher temperature setting.",
+          "ch": "將冷氣機調節到較高的溫度設定。"
+        }
+      ]
+    },
+    {
+      "eng": "shareholder",
+      "kk": "ˈʃɛrˌhoʊldər",
+      "tense": "n.",
+      "ch": [
+        [
+          "股東"
+        ]
+      ],
+      "analysis": "現代透明複合詞：由 share（股份）與 holder（持有者）結合而成。指持有公司股票並享有股權的個人或法人機構。",
+      "definition": "1. an owner of shares in a company.",
+      "example": [
+        {
+          "eng": "The company's CEO answered questions from angry shareholders.",
+          "ch": "公司執行長回答了憤怒股東們的問題。"
+        }
+      ]
+    },
+    {
+      "eng": "shatter",
+      "kk": "ˈʃætər",
+      "tense": "vt.",
+      "ch": [
+        [
+          "粉碎",
+          "砸碎"
+        ],
+        [
+          "毀壞",
+          "破滅（希望、夢想等）"
+        ]
+      ],
+      "analysis": "近代日耳曼語源：源自中古英語 shatren，與古諾斯語或日耳曼語族中的破裂擬聲詞相關。原指硬物遭受重擊而破裂成無數碎片，引申為希望、信心或健康遭到徹底摧毀。",
+      "definition": "1. to break or cause to break suddenly into many small pieces; 2. to damage something severely, especially someone's hopes or health.",
+      "example": [
+        {
+          "eng": "The falling rock shattered the car window.",
+          "ch": "落石粉碎了汽車的車窗。"
+        },
+        {
+          "eng": "The bad news shattered all her hopes of winning the competition.",
+          "ch": "這個壞消息粉碎了她贏得比賽的所有希望。"
+        }
+      ]
+    },
+    {
+      "eng": "shed",
+      "kk": "ʃɛd",
+      "tense": "n.",
+      "ch": [
+        [
+          "小屋",
+          "棚子",
+          "工場"
+        ]
+      ],
+      "analysis": "繼承詞：源自古英語 scæd（意為「分隔、遮蔽物」），與 shade（陰影）同源。指結構簡單、用於存放工具或庇護牲畜的單層簡易棚屋。",
+      "definition": "1. a simple roofed structure used for garden storage, shelter, or as a workshop.",
+      "example": [
+        {
+          "eng": "He keeps his lawnmower and tools in the garden shed.",
+          "ch": "他在花園的工具間裡放割草機和工具。"
+        }
+      ]
+    },
+    {
+      "eng": "shed",
+      "kk": "ʃɛd",
+      "tense": "vt.",
+      "ch": [
+        [
+          "流出",
+          "灑落（眼淚、血等）"
+        ],
+        [
+          "脫去",
+          "脫落（皮、毛、葉等）"
+        ],
+        [
+          "散發",
+          "流露（光芒等）"
+        ]
+      ],
+      "analysis": "繼承詞：源自古英語 scēadan（意為「分離、分散」）。歷史語意從「分開、使脫落」演變出多種現代用法：包括生物脫落皮毛、動物蛻皮、流出淚水，以及散發光芒或線索。",
+      "definition": "1. to let fall or drop tears, blood, or light; 2. to cast off or lose skin, hair, or leaves; 3. to send or give off light or information.",
+      "example": [
+        {
+          "eng": "She shed a few tears at the end of the sad movie.",
+          "ch": "看完這部悲傷的電影後，她流下了幾滴眼淚。"
+        },
+        {
+          "eng": "Dogs shed their fur during the warm spring months.",
+          "ch": "狗在溫暖的春季會脫落毛髮。"
+        },
+        {
+          "eng": "The old lamp sheds a warm light over the room.",
+          "ch": "舊檯燈為房間灑下一片溫暖的光芒。"
+        }
+      ]
+    },
+    {
+      "eng": "sheer",
+      "kk": "ʃɪr",
+      "tense": "adj.",
+      "ch": [
+        [
+          "完全的",
+          "十足的"
+        ],
+        [
+          "陡峭的",
+          "垂直的"
+        ],
+        [
+          "極薄的",
+          "透明的"
+        ]
+      ],
+      "analysis": "繼承詞：源自古英語 scīr（意為「明亮的、純淨的」）。歷史語意從「純淨無雜質」演變為「十足的（完全的）」；同時因「純粹、筆直」引申出「陡峭」與「質地薄而透明」之義。",
+      "definition": "1. nothing other than; unmitigated (used to emphasize the magnitude of something); 2. perpendicular or nearly so; steep; 3. very thin, light, and delicate (of fabric).",
+      "example": [
+        {
+          "eng": "The success was achieved through sheer hard work.",
+          "ch": "這次成功是靠著十足的努力才取得的。"
+        },
+        {
+          "eng": "The climbers faced a sheer cliff face.",
+          "ch": "登山者面對著一處陡峭的懸崖峭壁。"
+        },
+        {
+          "eng": "She wore a dress made of sheer silk.",
+          "ch": "她穿著一件薄如蟬翼的真絲洋裝。"
+        }
+      ]
+    },
+    {
+      "eng": "sheriff",
+      "kk": "ˈʃɛrɪf",
+      "tense": "n.",
+      "ch": [
+        [
+          "郡長",
+          "治安官"
+        ]
+      ],
+      "analysis": "繼承詞與歷史複合詞：源自古英語 scīrgerēfa（由 scīr「郡、區」與 gerēfa「行政長官、管家」複合而成）。指英國歷史上的郡行政長官，在美國則指地方層級的民選執法長官（治安官）。",
+      "definition": "1. an elected official in a US county responsible for maintaining peace and enforcing the law.",
+      "example": [
+        {
+          "eng": "The county sheriff and his deputies patrolled the small town.",
+          "ch": "郡治安官和他的副手們在小鎮上巡邏。"
+        }
+      ]
+    },
+    {
+      "eng": "shield",
+      "kk": "ʃild",
+      "tense": "n.",
+      "ch": [
+        [
+          "盾牌",
+          "防護物"
+        ],
+        [
+          "保護罩",
+          "護盾"
+        ]
+      ],
+      "analysis": "繼承詞：源自古英語 scield，屬於日耳曼語族。原指古代士兵作戰時手持防禦武器的盾牌，現代泛指任何形式的防護罩、安全屏障或防禦機制。",
+      "definition": "1. a broad piece of metal or leather carried as a defense against blows or missiles; 2. a person or thing providing protection.",
+      "example": [
+        {
+          "eng": "The knight raised his shield to block the enemy's arrows.",
+          "ch": "騎士舉起盾牌擋住敵人的箭矢。"
+        },
+        {
+          "eng": "Sunglasses provide a shield for your eyes against harmful UV rays.",
+          "ch": "太陽眼鏡為你的眼睛提供抵禦有害紫外線的屏障。"
+        }
+      ]
+    },
+    {
+      "eng": "shiver",
+      "kk": "ˈʃɪvər",
+      "tense": "vi.",
+      "ch": [
+        [
+          "顫抖",
+          "打寒顫"
+        ]
+      ],
+      "analysis": "近代日耳曼語源：源自中古英語 shiveren，與低地德語或日耳曼語族中表示「發抖、碎裂」的詞源相關。指身體因寒冷、恐懼或激動而發抖的生理反應。",
+      "definition": "1. to shake slightly and uncontrollably as a result of being cold, frightened, or excited.",
+      "example": [
+        {
+          "eng": "He shivered in the cold wind without a jacket.",
+          "ch": "他沒穿外套，在冷風中直打哆嗦。"
+        }
+      ]
+    },
+    {
+      "eng": "shortage",
+      "kk": "ˈʃɔrtɪdʒ",
+      "tense": "n.",
+      "ch": [
+        [
+          "短缺",
+          "不足"
+        ]
+      ],
+      "analysis": "現代透明構詞：由形容詞 short 加上名詞字尾 -age 組成。指供應量小於需求量、發生資源或物資不足的情況。",
+      "definition": "1. a state or situation in which something needed cannot be obtained in sufficient amounts.",
+      "example": [
+        {
+          "eng": "The severe drought led to a water shortage in the region.",
+          "ch": "嚴重的乾旱導致該地區出現水源短缺。"
+        }
+      ]
+    },
+    {
+      "eng": "shove",
+      "kk": "ʃʌv",
+      "tense": "vt.",
+      "ch": [
+        [
+          "推",
+          "猛推",
+          "擠"
+        ]
+      ],
+      "analysis": "繼承詞：源自古英語 scūfan（意為「推、推進」），屬於日耳曼語族。指用力推擠人或物使其移動。",
+      "definition": "1. to push someone or something roughly, typically with force.",
+      "example": [
+        {
+          "eng": "He shoved the heavy box out of the way.",
+          "ch": "他把那個笨重的箱子用力推開。"
+        }
+      ]
+    },
+    {
+      "eng": "shrug",
+      "kk": "ʃrʌg",
+      "tense": "vt.",
+      "ch": [
+        [
+          "聳（肩）"
+        ]
+      ],
+      "analysis": "近代日耳曼語源：起源於斯堪地那維亞地區（類似古諾斯語），早期意為「抽動、顫抖」，後專門固定指「聳起肩膀」以表達不知情、無所謂或懷疑的肢體動作。",
+      "definition": "1. to raise and contract the shoulders, typically to express doubt, indifference, or lack of knowledge.",
+      "example": [
+        {
+          "eng": "She shrugged her shoulders when asked about the missing keys.",
+          "ch": "當被問及失蹤的鑰匙時，她聳了聳肩膀表示不知情。"
+        }
+      ]
+    },
+    {
+      "eng": "shuttle",
+      "kk": "ˈʃʌtəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "太空梭",
+          "穿梭交通工具"
+        ],
+        [
+          "梭子（織布機用）"
+        ]
+      ],
+      "analysis": "繼承詞：源自古英語 scytel（意為「射擊的飛鏢、織布機的梭子」），源自 scūtan（發射、推動）。原指織布機中來回穿梭的零件，後引申指往返於兩地之間的定期交通工具（如接駁車、太空梭）。",
+      "definition": "1. a form of transport that regularly travels back and forth between two places; 2. a bobbin used in weaving to pass the thread.",
+      "example": [
+        {
+          "eng": "The airport shuttle runs every thirty minutes.",
+          "ch": "機場接駁車每三十分鐘發車一次。"
+        },
+        {
+          "eng": "The space shuttle successfully launched into orbit.",
+          "ch": "太空梭成功發射進入軌道。"
+        }
+      ]
+    },
+    {
+      "eng": "sibling",
+      "kk": "ˈsɪblɪŋ",
+      "tense": "n.",
+      "ch": [
+        [
+          "兄弟姊妹"
+        ]
+      ],
+      "analysis": "繼承詞與現代復興：源自古英語 sibbling（由 sibb「血親、親屬」與名詞字尾 -ling 組成）。該詞在中古英語一度沒落，後於近代被學術界重新啟用，成為泛稱親生兄弟或姊妹的標準中性詞。",
+      "definition": "1. a brother or sister.",
+      "example": [
+        {
+          "eng": "She is the youngest of four siblings.",
+          "ch": "她是四個兄弟姊妹中最小的一個。"
+        }
+      ]
+    },
+    {
+      "eng": "siege",
+      "kk": "sid",
+      "tense": "n.",
+      "ch": [
+        [
+          "圍攻",
+          "包圍"
+        ]
+      ],
+      "analysis": "歷史借詞：源自古法語 siege（意為「座位、坐著」），源自拉丁語 sedēre（坐）。在軍事語境中，意指軍隊「坐困」並長期包圍敵方城堡或城市以逼其投降的戰術。",
+      "definition": "1. a military operation in which enemy forces surround a town or building, cutting off essential supplies, with the aim of compelling the surrender of those inside.",
+      "example": [
+        {
+          "eng": "The castle was able to withstand a long siege.",
+          "ch": "那座城堡能夠抵擋長時間的圍攻。"
+        }
+      ]
+    },
+    {
+      "eng": "skeleton",
+      "kk": "ˈskɛlɪtən",
+      "tense": "n.",
+      "ch": [
+        [
+          "骨骼",
+          "骷髏"
+        ],
+        [
+          "骨架",
+          "結構大綱"
+        ]
+      ],
+      "analysis": "歷史借詞：源自希臘語 skeletos（意為「乾枯的身體、木乃伊」），源自 skellein（使乾燥）。經由拉丁語進入英語，原指乾燥的骨骸，引申為建築或計畫的「骨架、基本結構」。",
+      "definition": "1. the internal framework of bone and cartilage supporting a human or animal body; 2. the underlying framework or structure of a system or building.",
+      "example": [
+        {
+          "eng": "Archaeologists uncovered the complete skeleton of a dinosaur.",
+          "ch": "考古學家挖出一具完整的恐龍骨骼。"
+        },
+        {
+          "eng": "He wrote a basic skeleton of the essay before adding details.",
+          "ch": "他在補充細節之前，先寫了文章的基本骨架。"
+        }
+      ]
+    },
+    {
+      "eng": "skull",
+      "kk": "skʌl",
+      "tense": "n.",
+      "ch": [
+        [
+          "頭骨",
+          "顱骨"
+        ]
+      ],
+      "analysis": "近代日耳曼語源：源自斯堪地那維亞地區的語言（類似古諾斯語 skalli「禿頭、頭骨」）。指包覆並保護大腦的頭部骨骼結構。",
+      "definition": "1. the bone framework of the head that encloses the brain.",
+      "example": [
+        {
+          "eng": "The helmet is designed to protect the rider's skull from impacts.",
+          "ch": "這款安全帽旨在保護騎士的頭骨免受撞擊。"
+        }
+      ]
+    },
+    {
+      "eng": "slam",
+      "kk": "slæm",
+      "tense": "vt.",
+      "ch": [
+        [
+          "砰地關上",
+          "猛力摔"
+        ]
+      ],
+      "analysis": "擬聲詞與近代日耳曼語源：屬於模仿猛烈關門或撞擊聲音的擬聲詞。指帶有力量與怒氣地將門窗或物品猛力關上或摔下。",
+      "definition": "1. to shut forcefully and loudly; to put or throw something down with force.",
+      "example": [
+        {
+          "eng": "Angry after the argument, he slammed the door behind him.",
+          "ch": "爭吵過後他氣憤地砰的一聲把門關上。"
+        }
+      ]
+    },
+    {
+      "eng": "slap",
+      "kk": "slæp",
+      "tense": "vt.",
+      "ch": [
+        [
+          "拍擊",
+          "巴掌打"
+        ]
+      ],
+      "analysis": "擬聲詞與近代日耳曼語源：模仿手掌擊打物體聲音的擬聲詞。指用手掌或扁平物體猛然拍打。",
+      "definition": "1. to strike someone or something with the palm of the hand or a flat object.",
+      "example": [
+        {
+          "eng": "She slapped him across the face for his rude behavior.",
+          "ch": "因為他粗魯的行為，她狠狠地打了她一巴掌。"
+        }
+      ]
+    },
+    {
+      "eng": "slavery",
+      "kk": "ˈsleɪvəri",
+      "tense": "n.",
+      "ch": [
+        [
+          "奴隸制度",
+          "蓄奴"
+        ],
+        [
+          "奴役狀態",
+          "精神束縛"
+        ]
+      ],
+      "analysis": "歷史借詞與現代構詞：源自名詞 slave（源自中世紀拉丁語 Sclavus「斯拉夫奴隸」，因中世紀歐洲常將斯拉夫俘虜作奴隸），加上名詞抽象字尾 -ery 組成。指奴隸制度或遭受強烈奴役的困境。",
+      "definition": "1. the state of being a slave; the practice or system of owning slaves; 2. a state of severe subjection or bondage.",
+      "example": [
+        {
+          "eng": "Abraham Lincoln played a historic role in the abolition of slavery.",
+          "ch": "亞伯拉罕·林肯在廢除奴隸制度中扮演了歷史性的角色。"
+        },
+        {
+          "eng": "Workers fought hard to escape the slavery of poverty.",
+          "ch": "工人們努力奮鬥以擺脫貧困的束縛。"
+        }
+      ]
+    }
+  ]
+}

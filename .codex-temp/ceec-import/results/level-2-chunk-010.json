@@ -1,0 +1,1604 @@
+{
+  "level": 2,
+  "chunkIndex": 10,
+  "inputs": [
+    "hike",
+    "hip",
+    "hippopotamus",
+    "hippo",
+    "historical",
+    "hole",
+    "hop",
+    "host",
+    "hostess",
+    "huge",
+    "human",
+    "humble",
+    "hunt",
+    "hunter",
+    "hurry",
+    "ideal",
+    "identity",
+    "ignore",
+    "ill",
+    "image",
+    "imagine",
+    "importance",
+    "impressive",
+    "improve",
+    "improvement",
+    "include",
+    "income",
+    "increase",
+    "indeed",
+    "independence",
+    "independent",
+    "indicate",
+    "individual",
+    "industry",
+    "influence",
+    "ink",
+    "insist",
+    "instance",
+    "instant",
+    "instead",
+    "instruction",
+    "instrument",
+    "internal",
+    "international",
+    "Internet",
+    "introduce",
+    "introduction",
+    "iron",
+    "jam",
+    "jog"
+  ],
+  "rows": [
+    {
+      "eng": "hike",
+      "kk": "haɪk",
+      "tense": "n.",
+      "ch": [
+        [
+          "健行",
+          "遠足"
+        ],
+        [
+          "大幅上升",
+          "暴漲"
+        ]
+      ],
+      "analysis": "此字為動詞 hike 相應的名詞形式，保留了進行長途步行或價格突然調高的核心語義。",
+      "definition": "1. a long walk, especially in the country or wilderness; 2. a sudden, large increase in prices, costs, or wages.",
+      "example": [
+        {
+          "eng": "We went on a ten-mile hike across the hills.",
+          "ch": "我們進行了一場跨越丘陵的十英里健行。"
+        },
+        {
+          "eng": "Consumers are protesting against the recent tax hike.",
+          "ch": "消費者正在抗議最近的稅收調高。"
+        }
+      ]
+    },
+    {
+      "eng": "hike",
+      "kk": "haɪk",
+      "tense": "vt.",
+      "ch": [
+        [
+          "提高",
+          "拉起"
+        ]
+      ],
+      "analysis": "此字為 hike 的及物動詞用法，由健行時將裝備往上拉的動作或價格上調的動作引申而來，常與副詞 up 連用，表示提高價格或拉起衣物。",
+      "definition": "1. to raise something, such as prices, taxes, or clothing, suddenly or with effort.",
+      "example": [
+        {
+          "eng": "Local stores had to hike their prices due to supply chain issues.",
+          "ch": "由於供應鏈問題，當地商店不得不調高價格。"
+        }
+      ]
+    },
+    {
+      "eng": "hike",
+      "kk": "haɪk",
+      "tense": "vi.",
+      "ch": [
+        [
+          "健行",
+          "遠足"
+        ],
+        [
+          "大幅上升",
+          "暴漲"
+        ]
+      ],
+      "analysis": "此字為歷史起源不明的動詞與名詞，可能源自方言或擬聲，於 19 世紀中期開始在英語中流行。作為不及物動詞，其核心義為進行長途健行或遠足，隨後引申出價格或數量大幅上升、暴漲的轉義。",
+      "definition": "1. to take a long walk for pleasure or exercise, especially in the countryside; 2. to increase suddenly, usually in price, cost, or amount.",
+      "example": [
+        {
+          "eng": "They plan to hike through the mountains this weekend.",
+          "ch": "他們計畫這週末去山裡健行。"
+        },
+        {
+          "eng": "The government decided to hike fuel prices by ten percent.",
+          "ch": "政府決定將油價調高百分之十。"
+        }
+      ]
+    },
+    {
+      "eng": "hip",
+      "kk": "hɪp",
+      "tense": "n.",
+      "ch": [
+        [
+          "臀部",
+          "髖部"
+        ]
+      ],
+      "analysis": "此字為源自古英語 hypp 的繼承詞，屬於日耳曼語族同源詞，現代標準英語中專指人體軀幹與大腿連接處的身體部位。",
+      "definition": "1. the joint between the thigh and the body, or the fleshy part on either side of the body below the waist.",
+      "example": [
+        {
+          "eng": "She broke her hip when she slipped on the ice.",
+          "ch": "她在冰上滑倒時摔斷了髖部。"
+        }
+      ]
+    },
+    {
+      "eng": "hippopotamus",
+      "kk": "ˌhɪpəˈpɑtəməs",
+      "tense": "n.",
+      "ch": [
+        [
+          "河馬"
+        ]
+      ],
+      "analysis": "此字透過拉丁語借自古希臘語 hippopotamos，由 hippos（馬）與 potamos（河）複合而成，字面原意為「河馬」，現代英語中指大型半水生非洲哺乳動物。",
+      "definition": "1. a large, thick-skinned, semi-aquatic African mammal with a broad muzzle and short legs.",
+      "example": [
+        {
+          "eng": "We saw a hippopotamus submerging its massive body in the muddy river.",
+          "ch": "我們看到一隻河馬將它龐大的身軀浸入泥濘的河中。"
+        }
+      ]
+    },
+    {
+      "eng": "hippo",
+      "kk": "ˈhɪpoʊ",
+      "tense": "n.",
+      "ch": [
+        [
+          "河馬"
+        ]
+      ],
+      "analysis": "此字為 hippopotamus 的現代英語截斷縮寫形式，在日常口語中廣泛使用，代表相同的動物。",
+      "definition": "1. an informal short form for hippopotamus.",
+      "example": [
+        {
+          "eng": "The children were excited to feed the hippo at the zoo.",
+          "ch": "孩子們很興奮能在動物園餵河馬。"
+        }
+      ]
+    },
+    {
+      "eng": "historical",
+      "kk": "hɪˈstɔrɪkəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "歷史的",
+          "基於歷史的"
+        ]
+      ],
+      "analysis": "此字由名詞 history 加上形容詞字尾 -ical 構成。源自古希臘語 historia，經拉丁語與法語進入英語。專指與歷史事件、真實過去或歷史學研究相關的事物。",
+      "definition": "1. connected with the past or the study of history; based on events in the past.",
+      "example": [
+        {
+          "eng": "The museum houses a vast collection of historical artifacts.",
+          "ch": "這座博物館收藏了大量的歷史文物。"
+        }
+      ]
+    },
+    {
+      "eng": "hole",
+      "kk": "hoʊl",
+      "tense": "n.",
+      "ch": [
+        [
+          "洞",
+          "孔"
+        ],
+        [
+          "困境",
+          "窘境"
+        ]
+      ],
+      "analysis": "此字為源自古 hol 的繼承詞，與 hollow 同源。名詞核心義為實體表面或物體內部的穿透性空洞，引申出抽象的「困境或漏洞」等語義。",
+      "definition": "1. an opening, hole, or hollow place in something solid; 2. a difficult or awkward situation.",
+      "example": [
+        {
+          "eng": "He dug a deep hole in the garden to plant a tree.",
+          "ch": "他在花園裡挖了一個深洞來種樹。"
+        },
+        {
+          "eng": "Bad financial decisions put the company in a deep financial hole.",
+          "ch": "糟糕的財務決策讓公司陷入嚴重的財務困境。"
+        }
+      ]
+    },
+    {
+      "eng": "hop",
+      "kk": "hɑp",
+      "tense": "vi.",
+      "ch": [
+        [
+          "單足跳",
+          "跳躍"
+        ]
+      ],
+      "analysis": "此字為源自古英語 hoppian 的繼承詞，屬於日耳曼語族。作為不及物動詞，指單腳跳躍或短距離的彈跳動作。",
+      "definition": "1. to move by jumping on one foot, or to make a quick, short jump.",
+      "example": [
+        {
+          "eng": "The injured bird tried to hop across the grass.",
+          "ch": "受傷的小鳥試圖單腳跳過草地。"
+        }
+      ]
+    },
+    {
+      "eng": "host",
+      "kk": "hoʊst",
+      "tense": "n.",
+      "ch": [
+        [
+          "主人",
+          "東道主"
+        ],
+        [
+          "節目主持人"
+        ],
+        [
+          "主機"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 hospitem（客人、主人），經古法語 hoste 進入英語。隨著歷史演變，兼具接待客人的主人、廣播電視節目主持人，以及電腦網路中的主機等多重現代高頻義項。",
+      "definition": "1. a person who receives or entertains guests; 2. a person who introduces guests and performers on a television or radio program; 3. a computer that serves as a node in a network.",
+      "example": [
+        {
+          "eng": "Our host welcomed us warmly and showed us to our rooms.",
+          "ch": "我們的東道主熱情地歡迎我們，並帶我們去房間。"
+        },
+        {
+          "eng": "The talk show host asked the actor about his upcoming movie.",
+          "ch": "脫口秀節目主持人詢問了這位演員即將上映的電影。"
+        },
+        {
+          "eng": "The web server acts as the primary host for the website.",
+          "ch": "該網路伺服器充當網站的主要主機。"
+        }
+      ]
+    },
+    {
+      "eng": "host",
+      "kk": "hoʊst",
+      "tense": "vt.",
+      "ch": [
+        [
+          "主辦",
+          "主持"
+        ]
+      ],
+      "analysis": "此字由名詞 host 轉品而來的及物動詞，指擔任東道主舉辦活動或擔任節目主持人。",
+      "definition": "1. to act as host for an event, organization, or television program.",
+      "example": [
+        {
+          "eng": "Tokyo was chosen to host the Olympic Games.",
+          "ch": "東京被選為主辦奧林匹克運動會的城市。"
+        }
+      ]
+    },
+    {
+      "eng": "hostess",
+      "kk": "ˈhoʊstəs",
+      "tense": "n.",
+      "ch": [
+        [
+          "女主人",
+          "女招待"
+        ]
+      ],
+      "analysis": "此字由名詞 host 加上表示女性的字尾 -ess 構成，指女性的主人、女東道主或餐廳、活動中的女性接待人員。",
+      "definition": "1. a woman who receives or entertains guests, or a woman employed to welcome customers in a restaurant.",
+      "example": [
+        {
+          "eng": "The hostess greeted every guest with a charming smile.",
+          "ch": "女主人帶著迷人的微笑迎接每一位客人。"
+        }
+      ]
+    },
+    {
+      "eng": "huge",
+      "kk": "hjudʒ",
+      "tense": "adj.",
+      "ch": [
+        [
+          "巨大的",
+          "龐大的"
+        ]
+      ],
+      "analysis": "此字源自古法語 huge，其更早源頭可追溯至拉丁語 ūnsus 或與其相關的日耳曼語根源。在現代英語中專門用來形容尺寸、數量或程度極端巨大的事物。",
+      "definition": "1. extremely large in size, amount, or degree.",
+      "example": [
+        {
+          "eng": "A huge crowd gathered in the square to celebrate the victory.",
+          "ch": "巨大的人潮聚集在廣場上慶祝勝利。"
+        }
+      ]
+    },
+    {
+      "eng": "human",
+      "kk": "ˈhjumən",
+      "tense": "n.",
+      "ch": [
+        [
+          "人",
+          "人類"
+        ]
+      ],
+      "analysis": "此字由形容詞 human 轉化而來的名詞，指屬於智人（Homo sapiens）物種的單一個體或整體人類。",
+      "definition": "1. a human being, person, or member of the human species.",
+      "example": [
+        {
+          "eng": "Dolphins and humans share a high level of intelligence.",
+          "ch": "海豚與人類具備高度的智慧。"
+        }
+      ]
+    },
+    {
+      "eng": "human",
+      "kk": "ˈhjumən",
+      "tense": "adj.",
+      "ch": [
+        [
+          "人的",
+          "人類的"
+        ],
+        [
+          "有人性的",
+          "通情達理的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 hūmānus（屬於人類的），與 homō（人）同源。經中古法語進入英語。作為形容詞，既可指生物學上人類的特徵，也可指具有同理心或弱點的「人性」特質。",
+      "definition": "1. connected with or characteristic of people; 2. having the better qualities of people, such as kindness and sympathy.",
+      "example": [
+        {
+          "eng": "To err is a natural human weakness.",
+          "ch": "犯錯是人類自然的弱點。"
+        },
+        {
+          "eng": "His decision to forgive her showed a deep human understanding.",
+          "ch": "他決定原諒她，展現了深厚的人性理解。"
+        }
+      ]
+    },
+    {
+      "eng": "humble",
+      "kk": "ˈhʌmbəl",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使謙卑",
+          "擊敗",
+          "貶抑"
+        ]
+      ],
+      "analysis": "此字由形容詞 humble 轉化而來的及物動詞，指使某人謙虛、打破其傲氣，或在競賽中擊敗原本強大的對手。",
+      "definition": "1. to make someone feel less important or proud, especially by defeating them.",
+      "example": [
+        {
+          "eng": "The defending champions were humbled by the underdog team.",
+          "ch": "衛冕冠軍被這支黑馬球隊給擊敗了。"
+        }
+      ]
+    },
+    {
+      "eng": "humble",
+      "kk": "ˈhʌmbəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "謙虛的",
+          "謙遜的"
+        ],
+        [
+          "卑微的",
+          "簡陋的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 humilis（低矮的、土壤上的），由 humus（土壤、地表）衍伸而來。經古法語 humble 進入英語。字面義從「貼近地面的」演變出社會地位低下的「卑微的」與性格不自傲的「謙虛的」。",
+      "definition": "1. having or showing a modest or low estimate of one's own importance; 2. of low social status or of modest size and style.",
+      "example": [
+        {
+          "eng": "Despite his great success, he remained a humble man.",
+          "ch": "儘管取得了巨大的成功，他依然是一個謙虛的人。"
+        },
+        {
+          "eng": "They started their business from a humble garage.",
+          "ch": "他們的事業起步於一間簡陋的車庫。"
+        }
+      ]
+    },
+    {
+      "eng": "hunt",
+      "kk": "hʌnt",
+      "tense": "n.",
+      "ch": [
+        [
+          "打獵",
+          "搜尋"
+        ]
+      ],
+      "analysis": "此字為動詞 hunt 相應的名詞形式，指一次打獵活動或對失物、機會的積極搜尋。",
+      "definition": "1. an act of hunting wild animals, or an organized search for something.",
+      "example": [
+        {
+          "eng": "The police joined the hunt for the escaped prisoner.",
+          "ch": "警方加入了搜捕逃犯的行動。"
+        }
+      ]
+    },
+    {
+      "eng": "hunt",
+      "kk": "hʌnt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "打獵",
+          "獵取"
+        ],
+        [
+          "搜查",
+          "尋找"
+        ]
+      ],
+      "analysis": "此字為源自古英語 huntian 的繼承詞，屬於日耳曼語族。作為及物動詞，其核心義為追捕野生動物以獲取食物或皮毛，隨後引申出積極「搜查、尋找」某物或某人的抽象語義。",
+      "definition": "1. to pursue wild animals for food or sport; 2. to search thoroughly for someone or something.",
+      "example": [
+        {
+          "eng": "Ancient humans had to hunt for survival.",
+          "ch": "古代人類必須打獵以求生存。"
+        },
+        {
+          "eng": "She spent the entire afternoon hunting for her missing keys.",
+          "ch": "她整個下午都在尋找她遺失的鑰匙。"
+        }
+      ]
+    },
+    {
+      "eng": "hunt",
+      "kk": "hʌnt",
+      "tense": "vi.",
+      "ch": [
+        [
+          "打獵",
+          "搜尋"
+        ]
+      ],
+      "analysis": "此字為 hunt 的不及物動詞用法，表示從事打獵活動或進行尋找工作。",
+      "definition": "1. to pursue wild animals as a sport or occupation, or to search for something.",
+      "example": [
+        {
+          "eng": "They went out to hunt in the deep forest.",
+          "ch": "他們到深林裡去打獵。"
+        }
+      ]
+    },
+    {
+      "eng": "hunter",
+      "kk": "ˈhʌntər",
+      "tense": "n.",
+      "ch": [
+        [
+          "獵人",
+          "搜求者"
+        ]
+      ],
+      "analysis": "此字由動詞 hunt 加上名詞字尾 -er 構成，指從事打獵的人或積極尋找特定事物的人。",
+      "definition": "1. a person who hunts wild animals, or someone who searches for something.",
+      "example": [
+        {
+          "eng": "The experienced hunter tracked the deer through the snow.",
+          "ch": "這位經驗豐富的獵人在雪地中追蹤那隻鹿。"
+        }
+      ]
+    },
+    {
+      "eng": "hurry",
+      "kk": "ˈhɜri",
+      "tense": "n.",
+      "ch": [
+        [
+          "匆忙",
+          "急迫"
+        ]
+      ],
+      "analysis": "此字為動詞 hurry 相應的名詞形式，常與介詞 in 搭配，表示處於匆忙或趕時間的狀態。",
+      "definition": "1. a state of moving or acting with great speed; urgency.",
+      "example": [
+        {
+          "eng": "She left the house in a hurry without locking the door.",
+          "ch": "她急急忙忙離開房子，連門都沒鎖。"
+        }
+      ]
+    },
+    {
+      "eng": "hurry",
+      "kk": "ˈhɜri",
+      "tense": "vt.",
+      "ch": [
+        [
+          "催促",
+          "急派"
+        ]
+      ],
+      "analysis": "此字為 hurry 的及物動詞用法，指催促某人加快速度或加速處理某事。",
+      "definition": "1. to cause someone to act or move more quickly.",
+      "example": [
+        {
+          "eng": "Don't hurry me; I am doing my best.",
+          "ch": "別催我；我已經盡力了。"
+        }
+      ]
+    },
+    {
+      "eng": "hurry",
+      "kk": "ˈhɜri",
+      "tense": "vi.",
+      "ch": [
+        [
+          "趕快",
+          "急忙"
+        ]
+      ],
+      "analysis": "此字可能源自斯堪地那維亞語源或與方言動詞有關。作為不及物動詞，其核心義為催促自己快速行動或趕時間。",
+      "definition": "1. to move or act with great speed; to be quick.",
+      "example": [
+        {
+          "eng": "We need to hurry if we want to catch the last train.",
+          "ch": "如果我们想趕上末班車，就必須趕快。"
+        }
+      ]
+    },
+    {
+      "eng": "ideal",
+      "kk": "aɪˈdiəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "理想",
+          "完美典型"
+        ]
+      ],
+      "analysis": "此字由形容詞 ideal 轉化而來的名詞，指心目中所追求的完美標準、原則或模範。",
+      "definition": "1. a principle, standard, or person considered to be perfect.",
+      "example": [
+        {
+          "eng": "He dedicated his life to the ideal of world peace.",
+          "ch": "他將一生奉獻給世界和平的理想。"
+        }
+      ]
+    },
+    {
+      "eng": "ideal",
+      "kk": "aɪˈdiəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "理想的",
+          "完美的"
+        ]
+      ],
+      "analysis": "此字源自中世紀拉丁語 idealis，由希臘語 idea（意念、形像）衍生而來。在現代英語中指完美無缺、完全符合想像或期望的狀態。",
+      "definition": "1. satisfying one's conception of what is perfect; most suitable.",
+      "example": [
+        {
+          "eng": "Sunny weather provides ideal conditions for a picnic.",
+          "ch": "晴朗的天氣為野餐提供了理想的條件。"
+        }
+      ]
+    },
+    {
+      "eng": "identity",
+      "kk": "aɪˈdɛntəti",
+      "tense": "n.",
+      "ch": [
+        [
+          "身份",
+          "特徵",
+          "認同"
+        ]
+      ],
+      "analysis": "此字源自中世紀拉丁語 identitat-, identitas，由拉丁語 idem（同一個）演變而來。進入英語後，指一個人的真實身份、獨特個性，或群體所屬的文化認同。",
+      "definition": "1. the fact of being who or what a person or thing is; 2. the characteristics determining who or what a person is.",
+      "example": [
+        {
+          "eng": "The police are still trying to confirm the suspect's identity.",
+          "ch": "警方仍在試圖確認嫌疑人的身份。"
+        },
+        {
+          "eng": "Language is a crucial part of cultural identity.",
+          "ch": "語言是文化認同至關重要的一部分。"
+        }
+      ]
+    },
+    {
+      "eng": "ignore",
+      "kk": "ɪɡˈnɔr",
+      "tense": "vt.",
+      "ch": [
+        [
+          "忽視",
+          "不理睬"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 ignōrāre（不理會、不曉得），由否定字首 in- 與 gnarus（知道的）結合而成。進入英語後，專指明知故犯或故意不予理會某人或某事。",
+      "definition": "1. to refuse to take notice of or acknowledge someone or something; disregard.",
+      "example": [
+        {
+          "eng": "She chose to ignore his rude comments.",
+          "ch": "她選擇不理會他粗魯的評論。"
+        }
+      ]
+    },
+    {
+      "eng": "ill",
+      "kk": "ɪl",
+      "tense": "n.",
+      "ch": [
+        [
+          "禍害",
+          "弊病"
+        ]
+      ],
+      "analysis": "此字由形容詞 ill 轉化而來的名詞，常用複數形式，指社會或個人面臨的災禍、弊端與不良影響。",
+      "definition": "1. evil, harm, or trouble; a cause of suffering.",
+      "example": [
+        {
+          "eng": "Education is the best weapon to fight poverty and other social ills.",
+          "ch": "教育是對抗貧窮與其他社會弊病的最強武器。"
+        }
+      ]
+    },
+    {
+      "eng": "ill",
+      "kk": "ɪl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "生病的",
+          "不健康的"
+        ],
+        [
+          "不良的",
+          "有害的"
+        ]
+      ],
+      "analysis": "此字源自古諾斯語 illr（壞的、困難的），在中古英語時期取代了部分古英語詞彙。作為形容詞，主要指身體生病不適，或引申為不良、有害的狀況。",
+      "definition": "1. not in good health; sick; 2. harmful or unfavorable.",
+      "example": [
+        {
+          "eng": "He has been ill with a bad flu for a week.",
+          "ch": "他得了重感冒，已經生病一個星期了。"
+        },
+        {
+          "eng": "They suffered heavy losses due to ill management.",
+          "ch": "由於經營管理不善，他們遭受了重大的損失。"
+        }
+      ]
+    },
+    {
+      "eng": "image",
+      "kk": "ˈɪmɪdʒ",
+      "tense": "n.",
+      "ch": [
+        [
+          "影像",
+          "圖像"
+        ],
+        [
+          "形象",
+          "聲譽"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 imāgō（複製、模仿、雕像），經古法語 image 進入英語。核心義為視覺上的相片、畫像，引申出公眾眼中的「形象」或心理上的「心像」。",
+      "definition": "1. a representation of the external form of a person or thing in art or photography; 2. the general impression that a person, organization, or product presents to the public.",
+      "example": [
+        {
+          "eng": "The satellite transmitted clear images of the storm.",
+          "ch": "該衛星傳輸了清晰的風暴影像。"
+        },
+        {
+          "eng": "The company hired a public relations firm to improve its corporate image.",
+          "ch": "該公司聘請了一家公關公司來改善其企業形象。"
+        }
+      ]
+    },
+    {
+      "eng": "imagine",
+      "kk": "ɪˈmædʒən",
+      "tense": "vt.",
+      "ch": [
+        [
+          "想像",
+          "設想"
+        ],
+        [
+          "猜想",
+          "料想"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 imāginārī（形成心智影像），由 imāgō 派生而來。經由古法語與中古英語進入英語。作為及物動詞，指在腦海中構思畫面，或主觀猜測某種情況。",
+      "definition": "1. to form a mental image or concept of something; 2. to think or suppose that something is true.",
+      "example": [
+        {
+          "eng": "Try to imagine living in a world without electricity.",
+          "ch": "試著想像生活在一個沒有電的世界裡。"
+        },
+        {
+          "eng": "I imagine she will arrive late due to the traffic.",
+          "ch": "我想她因為交通狀況會晚到。"
+        }
+      ]
+    },
+    {
+      "eng": "imagine",
+      "kk": "ɪˈmædʒən",
+      "tense": "vi.",
+      "ch": [
+        [
+          "想像",
+          "猜想"
+        ]
+      ],
+      "analysis": "此字為 imagine 的不及物動詞用法，常在獨立子句中表示主觀臆測或憑空想像。",
+      "definition": "1. to exercise the faculty of imagination; to suppose.",
+      "example": [
+        {
+          "eng": "You are just imagining things; no one is talking about you.",
+          "ch": "你只是在胡思亂想；沒有人在談論你。"
+        }
+      ]
+    },
+    {
+      "eng": "importance",
+      "kk": "ɪmˈpɔrtəns",
+      "tense": "n.",
+      "ch": [
+        [
+          "重要性",
+          "重大"
+        ]
+      ],
+      "analysis": "此字由形容詞 important 加上名詞字尾 -ance 構成。源自拉丁語 importantia。指人、事、物具有的高價值、重大意義或影響力。",
+      "definition": "1. the quality or state of being important; significance.",
+      "example": [
+        {
+          "eng": "The manager stressed the importance of punctuality at work.",
+          "ch": "經理強調了工作守時的重要性。"
+        }
+      ]
+    },
+    {
+      "eng": "impressive",
+      "kk": "ɪmˈprɛsɪv",
+      "tense": "adj.",
+      "ch": [
+        [
+          "令人印象深刻的",
+          "讓人讚嘆的"
+        ]
+      ],
+      "analysis": "此字由動詞 impress 加上形容詞字尾 -ive 構成。源自拉丁語 impressus。指某事物引起強烈美感、敬意或讚嘆的特質。",
+      "definition": "1. evoking admiration through size, quality, or skill; making a strong positive impact.",
+      "example": [
+        {
+          "eng": "She delivered an impressive speech that won loud applause.",
+          "ch": "她發表了一場令人印象深刻的演講，贏得了熱烈的掌聲。"
+        }
+      ]
+    },
+    {
+      "eng": "improve",
+      "kk": "ɪmˈpruv",
+      "tense": "vt.",
+      "ch": [
+        [
+          "改善",
+          "改進",
+          "提高"
+        ]
+      ],
+      "analysis": "此字源自古法語 en-（使）與老法語 prouz（有利的、優秀的）結合而成的 ēmprover。進入英語後，作為及物動詞，指使品質、效率或技能變得更好。",
+      "definition": "1. to make or become better in quality, condition, or performance.",
+      "example": [
+        {
+          "eng": "Regular exercise can greatly improve your physical health.",
+          "ch": "規律運動能大幅改善你的身體健康。"
+        }
+      ]
+    },
+    {
+      "eng": "improve",
+      "kk": "ɪmˈpruv",
+      "tense": "vi.",
+      "ch": [
+        [
+          "改善",
+          "進步"
+        ]
+      ],
+      "analysis": "此字為 improve 的不及物動詞用法，表示狀況或技能本身逐漸變得更好、有所進步。",
+      "definition": "1. to become better; to make progress.",
+      "example": [
+        {
+          "eng": "His English speaking skills have improved significantly this semester.",
+          "ch": "他這學期的英語口說能力明顯進步了。"
+        }
+      ]
+    },
+    {
+      "eng": "improvement",
+      "kk": "ɪmˈpruvmənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "改善",
+          "改進",
+          "進步"
+        ]
+      ],
+      "analysis": "此字由動詞 improve 加上名詞字尾 -ment 構成，指變得更好的過程、結果或具體的進步之處。",
+      "definition": "1. an instance of improving or being improved; a change or addition that makes something better.",
+      "example": [
+        {
+          "eng": "There is a noticeable improvement in her test scores.",
+          "ch": "她的考試成績有了明顯的進步。"
+        }
+      ]
+    },
+    {
+      "eng": "include",
+      "kk": "ɪnˈklud",
+      "tense": "vt.",
+      "ch": [
+        [
+          "包含",
+          "包括"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 inclūdere（關閉在內、包含），由字首 in-（在內）與 clūdere（關閉）複合而成。經中古法語或直接借入英語。作為及物動詞，指將某部分納入整體之中。",
+      "definition": "1. to comprise or contain as part of a whole.",
+      "example": [
+        {
+          "eng": "The tour package includes airfare and hotel accommodation.",
+          "ch": "這個旅遊套裝行程包含機票與飯店住宿。"
+        }
+      ]
+    },
+    {
+      "eng": "income",
+      "kk": "ˈɪnˌkʌm",
+      "tense": "n.",
+      "ch": [
+        [
+          "收入",
+          "所得"
+        ]
+      ],
+      "analysis": "此字由副詞/介詞 in（進入）與動詞 come（來）複合而成的現代透明構詞名詞，指金錢或資源流入個人或組織的總收入。",
+      "definition": "1. money received, especially on a regular basis, for work or through investments.",
+      "example": [
+        {
+          "eng": "Many families depend on a single source of income.",
+          "ch": "許多家庭依賴單一的收入來源。"
+        }
+      ]
+    },
+    {
+      "eng": "increase",
+      "kk": "ˈɪnˌkris",
+      "tense": "n.",
+      "ch": [
+        [
+          "增加",
+          "增長"
+        ]
+      ],
+      "analysis": "此字為 increase 相應的名詞形式，通常重音在前，指數量、規模或比率上升的現象。",
+      "definition": "1. an instance of growing larger or making greater.",
+      "example": [
+        {
+          "eng": "There has been a sharp increase in house prices recently.",
+          "ch": "最近房價出現了急劇的漲幅。"
+        }
+      ]
+    },
+    {
+      "eng": "increase",
+      "kk": "ɪnˈkris",
+      "tense": "vt.",
+      "ch": [
+        [
+          "增加",
+          "增大",
+          "提高"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 incrēscere（長大、增長），由字首 in-（朝向）與 crēscere（生長）複合而成。經由古法語的 en- 與 creiss-, 進入英語。作為及物動詞，指使數量、大小或程度增加。",
+      "definition": "1. to make something greater in size, amount, or degree.",
+      "example": [
+        {
+          "eng": "The factory plans to increase production next month.",
+          "ch": "工廠計畫在下個月增加產量。"
+        }
+      ]
+    },
+    {
+      "eng": "increase",
+      "kk": "ɪnˈkris",
+      "tense": "vi.",
+      "ch": [
+        [
+          "增加",
+          "增長"
+        ]
+      ],
+      "analysis": "此字為 increase 的不及物動詞用法，指數量、規模或強度本身不斷增長。",
+      "definition": "1. to become greater in size, amount, or degree.",
+      "example": [
+        {
+          "eng": "Traffic volume tends to increase during rush hours.",
+          "ch": "交通流量在尖峰時段往往會增加。"
+        }
+      ]
+    },
+    {
+      "eng": "indeed",
+      "kk": "ɪnˈdid",
+      "tense": "adv.",
+      "ch": [
+        [
+          "確實",
+          "實在",
+          "甚至"
+        ]
+      ],
+      "analysis": "此字由古英語介詞片語 in dæde（在事實中）演變而來的透明構詞副詞，由 in 與 deed 結合。在現代英語中用來強調陳述的真實性、加強語氣或表示「的確如此」。",
+      "definition": "1. used to emphasize a statement or response; truly; in fact.",
+      "example": [
+        {
+          "eng": "It was indeed a pleasure to meet you.",
+          "ch": "能與你見面實在是一大樂事。"
+        }
+      ]
+    },
+    {
+      "eng": "independence",
+      "kk": "ˌɪndɪˈpɛndəns",
+      "tense": "n.",
+      "ch": [
+        [
+          "獨立",
+          "自主"
+        ]
+      ],
+      "analysis": "此字由形容詞 independent 加上名詞字尾 -ence 構成。源自否定字首 in-、dependent（依賴的）。指不受他人支配、自主管理的狀態。",
+      "definition": "1. the fact or state of being independent; freedom from outside control or support.",
+      "example": [
+        {
+          "eng": "The country celebrates its national independence on July 4th.",
+          "ch": "該國於 7 月 4 日慶祝其國家獨立日。"
+        }
+      ]
+    },
+    {
+      "eng": "independent",
+      "kk": "ˌɪndɪˈpɛndənt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "獨立的",
+          "自主的"
+        ]
+      ],
+      "analysis": "此字由否定字首 in-（不）、de-（向下/加強）、pendere（懸掛）衍生出的 dependent 加上形容詞字尾構詞。指不受他人控制、經濟或政治上能自主的。",
+      "definition": "1. free from outside control; not subject to another's authority or depending on others for livelihood.",
+      "example": [
+        {
+          "eng": "She wants to be financially independent of her parents.",
+          "ch": "她希望在經濟上獨立於父母。"
+        }
+      ]
+    },
+    {
+      "eng": "indicate",
+      "kk": "ˈɪndəˌkeɪt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "表明",
+          "指示",
+          "暗示"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 indicātus（指出、宣示），由字首 in-（朝向）與 dicāre（宣告、指出）複合而成。作為及物動詞，指明確指出、顯示某種跡象或暗示。",
+      "definition": "1. to point out or show; to be a sign of or imply.",
+      "example": [
+        {
+          "eng": "Recent surveys indicate that consumer confidence is rising.",
+          "ch": "最近的調查表明消費者信心正在上升。"
+        }
+      ]
+    },
+    {
+      "eng": "individual",
+      "kk": "ˌɪndəˈvɪdʒuəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "個人",
+          "個體"
+        ]
+      ],
+      "analysis": "此字由形容詞 individual 轉化而來的名詞，指一個單獨的人或生物個體。",
+      "definition": "1. a single human being as distinct from a group.",
+      "example": [
+        {
+          "eng": "The school aims to develop the full potential of each individual.",
+          "ch": "該校旨在發展每位個人的全部潛能。"
+        }
+      ]
+    },
+    {
+      "eng": "individual",
+      "kk": "ˌɪndəˈvɪdʒuəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "個體的",
+          "個人的",
+          "獨特的"
+        ]
+      ],
+      "analysis": "此字源自中世紀拉丁語 individuus（不可分割的），由否定字首 in- 與 dīvidere（分割）結合而成。在現代英語中指屬於單一個體的、具有獨特風格的。",
+      "definition": "1. single; separate; characteristic of a particular person or thing.",
+      "example": [
+        {
+          "eng": "Every individual employee received a bonus for their hard work.",
+          "ch": "每位個別員工都因為他們的辛勤工作而獲得了獎金。"
+        }
+      ]
+    },
+    {
+      "eng": "industry",
+      "kk": "ˈɪndəstri",
+      "tense": "n.",
+      "ch": [
+        [
+          "工業",
+          "產業"
+        ],
+        [
+          "勤勉",
+          "勤勞"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 industria（勤勉、活動），由 industrius（勤奮的）衍生而來。經由中世紀法語進入英語，保留了「工業、製造業」與歷史上的「勤勉」兩大核心義項。",
+      "definition": "1. economic activity concerned with the processing of raw materials and manufacture of goods in factories; 2. hard work; diligence.",
+      "example": [
+        {
+          "eng": "The automobile industry is facing a major transition to electric vehicles.",
+          "ch": "汽車工業正面臨向電動車轉型的重大過渡。"
+        },
+        {
+          "eng": "Success in studies requires steady application and industry.",
+          "ch": "學業上的成功需要持之以恆的努力與勤勉。"
+        }
+      ]
+    },
+    {
+      "eng": "influence",
+      "kk": "ˈɪnfluəns",
+      "tense": "n.",
+      "ch": [
+        [
+          "影響",
+          "影響力"
+        ]
+      ],
+      "analysis": "此字源自中世紀拉丁語 influentia（流入、天體星象對人世的影響），由 in-（流入）與 fluere（流動）複合而成。經法語進入英語。名詞核心義為對他人行為、決策或事態發展產生的無形支配力。",
+      "definition": "1. the capacity to have an effect on the character, development, or behavior of someone or something.",
+      "example": [
+        {
+          "eng": "Parents have a strong influence on their children's values.",
+          "ch": "父母對孩子的價值觀有著深遠的影響。"
+        }
+      ]
+    },
+    {
+      "eng": "influence",
+      "kk": "ˈɪnfluəns",
+      "tense": "vt.",
+      "ch": [
+        [
+          "影響",
+          "左右"
+        ]
+      ],
+      "analysis": "此字由名詞 influence 轉品或源自相應的動詞用法，作及物動詞時，指對人或事物的思想、行為發揮影響或起作用。",
+      "definition": "1. to have an influence on the character, development, or behavior of someone or something.",
+      "example": [
+        {
+          "eng": "Advertising can easily influence what consumers decide to buy.",
+          "ch": "廣告很容易影響消費者的購買決定。"
+        }
+      ]
+    },
+    {
+      "eng": "ink",
+      "kk": "ɪŋk",
+      "tense": "n.",
+      "ch": [
+        [
+          "墨水",
+          "油墨"
+        ]
+      ],
+      "analysis": "此字源自古法語 enque，其更早源頭可追溯至希臘語 enkauston（紫紅色的燃燒墨水）。經中古英語進入英語，專指用於書寫、繪畫或印刷的色漿液體。",
+      "definition": "1. a colored fluid or paste used for writing, drawing, or printing.",
+      "example": [
+        {
+          "eng": "He signed the official document with black ink.",
+          "ch": "他用黑色的墨水簽署了這份官方文件。"
+        }
+      ]
+    },
+    {
+      "eng": "insist",
+      "kk": "ɪnˈsɪst",
+      "tense": "vt.",
+      "ch": [
+        [
+          "堅稱",
+          "堅持說"
+        ]
+      ],
+      "analysis": "此字為 insist 的及物動詞用法，後面常接子句，表示堅決主張某個事實或觀點為真。",
+      "definition": "1. to declare firmly and persistently that something is true.",
+      "example": [
+        {
+          "eng": "He insisted that he had nothing to do with the missing keys.",
+          "ch": "他堅稱自己跟遺失的鑰匙無關。"
+        }
+      ]
+    },
+    {
+      "eng": "insist",
+      "kk": "ɪnˈsɪst",
+      "tense": "vi.",
+      "ch": [
+        [
+          "堅持",
+          "堅決要求"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 insistere（踩在上面、堅持、強調），由字首 in-（在...上）與 sistere（立、停）複合而成。經由法語進入英語。作為不及物動詞，常與介詞 on 連用，表示堅決主張某事。",
+      "definition": "1. to demand something forcefully, not accepting refusal.",
+      "example": [
+        {
+          "eng": "She insisted on paying for dinner despite our objections.",
+          "ch": "儘管我們反對，她還是堅持要付晚餐的錢。"
+        }
+      ]
+    },
+    {
+      "eng": "instance",
+      "kk": "ˈɪnstəns",
+      "tense": "n.",
+      "ch": [
+        [
+          "例子",
+          "實例"
+        ]
+      ],
+      "analysis": "此字源自中世紀拉丁語 instantia（緊急、出現、例子），由動詞 instāre 衍伸而來。經法語進入英語後，演變出表示「具體事例、例證」的核心高頻義。",
+      "definition": "1. an example or single occurrence of something.",
+      "example": [
+        {
+          "eng": "This is a classic instance of poor communication within the team.",
+          "ch": "這是團隊內部溝通不良的典型實例。"
+        }
+      ]
+    },
+    {
+      "eng": "instant",
+      "kk": "ˈɪnstənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "瞬間",
+          "片刻"
+        ]
+      ],
+      "analysis": "此字由形容詞 instant 轉化而來的名詞，指極短的時間或一個特定的瞬間。",
+      "definition": "1. a very short period of time; a moment.",
+      "example": [
+        {
+          "eng": "For an instant, I thought I heard someone calling my name.",
+          "ch": "有一瞬間，我以為我聽到有人在叫我的名字。"
+        }
+      ]
+    },
+    {
+      "eng": "instant",
+      "kk": "ˈɪnstənt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "立即的",
+          "即刻的"
+        ],
+        [
+          "速溶的",
+          "方便的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 īnstans（緊迫的、當前的），由 instāre 派生。進入英語後，演變出指時間上「立即的」或食品加工中「速溶、免煮的」兩大現代常用義項。",
+      "definition": "1. happening or coming immediately; 2. of food, designed to be prepared quickly and easily.",
+      "example": [
+        {
+          "eng": "The new safety feature brought instant relief to the drivers.",
+          "ch": "這項新的安全功能為駕駛員帶來了即刻的寬慰。"
+        },
+        {
+          "eng": "She made a cup of instant coffee before starting work.",
+          "ch": "她在開始工作前泡了一杯速溶咖啡。"
+        }
+      ]
+    },
+    {
+      "eng": "instead",
+      "kk": "ɪnˈstɛd",
+      "tense": "adv.",
+      "ch": [
+        [
+          "代替",
+          "反而"
+        ]
+      ],
+      "analysis": "此字由古英語介詞片語 in stede（在...位置上）演變而來的現代透明構詞副詞，由 in 與 stead（地方、位置）複合而成，表示用某事物替代另一事物或作為轉折的「反而」。",
+      "definition": "1. as an alternative or substitute to someone or something.",
+      "example": [
+        {
+          "eng": "We didn't go to the beach; instead, we stayed home because of the rain.",
+          "ch": "我們沒有去海灘；相反地，因為下雨我們待在家裡。"
+        }
+      ]
+    },
+    {
+      "eng": "instruction",
+      "kk": "ɪnˈstrʌkʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "指示",
+          "命令"
+        ],
+        [
+          "教學",
+          "指導"
+        ],
+        [
+          "使用說明書"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 instructiōn-（建造、教導），由 instruere（建造、裝備、教導）派生。經中古法語進入英語，演變出指示命令、教學指導與常見複數形式的使用說明等義項。",
+      "definition": "1. a detailed information telling how something should be done; 2. the process of teaching or educating; 3. directions on how to use a product.",
+      "example": [
+        {
+          "eng": "Follow the safety instructions carefully before operating the machine.",
+          "ch": "在操作機器前，請仔細遵照安全指示。"
+        },
+        {
+          "eng": "She received professional musical instruction from an early age.",
+          "ch": "她從小就接受專業的音樂指導。"
+        },
+        {
+          "eng": "Read the instructions inside the box before assembling the furniture.",
+          "ch": "組裝家具前請先閱讀盒內的說明書。"
+        }
+      ]
+    },
+    {
+      "eng": "instrument",
+      "kk": "ˈɪnstrəmənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "儀器",
+          "器械"
+        ],
+        [
+          "樂器"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 instrumentum（工具、設備），由 instruere（裝備、準備）派生。經中古法語進入英語，指科學、醫療用的精密儀器或演奏音樂的樂器。",
+      "definition": "1. a tool or implement, especially one used for precision work or medical purposes; 2. a device used for producing musical sounds.",
+      "example": [
+        {
+          "eng": "The surgeon sterilized all the surgical instruments before the operation.",
+          "ch": "外科醫師在手術前將所有的手術器械進行了消毒。"
+        },
+        {
+          "eng": "He plays several musical instruments, including the piano and violin.",
+          "ch": "他會彈奏多種樂器，包括鋼琴和小提琴。"
+        }
+      ]
+    },
+    {
+      "eng": "internal",
+      "kk": "ɪnˈtɜrnəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "內部的",
+          "國內的"
+        ]
+      ],
+      "analysis": "此字由拉丁語 internus（內部的）加上形容詞字尾 -al 構成。在現代英語中指事物內部結構的、身體內臟的，或國家內政內部的。",
+      "definition": "1. situated on or existing inside something; 2. relating to the domestic affairs of a country.",
+      "example": [
+        {
+          "eng": "The building suffered minor internal damage from the tremor.",
+          "ch": "該建築物因地震受了輕微的內部損壞。"
+        },
+        {
+          "eng": "The minister addressed various internal economic issues.",
+          "ch": "部長談到了各種國內經濟問題。"
+        }
+      ]
+    },
+    {
+      "eng": "international",
+      "kk": "ˌɪntərˈnæʃənəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "國際的",
+          "跨國的"
+        ]
+      ],
+      "analysis": "此字由字首 inter-（在...之間）與 national（國家的，源自 nation）複合而成的現代透明構詞形容詞，由哲學家邊沁創造並推廣，指涉及兩個或多個國家的。",
+      "definition": "1. existing, occurring, or carried on between two or more nations.",
+      "example": [
+        {
+          "eng": "Geneva is famous for hosting many international conferences.",
+          "ch": "日內瓦以舉辦許多國際會議而聞名。"
+        }
+      ]
+    },
+    {
+      "eng": "Internet",
+      "kk": "ˈɪntərˌnɛt",
+      "tense": "n.",
+      "ch": [
+        [
+          "網際網路",
+          "互聯網"
+        ]
+      ],
+      "analysis": "此字由 interconnecting（互聯）與 network（網路）的詞尾複合縮寫而成的現代專有名詞，指全球互聯的龐大電腦網路系統。",
+      "definition": "1. a global computer network providing a variety of information and communication facilities.",
+      "example": [
+        {
+          "eng": "Most people rely on the Internet for daily communication and research.",
+          "ch": "大多數人依賴網際網路進行日常通訊與研究。"
+        }
+      ]
+    },
+    {
+      "eng": "introduce",
+      "kk": "ˌɪntrəˈdus",
+      "tense": "vt.",
+      "ch": [
+        [
+          "介紹",
+          "引見"
+        ],
+        [
+          "引入",
+          "推行新事物"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 intrūducere（帶入內部），由 intrō（向內）與 dūcere（引導）複合而成。經中古法語進入英語，演變出向他人介紹某人、引見，以及將新產品或法律「引入、推行」的高頻義項。",
+      "definition": "1. to bring something into use or operation for the first time, or to present someone by name to another.",
+      "example": [
+        {
+          "eng": "Allow me to introduce my colleague, Dr. Smith.",
+          "ch": "請允許我介紹我的同事史密斯博士。"
+        },
+        {
+          "eng": "The company plans to introduce a new line of smartphones next year.",
+          "ch": "該公司計畫在明年推出一系列新的智慧型手機。"
+        }
+      ]
+    },
+    {
+      "eng": "introduction",
+      "kk": "ˌɪntrəˈdʌkʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "介紹",
+          "引見"
+        ],
+        [
+          "導言",
+          "序言"
+        ],
+        [
+          "引進",
+          "推行"
+        ]
+      ],
+      "analysis": "此字由動詞 introduce 相應的名詞化構詞，源自拉丁語 introductiōn-。指彼此介紹的行為、書籍或文章的開頭導言，或新事物的引進與推行。",
+      "definition": "1. the action of introducing something; 2. a preliminary section of a book or speech; 3. the formal presentation of one person to another.",
+      "example": [
+        {
+          "eng": "The professor read the introduction of the textbook before the lecture.",
+          "ch": "教授在講課前宣讀了教科書的導言。"
+        },
+        {
+          "eng": "The introduction of new technology significantly reduced production costs.",
+          "ch": "新技術的引進大幅降低了生產成本。"
+        }
+      ]
+    },
+    {
+      "eng": "iron",
+      "kk": "ˈaɪərn",
+      "tense": "n.",
+      "ch": [
+        [
+          "鐵",
+          "鐵製工具"
+        ],
+        [
+          "熨斗"
+        ]
+      ],
+      "analysis": "此字為源自古英語 īren 的繼承詞，屬於日耳曼語族。名詞核心義為金屬化學元素「鐵」，引申出家用電器「熨斗」或鐵製器具。",
+      "definition": "1. a strong, hard magnetic silver-gray metal; 2. an electrical appliance with a flat metal base used for smoothing clothes.",
+      "example": [
+        {
+          "eng": "Steel is an alloy made primarily of iron and carbon.",
+          "ch": "鋼是主要由鐵和碳組成的合金。"
+        },
+        {
+          "eng": "She used a hot iron to press the wrinkles out of her shirt.",
+          "ch": "她用熱熨斗把襯衫上的褶皺燙平。"
+        }
+      ]
+    },
+    {
+      "eng": "iron",
+      "kk": "ˈaɪərn",
+      "tense": "vt.",
+      "ch": [
+        [
+          "熨平",
+          "燙平"
+        ]
+      ],
+      "analysis": "此字由名詞 iron 轉化而來的及物動詞，指使用熨斗將衣物燙平。",
+      "definition": "1. to smooth clothes or fabric using an iron.",
+      "example": [
+        {
+          "eng": "He likes to iron his own suits before important meetings.",
+          "ch": "他喜歡在重要會議前自己燙西裝。"
+        }
+      ]
+    },
+    {
+      "eng": "jam",
+      "kk": "dʒæm",
+      "tense": "n.",
+      "ch": [
+        [
+          "果醬"
+        ],
+        [
+          "堵塞",
+          "困境"
+        ]
+      ],
+      "analysis": "此字起源於 18 世紀的方言擬聲與動詞 jam（擠壓、塞滿），名詞衍生出塗抹用的水果果醬，以及交通堵塞（traffic jam）或困難窘境的轉義。",
+      "definition": "1. a sweet spread made of fruit boiled with sugar; 2. a crowded situation or blockage, such as in traffic.",
+      "example": [
+        {
+          "eng": "She spread strawberry jam on her toast for breakfast.",
+          "ch": "她在吐司上抹了草莓果醬當早餐。"
+        },
+        {
+          "eng": "We were stuck in a massive traffic jam for over an hour.",
+          "ch": "我們在嚴重的交通大堵塞中困了一個多小時。"
+        }
+      ]
+    },
+    {
+      "eng": "jam",
+      "kk": "dʒæm",
+      "tense": "vt.",
+      "ch": [
+        [
+          "塞滿",
+          "擠進"
+        ],
+        [
+          "使卡住",
+          "故障"
+        ]
+      ],
+      "analysis": "此字為動詞 jam 的及物用法，原意為用力擠壓、塞滿，引申出機械零件「卡住、故障」或訊號受干擾的意涵。",
+      "definition": "1. to squeeze or push something into a small space; 2. to cause a mechanism to become stuck and unable to move.",
+      "example": [
+        {
+          "eng": "He jammed all his clothes into the suitcase.",
+          "ch": "他把所有的衣服都塞進了手提箱裡。"
+        },
+        {
+          "eng": "The printer jammed because the paper was too thick.",
+          "ch": "印表機因為紙張太厚而卡紙了。"
+        }
+      ]
+    },
+    {
+      "eng": "jog",
+      "kk": "dʒɑɡ",
+      "tense": "n.",
+      "ch": [
+        [
+          "慢跑"
+        ]
+      ],
+      "analysis": "此字為動詞 jog 相應的名詞形式，指一次輕鬆平穩的慢跑活動。",
+      "definition": "1. a spell of running slowly and steadily.",
+      "example": [
+        {
+          "eng": "Let's go for a quick jog before breakfast.",
+          "ch": "我們在早餐前去輕鬆慢跑一下吧。"
+        }
+      ]
+    },
+    {
+      "eng": "jog",
+      "kk": "dʒɑɡ",
+      "tense": "vi.",
+      "ch": [
+        [
+          "慢跑"
+        ]
+      ],
+      "analysis": "此字源自 16 世紀的方言動詞（可能與 shake 或 igh 相聯），原意為震動或顛簸著前進，至 20 世紀中葉演變出專指為了鍛鍊身體而進行的「慢跑」核心不及物動詞義。",
+      "definition": "1. to run at a steady, gentle pace, especially as a form of exercise.",
+      "example": [
+        {
+          "eng": "She likes to jog around the park every morning.",
+          "ch": "她喜歡每天早上在公園周圍慢跑。"
+        }
+      ]
+    }
+  ]
+}

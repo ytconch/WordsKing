@@ -1,0 +1,1406 @@
+{
+  "level": 1,
+  "chunkIndex": 14,
+  "inputs": [
+    "pants",
+    "paper",
+    "parent",
+    "parents",
+    "park",
+    "part",
+    "party",
+    "pass",
+    "past",
+    "pay",
+    "payment",
+    "pen",
+    "pencil",
+    "people",
+    "perhaps",
+    "person",
+    "pet",
+    "photograph",
+    "photo",
+    "piano",
+    "pick",
+    "picnic",
+    "picture",
+    "pie",
+    "piece",
+    "pig",
+    "pin",
+    "pink",
+    "pipe",
+    "place",
+    "plan",
+    "planet",
+    "plant",
+    "plate",
+    "play",
+    "player",
+    "please",
+    "pleasure",
+    "pm",
+    "p.m.",
+    "pocket",
+    "point",
+    "police",
+    "polite",
+    "pond",
+    "pool",
+    "poor",
+    "popcorn",
+    "popular",
+    "possible"
+  ],
+  "rows": [
+    {
+      "eng": "pants",
+      "kk": "/pænts/",
+      "tense": "n.",
+      "ch": [
+        [
+          "褲子",
+          "長褲"
+        ],
+        [
+          "內褲"
+        ]
+      ],
+      "analysis": "此字為複數形名詞，源自 pantaloons 的縮短與複數化（源於義大利語 Pantalone 劇中角色名所穿的長褲）。在北美英語中主要指長褲，而在英式英語中則常指內褲。",
+      "definition": "1. an outer garment covering the body from the waist to the ankles, with a separate part for each leg; 2. underpants worn beneath outer clothing.",
+      "example": [
+        {
+          "eng": "He is wearing a blue shirt and black pants.",
+          "ch": "他穿著一件藍色襯衫和黑色長褲。"
+        },
+        {
+          "eng": "Make sure to change your socks and pants every day.",
+          "ch": "確保每天更換襪子和內褲。"
+        }
+      ]
+    },
+    {
+      "eng": "paper",
+      "kk": "/ˈpeɪpɚ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "紙",
+          "紙張"
+        ],
+        [
+          "文件",
+          "證件",
+          "試卷"
+        ],
+        [
+          "報紙"
+        ],
+        [
+          "學術論文",
+          "報告"
+        ]
+      ],
+      "analysis": "此字為名詞，經由古法語與拉丁語 papyrus（源自希臘語 πάπυρος 紙莎草）進入英語，指由植物纖維製成的薄片物質，進而延伸指報紙、文件、考卷及學術論文。",
+      "definition": "1. material manufactured in thin sheets from the pulp of wood or other fibrous substances, used for writing, drawing, or wrapping; 2. a piece of paper with information written or printed on it, such as a document or test; 3. a daily or weekly publication containing news and articles; 4. a written essay or research report on a particular topic.",
+      "example": [
+        {
+          "eng": "She wrote her phone number down on a piece of paper.",
+          "ch": "她把電話號碼寫在一張紙上。"
+        },
+        {
+          "eng": "Please submit your homework paper by tomorrow morning.",
+          "ch": "請在明天早上前交出你的作業試卷。"
+        },
+        {
+          "eng": "He reads the morning paper while drinking coffee.",
+          "ch": "他一邊喝咖啡一邊讀早報。"
+        },
+        {
+          "eng": "The professor published a new academic paper on linguistics.",
+          "ch": "這位教授發表了一篇關於語言學的新學術論文。"
+        }
+      ]
+    },
+    {
+      "eng": "parent",
+      "kk": "/ˈpɛrənt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "父母",
+          "父親或母親"
+        ]
+      ],
+      "analysis": "此字為名詞，源自拉丁語 parens（動詞 parere「生養、產生」的現在分詞），指生養孩子的父親或母親。",
+      "definition": "1. a father or mother.",
+      "example": [
+        {
+          "eng": "Both parents attended the school meeting yesterday.",
+          "ch": "雙親昨天都參加了學校會議。"
+        }
+      ]
+    },
+    {
+      "eng": "parents",
+      "kk": "/ˈpɛrənts/",
+      "tense": "n.",
+      "ch": [
+        [
+          "父母",
+          "雙親"
+        ]
+      ],
+      "analysis": "此字為 parent 的複數形名詞，指父親和母親雙親二人，常用於家庭或學校情境中。",
+      "definition": "1. a father and mother together.",
+      "example": [
+        {
+          "eng": "She loves her parents very much.",
+          "ch": "她非常愛她的父母。"
+        }
+      ]
+    },
+    {
+      "eng": "park",
+      "kk": "/pɑrk/",
+      "tense": "n.",
+      "ch": [
+        [
+          "公園"
+        ]
+      ],
+      "analysis": "此字為名詞，透過古法語借自日耳曼語族，原意指圍起來供狩獵的林地，現代則演變為供公眾遊憩的都市公園。",
+      "definition": "1. a large public area of land with grass, trees, and recreation facilities.",
+      "example": [
+        {
+          "eng": "The children are playing football in the park.",
+          "ch": "孩子們正在公園裡踢足球。"
+        }
+      ]
+    },
+    {
+      "eng": "park",
+      "kk": "/pɑrk/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "停車",
+          "停放（車輛）"
+        ]
+      ],
+      "analysis": "此字為及物動詞，由名詞 park（原指將車馬停放在特定保留區）轉品而來，指將車輛暫時停放在指定位置。",
+      "definition": "1. bring a vehicle that one is driving to a halt and leave it temporarily.",
+      "example": [
+        {
+          "eng": "He parked his car right in front of the store.",
+          "ch": "他把車停在商店正前方。"
+        }
+      ]
+    },
+    {
+      "eng": "part",
+      "kk": "/pɑrt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "部分",
+          "局部"
+        ],
+        [
+          "零件",
+          "配件"
+        ],
+        [
+          "角色",
+          "份內職責"
+        ]
+      ],
+      "analysis": "此字為名詞，源自拉丁語 pars（分、部），指整體當中的一部分，並延伸出機械零件及戲劇角色的義項。",
+      "definition": "1. some but not all of a thing; a portion; 2. a piece or segment that fits with others to make a machine or structure; 3. a character in a play, movie, or broadcast.",
+      "example": [
+        {
+          "eng": "I spent a large part of the day reading books.",
+          "ch": "我花了一天的大部分時間讀書。"
+        },
+        {
+          "eng": "The mechanic had to replace a broken engine part.",
+          "ch": "機械師必須更換一個壞掉的引擎零件。"
+        },
+        {
+          "eng": "She played a minor part in the school drama.",
+          "ch": "她在學校戲劇中扮演一個小角色。"
+        }
+      ]
+    },
+    {
+      "eng": "party",
+      "kk": "/ˈpɑrti/",
+      "tense": "n.",
+      "ch": [
+        [
+          "派對",
+          "聚會"
+        ],
+        [
+          "政黨"
+        ],
+        [
+          "當事人",
+          "一方（合約等）"
+        ]
+      ],
+      "analysis": "此字為名詞，源自拉丁語 partire（分割、分配）的派生詞，原指「分出的派別或團體」，後演變出社交聚會、政黨以及法律契約當事人的義項。",
+      "definition": "1. a social gathering of guests for conversation, food, and drinks; 2. an organized political group that seeks to capture political power; 3. a person or group forming one side of an agreement or dispute.",
+      "example": [
+        {
+          "eng": "We are planning a surprise birthday party for our friend.",
+          "ch": "我們正在為朋友策劃一個驚喜生日派對。"
+        },
+        {
+          "eng": "Both political parties agreed to discuss the new tax law.",
+          "ch": "兩個政黨都同意討論新的稅法。"
+        },
+        {
+          "eng": "All parties involved in the contract must sign it.",
+          "ch": "合約中涉及的所有當事人必須簽署。"
+        }
+      ]
+    },
+    {
+      "eng": "pass",
+      "kk": "/pæs/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "通過",
+          "穿越"
+        ],
+        [
+          "及格",
+          "通過（考試等）"
+        ],
+        [
+          "傳遞",
+          "遞給"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自拉丁語 passus（步伐），經法語演變而來，核心義為「跨越、走過」，並引申出考試及格與傳遞物品的用法。",
+      "definition": "1. move past or by; go beyond; 2. succeed in an examination, test, or course; 3. transfer something from one person to another.",
+      "example": [
+        {
+          "eng": "He passed the post office on his way to work.",
+          "ch": "他去上班的路上經過了郵局。"
+        },
+        {
+          "eng": "She studied hard and passed her driving test.",
+          "ch": "她努力讀書並通過了駕照考試。"
+        },
+        {
+          "eng": "Please pass the salt to me.",
+          "ch": "請把鹽遞給我。"
+        }
+      ]
+    },
+    {
+      "eng": "pass",
+      "kk": "/pæs/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "經過",
+          "行經"
+        ],
+        [
+          "流逝",
+          "消逝"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，表示不接直接受詞的移動或時間的消逝。",
+      "definition": "1. move in a specified direction or go by; 2. elapse or go by in time.",
+      "example": [
+        {
+          "eng": "Many cars passed by while we were waiting.",
+          "ch": "我們等待時有許多車輛開過去。"
+        },
+        {
+          "eng": "Time seems to pass so quickly during the holidays.",
+          "ch": "假期中時間似乎過得飛快。"
+        }
+      ]
+    },
+    {
+      "eng": "past",
+      "kk": "/pæst/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "過去的",
+          "以往的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自動詞 pass 的過去分詞轉品，用來修飾時間上已經發生的事物。",
+      "definition": "1. gone by in time and no longer existing; previous.",
+      "example": [
+        {
+          "eng": "In past years, this town was much quieter.",
+          "ch": "在過去幾年裡，這個城鎮安靜得多。"
+        }
+      ]
+    },
+    {
+      "eng": "past",
+      "kk": "/pæst/",
+      "tense": "prep.",
+      "ch": [
+        [
+          "過",
+          "越過（時間或空間）"
+        ]
+      ],
+      "analysis": "此字為介系詞，源自動詞 pass，表示在空間上超越或在時間上超過某個點。",
+      "definition": "1. beyond in time, space, or degree.",
+      "example": [
+        {
+          "eng": "It is already past ten o'clock at night.",
+          "ch": "晚上已經過十點了。"
+        }
+      ]
+    },
+    {
+      "eng": "pay",
+      "kk": "/peɪ/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "支付",
+          "付錢"
+        ],
+        [
+          "付出（注意、代價等）"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自古法語 paier（源自拉丁語 pacare「使平息、滿足」），引申為滿足債務需求而「支付金錢」，或付出注意力。",
+      "definition": "1. give money that is due for goods, services, or a debt; 2. give or expend something such as attention or respect.",
+      "example": [
+        {
+          "eng": "I need to pay the electricity bill today.",
+          "ch": "我今天得繳電費。"
+        },
+        {
+          "eng": "Please pay attention to the teacher's instructions.",
+          "ch": "請注意聽老師的指示。"
+        }
+      ]
+    },
+    {
+      "eng": "pay",
+      "kk": "/peɪ/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "付費",
+          "付款"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，表示進行付款的動作而不帶直接受詞。",
+      "definition": "1. give money to settle a debt or purchase something.",
+      "example": [
+        {
+          "eng": "Will you pay by cash or credit card?",
+          "ch": "你要付現還是刷卡？"
+        }
+      ]
+    },
+    {
+      "eng": "payment",
+      "kk": "/ˈpeɪmənt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "付款",
+          "支付",
+          "款項"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 pay 加上名詞字尾 -ment 構成，指付款的行為或所支付的金額。",
+      "definition": "1. the action of paying someone or of being paid; the amount of money paid.",
+      "example": [
+        {
+          "eng": "We accept cash and credit card payments.",
+          "ch": "我們接受現金和信用卡付款。"
+        }
+      ]
+    },
+    {
+      "eng": "pen",
+      "kk": "/pɛn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "筆",
+          "原子筆",
+          "鋼筆"
+        ],
+        [
+          "豬圈",
+          "欄舍"
+        ]
+      ],
+      "analysis": "此字為名詞。作為「筆」時，源自拉丁語 penna（羽毛），因早期以鳥羽製成筆；作為「欄舍」時，為日耳曼語源的古英語字，指圍欄。",
+      "definition": "1. an instrument for writing or drawing with ink; 2. a small enclosure for farm animals.",
+      "example": [
+        {
+          "eng": "He signed the document with a black ink pen.",
+          "ch": "他用黑色墨水筆簽署了文件。"
+        },
+        {
+          "eng": "The farmer led the sheep back into the pen.",
+          "ch": "農夫把羊群帶回欄舍裡。"
+        }
+      ]
+    },
+    {
+      "eng": "pencil",
+      "kk": "/ˈpɛnsəl/",
+      "tense": "n.",
+      "ch": [
+        [
+          "鉛筆"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古法語 pencel，最終源自拉丁語 peniculus（小尾巴、畫刷），在中世紀指藝術家的細畫刷，後來演變為書寫用的鉛筆。",
+      "definition": "1. an instrument for writing or drawing, consisting of a thin cylinder of graphite enclosed in wood.",
+      "example": [
+        {
+          "eng": "She made a sketch of the house with a pencil.",
+          "ch": "她用鉛筆畫了這棟房子的草圖。"
+        }
+      ]
+    },
+    {
+      "eng": "people",
+      "kk": "/ˈpipəl/",
+      "tense": "n.",
+      "ch": [
+        [
+          "人",
+          "人們"
+        ],
+        [
+          "民族",
+          "種族"
+        ]
+      ],
+      "analysis": "此字為複數同形集體名詞，源自古法語 peuple，源於拉丁語 populus（人民），作為一般群眾或特定民族的統稱。",
+      "definition": "1. human beings in general or considered collectively; 2. the members of a particular nation, community, or ethnic group.",
+      "example": [
+        {
+          "eng": "Many people were waiting outside the concert hall.",
+          "ch": "許多人在音樂廳外等待。"
+        },
+        {
+          "eng": "Canada is a country made up of many different peoples.",
+          "ch": "加拿大是由許多不同民族組成的國家。"
+        }
+      ]
+    },
+    {
+      "eng": "perhaps",
+      "kk": "/pɚˈhæps/",
+      "tense": "adv.",
+      "ch": [
+        [
+          "也許",
+          "可能"
+        ]
+      ],
+      "analysis": "此字為副詞，由介系詞 per 與複數名詞 haps（機會、運氣，源自古諾斯語）組合而成，字面義為「依機會而定」，現代表示「也許」。",
+      "definition": "1. used to express uncertainty or possibility; maybe.",
+      "example": [
+        {
+          "eng": "Perhaps we can visit the museum tomorrow.",
+          "ch": "也許我們明天可以參觀博物館。"
+        }
+      ]
+    },
+    {
+      "eng": "person",
+      "kk": "/ˈpɝsən/",
+      "tense": "n.",
+      "ch": [
+        [
+          "人",
+          "個人"
+        ]
+      ],
+      "analysis": "此字為名詞，源自拉丁語 persona（面具、戲劇角色、人物），經古法語進入英語，指單一個體的人。",
+      "definition": "1. a human being regarded as an individual.",
+      "example": [
+        {
+          "eng": "She is a very kind and helpful person.",
+          "ch": "她是一個非常善良且樂於助人的人。"
+        }
+      ]
+    },
+    {
+      "eng": "pet",
+      "kk": "/pɛt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "寵物"
+        ]
+      ],
+      "analysis": "此字為名詞，起源於16世紀方言，原指受溺愛的寵兒，後專指飼養在家中陪伴的動物。",
+      "definition": "1. a domestic or tamed animal kept for companionship or pleasure.",
+      "example": [
+        {
+          "eng": "They keep a cute dog as a pet.",
+          "ch": "他們養了一隻可愛的狗作為寵物。"
+        }
+      ]
+    },
+    {
+      "eng": "photograph",
+      "kk": "/ˈfoʊtəˌɡræf/",
+      "tense": "n.",
+      "ch": [
+        [
+          "照片",
+          "相片"
+        ]
+      ],
+      "analysis": "此字為名詞，為現代透明構詞，由希臘語字根 phōs（光，屬格 photos）與 graphē（書寫、記錄）結合而成，字面義為「以光描繪」。",
+      "definition": "1. a picture made using a camera, in which an image is focused on light-sensitive material and made visible.",
+      "example": [
+        {
+          "eng": "He showed me an old photograph of his grandfather.",
+          "ch": "他給我看一張他祖父的舊相片。"
+        }
+      ]
+    },
+    {
+      "eng": "photo",
+      "kk": "/ˈfoʊtoʊ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "相片",
+          "照片"
+        ]
+      ],
+      "analysis": "此字為名詞，是 photograph 的日常口語截短形式（clipping），意義與用法完全相同但更為簡便。",
+      "definition": "1. a photograph.",
+      "example": [
+        {
+          "eng": "She took a photo of the sunset with her phone.",
+          "ch": "她用手機拍了一張日落的照片。"
+        }
+      ]
+    },
+    {
+      "eng": "piano",
+      "kk": "/piˈænoʊ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "鋼琴"
+        ]
+      ],
+      "analysis": "此字為名詞，源自義大利語 fortepiano 的簡稱，字面原意為「強弱」（fortis「強」+ planus/piano「輕柔」），因該樂器能透過觸鍵力度發出強弱不同的聲音而得名。",
+      "definition": "1. a large keyboard musical instrument played by pressing keys that cause hammers to strike strings.",
+      "example": [
+        {
+          "eng": "She has been learning to play the piano for two years.",
+          "ch": "她學彈鋼琴已經兩年了。"
+        }
+      ]
+    },
+    {
+      "eng": "pick",
+      "kk": "/pɪk/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "挑選",
+          "選擇"
+        ],
+        [
+          "採摘",
+          "摘（花、果實）"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自日耳曼語源的古英語 pician，本義與尖銳工具或用手指掐取有關，引申為採摘花果及挑選人事物。",
+      "definition": "1. choose someone or something from a number of alternatives; 2. pluck or harvest flowers, fruit, or vegetables from a plant.",
+      "example": [
+        {
+          "eng": "You can pick any book you like from the shelf.",
+          "ch": "你可以從書架上挑選任何你喜歡的書。"
+        },
+        {
+          "eng": "The children love to pick fresh strawberries in the garden.",
+          "ch": "孩子們喜歡在花園裡摘新鮮草莓。"
+        }
+      ]
+    },
+    {
+      "eng": "picnic",
+      "kk": "/ˈpɪknɪk/",
+      "tense": "n.",
+      "ch": [
+        [
+          "野餐"
+        ]
+      ],
+      "analysis": "此字為名詞，源自法語 pique-nique，由動詞 piquer（挑、撿）與 nique（小東西、無價值之物）組成，原指各人帶食物聚餐的活動，後泛指野餐。",
+      "definition": "1. an excursion or outing in which people take food to be eaten outdoors.",
+      "example": [
+        {
+          "eng": "We packed some sandwiches and went for a picnic by the lake.",
+          "ch": "我們準備了一些三明治，去湖邊野餐。"
+        }
+      ]
+    },
+    {
+      "eng": "picture",
+      "kk": "/ˈpɪktʃɚ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "圖片",
+          "畫作",
+          "照片"
+        ],
+        [
+          "情況",
+          "局勢"
+        ]
+      ],
+      "analysis": "此字為名詞，源自拉丁語 pictura（繪畫、描繪，源於 pingere「繪畫」），指視覺上的繪畫或照片，也引申為抽象的整體情勢。",
+      "definition": "1. a painting, drawing, or photograph on a surface; 2. a representation or description of a situation.",
+      "example": [
+        {
+          "eng": "She drew a beautiful picture of a cat.",
+          "ch": "她畫了一張漂亮的貓咪圖片。"
+        },
+        {
+          "eng": "The financial report gives a clear picture of the company's success.",
+          "ch": "這份財務報告清楚呈現了公司的營運局勢。"
+        }
+      ]
+    },
+    {
+      "eng": "pie",
+      "kk": "/paɪ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "派",
+          "餡餅"
+        ]
+      ],
+      "analysis": "此字為名詞，可能源自 magpie（喜鵲，因其巢內雜亂多料，類似傳統肉派內餡豐富雜聚），指外層有酥皮包裹餡料的烘焙食品。",
+      "definition": "1. a baked dish of fruit, meat, or vegetables, typically with a top and base of pastry.",
+      "example": [
+        {
+          "eng": "My grandmother baked a delicious apple pie for dessert.",
+          "ch": "我祖母烤了一個美味的蘋果派當甜點。"
+        }
+      ]
+    },
+    {
+      "eng": "piece",
+      "kk": "/pis/",
+      "tense": "n.",
+      "ch": [
+        [
+          "片",
+          "塊",
+          "件",
+          "個體"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古法語 piece，最終源自晚期拉丁語 pettia（塊、碎片），指從整體中分割出來的一部分。",
+      "definition": "1. a portion or quantity of something taken from a larger whole.",
+      "example": [
+        {
+          "eng": "He cut a large piece of cake for me.",
+          "ch": "他為我切了一大塊蛋糕。"
+        }
+      ]
+    },
+    {
+      "eng": "pig",
+      "kk": "/pɪɡ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "豬"
+        ]
+      ],
+      "analysis": "此字為名詞，源自日耳曼語源的中低地德語或古英語擬音，指家豬或野豬。",
+      "definition": "1. an omnivorous hoofed mammal with sparse bristly hair and a flat snout, kept for its meat.",
+      "example": [
+        {
+          "eng": "The farmer feeds the pigs every morning at sunrise.",
+          "ch": "農夫每天日出時餵豬。"
+        }
+      ]
+    },
+    {
+      "eng": "pin",
+      "kk": "/pɪn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "大頭針",
+          "別針",
+          "徽章"
+        ]
+      ],
+      "analysis": "此字為名詞，源自日耳曼語源的古英語 spinnel 或拉丁語 spina（刺），指細長尖銳的金屬固定針或徽章。",
+      "definition": "1. a thin piece of metal with a sharp point, used for fastening things together or as a badge.",
+      "example": [
+        {
+          "eng": "She used a pin to fasten the ribbon to her dress.",
+          "ch": "她用別針把絲帶固定在裙子上。"
+        }
+      ]
+    },
+    {
+      "eng": "pink",
+      "kk": "/pɪŋk/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "粉紅色的"
+        ]
+      ],
+      "analysis": "此字為形容詞，原指石竹科植物（pinks）的花朵顏色，後轉為指這種淡紅帶白的色彩。",
+      "definition": "1. of a pale red color.",
+      "example": [
+        {
+          "eng": "She wore a lovely pink dress to the party.",
+          "ch": "她穿了一件可愛的粉紅色洋裝去參加派對。"
+        }
+      ]
+    },
+    {
+      "eng": "pipe",
+      "kk": "/paɪp/",
+      "tense": "n.",
+      "ch": [
+        [
+          "管子",
+          "水管",
+          "煙斗"
+        ]
+      ],
+      "analysis": "此字或擬聲源自拉丁語 pipare（發出尖叫或鳥鳴聲），因古代樂管或發聲管而得名，後泛指輸送流體的管道及吸煙用的煙斗。",
+      "definition": "1. a long tube through which liquids or gases can flow; 2. a small device for smoking tobacco, consisting of a tube and a bowl.",
+      "example": [
+        {
+          "eng": "A water pipe burst in the basement yesterday.",
+          "ch": "地下室昨天有一根水管破裂了。"
+        },
+        {
+          "eng": "The old man sat on the porch smoking his pipe.",
+          "ch": "老人坐在走廊上抽著煙斗。"
+        }
+      ]
+    },
+    {
+      "eng": "place",
+      "kk": "/pleɪs/",
+      "tense": "n.",
+      "ch": [
+        [
+          "地方",
+          "場所",
+          "地點"
+        ]
+      ],
+      "analysis": "此字為名詞，源自拉丁語 platea（寬闊的街道、廣場），經希臘語與古法語演變，指空間中的特定地點。",
+      "definition": "1. a particular position, point, or area in space; a location.",
+      "example": [
+        {
+          "eng": "This park is a wonderful place to relax on weekends.",
+          "ch": "這個公園是週末放鬆的好地方。"
+        }
+      ]
+    },
+    {
+      "eng": "plan",
+      "kk": "/plæn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "計畫",
+          "方案",
+          "平面圖"
+        ]
+      ],
+      "analysis": "此字為名詞，源自法語 plan（源於拉丁語 planta「足底、平面圖」），指事先擬定的行動方案或建築平面圖。",
+      "definition": "1. a detailed proposal for doing or achieving something; 2. a map or diagram of a building or area.",
+      "example": [
+        {
+          "eng": "We need to make a solid plan for our summer vacation.",
+          "ch": "我們需要為暑假擬定一個具體的計畫。"
+        }
+      ]
+    },
+    {
+      "eng": "plan",
+      "kk": "/plæn/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "計畫",
+          "規劃",
+          "打算"
+        ]
+      ],
+      "analysis": "此字為及物動詞，由名詞 plan 轉品而來，指預先籌劃或安排某事。",
+      "definition": "1. decide on and arrange in advance ethnically or systematically.",
+      "example": [
+        {
+          "eng": "They are planning a trip to Japan next month.",
+          "ch": "他們正計畫下個月去日本旅行。"
+        }
+      ]
+    },
+    {
+      "eng": "planet",
+      "kk": "/ˈplænɪt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "行星"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古法語 planete，源於希臘語 πλανήτης（planētēs「漫游者」），因古人發現恆星位置相對固定，而行星在星空中會移動而得名。",
+      "definition": "1. a celestial body moving in an elliptical orbit round a star.",
+      "example": [
+        {
+          "eng": "Earth is the third planet from the sun.",
+          "ch": "地球是距離太陽第三近的行星。"
+        }
+      ]
+    },
+    {
+      "eng": "plant",
+      "kk": "/plænt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "植物"
+        ],
+        [
+          "工廠",
+          "發電廠"
+        ]
+      ],
+      "analysis": "此字為名詞，源自拉丁語 planta（足底、栽種的幼苗），名詞演變出植物及大型工業設備廠房的義項。",
+      "definition": "1. a living organism of the kind that grows in a permanent site, absorbing water and inorganic substances; 2. a place where an industrial or manufacturing process takes place.",
+      "example": [
+        {
+          "eng": "She waters the potted plants on her balcony every morning.",
+          "ch": "她每天早上幫陽台上的盆栽澆水。"
+        },
+        {
+          "eng": "The city built a new water treatment plant.",
+          "ch": "這個城市建造了一座新的水力處理廠。"
+        }
+      ]
+    },
+    {
+      "eng": "plant",
+      "kk": "/plænt/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "種植",
+          "栽種"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自拉丁語 plantare（插入土中栽種），指將植物或樹木種植在土壤中。",
+      "definition": "1. place a seed, plant, or cutting in the ground so that it can grow.",
+      "example": [
+        {
+          "eng": "We planted several tomato seeds in the backyard.",
+          "ch": "我們在後院種了幾顆番茄種子。"
+        }
+      ]
+    },
+    {
+      "eng": "plate",
+      "kk": "/pleɪt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "盤子",
+          "碟子"
+        ],
+        [
+          "金屬板",
+          "車牌"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古法語 plate（平坦的金屬片），最初指金屬盤，後泛指盛食物的平盤及車輛的金屬號牌。",
+      "definition": "1. a flat dish, typically round, used for eating or serving food; 2. a thin, flat piece of metal, often bearing a number or name.",
+      "example": [
+        {
+          "eng": "Please put the plates on the dining table.",
+          "ch": "請把盤子放到餐桌上。"
+        },
+        {
+          "eng": "The police noted down the car's license plate number.",
+          "ch": "警察記下了汽車的車牌號碼。"
+        }
+      ]
+    },
+    {
+      "eng": "play",
+      "kk": "/pleɪ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "戲劇",
+          "劇本"
+        ],
+        [
+          "遊戲",
+          "玩耍"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 play 轉品而來，指戲劇演出或遊戲活動。",
+      "definition": "1. a dramatic work intended for performance by actors on a stage; 2. activity engaged in for enjoyment.",
+      "example": [
+        {
+          "eng": "We went to see a Shakespearean play last night.",
+          "ch": "我們昨晚去看了莎士比亞的戲劇。"
+        }
+      ]
+    },
+    {
+      "eng": "play",
+      "kk": "/pleɪ/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "扮演（角色）"
+        ],
+        [
+          "播放（音樂或影片）"
+        ]
+      ],
+      "analysis": "此字為及物動詞，接直接受詞表示進行遊戲、扮演戲劇角色或播放影音檔案。",
+      "definition": "1. act the role of a character in a play or movie; 2. cause music or a recording to be heard on a machine.",
+      "example": [
+        {
+          "eng": "She played the role of Juliet in the drama club.",
+          "ch": "她在戲劇社中扮演茱麗葉的角色。"
+        },
+        {
+          "eng": "Can you play that song for me again?",
+          "ch": "你可以再幫我播一次那首歌嗎？"
+        }
+      ]
+    },
+    {
+      "eng": "play",
+      "kk": "/pleɪ/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "玩",
+          "遊戲"
+        ],
+        [
+          "彈奏（樂器）"
+        ],
+        [
+          "踢（球類運動）"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，源自日耳曼語源的古英語 pleġan（嬉戲、活動），引申為兒童遊戲、體育競技及音樂演奏。",
+      "definition": "1. engage in activity for enjoyment and recreation rather than a serious or practical purpose; 2. perform music on an instrument; 3. take part in a sport or game.",
+      "example": [
+        {
+          "eng": "The little kids are playing happily in the sandbox.",
+          "ch": "小孩子們正在沙坑裡快樂地玩耍。"
+        },
+        {
+          "eng": "He plays the violin in the school orchestra.",
+          "ch": "他在學校樂團裡拉小提琴。"
+        },
+        {
+          "eng": "Do you want to play basketball this afternoon?",
+          "ch": "你今天下午想打籃球嗎？"
+        }
+      ]
+    },
+    {
+      "eng": "player",
+      "kk": "/ˈpleɪɚ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "選手",
+          "運動員"
+        ],
+        [
+          "播放器（影音）"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 play 加上 agent 名詞字尾 -er 構成，指參與運動比賽的選手或播放音樂的機器。",
+      "definition": "1. a person who takes part in a sport or game; 2. an electronic device that plays recorded music or video.",
+      "example": [
+        {
+          "eng": "He is one of the best basketball players in the league.",
+          "ch": "他是聯盟裡最好的籃球運動員之一。"
+        },
+        {
+          "eng": "I bought a new digital audio player yesterday.",
+          "ch": "我昨天買了一台新的數位音訊播放器。"
+        }
+      ]
+    },
+    {
+      "eng": "please",
+      "kk": "/pliz/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使高興",
+          "討好",
+          "使滿意"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自拉丁語 placere（使人滿意、喜悅），經古法語進入英語。",
+      "definition": "1. cause to feel happy and satisfied.",
+      "example": [
+        {
+          "eng": "She always tries her best to please her parents.",
+          "ch": "她總是盡最大努力讓父母高興。"
+        }
+      ]
+    },
+    {
+      "eng": "please",
+      "kk": "/pliz/",
+      "tense": "interj.",
+      "ch": [
+        [
+          "請"
+        ]
+      ],
+      "analysis": "此字為感嘆詞，源自「if it please you（如果你高興、若蒙允許）」的短句省略，現代用作禮貌請求的語助詞。",
+      "definition": "1. used in polite requests or commands.",
+      "example": [
+        {
+          "eng": "Please close the door when you leave.",
+          "ch": "你離開時請把門關上。"
+        }
+      ]
+    },
+    {
+      "eng": "pleasure",
+      "kk": "/ˈplɛʒɚ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "愉悅",
+          "快樂",
+          "樂事"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 please 加上名詞字尾 -ure 構成，指感到高興或滿足的狀態。",
+      "definition": "1. a feeling of happy satisfaction and enjoyment.",
+      "example": [
+        {
+          "eng": "It is a great pleasure to meet you today.",
+          "ch": "今天能見到您真是極大的樂事。"
+        }
+      ]
+    },
+    {
+      "eng": "pm",
+      "kk": "/ˌpiˈɛm/",
+      "tense": "adv.",
+      "ch": [
+        [
+          "下午",
+          "午後"
+        ]
+      ],
+      "analysis": "此縮寫源自拉丁語 post meridiem（意即 after noon「中午之後」），用來標示中午12點到午夜12點之間的時間。",
+      "definition": "1. forming part of the time from noon to midnight.",
+      "example": [
+        {
+          "eng": "The train is scheduled to arrive at 3:30 pm.",
+          "ch": "火車預定在下午3點30分到達。"
+        }
+      ]
+    },
+    {
+      "eng": "p.m.",
+      "kk": "/ˌpiˈɛm/",
+      "tense": "adv.",
+      "ch": [
+        [
+          "下午",
+          "午後"
+        ]
+      ],
+      "analysis": "此為 pm 的帶標點拼寫形式，同樣源自拉丁語 post meridiem（午后），用法與含義完全相同。",
+      "definition": "1. forming part of the time from noon to midnight.",
+      "example": [
+        {
+          "eng": "Our office closes at 6:00 p.m. on weekdays.",
+          "ch": "我們辦公室在平日下午6點關門。"
+        }
+      ]
+    },
+    {
+      "eng": "pocket",
+      "kk": "/ˈpɑkɪt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "口袋"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古法語 poche（袋子）的小稱形式，指縫在衣服上用來裝小物品的小袋。",
+      "definition": "1. a small bag sewn into or on clothing, used for carrying small items.",
+      "example": [
+        {
+          "eng": "He put his hands deep into his coat pockets.",
+          "ch": "他把雙手深深插進外套口袋裡。"
+        }
+      ]
+    },
+    {
+      "eng": "point",
+      "kk": "/pɔɪnt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "點",
+          "尖端"
+        ],
+        [
+          "分數",
+          "得分"
+        ],
+        [
+          "要點",
+          "觀點"
+        ]
+      ],
+      "analysis": "此字為名詞，源自拉丁語 punctum（刺孔、點，源於 pungere「刺」），經古法語進入英語，本義為尖端或小圓點，引申為計分點與議論要點。",
+      "definition": "1. a small dot or mark, or the tapering sharp end of something; 2. a unit of scoring in a game or competition; 3. a particular detail, idea, or argument in a discussion.",
+      "example": [
+        {
+          "eng": "Draw a small point at the center of the circle.",
+          "ch": "在圓心畫一個小點。"
+        },
+        {
+          "eng": "Our basketball team won by three points.",
+          "ch": "我們籃球隊贏了三分。"
+        },
+        {
+          "eng": "I see your point, but I still disagree.",
+          "ch": "我明白你的要點，但我仍然不同意。"
+        }
+      ]
+    },
+    {
+      "eng": "point",
+      "kk": "/pɔɪnt/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "指向",
+          "指出"
+        ]
+      ],
+      "analysis": "此字為及物動詞，由名詞 point 轉品而來，指用手指或器具指向某方向或目標。",
+      "definition": "1. direct one's finger or something else towards an object in order to show where it is.",
+      "example": [
+        {
+          "eng": "He pointed his finger at the map on the wall.",
+          "ch": "他用手指著牆上的地圖。"
+        }
+      ]
+    },
+    {
+      "eng": "police",
+      "kk": "/pəˈlis/",
+      "tense": "n.",
+      "ch": [
+        [
+          "警察",
+          "警方"
+        ]
+      ],
+      "analysis": "此字為複數同形集體名詞，源自希臘語 politeia（國家、公民行政），經法語進入英語，指維護社會秩序與法律的警察部隊。",
+      "definition": "1. the civil force of a state, responsible for maintaining public order and preventing and detecting crime.",
+      "example": [
+        {
+          "eng": "The police arrived at the scene of the accident quickly.",
+          "ch": "警察迅速到達事故現場。"
+        }
+      ]
+    },
+    {
+      "eng": "polite",
+      "kk": "/pəˈlaɪt/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "有禮貌的",
+          "客氣的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自拉丁語 politus（擦亮的、文雅的，動詞 polire 的過去分詞），引申為行為舉止文雅、有禮貌。",
+      "definition": "1. having or showing good manners; courteous.",
+      "example": [
+        {
+          "eng": "It is polite to say thank you when someone helps you.",
+          "ch": "當別人幫忙時說謝謝是很有禮貌的。"
+        }
+      ]
+    },
+    {
+      "eng": "pond",
+      "kk": "/pɑnd/",
+      "tense": "n.",
+      "ch": [
+        [
+          "池塘"
+        ]
+      ],
+      "analysis": "此字為名詞，為 pound（水壩、蓄水池）的變體，指比湖泊小的天然或人工蓄水池塘。",
+      "definition": "1. a small body of still water, either natural or artificial.",
+      "example": [
+        {
+          "eng": "Several ducks are swimming peacefully in the pond.",
+          "ch": "幾隻鴨子正在池塘裡平靜地游著。"
+        }
+      ]
+    },
+    {
+      "eng": "pool",
+      "kk": "/pul/",
+      "tense": "n.",
+      "ch": [
+        [
+          "水池",
+          "游泳池"
+        ],
+        [
+          "共同資金",
+          "共用資源"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古英語 pol，指小積水處或人工游泳池，後延伸出資源或資金集中的「共用池」義項。",
+      "definition": "1. a small area of standing water, or an artificial basin filled with water for swimming; 2. a shared supply of resources, money, or staff.",
+      "example": [
+        {
+          "eng": "The children love swimming in the outdoor pool during summer.",
+          "ch": "孩子們夏天很喜歡在戶外游泳池游泳。"
+        },
+        {
+          "eng": "The company set up a carpool to save travel costs.",
+          "ch": "公司設立了共乘車隊以節省交通成本。"
+        }
+      ]
+    },
+    {
+      "eng": "poor",
+      "kk": "/pʊr/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "貧窮的",
+          "貧困的"
+        ],
+        [
+          "差的",
+          "低劣的",
+          "可憐的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自拉丁語 pauper（貧乏的），經古法語進入英語，指經濟狀況貧困，或品質低劣、處境堪憐。",
+      "definition": "1. lacking sufficient money to live at a standard considered comfortable or normal; 2. of a low or inferior standard or quality, or deserving pity.",
+      "example": [
+        {
+          "eng": "They donated food and clothes to help poor families.",
+          "ch": "他們捐贈食物和衣服來幫助貧困家庭。"
+        },
+        {
+          "eng": "The team lost the game due to poor performance.",
+          "ch": "球隊因為表現不佳而輸了比賽。"
+        }
+      ]
+    },
+    {
+      "eng": "popcorn",
+      "kk": "/ˈpɑpˌkɔrn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "爆米花"
+        ]
+      ],
+      "analysis": "此字為複合名詞，由 pop（爆裂聲）與 corn（玉米）結合而成，指加熱會爆開的玉米粒點心。",
+      "definition": "1. corn kernels that are heated until they burst open and form light, fluffy snack pieces.",
+      "example": [
+        {
+          "eng": "We bought a large bucket of popcorn before watching the movie.",
+          "ch": "我們在看電影前買了一大桶爆米花。"
+        }
+      ]
+    },
+    {
+      "eng": "popular",
+      "kk": "/ˈpɑpjəlɚ/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "受歡迎的",
+          "流行的",
+          "大眾的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自拉丁語 popularis（屬於人民的，源自 populus「人民」），原指受平民喜愛的，現泛指廣受喜愛或流行的事物。",
+      "definition": "1. liked or admired by many people or by a particular group; 2. suited to or intended for the general public.",
+      "example": [
+        {
+          "eng": "Soccer is one of the most popular sports in the world.",
+          "ch": "足球是世界上最受歡迎的運動之一。"
+        }
+      ]
+    },
+    {
+      "eng": "possible",
+      "kk": "/ˈpɑsəbəl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "可能的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自拉丁語 possibilis（可能做到的，源於 posse「能夠」），指有機會發生或做到的。",
+      "definition": "1. able to be done or achieved; having a chance of happening or being true.",
+      "example": [
+        {
+          "eng": "We will try our best to finish the project as soon as possible.",
+          "ch": "我們會盡最大努力盡快完成這個專案。"
+        }
+      ]
+    }
+  ]
+}

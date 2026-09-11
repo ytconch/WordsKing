@@ -1,0 +1,1118 @@
+{
+  "level": 2,
+  "chunkIndex": 21,
+  "inputs": [
+    "waist",
+    "waiter",
+    "waitress",
+    "wallet",
+    "war",
+    "wash",
+    "waste",
+    "watermelon",
+    "wealth",
+    "wedding",
+    "weekday",
+    "weigh",
+    "weight",
+    "western",
+    "whale",
+    "whatever",
+    "wheel",
+    "whenever",
+    "wherever",
+    "whisper",
+    "whoever",
+    "whole",
+    "whom",
+    "width",
+    "wild",
+    "willing",
+    "windy",
+    "wine",
+    "wing",
+    "wire",
+    "within",
+    "wolf",
+    "wonder",
+    "wood",
+    "woods",
+    "wooden",
+    "wool",
+    "workbook",
+    "worm",
+    "worse",
+    "worst",
+    "worth",
+    "wound",
+    "yam",
+    "youth",
+    "zebra"
+  ],
+  "rows": [
+    {
+      "eng": "waist",
+      "kk": "west",
+      "tense": "n.",
+      "ch": [
+        [
+          "腰，腰部",
+          "衣服的腰部"
+        ]
+      ],
+      "analysis": "此字為繼承自日耳曼語族的古英語單字（源自原始日耳曼語 *wahst-「生長」，與 wax 動詞同源，原義指身體生長或發育的中段），屬於不可透明拆解的基礎詞彙。語意從身體的生長中段演變為人體胸部與臀部之間的狹窄部位，並引申指衣物對應腰部的裁剪處。",
+      "definition": "1. the part of the human body below the ribs and above the hips; 2. the part of a garment that fits around the waist.",
+      "example": [
+        {
+          "eng": "She wore a belt around her waist.",
+          "ch": "她腰上繫了一條皮帶。"
+        },
+        {
+          "eng": "The dress was too tight in the waist.",
+          "ch": "這件洋裝的腰部太緊了。"
+        }
+      ]
+    },
+    {
+      "eng": "waiter",
+      "kk": "ˋwetɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "服務生，侍者"
+        ]
+      ],
+      "analysis": "此字由動詞 wait 加上名詞字尾 -er 構成現代透明構詞。歷史上，wait 源自日耳曼語族（經古法語 waeiter 進入英語），原意為「守候、監視」，後來在中古英語中演變出「伺候、服侍顧客」的語義，加上 -er 後專指在餐館或酒吧中為客人點餐送餐的服務人員。",
+      "definition": "1. a person who serves customers at their tables in a restaurant.",
+      "example": [
+        {
+          "eng": "The waiter brought our food to the table.",
+          "ch": "服務生把我們的食物端到了桌上。"
+        }
+      ]
+    },
+    {
+      "eng": "waitress",
+      "kk": "ˋwetrɪs",
+      "tense": "n.",
+      "ch": [
+        [
+          "女服務生，女侍者"
+        ]
+      ],
+      "analysis": "此字由 waiter 加上表示女性的陰性字尾 -ress 構成現代透明構詞。歷史上，waiter 指侍者，而 -ress 借自法語陰性字尾，組合成專門指女性服務生的詞彙，現代英語中亦逐漸有使用 gender-neutral 的 server 取代之的趨勢。",
+      "definition": "1. a female waiter who serves customers at their tables in a restaurant.",
+      "example": [
+        {
+          "eng": "Our waitress was very polite and helpful.",
+          "ch": "我們的女服務生非常有禮貌且很樂意幫忙。"
+        }
+      ]
+    },
+    {
+      "eng": "wallet",
+      "kk": "ˋwɑlɪt",
+      "tense": "n.",
+      "ch": [
+        [
+          "皮夾，錢包"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自中古英語 walet，可能最終追溯至古諾斯語或中古荷蘭語，原義指袋子或背包（用來裝行李或食物）。在中世紀指旅行用的行囊，隨著時代演變，其體積縮小，現代英語中專門用來指放紙鈔、信用卡和證件的小型摺疊皮夾。",
+      "definition": "1. a small, flat, folding case for carrying paper money, credit cards, and other documents.",
+      "example": [
+        {
+          "eng": "He kept his driver's license in his wallet.",
+          "ch": "他把駕照放在皮夾裡。"
+        }
+      ]
+    },
+    {
+      "eng": "war",
+      "kk": "wɔr",
+      "tense": "n.",
+      "ch": [
+        [
+          "戰爭，戰役"
+        ],
+        [
+          "衝突，競爭"
+        ]
+      ],
+      "analysis": "此字為繼承自日耳曼語族的古英語單字（源自古諾斯語 *verra 或法蘭克語 *werra「混亂、爭吵」），屬於不可透明拆解的基礎詞彙。語意從國家或群體之間的武裝衝突，引申抽象比喻為不同團體或概念間的對立、競爭或奮鬥。",
+      "definition": "1. a state of armed conflict between different countries or groups; 2. a sustained campaign or struggle against something harmful.",
+      "example": [
+        {
+          "eng": "The war lasted for four long years.",
+          "ch": "這場戰爭持續了漫長的四年。"
+        },
+        {
+          "eng": "The government declared war on poverty.",
+          "ch": "政府向貧窮宣戰。"
+        }
+      ]
+    },
+    {
+      "eng": "wash",
+      "kk": "wɑʃ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "洗，清洗"
+        ],
+        [
+          "沖刷，洗刷"
+        ]
+      ],
+      "analysis": "此字為繼承自日耳曼語族的古英語動詞 wascan，屬於不可透明拆解的基礎詞彙。作為及物動詞，其核心義為用水或液體去除汙垢；同時也指自然界的水流拍打、沖刷岸邊或物體的動作。",
+      "definition": "1. to clean something using water and usually soap; 2. to move or carry something by the force of flowing water.",
+      "example": [
+        {
+          "eng": "She washes her car every weekend.",
+          "ch": "她每個周末都洗車。"
+        },
+        {
+          "eng": "The waves washed the boat ashore.",
+          "ch": "海浪把船沖刷到岸上。"
+        }
+      ]
+    },
+    {
+      "eng": "wash",
+      "kk": "wɑʃ",
+      "tense": "vi.",
+      "ch": [
+        [
+          "洗手臉，洗澡"
+        ],
+        [
+          "耐洗，洗滌時不褪色或損壞"
+        ]
+      ],
+      "analysis": "此字由 wash 動詞的不及物用法延續而來。作為不及物動詞時，常指人自己清洗身體（如 wash up），或是指衣物布料本身經得起水洗的特性。",
+      "definition": "1. to clean oneself with water; 2. of fabric, to retain its quality and color when washed.",
+      "example": [
+        {
+          "eng": "Go and wash before dinner.",
+          "ch": "晚飯前去洗手臉。"
+        },
+        {
+          "eng": "This silk blouse will not wash easily.",
+          "ch": "這件絲質襯衫不容易水洗。"
+        }
+      ]
+    },
+    {
+      "eng": "waste",
+      "kk": "west",
+      "tense": "n.",
+      "ch": [
+        [
+          "浪費"
+        ],
+        [
+          "廢棄物，垃圾"
+        ],
+        [
+          "荒地，荒漠"
+        ]
+      ],
+      "analysis": "此字由 waste 動詞詞形轉類而來，保留了拉丁語源 vāstus「荒涼的、荒蕪的」之歷史名詞義。語意從荒蕪之地（waste land），演變為被丟棄的無用之物（廢棄物），以及對時間、金錢等資源的徒勞消耗。",
+      "definition": "1. an instance of using something carelessly or to no purpose; 2. unwanted or unusable material, refuse, or garbage; 3. a large area of barren, uninhabited land.",
+      "example": [
+        {
+          "eng": "Buying that expensive gadget was a complete waste of money.",
+          "ch": "買那個昂貴的小玩意完全是浪費錢。"
+        },
+        {
+          "eng": "Factories must dispose of industrial waste properly.",
+          "ch": "工廠必須妥善處理工業廢棄物。"
+        },
+        {
+          "eng": "The explorers crossed a vast frozen waste.",
+          "ch": "探險家們穿越了一片廣袤冰冷的荒原。"
+        }
+      ]
+    },
+    {
+      "eng": "waste",
+      "kk": "west",
+      "tense": "vt.",
+      "ch": [
+        [
+          "浪費，糟蹋"
+        ],
+        [
+          "使消瘦，使衰弱"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，經由中古英語借自古法語 waster，最終源自拉丁語 vāstāre「荒廢、使荒蕪」（源自 vāstus「荒涼的」）。作為及物動詞，其核心義從「使土地荒蕪」演變為「白白消耗或未充分利用資源、時間或金錢」，亦可引申指疾病使人體逐漸消瘦。",
+      "definition": "1. to use or spend something carelessly, extravagantly, or to no purpose; 2. to cause someone to lose flesh and become weak.",
+      "example": [
+        {
+          "eng": "Don't waste your time playing video games all day.",
+          "ch": "不要一整天打電動浪費你的時間。"
+        },
+        {
+          "eng": "The prolonged illness wasted his strength.",
+          "ch": "長期的疾病消磨了他的體力。"
+        }
+      ]
+    },
+    {
+      "eng": "watermelon",
+      "kk": "ˋwɔtɚmɛlən",
+      "tense": "n.",
+      "ch": [
+        [
+          "西瓜"
+        ]
+      ],
+      "analysis": "此字為現代透明複合詞，由 water（水）與 melon（甜瓜、葫蘆科植物）結合而成。因為西瓜含有大量水分，故在早期英語中被稱為 water-melon，用以形容其多汁的特性。",
+      "definition": "1. a large, oval fruit with a dark green rind, sweet red flesh, and many black seeds.",
+      "example": [
+        {
+          "eng": "We ate a cold watermelon on a hot summer afternoon.",
+          "ch": "我們在炎熱的夏天下午吃了一個冰鎮西瓜。"
+        }
+      ]
+    },
+    {
+      "eng": "wealth",
+      "kk": "wɛlθ",
+      "tense": "n.",
+      "ch": [
+        [
+          "財富，錢財"
+        ],
+        [
+          "豐富，大量"
+        ]
+      ],
+      "analysis": "此字為繼承自日耳曼語族的古英語單字（源自形容詞 weal「幸福的、昌盛的」加上名詞字尾 -th），屬於不可透明拆解的歷史詞彙。原義指狀態良好、繁榮或幸福，隨後語義重心轉移至物質上的擁有，指大量的金錢與財產，並進一步引申為抽象的「豐富、大量」（如 a wealth of knowledge）。",
+      "definition": "1. a great quantity of money and valuable possessions; 2. a large amount or supply of something valuable.",
+      "example": [
+        {
+          "eng": "He accumulated his wealth through real estate investments.",
+          "ch": "他透過房地產投資累積了財富。"
+        },
+        {
+          "eng": "The book contains a wealth of useful information.",
+          "ch": "這本書包含了豐富的實用資訊。"
+        }
+      ]
+    },
+    {
+      "eng": "wedding",
+      "kk": "ˋwɛdɪŋ",
+      "tense": "n.",
+      "ch": [
+        [
+          "婚禮，結婚典禮"
+        ]
+      ],
+      "analysis": "此字由動詞 wed（結婚）加上名詞字尾 -ding 構成。wed 源自古英語 wēdian（意為「以財產作抵押來訂婚或娶妻」），加上名詞化字尾後，現代專指結婚的慶祝儀式與典禮。",
+      "definition": "1. a marriage ceremony and the celebration connected with it.",
+      "example": [
+        {
+          "eng": "They are planning a beach wedding for next spring.",
+          "ch": "他們正計劃明年春天舉行一場海灘婚禮。"
+        }
+      ]
+    },
+    {
+      "eng": "weekday",
+      "kk": "ˋwikde",
+      "tense": "n.",
+      "ch": [
+        [
+          "平日，工作日"
+        ]
+      ],
+      "analysis": "此字為現代透明複合詞，由 week（星期、週）與 day（天、日）結合而成。指一週之中扣除週末（週六與週日）之外的正常工作天。",
+      "definition": "1. any day of the week except Saturday and Sunday.",
+      "example": [
+        {
+          "eng": "Public libraries are less crowded on weekdays.",
+          "ch": "公共圖書館在平日比較不擁擠。"
+        }
+      ]
+    },
+    {
+      "eng": "weigh",
+      "kk": "we",
+      "tense": "vt.",
+      "ch": [
+        [
+          "稱...的重量"
+        ],
+        [
+          "權衡，斟酌"
+        ]
+      ],
+      "analysis": "此字為繼承自日耳曼語族的古英語動詞 wegan（意為「運送、移動、秤重」），與 wain 和 weight 同源。作為及物動詞，其物理義為測量某物的重量，並引申出抽象義，指在做決定前仔細衡量、權衡不同的選項或因素。",
+      "definition": "1. to find out how heavy someone or something is; 2. to consider carefully the pros and cons of something before making a decision.",
+      "example": [
+        {
+          "eng": "The grocer weighed the apples on the scale.",
+          "ch": "雜貨商用秤稱了蘋果的重量。"
+        },
+        {
+          "eng": "She weighed all her options before accepting the job offer.",
+          "ch": "她在接受這份工作邀約前權衡了所有的選擇。"
+        }
+      ]
+    },
+    {
+      "eng": "weigh",
+      "kk": "we",
+      "tense": "vi.",
+      "ch": [
+        [
+          "重（若干重量）"
+        ],
+        [
+          "重壓，對...產生重大影響"
+        ]
+      ],
+      "analysis": "此字由 weigh 動詞的不及物用法延續而來。作為不及物動詞時，主詞為受測物，後面直接接重量數值；亦可引申指心理上的沉重負擔或影響（如 weigh on someone's mind）。",
+      "definition": "1. to have a specified weight; 2. to burden or press heavily upon someone's mind or spirit.",
+      "example": [
+        {
+          "eng": "The newborn baby weighed seven pounds.",
+          "ch": "剛出生的嬰兒重七磅。"
+        },
+        {
+          "eng": "Guilt weighed heavily on his conscience.",
+          "ch": "罪惡感重重地壓在他的良心上。"
+        }
+      ]
+    },
+    {
+      "eng": "weight",
+      "kk": "wet",
+      "tense": "n.",
+      "ch": [
+        [
+          "重量，分量"
+        ],
+        [
+          "重物"
+        ],
+        [
+          "權重，重要性"
+        ]
+      ],
+      "analysis": "此字為繼承自日耳曼語族的古英語單字（源自動詞 wegan 的衍生名詞），與 weigh 緊密相關。核心義為物體受重力作用下的重量，並引申指用來鍛鍊身體的重物（如啞鈴）、或是人事物所分量、影響力及重要性。",
+      "definition": "1. the amount that something weighs; 2. a heavy object used for lifting exercises or for keeping something down; 3. importance, influence, or authority.",
+      "example": [
+        {
+          "eng": "The bridge is designed to carry heavy weight.",
+          "ch": "這座橋設計用來承受重負荷。"
+        },
+        {
+          "eng": "He lifts weights at the gym three times a week.",
+          "ch": "他一週去健身房舉重三次。"
+        },
+        {
+          "eng": "Her opinion carries great weight in the committee.",
+          "ch": "她的意見在委員會中很有分量。"
+        }
+      ]
+    },
+    {
+      "eng": "western",
+      "kk": "ˋwɛstɚn",
+      "tense": "adj.",
+      "ch": [
+        [
+          "西方的，西部的"
+        ]
+      ],
+      "analysis": "此字由 west（西方）加上形容詞字尾 -ern 構成現代透明構詞。歷史上，west 源自日耳曼語族，加上 -ern（表方向的日耳曼語字尾）後，專門用來修飾位於西方的位置、國家或文化，亦可指美國西部的牛仔風格。",
+      "definition": "1. situated in, directed toward, or coming from the west; 2. relating to the countries of Europe and the Americas.",
+      "example": [
+        {
+          "eng": "They live in the western part of the city.",
+          "ch": "他們住在城市的西部。"
+        },
+        {
+          "eng": "Western cuisine emphasizes the use of dairy products.",
+          "ch": "西方料理強調乳製品的使用。"
+        }
+      ]
+    },
+    {
+      "eng": "whale",
+      "kk": "hwel",
+      "tense": "n.",
+      "ch": [
+        [
+          "鯨，鯨魚"
+        ]
+      ],
+      "analysis": "此字為繼承自日耳曼語族的古英語單字（源自原始日耳曼語 *hwalaz），屬於不可透明拆解的基礎動物名稱。指生活 in 海洋中的大型哺乳動物。",
+      "definition": "1. a very large marine mammal that breathes air through a blowhole on its head.",
+      "example": [
+        {
+          "eng": "We spotted a blue whale breaching off the coast.",
+          "ch": "我們在海岸外發現了一隻躍出水面的藍鯨。"
+        }
+      ]
+    },
+    {
+      "eng": "whatever",
+      "kk": "hwɑtˋɛvɚ",
+      "tense": "pron.",
+      "ch": [
+        [
+          "無論什麼，不管什麼"
+        ],
+        [
+          "任何...的事物"
+        ]
+      ],
+      "analysis": "此字為現代透明複合詞，由 what（什麼）與 ever（表強調或泛指的字尾）結合而成。用作代名詞時，表示不論何種事物、凡是...的一切。",
+      "definition": "1. used to emphasize a lack of restriction; anything or everything that; 2. whatever amount or thing that may exist.",
+      "example": [
+        {
+          "eng": "You can choose whatever you like from the menu.",
+          "ch": "你可以從菜單中挑選任何你喜歡的。"
+        },
+        {
+          "eng": "Do whatever it takes to finish the project on time.",
+          "ch": "不惜任何代價也要按時完成這個專案。"
+        }
+      ]
+    },
+    {
+      "eng": "wheel",
+      "kk": "hwil",
+      "tense": "n.",
+      "ch": [
+        [
+          "車輪，輪子"
+        ],
+        [
+          "方向盤"
+        ]
+      ],
+      "analysis": "此字為繼承自日耳曼語族的古英語單字（源自原始日耳曼語 *hwehwlan-，與印歐語系中表示旋轉的詞根同源），屬於不可透明拆解的基礎詞彙。原義為圓形旋轉物，現代廣泛指車輛的輪子，或引申指汽車的方向盤（the wheel）。",
+      "definition": "1. a circular object that revolves on an axle and is fixed below a vehicle; 2. a steering wheel of a motor vehicle.",
+      "example": [
+        {
+          "eng": "The bicycle wheel needs more air.",
+          "ch": "這輛腳踏車的輪子需要打氣。"
+        },
+        {
+          "eng": "He fell asleep while at the wheel.",
+          "ch": "他在開車時睡著了。"
+        }
+      ]
+    },
+    {
+      "eng": "whenever",
+      "kk": "hwɛnˋɛvɚ",
+      "tense": "adv.",
+      "ch": [
+        [
+          "每當，無論何時"
+        ]
+      ],
+      "analysis": "此字為現代透明複合詞，由 when（何時）與 ever（表強調或泛指的字尾）結合而成。用作連接詞或副詞時，表示在任何時候、每當發生某事的時候。",
+      "definition": "1. at any time; on any occasion that; 2. every time that.",
+      "example": [
+        {
+          "eng": "Come to visit me whenever you are in town.",
+          "ch": "你什麼時候來城裡，就什麼時候來找我。"
+        },
+        {
+          "eng": "Whenever it rains, the traffic gets worse.",
+          "ch": "每當下雨，交通就會變糟。"
+        }
+      ]
+    },
+    {
+      "eng": "wherever",
+      "kk": "hwɛrˋɛvɚ",
+      "tense": "adv.",
+      "ch": [
+        [
+          "無論在哪裡，不管去哪兒"
+        ]
+      ],
+      "analysis": "此字為現代透明複合詞，由 where（哪裡）與 ever（表強調或泛指的字尾）結合而成。用作連接詞或副詞時，表示在任何地點、無論到什麼地方。",
+      "definition": "1. in or to whatever place; at or to any place.",
+      "example": [
+        {
+          "eng": "You can sit wherever you like.",
+          "ch": "你想坐哪裡都可以。"
+        },
+        {
+          "eng": "Wherever she goes, her dog follows her.",
+          "ch": "她去哪裡，她的狗就跟到哪裡。"
+        }
+      ]
+    },
+    {
+      "eng": "whisper",
+      "kk": "ˋhwɪspɚ",
+      "tense": "vi.",
+      "ch": [
+        [
+          "低語，耳語，說悄悄話"
+        ]
+      ],
+      "analysis": "此字為日耳曼語源的擬聲詞（古英語 hwīsprian），模仿說話時氣流摩擦的聲音。作為不及物動詞，指不用聲帶發聲、只用氣流小聲說話的動作，亦可指風吹過樹葉的沙沙聲。",
+      "definition": "1. to speak very softly using one's breath rather than vocal cords, especially for secrecy.",
+      "example": [
+        {
+          "eng": "They whispered to each other during the movie.",
+          "ch": "他們在電影院裡互相耳語。"
+        }
+      ]
+    },
+    {
+      "eng": "whoever",
+      "kk": "huˋɛvɚ",
+      "tense": "pron.",
+      "ch": [
+        [
+          "無論誰，不管誰"
+        ],
+        [
+          "任何人"
+        ]
+      ],
+      "analysis": "此字為現代透明複合詞，由 who（誰）與 ever（表強調或泛指的字尾）結合而成。用作代名詞時，表示不論是哪一個人、凡是任何人。",
+      "definition": "1. the person who; any person that; 2. no matter who.",
+      "example": [
+        {
+          "eng": "Whoever left the door open should close it.",
+          "ch": "不管誰把門開著的，應該把它關上。"
+        },
+        {
+          "eng": "You can invite whoever you want to the party.",
+          "ch": "你想邀請誰來派對都可以。"
+        }
+      ]
+    },
+    {
+      "eng": "whole",
+      "kk": "hol",
+      "tense": "adj.",
+      "ch": [
+        [
+          "完整的，全部的"
+        ],
+        [
+          "未受損傷的，健康的"
+        ]
+      ],
+      "analysis": "此字為繼承自日耳曼語族的古英語單字（源自原始日耳曼語 *hailaz「健康的、完整的」，與 heal 和 holy 同源），屬於不可透明拆解的基礎詞彙。核心義為沒有缺少任何部分的、完整的，亦可引申指身體健康無恙的。",
+      "definition": "1. complete; lacking nothing; entire; 2. in an unbroken or undamaged state; healthy.",
+      "example": [
+        {
+          "eng": "He spent the whole afternoon reading a book.",
+          "ch": "他花了一整個下午讀書。"
+        },
+        {
+          "eng": "The plate fell on the floor but remained whole.",
+          "ch": "盤子掉在地上但依然完好無缺。"
+        }
+      ]
+    },
+    {
+      "eng": "whom",
+      "kk": "hum",
+      "tense": "pron.",
+      "ch": [
+        [
+          "誰（who 的受格）"
+        ]
+      ],
+      "analysis": "此字為繼承自日耳曼語族的古英語代名詞受格形式（源自古英語 hwām），與 who 同源。作為代名詞，專門用於動詞或介系詞之後的受格位置，但在現代口語中經常被 who 所取代。",
+      "definition": "1. the objective form of the pronoun 'who', used as the object of a verb or preposition.",
+      "example": [
+        {
+          "eng": "To whom should I send this letter?",
+          "ch": "我應該把這封信寄給誰？"
+        }
+      ]
+    },
+    {
+      "eng": "width",
+      "kk": "wɪdθ",
+      "tense": "n.",
+      "ch": [
+        [
+          "寬度，闊度"
+        ]
+      ],
+      "analysis": "此字由形容詞 wide（寬的）加上名詞字尾 -th 構成。歷史上，wide 源自古英語 wīd，加上表狀態或特質的字尾 -th 後，衍生出名詞形式，專指橫向的尺寸或距離。",
+      "definition": "1. the measurement or extent of something from side to side; how wide something is.",
+      "example": [
+        {
+          "eng": "The pool is twenty feet in width.",
+          "ch": "這個游泳池寬二十英尺。"
+        }
+      ]
+    },
+    {
+      "eng": "wild",
+      "kk": "waɪld",
+      "tense": "adj.",
+      "ch": [
+        [
+          "野生的，未馴化的"
+        ],
+        [
+          "荒涼的，未開發的"
+        ],
+        [
+          "狂熱的，失控的"
+        ]
+      ],
+      "analysis": "此字為繼承自日耳曼語族的古英語單字（源自原始日耳曼語 *wilþijaz「不受拘束的、迷失的」），屬於不可透明拆解的基礎詞彙。原義指動物未受人類馴養、植物自然生長在荒野中，隨後引申指行為狂野、不受約束或情緒激動失控。",
+      "definition": "1. living or growing in a natural state; not domesticated or cultivated; 2. uninhabited and uncultivated; 3. uncontrolled, frantic, or extremely enthusiastic.",
+      "example": [
+        {
+          "eng": "Lions and tigers are wild animals.",
+          "ch": "獅子和老虎是野生動物。"
+        },
+        {
+          "eng": "The explorers ventured deep into the wild jungle.",
+          "ch": "探險家們深入荒涼的叢林。"
+        },
+        {
+          "eng": "The crowd went wild when the band came on stage.",
+          "ch": "當樂團上臺時，群眾為之瘋狂。"
+        }
+      ]
+    },
+    {
+      "eng": "willing",
+      "kk": "ˋwɪlɪŋ",
+      "tense": "adj.",
+      "ch": [
+        [
+          "樂意的，情願的"
+        ]
+      ],
+      "analysis": "此字由動詞 will（意願、決心）加上現在分詞作形容詞用（-ing）構成現代透明構詞。歷史上，will 源自古英語 willan「想要、渴望」，衍生出表示主觀意願的形容詞，指某人心中樂意、不排斥去做某事。",
+      "definition": "1. ready, eager, or prepared to do something; having no objection.",
+      "example": [
+        {
+          "eng": "Are you willing to help me with this heavy lifting?",
+          "ch": "你願意幫我搬這些重物嗎？"
+        }
+      ]
+    },
+    {
+      "eng": "windy",
+      "kk": "ˋwɪndi",
+      "tense": "adj.",
+      "ch": [
+        [
+          "風大的，多風的"
+        ]
+      ],
+      "analysis": "此字由名詞 wind（風）加上形容詞字尾 -y 構成現代透明構詞。wind 源自古英語 wind（日耳曼語源），加上 -y 後專門用來形容氣候環境中風勢強勁、風很大的狀態。",
+      "definition": "1. characterized by or exposed to strong winds or much wind.",
+      "example": [
+        {
+          "eng": "It was too windy to play tennis outside.",
+          "ch": "風太大了，沒辦法在戶外打網球。"
+        }
+      ]
+    },
+    {
+      "eng": "wine",
+      "kk": "waɪn",
+      "tense": "n.",
+      "ch": [
+        [
+          "葡萄酒，酒"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自日耳曼語族透過早期拉丁語 vīnum（源自希臘語 οἶνος）借入古英語 wīn。指發酵後製成的葡萄酒精飲料。",
+      "definition": "1. an alcoholic drink made from fermented grape juice.",
+      "example": [
+        {
+          "eng": "They ordered a bottle of red wine with dinner.",
+          "ch": "他們點了一瓶紅酒配晚餐。"
+        }
+      ]
+    },
+    {
+      "eng": "wing",
+      "kk": "wɪŋ",
+      "tense": "n.",
+      "ch": [
+        [
+          "翅膀，翼"
+        ],
+        [
+          "機翼"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自古諾斯語 vængr，與古英語 wēge（飛行）同源。原義為鳥類或昆蟲用來飛行的器官，現代亦廣泛指飛機的機翼，或建築物向外延伸的側翼。",
+      "definition": "1. the limb of a bird, insect, or bat that is used for flying; 2. a fixed horizontal surface attached to the fuselage of an airplane to provide lift.",
+      "example": [
+        {
+          "eng": "The bird flapped its wings and flew away.",
+          "ch": "那隻鳥拍動翅膀飛走了。"
+        },
+        {
+          "eng": "Ice formed on the aircraft's wings during the flight.",
+          "ch": "飛機飛行時機翼上結了冰。"
+        }
+      ]
+    },
+    {
+      "eng": "wire",
+      "kk": "waɪɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "金屬線，電線"
+        ]
+      ],
+      "analysis": "此字為繼承自日耳曼語族的古英語單字（源自原始日耳曼語 *wīprą「扭曲、編織物」），屬於不可透明拆解的基礎詞彙。原義指金屬抽拉而成的細長絲狀物，後來隨著電器時代的到來，引申指用來傳輸電流或訊號的電線。",
+      "definition": "1. a thin, flexible thread or rod of metal; 2. an insulated strand of metal used for carrying electric current.",
+      "example": [
+        {
+          "eng": "The fence was made of barbed wire.",
+          "ch": "這道柵欄是用鐵絲網做的。"
+        },
+        {
+          "eng": "Make sure to unplug the appliance before fixing the wire.",
+          "ch": "修理電線前務必拔掉電器插頭。"
+        }
+      ]
+    },
+    {
+      "eng": "within",
+      "kk": "wɪˋðɪn",
+      "tense": "prep.",
+      "ch": [
+        [
+          "在...之內"
+        ]
+      ],
+      "analysis": "此字為現代透明複合詞，由 with（向、對）與 in（在...裡面）在中古英語階段結合而成。用作介系詞時，表示不論在空間的內部、時間的期限之內，或是能力範圍之內。",
+      "definition": "1. inside the area, range, or limits of; not beyond; 2. before a certain period of time has elapsed.",
+      "example": [
+        {
+          "eng": "The library is within walking distance of my house.",
+          "ch": "圖書館在我家的步行距離之內。"
+        }
+      ]
+    },
+    {
+      "eng": "wolf",
+      "kk": "wʊlf",
+      "tense": "n.",
+      "ch": [
+        [
+          "狼"
+        ]
+      ],
+      "analysis": "此字為繼承自日耳曼語族的古英語單字（源自原始日耳曼語 *wulfaz），屬於不可透明拆解的基礎動物名稱。指大型犬科野生掠食動物。",
+      "definition": "1. a wild carnivorous mammal that resembles a large dog and typically hunts in packs.",
+      "example": [
+        {
+          "eng": "A lone wolf howled in the distance.",
+          "ch": "遠處有一隻孤狼在嚎叫。"
+        }
+      ]
+    },
+    {
+      "eng": "wonder",
+      "kk": "ˋwʌndɚ",
+      "tense": "vi.",
+      "ch": [
+        [
+          "想知道，琢磨"
+        ],
+        [
+          "感到驚奇，驚嘆"
+        ]
+      ],
+      "analysis": "此字為繼承自日耳曼語族的古英語動詞 wundrian（源自名詞 wundor「奇蹟」），屬於不可透明拆解的歷史詞彙。作為不及物動詞，其核心義為對某事感到好奇、在心中思索或琢磨，亦可指對奇妙的事物感到驚嘆。",
+      "definition": "1. to feel a desire to know something; to speculate or question; 2. to feel admiration and amazement.",
+      "example": [
+        {
+          "eng": "I wonder if she will come to the party tonight.",
+          "ch": "我想知道她今晚會不會來派對。"
+        },
+        {
+          "eng": "We wandered through the grand palace, wondering at its beauty.",
+          "ch": "我們漫步在宏偉的宮殿中，驚嘆於它的美麗。"
+        }
+      ]
+    },
+    {
+      "eng": "wood",
+      "kk": "wʊd",
+      "tense": "n.",
+      "ch": [
+        [
+          "木頭，木材"
+        ],
+        [
+          "樹林，森林"
+        ]
+      ],
+      "analysis": "此字為繼承自日耳曼語族的古英語單字（源自原始日耳曼語 *wuda-「森林、樹木」），屬於不可透明拆解的基礎詞彙。原義指樹木砍伐後可作為材料的硬質木材，複數形式（woods）則指面積較小的林地或樹林。",
+      "definition": "1. the hard, fibrous material that makes up the trunks and branches of trees; 2. a small forest or wooded area (often used as woods).",
+      "example": [
+        {
+          "eng": "The table is made of solid oak wood.",
+          "ch": "這張桌子是用實心橡木製成的。"
+        },
+        {
+          "eng": "They went for a walk in the woods.",
+          "ch": "他們去樹林裡散步。"
+        }
+      ]
+    },
+    {
+      "eng": "woods",
+      "kk": "wʊdz",
+      "tense": "n.",
+      "ch": [
+        [
+          "樹林，森林"
+        ]
+      ],
+      "analysis": "此字為 wood 的複數形式，歷史上在英語中常以複數 woods 專門指代一片範圍較小的樹林或森林，與單數型態「木材」的語義有所區隔。",
+      "definition": "1. a large collection of growing trees; a small forest.",
+      "example": [
+        {
+          "eng": "The children got lost in the dark woods.",
+          "ch": "孩子們在黑暗的樹林裡迷路了。"
+        }
+      ]
+    },
+    {
+      "eng": "wooden",
+      "kk": "ˋwʊdn",
+      "tense": "adj.",
+      "ch": [
+        [
+          "木製的，木頭的"
+        ],
+        [
+          "僵硬的，不自然的"
+        ]
+      ],
+      "analysis": "此字由名詞 wood（木頭）加上形容詞字尾 -en（表材質的日耳曼語字尾）構成現代透明構詞。原義指用木頭材質做成的物品，並引申比喻人的動作或表情像木頭般僵硬、不自然。",
+      "definition": "1. made of wood; 2. stiff, awkward, or lacking natural grace.",
+      "example": [
+        {
+          "eng": "They sat on a rustic wooden bench in the park.",
+          "ch": "他們坐在公園裡的鄉村風木製長椅上。"
+        },
+        {
+          "eng": "The actor gave a rather wooden performance.",
+          "ch": "這位演員的表演顯得相當僵硬不自然。"
+        }
+      ]
+    },
+    {
+      "eng": "wool",
+      "kk": "wʊl",
+      "tense": "n.",
+      "ch": [
+        [
+          "羊毛，毛織品"
+        ]
+      ],
+      "analysis": "此字為繼承自日耳曼語族的古英語單字（源自原始日耳曼語 *wullō），屬於不可透明拆解的基礎動物纖維名稱。專指綿羊身上剪下的柔軟捲曲毛髮及其紡織成的毛線或布料。",
+      "definition": "1. the fine, soft, curly hair that grows on sheep and some other animals, used to make yarn and fabric.",
+      "example": [
+        {
+          "eng": "This warm sweater is made of pure wool.",
+          "ch": "這件保暖的毛衣是用純羊毛製成的。"
+        }
+      ]
+    },
+    {
+      "eng": "workbook",
+      "kk": "ˋwɝk͵bʊk",
+      "tense": "n.",
+      "ch": [
+        [
+          "練習本，作業簿"
+        ]
+      ],
+      "analysis": "此字為現代透明複合詞，由 work（工作、練習）與 book（書本）結合而成。在教育場景中，專指供學生用來練習、填寫習題的作業簿或練習本。",
+      "definition": "1. a student's book containing problems and exercises to be worked on directly.",
+      "example": [
+        {
+          "eng": "Open your math workbook to page forty.",
+          "ch": "請把數學練習本翻到第四十頁。"
+        }
+      ]
+    },
+    {
+      "eng": "worm",
+      "kk": "wɝm",
+      "tense": "n.",
+      "ch": [
+        [
+          "蟲，蠕蟲，蚯蚓"
+        ]
+      ],
+      "analysis": "此字為繼承自日耳曼語族的古英語單字（源自原始日耳曼語 *wurmiz「爬蟲、蛇、蠕蟲」），屬於不可透明拆解的基礎詞彙。原義泛指無足的爬行小動物，現代主要指蚯蚓或寄生蟲，亦引申用於計算機領域的電腦病毒（worm）。",
+      "definition": "1. any of various long, soft-bodied, legless invertebrates that typically burrow in the ground.",
+      "example": [
+        {
+          "eng": "The robin pulled a fat worm from the damp earth.",
+          "ch": "知更鳥從潮濕的泥土中拉出一條肥大的蚯蚓。"
+        }
+      ]
+    },
+    {
+      "eng": "worse",
+      "kk": "wɝs",
+      "tense": "adj.",
+      "ch": [
+        [
+          "更壞的，更差的，更惡化的"
+        ]
+      ],
+      "analysis": "此字為繼承自日耳曼語族的古英語單字（源自原始日耳曼語 *wirista-，為 bad 的比較級不規則變化形），屬於不可透明拆解的基礎詞彙。作為形容詞的比較級，用來指程度比原本更壞、更劣質或病情更嚴重。",
+      "definition": "1. comparative of bad; more bad, severe, or unpleasant than something else.",
+      "example": [
+        {
+          "eng": "My headache is much worse than it was this morning.",
+          "ch": "我的頭痛比今天早上嚴重多了。"
+        }
+      ]
+    },
+    {
+      "eng": "worst",
+      "kk": "wɝst",
+      "tense": "adj.",
+      "ch": [
+        [
+          "最壞的，最差的，最劣等的"
+        ]
+      ],
+      "analysis": "此字為繼承自日耳曼語族的古英語單字（源自原始日耳曼語 *wirsista-，為 bad 的最高級不規則變化形），與 worse 緊密相關。作為形容詞的最高級，用來指所有選項中最差、最壞的極端情況。",
+      "definition": "1. superlative of bad; most bad, severe, or unpleasant.",
+      "example": [
+        {
+          "eng": "That was the worst movie I have ever seen in my life.",
+          "ch": "那是我一生中看過最爛的電影。"
+        }
+      ]
+    },
+    {
+      "eng": "worth",
+      "kk": "wɝθ",
+      "tense": "adj.",
+      "ch": [
+        [
+          "值得...的，有...價值的"
+        ]
+      ],
+      "analysis": "此字為繼承自日耳曼語族的古英語單字（源自原始日耳曼語 *wurþaz「有價值的、相當於」），屬於不可透明拆解的基礎詞彙。通常置於句中作敘述形容詞，後面接名詞或動名詞，表示具有某種經濟價值、好處或值得付出努力。",
+      "definition": "1. equivalent in value to the specified amount; deserving of a certain effort, attention, or respect.",
+      "example": [
+        {
+          "eng": "This rare book is worth a lot of money.",
+          "ch": "這本珍本書價值不菲。"
+        }
+      ]
+    },
+    {
+      "eng": "wound",
+      "kk": "wund",
+      "tense": "n.",
+      "ch": [
+        [
+          "傷口，創傷"
+        ],
+        [
+          "情感創傷"
+        ]
+      ],
+      "analysis": "此字為繼承自日耳曼語族的古英語單字（源自原始日耳曼語 *wundō「受傷的」），屬於不可透明拆解的基礎詞彙。原義指身體受到刀械、槍擊或外力造成的物理傷口，亦可引申指精神或情感上的心理創傷。",
+      "definition": "1. an injury to living tissue caused by a cut, blow, or other impact, typically in which the skin is cut or broken; 2. a deep emotional hurt.",
+      "example": [
+        {
+          "eng": "The doctor cleaned and bandaged the soldier's wound.",
+          "ch": "醫生清洗並包紮了士兵的傷口。"
+        },
+        {
+          "eng": "Time heals emotional wounds.",
+          "ch": "時間能治癒情感上的創傷。"
+        }
+      ]
+    },
+    {
+      "eng": "yam",
+      "kk": "jæm",
+      "tense": "n.",
+      "ch": [
+        [
+          "山藥，番薯"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，透過西非語言（如富拉語 nyami「吃」或沃洛夫語 nyami）經葡萄牙語或西班牙語傳入英語。在非洲及美洲地區專指熱帶地區產的塊莖植物（山藥），在美國部分地區亦常口語用來指橘肉的番薯（sweet potato）。",
+      "definition": "1. the starchy edible tuber of a tropical climbing plant, used as a staple food in tropical regions.",
+      "example": [
+        {
+          "eng": "Roasted yams are a traditional dish at Thanksgiving dinner.",
+          "ch": "烤山藥是感恩節晚餐上的傳統菜餚。"
+        }
+      ]
+    },
+    {
+      "eng": "youth",
+      "kk": "juθ",
+      "tense": "n.",
+      "ch": [
+        [
+          "青春，青年時期"
+        ],
+        [
+          "年輕人，青年"
+        ]
+      ],
+      "analysis": "此字為繼承自日耳曼語族的古英語單字（源自原始日耳曼語 *jugunþi-「年輕的狀態」），與 young 同源。核心義指人生的青年時期或年輕的狀態，並可轉品指處於這個年齡層的年輕人個體。",
+      "definition": "1. the period between childhood and adult age; the quality of being young; 2. a young person, especially a young man.",
+      "example": [
+        {
+          "eng": "She spent her youth traveling around the world.",
+          "ch": "她把青春時光都花在環遊世界上。"
+        },
+        {
+          "eng": "Several local youths organized a community clean-up event.",
+          "ch": "幾位當地青年組織了一場社區清潔活動。"
+        }
+      ]
+    },
+    {
+      "eng": "zebra",
+      "kk": "ˋzibrə",
+      "tense": "n.",
+      "ch": [
+        [
+          "斑馬"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，透過葡萄牙語（源自剛果語 zebra）進入英語體系。指非洲產的、全身帶有黑白條紋的馬科野生動物。",
+      "definition": "1. an African wild horse with black-and-white stripes and a coarse mane.",
+      "example": [
+        {
+          "eng": "A herd of zebras grazed peacefully across the savanna.",
+          "ch": "一群斑馬在稀樹草原上安詳地吃草。"
+        }
+      ]
+    }
+  ]
+}

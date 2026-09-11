@@ -1,0 +1,1153 @@
+{
+  "level": 3,
+  "chunkIndex": 10,
+  "inputs": [
+    "intelligent",
+    "interrupt",
+    "invent",
+    "inventor",
+    "investigate",
+    "invitation",
+    "ivory",
+    "jail",
+    "jar",
+    "jaw",
+    "jazz",
+    "jealous",
+    "jeep",
+    "jelly",
+    "jet",
+    "jewel",
+    "jewelry",
+    "journey",
+    "joyful",
+    "juicy",
+    "jungle",
+    "junior",
+    "junk",
+    "kangaroo",
+    "keyboard",
+    "kidney",
+    "kilometer",
+    "kindergarten",
+    "kingdom",
+    "kit",
+    "knight",
+    "knit",
+    "knot",
+    "koala",
+    "label",
+    "lace",
+    "ladder",
+    "lately",
+    "laughter",
+    "laundry",
+    "lawn",
+    "leak",
+    "leap",
+    "learning",
+    "leather",
+    "leisure",
+    "lemonade",
+    "leopard",
+    "lettuce",
+    "liberty"
+  ],
+  "rows": [
+    {
+      "eng": "intelligent",
+      "kk": "ɪnˈtɛlədʒənt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "聰明的",
+          "有智慧的"
+        ],
+        [
+          "有才智的",
+          "機智的"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞與歷史借詞，源自拉丁語 intelligentem（主格為 intelligens），由字首 inter-（在……之間）與 legere（選擇、讀、辨別）的現在分詞組合而成，原義為「能在事物中進行辨別與理解的」。演變至今，指人具備良好的理解、思考與學習能力，或指設計、機器展現出高度的智慧與反應。",
+      "definition": "1. Having or showing good mental capacity, understanding, or quickness of mind; 2. Showing intelligence or clever design.",
+      "example": [
+        {
+          "eng": "She is an intelligent student who always asks insightful questions.",
+          "ch": "她是一位聰明的學生，總是能提出有見地的問題。"
+        },
+        {
+          "eng": "The software uses intelligent algorithms to predict user behavior.",
+          "ch": "該軟體使用具備智慧的演算法來預測使用者行為。"
+        }
+      ]
+    },
+    {
+      "eng": "interrupt",
+      "kk": "ˌɪntəˈrʌpt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "打斷",
+          "打擾"
+        ],
+        [
+          "使暫停",
+          "中斷"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 interruptus，為 inter-（在……之間）與 rumpere（打破、破裂）的複合動詞過去分詞。歷史原義為「在中間打破」，演變為現代英文中，用以指言語或行動遭到中途介入而停止，或指連續的過程、通訊遭到暫時阻斷。",
+      "definition": "1. To stop someone from speaking or continuing by saying or doing something; 2. To temporarily stop or make a break in an activity or process.",
+      "example": [
+        {
+          "eng": "Please do not interrupt me while I am explaining the rules.",
+          "ch": "在我解釋規則時，請不要打斷我。"
+        },
+        {
+          "eng": "A heavy thunderstorm can interrupt television broadcasts.",
+          "ch": "強烈的雷雨可能會中斷電視廣播。"
+        }
+      ]
+    },
+    {
+      "eng": "invent",
+      "kk": "ɪnˈvɛnt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "發明",
+          "創造"
+        ],
+        [
+          "捏造",
+          "虛構"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 inventus，由 in-（進入、朝向）與 venire（來）的過去分詞組合而成，原義為「走進、遇見、發現」。經由拉丁語中「尋找、構思」的語義演變，進入英語後轉為指運用智力創造出前所未有的物品，或在腦海中虛構出不存在的故事或藉口。",
+      "definition": "1. To create or design something that has not existed before; 2. To produce something untruthful from one's imagination.",
+      "example": [
+        {
+          "eng": "Thomas Edison did not invent the very first light bulb, but he made it commercially viable.",
+          "ch": "湯瑪斯·愛迪生並非發明第一顆燈泡的人，但他讓它具備商業可行性。"
+        },
+        {
+          "eng": "The child tried to invent a clever excuse for being late.",
+          "ch": "這名小孩試圖為遲到虛構一個聰明的藉口。"
+        }
+      ]
+    },
+    {
+      "eng": "inventor",
+      "kk": "ɪnˈvɛntər",
+      "tense": "n.",
+      "ch": [
+        [
+          "發明家",
+          "創造者"
+        ]
+      ],
+      "analysis": "此字由動詞 invent 加上表人的名詞字首 -or 構成，指「從事發明或創造的人」。語義上直接承繼 invent 的動詞核心，專指設計、創造出新產品或新技術的專業人士或個人。",
+      "definition": "1. A person who has invented something or whose job is to invent things.",
+      "example": [
+        {
+          "eng": "The inventor holds dozens of patents for her groundbreaking technological designs.",
+          "ch": "這位發明家因其開創性的技術設計而擁有數十項專利。"
+        }
+      ]
+    },
+    {
+      "eng": "investigate",
+      "kk": "ɪnˈvɛstəˌɡet",
+      "tense": "v.",
+      "ch": [
+        [
+          "調查",
+          "偵查"
+        ],
+        [
+          "研究",
+          "審查"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 investigare，由 in-（進入）與 vestigare（跟隨足跡、追蹤，源自 vestigium「足跡」）組合而成，原義為「追蹤足跡」。演變至現代英語，引申為透過系統性的搜集證據與查證，來釐清犯罪事實、事件真相，或是對學術與商業問題進行深入研究。",
+      "definition": "1. To carry out a systematic or formal inquiry to discover and examine the facts of an incident or crime; 2. To study or analyze a subject in detail.",
+      "example": [
+        {
+          "eng": "The police are continuing to investigate the cause of the fire.",
+          "ch": "警方正持續調查這起火災的原因。"
+        },
+        {
+          "eng": "Scientists need more time to investigate the long-term effects of the new medicine.",
+          "ch": "科學家需要更多時間來研究這種新藥的長期影響。"
+        }
+      ]
+    },
+    {
+      "eng": "invitation",
+      "kk": "ˌɪnvəˈteʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "邀請",
+          "請柬"
+        ],
+        [
+          "誘因",
+          "吸引"
+        ]
+      ],
+      "analysis": "此字由動詞 invite 轉變而來的名詞，源自拉丁語 invitationem。基礎義為「邀請他人參與活動的行為或書面信函」；在引申義中，可用來形容某種情境或條件宛如一項邀請，容易招致或引發特定的結果（如錯誤或危險）。",
+      "definition": "1. A written or verbal request inviting someone to go somewhere or to do something; 2. A situation or action that tends to cause a particular outcome.",
+      "example": [
+        {
+          "eng": "She received a formal invitation to attend the wedding banquet.",
+          "ch": "她收到了一份出席婚宴的正式邀請函。"
+        },
+        {
+          "eng": "Leaving the front door unlocked is an open invitation to burglars.",
+          "ch": "不鎖大門無異於是對竊賊發出歡迎的誘因。"
+        }
+      ]
+    },
+    {
+      "eng": "ivory",
+      "kk": "ˈaɪvəri",
+      "tense": "n.",
+      "ch": [
+        [
+          "象牙"
+        ],
+        [
+          "象牙色",
+          "乳白色"
+        ]
+      ],
+      "analysis": "此字經由古法語 ivoire 借自拉丁語 eburneus（象牙製的），最終可溯源至古埃及語 ab（象）。原義指大象或海象等動物長牙的主要硬質材料，後來因為其特殊的溫潤白色澤，引申用來形容顏色。",
+      "definition": "1. A hard, white, opaque substance composing the main part of the tusks of elephants and walruses; 2. A creamy white color.",
+      "example": [
+        {
+          "eng": "The international trade of ivory has been strictly banned to protect wildlife.",
+          "ch": "為了保護野生動物，象牙的國際貿易已被嚴格禁止。"
+        },
+        {
+          "eng": "She wore an elegant ivory gown for her evening party.",
+          "ch": "她穿了一件優雅的象牙白禮服參加晚宴。"
+        }
+      ]
+    },
+    {
+      "eng": "jail",
+      "kk": "dʒel",
+      "tense": "n.",
+      "ch": [
+        [
+          "監獄",
+          "看守所"
+        ]
+      ],
+      "analysis": "此字源自古法語 jaiole（現代法語 geôle），最終可溯源至拉丁語 cavea（籠子、洞穴）。在歷史演變中進入中古英語，專指關押嫌疑犯或刑期較短罪犯的監禁場所。",
+      "definition": "1. A place for the confinement of people accused or convicted of a crime.",
+      "example": [
+        {
+          "eng": "The suspect was sent to jail awaiting his formal trial.",
+          "ch": "嫌疑人被送往看守所等待正式審判。"
+        }
+      ]
+    },
+    {
+      "eng": "jar",
+      "kk": "dʒɑr",
+      "tense": "n.",
+      "ch": [
+        [
+          "罐子",
+          "廣口瓶"
+        ]
+      ],
+      "analysis": "此字經由中世紀拉丁語 jara 或阿拉伯語 jarrah 進入西歐語言，指一種通常帶有寬口、無柄、用陶器或玻璃製成、用於儲存食物或液體的容器。",
+      "definition": "1. A broad-necked, cylindrical container made of glass or earthenware, typically used for storing food.",
+      "example": [
+        {
+          "eng": "She tightly closed the glass jar filled with homemade strawberry jam.",
+          "ch": "她將裝滿自製草莓果醬的玻璃罐蓋緊。"
+        }
+      ]
+    },
+    {
+      "eng": "jaw",
+      "kk": "dʒɔ",
+      "tense": "n.",
+      "ch": [
+        [
+          "下巴",
+          "顎"
+        ]
+      ],
+      "analysis": "此字源自中古英語 chaul、chewle，可能與古法語 jawet 或日耳曼語源有關。原義指支撐口腔結構、用於咀嚼的上下顎骨骼或部位。",
+      "definition": "1. Each of the upper and lower bony structures in vertebrates forming the framework of the mouth and containing the teeth.",
+      "example": [
+        {
+          "eng": "He suffered a broken jaw after falling off his bicycle.",
+          "ch": "他從腳踏車上摔下來後，造成下巴骨折。"
+        }
+      ]
+    },
+    {
+      "eng": "jazz",
+      "kk": "dʒæz",
+      "tense": "n.",
+      "ch": [
+        [
+          "爵士樂"
+        ]
+      ],
+      "analysis": "此詞起源於20世紀初美國南部的黑人音樂文化，其確切詞源不明，可能與俚語或西非語言有關。最初作為音樂風格的名稱出現，隨後發展成為一種極具即興特色與搖擺節奏的美國本土經典音樂流派。",
+      "definition": "1. A type of music of Black American origin characterized by improvisation, syncopation, and regular or forceful rhythms.",
+      "example": [
+        {
+          "eng": "They spent the evening listening to live jazz at a downtown club.",
+          "ch": "他們在市中心的一家俱樂部度過了一個聆聽現場爵士樂的夜晚。"
+        }
+      ]
+    },
+    {
+      "eng": "jealous",
+      "kk": "ˈdʒɛləs",
+      "tense": "adj.",
+      "ch": [
+        [
+          "嫉妒的",
+          "吃醋的"
+        ],
+        [
+          "戒備的",
+          "極力捍衛的"
+        ]
+      ],
+      "analysis": "此字源自古法語 jalous，最終源自希臘語 zelos（熱情、嫉妒）。在中世紀英語中，原本兼具「對愛情的熱切維護、猜疑」與「嫉妒」之意；現代英語則主要用來形容因他人擁有自己所渴望的事物而產生的嫉妒情緒，或對自身權益、名譽的極力捍衛。",
+      "definition": "1. Feeling or showing envy of someone or their achievements and advantages; 2. Fiercely protective or watchful of something.",
+      "example": [
+        {
+          "eng": "He felt jealous when his younger brother received a brand new computer.",
+          "ch": "當他的弟弟收到一台全新的電腦時，他感到有些嫉妒。"
+        },
+        {
+          "eng": "She is very jealous of her privacy and rarely talks about her family.",
+          "ch": "她對自己的隱私極力保護，很少談論她的家庭。"
+        }
+      ]
+    },
+    {
+      "eng": "jeep",
+      "kk": "dʒip",
+      "tense": "n.",
+      "ch": [
+        [
+          "吉普車"
+        ]
+      ],
+      "analysis": "此詞源自第二次世界大戰期間美國軍方對輕型多用途軍車的軍事代號「GP」（General Purpose），經由士兵口語發音演變為通稱的「Jeep」，戰後成為此類四輪驅動越野車的專有名詞與品牌名稱。",
+      "definition": "1. A sturdy, four-wheel-drive motor vehicle originally developed for military use.",
+      "example": [
+        {
+          "eng": "The safari tour guide drove an open-top jeep across the rough terrain.",
+          "ch": "野生動物園導遊開著一輛敞篷吉普車穿越崎嶇的地形。"
+        }
+      ]
+    },
+    {
+      "eng": "jelly",
+      "kk": "ˈdʒɛli",
+      "tense": "n.",
+      "ch": [
+        [
+          "果凍",
+          "果醬"
+        ]
+      ],
+      "analysis": "此字經由古法語 gelée（意為「結凍的」）源自拉丁語 gelare（凝結）。原義指液體冷卻凝固後形成的膠狀物質，在現代英語中主要指用水果汁加糖凝固製成的甜點，或質地細緻的果醬。",
+      "definition": "1. A sweet food made by boiling fruit juice and sugar until it sets; 2. A clear, semisolid, gelatinous substance.",
+      "example": [
+        {
+          "eng": "The children love eating strawberry jelly for dessert.",
+          "ch": "孩子們喜歡吃草莓果凍作為甜點。"
+        },
+        {
+          "eng": "He spread some grape jelly and peanut butter on his toast.",
+          "ch": "他在吐司上抹了一些葡萄果醬和花生醬。"
+        }
+      ]
+    },
+    {
+      "eng": "jet",
+      "kk": "dʒɛt",
+      "tense": "n.",
+      "ch": [
+        [
+          "噴射機",
+          "噴射式飛機"
+        ],
+        [
+          "噴嘴",
+          "噴射口"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 jactare（拋出、投擲），經由法語演變而來。基礎義為「液體、氣體或蒸汽從狹窄開口強力噴出的動作或裝置」；在現代科技發展後，成為 jet plane（噴射機）的常用簡稱。",
+      "definition": "1. An aircraft powered by jet engines; 2. A forceful stream of liquid or gas forced out from a small opening.",
+      "example": [
+        {
+          "eng": "The private jet departed from the runway right on schedule.",
+          "ch": "這架私人噴射機按照預定時間從跑道起飛。"
+        },
+        {
+          "eng": "Water shot out in a powerful jet from the broken garden hose.",
+          "ch": "水從破損的花園水管中強力噴射而出。"
+        }
+      ]
+    },
+    {
+      "eng": "jewel",
+      "kk": "ˈdʒuəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "珠寶",
+          "寶石"
+        ]
+      ],
+      "analysis": "此字源自古法語 jouel，最終可溯源至拉丁語 jocus（遊戲、歡娛）衍生出的低地拉丁語 jocale（珍貴玩具、飾品）。演變至現代英語，專指經過切割打磨的貴重寶石或貴金屬裝飾品。",
+      "definition": "1. A precious stone, typically a cut and polished gemstone used in jewelry.",
+      "example": [
+        {
+          "eng": "The museum exhibits a collection of royal crowns adorned with rare jewels.",
+          "ch": "博物館展出了一系列裝飾著珍稀寶石的皇家王冠。"
+        }
+      ]
+    },
+    {
+      "eng": "jewelry",
+      "kk": "ˈdʒuəlri",
+      "tense": "n.",
+      "ch": [
+        [
+          "珠寶首飾（總稱）"
+        ]
+      ],
+      "analysis": "此字由 jewel 加上集合名詞字首與字尾組合而成，在英語中作為不可數名詞使用，總稱各種佩戴在身上的金屬飾品與寶石製品。",
+      "definition": "1. Personal ornaments, such as rings, necklaces, and bracelets, that are made from precious metals and gems.",
+      "example": [
+        {
+          "eng": "She keeps her expensive jewelry locked inside a safe box.",
+          "ch": "她把昂貴的首飾鎖在保險箱裡。"
+        }
+      ]
+    },
+    {
+      "eng": "journey",
+      "kk": "ˈdʒɝni",
+      "tense": "n.",
+      "ch": [
+        [
+          "旅行",
+          "行程"
+        ]
+      ],
+      "analysis": "此字源自古法語 journée（一日之行程，源自拉丁語 diurnus「一日的」）。最初指「一日內完成的行程」，隨後語義擴大，泛指任何較長距離的實體旅行，或人生、心靈的長途歷程。",
+      "definition": "1. An act of traveling from one place to another, typically a long distance.",
+      "example": [
+        {
+          "eng": "They embarked on a long journey across the mountainous region.",
+          "ch": "他們展開了一趟穿越山區的漫長旅程。"
+        }
+      ]
+    },
+    {
+      "eng": "joyful",
+      "kk": "ˈdʒɔɪfəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "快樂的",
+          "充滿歡樂的"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由名詞 joy（快樂）加上形容詞字尾 -ful（充滿……的）組合而成。用來形容人感到極度歡喜，或事物充滿喜慶與快樂的氛圍。",
+      "definition": "1. Feeling, expressing, or causing great pleasure and happiness.",
+      "example": [
+        {
+          "eng": "The family gathered together for a joyful celebration during the holidays.",
+          "ch": "假期期間，這家人聚在一起進行歡樂的慶祝活動。"
+        }
+      ]
+    },
+    {
+      "eng": "juicy",
+      "kk": "ˈdʒuːsi",
+      "tense": "adj.",
+      "ch": [
+        [
+          "多汁的"
+        ],
+        [
+          "引人入勝的",
+          "八卦的"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由名詞 juice（汁液）加上形容詞字尾 -y 構成。基礎義為形容水果或肉類含有豐富的汁液；在口語中引申用來形容新聞、八卦或內幕消息非常精彩、引人入勝。",
+      "definition": "1. Full of juice; succulent; 2. Interestingly scandalous or informative.",
+      "example": [
+        {
+          "eng": "This ripe peach is extremely sweet and juicy.",
+          "ch": "這顆熟透的水蜜桃非常甜且多汁。"
+        },
+        {
+          "eng": "She shared some juicy gossip about the office promotion.",
+          "ch": "她分享了一些關於辦公室升遷的精彩八卦。"
+        }
+      ]
+    },
+    {
+      "eng": "jungle",
+      "kk": "ˈdʒʌŋɡəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "叢林",
+          "密林"
+        ]
+      ],
+      "analysis": "此字經由印地語 jaṅgal（荒地、森林）借入英語，最終源自梵語 jaṅgala（荒蕪的土地）。隨後在近代被用來專指熱帶地區植物茂密、藤蔓交錯的原始叢林。",
+      "definition": "1. An area of land overgrown with dense forest and tangled vegetation, typically in the tropics.",
+      "example": [
+        {
+          "eng": "Explorers hacked their way through the thick jungle.",
+          "ch": "探險家們在濃密的叢林中砍出一條路來。"
+        }
+      ]
+    },
+    {
+      "eng": "junior",
+      "kk": "ˈdʒunjɚ",
+      "tense": "adj.",
+      "ch": [
+        [
+          "資歷較淺的",
+          "地位較低的"
+        ],
+        [
+          "（大學或中學）三年級的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 junior（juvenis「年輕的」之比較級形式）。原義為「更年輕的」，在現代職場與學術體系中，用來指資歷較淺、職位較低者，或是指美國學制中的高中或大學倒數第二年（通常為三年級）。",
+      "definition": "1. Lower in rank, status, or position; 2. Of or relating to the third year in a U.S. high school or college.",
+      "example": [
+        {
+          "eng": "She works closely with several junior designers in the department.",
+          "ch": "她與部門裡的幾位資淺設計師密切合作。"
+        },
+        {
+          "eng": "He is currently a junior student majoring in computer science.",
+          "ch": "他目前是一名主修電腦科學的大三學生。"
+        }
+      ]
+    },
+    {
+      "eng": "junk",
+      "kk": "dʒʌŋk",
+      "tense": "n.",
+      "ch": [
+        [
+          "廢品",
+          "破爛貨"
+        ],
+        [
+          "垃圾",
+          "無價值之物"
+        ]
+      ],
+      "analysis": "此字源自中古英語 junke（原意為舊繩索、蘆葦），其詞源可追溯至拉丁語 juncus（燈心草）。隨後語義擴大，泛指任何失去使用價值、破損或被拋棄的破爛物品與垃圾。",
+      "definition": "1. Old or discarded articles that are considered to be of little or no value.",
+      "example": [
+        {
+          "eng": "We need to clear out all the useless junk stored in the garage.",
+          "ch": "我們需要清理車庫裡存放的所有無用廢品。"
+        }
+      ]
+    },
+    {
+      "eng": "kangaroo",
+      "kk": "ˌkæŋɡəˈru",
+      "tense": "n.",
+      "ch": [
+        [
+          "袋鼠"
+        ]
+      ],
+      "analysis": "此詞源自澳洲土著庫古依密丹語（Guugu Yimidhirr）的 gangurru，指一種特定大型黑色袋鼠。18世紀庫克船長率領探險隊登陸澳洲時記錄並帶入英語世界。",
+      "definition": "1. A large plant-eating marsupial native to Australia, famous for moving by leaping on its strong hind legs.",
+      "example": [
+        {
+          "eng": "A mother kangaroo carries its baby in a pouch on its front.",
+          "ch": "母袋鼠將幼崽放在前腹的育兒袋中載著。"
+        }
+      ]
+    },
+    {
+      "eng": "keyboard",
+      "kk": "ˈkiˌbɔrd",
+      "tense": "n.",
+      "ch": [
+        [
+          "鍵盤"
+        ]
+      ],
+      "analysis": "此字為現代透明複合詞，由 key（按鍵、琴鍵）與 board（板子）組合而成。最初用於鋼琴等樂器的琴鍵排列板，在近代電腦與電子設備普及後，成為輸入文字與指令之電子設備的專稱。",
+      "definition": "1. A panel of keys that operate a computer or typewriting machine; 2. The set of keys on a piano or other musical instrument.",
+      "example": [
+        {
+          "eng": "He spilled coffee on his computer keyboard and it stopped working.",
+          "ch": "他把咖啡灑在電腦鍵盤上，結果它就壞了。"
+        }
+      ]
+    },
+    {
+      "eng": "kidney",
+      "kk": "ˈkɪdni",
+      "tense": "n.",
+      "ch": [
+        [
+          "腎臟"
+        ]
+      ],
+      "analysis": "此字源自中古英語 kidenei，前半部可能源自古日耳曼語源（指腹部或身體內部），後半部源自古英語ēage（眼睛）或類似字尾。在解剖學上專指脊椎動物體內負責過濾血液、產生尿液的豆形器官。",
+      "definition": "1. Each of a pair of bean-shaped organs in the abdominal cavity of vertebrates, responsible for filtering blood and producing urine.",
+      "example": [
+        {
+          "eng": "The patient successfully underwent a major kidney transplant operation.",
+          "ch": "這名病患順利完成了大型的腎臟移植手術。"
+        }
+      ]
+    },
+    {
+      "eng": "kilometer",
+      "kk": "kɪˈlɑmətər",
+      "tense": "n.",
+      "ch": [
+        [
+          "公里",
+          "千米"
+        ]
+      ],
+      "analysis": "此字為國際單位制的現代複合詞，由希臘語 chilioi（千）與 metron（計量、測量）結合法語系統構成。指長度等於一千公尺的標準計量單位。",
+      "definition": "1. A metric unit of measurement equal to one thousand meters.",
+      "example": [
+        {
+          "eng": "The marathon runners had to complete a distance of forty-two kilometers.",
+          "ch": "馬拉松選手必須完成四十二公里的距離。"
+        }
+      ]
+    },
+    {
+      "eng": "kindergarten",
+      "kk": "ˈkɪndərˌɡɑrtn̩",
+      "tense": "n.",
+      "ch": [
+        [
+          "幼稚園",
+          "幼兒園"
+        ]
+      ],
+      "analysis": "此字直接借自德語 Kindergarten，由 Kinder（孩子，Kindergarten 的複數屬格或合成成分）與 Garten（花園）組成。由德國教育家福祿貝爾（Friedrich Fröbel）於19世紀創立，寓意「孩子們像花朵一樣在花園裡自然生長」，用以指學齡前的幼兒教育機構。",
+      "definition": "1. A school or class for young children, usually aged four to six, prior to the start of primary school.",
+      "example": [
+        {
+          "eng": "My youngest daughter is very excited to start kindergarten next month.",
+          "ch": "我的小女兒對於下個月要上幼稚園感到非常興奮。"
+        }
+      ]
+    },
+    {
+      "eng": "kingdom",
+      "kk": "ˈkɪŋdəm",
+      "tense": "n.",
+      "ch": [
+        [
+          "王國"
+        ],
+        [
+          "領域",
+          "界"
+        ]
+      ],
+      "analysis": "此字為日耳曼語源的古英語繼承詞，由 cyning（國王）加上表領域或狀態的名詞字尾 -dom（對應現代 -dom）構成。基礎義為國王統治的國家；在生物學或抽象討論中，引申指特定的分類界線或活動領域。",
+      "definition": "1. A country, state, or territory ruled by a king or queen; 2. A realm or domain in which a particular thing or person is dominant.",
+      "example": [
+        {
+          "eng": "The ancient kingdom flourished along the banks of the great river.",
+          "ch": "這個古代王國在大河沿岸繁榮發展。"
+        },
+        {
+          "eng": "In the animal kingdom, survival often depends on adaptability.",
+          "ch": "在動物界中，生存往往取決於適應能力。"
+        }
+      ]
+    },
+    {
+      "eng": "kit",
+      "kk": "kɪt",
+      "tense": "n.",
+      "ch": [
+        [
+          "成套工具",
+          "裝備組"
+        ]
+      ],
+      "analysis": "此字源自中古荷蘭語 kitte（桶、容器），在歷史演變中，用來指裝載水手或士兵隨身行李的木桶，隨後轉指裝有進行特定工作或活動所需之一套工具與零件的組合箱。",
+      "definition": "1. A set of equipment, tools, or parts needed for a specific purpose, often sold together as a package.",
+      "example": [
+        {
+          "eng": "He bought a first-aid kit to keep in the trunk of his car.",
+          "ch": "他買了一個急救醫療包放在汽車後車廂裡。"
+        }
+      ]
+    },
+    {
+      "eng": "knight",
+      "kk": "naɪt",
+      "tense": "n.",
+      "ch": [
+        [
+          "騎士",
+          "爵士"
+        ]
+      ],
+      "analysis": "此字源自古英語 cniht（男孩、侍從、年輕戰士），在日耳曼語族中本義為「年輕的追隨者」。進入中古英語與中世紀封建制度後，語義專指獲得君主冊封、擁有軍事地位與崇高榮譽的騎士或榮譽爵士。",
+      "definition": "1. (In the Middle Ages) A man who served his sovereign or lord as a mounted soldier in armor; 2. A man holding a honorary title of rank conferred by a monarch.",
+      "example": [
+        {
+          "eng": "The brave knight swore an oath to protect the royal family.",
+          "ch": "這位勇敢的騎士發誓效忠並保護皇室。"
+        }
+      ]
+    },
+    {
+      "eng": "knit",
+      "kk": "nɪt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "編織",
+          "針織"
+        ],
+        [
+          "緊密結合",
+          "凝結"
+        ]
+      ],
+      "analysis": "此字源自古英語 cnyttan（結繩、繫結），為日耳曼語源的繼承詞。原義為「將線或繩子打結繫緊」，演變至現代英語，專指利用針將毛線交織成衣物的技藝，或比喻人與人之間關係的緊密結合。",
+      "definition": "1. To make garments or fabric by interlocking loops of wool or other yarn with knitting needles; 2. To unite or cause to unite closely and firmly.",
+      "example": [
+        {
+          "eng": "Grandmother likes to knit woolen sweaters for her grandchildren during winter.",
+          "ch": "祖母喜歡在冬天為孫子們編織羊毛毛衣。"
+        },
+        {
+          "eng": "The shared crisis helped to knit the community closely together.",
+          "ch": "共同的危機促使這個社區緊密地結合在一起。"
+        }
+      ]
+    },
+    {
+      "eng": "knot",
+      "kk": "nɑt",
+      "tense": "n.",
+      "ch": [
+        [
+          "結",
+          "繩結"
+        ],
+        [
+          "（樹木的）節疤"
+        ]
+      ],
+      "analysis": "此字源自古英語 cnotta，為日耳曼語源的繼承詞。基礎義指將繩索、帶子等交錯纏繞打成的結；在植物學中引申指樹幹上枝條生長處形成的木質硬結。",
+      "definition": "1. A fastening made by looping a piece of string, rope, or similar cord and tightening it; 2. A hard dark spot in a piece of wood where a branch grew.",
+      "example": [
+        {
+          "eng": "He tied a secure knot in the rope before hoisting the heavy box.",
+          "ch": "他在吊起重箱子之前，把繩子打了個牢固的結。"
+        },
+        {
+          "eng": "The wooden plank had several dark knots visible on its surface.",
+          "ch": "這塊木板的表面上有幾個清晰可見的深色木節。"
+        }
+      ]
+    },
+    {
+      "eng": "koala",
+      "kk": "koˈɑlə",
+      "tense": "n.",
+      "ch": [
+        [
+          "無尾熊",
+          "考拉"
+        ]
+      ],
+      "analysis": "此詞源自澳洲土著達拉瓦語（Darug）的 gula，原意為「不喝水」（因早期觀察認為無尾熊極少飲水，水分多攝取自尤加利樹葉）。19世紀被英國殖民者記錄並引入英語。",
+      "definition": "1. An arboreal Australian marsupial with gray fur, large ears, and round body, which feeds almost exclusively on eucalyptus leaves.",
+      "example": [
+        {
+          "eng": "The sleepy koala spent most of the afternoon resting in the eucalyptus tree.",
+          "ch": "這隻愛睡覺的無尾熊大半個下午都在尤加利樹上休息。"
+        }
+      ]
+    },
+    {
+      "eng": "label",
+      "kk": "ˈlebəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "標籤",
+          "標示牌"
+        ],
+        [
+          "稱號",
+          "烙印"
+        ]
+      ],
+      "analysis": "此字源自古法語 label（帶子、緞帶的殘片），在歷史演變中，用來指繫在檔案或物品上、用以寫明內容的紙片或布條。現代英語中，既指商品包裝上的說明標籤，也引申為給人貼上的刻板印象稱號。",
+      "definition": "1. A small piece of paper, fabric, or plastic attached to an object to give information about it; 2. A descriptive word or phrase applied to someone, often unfairly.",
+      "example": [
+        {
+          "eng": "Read the care label on the shirt before washing it in hot water.",
+          "ch": "用熱水清洗襯衫之前，請先閱讀衣物上的洗滌標籤。"
+        },
+        {
+          "eng": "He hated the unfair label of being a troublemaker at school.",
+          "ch": "他討厭在學校被貼上搗蛋鬼的不公平標籤。"
+        }
+      ]
+    },
+    {
+      "eng": "lace",
+      "kk": "les",
+      "tense": "n.",
+      "ch": [
+        [
+          "蕾絲",
+          "花邊"
+        ],
+        [
+          "鞋帶",
+          "繫帶"
+        ]
+      ],
+      "analysis": "此字源自古法語 lais、las，最終源自拉丁語 laqueus（套索、陷阱）。原義為「用來綁緊或收緊的帶子」，演變出鞋帶之義；隨後在文藝復興時期發展出精緻的網眼織品蕾絲之義。",
+      "definition": "1. A fine, open fabric of cotton or silk, made by looping or twisting threads in patterns; 2. A cord or string used for fastening shoes or garments.",
+      "example": [
+        {
+          "eng": "The bride's wedding dress was beautifully decorated with delicate lace.",
+          "ch": "新娘的婚紗裝飾著精緻優美的蕾絲。"
+        },
+        {
+          "eng": "He stopped running to tie his loose shoelace.",
+          "ch": "他停下跑步，把鬆掉的鞋帶綁好。"
+        }
+      ]
+    },
+    {
+      "eng": "ladder",
+      "kk": "ˈlædɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "梯子",
+          "階梯"
+        ]
+      ],
+      "analysis": "此字源自古英語 hlæder，為日耳曼語源的繼承詞，與表示傾斜或支撐的根源相關。原義為供人上下攀爬、由兩根長柱與橫檔組成的器具。",
+      "definition": "1. A piece of equipment consisting of a series of bars or steps between two upright lengths of wood, metal, or rope, used for climbing up or down.",
+      "example": [
+        {
+          "eng": "He climbed up the tall ladder to clean the second-story windows.",
+          "ch": "他爬上高高的梯子去清洗二樓的窗戶。"
+        }
+      ]
+    },
+    {
+      "eng": "lately",
+      "kk": "ˈletli",
+      "tense": "adv.",
+      "ch": [
+        [
+          "最近",
+          "近來"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由形容詞 late（遲的、最近的）加上副詞字尾 -ly 構成。在歷史演變中，專門用來指發生在不久之前、延續到現在的時間段內的動作或狀態。",
+      "definition": "1. Recently; not long ago.",
+      "example": [
+        {
+          "eng": "I have been feeling quite exhausted and stressed out lately.",
+          "ch": "我最近一直覺得相當疲憊且壓力很大。"
+        }
+      ]
+    },
+    {
+      "eng": "laughter",
+      "kk": "ˈlæftər",
+      "tense": "n.",
+      "ch": [
+        [
+          "笑聲",
+          "笑"
+        ]
+      ],
+      "analysis": "此字源自古英語 hleahtor，為日耳曼語源的繼承詞，源行動詞 laugh（笑）加上名詞字尾。專指因快樂、滑稽或諷刺而從口中發出的笑聲或笑的行為。",
+      "definition": "1. The action or sound of laughing.",
+      "example": [
+        {
+          "eng": "The comedian's hilarious jokes filled the theater with laughter.",
+          "ch": "這位喜劇演員爆笑的笑話讓整個劇場充滿了笑聲。"
+        }
+      ]
+    },
+    {
+      "eng": "laundry",
+      "kk": "ˈlɔndri",
+      "tense": "n.",
+      "ch": [
+        [
+          "換洗衣物",
+          "待洗或洗好的衣服"
+        ],
+        [
+          "洗衣店"
+        ]
+      ],
+      "analysis": "此字源自中古英語 laundrie，最終源自拉丁語 lavare（清洗）。原義指洗衣服的場所或待洗的衣物，演變至現代英語，主要指需要清洗或剛洗好的衣物總稱，或指自助洗衣店。",
+      "definition": "1. Clothes and linens that need to be washed or have been washed; 2. A business establishment where clothes are washed and ironed.",
+      "example": [
+        {
+          "eng": "She spent her Saturday morning sorting and washing a large load of laundry.",
+          "ch": "她花了週六早上的時間分類並清洗一大堆換洗衣物。"
+        },
+        {
+          "eng": "He dropped his suits off at the dry laundry down the street.",
+          "ch": "他把西裝送到街角的乾洗店。"
+        }
+      ]
+    },
+    {
+      "eng": "lawn",
+      "kk": "lɔn",
+      "tense": "n.",
+      "ch": [
+        [
+          "草坪",
+          "草地"
+        ]
+      ],
+      "analysis": "此字源自中古英語 launde（草地、林間空地），最初源自凱爾特語族。在歷史演變中，專指住宅周圍、公園或庭院中經過人工修剪維護的整齊草坪。",
+      "definition": "1. An area of short, mown grass in a yard, garden, or park.",
+      "example": [
+        {
+          "eng": "The gardener spent the afternoon mowing the front lawn.",
+          "ch": "園丁花了一個下午修剪前院的草坪。"
+        }
+      ]
+    },
+    {
+      "eng": "leak",
+      "kk": "lik",
+      "tense": "vi.",
+      "ch": [
+        [
+          "漏",
+          "滲漏"
+        ],
+        [
+          "（機密）洩漏",
+          "走漏"
+        ]
+      ],
+      "analysis": "此字源自中古英語 leken，為日耳曼語源的繼承詞（與荷蘭語 leeken 同源）。基礎義指容器、管線因破損而導致液體或氣體流失; 在現代引申用來指機密文件或消息遭到非正常管道走漏。",
+      "definition": "1. (Of a container or covering) To allow liquid or gas to escape or enter through a hole or crack; 2. (Of secret information) To become known to the public.",
+      "example": [
+        {
+          "eng": "The old roof began to leak heavily during the severe rainstorm.",
+          "ch": "這座老舊的屋頂在強烈暴風雨期間開始嚴重漏水。"
+        },
+        {
+          "eng": "Confidential details of the business merger started to leak to the press.",
+          "ch": "這場企業合併的機密細節開始向媒體洩漏。"
+        }
+      ]
+    },
+    {
+      "eng": "leap",
+      "kk": "lip",
+      "tense": "vi.",
+      "ch": [
+        [
+          "跳躍",
+          "跳過"
+        ],
+        [
+          "激增",
+          "猛漲"
+        ]
+      ],
+      "analysis": "此字源自古英語 hlēapan，為日耳曼語源的繼承詞。原義為用雙腿用力向上或向前跳躍；在現代財經與社會語境中，常用來比喻數字、價格或水準的急遽上升。",
+      "definition": "1. To jump or spring a long way, to a great height, or from one place to another; 2. To increase dramatically or suddenly.",
+      "example": [
+        {
+          "eng": "The athletic cat managed to leap across the wide fence effortlessly.",
+          "ch": "這隻身手矯健的貓輕鬆地跳過了寬大的柵欄。"
+        },
+        {
+          "eng": "Stock prices are expected to leap following the positive earnings report.",
+          "ch": "在利好的財報發布後，預期股價將會激增。"
+        }
+      ]
+    },
+    {
+      "eng": "learning",
+      "kk": "ˈlɝnɪŋ",
+      "tense": "n.",
+      "ch": [
+        [
+          "學習",
+          "學問"
+        ],
+        [
+          "學識",
+          "知識"
+        ]
+      ],
+      "analysis": "此字由動詞 learn 加上動名詞字尾 -ing 構成。基礎義指獲取知識或技能的過程；在歷史與人文學科中，也引申用來指一個人透過讀書與深造所累積的高深學識與學問。",
+      "definition": "1. The acquisition of knowledge or skills through experience, study, or being taught; 2. Deep knowledge acquired by scholarly study.",
+      "example": [
+        {
+          "eng": "Continuous learning is essential for career development in the modern world.",
+          "ch": "持續學習對於現代世界的職涯發展至關重要。"
+        },
+        {
+          "eng": "The professor was a man of profound learning and humility.",
+          "ch": "這位教授是一位學問淵博且謙虛的人。"
+        }
+      ]
+    },
+    {
+      "eng": "leather",
+      "kk": "ˈlɛðɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "皮革"
+        ]
+      ],
+      "analysis": "此字源自古英語 lether，為日耳曼語源的繼承詞。原義指動物經過去毛、鞣製等化學與物理處理後製成的強韌皮料，常用於製作鞋靴、衣物或包袋。",
+      "definition": "1. A material made from the skin of an animal by tanning or a similar chemical process, used for making shoes, clothes, etc.",
+      "example": [
+        {
+          "eng": "He wore a stylish black leather jacket to the motorcycle rally.",
+          "ch": "他穿了一件時尚的黑色皮衣去參加機車集會。"
+        }
+      ]
+    },
+    {
+      "eng": "leisure",
+      "kk": "ˈliʒɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "閒暇",
+          "空閒時間"
+        ]
+      ],
+      "analysis": "此字源自古法語 leisour，最終源自拉丁語 licere（被允許、得以空出）。原義指不受工作與義務拘束、可以自由支配的時間與狀態。",
+      "definition": "1. Free time spent away from work, business, or domestic chores, enjoyed in relaxation.",
+      "example": [
+        {
+          "eng": "Reading books is one of her favorite activities during her leisure time.",
+          "ch": "閱讀書籍是她閒暇時間最喜歡的活動之一。"
+        }
+      ]
+    },
+    {
+      "eng": "lemonade",
+      "kk": "ˌlɛməˈned",
+      "tense": "n.",
+      "ch": [
+        [
+          "檸檬水"
+        ]
+      ],
+      "analysis": "此字由 lemon（檸檬）加上表飲料或製品的字尾 -ade（源自法語）複合而成。指將檸檬汁加水與糖調製而成的清涼甜飲料。",
+      "definition": "1. A sweetened drink made from lemon juice, water, and sugar.",
+      "example": [
+        {
+          "eng": "They refreshed themselves with a cold glass of iced lemonade on a hot summer afternoon.",
+          "ch": "在炎熱的夏日午後，他們用一杯冰涼的檸檬水來消暑。"
+        }
+      ]
+    },
+    {
+      "eng": "leopard",
+      "kk": "ˈlɛpərd",
+      "tense": "n.",
+      "ch": [
+        [
+          "豹"
+        ]
+      ],
+      "analysis": "此字經由古法語 lepart 借自拉丁語 leopardus，最終源自希臘語 leon（獅子）與 pardos（雄豹）的複合詞。古人曾誤以為豹是獅子與另一種動物的雜交種，後來專指身披斑紋的大型貓科猛獸。",
+      "definition": "1. A large, solitary cat that has yellowish-brown fur with black spots, native to the forests of Africa and Asia.",
+      "example": [
+        {
+          "eng": "The agile leopard climbed high up into the acacia tree to hide its prey.",
+          "ch": "這隻身手敏捷的豹爬高到金合歡樹上，把獵物藏起來。"
+        }
+      ]
+    },
+    {
+      "eng": "lettuce",
+      "kk": "ˈlɛtɪs",
+      "tense": "n.",
+      "ch": [
+        [
+          "萵苣",
+          "生菜"
+        ]
+      ],
+      "analysis": "此字源自古法語 laitues，最終源自拉丁語 lactuca（源自 lac「乳汁」，指其莖葉切開時會流出乳白色汁液）。在現代園藝與飲食中，專指做為沙拉底料或漢堡配料的各類葉用萵苣。",
+      "definition": "1. A cultivated plant of the daisy family, with edible leaves that are a usual staple of salad dishes.",
+      "example": [
+        {
+          "eng": "She added crisp lettuce, tomatoes, and cucumbers to the vegetable salad.",
+          "ch": "她在蔬菜沙拉中加入了爽脆的生菜、番茄和小黃瓜。"
+        }
+      ]
+    },
+    {
+      "eng": "liberty",
+      "kk": "ˈlɪbɚti",
+      "tense": "n.",
+      "ch": [
+        [
+          "自由",
+          "自主權"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 libertatem（主格為 libertas，源自 liber「自由的」）。經由法語傳入英語，基礎義指個人在法律與道德規範下，擁有不受專制壓迫、自主決定言行與生活的權利。",
+      "definition": "1. The state of being free within society from oppressive restrictions imposed by authority on one's way of life, behavior, or political views.",
+      "example": [
+        {
+          "eng": "The monument stands as a proud symbol of national freedom and liberty.",
+          "ch": "這座紀念碑昂然矗立，成為國家自由與自主權的驕傲象徵。"
+        }
+      ]
+    }
+  ]
+}

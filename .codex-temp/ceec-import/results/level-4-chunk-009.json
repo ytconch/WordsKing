@@ -1,0 +1,1185 @@
+{
+  "level": 4,
+  "chunkIndex": 9,
+  "inputs": [
+    "fame",
+    "fantastic",
+    "fantasy",
+    "farewell",
+    "fasten",
+    "fatal",
+    "favorable",
+    "fax",
+    "feast",
+    "feedback",
+    "ferry",
+    "fertile",
+    "fetch",
+    "fiction",
+    "fierce",
+    "finance",
+    "financial",
+    "fireplace",
+    "flatter",
+    "flea",
+    "flee",
+    "flexible",
+    "fluent",
+    "flush",
+    "foam",
+    "forbid",
+    "forecast",
+    "formation",
+    "formula",
+    "fort",
+    "fortunate",
+    "fossil",
+    "foundation",
+    "founder",
+    "fragile",
+    "frame",
+    "frequency",
+    "freshman",
+    "frost",
+    "frown",
+    "frustrate",
+    "frustration",
+    "fulfill",
+    "fulfillment",
+    "functional",
+    "fundamental",
+    "funeral",
+    "furious",
+    "furnish",
+    "furthermore"
+  ],
+  "rows": [
+    {
+      "eng": "fame",
+      "kk": "fem",
+      "tense": "n.",
+      "ch": [
+        [
+          "聲譽",
+          "名聲",
+          "名望"
+        ]
+      ],
+      "analysis": "此字為現代名詞，源自古法語 fame，最終源自拉丁語 fāma（意為「傳聞、報告、名聲」，源自語根 *bhā-「說話」）。語意從最初的「眾人的議論或傳說」演變為現代的「良好的名聲、聲望或知名度」。",
+      "definition": "1. the state of being known or recognized by many people; widespread reputation.",
+      "example": [
+        {
+          "eng": "She achieved international fame as a concert pianist.",
+          "ch": "她以音樂會鋼琴家聞名於國際。"
+        }
+      ]
+    },
+    {
+      "eng": "fantastic",
+      "kk": "fænˋtæstɪk",
+      "tense": "adj.",
+      "ch": [
+        [
+          "極好的",
+          "了不起的"
+        ],
+        [
+          "異想天開的",
+          "奇幻的"
+        ]
+      ],
+      "analysis": "此字為現代形容詞，經由中古法語與拉丁語 fantasticus，源自古希臘語 phantastikos（意為「想像的、有幻覺的」），源自 phantazein（使顯現、想像）。語意從早期與幻想、不真實相關的意義，逐漸演變出誇張讚嘆的「極好的、棒極了」之口語用法。",
+      "definition": "1. extremely good, excellent, or appealing; 2. based on or existing only in fantasy; bizarre or unreal.",
+      "example": [
+        {
+          "eng": "We had a fantastic time at the music festival.",
+          "ch": "我們在音樂節度過了一段極佳的時光。"
+        },
+        {
+          "eng": "The novel is set in a fantastic world of magic and dragons.",
+          "ch": "這部小說的背景設定在一個充滿魔法與巨龍的奇幻世界中。"
+        }
+      ]
+    },
+    {
+      "eng": "fantasy",
+      "kk": "ˋfæntəsi",
+      "tense": "n.",
+      "ch": [
+        [
+          "幻想",
+          "想像"
+        ],
+        [
+          "奇幻作品",
+          "空想產物"
+        ]
+      ],
+      "analysis": "此字為現代名詞，由古法語 fantasie 經拉丁語 phantasia 借入，源自希臘語 phantasia（意為「顯現、想像、幻覺」）。語意指心智中創造的虛構影像、白日夢，或指文學與藝術中脫離現實的奇幻類型。",
+      "definition": "1. the faculty or activity of imagining things, especially things that are impossible or improbable; 2. a genre of imaginative fiction involving magic and adventure.",
+      "example": [
+        {
+          "eng": "He spent his youth lost in a fantasy of becoming a hero.",
+          "ch": "他年輕時沉浸於成為英雄的幻想中。"
+        },
+        {
+          "eng": "She is a big fan of high fantasy literature.",
+          "ch": "她是高張力奇幻文學的超級書迷。"
+        }
+      ]
+    },
+    {
+      "eng": "farewell",
+      "kk": "fɛrˋwɛl",
+      "tense": "n.",
+      "ch": [
+        [
+          "告別",
+          "辭別",
+          "再見"
+        ]
+      ],
+      "analysis": "此字為複合名詞，由中古英語 farwell 組合而成，源自 fare（行進、過得好，源自古英語 faran）與 well（好）。原意為祝福對方旅途平安或過得順利，現代主要用作正式或感傷的告別語及名詞。",
+      "definition": "1. an act of parting or of saying goodbye; a final parting.",
+      "example": [
+        {
+          "eng": "They gathered at the station to bid a sad farewell to their colleagues.",
+          "ch": "他們聚集在車站，向同事們依依不捨地道別。"
+        }
+      ]
+    },
+    {
+      "eng": "fasten",
+      "kk": "ˋfæsən",
+      "tense": "vt.",
+      "ch": [
+        [
+          "繫緊",
+          "扣緊",
+          "固定"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自古英語 fæstnian（使堅固、固定），由形容詞 fæst（堅固的、牢固的）加上動詞化字尾 -nian。語意維持使物體緊固、扣上或連結的動作。",
+      "definition": "1. close or do up securely; fix or attach something firmly in position.",
+      "example": [
+        {
+          "eng": "Please fasten your seatbelts before the airplane takes off.",
+          "ch": "請在飛機起飛前繫好安全帶。"
+        }
+      ]
+    },
+    {
+      "eng": "fatal",
+      "kk": "ˋfetl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "致命的",
+          "災難性的"
+        ],
+        [
+          "決定性的",
+          "無可挽回的"
+        ]
+      ],
+      "analysis": "此字為現代形容詞，源自拉丁語 fātālis（命中注定的、毀滅性的），衍生自 fātum（命運、神諭）。語意從「命中註定的」演變為導致死亡的「致命的」或具有嚴重決定性影響的災難。",
+      "definition": "1. causing death; resulting in disaster or failure; 2. having serious, disastrous consequences.",
+      "example": [
+        {
+          "eng": "The driver suffered fatal injuries in the severe crash.",
+          "ch": "這名駕駛在這場嚴重的車禍中受了致命傷。"
+        },
+        {
+          "eng": "Making that mistake was a fatal error in his career.",
+          "ch": "犯下那個錯誤是他職業生涯中致命的失誤。"
+        }
+      ]
+    },
+    {
+      "eng": "favorable",
+      "kk": "ˋfevərəbl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "有利的",
+          "順利的"
+        ],
+        [
+          "讚許的",
+          "有好感的"
+        ]
+      ],
+      "analysis": "此字為現代形容詞，由動詞 favor 加上形容詞字尾 -able（可…的、具…特質的）構成。語意指能帶來好結果的、有利的，或是表達贊同與支持的態度。",
+      "definition": "1. expressing approval; showing a positive opinion; 2. advantageous; giving an advantage or tending to promote.",
+      "example": [
+        {
+          "eng": "The movie received favorable reviews from major critics.",
+          "ch": "這部電影獲得主流影評人的正面評價。"
+        },
+        {
+          "eng": "We are waiting for favorable weather conditions before setting sail.",
+          "ch": "我們在等待有利的天氣狀況再啟航。"
+        }
+      ]
+    },
+    {
+      "eng": "fax",
+      "kk": "fæks",
+      "tense": "n.",
+      "ch": [
+        [
+          "傳真",
+          "傳真機"
+        ]
+      ],
+      "analysis": "此字為現代名詞，是 facsimile（傳真複本，源自拉丁語 fac simile「製造相似」）的縮寫形式。透過電信網路傳送文字與圖像的辦公技術及相關文件。",
+      "definition": "1. an official or business document sent by electronic transmission over a telephone line; a machine used for this purpose.",
+      "example": [
+        {
+          "eng": "Please send the signed contract back to us by fax.",
+          "ch": "請將簽署好的合約以傳真回傳給我們。"
+        }
+      ]
+    },
+    {
+      "eng": "feast",
+      "kk": "fist",
+      "tense": "n.",
+      "ch": [
+        [
+          "盛宴",
+          "宴會"
+        ],
+        [
+          "大快朵頤之物",
+          "賞心悅目的事物"
+        ]
+      ],
+      "analysis": "此字為現代名詞，經中古法語 feste，源自拉丁語 festa（節慶、歡宴，為 fēstus「歡樂的、節日的」之中性複數轉化）。語意從宗教或民間的盛大慶典宴席，引申為豐富的餐點或視覺、感官的享受。",
+      "definition": "1. a large, elaborate meal, often accompanied by ceremony or celebration; 2. an abundant and rich source of enjoyment.",
+      "example": [
+        {
+          "eng": "The family prepared a grand feast to celebrate the holidays.",
+          "ch": "這家人準備了一場豐盛的宴席來慶祝節日。"
+        },
+        {
+          "eng": "The museum exhibition is a visual feast for art lovers.",
+          "ch": "這場博物館展覽對藝術愛好者來說是一場視覺饗宴。"
+        }
+      ]
+    },
+    {
+      "eng": "feedback",
+      "kk": "ˋfid͵bæk",
+      "tense": "n.",
+      "ch": [
+        [
+          "回饋",
+          "反應",
+          "意見回覆"
+        ]
+      ],
+      "analysis": "此字為現代複合名詞，由 feed（供給、餵養）與 back（向後、返回）組合而成。最初源於工程學與控制論中「系統輸出訊號返回輸入端」的概念，後引申廣泛應用於商業、教育等領域的意見與評語。",
+      "definition": "1. information about reactions to a product, person's performance, or task which is used as a basis for improvement.",
+      "example": [
+        {
+          "eng": "We appreciate customer feedback to help improve our services.",
+          "ch": "我們感謝客戶的回饋以協助改善我們的服務。"
+        }
+      ]
+    },
+    {
+      "eng": "ferry",
+      "kk": "ˋfɛri",
+      "tense": "n.",
+      "ch": [
+        [
+          "渡輪",
+          "渡船"
+        ]
+      ],
+      "analysis": "此字為現代名詞，源自古英語 feri, ferige（渡口、渡船），相關於 faran（行進、航行）。指載運乘客、車輛往返於兩岸之間的船隻。",
+      "definition": "1. a boat or ship for conveying passengers and vehicles across a body of water.",
+      "example": [
+        {
+          "eng": "We took the morning ferry across the bay to the island.",
+          "ch": "我們搭乘早上的渡輪穿過海灣前往小島。"
+        }
+      ]
+    },
+    {
+      "eng": "fertile",
+      "kk": "ˋfɝtəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "肥沃的",
+          "富饒的"
+        ],
+        [
+          "多產的",
+          "富創造力的"
+        ]
+      ],
+      "analysis": "此字為現代形容詞，源自拉丁語 fertilis（肥沃的、多產的），衍生自 ferre（承載、生產、孕育）。語意從土地的肥沃、農作物的豐饒，延伸至心智或想法的富有創造力與多產。",
+      "definition": "1. producing or capable of producing abundant vegetation or crops; 2. producing much fruit or many offspring; highly productive of ideas or inventions.",
+      "example": [
+        {
+          "eng": "The Nile River valley has rich, fertile soil for farming.",
+          "ch": "尼羅河流域擁有適合耕作的肥沃土壤。"
+        },
+        {
+          "eng": "She has a fertile imagination that constantly generates new stories.",
+          "ch": "她擁有源源不絕產生新故事的豐富想像力。"
+        }
+      ]
+    },
+    {
+      "eng": "fetch",
+      "kk": "fɛtʃ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "去拿來",
+          "接來",
+          "售得（價錢）"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自古英語 fetian（去拿、取來），與 feccan 同源。語意指去某處把人或物帶回，或指物品在拍賣或市場上「賣得」某個價錢。",
+      "definition": "1. go for and then bring back someone or something; 2. be sold for a specified price.",
+      "example": [
+        {
+          "eng": "Could you fetch me a glass of water from the kitchen?",
+          "ch": "你能幫我從廚房拿一杯水來嗎？"
+        },
+        {
+          "eng": "The rare painting is expected to fetch a high price at the auction.",
+          "ch": "這幅珍稀畫作預期能在拍賣會上拍得高價。"
+        }
+      ]
+    },
+    {
+      "eng": "fiction",
+      "kk": "ˋfɪkʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "小說",
+          "虛構文學"
+        ],
+        [
+          "虛構的事",
+          "杜撰"
+        ]
+      ],
+      "analysis": "此字為現代名詞，源自拉丁語 fictio（捏造、塑造），衍生自 fingere（塑造、捏造、假裝）。語意從「捏造、虛構」引申為指文學上的虛構作品（小說類），或現實中並不存在的虛構情節。",
+      "definition": "1. literature in the form of prose, especially short stories and novels, that describes imaginary events and people; 2. something that is invented or untrue.",
+      "example": [
+        {
+          "eng": "She prefers reading historical fiction over non-fiction books.",
+          "ch": "她比起非文學書籍，更喜歡閱讀歷史小說。"
+        },
+        {
+          "eng": "His claim of having met the president turned out to be pure fiction.",
+          "ch": "他聲稱見過總統的說法純屬虛構。"
+        }
+      ]
+    },
+    {
+      "eng": "fierce",
+      "kk": "fɪrs",
+      "tense": "adj.",
+      "ch": [
+        [
+          "兇猛的",
+          "殘酷的"
+        ],
+        [
+          "激烈的",
+          "強烈的"
+        ]
+      ],
+      "analysis": "此字為現代形容詞，經中古法語 fers，源自拉丁語 ferus（野生的、兇猛的）。語意從動物或人的野蠻、兇猛，引申為競爭、風暴或情感的「激烈、強烈」。",
+      "definition": "1. having or displaying an aggressive or ferocious intensity; 2. violently hostile or severe.",
+      "example": [
+        {
+          "eng": "The lion is a fierce predator in the African savanna.",
+          "ch": "獅子是非洲大草原上的兇猛掠食者。"
+        },
+        {
+          "eng": "There was fierce competition between the two tech companies.",
+          "ch": "這兩家科技公司之間存在著激烈的競爭。"
+        }
+      ]
+    },
+    {
+      "eng": "finance",
+      "kk": "fəˋnæns",
+      "tense": "n.",
+      "ch": [
+        [
+          "財務",
+          "金融"
+        ],
+        [
+          "資金",
+          "財政資源"
+        ]
+      ],
+      "analysis": "此字為現代名詞，經中古法語 finance（現金、償付、稅收），源自拉丁語 finare（付清、結算），源自 finis（終了、界線）。語意從「清償債務或資金結算」演變成現代的「財務管理、金融市場與資金籌措」。",
+      "definition": "1. the management of large amounts of money, especially by governments or large companies; 2. monetary resources and affairs.",
+      "example": [
+        {
+          "eng": "He works as a consultant in corporate finance.",
+          "ch": "他在企業財務領域擔任顧問。"
+        },
+        {
+          "eng": "The startup is struggling to secure adequate finance for its expansion.",
+          "ch": "這家新創公司正在努力確保擴展所需的充足資金。"
+        }
+      ]
+    },
+    {
+      "eng": "financial",
+      "kk": "faɪˋnænʃəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "財務的",
+          "金融的",
+          "財政的"
+        ]
+      ],
+      "analysis": "此字為現代形容詞，由名詞 finance 加上形容詞字尾 -ial 構成。專門用來修飾與金錢、銀行、預算或資本市場相關的事物。",
+      "definition": "1. relating to finance or money.",
+      "example": [
+        {
+          "eng": "The company reported strong financial results for the fourth quarter.",
+          "ch": "該公司公布了第四季強勁的財務表現。"
+        }
+      ]
+    },
+    {
+      "eng": "fireplace",
+      "kk": "ˋfaɪəl͵pres",
+      "tense": "n.",
+      "ch": [
+        [
+          "壁爐"
+        ]
+      ],
+      "analysis": "此字為現代複合名詞，由 fire（火）與 place（地方）組成。指房屋牆壁內專門用來生火取暖的爐灶處。",
+      "definition": "1. a place for a domestic fire, built at the base of a chimney in a wall of a room.",
+      "example": [
+        {
+          "eng": "We sat by the fireplace and drank hot chocolate on a cold winter night.",
+          "ch": "在寒冷的冬夜裡，我們坐在壁爐旁喝著熱可可。"
+        }
+      ]
+    },
+    {
+      "eng": "flatter",
+      "kk": "ˋflætɚ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "奉承",
+          "討好",
+          "使顯得好看"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自中古英語 flateren，可能源自日耳曼語族源頭（與日語或古諾斯語中表示撫摸、平撫的詞根相關）。語意從「拍馬屁、過度稱讚以求取悅」演變出服裝或剪裁「使人顯得身形美好」的意思。",
+      "definition": "1. lavish insincere praise and compliments upon someone, especially to further one's own interests; 2. make someone look or seem better than usual.",
+      "example": [
+        {
+          "eng": "He tried to flatter his boss by praising his new ideas.",
+          "ch": "他試圖透過稱讚老闆的新點子來奉承他。"
+        },
+        {
+          "eng": "That dark blue dress really flatters your figure.",
+          "ch": "那件深藍色的洋裝真的很襯托你的身材。"
+        }
+      ]
+    },
+    {
+      "eng": "flea",
+      "kk": "fli",
+      "tense": "n.",
+      "ch": [
+        [
+          "跳蚤"
+        ]
+      ],
+      "analysis": "此字為現代名詞，源自古英語 flēah（跳蚤），屬於日耳曼語繼承詞（源自印歐語根 *plou-「跳動、小昆蟲」）。指一種無翅、擅長跳躍並寄生吸血的小昆蟲。",
+      "definition": "1. a small, wingless, jumping insect that feeds on the blood of mammals and birds.",
+      "example": [
+        {
+          "eng": "We need to treat the dog for fleas before bringing him inside.",
+          "ch": "我們得先幫這隻狗做跳蚤除蟲，才能帶牠進屋裡。"
+        }
+      ]
+    },
+    {
+      "eng": "flee",
+      "kk": "fli",
+      "tense": "vi.",
+      "ch": [
+        [
+          "逃跑",
+          "逃走",
+          "逃離"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，源自古英語 flēon（逃跑、躲避），屬於日耳曼語繼承詞。語意指因危險、恐懼或追捕而迅速離開或逃離某地。",
+      "definition": "1. run away from a place or situation of danger.",
+      "example": [
+        {
+          "eng": "Civilians had to flee their homes when the war broke out.",
+          "ch": "戰爭爆發時，平民們不得不逃離家園。"
+        }
+      ]
+    },
+    {
+      "eng": "flexible",
+      "kk": "ˋflɛksəbl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "有彈性的",
+          "可彎曲的"
+        ],
+        [
+          "靈活的",
+          "可變通的"
+        ]
+      ],
+      "analysis": "此字為現代形容詞，經中古法語源自拉丁語 flexibilis，衍生自 flectere（彎曲）。語意從物質物理上的「柔軟可彎曲」，抽象延伸為時間、規則或計劃上的「靈活、可彈性調整」。",
+      "definition": "1. capable of bending easily without breaking; 2. able to be changed or adapted according to circumstances.",
+      "example": [
+        {
+          "eng": "Plastic is a flexible material used in various containers.",
+          "ch": "塑膠是用於各種容器中的具彈性材料。"
+        },
+        {
+          "eng": "Our company offers flexible working hours for employees.",
+          "ch": "我們公司為員工提供彈性的工作時間。"
+        }
+      ]
+    },
+    {
+      "eng": "fluent",
+      "kk": "ˋfluənt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "流利的",
+          "流暢的"
+        ]
+      ],
+      "analysis": "此字為現代形容詞，源自拉丁語 fluentem（流動的），為 fluere（流動）的現在分詞。語意從流動的水，轉化為語言表達「如流水般順暢、無礙」。",
+      "definition": "1. able to express oneself easily and articulately in a language.",
+      "example": [
+        {
+          "eng": "She is fluent in both English and Mandarin Chinese.",
+          "ch": "她精通英語和漢語普通話，說得很流利。"
+        }
+      ]
+    },
+    {
+      "eng": "flush",
+      "kk": "flʌʃ",
+      "tense": "v.",
+      "ch": [
+        [
+          "沖水",
+          "沖洗"
+        ],
+        [
+          "臉紅",
+          "興奮"
+        ]
+      ],
+      "analysis": "此字為動詞，兼具及物與不及物用法，起源於擬聲詞或日耳曼語族中表示水流突然湧出的根源。語意包含用水快速沖洗馬桶或管線，以及指血液上湧導致臉部「發紅、發燙」。",
+      "definition": "1. cleanse or empty something by pouring water through it; 2. become red and hot, typically as the result of illness, embarrassment, or strong emotion.",
+      "example": [
+        {
+          "eng": "Remember to flush the toilet after use.",
+          "ch": "使用後請記得沖馬桶。"
+        },
+        {
+          "eng": "Her cheeks began to flush with embarrassment when she tripped.",
+          "ch": "當她絆倒時，雙頰因尷尬而開始泛紅。"
+        }
+      ]
+    },
+    {
+      "eng": "foam",
+      "kk": "fom",
+      "tense": "n.",
+      "ch": [
+        [
+          "泡沫",
+          "海綿橡膠"
+        ]
+      ],
+      "analysis": "此字為現代名詞，源自古英語 fām（泡沫），屬於日耳曼語繼承詞。指液體表面產生的許多細小氣泡組成的物質，或指輕質的多孔合成材料。",
+      "definition": "1. a mass of small bubbles formed on or in liquid; light, spongy material used for cushioning or insulation.",
+      "example": [
+        {
+          "eng": "Waves crashed onto the beach, leaving white foam on the sand.",
+          "ch": "海浪拍打著沙灘，在沙上留下白色的泡沫。"
+        }
+      ]
+    },
+    {
+      "eng": "forbid",
+      "kk": "fɚˋbɪd",
+      "tense": "vt.",
+      "ch": [
+        [
+          "禁止",
+          "不許"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自古英語 forbēodan（禁止、阻止），由字首 for-（表示否定或對立）與 bēodan（命令）組成。語意指官方、規則或個人嚴格不允許某行為發生。",
+      "definition": "1. refuse to allow something; officially ban someone from doing something.",
+      "example": [
+        {
+          "eng": "The museum rules forbid visitors from taking photographs inside the galleries.",
+          "ch": "博物館規定禁止參觀者在展廳內拍照。"
+        }
+      ]
+    },
+    {
+      "eng": "forecast",
+      "kk": "ˋfɔr͵kæst",
+      "tense": "vt.",
+      "ch": [
+        [
+          "預測",
+          "預報"
+        ]
+      ],
+      "analysis": "此字為及物動詞，由字首 fore-（在前、預先）與 cast（拋出、計算、估計）組成。原意為預先估算，現代多用於天氣、經濟趨勢或未來事件的科學預測與預報。",
+      "definition": "1. predict or estimate a future event or trend, especially weather or financial data.",
+      "example": [
+        {
+          "eng": "Meteorologists forecast heavy rain for the weekend.",
+          "ch": "氣象學家預報週末將有大雨。"
+        }
+      ]
+    },
+    {
+      "eng": "formation",
+      "kk": "fɔrˋmeʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "形成",
+          "構成"
+        ],
+        [
+          "隊形",
+          "結構"
+        ]
+      ],
+      "analysis": "此字為現代名詞，由動詞 form 加上名詞字尾 -ation 構成。語意指事物被塑造、建立或形成的過程，或指軍隊、飛機或運動員排列的整齊「隊形」。",
+      "definition": "1. the action of forming or process of being formed; 2. a structured arrangement of people or things, such as aircraft or troops.",
+      "example": [
+        {
+          "eng": "Scientists study the formation of mountains and tectonic plates.",
+          "ch": "科學家研究山脈與板塊的形成。"
+        },
+        {
+          "eng": "The migrating geese flew overhead in a V-shaped formation.",
+          "ch": "過境候鳥在頭頂上以V字形隊形飛過。"
+        }
+      ]
+    },
+    {
+      "eng": "formula",
+      "kk": "ˋfɔrmjələ",
+      "tense": "n.",
+      "ch": [
+        [
+          "公式",
+          "方程式"
+        ],
+        [
+          "配方",
+          "準則"
+        ]
+      ],
+      "analysis": "此字為現代名詞，直接借自拉丁語 formula（格式、規則、法律條文），為 forma（形狀、形式）的指小詞。語意從數學與化學的精確等式（公式），引申為解決問題的固定方法、商業配方或嬰兒奶粉（配方奶）。",
+      "definition": "1. a mathematical rule or relationship expressed in symbols; 2. a method or set of principles for achieving something; a fixed recipe.",
+      "example": [
+        {
+          "eng": "Students need to memorize this physics formula for the exam.",
+          "ch": "學生們需要背熟這個物理公式來應付考試。"
+        },
+        {
+          "eng": "The company guards the secret formula for its famous soft drink.",
+          "ch": "這家公司保守其知名碳酸飲料的機密配方。"
+        }
+      ]
+    },
+    {
+      "eng": "fort",
+      "kk": "fɔrt",
+      "tense": "n.",
+      "ch": [
+        [
+          "堡壘",
+          "要塞",
+          "城堡"
+        ]
+      ],
+      "analysis": "此字為現代名詞，經古法語 fort，源自拉丁語 fortis（堅固的、強壯的）。指建造來防禦敵人的堅固軍事基地或要塞。",
+      "definition": "1. a fortified building or defensive wall; a military post.",
+      "example": [
+        {
+          "eng": "The historical fort was built by colonists to protect the harbor.",
+          "ch": "這座歷史悠久的堡壘是由殖民者建造來保護港口的。"
+        }
+      ]
+    },
+    {
+      "eng": "fortunate",
+      "kk": "ˋfɔrtʃənət",
+      "tense": "adj.",
+      "ch": [
+        [
+          "幸運的",
+          "吉利的"
+        ]
+      ],
+      "analysis": "此字為現代形容詞，由名詞 fortune（命運、幸運）加上形容詞字尾 -ate 構成。指享有好運或遭遇吉祥事物的狀態。",
+      "definition": "1. favored by or involving good luck; fortunate.",
+      "example": [
+        {
+          "eng": "We were fortunate to find a parking space right in front of the restaurant.",
+          "ch": "我們很幸運，剛好在餐廳門口找到一個停車位。"
+        }
+      ]
+    },
+    {
+      "eng": "fossil",
+      "kk": "ˋfɑsəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "化石"
+        ]
+      ],
+      "analysis": "此字為現代名詞，源自拉丁語 fossilis（開採出來的），衍生自 fodere（挖掘）。原指從地裡挖出來的東西，後專指古代動植物在地層中礦物化後留下的「化石」。",
+      "definition": "1. the remains or impression of a prehistoric organism preserved in petrified form or as a mold or cast in rock.",
+      "example": [
+        {
+          "eng": "The paleontologist discovered a rare dinosaur fossil in the desert.",
+          "ch": "古生物學家在沙漠中發現了一個稀有的恐龍化石。"
+        }
+      ]
+    },
+    {
+      "eng": "foundation",
+      "kk": "faʊnˋdeʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "地基",
+          "基礎"
+        ],
+        [
+          "基金會"
+        ]
+      ],
+      "analysis": "此字為現代名詞，由動詞 found（建立、奠基，源自拉丁語 fundare）加上名詞字尾 -ation 構成。語意從建築物的實體地基，引申為理論或機構的「基礎」，以及資助公益事業的「基金會」。",
+      "definition": "1. the lowest load-bearing part of a building, typically below ground level; an underlying basis or principle; 2. a permanent fund established to maintain a charitable institution.",
+      "example": [
+        {
+          "eng": "A strong foundation is essential for building a skyscraper.",
+          "ch": "堅固的地基對於建造摩天大樓至關重要。"
+        },
+        {
+          "eng": "She established a foundation to support education in rural areas.",
+          "ch": "她成立了一個基金會來支持偏鄉地區的教育。"
+        }
+      ]
+    },
+    {
+      "eng": "founder",
+      "kk": "ˋfaʊndɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "創辦人",
+          "創立者"
+        ]
+      ],
+      "analysis": "此字為現代名詞，由動詞 found（創辦、建立）加上表示人的名詞字尾 -er 構成。指首創公司、機構、城市或理論的人。",
+      "definition": "1. a person who establishes an institution, organization, or settlement.",
+      "example": [
+        {
+          "eng": "Steve Jobs was one of the co-founders of Apple Inc.",
+          "ch": "史提夫·賈伯斯是蘋果公司的共同創辦人之一。"
+        }
+      ]
+    },
+    {
+      "eng": "fragile",
+      "kk": "ˋfrædʒəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "易碎的",
+          "脆弱的"
+        ],
+        [
+          "虛弱的",
+          "不結實的"
+        ]
+      ],
+      "analysis": "此字為現代形容詞，經中古法語 fragile，源自拉丁語 fragilis（易碎的），衍生自 frangere（打破、破裂）。語意從實體物質的易碎，延伸至生態系統、經濟或人體健康的脆弱。",
+      "definition": "1. easily broken or damaged; 2. delicate in constitution or health; easily upset or ruined.",
+      "example": [
+        {
+          "eng": "Handle this glass vase with care because it is extremely fragile.",
+          "ch": "請小心處理這個玻璃花瓶，因為它極易碎。"
+        },
+        {
+          "eng": "The fragile peace agreement was threatened by new border clashes.",
+          "ch": "脆弱的和平協議受到新邊境衝突的威脅。"
+        }
+      ]
+    },
+    {
+      "eng": "frame",
+      "kk": "frem",
+      "tense": "n.",
+      "ch": [
+        [
+          "框",
+          "框架"
+        ],
+        [
+          "結構",
+          "體格"
+        ]
+      ],
+      "analysis": "此字為現代名詞，源自古英語 framian（建造、得益）的相關名詞或日耳曼語根源。指支撐結構的邊框（如畫框、門框），或指人體的骨架結構、組織的整體架構。",
+      "definition": "1. a rigid structure that surrounds or supports something such as a picture, door, or window; 2. the underlying structure or physical build of something or someone.",
+      "example": [
+        {
+          "eng": "She hung the painting in a wooden gold frame on the wall.",
+          "ch": "她把畫作裝在木製金框裡掛在牆上。"
+        },
+        {
+          "eng": "Despite his small frame, he is a very powerful athlete.",
+          "ch": "儘管他體格嬌小，卻是一位爆發力極強的運動員。"
+        }
+      ]
+    },
+    {
+      "eng": "frequency",
+      "kk": "ˋfrikwənsi",
+      "tense": "n.",
+      "ch": [
+        [
+          "頻率",
+          "發生次數"
+        ],
+        [
+          "頻率（電磁波）"
+        ]
+      ],
+      "analysis": "此字為現代名詞，由形容詞 frequent 加上名詞字尾 -cy 構成，源自拉丁語 frequentia（眾多、經常）。指事件發生的頻繁程度，或在物理與通訊中指電磁波的振動「頻率」。",
+      "definition": "1. the rate at which something occurs or is repeated over a particular period of time or in a given sample; 2. the rate of vibration of a wave, expressed in hertz.",
+      "example": [
+        {
+          "eng": "With the increasing frequency of storms, the city improved its flood barriers.",
+          "ch": "隨著風暴發生頻率增加，該市改善了防洪屏障。"
+        },
+        {
+          "eng": "Radio stations broadcast on different frequencies.",
+          "ch": "廣播電台在不同的頻率上進行廣播。"
+        }
+      ]
+    },
+    {
+      "eng": "freshman",
+      "kk": "ˋfrɛʃmən",
+      "tense": "n.",
+      "ch": [
+        [
+          "大學新鮮人",
+          "高一新生"
+        ]
+      ],
+      "analysis": "此字為現代複合名詞，由 fresh（新鮮的、初來乍到的）與 man（人）組成。專門用來指學校（特別是美國高中的九年級或大學的一年級）剛入學的新生。",
+      "definition": "1. a first-year student at a high school, college, or university.",
+      "example": [
+        {
+          "eng": "As a university freshman, she had to adjust to living away from home.",
+          "ch": "作為大學新鮮人，她必須適應離家獨立生活。"
+        }
+      ]
+    },
+    {
+      "eng": "frost",
+      "kk": "frɔst",
+      "tense": "n.",
+      "ch": [
+        [
+          "霜",
+          "嚴寒天氣"
+        ]
+      ],
+      "analysis": "此字為現代名詞，源自古英語 frost（霜），屬於日耳曼語繼承詞（源自印歐語根 *preus-「凍結」）。指氣溫降至冰點以下時，空氣中的水蒸氣在地面或植物表面凝結成的冰晶層。",
+      "definition": "1. a deposit of small white ice crystals formed on the ground or other surfaces when the temperature falls below freezing.",
+      "example": [
+        {
+          "eng": "Early morning frost covered the grass in the garden.",
+          "ch": "清晨的霜覆蓋了花園裡的草地。"
+        }
+      ]
+    },
+    {
+      "eng": "frown",
+      "kk": "fraʊn",
+      "tense": "vi.",
+      "ch": [
+        [
+          "皺眉",
+          "面露不悅"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，經中古法語 frougner，源自日耳曼語源頭。指因不高興、疑惑或深思而將眉毛緊蹙的表情動作。",
+      "definition": "1. furrow one's brow in an expression of disapproval, displeasure, or concentration.",
+      "example": [
+        {
+          "eng": "The teacher frowned when she saw the messy handwriting on the test.",
+          "ch": "老師看到考卷上凌亂的字跡時皺起了眉頭。"
+        }
+      ]
+    },
+    {
+      "eng": "frustrate",
+      "kk": "ˋfrʌstret",
+      "tense": "vt.",
+      "ch": [
+        [
+          "挫敗",
+          "阻撓"
+        ],
+        [
+          "使沮喪",
+          "使灰心"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自拉丁語 frustrātus（被欺騙的、落空的），源自 frustrā（白費地、徒勞地）。語意從計畫、努力受阻而無法達成（挫敗），引申為使人感到灰心、沮喪。",
+      "definition": "1. prevent a plan or attempted action from progressing, succeeding, or being fulfilled; 2. feel or cause to feel annoyed or upset through being unable to change or achieve something.",
+      "example": [
+        {
+          "eng": "Bad weather can frustrate plans for an outdoor wedding.",
+          "ch": "惡劣的天氣會打亂戶外婚禮的計畫。"
+        },
+        {
+          "eng": "He was frustrated by his lack of progress in learning the piano.",
+          "ch": "他因學習鋼琴遲遲沒有進步而感到沮喪。"
+        }
+      ]
+    },
+    {
+      "eng": "frustration",
+      "kk": "frʌˋstreʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "挫折",
+          "沮喪",
+          "挫敗感"
+        ]
+      ],
+      "analysis": "此字為現代名詞，由動詞 frustrate 加上名詞字尾 -ation 構成。指期望落空或受阻時產生的沮喪心理或挫敗經驗。",
+      "definition": "1. the feeling of being upset or annoyed as a result of being unable to change or achieve something; an event causing this feeling.",
+      "example": [
+        {
+          "eng": "She shouted in frustration when her computer crashed and erased her work.",
+          "ch": "當電腦當機並刪除了她的工作進度時，她沮喪地大叫。"
+        }
+      ]
+    },
+    {
+      "eng": "fulfill",
+      "kk": "fʊlˋfɪl",
+      "tense": "vt.",
+      "ch": [
+        [
+          "實現",
+          "履行",
+          "滿足（要求、心願）"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自古英語 fullfyllan，由 full（滿的）與 fyllan（填滿、完成，源自 fullian）組合而成。語意從「填滿、圓滿完成」演變為實現承諾、理想或達到要求。",
+      "definition": "1. achieve or realize something desired, promised, or predicted; 2. carry out a task, duty, or role as required.",
+      "example": [
+        {
+          "eng": "Studying abroad helped her fulfill a lifelong dream.",
+          "ch": "出國留學幫助她實現了一生的夢想。"
+        }
+      ]
+    },
+    {
+      "eng": "fulfillment",
+      "kk": "fʊlˋfɪlmənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "成就感",
+          "實踐",
+          "滿足"
+        ]
+      ],
+      "analysis": "此字為現代名詞，由動詞 fulfill 加上名詞字尾 -ment 構成。指願望實現、承諾履行或心靈獲得滿足的狀態。",
+      "definition": "1. the achievement of something desired, promised, or predicted; the feeling of satisfaction derived from doing what one is meant to do.",
+      "example": [
+        {
+          "eng": "She finds great fulfillment in helping underprivileged children.",
+          "ch": "她從幫助弱勢兒童中獲得巨大的成就感。"
+        }
+      ]
+    },
+    {
+      "eng": "functional",
+      "kk": "ˋfʌŋkʃənəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "實用的",
+          "具功能的"
+        ],
+        [
+          "正常運作的"
+        ]
+      ],
+      "analysis": "此字為現代形容詞，由名詞 function 加上形容詞字尾 -al 構成。指設計著重於實際效用而非裝飾，或是指機器、系統處於正常運作狀態。",
+      "definition": "1. designed to be practical and useful, rather than attractive; 2. in working order; able to function.",
+      "example": [
+        {
+          "eng": "The apartment is small but furnished with functional furniture.",
+          "ch": "這間公寓很小，但配備了實用的家具。"
+        },
+        {
+          "eng": "After the power outage, the emergency generator is now fully functional.",
+          "ch": "停電過後，緊急發電機現在已能完全正常運作。"
+        }
+      ]
+    },
+    {
+      "eng": "fundamental",
+      "kk": "͵fʌndəˋmɛntl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "基本的",
+          "根本的",
+          "十分重要的"
+        ]
+      ],
+      "analysis": "此字為現代形容詞，由名詞 foundation 的詞幹 fundament（基礎）加上形容詞字尾 -al 構成。指構成事物基礎的、不可或缺的核心要素。",
+      "definition": "1. forming a necessary base or core; of central importance.",
+      "example": [
+        {
+          "eng": "Water and food are fundamental needs for human survival.",
+          "ch": "水和食物是人類生存的基本需求。"
+        }
+      ]
+    },
+    {
+      "eng": "funeral",
+      "kk": "ˋfjunərəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "葬禮",
+          "出殯儀式"
+        ]
+      ],
+      "analysis": "此字為現代名詞，經中古法語 funerailles，源自拉丁語 fūneralis，源自 fūnus（葬禮、死者）。指為悼念死者而舉行的儀式與安葬活動。",
+      "definition": "1. the ceremony or procedure for burying or cremating a deceased person.",
+      "example": [
+        {
+          "eng": "Family members and close friends gathered for the funeral.",
+          "ch": "家屬與至親好友齊聚參加葬禮。"
+        }
+      ]
+    },
+    {
+      "eng": "furious",
+      "kk": "ˋfjʊrɪəs",
+      "tense": "adj.",
+      "ch": [
+        [
+          "狂怒的",
+          "暴怒的"
+        ],
+        [
+          "激烈的",
+          "猛烈的"
+        ]
+      ],
+      "analysis": "此字為現代形容詞，源自拉丁語 furiōsus（瘋狂的、暴怒的），衍生自 furia（狂怒、復仇女神）。語意從精神失常或暴怒，引申為動作或競爭的「猛烈、狂暴」。",
+      "definition": "1. extremely angry; 2. full of anger, energy, or speed; intense.",
+      "example": [
+        {
+          "eng": "He was furious when he discovered someone had scratched his new car.",
+          "ch": "當他發現有人刮傷他的新車時，他氣瘋了。"
+        },
+        {
+          "eng": "The runners sprinted toward the finish line with furious speed.",
+          "ch": "選手們以猛烈的速度向終點線衝刺。"
+        }
+      ]
+    },
+    {
+      "eng": "furnish",
+      "kk": "ˋfɝnɪʃ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "為…配置家具",
+          "供應",
+          "裝備"
+        ]
+      ],
+      "analysis": "此字為及物動詞，經中古法語 furniss-（動詞變化詞幹），源自日耳曼語源頭（如古法語源自法蘭克語 *frumjan「提供、完成」）。語意從提供裝備或物資，演變成現代專指「為房屋配置家具」。",
+      "definition": "1. provide a house or room with furniture and fittings; 2. supply or provide something with necessary items.",
+      "example": [
+        {
+          "eng": "They plan to furnish their new apartment with modern minimalist furniture.",
+          "ch": "他們計畫用現代極簡主義家具來佈置他們的新公寓。"
+        }
+      ]
+    },
+    {
+      "eng": "furthermore",
+      "kk": "ˋfɝðɚ͵mɔr",
+      "tense": "adv.",
+      "ch": [
+        [
+          "此外",
+          "再者",
+          "而且"
+        ]
+      ],
+      "analysis": "此字為副詞，由 further（更遠的、進一步的）與 more（更多）組合而成。用於文章或對話中補充前述觀點，提供更多論點或資訊。",
+      "definition": "1. in addition; besides (used to introduce a fresh consideration in an argument).",
+      "example": [
+        {
+          "eng": "The hotel is comfortable and affordable; furthermore, it is located near the beach.",
+          "ch": "這家飯店舒適又實惠；此外，它還位於海灘附近。"
+        }
+      ]
+    }
+  ]
+}

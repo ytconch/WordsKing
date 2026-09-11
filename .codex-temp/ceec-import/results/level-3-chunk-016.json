@@ -1,0 +1,1807 @@
+{
+  "level": 3,
+  "chunkIndex": 16,
+  "inputs": [
+    "risk",
+    "roar",
+    "roast",
+    "rob",
+    "robbery",
+    "robe",
+    "rocket",
+    "romantic",
+    "rot",
+    "rotten",
+    "rough",
+    "roughly",
+    "routine",
+    "rug",
+    "rumor",
+    "rush",
+    "rust",
+    "sack",
+    "sake",
+    "salary",
+    "satisfactory",
+    "sauce",
+    "saucer",
+    "sausage",
+    "saving",
+    "savings",
+    "scale",
+    "scales",
+    "scarce",
+    "scarf",
+    "scary",
+    "scatter",
+    "scholar",
+    "scholarship",
+    "scientific",
+    "scientist",
+    "scissors",
+    "scout",
+    "scream",
+    "screw",
+    "scrub",
+    "seal",
+    "security",
+    "semester",
+    "senior",
+    "sensible",
+    "separation",
+    "sexual",
+    "sexy",
+    "shadow"
+  ],
+  "rows": [
+    {
+      "eng": "risk",
+      "kk": "rɪsk",
+      "tense": "n.",
+      "ch": [
+        [
+          "風險",
+          "危險性"
+        ],
+        [
+          "保險標的",
+          "承保危險"
+        ]
+      ],
+      "analysis": "此字為名詞與動詞同形。源自早期義大利語 risco（現代義大利語 risico / rischio），其更遠源可追溯至拉丁語 resecare（意為「剪除、切斷」，源自 re- + secare「切割」），在航海語境中引申指「船舶遭遇礁石而有觸礁危險」，經法語與葡萄牙語等傳入英語。現代中文名詞主要指遭受損失或危害的可能性，或保險業中承保的危險對象。",
+      "definition": "1. the possibility of something bad happening; 2. a person or thing regarded as a threat or a potential source of danger, especially in insurance.",
+      "example": [
+        {
+          "eng": "Investing in the stock market involves a high level of risk.",
+          "ch": "投資股票市場涉及高度的風險。"
+        },
+        {
+          "eng": "That bad driver is a serious risk to other motorists on the road.",
+          "ch": "那個不良駕駛對路上的其他用路人來說是個嚴重的危險來源。"
+        }
+      ]
+    },
+    {
+      "eng": "risk",
+      "kk": "rɪsk",
+      "tense": "vt.",
+      "ch": [
+        [
+          "冒險",
+          "承受…的風險"
+        ]
+      ],
+      "analysis": "作為及物動詞，由名詞詞義轉化而來，指為了達成某個目的而使自己暴露於危險、損失或失敗的可能性之中。句型上需接直接受詞，如 risk one's life 或 risk a fine。",
+      "definition": "1. to expose oneself to the chance of injury or loss; to do something important or dangerous despite the possibility of a bad result.",
+      "example": [
+        {
+          "eng": "He risked his own life to save the child from the burning building.",
+          "ch": "他冒著自己的生命危險從燃燒的建築物中救出這名兒童。"
+        }
+      ]
+    },
+    {
+      "eng": "roar",
+      "kk": "rɔr",
+      "tense": "n.",
+      "ch": [
+        [
+          "吼叫聲",
+          "咆哮聲"
+        ],
+        [
+          "轟鳴聲",
+          "喧鬧聲"
+        ]
+      ],
+      "analysis": "由同形不及物動詞轉化而來的名詞，保持了模擬猛獸吼叫、機械運轉或群眾大笑、吶喊等巨大且持續的聲音意涵。",
+      "definition": "1. a loud, deep, prolonged sound made by an animal or a person; 2. a loud, continuous noise such as that of traffic or the sea.",
+      "example": [
+        {
+          "eng": "We heard a sudden roar from the cage at the zoo.",
+          "ch": "我們聽到動物園籠子裡傳來一聲突如其來的吼叫。"
+        },
+        {
+          "eng": "The crowd burst into a roar of laughter after the funny joke.",
+          "ch": "聽完那個有趣的笑話後，群眾爆發出一陣大笑。"
+        }
+      ]
+    },
+    {
+      "eng": "roar",
+      "kk": "rɔr",
+      "tense": "vi.",
+      "ch": [
+        [
+          "吼叫",
+          "咆哮"
+        ],
+        [
+          "轟鳴",
+          "喧鬧"
+        ]
+      ],
+      "analysis": "此字為擬聲詞（onomatopoeia），源自日耳曼語族，古英語中即有類似的動詞形式 rārian，用以模擬大型動物或風浪發出的低沉而巨大的聲響。現代主要用作不及物動詞，描述獅子等猛獸的吼叫、風浪或引擎的轟鳴聲。",
+      "definition": "1. to make a loud, deep, prolonged sound, typically as an animal or in anger; 2. to make a loud, continuous noise, like engines or wind.",
+      "example": [
+        {
+          "eng": "The lion began to roar as it defended its territory.",
+          "ch": "獅子在捍衛其領地時開始咆哮。"
+        },
+        {
+          "eng": "The jet engines roared as the plane took off from the runway.",
+          "ch": "當飛機從跑道起飛時，噴射引擎發出了轟鳴聲。"
+        }
+      ]
+    },
+    {
+      "eng": "roast",
+      "kk": "rost",
+      "tense": "n.",
+      "ch": [
+        [
+          "烤肉",
+          "烘烤食品"
+        ]
+      ],
+      "analysis": "由動詞轉化而來的名詞，指經過烘烤烹調的肉品，或指美國傳統中結合烤肉與社交聚會的活動（如 barbecue roast）。",
+      "definition": "1. a piece of meat roasted or suitable for roasting.",
+      "example": [
+        {
+          "eng": "The Sunday roast is a traditional meal in many British households.",
+          "ch": "星期日烤肉是許多英國家庭的傳統餐點。"
+        }
+      ]
+    },
+    {
+      "eng": "roast",
+      "kk": "rost",
+      "tense": "vt.",
+      "ch": [
+        [
+          "烤",
+          "烘焙"
+        ],
+        [
+          "嚴厲批評",
+          "吐槽"
+        ]
+      ],
+      "analysis": "源自古法語 rostir（現代法語 rôtir），其源頭為日耳曼語族。最初專指用火直接加熱烹調肉類或蔬菜使其表面焦黃酥脆；在現代美國口語中，引申出「公開嚴厲批評或幽默調侃某人」的第二義項。",
+      "definition": "1. to cook food, especially meat, by prolonged exposure to heat in an oven or over a fire; 2. to criticize or mock someone severely in a humorous way.",
+      "example": [
+        {
+          "eng": "She roasted a large turkey for the Thanksgiving dinner.",
+          "ch": "她為感恩節晚餐烤了一隻大火雞。"
+        },
+        {
+          "eng": "The comedians roasted the celebrity during the television special.",
+          "ch": "喜劇演員們在那檔電視特別節目中狠狠地吐槽了這位名人。"
+        }
+      ]
+    },
+    {
+      "eng": "roast",
+      "kk": "rost",
+      "tense": "vi.",
+      "ch": [
+        [
+          "烤熟",
+          "受到烘烤"
+        ]
+      ],
+      "analysis": "作為不及物動詞使用時，主語通常是正在被烹調的食物，或指人處於極度悶熱的環境中猶如遭受火烤。",
+      "definition": "1. to be cooked by roasting, or to become very hot.",
+      "example": [
+        {
+          "eng": "The beef is roasting nicely in the oven.",
+          "ch": "牛肉正在烤箱裡烤得很香。"
+        }
+      ]
+    },
+    {
+      "eng": "rob",
+      "kk": "rɑb",
+      "tense": "vt.",
+      "ch": [
+        [
+          "搶劫",
+          "盜取"
+        ]
+      ],
+      "analysis": "源自古法語 rober（源自日耳曼語族，與 raid 同源），進入中世紀英語後形成 rob。與 steal 不同，rob 的句型重心通常是「對象（人或機構）」，指使用暴力或威脅非法剝奪他人的財產。",
+      "definition": "1. to steal money or property from a person or place, often using force or violence.",
+      "example": [
+        {
+          "eng": "Two masked men tried to rob the local bank late at night.",
+          "ch": "兩個戴面具的男子試圖在深夜搶劫當地銀行。"
+        }
+      ]
+    },
+    {
+      "eng": "robbery",
+      "kk": "ˈrɑbəri",
+      "tense": "n.",
+      "ch": [
+        [
+          "搶劫",
+          "強盜案"
+        ]
+      ],
+      "analysis": "由動詞 rob 加上名詞字尾 -ery（表示行為、場所或狀態）構成的衍生名詞，用以指稱使用暴力或威脅手段進行的搶劫犯罪行為。",
+      "definition": "1. the crime of stealing from somewhere or someone using force or threat of force.",
+      "example": [
+        {
+          "eng": "The police are investigating a series of armed robberies in the downtown area.",
+          "ch": "警方正在調查市中心發生的一系列持械搶劫案。"
+        }
+      ]
+    },
+    {
+      "eng": "robe",
+      "kk": "rob",
+      "tense": "n.",
+      "ch": [
+        [
+          "長袍",
+          "浴袍",
+          "法袍"
+        ]
+      ],
+      "analysis": "源自古法語 robe（意為戰利品、衣服），其源頭可追溯至日耳曼語族。最初指長而寬鬆的外衣，現多指法官、學者或宗教神職人員穿著的禮袍，或日常生活中洗澡後穿著的浴袍（bathrobe）。",
+      "definition": "1. a long, loose piece of clothing worn as academic, religious, or official dress, or after bathing.",
+      "example": [
+        {
+          "eng": "The graduating students wore black caps and gowns.",
+          "ch": "應屆畢業生們穿著學士帽與長袍。"
+        }
+      ]
+    },
+    {
+      "eng": "rocket",
+      "kk": "ˈrɑkɪt",
+      "tense": "n.",
+      "ch": [
+        [
+          "火箭",
+          "火箭發動機"
+        ]
+      ],
+      "analysis": "源自義大利語 rocchetto（意為線軸、管狀物），因早期火箭外形相似而得名，經由德語或法語進入英語。指利用噴射反作用力推進的飛行器或武器。",
+      "definition": "1. a cylindrical projectile that can be propelled into the upper atmosphere or space by the combustion of its contents.",
+      "example": [
+        {
+          "eng": "The space agency successfully launched a heavy-lift rocket into orbit.",
+          "ch": "太空總署成功將一枚重型火箭發射進入軌道。"
+        }
+      ]
+    },
+    {
+      "eng": "romantic",
+      "kk": "roʊˈmæntɪk",
+      "tense": "adj.",
+      "ch": [
+        [
+          "浪漫的",
+          "富有情調的"
+        ],
+        [
+          "空想的",
+          "脫離現實的"
+        ]
+      ],
+      "analysis": "源自名詞 romance（源自拉丁語 Romanicus，指用羅曼語族方言書寫的傳奇故事），加上形容詞字尾 -ic。最初指中世紀浪漫傳奇中奇幻、脫離現實的特質，後演變出情感上富有詩意、充滿愛意或不切實際的現代涵義。",
+      "definition": "1. conducive to or suggestive of an idealized form of love or strong affection; 2. idealistic, impractical, or visionary.",
+      "example": [
+        {
+          "eng": "They celebrated their wedding anniversary with a romantic dinner by the sea.",
+          "ch": "他們在海邊享用了浪漫的晚餐來慶祝結婚紀念日。"
+        },
+        {
+          "eng": "He had romantic notions about living completely off the grid.",
+          "ch": "他對於完全脫離電網生活有著不切實際的浪漫幻想。"
+        }
+      ]
+    },
+    {
+      "eng": "rot",
+      "kk": "rɑt",
+      "tense": "n.",
+      "ch": [
+        [
+          "腐爛",
+          "腐敗"
+        ],
+        [
+          "廢話",
+          "胡言亂語"
+        ]
+      ],
+      "analysis": "由動詞轉化而來的名詞，除指物理上的腐爛現象外，在英式口語中也常以 'Rot!' 表達「胡說八道、廢話」。",
+      "definition": "1. the process of decaying or the state of being decayed; 2. nonsense or rubbish (chiefly British).",
+      "example": [
+        {
+          "eng": "Dry rot can seriously damage the structural integrity of timber buildings.",
+          "ch": "乾腐病會嚴重破壞木造建築物的結構完整性。"
+        },
+        {
+          "eng": "Don't listen to him; it's all complete rot.",
+          "ch": "別聽他的，那全都是胡說八道。"
+        }
+      ]
+    },
+    {
+      "eng": "rot",
+      "kk": "rɑt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使腐爛",
+          "使腐敗"
+        ]
+      ],
+      "analysis": "由同形不及物動詞延伸出的及物動詞用法，指使有機物腐壞變質。",
+      "definition": "1. to cause organic matter to decompose or decay.",
+      "example": [
+        {
+          "eng": "Excessive moisture will rot the wooden foundation of the old house.",
+          "ch": "過多的濕氣會使老房子的木質地基腐爛。"
+        }
+      ]
+    },
+    {
+      "eng": "rot",
+      "kk": "rɑt",
+      "tense": "vi.",
+      "ch": [
+        [
+          "腐爛",
+          "腐敗"
+        ]
+      ],
+      "analysis": "源自古語動詞 rotian，屬於日耳曼語族繼承詞（與德語 rotten 同源）。現代用作不及物動詞，指有機物質（如食物、木材或屍體）在細菌或真菌作用下逐漸分解敗壞。",
+      "definition": "1. to decay or cause to decay, typically through the action of bacteria and fungi.",
+      "example": [
+        {
+          "eng": "Fallen leaves begin to rot on the damp ground during autumn.",
+          "ch": "落葉在秋天潮濕的地面上開始腐爛。"
+        }
+      ]
+    },
+    {
+      "eng": "rotten",
+      "kk": "ˈrɑtən",
+      "tense": "adj.",
+      "ch": [
+        [
+          "腐爛的",
+          "腐敗的"
+        ],
+        [
+          "極差的",
+          "討厭的"
+        ]
+      ],
+      "analysis": "源自動詞 rot 的過去分詞轉化而來的形容詞（加上日耳曼語形容詞字尾 -en），指物理上已腐壞變質的狀態，亦可引申形容人品惡劣或情況糟糕。",
+      "definition": "1. suffering from decay; spoiled or decomposed; 2. very bad, unpleasant, or of poor quality.",
+      "example": [
+        {
+          "eng": "He threw away the rotten apples at the bottom of the basket.",
+          "ch": "他把籃子底部的爛蘋果丟掉了。"
+        },
+        {
+          "eng": "I had a rotten day at work because everything went wrong.",
+          "ch": "我今天上班糟透了，因為每件事都不順利。"
+        }
+      ]
+    },
+    {
+      "eng": "rough",
+      "kk": "rʌf",
+      "tense": "n.",
+      "ch": [
+        [
+          "粗糙部分",
+          "高爾夫球場的粗草區"
+        ]
+      ],
+      "analysis": "由形容詞轉化而來的名詞，特別在高爾夫球運動中指球道旁草皮較長、較難打球的「粗草區」。",
+      "definition": "1. an area of long, uncultivated grass on a golf course.",
+      "example": [
+        {
+          "eng": "His golf ball landed deep in the rough.",
+          "ch": "他的高爾夫球落在了長草區的深處。"
+        }
+      ]
+    },
+    {
+      "eng": "rough",
+      "kk": "rʌf",
+      "tense": "vt.",
+      "ch": [
+        [
+          "粗暴對待",
+          "使粗糙"
+        ]
+      ],
+      "analysis": "由形容詞轉化而來的及物動詞，常見片語如 rough up，指粗暴地對待或毆打某人。",
+      "definition": "1. to treat someone in a rough or violent manner.",
+      "example": [
+        {
+          "eng": "The thugs threatened to rough him up if he didn't pay the money.",
+          "ch": "暴徒威脅說如果他不付錢就要狠狠修理他一頓。"
+        }
+      ]
+    },
+    {
+      "eng": "rough",
+      "kk": "rʌf",
+      "tense": "adj.",
+      "ch": [
+        [
+          "粗糙的",
+          "不平坦的"
+        ],
+        [
+          "粗魯的",
+          "粗暴的"
+        ],
+        [
+          "大致的",
+          "草率的"
+        ]
+      ],
+      "analysis": "源自古英語 rūh，屬於日耳曼語族繼承詞。其核心義為表面不平滑；隨著語意延伸，可形容氣候惡劣、個性粗暴、或數字估算上的「大致、未精確」狀態。",
+      "definition": "1. having an uneven or irregular surface; not smooth; 2. violent, harsh, or lacking manners; 3. approximate rather than exact.",
+      "example": [
+        {
+          "eng": "The hiker slipped on the rough stone path.",
+          "ch": "健行者在粗糙不平的石子路上滑倒了。"
+        },
+        {
+          "eng": "Please provide a rough estimate of the total renovation costs.",
+          "ch": "請提供總裝潢費用的初步估算。"
+        }
+      ]
+    },
+    {
+      "eng": "roughly",
+      "kk": "ˈrʌfli",
+      "tense": "adv.",
+      "ch": [
+        [
+          "大約",
+          "粗略地"
+        ],
+        [
+          "粗魯地",
+          "生硬地"
+        ]
+      ],
+      "analysis": "由形容詞 rough 加上副詞字尾 -ly 衍生而來。保留了雙重語義：一是指數量或時間上的「大約、粗略估計」，二是指動作方式上的「粗暴、生硬地」。",
+      "definition": "1. approximately, rather than exactly; 2. in a rough, violent, or ungentle manner.",
+      "example": [
+        {
+          "eng": "The project will take roughly three months to complete.",
+          "ch": "這個專案大約需要三個月才能完成。"
+        },
+        {
+          "eng": "He grabbed the box roughly and tossed it onto the truck.",
+          "ch": "他粗暴地抓起箱子，把它扔到了卡車上。"
+        }
+      ]
+    },
+    {
+      "eng": "routine",
+      "kk": "ruˈtin",
+      "tense": "n.",
+      "ch": [
+        [
+          "例行公事",
+          "慣例"
+        ],
+        [
+          "固定表演節目"
+        ]
+      ],
+      "analysis": "源自法語 routine（源自 route「道路、路程」），指按固定軌跡或規律進行的程序。現代用作名詞，指日常生活或工作中的固定程序，或表演藝術中的一套完整表演單元。",
+      "definition": "1. a sequence of actions regularly followed; a fixed program; 2. a set performance, such as a dance or a comedic act.",
+      "example": [
+        {
+          "eng": "Morning exercise is an essential part of his daily routine.",
+          "ch": "晨練是他日常生活中不可或缺的一部分。"
+        },
+        {
+          "eng": "The stand-up comedian delivered a hilarious routine about modern travel.",
+          "ch": "這位單口喜劇演員表演了一段關於現代旅遊的爆笑橋段。"
+        }
+      ]
+    },
+    {
+      "eng": "routine",
+      "kk": "ruˈtin",
+      "tense": "adj.",
+      "ch": [
+        [
+          "例行的",
+          "慣常的"
+        ]
+      ],
+      "analysis": "由名詞轉化或直接由法語形容詞用法借入，用以修飾屬於常規、例行公事或標準程序的事物。",
+      "definition": "1. performed as part of a regular procedure rather than for a special reason.",
+      "example": [
+        {
+          "eng": "She went to the clinic for a routine medical check-up.",
+          "ch": "她去診所做了例行的身體檢查。"
+        }
+      ]
+    },
+    {
+      "eng": "rug",
+      "kk": "rʌg",
+      "tense": "n.",
+      "ch": [
+        [
+          "地毯",
+          "小塊地毯"
+        ]
+      ],
+      "analysis": "源自斯堪地那維亞語支（古斯堪地那維亞語 ruggr 意為粗糙的毛髮或毛皮），早期在英語中指粗糙的厚毛皮或毯子，後來演變專指鋪在室內地板上的小塊或裝飾性地毯。",
+      "definition": "1. a floor covering of thick woven material or animal skin, typically smaller than a carpet.",
+      "example": [
+        {
+          "eng": "They placed a soft wool rug in front of the fireplace.",
+          "ch": "他們在壁爐前鋪了一張柔軟的羊毛地毯。"
+        }
+      ]
+    },
+    {
+      "eng": "rumor",
+      "kk": "ˈrumɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "謠言",
+          "傳聞"
+        ]
+      ],
+      "analysis": "源自拉丁語 rumor（意為喧囂、雜音、流言），經由古法語 rumor 進入英語。核心義指缺乏確鑿證據、在人群中流傳的小道消息或傳聞。",
+      "definition": "1. a currently circulating story or report of uncertain or doubtful truth.",
+      "example": [
+        {
+          "eng": "Rumors about the company's impending merger spread quickly through the office.",
+          "ch": "關於公司即將合併的傳聞在辦公室裡迅速傳開。"
+        }
+      ]
+    },
+    {
+      "eng": "rumor",
+      "kk": "ˈrumɚ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "謠傳",
+          "傳說"
+        ]
+      ],
+      "analysis": "由名詞轉化而來的及物動詞，常以被動語態（be rumored that...）使用，指某事在坊間被廣泛傳說。",
+      "definition": "1. to spread or report as a rumor.",
+      "example": [
+        {
+          "eng": "It is rumored that the famous singer will retire after this tour.",
+          "ch": "據傳這位著名歌手將在此次巡演後退休。"
+        }
+      ]
+    },
+    {
+      "eng": "rush",
+      "kk": "rʌʃ",
+      "tense": "n.",
+      "ch": [
+        [
+          "匆忙",
+          "急速"
+        ],
+        [
+          "繁忙時刻",
+          "熱潮"
+        ]
+      ],
+      "analysis": "由動詞轉化而來的名詞，指匆忙的狀態、交通或生活的尖峰時刻（如 rush hour），或指某種突發的熱潮、興奮感（如 gold rush）。",
+      "definition": "1. a sudden, urgent demand or movement; 2. a period of intense activity or congestion.",
+      "example": [
+        {
+          "eng": "There is no need for a rush; we have plenty of time.",
+          "ch": "沒有必要匆忙；我們時間很充裕。"
+        },
+        {
+          "eng": "Traffic is always terrible during the morning rush hour.",
+          "ch": "早上的尖峰時刻交通總是糟透了。"
+        }
+      ]
+    },
+    {
+      "eng": "rush",
+      "kk": "rʌʃ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "催促",
+          "倉促行事"
+        ],
+        [
+          "猛攻",
+          "突襲"
+        ]
+      ],
+      "analysis": "作為及物動詞，指催促某人快速完成工作，或在軍事與球類運動中指突襲、向前猛衝。",
+      "definition": "1. to make someone do something too quickly; 2. to attack or move upon suddenly.",
+      "example": [
+        {
+          "eng": "Don't rush me; I need time to make the right decision.",
+          "ch": "別催我；我需要時間做出正確的決定。"
+        },
+        {
+          "eng": "The defensive line rushed the quarterback before he could throw.",
+          "ch": "防守線在四分衛傳球前對其發動了猛撲。"
+        }
+      ]
+    },
+    {
+      "eng": "rush",
+      "kk": "rʌʃ",
+      "tense": "vi.",
+      "ch": [
+        [
+          "衝",
+          "奔",
+          "匆忙行事"
+        ]
+      ],
+      "analysis": "源自古法語 ruser（意為使迷惑、退卻），其詞源可追溯至拉丁語 recusare。在英語中語意發生轉變，演變成「急促移動、衝刺」之意。作不及物動詞時表示快速移動或倉促行事。",
+      "definition": "1. to move or act with urgent haste; to hurry.",
+      "example": [
+        {
+          "eng": "Passengers rushed to board the train before the doors closed.",
+          "ch": "旅客們在車門關閉前匆忙上車。"
+        }
+      ]
+    },
+    {
+      "eng": "rust",
+      "kk": "rʌst",
+      "tense": "n.",
+      "ch": [
+        [
+          "鐵鏽",
+          "鏽"
+        ],
+        [
+          "鏽病"
+        ]
+      ],
+      "analysis": "源自古英語 rūst，屬於日耳曼語族繼承詞（與德語 Rost 同源）。指金屬（特別是鐵）在潮濕空氣中氧化形成的 reddish-brown 覆蓋物，亦可用於植物病理學指植物的鏽病。",
+      "definition": "1. a reddish-brown flaky coating of iron oxide formed on iron or steel by oxidation; 2. a fungal disease of plants.",
+      "example": [
+        {
+          "eng": "The old bicycle frame was covered in thick rust.",
+          "ch": "這輛舊腳踏車的車架覆蓋著厚厚的鐵鏽。"
+        }
+      ]
+    },
+    {
+      "eng": "rust",
+      "kk": "rʌst",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使生鏽",
+          "使腐蝕"
+        ]
+      ],
+      "analysis": "作為及物動詞，指使金屬產生鐵鏽或受損。",
+      "definition": "1. to cause metal to become rusted.",
+      "example": [
+        {
+          "eng": "Saltwater can rapidly rust the metal parts of a boat.",
+          "ch": "鹽水會迅速使船隻的金屬零件生鏽。"
+        }
+      ]
+    },
+    {
+      "eng": "rust",
+      "kk": "rʌst",
+      "tense": "vi.",
+      "ch": [
+        [
+          "生鏽",
+          "氧化腐蝕"
+        ]
+      ],
+      "analysis": "由名詞轉化而來的不及物動詞，指金屬表面因氧化作用而產生鐵鏽或逐漸腐蝕。",
+      "definition": "1. to form rust or become oxidized and corroded.",
+      "example": [
+        {
+          "eng": "Iron tools will quickly rust if left outside in the rain.",
+          "ch": "鐵製工具如果放在戶外淋雨，很快就會生鏽。"
+        }
+      ]
+    },
+    {
+      "eng": "sack",
+      "kk": "sæk",
+      "tense": "n.",
+      "ch": [
+        [
+          "麻袋",
+          "大袋子"
+        ],
+        [
+          "解雇",
+          "開除"
+        ]
+      ],
+      "analysis": "源自拉丁語 saccus（源自希臘語 sakkos，最終源自閃米特語族如希伯來語 śaq「粗麻布、袋子」）。在英語中演變出粗麻布袋的意義，後在英式口語中因雇主發還工人的工具袋而引申出「開除（the sack）」的俚語義。",
+      "definition": "1. a large bag made of coarse material for storing and carrying goods; 2. dismissal from employment (informal).",
+      "example": [
+        {
+          "eng": "The farmer filled several sacks with freshly harvested potatoes.",
+          "ch": "農夫把幾個麻袋裝滿了剛收成的馬鈴薯。"
+        },
+        {
+          "eng": "He got the sack from his job for being consistently late.",
+          "ch": "他因為經常遲到而被公司開除了。"
+        }
+      ]
+    },
+    {
+      "eng": "sack",
+      "kk": "sæk",
+      "tense": "vt.",
+      "ch": [
+        [
+          "洗劫",
+          "劫掠"
+        ],
+        [
+          "解雇",
+          "開除"
+        ]
+      ],
+      "analysis": "此動詞有兩個來源。一是源自法語 saccager（源自 saccus「袋子」，意指將財物裝袋運走），指軍隊攻佔城市後的洗劫；二是直接由名詞 sack（開除）轉化而來的動詞用法。",
+      "definition": "1. to plunder and pillage a captured town or building; 2. to dismiss someone from a job (informal).",
+      "example": [
+        {
+          "eng": "The invading army sacked the city and burned down the palace.",
+          "ch": "侵略軍洗劫了這座城市並燒毀了宮殿。"
+        },
+        {
+          "eng": "The manager decided to sack him after the major accounting error.",
+          "ch": "在發生重大會計錯誤後，經理決定將他開除。"
+        }
+      ]
+    },
+    {
+      "eng": "sake",
+      "kk": "sek",
+      "tense": "n.",
+      "ch": [
+        [
+          "緣故",
+          "理由"
+        ]
+      ],
+      "analysis": "源自古英語 sacu（意為訴訟、爭端、責任），屬於日耳曼語族。在現代英語中幾乎僅存於固定片語中（如 for the sake of...），意指為了某種目的、利益或緣故。",
+      "definition": "1. the purpose or benefit of someone or something (used chiefly in prepositional phrases).",
+      "example": [
+        {
+          "eng": "She moved to the countryside for the sake of her health.",
+          "ch": "為了健康著想，她搬到了鄉下。"
+        }
+      ]
+    },
+    {
+      "eng": "salary",
+      "kk": "ˈsæləri",
+      "tense": "n.",
+      "ch": [
+        [
+          "薪水",
+          "薪資"
+        ]
+      ],
+      "analysis": "源自拉丁語 salarium（意為給士兵購買食鹽的津貼，源自 sal「鹽」），經由古法語 salaire 進入英語。古羅馬時期鹽極為珍貴，用作士兵的部分薪俸，後泛指固定的定期薪資。",
+      "definition": "1. a fixed regular payment, typically paid on a monthly or biweekly basis, made by an employer to an employee.",
+      "example": [
+        {
+          "eng": "She negotiated a higher starting salary before accepting the job offer.",
+          "ch": "她在接受工作錄用前談妥了更高的起薪。"
+        }
+      ]
+    },
+    {
+      "eng": "satisfactory",
+      "kk": "ˌsætɪsˈfæktəri",
+      "tense": "adj.",
+      "ch": [
+        [
+          "令人滿意的",
+          "符合要求的"
+        ]
+      ],
+      "analysis": "源自拉丁語 satisfacere（意為使滿足，satis「足夠」+ facere「做」），經由中世紀拉丁語與法語衍生出形容詞字尾 -tory。指達到標準或足以讓人滿意的程度。",
+      "definition": "1. fulfilling expectations or needs; acceptable, though not outstanding.",
+      "example": [
+        {
+          "eng": "His explanation for the missing funds was not considered satisfactory.",
+          "ch": "他對資金短缺的解釋未被認為是令人滿意的。"
+        }
+      ]
+    },
+    {
+      "eng": "sauce",
+      "kk": "sɔs",
+      "tense": "n.",
+      "ch": [
+        [
+          "醬汁",
+          "調味汁"
+        ]
+      ],
+      "analysis": "源自拉丁語 salsus（意為加鹽的、鹹的，源自 sal「鹽」），經由古法語 sauce 進入英語。原指調味用的鹹汁，後來泛指各種搭配食物食用的液體調味料。",
+      "definition": "1. a liquid or semi-liquid substance served with food to add flavor or moisture.",
+      "example": [
+        {
+          "eng": "The chef prepared a rich tomato sauce for the pasta dish.",
+          "ch": "主廚為義大利麵準備了一款濃郁的番茄醬汁。"
+        }
+      ]
+    },
+    {
+      "eng": "sauce",
+      "kk": "sɔs",
+      "tense": "vt.",
+      "ch": [
+        [
+          "給…調味",
+          "加醬汁於"
+        ]
+      ],
+      "analysis": "由名詞轉化而來的及物動詞，指在食物中加入醬汁或調味料。",
+      "definition": "1. to add sauce to food to give it flavor.",
+      "example": [
+        {
+          "eng": "She delicately sauced the grilled fish before serving.",
+          "ch": "她在上菜前細心地在烤魚上淋上醬汁。"
+        }
+      ]
+    },
+    {
+      "eng": "saucer",
+      "kk": "ˈsɔsɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "茶碟",
+          "小碟子"
+        ]
+      ],
+      "analysis": "源自古法語 saucer，源於拉丁語 salsarium（鹽皿，源自 sal「鹽」）。最初專門用來盛裝醬汁的小碟子，後來演變為放置茶杯下方的托盤式小碟（saucer）。",
+      "definition": "1. a small shallow dish for holding a cup at the table.",
+      "example": [
+        {
+          "eng": "She placed the teacup carefully back onto its matching saucer.",
+          "ch": "她小心翼翼地把茶杯放回與之相配的茶碟上。"
+        }
+      ]
+    },
+    {
+      "eng": "sausage",
+      "kk": "ˈsɔsɪdʒ",
+      "tense": "n.",
+      "ch": [
+        [
+          "香腸",
+          "臘腸"
+        ]
+      ],
+      "analysis": "源自通俗拉丁語 *salsica（意為加鹽醃製的肉，源自 sal「鹽」），經由古諾曼法語 sausage 進入英語。指將絞肉塞入腸衣中製成的肉製品。",
+      "definition": "1. an item of food consisting of minced meat mixed with seasonings, stuffed into a cylindrical casing.",
+      "example": [
+        {
+          "eng": "He likes to have scrambled eggs and grilled sausages for breakfast.",
+          "ch": "他喜歡早餐吃炒蛋和烤香腸。"
+        }
+      ]
+    },
+    {
+      "eng": "saving",
+      "kk": "ˈsevɪŋ",
+      "tense": "n.",
+      "ch": [
+        [
+          "節省",
+          "節約"
+        ],
+        [
+          "挽救",
+          "拯救"
+        ]
+      ],
+      "analysis": "由動詞 save 加上名詞化字尾 -ing 構成的衍生名詞。指節省下來的金錢、時間或資源，或指對某人或某事的挽救行動。",
+      "definition": "1. an economy or reduction in the amount of money, time, or effort spent; 2. the act of rescuing someone or something.",
+      "example": [
+        {
+          "eng": "Buying clothes during the seasonal clearance offers a significant saving.",
+          "ch": "在換季清倉時買衣服能省下一大筆錢。"
+        },
+        {
+          "eng": "The daring rescue operation resulted in the saving of three trapped miners.",
+          "ch": "這次勇敢的救援行動成功挽救了三名受困礦工的生命。"
+        }
+      ]
+    },
+    {
+      "eng": "savings",
+      "kk": "ˈsevɪŋz",
+      "tense": "n.",
+      "ch": [
+        [
+          "存款",
+          "積蓄"
+        ]
+      ],
+      "analysis": "通常以複數形式使用的名詞，源自 saving 的複數，專門指個人或家庭長期積累下來存放在銀行的金錢總額。",
+      "definition": "1. money kept in a bank or financial institution, or saved for a future purpose.",
+      "example": [
+        {
+          "eng": "She used her life savings to put down a payment on her first house.",
+          "ch": "她動用了畢生積蓄來支付她第一棟房子的頭期款。"
+        }
+      ]
+    },
+    {
+      "eng": "scale",
+      "kk": "skel",
+      "tense": "n.",
+      "ch": [
+        [
+          "規模",
+          "比例尺"
+        ],
+        [
+          "天平",
+          "體重計"
+        ],
+        [
+          "魚鱗",
+          "鱗片"
+        ]
+      ],
+      "analysis": "此字為同形異源詞的聚合：1. 規模/比例尺源自拉丁語 scala（意為梯子、階梯）；2. 天平／體重計源自古諾曼法語 eschale（源自古諾斯語 skál「碗、天平盤」）；3. 魚鱗源自日耳曼語族根源，經古法語 escale 進入英語。在現代中文中對應不同的語義場。",
+      "definition": "1. the relative size or extent of something; a ratio of size in a map or model; 2. an instrument for weighing things; 3. one of the small, thin plates of horny or bony material covering the skin of fish or reptiles.",
+      "example": [
+        {
+          "eng": "The company is operating on a global scale.",
+          "ch": "這家公司正以全球化的規模營運。"
+        },
+        {
+          "eng": "Step onto the scale to check your weight.",
+          "ch": "站上體重計來檢查你的體重。"
+        },
+        {
+          "eng": "The fish was covered in shiny silver scales.",
+          "ch": "這條魚覆蓋著閃亮的銀色魚鱗。"
+        }
+      ]
+    },
+    {
+      "eng": "scale",
+      "kk": "skel",
+      "tense": "vt.",
+      "ch": [
+        [
+          "攀登",
+          "爬越"
+        ],
+        [
+          "按比例縮放"
+        ]
+      ],
+      "analysis": "作為及物動詞，源自拉丁語 scala（梯子），引申出「攀登（如爬梯子）」之意；在製圖與計算機科學中則指「按比例調整大小」。",
+      "definition": "1. to climb up or over something high and steep; 2. to adjust the size of something according to a scale.",
+      "example": [
+        {
+          "eng": "Experienced mountaineers managed to scale the steep cliff.",
+          "ch": "經驗豐富的登山者成功攀登了這座陡峭的懸崖。"
+        },
+        {
+          "eng": "You can scale down the image to fit the website layout.",
+          "ch": "你可以把圖片縮小以符合網站的版面配置。"
+        }
+      ]
+    },
+    {
+      "eng": "scales",
+      "kk": "skelz",
+      "tense": "n.",
+      "ch": [
+        [
+          "天平",
+          "磅秤"
+        ]
+      ],
+      "analysis": "scale 的複數形式，在歷史與現代用法中常固定指稱「天平」或「磅秤」（由兩個秤盤組成之儀器）。",
+      "definition": "1. an instrument for weighing, consisting of two pans suspended from a balancing beam, or a digital weighing device.",
+      "example": [
+        {
+          "eng": "The pharmacist carefully weighed the powder on the scales.",
+          "ch": "藥劑師小心翼翼地用天平稱量粉末。"
+        }
+      ]
+    },
+    {
+      "eng": "scarce",
+      "kk": "skɛrs",
+      "tense": "adj.",
+      "ch": [
+        [
+          "稀少的",
+          "罕見的"
+        ]
+      ],
+      "analysis": "源自古法語 escars（意為吝嗇的、不足的），其更遠源可追溯至拉丁語 excarpere（精選、剪除）。在英語中演變成指物品供應短缺、數量稀少的狀態。",
+      "definition": "1. insufficient for the demand; lacking in quantity or supply.",
+      "example": [
+        {
+          "eng": "Fresh water became extremely scarce during the severe drought.",
+          "ch": "在嚴重的乾旱期間，淡水變得極端稀缺。"
+        }
+      ]
+    },
+    {
+      "eng": "scarf",
+      "kk": "skɑrf",
+      "tense": "n.",
+      "ch": [
+        [
+          "圍巾",
+          "披巾"
+        ]
+      ],
+      "analysis": "源自斯堪地那維亞語或日耳曼語源，早期可能與法語 escarpe 有關。指圍在脖子或肩膀上保暖或裝飾的長條形織物。",
+      "definition": "1. a length of fabric worn around the neck, shoulders, or head for warmth, sun protection, or fashion.",
+      "example": [
+        {
+          "eng": "She wrapped a warm woolen scarf around her neck against the chilly wind.",
+          "ch": "她把一條保暖的羊毛圍巾繞在脖子上以抵禦寒風。"
+        }
+      ]
+    },
+    {
+      "eng": "scary",
+      "kk": "ˈskɛri",
+      "tense": "adj.",
+      "ch": [
+        [
+          "可怕的",
+          "嚇人的"
+        ]
+      ],
+      "analysis": "由動詞 scare（源自古諾斯語 skjara「嚇唬」）加上形容詞字尾 -y 構成的衍生形容詞，用以描述令人感到恐懼或不安的事物。",
+      "definition": "1. causing fear; alarming.",
+      "example": [
+        {
+          "eng": "The children watched a scary movie about ghosts and monsters.",
+          "ch": "孩子們看了一部關於鬼怪的可怕電影。"
+        }
+      ]
+    },
+    {
+      "eng": "scatter",
+      "kk": "ˈskætɚ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "撒",
+          "散布"
+        ],
+        [
+          "驅散",
+          "使四散"
+        ]
+      ],
+      "analysis": "源自中古英語 scatteren，可能與日耳曼語族中表示破碎、分散的詞根有關。作為及物動詞，指將物體均勻撒開，或使人群、動物四處潰散。",
+      "definition": "1. to throw in various directions; to strew; 2. to cause to separate and go in different directions.",
+      "example": [
+        {
+          "eng": "The gardener scattered grass seeds across the lawn.",
+          "ch": "園丁將草籽撒在草坪上。"
+        },
+        {
+          "eng": "A sudden loud noise startled the birds, and they scattered in all directions.",
+          "ch": "一聲突如其來的巨響驚嚇了鳥兒，牠們向四面八方飛散。"
+        }
+      ]
+    },
+    {
+      "eng": "scatter",
+      "kk": "ˈskætɚ",
+      "tense": "vi.",
+      "ch": [
+        [
+          "散開",
+          "四散"
+        ]
+      ],
+      "analysis": "作為不及物動詞，主語通常為人群或動物，指自行向四面八方散去。",
+      "definition": "1. to separate and move off in different directions without a clear leader.",
+      "example": [
+        {
+          "eng": "When the police arrived, the crowd quickly scattered.",
+          "ch": "當警察到達時，人群迅速散開了。"
+        }
+      ]
+    },
+    {
+      "eng": "scholar",
+      "kk": "ˈskɑlɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "學者",
+          "有學問的人"
+        ],
+        [
+          "獎學金得主"
+        ]
+      ],
+      "analysis": "源自中世紀拉丁語 scholaris（意為學校的、學者，源自拉丁語 schola「學校」），經由古法語進入英語。指專門從事學術研究、學識淵博的人，或指獲得獎學金資助的學生。",
+      "definition": "1. a specialist in a particular branch of study, especially the humanities; 2. a person who has been awarded a scholarship.",
+      "example": [
+        {
+          "eng": "He is a renowned scholar of classical literature and history.",
+          "ch": "他是著名的古典文學與歷史學者。"
+        },
+        {
+          "eng": "The university welcomed several new undergraduate scholars this fall.",
+          "ch": "這所大學今年秋季迎來了幾位獲得獎學金的新生。"
+        }
+      ]
+    },
+    {
+      "eng": "scholarship",
+      "kk": "ˈskɑlɚˌʃɪp",
+      "tense": "n.",
+      "ch": [
+        [
+          "獎學金"
+        ],
+        [
+          "學術成就",
+          "學識"
+        ]
+      ],
+      "analysis": "由 scholar（學者、學生）加上名詞字尾 -ship（表示狀態、職位或資助）構成的複合名詞。最初指學者的學術造詣或學養，後演變出指學校或機構發給優秀學生的「獎學金」之意。",
+      "definition": "1. a grant or payment made to support a student's education, awarded on the basis of academic or other achievement; 2. academic study or achievement.",
+      "example": [
+        {
+          "eng": "She was awarded a full scholarship to study at Oxford University.",
+          "ch": "她獲得了一筆全額獎學金前往牛津大學深造。"
+        },
+        {
+          "eng": "His latest book displays impressive scholarship and meticulous research.",
+          "ch": "他的最新著作展現了令人印象深刻的學術造詣與嚴謹的研究。"
+        }
+      ]
+    },
+    {
+      "eng": "scientific",
+      "kk": "ˌsaɪənˈtɪfɪk",
+      "tense": "adj.",
+      "ch": [
+        [
+          "科學的",
+          "符合科學方法的"
+        ]
+      ],
+      "analysis": "源自名詞 science（源自拉丁語 scientia「知識」，scire「知道」），加上形容詞字尾 -ific（源自 facere「製造、產生」）。指基於科學原理、採用嚴謹實驗與觀察方法的。",
+      "definition": "1. based on or characterized by the methods and principles of science.",
+      "example": [
+        {
+          "eng": "The researchers conducted a scientific experiment to test the new hypothesis.",
+          "ch": "研究人員進行了一項科學實驗來檢驗這項新假設。"
+        }
+      ]
+    },
+    {
+      "eng": "scientist",
+      "kk": "ˈsaɪəntɪst",
+      "tense": "n.",
+      "ch": [
+        [
+          "科學家"
+        ]
+      ],
+      "analysis": "由 science（科學）加上表示從事某種職業或研究的人員字尾 -ist 構成的現代複合名詞（此詞在19世紀由學者威廉·惠威爾 William Whewell 創造並推廣）。指從事科學研究的專家。",
+      "definition": "1. a person who is studying or has expert knowledge of one or more of the natural or physical sciences.",
+      "example": [
+        {
+          "eng": "Scientists around the world are working together to develop a cure.",
+          "ch": "世界各地的科學家正在合作開發治療方法。"
+        }
+      ]
+    },
+    {
+      "eng": "scissors",
+      "kk": "ˈsɪzɚz",
+      "tense": "n.",
+      "ch": [
+        [
+          "剪刀"
+        ]
+      ],
+      "analysis": "源自拉丁語 *cisoria（意為切斷工具，源自 caedere「切割」），經由古法語 cisoires 進入英語。因其結構由兩個相交的刀刃組成，在文法上長期以複數形式呈現。",
+      "definition": "1. an instrument used for cutting paper, cloth, etc., consisting of two crossed pivoting blades.",
+      "example": [
+        {
+          "eng": "She used a pair of sharp scissors to cut out the paper shapes.",
+          "ch": "她用一把鋒利的剪刀剪出紙張形狀。"
+        }
+      ]
+    },
+    {
+      "eng": "scout",
+      "kk": "skaʊt",
+      "tense": "n.",
+      "ch": [
+        [
+          "偵察員",
+          "童軍"
+        ],
+        [
+          "星探",
+          "人才發掘者"
+        ]
+      ],
+      "analysis": "源自古法語 escoutier（意為傾聽、偵察，源自拉丁語 auscultare「聆聽」）。最初指軍事上的偵察兵，後引申出體育、娛樂界的「星探」，以及青少年社團中的「童軍（Boy Scout）」。",
+      "definition": "1. a soldier or other person sent out ahead of a main body to gather information; 2. a talent scout in sports or entertainment; 3. a member of the Scout movement.",
+      "example": [
+        {
+          "eng": "The military scouts reported enemy troop movements ahead.",
+          "ch": "偵察兵回報了前方敵軍部隊的動向。"
+        },
+        {
+          "eng": "A baseball scout spotted the talented young pitcher during the high school game.",
+          "ch": "一名棒球星探在那場高中比賽中發現了這位天賦異稟的年輕投手。"
+        }
+      ]
+    },
+    {
+      "eng": "scout",
+      "kk": "skaʊt",
+      "tense": "vi.",
+      "ch": [
+        [
+          "偵察",
+          "四處尋找"
+        ]
+      ],
+      "analysis": "由名詞轉化而來的不及物動詞，指進行偵察活動，或四處尋找、物色合適的人才或地點。",
+      "definition": "1. to make a search for someone or something; to act as a scout.",
+      "example": [
+        {
+          "eng": "He went ahead to scout for a good camping spot near the lake.",
+          "ch": "他先行一步去湖附近物色一個好的露營地點。"
+        }
+      ]
+    },
+    {
+      "eng": "scream",
+      "kk": "skrim",
+      "tense": "n.",
+      "ch": [
+        [
+          "尖叫聲",
+          "呼喊聲"
+        ],
+        [
+          "滑稽好笑的人或事"
+        ]
+      ],
+      "analysis": "由動詞轉化而來的名詞，除指高亢的尖叫聲外，在非正式口語中也常形容某人或某事「好笑得不得了（a scream）」。",
+      "definition": "1. a long, loud, piercing cry; 2. a very funny person or thing (informal).",
+      "example": [
+        {
+          "eng": "Her sudden scream startled everyone in the quiet library.",
+          "ch": "她突然的一聲尖叫嚇壞了安靜圖書館裡的每個人。"
+        },
+        {
+          "eng": "His impersonation of the teacher was an absolute scream.",
+          "ch": "他對老師的模仿簡直滑稽極了。"
+        }
+      ]
+    },
+    {
+      "eng": "scream",
+      "kk": "skrim",
+      "tense": "vt.",
+      "ch": [
+        [
+          "尖聲喊出",
+          "大聲叫喊著表達"
+        ]
+      ],
+      "analysis": "作為及物動詞，指以尖銳高亢的聲音喊出某個詞語或訊息。",
+      "definition": "1. to utter something in a loud, piercing voice.",
+      "example": [
+        {
+          "eng": "She screamed a warning as the heavy branch began to fall.",
+          "ch": "當那根粗樹枝開始落下時，她尖叫著發出警告。"
+        }
+      ]
+    },
+    {
+      "eng": "scream",
+      "kk": "skrim",
+      "tense": "vi.",
+      "ch": [
+        [
+          "尖叫",
+          "高聲喊叫"
+        ]
+      ],
+      "analysis": "源自斯堪地那維亞語支（與古諾斯語 skræma「嚇唬、驚叫」相關）。作為不及物動詞，指因恐懼、疼痛、憤怒或興奮而發出高亢而尖銳的叫聲。",
+      "definition": "1. to give a long, loud, piercing cry or cries expressing extreme emotion.",
+      "example": [
+        {
+          "eng": "The children screamed with delight as they rode the roller coaster.",
+          "ch": "孩子們坐雲霄飛車時高興得尖叫起來。"
+        }
+      ]
+    },
+    {
+      "eng": "screw",
+      "kk": "skru",
+      "tense": "n.",
+      "ch": [
+        [
+          "螺絲",
+          "螺旋狀物"
+        ]
+      ],
+      "analysis": "源自古法語 escroue（意為螺母），其源頭可追溯至拉丁語 scrofa（母豬，因雌豬挖土的形狀或螺絲紋路的聯想而得名）。指帶有螺旋紋路的金屬緊固件。",
+      "definition": "1. a short, slender, sharp-pointed metal pin with a raised helical thread running round it, used for joining things together.",
+      "example": [
+        {
+          "eng": "He used a screwdriver to tighten the loose screw on the door hinge.",
+          "ch": "他用螺絲起子轉緊了門合頁上鬆動的螺絲。"
+        }
+      ]
+    },
+    {
+      "eng": "screw",
+      "kk": "skru",
+      "tense": "vt.",
+      "ch": [
+        [
+          "用螺絲固定",
+          "旋緊"
+        ],
+        [
+          "搞砸",
+          "欺騙"
+        ]
+      ],
+      "analysis": "由名詞轉化而來的及物動詞，指用螺絲旋轉固定物件，或在口語中表達「搞砸（screw up）」或「欺騙、坑害某人」。",
+      "definition": "1. to fasten or tighten something with a screw; 2. to ruin or bungle something (informal).",
+      "example": [
+        {
+          "eng": "Screw the legs firmly onto the bottom of the wooden table.",
+          "ch": "把桌腳牢牢用螺絲鎖在木桌底部。"
+        },
+        {
+          "eng": "I really screwed up my math exam by misreading the final question.",
+          "ch": "我因為看錯最後一題，把數學考試徹底搞砸了。"
+        }
+      ]
+    },
+    {
+      "eng": "scrub",
+      "kk": "skrʌb",
+      "tense": "n.",
+      "ch": [
+        [
+          "擦洗",
+          "刷洗"
+        ],
+        [
+          "灌木叢",
+          "矮林"
+        ],
+        [
+          "醫護人員手術服"
+        ]
+      ],
+      "analysis": "由動詞衍生或源自不同日耳曼語根的名詞，可指擦洗動作、由矮小灌木組成的荒野（scrubland），或醫護人員在手術室穿著的無菌手術服（scrubs）。",
+      "definition": "1. an act of scrubbing; 2. vegetation consisting of stunted trees or shrubs; 3. medical tunic and trousers worn by surgeons (usually scrubs).",
+      "example": [
+        {
+          "eng": "The desert landscape was filled with dry sand and low scrub.",
+          "ch": "沙漠景觀中充滿了乾涸的沙子與矮小的灌木叢。"
+        },
+        {
+          "eng": "The surgeons changed into sterile scrubs before entering the operating room.",
+          "ch": "外科醫師在進入手術室前換上了無菌手術服。"
+        }
+      ]
+    },
+    {
+      "eng": "scrub",
+      "kk": "skrʌb",
+      "tense": "vt.",
+      "ch": [
+        [
+          "擦洗",
+          "刷洗"
+        ],
+        [
+          "取消",
+          "放棄（計劃）"
+        ]
+      ],
+      "analysis": "源自低地日耳曼語族（與荷蘭語 schrobben、丹麥語 skrubbe 同源）。作為及物動詞，原意是用力擦洗清潔表面；在航海與太空計畫口語中，引申出「取消或放棄某項任務（scrub a launch）」之意。",
+      "definition": "1. to rub hard in order to clean something, typically with a brush and water; 2. to cancel or call off an event or plan (informal).",
+      "example": [
+        {
+          "eng": "She scrubbed the kitchen floor until it was spotless.",
+          "ch": "她用力刷洗廚房地板，直到一塵不染。"
+        },
+        {
+          "eng": "NASA had to scrub the rocket launch due to unfavorable weather conditions.",
+          "ch": "由於天候不佳，美國太空總署不得不取消火箭發射。"
+        }
+      ]
+    },
+    {
+      "eng": "scrub",
+      "kk": "skrʌb",
+      "tense": "vi.",
+      "ch": [
+        [
+          "用力擦洗"
+        ]
+      ],
+      "analysis": "作為不及物動詞，指持續進行用力擦洗的動作。",
+      "definition": "1. to engage in scrubbing something.",
+      "example": [
+        {
+          "eng": "He spent an hour kneeling and scrubbing at the stubborn stain.",
+          "ch": "他跪在地上花了一個小時用力刷洗那處頑固的污漬。"
+        }
+      ]
+    },
+    {
+      "eng": "seal",
+      "kk": "sil",
+      "tense": "n.",
+      "ch": [
+        [
+          "印章",
+          "印信"
+        ],
+        [
+          "封條",
+          "密封膠"
+        ],
+        [
+          "海豹"
+        ]
+      ],
+      "analysis": "此字為同形異源詞：1. 印章與封條源自拉丁語 sigillum（意為小標記、印記），經由古法語 seel 進入英語；2. 海豹源自古英語 seolh，屬於日耳曼語族繼承詞。在現代中文中分屬不同概念。",
+      "definition": "1. a piece of wax, lead, or other material with an impression set on a document as a guarantee of authenticity; 2. a device for making such an impression; 3. a marine mammal that eats fish and lives partly on land.",
+      "example": [
+        {
+          "eng": "The royal document bore the king's official wax seal.",
+          "ch": "這份皇家文件蓋有國王的官方蠟印。"
+        },
+        {
+          "eng": "We watched a group of seals resting on the rocky shore.",
+          "ch": "我們觀看了一群海豹在岩石海岸上休息。"
+        }
+      ]
+    },
+    {
+      "eng": "seal",
+      "kk": "sil",
+      "tense": "vt.",
+      "ch": [
+        [
+          "封閉",
+          "密封"
+        ],
+        [
+          "蓋章認可"
+        ]
+      ],
+      "analysis": "由名詞 seal（印章／封條）轉化而來的及物動詞，指用蠟封、膠帶或容器蓋緊以達到氣密、液密或保密的效果，亦可指蓋上印章確認文件生效。",
+      "definition": "1. to fasten or close something securely so that air, liquid, etc., cannot enter or escape; 2. to stamp a document to make it official.",
+      "example": [
+        {
+          "eng": "Make sure to seal the plastic bag tightly to keep the food fresh.",
+          "ch": "務必把塑膠袋密封好以保持食物新鮮。"
+        },
+        {
+          "eng": "The two leaders sealed the historic peace agreement with a handshake.",
+          "ch": "兩位領導人以握手確立了這份歷史性的和平協議。"
+        }
+      ]
+    },
+    {
+      "eng": "security",
+      "kk": "sɪˈkjʊrəti",
+      "tense": "n.",
+      "ch": [
+        [
+          "安全",
+          "安全性"
+        ],
+        [
+          "保全人員",
+          "防衛措施"
+        ],
+        [
+          "擔保品",
+          "證券"
+        ]
+      ],
+      "analysis": "源自拉丁語 securitas（意為免於憂慮、安全，源自 se-「無」+ cura「憂慮、照顧」），經由古法語或直接進入英語。指免受威脅、危險或損失的狀態，亦可延伸指金融市場上的有價證券（securities）。",
+      "definition": "1. the state of being free from danger or threat; 2. measures taken to guard against espionage, theft, or damage; 3. financial instruments such as stocks and bonds.",
+      "example": [
+        {
+          "eng": "Airport security checks have become much stricter in recent years.",
+          "ch": "近年來機場的安全檢查變得嚴格許多。"
+        },
+        {
+          "eng": "The company issued new government-backed securities to raise capital.",
+          "ch": "該公司發行了新的政府擔保證券以籌集資金。"
+        }
+      ]
+    },
+    {
+      "eng": "semester",
+      "kk": "səˈmɛstɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "學期"
+        ]
+      ],
+      "analysis": "源自德語 Semester（其更遠源為拉丁語 mensis「月份」，semester 意為「六個月的期限」，sex「六」+ mensis「月」）。在教育體系中通常指將學年劃分為兩個主要學期的其中一個。",
+      "definition": "1. a half-year term in a school or university, typically lasting fifteen to eighteen weeks.",
+      "example": [
+        {
+          "eng": "Final exams will take place during the last week of the semester.",
+          "ch": "期末考將在本學期的最後一周舉行。"
+        }
+      ]
+    },
+    {
+      "eng": "senior",
+      "kk": "ˈsinjɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "長輩",
+          "資深者"
+        ],
+        [
+          "（大學或高中）最高年級學生"
+        ]
+      ],
+      "analysis": "由形容詞轉化而來的名詞，指年長者、職場或社會上的資深人員，或指學校中即將畢業的高年級生。",
+      "definition": "1. a person who is older or of higher standing than someone else; 2. a student in their final year of high school or college.",
+      "example": [
+        {
+          "eng": "You should always show respect to your elders and seniors.",
+          "ch": "你應該隨時對長輩與資深者表現出尊重。"
+        },
+        {
+          "eng": "As college seniors, they are planning their careers after graduation.",
+          "ch": "作為大學應屆最高年級生，他們正在規劃畢業後的職涯。"
+        }
+      ]
+    },
+    {
+      "eng": "senior",
+      "kk": "ˈsinjɚ",
+      "tense": "adj.",
+      "ch": [
+        [
+          "資深的",
+          "年長的"
+        ],
+        [
+          "（大學或高中）最高年級的"
+        ]
+      ],
+      "analysis": "源自拉丁語 senior（comparative of senex「老年的」）。在現代英語中用作形容詞，指在年資、職位上較高、較資深，或指高等教育或中學的最高年級（即四年級）。",
+      "definition": "1. higher in rank or status; older in age; 2. belonging to or denoting the final year of high school or college.",
+      "example": [
+        {
+          "eng": "She was promoted to a senior manager position after five years.",
+          "ch": "她在五年後被晉升為資深經理職位。"
+        },
+        {
+          "eng": "The senior students are busy preparing their graduation thesis.",
+          "ch": "最高年級的學生正忙著準備他們的畢業論文。"
+        }
+      ]
+    },
+    {
+      "eng": "sensible",
+      "kk": "ˈsɛnsəbəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "明智的",
+          "合情合理的"
+        ],
+        [
+          "可感知的",
+          "顯著的"
+        ]
+      ],
+      "analysis": "源自中世紀拉丁語 sensibilis（意能被感官察覺的，源自 sentire「感覺、感知」），經由古法語進入英語。語意從「能感受的」逐漸演變出「具有良好判斷力、明智的」現代核心義。",
+      "definition": "1. having or showing good sense or judgment; reasonable; 2. perceptible by the senses (formal or archaic).",
+      "example": [
+        {
+          "eng": "Wearing a heavy coat in winter is a sensible precaution.",
+          "ch": "冬天穿厚大衣是個明智的預防措施。"
+        },
+        {
+          "eng": "There was a sensible drop in temperature after the rain.",
+          "ch": "雨後氣溫有了明顯的下降。"
+        }
+      ]
+    },
+    {
+      "eng": "separation",
+      "kk": "ˌsɛpəˈreʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "分離",
+          "分開"
+        ],
+        [
+          "分居"
+        ]
+      ],
+      "analysis": "由動詞 separate（源自拉丁語 separare，se-「分開」+ parare「準備、放置」）加上名詞字尾 -tion 構成的衍生名詞。指人或物體分開的狀態，亦常用於法律語境指夫妻分居。",
+      "definition": "1. the action or state of moving or being moved apart; 2. an arrangement whereby a married couple lives apart in separate homes.",
+      "example": [
+        {
+          "eng": "The long separation during the war made families suffer greatly.",
+          "ch": "戰爭期間的長期分離讓許多家庭痛苦不堪。"
+        },
+        {
+          "eng": "They decided on a legal separation after months of marital disputes.",
+          "ch": "在經歷數月的婚姻爭執後，他們決定合法分居。"
+        }
+      ]
+    },
+    {
+      "eng": "sexual",
+      "kk": "ˈsɛkʃuəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "性別的",
+          "性方面的"
+        ]
+      ],
+      "analysis": "源自拉丁語 sexualis（源自 sexus「性別、性」，其源頭可能與 secare「切割」有關，表示區分男女），加上形容詞字尾 -ual。指與生物學上的性別、生殖或性行為相關的事物。",
+      "definition": "1. relating to the instincts, practices, and acts of sex; connected with physical gender.",
+      "example": [
+        {
+          "eng": "Comprehensive sex education should cover both biological and emotional aspects.",
+          "ch": "全面的性教育應涵蓋生理與情感兩個層面。"
+        }
+      ]
+    },
+    {
+      "eng": "sexy",
+      "kk": "ˈsɛksi",
+      "tense": "adj.",
+      "ch": [
+        [
+          "性感的",
+          "具吸引力的"
+        ]
+      ],
+      "analysis": "由名詞 sex 加上形容詞字尾 -y 構成的現代通俗形容詞（20世紀初期開始流行）。指具有強烈吸引力、性感或讓人產生羅曼蒂克及性幻想吸引力的特質。",
+      "definition": "1. sexually attractive or exciting; very appealing or interesting in an informal sense.",
+      "example": [
+        {
+          "eng": "The sports car featured a sleek design and a sexy red finish.",
+          "ch": "這輛跑車擁有流線型的設計與性感的紅色烤漆。"
+        }
+      ]
+    },
+    {
+      "eng": "shadow",
+      "kk": "ˈʃædoʊ",
+      "tense": "n.",
+      "ch": [
+        [
+          "陰影",
+          "影子"
+        ],
+        [
+          "陰暗處",
+          "隱蔽處"
+        ]
+      ],
+      "analysis": "源自古英語 sceadu（意為陰影、黑暗），屬於日耳曼語族繼承詞（與德語 Schatten 同源）。指光線被物體遮擋後在地面或表面形成的黑暗影像，或泛指光線不足的隱蔽角落。",
+      "definition": "1. a dark area or shape produced by a body coming between rays of light and a surface; 2. a sheltered or dark place out of direct sunlight.",
+      "example": [
+        {
+          "eng": "The dog barked playfully at its own shadow on the wall.",
+          "ch": "這隻狗對著牆上它自己的影子俏皮地吠叫。"
+        },
+        {
+          "eng": "We sat down to rest in the shadow of the large oak tree.",
+          "ch": "我們在大橡樹的陰涼處坐下來休息。"
+        }
+      ]
+    },
+    {
+      "eng": "shadow",
+      "kk": "ˈʃædoʊ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "尾隨",
+          "暗中跟蹤"
+        ],
+        [
+          "使投陰影",
+          "使黯然失色"
+        ]
+      ],
+      "analysis": "由名詞轉化而來的及物動詞。一方面指如影隨形般地暗中跟蹤某人（如偵探尾隨嫌疑犯），另一方面指投射陰影或使某事物顯得黯然失色。",
+      "definition": "1. to follow someone closely and secretly; to tail; 2. to cast a shadow over something.",
+      "example": [
+        {
+          "eng": "Private investigators shadowed the suspect for three consecutive days.",
+          "ch": "私家偵探連續三天暗中跟蹤該名嫌疑人。"
+        },
+        {
+          "eng": "Tall skyscrapers shadowed the narrow streets below.",
+          "ch": "高聳的摩天大樓在下方狹窄的街道上投下了陰影。"
+        }
+      ]
+    }
+  ]
+}

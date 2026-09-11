@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="zh-Hant">
   <head>
     <meta charset="UTF-8" />
@@ -6,7 +6,7 @@
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon.png?v=20260722a" />
     <link rel="apple-touch-icon" sizes="192x192" href="/wordking-icon-192.png?v=20260722a" />
     <title>Words King | 趨勢</title>
-    <link rel="stylesheet" href="/styles.css?v=20260722b" />
+    <link rel="stylesheet" href="/styles.css?v=20260905a" />
   </head>
   <body data-page="analytics">
     <div id="siteHeader"></div>
@@ -18,15 +18,26 @@
         </div>
       </section>
 
+      <section class="card growth-card" aria-labelledby="growthTitle">
+        <div class="growth-toolbar">
+          <h2 id="growthTitle">你的學習成長</h2>
+          <div id="growthRanges" class="growth-ranges" role="group" aria-label="成長圖時間範圍">
+            <button type="button" data-range="7" aria-pressed="false">7 天</button>
+            <button type="button" data-range="30" aria-pressed="true">30 天</button>
+            <button type="button" data-range="all" aria-pressed="false">全部</button>
+          </div>
+        </div>
+        <div class="growth-request-status">
+          <span id="growthStatus" role="status"></span>
+          <button id="growthRetry" type="button" hidden>重試</button>
+        </div>
+        <div id="trendList" aria-busy="true"><p class="muted">正在載入學習成長…</p></div>
+      </section>
+
       <section id="analyticsOverview" class="metrics-grid"></section>
       <section id="streakCards" class="metrics-grid metrics-grid-compact"></section>
 
       <section class="analytics-layout">
-        <div class="card analytics-chart-card">
-          <h2>近 14 天作答</h2>
-          <div id="trendList" class="trend-list"></div>
-        </div>
-
         <div class="card analytics-side-card">
           <h2>題型表現</h2>
           <div id="modeBreakdown" class="list"></div>
@@ -44,7 +55,8 @@
       </section>
     </main>
     <div id="messageBar" class="message-bar"></div>
-    <script src="/shared.js?v=20260722e"></script>
-    <script src="/analytics-page.js?v=20260520g"></script>
+    <script src="/shared.js?v=20260909a"></script>
+    <script src="/growth-charts.js?v=20260905a"></script>
+    <script src="/analytics-page.js?v=20260905a"></script>
   </body>
 </html>

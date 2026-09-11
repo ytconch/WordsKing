@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="zh-Hant">
   <head>
     <meta charset="UTF-8" />
@@ -114,25 +114,24 @@
         <div class="section-title-row">
           <div>
             <h2>頁面造訪分析</h2>
-            <p class="muted small-text">檢查近 14 天各頁面的造訪次數、停留時間與近期造訪紀錄。</p>
+            <p class="muted small-text">近 14 個台灣日曆日（含今日），依可見時段開始時間統計。</p>
           </div>
           <button id="reloadVisitActivityBtn" type="button" class="ghost-btn">重新載入</button>
         </div>
         <div id="visitActivitySummary" class="leaderboard-metrics"></div>
+        <p id="visitActivityPeriod" class="muted small-text" aria-live="polite"></p>
+        <p class="muted small-text">僅含已登入帳號（含管理員），不含訪客模式與未登入流量。每次頁面顯示或切回分頁會開始一個可見時段，並非網站工作階段或頁面載入次數。帳號數依各列去重，不可跨列相加。</p>
+        <h3>每日趨勢</h3>
         <div id="visitActivityChart" class="visit-activity-chart-wrap"></div>
+        <h3>頁面使用明細</h3>
+        <div id="visitBreakdownTable" class="activity-table-wrap visit-report-table"></div>
         <details class="visit-activity-details">
-          <summary>查看更多細節</summary>
-          <div class="grid two visit-activity-detail-grid">
-            <div>
-              <h3>頁面分佈</h3>
-              <div id="visitBreakdownTable" class="activity-table-wrap"></div>
-            </div>
-            <div>
-              <h3>近期造訪</h3>
-              <div id="visitRecentList" class="list"></div>
-            </div>
-          </div>
+          <summary>每日明細與最近 80 個可見時段</summary>
+          <div id="visitDailyTable" class="activity-table-wrap visit-report-table"></div>
+          <h3>近期時段（同一統計期間）</h3>
+          <div id="visitRecentList" class="list"></div>
         </details>
+        <p class="muted small-text">停留為開始至最後回報／結束的估計秒數，不代表實際操作時間；0 秒表示未記錄到正停留時間。跨日時段全數歸入開始日，多分頁時間可能重疊。</p>
       </section>
 
       <section class="card">
@@ -252,24 +251,6 @@
         <div id="serverLogTableWrap" class="activity-table-wrap"></div>
       </section>
 
-      <section id="examMeaningPanel" class="card hidden">
-        <div class="section-title-row">
-          <div>
-            <h2>考試字義設定</h2>
-            <p class="muted small-text">為單元中的各個單字勾選要納入考試的中文義項。</p>
-          </div>
-          <div class="practice-actions">
-            <button id="closeExamMeaningBtn" type="button" class="ghost-btn">關閉</button>
-            <button id="saveExamMeaningBtn" type="button">儲存設定</button>
-          </div>
-        </div>
-        <div class="list-item compact-item">
-          <strong id="examMeaningPanelTitle">尚未選擇單元</strong>
-          <div id="examMeaningPanelSummary" class="muted small-text">請先從上方單元管理選擇一個單元。</div>
-        </div>
-        <div id="examMeaningEditor" class="draft-word-editor"></div>
-      </section>
-
       <section class="card">
         <div class="section-title-row">
           <div>
@@ -298,7 +279,7 @@
     </main>
 
     <div id="messageBar" class="message-bar"></div>
-    <script src="/shared.js?v=20260722e"></script>
+    <script src="/shared.js?v=20260909a"></script>
     <script src="/admin.js?v=20260528a"></script>
   </body>
 </html>

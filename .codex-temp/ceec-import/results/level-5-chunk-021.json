@@ -1,0 +1,337 @@
+{
+  "level": 5,
+  "chunkIndex": 21,
+  "inputs": [
+    "windshield",
+    "wither",
+    "witty",
+    "workshop",
+    "worship",
+    "worthwhile",
+    "worthy",
+    "yacht",
+    "yield"
+  ],
+  "rows": [
+    {
+      "eng": "windshield",
+      "kk": "ˈwɪndˌʃild",
+      "tense": "n.",
+      "ch": [
+        [
+          "擋風玻璃",
+          "車前玻璃"
+        ]
+      ],
+      "analysis": "此字為現代透明複合詞，由名詞 wind（風）與名詞 shield（盾、防護物）結合而成，指汽車、飛機或其他載具前方用以阻擋風雨與異物的透明防護玻璃。語意演變由兩者字面組合直接指向其防風與保護駕駛的功能。",
+      "definition": "1. the glass window at the front of a motor vehicle or aircraft that protects the driver and passengers from the wind and weather.",
+      "example": [
+        {
+          "eng": "A small stone cracked the car's windshield while we were driving on the highway.",
+          "ch": "我們在高速公路上開車時，一顆小石頭砸裂了汽車的擋風玻璃。"
+        }
+      ]
+    },
+    {
+      "eng": "wither",
+      "kk": "ˈwɪðɚ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使乾枯",
+          "使枯萎"
+        ],
+        [
+          "使衰弱",
+          "使萎縮"
+        ]
+      ],
+      "analysis": "此字源自中古英語 widheren，可能與古諾斯語 víðr（樹木）或日耳曼語族源有關。及物用法指使植物失去水分而乾枯，或引申為使人、自信、力量等逐漸衰弱、萎縮。此處及物動詞須接直接受詞。",
+      "definition": "1. to make a plant dry, shrivel, and die; 2. to make someone or something lose vitality, force, or importance.",
+      "example": [
+        {
+          "eng": "The intense heat of the summer sun quickly withered the delicate flowers.",
+          "ch": "夏日烈陽迅速使嬌嫩的花朵乾枯。"
+        },
+        {
+          "eng": "The scandal completely withered his political career and public support.",
+          "ch": "這場醜聞徹底使他的政治生涯與大眾支持衰弱萎縮。"
+        }
+      ]
+    },
+    {
+      "eng": "wither",
+      "kk": "ˈwɪðɚ",
+      "tense": "vi.",
+      "ch": [
+        [
+          "乾枯",
+          "枯萎"
+        ],
+        [
+          "衰弱",
+          "萎縮",
+          "逐漸消失"
+        ]
+      ],
+      "analysis": "此字源自中古英語 widheren，為不及物動詞用法。指植物因缺水或季節轉變而自然乾枯，或指希望、熱情、影響力等抽象事物逐漸消逝、衰退。vi. 例句不得含有直接受詞。",
+      "definition": "1. to become dry and shrivel; 2. to gradually decline, lose strength, or disappear.",
+      "example": [
+        {
+          "eng": "Without regular watering, the indoor plants began to wither within a week.",
+          "ch": "沒有定期澆水，室內植物在一週內就開始枯萎。"
+        },
+        {
+          "eng": "Her hopes for a peaceful resolution slowly withered as the conflict escalated.",
+          "ch": "隨著衝突升級，她對和平解決的希望逐漸消逝。"
+        }
+      ]
+    },
+    {
+      "eng": "witty",
+      "kk": "ˈwɪti",
+      "tense": "adj.",
+      "ch": [
+        [
+          "機智的",
+          "風趣的",
+          "諧趣的"
+        ]
+      ],
+      "analysis": "此字由名詞 wit（智力、機智）加上形容詞字尾 -y 構成。字面意指充滿 wit 的，現代標準英語中專門用來形容言談或文章聰明、機智且富有幽默感。",
+      "definition": "1. showing or characterized by quick and inventive verbal humor.",
+      "example": [
+        {
+          "eng": "The comedian kept the audience laughing with his witty remarks throughout the show.",
+          "ch": "那位喜劇演員在整場演出中用他機智的言論逗得觀眾哈哈大笑。"
+        }
+      ]
+    },
+    {
+      "eng": "workshop",
+      "kk": "ˈwɝkˌʃɑp",
+      "tense": "n.",
+      "ch": [
+        [
+          "工作坊",
+          "研討會"
+        ],
+        [
+          "工作間",
+          "廠房",
+          "作坊"
+        ]
+      ],
+      "analysis": "此字為現代透明複合詞，由名詞 work（工作）與 shop（商店、工場）結合而成。原意指從事手工業或修理工作的小型工廠或房間（工作間），現代亦廣泛引申為集體學習、討論特定主題的互動式研討會（工作坊）。",
+      "definition": "1. a meeting at which a group of people engage in intensive discussion and activity on a particular subject or project; 2. a room or building in which goods are manufactured or repaired.",
+      "example": [
+        {
+          "eng": "She signed up for a creative writing workshop to improve her storytelling skills.",
+          "ch": "她報名參加了一個創意寫作工作坊，以增進她的小說敘事技巧。"
+        },
+        {
+          "eng": "He spends his weekends repairing antique furniture in his backyard workshop.",
+          "ch": "他週末都在後院的工作間裡修復古董家具。"
+        }
+      ]
+    },
+    {
+      "eng": "worship",
+      "kk": "ˈwɝʃɪp",
+      "tense": "n.",
+      "ch": [
+        [
+          "崇拜",
+          "敬神",
+          "禮拜"
+        ],
+        [
+          "愛慕",
+          "崇敬"
+        ]
+      ],
+      "analysis": "此字源自古英語 wīorscipe（worth 價值 + -scipe 身份或狀態），原意為「具有價值或尊貴的狀態」，後來語意轉向對神明的尊崇、禮拜，以及對偶像或人的極度愛慕與崇敬。",
+      "definition": "1. the feeling or expression of reverence and adoration for a deity; 2. extreme admiration or devotion to a person or thing.",
+      "example": [
+        {
+          "eng": "Many ancient cultures gathered in temples for communal worship and prayer.",
+          "ch": "許多古代文化會聚集在神殿中進行集體禮拜與祈禱。"
+        },
+        {
+          "eng": "His blind worship of celebrity culture often clouded his personal judgment.",
+          "ch": "他對名人文化的盲目崇拜經常模糊了他個人的判斷力。"
+        }
+      ]
+    },
+    {
+      "eng": "worship",
+      "kk": "ˈwɝʃɪp",
+      "tense": "vt.",
+      "ch": [
+        [
+          "崇拜",
+          "敬奉",
+          "禮拜"
+        ],
+        [
+          "愛慕",
+          "崇敬"
+        ]
+      ],
+      "analysis": "此字源自古英語 wīorscipe 的動詞化用法。及物動詞指對神明進行宗教儀式的崇拜，或引申為對某人或事物的深切愛慕與盲目崇拜，句型上須接直接受詞。",
+      "definition": "1. to show reverence and adoration for a deity, often through religious ceremonies; 2. to treat someone or something with adoration and great love.",
+      "example": [
+        {
+          "eng": "Believers gather every Sunday to worship God and listen to the sermon.",
+          "ch": "信徒們每週日聚集在一起敬拜上帝並聆聽佈道。"
+        },
+        {
+          "eng": "The young musician was talented, and many fans worshiped her like an icon.",
+          "ch": "這位年輕音樂家很有才華，許多粉絲像偶像般崇拜她。"
+        }
+      ]
+    },
+    {
+      "eng": "worthwhile",
+      "kk": "ˈwɝθˌwaɪl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "值得的",
+          "有價值的",
+          "有意義的"
+        ]
+      ],
+      "analysis": "此字為現代透明複合詞，由形容詞 worth（值得的）與名詞 while（時間、工夫）結合而成，字面意指「花費時間與精力是值得的」，在現代英語中常用作形容詞，表示某事值得去做或具有實質意義。",
+      "definition": "1. worth the time, money, or effort spent; of value or importance.",
+      "example": [
+        {
+          "eng": "Volunteering at the local animal shelter is a truly worthwhile experience.",
+          "ch": "在當地動物收容所當志工是一段非常值得且有意義的經驗。"
+        }
+      ]
+    },
+    {
+      "eng": "worthy",
+      "kk": "ˈwɝði",
+      "tense": "adj.",
+      "ch": [
+        [
+          "值得的",
+          "相稱的"
+        ],
+        [
+          "有價值的",
+          "品格高尚的"
+        ]
+      ],
+      "analysis": "此字源自古英語 wyrþe（有價值的），加上形容詞字尾 -y 演變而來。本義指具有相應價值或配得上某種稱譽，現代可用於表示值得尊敬、重視，或在特定條件下配得上某事（常與 of 連用）。",
+      "definition": "1. having worth or merit; deserving of respect, attention, or support; 2. good enough for something; showing qualities that deserve recognition.",
+      "example": [
+        {
+          "eng": "The charity organization supports several worthy causes in developing countries.",
+          "ch": "該慈善機構支持開發中國家多個值得關注與援助的公益事業。"
+        },
+        {
+          "eng": "She proved herself worthy of the promotion through years of dedicated service.",
+          "ch": "她透過多年的奉獻服務，證明自己當之無愧地配得上這次升遷。"
+        }
+      ]
+    },
+    {
+      "eng": "yacht",
+      "kk": "jɑt",
+      "tense": "n.",
+      "ch": [
+        [
+          "遊艇",
+          "快艇"
+        ]
+      ],
+      "analysis": "此字經由荷蘭語 jaghtschip（字面為獵船 jaght 追逐 + schip 船）借入英語。原指荷蘭海軍用以追逐海盜的輕快船隻，後來演變為指私人或俱樂部擁有的豪華遊艇或競賽用帆船。",
+      "definition": "1. a medium-sized sailing boat equipped for cruising or racing, or a large luxurious motorboat used for pleasure trips.",
+      "example": [
+        {
+          "eng": "The billionaire anchored his luxury yacht off the coast of the Mediterranean island.",
+          "ch": "那名億萬富翁將他的豪華遊艇停泊在地中海島嶼的海面上。"
+        }
+      ]
+    },
+    {
+      "eng": "yield",
+      "kk": "jild",
+      "tense": "n.",
+      "ch": [
+        [
+          "產量",
+          "收益",
+          "利潤"
+        ]
+      ],
+      "analysis": "此字源自古英語 gieldan（支付、償還），名詞用法由動詞演變而來。指土地、投資或生產過程中所產出的實際數量或財務收益，如農作物產量或股票殖利率。",
+      "definition": "1. the amount of something produced by a natural process, agricultural crop, or industrial or financial effort.",
+      "example": [
+        {
+          "eng": "Advanced farming techniques have significantly increased the crop yield this year.",
+          "ch": "先進的耕作技術大幅提升了今年的農作物產量。"
+        }
+      ]
+    },
+    {
+      "eng": "yield",
+      "kk": "jild",
+      "tense": "vt.",
+      "ch": [
+        [
+          "出產",
+          "產出",
+          "帶來"
+        ],
+        [
+          "放棄",
+          "讓出"
+        ]
+      ],
+      "analysis": "此字源自古英語 gieldan（支付、貢獻、生產）。及物動詞用法主要指土地、投資或勞動「產出」利潤或成果，亦可引申為在壓力下「放棄」權利或陣地，句型上須接直接受詞。",
+      "definition": "1. to produce or provide a natural product, amount, or financial return; 2. to surrender or give up control of something.",
+      "example": [
+        {
+          "eng": "The fertile soil in the valley yields abundant harvests of corn and wheat every autumn.",
+          "ch": "山谷中肥沃的土壤每年秋天都產出豐富的玉米和小麥收成。"
+        },
+        {
+          "eng": "The defending army refused to yield strategic territory despite heavy losses.",
+          "ch": "防守部隊儘管損失慘重，仍拒絕放棄戰略領土。"
+        }
+      ]
+    },
+    {
+      "eng": "yield",
+      "kk": "jild",
+      "tense": "vi.",
+      "ch": [
+        [
+          "屈服",
+          "投降",
+          "認輸"
+        ],
+        [
+          "讓路",
+          "禮讓"
+        ]
+      ],
+      "analysis": "此字源自古英語 gieldan，不及物動詞用法指在壓力、權威或誘惑前「屈服」或「放棄抵抗」，或在交通規則中指「讓路（給主幹道車輛）」。vi. 例句不得含有直接受詞。",
+      "definition": "1. to cease resisting; to surrender or submit; 2. to give way to another vehicle or person, especially in traffic.",
+      "example": [
+        {
+          "eng": "After hours of intense interrogation, the suspect finally began to yield.",
+          "ch": "經過數小時的強烈訊問，嫌疑人終於開始屈服。"
+        },
+        {
+          "eng": "Drivers must yield to pedestrians crossing at the designated crosswalk.",
+          "ch": "駕駛在指定斑馬線轉彎時必須禮讓行人。"
+        }
+      ]
+    }
+  ]
+}

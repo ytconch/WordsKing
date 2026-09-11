@@ -1,0 +1,1343 @@
+{
+  "level": 3,
+  "chunkIndex": 13,
+  "inputs": [
+    "opposite",
+    "optimistic",
+    "oral",
+    "organic",
+    "organize",
+    "original",
+    "outdoor",
+    "outdoors",
+    "outer",
+    "outline",
+    "oven",
+    "overseas",
+    "owe",
+    "owl",
+    "ownership",
+    "ox",
+    "pad",
+    "painter",
+    "pal",
+    "palace",
+    "palm",
+    "pancake",
+    "panic",
+    "parade",
+    "paradise",
+    "parcel",
+    "parrot",
+    "passage",
+    "passenger",
+    "passion",
+    "passport",
+    "pat",
+    "patience",
+    "pause",
+    "pave",
+    "pavement",
+    "pea",
+    "peanut",
+    "pearl",
+    "peel",
+    "penguin",
+    "penny",
+    "pepper",
+    "perform",
+    "performance",
+    "permission",
+    "permit",
+    "persuade",
+    "photographer",
+    "pigeon"
+  ],
+  "rows": [
+    {
+      "eng": "opposite",
+      "kk": "ˈɑpəzɪt",
+      "tense": "n.",
+      "ch": [
+        [
+          "對立面",
+          "相反的人或物"
+        ]
+      ],
+      "analysis": "此字由形容詞轉化而來的名詞，表面詞形與 lemma 均為 opposite。用以指在性質、方向或意義上完全相反的事物或對象。",
+      "definition": "1. a person or thing that is totally different from or the reverse of another.",
+      "example": [
+        {
+          "eng": "Hot is the opposite of cold.",
+          "ch": "熱是冷的相反。"
+        }
+      ]
+    },
+    {
+      "eng": "opposite",
+      "kk": "ˈɑpəzɪt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "相反的",
+          "對立的"
+        ],
+        [
+          "對面的",
+          "另一邊的"
+        ]
+      ],
+      "analysis": "此字為形容詞，表面詞形與 lemma 相同為 opposite。源自拉丁語 oppositus（意為 placed against，由 ob- 'against' + ponere 'to place' 的過去分詞組成），經由中古法語進入英語。語義由原始的「放置在對面的」引申為空間上的「對面的」與抽象概念上的「相反的」。",
+      "definition": "1. completely different or contrary in nature, direction, or meaning; 2. situated on the other or further side when compared to something else, or facing each other.",
+      "example": [
+        {
+          "eng": "We have completely opposite opinions on this matter.",
+          "ch": "我們在這件事情上有完全相反的意見。"
+        },
+        {
+          "eng": "The post office is on the opposite side of the street.",
+          "ch": "郵局在街道的對面。"
+        }
+      ]
+    },
+    {
+      "eng": "opposite",
+      "kk": "ˈɑpəzɪt",
+      "tense": "prep.",
+      "ch": [
+        [
+          "在...的對面"
+        ]
+      ],
+      "analysis": "此字由形容詞用法轉化而來的介系詞，表面詞形與 lemma 均為 opposite。表示位置關係，指在某人或某物的正前方或隔街、隔通道相對的位置。",
+      "definition": "1. in a position directly across from someone or something.",
+      "example": [
+        {
+          "eng": "She sat opposite me during the dinner.",
+          "ch": "晚餐時她坐在我的對面。"
+        }
+      ]
+    },
+    {
+      "eng": "optimistic",
+      "kk": "ˌɑptəˈmɪstɪk",
+      "tense": "adj.",
+      "ch": [
+        [
+          "樂觀的",
+          "抱持希望的"
+        ]
+      ],
+      "analysis": "此字為形容詞，表面詞形與 lemma 相同為 optimistic。由名詞 optimism 加上形容詞字尾 -ic 構成；optimism 源自拉丁語 optimum（意為 the best，由 bonus 'good' 的最高級衍生），經由法語進入英語。語義演變為「認為事情會往最好的方向發展的」。",
+      "definition": "1. hopeful and confident about the future or the success of something.",
+      "example": [
+        {
+          "eng": "She remains optimistic about her chances of winning the competition.",
+          "ch": "她對自己贏得比賽的機會保持樂觀。"
+        }
+      ]
+    },
+    {
+      "eng": "oral",
+      "kk": "ˈɔrəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "口頭的",
+          "口頭上的"
+        ],
+        [
+          "口腔的"
+        ]
+      ],
+      "analysis": "此字為形容詞，表面詞形與 lemma 相同為 oral。源自拉丁語 ōs（屬格 ōris，意為 mouth）加上形容詞字尾 -alis，經由中世紀拉丁語進入英語。語義從「嘴巴的」引申為醫學上的「口腔的」，以及溝通方式上的「口頭的」。",
+      "definition": "1. spoken rather than written; done or delivered by the mouth; 2. relating to the mouth.",
+      "example": [
+        {
+          "eng": "Students are required to pass an oral test before graduation.",
+          "ch": "學生畢業前必須通過口試。"
+        },
+        {
+          "eng": "Good oral hygiene helps prevent tooth decay.",
+          "ch": "良好的口腔衛生有助於預防蛀牙。"
+        }
+      ]
+    },
+    {
+      "eng": "organic",
+      "kk": "ɔrˈɡænɪk",
+      "tense": "adj.",
+      "ch": [
+        [
+          "有機的",
+          "不使用化學合成物質的"
+        ],
+        [
+          "器官的",
+          "生物體的"
+        ]
+      ],
+      "analysis": "此字為形容詞，表面詞形與 lemma 相同為 organic。源自希臘語 organon（意為 tool, instrument, bodily organ），經由拉丁語與法語進入英語，後綴為 -ic。語義從早期的「生物器官的」演變出現代農業與食品科學中指「不使用人工化學肥料或農藥的」之義。",
+      "definition": "1. produced without the use of artificial fertilizers, pesticides, or other synthetic chemicals; 2. relating to or derived from living organisms or bodily organs.",
+      "example": [
+        {
+          "eng": "They prefer to buy organic vegetables at the local market.",
+          "ch": "他們偏好在當地市場買有機蔬菜。"
+        },
+        {
+          "eng": "The heart and lungs are organic systems vital to human survival.",
+          "ch": "心臟和肺是人類生存不可或缺的器官系統。"
+        }
+      ]
+    },
+    {
+      "eng": "organize",
+      "kk": "ˈɔrɡəˌnaɪz",
+      "tense": "vt.",
+      "ch": [
+        [
+          "組織",
+          "籌辦"
+        ],
+        [
+          "整理",
+          "安排"
+        ]
+      ],
+      "analysis": "此字為及物動詞，表面詞形與 lemma 相同為 organize（也可拼作 organise）。源自希臘語 organon（器官、工具），經由拉丁語與中古法語演變出 organisen，再加上動詞字尾 -ize。語義從「使具有器官或結構」擴大為「安排活動、組織團隊」以及「整理歸納事物」。",
+      "definition": "1. to arrange or plan an event, activity, or group; 2. to arrange things in a structured, orderly, or efficient way.",
+      "example": [
+        {
+          "eng": "The student council will organize a charity concert next month.",
+          "ch": "學生會將在下個月籌辦一場慈善音樂會。"
+        },
+        {
+          "eng": "She spent the afternoon trying to organize her desk and files.",
+          "ch": "她花了一個下午試著整理她的書桌和檔案。"
+        }
+      ]
+    },
+    {
+      "eng": "original",
+      "kk": "əˈrɪdʒənəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "原件",
+          "正本",
+          "原作"
+        ]
+      ],
+      "analysis": "此字由形容詞轉化而來的名詞，表面詞形與 lemma 均為 original。用以指未經複製、翻印或翻譯的原始作品、文件或物件。",
+      "definition": "1. the earliest form of something, from which copies can be made; an authentic work of art or text.",
+      "example": [
+        {
+          "eng": "Please submit a photocopy, but keep the original safe.",
+          "ch": "請提交影本，但要把正本妥善保存。"
+        }
+      ]
+    },
+    {
+      "eng": "original",
+      "kk": "əˈrɪdʒənəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "起初的",
+          "最早的"
+        ],
+        [
+          "原創的",
+          "有創意的"
+        ]
+      ],
+      "analysis": "此字為形容詞，表面詞形與 lemma 相同為 original。源自拉丁語 orīgo（源頭、起源，源自 orīrī 'to rise'），加上形容詞字尾 -alis，經由中古法語進入英語。語義從「屬於起源的、最早的」延伸出「非複製的、具有獨創性的」之義。",
+      "definition": "1. existing from the beginning; first or earliest; 2. created firsthand; new, creative, and not copied from something else.",
+      "example": [
+        {
+          "eng": "The historic building still retains its original wooden floors.",
+          "ch": "這棟歷史建築仍保留著它最初的木質地板。"
+        },
+        {
+          "eng": "The artist is known for his highly original painting style.",
+          "ch": "這位藝術家以其極具原創性的繪畫風格而聞名。"
+        }
+      ]
+    },
+    {
+      "eng": "outdoor",
+      "kk": "ˈaʊtˌdɔr",
+      "tense": "adj.",
+      "ch": [
+        [
+          "戶外的",
+          "室外的"
+        ]
+      ],
+      "analysis": "此字為形容詞，表面詞形與 lemma 相同為 outdoor。由副詞性成分 out（向外、在外）與名詞 door（門）複合而成，作為定置形容詞置於名詞前，指在建築物或室內之外的環境中進行的。",
+      "definition": "1. located, existing, or performed outside a building rather than under a roof.",
+      "example": [
+        {
+          "eng": "We enjoyed an outdoor barbecue in the backyard on Sunday.",
+          "ch": "我們星期天在後院享受了一場戶外烤肉。"
+        }
+      ]
+    },
+    {
+      "eng": "outdoors",
+      "kk": "ˈaʊtˈdɔrz",
+      "tense": "adv.",
+      "ch": [
+        [
+          "在戶外",
+          "在室外"
+        ]
+      ],
+      "analysis": "此字為副詞，表面詞形與 lemma 相同為 outdoors。由 outdoor 加上副詞屬格字尾 -s 形成，用來修飾動詞，表示動作發生在室外或戶外開放空間。",
+      "definition": "1. in or into the open air; outside a building.",
+      "example": [
+        {
+          "eng": "The children love playing outdoors when the weather is nice.",
+          "ch": "天氣好的時候，孩子們喜歡在戶外玩耍。"
+        }
+      ]
+    },
+    {
+      "eng": "outer",
+      "kk": "ˈaʊtɚ",
+      "tense": "adj.",
+      "ch": [
+        [
+          "外面的",
+          "外圍的"
+        ]
+      ],
+      "analysis": "此字為形容詞，表面詞形與 lemma 相同為 outer。為古英語副詞/介系詞 ūt（out）的比較級形式（ūt(t)ra），現代英語中主要轉為限定形容詞，用以修飾距離中心最遠或最外側的部分。",
+      "definition": "1. situated on the outside or farther from the center or inside of something.",
+      "example": [
+        {
+          "eng": "A thick wall protects the outer edge of the ancient city.",
+          "ch": "一道厚牆保護著這座古城的外圍邊界。"
+        }
+      ]
+    },
+    {
+      "eng": "outline",
+      "kk": "ˈaʊtˌlaɪn",
+      "tense": "n.",
+      "ch": [
+        [
+          "輪廓",
+          "外形"
+        ],
+        [
+          "大綱",
+          "概要"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 outline。由副詞成分 out（在外、勾勒）與名詞 line（線）複合而成。語義從具體的「物體外緣的線條輪廓」引申為文章、計畫的「結構大綱或概要」。",
+      "definition": "1. a line or set of lines enclosing or indicating the shape of an object; 2. a general description or plan giving the essential features of something.",
+      "example": [
+        {
+          "eng": "I could only see the dark outline of the mountains against the evening sky.",
+          "ch": "在傍晚的天空中，我只能看到群山黑色的輪廓。"
+        },
+        {
+          "eng": "Please write an outline before you start drafting your essay.",
+          "ch": "在你開始起草論文之前，請先寫一份大綱。"
+        }
+      ]
+    },
+    {
+      "eng": "outline",
+      "kk": "ˈaʊtˌlaɪn",
+      "tense": "vt.",
+      "ch": [
+        [
+          "畫出...的輪廓",
+          "勾勒"
+        ],
+        [
+          "概述",
+          "略述"
+        ]
+      ],
+      "analysis": "此字為及物動詞，表面詞形與 lemma 相同為 outline，由同形名詞轉化而來。指畫出外形輪廓或在演說、寫作中扼要說明主要重點。",
+      "definition": "1. to draw or trace the outer shape of something; 2. to give a summary of the main points of an idea or plan.",
+      "example": [
+        {
+          "eng": "The architect outlined the building plans on the whiteboard.",
+          "ch": "建築師在白板上勾勒出建築計畫。"
+        },
+        {
+          "eng": "The manager outlined the new company policy during the meeting.",
+          "ch": "經理在會議中概述了公司的新政策。"
+        }
+      ]
+    },
+    {
+      "eng": "oven",
+      "kk": "ˈʌvən",
+      "tense": "n.",
+      "ch": [
+        [
+          "烤箱",
+          "爐具"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 oven。直接繼承自古英語 ofen，屬於日耳曼語族同源詞（與德語 Ofen 相關），原始日耳曼語意為爐灶或烘烤用的窯。",
+      "definition": "1. an enclosed compartment, heated by electricity, gas, or wood, used for cooking, baking, or drying food.",
+      "example": [
+        {
+          "eng": "She preheated the oven to 180 degrees before baking the cake.",
+          "ch": "她在烤蛋糕前先把烤箱預熱到180度。"
+        }
+      ]
+    },
+    {
+      "eng": "overseas",
+      "kk": "ˌoʊvɚˈsiz",
+      "tense": "adj.",
+      "ch": [
+        [
+          "海外的",
+          "國外的"
+        ]
+      ],
+      "analysis": "此字為形容詞，表面詞形與 lemma 均為 overseas，由副詞轉化而來，用於修飾名詞，指涉及國外或海外市場、貿易、差旅等事務。",
+      "definition": "1. relating to or characteristic of foreign countries situated across the sea.",
+      "example": [
+        {
+          "eng": "The company is expanding its business into overseas markets.",
+          "ch": "這家公司正在將業務拓展至海外市場。"
+        }
+      ]
+    },
+    {
+      "eng": "overseas",
+      "kk": "ˌoʊvɚˈsiz",
+      "tense": "adv.",
+      "ch": [
+        [
+          "海外",
+          "在國外"
+        ]
+      ],
+      "analysis": "此字為副詞，表面詞形與 lemma 相同為 overseas。由介系詞 over（越過）與複數名詞 seas（海洋）複合而成，原意為「越過海洋去到對岸」，現代泛指所有跨國或出國的海外地區。",
+      "definition": "1. in, to, or from a foreign country that is across the sea.",
+      "example": [
+        {
+          "eng": "Many students choose to study overseas to gain global experience.",
+          "ch": "許多學生選擇到海外留學以獲得國際經驗。"
+        }
+      ]
+    },
+    {
+      "eng": "owe",
+      "kk": "oʊ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "欠（債、錢）",
+          "負債"
+        ],
+        [
+          "把...歸功於",
+          "虧欠（恩情等）"
+        ]
+      ],
+      "analysis": "此字為及物動詞，表面詞形與 lemma 相同為 owe。源自古英語 āgan（意為 to own, to possess），其過去式演變出獨立的動詞意涵，指持有應當歸還或支付他人的債務，或在抽象層面上指感恩或歸功於某人。",
+      "definition": "1. to need to pay or repay money to a person or bank; 2. to feel that one should give gratitude, respect, or credit to someone for their help.",
+      "example": [
+        {
+          "eng": "I owe you fifty dollars for last night's dinner.",
+          "ch": "昨晚的晚餐我欠你五十塊錢。"
+        },
+        {
+          "eng": "She knows she owes her success largely to her supportive mentors.",
+          "ch": "她知道她的成功很大程度上要歸功於支持她的導師們。"
+        }
+      ]
+    },
+    {
+      "eng": "owl",
+      "kk": "aʊl",
+      "tense": "n.",
+      "ch": [
+        [
+          "貓頭鷹"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 owl。源自古英語 ūle（貓頭鷹），屬於日耳曼語族同源詞（與德語 Eule 相關），模仿其叫聲或源自動物特徵的擬聲或古日耳曼語源。",
+      "definition": "1. a nocturnal bird of prey with large eyes, a flat face, and a sharp hooked beak, known for hooting at night.",
+      "example": [
+        {
+          "eng": "We heard an owl hooting in the trees outside our window at night.",
+          "ch": "我們夜裡聽到窗外樹上有貓頭鷹在鳴叫。"
+        }
+      ]
+    },
+    {
+      "eng": "ownership",
+      "kk": "ˈoʊnɚˌʃɪp",
+      "tense": "n.",
+      "ch": [
+        [
+          "所有權",
+          "物主身分"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 ownership。由形容詞/動詞 own（擁有）加上名詞字尾 -ship（表示狀態、身分或職位的後綴）複合而成，指擁有某物之法定權利或身分。",
+      "definition": "1. the state, fact, or legal right of owning something.",
+      "example": [
+        {
+          "eng": "The documents provide legal proof of land ownership.",
+          "ch": "這些文件提供了土地所有權的法律證明。"
+        }
+      ]
+    },
+    {
+      "eng": "ox",
+      "kk": "ɑks",
+      "tense": "n.",
+      "ch": [
+        [
+          "公牛",
+          "牛（尤指被用作拖曳重物的成年雄牛）"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 ox（複數為 oxen）。直接繼承自古英語 oxa，屬於日耳曼語族同源詞（與德語 Ochse 相關），在古代農業社會中作為主要的役畜。",
+      "definition": "1. a large cattle animal, especially a castrated adult male bull used historically as a draft animal for pulling heavy loads.",
+      "example": [
+        {
+          "eng": "Farmers used a pair of oxen to plow the heavy field.",
+          "ch": "農夫用一對公牛來耕耘沉重的田地。"
+        }
+      ]
+    },
+    {
+      "eng": "pad",
+      "kk": "pæd",
+      "tense": "n.",
+      "ch": [
+        [
+          "墊",
+          "襯墊"
+        ],
+        [
+          "記事本",
+          "便條紙"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 pad。其源流較複雜，可能與早期日耳曼語中指軟墊或踏步的詞源有關。語義包含保護或吸收衝擊的軟墊，以及裝訂成冊供書寫的便條紙或記事簿。",
+      "definition": "1. a thick piece of soft material used for protection, comfort, or absorbing liquid; 2. a bound stack of paper sheets used for writing or drawing notes.",
+      "example": [
+        {
+          "eng": "The football player wore protective knee pads during the game.",
+          "ch": "美式足球員在比賽中戴了保護性的護膝。"
+        },
+        {
+          "eng": "She jotted down the phone number on a notepad.",
+          "ch": "她把電話號碼記在記事本上。"
+        }
+      ]
+    },
+    {
+      "eng": "pad",
+      "kk": "pæd",
+      "tense": "vt.",
+      "ch": [
+        [
+          "填塞",
+          "裝填襯墊"
+        ]
+      ],
+      "analysis": "此字為及物動詞，表面詞形與 lemma 相同為 pad，由名詞 pad 轉化而來。指用軟質材料填塞衣物、包裹或箱子以達到保護、保暖或增加厚度的目的。",
+      "definition": "1. to stuff or line with soft material in order to protect, shape, or increase the bulk of something.",
+      "example": [
+        {
+          "eng": "The shipping box was padded with bubble wrap to protect the fragile glass.",
+          "ch": "為了保護易碎的玻璃，寄送紙箱內填塞了氣泡墊。"
+        }
+      ]
+    },
+    {
+      "eng": "painter",
+      "kk": "ˈpeɪntɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "畫家"
+        ],
+        [
+          "油漆工"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 painter。由動詞 paint（畫畫、油漆）加上名詞代理人字尾 -er 構成。依語境可指從事藝術創作的畫家，或從事房屋、牆面油漆工作的油漆工。",
+      "definition": "1. an artist who paints pictures; 2. a person whose job is to paint walls, buildings, or structures.",
+      "example": [
+        {
+          "eng": "Van Gogh is celebrated as one of history's greatest painters.",
+          "ch": "梵谷被譽為歷史上最偉大的畫家之一。"
+        },
+        {
+          "eng": "We hired a painter to give our living room a fresh coat of blue.",
+          "ch": "我們請了一位油漆工把客廳重新漆上一層藍色。"
+        }
+      ]
+    },
+    {
+      "eng": "pal",
+      "kk": "pæl",
+      "tense": "n.",
+      "ch": [
+        [
+          "好朋友",
+          "夥伴"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 pal。源自羅姆語（Romani，吉普賽語）中的 phral（意為 brother，兄弟），透過英國羅姆語族群的接觸傳入英語口語，成為表示親密朋友或夥伴的通俗詞彙。",
+      "definition": "1. a close friend or companion.",
+      "example": [
+        {
+          "eng": "He has been my best pal since elementary school.",
+          "ch": "他從小學起就是我最好的死黨。"
+        }
+      ]
+    },
+    {
+      "eng": "palace",
+      "kk": "ˈpælɪs",
+      "tense": "n.",
+      "ch": [
+        [
+          "宮殿",
+          "官邸"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 palace。源自拉丁語 Palātium（指羅馬帕拉丁山 Palatine Hill，此處曾建有奧古斯都皇帝的宮殿），經由古法語 paleis 進入英語。語義從特定地名泛指君王或高級政要居住的豪華宮殿。",
+      "definition": "1. a large and stately building serving as the official residence of a monarch, president, or high-ranking dignitary.",
+      "example": [
+        {
+          "eng": "Tourists crowded in front of the royal palace to watch the changing of the guard.",
+          "ch": "遊客聚集在皇宮前觀看衛兵交接儀式。"
+        }
+      ]
+    },
+    {
+      "eng": "palm",
+      "kk": "pɑm",
+      "tense": "n.",
+      "ch": [
+        [
+          "手心",
+          "手掌"
+        ],
+        [
+          "棕櫚樹"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 palm。此處包含兩個同形異源詞：1. 手掌，源自拉丁語 palma，經由法語進入英語；2. 棕櫚樹，源自拉丁語 palma（因棕櫚葉形似展開的手掌而得名）。兩者在歷史上字源交匯，現代作為同形多義詞處理。",
+      "definition": "1. the inner surface of the hand between the wrist and fingers; 2. an unbranched evergreen tree of warm regions, with a crown of long featherlike or fanlike leaves.",
+      "example": [
+        {
+          "eng": "He held the small bird gently in the palm of his hand.",
+          "ch": "他把那隻小鳥輕輕地捧在手心裡。"
+        },
+        {
+          "eng": "Tropical beaches are typically lined with tall coconut palms.",
+          "ch": "熱帶海灘通常種滿高大的椰子棕櫚樹。"
+        }
+      ]
+    },
+    {
+      "eng": "pancake",
+      "kk": "ˈpænˌkek",
+      "tense": "n.",
+      "ch": [
+        [
+          "鬆餅",
+          "薄煎餅"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 pancake。由名詞 pan（平底鍋）與 cake（蛋糕）複合而成，指將稀麵糊倒入平底鍋中煎製而成的扁平狀餅食。",
+      "definition": "1. a thin, flat, round cake made from a batter of flour, milk, and eggs, fried in a pan.",
+      "example": [
+        {
+          "eng": "We often have warm pancakes with maple syrup for Sunday breakfast.",
+          "ch": "我們經常在星期天早餐吃淋上楓糖漿的熱鬆餅。"
+        }
+      ]
+    },
+    {
+      "eng": "panic",
+      "kk": "ˈpænɪk",
+      "tense": "n.",
+      "ch": [
+        [
+          "恐慌",
+          "驚慌"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 panic。源自希臘語 panikon（源自希臘神話中引起無端恐懼的牧神 Pan 潘恩），經由拉丁語與法語進入英語。語義原指突如其來的群體性恐慌，後泛指強烈的驚慌失措。",
+      "definition": "1. a sudden, overwhelming feeling of fear or anxiety, often causing unthinking behavior.",
+      "example": [
+        {
+          "eng": "A sudden smoke in the hallway caused momentary panic among the office workers.",
+          "ch": "走廊上一陣突如其來的煙霧引起了辦公室員工短暫的恐慌。"
+        }
+      ]
+    },
+    {
+      "eng": "panic",
+      "kk": "ˈpænɪk",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使驚慌",
+          "使恐慌"
+        ]
+      ],
+      "analysis": "此字為及物動詞，表面詞形與 lemma 相同為 panic，由同形名詞轉化而來。指使人陷入極度驚恐或失去理智的狀態。",
+      "definition": "1. to cause someone to feel sudden, uncontrollable fear or panic.",
+      "example": [
+        {
+          "eng": "The loud explosion panicked the horses in the stable.",
+          "ch": "巨大的爆炸聲使馬厩裡的馬匹受到驚嚇。"
+        }
+      ]
+    },
+    {
+      "eng": "parade",
+      "kk": "pəˈred",
+      "tense": "n.",
+      "ch": [
+        [
+          "遊行",
+          "閱兵式"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 parade。源自西班牙語 parada 或法語 parade（意為 halting, show, display，源自動詞 parer 'to prepare, to adorn'），經由軍事閱兵的展示意義，演變為慶祝或抗議的公開遊行。",
+      "definition": "1. a public procession of people, marching bands, and floats, usually organized to celebrate a special day or event.",
+      "example": [
+        {
+          "eng": "Thousands of spectators lined the streets to watch the holiday parade.",
+          "ch": "數千名觀眾在街道兩旁排隊觀看節日遊行。"
+        }
+      ]
+    },
+    {
+      "eng": "parade",
+      "kk": "pəˈred",
+      "tense": "vt.",
+      "ch": [
+        [
+          "遊行展示",
+          "招搖過市"
+        ]
+      ],
+      "analysis": "此字為及物動詞，表面詞形與 lemma 相同為 parade，由名詞轉化而來。指列隊遊行展示，或引申為高調炫耀、招搖地展示某事物。",
+      "definition": "1. to walk or march in a public place, especially to be seen or to show off something.",
+      "example": [
+        {
+          "eng": "The winning team paraded the championship trophy through the city center.",
+          "ch": "冠軍隊伍帶著冠軍獎盃在市中心遊行展示。"
+        }
+      ]
+    },
+    {
+      "eng": "paradise",
+      "kk": "ˈpærəˌdaɪs",
+      "tense": "n.",
+      "ch": [
+        [
+          "天堂",
+          "樂園"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 paradise。源自古波斯語 pairidaeza（意為 walled enclosure，圍牆花園），經希臘語 paradeisos（伊甸園、樂園）與拉丁語 paradisus 進入英語。語義由宗教上的伊甸園、天堂，演變成現實中環境極美、令人心情愉悅的樂園度假勝地。",
+      "definition": "1. heaven, as the ultimate abode of the righteous; 2. an extremely beautiful, pleasant, or peaceful place that feels like heaven.",
+      "example": [
+        {
+          "eng": "The remote island is considered a tropical paradise for beach lovers.",
+          "ch": "這座偏遠的小島被喜愛海灘的人視為熱帶樂園。"
+        }
+      ]
+    },
+    {
+      "eng": "parcel",
+      "kk": "ˈpɑrsəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "包裹",
+          "小包"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 parcel。源自古法語 parcelle（意為 small part, particle，由拉丁語 particula 演變而來），經由英格蘭的商業與法律體系進入英語，語義從「一部分土地或物品」收窄為郵寄的「包裹」。",
+      "definition": "1. an object or collection of objects wrapped in paper or packed in a box to be shipped or delivered.",
+      "example": [
+        {
+          "eng": "The mailman delivered a heavy parcel to my doorstep this morning.",
+          "ch": "郵差今天早上送了一個沉重的包裹到我門口。"
+        }
+      ]
+    },
+    {
+      "eng": "parrot",
+      "kk": "ˈpærət",
+      "tense": "n.",
+      "ch": [
+        [
+          "鸚鵡"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 parrot。源自中古法語 Perrot（人名 Pierre 的愛稱，在法語中用來指代這種會模仿人語的鳥類），經由貿易與航海接觸進入英語。",
+      "definition": "1. a bright tropical bird with a curved beak, known for its ability to mimic human speech.",
+      "example": [
+        {
+          "eng": "The pet parrot surprised everyone by repeating a polite greeting.",
+          "ch": "這隻寵物鸚鵡重複了一句禮貌的問候，讓大家大吃一驚。"
+        }
+      ]
+    },
+    {
+      "eng": "passage",
+      "kk": "ˈpæsɪdʒ",
+      "tense": "n.",
+      "ch": [
+        [
+          "通道",
+          "走廊"
+        ],
+        [
+          "段落",
+          "樂段"
+        ],
+        [
+          "通過",
+          "流逝"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 passage。由動詞 pass（通過、經過）加上名詞字尾 -age 構成。語義涵蓋空間上的狹窄通道、文章或音樂的片段（段落/樂段），以及時間或法律案的通過與推移。",
+      "definition": "1. a narrow way or corridor allowing access between places; 2. a short section of a book, speech, or musical composition; 3. the act of moving through or the passing of time/laws.",
+      "example": [
+        {
+          "eng": "They walked down a dark stone passage leading to the courtyard.",
+          "ch": "他們走過一條通往庭院的黑暗石造通道。"
+        },
+        {
+          "eng": "The teacher asked us to read a specific passage in chapter four.",
+          "ch": "老師要求我們閱讀第四章中的某個特定段落。"
+        },
+        {
+          "eng": "With the passage of time, old wounds begin to heal.",
+          "ch": "隨著時間的流逝，舊傷開始癒合。"
+        }
+      ]
+    },
+    {
+      "eng": "passenger",
+      "kk": "ˈpæsɪndʒɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "乘客",
+          "旅客"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 passenger。源自中古法語 passager（由 passage 衍生而來），指搭乘船隻、車輛或飛機旅行但非駕駛或操作人員的人。",
+      "definition": "1. a traveler on a public or private vehicle, train, ship, or plane who is not the driver or crew.",
+      "example": [
+        {
+          "eng": "All passengers must fasten their seatbelts before takeoff.",
+          "ch": "所有乘客在起飛前都必須繫好安全帶。"
+        }
+      ]
+    },
+    {
+      "eng": "passion",
+      "kk": "ˈpæʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "熱情",
+          "酷愛"
+        ],
+        [
+          "激情",
+          "烈性情緒"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 passion。源自拉丁語 passio（意為 suffering, enduring，源自 pati 'to suffer'），早期基督教用語中指基督受難（the Passion），後在文藝復興時期轉化為指強烈的情感、激情，現代則廣泛指對某事物的強烈熱愛或興趣。",
+      "definition": "1. a strong feeling of enthusiasm or excitement for something; 2. a powerful emotion such as anger, love, or intense desire.",
+      "example": [
+        {
+          "eng": "Photography has been his lifelong passion since he was a teenager.",
+          "ch": "攝影自他青少年時期起就是他一生的熱愛。"
+        },
+        {
+          "eng": "She spoke about her environmental project with great passion.",
+          "ch": "她以無比的熱情談論她的環保專案。"
+        }
+      ]
+    },
+    {
+      "eng": "passport",
+      "kk": "ˈpæsˌpɔrt",
+      "tense": "n.",
+      "ch": [
+        [
+          "護照"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 passport。由法語 passeport 複合而成（由 passer 'to pass' + port 'port, harbor, gateway' 構成），原意為准許通過港口或關卡的通行證，現代演變為國民出國時使用的官方身分證明文件。",
+      "definition": "1. an official document issued by a government certifying the holder's identity and citizenship, entitling them to travel under its protection abroad.",
+      "example": [
+        {
+          "eng": "Make sure your passport is valid for at least six months before booking flights.",
+          "ch": "訂機票前，請確保您的護照至少還有六個月的效期。"
+        }
+      ]
+    },
+    {
+      "eng": "pat",
+      "kk": "pæt",
+      "tense": "n.",
+      "ch": [
+        [
+          "輕拍",
+          "輕撫"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 pat，由同形動詞轉化而來，指輕輕拍打的動作。",
+      "definition": "1. a light, gentle blow or stroke with the hand.",
+      "example": [
+        {
+          "eng": "He gave his son an encouraging pat on the back.",
+          "ch": "他給了兒子一個鼓勵性的拍背動作。"
+        }
+      ]
+    },
+    {
+      "eng": "pat",
+      "kk": "pæt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "輕拍",
+          "撫摸"
+        ]
+      ],
+      "analysis": "此字為及物動詞，表面詞形與 lemma 相同為 pat。屬於擬聲詞起源（模擬輕輕拍打的聲音），指用手掌或手指輕柔、友善地拍打某人或某物（如拍背、撫摸寵物）。",
+      "definition": "1. to touch someone or something gently and repeatedly with the flat of the hand, usually as a sign of affection or comfort.",
+      "example": [
+        {
+          "eng": "The owner paused to pat the friendly dog on the head.",
+          "ch": "主人停下來輕輕拍了拍那隻友善的狗狗的頭。"
+        }
+      ]
+    },
+    {
+      "eng": "patience",
+      "kk": "ˈpeʃəns",
+      "tense": "n.",
+      "ch": [
+        [
+          "耐心",
+          "毅力"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 patience。源自拉丁語 patientia（由 patiens 'suffering, enduring' 的形容詞衍生，源自 pati 'to suffer'），經由法語進入英語。語義從「忍受痛苦或困難的能力」引申為面對等待或挫折時的耐心與毅力。",
+      "definition": "1. the capacity to accept or tolerate delay, trouble, or suffering without getting angry or upset.",
+      "example": [
+        {
+          "eng": "Teaching young children requires a great deal of patience.",
+          "ch": "教導幼兒需要極大的耐心。"
+        }
+      ]
+    },
+    {
+      "eng": "pause",
+      "kk": "pɔz",
+      "tense": "n.",
+      "ch": [
+        [
+          "暫停",
+          "停頓"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 pause，由不及物動詞轉化而來，指短暫的停頓或休息間隔。",
+      "definition": "1. a temporary stop in action or speech.",
+      "example": [
+        {
+          "eng": "There was a long, awkward pause after she asked the difficult question.",
+          "ch": "在她提出那個困難的問題後，出現了一段漫長而尷尬的沉默。"
+        }
+      ]
+    },
+    {
+      "eng": "pause",
+      "kk": "pɔz",
+      "tense": "vi.",
+      "ch": [
+        [
+          "暫停",
+          "停頓"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，表面詞形與 lemma 相同為 pause。源自希臘語 pausis（意為 stopping, halt），經由拉丁語 pausa 與中古法語進入英語。指在說話、動作或進行中的活動中暫時停頓。",
+      "definition": "1. to stop speaking or doing something for a short time before continuing.",
+      "example": [
+        {
+          "eng": "The speaker paused for a moment to let the audience absorb her point.",
+          "ch": "演講者停頓了一會兒，讓聽眾吸收她的觀點。"
+        }
+      ]
+    },
+    {
+      "eng": "pave",
+      "kk": "pev",
+      "tense": "vt.",
+      "ch": [
+        [
+          "鋪設（道路等）",
+          "築路"
+        ]
+      ],
+      "analysis": "此字為及物動詞，表面詞形與 lemma 相同為 pave。源自拉丁語 pavīre（意為 to beat, to ram down, to lay a floor），經由古法語 paver 進入英語，指用石塊、混凝土或瀝青鋪平地面或道路。",
+      "definition": "1. to cover a path, road, or area with flat stones, concrete, or asphalt to make it suitable for walking or driving.",
+      "example": [
+        {
+          "eng": "Workers are scheduled to pave the bumpy residential road next week.",
+          "ch": "工人預定於下週鋪設這條顛簸的住宅區道路。"
+        }
+      ]
+    },
+    {
+      "eng": "pavement",
+      "kk": "ˈpevmənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "人行道",
+          "鋪面路面"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 pavement。由動詞 pave 加上名詞字尾 -ment（表示結果或工具的後綴）構成。在英式英語中專指行人走的人行道，在美式英語中則泛指鋪好硬質路面的道路表層。",
+      "definition": "1. a raised paved path for pedestrians at the side of a road, or the hard surface of a road or public area.",
+      "example": [
+        {
+          "eng": "Pedestrians walked safely along the concrete pavement.",
+          "ch": "行人沿著水泥人行道安全地行走。"
+        }
+      ]
+    },
+    {
+      "eng": "pea",
+      "kk": "pi",
+      "tense": "n.",
+      "ch": [
+        [
+          "豌豆"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 pea。源自拉丁語 pisum（豌豆），早期英語誤將複數形態 pease 當作不可數名詞或單數名詞，後來透過回溯構詞（back-formation）產生了單數形式 pea。",
+      "definition": "1. a small, spherical green seed or the edible pod containing seeds, growing on a climbing plant.",
+      "example": [
+        {
+          "eng": "She added fresh green peas and carrots to the fried rice.",
+          "ch": "她在炒飯裡加入了新鮮的青豌豆和紅蘿蔔。"
+        }
+      ]
+    },
+    {
+      "eng": "peanut",
+      "kk": "ˈpiˌnʌt",
+      "tense": "n.",
+      "ch": [
+        [
+          "花生"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 peanut。由名詞 pea（豆）與 nut（堅果）複合而成，指這種味道與口感類似堅果、但植物學上屬於豆科的作物。",
+      "definition": "1. an edible oval nutlike seed contained in a woody pod that ripens underground, commonly roasted and eaten.",
+      "example": [
+        {
+          "eng": "He is severely allergic to peanuts and must check food labels carefully.",
+          "ch": "他對花生嚴重過敏，必須仔細檢查食品標籤。"
+        }
+      ]
+    },
+    {
+      "eng": "pearl",
+      "kk": "pɝl",
+      "tense": "n.",
+      "ch": [
+        [
+          "珍珠"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 pearl。源自拉丁語 perla 或ula（其確切起源有爭議，可能與拉丁語 pirula 'little pear' 梨形有關，因部分珍珠形似梨子），經由法語進入英語。",
+      "definition": "1. a smooth, lustrous round white gem formed inside the shell of certain oysters and other bivalve mollusks.",
+      "example": [
+        {
+          "eng": "She wore an elegant necklace made of genuine sea pearls.",
+          "ch": "她戴著一條由純正海珍珠製成的優雅項鍊。"
+        }
+      ]
+    },
+    {
+      "eng": "peel",
+      "kk": "pil",
+      "tense": "n.",
+      "ch": [
+        [
+          "果皮",
+          "菜皮"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 peel，由及物動詞轉化而來，指剝下來的水果或蔬菜之外皮。",
+      "definition": "1. the outer skin or rind of a fruit or vegetable.",
+      "example": [
+        {
+          "eng": "Orange peel can be dried and used to add flavor to desserts.",
+          "ch": "橙皮可以曬乾用來為甜點增添風味。"
+        }
+      ]
+    },
+    {
+      "eng": "peel",
+      "kk": "pil",
+      "tense": "vt.",
+      "ch": [
+        [
+          "剝皮",
+          "削皮"
+        ]
+      ],
+      "analysis": "此字為及物動詞，表面詞形與 lemma 相同為 peel。源自拉丁語 pilāre（意為 to strip of hair，源自 pilus 'hair'），經由古法語 peler 進入英語，語義由「剝除毛髮」轉變為「剝除水果或蔬菜的皮」。",
+      "definition": "1. to remove the outer skin or rind from a fruit, vegetable, or other item.",
+      "example": [
+        {
+          "eng": "She used a small knife to peel the crisp apple.",
+          "ch": "她用小刀削那顆脆蘋果的皮。"
+        }
+      ]
+    },
+    {
+      "eng": "penguin",
+      "kk": "ˈpɛŋɡwɪn",
+      "tense": "n.",
+      "ch": [
+        [
+          "企鵝"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 penguin。其詞源說法不一，最初可能源自威爾士語 pen gwyn（意為 white head，原本用來指北大西洋已滅絕的大海雀 great auk），後來航海家將此名稱轉移到南半球外形相似的企鵝身上。",
+      "definition": "1. a large, flightless seabird native to the Southern Hemisphere, characterized by black-and-white plumage and wings adapted for swimming.",
+      "example": [
+        {
+          "eng": "Colonies of penguins waddled across the icy Antarctic shore.",
+          "ch": "成群的企鵝搖搖擺擺地走過冰冷的南極海岸。"
+        }
+      ]
+    },
+    {
+      "eng": "penny",
+      "kk": "ˈpɛni",
+      "tense": "n.",
+      "ch": [
+        [
+          "便士",
+          "一分錢"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 penny（複數為 pennies 或 pence）。源自古英語 penning，屬於日耳曼語族同源詞（與德語 Pfennig 相關），在英國與北美貨幣體系中指面額最小的硬幣。",
+      "definition": "1. a small coin, historically used in the UK and commonwealth nations, equivalent to one-hundredth of a pound or one cent in the US.",
+      "example": [
+        {
+          "eng": "He collected every single penny in his piggy bank.",
+          "ch": "他把存錢筒裡的每一分錢都搜集了起來。"
+        }
+      ]
+    },
+    {
+      "eng": "pepper",
+      "kk": "ˈpɛpɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "胡椒",
+          "胡椒粉"
+        ],
+        [
+          "甜椒",
+          "辣椒"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 pepper。源自梵語 pippalī（長椒），經希臘語 peperi 與拉丁語 piper 通過日耳曼語傳入英語。語義涵蓋原產於亞洲的辛辣調味香料（胡椒），以及後來美洲發現的各類甜椒與辣椒。",
+      "definition": "1. a pungent, spicy seasoning obtained from the dried berries of a tropical vine; 2. a hollow, edible fruit of the capsicum plant, eaten cooked or raw as a vegetable.",
+      "example": [
+        {
+          "eng": "She seasoned the grilled steak with a pinch of salt and black pepper.",
+          "ch": "她在烤牛排上撒了一小撮鹽和黑胡椒調味。"
+        },
+        {
+          "eng": "Red and green peppers add vibrant color and crunch to the salad.",
+          "ch": "紅椒和青椒為沙拉增添了鮮艷的色彩和爽脆的口感。"
+        }
+      ]
+    },
+    {
+      "eng": "perform",
+      "kk": "pɚˈfɔrm",
+      "tense": "vt.",
+      "ch": [
+        [
+          "表演",
+          "演出"
+        ],
+        [
+          "執行",
+          "履行"
+        ]
+      ],
+      "analysis": "此字為及物動詞，表面詞形與 lemma 相同為 perform。由拉丁前綴 per-（完全地）結合古法語 parfournir（意為 to finish, to carry out，由 per- + fournir 'to furnish' 組合），在中古英語中演變為 perform。語義從「徹底完成一項任務或工作」擴大為「在舞台上公開表演節目」與「執行技術操作或職責」。",
+      "definition": "1. to present a play, concert, or other entertainment to an audience; 2. to carry out, accomplish, or fulfill an action, task, or function.",
+      "example": [
+        {
+          "eng": "The local theater company will perform Shakespeare's Hamlet tonight.",
+          "ch": "當地劇團今晚將演出莎士比亞的《哈姆雷特》。"
+        },
+        {
+          "eng": "The surgeon will perform a complex heart operation tomorrow morning.",
+          "ch": "外科醫師明天早上將執行一場複雜的心臟手術。"
+        }
+      ]
+    },
+    {
+      "eng": "performance",
+      "kk": "pɚˈfɔrməns",
+      "tense": "n.",
+      "ch": [
+        [
+          "表演",
+          "演出"
+        ],
+        [
+          "表現",
+          "工作績效"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 performance。由動詞 perform 加上名詞字尾 -ance 構成。語義涵蓋舞台上的音樂、戲劇等公開演出，以及個人、機器或企業在工作、學業上的綜合表現與績效。",
+      "definition": "1. an act of staging or presenting a play, concert, or other form of entertainment; 2. how well or badly a person, machine, or organization does a job or task.",
+      "example": [
+        {
+          "eng": "The pianist gave a breathtaking performance that left the audience cheering.",
+          "ch": "鋼琴家的精湛演出讓全場觀眾歡呼不已。"
+        },
+        {
+          "eng": "His strong sales performance earned him a promotion at the end of the year.",
+          "ch": "他優異的銷售表現讓他在年底贏得了一次升遷。"
+        }
+      ]
+    },
+    {
+      "eng": "permission",
+      "kk": "pɚˈmɪʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "允許",
+          "許可",
+          "准許"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 permission。源自拉丁語 permissio（由 permittere 'to allow' 的過去分詞詞幹衍生，由 per- 'through' + mittere 'to send' 組成），經由中古法語進入英語，指官方或個人給予做某事的同意或授權。",
+      "definition": "1. the official or formal consent given to someone to do something.",
+      "example": [
+        {
+          "eng": "You must obtain parental permission before going on the school trip.",
+          "ch": "參加學校旅行前，你必須獲得家長的同意。"
+        }
+      ]
+    },
+    {
+      "eng": "permit",
+      "kk": "pɚˈmɪt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "允許",
+          "准許",
+          "容許"
+        ]
+      ],
+      "analysis": "此字為及物動詞，表面詞形與 lemma 相同為 permit。源自拉丁語 permittere（由 per- 'through' + mittere 'to send, let go' 組成），經由中古法語進入英語。指給予條件或權力使某事得以發生或被允許進行。",
+      "definition": "1. to officially allow someone to do something, or to make something possible.",
+      "example": [
+        {
+          "eng": "The museum does not permit flash photography inside the exhibition halls.",
+          "ch": "博物館不允許在展覽廳內使用閃光燈拍照。"
+        }
+      ]
+    },
+    {
+      "eng": "persuade",
+      "kk": "pɚˈswed",
+      "tense": "vt.",
+      "ch": [
+        [
+          "說服",
+          "勸說"
+        ]
+      ],
+      "analysis": "此字為及物動詞，表面詞形與 lemma 相同為 persuade。源自拉丁語 persuādēre（由 per- 'thoroughly' + suādēre 'to advise, urge' 組成），經由法語進入英語。語義透過溝通與理由勸導使他人改變心意或採取行動。",
+      "definition": "1. to induce someone to do something or believe something through reasoning, argument, or appeal.",
+      "example": [
+        {
+          "eng": "She managed to persuade her parents to let her join the art club.",
+          "ch": "她設法說服父母讓她加入美術社。"
+        }
+      ]
+    },
+    {
+      "eng": "photographer",
+      "kk": "fəˈtɑɡrəfɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "攝影師",
+          "照相師"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 photographer。由名詞 photography 透過縮短或由希臘語字根 phōs（光）+ graphein（書寫、記錄）組成的 photography 加上人稱字尾 -er 構成，指專業或業餘從事攝影工作的人。",
+      "definition": "1. a person who takes photographs, especially as a job or professional art.",
+      "example": [
+        {
+          "eng": "The fashion photographer directed the model to pose near the window.",
+          "ch": "時尚攝影師指導模特兒在窗邊擺姿勢。"
+        }
+      ]
+    },
+    {
+      "eng": "pigeon",
+      "kk": "ˈpɪdʒən",
+      "tense": "n.",
+      "ch": [
+        [
+          "鴿子"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 pigeon。源自拉丁語 pīpiō（意為 a chirping bird，擬聲幼鳥叫聲的詞彙），經由中古法語 pijon 進入英語，指常見的鳥類鴿子。",
+      "definition": "1. a stout-bodied bird with short legs, a small head, and a cooing voice, commonly seen in cities and parks.",
+      "example": [
+        {
+          "eng": "Flocks of pigeons gathered in the public square to feed on breadcrumbs.",
+          "ch": "成群的鴿子聚集在公共廣場上啄食麵包屑。"
+        }
+      ]
+    }
+  ]
+}

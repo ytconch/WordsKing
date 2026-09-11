@@ -1,0 +1,1791 @@
+{
+  "level": 2,
+  "chunkIndex": 4,
+  "inputs": [
+    "chase",
+    "cheat",
+    "cheer",
+    "chemical",
+    "chess",
+    "chief",
+    "childhood",
+    "childish",
+    "china",
+    "chopstick",
+    "chopsticks",
+    "claim",
+    "clap",
+    "classic",
+    "classical",
+    "classmate",
+    "clever",
+    "click",
+    "climate",
+    "cloth",
+    "clothing",
+    "cloudy",
+    "coal",
+    "coast",
+    "cockroach",
+    "roach",
+    "cocoa",
+    "coin",
+    "cola",
+    "Coke",
+    "college",
+    "comb",
+    "combine",
+    "comic",
+    "comics",
+    "command",
+    "commercial",
+    "company",
+    "compare",
+    "complete",
+    "complex",
+    "concern",
+    "conclude",
+    "condition",
+    "confident",
+    "conflict",
+    "congratulation",
+    "congratulations",
+    "connection",
+    "consider"
+  ],
+  "rows": [
+    {
+      "eng": "chase",
+      "kk": "tʃes",
+      "tense": "n.",
+      "ch": [
+        [
+          "追逐",
+          "追捕",
+          "追求"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 chase 轉化而來，指追趕的行動或追求抽象目標的過程。",
+      "definition": "1. The act of running after someone or something, or pursuing a goal.",
+      "example": [
+        {
+          "eng": "After a long chase, the police finally caught the suspect.",
+          "ch": "經過長時間的追逐，警方終於抓到了嫌疑犯。"
+        }
+      ]
+    },
+    {
+      "eng": "chase",
+      "kk": "tʃes",
+      "tense": "vt.",
+      "ch": [
+        [
+          "追逐",
+          "追趕",
+          "奔跑追捕"
+        ],
+        [
+          "追求",
+          "尋求"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自古法語 chasser（源於拉丁語 captare「企圖抓取、追捕」）。現代英文中常作 vt.，表示在物理空間上快速跟隨並試圖抓住某人或某物，或引申為努力追求抽象的事物如夢想或成功。",
+      "definition": "1. To run after someone or something in order to catch them; 2. To pursue something abstract such as success or a goal with great effort.",
+      "example": [
+        {
+          "eng": "The police car chased the thief through the busy streets.",
+          "ch": "警車在繁忙的街道上追捕小偷。"
+        },
+        {
+          "eng": "She decided to chase her dream of becoming a professional singer.",
+          "ch": "她決定追求成為職業歌手的夢想。"
+        }
+      ]
+    },
+    {
+      "eng": "chase",
+      "kk": "tʃes",
+      "tense": "vi.",
+      "ch": [
+        [
+          "追逐",
+          "奔跑追趕"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，源自動詞 chase 的自動詞用法，表示主語本身在後面奔跑、追趕，後面通常接介詞片語（如 after）。",
+      "definition": "1. To run quickly after someone or something.",
+      "example": [
+        {
+          "eng": "The dog loves to chase after balls in the park.",
+          "ch": "那隻狗喜歡在公園裡追逐球。"
+        }
+      ]
+    },
+    {
+      "eng": "cheat",
+      "kk": "tʃit",
+      "tense": "n.",
+      "ch": [
+        [
+          "騙子",
+          "作弊者"
+        ],
+        [
+          "作弊行為",
+          "詭計"
+        ]
+      ],
+      "analysis": "此字為名詞，指不誠實的人（如作弊者或老千），或指涉作弊的行為、不正當的捷徑。",
+      "definition": "1. A person who acts dishonestly or breaks the rules to win; 2. A dishonest trick or an unfair method.",
+      "example": [
+        {
+          "eng": "Teachers hate it when students are exposed as cheats.",
+          "ch": "老師討厭學生被揭發是作弊者。"
+        },
+        {
+          "eng": "Using that software shortcut feels like a cheat.",
+          "ch": "使用那個軟體捷徑感覺像是在作弊。"
+        }
+      ]
+    },
+    {
+      "eng": "cheat",
+      "kk": "tʃit",
+      "tense": "vt.",
+      "ch": [
+        [
+          "欺騙",
+          "詐取",
+          "騙取"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自古英語 cēat（騙局、詐欺），現代英文用作 vt. 時，表示以不誠實或欺詐的手段從他人身上獲取利益或使人受損。",
+      "definition": "1. To act dishonestly in order to gain an advantage, or to trick someone to get money or goods.",
+      "example": [
+        {
+          "eng": "He tried to cheat the elderly man out of his life savings.",
+          "ch": "他試圖騙走那名老人的畢生積蓄。"
+        }
+      ]
+    },
+    {
+      "eng": "cheat",
+      "kk": "tʃit",
+      "tense": "vi.",
+      "ch": [
+        [
+          "作弊",
+          "不誠實"
+        ],
+        [
+          "對感情不忠",
+          "出軌"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，指在考試、遊戲中違反規則以求勝，或在婚姻與戀愛關係中背叛伴侶。",
+      "definition": "1. To act dishonestly in a game, exam, or competition; 2. To be unfaithful to a husband, wife, or romantic partner.",
+      "example": [
+        {
+          "eng": "He was caught trying to cheat during the final math exam.",
+          "ch": "他在期末數學考試時被抓到作弊。"
+        },
+        {
+          "eng": "She was devastated to find out that her husband had cheated.",
+          "ch": "她發現丈夫出軌時感到心碎欲絕。"
+        }
+      ]
+    },
+    {
+      "eng": "cheer",
+      "kk": "tʃɪr",
+      "tense": "n.",
+      "ch": [
+        [
+          "歡呼聲",
+          "喝彩"
+        ],
+        [
+          "鼓勵",
+          "樂觀",
+          "歡樂"
+        ]
+      ],
+      "analysis": "此字為名詞，指歡呼的聲音，或抽象的樂觀情緒、愉快的氣氛。",
+      "definition": "1. A shout of joy, approval, or encouragement; 2. A feeling of optimism, happiness, or good spirits.",
+      "example": [
+        {
+          "eng": "A loud cheer went up from the crowd when the goal was scored.",
+          "ch": "進球時，人群中爆發出一陣響亮的歡呼聲。"
+        },
+        {
+          "eng": "Her cheerful words brought some much-needed cheer to the sad room.",
+          "ch": "她開朗的話語為這個悲傷的房間帶來了許多急需的歡樂。"
+        }
+      ]
+    },
+    {
+      "eng": "cheer",
+      "kk": "tʃɪr",
+      "tense": "vt.",
+      "ch": [
+        [
+          "向...歡呼",
+          "為...打氣",
+          "使振奮"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自古法語 chiere（臉部表情、面容），經語意演變為表達鼓勵、高興或給予安慰。作 vt. 時後面直接接受詞，表示為某人歡呼或加油。",
+      "definition": "1. To shout loudly in support or praise of someone, or to give encouragement and comfort to someone.",
+      "example": [
+        {
+          "eng": "The fans gathered at the stadium to cheer their favorite team.",
+          "ch": "球迷們聚集在體育場為他們最喜愛的球隊歡呼打氣。"
+        }
+      ]
+    },
+    {
+      "eng": "cheer",
+      "kk": "tʃɪr",
+      "tense": "vi.",
+      "ch": [
+        [
+          "歡呼",
+          "喝彩"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，表示人群發出歡呼聲或喝彩聲以表達喜悅與支持。",
+      "definition": "1. To shout loudly to show joy, approval, or support.",
+      "example": [
+        {
+          "eng": "The crowd began to cheer as the actor walked onto the stage.",
+          "ch": "當演員走上舞台時，群眾開始歡呼。"
+        }
+      ]
+    },
+    {
+      "eng": "chemical",
+      "kk": "ˈkɛmɪkəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "化學物質",
+          "化學品"
+        ]
+      ],
+      "analysis": "此字為名詞，指任何經由化學反應產生的物質或具有特定化學成分的物品。",
+      "definition": "1. A distinct compound or substance that has been prepared or purified by chemical processes.",
+      "example": [
+        {
+          "eng": "Farmers should be careful when spraying harmful chemicals on crops.",
+          "ch": "農民在農作物上噴灑有害化學品時應當小心。"
+        }
+      ]
+    },
+    {
+      "eng": "chemical",
+      "kk": "ˈkɛmɪkəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "化學的",
+          "化學上的"
+        ]
+      ],
+      "analysis": "此字為形容詞，由名詞 chemistry 衍生而來，加上形容詞字尾 -ical。指與化學、化學反應或化學物質相關的特質。",
+      "definition": "1. Relating to chemistry or the interactions of substances.",
+      "example": [
+        {
+          "eng": "The factory was criticized for dumping toxic chemical waste into the river.",
+          "ch": "該工廠因將有毒化學廢料傾倒進河裡而受到批評。"
+        }
+      ]
+    },
+    {
+      "eng": "chess",
+      "kk": "tʃɛs",
+      "tense": "n.",
+      "ch": [
+        [
+          "西洋棋",
+          "國際象棋"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古法語 eschecs（源於波斯語 shāh「國王」），指兩人對弈的傳統棋類智力遊戲。",
+      "definition": "1. A board game played by two opponents on a checkered board with specific pieces representing kings, queens, rooks, knights, bishops, and pawns.",
+      "example": [
+        {
+          "eng": "Grandmasters spend years studying different strategies to win at chess.",
+          "ch": "西洋棋特級大師花費數年時間研究各種策略以贏得棋局。"
+        }
+      ]
+    },
+    {
+      "eng": "chief",
+      "kk": "tʃif",
+      "tense": "n.",
+      "ch": [
+        [
+          "領袖",
+          "首領",
+          "主管"
+        ]
+      ],
+      "analysis": "此字為名詞，指某個群體、部落、機構或組織中的最高負責人、首長或頭頭。",
+      "definition": "1. The leader or ruler of a tribe, organization, or department.",
+      "example": [
+        {
+          "eng": "You need to discuss this proposal with the police chief.",
+          "ch": "你需要和警察局長討論這項提案。"
+        }
+      ]
+    },
+    {
+      "eng": "chief",
+      "kk": "tʃif",
+      "tense": "adj.",
+      "ch": [
+        [
+          "主要的",
+          "最高級的",
+          "首要的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自古法語 chief（源於拉丁語 caput「頭部」），引申為地位最高、最重要或最主要的。",
+      "definition": "1. Most important, primary, or highest in rank.",
+      "example": [
+        {
+          "eng": "The chief reason for the company's success is its innovative product design.",
+          "ch": "公司成功的主要原因是其創新的產品設計。"
+        }
+      ]
+    },
+    {
+      "eng": "childhood",
+      "kk": "ˈtʃaɪldˌhʊd",
+      "tense": "n.",
+      "ch": [
+        [
+          "童年",
+          "幼年時期"
+        ]
+      ],
+      "analysis": "此字為複合名詞，由 child（小孩）加上名詞字尾 -hood（表示狀態、時期或身分）構成。指一個人從出生到青春期之前的幼年階段。",
+      "definition": "1. The period of time when a person is a child, typically lasting from birth to adolescence.",
+      "example": [
+        {
+          "eng": "She spent her happy childhood growing up in a small coastal village.",
+          "ch": "她在一座小海邊村莊度過了快樂的童年。"
+        }
+      ]
+    },
+    {
+      "eng": "childish",
+      "kk": "ˈtʃaɪldɪʃ",
+      "tense": "adj.",
+      "ch": [
+        [
+          "幼稚的",
+          "孩子氣的"
+        ]
+      ],
+      "analysis": "此字為形容詞，由 child（小孩）加上形容詞字尾 -ish（具有...特質的）。用來形容成年人行為像小孩般不成熟、無理取鬧或缺乏理智。",
+      "definition": "1. Typical of a child; silly or immature when applied to an adult.",
+      "example": [
+        {
+          "eng": "Stop throwing such childish tantrums over a minor disagreement.",
+          "ch": "別為了一點小分歧發出這種幼稚的脾氣。"
+        }
+      ]
+    },
+    {
+      "eng": "china",
+      "kk": "ˈtʃaɪnə",
+      "tense": "n.",
+      "ch": [
+        [
+          "陶瓷",
+          "瓷器",
+          "瓷製餐具"
+        ]
+      ],
+      "analysis": "此字為名詞，源自中國國名 China（因歐洲人最早從中國進口精美瓷器而得名），在現代英文中常小寫用以指高品質的瓷器或瓷製餐具。",
+      "definition": "1. Fine white or translucent ceramic ware, or dishes made from this material.",
+      "example": [
+        {
+          "eng": "My grandmother keeps her best fine china locked in the glass cabinet.",
+          "ch": "我祖母將她最好的精美瓷器鎖在玻璃櫃裡。"
+        }
+      ]
+    },
+    {
+      "eng": "chopstick",
+      "kk": "ˈtʃɑpˌstɪk",
+      "tense": "n.",
+      "ch": [
+        [
+          "筷子"
+        ]
+      ],
+      "analysis": "此字為複合名詞，由 pidgin English 中的 chop（快）加上 stick（棍子）組合演變而來。通常常以複數形式使用，指東亞地區常用的進食工具筷子。",
+      "definition": "1. One of a pair of small, thin sticks of wood, ivory, or plastic used for eating food, especially in Asian cultures.",
+      "example": [
+        {
+          "eng": "It took him a few weeks to learn how to hold chopsticks properly.",
+          "ch": "他花了好幾週才學會如何正確拿筷子。"
+        }
+      ]
+    },
+    {
+      "eng": "chopsticks",
+      "kk": "ˈtʃɑpˌstɪks",
+      "tense": "n.",
+      "ch": [
+        [
+          "筷子（複數）"
+        ]
+      ],
+      "analysis": "此字為 chopstick 的複數名詞表面形式，因筷子通常成雙使用，日常對話中最常以複數形態出現。",
+      "definition": "1. A pair of thin sticks used as eating utensils.",
+      "example": [
+        {
+          "eng": "She picked up the sushi skillfully with her chopsticks.",
+          "ch": "她熟練地用筷子夾起壽司。"
+        }
+      ]
+    },
+    {
+      "eng": "claim",
+      "kk": "klem",
+      "tense": "n.",
+      "ch": [
+        [
+          "聲稱",
+          "斷言",
+          "主張"
+        ],
+        [
+          "索賠",
+          "權利要求"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古法語 claime（源於拉丁語 clamare「大聲喊叫、宣稱」）。指對某事物的公開宣稱或法律上的權利索求。",
+      "definition": "1. A statement that something is true, even though it has not been proved; 2. An official demand for something, such as money, to which one believes one has a right.",
+      "example": [
+        {
+          "eng": "The company denied any responsibility despite the public claims.",
+          "ch": "儘管大眾有此聲稱，該公司仍否認任何責任。"
+        },
+        {
+          "eng": "He filed an insurance claim after his car was damaged in the storm.",
+          "ch": "他的車在暴風雨中受損後，他提出了保險索賠。"
+        }
+      ]
+    },
+    {
+      "eng": "claim",
+      "kk": "klem",
+      "tense": "vt.",
+      "ch": [
+        [
+          "聲稱",
+          "宣稱",
+          "斷言"
+        ],
+        [
+          "索取",
+          "認領",
+          "奪走（生命等）"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自古法語 claime（源於拉丁語 clamare「大聲喊叫、宣稱」）。作 vt. 時表示堅稱某事為真，或要求、索取某項權益，亦可指災難奪走生命。",
+      "definition": "1. To state that something is true without giving absolute proof; 2. To formally request or demand money, ownership, or life.",
+      "example": [
+        {
+          "eng": "The suspect claims that he was at home during the robbery.",
+          "ch": "嫌疑犯聲稱搶劫發生時他人在家。"
+        },
+        {
+          "eng": "The earthquake claimed hundreds of lives in the region.",
+          "ch": "這場地震奪走了該地區數百條人命。"
+        }
+      ]
+    },
+    {
+      "eng": "claim",
+      "kk": "klem",
+      "tense": "vi.",
+      "ch": [
+        [
+          "聲稱",
+          "主張"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，源自古法語 claime（源於拉丁語 clamare「大聲喊叫、宣稱」）。作 vi. 時表示提出聲稱或權利要求。",
+      "definition": "1. To make a demand or assertion.",
+      "example": [
+        {
+          "eng": "They have the right to claim under the contract.",
+          "ch": "他們有權利根據合約提出主張。"
+        }
+      ]
+    },
+    {
+      "eng": "clap",
+      "kk": "klæp",
+      "tense": "n.",
+      "ch": [
+        [
+          "鼓掌",
+          "拍手"
+        ],
+        [
+          "猛烈或響亮的聲音（如雷聲）"
+        ]
+      ],
+      "analysis": "此字為名詞，指鼓掌的動作，或突然發出的巨大響聲（如 clap of thunder）。",
+      "definition": "1. An act of hitting the hands together to show approval; 2. A sudden, loud, crashing sound, especially of thunder.",
+      "example": [
+        {
+          "eng": "Let's give a big round of applause for the performers.",
+          "ch": "讓我們為表演者熱烈鼓掌。"
+        },
+        {
+          "eng": "A sudden clap of thunder startled the sleeping dog.",
+          "ch": "一聲突如其來的雷鳴嚇醒了睡夢中的狗。"
+        }
+      ]
+    },
+    {
+      "eng": "clap",
+      "kk": "klæp",
+      "tense": "vt.",
+      "ch": [
+        [
+          "輕拍",
+          "拍打"
+        ],
+        [
+          "迅速放置"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自古英語 clæppan（模擬拍打的擬聲詞）。作 vt. 時表示用手輕拍某人（如肩膀以示鼓勵），或迅速將某物置於特定位置。",
+      "definition": "1. To strike someone lightly with the palm of the hand, usually in a friendly or encouraging way; 2. To put something quickly into a position.",
+      "example": [
+        {
+          "eng": "He clapped his friend on the back to congratulate him.",
+          "ch": "他輕拍朋友的背以向他道賀。"
+        }
+      ]
+    },
+    {
+      "eng": "clap",
+      "kk": "klæp",
+      "tense": "vi.",
+      "ch": [
+        [
+          "鼓掌",
+          "拍手"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，指雙手互相拍擊以表達讚賞、歡迎或慶祝。",
+      "definition": "1. To hit your hands together repeatedly to show approval, admiration, or enjoyment.",
+      "example": [
+        {
+          "eng": "The audience stood up and began to clap enthusiastically.",
+          "ch": "觀眾起立並開始熱烈鼓掌。"
+        }
+      ]
+    },
+    {
+      "eng": "classic",
+      "kk": "ˈklæsɪk",
+      "tense": "n.",
+      "ch": [
+        [
+          "經典作品",
+          "名著",
+          "傳統大賽"
+        ]
+      ],
+      "analysis": "此字為名詞，指歷史上具有永恆價值、廣受讚譽的文學、藝術作品，或指傳統的重要體育賽事。",
+      "definition": "1. A work of art, piece of writing, or film that has been valued for a long time; 2. A traditional sporting event of high importance.",
+      "example": [
+        {
+          "eng": "Jane Austen's Pride and Prejudice is an English literary classic.",
+          "ch": "珍·奧斯珍的《傲慢與偏見》是一部英國文學經典。"
+        }
+      ]
+    },
+    {
+      "eng": "classic",
+      "kk": "ˈklæsɪk",
+      "tense": "adj.",
+      "ch": [
+        [
+          "經典的",
+          "傳統的",
+          "具有代表性的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自拉丁語 classicus（源於 classis「艦隊、社會階級」），原指最高社會階級的作家作品，後來演變為指經得起時間考驗的最高水準、經典作品。",
+      "definition": "1. Judged over a period of time to be of the highest quality and outstanding of its kind.",
+      "example": [
+        {
+          "eng": "Casablanca is considered a classic movie of American cinema.",
+          "ch": "《卡薩布蘭卡》被認為是美國電影的經典之作。"
+        }
+      ]
+    },
+    {
+      "eng": "classical",
+      "kk": "ˈklæsɪkəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "古典的",
+          "古代希臘羅馬的",
+          "傳統正統的"
+        ]
+      ],
+      "analysis": "此字為形容詞，由 classic 加上形容詞字尾 -ical。主要用來指古希臘羅馬的文化藝術，或指形式傳統、遵循嚴格藝術規範的音樂（如古典音樂）。",
+      "definition": "1. Relating to the ancient Greek and Roman culture, or to traditional and formal styles of music and art.",
+      "example": [
+        {
+          "eng": "She enjoys listening to classical music while studying in the library.",
+          "ch": "她喜歡在圖書館讀書時聽古典音樂。"
+        }
+      ]
+    },
+    {
+      "eng": "classmate",
+      "kk": "ˈklæsˌmet",
+      "tense": "n.",
+      "ch": [
+        [
+          "同班同學"
+        ]
+      ],
+      "analysis": "此字為複合名詞，由 class（班級、課堂）加上 mate（夥伴、朋友）構成。指同一班級的同學。",
+      "definition": "1. A student who is in the same class at school or college.",
+      "example": [
+        {
+          "eng": "He invited all his classmates to his birthday party.",
+          "ch": "他邀請了所有的同班同學參加他的生日派對。"
+        }
+      ]
+    },
+    {
+      "eng": "clever",
+      "kk": "ˈklɛvɚ",
+      "tense": "adj.",
+      "ch": [
+        [
+          "聰明的",
+          "機靈的",
+          "靈巧的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自中古英語 clever（敏捷的、靈巧的）。用來形容人頭腦靈活、反應快、聰明伶俐，或指方法巧妙。",
+      "definition": "1. Quick at learning and understanding things; showing intelligence or skill.",
+      "example": [
+        {
+          "eng": "She came up with a clever solution to fix the broken machine.",
+          "ch": "她想出了一個巧妙的解決方案來修理那台壞掉的機器。"
+        }
+      ]
+    },
+    {
+      "eng": "click",
+      "kk": "klɪk",
+      "tense": "n.",
+      "ch": [
+        [
+          "短促清脆聲",
+          "滴答聲"
+        ],
+        [
+          "點擊（滑鼠動作）"
+        ]
+      ],
+      "analysis": "此字為名詞，指發出的短聲，或電腦滑鼠按下的動作。",
+      "definition": "1. A short, sharp sound; 2. An act of pressing a button on a computer mouse.",
+      "example": [
+        {
+          "eng": "With a click of the mouse, the file was successfully downloaded.",
+          "ch": "只需滑鼠輕輕一按，檔案就順利下載完成了。"
+        }
+      ]
+    },
+    {
+      "eng": "click",
+      "kk": "klɪk",
+      "tense": "vt.",
+      "ch": [
+        [
+          "點擊（電腦滑鼠等）"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自模擬發出輕脆短促聲音的擬聲詞。現代科技語境下用作 vt. 時，指用滑鼠點選電腦螢幕上的圖標或連結。",
+      "definition": "1. To press a button on a computer mouse to select something on a screen.",
+      "example": [
+        {
+          "eng": "Click the submit button to send your application form.",
+          "ch": "點擊提交按鈕以發送您的申請表。"
+        }
+      ]
+    },
+    {
+      "eng": "click",
+      "kk": "klɪk",
+      "tense": "vi.",
+      "ch": [
+        [
+          "發出短促清脆的聲音",
+          "點擊"
+        ],
+        [
+          "突然豁然開朗",
+          "一拍即合"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，指發出滴答聲或卡搭聲，亦可引申為人與人之間氣味相投或想法突然理解貫通。",
+      "definition": "1. To make a short, sharp sound; 2. To suddenly understand something or get along very well with someone.",
+      "example": [
+        {
+          "eng": "The door lock clicked shut as he walked out.",
+          "ch": "當他走出去時，門鎖發出喀噠聲關上了。"
+        },
+        {
+          "eng": "We met at the party and immediately clicked.",
+          "ch": "我們在派對上相遇，一拍即合。"
+        }
+      ]
+    },
+    {
+      "eng": "climate",
+      "kk": "ˈklaɪmɪt",
+      "tense": "n.",
+      "ch": [
+        [
+          "氣候"
+        ],
+        [
+          "風氣",
+          "大環境",
+          "思潮"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古希臘語 klima（傾斜、緯度，指地球表面不同緯度的氣候區）。現代除指長期氣象狀況外，也廣泛引申為社會或政治的整體風氣與環境。",
+      "definition": "1. The weather conditions prevailing in an area in general or over a long period; 2. The general attitude, mood, or conditions of a group or situation.",
+      "example": [
+        {
+          "eng": "The Mediterranean region enjoys a warm and sunny climate.",
+          "ch": "地中海地區享有溫暖陽光普照的氣候。"
+        },
+        {
+          "eng": "Companies are struggling to survive in the current economic climate.",
+          "ch": "企業在目前的經濟大環境中艱難求生。"
+        }
+      ]
+    },
+    {
+      "eng": "cloth",
+      "kk": "klɔθ",
+      "tense": "n.",
+      "ch": [
+        [
+          "布料",
+          "織品"
+        ],
+        [
+          "抹布",
+          "清潔布"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古英語 clāth（織物、衣料）。指編織而成的布料，或日常用來擦拭清潔的小塊抹布。",
+      "definition": "1. Woven or knitted material made from cotton, wool, silk, etc.; 2. A small piece of material used for cleaning or wiping things.",
+      "example": [
+        {
+          "eng": "She bought several meters of cotton cloth to make a new dress.",
+          "ch": "她買了幾公尺的棉布來做一件新洋裝。"
+        },
+        {
+          "eng": "He used a damp cloth to wipe the dust off the wooden table.",
+          "ch": "他用濕布擦去木桌上的灰塵。"
+        }
+      ]
+    },
+    {
+      "eng": "clothing",
+      "kk": "ˈkloʊðɪŋ",
+      "tense": "n.",
+      "ch": [
+        [
+          "衣服",
+          "服裝（總稱）"
+        ]
+      ],
+      "analysis": "此字為集合名詞，由動詞 clothe（穿衣）加上名詞字尾 -ing 形成。專門指各種衣服、衣物的統稱（通常不可數或視為整體概念）。",
+      "definition": "1. Clothes in general; garments worn to cover the body.",
+      "example": [
+        {
+          "eng": "The charity organization collects warm clothing for homeless people in winter.",
+          "ch": "該慈善機構在冬天為無家可歸的人收集保暖衣物。"
+        }
+      ]
+    },
+    {
+      "eng": "cloudy",
+      "kk": "ˈklaʊdi",
+      "tense": "adj.",
+      "ch": [
+        [
+          "多雲的",
+          "陰天的"
+        ],
+        [
+          "混濁不清的",
+          "不明朗的"
+        ]
+      ],
+      "analysis": "此字為形容詞，由 cloud（雲）加上形容詞字尾 -y。形容天空佈滿雲彩，或引申指液體混濁不清、未來情勢不明朗。",
+      "definition": "1. Covered with or abounding in clouds; 2. Not clear or transparent (of liquid), or uncertain and confused.",
+      "example": [
+        {
+          "eng": "It was a cloudy day, so we didn't get to see the sunset.",
+          "ch": "那是個多雲的日子，所以我們沒能看到日落。"
+        },
+        {
+          "eng": "The future of the project remains cloudy due to budget cuts.",
+          "ch": "由於預算削減，該專案的未來前景依然不明朗。"
+        }
+      ]
+    },
+    {
+      "eng": "coal",
+      "kk": "koʊl",
+      "tense": "n.",
+      "ch": [
+        [
+          "煤",
+          "煤炭"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古英語 col（發光的炭塊、煤）。指黑色或褐色的化石燃料，廣泛用於發電與工業燃燒。",
+      "definition": "1. A combustible black or brownish-black sedimentary rock used as a fossil fuel for energy production.",
+      "example": [
+        {
+          "eng": "Many power plants have reduced their reliance on coal to cut emissions.",
+          "ch": "許多發電廠已經減少對煤炭的依賴以削減碳排放。"
+        }
+      ]
+    },
+    {
+      "eng": "coast",
+      "kk": "koʊst",
+      "tense": "n.",
+      "ch": [
+        [
+          "海岸",
+          "海濱"
+        ]
+      ],
+      "analysis": "此字為名詞，源自拉丁語 costa（肋骨、側面、邊緣），引申為陸地與海洋相接的邊緣即海岸。",
+      "definition": "1. The part of the land near the sea; the edge of the land.",
+      "example": [
+        {
+          "eng": "They took a scenic road trip along the rugged Pacific coast.",
+          "ch": "他們沿著崎嶇的太平洋海岸進行了一場風景優美的公路旅行。"
+        }
+      ]
+    },
+    {
+      "eng": "cockroach",
+      "kk": "ˈkɑkˌrotʃ",
+      "tense": "n.",
+      "ch": [
+        [
+          "蟑螂"
+        ]
+      ],
+      "analysis": "此字為複合名詞，源自西班牙語 cucaracha，經民間語源與英文單字 cock（公雞）和 roach 混淆合流演變而成。指常見的居家昆蟲蟑螂。",
+      "definition": "1. A flat-bodied, nocturnal insect that is often considered a pest in houses.",
+      "example": [
+        {
+          "eng": "She jumped onto a chair when she saw a cockroach scurry across the floor.",
+          "ch": "當她看到一隻蟑螂在地板上急奔時，嚇得跳上椅子。"
+        }
+      ]
+    },
+    {
+      "eng": "roach",
+      "kk": "rotʃ",
+      "tense": "n.",
+      "ch": [
+        [
+          "蟑螂（俗稱）"
+        ],
+        [
+          "擬鯉（一種淡水魚）"
+        ]
+      ],
+      "analysis": "此字為名詞，在北美日常口語中常作為 cockroach 的簡稱指蟑螂；在英國則通常指歐洲常見的一種淡水小魚擬鯉。",
+      "definition": "1. A cockroach (informal); 2. A common European freshwater fish related to the carp.",
+      "example": [
+        {
+          "eng": "He sprayed insect killer to get rid of the roaches in the kitchen.",
+          "ch": "他噴灑殺蟲劑以消滅廚房裡的蟑螂。"
+        }
+      ]
+    },
+    {
+      "eng": "cocoa",
+      "kk": "ˈkoʊkoʊ",
+      "tense": "n.",
+      "ch": [
+        [
+          "可可",
+          "可可粉",
+          "可可飲料"
+        ]
+      ],
+      "analysis": "此字為名詞，源自西班牙語 cacao（源於納瓦特爾語 cacahuatl）。指由可可豆研磨製成的粉末或泡製的熱可可飲料。",
+      "definition": "1. The powder made from roasted and ground cacao seeds, or a hot drink made by mixing this powder with milk or water.",
+      "example": [
+        {
+          "eng": "She drank a warm cup of cocoa to help her sleep on the cold night.",
+          "ch": "她在寒冷的夜晚喝了一杯熱可可幫助睡眠。"
+        }
+      ]
+    },
+    {
+      "eng": "coin",
+      "kk": "kɔɪn",
+      "tense": "n.",
+      "ch": [
+        [
+          "硬幣",
+          "金屬貨幣"
+        ]
+      ],
+      "analysis": "此字為名詞，源自拉丁語 cuneus（楔子、鑄幣用的鋼模）。指金屬鑄造的硬幣。",
+      "definition": "1. A flat, typically round piece of metal issued by a government as money.",
+      "example": [
+        {
+          "eng": "He dropped a coin into the vending machine to buy a bottle of water.",
+          "ch": "他投了一枚硬幣進自動販賣機買了一瓶水。"
+        }
+      ]
+    },
+    {
+      "eng": "coin",
+      "kk": "kɔɪn",
+      "tense": "vt.",
+      "ch": [
+        [
+          "鑄造（硬幣）"
+        ],
+        [
+          "創造（新詞、片語）"
+        ]
+      ],
+      "analysis": "此字為及物動詞，原指用模具鑄造金屬硬幣，後來引申為「創造、發明」新的詞彙或說法（如同鑄幣一般賦予新詞新價值）。",
+      "definition": "1. To make coins by stamping metal; 2. To invent a new word or phrase.",
+      "example": [
+        {
+          "eng": "The scientist coined a new term to describe the rare phenomenon.",
+          "ch": "該科學家創造了一個新詞來描述這種罕見的現象。"
+        }
+      ]
+    },
+    {
+      "eng": "cola",
+      "kk": "ˈkoʊlə",
+      "tense": "n.",
+      "ch": [
+        [
+          "可樂",
+          "可樂飲料"
+        ]
+      ],
+      "analysis": "此字為名詞，源自可樂果（kola nut），該果實曾用於提供早期可樂飲料中的咖啡因。指碳酸甜味軟性飲料可樂。",
+      "definition": "1. A sweet, dark, carbonated soft drink flavored with extract from kola nuts and other flavorings.",
+      "example": [
+        {
+          "eng": "He ordered a hamburger and a cold can of cola for lunch.",
+          "ch": "他午餐點了一個漢堡和一罐冰可樂。"
+        }
+      ]
+    },
+    {
+      "eng": "Coke",
+      "kk": "koʊk",
+      "tense": "n.",
+      "ch": [
+        [
+          "可口可樂"
+        ]
+      ],
+      "analysis": "此字為專有名詞，是可口可樂公司（Coca-Cola）的註冊商標縮寫，日常生活中也常泛指一般可樂或特定品牌的碳酸飲料。",
+      "definition": "1. A trademarked name for a popular brand of carbonated cola drink, often used generally for cola.",
+      "example": [
+        {
+          "eng": "Would you like a glass of Coke with your meal?",
+          "ch": "你用餐時要來一杯可口可樂嗎？"
+        }
+      ]
+    },
+    {
+      "eng": "college",
+      "kk": "ˈkɑlɪdʒ",
+      "tense": "n.",
+      "ch": [
+        [
+          "大學",
+          "學院",
+          "高等專科學校"
+        ]
+      ],
+      "analysis": "此字為名詞，源自拉丁語 collegium（同僚團體、學術團體，源於 con-「共同」+ legere「挑選、聚集」）。指高等教育機構、大學或附屬於大學的學院。",
+      "definition": "1. An educational institution higher than high school, where students study for a degree or professional qualification.",
+      "example": [
+        {
+          "eng": "Her oldest son is currently studying engineering at college.",
+          "ch": "她的大兒子目前在大學主修工程學。"
+        }
+      ]
+    },
+    {
+      "eng": "comb",
+      "kk": "koʊm",
+      "tense": "n.",
+      "ch": [
+        [
+          "梳子"
+        ],
+        [
+          "蜂窩（蜂巢）"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古英語 camb（梳子、冠毛）。指用來整理頭髮的齒狀工具，亦可指蜜蜂築的蜂房（honeycomb）。",
+      "definition": "1. A flat piece of plastic or metal with teeth used for untangling and arranging hair; 2. A structure of hexagonal wax cells built by honeybees (honeycomb).",
+      "example": [
+        {
+          "eng": "She ran a comb through her hair before stepping out of the room.",
+          "ch": "她離開房間前用梳子整理了一下頭髮。"
+        }
+      ]
+    },
+    {
+      "eng": "comb",
+      "kk": "koʊm",
+      "tense": "vt.",
+      "ch": [
+        [
+          "梳理（頭髮）"
+        ],
+        [
+          "徹底搜查",
+          "搜遍"
+        ]
+      ],
+      "analysis": "此字為及物動詞，原指用梳子梳頭髮，引申比喻為像用梳子一樣仔細地徹底搜查某個區域。",
+      "definition": "1. To arrange or tidy hair with a comb; 2. To search a place very thoroughly and carefully.",
+      "example": [
+        {
+          "eng": "Rescue workers combed the forest for the missing hiker.",
+          "ch": "搜救人員徹底搜查了森林以尋找失蹤的登山客。"
+        }
+      ]
+    },
+    {
+      "eng": "combine",
+      "kk": "kəmˈbaɪn",
+      "tense": "vt.",
+      "ch": [
+        [
+          "結合",
+          "聯合",
+          "組合"
+        ],
+        [
+          "兼做",
+          "同時具有（多種特質或功能）"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自拉丁語 combinare（將兩物配對結合，源於 bini「成雙」）。指將兩個或多個事物融為一體或同時運用多種特性。",
+      "definition": "1. To join or merge two or more things together to form a single unit; 2. To possess or show multiple features or functions at the same time.",
+      "example": [
+        {
+          "eng": "You can combine theory and practical training in this course.",
+          "ch": "你可以在這門課程中將理論與實務訓練結合起來。"
+        },
+        {
+          "eng": "The new car combines high speed with fuel efficiency.",
+          "ch": "這款新車兼具高速與省油的優點。"
+        }
+      ]
+    },
+    {
+      "eng": "combine",
+      "kk": "kəmˈbaɪn",
+      "tense": "vi.",
+      "ch": [
+        [
+          "結合",
+          "聯合",
+          "化合"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，指人與人、組織合作聯手，或指化學物質起反應相互結合。",
+      "definition": "1. To unite, join, or come together for a shared purpose, or react chemically.",
+      "example": [
+        {
+          "eng": "Hydrogen and oxygen combine to form water.",
+          "ch": "氫與氧結合形成水。"
+        }
+      ]
+    },
+    {
+      "eng": "comic",
+      "kk": "ˈkɑmɪk",
+      "tense": "n.",
+      "ch": [
+        [
+          "漫畫（通常用複數或特定上下文）"
+        ],
+        [
+          "喜劇演員"
+        ]
+      ],
+      "analysis": "此字為名詞，指喜劇演員，或以圖畫說故事的漫畫書（在現代多以複數 comics 更常見）。",
+      "definition": "1. A comedian or funny person; 2. A magazine or book containing comic strips (usually pluralized as comics).",
+      "example": [
+        {
+          "eng": "When he was a teenager, he loved reading superhero comics.",
+          "ch": "他青少年時期很喜歡閱讀超級英雄漫畫。"
+        }
+      ]
+    },
+    {
+      "eng": "comic",
+      "kk": "ˈkɑmɪk",
+      "tense": "adj.",
+      "ch": [
+        [
+          "滑稽的",
+          "好笑的",
+          "喜劇的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自古希臘語 kōmikos（源於 kōmos「狂歡、喜劇」）。用來形容令人捧腹大笑、具有喜劇效果的特質。",
+      "definition": "1. Causing laughter; humorous or related to comedy.",
+      "example": [
+        {
+          "eng": "He made a comic gesture that caused everyone in the room to laugh.",
+          "ch": "他做了一個滑稽的手勢，引得房間裡的每個人都笑出聲來。"
+        }
+      ]
+    },
+    {
+      "eng": "comics",
+      "kk": "ˈkɑmɪks",
+      "tense": "n.",
+      "ch": [
+        [
+          "漫畫",
+          "連環漫畫冊"
+        ]
+      ],
+      "analysis": "此字為 comic 的複數名詞表面形式，專門指漫畫書、漫畫專欄或連環漫畫。",
+      "definition": "1. Magazines or books featuring sequential art and stories told through drawings.",
+      "example": [
+        {
+          "eng": "The children sat on the floor reading Japanese manga comics.",
+          "ch": "孩子們坐在地板上讀日本漫畫。"
+        }
+      ]
+    },
+    {
+      "eng": "command",
+      "kk": "kəˈmænd",
+      "tense": "n.",
+      "ch": [
+        [
+          "命令",
+          "指令"
+        ],
+        [
+          "控制",
+          "掌握",
+          "運用能力"
+        ]
+      ],
+      "analysis": "此字為名詞，指上級下達的具體指令，或對某種語言、技能的熟練掌握與控制能力。",
+      "definition": "1. An official order or instruction; 2. Control over someone or something, or mastery of a subject or language.",
+      "example": [
+        {
+          "eng": "You must obey the captain's command without hesitation.",
+          "ch": "你必須毫不猶豫地服從船長的命令。"
+        },
+        {
+          "eng": "She has an impressive command of three different foreign languages.",
+          "ch": "她對三種不同的外語具備令人印象深刻的精通掌握能力。"
+        }
+      ]
+    },
+    {
+      "eng": "command",
+      "kk": "kəˈmænd",
+      "tense": "vt.",
+      "ch": [
+        [
+          "命令",
+          "指揮",
+          "統帥"
+        ],
+        [
+          "博得",
+          "應得（尊敬、關注等）"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自拉丁語 commendare（託付），後受拉丁語 mandare（命令）影響演變為下達指令、掌控軍隊，或引申為自然而然獲得眾人的尊敬與注目。",
+      "definition": "1. To give an order or instruction to someone in authority; 2. To deserve and receive respect, attention, or loyalty.",
+      "example": [
+        {
+          "eng": "The general commanded his troops to advance toward the enemy line.",
+          "ch": "將軍命令部隊向敵軍防線推進。"
+        },
+        {
+          "eng": "Her brilliant performance on stage commanded the audience's full attention.",
+          "ch": "她在舞台上的精彩表現博得了觀眾的全部注意力。"
+        }
+      ]
+    },
+    {
+      "eng": "commercial",
+      "kk": "kəˈmɝʃəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "商業廣告（電視或廣播播出的）"
+        ]
+      ],
+      "analysis": "此字為名詞，原為形容詞用法省略，專門指在電視或廣播節目中播出的商業廣告。",
+      "definition": "1. An advertisement broadcast on television or radio.",
+      "example": [
+        {
+          "eng": "A funny television commercial played during the football game break.",
+          "ch": "足球比賽中場休息時播了一支有趣的電視廣告。"
+        }
+      ]
+    },
+    {
+      "eng": "commercial",
+      "kk": "kəˈmɝʃəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "商業的",
+          "貿易的",
+          "營利性的"
+        ]
+      ],
+      "analysis": "此字為形容詞，由 commerce（商業）加上形容詞字尾 -cial。用來形容與商業買賣、貿易活動或盈利事業相關的事物。",
+      "definition": "1. Connected with or engaged in commerce, trade, or business with the aim of making a profit.",
+      "example": [
+        {
+          "eng": "The downtown area is packed with bustling commercial shops and offices.",
+          "ch": "市中心地區擠滿了繁華的商業店鋪和辦公室。"
+        }
+      ]
+    },
+    {
+      "eng": "company",
+      "kk": "ˈkʌmpəni",
+      "tense": "n.",
+      "ch": [
+        [
+          "公司",
+          "企業"
+        ],
+        [
+          "陪伴",
+          "交誼"
+        ],
+        [
+          "賓客",
+          "來賓（總稱）"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古法語 compagnie（源於拉丁語 com-「共同」+ panis「麵包」，原意指分食同一塊麵包的人群、伴侶）。現代指商業公司、陪伴或聚在一起的客人。",
+      "definition": "1. A commercial business organization; 2. The state of being with someone; companionship; 3. Guests or visitors.",
+      "example": [
+        {
+          "eng": "He works as a software engineer for a tech company in Taipei.",
+          "ch": "他在台北的一家科技公司擔任軟體工程師。"
+        },
+        {
+          "eng": "Thank you for your lovely company throughout the long journey.",
+          "ch": "謝謝你一路上的美好陪伴。"
+        },
+        {
+          "eng": "We are expecting some important company for dinner tonight.",
+          "ch": "我們今晚有幾位重要的貴賓要來吃晚餐。"
+        }
+      ]
+    },
+    {
+      "eng": "compare",
+      "kk": "kəmˈpɛr",
+      "tense": "vt.",
+      "ch": [
+        [
+          "比較",
+          "對照"
+        ],
+        [
+          "比作",
+          "比擬"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自拉丁語 comparare（使成對、比較，源於 par「相等」）。指檢視兩個或多個事物的異同，或將某物比作另一物。",
+      "definition": "1. To examine two or more things in order to note similarities and differences; 2. To liken one thing to another or suggest they are similar.",
+      "example": [
+        {
+          "eng": "It is helpful to compare prices online before buying a new phone.",
+          "ch": "買新手機前在網路上比價很有幫助。"
+        },
+        {
+          "eng": "Many poets compare a woman's eyes to shining stars.",
+          "ch": "許多詩人將女人的眼睛比作閃亮的星星。"
+        }
+      ]
+    },
+    {
+      "eng": "compare",
+      "kk": "kəmˈpɛr",
+      "tense": "vi.",
+      "ch": [
+        [
+          "相比",
+          "匹敵"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，常與 can't 搭配（cannot compare to），表示無法與...相比或相提並論。",
+      "definition": "1. To be similar or comparable to something, or to be evaluated in relation to another.",
+      "example": [
+        {
+          "eng": "Nothing can compare to the taste of homemade apple pie.",
+          "ch": "沒有什麼比得上自家製蘋果派的味道。"
+        }
+      ]
+    },
+    {
+      "eng": "complete",
+      "kk": "kəmˈplit",
+      "tense": "vt.",
+      "ch": [
+        [
+          "完成",
+          "結束",
+          "使完整"
+        ]
+      ],
+      "analysis": "此字為及物動詞，指做完、結束一項任務、學業或填滿表格等。",
+      "definition": "1. To finish making or doing something; to bring to an end.",
+      "example": [
+        {
+          "eng": "Workers managed to complete the bridge construction ahead of schedule.",
+          "ch": "工人們趕在預定進度前完成了橋樑建設。"
+        }
+      ]
+    },
+    {
+      "eng": "complete",
+      "kk": "kəmˈplit",
+      "tense": "adj.",
+      "ch": [
+        [
+          "完整的",
+          "全部的"
+        ],
+        [
+          "徹底的",
+          "十足的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自拉丁語 complere（填滿、完成，源於 com-「加強」+ plere「填滿」）。指無所缺漏的完整狀態，或強調程度上的十足徹底（如 complete disaster）。",
+      "definition": "1. Having all the necessary or appropriate parts; whole; 2. Total and absolute; thorough.",
+      "example": [
+        {
+          "eng": "Please make sure you submit the complete application form on time.",
+          "ch": "請確保按時提交完整的申請表。"
+        },
+        {
+          "eng": "The project turned out to be a complete success.",
+          "ch": "該專案結果獲得了十足的成功。"
+        }
+      ]
+    },
+    {
+      "eng": "complex",
+      "kk": "ˈkɑmˌplɛks",
+      "tense": "n.",
+      "ch": [
+        [
+          "綜合大樓",
+          "複合建築群"
+        ],
+        [
+          "情結（心理學）"
+        ]
+      ],
+      "analysis": "此字為名詞，指由多棟建築物組成的綜合設施，或心理學上的某種情結（如 inferiority complex 劣等感）。",
+      "definition": "1. A group of buildings designed for a particular purpose; 2. A psychological condition or obsession involving abnormal anxieties.",
+      "example": [
+        {
+          "eng": "They live in a modern apartment complex near the subway station.",
+          "ch": "他們住在地鐵站附近的現代化公寓大樓群中。"
+        }
+      ]
+    },
+    {
+      "eng": "complex",
+      "kk": "kəmˈplɛks",
+      "tense": "adj.",
+      "ch": [
+        [
+          "複雜的",
+          "錯綜複雜的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自拉丁語 complectere（編織在一起，源於 com-「共同」+ plectere「編織」）。形容事物由許多相互交織的部分組成，難以理解或處理。",
+      "definition": "1. Consisting of many different and connected parts; hard to understand or deal with.",
+      "example": [
+        {
+          "eng": "The scientist explained the complex mathematical formula on the whiteboard.",
+          "ch": "科學家在白板上解釋了複雜的數學公式。"
+        }
+      ]
+    },
+    {
+      "eng": "concern",
+      "kk": "kənˈsɝn",
+      "tense": "n.",
+      "ch": [
+        [
+          "擔心",
+          "憂慮"
+        ],
+        [
+          "關心的事",
+          "重要的事情"
+        ],
+        [
+          "公司",
+          "企業"
+        ]
+      ],
+      "analysis": "此字為名詞，指心中的憂慮不安，或某人關切的事務，亦可口語指商業公司、企業組織。",
+      "definition": "1. Anxiety, worry, or a matter that interests and involves someone; 2. A business firm or company.",
+      "example": [
+        {
+          "eng": "Climate change is a major global concern for future generations.",
+          "ch": "氣候變遷是未來世代的一大全球關切議題。"
+        },
+        {
+          "eng": "The family runs a small agricultural concern in the countryside.",
+          "ch": "這個家庭在鄉下經營一家小型農業企業。"
+        }
+      ]
+    },
+    {
+      "eng": "concern",
+      "kk": "kənˈsɝn",
+      "tense": "vt.",
+      "ch": [
+        [
+          "涉及",
+          "關於"
+        ],
+        [
+          "使擔憂",
+          "使掛念"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自拉丁語 concernere（混合、與...相關，源於 com- + cernere「篩選、區分」）。指事情與某人有關，或引起某人的憂慮與掛心。",
+      "definition": "1. To relate to or be about someone or something; 2. To cause worry or anxiety to someone.",
+      "example": [
+        {
+          "eng": "This new policy concerns all employees working in the department.",
+          "ch": "這項新政策與該部門所有的員工都有關。"
+        },
+        {
+          "eng": "The recent drop in sales deeply concerns the board of directors.",
+          "ch": "最近銷售額的下降讓董事會深感擔憂。"
+        }
+      ]
+    },
+    {
+      "eng": "conclude",
+      "kk": "kənˈklud",
+      "tense": "vt.",
+      "ch": [
+        [
+          "斷定",
+          "推斷出"
+        ],
+        [
+          "結束",
+          "使完結"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自拉丁語 concludere（關閉、得出結論，源於 com- + claudere「關閉」）。指經過思考後得出結論，或使活動、會議正式結束。",
+      "definition": "1. To arrive at a judgment or opinion by reasoning; 2. To bring something to an end.",
+      "example": [
+        {
+          "eng": "After reviewing all the evidence, the detective concluded that the door was unlocked.",
+          "ch": "檢視完所有證據後，偵探斷定那扇門當時並未上鎖。"
+        },
+        {
+          "eng": "The conference concluded with a speech by the president.",
+          "ch": "會議以社長的致詞作結。"
+        }
+      ]
+    },
+    {
+      "eng": "conclude",
+      "kk": "kənˈklud",
+      "tense": "vi.",
+      "ch": [
+        [
+          "結束",
+          "終結"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，指事件、演講或討論告一段落、自然結束。",
+      "definition": "1. To come to an end; to finish.",
+      "example": [
+        {
+          "eng": "The investigation will conclude by the end of this month.",
+          "ch": "調查工作將在本月底結束。"
+        }
+      ]
+    },
+    {
+      "eng": "condition",
+      "kk": "kənˈdɪʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "狀況",
+          "狀態"
+        ],
+        [
+          "條件",
+          "前提"
+        ],
+        [
+          "疾病",
+          "健康毛病"
+        ]
+      ],
+      "analysis": "此字為名詞，源自拉丁語 condicio（協議、合約、狀態，源於 con- + dicere「說、約定」）。指人、事物的健康或物理狀況，或是協議中的先決條件，亦可指慢性病或健康狀況。",
+      "definition": "1. The state of something with regard to its appearance, quality, or working order; 2. A requirement or factor that must be met; 3. A medical problem or illness.",
+      "example": [
+        {
+          "eng": "The vintage car is still in excellent condition after fifty years.",
+          "ch": "這輛老爺車經過五十年後狀況依然非常好。"
+        },
+        {
+          "eng": "Getting a high salary is the main condition of accepting the job offer.",
+          "ch": "獲得高薪是接受這份工作邀約的主要條件。"
+        },
+        {
+          "eng": "He is receiving treatment for a chronic heart condition.",
+          "ch": "他正在接受慢性心臟疾病的治療。"
+        }
+      ]
+    },
+    {
+      "eng": "confident",
+      "kk": "ˈkɑnfɪdənt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "有信心的",
+          "自信的",
+          "確信的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自拉丁語 confidentem（源於 confidere「完全信任、確信」，由 com- + fidere「信任」組成）。形容人對自己充滿信心，或對某事深信不疑。",
+      "definition": "1. Feeling or showing certainty about one's abilities or about the future; assured.",
+      "example": [
+        {
+          "eng": "She felt confident that she would pass the job interview successfully.",
+          "ch": "她對自己能順利通過面試感到很有信心。"
+        }
+      ]
+    },
+    {
+      "eng": "conflict",
+      "kk": "ˈkɑnflɪkt",
+      "tense": "n.",
+      "ch": [
+        [
+          "衝突",
+          "爭執",
+          "摩擦"
+        ]
+      ],
+      "analysis": "此字為名詞，源自拉丁語 conflictus（打鬥、撞擊，源於 con- + fligere「打擊」）。指意見、利益或軍事上的對立衝突。",
+      "definition": "1. A serious disagreement or struggle, typically a protracted one, or a clash of opposing ideas or interests.",
+      "example": [
+        {
+          "eng": "The two countries tried to resolve their border conflict through diplomacy.",
+          "ch": "兩國試圖透過外交途徑解決邊界衝突。"
+        }
+      ]
+    },
+    {
+      "eng": "conflict",
+      "kk": "kənˈflɪkt",
+      "tense": "vi.",
+      "ch": [
+        [
+          "衝突",
+          "抵觸",
+          "不一致"
+        ]
+      ],
+      "analysis": "此字為不及物動詞（重音在第二音節），指意見、時間或事實彼此互相矛盾、抵觸。",
+      "definition": "1. To be incompatible or clash; to be at variance with one another.",
+      "example": [
+        {
+          "eng": "My personal schedule conflicts with the proposed meeting time.",
+          "ch": "我的個人行程與擬議的會議時間相衝突。"
+        }
+      ]
+    },
+    {
+      "eng": "congratulation",
+      "kk": "kənˌɡrætʃəˈleʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "祝賀",
+          "恭喜（單數形式或作為概念）"
+        ]
+      ],
+      "analysis": "此字為名詞，源自拉丁語 congratulari（向人道賀，源於 com- + gratulari「表示高興、感謝」）。指表達祝賀的心意與行動（通常複數 congratulations 更常作為感嘆祝賀語）。",
+      "definition": "1. The act of expressing praise and good wishes to someone for a special achievement or occasion.",
+      "example": [
+        {
+          "eng": "Accept my warm congratulation on your promotion to manager.",
+          "ch": "接受我對你晉升經理的熱烈祝賀。"
+        }
+      ]
+    },
+    {
+      "eng": "congratulations",
+      "kk": "kənˌɡrætʃəˈleʃənz",
+      "tense": "n.",
+      "ch": [
+        [
+          "恭喜",
+          "祝賀（複數習慣用法或獨立感嘆語）"
+        ]
+      ],
+      "analysis": "此字為 congratulation 的複數形式，在日常生活中最常作為獨立的感嘆句，用於向獲得成就或喜事的人表達「恭喜！」。",
+      "definition": "1. An expression of praise and good wishes used when congratulating someone.",
+      "example": [
+        {
+          "eng": "Congratulations on passing your driving test on the first try!",
+          "ch": "恭喜你一次就考過駕照！"
+        }
+      ]
+    },
+    {
+      "eng": "connection",
+      "kk": "kəˈnɛkʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "連接",
+          "聯結"
+        ],
+        [
+          "關聯",
+          "聯繫"
+        ],
+        [
+          "人脈",
+          "關係網"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 connect（連接）加上名詞字尾 -ion 構成。指事物之間的實體連接、抽象關聯，或指個人在社會或職場中的人脈關係。",
+      "definition": "1. The act of joining things together or the state of being joined; 2. A relationship or link between people or ideas; 3. Personal or business contacts (connections).",
+      "example": [
+        {
+          "eng": "The technician checked the internet cable connection in the office.",
+          "ch": "技術人員檢查了辦公室裡的網路線連接。"
+        },
+        {
+          "eng": "Police are investigating the connection between the two crimes.",
+          "ch": "警方正在調查這兩起罪案之間的關聯。"
+        },
+        {
+          "eng": "He used his political connections to secure funding for the project.",
+          "ch": "他利用他的政治人脈為該專案爭取資金。"
+        }
+      ]
+    },
+    {
+      "eng": "consider",
+      "kk": "kənˈsɪdɚ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "考慮",
+          "思索"
+        ],
+        [
+          "認為",
+          "視作"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自拉丁語 considerare（仔細觀察星象、思索，源於 con- + sidus「星座」）。指深思熟慮某事，或在心中將某人、某物視為特定身份。",
+      "definition": "1. To think carefully about something, typically before making a decision; 2. To regard or think of someone or something in a specified way.",
+      "example": [
+        {
+          "eng": "Please take a few days to consider our job offer before replying.",
+          "ch": "請花幾天時間考慮我們的錄取邀約後再回覆。"
+        },
+        {
+          "eng": "Most people consider her to be the best violinist in the orchestra.",
+          "ch": "大多數人都認為她是樂團裡最好的小提琴手。"
+        }
+      ]
+    },
+    {
+      "eng": "consider",
+      "kk": "kənˈsɪdɚ",
+      "tense": "vi.",
+      "ch": [
+        [
+          "仔細考慮",
+          "斟酌"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，表示進行思考、權衡利弊的過程，通常出現在祈使句或需要沉思的語境中。",
+      "definition": "1. To pause and think deeply about a matter.",
+      "example": [
+        {
+          "eng": "Before you make a final decision, stop and consider.",
+          "ch": "在你做出最後決定之前，先停下來斟酌一下。"
+        }
+      ]
+    }
+  ]
+}

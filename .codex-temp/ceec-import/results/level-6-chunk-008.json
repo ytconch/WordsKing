@@ -1,0 +1,1177 @@
+{
+  "level": 6,
+  "chunkIndex": 8,
+  "inputs": [
+    "falter",
+    "familiarity",
+    "fascination",
+    "feasible",
+    "feeble",
+    "feminine",
+    "fertility",
+    "fertilizer",
+    "fiancé",
+    "fiance",
+    "fin",
+    "finite",
+    "firecracker",
+    "fireproof",
+    "fishery",
+    "flake",
+    "flaw",
+    "flourish",
+    "flunk",
+    "foe",
+    "folklore",
+    "formidable",
+    "formulate",
+    "forsake",
+    "forthcoming",
+    "fortify",
+    "fowl",
+    "fracture",
+    "fragrance",
+    "fragrant",
+    "frantic",
+    "freak",
+    "freeway",
+    "friction",
+    "fume",
+    "fury",
+    "fuse",
+    "fuss",
+    "gallop",
+    "gangster",
+    "garment",
+    "gauge",
+    "gay",
+    "geographical",
+    "geometry",
+    "glacier",
+    "glamorous",
+    "glamour",
+    "gleam",
+    "glide"
+  ],
+  "rows": [
+    {
+      "eng": "falter",
+      "kk": "ˈfɔltɚ",
+      "tense": "vi.",
+      "ch": [
+        [
+          "踉蹌",
+          "搖晃",
+          "步履不穩"
+        ],
+        [
+          "畏縮",
+          "猶豫",
+          "動搖"
+        ],
+        [
+          "（聲音）顫抖",
+          "結巴"
+        ]
+      ],
+      "analysis": "此字為源自日耳曼語族的動詞，可能與古諾斯語 kvalltr（跛的、不穩的）或相關日耳曼根源有關，經中古英語進入英語。現代主要作為不及物動詞使用，用來形容動作、意志或聲音的不穩定與動搖。",
+      "definition": "1. to move unsteady in a way that suggests a lack of balance or physical weakness; 2. to hesitate or lose confidence and strength in purpose or action; 3. to speak in a broken, unsteady, or wavering voice.",
+      "example": [
+        {
+          "eng": "She began to falter on the steep mountain trail.",
+          "ch": "她在陡峭的山徑上開始踉蹌起來。"
+        },
+        {
+          "eng": "His courage did not falter during the crisis.",
+          "ch": "在危機期間，他的勇氣並沒有動搖。"
+        },
+        {
+          "eng": "His voice began to falter as he recalled the tragic event.",
+          "ch": "當他回憶起那起悲劇時，他的聲音開始顫抖。"
+        }
+      ]
+    },
+    {
+      "eng": "familiarity",
+      "kk": "fəˌmɪliˈærəti",
+      "tense": "n.",
+      "ch": [
+        [
+          "熟悉",
+          "通曉"
+        ],
+        [
+          "親密",
+          "隨便"
+        ]
+      ],
+      "analysis": "此字由形容詞 familiar 加上名詞字尾 -ity（構成抽象名詞）組合而成。字源可追溯至拉丁語 familiaritas，源自 familiaris（私密的、熟悉的），最終源於 familia（家庭）。名詞表示對某事物的熟悉程度，或人際間過度親近的態度。",
+      "definition": "1. thorough knowledge or understanding of something; 2. unreserved, overly casual, or intimate behavior.",
+      "example": [
+        {
+          "eng": "Her familiarity with the local customs helped her adapt quickly.",
+          "ch": "她對當地風俗的熟悉幫助她迅速適應。"
+        },
+        {
+          "eng": "He spoke to his boss with an unacceptable level of familiarity.",
+          "ch": "他對老闆說話時帶著一種無法接受的過度隨便態度。"
+        }
+      ]
+    },
+    {
+      "eng": "fascination",
+      "kk": "ˌfæsəˈneʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "著迷",
+          "入迷",
+          "吸引力"
+        ]
+      ],
+      "analysis": "此字由動詞 fascinate 加上名詞字尾 -ion 構成。字源來自拉丁語 fascinatio，源自 fascinare（施以魔法、迷住、魅惑），與古希臘語 baskanein（迷魂、嫉妒）有關。現代英語中指強烈的吸引力或深深著迷的狀態。",
+      "definition": "1. the state of being intensely interested, charmed, or captivated by something.",
+      "example": [
+        {
+          "eng": "He has a lifelong fascination with ancient history.",
+          "ch": "他對古代歷史有著一生不減的著迷。"
+        }
+      ]
+    },
+    {
+      "eng": "feasible",
+      "kk": "ˈfizəbəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "可行的",
+          "行得通的"
+        ]
+      ],
+      "analysis": "此字源於古法語 faisible（可做的），來自 faire（做，源自拉丁語 facere）加上形容詞字尾 -ible（表示能夠）。透過中古英語進入英語，字面上即為「可做到的」，現代多用於計畫、方案等的實際可行性評估。",
+      "definition": "1. possible to do easily or conveniently within a reasonable time and with available resources.",
+      "example": [
+        {
+          "eng": "The committee concluded that the proposed plan was financially feasible.",
+          "ch": "委員會得出結論，所提出的計畫在財務上是可行的。"
+        }
+      ]
+    },
+    {
+      "eng": "feeble",
+      "kk": "ˈfibəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "虛弱的",
+          "無力的"
+        ],
+        [
+          "微弱的",
+          "不夠有力度的"
+        ]
+      ],
+      "analysis": "此字經由古法語 feble、fible 借入英語，最終源自拉丁語 flebilis（可悲的、悲傷的），在拉丁語演變過程中語義轉向「軟弱的、悲慘的」。現代用來形容身體虛弱，或理由、企圖等缺乏說服力與力量。",
+      "definition": "1. physically weak, especially from age or illness; 2. lacking strength, effectiveness, or conviction.",
+      "example": [
+        {
+          "eng": "The elderly patient was too feeble to stand up without assistance.",
+          "ch": "這位高齡病人太過虛弱，無法在沒有協助的情況下站起來。"
+        },
+        {
+          "eng": "He offered a feeble excuse for being late to the meeting.",
+          "ch": "他對開會遲到給出了一個軟弱無力的藉口。"
+        }
+      ]
+    },
+    {
+      "eng": "feminine",
+      "kk": "ˈfɛmənɪn",
+      "tense": "adj.",
+      "ch": [
+        [
+          "女性的",
+          "具有女性特質的"
+        ],
+        [
+          "（語法）陰性的"
+        ]
+      ],
+      "analysis": "此字源於拉丁語 femininus，衍生自 femina（女人）。經由中古英語進入英語。現代主要用來指涉與女性氣質相關的特徵，或在語言學中指陰性名詞或詞尾。",
+      "definition": "1. having qualities traditionally associated with women or girls; 2. belonging to the grammatical gender that in many languages refers to female beings.",
+      "example": [
+        {
+          "eng": "She wore a soft, feminine dress to the party.",
+          "ch": "她穿了一件柔美、具女性特質的洋裝去參加派對。"
+        },
+        {
+          "eng": "In French, the noun 'table' is feminine.",
+          "ch": "在法語中，名詞『桌子』是陰性的。"
+        }
+      ]
+    },
+    {
+      "eng": "fertility",
+      "kk": "fɚˈtɪləti",
+      "tense": "n.",
+      "ch": [
+        [
+          "生殖力",
+          "生育能力"
+        ],
+        [
+          "（土地）肥沃度"
+        ]
+      ],
+      "analysis": "此字由形容詞 fertile 加上名詞字尾 -ity 構成。字源來自拉丁語 fertilitas，源自 fertilis（肥沃的、多產的），根源為 ferre（承載、帶來）。現代主要指生物的繁衍能力或土壤的肥力。",
+      "definition": "1. the ability to produce offspring or crops; 2. the quality of being fertile, especially of soil.",
+      "example": [
+        {
+          "eng": "Medical treatments can sometimes help restore fertility.",
+          "ch": "醫療手段有時可以幫助恢復生育能力。"
+        },
+        {
+          "eng": "The high fertility of the river valley supports abundant agriculture.",
+          "ch": "河谷高度的土壤肥沃度支持了繁盛的農業。"
+        }
+      ]
+    },
+    {
+      "eng": "fertilizer",
+      "kk": "ˈfɝtəˌlaɪzɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "肥料"
+        ]
+      ],
+      "analysis": "此字由動詞 fertilize（使肥沃）加上名詞字尾 -er（表示工具或物質）構成。字根與 fertile 相同。現代專指用以提高土壤肥力的化學或天然肥料物質。",
+      "definition": "1. a chemical or natural substance added to soil or land to increase its fertility.",
+      "example": [
+        {
+          "eng": "The farmer applied organic fertilizer to improve crop yields.",
+          "ch": "農夫施用了有機肥料以提高農作物產量。"
+        }
+      ]
+    },
+    {
+      "eng": "fiancé",
+      "kk": "fiˈɑnseɪ",
+      "tense": "n.",
+      "ch": [
+        [
+          "未婚夫"
+        ]
+      ],
+      "analysis": "此字直接借自法語 fiancé（過去分詞用作名詞），源自古法語 fiancer（訂婚），根源為 fiance（信任、保證，源自拉丁語 fidare）。現代英語保留了法語的拼寫（帶重音符號）專指未婚男性。",
+      "definition": "1. a man to whom someone is engaged to be married.",
+      "example": [
+        {
+          "eng": "She introduced her fiancé to all her colleagues.",
+          "ch": "她向所有同事介紹了她的未婚夫。"
+        }
+      ]
+    },
+    {
+      "eng": "fiance",
+      "kk": "fiˈɑnseɪ",
+      "tense": "n.",
+      "ch": [
+        [
+          "未婚夫"
+        ]
+      ],
+      "analysis": "此字為 fiancé 的常見英文無重音符號拼法，源自法語借詞。在現代英語中常作為同義異形詞或拼寫簡化形式使用，指稱未婚夫。",
+      "definition": "1. an alternative, unaccented spelling of fiancé, referring to a man to whom someone is engaged.",
+      "example": [
+        {
+          "eng": "They announced their upcoming wedding alongside her fiance.",
+          "ch": "他們與未婚夫一同宣佈了即將到來的婚禮。"
+        }
+      ]
+    },
+    {
+      "eng": "fin",
+      "kk": "fɪn",
+      "tense": "n.",
+      "ch": [
+        [
+          "鰭"
+        ],
+        [
+          "（飛機等的）安定面",
+          "鰭狀物"
+        ]
+      ],
+      "analysis": "此字為日耳曼語源（源自古英語 finn），與德語 Finne 同源。最初指魚類的鰭，後來借用其形狀延伸指稱飛機、火箭或潛水裝備上的類似結構。",
+      "definition": "1. a small flat appendage attached to the body of a fish, used for balancing and swimming; 2. a vertical stabilizing surface on an aircraft or rocket.",
+      "example": [
+        {
+          "eng": "The shark's dorsal fin cut through the water surface.",
+          "ch": "鯊魚的背鰭劃過水面。"
+        },
+        {
+          "eng": "The tail fin helps stabilize the aircraft during high-speed flight.",
+          "ch": "尾翼助於在高速飛行時穩定飛機。"
+        }
+      ]
+    },
+    {
+      "eng": "finite",
+      "kk": "ˈfaɪnaɪt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "有限的"
+        ],
+        [
+          "（語法）限定的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 finitus（有限的，為 finire 的過去分詞），源自 finis（終點、界限）。經由中古英語進入英語。現代用來指資源、數量有窮盡的，或語法中受主語限定的動詞形式。",
+      "definition": "1. having limits or bounds; not infinite; 2. (of a verb form) limited by person and number, showing tense.",
+      "example": [
+        {
+          "eng": "Human beings must learn to live within our finite natural resources.",
+          "ch": "人類必須學會在有限的自然資源內生活。"
+        },
+        {
+          "eng": "In the sentence 'She runs', 'runs' is a finite verb.",
+          "ch": "在句子『她跑步』中，『runs』是一個限定動詞。"
+        }
+      ]
+    },
+    {
+      "eng": "firecracker",
+      "kk": "ˈfaɪrˌkrækɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "鞭炮",
+          "爆竹"
+        ]
+      ],
+      "analysis": "此字為現代透明複合詞，由 fire（火）與 cracker（會發出爆裂聲的事物，源自 crack）組合而成。指會發出連續爆炸聲響的慶祝用爆竹。",
+      "definition": "1. a small explosive device made of a paper tube containing explosive powder, designed to make a loud noise.",
+      "example": [
+        {
+          "eng": "Children set off firecrackers to celebrate the Lunar New Year.",
+          "ch": "孩子們放鞭炮來慶祝農曆新年。"
+        }
+      ]
+    },
+    {
+      "eng": "fireproof",
+      "kk": "ˈfaɪrˌpruf",
+      "tense": "adj.",
+      "ch": [
+        [
+          "防火的",
+          "耐火的"
+        ]
+      ],
+      "analysis": "此字為現代透明複合詞，由 fire（火）與形容詞／字尾成分 proof（防禦的、能抵抗的，源自中古英語 prove）組合而成。指能抵禦火災損害的材質。",
+      "definition": "1. designed to prevent damage or destruction by fire.",
+      "example": [
+        {
+          "eng": "Important documents should be kept in a fireproof safe.",
+          "ch": "重要文件應該放在防火保險箱裡。"
+        }
+      ]
+    },
+    {
+      "eng": "fishery",
+      "kk": "ˈfɪʃəri",
+      "tense": "n.",
+      "ch": [
+        [
+          "漁業",
+          "漁場"
+        ]
+      ],
+      "analysis": "此字由名詞 fisher（漁夫）或 fish 加上名詞字尾 -ery（表示場所或行業）組合而成。源自日耳曼語源的古英語。現代指捕魚的行業、商業漁場或人工魚苗繁殖場。",
+      "definition": "1. an industry or establishment engaged in catching or rearing fish; 2. a place where fish are caught or bred.",
+      "example": [
+        {
+          "eng": "The local economy relies heavily on the coastal fishery.",
+          "ch": "當地經濟極大程度依賴沿海漁業。"
+        },
+        {
+          "eng": "The government established a salmon fishery to boost fish stocks.",
+          "ch": "政府設立了鮭魚孵育場以增加魚群存量。"
+        }
+      ]
+    },
+    {
+      "eng": "flake",
+      "kk": "fleɪk",
+      "tense": "n.",
+      "ch": [
+        [
+          "薄片",
+          "小片"
+        ],
+        [
+          "怪人",
+          "行為古怪且不可靠的人"
+        ]
+      ],
+      "analysis": "此字源自日耳曼語源（可能與古諾斯語 flaki 或荷蘭語 vlaak 有關）。基本義指剝落下來的薄片；在現代美式口語中，引申出指做事不靠譜、思緒怪異的人（俗稱怪人或不負責任者）。",
+      "definition": "1. a small, thin, flat piece of something peeled or broken off a larger surface; 2. an eccentric, unreliable, or slightly crazy person.",
+      "example": [
+        {
+          "eng": "Snowflakes began to fall from the grey winter sky.",
+          "ch": "雪花開始從灰暗的冬日天空落下。"
+        },
+        {
+          "eng": "Don't count on him; he's known to be a total flake.",
+          "ch": "別指望他；大家都知道他完全是個不靠譜的怪人。"
+        }
+      ]
+    },
+    {
+      "eng": "flaw",
+      "kk": "flɔ",
+      "tense": "n.",
+      "ch": [
+        [
+          "缺點",
+          "瑕疵",
+          "缺陷"
+        ]
+      ],
+      "analysis": "此字源於古諾斯語 flaga（裂縫、地面缺口）或相關日耳曼語源，早期在英語中指風暴或裂痕，後來演變為指物品上的物理瑕疵或理論、性格中的漏洞與缺點。",
+      "definition": "1. a mark, fault, or other imperfection that mars a substance or object; 2. a fault in a plan, system, or character.",
+      "example": [
+        {
+          "eng": "A small flaw in the diamond reduced its market value.",
+          "ch": "鑽石上的一個小瑕疵降低了它的市場價值。"
+        },
+        {
+          "eng": "We need to find and fix every flaw in the software before release.",
+          "ch": "我們必須在發布前找出並修復軟體中的每一個漏洞。"
+        }
+      ]
+    },
+    {
+      "eng": "flourish",
+      "kk": "ˈflɝɪʃ",
+      "tense": "vi.",
+      "ch": [
+        [
+          "繁榮",
+          "興旺"
+        ],
+        [
+          "生長茂盛",
+          "欣欣向榮"
+        ]
+      ],
+      "analysis": "此字經由古法語 floriss-（florir 的詞幹），源自拉丁語 florescere（開花），根源為 flos（花）。透過中古英語進入英語，最初指植物開花，後來引申為事業、文明或生物的繁榮與興盛。",
+      "definition": "1. to grow or develop in a healthy or vigorous way, especially as the result of a favorable environment; 2. to thrive and prosper.",
+      "example": [
+        {
+          "eng": "Small businesses can flourish in a supportive economic climate.",
+          "ch": "小型企業能在支持性的經濟環境中繁榮發展。"
+        },
+        {
+          "eng": "Tropical plants flourish in hot and humid weather.",
+          "ch": "熱帶植物在炎熱潮濕的天氣中生長茂盛。"
+        }
+      ]
+    },
+    {
+      "eng": "flunk",
+      "kk": "flʌŋk",
+      "tense": "vi.",
+      "ch": [
+        [
+          "不及格",
+          "考試或課程被當掉"
+        ]
+      ],
+      "analysis": "此字為 18 世紀晚期出現的美國校園俚語，可能源自方言動詞 flunk（放棄、畏縮，可能與德語 flunkern 或方言發音有關）。現代專指在考試、測驗或學科中成績不及格。",
+      "definition": "1. to fail an examination or course of study.",
+      "example": [
+        {
+          "eng": "If he doesn't study tonight, he might flunk the chemistry test.",
+          "ch": "如果他今晚不讀書，他可能會化學考試不及格。"
+        }
+      ]
+    },
+    {
+      "eng": "foe",
+      "kk": "foʊ",
+      "tense": "n.",
+      "ch": [
+        [
+          "敵人",
+          "敵手",
+          "對手"
+        ]
+      ],
+      "analysis": "此字源自古英語 fāh（敵對的、仇敵），源自日耳曼語族。在現代英語中多用於正式、文學或成語（如 friend and foe）中，指敵人或強大對手。",
+      "definition": "1. an enemy or adversary.",
+      "example": [
+        {
+          "eng": "The two armies faced each other as sworn foes.",
+          "ch": "兩軍作為誓不兩立的敵手互相對峙。"
+        }
+      ]
+    },
+    {
+      "eng": "folklore",
+      "kk": "ˈfoʊkˌlɔr",
+      "tense": "n.",
+      "ch": [
+        [
+          "民間傳說",
+          "民俗學"
+        ]
+      ],
+      "analysis": "此字為 19 世紀創造的現代透明複合詞，由 folk（民間、人們）與 lore（傳統知識、學問，源自古英語 lār）組成。用來指一個社群或國家的傳統民間故事、信仰與習俗。",
+      "definition": "1. the traditional beliefs, customs, and stories of a community, passed through the generations by word of mouth.",
+      "example": [
+        {
+          "eng": "Irish folklore is rich with stories of fairies and magical creatures.",
+          "ch": "愛爾蘭民間傳說充滿了關於仙子和神話生物的故事。"
+        }
+      ]
+    },
+    {
+      "eng": "formidable",
+      "kk": "ˈfɔrmədəbəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "可怕的",
+          "令人敬畏的"
+        ],
+        [
+          "艱巨的",
+          "難以應付的"
+        ]
+      ],
+      "analysis": "此字源於拉丁語 formidabilis，源自 formidare（恐懼、害怕），根源可能與 formido（恐懼）有關。經由法語或直接借入英語。現代用來形容人、對手或任務因強大、困難而令人敬畏或難以克服。",
+      "definition": "1. inspiring fear or respect through being impressively large, powerful, intense, or capable; 2. difficult to deal with or overcome.",
+      "example": [
+        {
+          "eng": "She proved to be a formidable opponent in the debate tournament.",
+          "ch": "事實證明她在辯論賽中是一個強大而令人敬畏的對手。"
+        },
+        {
+          "eng": "Climbing the sheer cliff presented a formidable challenge.",
+          "ch": "攀登這座峭壁是一項艱巨的挑戰。"
+        }
+      ]
+    },
+    {
+      "eng": "formulate",
+      "kk": "ˈfɔrmjəˌlet",
+      "tense": "vt.",
+      "ch": [
+        [
+          "構想",
+          "系統地闡述",
+          "製定"
+        ]
+      ],
+      "analysis": "此字由拉丁語 詞幹 formul-（forma 的 diminutive 形式，即格式、公式）加上動詞字尾 -ate 構成。字面意思是「化為公式或清晰結構」。現代指精心構思計畫、政策或理論並清楚表達出來。",
+      "definition": "1. to create or devise a strategy, proposal, or theory carefully and systematically.",
+      "example": [
+        {
+          "eng": "The marketing team needs to formulate a new strategy for the product launch.",
+          "ch": "行銷團隊需要為產品發表會製定一項新策略。"
+        }
+      ]
+    },
+    {
+      "eng": "forsake",
+      "kk": "fɔrˈsek",
+      "tense": "vt.",
+      "ch": [
+        [
+          "拋棄",
+          "遺棄",
+          "斷絕（壞習慣等）"
+        ]
+      ],
+      "analysis": "此字源自古英語 forsæcan（拒絕、否認），由字首 for-（表示否定或徹底）與 sæcan（尋求，即 seek）組合而成。在現代英語中多用於文學、正式或誓言語境，指拋棄某人或放棄某種生活方式、習慣。",
+      "definition": "1. to abandon or renounce someone or something, especially someone one is responsible for or something one has previously enjoyed.",
+      "example": [
+        {
+          "eng": "He vowed never to forsake his family, no matter how hard times got.",
+          "ch": "他發誓無論日子多苦，絕不拋棄他的家人。"
+        }
+      ]
+    },
+    {
+      "eng": "forthcoming",
+      "kk": "ˈfɔrθˌkʌmɪŋ",
+      "tense": "adj.",
+      "ch": [
+        [
+          "即將到來的",
+          "即將出版的"
+        ],
+        [
+          "（按要求）樂意提供的",
+          "現有的"
+        ]
+      ],
+      "analysis": "此字為現代透明複合詞，由副詞 forth（向前）與現在分詞 coming（來臨）組成。字面意思是「向前而來的」。現代用於形容即將發生的事件，或在受詢問時願意給出資訊、金錢等合作態度。",
+      "definition": "1. about to happen or appear; coming soon; 2. readily available when required or expected.",
+      "example": [
+        {
+          "eng": "Readers are eagerly awaiting the author's forthcoming novel.",
+          "ch": "讀者們正熱切期盼這位作家的即將出版的新小說。"
+        },
+        {
+          "eng": "When questioned about the missing funds, the manager was not forthcoming.",
+          "ch": "當被問及失蹤資金時，經理並不願意提供資訊。"
+        }
+      ]
+    },
+    {
+      "eng": "fortify",
+      "kk": "ˈfɔrtəˌfaɪ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "築防禦工事於",
+          "加固",
+          "增強（體力、營養等）"
+        ]
+      ],
+      "analysis": "此字源於中古英語 fortifien，經由古法語源自拉丁語 fortificare（使堅固），由 fortis（強壯的、堅固的）與 facere（製作）複合而成。現代用於軍事防禦加固，或指為食物添加營養素、為精神打氣。",
+      "definition": "1. to strengthen a place against attack, typically by building military defenses; 2. to strengthen or invigorate mentally or physically, or to enrich food with vitamins.",
+      "example": [
+        {
+          "eng": "Ancient rulers used to fortify their castles with thick stone walls.",
+          "ch": "古代統治者常以厚實的石牆來加固他們的城堡。"
+        },
+        {
+          "eng": "Breakfast cereals are often fortified with essential vitamins and minerals.",
+          "ch": "早餐穀片通常會添加必要的維生素和礦物質以增強營養。"
+        }
+      ]
+    },
+    {
+      "eng": "fowl",
+      "kk": "faʊl",
+      "tense": "n.",
+      "ch": [
+        [
+          "家禽",
+          "鳥類（尤指可食用者）"
+        ]
+      ],
+      "analysis": "此字源自古英語 fugol（鳥），屬於日耳曼語源，與德語 Vogel 同源。在現代英語中主要指雞、鴨、鵝等家禽，或在狩獵及餐飲中指野鳥、禽肉。",
+      "definition": "1. domesticated birds kept for eggs or meat, such as chickens, ducks, and turkeys; 2. wild birds hunted for sport or food.",
+      "example": [
+        {
+          "eng": "The farm raises various kinds of fowl, including ducks and geese.",
+          "ch": "這個農場飼養了各種家禽，包括鴨子和鵝。"
+        }
+      ]
+    },
+    {
+      "eng": "fracture",
+      "kk": "ˈfræktʃɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "骨折",
+          "（硬物的）裂縫",
+          "破裂"
+        ]
+      ],
+      "analysis": "此字源於拉丁語 fractura（斷裂、破裂），源自 frangere（打破、破裂），其過去分詞詞幹為 fract-。經由法語進入英語。現代用來指骨頭的斷裂或物體的碎裂。",
+      "definition": "1. the cracking or breaking of a hard object or material, especially a bone.",
+      "example": [
+        {
+          "eng": "An X-ray confirmed that he suffered a hairline fracture in his wrist.",
+          "ch": "X光證實他的手腕有細微骨折。"
+        }
+      ]
+    },
+    {
+      "eng": "fragrance",
+      "kk": "ˈfreɡrəns",
+      "tense": "n.",
+      "ch": [
+        [
+          "芬芳",
+          "香味",
+          "香水"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 fragrantia，源自 fragrare（散發香氣）。經由法語進入英語。現代用來形容花朵、香精或香水怡人的自然香氣。",
+      "definition": "1. a sweet or pleasant smell.",
+      "example": [
+        {
+          "eng": "The sweet fragrance of blooming roses filled the spring garden.",
+          "ch": "盛開玫瑰的甜美芬芳充滿了春天的花園。"
+        }
+      ]
+    },
+    {
+      "eng": "fragrant",
+      "kk": "ˈfreɡrənt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "芬芳的",
+          "香氣撲鼻的"
+        ]
+      ],
+      "analysis": "此字源於拉丁語 fragrans（fragrantis 的主格，即 fragrare 的現在分詞），經由法語進入英語。現代作為形容詞，用來形容散發怡人香氣的事物。",
+      "definition": "1. having a pleasant or sweet smell.",
+      "example": [
+        {
+          "eng": "She placed a vase of fragrant lilies on the dining table.",
+          "ch": "她在餐桌上放了一瓶芬芳的百合花。"
+        }
+      ]
+    },
+    {
+      "eng": "frantic",
+      "kk": "ˈfræntɪk",
+      "tense": "adj.",
+      "ch": [
+        [
+          "發狂似的",
+          "狂亂的",
+          "手忙腳亂的"
+        ]
+      ],
+      "analysis": "此字源於中古英語 frantike，最終源自古希臘語 phrenitikos（患腦炎的、神經錯亂的），經由拉丁語 phreneticus 與古法語演變而來。現代指因恐懼、焦慮或時間緊迫而表現出的失控、狂亂狀態。",
+      "definition": "1. wild or distraught with fear, anxiety, or other emotion; conducted in a hurried, uncontrolled way.",
+      "example": [
+        {
+          "eng": "There was a frantic search for the missing child in the crowded park.",
+          "ch": "在擁擠的公園裡，人們正狂亂地搜尋失蹤的孩子。"
+        }
+      ]
+    },
+    {
+      "eng": "freak",
+      "kk": "frik",
+      "tense": "n.",
+      "ch": [
+        [
+          "怪胎",
+          "奇形怪狀的人或物"
+        ],
+        [
+          "狂熱愛好者",
+          "對某事物著迷的人"
+        ]
+      ],
+      "analysis": "此字起源於方言，早期指突發的奇想或畸形，後在 19 世紀演變為指生理畸形者或怪人。現代英語中常見複合詞（如 fitness freak），指對特定興趣或活動極度狂熱的人。",
+      "definition": "1. a person, animal, or thing that is abnormal, unusual, or deformed; 2. an enthusiast or obsessive fan of a particular thing.",
+      "example": [
+        {
+          "eng": "A sudden freak storm ruined our outdoor wedding plans.",
+          "ch": "一場突如其來的怪異暴風雨毀了我們的戶外婚禮計畫。"
+        },
+        {
+          "eng": "He is a total tech freak who buys every new gadget.",
+          "ch": "他是一個徹底的科技狂熱者，會買每一個新小玩意。"
+        }
+      ]
+    },
+    {
+      "eng": "freeway",
+      "kk": "ˈfriˌweɪ",
+      "tense": "n.",
+      "ch": [
+        [
+          "高速公路",
+          "免收過路費的高速公路"
+        ]
+      ],
+      "analysis": "此字為現代美式英語複合詞，由 free（免收費的）與 way（道路）組成。最初指不收通行費的多車道快速道路，現代泛指北美的高速公路系統。",
+      "definition": "1. a dual-carriageway highway with no tolls and typically with grade-separated junctions.",
+      "example": [
+        {
+          "eng": "Traffic on the freeway was moving very slowly during the morning rush hour.",
+          "ch": "早晨尖峰時段，高速公路上的車流移動非常緩慢。"
+        }
+      ]
+    },
+    {
+      "eng": "friction",
+      "kk": "ˈfrɪkʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "摩擦",
+          "摩擦力"
+        ],
+        [
+          "衝突",
+          "不和"
+        ]
+      ],
+      "analysis": "此字源於拉丁語 frictio（摩擦），源自 fricare（摩擦）。經由法語進入英語。物理學上指接觸面間的阻力；在社會與心理學上引申為人際間的衝突與摩擦。",
+      "definition": "1. the resistance that one surface or object encounters when moving over another; 2. conflict or animosity caused by a clash of opinions or personalities.",
+      "example": [
+        {
+          "eng": "Rubbing your hands together creates friction and generates heat.",
+          "ch": "雙手互相摩擦會產生摩擦力並產生熱能。"
+        },
+        {
+          "eng": "Constant friction between the two colleagues made the office environment tense.",
+          "ch": "兩位同事之間的持續摩擦使得辦公室氣氛十分緊張。"
+        }
+      ]
+    },
+    {
+      "eng": "fume",
+      "kk": "fjum",
+      "tense": "n.",
+      "ch": [
+        [
+          "（有害、刺鼻的）煙氣",
+          "毒氣",
+          "氣體"
+        ]
+      ],
+      "analysis": "此字源於拉丁語 fumus（煙、汽），經由古法語 fumer 進入英語。現代通常以複數形式（fumes）使用，指化學品、引擎或燃燒產生的刺激性氣體或煙霧。",
+      "definition": "1. gas, smoke, or vapor, especially one that is smelling strongly or is dangerous to inhale.",
+      "example": [
+        {
+          "eng": "Workers wore masks to protect themselves from toxic chemical fumes.",
+          "ch": "工人們戴著面具以保護自己免受有毒化學氣體的侵害。"
+        }
+      ]
+    },
+    {
+      "eng": "fury",
+      "kk": "ˈfjʊri",
+      "tense": "n.",
+      "ch": [
+        [
+          "狂怒",
+          "暴怒"
+        ],
+        [
+          "猛烈",
+          "劇烈（力量、風暴等）"
+        ]
+      ],
+      "analysis": "此字源於拉丁語 furia（狂暴、憤怒），源自 furere（發狂、憤怒）。在羅馬神話中指復仇三女神（Furies）。現代指極度的憤怒或自然力量的猛烈爆發。",
+      "definition": "1. wild or violent anger; 2. fierce or violent strength or force.",
+      "example": [
+        {
+          "eng": "He struggled to control his fury when he heard the accusation.",
+          "ch": "當他聽到這項指控時，他努力控制自己的狂怒。"
+        },
+        {
+          "eng": "The small fishing village was destroyed by the fury of the hurricane.",
+          "ch": "這個小漁村被颶風的猛烈威力摧毀了。"
+        }
+      ]
+    },
+    {
+      "eng": "fuse",
+      "kk": "fjuz",
+      "tense": "n.",
+      "ch": [
+        [
+          "保險絲",
+          "導火線"
+        ],
+        [
+          "引信"
+        ]
+      ],
+      "analysis": "此字源於拉丁語 fusus（紡錘），經義譯演變或與義大利語 fuso 相關（詞源歷史較為複雜，亦可能受 fus- 字根「熔化」影響）。現代主要指電氣系統中的保險絲，或炸藥的引信、導火線。",
+      "definition": "1. a safety device consisting of a strip of wire that melts and breaks an electric circuit if the current exceeds a safe level; 2. a length of material lit to detonate a bomb or firework.",
+      "example": [
+        {
+          "eng": "The lights went out because a fuse blew in the basement.",
+          "ch": "燈熄滅了，因為地下室的保險絲燒斷了。"
+        },
+        {
+          "eng": "He lit the fuse of the firecracker and ran away quickly.",
+          "ch": "他點燃了鞭炮的導火線，然後迅速跑開。"
+        }
+      ]
+    },
+    {
+      "eng": "fuss",
+      "kk": "fʌs",
+      "tense": "n.",
+      "ch": [
+        [
+          "大驚小怪",
+          "小題大作",
+          "忙亂"
+        ]
+      ],
+      "analysis": "此字於 17 世紀出現於英語口語，可能源自方言或擬聲詞。用來形容對瑣事過度激動、焦慮或忙亂的態度。",
+      "definition": "1. a display of unnecessary excitement, agitation, or activity about trivial matters.",
+      "example": [
+        {
+          "eng": "Why is everyone making such a big fuss over a minor mistake?",
+          "ch": "大家為什麼要為一個小錯誤大驚小怪？"
+        }
+      ]
+    },
+    {
+      "eng": "gallop",
+      "kk": "ˈɡæləp",
+      "tense": "vi.",
+      "ch": [
+        [
+          "（馬等）疾馳",
+          "飛奔"
+        ],
+        [
+          "（進展、說話）急速進行"
+        ]
+      ],
+      "analysis": "此字源於古法語 galoper，可能源自法蘭克語或日耳曼語根源（指快速奔跑）。現代用來形容馬匹最快的奔跑步伐，或引申為事情或說話速度極快。",
+      "definition": "1. (of a horse) to run at full speed with all four hooves off the ground together; 2. to progress or move at a rapid pace.",
+      "example": [
+        {
+          "eng": "The rider urged his horse to gallop across the open meadow.",
+          "ch": "騎手催促他的馬在開闊的草地上疾馳。"
+        },
+        {
+          "eng": "Inflation continued to gallop ahead during the economic crisis.",
+          "ch": "在經濟危機期間，通貨膨脹繼續急速飆升。"
+        }
+      ]
+    },
+    {
+      "eng": "gangster",
+      "kk": "ˈɡæŋstɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "幫派分子",
+          "歹徒",
+          "黑幫成員"
+        ]
+      ],
+      "analysis": "此字由名詞 gang（幫派，源自古英語 gang，意指行軍或團體）加上名詞字尾 -ster（表示人員）組合而成。最初在美國英語中用來指涉組織犯罪幫派的成員。",
+      "definition": "1. a member of an organized gang of violent criminals.",
+      "example": [
+        {
+          "eng": "The police arrested several notorious gangsters in a late-night raid.",
+          "ch": "警方在一次深夜突襲中逮捕了幾名惡名昭彰的幫派分子。"
+        }
+      ]
+    },
+    {
+      "eng": "garment",
+      "kk": "ˈɡɑrmənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "衣服",
+          "服裝（單件）"
+        ]
+      ],
+      "analysis": "此字經由古法語 garnement（裝備、服飾），源自 garnir（裝備、裝飾，源自日耳曼語源）。透過中古英語進入英語。現代正式用語中指單件的衣物或服裝。",
+      "definition": "1. an item of clothing.",
+      "example": [
+        {
+          "eng": "Each silk garment is carefully inspected for flaws before packaging.",
+          "ch": "每一件絲綢服裝在包裝前都經過仔細檢查有無瑕疵。"
+        }
+      ]
+    },
+    {
+      "eng": "gauge",
+      "kk": "ɡedʒ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "測量",
+          "計量"
+        ],
+        [
+          "評判",
+          "估計（人的態度或情勢）"
+        ]
+      ],
+      "analysis": "此字源於古諾曼法語 gauger（測量酒桶容量），源自 gauge（測量標準、酒桶）。經由中古英語進入英語。現代用來指實際測量尺寸、容量，或抽象地評估情勢與人的情緒。",
+      "definition": "1. to measure or assess something accurately using a device, or to estimate an amount, scale, or volume; 2. to judge or evaluate a situation, mood, or person's reaction.",
+      "example": [
+        {
+          "eng": "Instruments are used to gauge the pressure inside the boiler.",
+          "ch": "儀器被用來測量鍋爐內部的壓力。"
+        },
+        {
+          "eng": "The politician tried to gauge public opinion before making a speech.",
+          "ch": "這位政治人物在發表演說前試圖評估公眾輿論。"
+        }
+      ]
+    },
+    {
+      "eng": "gay",
+      "kk": "ɡeɪ",
+      "tense": "adj.",
+      "ch": [
+        [
+          "同性戀的"
+        ],
+        [
+          "快樂的",
+          "愉快的（舊用法）"
+        ]
+      ],
+      "analysis": "此字源於古法語 gai（快樂的、鮮豔的），經由中古英語進入英語，原義為快樂、歡樂或色彩鮮艷。在 20 世紀中葉，其同性戀的含義逐漸普及並成為現代主要詞義。",
+      "definition": "1. romantically or sexually attracted to people of one's own sex; 2. lighthearted and carefree (chiefly historical/literary).",
+      "example": [
+        {
+          "eng": "The city hosts an annual parade to support the gay community.",
+          "ch": "這座城市舉辦年度遊行以支持同性戀社群。"
+        },
+        {
+          "eng": "They spent a gay evening singing and dancing with friends.",
+          "ch": "他們和朋友度過了一個歡樂的夜晚，唱歌跳舞。"
+        }
+      ]
+    },
+    {
+      "eng": "geographical",
+      "kk": "ˌdʒiəˈɡræfɪkəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "地理的",
+          "地理學的"
+        ]
+      ],
+      "analysis": "此字由名詞 geography（地理學，源自希臘語 geōgraphia，ge「大地」+ graphē「書寫」）加上形容詞字尾 -ical 構成。現代用來形容與地球表面特徵或地理分佈有關的事物。",
+      "definition": "1. relating to geography or the physical characteristics of a region or place.",
+      "example": [
+        {
+          "eng": "The country has diverse geographical features, including mountains and coastal plains.",
+          "ch": "該國擁有多樣的地理特徵，包括山脈和沿海平原。"
+        }
+      ]
+    },
+    {
+      "eng": "geometry",
+      "kk": "dʒiˈɑmətəri",
+      "tense": "n.",
+      "ch": [
+        [
+          "幾何學"
+        ]
+      ],
+      "analysis": "此字源於古希臘語 geōmetriā，由 gē（土地、大地）與 metrein（測量）組合而成。字面意思是「土地測量」。經由拉丁語與中古英語進入英語，現代專指數學中研究空間、形狀與尺寸關係的學科。",
+      "definition": "1. the branch of mathematics concerned with the properties and relations of points, lines, surfaces, solids, and higher dimensional spaces.",
+      "example": [
+        {
+          "eng": "Students learn about angles, triangles, and circles in high school geometry.",
+          "ch": "學生在高中幾何學中學習角、三角形和圓形。"
+        }
+      ]
+    },
+    {
+      "eng": "glacier",
+      "kk": "ˈɡleʃɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "冰川",
+          "冰河"
+        ]
+      ],
+      "analysis": "此字經由法語 glacier，源自法蘭 provençal 或拉丁語 glacia（冰，源自 glacies）。透過阿爾卑斯地區的法語傳入英語。現代指高山或極地因積雪長期壓實而緩慢移動的巨大冰塊體。",
+      "definition": "1. a slowly moving mass or river of ice formed by the accumulation and compaction of snow on mountains or near the poles.",
+      "example": [
+        {
+          "eng": "Global warming is causing the mountain glacier to melt at an alarming rate.",
+          "ch": "全球暖化正導致高山冰川以令人擔憂的速度融化。"
+        }
+      ]
+    },
+    {
+      "eng": "glamorous",
+      "kk": "ˈɡlæmərəs",
+      "tense": "adj.",
+      "ch": [
+        [
+          "富有魅力的",
+          "迷人的",
+          "光鮮亮麗的"
+        ]
+      ],
+      "analysis": "此字由名詞 glamour（魅力、魔法）加上形容詞字尾 -ous 構成。現代用來形容人、生活方式或行業極具吸引力、光鮮體面且令人向往。",
+      "definition": "1. attractive in an exciting and special way; charmingly stylish and desirable.",
+      "example": [
+        {
+          "eng": "She dreamed of pursuing a glamorous career in fashion modeling.",
+          "ch": "她夢想著追求一份光鮮亮麗的時尚模特兒職業。"
+        }
+      ]
+    },
+    {
+      "eng": "glamour",
+      "kk": "ˈɡlæmɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "魅力",
+          "魔力",
+          "光彩"
+        ]
+      ],
+      "analysis": "此字原本是 grammar（文法）的蘇格蘭語變體形式，由於中世紀人們常將學術文法與神祕學、巫術聯想在一起，詞義逐漸轉變成「幻覺、迷惑、魅惑」，後來演變成現代指外表或氣質上的迷人光彩與吸引力。",
+      "definition": "1. an attractive and exciting quality that makes certain people or things seem appealing or special.",
+      "example": [
+        {
+          "eng": "The movie stars enjoyed the glamour and attention of Hollywood.",
+          "ch": "電影明星們享受著好萊塢的光彩與關注。"
+        }
+      ]
+    },
+    {
+      "eng": "gleam",
+      "kk": "ɡlim",
+      "tense": "vi.",
+      "ch": [
+        [
+          "閃爍",
+          "微光閃耀"
+        ]
+      ],
+      "analysis": "此字源自古英語 glǣman（發光、閃爍），屬於日耳曼語源。現代多作為不及物動詞，形容微弱或反射的光芒在表面閃爍。",
+      "definition": "1. to shine brightly, especially with reflected light.",
+      "example": [
+        {
+          "eng": "The freshly polished silverware began to gleam under the lights.",
+          "ch": "新擦亮的銀器在燈光下開始閃閃發光。"
+        }
+      ]
+    },
+    {
+      "eng": "glide",
+      "kk": "ɡlaɪd",
+      "tense": "vi.",
+      "ch": [
+        [
+          "滑行",
+          "滑翔",
+          "悄悄地走"
+        ]
+      ],
+      "analysis": "此字源自古英語 glīdan（滑動、溜走），屬於日耳曼語源，與德語 gleiten 同源。現代指毫無阻礙、安靜而流暢地移動或滑翔。",
+      "definition": "1. to move in a smooth, quiet, and effortless way, often without apparent motion.",
+      "example": [
+        {
+          "eng": "The majestic swan began to glide gracefully across the calm lake.",
+          "ch": "雄偉的天鵝開始在平靜的湖面上優雅地滑行。"
+        }
+      ]
+    }
+  ]
+}

@@ -45,25 +45,27 @@ app.use((err, req, res, next) => {
   console.error(err);
   req.__skipAuditLog = true;
 
-  queueServerLog({
-    level: "error",
-    category: "server",
-    action: `${req.method} ${String(req.originalUrl || "").split("?")[0] || req.path || ""}`,
-    actorUserId: req.user?.id || null,
-    actorUsername: req.user?.username || "",
-    method: req.method,
-    route: String(req.originalUrl || "").split("?")[0] || req.path || "",
-    ipAddress: getClientIp(req),
-    message: err.message || "Unexpected server error.",
-    details: {
-      status: err.status || 500,
-      code: err.code || "",
-      stack: err.stack || "",
-      body: req.body || {},
-      params: req.params || {},
-      query: req.query || {}
-    }
-  });
+  if (!req.user?.isGuest) {
+    queueServerLog({
+      level: "error",
+      category: "server",
+      action: `${req.method} ${String(req.originalUrl || "").split("?")[0] || req.path || ""}`,
+      actorUserId: req.user?.id || null,
+      actorUsername: req.user?.username || "",
+      method: req.method,
+      route: String(req.originalUrl || "").split("?")[0] || req.path || "",
+      ipAddress: getClientIp(req),
+      message: err.message || "Unexpected server error.",
+      details: {
+        status: err.status || 500,
+        code: err.code || "",
+        stack: err.stack || "",
+        body: req.body || {},
+        params: req.params || {},
+        query: req.query || {}
+      }
+    });
+  }
 
   if (err?.type === "entity.too.large") {
     return res.status(413).json({

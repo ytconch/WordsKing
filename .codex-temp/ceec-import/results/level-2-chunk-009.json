@@ -1,0 +1,1566 @@
+{
+  "level": 2,
+  "chunkIndex": 9,
+  "inputs": [
+    "friendship",
+    "fries",
+    "fry",
+    "function",
+    "furniture",
+    "further",
+    "gain",
+    "garbage",
+    "gardener",
+    "garlic",
+    "gather",
+    "general",
+    "generous",
+    "gentle",
+    "gentleman",
+    "giraffe",
+    "glue",
+    "goal",
+    "goat",
+    "gold",
+    "golden",
+    "goose",
+    "govern",
+    "government",
+    "gradual",
+    "grain",
+    "gram",
+    "grand",
+    "grape",
+    "greet",
+    "growth",
+    "guard",
+    "guava",
+    "guest",
+    "guide",
+    "gun",
+    "gymnasium",
+    "gym",
+    "haircut",
+    "hall",
+    "hamburger",
+    "burger",
+    "handle",
+    "handsome",
+    "hardly",
+    "heaven",
+    "hero",
+    "heroine",
+    "highly",
+    "highway"
+  ],
+  "rows": [
+    {
+      "eng": "friendship",
+      "kk": "ˈfrɛndˌʃɪp",
+      "tense": "n.",
+      "ch": [
+        [
+          "友誼",
+          "友情"
+        ],
+        [
+          "友好關係",
+          "情誼"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由名詞 friend（朋友）加上抽象名詞字尾 -ship（表示狀態、身份或關係）組合而成，源自古英語 frēondscipe。語意從「朋友的狀態或性質」演變為人與人之間的親密情誼或友好狀態。",
+      "definition": "1. the emotions or conduct of friends; the state of being friends.; 2. a friendly relationship or association between people.",
+      "example": [
+        {
+          "eng": "Their friendship has lasted for over twenty years.",
+          "ch": "他們的友誼已經持續了二十多年。"
+        },
+        {
+          "eng": "The two countries share a long history of friendship.",
+          "ch": "這兩國有著長期的友好關係歷史。"
+        }
+      ]
+    },
+    {
+      "eng": "fries",
+      "kk": "fraɪz",
+      "tense": "n.",
+      "ch": [
+        [
+          "炸薯條"
+        ]
+      ],
+      "analysis": "此字為動詞 fry（油炸）的第三人稱單數現在式同形轉化而來的複數名詞，通常以複數形式 fries 出現（源自 french fries 的簡稱）。指切成條狀並油炸的馬鈴薯食品。",
+      "definition": "1. deep-fried strips of potato, typically served hot.",
+      "example": [
+        {
+          "eng": "I would like a burger and a large order of fries.",
+          "ch": "我想要一個漢堡和大份的炸薯條。"
+        }
+      ]
+    },
+    {
+      "eng": "fry",
+      "kk": "fraɪ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "油炸",
+          "煎"
+        ],
+        [
+          "炒"
+        ]
+      ],
+      "analysis": "此動詞源自中古英語 frien，經由古法語 frire 借自拉丁語 frigere（烤、煎、炸）。作為及物動詞時，直接受詞通常為食物，指將食物放入熱油或平底鍋中烹調。",
+      "definition": "1. to cook food in hot oil or fat, typically in a shallow pan; 2. to cook food by stirring it quickly in hot oil.",
+      "example": [
+        {
+          "eng": "She likes to fry eggs for breakfast.",
+          "ch": "她喜歡在早餐煎雞蛋。"
+        },
+        {
+          "eng": "Heat some oil in a wok and fry the vegetables.",
+          "ch": "在炒鍋裡加熱一些油並翻炒蔬菜。"
+        }
+      ]
+    },
+    {
+      "eng": "fry",
+      "kk": "fraɪ",
+      "tense": "vi.",
+      "ch": [
+        [
+          "油炸",
+          "煎"
+        ],
+        [
+          "受高溫炙烤",
+          "焦灼"
+        ]
+      ],
+      "analysis": "此動詞源自中古英語 frien，經由古法語借自拉丁語 frigere。作為不及物動詞時，指食物在鍋中被油炸的狀態，或引申為人因強烈陽光或高溫而感到灼熱。",
+      "definition": "1. to be cooked in hot fat or oil; 2. to be subjected to intense heat or sun.",
+      "example": [
+        {
+          "eng": "The bacon is frying in the pan.",
+          "ch": "培根正在平底鍋裡滋滋作響地煎著。"
+        },
+        {
+          "eng": "We were frying in the midday sun.",
+          "ch": "我們在正午的陽光下快要被曬焦了。"
+        }
+      ]
+    },
+    {
+      "eng": "function",
+      "kk": "ˈfʌŋkʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "功能",
+          "作用"
+        ],
+        [
+          "大型聚會",
+          "官方典禮"
+        ],
+        [
+          "函數"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 functio（執行、履行），由動詞 fungi（執行、完成）加上名詞字尾 -tion 構成。語意從「履行職責或完成任務」演變為事物的用途、功能，或引申為社交集會及數學上的函數概念。",
+      "definition": "1. an activity or purpose natural to or intended for a person or thing; 2. a large or formal social event or ceremony; 3. a relationship or expression involving one or more variables (mathematics).",
+      "example": [
+        {
+          "eng": "The primary function of the heart is to pump blood.",
+          "ch": "心臟的主要功能是泵送血液。"
+        },
+        {
+          "eng": "The president attended a formal function last night.",
+          "ch": "總統昨晚出席了一場正式的官方典禮。"
+        },
+        {
+          "eng": "Y is a function of X in this equation.",
+          "ch": "在此方程式中，Y 是 X 的函數。"
+        }
+      ]
+    },
+    {
+      "eng": "function",
+      "kk": "ˈfʌŋkʃən",
+      "tense": "vi.",
+      "ch": [
+        [
+          "運作",
+          "起作用",
+          "行使職能"
+        ]
+      ],
+      "analysis": "源自名詞 function 的動詞化用法，指機器、組織、器官或系統正常運作、發揮其功能。",
+      "definition": "1. to work or operate in a proper or particular way.",
+      "example": [
+        {
+          "eng": "The computer is not functioning properly today.",
+          "ch": "這台電腦今天運作不太正常。"
+        }
+      ]
+    },
+    {
+      "eng": "furniture",
+      "kk": "ˈfɜrnɪtʃər",
+      "tense": "n.",
+      "ch": [
+        [
+          "家具"
+        ]
+      ],
+      "analysis": "此字源自中古法語 fourniture，為動詞 fournir（提供、裝備）的衍生名詞，字面義為「裝備之物」。透過歷史演變，在英語中專指屋內擺放的可移動物品即「家具」，為集合名詞。",
+      "definition": "1. the movable articles that are used to make a room or building suitable for living or working in.",
+      "example": [
+        {
+          "eng": "They need to buy some new furniture for their apartment.",
+          "ch": "他們需要為公寓買一些新家具。"
+        }
+      ]
+    },
+    {
+      "eng": "further",
+      "kk": "ˈfɜrðər",
+      "tense": "vt.",
+      "ch": [
+        [
+          "促進",
+          "推動",
+          "助長"
+        ]
+      ],
+      "analysis": "由形容詞或副詞進一步轉化為及物動詞，意指使某事物向前發展、促進或推動其成功。",
+      "definition": "1. to help the progress or development of (something); promote.",
+      "example": [
+        {
+          "eng": "She took the course to further her career.",
+          "ch": "她修這門課程是為了促進自己的職業發展。"
+        }
+      ]
+    },
+    {
+      "eng": "further",
+      "kk": "ˈfɜrðər",
+      "tense": "adj.",
+      "ch": [
+        [
+          "更遠的",
+          "進一步的",
+          "額外的"
+        ]
+      ],
+      "analysis": "源自古英語形容詞比較級，用作修飾名詞，表示空間上的更遠端，或指進一步、額外的行動或資訊。",
+      "definition": "1. more distant in space or time; additional.",
+      "example": [
+        {
+          "eng": "For further information, please visit our website.",
+          "ch": "欲了解更多資訊，請造訪我們的網站。"
+        }
+      ]
+    },
+    {
+      "eng": "further",
+      "kk": "ˈfɜrðər",
+      "tense": "adv.",
+      "ch": [
+        [
+          "更遠地",
+          "進一步地"
+        ],
+        [
+          "此外",
+          "再者"
+        ]
+      ],
+      "analysis": "此字為古英語 furþor 的比較級副詞（原形為 fore），表示空間或程度上的超越。語意從實體距離的「更遠」演變為抽象進展的「進一步」或連接語意的「此外」。",
+      "definition": "1. at, to, or by a greater distance or degree; 2. in addition; furthermore.",
+      "example": [
+        {
+          "eng": "I cannot walk any further without a rest.",
+          "ch": "我走不動了，無法再走更遠。"
+        },
+        {
+          "eng": "Further, the plan is too expensive to implement.",
+          "ch": "再者，這個計畫執行起來成本太高。"
+        }
+      ]
+    },
+    {
+      "eng": "gain",
+      "kk": "ɡeɪn",
+      "tense": "n.",
+      "ch": [
+        [
+          "收穫",
+          "利益",
+          "增加"
+        ]
+      ],
+      "analysis": "由動詞 gain 轉化而來的名詞，指獲得的好處、利潤，或數量的增長。",
+      "definition": "1. an increase in wealth or resources; an advantage or profit.",
+      "example": [
+        {
+          "eng": "The company reported a steady financial gain this quarter.",
+          "ch": "該公司報告本季財務穩步增長。"
+        }
+      ]
+    },
+    {
+      "eng": "gain",
+      "kk": "ɡeɪn",
+      "tense": "vt.",
+      "ch": [
+        [
+          "獲得",
+          "取得"
+        ],
+        [
+          "贏得",
+          "賺得"
+        ],
+        [
+          "增加",
+          "增進"
+        ]
+      ],
+      "analysis": "此字源自中古英語 gainen，經由古諾斯語 gaina 引入，或源自古法語 gaaignier。及物動詞用法涵蓋透過努力或競爭取得利益、獲得知識、贏得好感或體重與數量的增加。",
+      "definition": "1. to obtain or secure (something desired, favorable, or profitable); 2. to win or earn; 3. to increase or add to (something, such as weight, speed, or value).",
+      "example": [
+        {
+          "eng": "The course helped me gain valuable experience.",
+          "ch": "這門課程幫助我獲得了寶貴的經驗。"
+        },
+        {
+          "eng": "Hard work will help you gain success.",
+          "ch": "努力工作會幫助你贏得成功。"
+        },
+        {
+          "eng": "He managed to gain five pounds over the holidays.",
+          "ch": "他在假期裡設法增重了五磅。"
+        }
+      ]
+    },
+    {
+      "eng": "gain",
+      "kk": "ɡeɪn",
+      "tense": "vi.",
+      "ch": [
+        [
+          "獲利",
+          "增加"
+        ],
+        [
+          "推進",
+          "有進展"
+        ]
+      ],
+      "analysis": "源自動詞 gain 的不及物用法，表示獲得好處、取得進展，或在競賽或測量中取得優勢。",
+      "definition": "1. to obtain an advantage or profit; 2. to make progress or advance.",
+      "example": [
+        {
+          "eng": "Investors stand to gain if the market rises.",
+          "ch": "如果市場上漲，投資者將獲利。"
+        },
+        {
+          "eng": "The runner began to gain on the leader.",
+          "ch": "那名賽跑選手開始拉近與領先者的距離。"
+        }
+      ]
+    },
+    {
+      "eng": "garbage",
+      "kk": "ˈɡɑrbɪdʒ",
+      "tense": "n.",
+      "ch": [
+        [
+          "垃圾",
+          "廢棄物"
+        ],
+        [
+          "廢話",
+          "無價值之物"
+        ]
+      ],
+      "analysis": "此字源自中古英語 garbage，原意指動物的內臟（可能源自古法語 orbele 或與 garbage 相關之造詞），後在歷史演變中詞義轉移，泛指廚餘、垃圾，並進一步引申為毫無價值的話語或事物。",
+      "definition": "1. waste material or unwanted things that are discarded; trash; 2. nonsense or worthless material.",
+      "example": [
+        {
+          "eng": "Please take out the garbage before you leave.",
+          "ch": "請在你離開前把垃圾拿出去倒。"
+        },
+        {
+          "eng": "Don't listen to him; that's absolute garbage.",
+          "ch": "別聽他胡說，那完全是廢話。"
+        }
+      ]
+    },
+    {
+      "eng": "gardener",
+      "kk": "ˈɡɑrdnər",
+      "tense": "n.",
+      "ch": [
+        [
+          "園丁",
+          "花匠"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由名詞 garden（花園）加上表示人的職業字尾 -er 構成，源自古法語 jardin。指從事花園種植、修剪與維護工作的人。",
+      "definition": "1. a person who gardens professionally or as a hobby, especially as an occupation.",
+      "example": [
+        {
+          "eng": "The gardener is trimming the bushes in the yard.",
+          "ch": "園丁正在修剪院子裡的灌木叢。"
+        }
+      ]
+    },
+    {
+      "eng": "garlic",
+      "kk": "ˈɡɑrlɪk",
+      "tense": "n.",
+      "ch": [
+        [
+          "大蒜",
+          "蒜頭"
+        ]
+      ],
+      "analysis": "此字源自古英語 gārlēac，由 gār（矛，指蒜瓣形狀如矛頭）與 lēac（韭蔥類植物）複合而成。指常作為調味品的百合科植物球莖。",
+      "definition": "1. a plant of the onion family that has a bulb divided into cloves with a strong, pungent smell and taste.",
+      "example": [
+        {
+          "eng": "Add some minced garlic to the pan for flavor.",
+          "ch": "在鍋中加入一些蒜末來增添風味。"
+        }
+      ]
+    },
+    {
+      "eng": "gather",
+      "kk": "ˈɡæðər",
+      "tense": "vt.",
+      "ch": [
+        [
+          "聚集",
+          "收集中"
+        ],
+        [
+          "收集",
+          "採集"
+        ],
+        [
+          "推斷",
+          "得出結論"
+        ]
+      ],
+      "analysis": "此字源自古英語 gaderian（聚集、聯合），屬日耳曼語源。及物動詞用法涵蓋將人或物聚攏在一起、搜集資料或物品，以及透過跡象推測出某事。",
+      "definition": "1. to bring people or things together into one place or group; 2. to collect or harvest things over an area; 3. to infer or conclude something from information.",
+      "example": [
+        {
+          "eng": "The teacher gathered the students around her.",
+          "ch": "老師把學生們聚集在她周圍。"
+        },
+        {
+          "eng": "She went out to gather firewood.",
+          "ch": "她出去收集木柴。"
+        },
+        {
+          "eng": "I gather that you are not happy with the decision.",
+          "ch": "我推斷你對這個決定並不滿意。"
+        }
+      ]
+    },
+    {
+      "eng": "gather",
+      "kk": "ˈɡæðər",
+      "tense": "vi.",
+      "ch": [
+        [
+          "聚集",
+          "集合"
+        ],
+        [
+          "積聚",
+          "漸增"
+        ]
+      ],
+      "analysis": "源自動詞 gather 的不及物用法，指人群聚集在一起，或雲層、淚水等自然積聚、增多。",
+      "definition": "1. to come together in a group; 2. to accumulate or increase gradually.",
+      "example": [
+        {
+          "eng": "A large crowd began to gather in the square.",
+          "ch": "一大群人開始在廣場上聚集。"
+        },
+        {
+          "eng": "Dark clouds were gathering on the horizon.",
+          "ch": "烏雲正在地平線上聚集。"
+        }
+      ]
+    },
+    {
+      "eng": "general",
+      "kk": "ˈdʒɛnərəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "將軍",
+          "上將"
+        ]
+      ],
+      "analysis": "由形容詞 general 獨立而成的名詞（源自 captain general，意指總指揮官），在軍事階級中專指將軍或上將級別的高階軍官。",
+      "definition": "1. a commander of an army, or an officer of high rank in the army or marine corps.",
+      "example": [
+        {
+          "eng": "The general ordered the troops to advance.",
+          "ch": "將軍下令部隊向前推進。"
+        }
+      ]
+    },
+    {
+      "eng": "general",
+      "kk": "ˈdʒɛnərəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "一般的",
+          "普遍的"
+        ],
+        [
+          "大體的",
+          "總體的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 generalis（整體的、屬於全體的），由 genus（種、類）衍生而來，經由中古法語進入英語。形容詞義指涵蓋多數、非特例的普遍現象，或不涉及細節的大體情況。",
+      "definition": "1. affecting or concerning all or most people, places, or things; widespread; 2. considering or including only the main features rather than precise details.",
+      "example": [
+        {
+          "eng": "There is a general consensus on this issue.",
+          "ch": "大家對這個議題有普遍的共識。"
+        },
+        {
+          "eng": "I have only a general idea of how the machine works.",
+          "ch": "我對這台機器如何運作只有一個大致的概念。"
+        }
+      ]
+    },
+    {
+      "eng": "generous",
+      "kk": "ˈdʒɛnərəs",
+      "tense": "adj.",
+      "ch": [
+        [
+          "慷慨的",
+          "大方的"
+        ],
+        [
+          "寬宏大量的",
+          "寬容的"
+        ],
+        [
+          "大量的",
+          "豐盛的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 generosus（出身高貴的、優良的），由 genus（家族、血統）衍生而來。歷史語意從「具備高貴血統應有的崇高品質」演變為樂於施捨的「慷慨」、心胸寬大的「寬容」，以及數量或份量上的「豐盛」。",
+      "definition": "1. showing a readiness to give more of something, especially money or time, than is strictly necessary or expected; 2. showing kindness and forgiveness; 3. larger or more plentiful than is usual or necessary.",
+      "example": [
+        {
+          "eng": "She was very generous with her time and money.",
+          "ch": "她對時間和金錢都非常慷慨。"
+        },
+        {
+          "eng": "He was generous in his praise of the younger artists.",
+          "ch": "他對年輕藝術家的讚賞表現得十分寬宏大量。"
+        },
+        {
+          "eng": "The restaurant served generous portions of food.",
+          "ch": "這家餐廳供應的食物份量非常豐盛。"
+        }
+      ]
+    },
+    {
+      "eng": "gentle",
+      "kk": "ˈdʒɛntəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "溫柔的",
+          "溫和的"
+        ],
+        [
+          "輕柔的",
+          "平緩的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 gentilis（同族的、出身高貴的），經由中古法語 gentle（高貴的、文雅的）進入英語。語意從中古時期的「貴族般的教養與品德」演變為現代的「溫和、善良」及物理性質上的「輕柔、平緩」。",
+      "definition": "1. having or showing a mild, kind, or tender temperament or character; 2. moderate in degree, force, or effect; not harsh or severe.",
+      "example": [
+        {
+          "eng": "He is a very gentle and patient teacher.",
+          "ch": "他是一位非常溫和且有耐心的老師。"
+        },
+        {
+          "eng": "The path goes up a gentle slope.",
+          "ch": "這條小徑通往一個平緩的斜坡。"
+        }
+      ]
+    },
+    {
+      "eng": "gentleman",
+      "kk": "ˈdʒɛntəlˌmæn",
+      "tense": "n.",
+      "ch": [
+        [
+          "紳士",
+          "有教養的男子"
+        ],
+        [
+          "先生（禮貌稱呼）"
+        ]
+      ],
+      "analysis": "此字為歷史複合詞，由 gentle（溫和的、有教養的）與 man（男子）組合而成。原指出身良好、有地位的男子，後演變為指品格高尚、有禮貌的「紳士」，或在演說中作為禮貌稱呼的「先生們」。",
+      "definition": "1. a chivalrous, courteous, or honorable man; 2. a polite term used to address a man or men.",
+      "example": [
+        {
+          "eng": "He always opens doors for others like a true gentleman.",
+          "ch": "他總是像個真正的紳士一樣為別人開門。"
+        },
+        {
+          "eng": "Good evening, ladies and gentlemen.",
+          "ch": "各位女士、各位先生，大家晚安。"
+        }
+      ]
+    },
+    {
+      "eng": "giraffe",
+      "kk": "dʒəˈræf",
+      "tense": "n.",
+      "ch": [
+        [
+          "長頸鹿"
+        ]
+      ],
+      "analysis": "此字經由義大利語 giraffa 或西班牙語從阿拉伯語 zarāfah 借入，源自動物名稱的阿拉伯語根源，指非洲產的具有極長脖子的草食性哺乳動物。",
+      "definition": "1. a tall African mammal with a very long neck and legs, spotted coat, and small horns.",
+      "example": [
+        {
+          "eng": "We saw a giraffe eating leaves from a high tree branch.",
+          "ch": "我們看到一隻長頸鹿正在吃高處樹枝上的葉子。"
+        }
+      ]
+    },
+    {
+      "eng": "glue",
+      "kk": "ɡlu",
+      "tense": "n.",
+      "ch": [
+        [
+          "膠水",
+          "膠"
+        ]
+      ],
+      "analysis": "此字源自古法語 glu（黏膠、鳥膠），最終源自拉丁語 glutin-, gluten（膠質）。用來指黏合物品的膠狀物質。",
+      "definition": "1. an adhesive substance used for sticking objects or materials together.",
+      "example": [
+        {
+          "eng": "Use some glue to fix the broken toy.",
+          "ch": "用點膠水把壞掉的玩具修好。"
+        }
+      ]
+    },
+    {
+      "eng": "glue",
+      "kk": "ɡlu",
+      "tense": "vt.",
+      "ch": [
+        [
+          "黏合",
+          "貼緊"
+        ]
+      ],
+      "analysis": "由名詞 glue 轉化而成的及物動詞，意指用膠水將物品黏在一起，或引申為視線緊盯某處。",
+      "definition": "1. to fasten or join with glue.",
+      "example": [
+        {
+          "eng": "He glued the pieces of paper back together.",
+          "ch": "他把紙片用膠水重新黏合在一起。"
+        }
+      ]
+    },
+    {
+      "eng": "goal",
+      "kk": "ɡoʊl",
+      "tense": "n.",
+      "ch": [
+        [
+          "目標",
+          "目的"
+        ],
+        [
+          "球門",
+          "得分"
+        ]
+      ],
+      "analysis": "此字源自中古英語 gol（邊界、終點線），可能源自古英語 gāl（障礙）或日耳曼語源。語意從競賽中的終點線或球門，演變為抽象的「人生或工作目標」。",
+      "definition": "1. the object of a person's ambition or effort; an aim or desired result; 2. in sports, the structure into which a ball or puck must be sent to score points, or the score resulting from this.",
+      "example": [
+        {
+          "eng": "Her main goal is to graduate with honors.",
+          "ch": "她的主要目標是以榮譽畢業。"
+        },
+        {
+          "eng": "He scored the winning goal in the final minute of the match.",
+          "ch": "他在比賽的最後一分鐘踢進了致勝球。"
+        }
+      ]
+    },
+    {
+      "eng": "goat",
+      "kk": "ɡoʊt",
+      "tense": "n.",
+      "ch": [
+        [
+          "山羊"
+        ]
+      ],
+      "analysis": "此字源自古英語 gāt，屬於日耳曼語源（與德語 Gais 相關）。指一種常見的雙角、有鬍鬚的草食性家畜或野生動物。",
+      "definition": "1. a hardy domesticated ruminant animal that has horns and backward-curving horns, kept for its milk, meat, and wool.",
+      "example": [
+        {
+          "eng": "The farmer keeps several goats on his farm.",
+          "ch": "農夫在他的農場裡養了幾隻山羊。"
+        }
+      ]
+    },
+    {
+      "eng": "gold",
+      "kk": "ɡoʊld",
+      "tense": "n.",
+      "ch": [
+        [
+          "黃金",
+          "金"
+        ],
+        [
+          "金牌"
+        ]
+      ],
+      "analysis": "此字源自古英語 gold，屬於日耳曼語源。指一種貴重金屬元素，亦引申指體育競賽中獲得第一名的金牌。",
+      "definition": "1. a yellow precious metal, used especially for jewelry and decoration and to guarantee the value of currencies; 2. a gold medal awarded for first place in a race or competition.",
+      "example": [
+        {
+          "eng": "Her wedding ring is made of pure gold.",
+          "ch": "她的結婚戒指是用純金製成的。"
+        },
+        {
+          "eng": "She won a gold in the 100-meter sprint.",
+          "ch": "她在100公尺短跑中贏得了一面金牌。"
+        }
+      ]
+    },
+    {
+      "eng": "golden",
+      "kk": "ˈɡoʊldən",
+      "tense": "adj.",
+      "ch": [
+        [
+          "金色的",
+          "金製的"
+        ],
+        [
+          "極佳的",
+          "寶貴的"
+        ]
+      ],
+      "analysis": "此字為古英語 golden，由名詞 gold 加上形容詞字尾 -en（由……製成的或具其特質）構成。除了解釋為金黃色或純金製成外，也常引申形容黃金時代、極佳的機會等。",
+      "definition": "1. made of or relating to gold; having the color of gold; 2. highly favorable or advantageous; precious.",
+      "example": [
+        {
+          "eng": "The sunset cast a golden glow over the mountains.",
+          "ch": "夕陽在群山上投射出金色的光輝。"
+        },
+        {
+          "eng": "This is a golden opportunity to start your own business.",
+          "ch": "這是開創你自己事業的絕佳機會。"
+        }
+      ]
+    },
+    {
+      "eng": "goose",
+      "kk": "ɡus",
+      "tense": "n.",
+      "ch": [
+        [
+          "鵝"
+        ]
+      ],
+      "analysis": "此字源自古英語 gōs，屬於日耳曼語源（與德語 Gans 相關）。指一種大型的游禽，頸長、掌有蹼。",
+      "definition": "1. a large water bird with a long neck, short legs, webbed feet, and a short bill.",
+      "example": [
+        {
+          "eng": "A flock of geese flew overhead in a V formation.",
+          "ch": "一群鵝以V字形隊伍從頭頂飛過。"
+        }
+      ]
+    },
+    {
+      "eng": "govern",
+      "kk": "ˈɡʌvərn",
+      "tense": "vt.",
+      "ch": [
+        [
+          "統治",
+          "管理"
+        ],
+        [
+          "支配",
+          "控制"
+        ]
+      ],
+      "analysis": "此字源自中古英語 governen，經由古法語 governer 借自拉丁語 gubernare（掌舵、駕駛、指導），最終源自希臘語 kybernān。作為及物動詞，指對國家或地區進行政治統治，或引申為規範、控制行為與過程。",
+      "definition": "1. to conduct the policy, actions, and affairs of (a state, organization, or people); 2. to control, influence, or regulate the course of something.",
+      "example": [
+        {
+          "eng": "The elected officials govern the country according to the constitution.",
+          "ch": "當選官員依據憲法統治國家。"
+        },
+        {
+          "eng": "Laws are established to govern public behavior.",
+          "ch": "建立法律是為了規範大眾行為。"
+        }
+      ]
+    },
+    {
+      "eng": "govern",
+      "kk": "ˈɡʌvərn",
+      "tense": "vi.",
+      "ch": [
+        [
+          "執政",
+          "行使統治權"
+        ]
+      ],
+      "analysis": "源自動詞 govern 的不及物用法，指政府或政權實際執行管理與執政的職能。",
+      "definition": "1. to have and exercise supreme political authority and power.",
+      "example": [
+        {
+          "eng": "The party won the election and is now ready to govern.",
+          "ch": "該政黨贏得了選舉，現在準備執政。"
+        }
+      ]
+    },
+    {
+      "eng": "government",
+      "kk": "ˈɡʌvərmənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "政府",
+          "內閣"
+        ],
+        [
+          "統治",
+          "政權"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由動詞 govern（統治）加上名詞字尾 -ment（表狀態或機構）構成，源自中古英語 gouvernement。用以指治理國家的機關機構或統治制度。",
+      "definition": "1. the governing body of a nation, state, or community; 2. the system or method by which a community is governed.",
+      "example": [
+        {
+          "eng": "The government announced a new economic policy today.",
+          "ch": "政府今天宣布了一項新的經濟政策。"
+        },
+        {
+          "eng": "Democratic government relies on the consent of the governed.",
+          "ch": "民主政治依賴被統治者的同意。"
+        }
+      ]
+    },
+    {
+      "eng": "gradual",
+      "kk": "ˈɡrædʒuəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "逐漸的",
+          "逐步的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 gradualis（按步就班的），由 gradus（台階、步調）衍生而來，經由中世紀拉丁語與法語進入英語。形容變化或發展以緩慢而連續的步伐進行。",
+      "definition": "1. taking place or progressing slowly, step by step; not sudden or abrupt.",
+      "example": [
+        {
+          "eng": "There has been a gradual improvement in his health.",
+          "ch": "他的健康狀況有了逐漸的改善。"
+        }
+      ]
+    },
+    {
+      "eng": "grain",
+      "kk": "ɡreɪn",
+      "tense": "n.",
+      "ch": [
+        [
+          "穀物",
+          "顆粒"
+        ],
+        [
+          "木紋",
+          "紋理"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 granum（種子、穀粒），經由中古法語進入英語。語意從植物的小顆粒種子、穀物，引申為木材或岩石的紋理走向。",
+      "definition": "1. the harvested seed of various food grasses; a small hard particle; 2. the natural pattern of lines in wood, stone, or leather.",
+      "example": [
+        {
+          "eng": "Rice and wheat are important staple grains.",
+          "ch": "稻米和小麥是重要的主食穀物。"
+        },
+        {
+          "eng": "The table was polished to show the natural grain of the wood.",
+          "ch": "這張桌子經過拋光以展現木材自然的紋理。"
+        }
+      ]
+    },
+    {
+      "eng": "gram",
+      "kk": "ɡræm",
+      "tense": "n.",
+      "ch": [
+        [
+          "公克",
+          "克"
+        ]
+      ],
+      "analysis": "此字源自法語 gramme，最終源自希臘語 grámma（小重量單位）。在國際單位制中作為質量的基本計量單位。",
+      "definition": "1. a metric unit of mass equal to one thousandth of a kilogram.",
+      "example": [
+        {
+          "eng": "The recipe calls for 200 grams of flour.",
+          "ch": "這食譜需要200公克的麵粉。"
+        }
+      ]
+    },
+    {
+      "eng": "grand",
+      "kk": "ɡrænd",
+      "tense": "adj.",
+      "ch": [
+        [
+          "宏大的",
+          "盛大的",
+          "崇高的"
+        ],
+        [
+          "極好的",
+          "重大的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 grandis（大的、偉大的），經由中古法語進入英語。形容規模宏大、氣勢磅礡、地位崇高，或口語中表示極佳、美好的事物。",
+      "definition": "1. magnificent and imposing in appearance, size, or style; 2. of high rank or importance; excellent.",
+      "example": [
+        {
+          "eng": "They live in a grand house with a large garden.",
+          "ch": "他們住在帶有大花園的宏偉宅邸中。"
+        },
+        {
+          "eng": "We had a grand time at the party last night.",
+          "ch": "我們昨晚在派對上玩得痛快極了。"
+        }
+      ]
+    },
+    {
+      "eng": "grape",
+      "kk": "ɡreɪp",
+      "tense": "n.",
+      "ch": [
+        [
+          "葡萄"
+        ]
+      ],
+      "analysis": "此字源自古法語 grape（原本指鉤子或採摘葡萄的刀具，後轉指果實本身），源自日耳曼語源。指生長在藤蔓上、成串的多汁漿果。",
+      "definition": "1. a small, sweet fruit, usually purple, red, or green, that grows in clusters on vines and is eaten raw or used to make wine.",
+      "example": [
+        {
+          "eng": "She washed a bunch of grapes for a healthy snack.",
+          "ch": "她洗了一串葡萄作為健康的點心。"
+        }
+      ]
+    },
+    {
+      "eng": "greet",
+      "kk": "ɡrit",
+      "tense": "vt.",
+      "ch": [
+        [
+          "問候",
+          "向……打招呼"
+        ],
+        [
+          "迎接",
+          "迎向"
+        ]
+      ],
+      "analysis": "此字源自古英語 grētan（呼喊、向……致意），屬於日耳曼語源。及物動詞用法指見面時的親切問候，或以某種反應迎接特定情況的發生。",
+      "definition": "1. to give a polite word of welcome or show recognition to (someone) upon arrival or meeting; 2. to react to something in a specified way.",
+      "example": [
+        {
+          "eng": "The host stood at the door to greet the guests.",
+          "ch": "主人站在門口迎接賓客。"
+        },
+        {
+          "eng": "The new policy was greeted with enthusiasm by the staff.",
+          "ch": "新政策受到了員工們的熱烈歡迎。"
+        }
+      ]
+    },
+    {
+      "eng": "growth",
+      "kk": "ɡroʊθ",
+      "tense": "n.",
+      "ch": [
+        [
+          "生長",
+          "發育"
+        ],
+        [
+          "增長",
+          "發展"
+        ]
+      ],
+      "analysis": "此字為歷史構詞，由動詞 grow（生長）加上名詞字尾 -th 構成，源自中古英語 growþ。指生物體積或數量的自然生長，亦廣泛指經濟、規模或能力的發展與增長。",
+      "definition": "1. the process of increasing in physical size or development; 2. an increase in amount, number, or size.",
+      "example": [
+        {
+          "eng": "Proper nutrition is essential for a child's healthy growth.",
+          "ch": "適當的營養對兒童的健康發育至關重要。"
+        },
+        {
+          "eng": "The city has experienced rapid economic growth in recent years.",
+          "ch": "這座城市近年經歷了快速的經濟增長。"
+        }
+      ]
+    },
+    {
+      "eng": "guard",
+      "kk": "ɡɑrd",
+      "tense": "n.",
+      "ch": [
+        [
+          "警衛",
+          "守衛",
+          "哨兵"
+        ],
+        [
+          "防護設備",
+          "保護"
+        ],
+        [
+          "警戒",
+          "防備狀態"
+        ]
+      ],
+      "analysis": "此字源自日耳曼語源（經由古法語 warder/garder 引入），與 ward 同源。名詞用法指負責保衛的人員、防護裝置，或保持警戒的狀態。",
+      "definition": "1. a person who protects, watches over, or guards something; 2. a protective device or stance; 3. a state of watchful attention.",
+      "example": [
+        {
+          "eng": "A security guard stood at the entrance of the building.",
+          "ch": "一名保全警衛站在大樓入口處。"
+        },
+        {
+          "eng": "The player wore a mouth guard during the football game.",
+          "ch": "這名球員在美式足球比賽中戴著護齒。"
+        },
+        {
+          "eng": "The bad news caught us off guard.",
+          "ch": "這個壞消息讓我們措手不及。"
+        }
+      ]
+    },
+    {
+      "eng": "guard",
+      "kk": "ɡɑrd",
+      "tense": "vt.",
+      "ch": [
+        [
+          "守衛",
+          "保衛",
+          "防守"
+        ]
+      ],
+      "analysis": "及物動詞 guard 源自古法語 guarder，指看守、防範或保護人事物免受威脅與侵害，句型上要求帶有直接受詞。",
+      "definition": "1. to watch over in order to protect, control, or prevent escape.",
+      "example": [
+        {
+          "eng": "Two soldiers were assigned to guard the gate.",
+          "ch": "兩名士兵被派去守衛大門。"
+        }
+      ]
+    },
+    {
+      "eng": "guard",
+      "kk": "ɡɑrd",
+      "tense": "vi.",
+      "ch": [
+        [
+          "防範",
+          "警惕"
+        ]
+      ],
+      "analysis": "不及物動詞 guard 源自古法語 guarder，常與介詞against並用，指保持戒備、防範潛在的危險或威脅。",
+      "definition": "1. to take precautions against something harmful or undesirable.",
+      "example": [
+        {
+          "eng": "You must guard against unexpected risks during the journey.",
+          "ch": "你必須在旅途中防範未預期的風險。"
+        }
+      ]
+    },
+    {
+      "eng": "guava",
+      "kk": "ˈɡwɑvə",
+      "tense": "n.",
+      "ch": [
+        [
+          "芭樂",
+          "番石榴"
+        ]
+      ],
+      "analysis": "此字源自加勒比海印第安語言（Arawak 語族），經由西班牙語 guayaba 進入英語。指熱帶地區產的番石榴水果。",
+      "definition": "1. a tropical fruit with yellowish-green skin, sweet pink or white flesh, and many hard seeds.",
+      "example": [
+        {
+          "eng": "Fresh guava is a popular fruit in Taiwan.",
+          "ch": "新鮮芭樂在台灣是一種很受歡迎的水果。"
+        }
+      ]
+    },
+    {
+      "eng": "guest",
+      "kk": "ɡɛst",
+      "tense": "n.",
+      "ch": [
+        [
+          "客人",
+          "賓客"
+        ],
+        [
+          "旅客",
+          "住房客人"
+        ]
+      ],
+      "analysis": "此字源自古英語 g(i)est，源自日耳曼語源，與拉丁語 hostis（陌生人、敵人）同源。指受邀到家中作客的人，或在旅館住宿的顧客。",
+      "definition": "1. a person who is invited to visit someone's home or attend a particular event; 2. a customer staying at a hotel.",
+      "example": [
+        {
+          "eng": "We invited several close friends as dinner guests.",
+          "ch": "我們邀請了幾位至親好友作為晚餐客人。"
+        },
+        {
+          "eng": "Hotel guests are requested to check out by noon.",
+          "ch": "請飯店旅客於中午前辦理退房。"
+        }
+      ]
+    },
+    {
+      "eng": "guide",
+      "kk": "ɡaɪd",
+      "tense": "n.",
+      "ch": [
+        [
+          "導遊",
+          "嚮導"
+        ],
+        [
+          "指南",
+          "手冊"
+        ]
+      ],
+      "analysis": "由動詞 guide 轉化而成的名詞，指擔任引導工作的人（導遊）或提供指引資訊的書面手冊（指南）。",
+      "definition": "1. a person who shows the way to others; 2. a book, publication, or system of information that gives instructions or advice.",
+      "example": [
+        {
+          "eng": "We hired a tour guide to show us around the city.",
+          "ch": "我們雇了一名導遊帶我們遊覽這座城市。"
+        },
+        {
+          "eng": "This travel guide contains useful tips for visitors.",
+          "ch": "這本旅遊指南包含了對訪客很有用的建議。"
+        }
+      ]
+    },
+    {
+      "eng": "guide",
+      "kk": "ɡaɪd",
+      "tense": "vt.",
+      "ch": [
+        [
+          "帶路",
+          "引導",
+          "指導"
+        ],
+        [
+          "支配",
+          "主導（行為或思想）"
+        ]
+      ],
+      "analysis": "此字源自中古英語 guiden，經由古法語 guider 進入英語（最終源自日耳曼語源）。及物動詞用法指帶領人們到達目的地、提供專業指導，或作為信念與原則的引導。",
+      "definition": "1. to show or indicate the way to someone; to direct or lead; 2. to influence, direct, or regulate the course of action.",
+      "example": [
+        {
+          "eng": "A local guide guided us through the ancient ruins.",
+          "ch": "當地導遊引導我們參觀古老遺跡。"
+        },
+        {
+          "eng": "Let your conscience guide your decisions.",
+          "ch": "讓你的良心來指導你的決定。"
+        }
+      ]
+    },
+    {
+      "eng": "gun",
+      "kk": "ɡʌn",
+      "tense": "n.",
+      "ch": [
+        [
+          "槍",
+          "砲"
+        ]
+      ],
+      "analysis": "此字源自中古英語 gunne（源自女性人名 Gunilda 的縮寫，中古時期曾用來戲稱大型投石器），後轉用於指發射彈藥的火器（槍械或火砲）。",
+      "definition": "1. a weapon with a metal tube from which bullets or shells are fired by the force of explosive gas.",
+      "example": [
+        {
+          "eng": "Police officers are trained to handle a gun safely.",
+          "ch": "警察受過安全使用槍械的訓練。"
+        }
+      ]
+    },
+    {
+      "eng": "gymnasium",
+      "kk": "dʒɪmˈneɪziəm",
+      "tense": "n.",
+      "ch": [
+        [
+          "體育館",
+          "健身房"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 gymnasium，源自希臘語 gymnos（赤裸的，古希臘人赤身進行體育鍛鍊）。在現代英語中指進行體育活動、體操或室內運動的專用建築。",
+      "definition": "1. a room or building equipped for gymnastics, games, and other physical exercise.",
+      "example": [
+        {
+          "eng": "Students have physical education classes in the school gymnasium.",
+          "ch": "學生在學校的體育館上體育課。"
+        }
+      ]
+    },
+    {
+      "eng": "gym",
+      "kk": "dʒɪm",
+      "tense": "n.",
+      "ch": [
+        [
+          "健身房",
+          "體育館"
+        ]
+      ],
+      "analysis": "此字為 gymnasium 的截短形式（Clipping），在現代英語中為高頻日常用語，泛指室內健身中心或學校體育館。",
+      "definition": "1. a club or facility equipped with fitness equipment for physical exercise.",
+      "example": [
+        {
+          "eng": "I go to the gym three times a week to work out.",
+          "ch": "我一週去健身房運動三次。"
+        }
+      ]
+    },
+    {
+      "eng": "haircut",
+      "kk": "ˈhɛrˌkʌt",
+      "tense": "n.",
+      "ch": [
+        [
+          "理髮",
+          "髮型"
+        ]
+      ],
+      "analysis": "此字為現代透明複合詞，由名詞 hair（頭髮）與動詞 cut（剪）的名詞化形式組合而成。指修剪頭髮的行為或剪出來的髮型。",
+      "definition": "1. the act, process, or style of cutting a person's hair.",
+      "example": [
+        {
+          "eng": "He went to the barbershop for a haircut.",
+          "ch": "他去理髮店理髮。"
+        }
+      ]
+    },
+    {
+      "eng": "hall",
+      "kk": "hɔl",
+      "tense": "n.",
+      "ch": [
+        [
+          "大廳",
+          "門廳"
+        ],
+        [
+          "禮堂",
+          "會館"
+        ]
+      ],
+      "analysis": "此字源自古英語 heall（大型集會房屋），屬於日耳曼語源。語意從古代日耳曼人的宏偉議事大廳，演變為現代建築物中的走廊、玄關、大型表演禮堂或公共集會場所。",
+      "definition": "1. an area of a house or building immediately inside the front door; a corridor; 2. a large room or building for meetings, concerts, or other events.",
+      "example": [
+        {
+          "eng": "Leave your coat in the hall.",
+          "ch": "把你的外套放在門廳裡。"
+        },
+        {
+          "eng": "The concert will be held in the town hall.",
+          "ch": "音樂會將在鎮上的大禮堂舉行。"
+        }
+      ]
+    },
+    {
+      "eng": "hamburger",
+      "kk": "ˈhæmˌbɜrɡər",
+      "tense": "n.",
+      "ch": [
+        [
+          "漢堡包",
+          "牛肉漢堡"
+        ]
+      ],
+      "analysis": "此字源自德國城市 Hamburg（漢堡），字面義為「來自漢堡的人或物」，因漢堡牛肉餅（Hamburg steak）隨德國移民傳入美國，後夾入麵包中演變出現代意義的漢堡。",
+      "definition": "1. a round patty of ground beef, fried or grilled and typically served in a sliced bun with various garnishes.",
+      "example": [
+        {
+          "eng": "We ordered two cheeseburgers and a hamburger for lunch.",
+          "ch": "我們午餐點了兩個起司漢堡和一個漢堡。"
+        }
+      ]
+    },
+    {
+      "eng": "burger",
+      "kk": "ˈbɜrɡər",
+      "tense": "n.",
+      "ch": [
+        [
+          "漢堡"
+        ]
+      ],
+      "analysis": "此字是由 hamburger 經由字首截斷（Back-formation / Clipping）形成的現代高頻詞，專指漢堡（亦可指牛肉、雞肉或素食漢堡）。",
+      "definition": "1. a sandwich consisting of a fried or grilled patty of ground meat served in a split bun, short for hamburger.",
+      "example": [
+        {
+          "eng": "I'd like a veggie burger with french fries, please.",
+          "ch": "請給我一個素食漢堡搭配薯條。"
+        }
+      ]
+    },
+    {
+      "eng": "handle",
+      "kk": "ˈhændəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "把手",
+          "柄",
+          "拉手"
+        ]
+      ],
+      "analysis": "由動詞 handle 衍生的名詞，指器皿、門窗、工具上供手握持的部件（把手或柄）。",
+      "definition": "1. the part of a tool or object that is designed to be held or carried by hand.",
+      "example": [
+        {
+          "eng": "The door handle was loose and needed to be tightened.",
+          "ch": "門把手有些鬆了，需要轉緊。"
+        }
+      ]
+    },
+    {
+      "eng": "handle",
+      "kk": "ˈhændəl",
+      "tense": "vt.",
+      "ch": [
+        [
+          "處理",
+          "應付"
+        ],
+        [
+          "操縱",
+          "拿",
+          "觸摸"
+        ]
+      ],
+      "analysis": "此字源自古英語 handlian（用手觸摸、處理），由 hand（手）加上動詞反覆字尾 -le 構成。及物動詞用法從實體的「用手拿、觸摸」抽象化為「處理問題、應付局勢」或「操縱機器」。",
+      "definition": "1. to manage, deal with, or be responsible for (a situation or problem); 2. to touch, hold, or feel with the hands.",
+      "example": [
+        {
+          "eng": "She knows how to handle difficult customers calmly.",
+          "ch": "她知道如何冷靜地應付奧客。"
+        },
+        {
+          "eng": "Please handle the fragile glassware with care.",
+          "ch": "請小心拿取易碎的玻璃器皿。"
+        }
+      ]
+    },
+    {
+      "eng": "handsome",
+      "kk": "ˈhænsəm",
+      "tense": "adj.",
+      "ch": [
+        [
+          "英俊的",
+          "美觀的"
+        ],
+        [
+          "（數量等）可觀的",
+          "豐厚的"
+        ]
+      ],
+      "analysis": "此字源自中古英語 handsom（易於拿取的、合手的），由 hand（手）加上形容詞字尾 -some 構成。歷史語意從「操作便利」演變為外表「勻稱好看、英俊」，進而形容金錢數量「可觀、豐厚」。",
+      "definition": "1. (of a man) good-looking; having a pleasing and attractive appearance; 2. (of an amount or sum) large and impressive.",
+      "example": [
+        {
+          "eng": "She married a tall and handsome actor.",
+          "ch": "她嫁給了一位高大英俊的演員。"
+        },
+        {
+          "eng": "He inherited a handsome sum of money from his uncle.",
+          "ch": "他從叔叔那裡繼承了一筆可觀的遺產。"
+        }
+      ]
+    },
+    {
+      "eng": "hardly",
+      "kk": "ˈhɑrdli",
+      "tense": "adv.",
+      "ch": [
+        [
+          "幾乎不",
+          "剛好"
+        ]
+      ],
+      "analysis": "此字為歷史構詞，由形容詞 hard（費力的、嚴格的）加上副詞字尾 -ly 構成，源自古英語 heardlīċe（嚴厲地、艱難地）。語意在現代英語中主要轉化為否定副詞，表示「幾乎不、簡直沒有」。",
+      "definition": "1. scarcely; almost not at all.",
+      "example": [
+        {
+          "eng": "I could hardly hear what she was saying over the loud noise.",
+          "ch": "在巨大的噪音下，我幾乎聽不清她在說什麼。"
+        }
+      ]
+    },
+    {
+      "eng": "heaven",
+      "kk": "ˈhɛvən",
+      "tense": "n.",
+      "ch": [
+        [
+          "天堂",
+          "天國"
+        ],
+        [
+          "極樂境界",
+          "無上的幸福"
+        ]
+      ],
+      "analysis": "此字源自古英語 heofon（天空、蒼穹、神居之所），屬於日耳曼語源。語意從實體的自然天空，演變為宗教中的神聖天國，或引申為感到無比幸福的環境（天堂般的地方）。",
+      "definition": "1. in religion, the home of God and where good people go after death; 2. a state or place of supreme happiness or delight.",
+      "example": [
+        {
+          "eng": "Believers hope to go to heaven after they die.",
+          "ch": "信徒們希望死後能進入天堂。"
+        },
+        {
+          "eng": "Sitting on the quiet beach with a book was pure heaven.",
+          "ch": "拿著書坐在安靜的海灘上簡直是人間仙境。"
+        }
+      ]
+    },
+    {
+      "eng": "hero",
+      "kk": "ˈhɪroʊ",
+      "tense": "n.",
+      "ch": [
+        [
+          "英雄",
+          "男主角"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 heros，借自古希臘語 hḗrōs（半神英雄、保衛者）。在英語中指英勇、具備崇高犧牲精神的英雄人物，或文學、電影作品中的男主角。",
+      "definition": "1. a person who is admired or idealized for courage, outstanding achievements, or noble qualities; 2. the chief male character in a book, play, or movie.",
+      "example": [
+        {
+          "eng": "Firefighters are regarded as everyday heroes.",
+          "ch": "消防員被視為平民英雄。"
+        },
+        {
+          "eng": "The hero of the story overcomes many obstacles to save the kingdom.",
+          "ch": "故事的男主角克服了許多障礙以拯救王國。"
+        }
+      ]
+    },
+    {
+      "eng": "heroine",
+      "kk": "ˈhɛroʊɪn",
+      "tense": "n.",
+      "ch": [
+        [
+          "女英雄",
+          "女主角"
+        ]
+      ],
+      "analysis": "此字為 hero 加上希臘語女性名詞字尾 -ine 形成的複合詞，指女性英雄人物或文學、戲劇作品中的女主角。",
+      "definition": "1. a woman admired or idealized for her courage, outstanding achievements, or noble qualities; 2. the chief female character in a book, play, or movie.",
+      "example": [
+        {
+          "eng": "Joan of Arc is celebrated as a national heroine of France.",
+          "ch": "聖女貞德被譽為法國的民族女英雄。"
+        }
+      ]
+    },
+    {
+      "eng": "highly",
+      "kk": "ˈhaɪli",
+      "tense": "adv.",
+      "ch": [
+        [
+          "高度地",
+          "非常",
+          "極好地"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由形容詞 high（高的）加上副詞字尾 -ly 構成，源自古英語 hēahlīċe。在現代英語中主要用作程度副詞，表示「高度地、極為讚賞或非常」。",
+      "definition": "1. to a high degree or standard; very.",
+      "example": [
+        {
+          "eng": "She is a highly respected scientist in her field.",
+          "ch": "她在她的領域是一位備受尊崇的科學家。"
+        }
+      ]
+    },
+    {
+      "eng": "highway",
+      "kk": "ˈhaɪˌweɪ",
+      "tense": "n.",
+      "ch": [
+        [
+          "公路",
+          "幹道"
+        ]
+      ],
+      "analysis": "此字為歷史複合詞，由 high（古義指築高、重要的）與 way（道路）組合而成，源自中古英語 heghway。原指鋪設或具有優先權的重要幹道，現代專指連接城鎮的高速公路或主要公路。",
+      "definition": "1. a main public road connecting towns and cities, typically designed for fast traffic.",
+      "example": [
+        {
+          "eng": "Traffic on the highway was heavy during the rush hour.",
+          "ch": "在尖峰時刻，高速公路上的交通非常擁擠。"
+        }
+      ]
+    }
+  ]
+}

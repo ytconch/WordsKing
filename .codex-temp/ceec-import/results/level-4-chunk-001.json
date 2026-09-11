@@ -1,0 +1,1289 @@
+{
+  "level": 4,
+  "chunkIndex": 1,
+  "inputs": [
+    "abandon",
+    "absolute",
+    "absorb",
+    "abstract",
+    "academic",
+    "accent",
+    "acceptance",
+    "access",
+    "accidental",
+    "accompany",
+    "accomplish",
+    "accomplishment",
+    "accountant",
+    "accuracy",
+    "accuse",
+    "acid",
+    "acquaintance",
+    "acquire",
+    "adapt",
+    "addict",
+    "adequate",
+    "adjust",
+    "adjustment",
+    "admirable",
+    "admiration",
+    "admission",
+    "adopt",
+    "agency",
+    "agent",
+    "aggressive",
+    "agreeable",
+    "alcohol",
+    "alert",
+    "allowance",
+    "alternative",
+    "amateur",
+    "ambiguous",
+    "ambitious",
+    "amuse",
+    "amusement",
+    "analysis",
+    "analyze",
+    "ancestor",
+    "anniversary",
+    "annoy",
+    "annual",
+    "anxiety",
+    "apology",
+    "apparent",
+    "applicant"
+  ],
+  "rows": [
+    {
+      "eng": "abandon",
+      "kk": "əˈbændən",
+      "tense": "vt.",
+      "ch": [
+        [
+          "放棄",
+          "拋棄"
+        ],
+        [
+          "放縱",
+          "縱情"
+        ]
+      ],
+      "analysis": "此字為及物動詞。源自古法語 abandoner，由 a-（表「朝向、使」）與 bandon（意指「權力、管轄」）結合而成，最早源自日耳曼語根。歷史核心義為「將某人或某物交由他人管轄或控制」，進而演變為現代的「放棄、拋棄」與在不受拘束狀態下的「放縱、縱情」。",
+      "definition": "1. to give up completely or cease support or looking after someone or something; 2. to allow oneself to be overcome by an emotion or impulse.",
+      "example": [
+        {
+          "eng": "The captain ordered the crew to abandon the sinking ship.",
+          "ch": "船長下令全體船員棄船。"
+        },
+        {
+          "eng": "She danced with wild abandon at the party.",
+          "ch": "她在派對上盡情狂舞。"
+        }
+      ]
+    },
+    {
+      "eng": "absolute",
+      "kk": "ˈæbsəˌlut",
+      "tense": "adj.",
+      "ch": [
+        [
+          "絕對的",
+          "完全的"
+        ],
+        [
+          "無疑的",
+          "確鑿的"
+        ]
+      ],
+      "analysis": "此字為形容詞。源自拉丁語 absolutus（動詞 absolvere 的過去分詞，意為「解開、釋放、使完整」），由 ab-（離開、完全）與 solvere（鬆開、溶解）構成。歷史核心義為「不受任何條件限制的」，進而演變出現代的「絕對的、完全的」以及「無疑的、確鑿的」等語義。",
+      "definition": "1. complete and total; not qualified or diminished in any way; 2. certain and unquestionable.",
+      "example": [
+        {
+          "eng": "There is absolute proof of his guilt.",
+          "ch": "有確鑿的證據證明他有罪。"
+        },
+        {
+          "eng": "We need absolute silence during the exam.",
+          "ch": "考試期間我們需要絕對安靜。"
+        }
+      ]
+    },
+    {
+      "eng": "absorb",
+      "kk": "əbˈsɔrb",
+      "tense": "vt.",
+      "ch": [
+        [
+          "吸收",
+          "汲取"
+        ],
+        [
+          "吸引注意力",
+          "使全神貫注"
+        ]
+      ],
+      "analysis": "此字為及物動詞。源自拉丁語 absorbere，由 ab-（離開、加強）與 sorbere（吞咽、吸吮）組成。歷史核心義為「吞下或吸入」，從物理上的「吸收液體、能量」引申出抽象的「吸收知識」以及「吸引全神貫注」的語義。",
+      "definition": "1. to take in or soak up liquid, energy, or information; 2. to take in and engross the full attention of someone.",
+      "example": [
+        {
+          "eng": "Plants absorb water and nutrients from the soil.",
+          "ch": "植物從土壤中吸收水分和養分。"
+        },
+        {
+          "eng": "The fascinating book completely absorbed her.",
+          "ch": "這本迷人的書完全吸引了她。"
+        }
+      ]
+    },
+    {
+      "eng": "abstract",
+      "kk": "ˈæbˌstrækt",
+      "tense": "n.",
+      "ch": [
+        [
+          "摘要",
+          "梗概"
+        ]
+      ],
+      "analysis": "此字為名詞，是由動詞 abstract（源自拉丁語 abstractus，抽離、提煉）轉化而來的名詞。歷史核心義是「從大型文本或事物中抽取出來的核心重點」，現代專指文章或研究報告的「摘要、梗概」。",
+      "definition": "1. a summary of the contents of a book, article, or speech.",
+      "example": [
+        {
+          "eng": "Please submit an abstract of your research paper by Friday.",
+          "ch": "請在周五前提交你的研究論文摘要。"
+        }
+      ]
+    },
+    {
+      "eng": "abstract",
+      "kk": "ˈæbˌstrækt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "抽象的",
+          "純理論的"
+        ]
+      ],
+      "analysis": "此字為形容詞。源自拉丁語 abstractus（ab- 離開 + trahere 拉，即「抽離、提取」）。歷史核心義為「從具體事物中抽離出來的」，進而演變為與「具體 (concrete)」相對的「抽象的、純理論的」現代概念。",
+      "definition": "1. existing in thought or as an idea but not having a physical or concrete existence.",
+      "example": [
+        {
+          "eng": "Justice and beauty are abstract concepts.",
+          "ch": "正義與美麗是抽象的概念。"
+        }
+      ]
+    },
+    {
+      "eng": "academic",
+      "kk": "ˌækəˈdɛmɪk",
+      "tense": "n.",
+      "ch": [
+        [
+          "學者",
+          "大學教師"
+        ]
+      ],
+      "analysis": "此字為名詞，由形容詞 academic 轉化而來，源自希臘語 Akademeia（古希臘哲學家柏拉圖講學的花園名稱）。在現代英語中專指從事學術研究的「學者」或「大學教師」。",
+      "definition": "1. a teacher or scholar in a college or university.",
+      "example": [
+        {
+          "eng": "Several prominent academics attended the international conference.",
+          "ch": "幾位著名的學者出席了國際會議。"
+        }
+      ]
+    },
+    {
+      "eng": "academic",
+      "kk": "ˌækəˈdɛmɪk",
+      "tense": "adj.",
+      "ch": [
+        [
+          "學術的",
+          "學校的"
+        ]
+      ],
+      "analysis": "此字為形容詞。源自希臘語 Akademeia，經由拉丁語進入英語。字面原義與柏拉圖學園相關，後泛指與學校教育、高等教育及「學術的」研究相關的事物。",
+      "definition": "1. relating to education and scholarship, especially at a college or university level.",
+      "example": [
+        {
+          "eng": "She has achieved great academic success this year.",
+          "ch": "她今年取得了巨大的學術成就。"
+        }
+      ]
+    },
+    {
+      "eng": "accent",
+      "kk": "ˈæksɛnt",
+      "tense": "n.",
+      "ch": [
+        [
+          "口音",
+          "腔調"
+        ],
+        [
+          "重音",
+          "強調"
+        ]
+      ],
+      "analysis": "此字為名詞。源自拉丁語 accentus（ad- 朝向 + cantus 唱歌、語調，原指說話時的聲調高低）。歷史核心義為「語音的抑揚頓挫」，在現代演變為說話的「口音、腔調」以及語音或符號上的「重音、強調」。",
+      "definition": "1. a distinctive way of pronouncing a language, especially one associated with a particular country, area, or social class; 2. a prominent emphasis given to a syllable or word.",
+      "example": [
+        {
+          "eng": "He speaks English with a strong French accent.",
+          "ch": "他說英語帶有濃厚的法國口音。"
+        },
+        {
+          "eng": "In this word, the accent falls on the second syllable.",
+          "ch": "這個字的重音落在第二個音節上。"
+        }
+      ]
+    },
+    {
+      "eng": "acceptance",
+      "kk": "əkˈsɛptəns",
+      "tense": "n.",
+      "ch": [
+        [
+          "接受",
+          "接納"
+        ],
+        [
+          "認可",
+          "贊同"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 accept 加上名詞字尾 -ance 構成。歷史核心義為「主動將外來事物或提議接過來的動作」，在現代延伸為對身分地位的「接受、接納」以及對觀點、辦法的「認可、贊同」。",
+      "definition": "1. the action of consenting to receive or undertake something offered; 2. agreement with or belief in an idea, opinion, or explanation.",
+      "example": [
+        {
+          "eng": "Her acceptance of the job offer was announced yesterday.",
+          "ch": "她接受工作邀約的消息於昨天宣布。"
+        },
+        {
+          "eng": "The theory gained wide acceptance among scientists.",
+          "ch": "該理論在科學家中獲得了廣泛的認可。"
+        }
+      ]
+    },
+    {
+      "eng": "access",
+      "kk": "ˈæksɛs",
+      "tense": "n.",
+      "ch": [
+        [
+          "通道",
+          "入口"
+        ],
+        [
+          "接近與使用的權利或機會"
+        ]
+      ],
+      "analysis": "此字為名詞。源自拉丁語 accessus（ad- 朝向 + cedere 行走、靠近）。歷史核心義為「接近、到達」，在現代引申為實體場所的「通道、入口」以及抽象的「接近與使用資料、資源的機會或權利」。",
+      "definition": "1. a means of approaching or entering a place; 2. the right or opportunity to use or benefit from something.",
+      "example": [
+        {
+          "eng": "The only access to the farmhouse is across the bridge.",
+          "ch": "通往農舍的唯一通道是過橋。"
+        },
+        {
+          "eng": "Students have free access to the university library.",
+          "ch": "學生可以免費使用大學圖書館。"
+        }
+      ]
+    },
+    {
+      "eng": "accidental",
+      "kk": "ˌæksəˈdɛntəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "意外的",
+          "偶然的"
+        ]
+      ],
+      "analysis": "此字為形容詞，由 accident 加上形容詞字尾 -al 構成。源自拉丁語 accidentalis（accidere 發生、偶然發生）。歷史核心義為「非計畫中、隨機發生的」，現代主要指「意外的、偶然的」。",
+      "definition": "1. happening by chance, unexpectedly, or unintentionally.",
+      "example": [
+        {
+          "eng": "Their meeting in Paris was entirely accidental.",
+          "ch": "他們在巴黎的相遇完全是個巧合。"
+        }
+      ]
+    },
+    {
+      "eng": "accompany",
+      "kk": "əˈkʌmpəni",
+      "tense": "vt.",
+      "ch": [
+        [
+          "陪伴",
+          "伴隨"
+        ],
+        [
+          "為…伴奏"
+        ]
+      ],
+      "analysis": "此字為及物動詞。源自古法語 accompagner（由 ad- 朝向 + compagnon 同伴、同桌分食者構成）。歷史核心義為「與同伴同行」，現代引申為人員的「陪伴、伴隨」以及音樂上的「為…伴奏」。",
+      "definition": "1. to go somewhere with someone as a companion or escort; 2. to perform musical accompaniment for someone.",
+      "example": [
+        {
+          "eng": "Children under 12 must be accompanied by an adult.",
+          "ch": "12歲以下的兒童必須由成人陪同。"
+        },
+        {
+          "eng": "She will accompany the singer on the piano.",
+          "ch": "她將用鋼琴為這位歌手伴奏。"
+        }
+      ]
+    },
+    {
+      "eng": "accomplish",
+      "kk": "əˈkɑmplɪʃ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "完成",
+          "實現"
+        ],
+        [
+          "達成（目標）"
+        ]
+      ],
+      "analysis": "此字為及物動詞。源自古法語 accompliss-（動詞 accomplir 的詞幹），最終源自拉丁語 accomplere（ad- 強化 + complere 裝滿、完成）。歷史核心義為「使圓滿完成」，現代指順利完成任務或「達成目標」。",
+      "definition": "1. to achieve or complete successfully; 2. to fulfill a goal or task.",
+      "example": [
+        {
+          "eng": "She accomplished a great deal during her time in office.",
+          "ch": "她在任職期間成就斐然。"
+        },
+        {
+          "eng": "We managed to accomplish our goal ahead of schedule.",
+          "ch": "我們設法提前達成目標。"
+        }
+      ]
+    },
+    {
+      "eng": "accomplishment",
+      "kk": "əˈkɑmplɪʃmənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "成就",
+          "成績"
+        ],
+        [
+          "才華",
+          "技能"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 accomplish 加上名詞字尾 -ment 構成。歷史核心義為「成功完成某事的結果」，進而引申出人生或事業上的「成就」以及個人的「才華、技能」。",
+      "definition": "1. something that has been achieved successfully; 2. an educational or social skill or talent.",
+      "example": [
+        {
+          "eng": "Landing on the moon was a remarkable scientific accomplishment.",
+          "ch": "登陸月球是一項卓越的科學成就。"
+        },
+        {
+          "eng": "Playing the violin is just one of her many accomplishments.",
+          "ch": "拉小提琴只是她眾多才藝中的一項。"
+        }
+      ]
+    },
+    {
+      "eng": "accountant",
+      "kk": "əˈkaʊntənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "會計師",
+          "會計人員"
+        ]
+      ],
+      "analysis": "此字為名詞。源自古法語 accountant（動詞 aconter 的現在分詞，意為計算、記帳）。歷史核心義為「負責計算與記錄帳目的人」，現代指專業的「會計師、會計人員」。",
+      "definition": "1. a person whose job is to keep, inspect, and analyze financial accounts.",
+      "example": [
+        {
+          "eng": "We hired an accountant to help with our annual tax return.",
+          "ch": "我們聘請了一位會計師來協助處理年度報稅。"
+        }
+      ]
+    },
+    {
+      "eng": "accuracy",
+      "kk": "ˈækjərəsi",
+      "tense": "n.",
+      "ch": [
+        [
+          "準確度",
+          "精確性"
+        ]
+      ],
+      "analysis": "此字為名詞，由形容詞 accurate 轉化衍生而來（源自拉丁語 accuratus，細緻的、受照顧的）。歷史核心義為「狀態或品質的細緻與精確」，現代專指數據、測量或資訊的「準確度、精確性」。",
+      "definition": "1. the quality or state of being correct or precise.",
+      "example": [
+        {
+          "eng": "The machine checks the accuracy of every measurement.",
+          "ch": "這台機器檢查每一次測量的準確度。"
+        }
+      ]
+    },
+    {
+      "eng": "accuse",
+      "kk": "əˈkjuz",
+      "tense": "vt.",
+      "ch": [
+        [
+          "指控",
+          "指責"
+        ],
+        [
+          "控告"
+        ]
+      ],
+      "analysis": "此字為及物動詞。源自拉丁語 accusare（ad- 朝向 + causa 案件、理由、罪名）。歷史核心義為「將某人帶上法庭指控其罪名」，現代引申為日常的「指責、責備」及法律上的「控告」。",
+      "definition": "1. to charge someone with an offense or crime; 2. to claim that someone has done something wrong or illegal.",
+      "example": [
+        {
+          "eng": "He was accused of stealing company funds.",
+          "ch": "他被指控盜用公司資金。"
+        },
+        {
+          "eng": "Don't accuse me of lying when you don't know the facts.",
+          "ch": "在你不知道事實真相之前，別指責我在說謊。"
+        }
+      ]
+    },
+    {
+      "eng": "acid",
+      "kk": "ˈæsɪd",
+      "tense": "n.",
+      "ch": [
+        [
+          "酸",
+          "酸性物質"
+        ]
+      ],
+      "analysis": "此字為名詞，由形容詞 acid 轉化而來（源自拉丁語 acidus，尖銳的、酸的）。歷史核心義為「味覺上的酸味物質」，在現代化學與日常中專指各種「酸」或「酸性物質」。",
+      "definition": "1. a chemical substance with a pH below 7, typically corrosive and having a sour taste.",
+      "example": [
+        {
+          "eng": "Lemon juice contains citric acid.",
+          "ch": "檸檬汁含有檸檬酸。"
+        }
+      ]
+    },
+    {
+      "eng": "acquaintance",
+      "kk": "əˈkwɛntəns",
+      "tense": "n.",
+      "ch": [
+        [
+          "相識的人",
+          "泛泛之交"
+        ],
+        [
+          "了解",
+          "熟知"
+        ]
+      ],
+      "analysis": "此字為名詞。源自古法語 acointance，最終源自拉丁語 accognoscere（認出、熟悉）。歷史核心義為「彼此認識的狀態或人」，在現代指稱「點頭之交、相識的人」以及對某事的「了解、熟知」。",
+      "definition": "1. a person one knows slightly, but who is not a close friend; 2. knowledge or experience of something.",
+      "example": [
+        {
+          "eng": "He is not a close friend, merely a business acquaintance.",
+          "ch": "他不是密友，僅僅是個生意上的泛泛之交。"
+        },
+        {
+          "eng": "She has a broad acquaintance with classical literature.",
+          "ch": "她對古典文學有相當程度的了解。"
+        }
+      ]
+    },
+    {
+      "eng": "acquire",
+      "kk": "əˈkwaɪr",
+      "tense": "vt.",
+      "ch": [
+        [
+          "取得",
+          "獲得"
+        ],
+        [
+          "學到（知識、技能）"
+        ]
+      ],
+      "analysis": "此字為及物動詞。源自拉丁語 acquirere（ad- 朝向、加強 + quaerere 尋求、獲得）。歷史核心義為「努力尋求並得到」，現代廣泛用於「取得財產、獲得物品」以及「透過學習獲得知識或技能」。",
+      "definition": "1. to buy or obtain an asset or object for oneself; 2. to learn or develop a skill, habit, or quality.",
+      "example": [
+        {
+          "eng": "The museum recently acquired a rare painting by Picasso.",
+          "ch": "該博物館最近收藏了一幅罕見的畢卡索畫作。"
+        },
+        {
+          "eng": "It takes time to acquire a new language.",
+          "ch": "學習一門新語言需要時間。"
+        }
+      ]
+    },
+    {
+      "eng": "adapt",
+      "kk": "əˈdæpt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "適應",
+          "使適應"
+        ],
+        [
+          "改編"
+        ]
+      ],
+      "analysis": "此字為及物動詞。源自拉丁語 adaptare（ad- 朝向 + aptare 安裝、使適合，源自 aptus 適當的）。歷史核心義為「調整使其與某物相配」，現代引申為主動的「使適應新環境」以及將小說或劇本「改編」為電影等。",
+      "definition": "1. to adjust oneself to different conditions or a new environment; 2. to alter or modify a text or work for a new medium.",
+      "example": [
+        {
+          "eng": "Animals must adapt to changing climates in order to survive.",
+          "ch": "動物必須適應變化的氣候才能生存。"
+        },
+        {
+          "eng": "The novel was successfully adapted into a Hollywood movie.",
+          "ch": "這部小說被成功改編成了好萊塢電影。"
+        }
+      ]
+    },
+    {
+      "eng": "addict",
+      "kk": "ˈædɪkt",
+      "tense": "n.",
+      "ch": [
+        [
+          "成癮者",
+          "入迷者"
+        ]
+      ],
+      "analysis": "此字為名詞。源自拉丁語 addictus（addicere 的過去分詞，意為被債務奴役、奉獻給）。歷史核心義為「被綁定或無力擺脫某事的人」，現代專指對藥物、酒精或某種活動「成癮者」或「入迷者」。",
+      "definition": "1. a person who is addicted to a particular substance, habit, or activity.",
+      "example": [
+        {
+          "eng": "He is a recovering addict trying to rebuild his life.",
+          "ch": "他是一個正在戒癮、試圖重塑生活的人。"
+        }
+      ]
+    },
+    {
+      "eng": "adequate",
+      "kk": "ˈædɪkwət",
+      "tense": "adj.",
+      "ch": [
+        [
+          "足夠的",
+          "合乎需要的"
+        ]
+      ],
+      "analysis": "此字為形容詞。源自拉丁語 adaequatus（ad- 朝向 + aequare 使相等，源自 aequus 平等的、相等的）。歷史核心義為「剛好達到所需水準的」，現代指數量或品質上「足夠的、合乎需要的」。",
+      "definition": "1. satisfactory or acceptable in quality or quantity; enough.",
+      "example": [
+        {
+          "eng": "We have adequate supplies for the winter months.",
+          "ch": "我們有足夠的物資度過冬季。"
+        }
+      ]
+    },
+    {
+      "eng": "adjust",
+      "kk": "əˈdʒʌst",
+      "tense": "vt.",
+      "ch": [
+        [
+          "調整",
+          "調節"
+        ],
+        [
+          "使習慣於"
+        ]
+      ],
+      "analysis": "此字為及物動詞。源自古法語 ajouster，最終源自拉丁語 ad-（朝向）與 iuxtare（並排、接近，源自 iustus 正確的）。歷史核心義為「將事物擺正或調整到正確位置」，現代引申為機械或數據的「調整、調節」以及心理上的「使習慣於新局勢」。",
+      "definition": "1. to alter or move something slightly to achieve a desired fit, appearance, or result; 2. to get used to a new situation or environment.",
+      "example": [
+        {
+          "eng": "You can adjust the seat height using this lever.",
+          "ch": "你可以利用這個扳手調整座椅高度。"
+        },
+        {
+          "eng": "It took him a while to adjust to the cold climate.",
+          "ch": "他花了一陣子才習慣寒冷氣候。"
+        }
+      ]
+    },
+    {
+      "eng": "adjustment",
+      "kk": "əˈdʒʌstmənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "調整",
+          "調節"
+        ],
+        [
+          "適應"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 adjust 加上名詞字尾 -ment 構成。歷史核心義為「修正或微調的動作」，在現代指物理位置或機制的「調整、調節」以及生活轉變帶來的「適應」。",
+      "definition": "1. a small change or correction made to something; 2. the process of adapting to new conditions.",
+      "example": [
+        {
+          "eng": "The accountant made a few adjustments to the financial report.",
+          "ch": "會計師對財務報表做了幾處調整。"
+        },
+        {
+          "eng": "Moving to a new city requires a major lifestyle adjustment.",
+          "ch": "搬到新城市需要對生活方式做出重大適應。"
+        }
+      ]
+    },
+    {
+      "eng": "admirable",
+      "kk": "ˈædmərəbəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "令人欽佩的",
+          "極佳的"
+        ]
+      ],
+      "analysis": "此字為形容詞，由動詞 admire 加上形容詞字尾 -able（能夠、值得）構成。歷史核心義為「值得被讚賞或尊敬的」，現代指行為、品質「令人欽佩的」或表現「極佳的」。",
+      "definition": "1. arousing or deserving respect and approval; excellent.",
+      "example": [
+        {
+          "eng": "She showed admirable courage in the face of danger.",
+          "ch": "她在危險面前表現出令人欽佩的勇氣。"
+        }
+      ]
+    },
+    {
+      "eng": "admiration",
+      "kk": "ˌædməˈreʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "欽佩",
+          "讚賞"
+        ]
+      ],
+      "analysis": "此字為名詞。源自拉丁語 admiratio（源自 admirari 驚嘆、敬佩，由 ad- + mirari 驚奇）。歷史核心義為「對某人事物感到驚嘆與敬重」，現代指內心的「欽佩、讚賞」。",
+      "definition": "1. respect and warm approval; a feeling of great pleasure and satisfaction when looking at something.",
+      "example": [
+        {
+          "eng": "I have great admiration for her dedication to public service.",
+          "ch": "我對她奉獻公共服務的精神感到十分欽佩。"
+        }
+      ]
+    },
+    {
+      "eng": "admission",
+      "kk": "ədˈmɪʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "准許進入",
+          "入場費"
+        ],
+        [
+          "承認",
+          "招認"
+        ]
+      ],
+      "analysis": "此字為名詞。源自拉丁語 admissio（admittere 的名詞形式，意為允許進入、接納）。歷史核心義為「被允許通過大門進入」或「承認錯誤」，現代延伸為實體場所的「准許進入、入場費」以及口頭或書面的「承認、招認」。",
+      "definition": "1. the permission or right to enter a place, or the fee paid for this; 2. a statement acknowledging the truth of something, often reluctantly.",
+      "example": [
+        {
+          "eng": "Admission to the museum is free for children under six.",
+          "ch": "六歲以下兒童參觀博物館免費。"
+        },
+        {
+          "eng": "His silence was taken as an admission of guilt.",
+          "ch": "他的沉默被視為是對罪行的承認。"
+        }
+      ]
+    },
+    {
+      "eng": "adopt",
+      "kk": "əˈdɑpt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "收養",
+          "領養"
+        ],
+        [
+          "採用",
+          "採納"
+        ]
+      ],
+      "analysis": "此字為及物動詞。源自拉丁語 adoptare（ad- 朝向 + optare 選擇、希望）。歷史核心義為「依照法定程序選擇某人成為自己的孩子」，現代引申為「收養小孩」以及「採用或採納新方法、政策」。",
+      "definition": "1. to legally take another person's child into one's own family as a legal child; 2. to choose to take up, follow, or use a method, idea, or policy.",
+      "example": [
+        {
+          "eng": "They decided to adopt a baby from an orphanage.",
+          "ch": "他們決定從孤兒院領養一個嬰兒。"
+        },
+        {
+          "eng": "The company decided to adopt a new marketing strategy.",
+          "ch": "公司決定採用一項新的行銷策略。"
+        }
+      ]
+    },
+    {
+      "eng": "agency",
+      "kk": "ˈedʒənsi",
+      "tense": "n.",
+      "ch": [
+        [
+          "機構",
+          "局",
+          "代理處"
+        ]
+      ],
+      "analysis": "此字為名詞。源自中古拉丁語 agantia（源自拉丁語 agere 驅動、做、辦事）。歷史核心義為「代表他人執行業務的力量或機構」，在現代指提供特定服務或代表政府運作的「機構、局、代理處」。",
+      "definition": "1. a business or organization providing a particular service on behalf of other businesses or persons.",
+      "example": [
+        {
+          "eng": "She booked her flight through a local travel agency.",
+          "ch": "她透過當地的旅行社預訂了航班。"
+        }
+      ]
+    },
+    {
+      "eng": "agent",
+      "kk": "ˈedʒənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "代理人",
+          "經紀人"
+        ],
+        [
+          "特務",
+          "情報員"
+        ]
+      ],
+      "analysis": "此字為名詞。源自拉丁語 agens（agere 的現在分詞，意為「正在做事的人」）。歷史核心義為「代表某人執行行動的主體」，現代引申為商業或演藝圈的「代理人、經紀人」以及政府的「特務、情報員」。",
+      "definition": "1. a person who acts on behalf of another person or group; 2. a person who acts for a government or official organization, especially in intelligence.",
+      "example": [
+        {
+          "eng": "The actor fired his agent and hired a new one.",
+          "ch": "這位演員開除了他的經紀人並雇用了一位新的。"
+        },
+        {
+          "eng": "The secret agent intercepted the classified documents.",
+          "ch": "秘密特務攔截了機密文件。"
+        }
+      ]
+    },
+    {
+      "eng": "aggressive",
+      "kk": "əˈgrɛsɪv",
+      "tense": "adj.",
+      "ch": [
+        [
+          "侵略性的",
+          "好鬥的"
+        ],
+        [
+          "積極進取的"
+        ]
+      ],
+      "analysis": "此字為形容詞。源自拉丁語 aggressivus（源自 aggredi 攻擊，ad- 朝向 + gradi 行走）。歷史核心義為「主動向前去攻擊別人的」，負面義指「侵略性的、好鬥的」，正面或中性商業語境則指「積極進取的、企圖心強的」。",
+      "definition": "1. ready or likely to attack or confront; pugnacious; 2. pursuing goals with intense energy and determination.",
+      "example": [
+        {
+          "eng": "Some dogs can become aggressive if they feel threatened.",
+          "ch": "有些狗如果感到受到威脅，可能會變得具有攻擊性。"
+        },
+        {
+          "eng": "The company adopted an aggressive expansion plan.",
+          "ch": "該公司採取了積極進取的擴張計劃。"
+        }
+      ]
+    },
+    {
+      "eng": "agreeable",
+      "kk": "əˈgriəbəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "令人愉快的",
+          "宜人的"
+        ],
+        [
+          "隨和的",
+          "贊同的"
+        ]
+      ],
+      "analysis": "此字為形容詞，由動詞 agree 加上形容詞字尾 -able（能夠、合適的）構成。歷史核心義為「合乎心意、讓人感到舒適的」，現代用來形容風景、氣氛「令人愉快的、宜人的」，或形容人「隨和的、贊同的」。",
+      "definition": "1. quite enjoyable and pleasurable; 2. willing to agree or accept something; pleasant and friendly in personality.",
+      "example": [
+        {
+          "eng": "We spent an agreeable afternoon walking in the park.",
+          "ch": "我們在公園散步，度過了一個愉快的下午。"
+        },
+        {
+          "eng": "She is an agreeable colleague who is always ready to help.",
+          "ch": "她是一位隨和的同事，總是樂意幫忙。"
+        }
+      ]
+    },
+    {
+      "eng": "alcohol",
+      "kk": "ˈælkəˌhɔl",
+      "tense": "n.",
+      "ch": [
+        [
+          "酒精",
+          "含酒精飲料"
+        ]
+      ],
+      "analysis": "此字為名詞。源自阿拉伯語 al-kuhūl（原指一種用作眼影粉的細粉末），經中世紀拉丁語演變，其意義在文藝復興時期轉變為「精華、蒸餾物」，最終專指化學上的「酒精」及「含酒精飲料」。",
+      "definition": "1. a colorless volatile flammable liquid that is the intoxicating constituent of wine, beer, spirits, and other drinks.",
+      "example": [
+        {
+          "eng": "The sale of alcohol to minors is strictly prohibited.",
+          "ch": "嚴禁向未成年人銷售酒精飲料。"
+        }
+      ]
+    },
+    {
+      "eng": "alert",
+      "kk": "əˈlɝt",
+      "tense": "n.",
+      "ch": [
+        [
+          "警戒",
+          "警報"
+        ]
+      ],
+      "analysis": "此字為名詞。源自義大利語 all'erta（字面義為「在高處、在瞭望塔上」，源自 erto 陡峭的）。歷史核心義為「保持高度警覺的狀態」，現代引申為軍事或公共安全上的「警戒、警報」。",
+      "definition": "1. a warning to people to be prepared to deal with a dangerous situation.",
+      "example": [
+        {
+          "eng": "A storm alert was issued for the entire coastal region.",
+          "ch": "整個沿海地區發布了暴風雨警報。"
+        }
+      ]
+    },
+    {
+      "eng": "alert",
+      "kk": "əˈlɝt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "機警的",
+          "警覺的"
+        ]
+      ],
+      "analysis": "此字為形容詞。經由法語 alerte 借入英語，源自義大利語 all'erta（隨時準備好觀察與防範）。歷史核心義為「精神高度集中、隨時準備應變的」，現代指人「機警的、警覺的」。",
+      "definition": "1. quick to notice any unusual and potentially dangerous or difficult circumstances; vigilant.",
+      "example": [
+        {
+          "eng": "Security guards must remain alert during their night shifts.",
+          "ch": "保全人員在夜班期間必須保持高度機警。"
+        }
+      ]
+    },
+    {
+      "eng": "allowance",
+      "kk": "əˈlaʊəns",
+      "tense": "n.",
+      "ch": [
+        [
+          "津貼",
+          "零用錢"
+        ],
+        [
+          "容許量",
+          "限額"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 allow 加上名詞字尾 -ance 構成。歷史核心義為「定期核准發給的金額或份額」，在現代主要指家庭或職場中的「津貼、零用錢」，或行李重量等的「容許量、限額」。",
+      "definition": "1. an amount of money given regularly, especially to children or for a specific purpose; 2. a permissible amount of something.",
+      "example": [
+        {
+          "eng": "She receives a weekly allowance from her parents.",
+          "ch": "她從父母那裡領取每週的零用錢。"
+        },
+        {
+          "eng": "The airline allows a baggage allowance of 23 kilograms.",
+          "ch": "該航空公司允許的行李託運限額為23公斤。"
+        }
+      ]
+    },
+    {
+      "eng": "alternative",
+      "kk": "ɔlˈtɝnətɪv",
+      "tense": "n.",
+      "ch": [
+        [
+          "替代方案",
+          "選擇"
+        ]
+      ],
+      "analysis": "此字為名詞。源自中世紀拉丁語 alternare（交替），源自拉丁語 alter（兩者中的另一個）。歷史核心義為「互斥的兩種選擇之一」，現代指標準方法之外可供利用的「替代方案、選擇」。",
+      "definition": "1. one of two or more available possibilities or courses of action.",
+      "example": [
+        {
+          "eng": "We have no alternative but to cancel the event.",
+          "ch": "我們別無選擇，只能取消活動。"
+        }
+      ]
+    },
+    {
+      "eng": "alternative",
+      "kk": "ɔlˈtɝnətɪv",
+      "tense": "adj.",
+      "ch": [
+        [
+          "替代的",
+          "非傳統的"
+        ]
+      ],
+      "analysis": "此字為形容詞。源自拉丁語 alternativus（源自 alter 兩者中的另一個）。歷史核心義為「兩者選其一的」，現代引申為「替代的、非傳統的（如替代能源、另類音樂）」。",
+      "definition": "1. available as another possibility or choice; differing from the traditional or standard.",
+      "example": [
+        {
+          "eng": "Solar and wind power are forms of alternative energy.",
+          "ch": "太陽能與風力發電是替代能源的形式。"
+        }
+      ]
+    },
+    {
+      "eng": "amateur",
+      "kk": "ˈæmətʃɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "業餘愛好者",
+          "外行"
+        ]
+      ],
+      "analysis": "此字為名詞。源自法語 amateur，最終源自拉丁語 amator（愛好者，源自 amare 愛）。歷史核心義為「出於熱愛而非為了金錢從事某事的人」，現代泛指「業餘愛好者」或與專業相對的「外行」。",
+      "definition": "1. a person who engages in a pursuit, especially a sport, on an unpaid rather than a professional basis.",
+      "example": [
+        {
+          "eng": "The tennis tournament is open to both professionals and amateurs.",
+          "ch": "這場網球錦標賽對職業選手和業餘愛好者同時開放。"
+        }
+      ]
+    },
+    {
+      "eng": "ambiguous",
+      "kk": "æmˈbɪgjʊəs",
+      "tense": "adj.",
+      "ch": [
+        [
+          "模稜兩可的",
+          "含糊不清的"
+        ]
+      ],
+      "analysis": "此字為形容詞。源自拉丁語 ambiguus（由 amb- 兩邊、周圍 + agere 驅動、徘徊構成，字面義為「在兩邊徘徊不定」）。歷史核心義為「意義不明確、可作多種解釋的」，現代指說法或態度「模稜兩可的、含糊不清的」。",
+      "definition": "1. open to more than one interpretation; having a double meaning or unclear in meaning.",
+      "example": [
+        {
+          "eng": "His ambiguous response left us unsure of his actual intentions.",
+          "ch": "他模稜兩可的回答讓我們無法確定他的真實意圖。"
+        }
+      ]
+    },
+    {
+      "eng": "ambitious",
+      "kk": "æmˈbɪʃəs",
+      "tense": "adj.",
+      "ch": [
+        [
+          "有雄心的",
+          "有抱負的"
+        ],
+        [
+          "宏大的",
+          "企圖心強的"
+        ]
+      ],
+      "analysis": "此字為形容詞。源自拉丁語 ambitiosus（源自 ambitio 四處奔走拉票、追求名譽，源自 ambire 繞行）。歷史核心義為「熱切渴望權力、榮譽或成就的」，現代用來形容人「有雄心的、有抱負的」，或形容計畫、目標「宏大的、企圖心強的」。",
+      "definition": "1. having or showing a strong desire and determination to succeed; 2. (of a plan or piece of work) as great as possible, requiring much effort and skill.",
+      "example": [
+        {
+          "eng": "She is an ambitious lawyer aiming to become a partner.",
+          "ch": "她是一位雄心勃勃的律師，目標是成為合夥人。"
+        },
+        {
+          "eng": "Building a bridge across the bay is an ambitious project.",
+          "ch": "在海灣上建造一座橋樑是一個宏大的工程。"
+        }
+      ]
+    },
+    {
+      "eng": "amuse",
+      "kk": "əˈmjuz",
+      "tense": "vt.",
+      "ch": [
+        [
+          "逗樂",
+          "使開心"
+        ],
+        [
+          "消遣",
+          "娛樂"
+        ]
+      ],
+      "analysis": "此字為及物動詞。源自法語 amuser（a- 使 + muser 原意為凝視空中、發呆，後轉為分散注意力、使快樂）。歷史核心義為「吸引注意力並帶來歡樂」，現代指「逗樂、使開心」或提供「消遣、娛樂」。",
+      "definition": "1. to cause someone to find something funny; to entertain; 2. to provide someone with an enjoyable distraction.",
+      "example": [
+        {
+          "eng": "The clown's funny antics amused the children.",
+          "ch": "小丑滑稽的舉動逗樂了孩子們。"
+        },
+        {
+          "eng": "He amused himself by solving crossword puzzles.",
+          "ch": "他透過解答填字遊戲來消遣。"
+        }
+      ]
+    },
+    {
+      "eng": "amusement",
+      "kk": "əˈmjuzmənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "樂趣",
+          "娛樂"
+        ],
+        [
+          "消遣活動"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 amuse 加上名詞字尾 -ment 構成。歷史核心義為「感到快樂或被娛樂的狀態」，現代指內心的「樂趣、娛樂」或具體的「消遣活動」。",
+      "definition": "1. the state or experience of finding something funny or entertaining; 2. a game, toy, or other contrivance designed to provide entertainment.",
+      "example": [
+        {
+          "eng": "To her great amusement, the puppy chased its own tail.",
+          "ch": "讓她感到十分有趣的是，小狗竟然追著自己的尾巴轉圈。"
+        },
+        {
+          "eng": "The city offers plenty of amusements for tourists.",
+          "ch": "這座城市為遊客提供了豐富的娛樂活動。"
+        }
+      ]
+    },
+    {
+      "eng": "analysis",
+      "kk": "əˈnæləsɪs",
+      "tense": "n.",
+      "ch": [
+        [
+          "分析",
+          "解析"
+        ]
+      ],
+      "analysis": "此字為名詞（複數形為 analyses）。源自希臘語 analysis（ana- 向上、徹底 + lysis 解開、拆解）。歷史核心義為「將整體拆解成各個部分以便徹底檢視」，在現代各領域中普遍指「分析、解析」。",
+      "definition": "1. detailed examination of the elements or structure of something, typically as a basis for discussion or interpretation.",
+      "example": [
+        {
+          "eng": "The financial analysis revealed a steady growth in profits.",
+          "ch": "財務分析顯示利潤穩步增長。"
+        }
+      ]
+    },
+    {
+      "eng": "analyze",
+      "kk": "ˈænəˌlaɪz",
+      "tense": "vt.",
+      "ch": [
+        [
+          "分析",
+          "化驗",
+          "解析"
+        ]
+      ],
+      "analysis": "此字為及物動詞。源自名詞 analysis 的動詞化派生（希臘語 ana- + lyein 解開）。歷史核心義為「深入拆解並研究事物的組成」，現代指對數據、問題或物質進行「分析、化驗、解析」。",
+      "definition": "1. to examine methodically and in detail the constitution or structure of something, typically for purposes of explanation and interpretation.",
+      "example": [
+        {
+          "eng": "Scientists analyzed the water samples for chemical pollutants.",
+          "ch": "科學家化驗了水樣中的化學污染物。"
+        }
+      ]
+    },
+    {
+      "eng": "ancestor",
+      "kk": "ˈænsɛstɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "祖先",
+          "祖宗"
+        ],
+        [
+          "原型",
+          "先驅"
+        ]
+      ],
+      "analysis": "此字為名詞。源自古法語 ancestre，最終源自拉丁語 antecessor（antecedere 的名詞形式，ante- 在前 + cedere 行走）。歷史核心義為「走在前面的人、先人」，現代引申為血緣上的「祖先、祖宗」以及物種或機器的「原型、先驅」。",
+      "definition": "1. a person from whom one is descended; a forebear; 2. an early type of animal or plant from which later types have evolved, or an early version of a machine.",
+      "example": [
+        {
+          "eng": "His ancestors immigrated to America in the 19th century.",
+          "ch": "他的祖先在19世紀移民到美國。"
+        },
+        {
+          "eng": "This 1980s computer is the ancestor of modern laptops.",
+          "ch": "這台1980年代的電腦是現代筆記型電腦的先驅。"
+        }
+      ]
+    },
+    {
+      "eng": "anniversary",
+      "kk": "ˌænəˈvɝsəri",
+      "tense": "n.",
+      "ch": [
+        [
+          "週年紀念日"
+        ]
+      ],
+      "analysis": "此字為名詞。源自拉丁語 anniversarius（annus 年 + versus 從 vertere 轉動、返回，字面義為「一年轉回來一次的日子」）。歷史核心義為「事件發生滿一年的日子」，現代指各種「週年紀念日」。",
+      "definition": "1. the date on which an event occurred in some previous year.",
+      "example": [
+        {
+          "eng": "They celebrated their tenth wedding anniversary in Hawaii.",
+          "ch": "他們在夏威夷慶祝結婚十週年紀念。"
+        }
+      ]
+    },
+    {
+      "eng": "annoy",
+      "kk": "əˈnɔɪ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "惹惱",
+          "使煩惱"
+        ]
+      ],
+      "analysis": "此字為及物動詞。源自古法語 anoier，最終源自拉丁語 in odio（在恨意之中，源自 odium 憎恨）。歷史核心義為「引起某人的厭惡或不悅」，現代指日常的「惹惱、使煩惱」。",
+      "definition": "1. to irritate someone; to make someone slightly angry.",
+      "example": [
+        {
+          "eng": "His habit of interrupting people really annoys me.",
+          "ch": "他打斷別人說話的習慣真的很惹我生氣。"
+        }
+      ]
+    },
+    {
+      "eng": "annual",
+      "kk": "ˈænjuəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "每年的",
+          "年度的"
+        ]
+      ],
+      "analysis": "此字為形容詞。源自拉丁語 annualis（annus 年）。歷史核心義為「每年發生一次的」或「持續一整年的」，現代標準用法為「每年的、年度的」。",
+      "definition": "1. occurring once every year.",
+      "example": [
+        {
+          "eng": "The company holds its annual dinner in December.",
+          "ch": "公司在十二月舉辦年度晚宴。"
+        }
+      ]
+    },
+    {
+      "eng": "anxiety",
+      "kk": "æŋˈzaɪəti",
+      "tense": "n.",
+      "ch": [
+        [
+          "焦慮",
+          "憂慮"
+        ],
+        [
+          "渴望"
+        ]
+      ],
+      "analysis": "此字為名詞。源自拉丁語 anxietas（源自 anxius 焦慮的，angere 勒緊、使痛苦）。歷史核心義為「內心感到緊繃與不安的狀態」，現代引申為心理上的「焦慮、憂慮」以及對某事的「強烈渴望」。",
+      "definition": "1. a feeling of worry, nervousness, or unease, typically about an imminent event or something with an uncertain outcome; 2. a strong desire or concern.",
+      "example": [
+        {
+          "eng": "She suffered from intense anxiety before the job interview.",
+          "ch": "她在面試前承受著極大的焦慮。"
+        },
+        {
+          "eng": "There is much anxiety among employees about job security.",
+          "ch": "員工們對工作保障感到十分憂慮。"
+        }
+      ]
+    },
+    {
+      "eng": "apology",
+      "kk": "əˈpɑlədʒi",
+      "tense": "n.",
+      "ch": [
+        [
+          "道歉",
+          "認錯"
+        ]
+      ],
+      "analysis": "此字為名詞。源自希臘語 apologia（apo- 離開、反駁 + logos 言論、辯護，原意為在法庭上的「辯護、申訴」）。在歷史演變中，其義從「為自己辯護」轉變成「承認過錯並請求原諒」，現代專指「道歉」。",
+      "definition": "1. a regretful acknowledgement of an offense or failure.",
+      "example": [
+        {
+          "eng": "He offered a sincere apology for his rude behavior.",
+          "ch": "他為自己粗魯的行為作了真誠的道歉。"
+        }
+      ]
+    },
+    {
+      "eng": "apparent",
+      "kk": "əˈpɛrənt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "顯而易見的",
+          "明白的"
+        ],
+        [
+          "表面上的"
+        ]
+      ],
+      "analysis": "此字為形容詞。源自拉丁語 apparens（apparere 的現在分詞，ad- 朝向 + parere 出現、顯現）。歷史核心義為「清晰顯現出來的」，現代用來形容事實「顯而易見的」，或與實際內情相對的「表面上的」。",
+      "definition": "1. clearly visible or understood; obvious; 2. seeming real or true, but not necessarily so.",
+      "example": [
+        {
+          "eng": "It became apparent that she was not happy with her job.",
+          "ch": "很明顯地，她對自己的工作並不滿意。"
+        },
+        {
+          "eng": "There was no apparent reason for his sudden resignation.",
+          "ch": "他突然辭職沒有表面上的原因。"
+        }
+      ]
+    },
+    {
+      "eng": "applicant",
+      "kk": "ˈæplɪkənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "申請人",
+          "應徵者"
+        ]
+      ],
+      "analysis": "此字為名詞。源自拉丁語 applicans（applicare 的現在分詞，意為「將自己投身或請求於某事」）。歷史核心義為「提出正式請求的人」，現代專指職位或入學的「申請人、應徵者」。",
+      "definition": "1. a person who makes a formal application for something, such as a job or admission to a university.",
+      "example": [
+        {
+          "eng": "Over a hundred applicants were interviewed for the position.",
+          "ch": "有一百多位應徵者接受了該職位的面試。"
+        }
+      ]
+    }
+  ]
+}

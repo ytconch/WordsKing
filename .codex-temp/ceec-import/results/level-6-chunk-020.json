@@ -1,0 +1,1110 @@
+{
+  "level": 6,
+  "chunkIndex": 20,
+  "inputs": [
+    "tornado",
+    "torrent",
+    "trademark",
+    "transcript",
+    "transmit",
+    "transplant",
+    "treasury",
+    "trek",
+    "trifle",
+    "trillion",
+    "tropic",
+    "trout",
+    "trustee",
+    "tuck",
+    "turmoil",
+    "twilight",
+    "twinkle",
+    "unanimous",
+    "unconditional",
+    "underestimate",
+    "underneath",
+    "underpass",
+    "underway",
+    "unification",
+    "unify",
+    "unveil",
+    "upright",
+    "uprising",
+    "upward",
+    "upwards",
+    "urgency",
+    "usher",
+    "utensil",
+    "utter",
+    "vaccine",
+    "vanilla",
+    "vanity",
+    "vapor",
+    "veil",
+    "velvet",
+    "versatile",
+    "veterinarian",
+    "vet",
+    "veto",
+    "vibrate",
+    "vibration",
+    "vice",
+    "victor",
+    "vigor",
+    "vigorous"
+  ],
+  "rows": [
+    {
+      "eng": "tornado",
+      "kk": "tɔrˈneɪdoʊ",
+      "tense": "n.",
+      "ch": [
+        [
+          "龍捲風",
+          "颺風"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 tornado。歷史上源自西班牙語 tronada（意為雷暴、風暴），受西班牙語 tornar（意為轉動、迴旋，源自拉丁語 tornare）影響而發生語音與拼字融合，演變出表示旋轉風暴的含義。現代語義指強烈旋轉並接觸地面的氣柱風暴。",
+      "definition": "1. a violent, dangerous rotating column of air that is in contact with both the surface of the earth and a cumulonimbus cloud.",
+      "example": [
+        {
+          "eng": "The sudden tornado destroyed several homes in the small town.",
+          "ch": "突如其來的龍捲風摧毀了小鎮上的好幾棟房屋。"
+        }
+      ]
+    },
+    {
+      "eng": "torrent",
+      "kk": "ˈtɔrənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "急流",
+          "洪流"
+        ],
+        [
+          "傾瀉而言的話語",
+          "迸發"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 torrent。源自古法語 torrent，最終源自拉丁語 torrens（原為形容詞「滾滾的、湍急的」，源自 torrere「乾燥、炙烤」的名詞化用法，指因暴雨而乾涸轉為湍急的水流）。語意從實體的水流急湍，引申為抽象的言語、情緒或資金的猛烈湧現。",
+      "definition": "1. a strong and fast-moving stream of water or other liquid; 2. a sudden, violent, and copious outpouring of something, typically words or feelings.",
+      "example": [
+        {
+          "eng": "Heavy rains turned the small creek into a raging torrent.",
+          "ch": "大雨將小溪變成了一股滾滾急流。"
+        },
+        {
+          "eng": "She faced a torrent of questions from reporters after the announcement.",
+          "ch": "她在宣布消息後面對記者的一連串猛烈提問。"
+        }
+      ]
+    },
+    {
+      "eng": "trademark",
+      "kk": "ˈtreɪdˌmɑrk",
+      "tense": "n.",
+      "ch": [
+        [
+          "商標"
+        ],
+        [
+          "標誌性特徵",
+          "識別特徵"
+        ]
+      ],
+      "analysis": "此字為名詞，由 trade（貿易、商業）與 mark（記號、標誌）組成的現代透明複合詞。最初指商人用來標識其商品來源與所有權的商業記號，後引申泛指某人或某物獨一無二、容易辨識的標誌性特徵。",
+      "definition": "1. a symbol, word, or words legally registered or established by use as representing a company or product; 2. a distinctive characteristic or attribute of a person or thing.",
+      "example": [
+        {
+          "eng": "The company registered its new logo as a trademark.",
+          "ch": "這家公司將其新標誌註冊為商標。"
+        },
+        {
+          "eng": "His witty sense of humor is a trademark of his public persona.",
+          "ch": "他機智的幽默感是他公眾形象的標誌性特徵。"
+        }
+      ]
+    },
+    {
+      "eng": "transcript",
+      "kk": "ˈtrænˌskrɪpt",
+      "tense": "n.",
+      "ch": [
+        [
+          "成績單"
+        ],
+        [
+          "文字記錄",
+          "抄本"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 transcript。由字首 trans-（跨越、轉移）與拉丁語詞根 script-（書寫，源自 scribere）結合而成，字面義為「轉寫、抄錄下來的文本」。現代主要指學校的學業成績記錄，或將口語訪談、會議內容逐字轉錄出來的文字檔案。",
+      "definition": "1. an official record of a student's academic performance; 2. a written or printed version of material originally presented in audio form.",
+      "example": [
+        {
+          "eng": "Applicants must submit an official transcript along with their resume.",
+          "ch": "申請者必須連同履歷表提交正式成績單。"
+        },
+        {
+          "eng": "The court reporter prepared a complete transcript of the trial.",
+          "ch": "法庭速記員準備了完整的審判文字記錄。"
+        }
+      ]
+    },
+    {
+      "eng": "transmit",
+      "kk": "trænzˈmɪt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "傳輸",
+          "傳送"
+        ],
+        [
+          "傳染",
+          "傳播"
+        ]
+      ],
+      "analysis": "此字為及物動詞（vt.），表面詞形與 lemma 相同為 transmit。由拉丁語 transmittere（trans-「跨越、過」＋ mittere「送出、發射」）經中世紀英語進入現代英語。現代語義涵蓋透過電子設備傳遞訊號或數據，以及生物學上的疾病傳染或代代相傳。",
+      "definition": "1. to pass on from one place, person, or thing to another, especially electronic signals or data; 2. to cause something, such as a disease or trait, to be passed on to another.",
+      "example": [
+        {
+          "eng": "Radio towers transmit signals across the entire valley.",
+          "ch": "無線電塔將訊號傳輸到整個山谷。"
+        },
+        {
+          "eng": "Certain mosquitoes can transmit dangerous viruses to humans.",
+          "ch": "某些蚊子會將危險病毒傳染給人類。"
+        }
+      ]
+    },
+    {
+      "eng": "transplant",
+      "kk": "trænzˈplænt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "移植（器官或植物）"
+        ]
+      ],
+      "analysis": "此字為及物動詞（vt.），表面詞形與 lemma 相同為 transplant。由字首 trans-（跨越、轉移）與 plant（動詞原義為種植、安置，源自拉丁語 plantare）結合而成。字面義為「把植物從一處移種到另一處」，現代醫學與園藝學中廣泛延伸用來指器官移植或植物移栽。",
+      "definition": "1. to move and plant in another place, or to transfer an organ from one body to another in medical surgery.",
+      "example": [
+        {
+          "eng": "Surgeons successfully transplanted a kidney into the patient.",
+          "ch": "外科醫生成功地將腎臟移植到病患體內。"
+        }
+      ]
+    },
+    {
+      "eng": "treasury",
+      "kk": "ˈtrɛʒəri",
+      "tense": "n.",
+      "ch": [
+        [
+          "國庫",
+          "財政部"
+        ],
+        [
+          "寶庫",
+          "珍藏集"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 treasury。源自古法語 tresorie，最終源自希臘語 thesauros（意為寶藏、儲藏所），經拉丁語 thesaurus 演變而來。現代指國家管理財政與稅收的官方機構（常大寫作 Treasury），亦可比喻為保存珍貴文學、藝術或知識的寶庫。",
+      "definition": "1. the funds or revenue of a government, institution, or corporation, or the department responsible for them; 2. a collection of valuable things, art, literature, or information.",
+      "example": [
+        {
+          "eng": "The government announced new measures to protect the national treasury.",
+          "ch": "政府宣布了保護國庫的新措施。"
+        },
+        {
+          "eng": "This book is a true treasury of classical poetry.",
+          "ch": "這本書堪稱古典詩歌的真正寶庫。"
+        }
+      ]
+    },
+    {
+      "eng": "trek",
+      "kk": "trɛk",
+      "tense": "vi.",
+      "ch": [
+        [
+          "艱苦跋涉",
+          "遠足"
+        ]
+      ],
+      "analysis": "此字為不及物動詞（vi.），表面詞形與 lemma 相同為 trek。源自南非荷蘭語 trekken（意為拉、拖、牛車旅行），源自日耳曼語族。19世紀因波爾人（Boers）的大遷徙進入英語，現代用來指長途、艱辛且步伐緩慢的徒步旅行或登山健行。",
+      "definition": "1. to go on a long, arduous journey, typically on foot.",
+      "example": [
+        {
+          "eng": "The climbers decided to trek across the high mountain pass.",
+          "ch": "登山者決定艱苦跋涉穿越高山隘口。"
+        }
+      ]
+    },
+    {
+      "eng": "trifle",
+      "kk": "ˈtraɪfəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "瑣事",
+          "微不足道的小事"
+        ],
+        [
+          "少許",
+          "少額"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 trifle。源自古法語 tuffle（意為嘲弄、無聊的事），其語源可追溯至通俗拉丁語。現代英語中主要指不值得重視的瑣碎小事，或在數量上微不足道的一點點東西。",
+      "definition": "1. a thing of little value or importance; 2. a small amount of something.",
+      "example": [
+        {
+          "eng": "We should not argue over such a silly trifle.",
+          "ch": "我們不應該為這種無聊的小事爭吵。"
+        },
+        {
+          "eng": "He cares not a trifle about what people say.",
+          "ch": "他對別人說的話一點也不在乎。"
+        }
+      ]
+    },
+    {
+      "eng": "trillion",
+      "kk": "ˈtrɪljən",
+      "tense": "n.",
+      "ch": [
+        [
+          "一兆",
+          "萬億"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 trillion。由義大利語 millione（百萬）的變體詞首 tri-（三）結合而成，原意為百萬的三次方。在現代美式英語與國際標準中指 $10^{12}$（即一兆或萬億）。",
+      "definition": "1. the number equal to one thousand billion ($10^{12}$).",
+      "example": [
+        {
+          "eng": "The national debt has reached several trillion dollars.",
+          "ch": "國債已經達到好幾兆美元。"
+        }
+      ]
+    },
+    {
+      "eng": "tropic",
+      "kk": "ˈtrɑpɪk",
+      "tense": "n.",
+      "ch": [
+        [
+          "回歸線",
+          "熱帶地區"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 tropic。源自拉丁語 tropicus，源自希臘語 tropikos（意為轉折的，源自 trope「轉動」），因太陽在夏至與冬至時在南北回歸線「轉向」而得名。現代常用複數 tropics 指赤道附近的熱帶氣候區。",
+      "definition": "1. either of the two parallels of latitude corresponding to the northernmost and southernmost points at which the sun can be overhead; (in plural) the regions lying between these latitudes.",
+      "example": [
+        {
+          "eng": "The ship sailed south toward the tropics for the winter.",
+          "ch": "那艘船在冬天向南航行前往熱帶地區。"
+        }
+      ]
+    },
+    {
+      "eng": "trout",
+      "kk": "traʊt",
+      "tense": "n.",
+      "ch": [
+        [
+          "鱒魚"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 trout。源自古英語 trūht，源自晚期拉丁語 tructa，最終源自希臘語 trōktēs（意指會咬餌的魚）。現代指多棲息於清澈冷水中的淡水鮭科魚類。",
+      "definition": "1. a freshwater fish of the salmon family that is a popular game and food fish.",
+      "example": [
+        {
+          "eng": "We caught several large trout in the mountain stream.",
+          "ch": "我們在山溪裡釣到了好幾隻大鱒魚。"
+        }
+      ]
+    },
+    {
+      "eng": "trustee",
+      "kk": "trʌˈstiː",
+      "tense": "n.",
+      "ch": [
+        [
+          "受託人",
+          "董事會成員"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 trustee。由 trust（信任、信託）與名詞字尾 -ee（表示接受某動作或身份的人，源自法語 -é）結合而成。現代法律與機構治理中，指受委託管理他人財產或擔任機構決策與監督職務的董事會成員。",
+      "definition": "1. an individual or member of a board given control or the power of administration of property in trust with a legal obligation to administer it solely for the purposes specified.",
+      "example": [
+        {
+          "eng": "She was appointed as a trustee of the university's board.",
+          "ch": "她被任命為大學董事會的受託人。"
+        }
+      ]
+    },
+    {
+      "eng": "tuck",
+      "kk": "tʌk",
+      "tense": "vt.",
+      "ch": [
+        [
+          "塞進",
+          "把...夾入"
+        ],
+        [
+          "把...裹好",
+          "蓋好被子"
+        ]
+      ],
+      "analysis": "此字為及物動詞（vt.），表面詞形與 lemma 相同為 tuck。源自中古荷蘭語 tucken 或低地德語 tucken（意為拉起、捲起）。現代用法指將衣物、棉被或物品整齊地塞進縫隙或包覆好，帶有收納與整理的動作語意。",
+      "definition": "1. to push, fold, or turn the ends or edges of something into a secure place; 2. to cover someone comfortably with a blanket or quilt.",
+      "example": [
+        {
+          "eng": "He tucked his shirt into his trousers before the meeting.",
+          "ch": "他在開會前把襯衫塞進褲子裡。"
+        },
+        {
+          "eng": "The mother gently tucked her child into bed.",
+          "ch": "母親溫柔地幫孩子蓋好被子上床睡覺。"
+        }
+      ]
+    },
+    {
+      "eng": "turmoil",
+      "kk": "ˈtɜrˌmɔɪl",
+      "tense": "n.",
+      "ch": [
+        [
+          "動亂",
+          "混亂",
+          "焦慮不安"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 turmoil。其詞源說法較多，可能源自古法語 tremouille（磨坊的跳動漏斗）或源自拉丁語 tormina（絞痛、劇痛）受動詞moil（翻攪、勞累）影響而演變出動盪不安的抽象語意。現代指社會政治的動盪或內心的極度混亂與焦慮。",
+      "definition": "1. a state of great disturbance, confusion, or uncertainty.",
+      "example": [
+        {
+          "eng": "The country was plunged into political turmoil after the election.",
+          "ch": "選舉過後，該國陷入了政治動亂。"
+        }
+      ]
+    },
+    {
+      "eng": "twilight",
+      "kk": "ˈtwaɪˌlaɪt",
+      "tense": "n.",
+      "ch": [
+        [
+          "黃昏",
+          "暮色"
+        ],
+        [
+          "衰落期",
+          "晚年"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 twilight。由古英語 twi-（雙、半，源自兩次光線交替）與 light（光線）複合而成。字面原意指日落後或日出前的微弱光線；現代除指黃昏與黎明的暮色外，亦常比喻生命或帝國走向衰落的晚期。",
+      "definition": "1. the soft glowing light from the sky when the sun is below the horizon, especially after sunset; 2. the period of a decline following a peak.",
+      "example": [
+        {
+          "eng": "They walked along the beach in the quiet twilight.",
+          "ch": "他們在寂靜的暮色中沿著海灘散步。"
+        },
+        {
+          "eng": "The aging actor spent his twilight years in a quiet countryside.",
+          "ch": "這位年邁的演員在寧靜的鄉村度過了他的晚年。"
+        }
+      ]
+    },
+    {
+      "eng": "twinkle",
+      "kk": "ˈtwɪŋkəl",
+      "tense": "vi.",
+      "ch": [
+        [
+          "閃爍",
+          "閃耀"
+        ]
+      ],
+      "analysis": "此字為不及物動詞（vi.），表面詞形與 lemma 相同為 twinkle。源自古英語twinclean（意為眨眼），帶有表反覆微小動作的指小字尾 -le。現代用語中主要形容星星、燈光或眼睛因笑意而閃爍放光的光學效果。",
+      "definition": "1. to shine with a gleam that changes repeatedly from bright to dim.",
+      "example": [
+        {
+          "eng": "The distant stars began to twinkle in the clear night sky.",
+          "ch": "遠處的星星在晴朗的夜空中開始閃爍。"
+        }
+      ]
+    },
+    {
+      "eng": "unanimous",
+      "kk": "juˈnænəməs",
+      "tense": "adj.",
+      "ch": [
+        [
+          "意見一致的",
+          "全體一致的"
+        ]
+      ],
+      "analysis": "此字為形容詞（adj.），表面詞形與 lemma 相同為 unanimous。由拉丁語 unus（一個）與 animus（心靈、意向）結合而成的複合形容詞，字面義為「具有同一個心靈、異口同聲」。現代指投票結果或眾人意見完全一致。",
+      "definition": "1. (of two or more people) fully in agreement.",
+      "example": [
+        {
+          "eng": "The committee reached a unanimous decision to approve the project.",
+          "ch": "委員會全體一致投票通過了該項目。"
+        }
+      ]
+    },
+    {
+      "eng": "unconditional",
+      "kk": "ˌʌnkənˈdɪʃənəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "無條件的",
+          "絕對的"
+        ]
+      ],
+      "analysis": "此字為形容詞（adj.），表面詞形與 lemma 相同為 unconditional。由否定字首 un-（不、無）與形容詞 conditional（有條件的，源自 condition「條件」）結合而成的透明構詞。現代指不附帶任何前提、限制或保留條件的態度、投降或愛。",
+      "definition": "1. not subject to any conditions; absolute.",
+      "example": [
+        {
+          "eng": "The enemy forces offered an unconditional surrender.",
+          "ch": "敵軍提出了無條件投降。"
+        }
+      ]
+    },
+    {
+      "eng": "underestimate",
+      "kk": "ˌʌndərˈɛstəˌmeɪt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "低估",
+          "對...估計過低"
+        ]
+      ],
+      "analysis": "此字為及物動詞（vt.），表面詞形與 lemma 相同為 underestimate。由字首 under-（低於、不足）與動詞 estimate（評估、估計）結合而成的透明構詞。現代用來指對某人的能力、任務的難度或事物的價值做出低於實際情況的估算。",
+      "definition": "1. to estimate something to be smaller or less important than it actually is.",
+      "example": [
+        {
+          "eng": "Never underestimate the difficulty of learning a new language.",
+          "ch": "永遠不要低估學習新語言的難度。"
+        }
+      ]
+    },
+    {
+      "eng": "underneath",
+      "kk": "ˌʌndərˈniːθ",
+      "tense": "prep.",
+      "ch": [
+        [
+          "在...的下方",
+          "在...底下"
+        ]
+      ],
+      "analysis": "此字為介系詞（prep.），表面詞形與 lemma 相同為 underneath。由古英語下方的副詞與介系詞成分複合而成（under + neothan「在下方」）。現代多用於指空間上的正下方，或表面偽裝、平靜外表背後的真實狀態。",
+      "definition": "1. situated directly below or beneath something.",
+      "example": [
+        {
+          "eng": "She found her lost keys hidden underneath the couch.",
+          "ch": "她在沙發底下找到了她丟失的鑰匙。"
+        }
+      ]
+    },
+    {
+      "eng": "underpass",
+      "kk": "ˈʌndərˌpæs",
+      "tense": "n.",
+      "ch": [
+        [
+          "地下道",
+          "立體交叉道路的下方通道"
+        ]
+      ],
+      "analysis": "此字為名詞，由 under-（在下方）與 pass（通道、穿越）組成的現代透明複合詞。現代指鐵路或高速公路下方供行人或車輛通行的地下涵洞或立體交叉通道。",
+      "definition": "1. a road or path that goes underneath another road or a railway.",
+      "example": [
+        {
+          "eng": "Pedestrians used the underpass to cross the busy highway safely.",
+          "ch": "行人們利用地下道安全地穿過繁忙的高速公路。"
+        }
+      ]
+    },
+    {
+      "eng": "underway",
+      "kk": "ˌʌndərˈwɛɪ",
+      "tense": "adj.",
+      "ch": [
+        [
+          "正在進行中的",
+          "航行中的"
+        ]
+      ],
+      "analysis": "此字為形容詞（adj.），表面詞形與 lemma 相同為 underway。源自航海用語 under weigh（船隻起錨準備航行），後拼寫演變為 underway，引申指任何活動或計畫已經正式開展、正在進行中。",
+      "definition": "1. (of an activity or process) having already started; in progress.",
+      "example": [
+        {
+          "eng": "Preparations for the annual festival are already underway.",
+          "ch": "年度慶典的籌備工作已經在進行中了。"
+        }
+      ]
+    },
+    {
+      "eng": "unification",
+      "kk": "ˌjunəfɪˈkeɪʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "統一",
+          "聯合",
+          "合一"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 unification。由動詞 unify 轉來的名詞形式，結合了拉丁語 unus（一）與 -ficare（使成為，源自 facere）及名詞字尾 -tion。現代指政治實體、國家、學說或系統的合併與統一過程。",
+      "definition": "1. the process of being united or made into a whole.",
+      "example": [
+        {
+          "eng": "The historical speeches called for the peaceful unification of the country.",
+          "ch": "那些歷史演說呼籲國家的和平統一。"
+        }
+      ]
+    },
+    {
+      "eng": "unify",
+      "kk": "ˈjunəˌfaɪ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "統一",
+          "使成一體"
+        ]
+      ],
+      "analysis": "此字為及物動詞（vt.），表面詞形與 lemma 相同為 unify。由拉丁語 unus（一）與動詞字尾 -fy（使成為，源自facere）結合而成。現代指將原本分離的各方、國家或系統結合成一個和諧的整體。",
+      "definition": "1. to make or become united, uniform, or a single entity.",
+      "example": [
+        {
+          "eng": "The new leader sought to unify the fractured political parties.",
+          "ch": "這位新領導人試圖將四分五裂的政黨團結統一起來。"
+        }
+      ]
+    },
+    {
+      "eng": "unveil",
+      "kk": "ʌnˈveɪl",
+      "tense": "vt.",
+      "ch": [
+        [
+          "揭幕",
+          "揭露",
+          "公布"
+        ]
+      ],
+      "analysis": "此字為及物動詞（vt.），表面詞形與 lemma 相同為 unveil。由否定暨反轉字首 un-（去除、打開）與 veil（面紗、覆蓋物，源自拉丁語 vela）結合而成的透明構詞。字面義為「掀開面紗」，現代多用來指雕像揭幕，或科技公司與政府正式公開新產品、新計畫。",
+      "definition": "1. to remove a veil from something, especially as part of a public ceremony; 2. to show or announce something new to the public for the first time.",
+      "example": [
+        {
+          "eng": "The mayor will unveil the monument in the town square tomorrow.",
+          "ch": "市長明天將在城鎮廣場為紀念碑揭幕。"
+        },
+        {
+          "eng": "The tech giant plans to unveil its latest smartphone next week.",
+          "ch": "這家科技巨頭計畫在下周發表其最新款智慧型手機。"
+        }
+      ]
+    },
+    {
+      "eng": "upright",
+      "kk": "ˈʌpˌraɪt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "直立的",
+          "垂直的"
+        ],
+        [
+          "正直的",
+          "誠實的"
+        ]
+      ],
+      "analysis": "此字為形容詞（adj.），表面詞形與 lemma 相同為 upright。由副詞 up（向上）與形容詞 right（直的、正的）複合而成。字面義為「直往上伸展的」，既可指物理空間上的直立狀態，亦可引申比喻人的品格正直、坦蕩。",
+      "definition": "1. strictly vertical or in a straight vertical position; 2. (of a person or their behavior) honest and honorable.",
+      "example": [
+        {
+          "eng": "Please keep the heavy box in an upright position during transport.",
+          "ch": "搬運過程中請保持這個重箱子呈直立狀態。"
+        },
+        {
+          "eng": "He is an upright citizen respected by everyone in the neighborhood.",
+          "ch": "他是一位受鄰里所有人尊敬的正直公民。"
+        }
+      ]
+    },
+    {
+      "eng": "uprising",
+      "kk": "ˈʌpˌraɪzɪŋ",
+      "tense": "n.",
+      "ch": [
+        [
+          "起義",
+          "暴動",
+          "叛亂"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 uprise（起立、叛亂，源自 up + rise）加上 -ing 詞尾形成的結果名詞。現代專門用來指民眾為反抗當權者或統治階級而發起的集體武裝起義或政治暴動。",
+      "definition": "1. an act of resistance or rebellion; a revolt.",
+      "example": [
+        {
+          "eng": "The government was overthrown in a popular uprising.",
+          "ch": "政府在一次民眾起義中被推翻了。"
+        }
+      ]
+    },
+    {
+      "eng": "upward",
+      "kk": "ˈʌpwərd",
+      "tense": "adj.",
+      "ch": [
+        [
+          "向上的",
+          "升高的"
+        ]
+      ],
+      "analysis": "此字為形容詞（adj.），表面詞形與 lemma 相同為 upward。由副詞 up（向上）與方向形容詞字尾 -ward（向...的）複合而成。現代修飾趨勢、軌跡或移動方向朝向更高位置。",
+      "definition": "1. directed or moving higher.",
+      "example": [
+        {
+          "eng": "Analysts predict a steady upward trend in stock prices this quarter.",
+          "ch": "分析師預測本季度股價將呈現穩步上升的趨勢。"
+        }
+      ]
+    },
+    {
+      "eng": "upwards",
+      "kk": "ˈʌpwərdz",
+      "tense": "adv.",
+      "ch": [
+        [
+          "向上",
+          "朝上"
+        ],
+        [
+          "高於",
+          "以上（接數量）"
+        ]
+      ],
+      "analysis": "此字為副詞（adv.），表面詞形與 lemma 相同為 upward 的副詞複數形式（在美式英語中常與 upward 通用，但在句法上多作副詞）。現代除指物理方向向上外，亦常以 upwards of 結構表示「在...以上、超過（某數量）」。",
+      "definition": "1. toward a higher place, position, or direction; 2. (followed by of) more than a particular number, amount, or rate.",
+      "example": [
+        {
+          "eng": "He looked upwards at the soaring eagle in the sky.",
+          "ch": "他抬頭望向天空中翱翔的雄鷹。"
+        },
+        {
+          "eng": "The project will cost upwards of one million dollars.",
+          "ch": "這個項目的成本將超過一百萬美元。"
+        }
+      ]
+    },
+    {
+      "eng": "urgency",
+      "kk": "ˈɜrdʒənsi",
+      "tense": "n.",
+      "ch": [
+        [
+          "緊急",
+          "緊迫性"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 urgency。由形容詞 urgent（緊急的，源自拉丁語 urgere「催促、驅使」）轉變而來的抽象名詞，字尾為 -ency。現代指事情刻不容緩、需要立即處理的迫切性質。",
+      "definition": "1. the quality or state of being urgent; insistence.",
+      "example": [
+        {
+          "eng": "The prime minister stressed the urgency of climate action.",
+          "ch": "總理強調了氣候行動的緊迫性。"
+        }
+      ]
+    },
+    {
+      "eng": "usher",
+      "kk": "ˈʌʃər",
+      "tense": "vt.",
+      "ch": [
+        [
+          "引導",
+          "帶位"
+        ],
+        [
+          "開創",
+          "拉開（序幕）"
+        ]
+      ],
+      "analysis": "此字為及物動詞（vt.），表面詞形與 lemma 相同為 usher。源自古法語 ussier（意為門衛、看門人），最終源自拉丁語 ostiarius（源自 ostium「門」）。原指在劇院或教堂門口引導客人入座的職務，後引申為動詞，指引領方向或開創一個新時代的序幕。",
+      "definition": "1. to show or guide someone somewhere; 2. to cause or mark the beginning of something new.",
+      "example": [
+        {
+          "eng": "The theater staff will usher you to your seats shortly.",
+          "ch": "劇院工作人員很快會引導您入座。"
+        },
+        {
+          "eng": "The scientific breakthrough ushered in a new era of medicine.",
+          "ch": "這一科學突破為醫學拉開了一個新時代的序幕。"
+        }
+      ]
+    },
+    {
+      "eng": "utensil",
+      "kk": "juˈtɛnsəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "器皿",
+          "用具",
+          "廚房器具"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 utensil。源自中世紀拉丁語 utensilium（意為可用之物，源自拉丁語 uti「使用」）。現代主要指家庭日常生活中使用的工具，尤其是廚房烹飪與餐桌進食時用的器具（如刀叉、鍋鏟）。",
+      "definition": "1. a tool, container, or other object, especially one used in a household, particularly in a kitchen.",
+      "example": [
+        {
+          "eng": "She washed all the cooking utensils and put them away.",
+          "ch": "她洗好了所有的烹飪用具並把它們收起來。"
+        }
+      ]
+    },
+    {
+      "eng": "utter",
+      "kk": "ˈʌtər",
+      "tense": "adj.",
+      "ch": [
+        [
+          "完全的",
+          "徹底的",
+          "十足的"
+        ]
+      ],
+      "analysis": "此字為形容詞（adj.），表面詞形與 lemma 相同為 utter。源自古英語 ūttera（意為外面的、外部的，為 út「外」的比較級形式），其語義從「完全處於外面、極端的」演變為現代漢語中的「完全的、十足的」（常用來加強語氣）。",
+      "definition": "1. complete; absolute (used to emphasize how bad or severe something is).",
+      "example": [
+        {
+          "eng": "The party was a complete failure, ending in utter chaos.",
+          "ch": "這場派對徹底失敗，在一片混亂中結束。"
+        }
+      ]
+    },
+    {
+      "eng": "vaccine",
+      "kk": "vækˈsiːn",
+      "tense": "n.",
+      "ch": [
+        [
+          "疫苗"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 vaccine。源自拉丁語 vaccinus（意為「母牛的」，源自 vacca「母牛」）。愛德華·詹納（Edward Jenner）發明牛痘接種術以預防天花，稱之為 variolae vaccinae（牛痘），後來此詞獨立為名詞，泛指所有預防性疫苗。",
+      "definition": "1. a substance used to stimulate the production of antibodies and provide immunity against one or several diseases.",
+      "example": [
+        {
+          "eng": "Scientists worked around the clock to develop an effective vaccine.",
+          "ch": "科學家們日夜趕工研發有效的疫苗。"
+        }
+      ]
+    },
+    {
+      "eng": "vanilla",
+      "kk": "vəˈnɪlə",
+      "tense": "n.",
+      "ch": [
+        [
+          "香草",
+          "香草精"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 vanilla。源自西班牙語 vainilla（意為小豆莢，為vagina「鞘、豆莢」的指小形式），由西班牙殖民者從墨西哥引入歐洲。現代主要指香草蘭的豆莢及其提煉出的天然或人工香料。",
+      "definition": "1. a flavoring prepared from the fermented and cured seed pods of a tropical orchid.",
+      "example": [
+        {
+          "eng": "She prefers vanilla ice cream over chocolate.",
+          "ch": "她比起巧克力冰淇淋更喜歡香草口味。"
+        }
+      ]
+    },
+    {
+      "eng": "vanity",
+      "kk": "ˈvænəti",
+      "tense": "n.",
+      "ch": [
+        [
+          "虛榮心",
+          "自負"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 vanity。源自古法語 vanite，最終源自拉丁語 vanitas（意為空虛、無價值，源自 vanus「空洞的」）。語義從客觀上的「空洞虛無」演變為主觀上對自己外表或成就的過度驕傲與虛榮心。",
+      "definition": "1. excessive pride in or admiration of one's own appearance or achievements.",
+      "example": [
+        {
+          "eng": "His pure vanity prevented him from admitting his mistakes.",
+          "ch": "他強烈的虛榮心使他無法承認自己的錯誤。"
+        }
+      ]
+    },
+    {
+      "eng": "vapor",
+      "kk": "ˈveɪpər",
+      "tense": "n.",
+      "ch": [
+        [
+          "蒸氣",
+          "水氣"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 vapor。源自拉丁語 vapor（意為熱氣、煙霧、蒸氣）。現代物理與化學中指液體或固體物質在低於沸點或達到氣化時散發出的氣體狀態或霧氣。",
+      "definition": "1. a substance in the gaseous state, especially one that is normally a liquid or solid at room temperature.",
+      "example": [
+        {
+          "eng": "Water vapor in the atmosphere condenses to form clouds.",
+          "ch": "大氣中的水蒸氣凝結形成雲。"
+        }
+      ]
+    },
+    {
+      "eng": "veil",
+      "kk": "veɪl",
+      "tense": "n.",
+      "ch": [
+        [
+          "面紗",
+          "頭巾"
+        ],
+        [
+          "遮蔽物",
+          "掩飾"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 veil。源自古法語 veile，最終源自拉丁語 velum（意為布幕、帆、覆蓋物）。除實體的女性面紗或修女頭巾外，現代常引申比喻掩蓋真相的「重重面紗」或遮蔽物。",
+      "definition": "1. a piece of fine cloth worn by women to protect or cover the face; 2. a thing that conceals, covers, or disguises something.",
+      "example": [
+        {
+          "eng": "The bride wore a delicate white lace veil.",
+          "ch": "新娘戴著一條精緻的白色蕾絲面紗。"
+        },
+        {
+          "eng": "The spy operated under a veil of secrecy.",
+          "ch": "這名間諜在重重保密的掩護下行事。"
+        }
+      ]
+    },
+    {
+      "eng": "velvet",
+      "kk": "ˈvɛlvət",
+      "tense": "n.",
+      "ch": [
+        [
+          "絲絨",
+          "天鵝絨"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 velvet。源自中古英語 velwet，最終源自中世紀拉丁語 vellutum（意為有絨毛的織物，源自vellus「羊毛、毛皮」）。現代指一種面料柔軟、表面有密短絨毛的高級織品。",
+      "definition": "1. a closely woven fabric of silk, cotton, or nylon, with a thick short pile on one side.",
+      "example": [
+        {
+          "eng": "She wore an elegant black velvet dress to the evening gala.",
+          "ch": "她穿了一件優雅的黑色天鵝絨洋裝參加晚宴。"
+        }
+      ]
+    },
+    {
+      "eng": "versatile",
+      "kk": "ˈvɜrsətəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "多才多藝的",
+          "多用途的"
+        ]
+      ],
+      "analysis": "此字為形容詞（adj.），表面詞形與 lemma 相同為 versatile。源自拉丁語 versatilis（意為轉動自如的、靈活的，源自 versare「轉動、反覆琢磨」）。語義從物理上的「易轉動的」演變為形容人多才多藝或器具功能多樣、適應力強。",
+      "definition": "1. able to adapt or be adapted to many different functions or activities.",
+      "example": [
+        {
+          "eng": "A good chef must be versatile in preparing different cuisines.",
+          "ch": "優秀的主廚必須在準備各種料理上都十分多才多藝。"
+        }
+      ]
+    },
+    {
+      "eng": "veterinarian",
+      "kk": "ˌvɛtərəˈnɛriən",
+      "tense": "n.",
+      "ch": [
+        [
+          "獸醫"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 veterinarian。源自拉丁語 veterinarius（意為與馱獸、家畜有關的，源自 vetus「老、經馱運的動物」），後綴加上表示人的名詞字尾 -an。現代專指專業的動物醫生。",
+      "definition": "1. a person qualified to treat sick or injured animals.",
+      "example": [
+        {
+          "eng": "The veterinarian examined the sick puppy and prescribed medicine.",
+          "ch": "獸醫檢查了生病的小狗並開了藥。"
+        }
+      ]
+    },
+    {
+      "eng": "vet",
+      "kk": "vɛt",
+      "tense": "n.",
+      "ch": [
+        [
+          "獸醫（簡稱）"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 vet。為 veterinarian 的截短簡稱形式。現代口語中廣泛用來指稱獸醫，與動詞「審查、評估」同形異義（後者源自 veteran）。",
+      "definition": "1. a veterinarian.",
+      "example": [
+        {
+          "eng": "We need to take our cat to the vet for her annual checkup.",
+          "ch": "我們得帶貓去給獸醫做年度健康檢查。"
+        }
+      ]
+    },
+    {
+      "eng": "veto",
+      "kk": "ˈviːtoʊ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "否決",
+          "禁止"
+        ]
+      ],
+      "analysis": "此字為及物動詞（vt.），表面詞形與 lemma 相同為 veto。源自拉丁語 veto（意為「我禁止」，古羅馬保民官行使否決權時使用的官方用語）。現代政治與法律中用來指總統、機構或主管行使否決權以阻止法案或提案通過。",
+      "definition": "1. to exercise a veto against a decision or proposal; to forbid.",
+      "example": [
+        {
+          "eng": "The president decided to veto the controversial bill passed by Congress.",
+          "ch": "總統決定否決國會通過的具爭議性法案。"
+        }
+      ]
+    },
+    {
+      "eng": "vibrate",
+      "kk": "ˈvaɪˌbreɪt",
+      "tense": "vi.",
+      "ch": [
+        [
+          "震動",
+          "顫動"
+        ]
+      ],
+      "analysis": "此字為不及物動詞（vi.），表面詞形與 lemma 相同為 vibrate。源自拉丁語 vibrare（意為搖動、揮舞、顫動）。現代用來指物體快速且連續地來回擺動、發出物理震動（如手機震動或音波震動）。",
+      "definition": "1. to move or cause to move back and forth rapidly and steadily.",
+      "example": [
+        {
+          "eng": "Her phone began to vibrate quietly during the meeting.",
+          "ch": "她的手機在會議期間開始安靜地震動。"
+        }
+      ]
+    },
+    {
+      "eng": "vibration",
+      "kk": "vaɪˈbreɪʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "震動",
+          "顫動"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 vibration。由動詞 vibrate 加上名詞字尾 -tion 形成的抽象名詞。現代科學與日常用語中指物理物體產生的快速來回震動或機械波動感。",
+      "definition": "1. an instance of rapid and continuous back-and-forth movement or oscillation.",
+      "example": [
+        {
+          "eng": "The driver felt a slight vibration coming from the front wheels.",
+          "ch": "駕駛感覺到前輪傳來一陣輕微的震動。"
+        }
+      ]
+    },
+    {
+      "eng": "vice",
+      "kk": "vaɪs",
+      "tense": "n.",
+      "ch": [
+        [
+          "惡習",
+          "罪惡",
+          "不良嗜好"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 vice。源自古法語 vice，最終源自拉丁語 vitium（意為缺陷、缺點、罪惡）。現代主要指道德上的不良嗜好、罪惡行為或道德缺點（與 virtue「美德」相對）。",
+      "definition": "1. immoral or wicked behavior; a bad habit.",
+      "example": [
+        {
+          "eng": "Gambling and smoking are often considered costly vices.",
+          "ch": "賭博和抽菸常被認為是花錢又傷身的惡習。"
+        }
+      ]
+    },
+    {
+      "eng": "victor",
+      "kk": "ˈvɪktər",
+      "tense": "n.",
+      "ch": [
+        [
+          "勝利者",
+          "優勝者"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 victor。源自拉丁語 victor（意為征服者、勝利者，源自 vincere「征服、戰勝」）。現代用來指在戰爭、競賽、訴訟或選舉中取得最後勝利的人或隊伍。",
+      "definition": "1. a person who defeats an enemy or opponent in a battle, game, or competition.",
+      "example": [
+        {
+          "eng": "The cheering fans celebrated as their team emerged as the victor.",
+          "ch": "當他們的球隊成為勝利者時，歡呼的球迷們大肆慶祝。"
+        }
+      ]
+    },
+    {
+      "eng": "vigor",
+      "kk": "ˈvɪɡər",
+      "tense": "n.",
+      "ch": [
+        [
+          "活力",
+          "精力",
+          "體力"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 vigor。源自古法語 vigor，最終源自拉丁語 vigor（意為強壯、精力，源自 vigere「健壯、充滿生機」）。現代指人體力、腦力或組織運作上旺盛的生命力與活力。",
+      "definition": "1. physical strength and good health; effort, energy, and enthusiasm.",
+      "example": [
+        {
+          "eng": "Despite his advanced age, he still works with incredible vigor.",
+          "ch": "儘管年事已高，他工作起來依然充滿驚人的活力。"
+        }
+      ]
+    },
+    {
+      "eng": "vigorous",
+      "kk": "ˈvɪɡərəs",
+      "tense": "adj.",
+      "ch": [
+        [
+          "精力充沛的",
+          "劇烈的",
+          "強健的"
+        ]
+      ],
+      "analysis": "此字為形容詞（adj.），表面詞形與 lemma 相同為 vigorous。由名詞 vigor 加上形容詞字尾 -ous 結合而成。現代用來形容人充滿活力，或指需要大量體力、強烈動能的運動或辯論。",
+      "definition": "1. characterized by or involving physical strength, effort, or energy.",
+      "example": [
+        {
+          "eng": "Doctors recommend at least thirty minutes of vigorous exercise daily.",
+          "ch": "醫生建議每天進行至少三十分鐘的劇烈運動。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2019 @@
+{
+  "level": 5,
+  "chunkIndex": 17,
+  "inputs": [
+    "slot",
+    "smash",
+    "smog",
+    "snatch",
+    "sneak",
+    "sniff",
+    "soak",
+    "soar",
+    "sob",
+    "sober",
+    "soften",
+    "sole",
+    "solo",
+    "sophisticated",
+    "sophomore",
+    "souvenir",
+    "sovereignty",
+    "sow",
+    "spacious",
+    "sparkle",
+    "specialist",
+    "specialize",
+    "specialty",
+    "specify",
+    "specimen",
+    "spectacular",
+    "spectator",
+    "spectrum",
+    "speculate",
+    "sphere",
+    "spicy",
+    "spine",
+    "sponge",
+    "sponsor",
+    "sponsorship",
+    "spouse",
+    "squad",
+    "squash",
+    "squat",
+    "stability",
+    "stack",
+    "stain",
+    "stake",
+    "stall",
+    "stance",
+    "startle",
+    "statistical",
+    "steer",
+    "stereotype",
+    "stew"
+  ],
+  "rows": [
+    {
+      "eng": "slot",
+      "kk": "/slɑt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "狹長孔",
+          "縫隙"
+        ],
+        [
+          "時段",
+          "空檔"
+        ],
+        [
+          "職缺",
+          "名額"
+        ]
+      ],
+      "analysis": "此字為名詞，源自中古荷蘭語 slot（鎖孔、開口）或古諾斯語 slóð（徑跡），經由中古英語進入現代英語。基本核心義為「狹窄的凹槽或開口」，隨後引申出時間上的「可用時段」以及名單或組織中的「位置、名額」。",
+      "definition": "1. A narrow, elongated opening, hole, or slit.; 2. A designated time, place, or position in a schedule, program, or organization.; 3. A vacancy or opening for a person or thing in a group or system.",
+      "example": [
+        {
+          "eng": "Insert the coin into the slot to start the machine.",
+          "ch": "將硬幣投入狹長孔中以啟動機器。"
+        },
+        {
+          "eng": "I have a free slot in my schedule on Thursday afternoon.",
+          "ch": "我星期四下午的行程表中有一個空檔。"
+        },
+        {
+          "eng": "There is only one slot left for the training program.",
+          "ch": "培訓計畫只剩最後一個名額了。"
+        }
+      ]
+    },
+    {
+      "eng": "slot",
+      "kk": "/slɑt/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "把…放入狹長孔",
+          "為…安排時段"
+        ],
+        [
+          "將…納入名額",
+          "將…安插"
+        ]
+      ],
+      "analysis": "此字為及物動詞，由名詞 slot 轉品而來。主要指將物品放入狹縫中，或在行程表中安排特定的時段與位置。",
+      "definition": "1. To insert something into a narrow opening or slot.; 2. To arrange or fit something into a specific schedule, position, or plan.",
+      "example": [
+        {
+          "eng": "She gently slotted the letter into the mailbox.",
+          "ch": "她輕輕地將信件投入郵筒的縫隙中。"
+        },
+        {
+          "eng": "The director slotted the new film into the prime time evening slot.",
+          "ch": "導演將這部新電影安排在晚上的黃金時段播出。"
+        }
+      ]
+    },
+    {
+      "eng": "smash",
+      "kk": "/smæʃ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "粉碎",
+          "猛烈撞擊"
+        ],
+        [
+          "轟動的成功",
+          "熱門暢銷物"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 smash 轉品而來，除指物理上的撞擊或粉碎外，在現代流行語中也用來指極大成功的事業或歌曲（如 smash hit）。",
+      "definition": "1. A violent collision or the sound of breaking into pieces.; 2. A great and sudden success, especially in entertainment.",
+      "example": [
+        {
+          "eng": "We heard a loud smash coming from the kitchen.",
+          "ch": "我們聽到廚房傳來一聲巨大的碎裂巨響。"
+        },
+        {
+          "eng": "Her debut novel turned out to be an international smash.",
+          "ch": "她的處女作小說結果成了國際暢銷巨作。"
+        }
+      ]
+    },
+    {
+      "eng": "smash",
+      "kk": "/smæʃ/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "粉碎",
+          "砸碎"
+        ],
+        [
+          "猛烈撞擊",
+          "重擊"
+        ]
+      ],
+      "analysis": "此字為及物動詞，具有擬聲色彩（imitative origin），表示猛力擊碎或碰撞的動作。核心義為將物體猛力打碎或造成嚴重破壞。",
+      "definition": "1. To break something violently or noisily into many pieces.; 2. To strike or hit something with great force.",
+      "example": [
+        {
+          "eng": "The burglar used a heavy brick to smash the store window.",
+          "ch": "闖入者用一塊重磚砸碎了店鋪的窗戶。"
+        },
+        {
+          "eng": "The tennis player managed to smash the ball right past his opponent.",
+          "ch": "這位網球選手設法重擊將球打過對手。"
+        }
+      ]
+    },
+    {
+      "eng": "smash",
+      "kk": "/smæʃ/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "粉碎",
+          "破裂"
+        ],
+        [
+          "猛烈撞擊"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，表示自身破裂成碎片或猛烈撞上某物。",
+      "definition": "1. To break into pieces violently.; 2. To collide forcefully with something.",
+      "example": [
+        {
+          "eng": "The glass vase fell off the table and smashed on the hard floor.",
+          "ch": "玻璃花瓶從桌上掉下來，在堅硬的地板上摔得粉碎。"
+        },
+        {
+          "eng": "The car lost control and smashed into a roadside tree.",
+          "ch": "汽車失控，猛烈撞上了路邊的樹。"
+        }
+      ]
+    },
+    {
+      "eng": "smog",
+      "kk": "/smɑɡ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "煙霧",
+          "霧霾"
+        ]
+      ],
+      "analysis": "此字為混成詞（portmanteau），由 smoke（煙）的前半部與 fog（霧）的後半部結合而成，最初用來形容工業城市中混合煙煤與大霧的空氣汙染現象。",
+      "definition": "1. Fog combined with smoke and other atmospheric pollutants, typically occurring in cities.",
+      "example": [
+        {
+          "eng": "Heavy smog blanketed the city skyline, reducing visibility significantly.",
+          "ch": "濃厚的霧霾籠罩著城市天際線，使能見度大幅下降。"
+        }
+      ]
+    },
+    {
+      "eng": "snatch",
+      "kk": "/snætʃ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "奪取",
+          "搶奪"
+        ],
+        [
+          "片段",
+          "小段"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 snatch 轉品而來，除指搶奪行為外，也引申指短暫的片段或零星的聲音、對話。",
+      "definition": "1. An act of snatching or seizing.; 2. A brief, disconnected fragment of something, such as a conversation or song.",
+      "example": [
+        {
+          "eng": "There was a brief purse-snatch incident reported outside the station.",
+          "ch": "車站外發生了一起短暫的搶奪皮包事件。"
+        },
+        {
+          "eng": "I only caught snatches of their conversation from across the room.",
+          "ch": "我從房間對面只捕捉到他們談話的零星片段。"
+        }
+      ]
+    },
+    {
+      "eng": "snatch",
+      "kk": "/snætʃ/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "奪取",
+          "強奪"
+        ],
+        [
+          "迅速抓取",
+          "偷閒取得"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自日耳曼語族，具有擬聲或快速動作的語感。核心義為猛然、迅速地伸手抓住或奪走某物。",
+      "definition": "1. To take something quickly and with force or violently from someone's hands.; 2. To seize an opportunity or a brief moment eagerly and quickly.",
+      "example": [
+        {
+          "eng": "The thief tried to snatch her handbag and ran away.",
+          "ch": "小偷試圖搶走她的手提包並逃跑。"
+        },
+        {
+          "eng": "She managed to snatch a few hours of sleep before the meeting.",
+          "ch": "她在會議前設法抓緊時間睡了幾個小時。"
+        }
+      ]
+    },
+    {
+      "eng": "snatch",
+      "kk": "/snætʃ/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "企圖奪取",
+          "抓取"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，常與介詞（如 at）並用，表示急切地伸手去抓或搶奪。",
+      "definition": "1. To make a sudden quick attempt to grab or catch something.",
+      "example": [
+        {
+          "eng": "The dog snatched at the piece of meat in his hand.",
+          "ch": "那隻狗猛地向他手裡的肉塊撲咬抓取。"
+        }
+      ]
+    },
+    {
+      "eng": "sneak",
+      "kk": "/sniːk/",
+      "tense": "n.",
+      "ch": [
+        [
+          "告密者",
+          "卑鄙小人"
+        ],
+        [
+          "鬼祟的行為"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 sneak 轉品而來，指愛偷偷告密的人或行為鬼祟的卑鄙者。",
+      "definition": "1. A person who behaves in a deceitful and underhand way, often telling secrets about others.; 2. A furtive act.",
+      "example": [
+        {
+          "eng": "Don't be such a sneak; tell us what you heard.",
+          "ch": "別那麼鬼祟愛告密，告訴我們你聽到了什麼。"
+        }
+      ]
+    },
+    {
+      "eng": "sneak",
+      "kk": "/sniːk/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "偷偷地帶",
+          "暗中做"
+        ]
+      ],
+      "analysis": "此字為及物動詞，由不及物用法引申而來，指祕密地攜帶、運送或暗中進行某事。",
+      "definition": "1. To take, bring, or put something secretly without permission.",
+      "example": [
+        {
+          "eng": "She managed to sneak a few snacks into the movie theater.",
+          "ch": "她設法偷偷帶了一些零食進電影院。"
+        }
+      ]
+    },
+    {
+      "eng": "sneak",
+      "kk": "/sniːk/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "偷偷摸摸地走",
+          "潛行"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，源自古英語 snican（爬行），原本帶有卑劣、偷偷滑行的含義。現代英語中主要指鬼鬼祟祟、不引人注意地移動。",
+      "definition": "1. To move quietly and secretly in order to avoid being noticed.",
+      "example": [
+        {
+          "eng": "He tried to sneak out of the house while his parents were sleeping.",
+          "ch": "他試圖趁父母睡覺時偷偷溜出房子。"
+        }
+      ]
+    },
+    {
+      "eng": "sniff",
+      "kk": "/snɪf/",
+      "tense": "n.",
+      "ch": [
+        [
+          "嗅",
+          "聞"
+        ],
+        [
+          "抽鼻涕聲"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 sniff 轉品而來，指用鼻子吸氣的動作或聲音。",
+      "definition": "1. An act or sound of sniffing.",
+      "example": [
+        {
+          "eng": "With a final sniff, she wiped her eyes and smiled.",
+          "ch": "她最後抽了一下鼻子，擦乾眼淚笑了笑。"
+        }
+      ]
+    },
+    {
+      "eng": "sniff",
+      "kk": "/snɪf/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "嗅出",
+          "聞出"
+        ]
+      ],
+      "analysis": "此字為及物動詞，指用鼻子吸氣以辨識或察覺某種氣味。",
+      "definition": "1. To smell something by drawing air through the nose.",
+      "example": [
+        {
+          "eng": "The cat sniffed the food cautiously before eating it.",
+          "ch": "貓咪吃東西前先謹慎地聞了聞食物。"
+        }
+      ]
+    },
+    {
+      "eng": "sniff",
+      "kk": "/snɪf/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "嗅",
+          "聞"
+        ],
+        [
+          "抽鼻涕"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，具擬聲色彩。核心義為用鼻子短促吸氣以聞氣味，或因感冒、哭泣而發出抽鼻涕的聲音。",
+      "definition": "1. To draw air noisily through the nose to smell something.; 2. To draw air up the nose repeatedly, typically because of a cold or crying.",
+      "example": [
+        {
+          "eng": "The dog stopped to sniff at the base of the tree.",
+          "ch": "那隻狗停下來聞聞樹根底部。"
+        },
+        {
+          "eng": "He had a bad cold and continued to sniff throughout the lecture.",
+          "ch": "他得了重感冒，在整個講座過程中一直抽鼻涕。"
+        }
+      ]
+    },
+    {
+      "eng": "soak",
+      "kk": "/soʊk/",
+      "tense": "n.",
+      "ch": [
+        [
+          "浸泡"
+        ],
+        [
+          "酒鬼"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 soak 轉品而來，指浸泡的動作或狀態，俚語中也用來指經常酗酒的人（重度浸泡於酒精中）。",
+      "definition": "1. An act of soaking or being soaked in liquid.; 2. A heavy drinker; a drunkard (slang).",
+      "example": [
+        {
+          "eng": "Give the shirt a good soak to get the stain out.",
+          "ch": "把襯衫好好泡一下以去除汙漬。"
+        }
+      ]
+    },
+    {
+      "eng": "soak",
+      "kk": "/soʊk/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "浸泡",
+          "使濕透"
+        ],
+        [
+          "榨取",
+          "敲詐"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自古英語 socian，本義為將物品置於液體中使其吸水飽和。引申義則包含在口語中敲詐錢財。",
+      "definition": "1. To make something completely wet by immersing it in liquid.; 2. To charge someone an excessive amount of money (informal).",
+      "example": [
+        {
+          "eng": "Soak the beans in water overnight before cooking them.",
+          "ch": "烹煮前先將豆子泡在水中過夜。"
+        },
+        {
+          "eng": "The local shops tend to soak tourists with high prices.",
+          "ch": "當地的商店往往會用高價剝削遊客。"
+        }
+      ]
+    },
+    {
+      "eng": "soak",
+      "kk": "/soʊk/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "浸泡",
+          "濕透"
+        ],
+        [
+          "滲透",
+          "吸收"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，表示物體浸在液體中吸收水分，或液體滲入物體中。",
+      "definition": "1. To lie immersed in liquid to become thoroughly wet.; 2. To penetrate or pass slowly through a substance.",
+      "example": [
+        {
+          "eng": "Let the dirty dishes soak in soapy water for a while.",
+          "ch": "讓髒碗盤在肥皂水中浸泡一會兒。"
+        },
+        {
+          "eng": "Rain began to soak through my heavy winter coat.",
+          "ch": "雨開始滲透進我厚重的冬衣裡。"
+        }
+      ]
+    },
+    {
+      "eng": "soar",
+      "kk": "/sɔr/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "高飛",
+          "翱翔"
+        ],
+        [
+          "暴漲",
+          "急升"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，經由古法語 essorer（飛向空中）源自拉丁語 ex-（出）與 aura（微風、空氣）。基本義為鳥類在空中高飛盤旋，隨後引申出價格、數量或數值急速上升的隱喻義。",
+      "definition": "1. To fly or rise high in the air, floating on air currents.; 2. To increase rapidly above the usual level; to skyrocket.",
+      "example": [
+        {
+          "eng": "An eagle was seen soaring gracefully above the mountain peaks.",
+          "ch": "有人看到一隻老鷹在山峰上方優雅地翱翔。"
+        },
+        {
+          "eng": "Property prices in the city continue to soar year after year.",
+          "ch": "該市的房價年復一年地持續飆升。"
+        }
+      ]
+    },
+    {
+      "eng": "sob",
+      "kk": "/sɑb/",
+      "tense": "n.",
+      "ch": [
+        [
+          "啜泣",
+          "嗚咽聲"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 sob 轉品而來，指哭泣時發出的啜泣聲。",
+      "definition": "1. An act or sound of sobbing.",
+      "example": [
+        {
+          "eng": "Her voice was choked with a sob as she tried to explain.",
+          "ch": "當她試圖解釋時，聲音被啜泣聲哽住了。"
+        }
+      ]
+    },
+    {
+      "eng": "sob",
+      "kk": "/sɑb/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "啜泣著說出"
+        ]
+      ],
+      "analysis": "此字為及物動詞，指在啜泣或哭泣的狀態下吐出話語。",
+      "definition": "1. To utter or express something while crying or sobbing.",
+      "example": [
+        {
+          "eng": "She sobbed an apology for breaking her mother's favorite vase.",
+          "ch": "她哭著啜泣道歉，承認自己打破了媽媽最愛的花瓶。"
+        }
+      ]
+    },
+    {
+      "eng": "sob",
+      "kk": "/sɑb/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "啜泣",
+          "嗚咽"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，具擬聲色彩，表示哭泣時發出的抽搐與呼吸急促聲。",
+      "definition": "1. To cry noisily, making sudden gasps for breath.",
+      "example": [
+        {
+          "eng": "The little girl sat on the bench and began to sob quietly.",
+          "ch": "小女孩坐在長椅上，開始輕聲啜泣。"
+        }
+      ]
+    },
+    {
+      "eng": "sober",
+      "kk": "/ˈsoʊbər/",
+      "tense": "v.",
+      "ch": [
+        [
+          "使清醒",
+          "使嚴肅"
+        ],
+        [
+          "變清醒",
+          "變得嚴肅"
+        ]
+      ],
+      "analysis": "此字可作及物或不及物動詞，由形容詞 sober 轉品而來，常與副詞 up 連用（sober up），指從酒醉中清醒過來，或使人態度轉為嚴肅冷靜。",
+      "definition": "1. To make or become sober, calm, or serious (often used with 'up').",
+      "example": [
+        {
+          "eng": "Drinking a lot of black coffee helped him sober up quickly.",
+          "ch": "喝大量黑咖啡幫助他迅速清醒過來。"
+        },
+        {
+          "eng": "The tragic news served to sober everyone in the room.",
+          "ch": "這則悲慘的消息讓房間裡的每個人都嚴肅了起來。"
+        }
+      ]
+    },
+    {
+      "eng": "sober",
+      "kk": "/ˈsoʊbər/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "未醉的",
+          "清醒的"
+        ],
+        [
+          "嚴肅的",
+          "冷靜的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自拉丁語 sobrius（未喝醉的、溫帶的）。基本義為未受酒精影響的清醒狀態，進一步引申為態度冷靜、審慎或樸素的特質。",
+      "definition": "1. Not drunk; clear-headed.; 2. Serious, sensible, and solemn in manner or appearance.",
+      "example": [
+        {
+          "eng": "He made sure to stay sober throughout the evening because he was driving.",
+          "ch": "他確保整個晚上保持清醒，因為他要開車。"
+        },
+        {
+          "eng": "The committee members reached a sober decision after long discussions.",
+          "ch": "委員會成員經過長時間討論後，做出了嚴肅而審慎的決定。"
+        }
+      ]
+    },
+    {
+      "eng": "soften",
+      "kk": "/ˈsɔfən/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使軟化",
+          "使變柔和"
+        ]
+      ],
+      "analysis": "此字為及物動詞，由現代可辨識的構詞：形容詞 soft 加上動詞化字尾 -en 構成。指使物質變得柔軟，或使態度、光線等變得柔和不刺眼。",
+      "definition": "1. To make something soft or softer in consistency, appearance, or tone.",
+      "example": [
+        {
+          "eng": "Add a little butter to the dough to soften it.",
+          "ch": "在麵糰中加一點奶油以使其軟化。"
+        },
+        {
+          "eng": "Curtains can help soften the bright sunlight entering the room.",
+          "ch": "窗簾有助於讓進入房間的刺眼陽光變得柔和。"
+        }
+      ]
+    },
+    {
+      "eng": "soften",
+      "kk": "/ˈsɔfən/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "變軟",
+          "變柔和"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，由形容詞 soft 加上動詞化字尾 -en 構成。指主體自身變得柔軟或態度變得溫和。",
+      "definition": "1. To become soft or softer; to become more sympathetic or less severe.",
+      "example": [
+        {
+          "eng": "The butter began to soften after sitting at room temperature for an hour.",
+          "ch": "奶油在室溫下放了一小時後開始變軟。"
+        },
+        {
+          "eng": "His strict expression finally softened when he saw the crying child.",
+          "ch": "當他看到哭泣的孩子時，嚴厲的表情終於溫和了下來。"
+        }
+      ]
+    },
+    {
+      "eng": "sole",
+      "kk": "/soʊl/",
+      "tense": "n.",
+      "ch": [
+        [
+          "腳底",
+          "鞋底"
+        ],
+        [
+          "鰨魚（比目魚的一種）"
+        ]
+      ],
+      "analysis": "此字為名詞，源自拉丁語 solea（鞋底、沙地魚），在歷史演變中分化出「腳底與鞋底」以及「一種扁平海底魚類」兩個語義群組。",
+      "definition": "1. The underside of the foot or a shoe.; 2. A flatfish of European and American waters, valued as food.",
+      "example": [
+        {
+          "eng": "He got a blister on the sole of his foot after the long hike.",
+          "ch": "長途健行後，他的腳底起了一個水泡。"
+        },
+        {
+          "eng": "We ordered pan-fried sole with lemon butter sauce for dinner.",
+          "ch": "我們晚餐點了煎鰨魚佐檸檬奶油醬。"
+        }
+      ]
+    },
+    {
+      "eng": "sole",
+      "kk": "/soʊl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "單獨的",
+          "唯一的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自拉丁語 solus（單獨的、唯一的）。用來修飾名詞，表示獨一無二或專屬於某人。",
+      "definition": "1. Being the only one; single; exclusive.",
+      "example": [
+        {
+          "eng": "She is the sole survivor of the tragic plane crash.",
+          "ch": "她是這場悲慘空難中唯一的倖存者。"
+        }
+      ]
+    },
+    {
+      "eng": "solo",
+      "kk": "/ˈsoʊloʊ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "獨奏",
+          "獨唱"
+        ]
+      ],
+      "analysis": "此字為名詞，直接借自義大利語 solo（單獨的），源自拉丁語 solus。音樂術語中專指由一人獨自演奏或演唱的表演形式。",
+      "definition": "1. A piece of music performed by a single singer or instrumentalist.",
+      "example": [
+        {
+          "eng": "The guitarist played an incredible solo during the rock concert.",
+          "ch": "吉他手在搖滾音樂會期間彈奏了一段精彩絕倫的獨奏。"
+        }
+      ]
+    },
+    {
+      "eng": "solo",
+      "kk": "/ˈsoʊloʊ/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "單獨表演",
+          "首次單獨駕駛飛行器"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，由名詞 solo 轉品而來，尤指飛行學員在無教練陪同下首次獨立駕駛飛機。",
+      "definition": "1. To perform a solo piece, or to fly an aircraft alone for the first time.",
+      "example": [
+        {
+          "eng": "The student pilot finally managed to solo after weeks of rigorous training.",
+          "ch": "經過數週嚴格訓練後，這名學員終於成功首次獨立駕駛飛機。"
+        }
+      ]
+    },
+    {
+      "eng": "solo",
+      "kk": "/ˈsoʊloʊ/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "獨奏的",
+          "單獨完成的"
+        ]
+      ],
+      "analysis": "此字為形容詞，直接借自義大利語 solo，指由個人獨立完成、無人協助的表演或行動。",
+      "definition": "1. Performed by one person alone without assistance.",
+      "example": [
+        {
+          "eng": "She embarked on a solo journey across South America.",
+          "ch": "她展開了一場橫跨南美洲的單獨旅行。"
+        }
+      ]
+    },
+    {
+      "eng": "sophisticated",
+      "kk": "/səˈfɪstɪkeɪtɪd/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "老練的",
+          "見多識廣的"
+        ],
+        [
+          "複雜精密的",
+          "高科技的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自近代英語動詞 sophisticate（原意為詭辯、摻假，源自希臘語 sophistes）。歷史演變中，由「人工雕琢、變得不自然」轉化為現代正面義：指人有豐富社會經驗與品味（老練），或指機器、系統高度複雜精密。",
+      "definition": "1. Having a good understanding of the world and a refined taste; cultured and worldly-wise.; 2. Highly developed, complex, and intricate in design or technique.",
+      "example": [
+        {
+          "eng": "She is a sophisticated traveler who knows how to handle unexpected situations.",
+          "ch": "她是一位見多識廣的旅客，懂得如何應付突發狀況。"
+        },
+        {
+          "eng": "The laboratory is equipped with sophisticated instruments for chemical analysis.",
+          "ch": "該實驗室配備了用於化學分析的高科技精密儀器。"
+        }
+      ]
+    },
+    {
+      "eng": "sophomore",
+      "kk": "/ˈsɑfəmɔr/",
+      "tense": "n.",
+      "ch": [
+        [
+          "（大學或高中的）二年級生"
+        ]
+      ],
+      "analysis": "此字為名詞，字源複雜，由希臘語 sophos（明智的）與 moros（愚蠢的）結合而成的複合詞，原指大學裡自以為聰明實則幼稚的二年級生。現代則為美國教育體系中專指高或大學第二年學生的標準詞彙。",
+      "definition": "1. A student in the second year of a high school or college course.",
+      "example": [
+        {
+          "eng": "He is currently a sophomore majoring in computer science.",
+          "ch": "他目前是一名主修計算機科學的大二學生。"
+        }
+      ]
+    },
+    {
+      "eng": "souvenir",
+      "kk": "/ˌsuvəˈnɪr/",
+      "tense": "n.",
+      "ch": [
+        [
+          "紀念品",
+          "伴手禮"
+        ]
+      ],
+      "analysis": "此字為名詞，直接借自法語 souvenir（回憶、紀念品），源自拉丁語 subvenire（想起、湧現）。在英語中專門用來指為紀念某地或某次旅行而購買的物品。",
+      "definition": "1. A thing that is kept as a reminder of a person, place, or event.",
+      "example": [
+        {
+          "eng": "We bought a few local handicrafts as souvenirs of our trip to Japan.",
+          "ch": "我們買了一些當地手工藝品作為日本之行的紀念品。"
+        }
+      ]
+    },
+    {
+      "eng": "sovereignty",
+      "kk": "/ˈsɑvrənti/",
+      "tense": "n.",
+      "ch": [
+        [
+          "主權",
+          "最高統治權"
+        ]
+      ],
+      "analysis": "此字為名詞，由現代可辨識的構詞：形容詞 sovereign 加上名詞字尾 -ty 構成，源自拉丁語 super（在…之上）。指一個國家擁有獨立自主、不受外來干涉的最高統治權力。",
+      "definition": "1. Supreme power or authority; the authority of a state to govern itself or another state.",
+      "example": [
+        {
+          "eng": "The country fought hard to protect its national sovereignty.",
+          "ch": "該國為了維護其國家主權進行了艱苦的抗爭。"
+        }
+      ]
+    },
+    {
+      "eng": "sow",
+      "kk": "/soʊ/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "播種",
+          "散布",
+          "灌輸"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自日耳曼語族的古英語 sawan。基本義為將種子撒入土中播種，引申義則用來指散布懷疑、仇恨或灌輸某種觀念。",
+      "definition": "1. To plant seeds in the ground by scattering them.; 2. To spread or introduce something, especially feelings or ideas, widely.",
+      "example": [
+        {
+          "eng": "Farmers usually sow wheat in the autumn for a spring harvest.",
+          "ch": "農夫通常在秋季播種小麥，以備春季收成。"
+        },
+        {
+          "eng": "False rumors were spread to sow panic among the citizens.",
+          "ch": "散布虛假謠言是為了在市民中播種恐慌。"
+        }
+      ]
+    },
+    {
+      "eng": "sow",
+      "kk": "/soʊ/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "播種"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，源自古英語 sawan，指進行播種的動作。",
+      "definition": "1. To plant seeds in the ground.",
+      "example": [
+        {
+          "eng": "It is now time to plow and sow in the fields.",
+          "ch": "現在是田間耕作與播種的時候了。"
+        }
+      ]
+    },
+    {
+      "eng": "spacious",
+      "kk": "/ˈspeɪʃəs/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "寬敞的",
+          "廣闊的"
+        ]
+      ],
+      "analysis": "此字為形容詞，由拉丁語 spatium（空間）演變而來的形容詞 spatiosus 進入英語。用來形容房間、建築或場地具有很大的內部空間。",
+      "definition": "1. Having ample space; large and roomy.",
+      "example": [
+        {
+          "eng": "They recently moved into a bright and spacious apartment downtown.",
+          "ch": "他們最近搬進了市中心一間明亮寬敞的公寓。"
+        }
+      ]
+    },
+    {
+      "eng": "sparkle",
+      "kk": "/ˈspɑrkəl/",
+      "tense": "n.",
+      "ch": [
+        [
+          "閃光",
+          "閃爍"
+        ],
+        [
+          "活力",
+          "光彩"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 sparkle 轉品而來，指光芒的閃耀或人事物展現的生氣與魅力。",
+      "definition": "1. A small flash of light.; 2. A lively quality in a person's appearance, performance, or character.",
+      "example": [
+        {
+          "eng": "The diamond ring caught the light with a brilliant sparkle.",
+          "ch": "這枚鑽戒在光線下閃爍著耀眼的光芒。"
+        },
+        {
+          "eng": "He lost some of his usual sparkle after the disappointing defeat.",
+          "ch": "在經歷令人失望的敗北後，他失去了平時的一些光彩與活力。"
+        }
+      ]
+    },
+    {
+      "eng": "sparkle",
+      "kk": "/ˈspɑrkəl/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "閃爍",
+          "閃耀"
+        ],
+        [
+          "生氣勃勃",
+          "充滿活力"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，由名詞 spark（火花）加上表示反覆動作的指小字尾 -le 構成。基本義為閃發火花或閃爍光芒，引申義指人的表現或眼神充滿活力與機智。",
+      "definition": "1. To shine brightly with flashes of light.; 2. To show liveliness, wit, or enthusiasm.",
+      "example": [
+        {
+          "eng": "The stars began to sparkle in the clear night sky.",
+          "ch": "繁星在晴朗的夜空中開始閃爍。"
+        },
+        {
+          "eng": "Her eyes seemed to sparkle with excitement as she opened the gift.",
+          "ch": "當她打開禮物時，她的眼睛似乎興奮得閃閃發光。"
+        }
+      ]
+    },
+    {
+      "eng": "specialist",
+      "kk": "/ˈspɛʃəlɪst/",
+      "tense": "n.",
+      "ch": [
+        [
+          "專家",
+          "專科醫師"
+        ]
+      ],
+      "analysis": "此字為名詞，由現代可辨識的構詞：形容詞 special 加上表人的名詞字尾 -ist 構成。專指在某個特定學術、專業或醫學領域中有深入研究與豐富經驗的人。",
+      "definition": "1. A person who concentrates primarily on a particular subject or activity; an expert in a specific field.",
+      "example": [
+        {
+          "eng": "She was referred to a heart specialist for further medical examination.",
+          "ch": "她被轉診給心臟專科醫師作進一步的醫學檢查。"
+        }
+      ]
+    },
+    {
+      "eng": "specialize",
+      "kk": "/ˈspɛʃəˌlaɪz/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "專門研究",
+          "專攻",
+          "專營"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，由現代可辨識的構詞：形容詞 special 加上動詞化字尾 -ize 構成。指將心力、學術或商業經營集中於某個特定領域。",
+      "definition": "1. To concentrate on and become expert in a particular subject or skill.",
+      "example": [
+        {
+          "eng": "Many modern law firms choose to specialize in intellectual property law.",
+          "ch": "許多現代律師事務所選擇專門從事智慧財產權法。"
+        }
+      ]
+    },
+    {
+      "eng": "specialty",
+      "kk": "/ˈspɛʃəlti/",
+      "tense": "n.",
+      "ch": [
+        [
+          "專長",
+          "專業"
+        ],
+        [
+          "特產",
+          "招牌菜"
+        ]
+      ],
+      "analysis": "此字為名詞，由 special 加上名詞字尾 -ty 演變而來。語義分化為個人的專業專長，以及某個地區或餐廳引以為傲的招牌特產。",
+      "definition": "1. A pursuit, area of study, or skill to which someone gives special attention.; 2. A product, service, or dish that a place or restaurant is famous for providing.",
+      "example": [
+        {
+          "eng": "Neurology is her medical specialty.",
+          "ch": "神經學是她的醫學專長。"
+        },
+        {
+          "eng": "Roast duck is the chef's specialty at this restaurant.",
+          "ch": "烤鴨是這家餐廳主廚的招牌菜。"
+        }
+      ]
+    },
+    {
+      "eng": "specify",
+      "kk": "/ˈspɛsəˌfaɪ/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "具體說明",
+          "明確指定"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自拉丁語 species（種類、外觀）與 facere（製作）的複合動詞演變而來的近代英語。核心義為詳細、清楚地指明細節或條件。",
+      "definition": "1. To identify or state something clearly and definitely, giving exact details.",
+      "example": [
+        {
+          "eng": "Please specify the exact delivery date on the order form.",
+          "ch": "請在訂單上具體說明確切的交貨日期。"
+        }
+      ]
+    },
+    {
+      "eng": "specimen",
+      "kk": "/ˈspɛsəmən/",
+      "tense": "n.",
+      "ch": [
+        [
+          "標本",
+          "樣本"
+        ]
+      ],
+      "analysis": "此字為名詞，直接源自拉丁語 specimen（樣品、模範），由 specere（觀看）衍生而來。指為了檢驗、研究或展示而採集的代表性樣本或標本。",
+      "definition": "1. An individual animal, plant, or piece of a mineral used as an example of its species or type for scientific study.",
+      "example": [
+        {
+          "eng": "The biologist carefully examined the rare plant specimen under a microscope.",
+          "ch": "生物學家在顯微鏡下仔細檢查這個稀有植物標本。"
+        }
+      ]
+    },
+    {
+      "eng": "spectacular",
+      "kk": "/spɛkˈtækjələr/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "壯觀的",
+          "驚人的"
+        ]
+      ],
+      "analysis": "此字為形容詞，由名詞 spectacle（景象、奇觀，源自拉丁語 spectare）加上形容詞字尾構成。用來形容視覺上極為壯麗、震撼或令人驚嘆的事物。",
+      "definition": "1. Beautiful in a dramatic and eye-catching way; strikingly impressive.",
+      "example": [
+        {
+          "eng": "We watched a spectacular sunset over the ocean from the cliff.",
+          "ch": "我們從懸崖上觀賞了海面上壯觀的日落。"
+        }
+      ]
+    },
+    {
+      "eng": "spectator",
+      "kk": "/ˈspɛktəyər/",
+      "tense": "n.",
+      "ch": [
+        [
+          "（體育賽事或表演的）觀眾",
+          "旁觀者"
+        ]
+      ],
+      "analysis": "此字為名詞，源自拉丁語 spectator（觀察者），由 specere（看）加上表動作主體的字尾構成。專指觀看體育比賽、表演或公開活動的群眾。",
+      "definition": "1. A person who looks on at an event, sport, or show, typically as part of an audience.",
+      "example": [
+        {
+          "eng": "Thousands of spectators filled the stadium to watch the championship game.",
+          "ch": "成千上萬的觀眾擠滿了體育場觀看冠軍賽。"
+        }
+      ]
+    },
+    {
+      "eng": "spectrum",
+      "kk": "/ˈspɛktrəm/",
+      "tense": "n.",
+      "ch": [
+        [
+          "光譜",
+          "聲譜"
+        ],
+        [
+          "範圍",
+          "系列"
+        ]
+      ],
+      "analysis": "此字為名詞，直接源自拉丁語 spectrum（出現的影像、幻影），由 specere 衍生而來。牛頓借此詞指光經三稜鏡折射出的彩色帶（光譜），近代進一步引申為思想、意見或現象的廣泛「範圍或系列」。",
+      "definition": "1. A band of colors produced by separation of the components of light.; 2. A wide range of different thoughts, ideas, or qualities.",
+      "example": [
+        {
+          "eng": "White light can be split into a spectrum of colors by a prism.",
+          "ch": "白光可以透過三稜鏡被分解成各種顏色的光譜。"
+        },
+        {
+          "eng": "The political debate covered a broad spectrum of opinions.",
+          "ch": "這場政治辯論涵蓋了廣泛的意見範圍。"
+        }
+      ]
+    },
+    {
+      "eng": "speculate",
+      "kk": "/ˈspɛkjəˌleɪt/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "推測",
+          "臆測"
+        ],
+        [
+          "投機（買賣）"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，源自拉丁語 speculari（觀察、瞭望）。在歷史演變中分化出兩個主要義項：一是在缺乏充分證據下進行智力上的「推測」；二是商業或金融上的「投機冒險」。",
+      "definition": "1. To form a theory or conjecture about a subject without firm evidence.; 2. To invest in stocks, property, or other ventures in the hope of gain but with the risk of loss.",
+      "example": [
+        {
+          "eng": "Analysts can only speculate on the reasons for the sudden drop in sales.",
+          "ch": "分析師只能對銷售額突然下滑的原因進行推測。"
+        },
+        {
+          "eng": "He made a fortune by speculating in the real estate market.",
+          "ch": "他在房地產市場投機獲利，賺取了一大筆財富。"
+        }
+      ]
+    },
+    {
+      "eng": "sphere",
+      "kk": "/sfɪr/",
+      "tense": "n.",
+      "ch": [
+        [
+          "球體",
+          "球狀物"
+        ],
+        [
+          "領域",
+          "範圍"
+        ]
+      ],
+      "analysis": "此字為名詞，經由拉丁語 sphaera 借自希臘語 sphaira（球）。幾何學上指完美三維球體，引申義則指活動、知識或權力的「領域或範圍」。",
+      "definition": "1. A round solid figure, or its surface, with every point on its surface equidistant from its center.; 2. A particular area of activity, interest, or expertise.",
+      "example": [
+        {
+          "eng": "The Earth is not a perfect sphere; it bulges slightly at the equator.",
+          "ch": "地球並非完美的球體，它在赤道處稍微隆起。"
+        },
+        {
+          "eng": "Science and religion often operate in different spheres of human thought.",
+          "ch": "科學與宗教通常運作於人類思想的不同領域中。"
+        }
+      ]
+    },
+    {
+      "eng": "spicy",
+      "kk": "/ˈspaɪsi/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "辛辣的",
+          "加了香料的"
+        ],
+        [
+          "（言談或八卦）勁爆的",
+          "刺激的"
+        ]
+      ],
+      "analysis": "此字為形容詞，由現代可辨識的構詞：名詞 spice（香料）加上形容詞字尾 -y 構成。基本義指富含香料或味道辛辣的食物，引申義指含有辛辣八卦、引人入勝的私密話題。",
+      "definition": "1. Flavored with or fragrant with spice; tasting hot and pungent.; 2. Scandalous, racy, or exciting (informal).",
+      "example": [
+        {
+          "eng": "I love eating spicy food like authentic Thai curry.",
+          "ch": "我喜歡吃像道地泰國咖哩這樣辛辣的食物。"
+        },
+        {
+          "eng": "The tabloid magazine published some spicy details about the celebrity's divorce.",
+          "ch": "這家八卦雜誌刊登了一些關於該名人離婚的勁爆細節。"
+        }
+      ]
+    },
+    {
+      "eng": "spine",
+      "kk": "/spaɪn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "脊椎",
+          "脊柱"
+        ],
+        [
+          "（書本的）書脊"
+        ],
+        [
+          "（植物的）刺",
+          "針狀突起"
+        ]
+      ],
+      "analysis": "此字為名詞，源自拉丁語 spina（刺、脊椎）。在語義發展中，因動物脊椎骨的形狀類似植物的刺而得名，隨後也指書本裝訂處的書脊。",
+      "definition": "1. The series of vertebrae extending from the skull to the pelvis; the backbone.; 2. The edge of a book where the pages are bound together.; 3. A stiff, sharp point or thorn on a plant or animal.",
+      "example": [
+        {
+          "eng": "Good posture helps protect your spine from unnecessary strain.",
+          "ch": "良好的姿勢有助於保護你的脊椎免受不必要的拉傷。"
+        },
+        {
+          "eng": "The title of the novel was clearly printed on the spine.",
+          "ch": "小說的書名清晰地印在書脊上。"
+        },
+        {
+          "eng": "Cacti have sharp spines instead of leaves to prevent water loss.",
+          "ch": "仙人掌長有尖銳的刺而非葉子，以防止水分流失。"
+        }
+      ]
+    },
+    {
+      "eng": "sponge",
+      "kk": "/spʌndʒ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "海綿"
+        ],
+        [
+          "寄生蟲",
+          "揩油者"
+        ]
+      ],
+      "analysis": "此字為名詞，源自希臘語 spongia（海綿）。基本義指海綿動物及其製作的吸水清潔工具，因其會大量吸收水分，引申出指經常白吃白喝、揩他人油水的「寄生蟲」。",
+      "definition": "1. A porous marine animal or a piece of soft, absorbent synthetic or natural material used for washing.; 2. A person who lives at the expense of others (informal).",
+      "example": [
+        {
+          "eng": "Use a damp sponge to wipe the kitchen counter clean.",
+          "ch": "用濕海綿把廚房檯面擦乾淨。"
+        },
+        {
+          "eng": "He never pays for his own drinks; he's just an absolute sponge.",
+          "ch": "他從不為自己的飲料付錢；他簡直是個徹底的白吃白喝者。"
+        }
+      ]
+    },
+    {
+      "eng": "sponge",
+      "kk": "/spʌndʒ/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "用海綿擦拭",
+          "清除"
+        ],
+        [
+          "白蹭",
+          "靠…生活"
+        ]
+      ],
+      "analysis": "此字為及物動詞，由名詞 sponge 轉品而來，指用海綿擦洗清潔，或口語中指靠他人資助過活。",
+      "definition": "1. To wipe or clean something with a wet sponge.; 2. To get money or food from others without giving anything in return (informal).",
+      "example": [
+        {
+          "eng": "She sponged up the spilled milk from the table.",
+          "ch": "她用海綿擦乾了桌上灑出的牛奶。"
+        }
+      ]
+    },
+    {
+      "eng": "sponsor",
+      "kk": "/ˈspɑnsər/",
+      "tense": "n.",
+      "ch": [
+        [
+          "贊助商",
+          "贊助者"
+        ],
+        [
+          "（法案等的）提案人",
+          "保證人"
+        ]
+      ],
+      "analysis": "此字為名詞，源自拉丁語 sponsor（保證人、起誓者），由 spondere（立誓、許諾）衍生而來。現代主要指提供資金贊助活動或節目的商業贊助商，或議會中法案的提案人。",
+      "definition": "1. A person or organization that provides funds for a project, activity, or broadcast in exchange for publicity.; 2. A person who introduces and supports a proposal or bill.",
+      "example": [
+        {
+          "eng": "The marathon event is organized with the support of several corporate sponsors.",
+          "ch": "這場馬拉松賽事是在幾家企業贊助商的支持下舉辦的。"
+        }
+      ]
+    },
+    {
+      "eng": "sponsor",
+      "kk": "/ˈspɑnsər/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "贊助",
+          "主辦"
+        ],
+        [
+          "發起",
+          "提議"
+        ]
+      ],
+      "analysis": "此字為及物動詞，由名詞 sponsor 轉品或源自動詞源頭而來，指提供經費贊助活動，或在政治上發起提案。",
+      "definition": "1. To provide funds for a project or event, often for advertising purposes.; 2. To put forward a proposal or plan for consideration.",
+      "example": [
+        {
+          "eng": "The tech company agreed to sponsor the international robotics competition.",
+          "ch": "這家科技公司同意贊助這項國際機器人競賽。"
+        }
+      ]
+    },
+    {
+      "eng": "sponsorship",
+      "kk": "/ˈspɑnsərʃɪp/",
+      "tense": "n.",
+      "ch": [
+        [
+          "贊助",
+          "贊助金"
+        ]
+      ],
+      "analysis": "此字為名詞，由現代可辨識的構詞：sponsor 加上抽象名詞字尾 -ship 構成。指贊助的行為、身份或提供的經費支持。",
+      "definition": "1. Financial support or backing received from a sponsor.",
+      "example": [
+        {
+          "eng": "The young athlete is desperately looking for corporate sponsorship to fund her training.",
+          "ch": "這位年輕運動員正急切地尋找企業贊助以資助她的訓練。"
+        }
+      ]
+    },
+    {
+      "eng": "spouse",
+      "kk": "/spaʊs/",
+      "tense": "n.",
+      "ch": [
+        [
+          "配偶",
+          "夫妻"
+        ]
+      ],
+      "analysis": "此字為名詞，經由中古法語 espous 源自拉丁語 sponsus（新郎）/ sponsa（新娘）。在法律與正式用語中，用作丈夫或妻子的統稱。",
+      "definition": "1. A husband or wife considered in relation to their partner.",
+      "example": [
+        {
+          "eng": "Employees are permitted to bring their spouse to the annual company dinner.",
+          "ch": "員工可以攜帶配偶出席年度公司晚宴。"
+        }
+      ]
+    },
+    {
+      "eng": "squad",
+      "kk": "/skwɑd/",
+      "tense": "n.",
+      "ch": [
+        [
+          "班",
+          "小隊",
+          "小組"
+        ]
+      ],
+      "analysis": "此字為名詞，源自義大利語 squadra（方陣、班隊），經由法語進入軍事英語。本義為軍隊中最小的編制單位（班），後泛指各種工作或運動小組。",
+      "definition": "1. A small group of people organized for a common purpose, military or otherwise.",
+      "example": [
+        {
+          "eng": "The police bomb squad was quickly dispatched to the suspicious package site.",
+          "ch": "警方防爆小組被迅速派遣至可疑包裹現場。"
+        }
+      ]
+    },
+    {
+      "eng": "squash",
+      "kk": "/skwɑdʒ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "壁球（運動）"
+        ],
+        [
+          "南瓜（類蔬菜）"
+        ]
+      ],
+      "analysis": "此字為名詞，在語義上分化出兩種完全不同的事物：一是室內揮拍的「壁球運動」；二是美洲原產的各種「南瓜或葫蘆科蔬菜」（源自美洲原住民語言短縮形 askutasquash）。",
+      "definition": "1. A game played with a racket and a small rubber ball in a walled court.; 2. A vegetable of the gourd family, typically eaten cooked.",
+      "example": [
+        {
+          "eng": "He plays a fast-paced game of squash with his colleagues every Friday.",
+          "ch": "他每週五都與同事打節奏明快的壁球。"
+        },
+        {
+          "eng": "We harvested a variety of winter squash from the garden.",
+          "ch": "我們從菜園裡收穫了各種冬南瓜。"
+        }
+      ]
+    },
+    {
+      "eng": "squash",
+      "kk": "/skwɑʃ/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "壓碎",
+          "壓扁"
+        ],
+        [
+          "鎮壓",
+          "制止"
+        ]
+      ],
+      "analysis": "此字為及物動詞，具擬聲色彩，源自古法語 esquasser。基本義為用力將物體壓扁、擠碎，引申義則用來指以強硬手段「鎮壓」反抗或「平息」謠言。",
+      "definition": "1. To crush or squeeze something with force so that it becomes flat, soft, or out of shape.; 2. To suppress or put an end to something, such as a rumor or rebellion.",
+      "example": [
+        {
+          "eng": "Be careful not to squash the tomatoes at the bottom of the bag.",
+          "ch": "小心不要把袋子底部的番茄壓爛了。"
+        },
+        {
+          "eng": "The government quickly moved to squash rumors of an impending economic crisis.",
+          "ch": "政府迅速採取行動，平息了即將發生經濟危機的謠言。"
+        }
+      ]
+    },
+    {
+      "eng": "squat",
+      "kk": "/skwɑt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "蹲下",
+          "蹲姿"
+        ],
+        [
+          "深蹲（健身動作）"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 squat 轉品而來，指蹲下的姿勢，或重量訓練中的「深蹲」動作。",
+      "definition": "1. A posture in which the body is supported by the feet with the knees bent.; 2. An exercise in which a person lowers their hips from a standing position and then stands back up.",
+      "example": [
+        {
+          "eng": "Do three sets of ten squats to build lower body strength.",
+          "ch": "做三組、每組十次的深蹲來建立下半身力量。"
+        }
+      ]
+    },
+    {
+      "eng": "squat",
+      "kk": "/skwɑt/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "蹲下",
+          "蹲居"
+        ],
+        [
+          "非法佔用（房屋土地）"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，源自古法語 esquatir（壓平）。基本義為彎曲膝蓋將身體重心壓低的「蹲姿」，引申義在法律與社會語境中指未經許可「非法佔用」廢棄空屋或土地。",
+      "definition": "1. To crouch or sit with one's knees bent and the heels close to or touching the back of the thighs.; 2. To unlawfully occupy an uninhabited building or tract of land.",
+      "example": [
+        {
+          "eng": "He squatted down to examine the flower growing between the rocks.",
+          "ch": "他蹲下來檢查生長在岩石之間的花朵。"
+        },
+        {
+          "eng": "Several homeless people were found squatting in the abandoned factory.",
+          "ch": "有人發現幾個無家可歸的人非法佔用了這座廢棄工廠。"
+        }
+      ]
+    },
+    {
+      "eng": "stability",
+      "kk": "/stəˈbɪləti/",
+      "tense": "n.",
+      "ch": [
+        [
+          "穩定性",
+          "穩固"
+        ]
+      ],
+      "analysis": "此字為名詞，由現代可辨識的構詞：形容詞 stable 加上名詞字尾 -ity 構成，源自拉丁語 stabilis。指物體、經濟、政治或心理狀態維持穩固、不易動搖的特質。",
+      "definition": "1. The state of being stable; resistance to change, deterioration, or overthrow.",
+      "example": [
+        {
+          "eng": "Economic stability is essential for attracting foreign investments.",
+          "ch": "經濟穩定對於吸引外國投資至關重要。"
+        }
+      ]
+    },
+    {
+      "eng": "stack",
+      "kk": "/stæk/",
+      "tense": "n.",
+      "ch": [
+        [
+          "疊",
+          "堆"
+        ],
+        [
+          "大量",
+          "許多"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古諾斯語 stakkr。本義為整齊疊放的乾草堆，後泛指任何整齊堆疊起來的物品堆，口語中常用複數表示「大量的檔案或工作」。",
+      "definition": "1. An orderly pile or heap of things, one on top of another.; 2. A large quantity or number of things (informal).",
+      "example": [
+        {
+          "eng": "There was a tall stack of books waiting for him on the desk.",
+          "ch": "桌上有厚厚一疊書正等著他。"
+        },
+        {
+          "eng": "I have stacks of paperwork to finish before the end of the week.",
+          "ch": "我在週末前有大量的文書工作要完成。"
+        }
+      ]
+    },
+    {
+      "eng": "stack",
+      "kk": "/stæk/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "堆疊",
+          "把…疊起"
+        ],
+        [
+          "暗中作弊（如洗牌）"
+        ]
+      ],
+      "analysis": "此字為及物動詞，由名詞 stack 轉品而來，指將物品整齊堆放，或隱喻式地指暗中操控、作弊（如 stack the deck）。",
+      "definition": "1. To pile things up in a neat heap.; 2. To arrange something secretly to one's own advantage, such as a deck of cards.",
+      "example": [
+        {
+          "eng": "Please stack the chairs in the corner after the meeting ends.",
+          "ch": "會議結束後請把椅子疊放在角落裡。"
+        }
+      ]
+    },
+    {
+      "eng": "stain",
+      "kk": "/steɪn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "汙點",
+          "汙漬"
+        ],
+        [
+          "瑕疵",
+          "恥辱"
+        ]
+      ],
+      "analysis": "此字為名詞，源自中古法語 steindre（染色），源自拉丁語 tingere。基本義指衣物或表面留下的難看「汙漬」，引申為人格或名譽上的「汙點、恥辱」。",
+      "definition": "1. A discolored patch or mark left on something by a liquid or substance.; 2. A blemish on one's character, reputation, or honor.",
+      "example": [
+        {
+          "eng": "She tried desperately to remove the red wine stain from her white blouse.",
+          "ch": "她拼命想洗掉白色襯衫上的紅酒漬。"
+        },
+        {
+          "eng": "The corruption scandal left a permanent stain on his political career.",
+          "ch": "這起貪腐醜聞在他的政治生涯中留下了永久的汙點。"
+        }
+      ]
+    },
+    {
+      "eng": "stain",
+      "kk": "/steɪn/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "弄髒",
+          "染汙"
+        ],
+        [
+          "給…染色"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自中古法語 steindre，指液體沾染造成難洗的汙漬，或專業上用染料為木材、玻璃進行染色加工。",
+      "definition": "1. To mark or discolor something with something that is not easily removed.; 2. To color wood or other materials with a chemical solution.",
+      "example": [
+        {
+          "eng": "Be careful not to stain your new clothes with grease.",
+          "ch": "小心別讓油脂弄髒了你的新衣服。"
+        },
+        {
+          "eng": "He decided to stain the wooden deck a rich dark brown.",
+          "ch": "他決定把木製露台漆成濃郁的深棕色。"
+        }
+      ]
+    },
+    {
+      "eng": "stake",
+      "kk": "/steɪk/",
+      "tense": "n.",
+      "ch": [
+        [
+          "樁",
+          "木樁"
+        ],
+        [
+          "賭注",
+          "利害關係"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古英語 staca。本義為插入地面的木樁，引申出博弈中的「賭注」，以及商業與決策中的「利害關係、股份」。",
+      "definition": "1. A strong wooden or metal post driven into the ground to support a plant or mark a boundary.; 2. A sum of money risked in gambling, or a shared interest and concern in an enterprise (at stake).",
+      "example": [
+        {
+          "eng": "Tie the young tomato plant to a wooden stake so it grows straight.",
+          "ch": "把幼小的番茄植株綁在木樁上，這樣它才能筆直生長。"
+        },
+        {
+          "eng": "With so many jobs at stake, the union went on strike immediately.",
+          "ch": "由於有這麼多工作面臨風險，工會立即發動了罷工。"
+        }
+      ]
+    },
+    {
+      "eng": "stake",
+      "kk": "/steɪk/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "以木樁支撐",
+          "界定"
+        ],
+        [
+          "冒險押注",
+          "資助"
+        ]
+      ],
+      "analysis": "此字為及物動詞，由名詞 stake 轉品而來，指用樁子支撐植物或劃分界線，亦可指提供資金資助或拿金錢、名譽作賭注。",
+      "definition": "1. To support or mark something with stakes.; 2. To risk money or something valuable on an outcome, or to provide financial backing.",
+      "example": [
+        {
+          "eng": "He staked his entire fortune on the success of the new startup.",
+          "ch": "他把全部財產都押在新創公司的成功上。"
+        }
+      ]
+    },
+    {
+      "eng": "stall",
+      "kk": "/stɔl/",
+      "tense": "n.",
+      "ch": [
+        [
+          "貨攤",
+          "攤位"
+        ],
+        [
+          "（牲畜的）畜欄",
+          "（廁所的）隔間"
+        ]
+      ],
+      "analysis": "此字為名詞，源自日耳曼語族（古英語 steall）。本義為牲畜欄位，後演變出市場中的「攤位」、教堂詩班席位，以及現代公共場所的「廁所隔間」。",
+      "definition": "1. A small shop, table, or stand where goods are sold outdoors or in a market.; 2. A compartment in a stable for a single animal, or a small enclosed cubicle such as a toilet stall.",
+      "example": [
+        {
+          "eng": "We bought some fresh local fruits at a small street stall.",
+          "ch": "我們在小街頭攤位買了一些新鮮的當地水果。"
+        },
+        {
+          "eng": "The horse was resting peacefully inside its clean wooden stall.",
+          "ch": "那匹馬正安詳地在乾淨的木製畜欄內休息。"
+        }
+      ]
+    },
+    {
+      "eng": "stall",
+      "kk": "/stɔl/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使熄火",
+          "故意拖延"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自日耳曼語族，指使引擎熄火，或故意用藉口拖延時間以應付對手。",
+      "definition": "1. To cause an engine to stop.; 2. To delay or stall someone by evasive tactics.",
+      "example": [
+        {
+          "eng": "He tried to stall the police officers by asking endless trivial questions.",
+          "ch": "他試圖透過提出無休止的瑣碎問題來拖延警察。"
+        }
+      ]
+    },
+    {
+      "eng": "stall",
+      "kk": "/stɔl/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "（引擎）熄火",
+          "拋錨"
+        ],
+        [
+          "拋錨停頓",
+          "拖延"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，原指機器或車輛因供油不足或負荷過大而「熄火、停止運轉」，引申出談判或進展「陷入停頓、故意拖延」的語義。",
+      "definition": "1. (Of a motor vehicle or engine) to stop running suddenly because of a mechanical problem or improper operation.; 2. To come to a standstill, or to delay in order to gain time.",
+      "example": [
+        {
+          "eng": "The car stalled twice in heavy traffic because I released the clutch too fast.",
+          "ch": "因為我離合器放太快，汽車在擁擠的交通中熄火了兩次。"
+        },
+        {
+          "eng": "Peace talks between the two countries have stalled over territorial disputes.",
+          "ch": "兩國之間的和平談判因領土爭端而陷入僵局。"
+        }
+      ]
+    },
+    {
+      "eng": "stance",
+      "kk": "/stæns/",
+      "tense": "n.",
+      "ch": [
+        [
+          "站姿",
+          "體位"
+        ],
+        [
+          "立場",
+          "態度"
+        ]
+      ],
+      "analysis": "此字為名詞，源自義大利語 stanza / stans（站立的），經由法語進入英語。原指身體站立的姿勢（如運動員的預備姿態），引申出對某個公共議題或政治事件所持的「立場與態度」。",
+      "definition": "1. The way in which someone stands, especially when deliberating a shot in a sport.; 2. An attitude or public position taken regarding a particular issue.",
+      "example": [
+        {
+          "eng": "Adopt a wide stance with your knees slightly bent when lifting heavy objects.",
+          "ch": "搬運重物時，雙腳站寬、膝蓋微曲。"
+        },
+        {
+          "eng": "The government adopted a firm stance against international terrorism.",
+          "ch": "政府採取了堅定反對國際恐怖主義的立場。"
+        }
+      ]
+    },
+    {
+      "eng": "startle",
+      "kk": "/ˈstɑrtəl/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使驚嚇",
+          "使嚇了一跳"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自古英語 steartian（掙扎、跳動），原本帶有跳動、驚動的含義。指突然發出聲響或動作，使人 or 動物感到措手不及而吃驚。",
+      "definition": "1. To cause a person or animal to feel sudden shock or alarm.",
+      "example": [
+        {
+          "eng": "The sudden loud thunderclap outside startled the sleeping cat.",
+          "ch": "外面突然響起的巨大雷聲嚇了睡覺的貓咪一大跳。"
+        }
+      ]
+    },
+    {
+      "eng": "startle",
+      "kk": "/ˈstɑrtəl/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "驚嚇",
+          "驚跳"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，源自古英語 steartian，指因受到驚嚇而身體抽動或跳起。",
+      "definition": "1. To make a sudden movement of surprise or alarm.",
+      "example": [
+        {
+          "eng": "She tended to startle easily whenever the phone rang at night.",
+          "ch": "每當夜裡電話響起時，她總是容易驚嚇跳起來。"
+        }
+      ]
+    },
+    {
+      "eng": "statistical",
+      "kk": "/stəˈtɪstɪkəl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "統計的",
+          "統計學的"
+        ]
+      ],
+      "analysis": "此字為形容詞，由現代可辨識的構詞：名詞 statistic（統計數據）加上形容詞字尾 -al 構成。用來修飾涉及數據收集、分析與機率計算的事物。",
+      "definition": "1. Relating to the use of statistics, or based on the analysis of numerical data.",
+      "example": [
+        {
+          "eng": "The research report provides clear statistical evidence supporting the new policy.",
+          "ch": "該研究報告提供了支援這項新政策的明確統計數據證據。"
+        }
+      ]
+    },
+    {
+      "eng": "steer",
+      "kk": "/stɪr/",
+      "tense": "n.",
+      "ch": [
+        [
+          "小公牛",
+          "阉牛"
+        ]
+      ],
+      "analysis": "此字為同形異源詞，作名詞時源自古英語 stēor，指未成年或經去勢的雄性肉牛。",
+      "definition": "1. A young male bull, especially one that has been castrated and raised for beef.",
+      "example": [
+        {
+          "eng": "The rancher raised several steers on the sprawling pasture.",
+          "ch": "牧場主在寬廣的牧場上養了幾頭肉牛。"
+        }
+      ]
+    },
+    {
+      "eng": "steer",
+      "kk": "/stɪr/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "駕駛",
+          "操縱（方向盤等）"
+        ],
+        [
+          "引導",
+          "帶領"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自日耳曼語族的古英語 stīran，本義為掌舵、駕駛船隻。隨後引申出引導某人或某項討論朝特定方向發展的抽象意義。",
+      "definition": "1. To guide or control the movement of a vehicle, vessel, or aircraft.; 2. To guide or influence the course of a person, conversation, or event.",
+      "example": [
+        {
+          "eng": "He managed to steer the car safely through the narrow alleyway.",
+          "ch": "他設法安全地駕駛汽車穿過狹窄的巷弄。"
+        },
+        {
+          "eng": "She skillfully steered the conversation away from sensitive political topics.",
+          "ch": "她巧妙地將對話引導離開敏感的政治話題。"
+        }
+      ]
+    },
+    {
+      "eng": "steer",
+      "kk": "/stɪr/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "掌舵",
+          "行駛"
+        ],
+        [
+          "沿特定方向前進"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，源自古英語 stīran，指操作方向裝置使船隻或車輛保持特定航向。",
+      "definition": "1. To guide the course of a vehicle or ship; 2. to be in control of a steering mechanism.",
+      "example": [
+        {
+          "eng": "Steer clear of that dangerous neighborhood after dark.",
+          "ch": "天黑後避開（遠離）那個危險的社區。"
+        }
+      ]
+    },
+    {
+      "eng": "stereotype",
+      "kk": "/ˈstɛriəˌtaɪp/",
+      "tense": "n.",
+      "ch": [
+        [
+          "刻板印象",
+          "陳規"
+        ]
+      ],
+      "analysis": "此字為名詞，由希臘語 stereos（固定的、堅硬的）與 typos（模具、印刷鉛版）複合而成。原為印刷術語（鉛版印刷），後來被社會學與心理學借用，比喻對某一類人或事物產生的固定、僵化的「刻板印象」。",
+      "definition": "1. A widely held but fixed and oversimplified image or idea of a particular type of person or thing.",
+      "example": [
+        {
+          "eng": "We must work hard to break down gender stereotypes in the workplace.",
+          "ch": "我們必須努力打破職場中的性別刻板印象。"
+        }
+      ]
+    },
+    {
+      "eng": "stereotype",
+      "kk": "/ˈstɛriəˌtaɪp/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "對…抱持刻板印象",
+          "使模式化"
+        ]
+      ],
+      "analysis": "此字為及物動詞，由名詞 stereotype 轉品而來，指用僵化的觀點看待某群人。",
+      "definition": "1. To view or represent someone or something in a conventional and oversimplified way.",
+      "example": [
+        {
+          "eng": "It is unfair to stereotype people based solely on their nationality.",
+          "ch": "單純根據國籍來對人們貼標籤（抱持刻板印象）是不公平的。"
+        }
+      ]
+    },
+    {
+      "eng": "stew",
+      "kk": "/stuː/",
+      "tense": "n.",
+      "ch": [
+        [
+          "燉菜",
+          "濃湯"
+        ],
+        [
+          "焦慮煩惱的狀態"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 stew 轉品而來，指用肉類與蔬菜燉煮而成的菜餚，或口語中形容混亂、焦慮的心理狀態。",
+      "definition": "1. A dish of meat and vegetables cooked slowly in liquid in a closed dish.; 2. A state of nervous agitation or anxiety (informal).",
+      "example": [
+        {
+          "eng": "My grandmother made a hearty beef and vegetable stew for dinner.",
+          "ch": "我祖母晚餐做了一道營養豐富的牛肉蔬菜燉菜。"
+        },
+        {
+          "eng": "Don't get into such a stew over a minor mistake.",
+          "ch": "不要為了一個小錯誤而搞得自己那麼焦慮不安。"
+        }
+      ]
+    },
+    {
+      "eng": "stew",
+      "kk": "/stuː/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "燉",
+          "煨"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自中古法語 estuver（意為加熱、蒸浴）。基本義將肉類或蔬菜切塊，置於鍋中用小火慢慢熬煮入味。",
+      "definition": "1. To cook food slowly in liquid in a closed dish or pan over low heat.",
+      "example": [
+        {
+          "eng": "Stew the beef with carrots, potatoes, and onions until tender.",
+          "ch": "將牛肉與胡蘿蔔、馬鈴薯和洋蔥一起慢火燉煮至軟爛。"
+        }
+      ]
+    },
+    {
+      "eng": "stew",
+      "kk": "/stuː/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "燉煮著",
+          "沸騰著"
+        ],
+        [
+          "焦慮不安",
+          "生悶氣"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，源自中古法語 estuver，除指食物在鍋中慢燉外，也常引申比喻人內心處於焦慮、擔憂或悶悶不樂的煎熬狀態。",
+      "definition": "1. To cook slowly in simmering liquid.; 2. To be in a state of suppressed anxiety, worry, or anger (informal).",
+      "example": [
+        {
+          "eng": "Let the soup stew for another twenty minutes to enhance the flavor.",
+          "ch": "讓湯再慢火燉煮二十分鐘以提升風味。"
+        },
+        {
+          "eng": "Instead of worrying, he just sat there stewing over his mistakes.",
+          "ch": "他沒有積極解決，只是坐在那裡為自己的錯誤生悶氣焦慮。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1228 @@
+{
+  "level": 6,
+  "chunkIndex": 16,
+  "inputs": [
+    "reckless",
+    "reckon",
+    "reconcile",
+    "recreational",
+    "redundancy",
+    "reef",
+    "referee",
+    "referendum",
+    "refine",
+    "refinement",
+    "reflective",
+    "refresh",
+    "refreshment",
+    "refreshments",
+    "refute",
+    "rehabilitate",
+    "rehearse",
+    "reign",
+    "rejoice",
+    "relay",
+    "relentless",
+    "reliance",
+    "reliant",
+    "relic",
+    "remainder",
+    "reminiscent",
+    "renowned",
+    "reproduce",
+    "reptile",
+    "resent",
+    "resentment",
+    "reside",
+    "resistant",
+    "respective",
+    "restoration",
+    "restrain",
+    "restraint",
+    "retort",
+    "retrieve",
+    "revelation",
+    "revival",
+    "revive",
+    "revolt",
+    "revolve",
+    "rigorous",
+    "ripple",
+    "rivalry",
+    "roam",
+    "robust",
+    "rotate"
+  ],
+  "rows": [
+    {
+      "eng": "reckless",
+      "kk": "ˋrɛkləs",
+      "tense": "adj.",
+      "ch": [
+        [
+          "魯莽的",
+          "不計後果的"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由名詞 reck（意為顧慮、注意，源自古英語 rēcan）加上形容詞字尾 -less（表示「無、缺乏」）組成，字面義即「毫無顧慮的」。歷史上指人做事不考慮可能的危險或後果，語意由「不注意」演變為現代的「魯莽、膽大妄為」。",
+      "definition": "1. showing a lack of care about danger and the possible bad results of one's actions.",
+      "example": [
+        {
+          "eng": "His reckless driving caused a serious accident.",
+          "ch": "他魯莽的駕駛導致了一場嚴重的車禍。"
+        }
+      ]
+    },
+    {
+      "eng": "reckon",
+      "kk": "ˋrɛkən",
+      "tense": "vt.",
+      "ch": [
+        [
+          "認為",
+          "估計"
+        ],
+        [
+          "計算",
+          "推算"
+        ]
+      ],
+      "analysis": "此字源自中古英語 rekenen，繼承自古英語 rēcnian（意為計算、安排），與日耳曼語族中的計算概念同源。歷史上從實際的「數數、計算金額或數量」演變出抽象的「估計、認為、料想」之義，在現代英語中常作口語或特定地區（如美式口語）的「想、認為」解。",
+      "definition": "1. to think or have an opinion; to suppose; 2. to calculate or figure out an amount.",
+      "example": [
+        {
+          "eng": "I reckon we will arrive by noon.",
+          "ch": "我估計我們會在中午前到達。"
+        },
+        {
+          "eng": "He reckoned the total cost of the repairs at five hundred dollars.",
+          "ch": "他計算修理的總成本為五百美元。"
+        }
+      ]
+    },
+    {
+      "eng": "reconcile",
+      "kk": "ˋrɛkən͵saɪl",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使和解",
+          "調解"
+        ],
+        [
+          "使一致",
+          "使融洽"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 reconciliare（re- 表示回、再次 + conciliare 召集、結合，源自 concilium 會議）。經由中古法語進入英語。拉丁原義指「重新聚集、恢復友好關係」，語意由「使對立雙方重修舊好」延伸出「使矛盾或不同的事物達到一致或調和」。",
+      "definition": "1. to restore friendly relations between people; 2. to find a way in which two conflicting ideas or facts can exist together.",
+      "example": [
+        {
+          "eng": "They managed to reconcile their differences after a long talk.",
+          "ch": "經過長談後，他們設法化解了分歧重修舊好。"
+        },
+        {
+          "eng": "It is hard to reconcile his career ambitions with his family life.",
+          "ch": "很難將他的事業野心與家庭生活調和一致。"
+        }
+      ]
+    },
+    {
+      "eng": "recreational",
+      "kk": "͸rɛkrɪˋeʃənəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "消遣的",
+          "娛樂的"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由名詞 recreation（消遣、娛樂，源自拉丁語 recreatio，意為恢復活力的休息）加上形容詞字尾 -al 構成。歷史演變上指與休息、放鬆及業餘消遣活動相關的屬性。",
+      "definition": "1. relating to or connected with activities done for enjoyment when one is not working.",
+      "example": [
+        {
+          "eng": "The city offers many recreational facilities, such as parks and swimming pools.",
+          "ch": "這座城市提供了許多休閒設施，例如公園和游泳池。"
+        }
+      ]
+    },
+    {
+      "eng": "redundancy",
+      "kk": "rɪˋdʌndənsɪ",
+      "tense": "n.",
+      "ch": [
+        [
+          "過剩",
+          "冗餘"
+        ],
+        [
+          "裁員",
+          "失業"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 redundantia（由 redundant- 意為溢出、多餘，源自 redundare：re- 加 unda 波浪，字面義為「波浪湧回、滿溢」）。在中世紀及近代英語中先指言語或文字的「冗長、贅述」，後引申出資源、設備的「過剩或備用冗餘」，在英式英語中亦常用於指企業因精簡人員而造成的「裁員」。",
+      "definition": "1. the state of being unnecessary or superfluous; excess; 2. the dismissal of a worker because their job is no longer needed.",
+      "example": [
+        {
+          "eng": "Modern engines are designed with redundancy to ensure safety.",
+          "ch": "現代發動機設計有冗餘備用系統以確保安全。"
+        },
+        {
+          "eng": "Many factory workers faced redundancy when the plant closed down.",
+          "ch": "當工廠倒閉時，許多工廠工人面臨被裁員的窘境。"
+        }
+      ]
+    },
+    {
+      "eng": "reef",
+      "kk": "rif",
+      "tense": "n.",
+      "ch": [
+        [
+          "礁",
+          "暗礁"
+        ]
+      ],
+      "analysis": "此字源自中低地德語或荷蘭語 rif（意為脊、骨架、礁石），與古諾斯語 ref（脊、條狀物）同源。歷史上指海面下或接近海面、由珊瑚或岩石形成的狹長條狀隆起地形，為航海語彙中對危險淺灘的稱呼。",
+      "definition": "1. a ridge of jagged rock, coral, or sand just above or below the surface of the sea.",
+      "example": [
+        {
+          "eng": "The ship struck a coral reef and began to sink.",
+          "ch": "那艘船撞上了珊瑚礁，開始下沉。"
+        }
+      ]
+    },
+    {
+      "eng": "referee",
+      "kk": "͸rɛfəˋri",
+      "tense": "n.",
+      "ch": [
+        [
+          "裁判員",
+          "仲裁人"
+        ]
+      ],
+      "analysis": "此字源自英語動詞 refer（參照、提交仲裁）加上名詞字尾 -ee（表示受動者或特定身份）。歷史上指在體育比賽或爭議中被指定用來裁決規則、仲裁是非的人。",
+      "definition": "1. an official who supervises a game or match to ensure that the rules are followed.",
+      "example": [
+        {
+          "eng": "The referee blew the whistle to signal the end of the match.",
+          "ch": "裁判吹哨示意比賽結束。"
+        }
+      ]
+    },
+    {
+      "eng": "referendum",
+      "kk": "͸rɛfəˋrɛndəm",
+      "tense": "n.",
+      "ch": [
+        [
+          "公投",
+          "公民投票"
+        ]
+      ],
+      "analysis": "此字借自拉丁語 referendum（gerundive of referre，意為「必須被提交的事物」：re- 回 + ferre 帶）。原為外交語彙，指大使將提案帶回國內請示；近代演變為將重大政治法案或憲法修改直接提交全體公民投票表決的民主程序。",
+      "definition": "1. a general vote by the electorate on a single political question that has been referred to them for a direct decision.",
+      "example": [
+        {
+          "eng": "The government held a national referendum on the new constitution.",
+          "ch": "政府就新憲法舉行了全國公民投票。"
+        }
+      ]
+    },
+    {
+      "eng": "refine",
+      "kk": "rɪˋfaɪn",
+      "tense": "vt.",
+      "ch": [
+        [
+          "精煉",
+          "提純"
+        ],
+        [
+          "改善",
+          "琢磨"
+        ]
+      ],
+      "analysis": "此字源自古法語 rafiner，由 re-（加強或再次）結合形容詞 fin（精細的、純淨的，源自拉丁語 finitus）。歷史上從金屬、糖類等物質的「去除雜質、提純」具體動作，延伸出對文體、技巧、思想或方法的「精進、改善與琢磨」。",
+      "definition": "1. to remove impurities or unwanted elements from a substance; 2. to improve something by making small changes.",
+      "example": [
+        {
+          "eng": "Raw oil must be refined before it can be used as fuel.",
+          "ch": "原油必須經過提煉才能用作燃料。"
+        },
+        {
+          "eng": "The author spent weeks refining her novel.",
+          "ch": "這位作家花了好幾週的時間打磨她的小說。"
+        }
+      ]
+    },
+    {
+      "eng": "refinement",
+      "kk": "rɪˋfaɪnmənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "優雅",
+          "教養"
+        ],
+        [
+          "精進",
+          "改善"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由動詞 refine 加上名詞字尾 -ment 構成。歷史上由「提純、精煉」的動作與結果，演變成形容人的舉止、品味或社會文化的「優雅、高雅與精緻」。",
+      "definition": "1. cultural and emotional polish; good manners and taste; 2. the process of improving something.",
+      "example": [
+        {
+          "eng": "She spoke with great refinement and charm.",
+          "ch": "她談吐優雅，極具魅力。"
+        },
+        {
+          "eng": "The design of the engine underwent several refinements.",
+          "ch": "該發動機的設計經過了數次改良。"
+        }
+      ]
+    },
+    {
+      "eng": "reflective",
+      "kk": "rɪˋflɛktɪv",
+      "tense": "adj.",
+      "ch": [
+        [
+          "反光的",
+          "反射的"
+        ],
+        [
+          "深思熟慮的",
+          "反思的"
+        ]
+      ],
+      "analysis": "此字由動詞 reflect（反射、深思，源自拉丁語 reflectere：re- 回 + flectere 彎曲）加上形容詞字尾 -ive 構成。歷史上同時保留了物理學上的「反射光線的」與心理學上的「進行自我反省、深思的」雙重語意。",
+      "definition": "1. throwing back light, heat, or sound without absorbing it; 2. thinking deeply or carefully about things.",
+      "example": [
+        {
+          "eng": "Cyclists should wear reflective clothing at night.",
+          "ch": "騎車的人在夜間應穿著反光衣物。"
+        },
+        {
+          "eng": "He sat in a reflective mood, pondering his future.",
+          "ch": "他懷著沉思的心情坐著，思考著他的未來。"
+        }
+      ]
+    },
+    {
+      "eng": "refresh",
+      "kk": "rɪˋfrɛʃ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使恢復活力",
+          "提神"
+        ],
+        [
+          "刷新",
+          "更新"
+        ]
+      ],
+      "analysis": "此字源自中古法語 refreschier（由 re- 再次 + fresf/frais 新鮮的，源自日耳曼語源）。歷史上指「使疲憊的人或物重新獲得新鮮感與活力」，在電腦與網路時代則引申出「重新載資料、刷新網頁」的現代技術義。",
+      "definition": "1. to give new strength or energy to; to make someone less tired or hot; 2. to update a computer screen or webpage.",
+      "example": [
+        {
+          "eng": "A cold shower helped to refresh him after a long walk.",
+          "ch": "洗個冷水澡有助於他在長途步行後恢復精神。"
+        },
+        {
+          "eng": "Click the button to refresh the webpage.",
+          "ch": "點擊按鈕來重新整理網頁。"
+        }
+      ]
+    },
+    {
+      "eng": "refreshment",
+      "kk": "rɪˋfrɛʃmənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "提神",
+          "精力恢復"
+        ],
+        [
+          "茶點",
+          "消暑飲料"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由動詞 refresh 加上名詞字尾 -ment 構成。歷史上指恢復精力的狀態，後引申指在聚會、會議或活動中提供的「點心、飲料等茶點」。",
+      "definition": "1. the fact of making someone feel less tired or refreshed; 2. light food and drink provided at a public meeting or event.",
+      "example": [
+        {
+          "eng": "She slept for a short while for refreshment.",
+          "ch": "她稍微睡了一會兒以恢復體力。"
+        },
+        {
+          "eng": "Light refreshments will be served after the lecture.",
+          "ch": "講座結束後將供應簡單的茶點。"
+        }
+      ]
+    },
+    {
+      "eng": "refreshments",
+      "kk": "rɪˋfrɛʃmənts",
+      "tense": "n.",
+      "ch": [
+        [
+          "茶點",
+          "點心與飲料"
+        ]
+      ],
+      "analysis": "此字為 refreshment 的複數形式，常在日常英語中以複數型態出現，專門指活動或聚會中供應的多種「點心、飲料」。",
+      "definition": "1. snacks and drinks served at a social event or gathering.",
+      "example": [
+        {
+          "eng": "Refreshments will be available in the foyer during the intermission.",
+          "ch": "中場休息時，門廳將供應茶點。"
+        }
+      ]
+    },
+    {
+      "eng": "refute",
+      "kk": "rɪˋfjut",
+      "tense": "vt.",
+      "ch": [
+        [
+          "反駁",
+          "駁倒"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 refutare（re- 回、拒絕 + 根源與 futare 相關，意為擊退）。歷史上指透過證據或論證來「擊退、推翻或證明某論點或指控為錯誤」，在當代標準英語中專指成功的反駁。",
+      "definition": "1. to prove a statement or theory to be wrong or false; to disprove.",
+      "example": [
+        {
+          "eng": "The scientist presented data to refute the false claims.",
+          "ch": "這位科學家出示數據以反駁這些不實指控。"
+        }
+      ]
+    },
+    {
+      "eng": "rehabilitate",
+      "kk": "͸rihəˋbɪlə͵tet",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使康復",
+          "使復原"
+        ],
+        [
+          "修復",
+          "使恢復名譽"
+        ]
+      ],
+      "analysis": "此字源自中世紀拉丁語 rehabilitare（由 re- 再次 + habilis 合適的、能力的，源自 habere 擁有）。歷史上原意為「恢復某人的法律權利或名譽」，後擴大應用至使病患「恢復健康或身體功能（復健）」以及使罪犯「改過自新、重返社會」。",
+      "definition": "1. to restore someone to health or normal life through training and therapy; 2. to restore something to a good condition.",
+      "example": [
+        {
+          "eng": "The clinic helps to rehabilitate stroke patients.",
+          "ch": "這間診所協助中風患者進行康復治療。"
+        },
+        {
+          "eng": "The old building was successfully rehabilitated into a museum.",
+          "ch": "這棟舊建築被成功修復為一座博物館。"
+        }
+      ]
+    },
+    {
+      "eng": "rehearse",
+      "kk": "rɪˋhɝs",
+      "tense": "vt.",
+      "ch": [
+        [
+          "排練",
+          "預演"
+        ]
+      ],
+      "analysis": "此字源自古法語 reherser（re- 再次 + herse 耙子，源自拉丁語 hirpex 耙子）。歷史原義為「像用耙子重複耙地一樣，把事情重新講一遍或覆述」，中世紀時演變成戲劇或音樂表演前的「排練、反覆練習」。",
+      "definition": "1. to practice a play, piece of music, etc., in preparation for a public performance.",
+      "example": [
+        {
+          "eng": "The actors are rehearsing the final scene of the play.",
+          "ch": "演員們正在排練這齣戲的最後一幕。"
+        }
+      ]
+    },
+    {
+      "eng": "reign",
+      "kk": "ren",
+      "tense": "vi.",
+      "ch": [
+        [
+          "統治",
+          "當政"
+        ],
+        [
+          "盛行",
+          "占主導地位"
+        ]
+      ],
+      "analysis": "此字源自古法語 reigne，最終源自拉丁語 regnare（統治，源自 rex 國王，與 regere 引導、治理同源）。歷史上專指君主的「在位、統治」，後引申用於描述某種風氣、氣氛或特質在特定範圍內「盛行、稱霸」。",
+      "definition": "1. to rule as a monarch; 2. to be predominant or prevalent in a particular place or time.",
+      "example": [
+        {
+          "eng": "Queen Victoria reigned for over sixty years.",
+          "ch": "維多利亞女王統治了六十多年。"
+        },
+        {
+          "eng": "Silence reigned in the empty library.",
+          "ch": "空無一人的圖書館裡一片寂靜。"
+        }
+      ]
+    },
+    {
+      "eng": "rejoice",
+      "kk": "rɪˋdʒɔɪs",
+      "tense": "vi.",
+      "ch": [
+        [
+          "感到高興",
+          "歡欣鼓舞"
+        ]
+      ],
+      "analysis": "此字源自古法語 reioiss-, stem of reioir（re- 加強語氣 + ioir 高興，源自拉丁語 gaudere）。歷史上指內心充滿喜悅、慶幸並公開表現出來的情感反應。",
+      "definition": "1. to feel or show great joy or delight.",
+      "example": [
+        {
+          "eng": "The whole nation rejoiced at the news of peace.",
+          "ch": "全國人民為和平的喜訊而歡欣鼓舞。"
+        }
+      ]
+    },
+    {
+      "eng": "relay",
+      "kk": "ˋri͵le",
+      "tense": "vt.",
+      "ch": [
+        [
+          "轉發",
+          "轉播"
+        ],
+        [
+          "接力傳遞"
+        ]
+      ],
+      "analysis": "此字源自古法語 relaier（re- 離開、往後 + laier 留下、放棄）。歷史原義指獵犬或信使的「換班、接替」，近代演變成廣播、電視信號的「轉播」，以及訊息、命令的「轉發、傳遞」。",
+      "definition": "1. to receive and send on information, news, or broadcast signals; 2. to pass something along through a series of people.",
+      "example": [
+        {
+          "eng": "The satellite relays television signals across the globe.",
+          "ch": "人造衛星將電視信號轉播到全球。"
+        },
+        {
+          "eng": "She relayed the message to her manager immediately.",
+          "ch": "她立刻把消息轉達給經理。"
+        }
+      ]
+    },
+    {
+      "eng": "relentless",
+      "kk": "rɪˋlɛntləs",
+      "tense": "adj.",
+      "ch": [
+        [
+          "不懈的",
+          "無情的"
+        ],
+        [
+          "不屈不撓的",
+          "持續不斷的"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由動詞 relent（軟化、發慈悲，源自拉丁語 relentare）加上形容詞字尾 -less（無、缺乏）組成。字面義即「不肯軟化或停歇的」，歷史上用來形容人冷酷無情，或形容壓力、酷暑、追捕等「不間斷、持續而強烈」的狀態。",
+      "definition": "1. unceasingly intense; constant and unrelenting; 2. harsh or unforgiving without showing mercy.",
+      "example": [
+        {
+          "eng": "The hikers suffered from the relentless heat of the desert.",
+          "ch": "徒步旅行者遭受著沙漠中持續不斷的高溫折磨。"
+        },
+        {
+          "eng": "She pursued her goals with relentless determination.",
+          "ch": "她以不屈不撓的決心追求她的目標。"
+        }
+      ]
+    },
+    {
+      "eng": "reliance",
+      "kk": "rɪˋlaɪəns",
+      "tense": "n.",
+      "ch": [
+        [
+          "依賴",
+          "信賴"
+        ]
+      ],
+      "analysis": "此字由動詞 rely（依賴，源自古法語 relier 綁住、繫緊，源自拉丁語 religare）加上名詞字尾 -ance 構成。歷史上指對某人或某事物的信任、依靠或心理上的寄託。",
+      "definition": "1. dependence on someone or something for support, help, or supply.",
+      "example": [
+        {
+          "eng": "The country’s heavy reliance on imported oil makes its economy vulnerable.",
+          "ch": "該國對進口石油的高度依賴使其經濟變得脆弱。"
+        }
+      ]
+    },
+    {
+      "eng": "reliant",
+      "kk": "rɪˋlaɪənt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "依賴的",
+          "依靠的"
+        ]
+      ],
+      "analysis": "此字由動詞 rely 加上形容詞字尾 -ant 構成。歷史上用來描述需要藉由他人或外力來維持生存、運作或支持的狀態。",
+      "definition": "1. dependent on someone or something else for support, survival, or success.",
+      "example": [
+        {
+          "eng": "Many elderly people remain heavily reliant on their families for daily care.",
+          "ch": "許多老年人在日常照顧上仍然高度依賴他們的家人。"
+        }
+      ]
+    },
+    {
+      "eng": "relic",
+      "kk": "ˋrɛlɪk",
+      "tense": "n.",
+      "ch": [
+        [
+          "遺物",
+          "遺跡",
+          "歷史遺存"
+        ]
+      ],
+      "analysis": "此字源自古法語 relique，最終源自拉丁語 reliquiae（意為殘餘、遺物，源自 relinquere：re- 離開 + linquere 留下）。中世紀宗教上專指聖徒的遺骨或遺物，後泛指古代文明或時代遺留下來的器物、建築或習俗。",
+      "definition": "1. an object surviving from an earlier time, especially one of historical or sentimental interest.",
+      "example": [
+        {
+          "eng": "The museum exhibits ancient coins and other relics from the Roman Empire.",
+          "ch": "博物館展出了古羅馬帝國的古幣和其他歷史遺物。"
+        }
+      ]
+    },
+    {
+      "eng": "remainder",
+      "kk": "rɪˋmendɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "剩餘部分",
+          "其餘"
+        ],
+        [
+          "餘數"
+        ]
+      ],
+      "analysis": "此字源自盎格魯-諾曼語 remaindre（意為停留、剩下，源自拉丁語 remanere：re- 離開 + manere 居住、停留）。歷史上指在部分被拿走或用掉之後留下來的「剩餘部分」，在數學中則指除法算完後的「餘數」。",
+      "definition": "1. a part that is left over when the other parts have gone, been used, or been taken away; 2. the number left over after division.",
+      "example": [
+        {
+          "eng": "She spent the remainder of the day reading in the garden.",
+          "ch": "她把剩下的時間都在花園裡看書度過。"
+        },
+        {
+          "eng": "Ten divided by three is three with a remainder of one.",
+          "ch": "十除以三等於三，餘數是一。"
+        }
+      ]
+    },
+    {
+      "eng": "reminiscent",
+      "kk": "͸rɛməˋnɪsnt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "令人回想起的",
+          "喚起回憶的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 reminiscent-（reminiscentem，動詞 reminisci 意為回憶、想起）。經由現代英語中形容某事在形貌、氣氛或特質上「讓人聯想到過去的人、事、物」。",
+      "definition": "1. tending to remind one of something; suggesting something from the past.",
+      "example": [
+        {
+          "eng": "Her singing voice is reminiscent of a young jazz legend.",
+          "ch": "她的歌聲讓人想起一位年輕的爵士傳奇人物。"
+        }
+      ]
+    },
+    {
+      "eng": "renowned",
+      "kk": "rɪˋnaʊnd",
+      "tense": "adj.",
+      "ch": [
+        [
+          "著名的",
+          "聞名的"
+        ]
+      ],
+      "analysis": "此字源自中古英語 renowné，由名詞 renown（美名、聲望，源自古法語 renon：re- 再次 + nom 名稱，源自拉丁語 nomen）轉化而來的過去分詞形容詞。歷史上指廣受讚譽、聲名遠播的狀態。",
+      "definition": "1. known and talked about by many people; famous.",
+      "example": [
+        {
+          "eng": "The city is renowned for its historical architecture and culinary culture.",
+          "ch": "這座城市以其歷史建築和飲食文化而聞名。"
+        }
+      ]
+    },
+    {
+      "eng": "reproduce",
+      "kk": "͸riprəˋdʊs",
+      "tense": "vt.",
+      "ch": [
+        [
+          "複製",
+          "重現"
+        ],
+        [
+          "繁殖",
+          "生殖"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由字首 re-（再次）加上動詞 produce（生產、製造，源自拉丁語 producere）。歷史上原意為「再次生產或製造複製品」，後引申出生物學上的「繁衍後代（生殖）」，以及聲音、影像的「重現與還原」。",
+      "definition": "1. to make a copy of something; to duplicate; 2. to produce offspring; to breed.",
+      "example": [
+        {
+          "eng": "It is difficult to reproduce the exact colors of the original painting.",
+          "ch": "很難複製出原畫的確切色彩。"
+        },
+        {
+          "eng": "Many endangered species struggle to reproduce in captivity.",
+          "ch": "許多瀕危物種在人工飼養環境下很難繁衍後代。"
+        }
+      ]
+    },
+    {
+      "eng": "reptile",
+      "kk": "ˋrɛptaɪl",
+      "tense": "n.",
+      "ch": [
+        [
+          "爬蟲類",
+          "爬行動物"
+        ]
+      ],
+      "analysis": "此字源自中世紀拉丁語 reptile（源自拉丁語 reptilis，意為爬行的，源自動詞 repere 爬行）。歷史上指腹部貼地爬行的脊椎動物（如蛇、蜥蜴、烏龜等），在現代生物分類學中定為爬行綱動物。",
+      "definition": "1. a cold-blooded vertebrate of a class that includes snakes, lizards, crocodiles, turtles, and tortoises.",
+      "example": [
+        {
+          "eng": "Crocodiles and snakes are well-known reptiles.",
+          "ch": "鱷魚和蛇是著名的爬行動物。"
+        }
+      ]
+    },
+    {
+      "eng": "resent",
+      "kk": "rɪˋzɛnt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "對...感到憤恨",
+          "怨恨"
+        ]
+      ],
+      "analysis": "此字源自法語 ressentir（re- 加強語氣 + sentir 感覺，源自拉丁語 sentire）。早期英語中指「強烈感受某事」，17世紀後演變成專門指對受到的不公對等待遇或侵犯「感到氣憤、不滿與怨恨」。",
+      "definition": "1. to feel bitter or indignant at a circumstance, action, or person.",
+      "example": [
+        {
+          "eng": "He resented being treated like a child by his boss.",
+          "ch": "他很憤恨老闆把他當小孩子對待。"
+        }
+      ]
+    },
+    {
+      "eng": "resentment",
+      "kk": "rɪˋzɛntmənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "憤恨",
+          "怨恨"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由動詞 resent 加上名詞字尾 -ment 構成。歷史上指因感到受委屈、不公或受輕視而產生的長期心裡不滿與怨恨情緒。",
+      "definition": "1. a feeling of indignance or bitter displeasure at something regarded as unfair.",
+      "example": [
+        {
+          "eng": "The pay cut caused deep resentment among the employees.",
+          "ch": "減薪在員工中引起了深深的怨恨。"
+        }
+      ]
+    },
+    {
+      "eng": "reside",
+      "kk": "rɪˋzaɪd",
+      "tense": "vi.",
+      "ch": [
+        [
+          "居住",
+          "定居"
+        ],
+        [
+          "屬於",
+          "歸於"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 residere（re- 回、向後 + sedere 坐，意為坐定、留駐）。歷史上從「坐鎮某處、停留」演變為人在某地「長期居住」，亦可抽象引申為權力、特權或性質「歸屬於、存在於」某處。",
+      "definition": "1. to have one's permanent home in a particular place; to live; 2. to be inherent or belong to a person or body.",
+      "example": [
+        {
+          "eng": "Many famous actors reside in this coastal neighborhood.",
+          "ch": "許多知名演員居住在這個沿海社區。"
+        },
+        {
+          "eng": "Ultimate political power resides in the people.",
+          "ch": "最高的政治權力歸屬於人民。"
+        }
+      ]
+    },
+    {
+      "eng": "resistant",
+      "kk": "rɪˋzɪstənt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "有抵抗力的",
+          "抗拒的"
+        ]
+      ],
+      "analysis": "此字由動詞 resist（抵抗，源自拉丁語 resistere：re- 反抗 + sistere 站立）加上形容詞字尾 -ant 構成。歷史上指能夠抵擋外力、疾病、藥物或攻擊而保持不受損害的特性。",
+      "definition": "1. offering resistance to something or having the ability to resist; 2. not affected by something.",
+      "example": [
+        {
+          "eng": "Some bacteria have become resistant to traditional antibiotics.",
+          "ch": "某些細菌已經對傳統抗生素產生了抗藥性。"
+        }
+      ]
+    },
+    {
+      "eng": "respective",
+      "kk": "rɪˋspɛktɪv",
+      "tense": "adj.",
+      "ch": [
+        [
+          "各自的",
+          "分別的"
+        ]
+      ],
+      "analysis": "此字源自中世紀拉丁語 respectivus（源自拉丁語 respicere：re- 回 + specere 看，意為回頭看、注意到）。歷史原義與「關注、考慮」相關，後演變為指與清單中各個項目「各自對應的、分別的」之義。",
+      "definition": "1. belonging or relating separately to each of two or more people or things.",
+      "example": [
+        {
+          "eng": "After the meeting, the delegates returned to their respective countries.",
+          "ch": "會議結束後，代表們各自返回了他們的國家。"
+        }
+      ]
+    },
+    {
+      "eng": "restoration",
+      "kk": "͸rɛstəˋreʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "恢復",
+          "復原"
+        ],
+        [
+          "修復",
+          "重建"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 restauratio（源自 restaurare 恢復、重建：re- 再次 + staurare 建造，與 store 相關）。歷史上指將損壞的建築、古董、政治制度或失去的健康、權力「重新修復或恢復到原狀」的動作。",
+      "definition": "1. the action of returning something to a former owner, place, or condition; 2. the process of repairing and restoring a building, artwork, or piece of furniture.",
+      "example": [
+        {
+          "eng": "The restoration of the ancient temple took several years.",
+          "ch": "古廟的修復工作花了好幾年的時間。"
+        },
+        {
+          "eng": "Citizens demanded the restoration of democracy.",
+          "ch": "公民們要求恢復民主制度。"
+        }
+      ]
+    },
+    {
+      "eng": "restrain",
+      "kk": "rɪˋstren",
+      "tense": "vt.",
+      "ch": [
+        [
+          "抑制",
+          "阻止"
+        ],
+        [
+          "約束",
+          "限制"
+        ]
+      ],
+      "analysis": "此字源自古法語 restreindre，最終源自拉丁語 restringere（re- 回、加強 + stringere 綁緊、束縛）。歷史上從具體的「捆綁、拉住」演變為抽象的「克制情感、限制行動或約束行為」。",
+      "definition": "1. to keep under control or prevent someone from doing something; 2. to limit or restrict freedom or movement.",
+      "example": [
+        {
+          "eng": "She could not restrain her laughter when she heard the funny joke.",
+          "ch": "聽到那個有趣的笑話時，她忍不住笑了出來。"
+        },
+        {
+          "eng": "Police had to use force to restrain the aggressive suspect.",
+          "ch": "警察不得不使用武力來制伏這名具有攻擊性的嫌疑人。"
+        }
+      ]
+    },
+    {
+      "eng": "restraint",
+      "kk": "rɪˋstrent",
+      "tense": "n.",
+      "ch": [
+        [
+          "克制",
+          "自制力"
+        ],
+        [
+          "限制",
+          "約束措施"
+        ]
+      ],
+      "analysis": "此字源自古法語 restrainte（動詞 restreindre 的名詞化形式）。歷史上指對自身衝動、欲望或外部行為的「克制能力」，亦指對自由或活動進行限制的客觀措施。",
+      "definition": "1. a measure or condition that keeps someone or something under control; 2. calm and controlled behavior.",
+      "example": [
+        {
+          "eng": "He showed remarkable restraint in handling the difficult situation.",
+          "ch": "他在處理這個棘手的局面時表現出非凡的克制力。"
+        },
+        {
+          "eng": "Financial restraints forced the company to cut its research budget.",
+          "ch": "財務限制迫使該公司刪減了研究預算。"
+        }
+      ]
+    },
+    {
+      "eng": "retort",
+      "kk": "rɪˋtɔrt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "反駁",
+          "頂嘴"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 retortus（動詞 retorquere 的過去分詞：re- 回 + torquere 扭轉）。歷史上原意為「將攻擊或批評扭轉回去」，後演變成針對別人的指責或諷刺「立即尖銳地反擊、回嘴」。",
+      "definition": "1. to say something in answer to a remark or accusation, typically in a sharp, angry, or wittily incisive manner.",
+      "example": [
+        {
+          "eng": "‘At least I didn't cheat,’ she retorted angrily.",
+          "ch": "「至少我沒有作弊，」她生氣地頂嘴道。"
+        }
+      ]
+    },
+    {
+      "eng": "retrieve",
+      "kk": "rɪˋtriv",
+      "tense": "vt.",
+      "ch": [
+        [
+          "找回",
+          "取回"
+        ],
+        [
+          "檢索",
+          "挽回"
+        ]
+      ],
+      "analysis": "此字源自古法語 retrivier（由 re- 再次 + trouver 尋找、發現）。歷史上從獵犬的「把獵物找回來」引申為一般物品的「尋回、取回」，在計算機科學中指數據的「檢索」，在日常中指劣勢的「挽回」。",
+      "definition": "1. to get or bring something back from somewhere; 2. to find and extract stored information in a computer.",
+      "example": [
+        {
+          "eng": "The dog swam out into the lake to retrieve the stick.",
+          "ch": "那隻狗游進湖裡把木棍叼了回來。"
+        },
+        {
+          "eng": "The database allows users to quickly retrieve files.",
+          "ch": "該資料庫允許用戶快速檢索檔案。"
+        }
+      ]
+    },
+    {
+      "eng": "revelation",
+      "kk": "͸rɛvəˋleʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "啟示",
+          "揭露",
+          "意料之外的真相"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 revelatio（源自 revelare 揭露、掀開面紗：re- 反向、去除 + velare 遮蓋，源自 velum 帷幕）。歷史上宗教上指神向人類「顯現或啟示真理」，後泛指任何秘密或不為人知的真相被「揭露、公開」的驚人事件。",
+      "definition": "1. a surprising and previously unknown fact that has been disclosed to others; 2. the making known of something previously secret.",
+      "example": [
+        {
+          "eng": "The newspaper article published shocking revelations about the politician's corruption.",
+          "ch": "這篇報紙文章發表了關於該政治人物腐敗的驚人內幕。"
+        }
+      ]
+    },
+    {
+      "eng": "revival",
+      "kk": "rɪˋvaɪvəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "復興",
+          "再流行"
+        ],
+        [
+          "甦醒",
+          "復活"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由動詞 revive 加上名詞字尾 -al 構成。歷史上指人從昏迷或瀕死狀態中「甦醒」，或指古老傳統、時尚、經濟或宗教信仰的「復興與再度盛行」。",
+      "definition": "1. an instance of something becoming active, popular, or important again; 2. an improvement in the condition or strength of something.",
+      "example": [
+        {
+          "eng": "There has been a recent revival of interest in traditional handicrafts.",
+          "ch": "最近對傳統手工藝的興趣有了一股復興之風。"
+        },
+        {
+          "eng": "The economic revival brought new jobs to the region.",
+          "ch": "經濟的復甦為該地區帶來了新的工作機會。"
+        }
+      ]
+    },
+    {
+      "eng": "revive",
+      "kk": "rɪˋvaɪv",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使復甦",
+          "使恢復活力"
+        ],
+        [
+          "使再次流行",
+          "重演"
+        ]
+      ],
+      "analysis": "此字源自古法語 revivre，最終源自拉丁語 revivere（re- 再次 + vivere 生活、生存）。歷史上指讓昏迷者「恢復生命跡象」或使過時的傳統、戲劇、記憶「重新獲得生命力或再度被使用」。",
+      "definition": "1. to restore to life or consciousness; 2. to bring something back into use, popularity, or operation.",
+      "example": [
+        {
+          "eng": "Paramedics managed to revive the unconscious swimmer.",
+          "ch": "救護人員設法使那名昏迷的游泳者甦醒過來。"
+        },
+        {
+          "eng": "The theater company decided to revive the classic 19th-century play.",
+          "ch": "劇團決定重演這部19世紀的經典劇作。"
+        }
+      ]
+    },
+    {
+      "eng": "revolt",
+      "kk": "rɪˋvolt",
+      "tense": "vi.",
+      "ch": [
+        [
+          "反叛",
+          "造反"
+        ],
+        [
+          "厭惡",
+          "作嘔"
+        ]
+      ],
+      "analysis": "此字源自義大利語 rivolta 或中古法語 revolter，源自拉丁語 revolvere 的變體。歷史上從「轉向反抗、推翻權威」的政治造反義，衍生出因食物或氣味極度難聞而引發胃部「翻攪、作嘔或極度厭惡」的心理與生理反應。",
+      "definition": "1. to take violent action against an established government or ruler; to rebel; 2. to feel or cause to feel a sudden disgust or revulsion.",
+      "example": [
+        {
+          "eng": "The oppressed citizens decided to revolt against the tyrannical regime.",
+          "ch": "受壓迫的公民決定起身反抗暴政。"
+        },
+        {
+          "eng": "The thought of eating spoiled meat revolted him.",
+          "ch": "一想到要吃變質的肉，他就感到一陣作嘔。"
+        }
+      ]
+    },
+    {
+      "eng": "revolve",
+      "kk": "rɪˋvɑlv",
+      "tense": "vi.",
+      "ch": [
+        [
+          "旋轉",
+          "公轉"
+        ],
+        [
+          "以...為中心",
+          "環繞"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 revolvere（re- 回、滾動 + volvere 滾動）。歷史上從物理上的「繞著中心軸旋轉或繞行軌道公轉」，引申出人的生活、話題或核心利益「環繞著特定事物運轉」的抽象意涵。",
+      "definition": "1. to move in a circle on a central axis or around a fixed point; 2. to focus all attention or activity on a central theme.",
+      "example": [
+        {
+          "eng": "The Earth revolves around the Sun once a year.",
+          "ch": "地球一年繞太陽公轉一週。"
+        },
+        {
+          "eng": "His entire life revolves around his children.",
+          "ch": "他一生的重心都環繞著他的孩子們打轉。"
+        }
+      ]
+    },
+    {
+      "eng": "rigorous",
+      "kk": "ˋrɪɡərəs",
+      "tense": "adj.",
+      "ch": [
+        [
+          "嚴格的",
+          "嚴密的"
+        ],
+        [
+          "嚴苛的",
+          "氣候惡劣的"
+        ]
+      ],
+      "analysis": "此字源自中世紀拉丁語 rigorosus（源自 rigor 僵硬、嚴厲，源自 rigere 變硬）。歷史上指標準、檢驗或訓練極度「嚴格、一絲不苟與精確」，亦可用來形容環境或氣候「嚴酷、嚴寒」。",
+      "definition": "1. extremely thorough, exhaustive, or accurate; 2. strictly applied or adhered to; harsh or severe.",
+      "example": [
+        {
+          "eng": "The vaccine must undergo rigorous clinical trials before approval.",
+          "ch": "該疫苗在獲批之前必須經過嚴格的臨床試驗。"
+        },
+        {
+          "eng": "Plants struggle to survive in the rigorous winter conditions of the mountains.",
+          "ch": "植物在山區嚴苛的冬季條件下很難生存。"
+        }
+      ]
+    },
+    {
+      "eng": "ripple",
+      "kk": "ˋrɪpl",
+      "tense": "n.",
+      "ch": [
+        [
+          "漣漪",
+          "細浪"
+        ],
+        [
+          "微小的起伏",
+          "傳遞開的影響"
+        ]
+      ],
+      "analysis": "此字為日耳曼語源的擬聲或迭代動詞（與 rip、form 形狀變化相關）。歷史上指水面因微風或投石引起的「一圈圈微小波紋」，後引申為情緒、掌聲或經濟效應像水波一樣「層層擴散開來的連鎖反應」。",
+      "definition": "1. a small wave or series of waves on the surface of water; 2. a minor, spreading feeling or effect.",
+      "example": [
+        {
+          "eng": "A gentle breeze caused ripples on the surface of the pond.",
+          "ch": "一陣微風在池塘表面激起了陣陣漣漪。"
+        },
+        {
+          "eng": "The news sent a ripple of anxiety through the crowd.",
+          "ch": "這則消息在人群中引起了一陣隱隱的焦慮。"
+        }
+      ]
+    },
+    {
+      "eng": "rivalry",
+      "kk": "ˋraɪvəlrɪ",
+      "tense": "n.",
+      "ch": [
+        [
+          "競爭",
+          "對抗"
+        ],
+        [
+          "敵對關係"
+        ]
+      ],
+      "analysis": "此字由名詞 rival（競爭者，源自拉丁語 rivalis，原義為「使用同一條河水的人」，容易產生爭水權的對手）加上名詞字尾 -ry 構成。歷史上指個人、團體或國家之間為了爭奪利益、榮譽或地位而進行的長期競爭與敵對狀態。",
+      "definition": "1. competition for the same objective or for superiority in the same field.",
+      "example": [
+        {
+          "eng": "There is a long-standing athletic rivalry between the two universities.",
+          "ch": "這兩所大學之間存在著長期的體育競爭關係。"
+        }
+      ]
+    },
+    {
+      "eng": "roam",
+      "kk": "rom",
+      "tense": "vi.",
+      "ch": [
+        [
+          "漫遊",
+          "四處走動",
+          "流浪"
+        ]
+      ],
+      "analysis": "此字源自中古英語 romen，可能與中世紀前往羅馬（Rome）朝聖的人四處跋涉的歷史背景有關（字面義為「去羅馬漫遊」）。後泛指人或動物在廣闊範圍內自由自在、漫無目的地四處遊蕩。",
+      "definition": "1. to move about or travel aimlessly or unsystematically, especially over a wide area.",
+      "example": [
+        {
+          "eng": "Wild elephants roam freely across the national park.",
+          "ch": "野生大象在國家公園裡自由自在地四處漫遊。"
+        }
+      ]
+    },
+    {
+      "eng": "robust",
+      "kk": "roˋbʌst",
+      "tense": "adj.",
+      "ch": [
+        [
+          "強健的",
+          "粗壯的"
+        ],
+        [
+          "穩健的",
+          "耐用的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 robustus（意為橡木製成的、堅固的，源自 robur 橡樹、強大力量）。歷史上從「如橡木般結實的體格」演變為形容身體健康強壯，亦引申用於描述系統、經濟、理論或設計「堅固耐用、穩健可靠」。",
+      "definition": "1. strong and healthy; vigorous; 2. strong and effective; unlikely to fail or break down.",
+      "example": [
+        {
+          "eng": "Regular exercise helps maintain a robust immune system.",
+          "ch": "規律運動有助於維持強健的免疫系統。"
+        },
+        {
+          "eng": "The economy showed robust growth in the third quarter.",
+          "ch": "經濟在第三季度展現出穩健的增長。"
+        }
+      ]
+    },
+    {
+      "eng": "rotate",
+      "kk": "ˋrotet",
+      "tense": "vi.",
+      "ch": [
+        [
+          "旋轉",
+          "自轉"
+        ],
+        [
+          "輪流",
+          "交替"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 rotatus（動詞 rotare 的過去分詞，源自 rota 車輪）。歷史上從車輪的「繞軸旋轉」衍生出天體的「自轉」，並引申出職位、排班或農作物種植的「輪流交替」。",
+      "definition": "1. to move or cause to move in a circle around an axis or center; 2. to take turns in a particular sequence.",
+      "example": [
+        {
+          "eng": "The blades of the wind turbine rotate rapidly in the strong wind.",
+          "ch": "風力渦輪機的葉片在強風中快速旋轉。"
+        },
+        {
+          "eng": "Team members rotate the duty of leading the weekly meeting.",
+          "ch": "團隊成員輪流負責主持每週會議。"
+        }
+      ]
+    }
+  ]
+}

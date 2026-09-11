@@ -1,0 +1,1220 @@
+{
+  "level": 3,
+  "chunkIndex": 12,
+  "inputs": [
+    "mighty",
+    "minus",
+    "miracle",
+    "misery",
+    "missile",
+    "missing",
+    "mission",
+    "mist",
+    "mob",
+    "mobile",
+    "moist",
+    "moisture",
+    "monk",
+    "monster",
+    "monthly",
+    "moral",
+    "mosquito",
+    "mostly",
+    "motel",
+    "moth",
+    "motor",
+    "multiply",
+    "murder",
+    "muscle",
+    "mushroom",
+    "mystery",
+    "naked",
+    "nap",
+    "napkin",
+    "native",
+    "navy",
+    "neat",
+    "necessity",
+    "necktie",
+    "neighborhood",
+    "nest",
+    "nickname",
+    "normal",
+    "novelist",
+    "nun",
+    "oak",
+    "observe",
+    "occasion",
+    "odd",
+    "omit",
+    "ongoing",
+    "onion",
+    "onto",
+    "operation",
+    "opportunity"
+  ],
+  "rows": [
+    {
+      "eng": "mighty",
+      "kk": "/ˈmaɪti/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "強大的",
+          "有力的"
+        ],
+        [
+          "巨大的",
+          "宏大的"
+        ]
+      ],
+      "analysis": "此字為現代英語形容詞，源自中古英語 mightig，由名詞 might（力量）加上形容詞字尾 -y 構成，追溯至古英語 mihtig（強壯的、有權勢的）。語義從原初的「具備體力或權力的」延伸出「強大的」與「巨大的、宏大的」。",
+      "definition": "1. possessing great power or strength; 2. very large, great, or impressive.",
+      "example": [
+        {
+          "eng": "They made a mighty effort to finish the project on time.",
+          "ch": "他們全力以赴地按時完成了這項專案。"
+        },
+        {
+          "eng": "A mighty oak tree stood in the middle of the yard.",
+          "ch": "院子中間佇立著一棵巨大的橡樹。"
+        }
+      ]
+    },
+    {
+      "eng": "mighty",
+      "kk": "/ˈmaɪti/",
+      "tense": "adv.",
+      "ch": [
+        [
+          "很",
+          "非常"
+        ]
+      ],
+      "analysis": "此字由形容詞 mighty 轉化而來的副詞用法，屬於口語或美式非正式用法，用以修飾形容詞或副詞，表示「很、非常」。",
+      "definition": "1. very; exceedingly (used informally).",
+      "example": [
+        {
+          "eng": "It is mighty cold outside today.",
+          "ch": "今天外面天氣非常冷。"
+        }
+      ]
+    },
+    {
+      "eng": "minus",
+      "kk": "/ˈmaɪnəs/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "負的",
+          "減的"
+        ]
+      ],
+      "analysis": "源自拉丁語 minus（更少），在數學與科學語境中用作形容詞，表示小於零的數值或負號屬性。",
+      "definition": "1. (of a number or value) less than zero; negative.",
+      "example": [
+        {
+          "eng": "The temperature dropped to minus five degrees.",
+          "ch": "氣溫降到了零下五度。"
+        }
+      ]
+    },
+    {
+      "eng": "minus",
+      "kk": "/ˈmaɪnəs/",
+      "tense": "prep.",
+      "ch": [
+        [
+          "減",
+          "減去"
+        ],
+        [
+          "沒有",
+          "缺乏"
+        ]
+      ],
+      "analysis": "源自拉丁語 minus（更少、較少），為 neuter 形容詞 parvus 的比較級。進入英語後作為介系詞使用，表示數學上的減去，或引申為「缺少、沒有」某物。",
+      "definition": "1. with the subtraction of; less; 2. without.",
+      "example": [
+        {
+          "eng": "Ten minus four equals six.",
+          "ch": "十減四等於六。"
+        },
+        {
+          "eng": "He returned home minus his jacket.",
+          "ch": "他回家時沒穿夾克。"
+        }
+      ]
+    },
+    {
+      "eng": "miracle",
+      "kk": "/ˈmɪrəkəl/",
+      "tense": "n.",
+      "ch": [
+        [
+          "奇蹟",
+          "神蹟"
+        ]
+      ],
+      "analysis": "源自古法語 miracle，最終源自拉丁語 miraculum（物件、奇觀、奇蹟），由 mirari（驚奇、驚嘆）加上名詞字尾 -culum 複合而成。語義指超自然的力量所展現的奇事，或令人驚嘆的幸運事件。",
+      "definition": "1. an extraordinary and welcome event that is not explicable by natural or scientific laws and is therefore attributed to a divine agency.",
+      "example": [
+        {
+          "eng": "It was a miracle that everyone survived the plane crash.",
+          "ch": "空難中所有人都能生還，真是一個奇蹟。"
+        }
+      ]
+    },
+    {
+      "eng": "misery",
+      "kk": "/ˈmɪzəri/",
+      "tense": "n.",
+      "ch": [
+        [
+          "痛苦",
+          "悲慘",
+          "不幸"
+        ]
+      ],
+      "analysis": "源自中古英語 miserie，最終源自拉丁語 miseria，衍生自 miser（悲慘的、痛苦的）。語義核心為極度的精神或肉體痛苦與艱困狀態。",
+      "definition": "1. a state or feeling of great physical or mental distress and suffering.",
+      "example": [
+        {
+          "eng": "The war brought widespread misery to millions of people.",
+          "ch": "這場戰爭給數百萬人帶來了廣泛的痛苦。"
+        }
+      ]
+    },
+    {
+      "eng": "missile",
+      "kk": "/ˈmɪsəl/",
+      "tense": "n.",
+      "ch": [
+        [
+          "飛彈",
+          "導彈"
+        ]
+      ],
+      "analysis": "源自法語 missile 或直接源自拉丁語 missilis（可投擲的），由動詞 mittere（送出、投擲）加上形容詞字尾 -ilis 構成。歷史上泛指任何投擲武器，現代主要指導向飛彈。",
+      "definition": "1. a weapon that is self-propelled or directed by remote control, carrying explosive charges.",
+      "example": [
+        {
+          "eng": "The military test-fired a long-range missile.",
+          "ch": "軍方試射了一枚遠程飛彈。"
+        }
+      ]
+    },
+    {
+      "eng": "missing",
+      "kk": "/ˈmɪsɪŋ/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "缺少的",
+          "找不到的"
+        ],
+        [
+          "失蹤的"
+        ]
+      ],
+      "analysis": "由動詞 miss 加上現在分詞字尾 -ing 轉化而來的形容詞。語義從動詞「錯過、未擊中」或「不在」延伸為狀態上的「缺漏的、找不到的」或「失蹤的」。",
+      "definition": "1. (of a thing) not present or included when expected to be; 2. (of a person) cannot be found and is untraceable.",
+      "example": [
+        {
+          "eng": "Several pages are missing from this old book.",
+          "ch": "這本舊書缺了好幾頁。"
+        },
+        {
+          "eng": "The police are searching for the missing child.",
+          "ch": "警方正在尋找那名失蹤的兒童。"
+        }
+      ]
+    },
+    {
+      "eng": "mission",
+      "kk": "/ˈmɪʃən/",
+      "tense": "n.",
+      "ch": [
+        [
+          "任務",
+          "使命"
+        ],
+        [
+          "代表團",
+          "飛行任務"
+        ]
+      ],
+      "analysis": "源自拉丁語 missio（派遣、送出），源自 mittere（送出、發射）。在中世紀宗教語境中指派遣傳教士，後來擴大為任何被委派的重要任務、官方代表團或太空飛行任務。",
+      "definition": "1. an important assignment given to a person or group, typically involving travel; 2. an expedition, often by spacecraft, to perform a specific task.",
+      "example": [
+        {
+          "eng": "Our main mission is to deliver these supplies safely.",
+          "ch": "我們的主要任務是安全送達這些物資。"
+        },
+        {
+          "eng": "The astronauts are preparing for their mission to Mars.",
+          "ch": "太空人正在為他們的火星任務做準備。"
+        }
+      ]
+    },
+    {
+      "eng": "mist",
+      "kk": "/mɪst/",
+      "tense": "n.",
+      "ch": [
+        [
+          "薄霧",
+          "水氣"
+        ]
+      ],
+      "analysis": "源自古英語 mist（霧、陰暗），屬於日耳曼語族繼承詞。語義指接近地面的微小水滴形成的薄霧或水氣。",
+      "definition": "1. a cloud of tiny water droplets suspended in the atmosphere at or near the earth's surface that limits visibility.",
+      "example": [
+        {
+          "eng": "A heavy morning mist covered the valley.",
+          "ch": "清晨的濃霧籠罩著山谷。"
+        }
+      ]
+    },
+    {
+      "eng": "mob",
+      "kk": "/mɑb/",
+      "tense": "n.",
+      "ch": [
+        [
+          "暴民",
+          "烏合之眾"
+        ],
+        [
+          "幫派",
+          "黑幫"
+        ]
+      ],
+      "analysis": "源自 17 世紀英語的縮寫字，源自拉丁語 mobile vulgus（易變動的民眾），由 mobile（可移動的）加上 vulgus（平民、大眾）中的 mobile 截短而成。後來亦特指有組織的犯罪幫派。",
+      "definition": "1. a large, disorganized, and often unruly crowd of people; 2. a criminal organization or gang.",
+      "example": [
+        {
+          "eng": "An angry mob gathered outside the town hall.",
+          "ch": "一群憤怒的暴民聚集在市政廳外。"
+        },
+        {
+          "eng": "The detective investigated the local mob's illegal activities.",
+          "ch": "偵探調查了當地幫派的非法活動。"
+        }
+      ]
+    },
+    {
+      "eng": "mobile",
+      "kk": "/ˈmoʊbəl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "移動式的",
+          "流動的",
+          "機動的"
+        ]
+      ],
+      "analysis": "源自法語 mobile，源自拉丁語 mobilis（易動的、可移動的），衍生自 movere（移動）。語義指能夠輕鬆移動或隨身攜帶的特質。",
+      "definition": "1. able to move or be moved freely and easily.",
+      "example": [
+        {
+          "eng": "The hospital has a mobile unit that visits remote areas.",
+          "ch": "這家醫院有一輛巡迴偏遠地區的流動醫療車。"
+        }
+      ]
+    },
+    {
+      "eng": "moist",
+      "kk": "/mɔɪst/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "潮濕的",
+          "微濕的"
+        ]
+      ],
+      "analysis": "源自中古英語 moist，借自古法語 moist（潮濕的），源自拉丁語 mucere（發黴）。語義指略帶水分、濕潤的狀態。",
+      "definition": "1. slightly wet; damp or humid.",
+      "example": [
+        {
+          "eng": "Keep the soil moist until the seeds germinate.",
+          "ch": "保持土壤濕潤直到種子發芽。"
+        }
+      ]
+    },
+    {
+      "eng": "moisture",
+      "kk": "/ˈmɔɪstʃər/",
+      "tense": "n.",
+      "ch": [
+        [
+          "水分",
+          "濕氣"
+        ]
+      ],
+      "analysis": "由形容詞 moist 加上名詞字尾 -ure 構成的現代英語名詞，表示微小水分或濕潤的狀態。",
+      "definition": "1. water or other liquid diffused in a small quantity as vapor, condensed on a surface, or contained within a solid.",
+      "example": [
+        {
+          "eng": "Plants absorb moisture from the soil through their roots.",
+          "ch": "植物透過根部從土壤中吸收水分。"
+        }
+      ]
+    },
+    {
+      "eng": "monk",
+      "kk": "/mʌŋk/",
+      "tense": "n.",
+      "ch": [
+        [
+          "僧侶",
+          "修士"
+        ]
+      ],
+      "analysis": "源自古英語 munuc，經由拉丁語 monachus 借自希臘語 monachos（獨居的），源自 monos（單獨的）。歷史上指過著隱居、修道生活的男性神職人員。",
+      "definition": "1. a member of a religious community of men typically living under vows of poverty, chastity, and obedience.",
+      "example": [
+        {
+          "eng": "The Buddhist monk meditated peacefully in the temple.",
+          "ch": "那名佛教僧侶在寺廟裡平和地冥想。"
+        }
+      ]
+    },
+    {
+      "eng": "monster",
+      "kk": "/ˈmɑnstər/",
+      "tense": "n.",
+      "ch": [
+        [
+          "怪物",
+          "巨獸"
+        ],
+        [
+          "惡魔般的人",
+          "殘暴的人"
+        ]
+      ],
+      "analysis": "源自古法語 monstre，源自拉丁語 monstrum（神聖的預兆、畸形、怪物），由 monere（警告）衍生而來。語義從古代神話中的異形生物或預兆，演變為可怕的生物或殘暴的人。",
+      "definition": "1. an imaginary creature that is typically large, ugly, and frightening; 2. a cruel, wicked, or terrifying person.",
+      "example": [
+        {
+          "eng": "In the story, the hero fights a terrifying sea monster.",
+          "ch": "故事中，英雄與一隻可怕的海怪搏鬥。"
+        },
+        {
+          "eng": "He proved to be a heartless monster after what he did.",
+          "ch": "在他做出那種事之後，證明他是一個無情的人。"
+        }
+      ]
+    },
+    {
+      "eng": "monthly",
+      "kk": "/ˈmʌnθli/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "每月的",
+          "每月一次的"
+        ]
+      ],
+      "analysis": "由名詞 month（月）加上形容詞字尾 -ly 構成，指發生在每個月或每個月重複一次的性質。",
+      "definition": "1. done, produced, or occurring once a month.",
+      "example": [
+        {
+          "eng": "The company holds a monthly meeting to review progress.",
+          "ch": "公司每個月舉行一次會議來檢視進度。"
+        }
+      ]
+    },
+    {
+      "eng": "monthly",
+      "kk": "/ˈmʌnθli/",
+      "tense": "adv.",
+      "ch": [
+        [
+          "每月",
+          "按月"
+        ]
+      ],
+      "analysis": "由形容詞 monthly 兼作副詞用法，表示動作發生的頻率為每月一次。",
+      "definition": "1. once a month; each month.",
+      "example": [
+        {
+          "eng": "Rent is payable monthly in advance.",
+          "ch": "房租按月預付。"
+        }
+      ]
+    },
+    {
+      "eng": "moral",
+      "kk": "/ˈmɔrəl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "道德的",
+          "精神上的"
+        ]
+      ],
+      "analysis": "源自古法語 moral，源自拉丁語 moralis（風俗的、道德的），由 mos（習俗、風紀）衍生而來。語義指涉及善惡是非對錯的原則或判斷。",
+      "definition": "1. concerned with the principles of right and wrong behavior and the goodness or badness of human character.",
+      "example": [
+        {
+          "eng": "It is our moral duty to help those in need.",
+          "ch": "幫助需要幫助的人是我們的道德義務。"
+        }
+      ]
+    },
+    {
+      "eng": "mosquito",
+      "kk": "/məˈskiːtoʊ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "蚊子"
+        ]
+      ],
+      "analysis": "源自西班牙語或葡萄牙語 mosquito（小蠅），由 mosca（蠅，源自拉丁語 musca）加上指小字尾 -ito 構成。透過殖民時期貿易與探險進入英語。",
+      "definition": "1. a small slender fly that feeds on the blood of animals and humans, some species of which transmit diseases.",
+      "example": [
+        {
+          "eng": "She used insect repellent to keep mosquitoes away.",
+          "ch": "她使用防蚊液來驅趕蚊子。"
+        }
+      ]
+    },
+    {
+      "eng": "mostly",
+      "kk": "/ˈmoʊstli/",
+      "tense": "adv.",
+      "ch": [
+        [
+          "主要地",
+          "多半",
+          "大體上"
+        ]
+      ],
+      "analysis": "由代名詞／副詞 most 加上副詞字尾 -ly 構成，表示在絕大多數情況下或主要部分。",
+      "definition": "1. for the most part; chiefly; mainly.",
+      "example": [
+        {
+          "eng": "The weather this week has been mostly sunny.",
+          "ch": "這週的天氣大體上是晴朗的。"
+        }
+      ]
+    },
+    {
+      "eng": "motel",
+      "kk": "/moʊˈtɛl/",
+      "tense": "n.",
+      "ch": [
+        [
+          "汽車旅館"
+        ]
+      ],
+      "analysis": "現代英語的混成詞，由 motor（汽車）與 hotel（旅館）合併創造而成，首創於 20 世紀初美國，專為駕車長途旅行者提供停車便利的住宿設施。",
+      "definition": "1. a roadside hotel designed primarily for motorists, typically having parking areas directly outside the rooms.",
+      "example": [
+        {
+          "eng": "We stopped at a roadside motel for a quick night's sleep.",
+          "ch": "我們在路邊的一家汽車旅館停下來睡了一覺。"
+        }
+      ]
+    },
+    {
+      "eng": "moth",
+      "kk": "/mɔθ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "蛾"
+        ]
+      ],
+      "analysis": "源自古英語 moððe，屬於日耳曼語族繼承詞，歷史上指會啃食織物毛料的昆蟲或夜行性蛾類。",
+      "definition": "1. an insect related to butterflies, typically flying at night and having antennae that are feathery or threadlike.",
+      "example": [
+        {
+          "eng": "A small moth fluttered around the bright lamp.",
+          "ch": "一隻小飛蛾在明亮的燈泡周圍飛舞。"
+        }
+      ]
+    },
+    {
+      "eng": "motor",
+      "kk": "/ˈmoʊtər/",
+      "tense": "n.",
+      "ch": [
+        [
+          "馬達",
+          "發動機",
+          "引擎"
+        ]
+      ],
+      "analysis": "源自拉丁語 motor（移動者），由 movere（移動）的過去分詞詞幹加上 agent 類字尾 -or 構成。原意為「提供動力的機械或裝置」，現代專指電動機或內燃機引擎。",
+      "definition": "1. a machine, especially one powered by electricity or internal combustion, that supplies power for a vehicle or other device to move.",
+      "example": [
+        {
+          "eng": "The boat is powered by a small electric motor.",
+          "ch": "這艘船由一個小型電動馬達驅動。"
+        }
+      ]
+    },
+    {
+      "eng": "multiply",
+      "kk": "/ˈmʌltəˌplaɪ/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "乘",
+          "使相乘"
+        ],
+        [
+          "使大量增加",
+          "繁殖"
+        ]
+      ],
+      "analysis": "源自中古英語 multiplien，借自古法語 multiplier，源自拉丁語 multiplicare，由 multiplex（多重的）衍生而來，結合 multi-（多）與 -plicare（摺疊）。語義從數學上的相乘，延伸為數量上的倍增與繁衍。",
+      "definition": "1. obtain from a number another that is the product of this number and a specified other; 2. increase or cause to increase greatly in number or quantity.",
+      "example": [
+        {
+          "eng": "If you multiply seven by eight, you get fifty-six.",
+          "ch": "如果你把七乘以八，你會得到五十六。"
+        },
+        {
+          "eng": "Farmers use specific methods to multiply their crop yields.",
+          "ch": "農民使用特定方法來大幅增加農作物產量。"
+        }
+      ]
+    },
+    {
+      "eng": "multiply",
+      "kk": "/ˈmʌltəˌplaɪ/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "繁殖",
+          "激增"
+        ]
+      ],
+      "analysis": "由 vt. 用法自動不及物化，指主體自身數量增加或繁殖。",
+      "definition": "1. (of a number or organism) increase in number or quantity.",
+      "example": [
+        {
+          "eng": "Rabbits multiply very quickly in the wild.",
+          "ch": "兔子在野外繁殖得非常快。"
+        }
+      ]
+    },
+    {
+      "eng": "murder",
+      "kk": "/ˈmɜrdər/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "謀殺",
+          "兇殺"
+        ]
+      ],
+      "analysis": "源自古英語 morthor（謀殺），屬於日耳曼語族繼承詞，與德語 Mord 同源。語義指蓄意且非法的謀殺行為。",
+      "definition": "1. premeditated and unlawful killing of one human being by another.",
+      "example": [
+        {
+          "eng": "The detective was determined to find out who murdered the businessman.",
+          "ch": "偵探決心查出是誰謀殺了那名商人。"
+        }
+      ]
+    },
+    {
+      "eng": "muscle",
+      "kk": "/ˈmʌsəl/",
+      "tense": "n.",
+      "ch": [
+        [
+          "肌肉",
+          "力量"
+        ]
+      ],
+      "analysis": "源自法語 muscle 或拉丁語 musculus（小老鼠、肌肉），因拉丁語中肌腱收縮的形狀貌似小老鼠跑動而得名，由 mus（老鼠）加上指小字尾 -culus 構成。語義指動物身體中負責收縮與運動的組織或體力。",
+      "definition": "1. a band or bundle of fibrous tissue in a human or animal body that has the ability to contract, producing movement in or maintaining the position of parts of the body.",
+      "example": [
+        {
+          "eng": "Weightlifting helps build strong arm muscles.",
+          "ch": "舉重有助於建立強壯的手臂肌肉。"
+        }
+      ]
+    },
+    {
+      "eng": "mushroom",
+      "kk": "/ˈmʌʃrum/",
+      "tense": "n.",
+      "ch": [
+        [
+          "蘑菇",
+          "蕈類"
+        ]
+      ],
+      "analysis": "源自中古英語 mousherom，借自古法語 moisseron。語義指真菌類的子實體（蘑菇）。",
+      "definition": "1. a spore-producing fruiting body of a fungus, typically produced above ground on soil or on its food source.",
+      "example": [
+        {
+          "eng": "She added fresh mushrooms and onions to the pasta sauce.",
+          "ch": "她在義大利麵醬中加入了新鮮的蘑菇和洋蔥。"
+        }
+      ]
+    },
+    {
+      "eng": "mystery",
+      "kk": "/ˈmɪstəri/",
+      "tense": "n.",
+      "ch": [
+        [
+          "神秘",
+          "神祕的事物"
+        ],
+        [
+          "推理小說",
+          "懸疑作品"
+        ]
+      ],
+      "analysis": "源自拉丁語 mysterium，源自希臘語 mystērion（秘密宗教儀式、奧秘），由 myein（閉上眼睛或嘴巴）衍生而來。語義從宗教密教儀式演變為無法解釋的謎團或懸疑小說題材。",
+      "definition": "1. something that is difficult or impossible to understand or explain; 2. a novel, play, or movie dealing with a puzzling crime.",
+      "example": [
+        {
+          "eng": "The disappearance of the ancient civilization remains a mystery.",
+          "ch": "那個古代文明的消失依然是一個謎。"
+        },
+        {
+          "eng": "She loves reading murder mystery novels before going to bed.",
+          "ch": "她喜歡在睡前閱讀謀殺懸疑小說。"
+        }
+      ]
+    },
+    {
+      "eng": "naked",
+      "kk": "/ˈneɪkɪd/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "赤裸的",
+          "無遮蔽的"
+        ]
+      ],
+      "analysis": "源自古英語 nacod，屬於日耳曼語族繼承詞，與德語 nackt 同源。語義指沒有穿衣服、覆蓋物或保護層的自然狀態。",
+      "definition": "1. (of a person or part of the body) without clothes on; unclothed.",
+      "example": [
+        {
+          "eng": "You can see the distant stars with the naked eye on a clear night.",
+          "ch": "在晴朗的夜晚，你可以用肉眼看到遠處的星星。"
+        }
+      ]
+    },
+    {
+      "eng": "nap",
+      "kk": "/næp/",
+      "tense": "n.",
+      "ch": [
+        [
+          "小睡",
+          "打盹"
+        ]
+      ],
+      "analysis": "源自古英語 hnappian（打瞌睡），屬於日耳曼語族繼承詞。語義指白天短暫的睡眠休息。",
+      "definition": "1. a short sleep, especially during the day.",
+      "example": [
+        {
+          "eng": "The tired toddler took a long afternoon nap.",
+          "ch": "疲憊的小孩睡了一個漫長的午覺。"
+        }
+      ]
+    },
+    {
+      "eng": "nap",
+      "kk": "/næp/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "打盹",
+          "小睡"
+        ]
+      ],
+      "analysis": "由名詞 nap 衍生或同源的動詞用法，指進行短暫睡眠的動作。",
+      "definition": "1. sleep briefly, especially during the day.",
+      "example": [
+        {
+          "eng": "Grandpa likes to nap in the armchair after lunch.",
+          "ch": "爺爺喜歡午飯後在靠背椅上打盹。"
+        }
+      ]
+    },
+    {
+      "eng": "napkin",
+      "kk": "/ˈnæpkɪn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "餐巾",
+          "紙巾"
+        ]
+      ],
+      "analysis": "源自法語 nappe（桌布）加上指小字尾 -kin。語義指用餐時用來擦拭嘴或手的布巾或紙巾。",
+      "definition": "1. a square piece of cloth or paper used at a meal for wiping the fingers and lips.",
+      "example": [
+        {
+          "eng": "He placed his paper napkin on his lap before eating.",
+          "ch": "他用餐前把紙巾放在大腿上。"
+        }
+      ]
+    },
+    {
+      "eng": "native",
+      "kk": "/ˈneɪtɪv/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "出生地的",
+          "本土的"
+        ],
+        [
+          "天生的",
+          "固有種的"
+        ]
+      ],
+      "analysis": "源自古法語 natif，源自拉丁語 nativus（生下來的、天生的），由 nasci（出生，過去分詞 natus）衍生而來。語義指某人出生地的、當地固有的或與生俱來的特質。",
+      "definition": "1. associated with the place of one's birth; 2. (of a plant or animal) indigenous to a particular place.",
+      "example": [
+        {
+          "eng": "She returned to her native country after living abroad for ten years.",
+          "ch": "她在國外居住十年後回到了她的祖國。"
+        },
+        {
+          "eng": "The kangaroo is an animal native to Australia.",
+          "ch": "袋鼠是澳洲的本土動物。"
+        }
+      ]
+    },
+    {
+      "eng": "navy",
+      "kk": "/ˈneɪvi/",
+      "tense": "n.",
+      "ch": [
+        [
+          "海軍"
+        ]
+      ],
+      "analysis": "源自中古英語 navie，借自古法語 navie（船隊），源自拉丁語 navis（船）。語義從古代的船隊演變為國家海軍武裝力量。",
+      "definition": "1. the branch of a nation's armed services conducted chiefly at sea.",
+      "example": [
+        {
+          "eng": "He served as an officer in the navy for twenty years.",
+          "ch": "他在海軍擔任了二十年軍官。"
+        }
+      ]
+    },
+    {
+      "eng": "neat",
+      "kk": "/niːt/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "整潔的",
+          "整齊的"
+        ],
+        [
+          "巧妙的",
+          "精妙的"
+        ]
+      ],
+      "analysis": "源自中古英語 net，借自古法語 net（乾淨的、純粹的），源自拉丁語 nitidus（光亮的、乾淨的），由 nitere（發光）衍生而來。語義從「潔淨無瑕」引申為「整齊有序」或表現出色的「巧妙」。",
+      "definition": "1. tidy, clean, and well-arranged; 2. clever, simple, and effective.",
+      "example": [
+        {
+          "eng": "Her desk was always neat and organized.",
+          "ch": "她的書桌總是乾淨整潔且井然有序。"
+        },
+        {
+          "eng": "That is a really neat solution to our scheduling problem.",
+          "ch": "這確實是解決我們排班問題的一個精妙辦法。"
+        }
+      ]
+    },
+    {
+      "eng": "necessity",
+      "kk": "/nəˈsɛsəti/",
+      "tense": "n.",
+      "ch": [
+        [
+          "必需品",
+          "必要性"
+        ],
+        [
+          "貧困",
+          "迫切需要"
+        ]
+      ],
+      "analysis": "源自中古英語 necessite，源自拉丁語 necessitas，由 necessarius（必要的）衍生而來。語義指客觀上不可或缺的條件、生活必需品，或因缺乏引起的迫切需要。",
+      "definition": "1. the state or fact of being required; something that is indispensable; 2. the constraint of circumstance or poverty.",
+      "example": [
+        {
+          "eng": "Water and food are basic necessities of life.",
+          "ch": "水和食物是生活的基本必需品。"
+        },
+        {
+          "eng": "They accepted the job out of sheer financial necessity.",
+          "ch": "他們出於純粹的財務迫切需要接受了這份工作。"
+        }
+      ]
+    },
+    {
+      "eng": "necktie",
+      "kk": "/ˈnɛkˌtaɪ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "領帶"
+        ]
+      ],
+      "analysis": "近代英語的複合詞，由 neck（脖子）與 tie（繫、結）結合而成，指圍在襯衫領口並打結的男士正裝配件。",
+      "definition": "1. a long narrow piece of cloth worn under a collar around the neck and tied in a knot at the front.",
+      "example": [
+        {
+          "eng": "He wore a smart suit and a silk necktie to the interview.",
+          "ch": "他穿了一套體面的西裝，並戴著絲綢領帶去面試。"
+        }
+      ]
+    },
+    {
+      "eng": "neighborhood",
+      "kk": "/ˈneɪbərˌhʊd/",
+      "tense": "n.",
+      "ch": [
+        [
+          "鄰近地區",
+          "社區",
+          "街坊"
+        ]
+      ],
+      "analysis": "由名詞 neighbor（鄰居）加上名詞字尾 -hood（表示狀態或群體）複合而成。語義指居住在一起的周遭鄰近區域與居民。",
+      "definition": "1. a district, especially one living close to each other; the people living in such a district.",
+      "example": [
+        {
+          "eng": "They live in a quiet residential neighborhood.",
+          "ch": "他們住在一個安靜的住宅社區裡。"
+        }
+      ]
+    },
+    {
+      "eng": "nest",
+      "kk": "/nɛst/",
+      "tense": "n.",
+      "ch": [
+        [
+          "巢",
+          "窩"
+        ]
+      ],
+      "analysis": "源自古英語 nest，屬於日耳曼語族繼承詞，與拉丁語 nīdus 同源。語義指鳥類或其他動物築造用來產卵育幼的巢穴。",
+      "definition": "1. a structure made by a bird, insect, or other animal for laying eggs or sheltering its young.",
+      "example": [
+        {
+          "eng": "A pair of robins built a nest in the tall oak tree.",
+          "ch": "一對知更鳥在高大的橡樹上築了一個巢。"
+        }
+      ]
+    },
+    {
+      "eng": "nickname",
+      "kk": "/ˈnɪkˌneɪm/",
+      "tense": "n.",
+      "ch": [
+        [
+          "綽號",
+          "外號",
+          "小名"
+        ]
+      ],
+      "analysis": "源自中古英語 eke-name（別名、附加的名字），其中的 eke 在發音連讀時發生切音誤析，演變為 nickname。語義指正式名字之外的非正式愛稱或綽號。",
+      "definition": "1. a familiar or humorous name given to a person or thing instead of or as well as their real name.",
+      "example": [
+        {
+          "eng": "His childhood nickname was 'Chip' because of his cheerful personality.",
+          "ch": "他童年的綽號叫「奇普」，因為他性格開朗。"
+        }
+      ]
+    },
+    {
+      "eng": "normal",
+      "kk": "/ˈnɔrməl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "正常的",
+          "正規的"
+        ]
+      ],
+      "analysis": "源自拉丁語 normalis（合乎規矩的、垂直的），由 norma（木匠直角尺、標準、規範）加上形容詞字尾 -al 構成。語義從幾何學上的「垂直」引申為符合常規、標準的「正常」。",
+      "definition": "1. conforming to a standard; usual, typical, or expected.",
+      "example": [
+        {
+          "eng": "Her temperature returned to normal after taking the medicine.",
+          "ch": "她吃藥後體溫恢復了正常。"
+        }
+      ]
+    },
+    {
+      "eng": "novelist",
+      "kk": "/ˈnɑvəlɪst/",
+      "tense": "n.",
+      "ch": [
+        [
+          "小說家"
+        ]
+      ],
+      "analysis": "由名詞 novel（小說，源自義大利語 novella）加上表從事某職業或身份的字尾 -ist 複合而成，指創作小說的作家。",
+      "definition": "1. an author of novels.",
+      "example": [
+        {
+          "eng": "The famous novelist signed copies of her new book for fans.",
+          "ch": "這位著名的小說家為書迷們在新書上簽名。"
+        }
+      ]
+    },
+    {
+      "eng": "nun",
+      "kk": "/nʌn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "修女",
+          "尼姑"
+        ]
+      ],
+      "analysis": "源自古英語 nunne，借自拉丁語 nonna（古代基督教對年長女性或修女的尊稱）。語義指發願過修道生活的女性宗教人士。",
+      "definition": "1. a member of a religious community of women, typically living under vows of poverty, chastity, and obedience.",
+      "example": [
+        {
+          "eng": "The nun dedicated her life to helping orphans and the sick.",
+          "ch": "這位修女一生致力於幫助孤兒和病人。"
+        }
+      ]
+    },
+    {
+      "eng": "oak",
+      "kk": "/oʊk/",
+      "tense": "n.",
+      "ch": [
+        [
+          "橡樹",
+          "橡木"
+        ]
+      ],
+      "analysis": "源自古英語 āc，屬於日耳曼語族繼承詞，與德語 Eiche 同源。語義指產堅果且木質堅硬的橡樹或其木材。",
+      "definition": "1. a large tree that bears acorns and produces hard timber.",
+      "example": [
+        {
+          "eng": "The antique dining table was made of solid oak.",
+          "ch": "這張古董餐桌是用實心橡木製成的。"
+        }
+      ]
+    },
+    {
+      "eng": "observe",
+      "kk": "/əbˈzɜrv/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "觀察",
+          "觀測"
+        ],
+        [
+          "遵守",
+          "慶祝"
+        ]
+      ],
+      "analysis": "源自拉丁語 observare（照看、遵守、觀察），由 ob-（向著、加強）與 servare（看守、保護）複合而成。語義從「密切注視」延伸為科學上的「觀察」以及「遵守法規、慶祝節日」。",
+      "definition": "1. watch (someone or something) carefully and attentively; 2. obey or follow (a law, rule, or custom).",
+      "example": [
+        {
+          "eng": "Scientists use telescopes to observe distant stars.",
+          "ch": "科學家使用望遠鏡來觀測遠處的恆星。"
+        },
+        {
+          "eng": "All citizens must observe traffic laws for safety.",
+          "ch": "為了安全，所有公民都必須遵守交通法規。"
+        }
+      ]
+    },
+    {
+      "eng": "occasion",
+      "kk": "/əˈkeɪʒən/",
+      "tense": "n.",
+      "ch": [
+        [
+          "場合",
+          "重大活動"
+        ],
+        [
+          "機會",
+          "時機"
+        ]
+      ],
+      "analysis": "源自拉丁語 occasio（時機、機會），由 ob-（向著）與 cadere（落下）的派生詞合併而成。語義指特定事件發生的時間、場合或有利的機會。",
+      "definition": "1. a particular time or instance of an event; 2. a special event, ceremony, or celebration.",
+      "example": [
+        {
+          "eng": "We wore formal clothes for the wedding occasion.",
+          "ch": "我們為婚禮這個場合穿了正式服裝。"
+        },
+        {
+          "eng": "I never missed an opportunity to learn something new.",
+          "ch": "我從不錯過學習新事物的機會。"
+        }
+      ]
+    },
+    {
+      "eng": "odd",
+      "kk": "/ɑd/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "奇特的",
+          "古怪的"
+        ],
+        [
+          "奇數的"
+        ]
+      ],
+      "analysis": "源自古諾斯語 oddi（三角形的尖端、餘數），在中世紀英語中演變出「成雙之外的剩餘的（奇數）」以及「獨特的、古怪的」意涵。",
+      "definition": "1. strange or unusual; different from what is normal or expected; 2. (of a whole number) not able to be divided by two evenly.",
+      "example": [
+        {
+          "eng": "She heard an odd noise coming from the basement.",
+          "ch": "她聽到地下室傳來一陣奇怪的聲音。"
+        },
+        {
+          "eng": "Three is an odd number.",
+          "ch": "三是一個奇數。"
+        }
+      ]
+    },
+    {
+      "eng": "omit",
+      "kk": "/oʊˈmɪt/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "省略",
+          "刪除",
+          "遺漏"
+        ]
+      ],
+      "analysis": "源自拉丁語 omittere（放過、疏忽、省略），由 ob-（離開、免除）與 mittere（發送、放開）複合而成。語義指故意或不小心將某事物排除在外。",
+      "definition": "1. leave out or exclude (someone or something), either intentionally or forgetfully.",
+      "example": [
+        {
+          "eng": "You can omit unnecessary details from the report.",
+          "ch": "你可以從報告中省略不必要的細節。"
+        }
+      ]
+    },
+    {
+      "eng": "ongoing",
+      "kk": "/ˈɑnˌgoʊɪŋ/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "進行中的",
+          "持續的"
+        ]
+      ],
+      "analysis": "由副詞 on（向前、繼續）與現在分詞 going（進行中）複合而成的現代英語形容詞，表示某個過程或事件目前正在持續發展中。",
+      "definition": "1. continuing; in progress.",
+      "example": [
+        {
+          "eng": "The police investigation into the robbery is ongoing.",
+          "ch": "警方對這起搶劫案的調查仍在進行中。"
+        }
+      ]
+    },
+    {
+      "eng": "onion",
+      "kk": "/ˈʌnjən/",
+      "tense": "n.",
+      "ch": [
+        [
+          "洋蔥"
+        ]
+      ],
+      "analysis": "源自中古英語 union，借自古法語 oignon，源自拉丁語 unio（珍珠、大蒜的一種品種，因結成單一圓球而得名）。語義指常見的百合科球莖蔬菜。",
+      "definition": "1. a cultivated plant of the lily family with an edible bulb, pungent taste, and strong smell.",
+      "example": [
+        {
+          "eng": "Crying often happens when chopping a raw onion.",
+          "ch": "切生洋蔥時常常會流眼淚。"
+        }
+      ]
+    },
+    {
+      "eng": "onto",
+      "kk": "/ˈɑntu/",
+      "tense": "prep.",
+      "ch": [
+        [
+          "到...之上",
+          "向...之上"
+        ]
+      ],
+      "analysis": "現代英語的複合介系詞，由介系詞 on（在...上）與 to（朝向）合併而成，表示動作方向為移至某個表面之上。",
+      "definition": "1. moving to a position on the surface of something.",
+      "example": [
+        {
+          "eng": "The cat jumped onto the kitchen counter.",
+          "ch": "貓跳到了廚房檯面上。"
+        }
+      ]
+    },
+    {
+      "eng": "operation",
+      "kk": "/ˌɑpəˈreɪʃən/",
+      "tense": "n.",
+      "ch": [
+        [
+          "手術"
+        ],
+        [
+          "運作",
+          "行動"
+        ]
+      ],
+      "analysis": "源自拉丁語 operatio（工作、施行），由 operari（工作、運作，源自 opus「工作」）加上名詞字尾 -atio 構成。語義涵蓋醫療手術、企業或機器運作、以及軍事行動。",
+      "definition": "1. the surgical treatment of a patient; 2. an act, process, or way of operating a business, machine, or system.",
+      "example": [
+        {
+          "eng": "The patient successfully recovered after heart surgery operation.",
+          "ch": "病人在心臟手術後順利康復。"
+        },
+        {
+          "eng": "The company launched a new marketing operation this spring.",
+          "ch": "這家公司今年春天展開了一項新的行銷運作。"
+        }
+      ]
+    },
+    {
+      "eng": "opportunity",
+      "kk": "/ˌɑpərˈtuːnəti/",
+      "tense": "n.",
+      "ch": [
+        [
+          "機會",
+          "良機"
+        ]
+      ],
+      "analysis": "源自拉丁語 opportunitas，源自 opportunus（合適的、順風的），由 ob-（朝向、為了）與 portus（港口）複合而成，原意為「船隻順風抵達港口的好時機」。語義引申為做某事的良機或機遇。",
+      "definition": "1. a set of circumstances that makes it possible to do something.",
+      "example": [
+        {
+          "eng": "Studying abroad offers a great opportunity to learn about other cultures.",
+          "ch": "出國留學提供了深入了解其他文化的絕佳機會。"
+        }
+      ]
+    }
+  ]
+}

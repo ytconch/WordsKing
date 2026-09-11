@@ -1,0 +1,1128 @@
+{
+  "level": 2,
+  "chunkIndex": 7,
+  "inputs": [
+    "ease",
+    "eastern",
+    "edge",
+    "edition",
+    "education",
+    "effect",
+    "effective",
+    "effort",
+    "elder",
+    "electric",
+    "electrical",
+    "emotion",
+    "emphasize",
+    "employ",
+    "employment",
+    "employee",
+    "employer",
+    "empty",
+    "encourage",
+    "encouragement",
+    "ending",
+    "enemy",
+    "energy",
+    "engine",
+    "entire",
+    "entrance",
+    "environment",
+    "environmental",
+    "equal",
+    "escape",
+    "especially",
+    "essay",
+    "eve",
+    "event",
+    "evil",
+    "exact",
+    "examination",
+    "exam",
+    "examine",
+    "excite",
+    "excitement",
+    "excuse",
+    "exist",
+    "existence",
+    "exit",
+    "expense",
+    "expert",
+    "express",
+    "expression",
+    "extra"
+  ],
+  "rows": [
+    {
+      "eng": "ease",
+      "kk": "iz",
+      "tense": "n.",
+      "ch": [
+        [
+          "輕鬆",
+          "舒適",
+          "安逸"
+        ],
+        [
+          "容易",
+          "輕易"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古法語 oise、aisier，最終源自拉丁語 ōtiōsus（閒暇的）。analysis 說明其由動詞轉化而來，指狀態或性質。語意從古代的「空閒、無憂無慮」演變出現代的「舒適」與「不費力氣」。",
+      "definition": "1. freedom from worry, pain, or trouble; comfort or relaxation.; 2. absence of difficulty or great effort; smoothness.",
+      "example": [
+        {
+          "eng": "She lived a life of ease and luxury.",
+          "ch": "她過著舒適且奢華的生活。"
+        },
+        {
+          "eng": "He passed the driving test with great ease.",
+          "ch": "他非常輕易地通過了駕駛考試。"
+        }
+      ]
+    },
+    {
+      "eng": "ease",
+      "kk": "iz",
+      "tense": "vt.",
+      "ch": [
+        [
+          "減輕",
+          "緩解",
+          "解除"
+        ],
+        [
+          "使放輕鬆",
+          "使安心"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自古法語 aisier，與名詞同源。analysis 說明其動詞身份，接直接受詞。語意從「騰出時間、使舒適」演變為「減輕痛苦或負擔」以及「使情緒放鬆」。",
+      "definition": "1. to make less painful, severe, or serious; to relieve.; 2. to make someone feel more relaxed or less anxious.",
+      "example": [
+        {
+          "eng": "The medicine helped to ease her back pain.",
+          "ch": "這藥有助於減輕她背部的疼痛。"
+        },
+        {
+          "eng": "The soothing music helped to ease his mind.",
+          "ch": "舒緩的音樂有助於放鬆他的心情。"
+        }
+      ]
+    },
+    {
+      "eng": "eastern",
+      "kk": "ˋistɚn",
+      "tense": "adj.",
+      "ch": [
+        [
+          "東方的",
+          "東部地區的"
+        ]
+      ],
+      "analysis": "此字為形容詞，由名詞 east 加上形容詞字尾 -ern（表示方向或位置）構成。analysis 說明其現代透明構詞。語意指位於東方或屬於東部地區的。",
+      "definition": "1. lying toward, found in, or relating to the east.",
+      "example": [
+        {
+          "eng": "They live in the eastern part of the country.",
+          "ch": "他們住在該國的東部地區。"
+        }
+      ]
+    },
+    {
+      "eng": "edge",
+      "kk": "ɛdʒ",
+      "tense": "n.",
+      "ch": [
+        [
+          "邊緣",
+          "側"
+        ],
+        [
+          "刀口",
+          "利刃"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古英語 ecg（刀刃、邊緣），屬於日耳曼語繼承詞。analysis 說明其歷史來源。語意從具體的「刀刃、邊緣」延伸至抽象的「邊界、優勢」等概念。",
+      "definition": "1. the outside limit of an object, area, or surface; a border.; 2. the sharp side of a blade that cuts.",
+      "example": [
+        {
+          "eng": "She sat on the edge of the bed.",
+          "ch": "她坐在床邊。"
+        },
+        {
+          "eng": "Be careful with that knife; it has a sharp edge.",
+          "ch": "小心那把刀；它有很鋒利的刀口。"
+        }
+      ]
+    },
+    {
+      "eng": "edition",
+      "kk": "ɪˋdɪʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "版本",
+          "版次"
+        ]
+      ],
+      "analysis": "此字為名詞，源自拉丁語 ēditiō（出版、發行），由 ēdere（出示、發布）加名詞字尾構成。analysis 說明其拉丁字源與構詞。語意指書籍、報刊等同一作品發行的某一特定版本或版次。",
+      "definition": "1. a particular form or version of a published book, newspaper, or magazine.",
+      "example": [
+        {
+          "eng": "I bought the latest edition of the dictionary.",
+          "ch": "我買了這本字典的最新版本。"
+        }
+      ]
+    },
+    {
+      "eng": "education",
+      "kk": "ˌɛdʒʊˋkeʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "教育",
+          "培養",
+          "學識"
+        ]
+      ],
+      "analysis": "此字為名詞，源自拉丁語 ēductiō（引出、導出），由 ēdūcere（引導出來）衍生而來。analysis 說明其拉丁詞源。語意從「引導出個人的潛能」演變為現代的「教育、學校教育或系統化學習」。",
+      "definition": "1. the process of receiving or giving systematic instruction, especially at a school or university.",
+      "example": [
+        {
+          "eng": "Good education is essential for a successful future.",
+          "ch": "良好的教育對成功的未來至關重要。"
+        }
+      ]
+    },
+    {
+      "eng": "effect",
+      "kk": "ɪˋfɛkt",
+      "tense": "n.",
+      "ch": [
+        [
+          "效果",
+          "影響",
+          "結果"
+        ]
+      ],
+      "analysis": "此字為名詞，源自拉丁語 effectus（成果、完成），由動詞 efficere（完成、實現）衍生。analysis 說明其拉丁詞源與名詞身份。語意指某種行為或力量所產生的結果或影響。",
+      "definition": "1. a change that is a result or consequence of an action or other cause.",
+      "example": [
+        {
+          "eng": "The new law had an immediate effect on crime rates.",
+          "ch": "這項新法律對犯罪率產生了立即的影響。"
+        }
+      ]
+    },
+    {
+      "eng": "effective",
+      "kk": "ɪˋfɛktɪv",
+      "tense": "adj.",
+      "ch": [
+        [
+          "有效的",
+          "生效的",
+          "產生預期效果的"
+        ]
+      ],
+      "analysis": "此字為形容詞，由名詞 effect 加上形容詞字尾 -ive 構成。analysis 說明其現代透明構詞。語意指能產生預期結果或發揮效用的。",
+      "definition": "1. successful in producing a desired or intended result.",
+      "example": [
+        {
+          "eng": "This is an effective way to learn a new language.",
+          "ch": "這是一種學習新語言的有效方法。"
+        }
+      ]
+    },
+    {
+      "eng": "effort",
+      "kk": "ˋɛfɚt",
+      "tense": "n.",
+      "ch": [
+        [
+          "努力",
+          "盡力",
+          "成就的事業"
+        ]
+      ],
+      "analysis": "此字為名詞，源自拉丁語 ex-（出）加上 fortis（強壯的），經法語 esforz 傳入英語。analysis 說明其歷史來源與構詞。語意從「發揮力量」演變為精神或體力上的「努力」。",
+      "definition": "1. a vigorous or determined attempt to do something; energy used to do a task.",
+      "example": [
+        {
+          "eng": "She made a great effort to finish the project on time.",
+          "ch": "她盡了很大努力按時完成了這個專案。"
+        }
+      ]
+    },
+    {
+      "eng": "elder",
+      "kk": "ˋɛldɚ",
+      "tense": "adj.",
+      "ch": [
+        [
+          "年長的",
+          "資深的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自古英語 ieldra（old 的比較級形式）。analysis 說明其歷史字源與比較級身份。語意專門用於指家族中成員的年長者或組織中的資深者。",
+      "definition": "1. (of a person) older or senior, especially in a family or organization.",
+      "example": [
+        {
+          "eng": "Her elder sister is a doctor.",
+          "ch": "她的姐姐是一位醫生。"
+        }
+      ]
+    },
+    {
+      "eng": "electric",
+      "kk": "ɪˋlɛktrɪk",
+      "tense": "adj.",
+      "ch": [
+        [
+          "電的",
+          "用電的",
+          "電動的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自新拉丁語 electricus（琥珀的），根源於希臘語 ἤλεκτρον（elektron，琥珀），因琥珀摩擦能產生靜電而命名。analysis 說明其希臘語源與歷史演變。語意指由電產生、導電或使用電力的。",
+      "definition": "1. relating to, operated by, or producing electricity.",
+      "example": [
+        {
+          "eng": "They decided to buy an electric car.",
+          "ch": "他們決定買一輛電動車。"
+        }
+      ]
+    },
+    {
+      "eng": "electrical",
+      "kk": "ɪˋlɛktrɪkəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "與電有關的",
+          "電氣的"
+        ]
+      ],
+      "analysis": "此字為形容詞，由 electric 加上形容詞字尾 -al 構成。analysis 說明其現代構詞。語意泛指任何與電學原理、設備或工程相關的範疇。",
+      "definition": "1. concerned with, operating by, or producing electricity; connected with electricity.",
+      "example": [
+        {
+          "eng": "The house has some electrical problems that need fixing.",
+          "ch": "這棟房子有些需要修理的電氣問題。"
+        }
+      ]
+    },
+    {
+      "eng": "emotion",
+      "kk": "ɪˋmoʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "情感",
+          "情緒",
+          "激情"
+        ]
+      ],
+      "analysis": "此字為名詞，源自拉丁語 ēmōtiō（移動、激動），由 ēmoveō（移開、使動搖）衍生。analysis 說明其拉丁詞源。語意從身體的移動延伸至心理的「情緒波動、情感」。",
+      "definition": "1. a strong feeling such as joy, sadness, fear, or anger, distinct from reasoning or knowledge.",
+      "example": [
+        {
+          "eng": "She was overcome with emotion when she heard the news.",
+          "ch": "聽到這個消息時，她情緒激動不已。"
+        }
+      ]
+    },
+    {
+      "eng": "emphasize",
+      "kk": "ˋɛmfə͵saɪz",
+      "tense": "vt.",
+      "ch": [
+        [
+          "強調",
+          "著重",
+          "加強語氣"
+        ]
+      ],
+      "analysis": "此字為及物動詞，由希臘語 emphasis（顯示、強調）加上動詞字尾 -ize 構成。analysis 說明其希臘字源與構詞。語意指在說話或寫作中特別注重、強調某事的重要性。",
+      "definition": "1. to give special importance or prominence to something in speaking or writing.",
+      "example": [
+        {
+          "eng": "The teacher emphasized the importance of regular practice.",
+          "ch": "老師強調了規律練習的重要性。"
+        }
+      ]
+    },
+    {
+      "eng": "employ",
+      "kk": "ɪmˋplɔɪ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "僱用",
+          "使用",
+          "運用"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自古法語 emploier，最終源自拉丁語 implicāre（捲入、涉及）。analysis 說明其拉丁詞源與法語媒介。語意從「使人參與、投入」演變成「僱用人員」或「使用方法、工具」。",
+      "definition": "1. to pay someone to work for you; to give someone a job.; 2. to make use of something, such as a method or tool.",
+      "example": [
+        {
+          "eng": "The company plans to employ more workers this year.",
+          "ch": "公司計劃今年僱用更多工人。"
+        },
+        {
+          "eng": "You should employ effective strategies to solve the problem.",
+          "ch": "你應該運用有效的策略來解決這個問題。"
+        }
+      ]
+    },
+    {
+      "eng": "employment",
+      "kk": "ɪmˋplɔɪmənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "僱用",
+          "就業",
+          "工作"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 employ 加上名詞字尾 -ment 構成。analysis 說明其現代透明構詞。語意指被僱用的狀態、就業機會或所從事的工作。",
+      "definition": "1. the state of having paid work; the action of giving work to someone.",
+      "example": [
+        {
+          "eng": "Finding employment can be difficult in a weak economy.",
+          "ch": "在經濟不景氣時，找工作可能會很困難。"
+        }
+      ]
+    },
+    {
+      "eng": "employee",
+      "kk": "ˌɛmplɔɪˋi",
+      "tense": "n.",
+      "ch": [
+        [
+          "員工",
+          "受僱者"
+        ]
+      ],
+      "analysis": "此字為名詞，源自法語 employé（受僱者），帶有表示受動者的字尾 -ee。analysis 說明其法語來源與構詞。語意指受雇主僱用並支薪的工作人員。",
+      "definition": "1. a person who is hired to work for another person or for a business for pay.",
+      "example": [
+        {
+          "eng": "All employees must attend the safety training session.",
+          "ch": "所有員工都必須參加安全培訓課程。"
+        }
+      ]
+    },
+    {
+      "eng": "employer",
+      "kk": "ɪmˋplɔɪɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "僱主",
+          "老闆"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 employ 加上表示人的字尾 -er 構成。analysis 說明其現代透明構詞。語意指提供工作並支付薪資給員工的人或公司。",
+      "definition": "1. a person or company that pays people to work for them.",
+      "example": [
+        {
+          "eng": "He is a fair and generous employer.",
+          "ch": "他是一位公平且慷慨的老闆。"
+        }
+      ]
+    },
+    {
+      "eng": "empty",
+      "kk": "ˋɛmptɪ",
+      "tense": "adj.",
+      "ch": [
+        [
+          "空的",
+          "空洞的",
+          "無人的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自古英語 ǣmetti（有空閒的、未被佔用的），與 æmetta（閒暇）相關。analysis 說明其歷史演變。語意從「未被佔用的」演變為容器或空間中「沒有東西的」。",
+      "definition": "1. containing nothing; not filled or occupied.",
+      "example": [
+        {
+          "eng": "The bottle was completely empty after the party.",
+          "ch": "派對結束後，瓶子完全空了。"
+        }
+      ]
+    },
+    {
+      "eng": "encourage",
+      "kk": "ɪnˋkɝɪdʒ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "鼓勵",
+          "促使",
+          "支持"
+        ]
+      ],
+      "analysis": "此字為及物動詞，由前綴 en-（使成為）加名詞 courage（勇氣）構成，經中古法語 encoragier 進入英語。analysis 說明其構詞與法語媒介。語意指賦予某人勇氣或信心，或推進、促使某事的發生。",
+      "definition": "1. to give support, confidence, or hope to someone; to stimulate or urge on.",
+      "example": [
+        {
+          "eng": "Her parents always encouraged her to pursue her dreams.",
+          "ch": "她的父母總是鼓勵她追求自己的夢想。"
+        }
+      ]
+    },
+    {
+      "eng": "encouragement",
+      "kk": "ɪnˋkɝɪdʒmənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "鼓勵",
+          "支持",
+          "獎勵"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 encourage 加上名詞字尾 -ment 構成。analysis 說明其現代透明構詞。語意指給予他人勇氣、支持或激勵的言語或行為。",
+      "definition": "1. the act of giving someone support, confidence, or hope; something that promotes or encourages.",
+      "example": [
+        {
+          "eng": "She gave me a lot of encouragement during difficult times.",
+          "ch": "在艱難的時期，她給了我很大的鼓勵。"
+        }
+      ]
+    },
+    {
+      "eng": "ending",
+      "kk": "ˋɛndɪŋ",
+      "tense": "n.",
+      "ch": [
+        [
+          "結尾",
+          "結局",
+          "詞尾"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 end 加上動名詞／分詞字尾 -ing 構成。analysis 說明其現代構詞。語意指故事、電影、文章的結尾，或語言學中的字尾變化。",
+      "definition": "1. the final part of a story, movie, or period of time; the last part of a word.",
+      "example": [
+        {
+          "eng": "The movie had a very happy ending.",
+          "ch": "這部電影有一個非常快樂的結局。"
+        }
+      ]
+    },
+    {
+      "eng": "enemy",
+      "kk": "ˋɛnəmɪ",
+      "tense": "n.",
+      "ch": [
+        [
+          "敵人",
+          "仇敵",
+          "有害之物"
+        ]
+      ],
+      "analysis": "此字為名詞，源自拉丁語 inimīcus（in- 不 + amīcus 朋友），經古法語 enemi 傳入英語。analysis 說明其拉丁詞源與法語媒介。語意指與他人為敵、對抗或對健康有害的事物。",
+      "definition": "1. a person who is actively opposed or hostile to someone or something; a foe.",
+      "example": [
+        {
+          "eng": "Ignorance is the greatest enemy of progress.",
+          "ch": "無知是進步最大的敵人。"
+        }
+      ]
+    },
+    {
+      "eng": "energy",
+      "kk": "ˋɛnɚdʒɪ",
+      "tense": "n.",
+      "ch": [
+        [
+          "能量",
+          "活力",
+          "精力"
+        ]
+      ],
+      "analysis": "此字為名詞，源自希臘語 ἐνέργεια（energeia，活動、行動），由 ἐν（en- 在內）加上 ἔργον（ergon，工作）構成。analysis 說明其希臘語源與構詞。語意從「工作能力、內在活動」演變為物理上的「能量」及人類的「精力」。",
+      "definition": "1. the strength and vitality required for sustained physical or mental activity.; 2. usable power that comes from physical or chemical resources.",
+      "example": [
+        {
+          "eng": "He lacks the energy to clean the house today.",
+          "ch": "他今天缺乏打掃房子的精力。"
+        },
+        {
+          "eng": "Solar energy is a clean and renewable power source.",
+          "ch": "太陽能是一種清潔且可再生的能源。"
+        }
+      ]
+    },
+    {
+      "eng": "engine",
+      "kk": "ˋɛndʒɪn",
+      "tense": "n.",
+      "ch": [
+        [
+          "引擎",
+          "發動機",
+          "火車頭"
+        ]
+      ],
+      "analysis": "此字為名詞，源自拉丁語 ingenium（天賦、技巧、機械發明），經古法語 engin 傳入英語。analysis 說明其拉丁詞源與法語媒介。語意從古代的「巧妙發明、機械裝置」演變為現代專指產生動力的「引擎」或「火車頭」。",
+      "definition": "1. a machine with moving parts that converts power into motion; a motor.",
+      "example": [
+        {
+          "eng": "The mechanic checked the car engine carefully.",
+          "ch": "技工仔細檢查了汽車引擎。"
+        }
+      ]
+    },
+    {
+      "eng": "entire",
+      "kk": "ɪnˋtaɪr",
+      "tense": "adj.",
+      "ch": [
+        [
+          "整個的",
+          "全部的",
+          "完整的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自拉丁語 integer（完整無缺的），經古法語 entier 傳入英語。analysis 說明其拉丁詞源與法語媒介。語意指沒有任何部分被省略或破壞的「整個、全部」。",
+      "definition": "1. with no part left out; whole; complete.",
+      "example": [
+        {
+          "eng": "She spent the entire afternoon reading a novel.",
+          "ch": "她花了整個下午的時間讀小說。"
+        }
+      ]
+    },
+    {
+      "eng": "entrance",
+      "kk": "ˋɛntrəns",
+      "tense": "n.",
+      "ch": [
+        [
+          "入口",
+          "進入",
+          "登場"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古法語 entrance，由動詞 entrer（進入）衍生。analysis 說明其法語來源。語意指進入建築物、場所的通道或入口，亦可指人的登場。注意：當作動詞拼法相同但重音在第二音節（在此僅列名詞）。",
+      "definition": "1. a door, gate, or other opening through which you can enter a place.",
+      "example": [
+        {
+          "eng": "We met at the main entrance of the museum.",
+          "ch": "我們在博物館的正門入口處碰面。"
+        }
+      ]
+    },
+    {
+      "eng": "environment",
+      "kk": "ɪnˋvaɪrənmənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "環境",
+          "自然環境",
+          "周圍狀況"
+        ]
+      ],
+      "analysis": "此字為名詞，由法語 environ（四周）加上名詞字尾 -ment 構成。analysis 說明其法語來源與構詞。語意指生物所處的周遭狀況或地球的自然生態環境。",
+      "definition": "1. the surroundings or conditions in which a person, animal, or plant lives or operates.",
+      "example": [
+        {
+          "eng": "We must do more to protect the natural environment.",
+          "ch": "我們必須採取更多行動來保護自然環境。"
+        }
+      ]
+    },
+    {
+      "eng": "environmental",
+      "kk": "ɪn͵vaɪrənˋmɛntəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "環境的",
+          "有關環境保護的"
+        ]
+      ],
+      "analysis": "此字為形容詞，由名詞 environment 加上形容詞字尾 -al 構成。analysis 說明其現代透明構詞。語意指與自然環境或環境保護相關的。",
+      "definition": "1. relating to the natural world and the impact of human activity on its condition.",
+      "example": [
+        {
+          "eng": "Air pollution is a major environmental concern in big cities.",
+          "ch": "空氣污染是大城市中主要的環境問題。"
+        }
+      ]
+    },
+    {
+      "eng": "equal",
+      "kk": "ˋikwəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "相等的",
+          "平等的",
+          "勝任的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自拉丁語 aequus（平坦的、相等的）。analysis 說明其拉丁詞源。語意指在數量、大小、價值或權利上相同的或平等的。",
+      "definition": "1. being the same in quantity, size, degree, or value.; 2. having the same rights, status, and opportunities.",
+      "example": [
+        {
+          "eng": "Both boxes are of equal weight.",
+          "ch": "兩個箱子的重量相等。"
+        },
+        {
+          "eng": "Everyone should have equal rights under the law.",
+          "ch": "法律之下每個人都應該享有平等的權利。"
+        }
+      ]
+    },
+    {
+      "eng": "escape",
+      "kk": "ɪˋskep",
+      "tense": "vi.",
+      "ch": [
+        [
+          "逃跑",
+          "逃脫",
+          "洩漏"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，源自古法語 escaper，最終源自通俗拉丁語 *excapāre（脫離披風，即金蟬脫殼）。analysis 說明其歷史來源與拉丁語根基。語意指從限制、監禁或危險中逃離，亦可指氣體或液體洩漏。",
+      "definition": "1. to break free from confinement or control; to get away.; 2. (of gas, liquid, etc.) to leak out.",
+      "example": [
+        {
+          "eng": "The prisoners managed to escape from the jail.",
+          "ch": "囚犯們設法從監獄逃脫了。"
+        },
+        {
+          "eng": "We smelled gas escaping from the stove.",
+          "ch": "我們聞到瓦斯從爐子洩漏出來的氣味。"
+        }
+      ]
+    },
+    {
+      "eng": "especially",
+      "kk": "ɪˋspɛʃəlɪ",
+      "tense": "adv.",
+      "ch": [
+        [
+          "尤其",
+          "特別",
+          "格外"
+        ]
+      ],
+      "analysis": "此字為副詞，由形容詞 special 加上副詞字尾 -ly，並在前方加上字首 ex- 形成。analysis 說明其現代透明構詞與基底。語意指在眾多情況中特別突出或格外的部分。",
+      "definition": "1. to a great extent; much more than usual or more than other things.",
+      "example": [
+        {
+          "eng": "I love all kinds of fruit, especially apples.",
+          "ch": "我喜歡各種水果，特別是蘋果。"
+        }
+      ]
+    },
+    {
+      "eng": "essay",
+      "kk": "ˋɛse",
+      "tense": "n.",
+      "ch": [
+        [
+          "散文",
+          "文章",
+          "短評"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古法語 essai（試驗、嘗試），由動詞 essayer 衍生。analysis 說明其歷史來源。語意從最初的「嘗試、試筆」演變成闡述特定觀點的短篇文學作品「散文或論文」。",
+      "definition": "1. a short piece of writing on a particular subject, usually expressing the author's opinion.",
+      "example": [
+        {
+          "eng": "She had to write a thousand-word essay for history class.",
+          "ch": "她必須為歷史課寫一篇千字論文。"
+        }
+      ]
+    },
+    {
+      "eng": "eve",
+      "kk": "iv",
+      "tense": "n.",
+      "ch": [
+        [
+          "前夕",
+          "前夜"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古英語 ǣfen（傍晚、黃昏），為 evening 的截短形式。analysis 說明其古英語來源與縮寫歷史。語意指重大節日或事件發生的前一天或傍晚。",
+      "definition": "1. the day or evening before an event or holiday.",
+      "example": [
+        {
+          "eng": "The streets were crowded on New Year's Eve.",
+          "ch": "元旦前夕的街上擠滿了人。"
+        }
+      ]
+    },
+    {
+      "eng": "event",
+      "kk": "ɪˋvɛnt",
+      "tense": "n.",
+      "ch": [
+        [
+          "事件",
+          "大事",
+          "體育項目"
+        ]
+      ],
+      "analysis": "此字為名詞，源自拉丁語 ēventus（發生、結果），由 ēvenīre（發生、出結果）衍生。analysis 說明其拉丁詞源。語意指發生的事情、重大事件或體育競賽中的項目。",
+      "definition": "1. a thing that happens, especially one of importance.; 2. a planned public or social occasion, or a contest in a sports program.",
+      "example": [
+        {
+          "eng": "The election is a major political event.",
+          "ch": "這場選舉是一項重大的政治事件。"
+        },
+        {
+          "eng": "She won a gold medal in the track event.",
+          "ch": "她在田徑項目中贏得了金牌。"
+        }
+      ]
+    },
+    {
+      "eng": "evil",
+      "kk": "ˋivəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "邪惡的",
+          "有害的",
+          "不幸的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自古英語 yfel（壞的、惡劣的），屬於日耳曼語繼承詞。analysis 說明其歷史來源。語意指道德上邪惡的、壞的或對人有害的。",
+      "definition": "1. profoundly immoral and malevolent; wicked.; 2. harmful or tending to harm.",
+      "example": [
+        {
+          "eng": "The villain in the story committed many evil deeds.",
+          "ch": "故事中的反派作惡多端。"
+        }
+      ]
+    },
+    {
+      "eng": "exact",
+      "kk": "ɪgˋzækt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "確切的",
+          "精確的",
+          "嚴格的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自拉丁語 exactus（精確的、完美的），由 exigo（衡量、查驗）的過去分詞演變而來。analysis 說明其拉丁詞源。語意指毫無偏差、精確或嚴格符合事實的。",
+      "definition": "1. not generalized or approximated; precise and accurate in every detail.",
+      "example": [
+        {
+          "eng": "Can you tell me the exact time of the train's departure?",
+          "ch": "你能告訴我火車出發的確切時間嗎？"
+        }
+      ]
+    },
+    {
+      "eng": "examination",
+      "kk": "ɪg͵zæməˋneʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "考試",
+          "檢查",
+          "審查"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 examine 加上名詞字尾 -ation 構成。analysis 說明其現代透明構詞。語意指對學業進行的測驗（考試）或對身體、事物的仔細檢查與審查。",
+      "definition": "1. a formal test of a person's knowledge or proficiency in a subject.; 2. a detailed inspection or study.",
+      "example": [
+        {
+          "eng": "Students are nervous before the final examination.",
+          "ch": "學生們在期末考前感到緊張。"
+        },
+        {
+          "eng": "The doctor ordered a blood examination for the patient.",
+          "ch": "醫生下令為病人進行血液檢查。"
+        }
+      ]
+    },
+    {
+      "eng": "exam",
+      "kk": "ɪgˋzæm",
+      "tense": "n.",
+      "ch": [
+        [
+          "考試",
+          "測驗"
+        ]
+      ],
+      "analysis": "此字為名詞，是 examination 的口語縮寫形式。analysis 說明其為英語內部的截短詞。語意與 examination 相同，指學校或學術機構的測驗或考試。",
+      "definition": "1. a formal test of a student's knowledge or skills; an examination.",
+      "example": [
+        {
+          "eng": "I have to study hard because tomorrow is my math exam.",
+          "ch": "我必須努力唸書，因為明天是我的數學考試。"
+        }
+      ]
+    },
+    {
+      "eng": "examine",
+      "kk": "ɪgˋzæmɪn",
+      "tense": "vt.",
+      "ch": [
+        [
+          "檢查",
+          "審查",
+          "測驗"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自拉丁語 exāmināre（秤量、檢驗），由 exāmen（天平指針）衍生。analysis 說明其拉丁詞源。語意指仔細觀察、檢查或對某人進行考試與審問。",
+      "definition": "1. to inspect someone or something in detail to determine their nature or condition; to test.",
+      "example": [
+        {
+          "eng": "The doctor examined the patient's throat.",
+          "ch": "醫生檢查了病人的喉嚨。"
+        }
+      ]
+    },
+    {
+      "eng": "excite",
+      "kk": "ɪkˋsaɪt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使興奮",
+          "激動",
+          "引起"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自拉丁語 excitāre（喚醒、激起），由 ex-（出）加 citāre（喚起、驅使）構成。analysis 說明其拉丁詞源與構詞。語意指激起某人的情緒、熱情或引起某種反應。",
+      "definition": "1. to arouse strong feelings of enthusiasm and eagerness in someone; to stir up.",
+      "example": [
+        {
+          "eng": "The exciting news managed to excite the whole crowd.",
+          "ch": "這個令人振奮的消息設法使全場群眾興奮起來。"
+        }
+      ]
+    },
+    {
+      "eng": "excitement",
+      "kk": "ɪkˋsaɪtmənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "興奮",
+          "刺激",
+          "令人興奮的事物"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 excite 加上名詞字尾 -ment 構成。analysis 說明其現代透明構詞。語意指感到興奮的狀態或引起激動情緒的事情。",
+      "definition": "1. the state of feeling enthusiastic and eager; a feeling of great excitement.",
+      "example": [
+        {
+          "eng": "The children could not hide their excitement on Christmas morning.",
+          "ch": "聖誕節早晨，孩子們無法掩飾他們的興奮。"
+        }
+      ]
+    },
+    {
+      "eng": "excuse",
+      "kk": "ɪkˋskjuz",
+      "tense": "vt.",
+      "ch": [
+        [
+          "原諒",
+          "寬恕",
+          "免除"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自拉丁語 excūsāre（免除罪責），由 ex-（離開）加 causa（訴訟、理由）構成。analysis 說明其拉丁詞源與構詞。語意指原諒某人的過失或准許某人免除義務（名詞讀音不同，此處為動詞 row）。",
+      "definition": "1. to forgive someone for a fault or minor offense.; 2. to release someone from a duty or requirement.",
+      "example": [
+        {
+          "eng": "Please excuse me for being late.",
+          "ch": "請原諒我遲到了。"
+        },
+        {
+          "eng": "She was excused from taking the final test due to illness.",
+          "ch": "她因病獲准免考期末考。"
+        }
+      ]
+    },
+    {
+      "eng": "exist",
+      "kk": "ɪgˋzɪst",
+      "tense": "vi.",
+      "ch": [
+        [
+          "存在",
+          "生存",
+          "活著"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，源自拉丁語 existere（站出來、顯現、存在），由 ex-（出）加 sistere（使站立）構成。analysis 說明其拉丁詞源與構詞。語意指在現實中真實存在或維持生命（生存）。",
+      "definition": "1. to have objective reality or being; to live.",
+      "example": [
+        {
+          "eng": "Scientists are trying to figure out if life exists on other planets.",
+          "ch": "科學家們正試圖弄清楚其他行星上是否存在生命。"
+        }
+      ]
+    },
+    {
+      "eng": "existence",
+      "kk": "ɪgˋzɪstəns",
+      "tense": "n.",
+      "ch": [
+        [
+          "存在",
+          "生存",
+          "生活方式"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 exist 轉化的名詞形式，源自拉丁語 exstantia。analysis 說明其歷史來源與構詞。語意指事實上的存在或人類的生存狀態。",
+      "definition": "1. the fact or state of living or having objective reality.",
+      "example": [
+        {
+          "eng": "The philosopher wrote a book about the meaning of human existence.",
+          "ch": "這位哲學家寫了一本關於人類存在意義的書。"
+        }
+      ]
+    },
+    {
+      "eng": "exit",
+      "kk": "ˋɛksɪt",
+      "tense": "n.",
+      "ch": [
+        [
+          "出口",
+          "離去",
+          "退場"
+        ]
+      ],
+      "analysis": "此字為名詞，源自拉丁語 exitus（出去、離開），由 exīre（出去）衍生。analysis 說明其拉丁詞源。語意指建築物或高速公路的出口，或指演員退場、離去。",
+      "definition": "1. a door or way out of a building or room; the act of leaving.",
+      "example": [
+        {
+          "eng": "Look for the nearest emergency exit in case of a fire.",
+          "ch": "若發生火災，請尋找最近的緊急出口。"
+        }
+      ]
+    },
+    {
+      "eng": "expense",
+      "kk": "ɪkˋspɛns",
+      "tense": "n.",
+      "ch": [
+        [
+          "費用",
+          "支出",
+          "代價"
+        ]
+      ],
+      "analysis": "此字為名詞，源自拉丁語 expensa（付出的金錢），由 expendere（支出、付錢）的過去分詞演變而來。analysis 說明其拉丁詞源。語意指花費出去的金錢（費用）或付出的代價。",
+      "definition": "1. the cost required for something; the money spent on something.",
+      "example": [
+        {
+          "eng": "Traveling abroad involves a lot of expense.",
+          "ch": "出國旅遊需要花費許多費用。"
+        }
+      ]
+    },
+    {
+      "eng": "expert",
+      "kk": "ˋɛkspɚt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "專家的",
+          "內行的",
+          "熟練的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自拉丁語 expertus（經試驗證明的、有經驗的），由 experīri（嘗試、檢驗）衍生。analysis 說明其拉丁詞源。語意指在某領域具有豐富經驗或專業技能的（亦可作名詞，此處為形容詞 row）。",
+      "definition": "1. having or showing a special skill or knowledge in a particular field.",
+      "example": [
+        {
+          "eng": "She gave me some expert advice on gardening.",
+          "ch": "她給了我一些關於園藝的專家建議。"
+        }
+      ]
+    },
+    {
+      "eng": "express",
+      "kk": "ɪkˋsprɛs",
+      "tense": "vt.",
+      "ch": [
+        [
+          "表達",
+          "表示",
+          "快遞"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自拉丁語 expressus（清晰的、明確的），由 exprimere（擠出、表達）衍生。analysis 說明其拉丁詞源。語意從「壓榨、擠出汁液」演變成透過言語或行動「表達情感或想法」，亦可指快遞寄送。",
+      "definition": "1. to convey a thought or feeling in words or by gestures and conduct.; 2. to send something by a fast delivery service.",
+      "example": [
+        {
+          "eng": "It is hard to express my gratitude in words.",
+          "ch": "很難用言語表達我的感激之情。"
+        },
+        {
+          "eng": "I need to express this document to the head office today.",
+          "ch": "我今天需要把這份文件快遞到總公司。"
+        }
+      ]
+    },
+    {
+      "eng": "expression",
+      "kk": "ɪkˋsprɛʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "表情",
+          "表達",
+          "詞句"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 express 加上名詞字尾 -ion 構成。analysis 說明其現代透明構詞。語意指面部表情、情感或思想的表達方式，或是語言中的慣用語、詞句。",
+      "definition": "1. the look on someone's face that conveys a particular emotion.; 2. the process of making known one's thoughts or feelings; a word or phrase.",
+      "example": [
+        {
+          "eng": "There was a sad expression on her face.",
+          "ch": "她臉上帶著悲傷的表情。"
+        },
+        {
+          "eng": "That is a common English expression used in daily conversation.",
+          "ch": "那是日常對話中常用的英語慣用語。"
+        }
+      ]
+    },
+    {
+      "eng": "extra",
+      "kk": "ˋɛkstrə",
+      "tense": "adj.",
+      "ch": [
+        [
+          "額外的",
+          "附加的",
+          "特大的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自拉丁語 extra（在外面、額外的），為 exter（外面的）的對格形式。analysis 說明其拉丁詞源。語意指在原有或預期數量之外多出來的額外部分。",
+      "definition": "1. added to an existing or usual amount or number; more than usual.",
+      "example": [
+        {
+          "eng": "I need to work extra hours this week to finish the task.",
+          "ch": "我這週需要加班幾個額外的小時來完成任務。"
+        }
+      ]
+    }
+  ]
+}

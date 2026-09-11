@@ -1,0 +1,1647 @@
+{
+  "level": 2,
+  "chunkIndex": 18,
+  "inputs": [
+    "social",
+    "society",
+    "sock",
+    "socks",
+    "soda",
+    "soft",
+    "soil",
+    "solution",
+    "solve",
+    "somewhat",
+    "sort",
+    "soul",
+    "sour",
+    "source",
+    "southern",
+    "soybean",
+    "speaker",
+    "speech",
+    "speed",
+    "spelling",
+    "spider",
+    "spirit",
+    "spoon",
+    "sport",
+    "spot",
+    "spread",
+    "stage",
+    "stamp",
+    "standard",
+    "state",
+    "statement",
+    "steak",
+    "steel",
+    "step",
+    "stick",
+    "stomachache",
+    "stone",
+    "storm",
+    "stranger",
+    "strawberry",
+    "stream",
+    "stress",
+    "stretch",
+    "strict",
+    "strike",
+    "struggle",
+    "style",
+    "subway",
+    "underground",
+    "metro"
+  ],
+  "rows": [
+    {
+      "eng": "social",
+      "kk": "ˈsoʊʃəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "社交聚會",
+          "聯歡會"
+        ]
+      ],
+      "analysis": "此字由形容詞 social 經由零轉品（zero-conversion）成為名詞，指團體或組織所舉辦的社交聚會或聯歡活動，常見於美式英語中。",
+      "definition": "1. a social gathering or party held by a club or organization.",
+      "example": [
+        {
+          "eng": "The church is holding a welcome social for new members.",
+          "ch": "教會正為新成員舉辦歡迎聯歡會。"
+        }
+      ]
+    },
+    {
+      "eng": "social",
+      "kk": "ˈsoʊʃəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "社會的",
+          "群體的"
+        ],
+        [
+          "社交的",
+          "交際的"
+        ],
+        [
+          "群居的",
+          "性喜交際的"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由名詞 base soci(o)-（源自拉丁語 socius「夥伴、同伴」）加上形容詞字尾 -al 構成。歷史上源自拉丁語 socialis，經由中古法語進入英語。語意從「同伴的」演變為「社會的、群體生活的」，進而延伸出「社交的」與動物「群居的」等用法。",
+      "definition": "1. relating to human society and its organization; 2. relating to activities in which people meet for pleasure; 3. (of animals) living in communities or groups.",
+      "example": [
+        {
+          "eng": "Poverty is a major social problem in many countries.",
+          "ch": "貧窮是許多國家的一大社會問題。"
+        },
+        {
+          "eng": "She has a busy social life with many friends.",
+          "ch": "她有著朋友眾多的忙碌社交生活。"
+        },
+        {
+          "eng": "Bees are social insects that live in colonies.",
+          "ch": "蜜蜂是群居昆蟲，以群落形式生活。"
+        }
+      ]
+    },
+    {
+      "eng": "society",
+      "kk": "səˈsaɪəti",
+      "tense": "n.",
+      "ch": [
+        [
+          "社會",
+          "群體"
+        ],
+        [
+          "社團",
+          "協會"
+        ],
+        [
+          "上流社會",
+          "社交界"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 societas（意為「同伴關係、聯盟、社會」），由 socius（夥伴）加上抽象名詞字尾 -itas 演變而來，經由古法語 societe 進入英語。語意從最初的「結伴、夥伴關係」擴大為「群居的人類社會」，並延伸出「學會、社團」以及專指富裕階層的「上流社會」。",
+      "definition": "1. the aggregate of people living together in a more or less ordered community; 2. an organization or club formed for a particular purpose or activity; 3. the wealthy and fashionable upper class.",
+      "example": [
+        {
+          "eng": "Technology plays an important role in modern society.",
+          "ch": "科技在現代社會中扮演著重要角色。"
+        },
+        {
+          "eng": "She is a member of the historical society.",
+          "ch": "她是歷史學會的成員。"
+        },
+        {
+          "eng": "He grew up in high society.",
+          "ch": "他在上流社會中長大。"
+        }
+      ]
+    },
+    {
+      "eng": "sock",
+      "kk": "sɑk",
+      "tense": "n.",
+      "ch": [
+        [
+          "短襪",
+          "襪子"
+        ]
+      ],
+      "analysis": "此字為日耳曼語繼承詞，源自古英語 socc（意為「輕便軟鞋、拖鞋」），其更早可追溯至拉丁語 soccus（古羅馬喜劇演員穿的輕便軟鞋）。在歷史演變中，其義從古羅馬的輕便鞋逐漸轉化為現代包覆腳部的短襪。",
+      "definition": "1. a garment for the foot and lower part of the leg, typically knitted from wool, cotton, or nylon.",
+      "example": [
+        {
+          "eng": "He put on a pair of clean white socks.",
+          "ch": "他穿上一雙乾淨的白襪子。"
+        }
+      ]
+    },
+    {
+      "eng": "socks",
+      "kk": "sɑks",
+      "tense": "n.",
+      "ch": [
+        [
+          "襪子",
+          "短襪"
+        ]
+      ],
+      "analysis": "此字為名詞 sock 的複數形式，保留輸入表面詞形。指兩隻或多隻包覆腳部的短襪，通常成對使用。",
+      "definition": "1. plural form of sock; garments worn on the feet.",
+      "example": [
+        {
+          "eng": "Where did you put my woolen socks?",
+          "ch": "你把我的羊毛襪子放到哪裡去了？"
+        }
+      ]
+    },
+    {
+      "eng": "soda",
+      "kk": "ˈsoʊdə",
+      "tense": "n.",
+      "ch": [
+        [
+          "蘇打水",
+          "汽水"
+        ],
+        [
+          "碳酸鈉",
+          "鹼"
+        ]
+      ],
+      "analysis": "此字源自中世紀拉丁語 soda 或義大利語 soda（原指從海藻灰中提取的鹼分），後來經由化學發展指稱碳酸鈉，並進一步在美式英語中引申為加了碳酸氣泡的甜味汽水或蘇打水。",
+      "definition": "1. a carbonated sweet non-alcoholic drink; 2. a sodium compound or carbonate.",
+      "example": [
+        {
+          "eng": "Would you like a glass of soda with your meal?",
+          "ch": "你用餐時想要來杯汽水嗎？"
+        },
+        {
+          "eng": "Washing soda is commonly used in cleaning.",
+          "ch": "洗滌鹼常用於清潔。"
+        }
+      ]
+    },
+    {
+      "eng": "soft",
+      "kk": "sɔft",
+      "tense": "adj.",
+      "ch": [
+        [
+          "軟的",
+          "柔軟的"
+        ],
+        [
+          "柔和的",
+          "溫和的"
+        ],
+        [
+          "不堅固的",
+          "弱的"
+        ]
+      ],
+      "analysis": "此字為日耳曼語繼承詞，源自古英語 sōfte（意為「溫和的、舒適的、柔軟的」），源自原始日耳曼語 *samftijaz。歷史語意從「溫順、舒適、不費力的」逐漸擴展並固定為觸感上的「柔軟」、光線或聲音的「柔和」，以及性質上的「軟弱或不強硬」。",
+      "definition": "1. easy to press, bend, or cut; not hard; 2. pleasing to the eye, ear, or touch; not glaring or loud; 3. lacking strength, firmness, or harshness.",
+      "example": [
+        {
+          "eng": "This bed has a very soft mattress.",
+          "ch": "這張床有一個非常柔軟的床墊。"
+        },
+        {
+          "eng": "The room was lit by soft yellow light.",
+          "ch": "房間裡亮著柔和的黃光。"
+        },
+        {
+          "eng": "Water is soft compared to stone.",
+          "ch": "與石頭相比，水是柔軟的。"
+        }
+      ]
+    },
+    {
+      "eng": "soil",
+      "kk": "sɔɪl",
+      "tense": "n.",
+      "ch": [
+        [
+          "土壤",
+          "泥土"
+        ],
+        [
+          "國土",
+          "領土"
+        ]
+      ],
+      "analysis": "此字源自古法語 soil、suil（意為「地面、底土」），最終可追溯至拉丁語 solum（意為「地基、土地、地面」）。歷史演變保留了表層泥土之義，並在文學或正式用法中延伸為祖國或國土。",
+      "definition": "1. the upper layer of earth in which plants grow; 2. a country or land.",
+      "example": [
+        {
+          "eng": "The soil in this valley is very fertile.",
+          "ch": "這個山谷裡的土壤非常肥沃。"
+        },
+        {
+          "eng": "He was glad to return to his native soil.",
+          "ch": "他很高興能回到自己的祖國。"
+        }
+      ]
+    },
+    {
+      "eng": "soil",
+      "kk": "sɔɪl",
+      "tense": "vt.",
+      "ch": [
+        [
+          "弄髒",
+          "汙染"
+        ]
+      ],
+      "analysis": "此動詞源自古法語 souiller（意為「弄髒、汙染」），與名詞 soil 歷史上同源於拉丁語 solum（原本意指在地上踩踏弄髒）。現代標準英語中用作及物動詞，指弄髒衣物或表面。",
+      "definition": "1. to make dirty or stained.",
+      "example": [
+        {
+          "eng": "He accidentally soiled his white shirt with ink.",
+          "ch": "他不小心用墨水弄髒了他的白襯衫。"
+        }
+      ]
+    },
+    {
+      "eng": "solution",
+      "kk": "səˈluʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "解決辦法",
+          "答案"
+        ],
+        [
+          "溶液"
+        ]
+      ],
+      "analysis": "此字由動詞 solve 加上名詞字尾 -ion 構成（源自拉丁語 solutio，由 solutus 派生而來）。語意從本義「解開、鬆開、溶解」引申出化學上的「溶液」，並廣泛應用於抽象層面的「問題的解答或解決方案」。",
+      "definition": "1. a means of solving a problem or dealing with a difficult situation; 2. a liquid mixture in which the minor component is uniformly distributed within the major component.",
+      "example": [
+        {
+          "eng": "We need to find a permanent solution to this problem.",
+          "ch": "我們需要為這個問題找到一個永久的解決辦法。"
+        },
+        {
+          "eng": "Dissolve the salt in water to make a saline solution.",
+          "ch": "把鹽溶解在水中以製成鹽溶液。"
+        }
+      ]
+    },
+    {
+      "eng": "solve",
+      "kk": "sɑlv",
+      "tense": "vt.",
+      "ch": [
+        [
+          "解決",
+          "解答"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 solvere（意為「鬆開、解開、解構」），由字首 se-（分開）加上 luere（洗、解）構成。經由歷史演變，從實體的「解開繩索」抽象化為「解答謎題」或「解決困難」。",
+      "definition": "1. to find an answer to, explanation for, or means of dealing with a problem or mystery.",
+      "example": [
+        {
+          "eng": "Detectives are still trying to solve the mystery.",
+          "ch": "偵探們仍在努力解開這個謎團。"
+        }
+      ]
+    },
+    {
+      "eng": "somewhat",
+      "kk": "ˈsʌmˌhwʌt",
+      "tense": "adv.",
+      "ch": [
+        [
+          "稍微",
+          "有點",
+          "幾分"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由代名詞 some（一些）與代名詞／副詞 what（什麼、某種程度）複合而成。在英語中穩定 grammaticalized 為程度副詞，表示程度不高但確實存在的「有點、稍微」。",
+      "definition": "1. to a moderate extent or degree; rather.",
+      "example": [
+        {
+          "eng": "The weather today is somewhat cooler than yesterday.",
+          "ch": "今天的天氣比昨天稍微涼爽一些。"
+        }
+      ]
+    },
+    {
+      "eng": "sort",
+      "kk": "sɔrt",
+      "tense": "n.",
+      "ch": [
+        [
+          "種類",
+          "類別"
+        ],
+        [
+          "性格",
+          "品性"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 sors（意為「命運、籤、份額、類別」），經由古法語 sorte 進入英語。語意從古代抽籤決定的「份額、組別」演變為現代分類學上的「種類」，亦可指人的「品性或類型」。",
+      "definition": "1. a category of things or people having common features; 2. a person's character or nature.",
+      "example": [
+        {
+          "eng": "What sort of music do you like listening to?",
+          "ch": "你喜歡聽哪種類型的音樂？"
+        },
+        {
+          "eng": "He is a good sort at heart.",
+          "ch": "他本質上是個好人。"
+        }
+      ]
+    },
+    {
+      "eng": "sort",
+      "kk": "sɔrt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "分類",
+          "整理"
+        ]
+      ],
+      "analysis": "此動詞由名詞 sort 轉化而來（源自拉丁語 sortiri「抽籤、分配、分類」）。在現代英語中作為及物動詞，表示將物品按種類或性質進行分門別類或清理整理。",
+      "definition": "1. to arrange things in sets or according to type, class, or quality.",
+      "example": [
+        {
+          "eng": "She spent the afternoon sorting the old letters.",
+          "ch": "她花了一下午整理舊信件。"
+        }
+      ]
+    },
+    {
+      "eng": "soul",
+      "kk": "soʊl",
+      "tense": "n.",
+      "ch": [
+        [
+          "靈魂",
+          "心靈"
+        ],
+        [
+          "人",
+          "個體"
+        ]
+      ],
+      "analysis": "此字為日耳曼語繼承詞，源自古英語 sāwol（意為「靈魂、生命力」），對應至原始日耳曼語 *saiwalō。歷史上主要指宗教與哲學概念中的精神或靈魂，並可延伸引申為泛指任何「一個人」或個體。",
+      "definition": "1. the spiritual or immaterial part of a human being; 2. a person.",
+      "example": [
+        {
+          "eng": "She believes that the soul lives on after death.",
+          "ch": "她相信靈魂在死後依然存在。"
+        },
+        {
+          "eng": "There was not a soul on the street during the storm.",
+          "ch": "暴風雨期間街上連一個人影都沒有。"
+        }
+      ]
+    },
+    {
+      "eng": "sour",
+      "kk": "ˈsaʊər",
+      "tense": "adj.",
+      "ch": [
+        [
+          "酸的",
+          "酸味的"
+        ],
+        [
+          "脾氣暴躁的",
+          "嚴厲不悅的"
+        ]
+      ],
+      "analysis": "此字為日耳曼語繼承詞，源自古英語 sūr（意為「酸的」），對應至原始日耳曼語 *sura-。基本義指味覺上的酸味，引申指人「酸溜溜、脾氣壞或不滿」的態度。",
+      "definition": "1. having an acid taste like lemon or vinegar; 2. sullen, grumpy, or showing bitter displeasure.",
+      "example": [
+        {
+          "eng": "This lemon is very sour.",
+          "ch": "這個檸檬非常酸。"
+        },
+        {
+          "eng": "He gave me a sour look when I interrupted him.",
+          "ch": "我打斷他時，他給了我一個沒好氣的眼神。"
+        }
+      ]
+    },
+    {
+      "eng": "source",
+      "kk": "sɔrs",
+      "tense": "n.",
+      "ch": [
+        [
+          "來源",
+          "出處"
+        ],
+        [
+          "發源地",
+          "源頭"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 surgere（意為「升起、湧出」）的過去分詞形式 *surrecta，經由古法語 sourse（湧泉、源頭）進入英語。本義指河水的「源頭」，引申為資訊或知識的「出處、來源」及原因的根源。",
+      "definition": "1. a place, person, or thing from which something originates or can be obtained; 2. the place where a river begins.",
+      "example": [
+        {
+          "eng": "Internet is a great source of information.",
+          "ch": "網際網路是資訊的一個巨大來源。"
+        },
+        {
+          "eng": "We hiked up to the source of the river.",
+          "ch": "我們健行到了河流的源頭。"
+        }
+      ]
+    },
+    {
+      "eng": "southern",
+      "kk": "ˈsʌðərn",
+      "tense": "adj.",
+      "ch": [
+        [
+          "南方的",
+          "南部的"
+        ]
+      ],
+      "analysis": "此字由名詞 south（南方）加上形容詞字尾 -ern 構成。在古英語中即有 sūðerne 的形式，屬於日耳曼語源的方位形容詞，專門指朝向或位於南方的地理區域。",
+      "definition": "1. situated in or directed toward the south.",
+      "example": [
+        {
+          "eng": "They spent their vacation in southern Italy.",
+          "ch": "他們在義大利南部度過了假期。"
+        }
+      ]
+    },
+    {
+      "eng": "soybean",
+      "kk": "ˈsɔɪˌbin",
+      "tense": "n.",
+      "ch": [
+        [
+          "大豆",
+          "黃豆"
+        ]
+      ],
+      "analysis": "此字為現代複合詞，由 soybean 的前半部 soy（源自日本漢字「醬油」的日語借詞 shōyu，經由荷蘭語引入西方）加上 bean（豆子）結合而成。指廣泛種植的大豆或黃豆。",
+      "definition": "1. the edible seed of the soybean plant, widely used for food and oil.",
+      "example": [
+        {
+          "eng": "Soybeans are rich in protein and are used to make tofu.",
+          "ch": "黃豆富含蛋白質，可用來製作豆腐。"
+        }
+      ]
+    },
+    {
+      "eng": "speaker",
+      "kk": "ˈspikər",
+      "tense": "n.",
+      "ch": [
+        [
+          "演講者",
+          "發言人"
+        ],
+        [
+          "揚聲器",
+          "喇叭"
+        ]
+      ],
+      "analysis": "此字由動詞 speak（說話）加上名詞字尾 -er 構成，表示「進行說話動作的人或物」。除了指發表言論的「演講者、發言人」外，在科技時代也引申指將電信號轉換成聲音的「揚聲器、喇叭」。",
+      "definition": "1. a person who makes a speech or speaks a particular language; 2. an apparatus that converts electrical signals into sound.",
+      "example": [
+        {
+          "eng": "The guest speaker gave an inspiring presentation.",
+          "ch": "客座演講者發表了一場鼓舞人心的演說。"
+        },
+        {
+          "eng": "Please connect the Bluetooth speaker to your phone.",
+          "ch": "請將藍牙喇叭連接到你的手機。"
+        }
+      ]
+    },
+    {
+      "eng": "speech",
+      "kk": "spitʃ",
+      "tense": "n.",
+      "ch": [
+        [
+          "演說",
+          "發言"
+        ],
+        [
+          "說話能力",
+          "言談風格"
+        ]
+      ],
+      "analysis": "此字為日耳曼語繼承詞，源自古英語 spǣc（意為「言語、說話」），由動詞 speak 的詞幹派生而來。歷史語意從抽象的「說話行為」演變為正式的「公開演講」以及個人的「語言能力或口音風格」。",
+      "definition": "1. a formal address or discourse delivered to an audience; 2. the expression of or the ability to express thoughts and feelings by articulate sounds.",
+      "example": [
+        {
+          "eng": "The president gave a televised speech last night.",
+          "ch": "總統昨晚發表了電視演說。"
+        },
+        {
+          "eng": "Speech is a unique characteristic of human beings.",
+          "ch": "語言能力是人類獨有的特徵。"
+        }
+      ]
+    },
+    {
+      "eng": "speed",
+      "kk": "spid",
+      "tense": "n.",
+      "ch": [
+        [
+          "速度",
+          "快速"
+        ]
+      ],
+      "analysis": "此字為日耳曼語繼承詞，源自古英語 spēd（意為「成功、繁榮、迅速」），對應至原始日耳曼語 *spōdiz。歷史上從「進展順利、成功」逐漸語義收窄並固定為物理或動作上的「速度、快速」。",
+      "definition": "1. the rate at which someone or something is able to move or operate.",
+      "example": [
+        {
+          "eng": "The car was traveling at a high speed on the highway.",
+          "ch": "這輛車在高速公路上以極高的速度行駛。"
+        }
+      ]
+    },
+    {
+      "eng": "speed",
+      "kk": "spid",
+      "tense": "vi.",
+      "ch": [
+        [
+          "加速",
+          "超速行駛"
+        ]
+      ],
+      "analysis": "此動詞源自古英語 spēdan（意為「成功、繁盛、迅速前進」），由名詞 spēd 派生而來。現代標準英語中主要指車輛「超速行駛」或事物「快速前進、加速」。",
+      "definition": "1. to move quickly, or to drive a vehicle faster than the legal speed limit.",
+      "example": [
+        {
+          "eng": "He was fined by the police for speeding.",
+          "ch": "他因為超速而被警察開罰單。"
+        }
+      ]
+    },
+    {
+      "eng": "spelling",
+      "kk": "ˈspɛlɪŋ",
+      "tense": "n.",
+      "ch": [
+        [
+          "拼字",
+          "拼寫"
+        ]
+      ],
+      "analysis": "此字由動詞 spell（拼字）加上動名詞字尾 -ing 構成。在英語中指將字母按正確順序組合以構成單字的規則、能力或結果。",
+      "definition": "1. the process or activity of writing or naming the letters of a word.",
+      "example": [
+        {
+          "eng": "Check your spelling and grammar before submitting the essay.",
+          "ch": "繳交論文前請檢查你的拼字和文法。"
+        }
+      ]
+    },
+    {
+      "eng": "spider",
+      "kk": "ˈspaɪdər",
+      "tense": "n.",
+      "ch": [
+        [
+          "蜘蛛"
+        ]
+      ],
+      "analysis": "此字為日耳曼語繼承詞，源自古英語 spīþra（意為「蜘蛛」），其字源字根與動詞 spin（紡織、旋轉）有關，字面意思是「會紡絲的昆蟲或節肢動物」。",
+      "definition": "1. an eight-legged predatory arachnid that often weaves a web to catch prey.",
+      "example": [
+        {
+          "eng": "A spider was spinning a web in the corner of the room.",
+          "ch": "一隻蜘蛛正在房間角落結網。"
+        }
+      ]
+    },
+    {
+      "eng": "spirit",
+      "kk": "ˈspɪrɪt",
+      "tense": "n.",
+      "ch": [
+        [
+          "精神",
+          "心靈"
+        ],
+        [
+          "靈魂",
+          "鬼魂"
+        ],
+        [
+          "情緒",
+          "士氣"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 spiritus（意為「呼吸、氣息、靈魂、精神」），由 spirare（呼吸）派生而來，經由古法語 espirit 進入英語。語意從「呼吸」引申為「靈魂、精神面貌」，並可指團體的「士氣」或超自然的「鬼魂」。",
+      "definition": "1. the non-physical part of a person regarded as their true self; 2. a ghost or supernatural being; 3. the morale or general attitude of a group.",
+      "example": [
+        {
+          "eng": "We should keep up our team spirit.",
+          "ch": "我們應該保持團隊精神。"
+        },
+        {
+          "eng": "Some people believe that spirits haunt old houses.",
+          "ch": "有些人相信鬼魂會出沒在老房子裡。"
+        },
+        {
+          "eng": "The holiday spirit filled the town.",
+          "ch": "節日的氣氛充滿了整個城鎮。"
+        }
+      ]
+    },
+    {
+      "eng": "spoon",
+      "kk": "spun",
+      "tense": "n.",
+      "ch": [
+        [
+          "湯匙",
+          "匙"
+        ]
+      ],
+      "analysis": "此字為日耳曼語繼承詞，源自古英語 spōn（意為「木片、木屑、湯匙」），因為早期湯匙多由木頭削製而成。現代泛指各種材質的用餐或攪拌用匙。",
+      "definition": "1. an utensil consisting of a small shallow bowl on a handle, used for eating or stirring food.",
+      "example": [
+        {
+          "eng": "She stirred her coffee with a small spoon.",
+          "ch": "她用小湯匙攪拌她的咖啡。"
+        }
+      ]
+    },
+    {
+      "eng": "sport",
+      "kk": "spɔrt",
+      "tense": "n.",
+      "ch": [
+        [
+          "運動",
+          "體育活動"
+        ],
+        [
+          "消遣",
+          "娛樂"
+        ]
+      ],
+      "analysis": "此字源自中古英語 disport（意為「娛樂、消遣」），由拉丁語 disportare（字面義為「分散、帶開去娛樂」）縮短而來。語意從早期的「娛樂、戶外消遣」逐漸演變為現代的「競技運動、體育項目」。",
+      "definition": "1. an activity involving physical exertion and skill in which an individual or team competes against another; 2. an amusement or pastime.",
+      "example": [
+        {
+          "eng": "Football is a very popular sport around the world.",
+          "ch": "足球是全世界非常受歡迎的運動。"
+        },
+        {
+          "eng": "They went fishing just for sport.",
+          "ch": "他們去釣魚純粹是為了消遣娛樂。"
+        }
+      ]
+    },
+    {
+      "eng": "spot",
+      "kk": "spɑt",
+      "tense": "n.",
+      "ch": [
+        [
+          "地點",
+          "場所"
+        ],
+        [
+          "斑點",
+          "汙點"
+        ]
+      ],
+      "analysis": "此字可能源自低地德語或荷蘭語 spotte（意為「汙點、斑點」）。歷史上從皮膚或物體表面的「斑點、汙點」引申出具體的位置或「地點、場所」。",
+      "definition": "1. a particular place or point; 2. a small mark or stain different from the background.",
+      "example": [
+        {
+          "eng": "This quiet park is a nice spot for a picnic.",
+          "ch": "這個安靜的公園是野餐的好地點。"
+        },
+        {
+          "eng": "He got a grease spot on his new trousers.",
+          "ch": "他的新褲子上沾了一個油汙點。"
+        }
+      ]
+    },
+    {
+      "eng": "spot",
+      "kk": "spɑt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "看出",
+          "發現"
+        ],
+        [
+          "弄汙"
+        ]
+      ],
+      "analysis": "此動詞由名詞 spot 轉化而來。在現代英語中作為及物動詞，常見義為在人群或景物中「一眼看出、發現某人或某物」，亦可指留下斑點。",
+      "definition": "1. to notice or recognize someone or something; 2. to mark with spots.",
+      "example": [
+        {
+          "eng": "Can you spot the difference between the two pictures?",
+          "ch": "你能看出這兩張圖片之間的區別嗎？"
+        },
+        {
+          "eng": "Mud splashed and spotted his jacket.",
+          "ch": "泥巴濺起來，弄髒了他的夾克。"
+        }
+      ]
+    },
+    {
+      "eng": "spread",
+      "kk": "sprɛd",
+      "tense": "vt.",
+      "ch": [
+        [
+          "展開",
+          "鋪開"
+        ],
+        [
+          "傳播",
+          "散布"
+        ]
+      ],
+      "analysis": "此字為日耳曼語繼承詞，源自古英語 sprǣdan（意為「伸展、擴大」），對應至原始日耳曼語 *spraidijaną。其變化形三態同形（spread-spread-spread）。語意從實體的「將摺疊物攤開、將奶油抹開」延伸至抽象的「散布消息、傳播疾病」。",
+      "definition": "1. to open out, stretch, or lay something over a surface; 2. to distribute or cause to extend over a wide area.",
+      "example": [
+        {
+          "eng": "She spread a map out on the table.",
+          "ch": "她在桌上鋪開了一張地圖。"
+        },
+        {
+          "eng": "The news spread quickly through the village.",
+          "ch": "這個消息在村子裡迅速傳播開來。"
+        }
+      ]
+    },
+    {
+      "eng": "spread",
+      "kk": "sprɛd",
+      "tense": "vi.",
+      "ch": [
+        [
+          "蔓延",
+          "擴散"
+        ]
+      ],
+      "analysis": "此為 spread 的不及物動詞用法，表示範圍、火勢或傳染病等「自動擴散、蔓延開來」。",
+      "definition": "1. to extend over a larger or wider area.",
+      "example": [
+        {
+          "eng": "The forest fire spread rapidly because of the strong wind.",
+          "ch": "由於強風，森林大火迅速蔓延開來。"
+        }
+      ]
+    },
+    {
+      "eng": "stage",
+      "kk": "steɪdʒ",
+      "tense": "n.",
+      "ch": [
+        [
+          "舞台",
+          "戲劇界"
+        ],
+        [
+          "階段",
+          "時期"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 stare（站立）經由俗拉丁語衍生出之詞，透過古法語 stage（平臺、歇腳處）進入英語。本義指表演用的「舞台」，引申為發展過程中的「階段、時期」。",
+      "definition": "1. a raised platform on which actors, entertainers, or speakers perform; 2. a point, period, or step in a process or development.",
+      "example": [
+        {
+          "eng": "The actors walked onto the stage and bowed.",
+          "ch": "演員們走上舞台並鞠躬。"
+        },
+        {
+          "eng": "This project is still in its early stages.",
+          "ch": "這個專案目前仍處於早期階段。"
+        }
+      ]
+    },
+    {
+      "eng": "stamp",
+      "kk": "stæmp",
+      "tense": "n.",
+      "ch": [
+        [
+          "郵票"
+        ],
+        [
+          "印章",
+          "戳記"
+        ]
+      ],
+      "analysis": "此字源自日耳曼語族（比較中古荷蘭語 stampen「踩踏、搗碎」）。歷史上從「用力踏腳」的動作延伸出用來壓印圖案或文字的「印章、戳記」，並在近代專指貼在信件上代表已付郵資的「郵票」。",
+      "definition": "1. a small adhesive piece of paper stuck to a letter to indicate postage has been paid; 2. an instrument used to impress a pattern or mark.",
+      "example": [
+        {
+          "eng": "Don't forget to put a stamp on the envelope.",
+          "ch": "別忘了在信封上貼郵票。"
+        },
+        {
+          "eng": "The officer placed an official stamp on the document.",
+          "ch": "官員在文件上蓋了官方印章。"
+        }
+      ]
+    },
+    {
+      "eng": "stamp",
+      "kk": "stæmp",
+      "tense": "vt.",
+      "ch": [
+        [
+          "蓋章",
+          "印上"
+        ],
+        [
+          "重踩",
+          "跺"
+        ]
+      ],
+      "analysis": "此動詞源自日耳曼語源，及物動詞用法涵蓋「在紙上蓋章」以及「用力跺腳、踩踏」。",
+      "definition": "1. to impress a mark or design with a stamp; 2. to bring down one's foot heavily.",
+      "example": [
+        {
+          "eng": "Please stamp your passport at the immigration counter.",
+          "ch": "請在入境櫃台為你的護照蓋章。"
+        },
+        {
+          "eng": "He stamped his feet to keep warm in the cold weather.",
+          "ch": "他在寒冷的天氣裡跺腳取暖。"
+        }
+      ]
+    },
+    {
+      "eng": "standard",
+      "kk": "ˈstændərd",
+      "tense": "n.",
+      "ch": [
+        [
+          "標準",
+          "水準"
+        ],
+        [
+          "旗幟",
+          "軍旗"
+        ]
+      ],
+      "analysis": "此字源自日耳曼語族（古法語 estandart，源自法蘭克語源，原意為「站立穩固的軍旗、旗杆」）。歷史上從戰場上用來辨識方位的「軍旗（作為集合的標竿）」抽象化為衡量品質或行為的「標準、水準」。",
+      "definition": "1. a level of quality or attainment; 2. something used as a measure, norm, or model.",
+      "example": [
+        {
+          "eng": "We must maintain high standards of quality control.",
+          "ch": "我們必須維持高品質管水準。"
+        },
+        {
+          "eng": "The knight carried his lord's standard into battle.",
+          "ch": "騎士帶著他領主的軍旗進入戰場。"
+        }
+      ]
+    },
+    {
+      "eng": "standard",
+      "kk": "ˈstændərd",
+      "tense": "adj.",
+      "ch": [
+        [
+          "標準的",
+          "常規的"
+        ]
+      ],
+      "analysis": "此形容詞由名詞 standard 轉化或直接由中古法語形容詞用法發展而來，指符合常規、公認或一般水平的。",
+      "definition": "1. used or accepted as normal or average.",
+      "example": [
+        {
+          "eng": "This is the standard procedure for handling customer complaints.",
+          "ch": "這是處理客戶投訴的標準程序。"
+        }
+      ]
+    },
+    {
+      "eng": "state",
+      "kk": "steɪt",
+      "tense": "n.",
+      "ch": [
+        [
+          "狀態",
+          "情況"
+        ],
+        [
+          "州",
+          "國"
+        ],
+        [
+          "國家",
+          "政府"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 status（意為「站立的姿勢、狀況、地位」），由 verb stare（站立）派生而來，經由古法語 estat 進入英語。語意從人或物的「狀態」延伸出政治實體上的「州」與「國家」。",
+      "definition": "1. the particular condition that someone or something is in at a specific time; 2. a nation or territory considered as an organized political community under one government; 3. a constituent political unit of a federal country.",
+      "example": [
+        {
+          "eng": "The old house was in a state of disrepair.",
+          "ch": "那棟老房子處於失修的狀態。"
+        },
+        {
+          "eng": "California is the most populous state in the US.",
+          "ch": "加州是美國人口最多的州。"
+        }
+      ]
+    },
+    {
+      "eng": "state",
+      "kk": "steɪt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "陳述",
+          "說明"
+        ]
+      ],
+      "analysis": "此動詞源自拉丁語 status 的動詞形式或名詞 statum，在英語中發展為及物動詞，指明確、正式地用言詞表達或「陳述、說明」。",
+      "definition": "1. to express something formally in speech or writing.",
+      "example": [
+        {
+          "eng": "Please state your name and address for the record.",
+          "ch": "請為了記錄陳述您的姓名與地址。"
+        }
+      ]
+    },
+    {
+      "eng": "statement",
+      "kk": "ˈsteɪtmənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "聲明",
+          "陳述"
+        ],
+        [
+          "對帳單",
+          "結算單"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由動詞 state（陳述）加上名詞字尾 -ment 構成。指正式表達觀點的「聲明、陳述」，或商業與銀行財務上的「對帳單」。",
+      "definition": "1. a definite or clear expression of something in speech or writing; 2. a financial record of transactions.",
+      "example": [
+        {
+          "eng": "The minister made a press statement about the new policy.",
+          "ch": "部長就新政策發表了新聞聲明。"
+        },
+        {
+          "eng": "I received my monthly bank statement in the mail.",
+          "ch": "我在郵件中收到了我的每月銀行對帳單。"
+        }
+      ]
+    },
+    {
+      "eng": "steak",
+      "kk": "steɪk",
+      "tense": "n.",
+      "ch": [
+        [
+          "牛排",
+          "肉塊"
+        ]
+      ],
+      "analysis": "此字為斯堪地那維亞借詞，源自古諾斯語 steik（意為「烤肉串、烤肉塊」），與古諾斯語 steikja（烤）相關。進入英語後專指切片厚肉塊，尤其是牛排。",
+      "definition": "1. a thick slice of meat, typically beef.",
+      "example": [
+        {
+          "eng": "He ordered a medium-rare steak at the restaurant.",
+          "ch": "他在餐廳點了一份三分熟的牛排。"
+        }
+      ]
+    },
+    {
+      "eng": "steel",
+      "kk": "stil",
+      "tense": "n.",
+      "ch": [
+        [
+          "鋼",
+          "鋼鐵"
+        ]
+      ],
+      "analysis": "此字為日耳曼語繼承詞，源自古英語 stīl（意為「鋼」），對應至原始日耳曼語 *stahlijan-。指鐵與碳融合而成的堅硬金屬合金。",
+      "definition": "1. a strong, hard metal alloy made of iron and carbon.",
+      "example": [
+        {
+          "eng": "The bridge is built with a strong steel frame.",
+          "ch": "這座橋是用堅固的鋼架建造的。"
+        }
+      ]
+    },
+    {
+      "eng": "step",
+      "kk": "stɛp",
+      "tense": "n.",
+      "ch": [
+        [
+          "腳步",
+          "步子"
+        ],
+        [
+          "臺階",
+          "階梯"
+        ],
+        [
+          "步驟",
+          "措施"
+        ]
+      ],
+      "analysis": "此字為日耳曼語繼承詞，源自古英語 stæp（意為「步伐、步子」），由動詞 steppan 派生而來。語意從實體的「跨步、走樓梯的臺階」延伸出抽象處理事情的「步驟、措施」。",
+      "definition": "1. an act or movement of putting one foot forward in walking; 2. a stair; 3. a measure or action taken to achieve a goal.",
+      "example": [
+        {
+          "eng": "He took a step backward in surprise.",
+          "ch": "他驚訝地向後退了一步。"
+        },
+        {
+          "eng": "Be careful when walking down the stone steps.",
+          "ch": "走下石階時要小心。"
+        },
+        {
+          "eng": "This is a necessary step to solve the problem.",
+          "ch": "這是解決問題的必要步驟。"
+        }
+      ]
+    },
+    {
+      "eng": "step",
+      "kk": "stɛp",
+      "tense": "vi.",
+      "ch": [
+        [
+          "跨步",
+          "踩",
+          "走"
+        ]
+      ],
+      "analysis": "此動詞源自古英語 steppan（意為「跨出步伐、踩踏」），屬於日耳曼語源的不及物動作動詞。",
+      "definition": "1. to lift and set down one's foot in walking.",
+      "example": [
+        {
+          "eng": "Please step aside to let others pass.",
+          "ch": "請往旁邊跨一步讓別人過去。"
+        }
+      ]
+    },
+    {
+      "eng": "stick",
+      "kk": "stɪk",
+      "tense": "n.",
+      "ch": [
+        [
+          "棍棒",
+          "樹枝"
+        ]
+      ],
+      "analysis": "此字為日耳曼語繼承詞，源自古英語 sticca（意為「細木棍、棒子」），對應至原始日耳曼語 *stik-。指樹木剝落或折斷的細長枝條，或任何棍狀物。",
+      "definition": "1. a thin piece of wood that has fallen or been broken from a tree.",
+      "example": [
+        {
+          "eng": "The dog ran back with a stick in its mouth.",
+          "ch": "那隻狗嘴裡叼著一根樹枝跑了回來。"
+        }
+      ]
+    },
+    {
+      "eng": "stick",
+      "kk": "stɪk",
+      "tense": "vt.",
+      "ch": [
+        [
+          "刺",
+          "戳"
+        ],
+        [
+          "放置",
+          "固定"
+        ]
+      ],
+      "analysis": "此為 stick 的及物動詞用法，指用尖銳物「刺入」或隨手將某物「插、放」在某處。",
+      "definition": "1. to push a sharp or pointed object into or through something; 2. to place something somewhere quickly or carelessly.",
+      "example": [
+        {
+          "eng": "Be careful not to stick yourself with the needle.",
+          "ch": "小心別讓針刺到自己。"
+        },
+        {
+          "eng": "She stuck a note on the refrigerator door.",
+          "ch": "她在冰箱門上貼了張便條紙。"
+        }
+      ]
+    },
+    {
+      "eng": "stick",
+      "kk": "stɪk",
+      "tense": "vi.",
+      "ch": [
+        [
+          "黏住",
+          "貼上"
+        ],
+        [
+          "堅持",
+          "緊跟"
+        ]
+      ],
+      "analysis": "此動詞源自古英語 stician（意為「刺穿、固定、黏附」），與名詞 stick 同源。現代英語中作為不及物動詞，常見於「黏在表面」或「堅持某原則（stick to）」的用法。",
+      "definition": "1. to fix or be fixed to a surface by or as if by glue; 2. to continue to support or abide by something.",
+      "example": [
+        {
+          "eng": "The stamp wouldn't stick to the envelope.",
+          "ch": "這張郵票就是黏不到信封上。"
+        },
+        {
+          "eng": "We must stick to our original plan.",
+          "ch": "我們必須堅持我們原定的計畫。"
+        }
+      ]
+    },
+    {
+      "eng": "stomachache",
+      "kk": "ˈstʌməkˌeɪk",
+      "tense": "n.",
+      "ch": [
+        [
+          "胃痛",
+          "肚子痛"
+        ]
+      ],
+      "analysis": "此字為現代透明複合詞，由希臘拉丁源名詞 stomach（胃、腹部）加上意為「疼痛」的字尾 -ache 結合而成。指腹部或胃部發生的疼痛症狀。",
+      "definition": "1. pain in the stomach or abdomen.",
+      "example": [
+        {
+          "eng": "He ate too much ice cream and got a stomachache.",
+          "ch": "他吃太多冰淇淋而胃痛了。"
+        }
+      ]
+    },
+    {
+      "eng": "stone",
+      "kk": "stoʊn",
+      "tense": "n.",
+      "ch": [
+        [
+          "石頭",
+          "石塊"
+        ],
+        [
+          "果核"
+        ]
+      ],
+      "analysis": "此字為日耳曼語繼承詞，源自古英語 stān（意為「石頭」），對應至原始日耳曼語 *stainaz。除了指天然岩石塊外，亦引申指某些水果（如桃子、李子）內堅硬的「果核」。",
+      "definition": "1. hard, solid non-metallic mineral matter of which rock is made; 2. the hard seed in some fruits.",
+      "example": [
+        {
+          "eng": "He tripped over a large stone on the path.",
+          "ch": "他在小路上被一塊大石頭絆倒了。"
+        },
+        {
+          "eng": "Peaches and plums have a hard stone in the center.",
+          "ch": "桃子和李子中心有一個硬果核。"
+        }
+      ]
+    },
+    {
+      "eng": "storm",
+      "kk": "stɔrm",
+      "tense": "n.",
+      "ch": [
+        [
+          "暴風雨",
+          "暴風雪"
+        ]
+      ],
+      "analysis": "此字為日耳曼語繼承詞，源自古英語 storm（意為「風暴、喧擾」），對應至原始日耳曼語 *sturmaz。基本義為強烈的氣象災害，伴隨強風、豪雨或降雪。",
+      "definition": "1. a violent disturbance of the environment characterized by strong winds, heavy rain, thunder, or snow.",
+      "example": [
+        {
+          "eng": "A severe storm knocked down several trees last night.",
+          "ch": "昨晚的一場強烈暴風雨吹倒了好幾棵樹。"
+        }
+      ]
+    },
+    {
+      "eng": "stranger",
+      "kk": "ˈstreɪndʒər",
+      "tense": "n.",
+      "ch": [
+        [
+          "陌生人"
+        ],
+        [
+          "外地人",
+          "生疏者"
+        ]
+      ],
+      "analysis": "此字由形容詞 strange（源自拉丁語 extraneus「外面的」經由古法語）加上名詞字尾 -er 構成。歷史上指不認識的人、初來乍到的外地人，或對某領域完全不熟悉的人。",
+      "definition": "1. a person whom one does not know or with whom one is not familiar; 2. a newcomer to a place.",
+      "example": [
+        {
+          "eng": "Don't talk to strangers or accept gifts from them.",
+          "ch": "不要和陌生人交談或接受他們的禮物。"
+        },
+        {
+          "eng": "Being a stranger in town, he didn't know where to go.",
+          "ch": "身為城裡的生疏外地人，他不知道該去哪裡。"
+        }
+      ]
+    },
+    {
+      "eng": "strawberry",
+      "kk": "ˈstrɔˌbɛri",
+      "tense": "n.",
+      "ch": [
+        [
+          "草莓"
+        ]
+      ],
+      "analysis": "此字為歷史複合詞，由古英語 strēawberie 演變而來，由 strēaw（草、稻草，指其匍匐蔓生的莖）與 berie（莓果）結合而成。指一種表面佈滿細小種子的紅色多汁聚合果。",
+      "definition": "1. a sweet red fruit with a seed-studded surface.",
+      "example": [
+        {
+          "eng": "She loves eating fresh strawberries with cream.",
+          "ch": "她喜歡吃加了鮮奶油的新鮮草莓。"
+        }
+      ]
+    },
+    {
+      "eng": "stream",
+      "kk": "strim",
+      "tense": "n.",
+      "ch": [
+        [
+          "溪流",
+          "川"
+        ],
+        [
+          "流動",
+          "人流"
+        ]
+      ],
+      "analysis": "此字為日耳曼語繼承詞，源自古英語 strēam（意為「水流、河川」），對應至原始日耳曼語 *straumaz。除了指自然的溪流外，亦可抽象引申為車流、人流或數據流。",
+      "definition": "1. a small, narrow river; 2. a continuous flow of liquid, gas, or people.",
+      "example": [
+        {
+          "eng": "Clear water flowed down the mountain stream.",
+          "ch": "清澈的水流淌過山間小溪。"
+        },
+        {
+          "eng": "A steady stream of traffic moved along the street.",
+          "ch": "源源不斷的車流順著街道前進。"
+        }
+      ]
+    },
+    {
+      "eng": "stress",
+      "kk": "strɛs",
+      "tense": "n.",
+      "ch": [
+        [
+          "壓力",
+          "緊張"
+        ],
+        [
+          "強調",
+          "重音"
+        ]
+      ],
+      "analysis": "此字源自中古英語 distress 的縮短或直接由拉丁語 stringere（拉緊、束緊）派生出的名詞演變而來。語意從物理上的「拉緊、壓力」延伸出心理上的「精神壓力」，以及語音學上的「重音」與言談中的「強調」。",
+      "definition": "1. a state of mental or emotional strain or tension; 2. emphasis given to a syllable or word in pronunciation, or importance given to something.",
+      "example": [
+        {
+          "eng": "He is suffering from a lot of work-related stress.",
+          "ch": "他正承受著許多與工作相關的精神壓力。"
+        },
+        {
+          "eng": "In English, the stress usually falls on the first syllable of this word.",
+          "ch": "在英語中，這個字的重音通常落在第一個音節上。"
+        }
+      ]
+    },
+    {
+      "eng": "stress",
+      "kk": "strɛs",
+      "tense": "vt.",
+      "ch": [
+        [
+          "強調",
+          "著重"
+        ]
+      ],
+      "analysis": "此動詞由名詞 stress 轉化而來或與其同源。在現代英語中作為及物動詞，表示在發言時「著重強調」某個觀點或事實。",
+      "definition": "1. to give particular emphasis or importance to a point or statement.",
+      "example": [
+        {
+          "eng": "The teacher stressed the importance of reading everyday.",
+          "ch": "老師強調了每天閱讀的重要性。"
+        }
+      ]
+    },
+    {
+      "eng": "stretch",
+      "kk": "strɛtʃ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "伸展",
+          "拉長"
+        ],
+        [
+          "勉強使用",
+          "耗盡"
+        ]
+      ],
+      "analysis": "此字為日耳曼語繼承詞，源自古英語 streccan（意為「伸直、擴展」），由形容詞 stræct（直的）派生而來。語意從實體的「將肢體或橡皮筋拉長」延伸出抽象的「耗盡預算或勉力支撐」。",
+      "definition": "1. to draw out or make longer, wider, or looser; 2. to strain or make the most of something limited.",
+      "example": [
+        {
+          "eng": "Wake up and stretch your arms and legs.",
+          "ch": "醒醒，伸展一下你的手臂和雙腿。"
+        },
+        {
+          "eng": "We have to stretch our budget to cover the expenses.",
+          "ch": "我們必須勉力拉緊預算來支付這些開銷。"
+        }
+      ]
+    },
+    {
+      "eng": "stretch",
+      "kk": "strɛtʃ",
+      "tense": "vi.",
+      "ch": [
+        [
+          "延伸",
+          "伸展身體"
+        ],
+        [
+          "有彈性",
+          "可伸縮"
+        ]
+      ],
+      "analysis": "此為 stretch 的不及物動詞用法，指空間無盡「延伸」或材質具有「可延展拉伸的特性」。",
+      "definition": "1. to extend over a large area or length; 2. to be made of an elastic material that lengthens easily.",
+      "example": [
+        {
+          "eng": "The golden desert stretches as far as the eye can see.",
+          "ch": "金色的沙漠一路延伸到視線所及的盡頭。"
+        },
+        {
+          "eng": "This fabric stretches easily when pulled.",
+          "ch": "這種布料拉扯時很容易伸展。"
+        }
+      ]
+    },
+    {
+      "eng": "strict",
+      "kk": "strɪkt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "嚴格的",
+          "嚴厲的"
+        ],
+        [
+          "精確的",
+          "嚴密的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 strictus（意為「拉緊的、嚴厲的、嚴格的」），為動詞 stringere 的過去分詞。語意從實體的「綁緊」抽象化為規矩上的「嚴格要求」或定義上的「嚴密準確」。",
+      "definition": "1. demanding that rules or laws be obeyed; 2. exact and precise in following a rule or definition.",
+      "example": [
+        {
+          "eng": "Our English teacher is very strict about homework deadlines.",
+          "ch": "我們的英語老師對作業繳交期限要求非常嚴格。"
+        },
+        {
+          "eng": "In the strict sense of the word, he is not an expert.",
+          "ch": "嚴格來說（依該詞的嚴密定義），他並不是專家。"
+        }
+      ]
+    },
+    {
+      "eng": "strike",
+      "kk": "straɪk",
+      "tense": "vt.",
+      "ch": [
+        [
+          "打",
+          "擊中"
+        ],
+        [
+          "給人以...印象",
+          "使突然想起"
+        ],
+        [
+          "罷工"
+        ]
+      ],
+      "analysis": "此字為日耳曼語繼承詞，源自古英語 strican（意為「輕撫、滑過」），在中古英語中語意轉變為「重擊、打」。三態為 strike-struck-struck/stricken。語意從實體的「打擊」演變出心理上的「給人留下印象」以及勞工集體停止工作的「罷工」。",
+      "definition": "1. to hit forcibly with a hand, weapon, or tool; 2. to occur to someone suddenly as an impression or idea; 3. (of employees) to refuse to work as a form of organized protest.",
+      "example": [
+        {
+          "eng": "The clock struck twelve at midnight.",
+          "ch": "午夜時分時鐘敲響了十二下。"
+        },
+        {
+          "eng": "An interesting idea struck me while I was reading.",
+          "ch": "我閱讀時突然想出了一個有趣的主意。"
+        },
+        {
+          "eng": "Factory workers voted to strike for better wages.",
+          "ch": "工廠工人們投票決定為爭取更好的薪資而罷工。"
+        }
+      ]
+    },
+    {
+      "eng": "strike",
+      "kk": "straɪk",
+      "tense": "vi.",
+      "ch": [
+        [
+          "打擊",
+          "襲擊"
+        ],
+        [
+          "罷工"
+        ]
+      ],
+      "analysis": "此為 strike 的不及物動詞用法，指災難、閃電突然「襲擊」或員工發起「罷工」。",
+      "definition": "1. to attack suddenly; 2. to engage in a strike.",
+      "example": [
+        {
+          "eng": "Lightning can strike the same place twice.",
+          "ch": "閃電可能會擊中同一個地方兩次。"
+        },
+        {
+          "eng": "The union workers are threatening to strike.",
+          "ch": "工會工人們威脅要發動罷工。"
+        }
+      ]
+    },
+    {
+      "eng": "struggle",
+      "kk": "ˈstrʌgəl",
+      "tense": "vi.",
+      "ch": [
+        [
+          "奮鬥",
+          "努力"
+        ],
+        [
+          "掙扎",
+          "搏鬥"
+        ]
+      ],
+      "analysis": "此字源自中古英語 stroglen，可能與中古荷蘭語 stronkelen（絆倒）或日耳曼語根源有關。指人在面對阻礙或困境時的身體「掙扎」或精神上的「奮鬥」。",
+      "definition": "1. to make forceful efforts to get out of a difficulty or to achieve a goal; 2. to struggle physically with someone.",
+      "example": [
+        {
+          "eng": "She had to struggle hard to support her family.",
+          "ch": "她必須辛苦奮鬥來養家糊口。"
+        },
+        {
+          "eng": "The swimmer struggled against the strong current.",
+          "ch": "那名游泳者在強勁的水流中掙扎。"
+        }
+      ]
+    },
+    {
+      "eng": "style",
+      "kk": "staɪl",
+      "tense": "n.",
+      "ch": [
+        [
+          "風格",
+          "文風"
+        ],
+        [
+          "式樣",
+          "款式"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 stilus（意為「寫字用的鐵筆、書寫風格」），經由古法語 style 進入英語。語意從古代書寫工具的「筆跡、文風」擴大為藝術與生活的「風格」，以及衣物鞋帽的「款式」。",
+      "definition": "1. a manner of writing, painting, or doing something; 2. a particular design or fashion of clothing or goods.",
+      "example": [
+        {
+          "eng": "Hemingway is known for his concise writing style.",
+          "ch": "海明威以其簡潔的寫作風格而聞名。"
+        },
+        {
+          "eng": "I like the style and color of this dress.",
+          "ch": "我喜歡這件洋裝的款式和顏色。"
+        }
+      ]
+    },
+    {
+      "eng": "subway",
+      "kk": "ˈsʌbˌweɪ",
+      "tense": "n.",
+      "ch": [
+        [
+          "地鐵"
+        ],
+        [
+          "地下人行道"
+        ]
+      ],
+      "analysis": "此字為現代透明複合詞，由字首 sub-（在下方、次於）與名詞 way（道路）結合而成。在美式英語中專指地下的都市鐵路系統（地鐵），亦可指穿過馬路下方的地下道。",
+      "definition": "1. an underground electric railway system; 2. an underground passage for pedestrians.",
+      "example": [
+        {
+          "eng": "Taking the subway is the fastest way to get downtown.",
+          "ch": "搭地鐵是到市中心最快的方式。"
+        },
+        {
+          "eng": "We used the subway to cross safely under the busy road.",
+          "ch": "我們利用地下人行道安全地穿過繁忙的道路。"
+        }
+      ]
+    },
+    {
+      "eng": "underground",
+      "kk": "ˈʌndərˌgraʊnd",
+      "tense": "adj.",
+      "ch": [
+        [
+          "地下的"
+        ],
+        [
+          "祕密的",
+          "地下組織的"
+        ]
+      ],
+      "analysis": "此字為現代透明複合詞，由字首 under-（在...下方）與名詞 ground（地面）結合而成。形容詞用法既可指實體位於地表以下的「地下管道或鐵路」，也可引申指從事反抗或非法活動的「地下組織的、祕密的」。",
+      "definition": "1. situated or occurring beneath the surface of the ground; 2. secret, clandestine, or operating outside the established system.",
+      "example": [
+        {
+          "eng": "The cable runs through an underground conduit.",
+          "ch": "電纜透過地下管道輸送。"
+        },
+        {
+          "eng": "During the war, he joined an underground resistance movement.",
+          "ch": "戰爭期間，他加入了一個地下抵抗運動。"
+        }
+      ]
+    },
+    {
+      "eng": "metro",
+      "kk": "ˈmɛtroʊ",
+      "tense": "n.",
+      "ch": [
+        [
+          "地鐵",
+          "地下鐵道"
+        ]
+      ],
+      "analysis": "此字為現代縮寫詞，源自法語 chemin de fer métropolitain（意為「大都會鐵路」），其中 métropolitain 來自希臘語 mētropolis（母城、大都會）。在多數歐洲與國際英語城市中用來指稱都市地下鐵系統。",
+      "definition": "1. an underground railway system in a city.",
+      "example": [
+        {
+          "eng": "You can buy a ticket at the metro station entrance.",
+          "ch": "你可以在地鐵站入口買票。"
+        }
+      ]
+    }
+  ]
+}

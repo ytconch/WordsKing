@@ -1,0 +1,1659 @@
+{
+  "level": 1,
+  "chunkIndex": 11,
+  "inputs": [
+    "leave",
+    "left",
+    "leg",
+    "lemon",
+    "less",
+    "lesson",
+    "let",
+    "letter",
+    "level",
+    "library",
+    "lie",
+    "life",
+    "light",
+    "like",
+    "line",
+    "lion",
+    "lip",
+    "list",
+    "listen",
+    "little",
+    "live",
+    "lonely",
+    "long",
+    "look",
+    "lose",
+    "lot",
+    "loud",
+    "love",
+    "lovely",
+    "low",
+    "lucky",
+    "lunch",
+    "machine",
+    "mad",
+    "magic",
+    "mail",
+    "main",
+    "make",
+    "man",
+    "many",
+    "map",
+    "mark",
+    "market",
+    "married",
+    "mathematics",
+    "math",
+    "matter",
+    "may",
+    "maybe",
+    "meal"
+  ],
+  "rows": [
+    {
+      "eng": "leave",
+      "kk": "liv",
+      "tense": "n.",
+      "ch": [
+        [
+          "假期",
+          "准假",
+          "許可"
+        ]
+      ],
+      "analysis": "此字為名詞 leave，由同源動詞 leave 的許可義演變而來，專指獲得主管或機構批准離開工作崗位或職責的「休假、假期」。",
+      "definition": "1. permission to be absent from work or duty; a holiday or vacation.",
+      "example": [
+        {
+          "eng": "He was granted a two-week leave.",
+          "ch": "他獲准兩星期的休假。"
+        }
+      ]
+    },
+    {
+      "eng": "leave",
+      "kk": "liv",
+      "tense": "vt.",
+      "ch": [
+        [
+          "離開",
+          "出發"
+        ],
+        [
+          "留下",
+          "遺留",
+          "把...留在"
+        ]
+      ],
+      "analysis": "此字為及物動詞 leave。源自古英語 ℓǣfan（意為允許、遺留、留下），屬於日耳曼語繼承詞。語意從早期「使留在某處」演變出「從某處離開」及「遺留物品於某處」，後方必須接直接受詞。",
+      "definition": "1. to go away from a place or person; 2. to allow or cause something to stay behind in a place.",
+      "example": [
+        {
+          "eng": "She decided to leave the office early.",
+          "ch": "她決定早點離開辦公室。"
+        },
+        {
+          "eng": "Please leave your keys on the table.",
+          "ch": "請把你的鑰匙留在桌上。"
+        }
+      ]
+    },
+    {
+      "eng": "leave",
+      "kk": "liv",
+      "tense": "vi.",
+      "ch": [
+        [
+          "離開",
+          "出發",
+          "動身"
+        ]
+      ],
+      "analysis": "此字為不及物動詞 leave。源自古英語 ℓǣfan，語意聚焦於主詞自身的動身與離去，句型中不直接加受詞。",
+      "definition": "1. to depart or set out on a journey.",
+      "example": [
+        {
+          "eng": "The train will leave in ten minutes.",
+          "ch": "火車將在十分鐘後出發。"
+        }
+      ]
+    },
+    {
+      "eng": "left",
+      "kk": "lɛft",
+      "tense": "n.",
+      "ch": [
+        [
+          "左邊",
+          "左側"
+        ]
+      ],
+      "analysis": "此字為名詞 left，由形容詞左側用法轉化而來，用以指稱左邊的方位或區域。",
+      "definition": "1. the left side or direction.",
+      "example": [
+        {
+          "eng": "Your keys are on the left.",
+          "ch": "你的鑰匙在左邊。"
+        }
+      ]
+    },
+    {
+      "eng": "left",
+      "kk": "lɛft",
+      "tense": "vt.",
+      "ch": [
+        [
+          "留下",
+          "使遺留"
+        ]
+      ],
+      "analysis": "此字為動詞 leave 的過去式與過去分詞形式，作為及物動詞使用時，維持原動詞「留下、遺留」的及物動作意涵。",
+      "definition": "1. past tense and past participle of leave, used to indicate causing something to stay behind.",
+      "example": [
+        {
+          "eng": "She left her umbrella at home yesterday.",
+          "ch": "她昨天把雨傘忘在家裡了。"
+        }
+      ]
+    },
+    {
+      "eng": "left",
+      "kk": "lɛft",
+      "tense": "adj.",
+      "ch": [
+        [
+          "左邊的",
+          "左側的"
+        ]
+      ],
+      "analysis": "此字為形容詞 left。源自古英語 ℓeft（意為軟弱的、無力的、左邊的），歷史上因多數人慣用右側，將左側視為較弱的一側，語意最終固定為方向上的「左邊的」。",
+      "definition": "1. on or towards the side of the human body that is opposite to right.",
+      "example": [
+        {
+          "eng": "Turn left at the next corner.",
+          "ch": "在下一個轉角向左轉。"
+        }
+      ]
+    },
+    {
+      "eng": "leg",
+      "kk": "lɛɡ",
+      "tense": "n.",
+      "ch": [
+        [
+          "腿",
+          "腳"
+        ],
+        [
+          "支柱",
+          "桌椅腳"
+        ]
+      ],
+      "analysis": "此字為名詞 leg。源自古諾斯語 legr 或日耳曼語族，早期即指人或動物的肢體，後來因形狀與支撐功能相似，引申指家具或物體的支撐腳。",
+      "definition": "1. each of the limbs on which a person or animal walks and stands; 2. a supporting part or pillar of a piece of furniture.",
+      "example": [
+        {
+          "eng": "He hurt his leg during the soccer game.",
+          "ch": "他在踢足球時傷了腿。"
+        },
+        {
+          "eng": "The table has four wooden legs.",
+          "ch": "這張桌子有四隻木頭桌腳。"
+        }
+      ]
+    },
+    {
+      "eng": "lemon",
+      "kk": "ˈlɛmən",
+      "tense": "n.",
+      "ch": [
+        [
+          "檸檬",
+          "檸檬樹"
+        ]
+      ],
+      "analysis": "此字為名詞 lemon。經由古法語 limun 與中古拉丁語 līmōnum，最終源自阿拉伯語 līmūn，指一種黃色柑橘類水果及其植株。",
+      "definition": "1. a pale yellow oval fruit with thick skin and sour juice.",
+      "example": [
+        {
+          "eng": "She squeezed a lemon into her tea.",
+          "ch": "她擠了一顆檸檬進茶裡。"
+        }
+      ]
+    },
+    {
+      "eng": "less",
+      "kk": "lɛs",
+      "tense": "adj.",
+      "ch": [
+        [
+          "較少的",
+          "更少的"
+        ]
+      ],
+      "analysis": "此字為形容詞 less，為 little 的比較級形式。源自古英語 ℓǣssa，用以修飾不可數名詞，表示數量或程度較低。",
+      "definition": "1. smaller in size, amount, or degree; of lower rank.",
+      "example": [
+        {
+          "eng": "We need to spend less money this month.",
+          "ch": "我們這個月需要花少一點錢。"
+        }
+      ]
+    },
+    {
+      "eng": "less",
+      "kk": "lɛs",
+      "tense": "adv.",
+      "ch": [
+        [
+          "較少地",
+          "更少地"
+        ]
+      ],
+      "analysis": "此字為副詞 less，用以修飾動詞、形容詞或其他副詞，表示程度或頻率的減低。",
+      "definition": "1. to a smaller extent or degree.",
+      "example": [
+        {
+          "eng": "He works less now that he is older.",
+          "ch": "他年紀大了之後工作少了一些。"
+        }
+      ]
+    },
+    {
+      "eng": "lesson",
+      "kk": "ˈlɛsən",
+      "tense": "n.",
+      "ch": [
+        [
+          "課",
+          "教學單元"
+        ],
+        [
+          "教訓",
+          "經驗"
+        ]
+      ],
+      "analysis": "此字為名詞 lesson。透過古法語 leçun，源自拉丁語 lēctiō（意為閱讀、誦讀），在基督教會中指讀經單元，隨後演變為學校課程的一「課」，並引申出生活中的「教訓」。",
+      "definition": "1. a period of learning or teaching; 2. an experience that serves as a warning or encouragement.",
+      "example": [
+        {
+          "eng": "We have an English lesson this morning.",
+          "ch": "我們今天早上有一堂英語課。"
+        },
+        {
+          "eng": "His mistake taught him a valuable lesson.",
+          "ch": "他的錯誤給了他寶貴的教訓。"
+        }
+      ]
+    },
+    {
+      "eng": "let",
+      "kk": "lɛt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "讓",
+          "允許",
+          "准許"
+        ]
+      ],
+      "analysis": "此字為及物動詞原形 let。源自古英語 ℓǣtan（意為允許、離開、使發生），屬於日耳曼語繼承詞。現代英語中主要作使役動詞，後接原形動詞構成「讓某人做某事」的句型。",
+      "definition": "1. to give permission to do something; to allow.",
+      "example": [
+        {
+          "eng": "Please let me go with you.",
+          "ch": "請讓我跟你一起去。"
+        }
+      ]
+    },
+    {
+      "eng": "letter",
+      "kk": "ˈlɛtɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "信",
+          "書信"
+        ],
+        [
+          "字母"
+        ]
+      ],
+      "analysis": "此字為名詞 letter。經由古法語 letre，源自拉丁語 littera（意為書信、文字符號、字母）。在歷史演變中，既指書寫的文字符號（字母），也指透過文字傳遞的書信。",
+      "definition": "1. a written message addressed to a person or organization; 2. a character representing one or more of the sounds used in speech.",
+      "example": [
+        {
+          "eng": "She received a letter from her friend.",
+          "ch": "她收到了一封朋友寄來的信。"
+        },
+        {
+          "eng": "The word 'apple' begins with the letter 'a'.",
+          "ch": "單字 'apple' 以字母 'a' 開頭。"
+        }
+      ]
+    },
+    {
+      "eng": "level",
+      "kk": "ˈlɛvəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "水平",
+          "程度",
+          "標準"
+        ],
+        [
+          "樓層",
+          "級別"
+        ]
+      ],
+      "analysis": "此字為名詞 level。透過中古法語 level，源自拉丁語 lībella（lībra 的指小詞，意為水平儀、秤）。本義指水平面，隨後引申為高度、能力或階層的「程度」與「水平」。",
+      "definition": "1. a position on a scale of amount, height, or quality; 2. a floor or storey of a building.",
+      "example": [
+        {
+          "eng": "His English is at an intermediate level.",
+          "ch": "他的英語處於中級水平。"
+        },
+        {
+          "eng": "Parking is available on the lower level.",
+          "ch": "地下一樓提供停車位。"
+        }
+      ]
+    },
+    {
+      "eng": "level",
+      "kk": "ˈlɛvəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "水平的",
+          "平坦的"
+        ]
+      ],
+      "analysis": "此字為形容詞 level，由名詞或動詞轉化而來，用以形容表面平坦、沒有高低起伏的狀態。",
+      "definition": "1. having a flat and even surface; parallel to the horizon.",
+      "example": [
+        {
+          "eng": "Make sure the shelf is level.",
+          "ch": "確保架子是水平平坦的。"
+        }
+      ]
+    },
+    {
+      "eng": "library",
+      "kk": "ˈlaɪˌbrɛri",
+      "tense": "n.",
+      "ch": [
+        [
+          "圖書館"
+        ]
+      ],
+      "analysis": "此字為名詞 library。源自拉丁語 librāria（意為藏書之處、書店），衍生自 liber（意為樹皮、書）。經由中古法語進入英語，專指收藏書籍與資料以供閱讀的圖書館。",
+      "definition": "1. a building or room containing collections of books and other materials for use or borrowing by the public.",
+      "example": [
+        {
+          "eng": "Students are reading books in the library.",
+          "ch": "學生們正在圖書館裡看書。"
+        }
+      ]
+    },
+    {
+      "eng": "lie",
+      "kk": "laɪ",
+      "tense": "n.",
+      "ch": [
+        [
+          "謊言",
+          "假話"
+        ]
+      ],
+      "analysis": "此字為名詞 lie，由同形動詞 lie（說謊）直接轉化而來，指不真實的話語。",
+      "definition": "1. an intentionally false statement.",
+      "example": [
+        {
+          "eng": "He told a lie to avoid getting into trouble.",
+          "ch": "他為了避免惹麻煩而說了謊。"
+        }
+      ]
+    },
+    {
+      "eng": "lie",
+      "kk": "laɪ",
+      "tense": "vi.",
+      "ch": [
+        [
+          "躺",
+          "平躺"
+        ],
+        [
+          "位於",
+          "處於"
+        ]
+      ],
+      "analysis": "此字為不及物動詞 lie（躺、位於）。源自古英語 licgan，與「說謊」為同形異源詞。本義指身體平躺於某表面，或地理位置上「處於、位於」某處，為標準不及物動詞。",
+      "definition": "1. to be in or put oneself in a horizontal or flat position on a surface; 2. to be in a particular place or position.",
+      "example": [
+        {
+          "eng": "She likes to lie on the beach and sunbathe.",
+          "ch": "她喜歡躺在沙灘上做日光浴。"
+        },
+        {
+          "eng": "The town lies in a valley.",
+          "ch": "這座城鎮位於山谷之中。"
+        }
+      ]
+    },
+    {
+      "eng": "life",
+      "kk": "laɪf",
+      "tense": "n.",
+      "ch": [
+        [
+          "生命",
+          "人生"
+        ],
+        [
+          "生物",
+          "生活"
+        ]
+      ],
+      "analysis": "此字為名詞 life。源自古英語 līf，屬於日耳曼語繼承詞。本義指生物具有的生命力，隨後引申出個人的一生、日常起居的生活，以及統稱的生物群體。",
+      "definition": "1. the condition that distinguishes animals and plants from inorganic matter; 2. the period between birth and death; the experience of living.",
+      "example": [
+        {
+          "eng": "Water is essential for all life on Earth.",
+          "ch": "水對地球上的所有生命都是不可或缺的。"
+        },
+        {
+          "eng": "She is happy with her life in the city.",
+          "ch": "她對自己在城市裡的生活感到快樂。"
+        }
+      ]
+    },
+    {
+      "eng": "light",
+      "kk": "laɪt",
+      "tense": "n.",
+      "ch": [
+        [
+          "光",
+          "光線"
+        ],
+        [
+          "燈",
+          "光源"
+        ]
+      ],
+      "analysis": "此字為名詞 light。源自古英語 lēoht，屬於日耳曼語繼承詞。本義指自然界的光線，隨後引申為發光的燈具或人工光源。",
+      "definition": "1. the natural agent that stimulates sight and makes things visible; 2. a source of illumination, such as an electric lamp.",
+      "example": [
+        {
+          "eng": "The sun provides light and heat for the earth.",
+          "ch": "太陽為地球提供光與熱。"
+        },
+        {
+          "eng": "Please turn off the lights when you leave.",
+          "ch": "離開時請關燈。"
+        }
+      ]
+    },
+    {
+      "eng": "light",
+      "kk": "laɪt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "點燃",
+          "照亮"
+        ]
+      ],
+      "analysis": "此字為及物動詞 light，由名詞或形容詞轉化而來，指給予光亮或點火使燃燒，後方須接直接受詞。",
+      "definition": "1. to cause something to start burning; to provide with light.",
+      "example": [
+        {
+          "eng": "He used a match to light the candle.",
+          "ch": "他用火柴點燃蠟燭。"
+        }
+      ]
+    },
+    {
+      "eng": "light",
+      "kk": "laɪt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "輕的",
+          "重量輕的"
+        ],
+        [
+          "明亮的",
+          "淺色的"
+        ]
+      ],
+      "analysis": "此字為形容詞 light。源自古英語 lēoht（意為輕的、不重的），與表示「光」的單字同形異源（源自另一個古英語同音詞 lēoht 意為明亮）。語意分化為重量輕的狀態，以及色彩明亮或淺色。",
+      "definition": "1. of little weight; not heavy; 2. having a pale color or a lot of light.",
+      "example": [
+        {
+          "eng": "This suitcase is very light.",
+          "ch": "這個行李箱很輕。"
+        },
+        {
+          "eng": "She is wearing a light blue dress.",
+          "ch": "她穿著一件淺藍色的洋裝。"
+        }
+      ]
+    },
+    {
+      "eng": "like",
+      "kk": "laɪk",
+      "tense": "vt.",
+      "ch": [
+        [
+          "喜歡",
+          "喜愛"
+        ]
+      ],
+      "analysis": "此字為及物動詞 like。源自古英語 līcian（意為令人滿意、使人喜悅），屬於日耳曼語繼承詞。語意從主詞對某物感到滿意，演變為現代的「喜歡某事物」，後方可直接接名詞或動名詞作為受詞。",
+      "definition": "1. to find something agreeable; to have a feeling of fondness or approval for.",
+      "example": [
+        {
+          "eng": "I like reading books in my free time.",
+          "ch": "我喜歡在空閒時間看書。"
+        }
+      ]
+    },
+    {
+      "eng": "like",
+      "kk": "laɪk",
+      "tense": "prep.",
+      "ch": [
+        [
+          "像",
+          "如同"
+        ]
+      ],
+      "analysis": "此字為介系詞 like，源自古英語 gελīc（意為相似的），由形容詞演變而來的介系詞用法，表示性質或外貌與某人、某物相似。",
+      "definition": "1. similar to; in the same way as.",
+      "example": [
+        {
+          "eng": "He looks like his father.",
+          "ch": "他長得像他的父親。"
+        }
+      ]
+    },
+    {
+      "eng": "line",
+      "kk": "laɪn",
+      "tense": "n.",
+      "ch": [
+        [
+          "線",
+          "直線"
+        ],
+        [
+          "排",
+          "隊列",
+          "路線"
+        ]
+      ],
+      "analysis": "此字為名詞 line。源自古英語 līn（意為繩索、線），亦受拉丁語 līnea（細繩、線）影響。本義為繩線或幾何直線，隨後引申為排隊的人潮、交通路線或文字的行。",
+      "definition": "1. a long, narrow mark or band; 2. a number of people or things standing one behind the other; a route.",
+      "example": [
+        {
+          "eng": "Draw a straight line on the paper.",
+          "ch": "在紙上畫一條直線。"
+        },
+        {
+          "eng": "People were standing in a line to buy tickets.",
+          "ch": "人們排隊買票。"
+        }
+      ]
+    },
+    {
+      "eng": "line",
+      "kk": "laɪn",
+      "tense": "vt.",
+      "ch": [
+        [
+          "排成行",
+          "沿著...排列"
+        ]
+      ],
+      "analysis": "此字為及物動詞 line，由名詞線條或排隊概念轉化而來，指在兩側排列或畫線，後方須接直接受詞。",
+      "definition": "1. to form a line along or around something.",
+      "example": [
+        {
+          "eng": "Trees lined the quiet street.",
+          "ch": "樹木排列在安靜街道的兩旁。"
+        }
+      ]
+    },
+    {
+      "eng": "lion",
+      "kk": "ˈlaɪən",
+      "tense": "n.",
+      "ch": [
+        [
+          "獅子"
+        ]
+      ],
+      "analysis": "此字為名詞 lion。透過古法語 liun，源自拉丁語 leō，最終可追溯至古希臘語 léōn。指大型貓科猛獸獅子。",
+      "definition": "1. a large carnivorous feline mammal of Africa and northwest India, having a yellowish-brown coat.",
+      "example": [
+        {
+          "eng": "The lion is often called the king of the jungle.",
+          "ch": "獅子常被稱為叢林之王。"
+        }
+      ]
+    },
+    {
+      "eng": "lip",
+      "kk": "lɪp",
+      "tense": "n.",
+      "ch": [
+        [
+          "嘴唇",
+          "唇部"
+        ]
+      ],
+      "analysis": "此字為名詞 lip。源自古英語 lippa，屬於日耳曼語繼承詞，指人類或動物嘴巴周圍的肌肉組織部位。",
+      "definition": "1. either of the two fleshy folds forming the edges of the mouth.",
+      "example": [
+        {
+          "eng": "She bit her lip when she was nervous.",
+          "ch": "她緊張時會咬嘴唇。"
+        }
+      ]
+    },
+    {
+      "eng": "list",
+      "kk": "lɪst",
+      "tense": "n.",
+      "ch": [
+        [
+          "清單",
+          "名單",
+          "目錄"
+        ]
+      ],
+      "analysis": "此字為名詞 list。經由日耳曼語族進入中古法語，最終進入英語。本義指邊緣、條帶，隨後演變為寫有一系列項目的「清單」或「名單」。",
+      "definition": "1. a number of connected items or names written or printed consecutively.",
+      "example": [
+        {
+          "eng": "Make a grocery list before you go to the store.",
+          "ch": "去店裡之前先列一張雜貨清單。"
+        }
+      ]
+    },
+    {
+      "eng": "list",
+      "kk": "lɪst",
+      "tense": "vt.",
+      "ch": [
+        [
+          "列出",
+          "把...列入清單"
+        ]
+      ],
+      "analysis": "此字為及物動詞 list，由名詞清單轉化而來，指將項目一一列舉出來，後方須接直接受詞。",
+      "definition": "1. to make a list of; to enter in a list.",
+      "example": [
+        {
+          "eng": "Please list your previous work experience on the form.",
+          "ch": "請在表格上列出你先前的職工作經驗。"
+        }
+      ]
+    },
+    {
+      "eng": "listen",
+      "kk": "ˈlɪsən",
+      "tense": "vi.",
+      "ch": [
+        [
+          "聽",
+          "傾聽"
+        ]
+      ],
+      "analysis": "此字為不及物動詞 listen。源自古英語 hlysnan（意為傾聽、聽從），屬於日耳曼語繼承詞。專指集中注意力去接收聲音，為標準不及物用法，若接接受詞通常需搭配介系詞 to。",
+      "definition": "1. to give one's attention to a sound.",
+      "example": [
+        {
+          "eng": "Listen carefully to what the teacher says.",
+          "ch": "仔細聽老師說的話。"
+        }
+      ]
+    },
+    {
+      "eng": "little",
+      "kk": "ˈlɪtəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "小的",
+          "幼小的"
+        ],
+        [
+          "少許的",
+          "微不足道的"
+        ]
+      ],
+      "analysis": "此字為形容詞 little。源自古英語 lytel（意為小的、少量的），屬於日耳曼語繼承詞。本義指體積小或年紀幼小，亦可引申指數量或程度很少。",
+      "definition": "1. small in size, amount, or degree; 2. young or smaller than others of the same kind.",
+      "example": [
+        {
+          "eng": "They live in a little house near the park.",
+          "ch": "他們住在公園附近的一棟小房子裡。"
+        },
+        {
+          "eng": "There is little hope left for success.",
+          "ch": "成功的希望已經微乎其微了。"
+        }
+      ]
+    },
+    {
+      "eng": "live",
+      "kk": "lɪv",
+      "tense": "vi.",
+      "ch": [
+        [
+          "居住",
+          "生活"
+        ],
+        [
+          "生存",
+          "活著"
+        ]
+      ],
+      "analysis": "此字為不及物動詞 live。源自古英語 libban（意為活著、居住），屬於日耳曼語繼承詞。指維持生命或在某地定居，為標準不及物動詞。",
+      "definition": "1. to remain alive; to have life; 2. to make one's home in a particular place.",
+      "example": [
+        {
+          "eng": "Polar bears live in the Arctic.",
+          "ch": "北極熊住在北極。"
+        },
+        {
+          "eng": "We live in a peaceful neighborhood.",
+          "ch": "我們住在一個和平的社區。"
+        }
+      ]
+    },
+    {
+      "eng": "live",
+      "kk": "laɪv",
+      "tense": "adj.",
+      "ch": [
+        [
+          "現場直播的",
+          "實況轉播的"
+        ],
+        [
+          "活的",
+          "通電的"
+        ]
+      ],
+      "analysis": "此字為形容詞 live（讀音為 /laɪv/）。由古英語動詞衍生出的形容詞形式，現代主要指廣播或電視的「現場直播」，或指具生命力的「活的」動物、通電中的電線。",
+      "definition": "1. broadcast or performed in real time; 2. (of a broadcast, performance, or event) not recorded; 3. alive.",
+      "example": [
+        {
+          "eng": "We watched a live concert on television.",
+          "ch": "我們在電視上觀看了一場現場演唱會。"
+        },
+        {
+          "eng": "Be careful with the live electrical wires.",
+          "ch": "小心那些帶電的電線。"
+        }
+      ]
+    },
+    {
+      "eng": "lonely",
+      "kk": "ˈloʊnli",
+      "tense": "adj.",
+      "ch": [
+        [
+          "孤單的",
+          "寂寞的"
+        ],
+        [
+          "偏僻的",
+          "人跡罕至的"
+        ]
+      ],
+      "analysis": "此字為形容詞 lonely。由代名詞／形容詞 alone 或 lone 加上形容詞字尾 -ly 構成，為現代透明構詞。本義指因獨處而感到孤獨、寂寞，亦可形容地方偏僻、荒涼。",
+      "definition": "1. sad because one has no friends or company; feeling lonely; 2. (of a place) unfrequented and remote.",
+      "example": [
+        {
+          "eng": "She felt lonely after moving to a new city.",
+          "ch": "她搬到新城市後感到很寂寞。"
+        },
+        {
+          "eng": "They walked down a lonely country road.",
+          "ch": "他們走在一條寂靜偏僻的鄉間小路上。"
+        }
+      ]
+    },
+    {
+      "eng": "long",
+      "kk": "lɔŋ",
+      "tense": "vi.",
+      "ch": [
+        [
+          "渴望",
+          "熱望"
+        ]
+      ],
+      "analysis": "此字為不及物動詞 long（渴望）。源自古英語 langian（意為渴望、使感到無聊或漫長），與形容詞 long 同源。現代常搭配介系詞 for 使用，表達強烈的期盼。",
+      "definition": "1. have a strong wish or desire.",
+      "example": [
+        {
+          "eng": "She longs to see her family again.",
+          "ch": "她渴望再次見到她的家人。"
+        }
+      ]
+    },
+    {
+      "eng": "long",
+      "kk": "lɔŋ",
+      "tense": "adj.",
+      "ch": [
+        [
+          "長的",
+          "長期的"
+        ]
+      ],
+      "analysis": "此字為形容詞 long。源自古英語 lang / long，屬於日耳曼語繼承詞。本義指空間距離或時間跨度很大。",
+      "definition": "1. measuring a great distance from end to end; of great duration in time.",
+      "example": [
+        {
+          "eng": "The river is very long and deep.",
+          "ch": "這條河又長又深。"
+        }
+      ]
+    },
+    {
+      "eng": "long",
+      "kk": "lɔŋ",
+      "tense": "adv.",
+      "ch": [
+        [
+          "長期地",
+          "很久"
+        ]
+      ],
+      "analysis": "此字為副詞 long，由形容詞長期用法直接轉化而來，用以修飾動詞表示時間持續很久。",
+      "definition": "1. for a long time.",
+      "example": [
+        {
+          "eng": "He didn't stay long at the party.",
+          "ch": "他在派對上沒有待很久。"
+        }
+      ]
+    },
+    {
+      "eng": "look",
+      "kk": "lʊk",
+      "tense": "n.",
+      "ch": [
+        [
+          "表情",
+          "神情"
+        ],
+        [
+          "外表",
+          "視線"
+        ]
+      ],
+      "analysis": "此字為名詞 look，由動詞 look 轉化而來，指眼神、外貌外觀或短暫的一瞥。",
+      "definition": "1. an expression on someone's face; 2. an act of looking; appearance.",
+      "example": [
+        {
+          "eng": "She gave me a warm look of approval.",
+          "ch": "她給了我一個讚許的溫暖眼神。"
+        }
+      ]
+    },
+    {
+      "eng": "look",
+      "kk": "lʊk",
+      "tense": "vi.",
+      "ch": [
+        [
+          "看",
+          "瞧"
+        ],
+        [
+          "看起來",
+          "顯得"
+        ]
+      ],
+      "analysis": "此字為不及物動詞 look。源自古英語 lōcian（意為看、注視），屬於日耳曼語繼承詞。本義為轉動視線去「看」，亦可作為連綴動詞表示「看起來」的狀態，為標準不及物用法。",
+      "definition": "1. direct one's gaze toward someone or something; 2. have a particular appearance.",
+      "example": [
+        {
+          "eng": "Look at the beautiful sunset in the sky.",
+          "ch": "看天空中美麗的日落。"
+        },
+        {
+          "eng": "You look tired after working all day.",
+          "ch": "你工作了一整天，看起來很累。"
+        }
+      ]
+    },
+    {
+      "eng": "lose",
+      "kk": "luz",
+      "tense": "vt.",
+      "ch": [
+        [
+          "遺失",
+          "失去"
+        ],
+        [
+          "輸掉",
+          "失敗"
+        ]
+      ],
+      "analysis": "此字為及物動詞 lose。源自古英語 losian（意為遺失、毀壞、遭受損失）或受古諾斯語影響。本義為物件找不到了或失去了某種權利、情感，亦可指在競賽或比賽中「輸掉」，為及物動詞。",
+      "definition": "1. be deprived of or cease to have something; 2. fail to win a game, contest, or argument.",
+      "example": [
+        {
+          "eng": "I seem to lose my car keys frequently.",
+          "ch": "我似乎經常弄丟車鑰匙。"
+        },
+        {
+          "eng": "They worked hard, but they still lost the game.",
+          "ch": "他們努力了，但還是輸了這場比賽。"
+        }
+      ]
+    },
+    {
+      "eng": "lot",
+      "kk": "lɑt",
+      "tense": "n.",
+      "ch": [
+        [
+          "許多",
+          "大量"
+        ],
+        [
+          "抽籤",
+          "地段"
+        ]
+      ],
+      "analysis": "此字為名詞 lot。源自古英語 hlot（意為抽籤、份額），屬於日耳曼語繼承詞。本義透過抽籤分得的「份額」，引申為「許多」（如 a lot of）或一塊劃定好的「地段、停車場」。",
+      "definition": "1. a large number or amount; 2. a piece of land used for a particular purpose.",
+      "example": [
+        {
+          "eng": "There are a lot of students in the library.",
+          "ch": "圖書館裡有很多學生。"
+        },
+        {
+          "eng": "They parked their car in the empty lot.",
+          "ch": "他們把車停在空地段裡。"
+        }
+      ]
+    },
+    {
+      "eng": "loud",
+      "kk": "laʊd",
+      "tense": "adj.",
+      "ch": [
+        [
+          "大聲的",
+          "吵鬧的"
+        ]
+      ],
+      "analysis": "此字為形容詞 loud。源自古英語 lūd（意為響亮的、大聲的），屬於日耳曼語繼承詞。用以形容聲音強度大、嘈雜。",
+      "definition": "1. producing or capable of producing much noise; making a lot of sound.",
+      "example": [
+        {
+          "eng": "The music was too loud to talk over.",
+          "ch": "音樂太大聲了，無法在其中交談。"
+        }
+      ]
+    },
+    {
+      "eng": "loud",
+      "kk": "laʊd",
+      "tense": "adv.",
+      "ch": [
+        [
+          "大聲地",
+          "響亮地"
+        ]
+      ],
+      "analysis": "此字為副詞 loud（或 loudly），直接由形容詞兼作副詞使用，修飾說話或發出聲音的動作。",
+      "definition": "1. with a high volume; loudly.",
+      "example": [
+        {
+          "eng": "Please read the sentence aloud.",
+          "ch": "請把這個句子大聲朗讀出來。"
+        }
+      ]
+    },
+    {
+      "eng": "love",
+      "kk": "lʌv",
+      "tense": "n.",
+      "ch": [
+        [
+          "愛",
+          "愛情",
+          "熱愛"
+        ]
+      ],
+      "analysis": "此字為名詞 love，由動詞 love 轉化而來，指強烈的情感、親情、友情或浪漫愛情。",
+      "definition": "1. an intense feeling of deep affection.",
+      "example": [
+        {
+          "eng": "They expressed their love for each other on their wedding day.",
+          "ch": "他們在結婚當天表達了彼此的愛意。"
+        }
+      ]
+    },
+    {
+      "eng": "love",
+      "kk": "lʌv",
+      "tense": "vt.",
+      "ch": [
+        [
+          "愛",
+          "熱愛",
+          "喜歡"
+        ]
+      ],
+      "analysis": "此字為及物動詞 love。源自古英語 lufian（意為愛、疼愛、喜愛），屬於日耳曼語繼承詞。表示強烈的情感與喜愛，後方接直接受詞。",
+      "definition": "1. feel a deep romantic or sexual attachment to someone; have a great liking for something.",
+      "example": [
+        {
+          "eng": "Parents love their children unconditionally.",
+          "ch": "父母無條件地愛著他們的孩子。"
+        }
+      ]
+    },
+    {
+      "eng": "lovely",
+      "kk": "ˈlʌvli",
+      "tense": "adj.",
+      "ch": [
+        [
+          "可愛的",
+          "美好的",
+          "動人的"
+        ]
+      ],
+      "analysis": "此字為形容詞 lovely。由名詞 love 加上形容詞字尾 -ly 構成，為現代透明構詞。用以形容人、事物或風景非常可愛、美好。",
+      "definition": "1. exquisite; delightful; very pleasant or enjoyable.",
+      "example": [
+        {
+          "eng": "We had a lovely time at the picnic.",
+          "ch": "我們在野餐時度過了一段美好的時光。"
+        }
+      ]
+    },
+    {
+      "eng": "low",
+      "kk": "loʊ",
+      "tense": "adj.",
+      "ch": [
+        [
+          "低的",
+          "矮的"
+        ],
+        [
+          "低落的",
+          "底部的"
+        ]
+      ],
+      "analysis": "此字為形容詞 low。源自古英語 lǣwē 或早期日耳曼語源，指位置、高度或數量在基準線下方，或程度較低、情緒低落。",
+      "definition": "1. of low height; not high or tall; 2. below the normal or average level.",
+      "example": [
+        {
+          "eng": "The plane is flying at a low altitude.",
+          "ch": "這架飛機正以低空飛行。"
+        },
+        {
+          "eng": "Prices are quite low this season.",
+          "ch": "這個季節的價格相當低。"
+        }
+      ]
+    },
+    {
+      "eng": "low",
+      "kk": "loʊ",
+      "tense": "adv.",
+      "ch": [
+        [
+          "低地",
+          "向低處"
+        ]
+      ],
+      "analysis": "此字為副詞 low，直接由形容詞兼作副詞，修飾位置或聲音較低。",
+      "definition": "1. in or to a low position or level.",
+      "example": [
+        {
+          "eng": "The helicopter flew low over the trees.",
+          "ch": "直升機在樹木上方低空飛過。"
+        }
+      ]
+    },
+    {
+      "eng": "lucky",
+      "kk": "ˈlʌki",
+      "tense": "adj.",
+      "ch": [
+        [
+          "幸運的",
+          "吉利的"
+        ]
+      ],
+      "analysis": "此字為形容詞 lucky。由名詞 luck 加上形容詞字尾 -y 構成，為現代透明構詞。用以形容某人運氣好或某事帶來好運。",
+      "definition": "1. having good luck; bringing good fortune.",
+      "example": [
+        {
+          "eng": "He was lucky to survive the car accident.",
+          "ch": "他很幸運能在車禍中倖存。"
+        }
+      ]
+    },
+    {
+      "eng": "lunch",
+      "kk": "lʌntʃ",
+      "tense": "n.",
+      "ch": [
+        [
+          "午餐",
+          "午飯"
+        ]
+      ],
+      "analysis": "此字為名詞 lunch。為 luncheon 的截短形式，源自西北日耳曼語源，指在正午或白天中段食用的輕便餐點。",
+      "definition": "1. a meal eaten in the middle of the day.",
+      "example": [
+        {
+          "eng": "What would you like to eat for lunch?",
+          "ch": "你午餐想吃什麼？"
+        }
+      ]
+    },
+    {
+      "eng": "machine",
+      "kk": "məˈʃin",
+      "tense": "n.",
+      "ch": [
+        [
+          "機器",
+          "機械"
+        ]
+      ],
+      "analysis": "此字為名詞 machine。經由中古法語 machine，源自拉丁語 māchina，最終追溯至古希臘語 mēkhanḗ（意為工具、巧妙的發明、機關）。指利用動力執行特定工作的機械設備。",
+      "definition": "1. an apparatus using mechanical power and having several parts, each with a definite function and together performing a particular task.",
+      "example": [
+        {
+          "eng": "The washing machine is broken.",
+          "ch": "洗衣機壞了。"
+        }
+      ]
+    },
+    {
+      "eng": "mad",
+      "kk": "mæd",
+      "tense": "adj.",
+      "ch": [
+        [
+          "瘋狂的",
+          "精神失常的"
+        ],
+        [
+          "生氣的",
+          "惱火的"
+        ]
+      ],
+      "analysis": "此字為形容詞 mad。源自古英語 gemæd（意為狂亂的、瘋狂的），屬於日耳曼語繼承詞。本義指精神失常或瘋狂，在美式英語中也常用來表示「生氣的、憤怒的」。",
+      "definition": "1. mentally ill; insane; 2. very angry; annoyed.",
+      "example": [
+        {
+          "eng": "He must be mad to jump out of an airplane.",
+          "ch": "他從飛機上跳下去一定瘋了。"
+        },
+        {
+          "eng": "She was mad at her brother for breaking her toy.",
+          "ch": "她因為弟弟弄壞她的玩具而生氣。"
+        }
+      ]
+    },
+    {
+      "eng": "magic",
+      "kk": "ˈmædʒɪk",
+      "tense": "n.",
+      "ch": [
+        [
+          "魔法",
+          "魔術"
+        ],
+        [
+          "神奇",
+          "魅力"
+        ]
+      ],
+      "analysis": "此字為名詞 magic。經由中古法語 magique，源自拉丁語 magica，最終源自古希臘語 mageikós（波斯祭司 magus 的相關語）。本義指巫術、魔法，亦可引申為某種具有神奇魅力的氛圍。",
+      "definition": "1. the power of apparently influencing events by using mysterious or supernatural forces; 2. wonderful quality.",
+      "example": [
+        {
+          "eng": "The magician performed amazing magic tricks on stage.",
+          "ch": "魔術師在舞台上表演了精彩的魔術。"
+        },
+        {
+          "eng": "There is magic in the autumn air.",
+          "ch": "秋天的空氣中有一股神奇的魅力。"
+        }
+      ]
+    },
+    {
+      "eng": "magic",
+      "kk": "ˈmædʒɪk",
+      "tense": "adj.",
+      "ch": [
+        [
+          "魔術的",
+          "神奇的"
+        ]
+      ],
+      "analysis": "此字為形容詞 magic，由名詞 magic 兼作形容詞使用，用以修飾具有魔力或神奇特質的事物。",
+      "definition": "1. having or apparently having supernatural powers.",
+      "example": [
+        {
+          "eng": "She wished she had a magic wand.",
+          "ch": "她希望自己有一根魔杖。"
+        }
+      ]
+    },
+    {
+      "eng": "mail",
+      "kk": "meɪl",
+      "tense": "n.",
+      "ch": [
+        [
+          "郵件",
+          "郵政"
+        ]
+      ],
+      "analysis": "此字為名詞 mail。源自古法語 mahl（意為行李、袋子），其源頭為日耳曼語族。原指裝文件的袋子，後演變為郵件、信件以及整個郵政系統。",
+      "definition": "1. letters and packages conveyed by the postal system.",
+      "example": [
+        {
+          "eng": "Did you check the mail this morning?",
+          "ch": "你今天早上看過信箱了嗎？"
+        }
+      ]
+    },
+    {
+      "eng": "mail",
+      "kk": "meɪl",
+      "tense": "vt.",
+      "ch": [
+        [
+          "寄信",
+          "郵寄"
+        ]
+      ],
+      "analysis": "此字為及物動詞 mail，由名詞郵件轉化而來，指透過郵政系統寄送信件或包裹，後方須接直接受詞。",
+      "definition": "1. send a letter or package by mail.",
+      "example": [
+        {
+          "eng": "I need to mail this letter to my grandparents.",
+          "ch": "我需要把這封信寄給我祖父母。"
+        }
+      ]
+    },
+    {
+      "eng": "main",
+      "kk": "meɪn",
+      "tense": "adj.",
+      "ch": [
+        [
+          "主要的",
+          "最重要的"
+        ]
+      ],
+      "analysis": "此字為形容詞 main。源自古英語 mægen（意為力量、權力），屬於日耳曼語繼承詞。後引申為佔據主導地位的、主要的。",
+      "definition": "1. chief in size, importance, or extent; principal.",
+      "example": [
+        {
+          "eng": "We live on the main road in the city.",
+          "ch": "我們住在城市裡的主幹道上。"
+        }
+      ]
+    },
+    {
+      "eng": "make",
+      "kk": "meɪk",
+      "tense": "vt.",
+      "ch": [
+        [
+          "製作",
+          "製造"
+        ],
+        [
+          "使得",
+          "使成為"
+        ]
+      ],
+      "analysis": "此字為及物動詞 make。源自古英語 macian（意為建造、製造、做），屬於日耳曼語繼承詞。本義為動手製作物品，亦可作為使役動詞，表示促使某人或某物產生特定狀態，後接直接受詞。",
+      "definition": "1. form something by putting parts together or combining substances; create; 2. cause to do or happen; bring about.",
+      "example": [
+        {
+          "eng": "She likes to make a cake for her friends' birthdays.",
+          "ch": "她喜歡為朋友的生日做蛋糕。"
+        },
+        {
+          "eng": "The funny movie made us laugh.",
+          "ch": "這部有趣的電影讓我們笑了。"
+        }
+      ]
+    },
+    {
+      "eng": "man",
+      "kk": "mæn",
+      "tense": "n.",
+      "ch": [
+        [
+          "男人",
+          "男子"
+        ],
+        [
+          "人類"
+        ]
+      ],
+      "analysis": "此字為名詞 man。源自古英語 mann（意為人類、成年男子），屬於日耳曼語繼承詞。本義泛指人類，隨後專指成年男性，亦可泛指全人類。",
+      "definition": "1. an adult human male; 2. a human being of either sex; a person.",
+      "example": [
+        {
+          "eng": "A tall man is standing outside the door.",
+          "ch": "一個高大的男人正站在門外。"
+        },
+        {
+          "eng": "Every man has the right to express his opinion.",
+          "ch": "每個人都有權利表達他的意見。"
+        }
+      ]
+    },
+    {
+      "eng": "many",
+      "kk": "ˈmɛni",
+      "tense": "adj.",
+      "ch": [
+        [
+          "許多",
+          "多的"
+        ]
+      ],
+      "analysis": "此字為形容詞 many。源自古英語 manig，屬於日耳曼語繼承詞。專門用來修飾可數名詞的複數形，表示數量眾多。",
+      "definition": "1. a large number of.",
+      "example": [
+        {
+          "eng": "Many tourists visit this museum every year.",
+          "ch": "許多遊客每年都參觀這座博物館。"
+        }
+      ]
+    },
+    {
+      "eng": "map",
+      "kk": "mæp",
+      "tense": "n.",
+      "ch": [
+        [
+          "地圖"
+        ]
+      ],
+      "analysis": "此字為名詞 map。縮寫自拉丁語 mappa mundi（意為世界的布幔），其中 mappa 原意為桌布、布巾。經由中古英語演變成指繪有地理區域的「地圖」。",
+      "definition": "1. a diagrammatic representation of an area of land or sea showing physical features, cities, roads, etc.",
+      "example": [
+        {
+          "eng": "We used a map to find our way through the city.",
+          "ch": "我們用一張地圖在城市中找路。"
+        }
+      ]
+    },
+    {
+      "eng": "mark",
+      "kk": "mɑrk",
+      "tense": "n.",
+      "ch": [
+        [
+          "記號",
+          "標記"
+        ],
+        [
+          "分數",
+          "成績"
+        ]
+      ],
+      "analysis": "此字為名詞 mark。源自古英語 mearc（意為邊界、標誌、記號），屬於日耳曼語繼承詞。本義為物體表面的標記或記號，後引申指考試的分數、評定成績。",
+      "definition": "1. a small line, mark, or other indication on a surface; 2. a grade or score given for student work.",
+      "example": [
+        {
+          "eng": "Leave a pencil mark where you want to cut.",
+          "ch": "在你想要切割的地方留下鉛筆記號。"
+        },
+        {
+          "eng": "She received good marks on her math test.",
+          "ch": "她在數學考試中獲得了高分。"
+        }
+      ]
+    },
+    {
+      "eng": "mark",
+      "kk": "mɑrk",
+      "tense": "vt.",
+      "ch": [
+        [
+          "做記號",
+          "標示"
+        ],
+        [
+          "批改",
+          "打分數"
+        ]
+      ],
+      "analysis": "此字為及物動詞 mark，由名詞標記轉化而來，指在表面加上記號，或對學生的考卷進行批改評分，後方須接直接受詞。",
+      "definition": "1. make a mark or marks on; 2. assess and grade student papers.",
+      "example": [
+        {
+          "eng": "Mark the correct answers on the answer sheet.",
+          "ch": "在答案紙上標出正確答案。"
+        },
+        {
+          "eng": "The teacher is busy marking the exams.",
+          "ch": "老師正忙著批改考試考卷。"
+        }
+      ]
+    },
+    {
+      "eng": "market",
+      "kk": "ˈmɑrkɪt",
+      "tense": "n.",
+      "ch": [
+        [
+          "市場",
+          "集市"
+        ]
+      ],
+      "analysis": "此字為名詞 market。源自拉丁語 mercātus（意為交易、市集），衍生自 mercārī（買賣、貿易）。經由日耳曼語族或古法語傳入英語，指買賣商品的市場或集市。",
+      "definition": "1. a regular gathering of people for the purchase and sale of provisions, livestock, and other commodities.",
+      "example": [
+        {
+          "eng": "She buys fresh vegetables at the local market.",
+          "ch": "她在當地市場買新鮮蔬菜。"
+        }
+      ]
+    },
+    {
+      "eng": "married",
+      "kk": "ˈmɛrid",
+      "tense": "adj.",
+      "ch": [
+        [
+          "已婚的",
+          "結婚的"
+        ]
+      ],
+      "analysis": "此字為形容詞 married。由動詞 marry 加上過去分詞兼形容詞字尾 -ed 構成，為現代透明構詞。專指已經結婚、處於婚姻狀態的。",
+      "definition": "1. having a husband or wife; wedded.",
+      "example": [
+        {
+          "eng": "They have been happily married for ten years.",
+          "ch": "他們結婚十年，生活一直很幸福。"
+        }
+      ]
+    },
+    {
+      "eng": "mathematics",
+      "kk": "ˌmæθəˈmætɪks",
+      "tense": "n.",
+      "ch": [
+        [
+          "數學"
+        ]
+      ],
+      "analysis": "此字為名詞 mathematics。源自拉丁語 mathematica，最終源自古希臘語 mathēmatikḗ（意為學術、數學），根源為 manthanein（學習）。專門指研究數量、結構、空間以及變化的學科。",
+      "definition": "1. the abstract science of number, quantity, and space.",
+      "example": [
+        {
+          "eng": "Mathematics is an important subject in school.",
+          "ch": "數學是學校裡的一門重要學科。"
+        }
+      ]
+    },
+    {
+      "eng": "math",
+      "kk": "mæθ",
+      "tense": "n.",
+      "ch": [
+        [
+          "數學"
+        ]
+      ],
+      "analysis": "此字為名詞 math。為 mathematics 的截短形式（美式英語中常見的簡稱），指數學科或數學運算。",
+      "definition": "1. mathematics (informal).",
+      "example": [
+        {
+          "eng": "He finds math homework very easy.",
+          "ch": "他覺得數學作業非常簡單。"
+        }
+      ]
+    },
+    {
+      "eng": "matter",
+      "kk": "ˈmætɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "事情",
+          "問題"
+        ],
+        [
+          "物質"
+        ]
+      ],
+      "analysis": "此字為名詞 matter。透過古法語 matere，源自拉丁語 māteria（意為木材、原料、物質），最終衍生自 māter（母親）。本義為構成物體的「物質」，隨後引申為需要處理的「事情」或「問題」。",
+      "definition": "1. a physical substance in general; 2. a subject or situation under consideration.",
+      "example": [
+        {
+          "eng": "We need to discuss an important matter.",
+          "ch": "我們需要討論一件重要的事情。"
+        },
+        {
+          "eng": "All physical objects are made of matter.",
+          "ch": "所有物理物體都是由物質組成的。"
+        }
+      ]
+    },
+    {
+      "eng": "matter",
+      "kk": "ˈmætɚ",
+      "tense": "vi.",
+      "ch": [
+        [
+          "重要",
+          "要緊"
+        ]
+      ],
+      "analysis": "此字為不及物動詞 matter。由名詞 matter 轉化而來，指具有重要性或影響力，常作否定句或疑問句的謂語，為標準不及物動詞。",
+      "definition": "1. be important or significant.",
+      "example": [
+        {
+          "eng": "It doesn't matter if we are a few minutes late.",
+          "ch": "我們晚了幾分鐘也沒關係。"
+        }
+      ]
+    },
+    {
+      "eng": "may",
+      "kk": "meɪ",
+      "tense": "modal v.",
+      "ch": [
+        [
+          "可能",
+          "也許"
+        ],
+        [
+          "可以",
+          "獲准"
+        ]
+      ],
+      "analysis": "此字為情態助動詞 may。源自古英語 magan（意為有能力、得以），屬於日耳曼語繼承詞。現代英語中主要用來表達可能性或徵求／給予許可，後方直接接動詞原形。",
+      "definition": "1. expressing possibility; 2. expressing permission.",
+      "example": [
+        {
+          "eng": "It may rain this afternoon, so take an umbrella.",
+          "ch": "今天下午可能會下雨，帶把傘吧。"
+        },
+        {
+          "eng": "May I use your phone to make a call?",
+          "ch": "我可以用你的電話打個通話嗎？"
+        }
+      ]
+    },
+    {
+      "eng": "maybe",
+      "kk": "ˈmeɪbi",
+      "tense": "adv.",
+      "ch": [
+        [
+          "也許",
+          "可能"
+        ]
+      ],
+      "analysis": "此字為副詞 maybe。由情態助動詞 may 與動詞 be 結合成詞（字面義為「可能為是」），為現代透明構詞。用以表示不確定的推測。",
+      "definition": "1. perhaps; possibly.",
+      "example": [
+        {
+          "eng": "Maybe we can go to the movies tomorrow.",
+          "ch": "也許我們明天可以去看電影。"
+        }
+      ]
+    },
+    {
+      "eng": "meal",
+      "kk": "mil",
+      "tense": "n.",
+      "ch": [
+        [
+          "餐",
+          "飯"
+        ]
+      ],
+      "analysis": "此字為名詞 meal。源自古英語 mǣl（意為規定的時間、節期、進餐時刻），屬於日耳曼語繼承詞。本義指固定的時間點，後專指在該時刻享用的「一餐」或「飯食」。",
+      "definition": "1. an occasion when food is eaten, such as breakfast, lunch, or dinner.",
+      "example": [
+        {
+          "eng": "They cooked a delicious meal for their guests.",
+          "ch": "他們為客人烹調了一頓美味的餐點。"
+        }
+      ]
+    }
+  ]
+}

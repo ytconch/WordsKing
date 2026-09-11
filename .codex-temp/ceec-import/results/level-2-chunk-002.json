@@ -1,0 +1,1781 @@
+{
+  "level": 2,
+  "chunkIndex": 2,
+  "inputs": [
+    "arrow",
+    "article",
+    "artist",
+    "asleep",
+    "attempt",
+    "attend",
+    "attention",
+    "author",
+    "available",
+    "average",
+    "avoid",
+    "backpack",
+    "backward",
+    "backwards",
+    "badminton",
+    "bake",
+    "bakery",
+    "balance",
+    "balcony",
+    "balloon",
+    "bar",
+    "barbecue",
+    "barber",
+    "bark",
+    "base",
+    "basic",
+    "basics",
+    "basis",
+    "bathe",
+    "battle",
+    "beard",
+    "beat",
+    "beauty",
+    "beer",
+    "beg",
+    "beginner",
+    "behave",
+    "being",
+    "belief",
+    "bend",
+    "better",
+    "beyond",
+    "bill",
+    "billion",
+    "birth",
+    "biscuit",
+    "bit",
+    "blackboard",
+    "blame",
+    "blank"
+  ],
+  "rows": [
+    {
+      "eng": "arrow",
+      "kk": "/ˈæroʊ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "箭",
+          "箭矢"
+        ],
+        [
+          "箭頭符號",
+          "指針"
+        ]
+      ],
+      "analysis": "此字為古英語時期繼承詞（源自日耳曼語族），無複雜拉丁構詞。語意上從原始的「射擊用箭」延伸出現代指示方向的「箭頭符號」與指標功能。",
+      "definition": "1. a weapon consisting of a straight, thin stick with a sharp point at one end, shot from a bow; 2. a sign or symbol shaped like an arrow used to show direction or position.",
+      "example": [
+        {
+          "eng": "The archer pulled the arrow back in his bow.",
+          "ch": "弓箭手將箭拉回弓弦上。"
+        },
+        {
+          "eng": "Follow the blue arrows on the floor to exit.",
+          "ch": "跟著地板上的藍色箭頭指示即可離開。"
+        }
+      ]
+    },
+    {
+      "eng": "article",
+      "kk": "/ˈɑːrtɪkl/",
+      "tense": "n.",
+      "ch": [
+        [
+          "文章",
+          "報導"
+        ],
+        [
+          "物品",
+          "物件"
+        ],
+        [
+          "冠詞"
+        ]
+      ],
+      "analysis": "源自拉丁語 articulus（意為「小關節、部分、條款」），經由古法語與中古英語進入英語。語意從最初的「法律或合約的小條款」逐漸擴大延伸為「報章雜誌的文章」、「獨立的物品」以及文法上的「冠詞」。",
+      "definition": "1. a piece of writing published in a newspaper or magazine; 2. a particular item or object; 3. a word such as 'a', 'an', or 'the' used with nouns to specify grammatical definiteness.",
+      "example": [
+        {
+          "eng": "She read an interesting article about space exploration.",
+          "ch": "她讀了一篇關於太空探索的有趣文章。"
+        },
+        {
+          "eng": "Please ensure all personal articles are removed from the seats.",
+          "ch": "請確保所有個人物品都已從座位上拿走。"
+        },
+        {
+          "eng": "The word 'apple' requires the indefinite article 'an'.",
+          "ch": "單字 'apple' 需要使用不定冠詞 'an'。"
+        }
+      ]
+    },
+    {
+      "eng": "artist",
+      "kk": "/ˈɑːrtɪst/",
+      "tense": "n.",
+      "ch": [
+        [
+          "藝術家",
+          "畫家"
+        ],
+        [
+          "藝人",
+          "表演者"
+        ]
+      ],
+      "analysis": "源自中古法語 artiste，根源於中世紀拉丁語 artista，最終源自拉丁語 ars（意為「技藝、藝術」）加上表示人的字尾。語意從早期的「精通某種技藝的人」演變為專指事奉美術創作的「藝術家」及演藝界的「藝人」。",
+      "definition": "1. a person who creates paintings, drawings, or other works of art; 2. a professional performer such as a singer, actor, or musician.",
+      "example": [
+        {
+          "eng": "The famous artist spent months painting the mural.",
+          "ch": "這位著名的藝術家花了好幾個月畫這幅壁畫。"
+        },
+        {
+          "eng": "Many popular music artists performed at the charity concert.",
+          "ch": "許多流行音樂藝人在慈善音樂會上表演。"
+        }
+      ]
+    },
+    {
+      "eng": "asleep",
+      "kk": "/əˈsliːp/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "睡著的"
+        ],
+        [
+          "麻木的",
+          "失去知覺的"
+        ]
+      ],
+      "analysis": "由古英語前綴 a-（表示狀態，源自 on）與形容詞或副詞 sleep 結合而成。主要作敘述形容詞使用，指人或動物處於睡眠狀態，或身體部位因壓迫而「麻木」。",
+      "definition": "1. sleeping or in a state of sleep; 2. (of a body part) numb and lacking normal sensation.",
+      "example": [
+        {
+          "eng": "The baby fell fast asleep in her mother's arms.",
+          "ch": "小寶寶在媽媽懷裡睡得很熟。"
+        },
+        {
+          "eng": "My left leg went asleep after sitting on the floor too long.",
+          "ch": "我坐在地上太久，左腿都麻了。"
+        }
+      ]
+    },
+    {
+      "eng": "attempt",
+      "kk": "/əˈtɛmpt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "嘗試",
+          "企圖"
+        ]
+      ],
+      "analysis": "源自拉丁語 attemptare（ad- 表加強 + temptare 試探、嘗試），經由古法語進入英語。名詞形式表示為達成某個目標所做出的努力或嘗試。",
+      "definition": "1. an act of trying to do something, especially something difficult.",
+      "example": [
+        {
+          "eng": "She made a brave attempt to climb the steep mountain.",
+          "ch": "她勇敢地嘗試攀登這座陡峭的高山。"
+        }
+      ]
+    },
+    {
+      "eng": "attempt",
+      "kk": "/əˈtɛmpt/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "嘗試",
+          "企圖"
+        ]
+      ],
+      "analysis": "源自拉丁語 attemptare，動詞用法表示著手去做或試圖完成某項任務、挑戰。",
+      "definition": "1. to make an effort to do, achieve, or complete something.",
+      "example": [
+        {
+          "eng": "Do not attempt to fix the electrical wiring yourself.",
+          "ch": "請勿嘗試自己修理電線。"
+        }
+      ]
+    },
+    {
+      "eng": "attend",
+      "kk": "/əˈtɛnd/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "出席",
+          "參加"
+        ],
+        [
+          "上（學）"
+        ],
+        [
+          "照料",
+          "處理"
+        ]
+      ],
+      "analysis": "源自拉丁語 attendere（ad- 朝向 + tendere 伸展、專心），經古法語進入英語。原始義為「把注意力轉向」或「隨侍在側」，現代主要引申為「出席活動」、「就讀學校」以及「照料、處理事務」。",
+      "definition": "1. to be present at an event or meeting; 2. to go regularly to an educational institution; 3. to deal with or pay attention to someone or something.",
+      "example": [
+        {
+          "eng": "All employees are required to attend the safety briefing.",
+          "ch": "所有員工都必須參加安全簡報會議。"
+        },
+        {
+          "eng": "Both of her children attend the local elementary school.",
+          "ch": "她的兩個孩子都在當地的小學就讀。"
+        },
+        {
+          "eng": "She stopped to attend to a customer at the front desk.",
+          "ch": "她停下來招呼櫃檯前的一位顧客。"
+        }
+      ]
+    },
+    {
+      "eng": "attend",
+      "kk": "/əˈtɛnd/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "專心",
+          "傾聽"
+        ],
+        [
+          "照料",
+          "伺候"
+        ]
+      ],
+      "analysis": "源自拉丁語 attendere 的不及物用法，表示給予關注或提供照料服務（通常與 to 併用）。",
+      "definition": "1. to pay close attention to something; 2. to provide care or service to someone.",
+      "example": [
+        {
+          "eng": "Please attend to what the instructor is explaining.",
+          "ch": "請專心聽教練的講解。"
+        },
+        {
+          "eng": "The nurse will attend to the patients in the evening.",
+          "ch": "護理師會在晚上照顧病患。"
+        }
+      ]
+    },
+    {
+      "eng": "attention",
+      "kk": "/əˈtɛnʃn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "注意力",
+          "專心"
+        ],
+        [
+          "關心",
+          "照料"
+        ],
+        [
+          "立正姿勢"
+        ]
+      ],
+      "analysis": "為 attend 的名詞衍生物，源自拉丁語 attention-（源自 attendere）。語意涵蓋心智的專注、對他人的關照，以及軍事與體操口令中的「立正」姿勢。",
+      "definition": "1. notice, thought, or consideration taken of someone or something; 2. careful care, treatment, or consideration; 3. a military posture of standing straight with feet together and arms at the sides.",
+      "example": [
+        {
+          "eng": "The teacher tried to capture the students' attention.",
+          "ch": "老師試圖吸引學生的注意力。"
+        },
+        {
+          "eng": "This sensitive legal matter requires immediate attention.",
+          "ch": "這個敏感的法律問題需要立即處理。"
+        },
+        {
+          "eng": "The drill sergeant shouted, 'Attention!' to the recruits.",
+          "ch": "操練士官向新兵大喊「立正！」。"
+        }
+      ]
+    },
+    {
+      "eng": "author",
+      "kk": "/ˈɔːθər/",
+      "tense": "n.",
+      "ch": [
+        [
+          "作者",
+          "作家"
+        ],
+        [
+          "創辦者",
+          "發起人"
+        ]
+      ],
+      "analysis": "源自拉丁語 auctor（意為「生產者、創始人、作家」），經古法語 auteur 進入英語。詞根與 augere（增加、促進）有關。現代除指寫書的作家外，也廣泛指計畫、政策或概念的「創辦者、始作俑者」。",
+      "definition": "1. a writer of a book, article, or other literary work; 2. a person who invents or creates something such as a plan or policy.",
+      "example": [
+        {
+          "eng": "The bestselling author signed books for fans after the speech.",
+          "ch": "這位暢銷書作家在演講後為書迷簽書。"
+        },
+        {
+          "eng": "She is the author of the new corporate health policy.",
+          "ch": "她是這項全新公司健康政策的推手。"
+        }
+      ]
+    },
+    {
+      "eng": "available",
+      "kk": "/əˈveɪləbl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "可取得的",
+          "可買到的"
+        ],
+        [
+          "有空的",
+          "可聯繫的"
+        ]
+      ],
+      "analysis": "由動詞 avail（利用、有益，源自拉丁語 valere）加上形容詞字尾 -able 構成。原意為「可被利用的」，現代延伸為商品或資源「可買到、可取得」，以及人員「有空、隨時可接洽」的狀態。",
+      "definition": "1. able to be used or obtained; at hand; 2. (of a person) free to do something; not busy.",
+      "example": [
+        {
+          "eng": "Tickets for the concert are available online and at the box office.",
+          "ch": "演唱會門票可以在網路上和售票處買到。"
+        },
+        {
+          "eng": "Is the manager available to speak with us right now?",
+          "ch": "經理現在有空跟我們談談嗎？"
+        }
+      ]
+    },
+    {
+      "eng": "average",
+      "kk": "/ˈævərɪdʒ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "平均數",
+          "平均值"
+        ],
+        [
+          "一般水準",
+          "中等標準"
+        ]
+      ],
+      "analysis": "源自阿拉伯語 awāriz（指受損的貨物），經由地中海航運商貿術語演變為法語 avarie（海損），再轉化為計算平均分攤海損的商業概念，進而演變成現代的「平均數」與「一般水準」。",
+      "definition": "1. a number calculated by dividing the sum of values by the number of values; 2. a standard or level regarded as usual or ordinary.",
+      "example": [
+        {
+          "eng": "The daily temperature in July has a monthly average of 30 degrees.",
+          "ch": "七月份的每日氣溫月平均為30度。"
+        },
+        {
+          "eng": "Her test scores are well above the class average.",
+          "ch": "她的考試成績遠高於全班平均水準。"
+        }
+      ]
+    },
+    {
+      "eng": "average",
+      "kk": "/ˈævərɪdʒ/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "平均的"
+        ],
+        [
+          "一般的",
+          "普通的",
+          "平常的"
+        ]
+      ],
+      "analysis": "由名詞 average 轉品而來的形容詞，用來修飾數值上的平均，或形容人事物表現、品質處於一般、平常的水準。",
+      "definition": "1. constituting the result obtained by adding several amounts together and dividing the total; 2. typical, normal, or ordinary.",
+      "example": [
+        {
+          "eng": "What is the average speed of a commercial airliner?",
+          "ch": "民航客機的平均飛行速度是多少？"
+        },
+        {
+          "eng": "He lives an average life like most working people.",
+          "ch": "他過着像大多數上班族一樣的普通生活。"
+        }
+      ]
+    },
+    {
+      "eng": "avoid",
+      "kk": "/əˈvɔɪd/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "避免",
+          "迴避"
+        ],
+        [
+          "避開",
+          "躲開"
+        ]
+      ],
+      "analysis": "源自古法語 esvuidier（es- 表示徹底 + vuidier 清空，源自 vide 空的），經中古英語演變而來。原意為「使空出來、排空、撤離」，後演變成「遠離、避開、迴避人事物」。",
+      "definition": "1. to keep away from or prevent something from happening; 2. to stay away from someone or something.",
+      "example": [
+        {
+          "eng": "Drive carefully on the highway to avoid accidents.",
+          "ch": "在公路上小心駕駛以避免發生事故。"
+        },
+        {
+          "eng": "She tried to avoid her boss after making a huge mistake.",
+          "ch": "她在犯了大錯後試圖躲開老闆。"
+        }
+      ]
+    },
+    {
+      "eng": "backpack",
+      "kk": "/ˈbækpæk/",
+      "tense": "n.",
+      "ch": [
+        [
+          "背包",
+          "遠足背包"
+        ]
+      ],
+      "analysis": "現代透明複合詞，由 back（背部）與 pack（包裹、背包）結合而成，指背在背上的袋子或背包。",
+      "definition": "1. a bag carried on the back by shoulder straps, commonly used by hikers and students.",
+      "example": [
+        {
+          "eng": "He packed his laptop and notebooks into his backpack.",
+          "ch": "他把筆電和筆記本裝進背包裡。"
+        }
+      ]
+    },
+    {
+      "eng": "backward",
+      "kk": "/ˈbækwərd/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "向後的",
+          "反向的"
+        ],
+        [
+          "落後的",
+          "發展遲緩的"
+        ]
+      ],
+      "analysis": "由 back（後面）加上表方向的複合字尾 -ward 構成。用來形容方向朝後，或引申形容社會、技術等發展「落後」的。",
+      "definition": "1. directed in the direction that is opposite to the front; 2. undeveloped or behind in intellectual, technological, or social progress.",
+      "example": [
+        {
+          "eng": "She took a backward step to let the crowd pass.",
+          "ch": "她往後退了一步讓人群過去。"
+        },
+        {
+          "eng": "The region was economically backward until new industries arrived.",
+          "ch": "在新產業進駐之前，該地區在經濟上相當落後。"
+        }
+      ]
+    },
+    {
+      "eng": "backward",
+      "kk": "/ˈbækwərd/",
+      "tense": "adv.",
+      "ch": [
+        [
+          "向後",
+          "倒退地"
+        ]
+      ],
+      "analysis": "backward 的副詞用法，表動作方向朝後或倒著進行。亦常見於片語 'backward and forward'。",
+      "definition": "1. toward the back or rear; in the reverse direction.",
+      "example": [
+        {
+          "eng": "He looked backward to see if anyone was following him.",
+          "ch": "他回頭看是否有人在跟蹤他。"
+        }
+      ]
+    },
+    {
+      "eng": "backwards",
+      "kk": "/ˈbækwərdz/",
+      "tense": "adv.",
+      "ch": [
+        [
+          "向後",
+          "倒退地"
+        ],
+        [
+          "倒序地",
+          "倒過來地"
+        ]
+      ],
+      "analysis": "由 backward 加上副詞所有格屬格複數字尾 -s 形成的美式及常見副詞形式，用法與 backward 雷同，常指空間上的向後或順序上的倒過來。",
+      "definition": "1. toward the back or rear; 2. in the reverse of the usual order or direction.",
+      "example": [
+        {
+          "eng": "Can you recite the alphabet backwards from Z to A?",
+          "ch": "你能把英文字母表從 Z 到 A 倒背如流嗎？"
+        }
+      ]
+    },
+    {
+      "eng": "badminton",
+      "kk": "/ˈbædmɪntən/",
+      "tense": "n.",
+      "ch": [
+        [
+          "羽球",
+          "羽毛球運動"
+        ]
+      ],
+      "analysis": "地名衍生詞，源自英國格洛斯特郡的格魯費爾德公爵府邸「巴德明頓莊園」（Badminton House），該運動於19世紀中葉在那裡流行開來而得名。",
+      "definition": "1. a racquet sport played by two opposing players (singles) or two paired couples (doubles) hitting a shuttlecock across a net.",
+      "example": [
+        {
+          "eng": "They play badminton every weekend at the community center.",
+          "ch": "他們每個週末都在社區中心打羽球。"
+        }
+      ]
+    },
+    {
+      "eng": "bake",
+      "kk": "/beɪk/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "烘烤",
+          "烤（麵包、蛋糕等）"
+        ]
+      ],
+      "analysis": "源自古英語 bacan（意為「烘烤」），屬於日耳曼語族繼承詞。及物動詞指將食物放入烤箱中加熱烤熟。",
+      "definition": "1. to cook food by dry heat inside an oven.",
+      "example": [
+        {
+          "eng": "Grandma likes to bake fresh cookies for the kids.",
+          "ch": "奶奶喜歡為孩子們烤新鮮餅乾。"
+        }
+      ]
+    },
+    {
+      "eng": "bake",
+      "kk": "/beɪk/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "烘焙",
+          "烤東西"
+        ],
+        [
+          "（在烈日下）炙烤",
+          "烤熱"
+        ]
+      ],
+      "analysis": "bake 的不及物用法，指進行烘焙烹調工作，或在酷熱環境中像被烤一樣難受。",
+      "definition": "1. to perform the process of baking food; 2. to become very hot or dry in the sun.",
+      "example": [
+        {
+          "eng": "The smell of bread baking filled the entire kitchen.",
+          "ch": "烘烤麵包的香味充滿了整個廚房。"
+        },
+        {
+          "eng": "We baked in the sun all afternoon at the beach.",
+          "ch": "我們整個下午都在海灘上曬得熱烘烘的。"
+        }
+      ]
+    },
+    {
+      "eng": "bakery",
+      "kk": "/ˈbeɪkəri/",
+      "tense": "n.",
+      "ch": [
+        [
+          "麵包店",
+          "烘焙坊"
+        ]
+      ],
+      "analysis": "由動詞 bake 加上名詞字尾 -ery（表示場所或行業）構成，指製作並販售麵包、糕點的店舖。",
+      "definition": "1. a place where bread, cakes, and pastries are baked or sold.",
+      "example": [
+        {
+          "eng": "She stopped at the local bakery to buy a fresh loaf of bread.",
+          "ch": "她在當地的麵包店停下來買一條新鮮麵包。"
+        }
+      ]
+    },
+    {
+      "eng": "balance",
+      "kk": "/ˈbæləns/",
+      "tense": "n.",
+      "ch": [
+        [
+          "平衡",
+          "均衡"
+        ],
+        [
+          "餘額",
+          "結餘"
+        ]
+      ],
+      "analysis": "源自拉丁語 bilanx（bis 兩次 + lanx 盤子，意為「兩盤的天平」），經由古法語 balance 進入英語。字面義即「天平」，延伸出物理或生活上的「平衡」，以及銀行帳戶中的「餘額」。",
+      "definition": "1. an even distribution of weight enabling someone or something to remain upright and steady; 2. the amount of money left in a bank account.",
+      "example": [
+        {
+          "eng": "The acrobat showed incredible balance walking on the tightrope.",
+          "ch": "特技演員在鋼索上展現了驚人的平衡感。"
+        },
+        {
+          "eng": "She checked her account balance at the ATM before shopping.",
+          "ch": "她在購物前用提款機查詢了帳戶餘額。"
+        }
+      ]
+    },
+    {
+      "eng": "balance",
+      "kk": "/ˈbæləns/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使保持平衡",
+          "權衡"
+        ],
+        [
+          "結算",
+          "使收支平衡"
+        ]
+      ],
+      "analysis": "由名詞 balance 轉品而來的動詞，指使物體維持平衡、在不同選項間權衡利弊，或結算財務帳目。",
+      "definition": "1. to keep or put something in a steady position so that it does not fall; 2. to compare the importance of different things; 3. to calculate the difference between credits and debits in an account.",
+      "example": [
+        {
+          "eng": "He tried to balance a soccer ball on his head.",
+          "ch": "他試圖用頭頂著一顆足球保持平衡。"
+        },
+        {
+          "eng": "Small business owners must carefully balance their income and expenses.",
+          "ch": "小企業主必須仔細平衡他們的收支。"
+        }
+      ]
+    },
+    {
+      "eng": "balcony",
+      "kk": "/ˈbælkəni/",
+      "tense": "n.",
+      "ch": [
+        [
+          "陽台",
+          "露台"
+        ],
+        [
+          "（劇場的）樓座"
+        ]
+      ],
+      "analysis": "源自義大利語 balcone（意為「大架子、鷹架」），經由法語或直接進入英語。指建築物外牆突出的平台（陽台），或指劇院內高處的座位區（樓座）。",
+      "definition": "1. a platform enclosed by a wall or balustrade on the outside of a building, projecting from an upper wall; 2. the upper floor of seating in a theater.",
+      "example": [
+        {
+          "eng": "They stood on the hotel balcony to enjoy the ocean view.",
+          "ch": "他們站在飯店陽台上欣賞海景。"
+        },
+        {
+          "eng": "We bought cheap tickets for seats in the balcony.",
+          "ch": "我們買了樓座的便宜票。"
+        }
+      ]
+    },
+    {
+      "eng": "balloon",
+      "kk": "/bəˈluːn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "氣球",
+          "熱氣球"
+        ]
+      ],
+      "analysis": "源自義大利語 ballone（意為「大球」），字尾經法語改寫（-one 轉為 -oon），最終進入英語。指充氣後飄浮或膨脹的橡膠氣球或飛行器。",
+      "definition": "1. a small rubber bag filled with air or gas, used as a toy or decoration; 2. a large bag filled with hot air or gas to carry people in the air.",
+      "example": [
+        {
+          "eng": "The children played with colorful balloons at the birthday party.",
+          "ch": "孩子們在生日派對上玩色彩繽紛的氣球。"
+        },
+        {
+          "eng": "Hot air balloons flew gracefully across the morning sky.",
+          "ch": "熱氣球優雅地飛過清晨的天空。"
+        }
+      ]
+    },
+    {
+      "eng": "bar",
+      "kk": "/bɑːr/",
+      "tense": "n.",
+      "ch": [
+        [
+          "酒吧",
+          "酒館"
+        ],
+        [
+          "長條形物",
+          "棒",
+          "條"
+        ],
+        [
+          "障礙物",
+          "法蘭西律師界（法庭）"
+        ]
+      ],
+      "analysis": "源自古法語 barre（意為「橫木、柵欄」），其源頭可能為拉丁語 barra。原始義為阻擋門窗或通道的「橫木」，延伸出「長條形物（如鐵棒、巧克力棒）」、「賣酒的櫃檯與酒吧」，以及司法界法庭上區隔法官與大眾的「柵欄（引申為律師界）」。",
+      "definition": "1. a counter where alcoholic drinks are served, or a room or establishment containing such a counter; 2. a long, rigid piece of wood, metal, or other material; 3. a barrier or obstruction.",
+      "example": [
+        {
+          "eng": "They met at a local bar to have a drink after work.",
+          "ch": "他們下班後在當地的酒吧碰面喝一杯。"
+        },
+        {
+          "eng": "He ate a bar of chocolate for a quick energy boost.",
+          "ch": "他吃了一條巧克力來快速補充體力。"
+        },
+        {
+          "eng": "She passed the bar exam and became a licensed attorney.",
+          "ch": "她通過了律師考試並成為合格律師。"
+        }
+      ]
+    },
+    {
+      "eng": "bar",
+      "kk": "/bɑːr/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "阻擋",
+          "封鎖"
+        ],
+        [
+          "禁止",
+          "排除"
+        ]
+      ],
+      "analysis": "由名詞 bar 轉品而來的動詞，原意為「用橫木關上、封鎖門窗」，延伸為「禁止某人進入或做某事」。",
+      "definition": "1. to fasten a door or window with a bar; 2. to officially forbid someone from doing something or entering a place.",
+      "example": [
+        {
+          "eng": "The guards decided to bar the gates for security reasons.",
+          "ch": "基於安全理由，警衛決定封鎖大門。"
+        },
+        {
+          "eng": "The athlete was barred from competition due to a doping violation.",
+          "ch": "該運動員因違反禁藥規定而被禁止參賽。"
+        }
+      ]
+    },
+    {
+      "eng": "barbecue",
+      "kk": "/ˈbɑːrbɪkjuː/",
+      "tense": "n.",
+      "ch": [
+        [
+          "烤肉",
+          "戶外烤肉活動"
+        ]
+      ],
+      "analysis": "源自加勒比海印地安阿拉瓦克語 barbacoa（意為「架在木樁上的木造烤架或床」），經由西班牙語 barbacoa 傳入英語。演變為指在戶外架架子烤肉的烹調方式與社交活動。",
+      "definition": "1. a meal or gathering at which meat, fish, or other food is cooked out of doors on a rack over an open fire or gas heat.",
+      "example": [
+        {
+          "eng": "We are hosting a backyard barbecue for our neighbors this Sunday.",
+          "ch": "我們本週日要在後院舉辦鄰居烤肉派對。"
+        }
+      ]
+    },
+    {
+      "eng": "barbecue",
+      "kk": "/ˈbɑːrbɪkjuː/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "烤肉",
+          "燒烤"
+        ]
+      ],
+      "analysis": "由名詞 barbecue 轉品而來的動詞，指以烤肉方式烹調肉品。",
+      "definition": "1. to cook food on a barbecue.",
+      "example": [
+        {
+          "eng": "He loves to barbecue chicken wings and ribs during the summer.",
+          "ch": "他喜歡在夏天烤雞翅和排骨。"
+        }
+      ]
+    },
+    {
+      "eng": "barber",
+      "kk": "/ˈbɑːrbər/",
+      "tense": "n.",
+      "ch": [
+        [
+          "理髮師",
+          "男髮型師"
+        ]
+      ],
+      "analysis": "源自中古法語 barber (現代法語 barbier)，源自拉丁語 barba（意為「鬍子」）。在中世紀，理髮師同時也兼任外科醫生與放血師。現代專指為男性剪髮、修鬍的理髮師。",
+      "definition": "1. a person whose occupation is to cut and dress men's hair and shave or trim beards.",
+      "example": [
+        {
+          "eng": "My grandfather has been going to the same barber for forty years.",
+          "ch": "我爺爺四十年來一直去同一家理髮店理髮。"
+        }
+      ]
+    },
+    {
+      "eng": "bark",
+      "kk": "/bɑːrk/",
+      "tense": "n.",
+      "ch": [
+        [
+          "狗叫聲",
+          "樹皮"
+        ]
+      ],
+      "analysis": "此處包含兩個同形異源詞合併。一為源自日耳曼語族的「樹皮」；一為源自動詞擬聲詞的「狗叫聲」。",
+      "definition": "1. the sharp, explosive cry of a dog, fox, or seal; 2. the tough outer covering of the woody stems and roots of trees.",
+      "example": [
+        {
+          "eng": "The sudden bark of the guard dog startled the intruder.",
+          "ch": "護衛犬突然的狂吠嚇到了闖入者。"
+        },
+        {
+          "eng": "The thick bark of the oak tree protects it from harsh weather.",
+          "ch": "橡樹厚實的樹皮能保護它抵禦惡劣天氣。"
+        }
+      ]
+    },
+    {
+      "eng": "bark",
+      "kk": "/bɑːrk/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "（狗）吠",
+          "叫喊"
+        ],
+        [
+          "厲聲說話",
+          "咆哮"
+        ]
+      ],
+      "analysis": "擬聲詞來源，指狗發出短促的叫聲，亦可比喻人發出嚴厲、急促的命令或咆哮聲。",
+      "definition": "1. (of a dog) to emit a sharp, explosive cry; 2. to speak sharply or commandingly.",
+      "example": [
+        {
+          "eng": "Stray dogs tend to bark at passing strangers.",
+          "ch": "流浪狗往往會對經過的陌生人吠叫。"
+        },
+        {
+          "eng": "The sergeant began to bark orders at the new recruits.",
+          "ch": "士官開始向新兵厲聲下達命令。"
+        }
+      ]
+    },
+    {
+      "eng": "base",
+      "kk": "/beɪs/",
+      "tense": "n.",
+      "ch": [
+        [
+          "底部",
+          "基座"
+        ],
+        [
+          "基地",
+          "根據地"
+        ],
+        [
+          "（化學）鹼"
+        ]
+      ],
+      "analysis": "源自希臘語 basis（意為「步態、步子、基底」），經拉丁語 basis 與法語進入英語。原意為支撐物體底部的「基座」，引申為軍事「基地」、棒球的「壘包」，以及化學上的「鹼」。",
+      "definition": "1. the lowest support or part of an object; 2. a station used as a military headquarters or supply center; 3. a chemical compound that reacts with an acid to form a salt.",
+      "example": [
+        {
+          "eng": "The heavy lamp has a wide metal base to keep it stable.",
+          "ch": "這盞重燈有一個寬金屬底座以保持穩定。"
+        },
+        {
+          "eng": "The military jet returned safely to its air base.",
+          "ch": "軍用噴射機安全返回空軍基地。"
+        },
+        {
+          "eng": "Sodium hydroxide is a strong base used in manufacturing.",
+          "ch": "氫氧化鈉是製造業中常用的強鹼。"
+        }
+      ]
+    },
+    {
+      "eng": "base",
+      "kk": "/beɪs/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "以...為基礎",
+          "把...設在"
+        ]
+      ],
+      "analysis": "由名詞 base 轉品而來的動詞，通常與介詞 on 或 at 連用，指建立基底或將總部、人員配置於某處。",
+      "definition": "1. to use a particular idea, fact, or situation as the foundation for something; 2. to station a person or organization in a particular place.",
+      "example": [
+        {
+          "eng": "The film is based on a true story about space exploration.",
+          "ch": "這部電影是根據一個關於太空探索的真實故事改編的。"
+        },
+        {
+          "eng": "The multinational company bases its European operations in London.",
+          "ch": "這家跨國公司的歐洲營運總部設在倫敦。"
+        }
+      ]
+    },
+    {
+      "eng": "basic",
+      "kk": "/ˈbeɪsɪk/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "基本的",
+          "基礎的"
+        ],
+        [
+          "最簡單的",
+          "初級的"
+        ]
+      ],
+      "analysis": "由名詞 base 加上形容詞字尾 -ic 構成。指構成事物核心或最底層的要素，即「基本的」或「初級的」。",
+      "definition": "1. forming an essential foundation or starting point; fundamental; 2. simple and unelaborated; of primary importance.",
+      "example": [
+        {
+          "eng": "Learning vocabulary and grammar is a basic requirement for language learners.",
+          "ch": "學習單字和文法是語言學習者的基本要求。"
+        },
+        {
+          "eng": "This guide provides basic instructions for operating the camera.",
+          "ch": "本指南提供了操作相機的基本說明。"
+        }
+      ]
+    },
+    {
+      "eng": "basics",
+      "kk": "/ˈbeɪsɪks/",
+      "tense": "n.",
+      "ch": [
+        [
+          "基本原則",
+          "基礎知識"
+        ],
+        [
+          "基本必需品"
+        ]
+      ],
+      "analysis": "由形容詞 basic 的複數形式轉化的名詞，用來泛指任何領域中最核心、最基礎的知識、技巧或必需品。",
+      "definition": "1. the essential facts, principles, or skills of a subject; 2. fundamental needs or requirements.",
+      "example": [
+        {
+          "eng": "Before playing a match, you need to master the basics of tennis.",
+          "ch": "在進行比賽之前，你需要掌握網球的基本功。"
+        },
+        {
+          "eng": "Their low income barely covers the basics like food and rent.",
+          "ch": "他們微薄的收入僅夠支付食物和房租等基本必需品。"
+        }
+      ]
+    },
+    {
+      "eng": "basis",
+      "kk": "/ˈbeɪsɪs/",
+      "tense": "n.",
+      "ch": [
+        [
+          "基礎",
+          "根據"
+        ],
+        [
+          "原則",
+          "方式"
+        ]
+      ],
+      "analysis": "直接借自拉丁語 basis（源自希臘語 basis），為 base 的學術性同源異形或單數形式。指抽象的「基礎、根據」或用來計算頻率的「原則、基準」。",
+      "definition": "1. the underlying support or foundation for an idea, argument, or process; 2. a particular system or standard according to which something is done.",
+      "example": [
+        {
+          "eng": "There is no scientific basis for these wild claims.",
+          "ch": "這些荒謬的說法沒有任何科學依據。"
+        },
+        {
+          "eng": "Employees receive performance reviews on an annual basis.",
+          "ch": "員工每年接受一次績效考核。"
+        }
+      ]
+    },
+    {
+      "eng": "bathe",
+      "kk": "/beɪð/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "洗澡",
+          "替...洗澡"
+        ],
+        [
+          "浸潤",
+          "使沐浴在光線或液體中"
+        ]
+      ],
+      "analysis": "源自古英語 bæþian（源自名詞 bæþ 浴池），屬於日耳曼語族繼承詞。及物動詞指幫人或動物洗澡，或在文學修辭中指光線、水流「浸潤、籠罩」某物。",
+      "definition": "1. to wash someone or something in water; 2. to flood or envelop something with light, liquid, or warmth.",
+      "example": [
+        {
+          "eng": "She gently bathed her newborn baby in a small plastic tub.",
+          "ch": "她輕輕地在小塑膠盆裡幫新生兒洗澡。"
+        },
+        {
+          "eng": "The morning sun bathed the mountain peaks in a golden glow.",
+          "ch": "早晨的陽光將山峰籠罩在金色的光輝中。"
+        }
+      ]
+    },
+    {
+      "eng": "bathe",
+      "kk": "/beɪð/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "洗澡",
+          "游泳"
+        ],
+        [
+          "泡澡",
+          "沐浴"
+        ]
+      ],
+      "analysis": "bathe 的不及物用法，指進行洗澡或在戶外天然水域（如海、河、湖）中游泳、戲水。",
+      "definition": "1. to wash oneself in water; 2. to swim or relax in the sea, a river, or a pool.",
+      "example": [
+        {
+          "eng": "Many tourists enjoy bathing in the warm mineral springs.",
+          "ch": "許多遊客喜歡在溫暖的礦泉中泡湯。"
+        }
+      ]
+    },
+    {
+      "eng": "battle",
+      "kk": "/ˈbætl/",
+      "tense": "n.",
+      "ch": [
+        [
+          "戰役",
+          "搏鬥"
+        ],
+        [
+          "競爭",
+          "角逐"
+        ]
+      ],
+      "analysis": "源自晚期拉丁語 battualia（意為「軍事演練、擊劍練習」），源自 battuere（打、擊）。經由古法語 battle 進入英語。原意為軍隊間的「戰役、交戰」，引申為抽象的「人與疾病、困難的競爭或抗爭」。",
+      "definition": "1. a sustained fight between large organized armed forces; 2. a prolonged struggle or contest between opposing forces or for a specific goal.",
+      "example": [
+        {
+          "eng": "Many soldiers lost their lives in the historic battle.",
+          "ch": "許多士兵在這場歷史性的戰役中失去了生命。"
+        },
+        {
+          "eng": "She fought a long and courageous battle against cancer.",
+          "ch": "她與癌症進行了漫長而勇敢的抗爭。"
+        }
+      ]
+    },
+    {
+      "eng": "battle",
+      "kk": "/ˈbætl/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "搏鬥",
+          "作戰"
+        ],
+        [
+          "奮鬥",
+          "競爭"
+        ]
+      ],
+      "analysis": "由名詞 battle 轉品而成的動詞，指進行激烈的武力交戰或克服逆境的奮鬥（常與 against 或 with 連用）。",
+      "definition": "1. to engage in a fight or struggle against someone or something.",
+      "example": [
+        {
+          "eng": "The firefighters had to battle fierce winds to put out the wildfire.",
+          "ch": "消防員必須對抗強風來撲滅野火。"
+        }
+      ]
+    },
+    {
+      "eng": "beard",
+      "kk": "/bɪrd/",
+      "tense": "n.",
+      "ch": [
+        [
+          "鬍子",
+          "鬍鬚"
+        ]
+      ],
+      "analysis": "源自古英語 beard，屬於日耳曼語族繼承詞，與德語 Bart 同源。專指長在成年男性下巴和臉頰周圍的毛髮。",
+      "definition": "1. the hair that grows on a man's chin and cheeks.",
+      "example": [
+        {
+          "eng": "He decided to grow a thick beard during the winter months.",
+          "ch": "他決定在冬天留一臉濃密的鬍子。"
+        }
+      ]
+    },
+    {
+      "eng": "beat",
+      "kk": "/biːt/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "擊打",
+          "敲擊"
+        ],
+        [
+          "打敗",
+          "勝過"
+        ],
+        [
+          "（心臟等）跳動",
+          "拍打（節拍）"
+        ]
+      ],
+      "analysis": "源自古英語 bēatan（意為「打、擊」），屬於強變化動詞。原始義為用棍棒等物「敲打」，延伸出競賽中「擊敗對手」、心臟或翅膀的「律動拍打」，以及音樂的「拍子」。",
+      "definition": "1. to strike a person or thing repeatedly and violently; 2. to defeat an opponent in a game, competition, or election; 3. (of the heart or wings) to make a regular rhythmic movement or sound.",
+      "example": [
+        {
+          "eng": "The chef began to beat the eggs and sugar together in a bowl.",
+          "ch": "主廚開始在碗裡把雞蛋和糖一起攪拌打發。"
+        },
+        {
+          "eng": "Our local soccer team managed to beat the defending champions.",
+          "ch": "我們當地的足球隊設法打敗了衛冕冠軍。"
+        },
+        {
+          "eng": "Her heart beat faster as she walked onto the stage.",
+          "ch": "她走上舞台時，心跳得更快了。"
+        }
+      ]
+    },
+    {
+      "eng": "beat",
+      "kk": "/biːt/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "（連續）拍打"
+        ],
+        [
+          "（心跳）搏動"
+        ]
+      ],
+      "analysis": "beat 的不及物用法，指雨水、海浪等連續拍打，或心臟、脈搏持續規律地跳動。",
+      "definition": "1. to strike or pound repeatedly; 2. to pulsate or throb regularly.",
+      "example": [
+        {
+          "eng": "Heavy rain continued to beat against the glass window.",
+          "ch": "大雨持續拍打著玻璃窗。"
+        },
+        {
+          "eng": "The doctor checked to make sure the patient's heart was beating normally.",
+          "ch": "醫生檢查以確保病人的心臟跳動正常。"
+        }
+      ]
+    },
+    {
+      "eng": "beauty",
+      "kk": "/ˈbjuːti/",
+      "tense": "n.",
+      "ch": [
+        [
+          "美麗",
+          "漂亮"
+        ],
+        [
+          "美人",
+          "美好之物"
+        ]
+      ],
+      "analysis": "源自古法語 beaute，源自拉丁語 bellitas（源自 bellus 美麗的）。經由中古英語進入英語，指人事物展現出的美感、漂亮的特質，或具體指「美人」與「美好的事物」。",
+      "definition": "1. a combination of qualities that pleases the intellect or moral sense, or delights the eye; 2. a beautiful person or thing.",
+      "example": [
+        {
+          "eng": "She was captivated by the natural beauty of the Swiss Alps.",
+          "ch": "她被瑞士阿爾卑斯山的自然美景迷住了。"
+        },
+        {
+          "eng": "The vintage car parked outside was an absolute beauty.",
+          "ch": "停在外面那輛古董車真是個極品美物。"
+        }
+      ]
+    },
+    {
+      "eng": "beer",
+      "kk": "/bɪr/",
+      "tense": "n.",
+      "ch": [
+        [
+          "啤酒"
+        ]
+      ],
+      "analysis": "源自古英語 bēor（意為「啤酒」），屬於日耳曼語族繼承詞，與荷蘭語 bier、德語 Bier 同源。指以麥芽與啤酒花釀製的發酵酒精飲料。",
+      "definition": "1. an alcoholic drink made from yeast-fermented malt and flavored with hops.",
+      "example": [
+        {
+          "eng": "They ordered two cold glasses of beer to accompany their meal.",
+          "ch": "他們點了兩杯冰啤酒佐餐。"
+        }
+      ]
+    },
+    {
+      "eng": "beg",
+      "kk": "/bɛɡ/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "懇求",
+          "乞求"
+        ],
+        [
+          "請求給予"
+        ]
+      ],
+      "analysis": "源自盎格魯-諾曼語 begger。動詞指卑微、懇切地請求施捨或原諒。",
+      "definition": "1. to ask someone earnestly or humbly for something, typically food or money.",
+      "example": [
+        {
+          "eng": "The stray dog looked at us with big eyes as if to beg for food.",
+          "ch": "流浪狗用大大的眼睛看著我們，彷彿在乞求食物。"
+        },
+        {
+          "eng": "He had to beg his parents for forgiveness after making a terrible mistake.",
+          "ch": "他在犯下可怕的錯誤後，不得不懇求父母的原諒。"
+        }
+      ]
+    },
+    {
+      "eng": "beg",
+      "kk": "/bɛɡ/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "乞討",
+          "乞食"
+        ]
+      ],
+      "analysis": "beg 的不及物用法，指在街頭向路人乞討金錢或食物。",
+      "definition": "1. to live by asking people for money or food as charity.",
+      "example": [
+        {
+          "eng": "The poor man was forced to beg on the street corner.",
+          "ch": "這名可憐的男子被迫在街角行乞。"
+        }
+      ]
+    },
+    {
+      "eng": "beginner",
+      "kk": "/bɪˈɡɪnər/",
+      "tense": "n.",
+      "ch": [
+        [
+          "初學者",
+          "新手"
+        ]
+      ],
+      "analysis": "由動詞 begin（開始）加上名詞字尾 -er 構成，指剛開始學習某項技藝或剛接觸某領域的人。",
+      "definition": "1. a person who is starting to learn or do something for the first time.",
+      "example": [
+        {
+          "eng": "This ski slope is gentle and perfectly safe for absolute beginners.",
+          "ch": "這條滑雪道坡度平緩，對完全的初學者來說非常安全。"
+        }
+      ]
+    },
+    {
+      "eng": "behave",
+      "kk": "/bɪˈheɪv/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "（反身）表現自己"
+        ]
+      ],
+      "analysis": "behave 作及物動詞時，通常與反身代名詞連用（如 behave oneself），意為約束自己的行為、表現乖巧。",
+      "definition": "1. to conduct oneself in a proper or specified way (usually used with a reflexive pronoun).",
+      "example": [
+        {
+          "eng": "Please behave yourself while we are having guests over.",
+          "ch": "家裡有客人時請注意你的言行舉止。"
+        }
+      ]
+    },
+    {
+      "eng": "behave",
+      "kk": "/bɪˈheɪv/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "表現",
+          "舉止得體"
+        ],
+        [
+          "（機器等）運作正常"
+        ]
+      ],
+      "analysis": "由前綴 be-（加強語氣）與古英語動詞 habban（擁有、持有，引申為行為舉止控制）結合而成。原意為「自我約束、表現」，現代多用於指人的禮貌舉止，或延伸指機械設備運作順暢。",
+      "definition": "1. to act in a particular, usually good or polite way; 2. (of a machine or system) to function properly.",
+      "example": [
+        {
+          "eng": "The teacher told the children to behave during the museum tour.",
+          "ch": "老師告訴孩子們在參觀博物館時要乖乖聽話、舉止得體。"
+        },
+        {
+          "eng": "The old computer has finally started to behave properly today.",
+          "ch": "這台舊電腦今天終於開始正常運作了。"
+        }
+      ]
+    },
+    {
+      "eng": "being",
+      "kk": "/ˈbiːɪŋ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "生物",
+          "存在物"
+        ],
+        [
+          "存在",
+          "生命"
+        ]
+      ],
+      "analysis": "由 be 動詞的現在分詞 being 轉品而來的名詞，源自古英語 bēon（意為「存在、成為」）。指任何有生命的實體（如 human being），或抽象的「存在、生命本質」。",
+      "definition": "1. a living creature or human; 2. the state or quality of having existence.",
+      "example": [
+        {
+          "eng": "We must protect all living beings on our planet.",
+          "ch": "我們必須保護地球上的所有生物。"
+        },
+        {
+          "eng": "The news shook him to the very core of his being.",
+          "ch": "這則消息震撼了他的靈魂深處。"
+        }
+      ]
+    },
+    {
+      "eng": "belief",
+      "kk": "/bɪˈliːf/",
+      "tense": "n.",
+      "ch": [
+        [
+          "信念",
+          "信仰"
+        ],
+        [
+          "相信",
+          "信任"
+        ]
+      ],
+      "analysis": "由動詞 believe 派生而來的名詞，源自日耳曼語族（古英語 ġelīefa）。指內心深信不疑的觀念、宗教信仰，或對某人某事真實性的信任。",
+      "definition": "1. an acceptance that something is true or that something exists; 2. trust, faith, or confidence in someone or something.",
+      "example": [
+        {
+          "eng": "Freedom of speech and religious belief are fundamental human rights.",
+          "ch": "言論自由與宗教信仰是基本人權。"
+        },
+        {
+          "eng": "She has strong belief in her team's ability to win the championship.",
+          "ch": "她對團隊贏得冠軍的能力有堅定的信心。"
+        }
+      ]
+    },
+    {
+      "eng": "bend",
+      "kk": "/bɛnd/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "彎曲",
+          "使彎曲"
+        ],
+        [
+          "使傾斜",
+          "使屈服"
+        ]
+      ],
+      "analysis": "源自古英語 bendan（意為「張弓、繫上繩子以使之彎曲」），屬於日耳曼語族繼承詞。及物動詞指將直的物體（如金屬、身體部位）弄彎，或引申為使規則、意志屈服。",
+      "definition": "1. to force something straight into a curve or angle; 2. to make something submit or yield to pressure.",
+      "example": [
+        {
+          "eng": "He used his bare hands to bend the thick iron rod.",
+          "ch": "他空手把那根粗鐵棒弄彎。"
+        },
+        {
+          "eng": "The detective tried to bend the rules to help his friend.",
+          "ch": "偵探試圖變通規則來幫他的朋友。"
+        }
+      ]
+    },
+    {
+      "eng": "bend",
+      "kk": "/bɛnd/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "彎腰",
+          "屈身"
+        ],
+        [
+          "（道路、河流等）彎曲",
+          "轉彎"
+        ]
+      ],
+      "analysis": "bend 的不及物用法，指人主動彎曲身體或膝蓋，或指道路、河道向前延伸時發生彎曲轉向。",
+      "definition": "1. to lean or turn the body downward or in a particular direction; 2. (of a road or river) to curve or change direction.",
+      "example": [
+        {
+          "eng": "She had to bend down to pick up her dropped keys.",
+          "ch": "她不得不彎腰撿起掉落的鑰匙。"
+        },
+        {
+          "eng": "The path begins to bend sharply to the left near the old barn.",
+          "ch": "小路在舊穀倉附近開始急遽向左轉彎。"
+        }
+      ]
+    },
+    {
+      "eng": "better",
+      "kk": "/ˈbɛtər/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "更好的",
+          "較佳的"
+        ],
+        [
+          "康復的",
+          "好轉的"
+        ]
+      ],
+      "analysis": "為形容詞 good 的不規則比較級，源自古英語 betera。指品質或程度優於原先，或指生病後健康狀況「好轉的」。",
+      "definition": "1. more excellent or effective than another; of a higher standard; 2. (of a person's health) recovered or improving from an illness.",
+      "example": [
+        {
+          "eng": "Practice makes perfect; your guitar playing is much better now.",
+          "ch": "熟能生巧，你現在的吉他彈得好多了。"
+        },
+        {
+          "eng": "He stayed in bed all day and feels much better this evening.",
+          "ch": "他在床上躺了一整天，今天傍晚感覺好多了。"
+        }
+      ]
+    },
+    {
+      "eng": "better",
+      "kk": "/ˈbɛtər/",
+      "tense": "adv.",
+      "ch": [
+        [
+          "更好地",
+          "更佳地"
+        ]
+      ],
+      "analysis": "為 well 的不規則比較級副詞，指以更高明、更有效或更令人滿意的方式執行動作。",
+      "definition": "1. more thoroughly, effectively, or to a higher standard than before or than someone else.",
+      "example": [
+        {
+          "eng": "If you study hard, you will perform much better on the next exam.",
+          "ch": "如果你努力讀書，下次考試表現會好得多。"
+        }
+      ]
+    },
+    {
+      "eng": "beyond",
+      "kk": "/biˈjɑːnd/",
+      "tense": "prep.",
+      "ch": [
+        [
+          "在...的那邊",
+          "遠於"
+        ],
+        [
+          "超出",
+          "超越"
+        ]
+      ],
+      "analysis": "由古英語前綴 bi-（在...旁邊）與 geond（跨越、那邊）結合而成。原意為空間上的「跨越、在彼端」，現代廣泛延伸用於時間、範圍、理解力或能力的「超出、無法企及」。",
+      "definition": "1. at or to the further side of; 2. occurring after a particular time or event; 3. outside the reach or scope of.",
+      "example": [
+        {
+          "eng": "The small village lies just beyond the mountain range.",
+          "ch": "那個小村莊就位於山脈的另一邊。"
+        },
+        {
+          "eng": "The complex physics problem was completely beyond my understanding.",
+          "ch": "這個複雜的物理問題完全超出我的理解能力。"
+        }
+      ]
+    },
+    {
+      "eng": "bill",
+      "kk": "/bɪl/",
+      "tense": "n.",
+      "ch": [
+        [
+          "帳單",
+          "費用清單"
+        ],
+        [
+          "法案",
+          "議案"
+        ],
+        [
+          "鳥喙"
+        ]
+      ],
+      "analysis": "此處包含兩個同形異源詞。一為源自中世紀拉丁語 bulla（意為「印章、官方文件」），經古法語演變出財務「帳單」與法律「議案」之義；一為源自日耳曼語族的古英語 bile，指鳥類的「鳥喙」。",
+      "definition": "1. a statement of money owed for goods or services supplied; 2. a proposed law presented to a parliament for discussion; 3. the beak of a bird.",
+      "example": [
+        {
+          "eng": "She asked the waiter for the restaurant bill after dinner.",
+          "ch": "晚餐後她向服務生索取餐廳帳單。"
+        },
+        {
+          "eng": "The senate voted to pass the new environmental protection bill.",
+          "ch": "參議院投票通過了新的環境保護法案。"
+        },
+        {
+          "eng": "The pelican used its large bill to catch fish in the lake.",
+          "ch": "鵜鶘用它的大鳥喙在湖中捕魚。"
+        }
+      ]
+    },
+    {
+      "eng": "billion",
+      "kk": "/ˈbɪljən/",
+      "tense": "n.",
+      "ch": [
+        [
+          "十億"
+        ],
+        [
+          "巨額",
+          "大量"
+        ]
+      ],
+      "analysis": "源自中古法語 billion（由 million 百萬加上字尾 bi- 衍生而來），在現代英語中通行美式標準，即 1,000,000,000 十億。可用作確切數字或泛指巨額財富。",
+      "definition": "1. the cardinal number equal to one thousand million (1,000,000,000); 2. a vast, indefinite number.",
+      "example": [
+        {
+          "eng": "The population of the world has exceeded eight billion people.",
+          "ch": "世界人口已經超過八十億。"
+        },
+        {
+          "eng": "The tech company is worth billions of dollars today.",
+          "ch": "這家科技公司如今價值數十億美元。"
+        }
+      ]
+    },
+    {
+      "eng": "birth",
+      "kk": "/bɜːrθ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "出生",
+          "誕生"
+        ],
+        [
+          "起源",
+          "創立"
+        ]
+      ],
+      "analysis": "源自古英語 ġebyrt（源自日耳曼語族，與 bear 生育同源）。指生物脫離母體「出生」的事件，或引申為某個制度、國家的「誕生與起源」。",
+      "definition": "1. the emergence of a baby or young from the body of its mother; 2. the beginning or origin of something such as an idea or institution.",
+      "example": [
+        {
+          "eng": "The proud parents announced the birth of their baby girl.",
+          "ch": "這對驕傲的父母宣布了他們寶貝女兒的誕生。"
+        },
+        {
+          "eng": "Historians study the birth of modern democracy in ancient Greece.",
+          "ch": "歷史學家研究古希臘現代民主制度的起源。"
+        }
+      ]
+    },
+    {
+      "eng": "biscuit",
+      "kk": "/ˈbɪskɪt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "餅乾（英式）"
+        ],
+        [
+          "小圓麵包（美式）"
+        ]
+      ],
+      "analysis": "源自拉丁語 biscoctus（bis 兩次 + coctus 煮熟、烤熟），意為「烤過兩次的硬麵包餅乾」，經由古法語 bescuit 進入英語。在英國指一般的脆餅乾，在美國則指一種蓬鬆的小圓麵包。",
+      "definition": "1. (UK) a small, flat, baked sweet or savory cake; a cookie; 2. (US) a small, soft, fluffy leavened bread roll.",
+      "example": [
+        {
+          "eng": "She likes to dip chocolate biscuits into her afternoon tea.",
+          "ch": "她喜歡把巧克力餅乾沾到下午茶裡。"
+        },
+        {
+          "eng": "The restaurant serves warm biscuits with melted butter and honey.",
+          "ch": "這家餐廳供應熱騰騰的小圓麵包，搭配融化的奶油和蜂蜜。"
+        }
+      ]
+    },
+    {
+      "eng": "bit",
+      "kk": "/bɪt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "小塊",
+          "少許",
+          "一點點"
+        ],
+        [
+          "（馬嚼口）嚼子",
+          "（電腦資訊）位元"
+        ]
+      ],
+      "analysis": "源自古英語 bīta（意為「咬下一口」），屬於日耳曼語族繼承詞。原意為「一口咬下的東西」，引申為「小碎片、少許數量」，亦可指馬口銜鐵（嚼子）或數位科技中的「位元（binary digit）」。",
+      "definition": "1. a small piece, quantity, or amount of something; 2. a metal mouthpiece of a bridle used to control a horse; 3. the smallest unit of data in a computer.",
+      "example": [
+        {
+          "eng": "Can you give me a bit of paper and a pen to write this down?",
+          "ch": "你能給我一張紙和一支筆把這個記下來嗎？"
+        },
+        {
+          "eng": "Wait a bit and I will be ready to leave with you.",
+          "ch": "等一下，我馬上就可以跟你一起走了。"
+        }
+      ]
+    },
+    {
+      "eng": "blackboard",
+      "kk": "/ˈblækbɔːrd/",
+      "tense": "n.",
+      "ch": [
+        [
+          "黑板"
+        ]
+      ],
+      "analysis": "現代透明複合詞，由 black（黑色）與 board（木板、板子）結合而成。指早期學校教室中塗成黑色的書寫用板子。",
+      "definition": "1. a dark green or black vertical board of slate or other material on which to write with chalk in a classroom.",
+      "example": [
+        {
+          "eng": "The math teacher wrote the complex formula clearly on the blackboard.",
+          "ch": "數學老師把複雜的公式清晰地寫在黑板上。"
+        }
+      ]
+    },
+    {
+      "eng": "blame",
+      "kk": "/bleɪm/",
+      "tense": "n.",
+      "ch": [
+        [
+          "責任",
+          "責備",
+          "過失"
+        ]
+      ],
+      "analysis": "由動詞 blame 轉品而來的名詞，指因壞事或錯誤而承受的責難或歸咎責任。",
+      "definition": "1. responsibility for a fault, wrong, or misfortune.",
+      "example": [
+        {
+          "eng": "He refused to accept the blame for the delayed project.",
+          "ch": "他拒絕承擔專案延誤的責任。"
+        }
+      ]
+    },
+    {
+      "eng": "blame",
+      "kk": "/bleɪm/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "責怪",
+          "把...歸咎於"
+        ]
+      ],
+      "analysis": "源自晚期拉丁語 blasphemare（意為「褻瀆、辱罵」），經由古法語 blame 進入英語（與 blaspheme 同源但語音演變不同）。意義從早期的「詛咒、責備」演變為現代的「歸咎責任於某人」。",
+      "definition": "1. to feel or declare that someone or something is responsible for a fault or wrong.",
+      "example": [
+        {
+          "eng": "Do not blame others for your own mistakes.",
+          "ch": "不要把自己的錯誤怪罪於他人。"
+        }
+      ]
+    },
+    {
+      "eng": "blank",
+      "kk": "/blæŋk/",
+      "tense": "n.",
+      "ch": [
+        [
+          "空白處",
+          "空格"
+        ],
+        [
+          "空白表格"
+        ]
+      ],
+      "analysis": "由形容詞 blank 轉品而來的名詞，指紙張上需要填寫的空格或留白部分。",
+      "definition": "1. a space left to be filled in on a form or document.",
+      "example": [
+        {
+          "eng": "Fill in the blanks with the correct words from the box.",
+          "ch": "用方框中的正確單字填空。"
+        }
+      ]
+    },
+    {
+      "eng": "blank",
+      "kk": "/blæŋk/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "空白的",
+          "未填寫的"
+        ],
+        [
+          "茫然的",
+          "表情呆滯的"
+        ]
+      ],
+      "analysis": "源自古法語 blanc（意為「白色的、無光澤的」），源自日耳曼語族法蘭克語。原意為「白色的、明亮的」，後來在英語中演變為紙張「沒有寫字的空白」、心智「一片空白、茫然的」。",
+      "definition": "1. (of a space or surface) completely empty or unfilled; 2. (of a person's expression) showing no understanding, emotion, or interest.",
+      "example": [
+        {
+          "eng": "Please write your answers in the blank spaces provided on the test paper.",
+          "ch": "請將答案寫在試卷上提供的空白處。"
+        },
+        {
+          "eng": "When asked the difficult question, she gave me a blank look.",
+          "ch": "當被問到那個難題時，她給了我一個茫然的表情。"
+        }
+      ]
+    }
+  ]
+}

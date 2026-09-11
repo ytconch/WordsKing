@@ -1,0 +1,1190 @@
+{
+  "level": 3,
+  "chunkIndex": 3,
+  "inputs": [
+    "bravery",
+    "breast",
+    "breath",
+    "breathe",
+    "breeze",
+    "brick",
+    "bride",
+    "broadcast",
+    "brunch",
+    "bubble",
+    "bucket",
+    "bud",
+    "budget",
+    "buffalo",
+    "buffet",
+    "bulb",
+    "bull",
+    "bullet",
+    "bump",
+    "bunch",
+    "bundle",
+    "bury",
+    "bush",
+    "buzz",
+    "cabin",
+    "cable",
+    "cafeteria",
+    "campus",
+    "canyon",
+    "capable",
+    "captain",
+    "capture",
+    "career",
+    "carpenter",
+    "carpet",
+    "carriage",
+    "cart",
+    "cast",
+    "casual",
+    "cattle",
+    "cave",
+    "champion",
+    "charm",
+    "chat",
+    "cheek",
+    "cheerful",
+    "cherry",
+    "chest",
+    "chill",
+    "chilly"
+  ],
+  "rows": [
+    {
+      "eng": "bravery",
+      "kk": "ˈbreɪvəri",
+      "tense": "n.",
+      "ch": [
+        [
+          "勇敢",
+          "英勇",
+          "膽量"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由形容詞 brave 加上名詞字尾 -ery 組成，表示「具備 brave 的性質或行為表現」。其歷史上源於古法語 braverie，最終可追溯至拉丁語 barbarus（原意為野蠻的、外國的），經羅曼語族演變出「勇敢、招搖」等義，進入英語後固定為表示勇敢行為的名詞。語意演變從形容詞性質轉為抽象名詞的勇敢表現。",
+      "definition": "1. courageous behavior or character.",
+      "example": [
+        {
+          "eng": "The soldier was awarded a medal for his bravery in battle.",
+          "ch": "這名士兵因在戰鬥中的勇敢表現而獲頒獎章。"
+        }
+      ]
+    },
+    {
+      "eng": "breast",
+      "kk": "brɛst",
+      "tense": "n.",
+      "ch": [
+        [
+          "胸部",
+          "乳房"
+        ],
+        [
+          "胸膛",
+          "心懷"
+        ]
+      ],
+      "analysis": "此字為日耳曼語繼承詞，源自古英語 brēost，對應同源的德語 Brust 與荷蘭語 borst，無須拆解為近代構詞。基本義指人或動物身體前上部的胸腔或乳房部位，引申亦可指情感或心思所在的胸膛內部。語意演變從解剖學上的身體部位自然延伸至象徵情感或心理活動的隱喻空間。",
+      "definition": "1. the upper front part of the human body; either of the two soft, protruding organs on a woman's chest that secrete milk; 2. the chest as the seat of feelings or consciousness.",
+      "example": [
+        {
+          "eng": "The baby was cradled against his mother's breast.",
+          "ch": "嬰兒被輕輕抱在母親的胸前。"
+        },
+        {
+          "eng": "A sudden hope rose within his breast.",
+          "ch": "他心中升起一股突如其來的希望。"
+        }
+      ]
+    },
+    {
+      "eng": "breath",
+      "kk": "brɛθ",
+      "tense": "n.",
+      "ch": [
+        [
+          "呼吸",
+          "氣息"
+        ],
+        [
+          "微風",
+          "輕拂的氣流"
+        ]
+      ],
+      "analysis": "此字為名詞，與動詞 breathe 構成詞形變化與衍生關係，源自古英語 brǣþ（意為氣味、蒸氣、呼吸），屬於日耳曼語繼承詞。其基本義為吸入與呼出的空氣，進一步引申為微弱的氣流或氣息。語意演變從生命體表徵的氣息，延伸至自然界中微風吹拂的動態現象。",
+      "definition": "1. the air taken into and expelled from the lungs; 2. a slight movement of air; a breeze.",
+      "example": [
+        {
+          "eng": "Take a deep breath and try to relax.",
+          "ch": "深吸一口氣，試著放輕鬆。"
+        },
+        {
+          "eng": "A breath of wind stirred the leaves.",
+          "ch": "一陣微風吹動了樹葉。"
+        }
+      ]
+    },
+    {
+      "eng": "breathe",
+      "kk": "brið",
+      "tense": "vt.",
+      "ch": [
+        [
+          "呼吸",
+          "吸入與呼出"
+        ]
+      ],
+      "analysis": "此字為動詞，與名詞 breath 存在母音長短與清濁輔音交替的歷史語音衍生關係，源自古英語 brēðian。其作及物動詞時，指將空氣吸入體內或呼出，亦可指低聲說出。此處收錄及物用法，句型直接接客體受詞。",
+      "definition": "1. to take air into the lungs and expel it; to inhale and exhale.",
+      "example": [
+        {
+          "eng": "He paused to breathe fresh air after leaving the crowded room.",
+          "ch": "他在離開擁擠的房間後停下來呼吸新鮮空氣。"
+        }
+      ]
+    },
+    {
+      "eng": "breathe",
+      "kk": "brið",
+      "tense": "vi.",
+      "ch": [
+        [
+          "呼吸",
+          "存活"
+        ],
+        [
+          "歇息",
+          "暫停"
+        ]
+      ],
+      "analysis": "此字為動詞 breathe 的不及物用法，源自古英語 brēðian。基本義指維持生命所需的吸氣與吐氣動作，引申亦可指稍作喘息或休息。不及物用法不接直接受詞。",
+      "definition": "1. to draw air into and expel it from the lungs to maintain life; 2. to pause to take a rest; to take a breather.",
+      "example": [
+        {
+          "eng": "The patient is resting quietly and can breathe normally.",
+          "ch": "病人正在安靜休息，且能夠正常呼吸。"
+        },
+        {
+          "eng": "Let's stop and breathe for a moment before continuing.",
+          "ch": "我們停下來休息一下再繼續吧。"
+        }
+      ]
+    },
+    {
+      "eng": "breeze",
+      "kk": "briz",
+      "tense": "n.",
+      "ch": [
+        [
+          "微風",
+          "和風"
+        ]
+      ],
+      "analysis": "此字為名詞，歷史上透過西班牙語brisa或葡萄牙語brisa借入西歐語言，最終源頭可能與古普羅旺斯語或義大利語有關，指海風或涼爽的風。現代英語中穩定用作指稱輕柔舒適的風。無複雜的現代可拆解構詞成分。",
+      "definition": "1. a gentle, light wind.",
+      "example": [
+        {
+          "eng": "A cool breeze swept across the deck of the ship.",
+          "ch": "陣陣涼爽的微風掠過船甲板。"
+        }
+      ]
+    },
+    {
+      "eng": "brick",
+      "kk": "brɪk",
+      "tense": "n.",
+      "ch": [
+        [
+          "磚",
+          "磚塊"
+        ]
+      ],
+      "analysis": "此字為名詞，經由中古荷蘭語bricke或中古法語brique借入英語，屬於日耳曼語族向西歐傳播的建築材料詞彙。基本義為用黏土燒製而成的長方體建築用磚。現代英語中亦可引申指形似磚塊的物品。",
+      "definition": "1. a small rectangular block typically made of fired or sun-dried clay, used in building.",
+      "example": [
+        {
+          "eng": "The old house was built of red brick.",
+          "ch": "這棟老房子是用紅磚建造的。"
+        }
+      ]
+    },
+    {
+      "eng": "bride",
+      "kk": "braɪd",
+      "tense": "n.",
+      "ch": [
+        [
+          "新娘"
+        ]
+      ],
+      "analysis": "此字為日耳曼語繼承詞，源自古英語brȳd，對應德語Braut與荷蘭語bruid。基本義專指即將結婚或剛結婚的女性。歷史上與婚禮儀式緊密結合，無現代透明構詞。",
+      "definition": "1. a woman on her wedding day or just before and after the event.",
+      "example": [
+        {
+          "eng": "The bride wore a stunning white gown.",
+          "ch": "新娘穿著一件極為驚豔的白色禮服。"
+        }
+      ]
+    },
+    {
+      "eng": "broadcast",
+      "kk": "ˈbrɔdˌkæst",
+      "tense": "vt.",
+      "ch": [
+        [
+          "廣播",
+          "播送"
+        ],
+        [
+          "散布",
+          "傳播"
+        ]
+      ],
+      "analysis": "此字為現代複合詞，由副詞/形容詞 broad（廣泛的）與動詞 cast（投擲、拋灑）結合而成。最初源於農業上「撒播種子」的動作，隨著無線電與電視技術的發展，語義演變為透過電波或網路向廣大受眾傳送影音節目，亦可引申指廣泛傳播訊息。",
+      "definition": "1. to transmit programs by television or radio; 2. to spread information widely.",
+      "example": [
+        {
+          "eng": "The concert will be broadcast live across the country.",
+          "ch": "這場音樂會將在全國進行現場廣播轉播。"
+        },
+        {
+          "eng": "She tried not to broadcast her personal problems.",
+          "ch": "她試圖不要廣泛宣揚自己的私人問題。"
+        }
+      ]
+    },
+    {
+      "eng": "brunch",
+      "kk": "brʌntʃ",
+      "tense": "n.",
+      "ch": [
+        [
+          "早午餐"
+        ]
+      ],
+      "analysis": "此字為現代混成詞（portmanteau），由 breakfast（早餐）的前半部 br- 與 lunch（午餐）的後半部 -unch 組合而成，於19世紀末在英語口語中出現，指介於早餐與午餐之間的餐點。屬於趣味性構詞，現已完全詞典化為標準名詞。",
+      "definition": "1. a meal that combines breakfast and lunch, usually eaten in the late morning.",
+      "example": [
+        {
+          "eng": "They met at a café on Sunday for a leisurely brunch.",
+          "ch": "他們週日在一家咖啡館見面，享用悠閒的早午餐。"
+        }
+      ]
+    },
+    {
+      "eng": "bubble",
+      "kk": "ˈbʌbəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "氣泡",
+          "水泡"
+        ],
+        [
+          "泡沫經濟",
+          "幻想的境界"
+        ]
+      ],
+      "analysis": "此字為擬聲詞起源的語彙，帶有重複字尾 -le 表示動作或狀態的反覆，歷史上見於中古英語。基本義指液體包圍氣體形成的球形薄膜，引申可指經濟上的虛假繁榮（泡沫經濟）或與世隔絕的封閉環境。",
+      "definition": "1. a thin sphere of liquid enclosing air or gas; 2. a temporary state of high economic prosperity or an isolated, protective environment.",
+      "example": [
+        {
+          "eng": "The children had fun blowing soap bubbles in the yard.",
+          "ch": "孩子們在院子裡玩吹肥皂泡泡。"
+        },
+        {
+          "eng": "Economists warned that the housing bubble was about to burst.",
+          "ch": "經濟學家警告說，房地產泡沫即將破裂。"
+        }
+      ]
+    },
+    {
+      "eng": "bucket",
+      "kk": "ˈbʌkɪt",
+      "tense": "n.",
+      "ch": [
+        [
+          "水桶",
+          "提桶"
+        ]
+      ],
+      "analysis": "此字源自盎格魯-諾曼法語buquet或古法語buquet，最終源自日耳曼語支。基本義為盛裝液體或散裝物品的有柄圓柱形容器。現代英語中亦常用於片語（如 kick the bucket）。",
+      "definition": "1. a cylindrical container with a handle, used for carrying liquids or other materials.",
+      "example": [
+        {
+          "eng": "He filled the bucket with water to wash the car.",
+          "ch": "他裝滿了一桶水來洗車。"
+        }
+      ]
+    },
+    {
+      "eng": "bud",
+      "kk": "bʌd",
+      "tense": "n.",
+      "ch": [
+        [
+          "花蕾",
+          "葉芽"
+        ]
+      ],
+      "analysis": "此字為日耳曼語繼承詞，中古英語已有使用，可能與中古荷蘭語 budde（幼蟲、芽）有關。基本義指植物尚未完全展開的花或葉的幼芽，亦可引申比喻處於萌芽階段的人或事物。",
+      "definition": "1. a compact knob-like growth on a plant which develops into a leaf, flower, or shoot.",
+      "example": [
+        {
+          "eng": "The rose bushes are full of tiny green buds.",
+          "ch": "玫瑰花叢長滿了小小的綠色花蕾。"
+        }
+      ]
+    },
+    {
+      "eng": "budget",
+      "kk": "ˈbʌdʒɪt",
+      "tense": "n.",
+      "ch": [
+        [
+          "預算",
+          "經費估算"
+        ]
+      ],
+      "analysis": "此字經由中古法語bougette（小皮包、錢袋，為bouge的指小詞）借入英語，其拉丁語源為bulga（皮革袋子）。在歷史演變中，英國財政大臣攜帶裝有財務提案的皮包向國會報告，因而引申出「國家財務收支計畫」之義，並擴大為一般機構或個人的經費預算。",
+      "definition": "1. an estimate of income and expenditure for a set period of time.",
+      "example": [
+        {
+          "eng": "The company had to cut its marketing budget for the year.",
+          "ch": "公司不得不削減今年的行銷預算。"
+        }
+      ]
+    },
+    {
+      "eng": "buffalo",
+      "kk": "ˈbʌfəˌloʊ",
+      "tense": "n.",
+      "ch": [
+        [
+          "水牛",
+          "美洲野牛"
+        ]
+      ],
+      "analysis": "此字經由葡萄牙語bufalo或西班牙語búfalo借入，其最終希臘語源為būbalos（意指非洲羚羊或野生牛）。在歷史傳播中被用來指稱亞洲水牛以及後來北美洲的野牛（Bison）。屬於外來借詞。",
+      "definition": "1. a heavily built wild ox of the tropics, or the North American bison.",
+      "example": [
+        {
+          "eng": "Herds of buffalo once roamed freely across the American plains.",
+          "ch": "成群的水牛曾自由地漫步在美國的平原上。"
+        }
+      ]
+    },
+    {
+      "eng": "buffet",
+      "kk": "bəˈfeɪ",
+      "tense": "n.",
+      "ch": [
+        [
+          "自助餐",
+          "自助式餐點"
+        ]
+      ],
+      "analysis": "此字借自法語buffet（原意為矮櫃、餐具櫃，後指放置食物供人自行取用的長桌）。在法語中具備特定歷史演變，英語中則專門用來指擺放多種食物、由客人自行取用的自助餐形式。",
+      "definition": "1. a meal consisting of several dishes from which guests serve themselves.",
+      "example": [
+        {
+          "eng": "The hotel offers a breakfast buffet with a wide variety of choices.",
+          "ch": "這家飯店提供有多種選擇的早餐自助餐。"
+        }
+      ]
+    },
+    {
+      "eng": "bulb",
+      "kk": "bʌlb",
+      "tense": "n.",
+      "ch": [
+        [
+          "球莖",
+          "球根"
+        ],
+        [
+          "燈泡"
+        ]
+      ],
+      "analysis": "此字源自拉丁語bulbus（球莖、洋蔥），經由中古法語或直接借入英語。本義指植物地下肥大的球狀莖（如鬱金香球莖），因形狀相似，後來引申用來指電燈泡（electric light bulb）。",
+      "definition": "1. a rounded underground storage organ present in some plants, such as onions and lilies; 2. a glass bulb that provides light by passing an electric current through a filament.",
+      "example": [
+        {
+          "eng": "Plant the tulip bulbs in the autumn for spring blossoms.",
+          "ch": "在秋天種下鬱金香球莖，以便在春天開花。"
+        },
+        {
+          "eng": "The bedroom is dark because the light bulb burned out.",
+          "ch": "臥室很暗，因為燈泡燒壞了。"
+        }
+      ]
+    },
+    {
+      "eng": "bull",
+      "kk": "bʊl",
+      "tense": "n.",
+      "ch": [
+        [
+          "公牛",
+          "雄性大獸"
+        ]
+      ],
+      "analysis": "此字為日耳曼語繼承詞，源自古英語bula或日耳曼語源，對應中古荷蘭語bul。基本義指成年未閹割的公牛，亦可用來指某些大型雄性哺乳動物（如鯨、象的雄獸）。",
+      "definition": "1. an uncastrated adult male bovine animal.",
+      "example": [
+        {
+          "eng": "The farmer warned visitors to stay away from the bull in the pasture.",
+          "ch": "農夫警告遊客離牧場裡的公牛遠一點。"
+        }
+      ]
+    },
+    {
+      "eng": "bullet",
+      "kk": "ˈbʊlɪt",
+      "tense": "n.",
+      "ch": [
+        [
+          "子彈"
+        ]
+      ],
+      "analysis": "此字源自中古法語boulette（意為小球，為boule球的指小詞），最終源自拉丁語bulla（泡泡、圓球）。早期指投擲用的石球或金屬小圓球，隨著火器的發明，語義演變為槍械射擊用的金屬子彈。",
+      "definition": "1. a small, metal projectile fired from a rifle, pistol, or other gun.",
+      "example": [
+        {
+          "eng": "The detective found a bullet lodged in the wooden wall.",
+          "ch": "偵探在木牆中發現了一顆卡住的子彈。"
+        }
+      ]
+    },
+    {
+      "eng": "bump",
+      "kk": "bʌmp",
+      "tense": "vt.",
+      "ch": [
+        [
+          "碰撞",
+          "撞擊"
+        ]
+      ],
+      "analysis": "此字為擬聲詞性質的日耳曼語族詞彙，見於中世紀斯堪地那維亞語。作及物動詞時，指身體某部分或物體重重地撞上另一個物體。句型直接接客體受詞。",
+      "definition": "1. to knock or hit against something with force.",
+      "example": [
+        {
+          "eng": "She accidentally bumped her head against the low shelf.",
+          "ch": "她不小心把頭撞到了低矮的架子上。"
+        }
+      ]
+    },
+    {
+      "eng": "bunch",
+      "kk": "bʌntʃ",
+      "tense": "n.",
+      "ch": [
+        [
+          "串",
+          "束",
+          "扎"
+        ],
+        [
+          "群",
+          "夥"
+        ]
+      ],
+      "analysis": "此字起源於日耳曼語族，中古英語時期進入英語，原意可能與隆起、腫塊有關。基本義指生長或捆綁在一起的一束、一串物品（如一束花、一串葡萄），口語中亦可引申指一夥人或一群人。",
+      "definition": "1. a number of things of the same type growing or fastened together; 2. a group of people.",
+      "example": [
+        {
+          "eng": "He bought a nice bunch of yellow bananas at the market.",
+          "ch": "他在市場買了一把漂亮的黃香蕉。"
+        },
+        {
+          "eng": "My friends are a fun bunch to hang out with.",
+          "ch": "我的朋友是一群在一起很有趣的夥伴。"
+        }
+      ]
+    },
+    {
+      "eng": "bundle",
+      "kk": "ˈbʌndəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "捆",
+          "包",
+          "束"
+        ]
+      ],
+      "analysis": "此字為日耳曼語源詞彙，與中古荷蘭語bundel或日耳曼語動詞bindan（綑綁）相關，加上指小或名詞字尾。基本義指用繩索或布料包裹、捆紮在一起的一捆物品。",
+      "definition": "1. a collection of things tied together or wrapped in a cloth to be carried easily.",
+      "example": [
+        {
+          "eng": "She gathered her dirty clothes into a bundle for the laundry.",
+          "ch": "她把髒衣服打包成一捆準備送洗。"
+        }
+      ]
+    },
+    {
+      "eng": "bury",
+      "kk": "ˈbɛri",
+      "tense": "vt.",
+      "ch": [
+        [
+          "埋葬",
+          "安葬"
+        ],
+        [
+          "掩藏",
+          "埋藏"
+        ]
+      ],
+      "analysis": "此字為日耳曼語繼承詞，源自古英語byrgan（埋葬、保護），與borough（城堡、城鎮）同源。基本義為將死者入土為安的埋葬行為，引申亦可指將物品埋入地下或隱藏、深埋於心中。",
+      "definition": "1. to place a corpse in a grave; 2. to put or hide something under the ground or deep within something.",
+      "example": [
+        {
+          "eng": "The family gathered to bury their beloved pet in the garden.",
+          "ch": "一家人聚集在花園裡安葬他們心愛的寵物。"
+        },
+        {
+          "eng": "The pirate decided to bury the treasure on a remote island.",
+          "ch": "海盜決定把寶藏埋在一個偏遠的小島上。"
+        }
+      ]
+    },
+    {
+      "eng": "bush",
+      "kk": "bʊʃ",
+      "tense": "n.",
+      "ch": [
+        [
+          "灌木",
+          "叢林"
+        ]
+      ],
+      "analysis": "此字源自古諾斯語búskr或中古荷蘭語bosce，與日耳曼語基底相關。基本義指比樹木矮小、有多個主幹的木本植物（灌木），在澳洲或非洲英語中亦可引申指未開發的荒野叢林。",
+      "definition": "1. a shrub or a clump of shrubs with stems of moderate length; 2. wild, uncultivated country.",
+      "example": [
+        {
+          "eng": "A small bird flew out from behind the green bush.",
+          "ch": "一隻小鳥從綠色灌木叢後面飛了出來。"
+        }
+      ]
+    },
+    {
+      "eng": "buzz",
+      "kk": "bʌz",
+      "tense": "vi.",
+      "ch": [
+        [
+          "嗡嗡叫",
+          "發出嗡嗡聲"
+        ],
+        [
+          "忙碌喧鬧"
+        ]
+      ],
+      "analysis": "此字為擬聲詞（onomatopoeia），模仿昆蟲（如蜜蜂）飛行時振翅所發出的聲音。作為不及物動詞，用來形容昆蟲或機具持續發出嗡嗡聲，或引申形容地方熱鬧、人聲鼎沸的忙碌狀態。",
+      "definition": "1. to make a low, continuous humming sound like a bee; 2. to be busy and lively with activity or conversation.",
+      "example": [
+        {
+          "eng": "A bee began to buzz around the sweet flowers.",
+          "ch": "一隻蜜蜂開始在甜美的花朵周圍嗡嗡叫。"
+        },
+        {
+          "eng": "The hallway buzzed with excitement before the big game.",
+          "ch": "大比賽前夕，走廊上充滿了興奮的喧鬧聲。"
+        }
+      ]
+    },
+    {
+      "eng": "cabin",
+      "kk": "ˈkæbɪn",
+      "tense": "n.",
+      "ch": [
+        [
+          "小屋",
+          "木屋"
+        ],
+        [
+          "船艙",
+          "機艙"
+        ]
+      ],
+      "analysis": "此字經由中古法語cabane借入，最終源頭可追溯至拉丁語capanna（茅屋、小棚子）。基本義指簡陋的小木屋，後來在交通工具發展中引申出輪船的船艙或飛機的機艙。",
+      "definition": "1. a small, simple wooden house or shelter; 2. a private room on a ship or the passenger compartment of an aircraft.",
+      "example": [
+        {
+          "eng": "They rented a cozy wooden cabin in the mountains for the weekend.",
+          "ch": "他們在山裡租了一間舒適的小木屋度過週末。"
+        },
+        {
+          "eng": "Passengers were asked to remain in the cabin during turbulence.",
+          "ch": "亂流期間，乘客被要求留在機艙內。"
+        }
+      ]
+    },
+    {
+      "eng": "cable",
+      "kk": "ˈkeɪbəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "電纜",
+          "粗繩"
+        ],
+        [
+          "有線電視"
+        ]
+      ],
+      "analysis": "此字源自拉丁語capulum（套索、繩索），經由諾曼法語cable傳入英語。原意指粗大的麻繩或鐵鍊，隨著電力與通訊技術普及，語義演變為傳輸電力或信號的電纜，並延伸指有線電視服務。",
+      "definition": "1. a thick rope of wire or hemp, or an insulated wire used for carrying electric current or signals; 2. a television system transmitting signals via coaxial cables.",
+      "example": [
+        {
+          "eng": "The heavy anchor was secured with a thick steel cable.",
+          "ch": "沉重的錨是用一條粗鋼纜固定的。"
+        },
+        {
+          "eng": "We recently decided to cancel our cable subscription.",
+          "ch": "我們最近決定取消有線電視訂閱。"
+        }
+      ]
+    },
+    {
+      "eng": "cafeteria",
+      "kk": "ˌkæfəˈtɪriə",
+      "tense": "n.",
+      "ch": [
+        [
+          "自助餐廳",
+          "學校餐廳"
+        ]
+      ],
+      "analysis": "此字借自美式西班牙語cafetería（意指咖啡館，源自café咖啡加上表示地點或場所的字尾）。在20世紀初美國英語中開始流行，專門指由顧客拿著餐盤自行取菜結帳的自助式餐廳，常見於學校或辦公大樓。",
+      "definition": "1. a restaurant in which customers serve themselves from a counter and take their food to tables.",
+      "example": [
+        {
+          "eng": "Students gathered in the school cafeteria for lunch.",
+          "ch": "學生們聚集在學校的自助餐廳吃午餐。"
+        }
+      ]
+    },
+    {
+      "eng": "campus",
+      "kk": "ˈkæmpəs",
+      "tense": "n.",
+      "ch": [
+        [
+          "校園",
+          "大學校區"
+        ]
+      ],
+      "analysis": "此字直接借自拉丁語campus（原意為平原、廣闊的土地）。在18世紀晚期被美國新澤西州的普林斯頓大學（當時稱學院）首先用來指稱學校的院落與土地範圍，後來成為現代英語中專指大學校園的標準語彙。",
+      "definition": "1. the grounds and buildings of a university or college.",
+      "example": [
+        {
+          "eng": "The university campus is filled with beautiful green trees.",
+          "ch": "大學校園裡長滿了美麗的綠樹。"
+        }
+      ]
+    },
+    {
+      "eng": "canyon",
+      "kk": "ˈkænjən",
+      "tense": "n.",
+      "ch": [
+        [
+          "峽谷"
+        ]
+      ],
+      "analysis": "此字借自西班牙語cañón（意指管子、砲管，引申為陡峭的峽谷，為caño的指小詞）。透過美國西南部的地理接觸進入英語，專門用來指兩側峭壁陡峭、中間有河流流過的深谷。",
+      "definition": "1. a deep gorge, typically one with a river flowing through it, as found in North America.",
+      "example": [
+        {
+          "eng": "Hikers admired the breathtaking view of the deep canyon.",
+          "ch": "健行者讚嘆著深谷峽谷那令人屏息的美景。"
+        }
+      ]
+    },
+    {
+      "eng": "capable",
+      "kk": "ˈkeɪpəbəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "有能力的",
+          "能幹的"
+        ]
+      ],
+      "analysis": "此字源自中世紀拉丁語capabilis（能容納的、有能力的），由動詞capere（容納、抓取）加上形容詞字尾-able構成。其語義從「能容納的」演變為「能勝任的、有能力的」，常與介系詞of連用。",
+      "definition": "1. having the ability, fitness, or quality necessary to do something successfully.",
+      "example": [
+        {
+          "eng": "She is a highly capable engineer who solves problems quickly.",
+          "ch": "她是一位能力極強的工程師，能迅速解決問題。"
+        }
+      ]
+    },
+    {
+      "eng": "captain",
+      "kk": "ˈkæptən",
+      "tense": "n.",
+      "ch": [
+        [
+          "機長",
+          "船長"
+        ],
+        [
+          "隊長",
+          "首領"
+        ]
+      ],
+      "analysis": "此字經由中古法語captaine借入，最終源自拉丁語caput（頭部、首領），透過低拉丁語capitaneus（首要的、帶頭的人）演變而來。基本義指船隻的船長或飛機的機長，亦可指運動隊伍的隊長或軍事階級的上尉。",
+      "definition": "1. the person in command of a ship, aircraft, or sports team; 2. a military rank, typically above lieutenant and below major.",
+      "example": [
+        {
+          "eng": "The captain welcomed all passengers aboard the cruise ship.",
+          "ch": "船長歡迎所有乘客登上這艘遊輪。"
+        },
+        {
+          "eng": "He was chosen to be the captain of the national basketball team.",
+          "ch": "他被選為國家籃球隊的隊長。"
+        }
+      ]
+    },
+    {
+      "eng": "capture",
+      "kk": "ˈkæptʃər",
+      "tense": "vt.",
+      "ch": [
+        [
+          "俘獲",
+          "捕獲"
+        ],
+        [
+          "奪得",
+          "吸引（注意等）"
+        ]
+      ],
+      "analysis": "此字源自拉丁語captura（捕捉、戰利品），由動詞capere（抓住）加上名詞/動詞字尾構成，經由中古法語進入英語。作為及物動詞，其基本義為逮捕、捕獲敵軍或動物，引申可指奪得獎項、或生動地捕捉並呈現畫面、注意力等。句型直接接客體受詞。",
+      "definition": "1. to take into possession or control by force; to catch; 2. to record, depict, or attract successfully.",
+      "example": [
+        {
+          "eng": "The police managed to capture the fleeing suspect.",
+          "ch": "警方設法抓獲了逃跑的嫌疑人。"
+        },
+        {
+          "eng": "The photographer managed to capture the bird in mid-flight.",
+          "ch": "攝影師設法捕捉到了這隻鳥在半空中飛翔的畫面。"
+        }
+      ]
+    },
+    {
+      "eng": "career",
+      "kk": "kəˈrɪr",
+      "tense": "n.",
+      "ch": [
+        [
+          "職業",
+          "生涯"
+        ]
+      ],
+      "analysis": "此字經由中古法語carriere（賽車場、道路，源自拉丁語carrus車輛）進入英語。其歷史語義演變從「車輛行駛的跑道」延伸為「人生的道路與軌跡」，最終定型為個人在某個領域中長期的職業生涯與發展。",
+      "definition": "1. an occupation undertaken for a significant period of a person's life and with opportunities for progress.",
+      "example": [
+        {
+          "eng": "She decided to pursue a career in medical research.",
+          "ch": "她決定從事醫學研究方面的職業生涯。"
+        }
+      ]
+    },
+    {
+      "eng": "carpenter",
+      "kk": "ˈkɑrpəntər",
+      "tense": "n.",
+      "ch": [
+        [
+          "木工",
+          "木匠"
+        ]
+      ],
+      "analysis": "此字經由盎格魯-諾曼法語carpentier借入，最終源自拉丁語carpentarius（製造馬車的人，源自carpentum馬車）。在歷史演變中，其專業範圍從造車擴大為所有從事木造建築與家具製作的工匠。",
+      "definition": "1. a person who makes and repairs wooden objects and structures.",
+      "example": [
+        {
+          "eng": "The carpenter built custom bookshelves for the library.",
+          "ch": "木匠為圖書館訂做了書架。"
+        }
+      ]
+    },
+    {
+      "eng": "carpet",
+      "kk": "ˈkɑrpɪt",
+      "tense": "n.",
+      "ch": [
+        [
+          "地毯"
+        ]
+      ],
+      "analysis": "此字經由中古法語carpete借入，最終源自中世紀拉丁語carpita（粗毛織品，源自拉丁語carpere拔、梳毛）。最初指厚重的桌布或床罩，後來在近代歐洲語境中演變為鋪在地面上的地毯。",
+      "definition": "1. a floor covering made of thick woven fabric.",
+      "example": [
+        {
+          "eng": "They installed a soft wool carpet in the living room.",
+          "ch": "他們在客廳安裝了一塊柔軟的羊毛地毯。"
+        }
+      ]
+    },
+    {
+      "eng": "carriage",
+      "kk": "ˈkærɪdʒ",
+      "tense": "n.",
+      "ch": [
+        [
+          "馬車",
+          "四輪馬車"
+        ],
+        [
+          "（火車的）車廂"
+        ]
+      ],
+      "analysis": "此字源自古法語cariage，由動詞carier（運送，源自拉丁語carrus車輛）加上名詞字尾-age構成。基本義指用來運送人貨的馬車，後來鐵路發明後引申為火車的車廂。",
+      "definition": "1. a horse-drawn vehicle for carrying passengers; 2. a railway passenger car.",
+      "example": [
+        {
+          "eng": "A romantic horse-drawn carriage waited outside the hotel.",
+          "ch": "一輛浪漫的馬車停在飯店外面等待。"
+        },
+        {
+          "eng": "He found a seat in the last carriage of the train.",
+          "ch": "他在火車的最後一節車廂找到了座位。"
+        }
+      ]
+    },
+    {
+      "eng": "cart",
+      "kk": "kɑrt",
+      "tense": "n.",
+      "ch": [
+        [
+          "手推車",
+          "運貨車"
+        ]
+      ],
+      "analysis": "此字為日耳曼語族與凱爾特語源的交集，古英語中有crat，與拉丁語carrus（車輛）同源或受其影響。基本義指由人力或動物拉動的兩輪或四輪運貨車，現代亦指超市中常見的購物推車。",
+      "definition": "1. a strong vehicle with two or four wheels, typically used for carrying loads and pulled by an animal or a person.",
+      "example": [
+        {
+          "eng": "She loaded her groceries into the shopping cart.",
+          "ch": "她把雜貨裝進了購物推車裡。"
+        }
+      ]
+    },
+    {
+      "eng": "cast",
+      "kk": "kæst",
+      "tense": "vt.",
+      "ch": [
+        [
+          "投",
+          "拋",
+          "擲"
+        ],
+        [
+          "鑄造",
+          "塑造"
+        ],
+        [
+          "分配角色",
+          "選派演員"
+        ]
+      ],
+      "analysis": "此字源自古諾斯語kasta（投擲），在中古英語時期取代了部分的古英語同義詞。作為及物動詞，其核心義為用力投擲或拋出，進一步延伸出金屬溶化後倒入模具的「鑄造」，以及戲劇中「分配演員角色」或「投射光影」等豐富義項。句型直接接客體受詞。",
+      "definition": "1. to throw something forcefully; 2. to shape liquid metal or other material by pouring it into a mold; 3. to assign a role in a play or movie.",
+      "example": [
+        {
+          "eng": "The fisherman cast his net into the calm waters of the lake.",
+          "ch": "漁夫把網拋入平靜的湖水中。"
+        },
+        {
+          "eng": "The factory specializes in casting iron parts for engines.",
+          "ch": "這家工廠專門鑄造發動機的鐵製零件。"
+        },
+        {
+          "eng": "The director chose to cast a famous actor as the villain.",
+          "ch": "導演選擇由一位知名演員來飾演反派角色。"
+        }
+      ]
+    },
+    {
+      "eng": "casual",
+      "kk": "ˈkæʒuəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "隨便的",
+          "休閒的"
+        ],
+        [
+          "偶然的",
+          "非正式的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語casualis（偶然的，源自casus墜落、機會），經由中古法語或中世紀拉丁語進入英語。其語義從原先的「偶然發生的、非預期的」演變出「輕鬆不拘小節的（隨便的）」以及「適用於日常生活休閒的服裝風格」。",
+      "definition": "1. relaxed and unconcerned; suitable for everyday use; 2. happening by chance; not formal.",
+      "example": [
+        {
+          "eng": "Employees are allowed to wear casual clothes on Fridays.",
+          "ch": "員工被允許在星期五穿著休閒服裝。"
+        },
+        {
+          "eng": "They had a casual conversation about the weather.",
+          "ch": "他們就天氣隨意進行了非正式的交談。"
+        }
+      ]
+    },
+    {
+      "eng": "cattle",
+      "kk": "ˈkætəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "牛（統稱）"
+        ]
+      ],
+      "analysis": "此字經由盎格魯-諾曼法語chatel（財產、動產，源自拉丁語capitale財產、資本）借入英語，與chattel同源。在歷史法語與早期英語中泛指家畜財產，後來在英語中狹義化，專門指農場飼養的牛群（複數概念名詞）。",
+      "definition": "1. large ruminant animals with horns and hooves, domesticated for meat or milk, or as beasts of burden.",
+      "example": [
+        {
+          "eng": "The rancher drove the cattle across the dry open field.",
+          "ch": "牧場主人驅趕著牛群穿過乾旱開闊的原野。"
+        }
+      ]
+    },
+    {
+      "eng": "cave",
+      "kk": "keɪv",
+      "tense": "n.",
+      "ch": [
+        [
+          "洞穴",
+          "山洞"
+        ]
+      ],
+      "analysis": "此字源自拉丁語cava（凹陷處、洞穴，為cavus空的形容詞陰性形式），經由中古法語進入英語。基本義指天然形成於岩石或山地中的大型地下洞穴。",
+      "definition": "1. a natural underground chamber in a hillside or cliff.",
+      "example": [
+        {
+          "eng": "The explorers ventured deep into the dark limestone cave.",
+          "ch": "探險家們深入黑暗的石灰岩洞穴。"
+        }
+      ]
+    },
+    {
+      "eng": "champion",
+      "kk": "ˈtʃæmpiən",
+      "tense": "n.",
+      "ch": [
+        [
+          "冠軍",
+          "優勝者"
+        ],
+        [
+          "捍衛者",
+          "擁護者"
+        ]
+      ],
+      "analysis": "此字源自中世紀拉丁語campio（戰鬥者，源自campus競技場），經由中古法語傳入英語。原意指在比武中代表他人出戰的騎士，後來演變為體育競賽中的「冠軍」，亦可引申為社會正義或特定理念的「堅定捍衛者」。",
+      "definition": "1. a person who has defeated all opponents in a competition or contest; 2. a person who fights or speaks for a cause or another person.",
+      "example": [
+        {
+          "eng": "She trained hard for years to become the world chess champion.",
+          "ch": "她刻苦訓練多年，成為了世界西洋棋冠軍。"
+        },
+        {
+          "eng": "He has always been a fierce champion of human rights.",
+          "ch": "他一直都是人權的堅定捍衛者。"
+        }
+      ]
+    },
+    {
+      "eng": "charm",
+      "kk": "tʃɑrm",
+      "tense": "n.",
+      "ch": [
+        [
+          "魅力",
+          "吸引力"
+        ],
+        [
+          "護身符",
+          "小飾物"
+        ]
+      ],
+      "analysis": "此字源自拉丁語carmen（歌曲、咒語、詩歌），經由中古法語charme進入英語。原意指具有法力的魔咒或歌詠，隨著語義演變，從「具有神祕吸引力的力量」擴大為人的「個人魅力」，亦保留指帶來好運的「護身符或手鍊小飾品」。",
+      "definition": "1. the power or quality of delighting, attracting, or fascinating others; 2. an object worn or kept for its supposed magical power or as a trinket.",
+      "example": [
+        {
+          "eng": "Her natural charm won over everyone in the room.",
+          "ch": "她天生的魅力贏得了房間裡所有人的好感。"
+        },
+        {
+          "eng": "She wore a silver bracelet decorated with small lucky charms.",
+          "ch": "她戴著一條裝飾著幸運小飾品的銀色手鍊。"
+        }
+      ]
+    },
+    {
+      "eng": "chat",
+      "kk": "tʃæt",
+      "tense": "vi.",
+      "ch": [
+        [
+          "閒聊",
+          "聊天"
+        ]
+      ],
+      "analysis": "此字為動詞 chatter（喋喋不休、囉嗦）的截短形式（clipping），在17世紀左右作為獨立動詞使用。作為不及物動詞，指輕鬆、非正式地互相交談或透過網路訊息聊天。不及物用法不接直接受詞。",
+      "definition": "1. to talk in a friendly, informal, and conversational way.",
+      "example": [
+        {
+          "eng": "Neighbors stood by the fence to chat about the weather.",
+          "ch": "鄰居們站在籬笆旁閒聊著天氣。"
+        }
+      ]
+    },
+    {
+      "eng": "cheek",
+      "kk": "tʃik",
+      "tense": "n.",
+      "ch": [
+        [
+          "臉頰",
+          "面頰"
+        ]
+      ],
+      "analysis": "此字為日耳曼語繼承詞，源自古英語cēace，對應中古荷蘭語kake。基本義指人臉部眼睛下方、鼻子兩側的部位（臉頰）。",
+      "definition": "1. either side of the face below the eye.",
+      "example": [
+        {
+          "eng": "A tear rolled down her pale cheek.",
+          "ch": "一滴眼淚順著她蒼白的臉頰滾落下來。"
+        }
+      ]
+    },
+    {
+      "eng": "cheerful",
+      "kk": "ˈtʃɪrfəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "開朗的",
+          "高興的",
+          "快樂的"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由名詞 cheer（歡欣、氣色）加上形容詞字尾 -ful（充滿……的）組合而成。基本義指一個人表現出愉快、樂觀、充滿歡樂的性格或氣質。",
+      "definition": "1. noticeably happy and optimistic.",
+      "example": [
+        {
+          "eng": "She always greets everyone with a cheerful smile every morning.",
+          "ch": "她每天早上總是帶著開朗的微笑向每個人打招呼。"
+        }
+      ]
+    },
+    {
+      "eng": "cherry",
+      "kk": "ˈtʃɛri",
+      "tense": "n.",
+      "ch": [
+        [
+          "櫻桃",
+          "櫻桃樹"
+        ]
+      ],
+      "analysis": "此字經由諾曼法語cherise（源自晚期拉丁語ceresia，最終源自希臘語kerasos）借入英語。因中古英語誤將複數形式的-s當作字尾，將cheris切出單數形式cherry。基本義指紅色的櫻桃果實或結出果實的櫻桃樹。",
+      "definition": "1. a small, round red or black fruit with a stone inside, or the tree that bears it.",
+      "example": [
+        {
+          "eng": "She topped the birthday cake with a bright red cherry.",
+          "ch": "她在生日蛋糕頂端放了一顆鮮紅的櫻桃。"
+        }
+      ]
+    },
+    {
+      "eng": "chest",
+      "kk": "tʃɛst",
+      "tense": "n.",
+      "ch": [
+        [
+          "胸部",
+          "胸膛"
+        ],
+        [
+          "箱子",
+          "櫃子"
+        ]
+      ],
+      "analysis": "此字源自拉丁語cista（箱子、櫃子），經由古英語cist傳入日耳曼語支。其歷史演變非常特別：最初專門指裝東西的大木箱或寶箱，後來因箱子的形狀與人體軀幹前部相似，引申出「胸腔、胸部」之義。",
+      "definition": "1. the front part of the human body between the neck and the abdomen; 2. a large strong box used for storing or shipping things.",
+      "example": [
+        {
+          "eng": "He felt a sharp pain in his chest and sought medical help.",
+          "ch": "他感到胸部一陣劇痛，於是尋求醫療協助。"
+        },
+        {
+          "eng": "Grandfather kept his old letters locked in a wooden chest.",
+          "ch": "祖父將他的舊信件鎖在一個木箱裡。"
+        }
+      ]
+    },
+    {
+      "eng": "chill",
+      "kk": "tʃɪl",
+      "tense": "n.",
+      "ch": [
+        [
+          "寒意",
+          "風寒"
+        ],
+        [
+          "冰冷",
+          "冷漠"
+        ]
+      ],
+      "analysis": "此字源自古英語cyle或cele（寒冷），與形容詞cool同源。基本義指空氣中令人感到寒冷的氣溫或身體因受涼引起的寒意，亦可引申指態度上的冷淡或不友善。",
+      "definition": "1. a cool or cold feeling in the air or in the body; 2. an unfriendly or unwelcoming atmosphere or attitude.",
+      "example": [
+        {
+          "eng": "There was a sharp chill in the autumn evening air.",
+          "ch": "秋天的傍晚空氣中帶有一股刺骨的寒意。"
+        },
+        {
+          "eng": "A sudden chill filled the room when she entered.",
+          "ch": "她一進門，房間裡便充滿了一股冷漠的氣氛。"
+        }
+      ]
+    },
+    {
+      "eng": "chilly",
+      "kk": "ˈtʃɪli",
+      "tense": "adj.",
+      "ch": [
+        [
+          "寒冷的",
+          "冷颼颼的"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由名詞/形容詞 chill 加上形容詞字尾 -y 構成，用來形容天氣、環境或身體感覺到寒冷、冷颼颼的狀態。",
+      "definition": "1. uncomfortably cool or cold.",
+      "example": [
+        {
+          "eng": "It is a bit chilly outside, so you should wear a jacket.",
+          "ch": "外面有點冷颼颼的，所以你應該穿件夾克。"
+        }
+      ]
+    }
+  ]
+}

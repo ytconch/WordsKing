@@ -1,0 +1,1180 @@
+{
+  "level": 1,
+  "chunkIndex": 12,
+  "inputs": [
+    "mean",
+    "meat",
+    "media",
+    "medicine",
+    "medium",
+    "meet",
+    "meeting",
+    "member",
+    "menu",
+    "middle",
+    "milk",
+    "million",
+    "mind",
+    "minute",
+    "miss",
+    "mistake",
+    "modern",
+    "moment",
+    "money",
+    "monkey",
+    "month",
+    "moon",
+    "more",
+    "morning",
+    "most",
+    "mother",
+    "mountain",
+    "mouse",
+    "mouth",
+    "move",
+    "movement",
+    "movie",
+    "film",
+    "Mr.",
+    "Mister",
+    "Mrs.",
+    "Ms.",
+    "much",
+    "mud",
+    "museum",
+    "music",
+    "must",
+    "name",
+    "national",
+    "nature",
+    "near",
+    "neck",
+    "need",
+    "net",
+    "never"
+  ],
+  "rows": [
+    {
+      "eng": "mean",
+      "kk": "min",
+      "tense": "vt.",
+      "ch": [
+        [
+          "意指",
+          "意思是"
+        ],
+        [
+          "意圖",
+          "打算"
+        ],
+        [
+          "注定",
+          "預定"
+        ]
+      ],
+      "analysis": "此字為動詞原形，源自古英語 mænan（意指、表達、意欲），屬於日耳曼語繼承詞。語意從原始的「心中所想、表達其義」演變出現代的多個核心用法：1. 表達符號、語言或行為所代表的概念；2. 主體心中的意圖或打算；3. 客觀情勢或命運所造成的必然結果。過去式與過去分詞皆為 meant。",
+      "definition": "1. To express, signify, or indicate a particular meaning, sense, or idea.; 2. To have a specific intention, purpose, or plan in mind.; 3. To be destined or intended to result in a particular outcome.",
+      "example": [
+        {
+          "eng": "What does this English word mean?",
+          "ch": "這個英文單字是什麼意思？"
+        },
+        {
+          "eng": "I didn't mean to hurt your feelings.",
+          "ch": "我不是故意要傷害你的感情的。"
+        },
+        {
+          "eng": "Hard work is meant to bring success.",
+          "ch": "努力工作注定會帶來成功。"
+        }
+      ]
+    },
+    {
+      "eng": "mean",
+      "kk": "min",
+      "tense": "adj.",
+      "ch": [
+        [
+          "刻薄的",
+          "卑鄙的"
+        ],
+        [
+          "吝嗇的",
+          "小氣的"
+        ],
+        [
+          "簡陋的",
+          "低劣的"
+        ]
+      ],
+      "analysis": "此形容詞與動詞同形異源，源自古英語 mǣne（卑下的、共同的），在中古英語中發生語意貶義化，演變成指行為或性格上的惡劣、吝嗇，或指條件、環境的貧乏簡陋。常作為描述人際態度或物質條件的常用詞。",
+      "definition": "1. Cruel, unkind, or malicious in behavior toward others.; 2. Unwilling to spend money; stingy.; 3. Of poor quality, shabby, or inferior in status.",
+      "example": [
+        {
+          "eng": "It was mean of him to say such things.",
+          "ch": "他說那種話真是太刻薄了。"
+        },
+        {
+          "eng": "He is too mean to donate any money to charity.",
+          "ch": "他太小氣了，不肯捐半點錢給慈善機構。"
+        },
+        {
+          "eng": "They lived in a mean apartment for years.",
+          "ch": "他們在一個簡陋的公寓裡住了好幾年。"
+        }
+      ]
+    },
+    {
+      "eng": "meat",
+      "kk": "mit",
+      "tense": "n.",
+      "ch": [
+        [
+          "肉",
+          "肉類"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古英語 mete（食物、肉），屬於日耳曼語繼承詞。在早期日耳曼語族中泛指一切食物，隨著時間推移，其意義在現代英語中逐漸窄化專指動物的肌肉組織作為食物的「肉」。",
+      "definition": "1. The flesh of animals used as food.",
+      "example": [
+        {
+          "eng": "She prefers eating vegetables over meat.",
+          "ch": "比起肉類，她更喜歡吃蔬菜。"
+        }
+      ]
+    },
+    {
+      "eng": "media",
+      "kk": "ˈmidiə",
+      "tense": "n.",
+      "ch": [
+        [
+          "媒體",
+          "大眾傳播媒介"
+        ]
+      ],
+      "analysis": "此字為名詞，為拉丁語 medium（中間、媒介）的中性複數形式 media 在現代英語中獨立出的單複數兼作統稱的單字。語意從「傳遞資訊的中介工具」演變為現代社會中的報紙、電視、網路等大眾傳播媒介的總稱。",
+      "definition": "1. The main channels of mass communication, such as television, radio, and newspapers.",
+      "example": [
+        {
+          "eng": "The story received a lot of attention in the media.",
+          "ch": "這則報導在媒體上受到了廣泛關注。"
+        }
+      ]
+    },
+    {
+      "eng": "medicine",
+      "kk": "ˈmɛdɪsən",
+      "tense": "n.",
+      "ch": [
+        [
+          "藥",
+          "藥物"
+        ],
+        [
+          "醫學",
+          "醫療"
+        ]
+      ],
+      "analysis": "此字為名詞，源自拉丁語 medicina（治療、藥物、醫學術），由形容詞 medicus（醫生的）衍生而來。經由中古法語進入英語。語意涵蓋治病的藥劑以及研究疾病與治療的醫學領域。",
+      "definition": "1. A substance or preparation used for treating disease or illness; medication.; 2. The science or practice of the diagnosis, treatment, and prevention of disease.",
+      "example": [
+        {
+          "eng": "Take this medicine three times a day after meals.",
+          "ch": "這種藥一天飯後吃三次。"
+        },
+        {
+          "eng": "She is studying medicine at the university.",
+          "ch": "她正在大學裡學醫。"
+        }
+      ]
+    },
+    {
+      "eng": "medium",
+      "kk": "ˈmidiəm",
+      "tense": "n.",
+      "ch": [
+        [
+          "媒介",
+          "手段"
+        ],
+        [
+          "中等尺寸",
+          "五分熟"
+        ]
+      ],
+      "analysis": "此字為名詞，源自拉丁語 medium（中間、中點、媒介），是形容詞 medius（中間的）的中性單數用法。現代英語中保留了「居中者、傳遞事物的媒介或工具、尺寸的中等」等核心義。",
+      "definition": "1. An agency or means of doing something, or a material used by an artist.; 2. A size, level, or state that is in the middle between two extremes.",
+      "example": [
+        {
+          "eng": "Art is a powerful medium for social change.",
+          "ch": "藝術是推動社會變革的強大媒介。"
+        },
+        {
+          "eng": "I would like to order a steak cooked to medium.",
+          "ch": "我想點一份五分熟的牛排。"
+        }
+      ]
+    },
+    {
+      "eng": "meet",
+      "kk": "mit",
+      "tense": "vt.",
+      "ch": [
+        [
+          "見面",
+          "會晤"
+        ],
+        [
+          "迎接",
+          "接見"
+        ],
+        [
+          "滿足",
+          "符合"
+        ]
+      ],
+      "analysis": "此字為動詞原形，源自古英語 mētan（遭遇、會見），屬於日耳曼語繼承詞。語意從實體的「在空間中與某人交會、接觸」，抽象延伸至「迎接來訪者」以及「滿足條件、要求或標準」。過去式與過去分詞皆為 met。",
+      "definition": "1. To come face to face with someone by arrangement or chance.; 2. To go to a place to greet or welcome someone arriving.; 3. To satisfy or fulfill a need, requirement, or expectation.",
+      "example": [
+        {
+          "eng": "I am going to meet my friends downtown.",
+          "ch": "我要去市中心和朋友見面。"
+        },
+        {
+          "eng": "Can you meet me at the airport tomorrow?",
+          "ch": "你明天能去機場接我嗎？"
+        },
+        {
+          "eng": "The company failed to meet the delivery deadline.",
+          "ch": "這家公司未能符合交貨期限。"
+        }
+      ]
+    },
+    {
+      "eng": "meeting",
+      "kk": "ˈmitɪŋ",
+      "tense": "n.",
+      "ch": [
+        [
+          "會議",
+          "集會"
+        ],
+        [
+          "會面",
+          "相遇"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 meet 加上名詞字尾 -ing 構成的現代透明構詞。指人們聚集在一起開會、討論公務，或指人與人之間的偶然相遇或安排好的會面。",
+      "definition": "1. An assembly of people for a particular purpose, such as discussion or business.; 2. An encounter or coming together of people.",
+      "example": [
+        {
+          "eng": "We have a staff meeting every Monday morning.",
+          "ch": "我們每週一早上都有員工會議。"
+        },
+        {
+          "eng": "Our first meeting was at a college party.",
+          "ch": "我們的初次相遇是在一場大學派對上。"
+        }
+      ]
+    },
+    {
+      "eng": "member",
+      "kk": "ˈmɛmbɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "成員",
+          "會員"
+        ],
+        [
+          "肢",
+          "器官"
+        ]
+      ],
+      "analysis": "此字為名詞，源自拉丁語 membrum（身體的肢體、器官），經由古法語 membre 進入英語。語意從生理上的「身體組成部分」擴大延伸為「團體、組織或家庭中的成員」。",
+      "definition": "1. An individual belonging to a group, organization, or society.; 2. A distinct part or limb of the body.",
+      "example": [
+        {
+          "eng": "He has been a member of the club for five years.",
+          "ch": "他已經當這個俱樂部的會員五年了。"
+        },
+        {
+          "eng": "The hands and feet are vital members of the human body.",
+          "ch": "手和腳是人體重要的器官與肢體。"
+        }
+      ]
+    },
+    {
+      "eng": "menu",
+      "kk": "ˈmɛnju",
+      "tense": "n.",
+      "ch": [
+        [
+          "菜單"
+        ],
+        [
+          "選單"
+        ]
+      ],
+      "analysis": "此字為名詞，源自法語 menu（詳細的清單、小項目），源頭為拉丁語 minutus（微小的、詳細的）。在19世紀引入英語，原指餐廳的菜色清單，在計算機科學普及後，引申為電腦或手機螢幕上的功能選項「選單」。",
+      "definition": "1. A list of dishes available in a restaurant.; 2. A list of commands or options displayed on a computer screen.",
+      "example": [
+        {
+          "eng": "Could you please bring me the menu?",
+          "ch": "可以請你拿菜單給我嗎？"
+        },
+        {
+          "eng": "Click on the file menu to save your document.",
+          "ch": "點擊檔案選單來儲存你的文件。"
+        }
+      ]
+    },
+    {
+      "eng": "middle",
+      "kk": "ˈmɪdəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "中間",
+          "中央"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古英語 middel（中間的），屬於日耳曼語繼承詞。指空間、時間或順序的中央或正中心部分。",
+      "definition": "1. The point or position that is at an equal distance from all sides or ends; the center.",
+      "example": [
+        {
+          "eng": "She stood in the middle of the room.",
+          "ch": "她站在房間的正中央。"
+        }
+      ]
+    },
+    {
+      "eng": "milk",
+      "kk": "mɪlk",
+      "tense": "n.",
+      "ch": [
+        [
+          "牛奶",
+          "乳汁"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古英語 meoluc（乳汁），屬於日耳曼語繼承詞。指哺乳動物乳腺分泌的白色營養液，亦可泛指某些植物萃取出的乳狀液體。",
+      "definition": "1. An opaque white fluid rich in fat and protein, secreted by female mammals for the nourishment of their young.",
+      "example": [
+        {
+          "eng": "I like to drink a glass of warm milk before going to bed.",
+          "ch": "我喜歡在睡前喝一杯溫牛奶。"
+        }
+      ]
+    },
+    {
+      "eng": "million",
+      "kk": "ˈmɪljən",
+      "tense": "n.",
+      "ch": [
+        [
+          "百萬"
+        ]
+      ],
+      "analysis": "此字為名詞與數字，源自義大利語 milione（由mille「千」加上增大詞尾 -one 構成，意即「大千」），經由中古法語百萬進而進入英語。用以表示數字 1,000,000。",
+      "definition": "1. The number equivalent to the product of a thousand and a thousand (1,000,000).",
+      "example": [
+        {
+          "eng": "The city has a population of over two million.",
+          "ch": "這座城市的人口超過兩百萬。"
+        }
+      ]
+    },
+    {
+      "eng": "mind",
+      "kk": "maɪnd",
+      "tense": "n.",
+      "ch": [
+        [
+          "心智",
+          "頭腦"
+        ],
+        [
+          "意見",
+          "想法"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古英語 gemynd（記憶、心思、紀念），屬於日耳曼語繼承詞。語意從早期的「記憶與思考能力」擴大演變為現代的心智、理智，以及個人的想法或意願。",
+      "definition": "1. The element of a person that enables them to be aware of the world and their experiences, to think, and to feel; the intellect.; 2. A person's opinion, thoughts, or desires.",
+      "example": [
+        {
+          "eng": "Keep an open mind when you hear new ideas.",
+          "ch": "聽到新觀點時，保持開放的心態。"
+        },
+        {
+          "eng": "Have you made up your mind about the job offer?",
+          "ch": "你對這份工作邀約作好決定了嗎？"
+        }
+      ]
+    },
+    {
+      "eng": "minute",
+      "kk": "ˈmɪnɪt",
+      "tense": "n.",
+      "ch": [
+        [
+          "分鐘"
+        ],
+        [
+          "片刻",
+          "一會兒"
+        ]
+      ],
+      "analysis": "此字為名詞，源自拉丁語 pars minuta prima（意即「第一小部分」，即小時的六十分之一），源於 minutus（微小的）。經由古法語進入英語。語意從「小時的六十分之一」延伸出「極短的時間、片刻」。",
+      "definition": "1. A period of time equal to sixty seconds or a sixtieth of an hour.; 2. A very short time; a moment.",
+      "example": [
+        {
+          "eng": "Please wait for me; I'll be ready in five minutes.",
+          "ch": "請等我一下，我五分鐘就好。"
+        },
+        {
+          "eng": "I will be back in a minute.",
+          "ch": "我一下子就回來。"
+        }
+      ]
+    },
+    {
+      "eng": "miss",
+      "kk": "mɪs",
+      "tense": "vt.",
+      "ch": [
+        [
+          "錯過",
+          "未趕上"
+        ],
+        [
+          "想念",
+          "惦記"
+        ]
+      ],
+      "analysis": "此字為動詞原形，源自古英語 missan（未擊中、失敗、逃過），屬於日耳曼語繼承詞。語意從實體的「投擲或打擊時未中目標」，延伸出「錯過機會或交通工具」，以及因為人事物不在身邊而產生情感上的「想念」。",
+      "definition": "1. To fail to hit, reach, catch, or meet something or someone.; 2. To feel sad or lonely because someone or something is not present.",
+      "example": [
+        {
+          "eng": "I ran, but I still missed the train.",
+          "ch": "我跑了，但還是錯過了火車。"
+        },
+        {
+          "eng": "She missed her family very much while studying abroad.",
+          "ch": "她在國外求學時非常想念家人。"
+        }
+      ]
+    },
+    {
+      "eng": "mistake",
+      "kk": "mɪˈstek",
+      "tense": "n.",
+      "ch": [
+        [
+          "錯誤",
+          "過失"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古諾斯語 mistaka（誤解、犯錯，由 mis-「錯誤」+ taka「拿」組成）。進入中古英語後取代了部分本土詞彙。指在判斷、計算或行為上發生的錯誤與失誤。",
+      "definition": "1. An action or judgment that is misguided or wrong.",
+      "example": [
+        {
+          "eng": "Everyone makes mistakes at work sometimes.",
+          "ch": "每個人在工作時有時都會犯錯。"
+        }
+      ]
+    },
+    {
+      "eng": "modern",
+      "kk": "ˈmɑdɚn",
+      "tense": "adj.",
+      "ch": [
+        [
+          "現代的",
+          "近代的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自中世紀拉丁語 modernus（現今的、最近的），由拉丁語副詞 modo（剛剛、剛剛好）衍生而來。經由中古法語進入英語，用以形容屬於當前或近代、具備時代新風格的事物。",
+      "definition": "1. Relating to the present or recent times as opposed to the remote past.",
+      "example": [
+        {
+          "eng": "This building is a fine example of modern architecture.",
+          "ch": "這棟建築是現代建築的一個優秀典範。"
+        }
+      ]
+    },
+    {
+      "eng": "moment",
+      "kk": "ˈmomənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "時刻",
+          "瞬間"
+        ]
+      ],
+      "analysis": "此字為名詞，源自拉丁語 momentum（推動力、短暫的時間，原為 movimentum 的縮寫，由 movere「移動」衍生）。經由古法語進入英語，指極短暫的時間片段或特定的時刻。",
+      "definition": "1. A very brief period of time; an instant.",
+      "example": [
+        {
+          "eng": "Wait a moment, I'll be right with you.",
+          "ch": "等一下，我馬上就好。"
+        }
+      ]
+    },
+    {
+      "eng": "money",
+      "kk": "ˈmʌni",
+      "tense": "n.",
+      "ch": [
+        [
+          "錢",
+          "貨幣"
+        ]
+      ],
+      "analysis": "此字為名詞，源自拉丁語 Moneta（朱諾女神的別號，因羅馬人的鑄幣廠設在朱諾·莫內塔神廟內）。經由古法語 moneie 進入英語，演變成現代指流通貨幣與財富的統稱。",
+      "definition": "1. A current medium of exchange in the form of coins and banknotes.",
+      "example": [
+        {
+          "eng": "I don't have enough money to buy this computer.",
+          "ch": "我沒有足夠的錢買這台電腦。"
+        }
+      ]
+    },
+    {
+      "eng": "monkey",
+      "kk": "ˈmʌŋki",
+      "tense": "n.",
+      "ch": [
+        [
+          "猴子"
+        ]
+      ],
+      "analysis": "此字為名詞，其確切詞源不明，可能與中世紀低地德語或日耳曼語族中的動物寓言角色名稱有關。在中古晚期進入英語，指靈長類動物中尾巴較長、體型較小的猴子。",
+      "definition": "1. A small to medium-sized primate that typically has a long tail, living mostly in trees.",
+      "example": [
+        {
+          "eng": "The monkey climbed up the tall tree very quickly.",
+          "ch": "那隻猴子非常快地爬上了高樹。"
+        }
+      ]
+    },
+    {
+      "eng": "month",
+      "kk": "mʌnθ",
+      "tense": "n.",
+      "ch": [
+        [
+          "月",
+          "月份"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古英語 mōnað（月份，與 mōna「月亮」同源），屬於日耳曼語繼承詞。指依據月亮運行週期或曆法劃分的十二分之一年的時間單位。",
+      "definition": "1. Each of the twelve named periods into which a year is divided.",
+      "example": [
+        {
+          "eng": "February is the shortest month of the year.",
+          "ch": "二月是一年中天數最少的月份。"
+        }
+      ]
+    },
+    {
+      "eng": "moon",
+      "kk": "mun",
+      "tense": "n.",
+      "ch": [
+        [
+          "月亮",
+          "衛星"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古英語 mōna（月亮），屬於日耳曼語繼承詞。除專指地球的天然衛星月亮外，亦可泛指環繞其他行星運行的衛星。",
+      "definition": "1. The natural satellite of the earth, visible by reflected light from the sun.; 2. A natural satellite of any planet.",
+      "example": [
+        {
+          "eng": "The bright moon shone in the dark night sky.",
+          "ch": "明亮的月亮照耀在黑暗的夜空中。"
+        }
+      ]
+    },
+    {
+      "eng": "more",
+      "kk": "mɔr",
+      "tense": "adj.",
+      "ch": [
+        [
+          "更多的"
+        ]
+      ],
+      "analysis": "此字為形容詞與副詞，源自古英語 māra（更大的、更多的），屬於日耳曼語繼承詞。作為 many 與 much 的比較級，用以表示數量或程度的增加。",
+      "definition": "1. Greater in quantity, amount, degree, or number.",
+      "example": [
+        {
+          "eng": "We need more information before making a decision.",
+          "ch": "在做出決定之前，我們需要更多的資訊。"
+        }
+      ]
+    },
+    {
+      "eng": "morning",
+      "kk": "ˈmɔrnɪŋ",
+      "tense": "n.",
+      "ch": [
+        [
+          "早晨",
+          "上午"
+        ]
+      ],
+      "analysis": "此字為名詞，由古英語 morn（早晨）加上名詞字尾 -ing 演變而來。指從日出到中午這段時間。",
+      "definition": "1. The early part of the day, lasting from sunrise to noon.",
+      "example": [
+        {
+          "eng": "I like to go jogging in the fresh morning air.",
+          "ch": "我喜歡在清晨清新的空氣中慢跑。"
+        }
+      ]
+    },
+    {
+      "eng": "most",
+      "kk": "most",
+      "tense": "adj.",
+      "ch": [
+        [
+          "大多數的",
+          "最多的"
+        ]
+      ],
+      "analysis": "此字為形容詞與副詞，源自古英語 mǣst（最大的、最多的），屬於日耳曼語繼承詞。作為 many 與 much 的最高級，用以表示最大多數或最大程度。",
+      "definition": "1. Greatest in amount, quantity, or degree; the majority of.",
+      "example": [
+        {
+          "eng": "Most students passed the difficult math exam.",
+          "ch": "大多數學生都通過了這場困難的數學考試。"
+        }
+      ]
+    },
+    {
+      "eng": "mother",
+      "kk": "ˈmʌðɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "母親",
+          "媽媽"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古英語 mōdor，源自原始日耳曼語 *mōdēr，最終可追溯至印歐語系基礎親屬稱謂 *méh₂tēr。屬於高度穩定的核心繼承詞。",
+      "definition": "1. A woman in relation to her child or children.",
+      "example": [
+        {
+          "eng": "My mother cooks delicious food for us every day.",
+          "ch": "我母親每天為我們煮美味的食物。"
+        }
+      ]
+    },
+    {
+      "eng": "mountain",
+      "kk": "ˈmaʊntən",
+      "tense": "n.",
+      "ch": [
+        [
+          "山",
+          "山脈"
+        ]
+      ],
+      "analysis": "此字為名詞，源自拉丁語 montanus（山丘的，由 mons「山」衍生）。經由古法語 montaine 進入英語，用以指比丘陵更高、地形陡峭的山峰或山脈。",
+      "definition": "1. A large natural elevation of the earth's surface rising abruptly from the surrounding level.",
+      "example": [
+        {
+          "eng": "Climbers tried to reach the top of the high mountain.",
+          "ch": "登山者試圖登上高山的頂峰。"
+        }
+      ]
+    },
+    {
+      "eng": "mouse",
+      "kk": "maʊs",
+      "tense": "n.",
+      "ch": [
+        [
+          "老鼠"
+        ],
+        [
+          "滑鼠"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古英語 mūs（老鼠），屬於日耳曼語繼承詞。複數形為 mice。在現代科技發展中，因其外形與線路類似老鼠而引申出電腦「滑鼠」的新義。",
+      "definition": "1. A small rodent with a pointed snout and long tail.; 2. A small handheld device used to point to and control items on a computer screen.",
+      "example": [
+        {
+          "eng": "The cat chased a small mouse across the kitchen floor.",
+          "ch": "貓在廚房地板上追趕一隻小老鼠。"
+        },
+        {
+          "eng": "Double click the left mouse button to open the file.",
+          "ch": "雙擊滑鼠左鍵來打開檔案。"
+        }
+      ]
+    },
+    {
+      "eng": "mouth",
+      "kk": "maʊθ",
+      "tense": "n.",
+      "ch": [
+        [
+          "嘴巴",
+          "口"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古英語 mūð（嘴、口腔），屬於日耳曼語繼承詞。指人類或動物臉部用來進食與發聲的器官，亦可引申指洞穴或河流的出海口。",
+      "definition": "1. The opening in the lower part of the human face, used for speaking, eating, and breathing.",
+      "example": [
+        {
+          "eng": "Open your mouth wide so the dentist can check your teeth.",
+          "ch": "把嘴巴張大，讓牙醫檢查你的牙齒。"
+        }
+      ]
+    },
+    {
+      "eng": "move",
+      "kk": "muv",
+      "tense": "vt.",
+      "ch": [
+        [
+          "移動",
+          "搬遷"
+        ],
+        [
+          "感動",
+          "觸動"
+        ]
+      ],
+      "analysis": "此字為動詞原形，源自拉丁語 movēre（移動、推動）。經由古法語 mouvoir 進入英語。語意從實體的「使物體改變位置、搬家」，抽象演變出「觸動人心、使人感動」的意思。",
+      "definition": "1. To go in a specified direction or change position.; 2. To evoke a strong emotional feeling in someone; to touch.",
+      "example": [
+        {
+          "eng": "It's time to move the heavy sofa to the other corner.",
+          "ch": "是時候把這張沉重的沙發搬到另一個角落了。"
+        },
+        {
+          "eng": "Her tragic story deeply moved everyone in the audience.",
+          "ch": "她悲慘的故事深深感動了台下的每個人。"
+        }
+      ]
+    },
+    {
+      "eng": "movement",
+      "kk": "ˈmuvmənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "運動",
+          "活動"
+        ],
+        [
+          "社會運動",
+          "樂章"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 move 加上名詞字尾 -ment 構成的現代透明構詞。指身體或物體的移動、政治或社會性的群體運動，亦指音樂作品中的「樂章」。",
+      "definition": "1. An act of changing physical location or position.; 2. An organized group of people working together toward a shared political, social, or artistic goal.; 3. A principal division of a musical work or composition.",
+      "example": [
+        {
+          "eng": "Yoga helps improve body balance and smooth movement.",
+          "ch": "瑜伽有助於改善身體平衡和流暢的動作。"
+        },
+        {
+          "eng": "The environmental movement has gained much support worldwide.",
+          "ch": "環保運動在世界各地獲得了許多支持。"
+        }
+      ]
+    },
+    {
+      "eng": "movie",
+      "kk": "ˈmuvi",
+      "tense": "n.",
+      "ch": [
+        [
+          "電影"
+        ]
+      ],
+      "analysis": "此字為名詞，由 moving pictures（移動的畫面）縮寫並加上指小字尾 -ie 構成的美國口語化現代構詞。在 20 世紀初電影藝術興起時誕生，現已成為美式英語中最常見的「電影」代名詞。",
+      "definition": "1. A motion picture; a film shown in cinemas or on television.",
+      "example": [
+        {
+          "eng": "We went to see an exciting action movie last night.",
+          "ch": "我們昨晚去看了一部刺激的動作電影。"
+        }
+      ]
+    },
+    {
+      "eng": "film",
+      "kk": "fɪlm",
+      "tense": "n.",
+      "ch": [
+        [
+          "底片",
+          "膠卷"
+        ],
+        [
+          "電影"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古英語 filmen（薄膜、皮膜），屬於日耳曼語繼承詞。隨著早期攝影技術的發展，用來指感光的薄膜（底片），進而借代為用這種底片拍攝的「電影」（尤其在英式英語中特別常用）。",
+      "definition": "1. A thin flexible strip of plastic coated with light-sensitive emulsion for taking photographs or making movies.; 2. A motion picture.",
+      "example": [
+        {
+          "eng": "He loaded a roll of black-and-white film into his camera.",
+          "ch": "他在相機裡裝了一卷黑白底片。"
+        },
+        {
+          "eng": "That French film won several awards at the festival.",
+          "ch": "那部法國電影在影展中贏得了好幾個獎項。"
+        }
+      ]
+    },
+    {
+      "eng": "Mr.",
+      "kk": "ˈmɪstɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "先生"
+        ]
+      ],
+      "analysis": "此字為名詞縮寫，為 Mister 的標準縮寫形式，源自 Master（主人、先生）。專門置於成年男性的姓氏或全名前作為尊稱。",
+      "definition": "1. A conventional title of respect used before the surname or full name of a man.",
+      "example": [
+        {
+          "eng": "Mr. Smith will lead the meeting this afternoon.",
+          "ch": "史密斯先生將主持今天下午的會議。"
+        }
+      ]
+    },
+    {
+      "eng": "Mister",
+      "kk": "ˈmɪstɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "先生"
+        ]
+      ],
+      "analysis": "此字為名詞，為 Master（主人、尊者）的拼寫與語音變體。作為成文全稱，現今多以縮寫形式 Mr. 出現，但在直接稱呼或特定文書中仍會完整拼出。",
+      "definition": "1. The full, uncompressed title of respect for a man.",
+      "example": [
+        {
+          "eng": "Excuse me, Mister, you dropped your wallet.",
+          "ch": "不好意思，先生，你的皮夾掉了。"
+        }
+      ]
+    },
+    {
+      "eng": "Mrs.",
+      "kk": "ˈmɪsɪz",
+      "tense": "n.",
+      "ch": [
+        [
+          "太太",
+          "夫人"
+        ]
+      ],
+      "analysis": "此字為名詞縮寫，原本是 Mistress（女主人、夫人）的縮寫形式。雖然拼寫仍保留早期 Mistress 的發音與縮寫頭銜，但在現代專門用作已婚女性的尊稱。",
+      "definition": "1. A title of respect used before the surname of a married woman.",
+      "example": [
+        {
+          "eng": "Mrs. Davis is our neighborhood's volunteer coordinator.",
+          "ch": "戴維斯太太是我們社區的志工協調員。"
+        }
+      ]
+    },
+    {
+      "eng": "Ms.",
+      "kk": "mɪz",
+      "tense": "n.",
+      "ch": [
+        [
+          "女士"
+        ]
+      ],
+      "analysis": "此字為名詞縮寫，是 20 世紀中葉女性主義運動興起後創造的尊稱，結合了 Mrs. 與 Miss 的發音特點，用以稱呼女性而不強制標明其婚姻狀況（已婚或未婚）。",
+      "definition": "1. A title of respect used before a woman's surname, without regard to her marital status.",
+      "example": [
+        {
+          "eng": "Ms. Johnson will review your resume tomorrow.",
+          "ch": "強森女士明天會審查你的履歷。"
+        }
+      ]
+    },
+    {
+      "eng": "much",
+      "kk": "mʌtʃ",
+      "tense": "adj.",
+      "ch": [
+        [
+          "許多的",
+          "大量的"
+        ]
+      ],
+      "analysis": "此字為形容詞、副詞與代名詞，源自古英語 micel（大的、許多的），屬於日耳曼語繼承詞。專門用來修飾或指代不可數名詞的大量程度。",
+      "definition": "1. A large amount or quantity of something (used with uncountable nouns).",
+      "example": [
+        {
+          "eng": "There is not much time left before the deadline.",
+          "ch": "距離截止日期沒剩多少時間了。"
+        }
+      ]
+    },
+    {
+      "eng": "mud",
+      "kk": "mʌd",
+      "tense": "n.",
+      "ch": [
+        [
+          "泥",
+          "泥土"
+        ]
+      ],
+      "analysis": "此字為名詞，源自低地德語或中荷蘭語 mudde（泥漿），在中古晚期進入英語。指土壤吸水後形成的柔軟濕潤泥漿。",
+      "definition": "1. Soft, sticky earth that is mixed with water.",
+      "example": [
+        {
+          "eng": "The children's shoes were covered in thick mud.",
+          "ch": "孩子們的鞋子沾滿了厚厚的泥巴。"
+        }
+      ]
+    },
+    {
+      "eng": "museum",
+      "kk": "mjuˈziəm",
+      "tense": "n.",
+      "ch": [
+        [
+          "博物館"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古希臘語 mouseion（繆斯女神的神殿或學術殿堂），由 Mousa（繆斯，文藝女神）衍生而來。經由拉丁語進入現代歐洲語言，演變成收藏、研究並展示藝術、歷史與科學文物的「博物館」。",
+      "definition": "1. A building in which objects of historical, scientific, artistic, or cultural interest are stored and exhibited.",
+      "example": [
+        {
+          "eng": "We visited the national museum to see ancient paintings.",
+          "ch": "我們參觀了國家博物館以欣賞古代畫作。"
+        }
+      ]
+    },
+    {
+      "eng": "music",
+      "kk": "ˈmjuzɪk",
+      "tense": "n.",
+      "ch": [
+        [
+          "音樂",
+          "樂曲"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古希臘語 mousikē（繆斯女神的藝術，即音樂與詩歌）。經由拉丁語 musica 與古法語 musique 進入英語，指透過旋律、和聲與節奏表達情感的藝術形式。",
+      "definition": "1. Vocal or instrumental sounds combined in such as to produce beauty of form, harmony, and expression of emotion.",
+      "example": [
+        {
+          "eng": "She likes listening to classical music while reading books.",
+          "ch": "她喜歡在看書時聽古典音樂。"
+        }
+      ]
+    },
+    {
+      "eng": "must",
+      "kk": "mʌst",
+      "tense": "modal v.",
+      "ch": [
+        [
+          "必須",
+          "一定得"
+        ],
+        [
+          "肯定",
+          "準是"
+        ]
+      ],
+      "analysis": "此字為助動詞，源自古英語 mōste（動詞 mōtan 的過去式，意即「被允許、必然要」），屬於日耳曼語繼承詞。在現代英語中轉化為表義務的「必須」與表邏輯推論的「肯定、一定是」。",
+      "definition": "1. Be required to, or obliged to do something.; 2. Be very likely to, or reasonably expected to be true (expressing logical deduction).",
+      "example": [
+        {
+          "eng": "You must finish your homework before going out to play.",
+          "ch": "你出去玩之前必須把作業寫完。"
+        },
+        {
+          "eng": "He has worked all day; he must be very tired.",
+          "ch": "他工作了一整天，一定非常累。"
+        }
+      ]
+    },
+    {
+      "eng": "name",
+      "kk": "nem",
+      "tense": "n.",
+      "ch": [
+        [
+          "名字",
+          "名稱"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古英語 nama（名字），屬於日耳曼語繼承詞，與拉丁語 nomen 同源。指用以識別和稱呼人、動物、地點或事物的名稱。",
+      "definition": "1. A word or set of words by which a person, animal, place, or thing is known, addressed, or referred to.",
+      "example": [
+        {
+          "eng": "What is your name, little boy?",
+          "ch": "小朋友，你叫什麼名字？"
+        }
+      ]
+    },
+    {
+      "eng": "national",
+      "kk": "ˈnæʃənəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "國家的",
+          "全國的"
+        ]
+      ],
+      "analysis": "此字為形容詞，由名詞 nation（國家，源自拉丁語 natio「民族、出生」）加上形容詞字尾 -al 構成的現代透明構詞。用以形容屬於特定國家或涵蓋全國範圍的事物。",
+      "definition": "1. Common to or characteristic of a whole nation; owned or maintained by the government.",
+      "example": [
+        {
+          "eng": "Tomorrow is a national holiday in our country.",
+          "ch": "明天我們國家放國定假日。"
+        }
+      ]
+    },
+    {
+      "eng": "nature",
+      "kk": "ˈnetʃɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "大自然",
+          "自然界"
+        ],
+        [
+          "本性",
+          "天性"
+        ]
+      ],
+      "analysis": "此字為名詞，源自拉丁語 natura（誕生、生長、事物的本質，由 nasci「出生」衍生）。經由古法語進入英語。語意從宇宙萬物運行的「大自然」，延伸出個人或事物的內在「本性與天性」。",
+      "definition": "1. The phenomena of the physical world collectively, including plants, animals, and landscapes.; 2. The inherent character or basic constitution of a person or thing.",
+      "example": [
+        {
+          "eng": "It is important to protect the beauty of nature.",
+          "ch": "保護大自然的美麗是很重要的。"
+        },
+        {
+          "eng": "It is in his nature to help people in need.",
+          "ch": "幫助需要幫助的人是他的天性。"
+        }
+      ]
+    },
+    {
+      "eng": "near",
+      "kk": "nɪr",
+      "tense": "prep.",
+      "ch": [
+        [
+          "靠近",
+          "在……附近"
+        ]
+      ],
+      "analysis": "此字為介系詞與形容詞，源自古英語 nēah（接近的、近處的），屬於日耳曼語繼承詞。用以表示在空間距離或時間上距離不遠。",
+      "definition": "1. At or to a short distance away from (a place or time).",
+      "example": [
+        {
+          "eng": "Our house is located near the public library.",
+          "ch": "我們的房子位於公共圖書館附近。"
+        }
+      ]
+    },
+    {
+      "eng": "neck",
+      "kk": "nɛk",
+      "tense": "n.",
+      "ch": [
+        [
+          "脖子",
+          "頸部"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古英語 hnecca（頸背），屬於日耳曼語繼承詞。指連接頭部與軀幹的身體部位，亦可引申指瓶子較細的部位（瓶頸）。",
+      "definition": "1. The part of the body that connects the head to the shoulders.",
+      "example": [
+        {
+          "eng": "She wore a beautiful gold necklace around her neck.",
+          "ch": "她脖子上戴著一條漂亮的黃金項鍊。"
+        }
+      ]
+    },
+    {
+      "eng": "need",
+      "kk": "nid",
+      "tense": "vt.",
+      "ch": [
+        [
+          "需要",
+          "必須"
+        ]
+      ],
+      "analysis": "此字為動詞原形，源自古英語 nēodian（需要、缺乏），屬於日耳曼語繼承詞。用以表達生存、工作或情況上不可或缺的條件或要求。",
+      "definition": "1. Require (something) because it is essential or very important rather than just desirable.",
+      "example": [
+        {
+          "eng": "Plants need water and sunlight to grow healthily.",
+          "ch": "植物需要水和陽光才能健康生長。"
+        }
+      ]
+    },
+    {
+      "eng": "net",
+      "kk": "nɛt",
+      "tense": "n.",
+      "ch": [
+        [
+          "網",
+          "網子"
+        ],
+        [
+          "網路"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古英語 net（網），屬於日耳曼語繼承詞。最初指捕魚或捕捉動物的繩網，在現代資訊時代引申出全球資訊網（Internet）的「網路」涵義。",
+      "definition": "1. A piece of open-meshed material made of twine, cord, or thread, used for catching fish or trapping animals.; 2. The internet.",
+      "example": [
+        {
+          "eng": "The fisherman threw his net into the sea.",
+          "ch": "漁夫把他的網子拋進海裡。"
+        },
+        {
+          "eng": "You can find a lot of useful information on the net.",
+          "ch": "你可以在網路上找到許多有用的資訊。"
+        }
+      ]
+    },
+    {
+      "eng": "never",
+      "kk": "ˈnɛvɚ",
+      "tense": "adv.",
+      "ch": [
+        [
+          "從不",
+          "絕不"
+        ]
+      ],
+      "analysis": "此字為副詞，由古英語 ne（不）+ ǣfre（曾經）縮合演變而來（ne ＋ ǣfre > næfre > never）。表示過去、現在和未來都不曾發生過的否定狀態。",
+      "definition": "1. At no time in the past or future; on no occasion.",
+      "example": [
+        {
+          "eng": "I have never been to Europe before.",
+          "ch": "我以前從未去過歐洲。"
+        }
+      ]
+    }
+  ]
+}

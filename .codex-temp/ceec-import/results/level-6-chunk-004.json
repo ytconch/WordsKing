@@ -1,0 +1,1159 @@
+{
+  "level": 6,
+  "chunkIndex": 4,
+  "inputs": [
+    "chemist",
+    "chestnut",
+    "chili",
+    "chimpanzee",
+    "chirp",
+    "cholesterol",
+    "cigar",
+    "civilize",
+    "clam",
+    "clasp",
+    "clearance",
+    "climax",
+    "clockwise",
+    "clone",
+    "closure",
+    "coalition",
+    "coastline",
+    "collision",
+    "colloquial",
+    "comet",
+    "commonplace",
+    "commonwealth",
+    "communicative",
+    "comparative",
+    "compass",
+    "compile",
+    "complement",
+    "complexion",
+    "comprehensive",
+    "compute",
+    "computerize",
+    "comrade",
+    "concession",
+    "concise",
+    "condense",
+    "confederation",
+    "congressman",
+    "congresswoman",
+    "conquest",
+    "conscientious",
+    "conserve",
+    "consolation",
+    "console",
+    "consonant",
+    "conspiracy",
+    "contention",
+    "contestant",
+    "continuity",
+    "contradict",
+    "convene"
+  ],
+  "rows": [
+    {
+      "eng": "chemist",
+      "kk": "ˈkɛmɪst",
+      "tense": "n.",
+      "ch": [
+        [
+          "化學家",
+          "化學科學家"
+        ],
+        [
+          "藥劑師",
+          "藥房"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由化學 chemistry（源自希臘語 khēmia）加上表示人的名詞字尾 -ist 結合而成，原意為從事化學研究的人；在英式英語中也常引申指藥劑師或兼售藥品的藥妝店。",
+      "definition": "1. a scientist who specializes in chemistry; 2. a person who prepares and sells medicines, or a retail shop selling medicines and toiletries.",
+      "example": [
+        {
+          "eng": "Marie Curie was a brilliant chemist who discovered radium.",
+          "ch": "居禮夫人是一位發現了鐳的傑出化學家。"
+        },
+        {
+          "eng": "I need to go to the chemist to pick up my prescription.",
+          "ch": "我需要去藥局拿處方藥。"
+        }
+      ]
+    },
+    {
+      "eng": "chestnut",
+      "kk": "ˈʧɛsnʌt",
+      "tense": "n.",
+      "ch": [
+        [
+          "栗子",
+          "栗樹"
+        ],
+        [
+          "栗色",
+          "紅棕色"
+        ]
+      ],
+      "analysis": "此字歷史上源自中古英語 cheste-note，最終借自古法語 chastan（源自拉丁語 castanea「栗樹」），後結合 note（核、堅果）而形成複合詞；因其果實顏色而延伸出栗色的形容義與名詞義。",
+      "definition": "1. the edible nut of a sweet chestnut tree, or the tree itself; 2. a dark reddish-brown color.",
+      "example": [
+        {
+          "eng": "We roasted sweet chestnuts over the open fire during winter.",
+          "ch": "冬天時我們在明火上烤甜栗子。"
+        },
+        {
+          "eng": "She has beautiful chestnut hair that shines in the sun.",
+          "ch": "她有一頭在陽光下閃爍的美麗栗色頭髮。"
+        }
+      ]
+    },
+    {
+      "eng": "chili",
+      "kk": "ˈʧɪli",
+      "tense": "n.",
+      "ch": [
+        [
+          "辣椒"
+        ],
+        [
+          "辣椒肉醬"
+        ]
+      ],
+      "analysis": "此字源自納瓦特爾語 chīlli，透過西班牙語進入英語，用以指稱多種辣味果實；在美式英語中也常用於指以辣椒和肉末熬煮而成的經典料理。",
+      "definition": "1. a small, hot-tasting pod of certain varieties of capsicum used in cooking; 2. a thick, spicy stew made with chili peppers and minced meat.",
+      "example": [
+        {
+          "eng": "Be careful when cutting the chili, as the juice can irritate your skin.",
+          "ch": "切辣椒時要小心，因為汁液會刺激皮膚。"
+        },
+        {
+          "eng": "We had a warm bowl of beef chili for dinner on the cold night.",
+          "ch": "我們在寒冷的夜晚晚餐吃了一碗溫暖的牛肉辣椒肉醬。"
+        }
+      ]
+    },
+    {
+      "eng": "chimpanzee",
+      "kk": "ˌʧɪmpænˈzi",
+      "tense": "n.",
+      "ch": [
+        [
+          "黑猩猩"
+        ]
+      ],
+      "analysis": "此字為非洲班圖語支的借詞，經由西非語言傳入英語，指一種與人類親緣關係極近的大型靈長類動物。",
+      "definition": "1. a small, intelligent great ape native to the forests of central and west Africa.",
+      "example": [
+        {
+          "eng": "Researchers observed a chimpanzee using a stick to extract termites from a mound.",
+          "ch": "研究人員觀察到一隻黑猩猩用樹枝從蟻窩中挑出白蟻。"
+        }
+      ]
+    },
+    {
+      "eng": "chirp",
+      "kk": "ʧɝp",
+      "tense": "vi.",
+      "ch": [
+        [
+          "唧唧叫",
+          "啁啾"
+        ]
+      ],
+      "analysis": "此字為擬聲詞，用來模擬小鳥或昆蟲所發出的短促高音；在現代英語中作為自動詞穩定使用，形容動物的鳴叫聲。",
+      "definition": "1. to make a short, sharp high-pitched sound typical of a small bird or insect.",
+      "example": [
+        {
+          "eng": "Little birds began to chirp outside my window early in the morning.",
+          "ch": "清晨時分，小鳥開始在我窗外唧唧叫。"
+        }
+      ]
+    },
+    {
+      "eng": "cholesterol",
+      "kk": "kəˈlɛstəˌrɔl",
+      "tense": "n.",
+      "ch": [
+        [
+          "膽固醇"
+        ]
+      ],
+      "analysis": "此字為現代科學構詞，由法語 choléstérine（源自希臘語 chōlē「膽汁」與 stereos「固體」）加上化學字尾 -ol 組合而成，指生物體內的一種重要脂質化合物。",
+      "definition": "1. a compound of the sterol type found in most body tissues, high levels of which can cause health issues.",
+      "example": [
+        {
+          "eng": "Eating a balanced diet and exercising regularly can help maintain healthy cholesterol levels.",
+          "ch": "均衡飲食和規律運動有助於維持健康的膽固醇水平。"
+        }
+      ]
+    },
+    {
+      "eng": "cigar",
+      "kk": "sɪˈgɑr",
+      "tense": "n.",
+      "ch": [
+        [
+          "雪茄"
+        ]
+      ],
+      "analysis": "此字源自瑪雅語 sikar，經由西班牙語 cigarro 進入英語，指將菸葉捲成圓筒狀供人點燃吸食的製品。",
+      "definition": "1. a cylinder of tobacco rolled in tobacco leaves for smoking.",
+      "example": [
+        {
+          "eng": "The older gentleman sat on the porch and lit a premium cigar.",
+          "ch": "那位老紳士坐在門廊上，點燃了一支高級雪茄。"
+        }
+      ]
+    },
+    {
+      "eng": "civilize",
+      "kk": "ˈsɪvəˌlaɪz",
+      "tense": "vt.",
+      "ch": [
+        [
+          "教化",
+          "使文明化"
+        ]
+      ],
+      "analysis": "此字由形容詞 civil（源自拉丁語 civilis「公民的、有禮貌的」）加上動詞字尾 -ize 構成，表示使其脫離野蠻、具備社會禮儀與文明水準的及物動詞用法。",
+      "definition": "1. to bring to a more advanced state of social development and organization.",
+      "example": [
+        {
+          "eng": "Education and the rule of law help to civilize society.",
+          "ch": "教育與法治有助於使社會走向文明。"
+        }
+      ]
+    },
+    {
+      "eng": "clam",
+      "kk": "klæm",
+      "tense": "n.",
+      "ch": [
+        [
+          "蛤蜊",
+          "蛤"
+        ]
+      ],
+      "analysis": "此字源自日耳曼語族之古英語 clamm（夾子、陷阱、羈絆），與 clamp 同源，因其雙殼緊閉的特性，後來在早期現代英語中轉化用以指稱雙殼貝類動物。",
+      "definition": "1. a marine bivalve mollusk with a shell that has two hinged halves.",
+      "example": [
+        {
+          "eng": "We went to the beach to dig for fresh clams in the sand.",
+          "ch": "我們去海灘在沙子裡挖新鮮的蛤蜊。"
+        }
+      ]
+    },
+    {
+      "eng": "clasp",
+      "kk": "klæsp",
+      "tense": "vt.",
+      "ch": [
+        [
+          "緊握",
+          "擁抱",
+          "扣緊"
+        ]
+      ],
+      "analysis": "此字源自中古英語 claspen，可能與古英語 clæps 相關，作為及物動詞表示用手緊緊握住、抱住或將物品扣上。",
+      "definition": "1. to grasp, hold, or hug closely and tightly with the hands or arms.",
+      "example": [
+        {
+          "eng": "She reached out to clasp her friend's hand tightly.",
+          "ch": "她伸出手緊緊握住朋友的手。"
+        }
+      ]
+    },
+    {
+      "eng": "clearance",
+      "kk": "ˈklɪrəns",
+      "tense": "n.",
+      "ch": [
+        [
+          "清除"
+        ],
+        [
+          "清倉拍賣"
+        ],
+        [
+          "空隙"
+        ],
+        [
+          "許可授權"
+        ]
+      ],
+      "analysis": "此字由形容詞 clear 加上名詞字尾 -ance 構成，本義為清理、清除的動作，隨後延伸出空間高度差的許可空隙、官方的安全授權以及商店的清倉銷售等常用義項。",
+      "definition": "1. the action of clearing away or removing something; 2. the sale of goods at reduced prices to clear stock; 3. the distance between two objects allowing passage; 4. official authorization.",
+      "example": [
+        {
+          "eng": "The building received clearance for demolition after structural inspection.",
+          "ch": "該建築在結構檢查後獲得了拆除許可。"
+        },
+        {
+          "eng": "I bought this winter coat at a clearance sale for half price.",
+          "ch": "我在清倉特賣會上以半價買了這件冬衣。"
+        },
+        {
+          "eng": "The truck could not pass under the bridge due to low clearance.",
+          "ch": "由於淨空高度不足，這輛卡車無法從橋下通過。"
+        },
+        {
+          "eng": "Security clearance is required to enter the restricted laboratory.",
+          "ch": "進入管制實驗室需要安全許可證。"
+        }
+      ]
+    },
+    {
+      "eng": "climax",
+      "kk": "ˈklaɪmæks",
+      "tense": "n.",
+      "ch": [
+        [
+          "高潮",
+          "頂峰"
+        ]
+      ],
+      "analysis": "此字直接借自希臘語 klimax（意為梯子、階梯），在修辭學中指逐步遞升的句法，後引申為戲劇、文學或事件發展中最精彩、最緊張的頂峰或高潮時刻。",
+      "definition": "1. the most intense, exciting, or important point of something.",
+      "example": [
+        {
+          "eng": "The detective novel reached its thrilling climax in the final chapter.",
+          "ch": "這部偵探小說在最後一章迎來了扣人心弦的高潮。"
+        }
+      ]
+    },
+    {
+      "eng": "clockwise",
+      "kk": "ˈklɑkˌwaɪz",
+      "tense": "adv.",
+      "ch": [
+        [
+          "順時針方向地"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由 clock 與表示方向或方式的字尾 -wise 結合而成，指與時鐘指針轉動方向相同的運行方式。",
+      "definition": "1. in the direction in which the hands of a clock move.",
+      "example": [
+        {
+          "eng": "Turn the screw clockwise to tighten it securely.",
+          "ch": "順時針轉動螺絲以將其拴緊。"
+        }
+      ]
+    },
+    {
+      "eng": "clone",
+      "kk": "klon",
+      "tense": "n.",
+      "ch": [
+        [
+          "複製生物",
+          "複製品"
+        ]
+      ],
+      "analysis": "此字源自希臘語 klōn（嫩枝、插枝），20世紀初在生物學中被創造用以指無性繁殖的後代群體，現代泛指基因相同的複製體或高度相似的複製品。",
+      "definition": "1. an organism or cell produced asexually from one ancestor, to which they are genetically identical.",
+      "example": [
+        {
+          "eng": "Scientists successfully produced the first cloned mammal, raising many ethical debates.",
+          "ch": "科學家成功培育出第一隻複製哺乳動物，引發了許多倫理爭論。"
+        }
+      ]
+    },
+    {
+      "eng": "closure",
+      "kk": "ˈkloʊʒɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "停業",
+          "關閉"
+        ],
+        [
+          "了結",
+          "心理上的釋懷"
+        ]
+      ],
+      "analysis": "此字由動詞 close 加上名詞字尾 -ure 構成，本義為關閉的狀態，後延伸出道路或工廠的永久停業、事務的徹底結束，以及心理上對創傷或失落事件獲得的釋懷與圓滿感。",
+      "definition": "1. the act or process of closing something, such as a factory or road; 2. a sense of resolution or emotional completion after a difficult experience.",
+      "example": [
+        {
+          "eng": "The sudden closure of the local post office shocked the residents.",
+          "ch": "當地郵局的突然關閉讓居民感到震驚。"
+        },
+        {
+          "eng": "Attending the final memorial service gave the family much-needed closure.",
+          "ch": "參加最後的追悼會給了家屬極需的心靈釋懷。"
+        }
+      ]
+    },
+    {
+      "eng": "coalition",
+      "kk": "ˌkoʊəˈlɪʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "聯合",
+          "聯盟",
+          "聯合政府"
+        ]
+      ],
+      "analysis": "此字由拉丁語字首 co-（共同）與 alescere（成長、結合）衍生的名詞字尾組合而成，指不同政黨、團體或國家為達成共同目標而結成的聯盟。",
+      "definition": "1. an alliance for combined action, especially a temporary alliance of political parties forming a government.",
+      "example": [
+        {
+          "eng": "Several opposition parties formed a coalition to contest the upcoming election.",
+          "ch": "幾個反對黨組成了一個聯盟來競選即將到來的選舉。"
+        }
+      ]
+    },
+    {
+      "eng": "coastline",
+      "kk": "ˈkoʊstˌlaɪn",
+      "tense": "n.",
+      "ch": [
+        [
+          "海岸線"
+        ]
+      ],
+      "analysis": "此字為現代透明複合詞，由 coast（源自拉丁語 costa「肋骨、側邊」）與 line 組合而成，指陸地與海洋交界處的輪廓線。",
+      "definition": "1. the outline or boundary of a coast, especially with regard to its shape and appearance.",
+      "example": [
+        {
+          "eng": "The rugged coastline features dramatic cliffs and hidden sandy beaches.",
+          "ch": "這條崎嶇的海岸線擁有壯麗的懸崖和隱蔽的沙灘。"
+        }
+      ]
+    },
+    {
+      "eng": "collision",
+      "kk": "kəˈlɪʒən",
+      "tense": "n.",
+      "ch": [
+        [
+          "碰撞"
+        ],
+        [
+          "衝突"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 collisio，由同化字首 com- 與 laedere（打擊、傷害）的過去分詞詞幹組合而成，本義為互相撞擊，後延伸引申為利益或觀點的衝突。",
+      "definition": "1. an instance of one moving object or person striking violently against another; 2. a clash or strong disagreement.",
+      "example": [
+        {
+          "eng": "The severe collision on the highway caused a massive traffic jam.",
+          "ch": "高速公路上的嚴重碰撞事故造成了巨大的交通大塞車。"
+        },
+        {
+          "eng": "The new policy led to a direct collision between labor unions and management.",
+          "ch": "這項新政策導致工會與管理階層之間產生了直接衝突。"
+        }
+      ]
+    },
+    {
+      "eng": "colloquial",
+      "kk": "kəˈloʊkwiəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "口語的",
+          "日常會話的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 colloquium（由 com- 與 loqui「說話」組成）加上形容詞字尾 -al，專門用來形容語言中屬於日常非正式交談的詞彙或風格。",
+      "definition": "1. used in ordinary or familiar conversation rather than formal speech or writing.",
+      "example": [
+        {
+          "eng": "The textbook teaches formal English, but it also introduces some common colloquial expressions.",
+          "ch": "這本教科書教授正式英語，但也介紹了一些常見的口語表達。"
+        }
+      ]
+    },
+    {
+      "eng": "comet",
+      "kk": "ˈkɑmɪt",
+      "tense": "n.",
+      "ch": [
+        [
+          "彗星"
+        ]
+      ],
+      "analysis": "此字源自希臘語 komētēs（帶長髮的人），因古人觀察到彗星拖著長長的尾巴形似散髮，經拉丁語 cometa 進入英語，指繞太陽運行、帶有光尾的天體。",
+      "definition": "1. a celestial body moving about the sun, consisting of a central nucleus and a luminous tail.",
+      "example": [
+        {
+          "eng": "Halley's comet visits the inner solar system approximately every 75 to 76 years.",
+          "ch": "哈雷彗星大約每 75 到 76 年造訪一次太陽系內部。"
+        }
+      ]
+    },
+    {
+      "eng": "commonplace",
+      "kk": "ˈkɑmənˌpleɪs",
+      "tense": "n.",
+      "ch": [
+        [
+          "尋常的事",
+          "老生常談"
+        ]
+      ],
+      "analysis": "此字原為拉丁語 loci communes（共同場所、普通主題）的仿譯詞，由 common 與 place 複合而成，指司空見慣的普通現象或老調重彈的觀點。",
+      "definition": "1. a usual or ordinary thing; a trite remark or cliché.",
+      "example": [
+        {
+          "eng": "Smartphones have become a commonplace in modern daily life.",
+          "ch": "智慧型手機已成為現代日常生活中的尋常事物。"
+        }
+      ]
+    },
+    {
+      "eng": "commonwealth",
+      "kk": "ˈkɑmənˌwɛlθ",
+      "tense": "n.",
+      "ch": [
+        [
+          "共和國",
+          "國民共同體"
+        ],
+        [
+          "大英國協"
+        ]
+      ],
+      "analysis": "此字由 common 與 wealth（福祉、繁榮，源自古英語 wela）複合而成，原意為公眾的福祉或共同體，後來專門用來指稱共和政體、美國部分州的官方稱號，或大英國協。",
+      "definition": "1. an independent country or community, especially a democratic republic; 2. an association of nations consisting of the United Kingdom and several former British colonies.",
+      "example": [
+        {
+          "eng": "The nation transitioned from a monarchy into a sovereign commonwealth.",
+          "ch": "該國從君主制轉變為主權共和國。"
+        },
+        {
+          "eng": "Australia is a member of the Commonwealth and recognizes the British monarch.",
+          "ch": "澳洲是大英國協成員國，並承認英國君主。"
+        }
+      ]
+    },
+    {
+      "eng": "communicative",
+      "kk": "kəˈmyunəˌkeɪtɪv",
+      "tense": "adj.",
+      "ch": [
+        [
+          "愛溝通的",
+          "暢談的"
+        ]
+      ],
+      "analysis": "此字由動詞 communicate（源自拉丁語 communicare「分享、傳達」）加上形容詞字尾 -ive 構成，用以形容人樂於與人交流、健談。",
+      "definition": "1. willing to talk and share information with others.",
+      "example": [
+        {
+          "eng": "Unlike his quiet brother, Mark is very communicative and makes friends easily.",
+          "ch": "不同於他安靜的兄弟，馬克非常樂於溝通且很容易交朋友。"
+        }
+      ]
+    },
+    {
+      "eng": "comparative",
+      "kk": "kəmˈpɛrətɪv",
+      "tense": "adj.",
+      "ch": [
+        [
+          "相對的"
+        ],
+        [
+          "比較的"
+        ]
+      ],
+      "analysis": "此字由拉丁語 comparativus（源自 comparare「比較」）演變而來，在語法學中指形容詞與副詞的比較級，在一般用法中則指透過對比而得出的相對狀態。",
+      "definition": "1. measured or judged by comparison with something else; 2. (of an adjective or adverb) expressing a higher degree.",
+      "example": [
+        {
+          "eng": "After weeks of chaos, the town finally enjoyed a period of comparative peace.",
+          "ch": "經過幾週的混亂後，小鎮終於享有了一段相對和平的時期。"
+        },
+        {
+          "eng": "\"Bigger\" is the comparative form of the adjective \"big\".",
+          "ch": "“Bigger”是形容詞“big”的比較級形式。"
+        }
+      ]
+    },
+    {
+      "eng": "compass",
+      "kk": "ˈkʌmpəs",
+      "tense": "n.",
+      "ch": [
+        [
+          "指南針",
+          "羅盤"
+        ],
+        [
+          "圓規"
+        ],
+        [
+          "界限範圍"
+        ]
+      ],
+      "analysis": "此字源自古法語 compassé（圓周、測量），由 com- 與 passus（步子）組合而成，本義為測量圓周的工具（圓規），隨後引申出指示方向的羅盤以及活動範圍、界限之意。",
+      "definition": "1. an instrument containing a magnetized pointer that shows the direction of magnetic north; 2. an instrument used for drawing circles; 3. the range or scope of something.",
+      "example": [
+        {
+          "eng": "The hikers used a map and a compass to navigate through the dense forest.",
+          "ch": "健行者使用地圖和指南針在密林中辨別方向。"
+        },
+        {
+          "eng": "The carpenter used a compass to draw a perfect circle on the wood.",
+          "ch": "木匠用圓規在木頭上畫了一個完美的圓。"
+        },
+        {
+          "eng": "This complex problem is beyond the compass of my knowledge.",
+          "ch": "這個複雜的問題超出了我的知識範圍。"
+        }
+      ]
+    },
+    {
+      "eng": "compile",
+      "kk": "kəmˈpaɪl",
+      "tense": "vt.",
+      "ch": [
+        [
+          "匯編",
+          "收集"
+        ],
+        [
+          "編譯"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 compilare（本義為掠奪、剽竊，後轉為收集資料），由 com- 與 pilare（剝奪、壓縮）組成，現代指將來自各處的資料或程式碼匯集成冊或編譯成機器碼。",
+      "definition": "1. to produce something by assembling information collected from various sources; 2. to convert computer program code into machine language.",
+      "example": [
+        {
+          "eng": "The research team spent months trying to compile data from various surveys.",
+          "ch": "研究團隊花了好幾個月試圖將來自各項調查的數據匯編起來。"
+        },
+        {
+          "eng": "The software engineer forgot to compile the code before running tests.",
+          "ch": "軟體工程師在執行測試前忘記編譯程式碼了。"
+        }
+      ]
+    },
+    {
+      "eng": "complement",
+      "kk": "ˈkɑmpləmənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "補充物",
+          "配搭"
+        ],
+        [
+          "補足語"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 complementum（源自動詞 complere「填滿、完成」），名詞讀音重音在第一音節，指使整體更加完善的補充成分，在語法中則指補語。",
+      "definition": "1. a thing that contributes extra features to something else in such a way as to improve or emphasize its quality; 2. a word or phrase used to complete the predicate in a sentence.",
+      "example": [
+        {
+          "eng": "A nice glass of red wine is the perfect complement to this steak dinner.",
+          "ch": "一杯美妙的紅酒是這頓牛排晚餐的完美搭配。"
+        },
+        {
+          "eng": "In the sentence \"She became a doctor,\" \"a doctor\" acts as a subject complement.",
+          "ch": "在句子“She became a doctor”中，“a doctor”充當主詞補語。"
+        }
+      ]
+    },
+    {
+      "eng": "complexion",
+      "kk": "kəmˈplɛkʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "膚色",
+          "面色"
+        ],
+        [
+          "局面特徵"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 complexio（原意為結合、整體，源自 complecti「環抱、交織」），古醫學認為人體由四種體液交織決定膚色與氣質，後演變為專指臉部皮膚的色澤與質感，或引申為事件的整體局勢。",
+      "definition": "1. the natural color, texture, and appearance of a person's skin, especially on the face; 2. the general character or nature of something.",
+      "example": [
+        {
+          "eng": "She has a delicate complexion and rarely stays unprotected in the sun.",
+          "ch": "她膚色白皙細緻，很少在陽光下不防曬。"
+        },
+        {
+          "eng": "The unexpected goal completely changed the complexion of the soccer match.",
+          "ch": "這記意料之外的進球完全改變了這場足球賽的局面。"
+        }
+      ]
+    },
+    {
+      "eng": "comprehensive",
+      "kk": "ˌkɑmprəˈhɛnsɪv",
+      "tense": "adj.",
+      "ch": [
+        [
+          "全面的",
+          "綜合的",
+          "詳盡的"
+        ]
+      ],
+      "analysis": "此字由動詞 comprehend（源自拉丁語 comprehendere「完全抓住、包含」）加上形容詞字尾 -ive 構成，指涵蓋範圍極廣、包羅萬象的全面性特質。",
+      "definition": "1. complete; including all or nearly all elements or aspects of something.",
+      "example": [
+        {
+          "eng": "The company conducted a comprehensive review of its safety procedures.",
+          "ch": "公司對其安全程序進行了全面的審查。"
+        }
+      ]
+    },
+    {
+      "eng": "compute",
+      "kk": "kəmˈpyut",
+      "tense": "vt.",
+      "ch": [
+        [
+          "計算",
+          "估算"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 computare，由 com- 與 putare（計算、認為）組合而成，指透過數學運算得出結果的及物動詞用法。",
+      "definition": "1. to calculate or reckon a figure or amount using mathematics.",
+      "example": [
+        {
+          "eng": "It took the supercomputer only a few seconds to compute the complex equations.",
+          "ch": "超級電腦僅花費幾秒鐘就計算出這些複雜的方程式。"
+        }
+      ]
+    },
+    {
+      "eng": "computerize",
+      "kk": "kəmˈpyutəˌraɪz",
+      "tense": "vt.",
+      "ch": [
+        [
+          "電腦化",
+          "用計算機處理"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由名詞 computer 加上動詞化字尾 -ize 結合而成，指將原本人工或傳統作業轉為由電腦系統控制或處理。",
+      "definition": "1. to equip with or control by a computer or computers.",
+      "example": [
+        {
+          "eng": "The hospital decided to computerize all of its patient records to improve efficiency.",
+          "ch": "該醫院決定將所有病患紀錄電腦化以提高效率。"
+        }
+      ]
+    },
+    {
+      "eng": "comrade",
+      "kk": "ˈkɑmˌrɛd",
+      "tense": "n.",
+      "ch": [
+        [
+          "同志",
+          "夥伴",
+          "戰友"
+        ]
+      ],
+      "analysis": "此字源自西班牙語 camarada（同室之人、室友，源自 cámara「房間」），經由法語進入英語，原指同房伴侶或同伴，後廣泛用於軍中同袍或社會主義政治體系中的同志稱謂。",
+      "definition": "1. a companion who shares one's activities or is a fellow member of an organization, especially a political one.",
+      "example": [
+        {
+          "eng": "The soldiers stood firmly by their comrades through the perilous battle.",
+          "ch": "士兵們在危險的戰鬥中堅定地與他們的戰友站在一起。"
+        }
+      ]
+    },
+    {
+      "eng": "concession",
+      "kk": "kənˈsɛʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "讓步"
+        ],
+        [
+          "特許權"
+        ],
+        [
+          "承認失敗"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 concessio（源自 concedere「退讓、准許」，由 con- 與 cedere「走、退讓」組成），指在談判中作出的妥協讓步，或政府授予經營特權的許可，亦可用於選舉中落敗一方的承認敗選。",
+      "definition": "1. a thing that is granted, especially in response to demands; 2. a right to use land or property for a specified purpose granted by a government; 3. the act of conceding defeat in an election.",
+      "example": [
+        {
+          "eng": "The management made several financial concessions to end the prolonged strike.",
+          "ch": "管理階層作出了幾項財務上的讓步以結束長期的罷工。"
+        },
+        {
+          "eng": "The company secured a government concession to build the toll highway.",
+          "ch": "該公司獲得了一項政府特許權來建造收費公路。"
+        },
+        {
+          "eng": "The candidate made a gracious concession speech shortly after midnight.",
+          "ch": "該候選人在午夜過後不久發表了風度的敗選聲明。"
+        }
+      ]
+    },
+    {
+      "eng": "concise",
+      "kk": "kənˈsaɪs",
+      "tense": "adj.",
+      "ch": [
+        [
+          "簡潔的",
+          "簡明的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 concisus（切短的、精簡的，由 con- 與 caedere「切割」的過去分詞組成），指言語或文章文字精鍊、去蕪存菁的簡明特質。",
+      "definition": "1. giving a lot of information clearly and in a few words; brief but comprehensive.",
+      "example": [
+        {
+          "eng": "Please keep your presentation concise and stick to the main points.",
+          "ch": "請保持你的簡報簡明扼要，並聚焦於重點。"
+        }
+      ]
+    },
+    {
+      "eng": "condense",
+      "kk": "kənˈdɛns",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使凝結"
+        ],
+        [
+          "濃縮",
+          "簡化"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 condensare（由 con- 加強語氣與 densare「使變密」，源自 densus「密的」），本義為使物質密度增加、氣體液化凝結，後延伸引申為將冗長文章精簡濃縮。",
+      "definition": "1. to change from a gas to a liquid state; 2. to make something denser or more concentrated, or to express in fewer words.",
+      "example": [
+        {
+          "eng": "Cool air causes water vapor in the atmosphere to condense into dew.",
+          "ch": "冷空氣使大氣中的水蒸氣凝結成露水。"
+        },
+        {
+          "eng": "The author had to condense a massive book into a short article.",
+          "ch": "作者不得不將一本厚重的書精簡濃縮成短文。"
+        }
+      ]
+    },
+    {
+      "eng": "confederation",
+      "kk": "kənˌfɛdəˈreɪʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "邦聯",
+          "聯盟"
+        ]
+      ],
+      "analysis": "此字由名詞 confederate（源自拉丁語 con- 與 foedus「條約、盟約」）衍生而來，指多個主權國家或獨立實體為特定目的而組成的鬆散邦聯或聯盟。",
+      "definition": "1. an organization of a number of parties or groups united in an alliance or league.",
+      "example": [
+        {
+          "eng": "The sovereign states formed a confederation to ensure mutual defense.",
+          "ch": "這些主權國家組成了一個邦聯以確保共同防衛。"
+        }
+      ]
+    },
+    {
+      "eng": "congressman",
+      "kk": "ˈkɑŋgrəsˌmæn",
+      "tense": "n.",
+      "ch": [
+        [
+          "國會議員",
+          "眾議員"
+        ]
+      ],
+      "analysis": "此字為現代透明複合詞，由 congress（源自拉丁語 congressus「會面、集會」）與 man 結合而成，尤指美國國會眾議院的議員。",
+      "definition": "1. a member of the United States Congress, especially a representative in the House of Representatives.",
+      "example": [
+        {
+          "eng": "The congressman held a town hall meeting to listen to local voters' concerns.",
+          "ch": "該國會議員舉辦了一場市民大會以聆聽當地選民的關切。"
+        }
+      ]
+    },
+    {
+      "eng": "congresswoman",
+      "kk": "ˈkɑŋgrəsˌwʊmən",
+      "tense": "n.",
+      "ch": [
+        [
+          "女國會議員",
+          "女眾議員"
+        ]
+      ],
+      "analysis": "此字為現代透明複合詞，由 congress 與 woman 結合而成，指美國國會中女性的議員或眾議員。",
+      "definition": "1. a female member of the United States Congress, especially a representative.",
+      "example": [
+        {
+          "eng": "The congresswoman proposed a new bill aimed at improving public education.",
+          "ch": "這位女國會議員提出了一項旨在改善公共教育的新法案。"
+        }
+      ]
+    },
+    {
+      "eng": "conquest",
+      "kk": "ˈkɑŋkwɛst",
+      "tense": "n.",
+      "ch": [
+        [
+          "征服"
+        ],
+        [
+          "克服"
+        ]
+      ],
+      "analysis": "此字源自中古英語 conquisit，最終源自拉丁語 conquaerere（徹底獲得、征服，由 con- 與 quaerere「尋求」組成），指武力征服的行為、獲得的領土，或精神上對困難的克服。",
+      "definition": "1. the subjugation and control of a place or people by military force; 2. the successful overcoming of a problem or difficulty.",
+      "example": [
+        {
+          "eng": "The historical book details the conquest of the ancient kingdom.",
+          "ch": "這本歷史書詳細描述了對該古代王國的征服。"
+        },
+        {
+          "eng": "Medical science continues its conquest of many previously fatal diseases.",
+          "ch": "醫學界持續克服許多先前致命的疾病。"
+        }
+      ]
+    },
+    {
+      "eng": "conscientious",
+      "kk": "ˌkɑnʃiˈɛnʃəs",
+      "tense": "adj.",
+      "ch": [
+        [
+          "憑良心的",
+          "認真的",
+          "盡責的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 conscientiosus（源自 conscientia「良心、知覺」），形容一個人做事恪守良知、一絲不苟、極其認真負責。",
+      "definition": "1. wishing to do one's work or duty well and thoroughly through a sense of moral obligation.",
+      "example": [
+        {
+          "eng": "She is a conscientious employee who never cuts corners on her reports.",
+          "ch": "她是一位盡責的員工，在報告從不偷工減料。"
+        }
+      ]
+    },
+    {
+      "eng": "conserve",
+      "kk": "kənˈsɝv",
+      "tense": "vt.",
+      "ch": [
+        [
+          "保存",
+          "節約",
+          "保護（自然資源）"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 conservare（由 con- 加強語氣與 servare「保護、保持」組成），指妥善保護、避免損壞或浪費珍貴資源及能量的及物動詞用法。",
+      "definition": "1. to protect something, especially something environmental or natural, from harm or destruction, or to keep from waste.",
+      "example": [
+        {
+          "eng": "We must turn off lights when leaving rooms to conserve electricity.",
+          "ch": "離開房間時我們必須隨手關燈以節約用電。"
+        }
+      ]
+    },
+    {
+      "eng": "consolation",
+      "kk": "ˌkɑnsəˈleɪʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "安慰",
+          "慰藉"
+        ]
+      ],
+      "analysis": "此字由動詞 console（源自拉丁語 consolari，由 con- 與 solari「慰藉」組成）加上名詞字尾 -ation 構成，指在遭遇不幸或失落時獲得的安慰與精神慰藉。",
+      "definition": "1. the comfort received by a person after a loss or disappointment.",
+      "example": [
+        {
+          "eng": "Winning second place was a small consolation after missing the gold medal.",
+          "ch": "錯失金牌後，獲得第二名算是一點小小的安慰。"
+        }
+      ]
+    },
+    {
+      "eng": "console",
+      "kk": "kənˈsoʊl",
+      "tense": "vt.",
+      "ch": [
+        [
+          "安慰",
+          "撫慰"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 consolari（由 con- 加強語氣與 solari「安慰」組成），動詞讀音重音在第二音節，表示在他人悲傷失意時給予言語上的溫暖安慰。",
+      "definition": "1. to comfort someone at a time of grief or disappointment.",
+      "example": [
+        {
+          "eng": "Friends gathered around to console her after the tragic news.",
+          "ch": "聽到這個悲慘的消息後，朋友們聚集在周圍安慰她。"
+        }
+      ]
+    },
+    {
+      "eng": "consonant",
+      "kk": "ˈkɑnsənənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "子音",
+          "輔音"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 consonans（發音與...一起的，由 con- 與 sonare「發聲」組成），在語法學中指發音時受到聲道阻礙的輔音字母或音素。",
+      "definition": "1. a basic speech sound in which the breath is at least partly obstructed, and which can be combined with a vowel to form a syllable.",
+      "example": [
+        {
+          "eng": "The English alphabet has twenty-one consonant letters.",
+          "ch": "英文字母表中有二十一個子音字母。"
+        }
+      ]
+    },
+    {
+      "eng": "conspiracy",
+      "kk": "kənˈspɪrəsi",
+      "tense": "n.",
+      "ch": [
+        [
+          "陰謀",
+          "密謀"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 conspiratio（源自 conspirare「同謀、呼吸與共」，由 con- 與 spirare「呼吸」組成），本義為聚在一起低聲密謀、合謀進行違法或秘密活動。",
+      "definition": "1. a secret plan by a group to do something unlawful or harmful.",
+      "example": [
+        {
+          "eng": "The police uncovered a conspiracy to overthrow the local government.",
+          "ch": "警方破獲了一起推翻當地政府的陰謀。"
+        }
+      ]
+    },
+    {
+      "eng": "contention",
+      "kk": "kənˈtɛnʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "爭論"
+        ],
+        [
+          "論點"
+        ],
+        [
+          "競爭"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 contentio（源自 contendere「爭吵、競爭」，由 con- 與 tendere「伸展、用力」組成），指意見分歧的爭論、辯論中的核心論點，或多方對獎項的激烈競爭狀態。",
+      "definition": "1. heated disagreement; 2. an assertion maintained in an argument; 3. rivalry or competition.",
+      "example": [
+        {
+          "eng": "The new tax policy remains a subject of fierce public contention.",
+          "ch": "這項新稅收政策仍然是公眾激烈爭論的主題。"
+        },
+        {
+          "eng": "Her main contention is that current funding models are unsustainable.",
+          "ch": "她的主要論點是當前的資助模式不可持續。"
+        },
+        {
+          "eng": "Several athletes are still in contention for the championship.",
+          "ch": "幾位運動員仍在爭奪冠軍寶座。"
+        }
+      ]
+    },
+    {
+      "eng": "contestant",
+      "kk": "kənˈtɛstənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "參賽者",
+          "競爭者"
+        ]
+      ],
+      "analysis": "此字由動詞 contest（源自拉丁語 contestari「起誓爭訟」，由 con- 與 testis「證人」組成）加上名詞字尾 -ant 構成，指參加比賽或競賽的選手。",
+      "definition": "1. a person who takes part in a contest or competition.",
+      "example": [
+        {
+          "eng": "All contestants must arrive at the studio an hour before the show starts.",
+          "ch": "所有參賽者必須在節目開始前一小時到達攝影棚。"
+        }
+      ]
+    },
+    {
+      "eng": "continuity",
+      "kk": "ˌkɑntəˈnuəti",
+      "tense": "n.",
+      "ch": [
+        [
+          "連續性",
+          "連貫性"
+        ]
+      ],
+      "analysis": "此字由形容詞 continuous（源自拉丁語 continuare「使連續」，由 con- 與 tenere「保持」相關）衍生出的名詞字尾 -ity 構成，指事物保持不間斷、連貫的狀態。",
+      "definition": "1. the unbroken and consistent existence or operation of something over a period of time.",
+      "example": [
+        {
+          "eng": "The manager stressed the importance of structural continuity during the corporate merger.",
+          "ch": "經理強調了公司合併期間結構連續性的重要性。"
+        }
+      ]
+    },
+    {
+      "eng": "contradict",
+      "kk": "ˌkɑntrəˈdɪkt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "反駁"
+        ],
+        [
+          "與...矛盾",
+          "抵觸"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 contradictus（源自 contra-「相反」與 dicere「說」），指開口反駁對方的言論，或指兩件事實、陳述互相矛盾抵觸。",
+      "definition": "1. to deny the truth of a statement, especially by asserting the opposite; 2. (of a statement or feature) to be contradictory to.",
+      "example": [
+        {
+          "eng": "Eyewitnesses tended to contradict each other during the police interrogation.",
+          "ch": "目擊證人在警方訊問時往往互相矛盾。"
+        },
+        {
+          "eng": "His actions directly contradict his previous promises.",
+          "ch": "他的行為直接與他先前的承諾相抵觸。"
+        }
+      ]
+    },
+    {
+      "eng": "convene",
+      "kk": "kənˈvin",
+      "tense": "vi.",
+      "ch": [
+        [
+          "開會",
+          "集會",
+          "召集"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 convenire（由 con-「共同」與 venire「來」組成），本義為聚集在一起，在現代英語中作為自動詞表示委員會或成員集會開會。",
+      "definition": "1. to come or bring together for a meeting or activity; assemble.",
+      "example": [
+        {
+          "eng": "The city council will convene tomorrow morning to vote on the budget.",
+          "ch": "市議會將於明天上午開會對預算進行投票。"
+        }
+      ]
+    }
+  ]
+}

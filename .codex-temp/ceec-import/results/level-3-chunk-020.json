@@ -1,0 +1,1239 @@
+{
+  "level": 3,
+  "chunkIndex": 20,
+  "inputs": [
+    "tropical",
+    "trumpet",
+    "trunk",
+    "truthful",
+    "tub",
+    "tug",
+    "tune",
+    "tunnel",
+    "tutor",
+    "twin",
+    "twist",
+    "underlying",
+    "underwear",
+    "union",
+    "unique",
+    "unite",
+    "unity",
+    "urban",
+    "vacant",
+    "van",
+    "vanish",
+    "variety",
+    "various",
+    "vary",
+    "vase",
+    "vehicle",
+    "verse",
+    "vest",
+    "victim",
+    "violence",
+    "violent",
+    "violet",
+    "visible",
+    "vision",
+    "vitamin",
+    "vivid",
+    "vocabulary",
+    "volleyball",
+    "volume",
+    "voter",
+    "wage",
+    "wages",
+    "wagon",
+    "wander",
+    "warmth",
+    "warn",
+    "waterfall",
+    "wax",
+    "weaken",
+    "wealthy"
+  ],
+  "rows": [
+    {
+      "eng": "tropical",
+      "kk": "ˈtrɑpɪkəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "熱帶的",
+          "產於熱帶的"
+        ],
+        [
+          "炎熱的",
+          "悶熱的"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由名詞 tropic（熱帶）加上形容詞字尾 -al 構成。tropic 源自古希臘語 tropikos（轉折的、迴歸線的），與 trepein（轉動）有關，因太陽到達南北迴歸線時會轉向而得名。形容詞加上 -al 後表示「與……有關的」。語意由「與熱帶迴歸線相關的」演變為「位於熱帶的」，再延伸出「氣候炎熱悶熱的」。",
+      "definition": "1. of, relating to, or situated in the tropics; 2. very hot and humid, like the tropics.",
+      "example": [
+        {
+          "eng": "Costa Rica is famous for its lush tropical rainforests.",
+          "ch": "哥斯大黎加因其茂密的熱帶雨林而聞名。"
+        },
+        {
+          "eng": "We experienced tropical weather during our stay in the southern islands.",
+          "ch": "我們在南部島嶼停留期間體驗到了炎熱悶熱的天氣。"
+        }
+      ]
+    },
+    {
+      "eng": "trumpet",
+      "kk": "ˈtrʌmpɪt",
+      "tense": "n.",
+      "ch": [
+        [
+          "小號",
+          "喇叭"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自古法語 trompette（意為小號），為 trompe（號角、喇叭）的指小詞，最終可能源自日耳曼語族或擬聲詞根。經中古英語進入英語，維持原有的樂器義。作為名詞主要指銅管樂器小號，其語意演變與發聲形狀及響亮的聲音有關。",
+      "definition": "1. a brass musical instrument consisting of a flared metal tube with three valves.",
+      "example": [
+        {
+          "eng": "She plays the trumpet in the school jazz band.",
+          "ch": "她在學校爵士樂團演奏小號。"
+        }
+      ]
+    },
+    {
+      "eng": "trumpet",
+      "kk": "ˈtrʌmpɪt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "大肆宣傳",
+          "宣告"
+        ]
+      ],
+      "analysis": "此動詞用法由名詞 trumpet（小號）轉品而來，保留了小號吹奏時聲音宏亮、廣為人知的特徵。在用法上為及物動詞，指大聲宣揚、公開讚美或宣告某事。",
+      "definition": "1. to proclaim or announce something widely and loudly.",
+      "example": [
+        {
+          "eng": "The newspaper trumpeted the company's new breakthrough on the front page.",
+          "ch": "該報紙在頭版大肆宣傳該公司的這項新突破。"
+        }
+      ]
+    },
+    {
+      "eng": "trunk",
+      "kk": "trʌŋk",
+      "tense": "n.",
+      "ch": [
+        [
+          "樹幹"
+        ],
+        [
+          "大行李箱",
+          "車尾行李箱"
+        ],
+        [
+          "象鼻"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自古法語 tronch，再上溯至拉丁語 truncus（樹幹、軀體）。其核心概念為「主體或粗幹部分」。由樹幹的原始義，語意擴展至人體的軀幹、大件旅行箱（早期常由木材製成），以及動物如大象長而粗壯的鼻子（象鼻），最後也引申指汽車後方的行李箱。",
+      "definition": "1. the main woody stem of a tree; 2. a large sturdy box for storing or transporting clothes and other personal belongings, or the luggage compartment of a car; 3. the long flexible nose of an elephant.",
+      "example": [
+        {
+          "eng": "The heavy storm blew down a massive oak with a thick trunk.",
+          "ch": "猛烈的暴風雨吹倒了一棵樹幹粗壯的巨大橡樹。"
+        },
+        {
+          "eng": "We loaded all our suitcases into the car's trunk before setting off.",
+          "ch": "我們出發前把所有的行李箱都裝進了汽車的行李箱。"
+        },
+        {
+          "eng": "The elephant reached out its trunk to take a banana from the tourist.",
+          "ch": "大象伸出長鼻子從遊客手中拿了一根香蕉。"
+        }
+      ]
+    },
+    {
+      "eng": "truthful",
+      "kk": "ˈtruθfəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "誠實的",
+          "說實話的"
+        ],
+        [
+          "真實的",
+          "合乎事實的"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由名詞 truth（真實、真理）加上形容詞字尾 -ful（充滿……的）構成。truth 源自古英語 trīewð（忠誠、真實）。結合後字面義為「充滿真實的」，用來形容人時指誠實、不說謊；用來形容事物、陳述或描寫時，指符合事實、真實無誤。",
+      "definition": "1. telling or expressing the truth; honest; 2. corresponding with reality or fact; accurate.",
+      "example": [
+        {
+          "eng": "He gave a truthful account of what happened during the accident.",
+          "ch": "他對事故發生時的情況作了誠實的描述。"
+        },
+        {
+          "eng": "Her movie provides a truthful reflection of modern urban life.",
+          "ch": "她的電影真實地反映了現代都市生活。"
+        }
+      ]
+    },
+    {
+      "eng": "tub",
+      "kk": "tʌb",
+      "tense": "n.",
+      "ch": [
+        [
+          "浴缸",
+          "盆",
+          "桶"
+        ]
+      ],
+      "analysis": "此字為歷史繼承詞，源自中古英語 tubbe，可能借自中低地德語或中荷蘭語 tubbe（桶、盆）。作為名詞，指用來盛裝液體、洗澡或存放物品的開口圓容器，現代常見於浴缸（bathtub 的簡稱）或裝冰淇淋等食品的塑膠圓盒。",
+      "definition": "1. a wide, open, deep round container used for washing, bathing, or storing goods.",
+      "example": [
+        {
+          "eng": "She relaxed in a warm tub after a long day of hiking.",
+          "ch": "經過一整天的健行後，她在溫暖的浴缸裡放鬆身心。"
+        }
+      ]
+    },
+    {
+      "eng": "tug",
+      "kk": "tʌɡ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "用力拉",
+          "猛曳"
+        ]
+      ],
+      "analysis": "此字為歷史演變詞，源自日耳曼語族，與古諾斯語 togna（拉緊）相關。作為及物動詞，指突然、用力地拉扯某物或某人，通常帶有一種急切或尋求注意的動作意涵。",
+      "definition": "1. to pull something hard or suddenly.",
+      "example": [
+        {
+          "eng": "The little boy tugged at his mother's sleeve to show her the toy.",
+          "ch": "小男孩用力拉扯母親的袖子，好讓她看那個玩具。"
+        }
+      ]
+    },
+    {
+      "eng": "tug",
+      "kk": "tʌɡ",
+      "tense": "vi.",
+      "ch": [
+        [
+          "用力拉",
+          "拉扯"
+        ]
+      ],
+      "analysis": "此字為 tug 的不及物動詞用法，與 vt. 同源，指持續或重複地施力拉扯，常接介系詞 at。",
+      "definition": "1. to exert a sudden or repeated pull.",
+      "example": [
+        {
+          "eng": "The dog tugged at the leash every time it saw a squirrel.",
+          "ch": "每當那隻狗看到松鼠時，就會猛力拉扯牽繩。"
+        }
+      ]
+    },
+    {
+      "eng": "tune",
+      "kk": "tun",
+      "tense": "n.",
+      "ch": [
+        [
+          "曲調",
+          "旋律"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自中古英語 tunē，可能與 tone（音調）同源，最終源自古希臘語 tonos。作為名詞，指一段悅耳、容易記住的音樂旋律或曲子。",
+      "definition": "1. a melodious sequence of musical notes; a melody.",
+      "example": [
+        {
+          "eng": "I can't get that catchy tune out of my head.",
+          "ch": "我腦海裡一直揮之不去那個抓耳的旋律。"
+        }
+      ]
+    },
+    {
+      "eng": "tune",
+      "kk": "tun",
+      "tense": "vt.",
+      "ch": [
+        [
+          "調音",
+          "調整"
+        ],
+        [
+          "調整頻道",
+          "收聽"
+        ]
+      ],
+      "analysis": "此字由名詞 tune 轉為及物動詞。原意為調整樂器的音高使其準確（調音），隨後語意引申至調整引擎或設備以達到最佳狀態，並透過片語 tune in 延伸出將收音機或電視調整到特定頻道的用法。",
+      "definition": "1. to adjust a musical instrument to the correct pitch, or adjust an engine for peak performance; 2. to adjust a receiver to a desired broadcast frequency.",
+      "example": [
+        {
+          "eng": "The pianist tuned her instrument before the performance started.",
+          "ch": "鋼琴家在演出開始前為樂器調音。"
+        },
+        {
+          "eng": "Millions of viewers tuned their televisions to watch the final match.",
+          "ch": "數百萬觀眾把電視調到該頻道觀看決賽。"
+        }
+      ]
+    },
+    {
+      "eng": "tunnel",
+      "kk": "ˈtʌnəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "隧道",
+          "地道"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自古法語 tonnel（意為小桶、圓管形結構），為 tonne（大桶）的指小詞。經由外形相似的類比，中古英語將此詞用來指稱穿山、鑿地而過的管狀通道（隧道或地道）。",
+      "definition": "1. an underground passage dug through the earth or mountain for trains, cars, or water.",
+      "example": [
+        {
+          "eng": "The train traveled through a dark tunnel in the mountains.",
+          "ch": "火車穿過了山中的黑暗隧道。"
+        }
+      ]
+    },
+    {
+      "eng": "tutor",
+      "kk": "ˈtutər",
+      "tense": "n.",
+      "ch": [
+        [
+          "家教",
+          "私人教師",
+          "導師"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自拉丁語 tutor（保護者、監護人、私人教師），由動詞 tueri（保護、看守）派生而來。經由中古英語進入英語，語意由古代的「監護人、保護者」演變為現代專門指「指導學生課業的私人教師或導師」。",
+      "definition": "1. a private teacher who gives lessons to an individual student or a small group.",
+      "example": [
+        {
+          "eng": "She hired a math tutor to help her son improve his grades.",
+          "ch": "她請了一位數學家教來幫助兒子提高成績。"
+        }
+      ]
+    },
+    {
+      "eng": "tutor",
+      "kk": "ˈtutər",
+      "tense": "vt.",
+      "ch": [
+        [
+          "當……的家教",
+          "指導"
+        ]
+      ],
+      "analysis": "此字由名詞 tutor 轉為及物動詞，指擔任私人教師或指導、輔導學生的學業。",
+      "definition": "1. to act as a tutor to someone; to teach or coach individually.",
+      "example": [
+        {
+          "eng": "He tutors high school students in physics during the weekends.",
+          "ch": "他在週末輔導高中生的物理。"
+        }
+      ]
+    },
+    {
+      "eng": "twin",
+      "kk": "twɪn",
+      "tense": "n.",
+      "ch": [
+        [
+          "雙胞胎之一",
+          "雙生子"
+        ]
+      ],
+      "analysis": "此字為歷史繼承詞，源自古英語 twinn（雙份的、成對的），與 two（二）同源，屬於日耳曼語族。作為名詞，指由同一胎生下的兩個孩子中的一個（複數形式 twins 通常指雙胞胎），或指極端相似、成對的事物。",
+      "definition": "1. one of two children born at the same birth.",
+      "example": [
+        {
+          "eng": "My sister gave birth to healthy twin boys yesterday.",
+          "ch": "我姊姊昨天生下了健康的雙胞胎男孩。"
+        }
+      ]
+    },
+    {
+      "eng": "twist",
+      "kk": "twɪst",
+      "tense": "vt.",
+      "ch": [
+        [
+          "扭轉",
+          "扭曲",
+          "旋轉"
+        ],
+        [
+          "扭傷",
+          "拐傷"
+        ],
+        [
+          "扭曲事實",
+          "曲解"
+        ]
+      ],
+      "analysis": "此字為歷史演變詞，源自中古英語 twisten，與日耳曼語族的絞織動作有關。作為及物動詞，核心概念為「施加旋轉力」。由物理上的扭轉物品，延伸出不小心扭傷關節（如扭傷腳踝），再引申出抽象地扭曲事實、曲解言論原意。",
+      "definition": "1. to turn or bend something out of its natural shape or position; 2. to injure a joint by a sudden wrenching turn; 3. to distort the true meaning of something.",
+      "example": [
+        {
+          "eng": "She twisted the cap off the medicine bottle.",
+          "ch": "她把藥瓶蓋旋轉打開。"
+        },
+        {
+          "eng": "He tripped on the stairs and twisted his ankle.",
+          "ch": "他在樓梯上絆倒並扭傷了腳踝。"
+        },
+        {
+          "eng": "The politician accused the media of twisting his words.",
+          "ch": "該政治人物指責媒體曲解了他的話。"
+        }
+      ]
+    },
+    {
+      "eng": "underlying",
+      "kk": "ˌʌndərˈlaɪɪŋ",
+      "tense": "adj.",
+      "ch": [
+        [
+          "潛在的",
+          "根本的"
+        ],
+        [
+          "在……下面的"
+        ]
+      ],
+      "analysis": "此字由動詞 underlie（位於……之下、為……的基礎）加上現在分詞轉化而成的形容詞。由字面義「位於底下的」，抽象延伸為構成表面現象之基礎的、潛在的、未直接顯現但很關鍵的原因或原則。",
+      "definition": "1. fundamental; lying beneath and supporting surface phenomena, often not immediately obvious; 2. situated underneath something.",
+      "example": [
+        {
+          "eng": "We need to identify the underlying causes of the economic crisis.",
+          "ch": "我們需要找出這場經濟危機的根本原因。"
+        },
+        {
+          "eng": "Geologists studied the underlying rock layers to assess earthquake risks.",
+          "ch": "地質學家研究了下方的岩層以評估地震風險。"
+        }
+      ]
+    },
+    {
+      "eng": "underwear",
+      "kk": "ˈʌndərwɛr",
+      "tense": "n.",
+      "ch": [
+        [
+          "內衣褲"
+        ]
+      ],
+      "analysis": "此字為現代透明複合成詞，由副詞／介系詞 under（在……下面）與名詞 wear（衣物）結合而成。字面義即「穿在其他衣物底下的衣物」，專指內衣褲。",
+      "definition": "1. clothing worn next to the skin, under other garments.",
+      "example": [
+        {
+          "eng": "Remember to pack enough socks and clean underwear for the trip.",
+          "ch": "記得為這次旅行打包足夠的襪子和乾淨的內衣褲。"
+        }
+      ]
+    },
+    {
+      "eng": "union",
+      "kk": "ˈjunjən",
+      "tense": "n.",
+      "ch": [
+        [
+          "聯合",
+          "結合",
+          "聯盟"
+        ],
+        [
+          "工會"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自古法語 union，最終源自拉丁語 unio（單一、聯合），由 unus（一）派生而來。其核心概念是「結為一體」。語意由抽象的聯合、聯邦國家，演變出專門指勞工為了維護權益而結合的組織（工會）。",
+      "definition": "1. the act of joining two or more things together, or a political alliance; 2. an organized association of workers formed to protect and further their rights.",
+      "example": [
+        {
+          "eng": "The European Union promotes economic cooperation among its member states.",
+          "ch": "歐盟促進其成員國之間的經濟合作。"
+        },
+        {
+          "eng": "The factory workers went on strike after negotiations between the union and management failed.",
+          "ch": "在工會與資方的談判破裂後，工廠工人開始罷工。"
+        }
+      ]
+    },
+    {
+      "eng": "unique",
+      "kk": "juˈnik",
+      "tense": "adj.",
+      "ch": [
+        [
+          "獨一無二的",
+          "獨特的"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，透過法語源自拉丁語 unicus（單一的、無與倫比的），根源為 unus（一）。形容某事物是世界上僅有的、別無分號的，或具有極其罕見、獨樹一格的特徵。",
+      "definition": "1. being the only one of its kind; unlike anything else.",
+      "example": [
+        {
+          "eng": "Every person's fingerprints are completely unique.",
+          "ch": "每個人的指紋都是完全獨一無二的。"
+        }
+      ]
+    },
+    {
+      "eng": "unite",
+      "kk": "juˈnaɪt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "聯合",
+          "使團結",
+          "合併"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自拉丁語 unitus（過去分詞，意為結合成一體），源頭為 unus（一）。作為及物動詞，指將不同的人、團體或事物結合在一起，形成一個共同體或實現共同目標。",
+      "definition": "1. to bring people or things together to form a single unit or group.",
+      "example": [
+        {
+          "eng": "The crisis united the community in a common effort to rebuild.",
+          "ch": "這場危機將社區團結起來，共同努力重建。"
+        }
+      ]
+    },
+    {
+      "eng": "unity",
+      "kk": "ˈjunəti",
+      "tense": "n.",
+      "ch": [
+        [
+          "團結",
+          "一致",
+          "聯合"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自中古英語 unite，源自古法語 unité，最終源自拉丁語 unitas，由 unus（一）衍生出「合一、整體」的名詞狀態。指群體之間和諧一致、齊心協力或融為一體的狀態。",
+      "definition": "1. the state of being united or joined as a whole; harmony.",
+      "example": [
+        {
+          "eng": "The national leader called for unity during the difficult times.",
+          "ch": "國家領導人在艱難時期呼籲全國團結一致。"
+        }
+      ]
+    },
+    {
+      "eng": "urban",
+      "kk": "ˈɜrbən",
+      "tense": "adj.",
+      "ch": [
+        [
+          "都市的",
+          "城鎮的"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自拉丁語 urbanus（城市的、城市的居民），由 urbs（城市）派生而來。作為形容詞，專門用來描述與城市、城鎮相關的環境、人口或生活方式，與 rural（鄉村的）相對。",
+      "definition": "1. relating to, characteristic of, or constituting a city or town.",
+      "example": [
+        {
+          "eng": "Many young people migrate to urban areas in search of better job opportunities.",
+          "ch": "許多青年為了尋找更好的工作機會而遷移到都市地區。"
+        }
+      ]
+    },
+    {
+      "eng": "vacant",
+      "kk": "ˈveɪkənt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "空的",
+          "未被佔用的",
+          "空缺的"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自拉丁語 vacans（vacant- 的主格形式，意為空著的、未被佔用的），源自動詞 vacare（空出、騰出）。作為形容詞，指座位、房屋、職位等目前無人使用、無人居住或沒有人擔任的狀態。",
+      "definition": "1. not filled, used, or lived in; available for use.",
+      "example": [
+        {
+          "eng": "There are no vacant seats left on this flight.",
+          "ch": "這趟航班已經沒有空座位了。"
+        }
+      ]
+    },
+    {
+      "eng": "van",
+      "kk": "væn",
+      "tense": "n.",
+      "ch": [
+        [
+          "廂型車",
+          "貨車"
+        ]
+      ],
+      "analysis": "此字為歷史演變詞，為 caravan（大篷車、旅行車）的截短形式（apocope）。在現代英語中獨立成為一個詞，專門指比一般轎車大、用於載貨或載運較多乘客的廂型車或封閉式貨車。",
+      "definition": "1. a medium-sized motor vehicle used for transporting goods or people.",
+      "example": [
+        {
+          "eng": "The delivery man parked his van outside the office building.",
+          "ch": "送貨員把他的廂型車停在辦公大樓外。"
+        }
+      ]
+    },
+    {
+      "eng": "vanish",
+      "kk": "ˈvænɪʃ",
+      "tense": "vi.",
+      "ch": [
+        [
+          "消失",
+          "絕跡"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自中古英語 vanisshen，透過古法語衍生自拉丁語 vanescere（逐漸消失），源頭為 vanus（空的、虛無的）。作為不及物動詞，指人、物或現象突然或逐漸從視線中不見，或徹底絕跡。",
+      "definition": "1. to disappear suddenly and completely.",
+      "example": [
+        {
+          "eng": "The magician made the rabbit vanish into thin air.",
+          "ch": "魔術師讓兔子憑空消失了。"
+        }
+      ]
+    },
+    {
+      "eng": "variety",
+      "kk": "vəˈraɪəti",
+      "tense": "n.",
+      "ch": [
+        [
+          "多樣化",
+          "變化"
+        ],
+        [
+          "種類",
+          "品種"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自拉丁語 varietas，由 varius（多變的、斑駁的）派生而來。其核心義為「富於變化或包含多種不同項目的狀態」。由抽象的多樣性，引申出具體的「種類、品種」（如植物或商品的品種）。",
+      "definition": "1. the quality or state of being diverse or changing; 2. a particular kind or category of something.",
+      "example": [
+        {
+          "eng": "A balanced diet should include a wide variety of foods.",
+          "ch": "均衡的飲食應該包含多種多樣的食物。"
+        },
+        {
+          "eng": "This supermarket sells several varieties of apples.",
+          "ch": "這家超級市場販售好幾種蘋果。"
+        }
+      ]
+    },
+    {
+      "eng": "various",
+      "kk": "ˈvɛriəs",
+      "tense": "adj.",
+      "ch": [
+        [
+          "各種各樣的",
+          "不同的"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自拉丁語 varius（斑駁的、多變的、不同的）。作為形容詞，用來修飾複數名詞，指包含好幾種不同性質或來源的人事物。",
+      "definition": "1. several different; of various kinds.",
+      "example": [
+        {
+          "eng": "The project failed for various reasons.",
+          "ch": "這個專案因為各種不同的原因而失敗了。"
+        }
+      ]
+    },
+    {
+      "eng": "vary",
+      "kk": "ˈvɛri",
+      "tense": "vi.",
+      "ch": [
+        [
+          "相異",
+          "不同"
+        ],
+        [
+          "變化",
+          "有所不同"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自拉丁語 variare（使多樣化、改變），源自 varius（多變的）。作為不及物動詞，指事物之間存在差異或隨著情境、時間而產生變化。",
+      "definition": "1. to differ in size, amount, degree, or nature from something else of the same general class; 2. to change or be different according to the situation.",
+      "example": [
+        {
+          "eng": "Test scores vary widely depending on how much time students spend studying.",
+          "ch": "測驗成績會因學生花多少時間讀書而有很大差異。"
+        },
+        {
+          "eng": "Menu options vary from day to day in the cafeteria.",
+          "ch": "餐廳的菜單選項每天都在變化。"
+        }
+      ]
+    },
+    {
+      "eng": "vase",
+      "kk": "veɪs",
+      "tense": "n.",
+      "ch": [
+        [
+          "花瓶"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自法語 vase，最終源自拉丁語 vas（容器、器皿）。作為名詞，專指用來插花或作為裝飾用的瓶狀器皿。",
+      "definition": "1. an open decorative jar or container used for holding cut flowers or as an ornament.",
+      "example": [
+        {
+          "eng": "She arranged the fresh roses neatly in a crystal vase.",
+          "ch": "她把新鮮的玫瑰花整齊地插在一個水晶花瓶裡。"
+        }
+      ]
+    },
+    {
+      "eng": "vehicle",
+      "kk": "ˈviɪkəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "車輛",
+          "交通工具"
+        ],
+        [
+          "媒介",
+          "傳播工具"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自拉丁語 vehiculum（載具、車輛），由動詞 vehere（運送、載運）派生而來。其物理原意為載運人或貨物的交通工具（如汽車、卡車）；隨後抽象引申為傳遞思想、意見或藝術表現的「媒介」。",
+      "definition": "1. a thing used for transporting people or goods, such as a car, truck, or cart; 2. a medium or expression used for achieving a purpose or communicating ideas.",
+      "example": [
+        {
+          "eng": "Bicycles are a popular, eco-friendly vehicle in the city.",
+          "ch": "腳踏車是這座城市中受歡迎且環保的交通工具。"
+        },
+        {
+          "eng": "Art can be a powerful vehicle for social change.",
+          "ch": "藝術可以成為推動社會變革的強大媒介。"
+        }
+      ]
+    },
+    {
+      "eng": "verse",
+      "kk": "vɜrs",
+      "tense": "n.",
+      "ch": [
+        [
+          "詩",
+          "韻文"
+        ],
+        [
+          "歌詞"
+        ],
+        [
+          "聖經的節"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自古英語 fers（經文），最終源自拉丁語 versus（意為行、犁溝，引申指詩的一行），源自動詞 vertere（轉動）。由「書寫的一行」演變為詩歌、韻文的通稱，或歌曲的段落（主歌），以及聖經中的「節」。",
+      "definition": "1. writing arranged with a metrical rhythm, typically rhyming; poetry; 2. a distinct section of a song or poem; 3. a numbered subdivision of a chapter in the Bible.",
+      "example": [
+        {
+          "eng": "The poet recited a romantic verse about autumn leaves.",
+          "ch": "詩人朗誦了一首關於秋葉的浪漫詩篇。"
+        },
+        {
+          "eng": "She memorized several Bible verses for Sunday school.",
+          "ch": "她為了主日學背誦了好幾節聖經經文。"
+        }
+      ]
+    },
+    {
+      "eng": "vest",
+      "kk": "vɛst",
+      "tense": "n.",
+      "ch": [
+        [
+          "背心",
+          "汗衫"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，透過法語或義大利語源自拉丁語 vestis（衣服、服裝）。作為名詞，在美式英語中通常指無袖的汗衫或內衣，在英式英語中則指無袖西裝背心。",
+      "definition": "1. a piece of clothing without sleeves that covers the upper body, worn either under a shirt or as an outer garment.",
+      "example": [
+        {
+          "eng": "He wore a warm wool vest under his winter coat.",
+          "ch": "他在冬衣裡面穿了一件保暖的羊毛背心。"
+        }
+      ]
+    },
+    {
+      "eng": "victim",
+      "kk": "ˈvɪktɪm",
+      "tense": "n.",
+      "ch": [
+        [
+          "受害者",
+          "犧牲者"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自拉丁語 victima（宗教儀式中被獻祭的動物或人）。經由語意演變，意義從宗教上的祭品擴展至因犯罪、災難、事故或不公對待而遭受傷害、損失或死亡的人。",
+      "definition": "1. a person who has suffered harm, injury, or death as a result of a crime, accident, disease, or other event.",
+      "example": [
+        {
+          "eng": "The charity organization provides shelter and support for victims of domestic violence.",
+          "ch": "該慈善機構為家庭暴力受害者提供收容所與支援。"
+        }
+      ]
+    },
+    {
+      "eng": "violence",
+      "kk": "ˈvaɪələns",
+      "tense": "n.",
+      "ch": [
+        [
+          "暴力",
+          "暴行"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自古法語 violence，最終源自拉丁語 violentia（猛烈、蠻橫），由 violentus（猛烈的）派生而來。作為名詞，指使用強烈物理武力以造成傷害、破壞的行為，或指激烈的情緒爆發。",
+      "definition": "1. behavior involving physical force intended to hurt, damage, or kill someone or something.",
+      "example": [
+        {
+          "eng": "The movie was criticized for containing too much senseless violence.",
+          "ch": "這部電影因包含太多無意義的暴力而受到批評。"
+        }
+      ]
+    },
+    {
+      "eng": "violent",
+      "kk": "ˈvaɪələnt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "暴力的",
+          "強烈的",
+          "猛烈的"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自拉丁語 violentus（猛烈的、強暴的），源自 vis（力量）。作為形容詞，用來形容涉及武力傷害的行為，或形容自然界、情緒等極端猛烈、劇烈的狀態。",
+      "definition": "1. using or involving physical force intended to cause damage or injury; 2. intense, severe, or powerful in force.",
+      "example": [
+        {
+          "eng": "The police intervened to stop the violent confrontation in the streets.",
+          "ch": "警察介入以阻止街頭的暴力衝突。"
+        },
+        {
+          "eng": "A violent storm suddenly broke out, uprooting trees across the region.",
+          "ch": "一場猛烈的暴風雨突然爆發，連根拔起了該地區的樹木。"
+        }
+      ]
+    },
+    {
+      "eng": "violet",
+      "kk": "ˈvaɪəlɪt",
+      "tense": "n.",
+      "ch": [
+        [
+          "紫羅蘭",
+          "紫色"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自古法語 violete，為拉丁語 viola（紫羅蘭）的指小詞。最初指紫羅蘭這種常見的小型紫色花卉，隨後因花朵的顏色鮮明，進而指代「紫色」這種色彩。",
+      "definition": "1. a small plant with purple, blue, or white flowers, or a bluish-purple color.",
+      "example": [
+        {
+          "eng": "Sweet-scented violets bloomed in the shaded corners of the garden.",
+          "ch": "芬芳的紫羅蘭在花園的陰涼角落裡盛開。"
+        }
+      ]
+    },
+    {
+      "eng": "visible",
+      "kk": "ˈvɪzəbəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "看得見的",
+          "明顯的"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自中古英語，透過法語源自拉丁語 visibilis，由 videre（看見）的過去分詞詞幹 vis- 加上形容詞字尾 -ibilis 構成。字面義為「能夠被看見的」，既可指物理上肉眼可見的，也可指跡象或證據十分明顯的。",
+      "definition": "1. able to be seen; perceptible to the eye; 2. clear or obvious to everyone.",
+      "example": [
+        {
+          "eng": "The distant mountain peaks were clearly visible on a clear day.",
+          "ch": "在晴朗的日子裡，遠處的山峰清晰可見。"
+        },
+        {
+          "eng": "There was a visible improvement in his overall academic performance.",
+          "ch": "他的整體學業表現有了明顯的進步。"
+        }
+      ]
+    },
+    {
+      "eng": "vision",
+      "kk": "ˈvɪʒən",
+      "tense": "n.",
+      "ch": [
+        [
+          "視力",
+          "視覺"
+        ],
+        [
+          "遠見",
+          "幻象"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自拉丁語 visio（看、視力、異象），由 videre（看見）派生而來。其核心義與「看」有關。由生理上的視力，延伸出精神上的遠見、洞察力，以及超自然或夢境中的幻象、異象。",
+      "definition": "1. the faculty or state of being able to see; sight; 2. the ability to think about or plan the future with imagination or wisdom, or a mental image.",
+      "example": [
+        {
+          "eng": "Regular eye exams are essential to maintain good vision.",
+          "ch": "定期眼睛檢查對於保持良好的視力至關重要。"
+        },
+        {
+          "eng": "The founder had a bold vision for the company's future growth.",
+          "ch": "創辦人對公司未來的發展有著宏大的遠見。"
+        }
+      ]
+    },
+    {
+      "eng": "vitamin",
+      "kk": "ˈvaɪtəmɪn",
+      "tense": "n.",
+      "ch": [
+        [
+          "維生素",
+          "維他命"
+        ]
+      ],
+      "analysis": "此字為現代科學構詞，由波蘭生物化學家卡西米爾·馮克創造，結合拉丁語 vita（生命）與英文 amine（胺），因早期誤以為所有這類維持生命不可或缺的營養素都是含氮的有機化合物（胺類）。後來發現許多維生素並不含胺，但字尾 -in 仍保留下來，成為現代科學詞彙。",
+      "definition": "1. any of a group of organic compounds which are essential for normal growth and nutrition.",
+      "example": [
+        {
+          "eng": "Citrus fruits like oranges and lemons are rich in vitamin C.",
+          "ch": "像柳橙和檸檬這樣的柑橘類水果富含維生素C。"
+        }
+      ]
+    },
+    {
+      "eng": "vivid",
+      "kk": "ˈvɪvɪd",
+      "tense": "adj.",
+      "ch": [
+        [
+          "生動的",
+          "逼真的"
+        ],
+        [
+          "鮮豔的"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自拉丁語 vividus（有生氣的、活潑的），由 vivere（活著）派生而來。其核心概念為「充滿生命力的」。引申用來形容記憶、描述或畫面極其生動逼真，或形容色彩極為鮮豔明亮。",
+      "definition": "1. producing powerful feelings or strong, clear images in the mind; 2. of a color intensely bright.",
+      "example": [
+        {
+          "eng": "She still has vivid memories of her childhood summers in the countryside.",
+          "ch": "她對鄉村童年夏天的記憶依然十分生動。"
+        },
+        {
+          "eng": "The artist used vivid shades of blue and yellow in her abstract painting.",
+          "ch": "這位藝術家在她的抽象畫中使用了鮮豔的藍色和黃色調。"
+        }
+      ]
+    },
+    {
+      "eng": "vocabulary",
+      "kk": "voʊˈkæbjəˌlɛri",
+      "tense": "n.",
+      "ch": [
+        [
+          "字彙",
+          "詞彙量"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自中世紀拉丁語 vocabularium，由 vocabulum（詞、名稱）派生而來，根源為 vox（聲音、語音）。指一個人掌握的單字總量，或某一語言、領域中所有詞彙的集合。",
+      "definition": "1. the body of words used in a particular language or known by an individual.",
+      "example": [
+        {
+          "eng": "Reading widely is one of the best ways to expand your English vocabulary.",
+          "ch": "大量閱讀是擴充英語詞彙量最好的方法之一。"
+        }
+      ]
+    },
+    {
+      "eng": "volleyball",
+      "kk": "ˈvɑliˌbɔl",
+      "tense": "n.",
+      "ch": [
+        [
+          "排球運動",
+          "排球"
+        ]
+      ],
+      "analysis": "此字為現代透明複合成詞，由 volley（截擊、空中擊球）與 ball（球）組合而成。源於19世紀末美國創發的運動，因球在落地前必須在網子上方互相用雙手擊回（volley），故得名排球。",
+      "definition": "1. a game played by two teams in which players use their hands to hit a ball back and forth over a high net without letting it touch the ground.",
+      "example": [
+        {
+          "eng": "The students played a competitive game of volleyball during P.E. class.",
+          "ch": "學生們在體育課時進行了一場競爭激烈的排球比賽。"
+        }
+      ]
+    },
+    {
+      "eng": "volume",
+      "kk": "ˈvɑljum",
+      "tense": "n.",
+      "ch": [
+        [
+          "體積",
+          "容量"
+        ],
+        [
+          "音量"
+        ],
+        [
+          "冊",
+          "卷"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自古法語 volume，最終源自拉丁語 volumen（卷軸、書本），源自動詞 volvere（滾動），古人將書寫的紙草捲成圓軸狀。由「紙草卷」引申出多冊書籍中的「一冊」；由滾動的體積感引申出物質佔據空間的大小（體積）；再引申出聲音的大小（音量）。",
+      "definition": "1. the amount of space that a substance or object occupies; 2. the level of sound produced by a television, radio, etc.; 3. a single book that is part of a larger work or series.",
+      "example": [
+        {
+          "eng": "This container has a large volume for holding liquids.",
+          "ch": "這個容器有很大的容量來裝液體。"
+        },
+        {
+          "eng": "Please turn down the volume of the stereo; it's too loud.",
+          "ch": "請把音量調小聲一點，太大聲了。"
+        },
+        {
+          "eng": "The encyclopedia consists of twelve volumes.",
+          "ch": "這套百科全書由十二冊組成。"
+        }
+      ]
+    },
+    {
+      "eng": "voter",
+      "kk": "ˈvoʊtər",
+      "tense": "n.",
+      "ch": [
+        [
+          "選民",
+          "投票人"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由動詞 vote（投票）加上名詞字尾 -er（表示從事該動作的人）構成。專指在選舉中具有投票權並參與投票的公民。",
+      "definition": "1. a person who votes or has the right to vote in an election.",
+      "example": [
+        {
+          "eng": "Politicians must listen closely to the concerns of everyday voters.",
+          "ch": "政治人物必須密切傾聽一般選民的關切。"
+        }
+      ]
+    },
+    {
+      "eng": "wage",
+      "kk": "weɪdʒ",
+      "tense": "n.",
+      "ch": [
+        [
+          "薪資",
+          "工資"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自盎格魯-諾曼法語 wage（保證金、報酬），與古法語 gage（擔保）同源。在現代英語中，複數形式 wages 或單數 wage 通常指按小時、按天或按周計算發放的藍領或計時勞工薪資。",
+      "definition": "1. a fixed regular payment earned for work, typically paid on an hourly, daily, or weekly basis.",
+      "example": [
+        {
+          "eng": "Many factory workers are demanding higher wages to cope with inflation.",
+          "ch": "許多工廠工人正要求更高的工資以應對通貨膨脹。"
+        }
+      ]
+    },
+    {
+      "eng": "wages",
+      "kk": "ˈweɪdʒɪz",
+      "tense": "n.",
+      "ch": [
+        [
+          "工資",
+          "薪水"
+        ]
+      ],
+      "analysis": "此字為 wage 的複數形式，在現代英語中常作為總稱，指勞工所領取的薪資報酬總額。句法上常視為複數名詞或特定群體薪資的代名詞。",
+      "definition": "1. payments received for labor or services, usually calculated on a time basis.",
+      "example": [
+        {
+          "eng": "His weekly wages are just enough to cover basic living expenses.",
+          "ch": "他每周的薪資剛好夠支付基本生活開支。"
+        }
+      ]
+    },
+    {
+      "eng": "wagon",
+      "kk": "ˈwæɡən",
+      "tense": "n.",
+      "ch": [
+        [
+          "四輪馬車",
+          "貨車",
+          "手推車"
+        ]
+      ],
+      "analysis": "此字為歷史借詞，源自中荷蘭語或中低地德語 wagen，與古英語 wægn（車輛）同源，屬於日耳曼語族。作為名詞，指由動物或車輛牽引的四輪載貨馬車，或兒童玩耍用的手推車，在英式英語中也曾指旅行車（station wagon）。",
+      "definition": "1. a heavy four-wheeled vehicle used for transporting goods, typically pulled by horses or oxen, or a small child's cart.",
+      "example": [
+        {
+          "eng": "Pioneers traveled across the American frontier in covered wagons.",
+          "ch": "先驅們乘著帶篷的四輪馬車橫越美國邊境。"
+        }
+      ]
+    },
+    {
+      "eng": "wander",
+      "kk": "ˈwɑndər",
+      "tense": "vi.",
+      "ch": [
+        [
+          "漫步",
+          "流浪",
+          "走神"
+        ]
+      ],
+      "analysis": "此字為歷史繼承詞，源自古英語 wandrian（漫遊、遊蕩），與日耳曼語族的根源相關。作為不及物動詞，指沒有特定目的地、漫無目的地閒逛或漫步；也可引申指人的心思或視線不自覺地分散、走神。",
+      "definition": "1. to walk or move in a leisurely, aimless way; 2. to drift away from a subject or path.",
+      "example": [
+        {
+          "eng": "We spent the afternoon wandering through the historic streets of the old town.",
+          "ch": "我們花了一個下午在舊城區的歷史街道上漫步。"
+        },
+        {
+          "eng": "During the long lecture, his attention began to wander.",
+          "ch": "在漫長的講座中，他的注意力開始渙散（走神）。"
+        }
+      ]
+    },
+    {
+      "eng": "warmth",
+      "kk": "wɔrmθ",
+      "tense": "n.",
+      "ch": [
+        [
+          "溫暖",
+          "熱忱"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由形容詞 warm（溫暖的）加上名詞抽象字尾 -th 構成，源自古英語 wearmþ。其核心義指物理上的溫暖感，隨後抽象引申為人與人之間的情感溫暖、友善與熱忱。",
+      "definition": "1. the state or quality of being warm; 2. enthusiasm, affection, or kindness in human relationships.",
+      "example": [
+        {
+          "eng": "They sat near the fireplace to enjoy the pleasant warmth.",
+          "ch": "他們坐在壁爐旁享受舒適的溫暖。"
+        },
+        {
+          "eng": "She welcomed all her guests with great warmth and hospitality.",
+          "ch": "她以無比的溫暖與熱情接待了所有賓客。"
+        }
+      ]
+    },
+    {
+      "eng": "warn",
+      "kk": "wɔrn",
+      "tense": "vt.",
+      "ch": [
+        [
+          "警告",
+          "提醒"
+        ]
+      ],
+      "analysis": "此字為歷史繼承詞，源自古英語 wiernan 或 wearnian（警告、注意），屬於日耳曼語族。作為及物動詞，指預先告知可能發生的危險、壞事或問題，以提醒對方做好防範準備。",
+      "definition": "1. to inform someone in advance of a possible danger, problem, or negative consequence.",
+      "example": [
+        {
+          "eng": "The weather bureau warned citizens about the approaching hurricane.",
+          "ch": "氣象局向市民發出即將來臨的颶風警告。"
+        }
+      ]
+    },
+    {
+      "eng": "waterfall",
+      "kk": "ˈwɔtərˌfɔl",
+      "tense": "n.",
+      "ch": [
+        [
+          "瀑布"
+        ]
+      ],
+      "analysis": "此字為現代透明複合成詞，由名詞 water（水）與 fall（落下）組合而成。字面義即「水流落下」，專指河流或溪流自高處垂直跌落所形成的自然景觀瀑布。",
+      "definition": "1. a cascade of water falling from a height, formed when a river or stream flows over a precipice or steep incline.",
+      "example": [
+        {
+          "eng": "Tourists hiked through the jungle to catch a glimpse of the magnificent waterfall.",
+          "ch": "遊客們穿過叢林健行，只為了親眼目睹這壯麗的瀑布。"
+        }
+      ]
+    },
+    {
+      "eng": "wax",
+      "kk": "wæks",
+      "tense": "n.",
+      "ch": [
+        [
+          "蠟",
+          "蜂蠟"
+        ]
+      ],
+      "analysis": "此字為歷史繼承詞，源自古英語 weax（蜂蠟），屬於日耳曼語族。作為名詞，最初專指蜜蜂築巢用的蜂蠟，後來泛指性質相似的各種天然或合成蠟狀物質（如石蠟、耳垢等）。",
+      "definition": "1. a sticky, yellowish substance secreted by honeybees, or any of various soft, solid substances of mineral or synthetic origin.",
+      "example": [
+        {
+          "eng": "The candle is made of pure beeswax that burns with a sweet scent.",
+          "ch": "這根蠟燭是由純蜂蠟製成的，燃燒時帶有甜美的香氣。"
+        }
+      ]
+    },
+    {
+      "eng": "weaken",
+      "kk": "ˈwikən",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使變弱",
+          "削弱"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由形容詞 weak（虛弱的）加上動詞化字尾 -en（使變得……）構成。作為及物動詞，指使某人事物在體力、實力、權力或結構上變得虛弱或不如以往堅固。",
+      "definition": "1. to make or become weaker in power, strength, or structure.",
+      "example": [
+        {
+          "eng": "The prolonged illness severely weakened his immune system.",
+          "ch": "長期的疾病嚴重削弱了他的免疫系統。"
+        }
+      ]
+    },
+    {
+      "eng": "wealthy",
+      "kk": "ˈwɛlθi",
+      "tense": "adj.",
+      "ch": [
+        [
+          "富有的",
+          "有錢的"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由名詞 wealth（財富）加上形容詞字尾 -y（充滿……的）構成。wealth 源自古英語 wela（福利、繁榮）。形容詞加上 -y 後，專門用來形容擁有大量金錢、財產或資源的個人或國家。",
+      "definition": "1. having a great deal of money, resources, or assets; rich.",
+      "example": [
+        {
+          "eng": "The philanthropist donated a large portion of his wealthy estate to charity.",
+          "ch": "這位慈善家將他龐大財產的一大部分捐給了慈善機構。"
+        }
+      ]
+    }
+  ]
+}

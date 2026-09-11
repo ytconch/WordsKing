@@ -1,0 +1,1140 @@
+{
+  "level": 4,
+  "chunkIndex": 20,
+  "inputs": [
+    "surgeon",
+    "surgery",
+    "surrender",
+    "surroundings",
+    "suspicious",
+    "sway",
+    "syllable",
+    "sympathetic",
+    "sympathy",
+    "systematic",
+    "technician",
+    "technological",
+    "telegraph",
+    "telescope",
+    "tendency",
+    "tense",
+    "tension",
+    "terror",
+    "theme",
+    "thorough",
+    "thoughtful",
+    "tickle",
+    "timetable",
+    "timid",
+    "tolerable",
+    "tolerance",
+    "tolerant",
+    "tolerate",
+    "tomb",
+    "tortoise",
+    "torture",
+    "tragedy",
+    "tragic",
+    "transfer",
+    "transform",
+    "translate",
+    "translation",
+    "translator",
+    "transportation",
+    "tremble",
+    "tremendous",
+    "tribal",
+    "triumph",
+    "troublesome",
+    "tumble",
+    "twig",
+    "universal",
+    "urge",
+    "urgent",
+    "usage"
+  ],
+  "rows": [
+    {
+      "eng": "surgeon",
+      "kk": "/ˈsɝːdʒən/",
+      "tense": "n.",
+      "ch": [
+        [
+          "外科醫生"
+        ]
+      ],
+      "analysis": "此字為歷史借詞。源自中古法語 *surgien*，其根源可追溯至拉丁語 *chirurgus*（意為「外科醫生」），再源自希臘語 *cheirourgos*（由 *cheir*「手」與 *ergon*「工作」複合而成，原意為「用手操作者」）。進入英語後演變為 surgeon。分析時應指出其歷史上源自希臘語手部操作的意涵，並說明現代英文中專指外科醫生的職稱身份。",
+      "definition": "1. a medical doctor who performs surgical operations.",
+      "example": [
+        {
+          "eng": "The surgeon successfully completed the complex heart operation.",
+          "ch": "該外科醫生成功完成了複雜的心臟手術。"
+        }
+      ]
+    },
+    {
+      "eng": "surgery",
+      "kk": "/ˈsɝːdʒəri/",
+      "tense": "n.",
+      "ch": [
+        [
+          "外科手術"
+        ],
+        [
+          "診所、看診時間"
+        ]
+      ],
+      "analysis": "此字為歷史借詞與現代常見名詞。源自中古法語 *surgerie*，最終可追溯至拉丁語 *chirurgia*，再源自希臘語 *cheirourgia*（由 *cheir*「手」與 *ourgia*「工作、實作」組成）。語義從早期的「手部醫療操作」演變為現代的「外科手術」及英式英語中的「診所、看診時間」。分析時需說明其希臘語根源及多義演變。",
+      "definition": "1. medical treatment that involves cutting into the body to repair or remove damaged parts; 2. a medical room or office where a doctor or dentist sees patients.",
+      "example": [
+        {
+          "eng": "He had to undergo major surgery on his knee.",
+          "ch": "他的膝蓋必須接受重大外科手術。"
+        },
+        {
+          "eng": "The doctor's surgery is open until five o'clock.",
+          "ch": "醫生的診所營業到五點。"
+        }
+      ]
+    },
+    {
+      "eng": "surrender",
+      "kk": "/səˈrɛndɚ/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "交出、放棄",
+          "屈服"
+        ]
+      ],
+      "analysis": "此字為歷史借詞。源自盎格魯-諾曼語 *surrenderer*、古法語 *surrendre*（*sur-*「向上、過度」+ *rendre*「給予、歸還」，源自拉丁語 *sub-* + *reddere*）。作及物動詞時，語義從早期的「向上交出、交還」演變為軍事或面對壓力時「交出控制權」或「放棄權利」。分析時需指出其字首字根的歷史組合與及物動詞的句型身份。",
+      "definition": "1. to give up control or possession of something to someone else, or to relinquish a right or claim.",
+      "example": [
+        {
+          "eng": "The fugitive finally decided to surrender his weapon to the police.",
+          "ch": "該逃犯最終決定向警方交出他的武器。"
+        }
+      ]
+    },
+    {
+      "eng": "surrender",
+      "kk": "/səˈrɛndɚ/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "投降、屈服"
+        ]
+      ],
+      "analysis": "作為不及物動詞使用，源自與 vt. 相同的歷史借詞（古法語 *surrendre*），表示主體自行停止抵抗或向對手屈服，句型後方不接直接受詞。分析時應指出其不及物用法與動詞身份。",
+      "definition": "1. to stop fighting and admit defeat, yielding to an opponent or power.",
+      "example": [
+        {
+          "eng": "After a long siege, the defenders finally surrendered.",
+          "ch": "經過長期圍困，守軍終於投降了。"
+        }
+      ]
+    },
+    {
+      "eng": "surroundings",
+      "kk": "/səˈraʊndɪŋz/",
+      "tense": "n.",
+      "ch": [
+        [
+          "周圍環境、周遭事物"
+        ]
+      ],
+      "analysis": "此字由動詞 *surround*（源自古法語 *surrounder*，由 *sur-*「在...上方／周圍」+ *ounder*「流動、波浪」，最終源自拉丁語 *unda*「波浪」）加上名詞化複數字尾 *-ings* 而成。在現代英語中以複數形式出現，用以指稱一個人或事物周遭的實體環境與氛圍。分析時應區分其動詞字根與複數名詞身份。",
+      "definition": "1. the things and conditions that are around a person or place.",
+      "example": [
+        {
+          "eng": "She felt relaxed in her peaceful new surroundings.",
+          "ch": "她在寧靜的新周圍環境中感到放鬆。"
+        }
+      ]
+    },
+    {
+      "eng": "suspicious",
+      "kk": "/səˈspɪʃəs/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "懷疑的、起疑的"
+        ],
+        [
+          "可疑的、引人疑竇的"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞與歷史借詞。由名詞 *suspicion* 的詞幹加上形容詞字尾 *-ious*（源自拉丁語 *-iosus*）構成。具有雙向語義：既可指主動「抱持懷疑態度的」（人），也可指被動「令人感到可疑的」（事物）。分析時需清楚區分這兩種常見的形容詞語義群組。",
+      "definition": "1. feeling or showing a belief that someone is guilty or dishonest; 2. causing a feeling that something is wrong, illegal, or dishonest.",
+      "example": [
+        {
+          "eng": "The police officer was suspicious of the stranger's answers.",
+          "ch": "警官對陌生人的回答感到懷疑。"
+        },
+        {
+          "eng": "We noticed a suspicious package left unattended in the station.",
+          "ch": "我們注意到車站裡有一個無人看管的可疑包裹。"
+        }
+      ]
+    },
+    {
+      "eng": "sway",
+      "kk": "/sweɪ/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "影響、左右（某人的意見或決定）"
+        ]
+      ],
+      "analysis": "作為及物動詞使用，源自日耳曼語根，表示以言論、情感或力量使他人改變主意或受到控制。句型必須帶有直接受詞。分析時應標明其及物動詞身份及與 vi. 的語義延伸關係。",
+      "definition": "1. to control, influence, or convince someone to change their opinion.",
+      "example": [
+        {
+          "eng": "The lawyer's emotional speech swayed the jury.",
+          "ch": "律師充滿情感的演說左右了陪審團。"
+        }
+      ]
+    },
+    {
+      "eng": "sway",
+      "kk": "/sweɪ/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "搖擺、晃動"
+        ]
+      ],
+      "analysis": "此字為日耳曼語源的繼承詞，源自中古英語 *sweyen*，與古諾斯語 *sveigja*（彎曲、使彎曲）同源。作不及物動詞時，主要指受風力或重力影響而左右搖晃。分析時應指出其日耳曼語源及不及物動詞身份。",
+      "definition": "1. to move or swing slowly from side to side.",
+      "example": [
+        {
+          "eng": "The tall trees swayed gently in the strong wind.",
+          "ch": "高大的樹木在強風中輕輕搖曳。"
+        }
+      ]
+    },
+    {
+      "eng": "syllable",
+      "kk": "/ˈsɪləbəl/",
+      "tense": "n.",
+      "ch": [
+        [
+          "音節"
+        ]
+      ],
+      "analysis": "此字為歷史借詞。源自古法語 *sillabe*，再源自拉丁語 *syllaba*，最終源自希臘語 *syllabē*（由 *syn-*「共同、一起」+ *lambanein*「拿取、抓取」複合而成，原意為「字母組合在一起發音」）。進入英語後拼法調整為 syllable。分析時需說明其希臘語複合結構及語義演變。",
+      "definition": "1. a unit of pronunciation having one vowel sound, with or without surrounding consonants, forming the whole or a part of a word.",
+      "example": [
+        {
+          "eng": "The word 'computer' has three syllables.",
+          "ch": "「computer」這個詞有三個音節。"
+        }
+      ]
+    },
+    {
+      "eng": "sympathetic",
+      "kk": "/ˌsɪmpəˈθɛtɪk/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "同情的、體諒的"
+        ],
+        [
+          "贊同的、支持的"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞。由希臘語字根 *syn-*（共同）+ *pathos*（感情、痛苦）組成的名詞 *sympatheia*，再加上形容詞字尾 *-etic* 構成。現代英語中主要指對他人遭遇感同身受、富有同情心的，亦可指對某種觀點或計畫表示支持、贊同的。分析時需指出其希臘語字根與多義群組。",
+      "definition": "1. feeling, showing, or expressing sympathy; 2. approving of or in favor of something.",
+      "example": [
+        {
+          "eng": "She was very sympathetic when I told her about my problem.",
+          "ch": "當我告訴她我的問題時，她非常同情。"
+        },
+        {
+          "eng": "Most local residents are sympathetic to the new environmental policy.",
+          "ch": "大多數當地居民都贊同這項新的環保政策。"
+        }
+      ]
+    },
+    {
+      "eng": "sympathy",
+      "kk": "/ˈsɪmpəθi/",
+      "tense": "n.",
+      "ch": [
+        [
+          "同情、慰問"
+        ],
+        [
+          "贊同、支持"
+        ]
+      ],
+      "analysis": "此字為歷史借詞與希臘語複合詞。由希臘語 *syn-*（共同）+ *pathos*（感情、苦難）經由中世紀拉丁語 *sympathia* 傳入英語。原意為「情感共鳴」，演變出現代的「對不幸者的同情與慰問」及「對某種思想的贊同」。分析時應說明其希臘語組件及語義演變。",
+      "definition": "1. feelings of pity and sorrow for someone else's misfortune; 2. understanding and agreement between people.",
+      "example": [
+        {
+          "eng": "I sent a card to express my deepest sympathy.",
+          "ch": "我寄了一張卡片來表達我最深切的慰問。"
+        },
+        {
+          "eng": "He found little sympathy for his radical political views.",
+          "ch": "他發現他的激進政治觀點幾乎得不到支持。"
+        }
+      ]
+    },
+    {
+      "eng": "systematic",
+      "kk": "/ˌsɪstəˈmætɪk/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "有系統的、有條理的"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞。由名詞 *system*（源自拉丁語 *systema*，源自希臘語 *systēma*「組成部分、整體系統」）加上形容詞字尾 *-atic* 構成。用以形容做事或方法具有高度組織性、按部就班且有效率。分析時應指出其希臘語源與現代形容詞構詞。",
+      "definition": "1. done according to a careful, fixed plan or system; methodical.",
+      "example": [
+        {
+          "eng": "The researchers took a systematic approach to solving the problem.",
+          "ch": "研究人員採取了有系統的方法來解決這個問題。"
+        }
+      ]
+    },
+    {
+      "eng": "technician",
+      "kk": "/tɛkˈnɪʃən/",
+      "tense": "n.",
+      "ch": [
+        [
+          "技師、技術員"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞。由希臘語 *techne*（技藝、藝術）衍生的 *technic* 或 *technology* 詞幹，加上表示人員的職業字尾 *-ician* 構成。現代英語中專指在科學、工程或醫療等領域具備專業實作技能的操作人員。分析時應交代希臘語根源與 *-ician* 字尾的組合。",
+      "definition": "1. a person whose job involves skilled practical work with equipment or in a laboratory.",
+      "example": [
+        {
+          "eng": "A computer technician came to fix our network system.",
+          "ch": "電腦技師來修理我們的網路系統。"
+        }
+      ]
+    },
+    {
+      "eng": "technological",
+      "kk": "/ˌtɛknəˈlɑːdʒɪkəl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "科技的、技術的"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞。由名詞 *technology*（由希臘語 *techne*「技藝」+ *-logia*「學問、研究」組成）加上形容詞複合字尾 *-ical* 構成。用以修飾與科學技術、工業應用或數位革新相關的事物。分析時應說明其希臘語複合來源與現代形容詞化過程。",
+      "definition": "1. relating to or involving technology.",
+      "example": [
+        {
+          "eng": "Rapid technological advances have changed how we live.",
+          "ch": "快速的科技進步改變了我們的生活方式。"
+        }
+      ]
+    },
+    {
+      "eng": "telegraph",
+      "kk": "/ˈtɛləˌɡræf/",
+      "tense": "n.",
+      "ch": [
+        [
+          "電報、電報機"
+        ]
+      ],
+      "analysis": "此字為19世紀現代科學複合詞。由希臘語前綴 *tēle*（遠距離）+ *graphein*（寫、記錄）結合成名詞，用以指發送遠距離電信訊號的裝置或訊息。分析時應說明其希臘語造詞成分與近代科技詞彙身份。",
+      "definition": "1. a system or device for transmitting messages over a distance along a wire.",
+      "example": [
+        {
+          "eng": "In the past, urgent news was sent by telegraph.",
+          "ch": "過去，緊急消息是透過電報發送的。"
+        }
+      ]
+    },
+    {
+      "eng": "telescope",
+      "kk": "/ˈtɛləˌskoʊp/",
+      "tense": "n.",
+      "ch": [
+        [
+          "望遠鏡"
+        ]
+      ],
+      "analysis": "此字為近代科學複合詞。由希臘語前綴 *tēle*（遠距離）+ *skopein*（看、觀察）結合成名詞，指用於觀察遠處天體或景物的光學儀器。分析時應指出其希臘語組合與現代光學器材的命名邏輯。",
+      "definition": "1. an optical instrument designed to make distant objects appear nearer.",
+      "example": [
+        {
+          "eng": "We used a telescope to observe the craters on the moon.",
+          "ch": "我們用望遠鏡觀察月球上的環形山。"
+        }
+      ]
+    },
+    {
+      "eng": "tendency",
+      "kk": "/ˈtɛndənsi/",
+      "tense": "n.",
+      "ch": [
+        [
+          "傾向、癖好"
+        ]
+      ],
+      "analysis": "此字為歷史借詞與現代構詞。由拉丁語動詞 *tendere*（伸展、趨向）的現在分詞幹 *tendent-* 加上名詞字尾 *-cy* 構成。在英語中表示某人或某事傾向於表現出特定行為或發展方向的習慣。分析時應說明其拉丁語動詞根源與名詞化過程。",
+      "definition": "1. a likelihood to behave in a particular way or to have a particular characteristic.",
+      "example": [
+        {
+          "eng": "He has a tendency to work late into the night.",
+          "ch": "他有工作到深夜的傾向。"
+        }
+      ]
+    },
+    {
+      "eng": "tense",
+      "kk": "/tɛns/",
+      "tense": "n.",
+      "ch": [
+        [
+          "（文法上的）時態"
+        ]
+      ],
+      "analysis": "作為名詞使用，源自古法語 *temps*（時間），最終源自拉丁語 *tempus*（時間）。在文法中因歷史語音混淆與拉丁語 *tensus*（緊張、拉緊）在早期法語中發生同形異義或借用，但在英文文法中專門用來指動詞表示時間的「時態」。分析時需指出其雖然拼法與形容詞相同，但歷史上源自拉丁語 *tempus*（時間）的語義演變。",
+      "definition": "1. a form of a verb used to show the time at which an action happened.",
+      "example": [
+        {
+          "eng": "This sentence is written in the past tense.",
+          "ch": "這個句子是用過去式寫的。"
+        }
+      ]
+    },
+    {
+      "eng": "tense",
+      "kk": "/tɛns/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "緊張的、緊繃的"
+        ]
+      ],
+      "analysis": "此字為歷史借詞。源自拉丁語 *tensus*（過去分詞 of *tendere*「拉緊、伸展」）。在英語中用以形容肌肉、局勢或情緒處於高度緊繃、壓力極大的狀態。分析時應指出其源自拉丁語「拉緊」的過去分詞及形容詞身份。",
+      "definition": "1. stretched or strained to a tight state, or feeling nervous and unable to relax.",
+      "example": [
+        {
+          "eng": "The atmosphere in the meeting room was very tense.",
+          "ch": "會議室裡的氣氛非常緊張。"
+        }
+      ]
+    },
+    {
+      "eng": "tension",
+      "kk": "/ˈtɛnʃən/",
+      "tense": "n.",
+      "ch": [
+        [
+          "緊張局勢、心理壓力"
+        ],
+        [
+          "張力、拉力"
+        ]
+      ],
+      "analysis": "此字為歷史借詞。源自拉丁語 *tensio*（由 *tendere*「拉緊」的過去分詞幹 + 名詞字尾 *-io* 形成）。在現代英語中既可用於心理與政治局勢上的「緊張、對立」，也可用於物理學上的「物理張力、拉力」。分析時需說明其拉丁語根源及雙重語義群組。",
+      "definition": "1. mental or emotional strain, or a strained relationship between people or groups; 2. the physical force that is produced when something is stretched.",
+      "example": [
+        {
+          "eng": "Yoga is a great way to release physical tension.",
+          "ch": "瑜伽是釋放身體緊張的好方法。"
+        },
+        {
+          "eng": "The bridge cables are under high tension.",
+          "ch": "這座橋的鋼索正承受著高張力。"
+        }
+      ]
+    },
+    {
+      "eng": "terror",
+      "kk": "/ˈtɛrɚ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "恐怖、驚恐"
+        ],
+        [
+          "令人恐怖的事物、令人頭痛的人"
+        ]
+      ],
+      "analysis": "此字為歷史借詞。源自古法語 *terour*，最終源自拉丁語 *terror*（源自動詞 *terrere*「使害怕、驚嚇」）。在英語中指極度的恐懼感，或引申指引起恐慌的根源或令人頭痛的人。分析時應指出其拉丁語動詞源頭與名詞身份。",
+      "definition": "1. extreme fear, or a person or thing that causes great fear.",
+      "example": [
+        {
+          "eng": "The children screamed in terror as the storm struck.",
+          "ch": "暴風雨來襲時，孩子們驚恐得尖叫起來。"
+        },
+        {
+          "eng": "The dog was the terror of the neighborhood.",
+          "ch": "那隻狗是鄰近地區令人頭痛的惡霸。"
+        }
+      ]
+    },
+    {
+      "eng": "theme",
+      "kk": "/θim/",
+      "tense": "n.",
+      "ch": [
+        [
+          "主題、主旨"
+        ],
+        [
+          "主題曲、專題旋律"
+        ]
+      ],
+      "analysis": "此字為歷史借詞。源自中古法語 *tyme*，再源自拉丁語 *thema*，最終源自希臘語 *thēma*（原意為「放置、設立的事物」，源自動詞 *tithenai*「放置」）。在英語中演變為文學、藝術或討論的「核心主題」，以及音樂上的「主題曲」。分析時應說明其希臘語動詞根源與語義演變。",
+      "definition": "1. the subject or main idea of a talk, piece of writing, or exhibition; 2. a distinct recurring melody in a piece of music.",
+      "example": [
+        {
+          "eng": "The main theme of the novel is forgiveness.",
+          "ch": "這部小說的主題是寬恕。"
+        },
+        {
+          "eng": "The movie is famous for its memorable musical theme.",
+          "ch": "這部電影以其令人難忘的主題曲而聞名。"
+        }
+      ]
+    },
+    {
+      "eng": "thorough",
+      "kk": "/ˈθɝːo/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "徹底的、嚴謹的"
+        ]
+      ],
+      "analysis": "此字為日耳曼語源的繼承詞。古英語為 *þurh*（意為「穿過、透過」），與介詞 *through* 同源。在中古英語中分化出形容詞形式 *thorough*，指「貫穿到底、無所遺漏的」，現代英語中用來形容做事極為徹底、細緻。分析時應說明其與 through 的歷史同源關係及形容詞身份。",
+      "definition": "1. performed with great care and completeness; extremely detailed.",
+      "example": [
+        {
+          "eng": "The police conducted a thorough investigation into the burglary.",
+          "ch": "警方對這起入室竊盜案進行了徹底的調查。"
+        }
+      ]
+    },
+    {
+      "eng": "thoughtful",
+      "kk": "/ˈθɔt.fəl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "沉思的、深思熟慮的"
+        ],
+        [
+          "體貼的、關心他人的"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞。由名詞 *thought*（源自古英語 *geþōht*）加上形容詞後綴 *-ful*（充滿...的）構成。具有兩個常見義：一是指表現出正在思考、沉思的；二是指為他人著想、體貼的。分析時需說明其構詞成分及兩個互斥的語義群組。",
+      "definition": "1. absorbed in or showing deep thought; 2. showing consideration for the needs of other people.",
+      "example": [
+        {
+          "eng": "He sat by the window with a thoughtful expression.",
+          "ch": "他帶著沉思的表情坐在窗邊。"
+        },
+        {
+          "eng": "It was very thoughtful of you to bring me flowers.",
+          "ch": "你帶花給我真是太體貼了。"
+        }
+      ]
+    },
+    {
+      "eng": "tickle",
+      "kk": "/ˈtɪkəl/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "搔...的癢、使發癢"
+        ],
+        [
+          "逗樂、使開心"
+        ]
+      ],
+      "analysis": "此字為日耳曼語源的擬聲／反覆動詞。源自中古英語 *tikelen*，可能與德語 *tickeln* 同源，帶有輕觸、反覆刺激的意味。作及物動詞時，既可指物理上的「搔癢」，也可引申為心理上的「逗樂、使感到愉快」。分析時需說明其動詞身份與雙重語義群組。",
+      "definition": "1. to touch the body lightly in a way that causes laughter or itching; 2. to amuse or please someone.",
+      "example": [
+        {
+          "eng": "She tickled her baby's feet, making him giggle.",
+          "ch": "她搔她寶寶的腳，逗得他咯咯笑。"
+        },
+        {
+          "eng": "His witty joke tickled the audience.",
+          "ch": "他的妙語逗樂了觀眾。"
+        }
+      ]
+    },
+    {
+      "eng": "timetable",
+      "kk": "/ˈtaɪmˌteɪbəl/",
+      "tense": "n.",
+      "ch": [
+        [
+          "時間表、時刻表"
+        ]
+      ],
+      "analysis": "此字為現代透明複合詞。由名詞 *time*（時間）與 *table*（表格，源自拉丁語 *tabula*「板子、明細表」）結合而成，於19世紀英國鐵路興起時廣泛使用，指列車班次或行程的時間規劃表。分析時應說明其現代複合詞結構與具體語義。",
+      "definition": "1. a chart showing the times at which events, trains, or classes are scheduled to take place.",
+      "example": [
+        {
+          "eng": "Please check the bus timetable before you leave.",
+          "ch": "出發前請先查看公車時刻表。"
+        }
+      ]
+    },
+    {
+      "eng": "timid",
+      "kk": "/ˈtɪmɪd/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "膽小的、膽怯的"
+        ]
+      ],
+      "analysis": "此字為歷史借詞。源自拉丁語 *timidus*（意為「害怕的、膽怯的」），源自動詞 *timere*（害怕）。在英語中用來形容人性格害羞、缺乏勇氣、容易受驚嚇。分析時應指出其源自拉丁語動詞的根源與形容詞身份。",
+      "definition": "1. showing a lack of courage or confidence; easily frightened.",
+      "example": [
+        {
+          "eng": "The timid kitten hid under the sofa when visitors arrived.",
+          "ch": "訪客到達時，膽小的小貓躲在沙發底下。"
+        }
+      ]
+    },
+    {
+      "eng": "tolerable",
+      "kk": "/ˈtɑːlərəbəl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "可忍受的、尚可的"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞與歷史借詞。由動詞 *tolerate* 的詞幹加上形容詞字尾 *-able*（可...的，源自拉丁語 *-abilis*）構成。指痛苦、氣溫或情況雖不完美但勉強可以接受。分析時需說明其動詞詞幹與 *-able* 的組合。",
+      "definition": "1. able to be accepted or endured, even if not completely satisfactory.",
+      "example": [
+        {
+          "eng": "The summer heat was barely tolerable without air conditioning.",
+          "ch": "沒有空調的話，夏天的酷熱幾乎是勉強可以忍受的。"
+        }
+      ]
+    },
+    {
+      "eng": "tolerance",
+      "kk": "/ˈtɑːlərəns/",
+      "tense": "n.",
+      "ch": [
+        [
+          "寬容、容忍"
+        ],
+        [
+          "耐受力、機械公差"
+        ]
+      ],
+      "analysis": "此字為歷史借詞。源自拉丁語 *tolerantia*（源自動詞 *tolerare*「忍受」）。在現代英語中既可用於社會與道德層面的「寬容、接納不同意見」，也可用於醫學、生物或工程學上的「耐受力、機械公差」。分析時應說明其拉丁語根源及雙重語義群組。",
+      "definition": "1. the ability or willingness to tolerate the existence of opinions or behavior that one dislikes; 2. the capacity of the body to endure a drug, or the permissible limit of variation in a physical measurement.",
+      "example": [
+        {
+          "eng": "Schools should promote cultural diversity and mutual tolerance.",
+          "ch": "學校應促進文化多元與相互包容。"
+        },
+        {
+          "eng": "Long-term use of this medication can lead to drug tolerance.",
+          "ch": "長期使用這種藥物會導致藥物耐受性。"
+        }
+      ]
+    },
+    {
+      "eng": "tolerant",
+      "kk": "/ˈtɑːlərənt/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "寬容的、包容的"
+        ],
+        [
+          "耐受的、具抵抗力的"
+        ]
+      ],
+      "analysis": "此字為歷史借詞。源自拉丁語 *tolerantem*（現在分詞 of *tolerare*「忍受」）。用以形容人對不同意見、信仰保持開明寬容，或形容生物、材料對環境、藥物具備耐受力。分析時需說明其拉丁語現在分詞根源與形容詞身份。",
+      "definition": "1. showing willingness to allow the existence of opinions or behavior that one does not necessarily agree with; 2. able to endure specified conditions or substances without adverse effects.",
+      "example": [
+        {
+          "eng": "A democratic society must be tolerant of different viewpoints.",
+          "ch": "民主社會必須包容不同的觀點。"
+        },
+        {
+          "eng": "Some plant species are tolerant of drought.",
+          "ch": "某些植物品種對乾旱具有耐受力。"
+        }
+      ]
+    },
+    {
+      "eng": "tolerate",
+      "kk": "/ˈtɑːləˌreɪt/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "忍受、容忍"
+        ]
+      ],
+      "analysis": "此字為歷史借詞。源自拉丁語 *toleratus*（過去分詞 of *tolerare*「支撐、忍受」）。作及物動詞時，指不加阻止或勉強接受令人不悅的情況、行為或意見。分析時需說明其拉丁語動詞源頭及及物動詞句型身份。",
+      "definition": "1. to allow the existence, occurrence, or practice of something that one does not like or agree with without interference.",
+      "example": [
+        {
+          "eng": "The school has a zero-tolerance policy and will not tolerate bullying.",
+          "ch": "學校採取零容忍政策，絕不容許霸凌行為。"
+        }
+      ]
+    },
+    {
+      "eng": "tomb",
+      "kk": "/tum/",
+      "tense": "n.",
+      "ch": [
+        [
+          "墳墓、陵墓"
+        ]
+      ],
+      "analysis": "此字為歷史借詞。源自古法語 *tombe*，再源自拉丁語 *tumba*，最終源自希臘語 *tumbos*（墳墓、塚）。字首的 b 在中古英語中發音逐漸脫落，保留至今的拼法。分析時需指出其希臘-拉丁語源與單一名詞身份。",
+      "definition": "1. a large vault, typically an underground one, for burying the dead.",
+      "example": [
+        {
+          "eng": "Archaeologists discovered an ancient royal tomb in the desert.",
+          "ch": "考古學家在沙漠中發現了一座古代皇家陵墓。"
+        }
+      ]
+    },
+    {
+      "eng": "tortoise",
+      "kk": "/ˈtɔːr.təs/",
+      "tense": "n.",
+      "ch": [
+        [
+          "陸龜"
+        ]
+      ],
+      "analysis": "此字為歷史借詞。源自中古法語 *tortis*（歪曲的、有斑點的，因其彎曲的腳或硬殼而得名），最終源自拉丁語 *tortus*（扭曲）。在中世紀英語中演變為 tortoise，專指陸地上的龜類。分析時需說明其拉丁語「扭曲」根源與動物名稱的歷史演變。",
+      "definition": "1. a slow-moving, land-dwelling reptile that has a hard shell.",
+      "example": [
+        {
+          "eng": "The old tortoise slowly crept across the garden path.",
+          "ch": "那隻老陸龜緩緩爬過花園小徑。"
+        }
+      ]
+    },
+    {
+      "eng": "torture",
+      "kk": "/ˈtɔːr.tʃɚ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "拷打、刑求"
+        ],
+        [
+          "煎熬、痛苦折磨"
+        ]
+      ],
+      "analysis": "此字為歷史借詞。源自中世紀拉丁語 *tortura*（意為「扭曲、拷問」），源自拉丁語 *torquere*（扭轉、扭曲）。在英語中既指肉體上的「刑求、拷打」，也指精神上的「極大煎熬」。分析時需說明其拉丁語動詞根源與雙重語義群組。",
+      "definition": "1. the action or practice of inflicting severe pain on someone as a punishment or to force them to do or say something; 2. great mental or physical suffering.",
+      "example": [
+        {
+          "eng": "The prisoner was subjected to brutal torture.",
+          "ch": "該囚犯遭受了殘酷的拷打。"
+        },
+        {
+          "eng": "Waiting for the exam results was pure torture.",
+          "ch": "等待考試成績簡直是煎熬。"
+        }
+      ]
+    },
+    {
+      "eng": "tragedy",
+      "kk": "/ˈtrædʒədi/",
+      "tense": "n.",
+      "ch": [
+        [
+          "悲劇、災難"
+        ],
+        [
+          "悲劇作品（戲劇）"
+        ]
+      ],
+      "analysis": "此字為歷史借詞。源自古法語 *tragedie*，再源自拉丁語 *tragoedia*，最終源自希臘語 *tragōidia*（由 *tragos*「山羊」+ *ōidē*「歌曲」複合而成，原意可能與古希臘悲劇演出時獻祭山羊有關）。在現代英語中既指現實生活中的「慘劇、災難」，也指文學上的「悲劇戲劇」。分析時需說明其希臘語複合源頭與多義演變。",
+      "definition": "1. an event causing great suffering, destruction, and distress; 2. a play dealing with tragic events and having an unhappy ending, especially one concerning the downfall of the main character.",
+      "example": [
+        {
+          "eng": "The earthquake resulted in a terrible human tragedy.",
+          "ch": "這場地震造成了可怕的人間悲劇。"
+        },
+        {
+          "eng": "Shakespeare's Hamlet is a masterpiece of tragedy.",
+          "ch": "莎士比亞的《哈姆雷特》是悲劇的傑作。"
+        }
+      ]
+    },
+    {
+      "eng": "tragic",
+      "kk": "/ˈtrædʒɪk/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "悲慘的、不幸的"
+        ],
+        [
+          "悲劇的（文學）"
+        ]
+      ],
+      "analysis": "此字為歷史借詞。源自拉丁語 *tragicus*，再源自希臘語 *tragikos*（源自 *tragōidia*「悲劇」）。在現代英語中用來形容令人極度悲傷、慘痛的事件，或專指與戲劇悲劇相關的事物。分析時需說明其希臘-拉丁語源與形容詞身份。",
+      "definition": "1. causing or characterized by extreme distress or sorrow; 2. relating to or characteristic of tragedy in literature.",
+      "example": [
+        {
+          "eng": "He lost his life in a tragic car accident.",
+          "ch": "他在一場悲慘的車禍中喪生。"
+        },
+        {
+          "eng": "The hero met a tragic end in the final act.",
+          "ch": "主角在最後一幕迎來了悲劇性的結局。"
+        }
+      ]
+    },
+    {
+      "eng": "transfer",
+      "kk": "/trænsˈfɝː/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "轉移、調動"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞與歷史借詞。由拉丁語前綴 *trans-*（跨越、轉移）+ *ferre*（攜帶、運送）結合而成的拉丁語 *transferre*。在現代英語中作及物動詞時，指將人、物、權利或資金從一處移動或轉給另一處。分析時需說明其拉丁語字首與動詞詞幹的組合及句型身份。",
+      "definition": "1. to move someone or something from one place, vehicle, or situation to another.",
+      "example": [
+        {
+          "eng": "The company decided to transfer him to the branch office in London.",
+          "ch": "公司決定將他調動到倫敦的分公司。"
+        }
+      ]
+    },
+    {
+      "eng": "transform",
+      "kk": "/trænsˈfɔːrm/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "改變、改造"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞。由拉丁語前綴 *trans-*（跨越、改變）+ *formare*（形塑、構造，源自 *forma*「形狀」）構成。作及物動詞時，指徹底改變人或事物的形貌、本質或結構。分析時需說明其拉丁語組合與及物動詞身份。",
+      "definition": "1. to make a thorough or dramatic change in the form, appearance, or character of something.",
+      "example": [
+        {
+          "eng": "The new manager completely transformed the struggling company.",
+          "ch": "新經理徹底改造了這家苦苦掙扎的公司。"
+        }
+      ]
+    },
+    {
+      "eng": "translate",
+      "kk": "/trænzˈleɪt/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "翻譯"
+        ]
+      ],
+      "analysis": "此字為歷史借詞。源自拉丁語 *translatus*（過去分詞 of *transferre*「帶過去、轉移」），在中古英語中演化為專指「將一種語言文字轉換成另一種語言」。作及物動詞時，接直接受詞表示翻譯文字或言論。分析時需說明其拉丁語詞源及及物動詞句型。",
+      "definition": "1. to express the sense of words or speech in another language.",
+      "example": [
+        {
+          "eng": "She translated the novel from French into English.",
+          "ch": "她把這本小說從法文翻譯成英文。"
+        }
+      ]
+    },
+    {
+      "eng": "translation",
+      "kk": "/trænzˈleɪʃən/",
+      "tense": "n.",
+      "ch": [
+        [
+          "翻譯、譯本"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞。由動詞 *translate* 加上名詞字尾 *-ion*（源自拉丁語 *-io*）構成。指翻譯的過程或翻譯完成後的產物（譯本）。分析時需說明其由動詞派生為名詞的構詞過程。",
+      "definition": "1. the process of translating words or text from one language into another, or the translated text itself.",
+      "example": [
+        {
+          "eng": "This book is a faithful translation of the original poem.",
+          "ch": "這本書是對原詩忠實的翻譯。"
+        }
+      ]
+    },
+    {
+      "eng": "translator",
+      "kk": "/trænzˈleɪtɚ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "翻譯員、譯者"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞。由動詞 *translate* 加上表示執行者的名詞字尾 *-or* 構成，專指從事文字翻譯工作的專業人員。分析時需說明其動詞與職稱字尾的組合。",
+      "definition": "1. a person who translates speech or writing from one language into another.",
+      "example": [
+        {
+          "eng": "The literary translator won an award for her brilliant work.",
+          "ch": "這位文學譯者因其出色的作品而獲獎。"
+        }
+      ]
+    },
+    {
+      "eng": "transportation",
+      "kk": "/ˌtrænspɚˈteɪʃən/",
+      "tense": "n.",
+      "ch": [
+        [
+          "運輸、交通工具"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞與歷史借詞。由拉丁語動詞 *transportare*（*trans-*「跨越」+ *portare*「攜帶、運送」）加上名詞字尾 *-ation* 構成。在現代英語中指貨物或人員的運輸系統與交通工具。分析時需說明其拉丁語複合字根與名詞化過程。",
+      "definition": "1. the movement of people or goods from one place to another, or a system or vehicle used for traveling.",
+      "example": [
+        {
+          "eng": "Public transportation in this city is efficient and affordable.",
+          "ch": "這個城市的公共運輸既高效又經濟。"
+        }
+      ]
+    },
+    {
+      "eng": "tremble",
+      "kk": "/ˈtrɛmbəl/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "顫抖、發抖"
+        ]
+      ],
+      "analysis": "此字為歷史借詞。源自古法語 *trembler*，再源自低拉丁語 *tremulare*（顫抖），源自拉丁語 *tremere*（發抖）。作不及物動詞時，指因寒冷、恐懼、激動或虛弱而引起的身體不由自主發抖。分析時需說明其拉丁語動詞根源與不及物動詞身份。",
+      "definition": "1. to shake slightly, typically as a result of cold, fear, excitement, or weakness.",
+      "example": [
+        {
+          "eng": "Her hands began to tremble as she opened the envelope.",
+          "ch": "當她打開信封時，她的雙手開始顫抖。"
+        }
+      ]
+    },
+    {
+      "eng": "tremendous",
+      "kk": "/trɪˈmɛndəs/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "極大的、巨大的"
+        ]
+      ],
+      "analysis": "此字為歷史借詞。源自拉丁語 *tremendus*（意為「可怕的、令人敬畏的」，字面義為「應當令人發抖的」），由 *tremere*（發抖）+ 形容詞字尾 *-ndus* 構成。在現代英語中語義轉移，主要用來形容數量、規模或程度「極大的、驚人的」。分析時需說明其拉丁語「令人發抖」的原始義到現代「巨大」的語意演變。",
+      "definition": "1. very great in amount, scale, or intensity.",
+      "example": [
+        {
+          "eng": "The project required a tremendous amount of time and effort.",
+          "ch": "這個專案需要大量的時間與精力。"
+        }
+      ]
+    },
+    {
+      "eng": "tribal",
+      "kk": "/ˈtraɪbəl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "部落的、部族的"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞。由名詞 *tribe*（源自拉丁語 *tribus*「古羅馬的三大部族之一」）加上形容詞字尾 *-al* 構成。用以形容與原住民族群、部族文化或組織相關的事物。分析時需說明其拉丁語名詞源頭與現代形容詞構詞。",
+      "definition": "1. relating to or characteristic of a tribe or tribes.",
+      "example": [
+        {
+          "eng": "Anthropologists studied the traditional tribal customs of the region.",
+          "ch": "人類學家研究了該地區的傳統部族習俗。"
+        }
+      ]
+    },
+    {
+      "eng": "triumph",
+      "kk": "/ˈtraɪ.ʌmf/",
+      "tense": "n.",
+      "ch": [
+        [
+          "巨大勝利、成功"
+        ],
+        [
+          "狂喜、凱旋"
+        ]
+      ],
+      "analysis": "此字為歷史借詞。源自古法語 *triumfe*，再源自拉丁語 *triumphus*（源自希臘語 *thriambos*，原指古希臘對酒神的讚美歌與古羅馬將領凱旋歸來的盛大儀式）。在英語中演變為一般的「勝利、成功」及成功帶來的「得意與狂喜」。分析時需說明其希臘-拉丁語歷史源頭與雙重語義群組。",
+      "definition": "1. a great victory or achievement; 2. a feeling or state of joyous celebration after a success.",
+      "example": [
+        {
+          "eng": "Winning the championship was a great triumph for the team.",
+          "ch": "贏得冠軍對這支球隊來說是一大勝利。"
+        },
+        {
+          "eng": "She smiled in triumph after solving the difficult puzzle.",
+          "ch": "解開這個難題後，她露出了勝利的微笑。"
+        }
+      ]
+    },
+    {
+      "eng": "troublesome",
+      "kk": "/ˈtrʌbəl.səm/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "討厭的、令人煩惱的"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞。由名詞／動詞 *trouble*（源自古法語 *tourbler*，源自拉丁語 *turbare*「攪擾、使混亂」）加上日耳曼語源的形容詞字尾 *-some*（充滿...傾向的）構成。用以形容人、事、物造成持續的麻煩與困擾。分析時需說明其字根與 *-some* 字尾的組合。",
+      "definition": "1. causing difficulty, annoyance, or worry; vexatious.",
+      "example": [
+        {
+          "eng": "He has been suffering from a troublesome cough for weeks.",
+          "ch": "他連續幾週受到惱人咳嗽的困擾。"
+        }
+      ]
+    },
+    {
+      "eng": "tumble",
+      "kk": "/ˈtʌmbəl/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "跌倒、滾落"
+        ],
+        [
+          "暴跌、下跌"
+        ]
+      ],
+      "analysis": "此字為日耳曼語源的動詞。源自中古英語 *tumblen*，與德語 *tummeln* 同源，原意為翻滾、跳躍。作不及物動詞時，指失去平衡而「跌倒、滾落」，或引申用於價格、數據的「暴跌」。分析時需說明其日耳曼語源及不及物動詞身份。",
+      "definition": "1. to fall suddenly, clumsily, or headlong; 2. to drop rapidly in value or amount.",
+      "example": [
+        {
+          "eng": "The child tripped over a rock and tumbled down the hill.",
+          "ch": "那孩子被石頭絆倒，從山坡上滾了下來。"
+        },
+        {
+          "eng": "Stock prices tumbled after the unexpected economic news.",
+          "ch": "在意外的經濟消息發布後，股價暴跌。"
+        }
+      ]
+    },
+    {
+      "eng": "twig",
+      "kk": "/twɪɡ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "細枝、嫩枝"
+        ]
+      ],
+      "analysis": "此字為日耳曼語源的繼承詞。源自古英語 *twīg*，與日耳曼語祖語的數字「二」之分支相關（原指分叉成兩半的小樹枝）。在現代英語中專指樹木上細小的嫩枝。分析時需說明其古英語根源與單一名詞身份。",
+      "definition": "1. a small, thin branch of a tree or bush.",
+      "example": [
+        {
+          "eng": "The little bird gathered dry twigs to build a nest.",
+          "ch": "小鳥收集了乾樹枝來築巢。"
+        }
+      ]
+    },
+    {
+      "eng": "universal",
+      "kk": "/ˌjuːnɪˈvɝːsəl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "普遍的、全體的"
+        ],
+        [
+          "宇宙的、全世界的"
+        ]
+      ],
+      "analysis": "此字為歷史借詞。源自拉丁語 *universalis*（源自 *universus*「全體、宇宙」）。在現代英語中指適用於全人類或所有情況的「普遍的」，或與「宇宙」相關的。分析時需說明其拉丁語字根與形容詞身份。",
+      "definition": "1. applicable to all cases or affecting all people worldwide; 2. relating to or done by all people or things in the world.",
+      "example": [
+        {
+          "eng": "Access to education is a universal human right.",
+          "ch": "受教育的權利是普遍的人權。"
+        },
+        {
+          "eng": "The new safety rules received universal approval.",
+          "ch": "這項新的安全規定獲得了全體一致的批准。"
+        }
+      ]
+    },
+    {
+      "eng": "urge",
+      "kk": "/ɝːdʒ/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "催促、力勸",
+          "強烈主張、呼籲"
+        ]
+      ],
+      "analysis": "此字為歷史借詞。源自拉丁語 *urgere*（驅使、催促、壓迫）。作及物動詞時，指極力勸說某人做某事，或強烈主張某項政策與行動。分析時需說明其拉丁語動詞根源及及物動詞句型身份。",
+      "definition": "1. to try earnestly or persistently to persuade someone to do something, or to strongly recommend a course of action.",
+      "example": [
+        {
+          "eng": "She urged her friends to sign the petition.",
+          "ch": "她力勸朋友簽署請願書。"
+        }
+      ]
+    },
+    {
+      "eng": "urgent",
+      "kk": "/ˈɝːdʒənt/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "緊急的、急迫的"
+        ]
+      ],
+      "analysis": "此字為歷史借詞。源自拉丁語 *urgentem*（現在分詞 of *urgere*「催促、壓迫」）。用以形容需要立刻處理、不容延誤的事務。分析時需說明其源自拉丁語現在分詞的歷史根源與形容詞身份。",
+      "definition": "1. requiring immediate action or attention.",
+      "example": [
+        {
+          "eng": "The patient was admitted to the hospital with urgent medical needs.",
+          "ch": "該患者因有急迫的醫療需求而被送進醫院。"
+        }
+      ]
+    },
+    {
+      "eng": "usage",
+      "kk": "/ˈjuːzɪdʒ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "用法、語言習慣"
+        ],
+        [
+          "使用量、使用習慣"
+        ]
+      ],
+      "analysis": "此字為歷史借詞與現代構詞。由動詞 *use*（源自拉丁語 *usus*）加上名詞字尾 *-age* 構成。在現代英語中主要指字詞的「文法用法、語言習慣」，亦可指資源或電力的「使用量」。分析時需說明其動詞與 *-age* 的組合及雙重語義群組。",
+      "definition": "1. the way in which words or language are conventionally used; 2. the action or amount of using something.",
+      "example": [
+        {
+          "eng": "Dictionaries provide examples of correct word usage.",
+          "ch": "字典提供了正確詞語用法的範例。"
+        },
+        {
+          "eng": "The company aims to reduce water usage during the summer.",
+          "ch": "該公司旨在減少夏季的用水量。"
+        }
+      ]
+    }
+  ]
+}

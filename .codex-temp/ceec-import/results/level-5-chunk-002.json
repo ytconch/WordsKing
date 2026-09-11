@@ -1,0 +1,1287 @@
+{
+  "level": 5,
+  "chunkIndex": 2,
+  "inputs": [
+    "apt",
+    "architect",
+    "architecture",
+    "arena",
+    "arouse",
+    "array",
+    "arrogant",
+    "articulate",
+    "ass",
+    "assault",
+    "assert",
+    "assess",
+    "assessment",
+    "asset",
+    "assumption",
+    "astonish",
+    "astonishment",
+    "athletics",
+    "attendance",
+    "attic",
+    "attorney",
+    "attribute",
+    "auction",
+    "authorize",
+    "autonomy",
+    "awe",
+    "backyard",
+    "ballot",
+    "ban",
+    "banner",
+    "barren",
+    "batch",
+    "behalf",
+    "belongings",
+    "beloved",
+    "beneficial",
+    "betray",
+    "beware",
+    "bias",
+    "bid",
+    "biological",
+    "bizarre",
+    "blast",
+    "blur",
+    "blush",
+    "bodyguard",
+    "bolt",
+    "bonus",
+    "boom",
+    "boost"
+  ],
+  "rows": [
+    {
+      "eng": "apt",
+      "kk": "æpt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "恰當的",
+          "貼切的"
+        ],
+        [
+          "易於...的",
+          "有...傾向的"
+        ],
+        [
+          "聰明的",
+          "反應敏捷的"
+        ]
+      ],
+      "analysis": "此字為現代單純形容詞，無複雜構詞。源自拉丁語 aptus（適合的、緊湊的），經由中古英語進入英語。語義演變從「物理上的緊密結合」演變為「性質上的合適、傾向」，再延伸出「才能敏捷」之義。",
+      "definition": "1. Appropriate or suitable in the circumstances; 2. Having a tendency to do something; 3. Quick to learn or understand.",
+      "example": [
+        {
+          "eng": "That is an apt description of the current situation.",
+          "ch": "那是對目前形勢的貼切描述。"
+        },
+        {
+          "eng": "Elderly people are apt to forget things easily.",
+          "ch": "老年人容易忘記事情。"
+        },
+        {
+          "eng": "She proved an apt student and quickly mastered the language.",
+          "ch": "事實證明她是一位學東西很快的學生，迅速精通了這門語言。"
+        }
+      ]
+    },
+    {
+      "eng": "architect",
+      "kk": "ˈɑrkəˌtɛkt",
+      "tense": "n.",
+      "ch": [
+        [
+          "建築師"
+        ],
+        [
+          "締造者",
+          "設計者"
+        ]
+      ],
+      "analysis": "此字由希臘語 arhi-（主要、總）與 tekton（工匠、建造者）結合，經由拉丁語 architectus 與法語進入英語。現代透明構詞上已視為單一根基名詞。語義從原指「首席建築工匠」延伸至抽象的「計畫或制度的設計者與締造者」。",
+      "definition": "1. A person who designs buildings and in many cases supervises their construction; 2. A person who is responsible for achieving a particular plan or project.",
+      "example": [
+        {
+          "eng": "The famous architect designed the new museum.",
+          "ch": "這位著名的建築師設計了這座新博物館。"
+        },
+        {
+          "eng": "He was the chief architect of the peace treaty.",
+          "ch": "他是該和平條約的主要締造者。"
+        }
+      ]
+    },
+    {
+      "eng": "architecture",
+      "kk": "ˈɑrkəˌtɛktʃər",
+      "tense": "n.",
+      "ch": [
+        [
+          "建築學",
+          "建築業"
+        ],
+        [
+          "建築風格",
+          "結構"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 architectura，由 architect（建築師）加上抽象名詞字尾 -ure 構成。現代英語中主要指建築的藝術與科學，或指特定風格與系統結構。",
+      "definition": "1. The art or practice of designing and constructing buildings; 2. The style or design of a building, or the organizational structure of a system.",
+      "example": [
+        {
+          "eng": "She is studying architecture at the university.",
+          "ch": "她正在大學修讀建築學。"
+        },
+        {
+          "eng": "The city is famous for its Gothic architecture.",
+          "ch": "這座城市以哥德式建築風格聞名。"
+        }
+      ]
+    },
+    {
+      "eng": "arena",
+      "kk": "əˈrinə",
+      "tense": "n.",
+      "ch": [
+        [
+          "競技場",
+          "活動場所"
+        ],
+        [
+          "界別",
+          "領域"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 arena（沙子、鋪沙的格鬥場），因古羅馬競技場鋪沙以吸血而得名。經由英語直接借用，語義從實體競技場延伸至政治、經濟等競爭的抽象領域。",
+      "definition": "1. A level area surrounded by seating, sports or entertainment; 2. A place of activity, debate, or conflict.",
+      "example": [
+        {
+          "eng": "The concert was held in a massive indoor arena.",
+          "ch": "這場音樂會是在一個巨大的室內競技場舉行的。"
+        },
+        {
+          "eng": "She entered the political arena at a young age.",
+          "ch": "她在年輕時就進入了政治界。"
+        }
+      ]
+    },
+    {
+      "eng": "arouse",
+      "kk": "əˈraʊz",
+      "tense": "vt.",
+      "ch": [
+        [
+          "激起",
+          "引起"
+        ],
+        [
+          "喚醒",
+          "叫醒"
+        ]
+      ],
+      "analysis": "此字由字首 a-（加強語氣）與動詞 rouse（喚醒、激起）結合而成。字源上與 rise 有關。及物動詞用法常指激起情感、興趣或喚醒某人。",
+      "definition": "1. Evoke or elicit a feeling, reaction, or response; 2. Awaken someone from sleep.",
+      "example": [
+        {
+          "eng": "His strange behavior aroused my suspicion.",
+          "ch": "他奇怪的舉動引起了我的懷疑。"
+        },
+        {
+          "eng": "The loud noise aroused him from a deep sleep.",
+          "ch": "巨大的噪音把他從沉睡中吵醒。"
+        }
+      ]
+    },
+    {
+      "eng": "array",
+      "kk": "əˈreɪ",
+      "tense": "n.",
+      "ch": [
+        [
+          "大批",
+          "一系列"
+        ],
+        [
+          "陣列",
+          "矩陣"
+        ]
+      ],
+      "analysis": "由動詞 array 轉化而來的名詞，保留排列整齊、成行的核心概念，現代廣泛用於日常指「一系列、大批的事物」，以及計算機科學中的「陣列」。",
+      "definition": "1. An impressive display or range of a particular type of thing; 2. An ordered series or arrangement of items.",
+      "example": [
+        {
+          "eng": "The store offers a wide array of products.",
+          "ch": "這家店提供種類繁多的產品。"
+        },
+        {
+          "eng": "The data is stored in a two-dimensional array.",
+          "ch": "數據存儲在一個二維陣列中。"
+        }
+      ]
+    },
+    {
+      "eng": "array",
+      "kk": "əˈreɪ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "排列",
+          "佈署"
+        ],
+        [
+          "盛裝打扮"
+        ]
+      ],
+      "analysis": "此字源自古法語 areer（準備、排列），由拉丁語字首 ad- 與具日耳曼語源的單字結合。作及物動詞時，主要指整齊地排列部隊、事物，或指華麗的裝扮。",
+      "definition": "1. Display or arrange things in a particular way; 2. Dress someone in fine clothes.",
+      "example": [
+        {
+          "eng": "The troops were arrayed for battle on the plain.",
+          "ch": "部隊在平原上列陣準備戰鬥。"
+        },
+        {
+          "eng": "She was arrayed in silk and jewels for the ball.",
+          "ch": "她盛裝打扮、身穿絲綢佩戴珠寶參加舞會。"
+        }
+      ]
+    },
+    {
+      "eng": "arrogant",
+      "kk": "ˈærəɡənt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "傲慢的",
+          "自大狂妄的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 arrogans（意氣用事的、傲慢的），由 ad-（向、朝）與 rogare（要求、請求）結合，字面義為「索取過多、自命不凡」，經由法語進入英語。",
+      "definition": "1. Having or revealing an exaggerated sense of one's own importance or abilities.",
+      "example": [
+        {
+          "eng": "His arrogant attitude made him unpopular with his colleagues.",
+          "ch": "他傲慢的態度使他在同事中很不受歡迎。"
+        }
+      ]
+    },
+    {
+      "eng": "articulate",
+      "kk": "ɑrˈtɪkjəˌleɪt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "清晰地表達",
+          "明確闡述"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 articulatus（分節的、清晰的），由 articulus（小關節）衍生而來。作動詞時，指像關節接合般清晰地發音或表達思想。",
+      "definition": "1. Express an idea or feeling fluently and coherently.",
+      "example": [
+        {
+          "eng": "He struggled to articulate his thoughts during the interview.",
+          "ch": "他在面試時艱難地表達自己的想法。"
+        }
+      ]
+    },
+    {
+      "eng": "articulate",
+      "kk": "ɑrˈtɪkjəlɪt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "表達清晰的",
+          "口齒伶俐的"
+        ]
+      ],
+      "analysis": "為同形動詞的形容詞用法，指人能夠清晰、流利且有條理地表達觀點。",
+      "definition": "1. Having or showing the ability to speak fluently and coherently.",
+      "example": [
+        {
+          "eng": "She gave a very articulate presentation on the new policy.",
+          "ch": "她就這項新政策做了一場口齒伶俐、條理清晰的簡報。"
+        }
+      ]
+    },
+    {
+      "eng": "ass",
+      "kk": "æs",
+      "tense": "n.",
+      "ch": [
+        [
+          "驢"
+        ],
+        [
+          "笨蛋",
+          "蠢貨"
+        ]
+      ],
+      "analysis": "此字為日耳曼語源的繼承詞（古英語 assa，源自拉丁語 asinus），在英語中長期發展出雙重義項：一是真實動物「驢」，二是因為古代對驢的刻板印象而延伸出的「愚蠢的人」。",
+      "definition": "1. A hoofed mammal of the horse family, with long ears; 2. A stupid or foolish person.",
+      "example": [
+        {
+          "eng": "The farmer used an ass to carry heavy loads up the hill.",
+          "ch": "農夫用一頭驢子把重物運上山。"
+        },
+        {
+          "eng": "Don't be such an ass and listen to good advice.",
+          "ch": "別那麼愚蠢了，聽聽好的忠告吧。"
+        }
+      ]
+    },
+    {
+      "eng": "assault",
+      "kk": "əˈsɔlt",
+      "tense": "n.",
+      "ch": [
+        [
+          "攻擊",
+          "襲擊"
+        ]
+      ],
+      "analysis": "由動詞 assault 轉化而來的名詞，指實體暴力攻擊、軍事進攻或法律上的恐嚇攻擊罪。",
+      "definition": "1. A violent physical or verbal attack.",
+      "example": [
+        {
+          "eng": "The city was heavily damaged in the enemy assault.",
+          "ch": "這座城市在敵人的猛烈攻擊中嚴重受損。"
+        }
+      ]
+    },
+    {
+      "eng": "assault",
+      "kk": "əˈsɔlt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "攻擊",
+          "襲擊"
+        ],
+        [
+          "使難受",
+          "轟炸（感官）"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 ad-（向）加上 saltare（跳躍），演變出拉丁俗語 *assaltare（猛撲、襲擊），經由古法語 assault 進入英語。作及物動詞指物理攻擊或對感官的強烈衝擊。",
+      "definition": "1. Make a physical attack on; 2. Inundate or overwhelm someone's senses.",
+      "example": [
+        {
+          "eng": "He was assaulted by two men outside the station.",
+          "ch": "他在車站外遭到兩名男子襲擊。"
+        },
+        {
+          "eng": "The loud noises assaulted her ears in the crowded market.",
+          "ch": "擁擠市場裡的喧鬧聲猛烈衝擊著她的耳朵。"
+        }
+      ]
+    },
+    {
+      "eng": "assert",
+      "kk": "əˈsɜrt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "斷言",
+          "堅稱"
+        ],
+        [
+          "維護",
+          "堅持（權利等）"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 asserere（聲稱、主張），由 ad-（向）與 serere（結合、連接）組成。及物動詞用法指堅定地宣告某個觀點或主張權利。",
+      "definition": "1. State a fact or belief with confidence and force; 2. Cause others to recognize one's authority or right.",
+      "example": [
+        {
+          "eng": "She asserted that she had nothing to do with the crime.",
+          "ch": "她堅稱自己與這起罪行無關。"
+        },
+        {
+          "eng": "It is important to assert your rights in the workplace.",
+          "ch": "在職場中堅持自己的權利是很重要的。"
+        }
+      ]
+    },
+    {
+      "eng": "assess",
+      "kk": "əˈsɛs",
+      "tense": "vt.",
+      "ch": [
+        [
+          "評估",
+          "評價"
+        ],
+        [
+          "估價",
+          "核定（稅額等）"
+        ]
+      ],
+      "analysis": "此字源自中世紀拉丁語 assessare（評估財產以課稅），源自拉丁語 assidere（坐在旁邊，原指法官身邊的陪審員協助評估稅額），經由古法語進入英語。",
+      "definition": "1. Evaluate or estimate the nature, ability, or quality of something; 2. Calculate the value or amount of something such as a tax or fine.",
+      "example": [
+        {
+          "eng": "Experts are still assessing the damage caused by the storm.",
+          "ch": "專家仍在評估暴風雨造成的損失。"
+        },
+        {
+          "eng": "The city council will assess property taxes next month.",
+          "ch": "市議會將於下個月核定房產稅。"
+        }
+      ]
+    },
+    {
+      "eng": "assessment",
+      "kk": "əˈsɛsmənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "評估",
+          "評價"
+        ],
+        [
+          "估價",
+          "評定金額"
+        ]
+      ],
+      "analysis": "由動詞 assess 加上名詞字尾 -ment 構成，指評估的過程或結果，亦指核定的稅額。",
+      "definition": "1. The evaluation or estimation of the nature, quality, or ability of someone or something; 2. An amount that has been assessed, such as a tax.",
+      "example": [
+        {
+          "eng": "According to our assessment, the project will take six months.",
+          "ch": "根據我們的評估，這個專案需要六個月。"
+        },
+        {
+          "eng": "Property tax assessments went up this year.",
+          "ch": "今年的房產稅評定金額上漲了。"
+        }
+      ]
+    },
+    {
+      "eng": "asset",
+      "kk": "ˈæsɛt",
+      "tense": "n.",
+      "ch": [
+        [
+          "資產",
+          "財產"
+        ],
+        [
+          "優點",
+          "有價值的資源"
+        ]
+      ],
+      "analysis": "此字源自英格蘭法語 assetz（足夠的、充足的），源自拉丁語 ad satis（到足夠的程度）。原本法律上指足以清償債務的遺產，後泛指一切有價值的資產或個人的優點長處。",
+      "definition": "1. A useful or valuable person, thing, or quality; 2. Property owned by a person or company, regarded as having value.",
+      "example": [
+        {
+          "eng": "Her fluency in French is a major asset to the company.",
+          "ch": "她流利的法語能力是公司的重大資產。"
+        },
+        {
+          "eng": "The company's total assets exceed ten million dollars.",
+          "ch": "該公司的總資產超過一千萬美元。"
+        }
+      ]
+    },
+    {
+      "eng": "assumption",
+      "kk": "əˈsʌmpʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "假設",
+          "假定"
+        ],
+        [
+          "承擔",
+          "取得"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 assumptio（接納、假設），由動詞 assumere（採取、假設）衍生而來。名詞在現代英語中主要指未經證實的假設前提，或承擔責任的行為。",
+      "definition": "1. A thing that is accepted as true or as certain to happen, without proof; 2. The action of taking on power or responsibility.",
+      "example": [
+        {
+          "eng": "His argument is based on a false assumption.",
+          "ch": "他的論點是建立在錯誤的假設上。"
+        },
+        {
+          "eng": "The assumption of new responsibilities can be challenging.",
+          "ch": "承擔新的責任可能會具有挑戰性。"
+        }
+      ]
+    },
+    {
+      "eng": "astonish",
+      "kk": "əˈstɑnɪʃ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使驚訝",
+          "使大為驚奇"
+        ]
+      ],
+      "analysis": "此字源自古法語 estoner（使雷擊昏、使震驚），由拉丁語 ex-（出）加上 tonare（雷鳴）演變而來。現代作為及物動詞，指某事令某人感到非常驚奇。",
+      "definition": "1. Surprise or impress someone greatly.",
+      "example": [
+        {
+          "eng": "The magician's tricks never failed to astonish the audience.",
+          "ch": "魔術師的把戲總是能讓觀眾大為驚奇。"
+        }
+      ]
+    },
+    {
+      "eng": "astonishment",
+      "kk": "əˈstɑnɪʃmənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "驚訝",
+          "驚愕"
+        ]
+      ],
+      "analysis": "由動詞 astonish 加上名詞字尾 -ment 構成，表示極度驚訝的狀態。",
+      "definition": "1. Great surprise or amazement.",
+      "example": [
+        {
+          "eng": "To our absolute astonishment, she won the first prize.",
+          "ch": "令我們極其驚訝的是，她贏得了頭獎。"
+        }
+      ]
+    },
+    {
+      "eng": "athletics",
+      "kk": "æˈθlɛtɪks",
+      "tense": "n.",
+      "ch": [
+        [
+          "田徑運動"
+        ],
+        [
+          "體育運動（總稱）"
+        ]
+      ],
+      "analysis": "此字源自希臘語 athlos（競賽、比賽），經由拉丁語 athletica 進入英語。雖然字尾為 -s 形式上像複數，但通常作為單數名詞使用，指田徑運動或廣義的體育競賽。",
+      "definition": "1. Sports such as running, jumping, and throwing; 2. Physical sports and competitive games in general.",
+      "example": [
+        {
+          "eng": "She is the star of the school's athletics team.",
+          "ch": "她是學校田徑隊的明星。"
+        },
+        {
+          "eng": "The university places a strong emphasis on athletics.",
+          "ch": "這所大學非常重視體育運動。"
+        }
+      ]
+    },
+    {
+      "eng": "attendance",
+      "kk": "əˈtɛndəns",
+      "tense": "n.",
+      "ch": [
+        [
+          "出席",
+          "參加"
+        ],
+        [
+          "出席人數"
+        ]
+      ],
+      "analysis": "此字由動詞 attend（出席、照顧）加上名詞字尾 -ance 構成。在現代英語中指出席某個場合的行為，或指實際到場的人數多寡。",
+      "definition": "1. The action of being present at a place or event; 2. The number of people present at a particular place or event.",
+      "example": [
+        {
+          "eng": "Daily attendance is mandatory for all students.",
+          "ch": "所有學生必須每天出勤。"
+        },
+        {
+          "eng": "Concert attendance was lower than expected due to the rain.",
+          "ch": "由於下雨，音樂會的出席人數低於預期。"
+        }
+      ]
+    },
+    {
+      "eng": "attic",
+      "kk": "ˈætɪk",
+      "tense": "n.",
+      "ch": [
+        [
+          "閣樓",
+          "頂樓"
+        ]
+      ],
+      "analysis": "此字源自希臘地名 Attica（阿提卡），在建築風格上指屋頂裝飾帶上的優雅柱式（Attic order），後來法語將此詞用來指建築物頂層的房間，再經由法語借入英語指閣樓。",
+      "definition": "1. A space or room just below the roof of a building.",
+      "example": [
+        {
+          "eng": "They store old family photos in the dusty attic.",
+          "ch": "他們把老舊的家庭照片存放在佈滿灰塵的閣樓裡。"
+        }
+      ]
+    },
+    {
+      "eng": "attorney",
+      "kk": "əˈtɜrni",
+      "tense": "n.",
+      "ch": [
+        [
+          "律師",
+          "代理人"
+        ]
+      ],
+      "analysis": "此字源自古法語 atorne（已被委任、受權者），由动词atorner（指派、安排）演變而來。原本指在法律訴訟中代理他人的人，現代美式英語中主要指執業律師。",
+      "definition": "1. A person, typically a lawyer, appointed to act for another in business or legal matters.",
+      "example": [
+        {
+          "eng": "She hired a defense attorney to represent her in court.",
+          "ch": "她雇用了一名辯護律師在法庭上代表她。"
+        }
+      ]
+    },
+    {
+      "eng": "attribute",
+      "kk": "ˈætrəˌbjut",
+      "tense": "n.",
+      "ch": [
+        [
+          "屬性",
+          "特質",
+          "標誌"
+        ]
+      ],
+      "analysis": "由動詞 attribute 轉化而來的名詞（重音移至第一音節），指人或物固有的特質、特徵，或象徵某神祇、人物的標誌物。",
+      "definition": "1. A quality or feature regarded as a characteristic or inherent part of someone or something.",
+      "example": [
+        {
+          "eng": "Patience is an essential attribute for a good teacher.",
+          "ch": "耐心是優秀老師必不可少的特質。"
+        }
+      ]
+    },
+    {
+      "eng": "attribute",
+      "kk": "əˈtrɪbjut",
+      "tense": "vt.",
+      "ch": [
+        [
+          "把...歸因於",
+          "認為...是由...所造成"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 attribuere（給予、歸因），由 ad-（向）與 tribuere（分配、給予）組成。及物動詞用法固定搭配 to，表示將結果歸咎或歸功於某個原因或人物。",
+      "definition": "1. Regard something as being caused by someone or something.",
+      "example": [
+        {
+          "eng": "She attributes her success to hard work and perseverance.",
+          "ch": "她把自己的成功歸功於努力工作和堅持不懈。"
+        }
+      ]
+    },
+    {
+      "eng": "auction",
+      "kk": "ˈɔkʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "拍賣"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 auctio（增加、競標價不斷增加的拍賣），源自 augere（增加）。經由英語直接借用，指公開競標出價的商業拍賣會。",
+      "definition": "1. A public sale in which goods or property are sold to the highest bidder.",
+      "example": [
+        {
+          "eng": "The rare painting was sold at an art auction for a million dollars.",
+          "ch": "這幅珍貴的畫作在一場藝術品拍賣會上以一百萬美元拍出。"
+        }
+      ]
+    },
+    {
+      "eng": "authorize",
+      "kk": "ˈɔθəˌraɪz",
+      "tense": "vt.",
+      "ch": [
+        [
+          "授權",
+          "批准",
+          "許可"
+        ]
+      ],
+      "analysis": "此字由名詞 author（創始者、權威來源）加上動詞字尾 -ize 構成。作及物動詞時，指給予某人官方權力或批准某項行動。",
+      "definition": "1. Give official permission for or approval to something or someone.",
+      "example": [
+        {
+          "eng": "The manager authorized the extra spending for the project.",
+          "ch": "經理批准了該項目的額外開支。"
+        }
+      ]
+    },
+    {
+      "eng": "autonomy",
+      "kk": "ɔˈtɑnəmi",
+      "tense": "n.",
+      "ch": [
+        [
+          "自治",
+          "自主權"
+        ]
+      ],
+      "analysis": "此字由希臘語 auto-（自己）與 nomos（法律、規則）結合而成，字面義為「自己制定法律」。經由法語進入英語，指地區、機構或個人的獨立自主與自治權。",
+      "definition": "1. The right or condition of self-government, especially in a particular sphere.",
+      "example": [
+        {
+          "eng": "The region was granted local autonomy by the central government.",
+          "ch": "該地區獲得了中央政府授予的地方自治權。"
+        }
+      ]
+    },
+    {
+      "eng": "awe",
+      "kk": "ɔ",
+      "tense": "n.",
+      "ch": [
+        [
+          "敬畏",
+          "驚嘆"
+        ]
+      ],
+      "analysis": "此字源自古諾斯語 agi（恐懼）或古英語 ege（懼怕），歷史上其含義從早期的「恐懼、畏懼」逐漸轉變為現代的「充滿敬意與驚嘆的 awe」。",
+      "definition": "1. A feeling of reverential respect mixed with fear or wonder.",
+      "example": [
+        {
+          "eng": "We stood in awe before the majestic mountain peak.",
+          "ch": "我們站在雄偉的山峰前，心中充滿敬畏。"
+        }
+      ]
+    },
+    {
+      "eng": "backyard",
+      "kk": "ˈbækˌjɑrd",
+      "tense": "n.",
+      "ch": [
+        [
+          "後院"
+        ]
+      ],
+      "analysis": "現代透明複合詞，由 back（後方的）與 yard（庭院、院子）組合而成。指房屋後方的露天私人空地。",
+      "definition": "1. An area of grass, earth, or other surfaces at the back of a house.",
+      "example": [
+        {
+          "eng": "The children love playing soccer in the backyard.",
+          "ch": "孩子們喜歡在後院踢足球。"
+        }
+      ]
+    },
+    {
+      "eng": "ballot",
+      "kk": "ˈbælət",
+      "tense": "n.",
+      "ch": [
+        [
+          "選票",
+          "投票",
+          "投票權"
+        ]
+      ],
+      "analysis": "此字源自義大利語 ballotta（小球），源自 balla（球）。早期義大利人用小球放入箱中進行秘密投票，該詞經由法語傳入英語後，指選票或投票程序本身。",
+      "definition": "1. A process of voting, in writing and typically in secret; 2. The ballot paper used to cast a vote.",
+      "example": [
+        {
+          "eng": "Citizens will cast their ballots in the general election tomorrow.",
+          "ch": "公民們明天將在大選中投下選票。"
+        }
+      ]
+    },
+    {
+      "eng": "ban",
+      "kk": "bæn",
+      "tense": "vt.",
+      "ch": [
+        [
+          "禁止",
+          "取締"
+        ]
+      ],
+      "analysis": "此字源自日耳曼語源（古英語bannan，意為公開宣告、發布禁令），與中古荷蘭語 ban 相關。作及物動詞時，指官方明令禁止某事。",
+      "definition": "1. Officially or legally prohibit something.",
+      "example": [
+        {
+          "eng": "The city council voted to ban smoking in all public parks.",
+          "ch": "市議會投票決定禁止在所有公共公園吸菸。"
+        }
+      ]
+    },
+    {
+      "eng": "banner",
+      "kk": "ˈbænər",
+      "tense": "n.",
+      "ch": [
+        [
+          "橫幅",
+          "標語",
+          "旗幟"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 bandum（旗幟），經由古法語 banière 進入英語。原指軍隊或國家的旗幟，現代泛指大型布製橫幅、標語，或網頁頂部的廣告橫幅。",
+      "definition": "1. A long strip of cloth bearing a slogan or logo, carried in a public demonstration or hung in a public place.",
+      "example": [
+        {
+          "eng": "A large banner hung across the street welcoming the athletes.",
+          "ch": "一條巨大的橫幅懸掛在街道上，歡迎運動員們。"
+        }
+      ]
+    },
+    {
+      "eng": "barren",
+      "kk": "ˈbærən",
+      "tense": "adj.",
+      "ch": [
+        [
+          "貧瘠的",
+          "不毛的"
+        ],
+        [
+          "不生育的",
+          "不結果實的"
+        ]
+      ],
+      "analysis": "此字源自古法語 barain（女性不孕的、土地貧瘠的），其確切日耳曼或凱爾特起源存在爭議，經由中古英語進入英語。形容土地無法生長植物或生物無法生育。",
+      "definition": "1. (Of land) too poor to produce much or any vegetation; 2. (Of a woman, female animal, or plant) unable to have children or bear fruit.",
+      "example": [
+        {
+          "eng": "Nothing could grow in the barren desert soil.",
+          "ch": "貧瘠的沙漠土壤裡什麼也長不出來。"
+        },
+        {
+          "eng": "The harsh winter left the orchard looking barren.",
+          "ch": "嚴酷的冬天讓果園看起來光禿禿不結果實。"
+        }
+      ]
+    },
+    {
+      "eng": "batch",
+      "kk": "bætʃ",
+      "tense": "n.",
+      "ch": [
+        [
+          "一批",
+          "一爐（烘烤的食物）"
+        ],
+        [
+          "一組",
+          "團"
+        ]
+      ],
+      "analysis": "此字源自日耳曼語源的古英語 bæce（烘烤），與 bake 同源。字面原意是「一次烘烤出來的一爐麵包」，後來擴大泛指同時製作、處理或到來的一批事物或人。",
+      "definition": "1. A quantity of goods produced at one time; 2. A group of things or people dealt with at the same time.",
+      "example": [
+        {
+          "eng": "She baked a fresh batch of chocolate chip cookies.",
+          "ch": "她烤了一新爐巧克力豆餅乾。"
+        },
+        {
+          "eng": "A new batch of students arrived at the university today.",
+          "ch": "新的一批學生今天抵達了大學。"
+        }
+      ]
+    },
+    {
+      "eng": "behalf",
+      "kk": "bɪˈhæf",
+      "tense": "n.",
+      "ch": [
+        [
+          "代表",
+          "為了...的利益"
+        ]
+      ],
+      "analysis": "此字由古英語 be halfe（在...的側邊、利益方面）演變而來。現代英語中幾乎只以片語形式出現（如 on behalf of），用來表示代表某人或為了某人的利益。",
+      "definition": "1. In the interests of a person, group, or principle.",
+      "example": [
+        {
+          "eng": "I am writing on behalf of the management team to thank you.",
+          "ch": "我代表管理團隊寫信向您致謝。"
+        }
+      ]
+    },
+    {
+      "eng": "belongings",
+      "kk": "bɪˈlɔŋɪŋz",
+      "tense": "n.",
+      "ch": [
+        [
+          "所有物",
+          "行李",
+          "財物"
+        ]
+      ],
+      "analysis": "此字由動詞 belong（屬於）加上名詞字尾 -ing 形成動名詞，再轉為複數名詞，指某人所擁有、屬於某人的全部財產或隨身物品。",
+      "definition": "1. Movable possessions; one's things.",
+      "example": [
+        {
+          "eng": "She packed all her belongings into two suitcases and left.",
+          "ch": "她把所有的行李打包進兩個手提箱裡便離開了。"
+        }
+      ]
+    },
+    {
+      "eng": "beloved",
+      "kk": "bɪˈlʌvɪd",
+      "tense": "adj.",
+      "ch": [
+        [
+          "心愛的",
+          "受愛戴的"
+        ]
+      ],
+      "analysis": "此字由動詞 love 的過去分詞 beloved 轉化而來的形容詞，由古英語 bēleof 演變而來。用來形容深受喜愛或尊崇的人事物。",
+      "definition": "1. Beloved by or very dear to someone.",
+      "example": [
+        {
+          "eng": "The old dog was a beloved member of our family.",
+          "ch": "那隻老狗是我們家深受喜愛的成員。"
+        }
+      ]
+    },
+    {
+      "eng": "beneficial",
+      "kk": "ˌbɛnəˈfɪʃəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "有益的",
+          "有利的"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 beneficium（恩惠、好處），由 bene（好）與 facere（做）組成，經由中古法語與拉丁語尾 -cial 進入英語。形容某事對健康、情況等產生正面好處。",
+      "definition": "1. Resulting in good; favorable or advantageous.",
+      "example": [
+        {
+          "eng": "Regular exercise is beneficial to both physical and mental health.",
+          "ch": "規律運動對身心健康都有益處。"
+        }
+      ]
+    },
+    {
+      "eng": "betray",
+      "kk": "bɪˈtreɪ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "背叛",
+          "出賣"
+        ],
+        [
+          "洩漏（祕密）",
+          "無意中流露"
+        ]
+      ],
+      "analysis": "此字源自古法語 betraïr，由拉丁語字首 bi-（惡意的）加上法語動詞 traitor（源自拉丁語 tradere，交出、背叛）結合而成。及物動詞用法指背叛盟友，或無意中暴露出真實情緒或祕密。",
+      "definition": "1. Be disloyal to someone who trusts you; 2. Unintentionally reveal secret information or an emotion.",
+      "example": [
+        {
+          "eng": "He betrayed his country by selling secrets to the enemy.",
+          "ch": "他透過向敵人販賣祕密背叛了國家。"
+        },
+        {
+          "eng": "Her trembling voice betrayed her nervousness during the speech.",
+          "ch": "她顫抖的聲音在演講時無意中洩露了她的緊張。"
+        }
+      ]
+    },
+    {
+      "eng": "beware",
+      "kk": "bɪˈwɛr",
+      "tense": "vi.",
+      "ch": [
+        [
+          "當心",
+          "提防",
+          "小心"
+        ]
+      ],
+      "analysis": "此字由古英語 be（是）與 wær（警惕的、當心的，即 aware 的同源詞）結合而成。現代常作祈使句或與 of 連用，作為不及物動詞提醒他人注意危險。",
+      "definition": "1. Used to warn someone to be careful about something or someone.",
+      "example": [
+        {
+          "eng": "Beware of pickpockets when traveling in crowded tourist areas.",
+          "ch": "在擁擠的旅遊區旅行時要當心扒手。"
+        }
+      ]
+    },
+    {
+      "eng": "bias",
+      "kk": "ˈbaɪəs",
+      "tense": "n.",
+      "ch": [
+        [
+          "偏見",
+          "偏頗",
+          "傾向"
+        ]
+      ],
+      "analysis": "此字源自古法語 biais（斜的、斜紋），最初在早期英語中指保齡球因為球體不平或側重而產生斜向滾動的現象，後經語意延伸指對某人或某事的「主觀偏見」或傾斜傾向。",
+      "definition": "1. Prejudice in favor of or against one thing, person, or group compared with another, usually in a way considered to be unfair.",
+      "example": [
+        {
+          "eng": "The newspaper was accused of political bias during the election.",
+          "ch": "該報在選舉期間被指控帶有政治偏見。"
+        }
+      ]
+    },
+    {
+      "eng": "bid",
+      "kk": "bɪd",
+      "tense": "vt.",
+      "ch": [
+        [
+          "出價",
+          "投標"
+        ],
+        [
+          "命令",
+          "吩咐"
+        ]
+      ],
+      "analysis": "此字源自日耳曼語源的古英語 bēodan（命令、宣告、提供），與德語 bieten 同源。在發展過程中，其古義「吩咐、問候」保留在詩詞或特定片語中，而現代核心義為「競標出價」。",
+      "definition": "1. Offer a particular price for something, especially at an auction; 2. Order or command someone to do something.",
+      "example": [
+        {
+          "eng": "Three companies bid for the construction project.",
+          "ch": "三家公司競標這項建築工程。"
+        },
+        {
+          "eng": "He bade his servants prepare a feast for the guests.",
+          "ch": "他吩咐僕人們為客人們準備豐盛的宴席。"
+        }
+      ]
+    },
+    {
+      "eng": "biological",
+      "kk": "ˌbaɪəˈlɑdʒɪkəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "生物學的"
+        ],
+        [
+          "血緣關係的",
+          "親生的"
+        ]
+      ],
+      "analysis": "此字由現代科學詞彙 biology（生物學，源自希臘語 bios 生物 + logos 學問）加上形容詞字尾 -ical 構成。形容詞主要指生物學範疇的，或指有血緣關係的親生父母與子女。",
+      "definition": "1. Relating to biology or living organisms; 2. (Of parents or children) related by blood rather than by adoption.",
+      "example": [
+        {
+          "eng": "The study focuses on the biological effects of pollution.",
+          "ch": "這項研究聚焦於污染對生物學的影響。"
+        },
+        {
+          "eng": "She was adopted as a baby and later searched for her biological parents.",
+          "ch": "她當嬰兒時被收養，後來尋找她的親生父母。"
+        }
+      ]
+    },
+    {
+      "eng": "bizarre",
+      "kk": "bɪˈzɑr",
+      "tense": "adj.",
+      "ch": [
+        [
+          "奇異的",
+          "古怪的",
+          "匪夷所思的"
+        ]
+      ],
+      "analysis": "此字源自義大利語 bizzarro（憤怒的、脾氣古怪的、奇特的），可能源自巴斯克語 bizarra（鬍鬚），經由法語進入英語。形容人事物極其離奇、古怪。",
+      "definition": "1. Extremely unconventional, strange, or unusual.",
+      "example": [
+        {
+          "eng": "He wore a bizarre costume to the formal dinner party.",
+          "ch": "他穿著一套奇異的服裝去參加正式晚宴。"
+        }
+      ]
+    },
+    {
+      "eng": "blast",
+      "kk": "blæst",
+      "tense": "n.",
+      "ch": [
+        [
+          "爆炸",
+          "爆破"
+        ],
+        [
+          "一陣強風",
+          "刺耳的巨響"
+        ]
+      ],
+      "analysis": "此字為日耳曼語源的繼承詞（古英語 blæst，吹、陣風），與 blow 同源。原指一陣強風或吹奏樂器的聲音，後來演變出強烈的爆炸衝擊波與巨響之意。",
+      "definition": "1. A destructive wave of gas or air created by an explosion; 2. A strong gust of wind or a loud, harsh sound.",
+      "example": [
+        {
+          "eng": "The blast from the bomb destroyed several surrounding buildings.",
+          "ch": "炸彈產生的爆炸摧毀了周圍幾棟建築。"
+        },
+        {
+          "eng": "A sudden blast of cold wind made her shiver.",
+          "ch": "一陣突如其來的強烈冷風使她打了個寒顫。"
+        }
+      ]
+    },
+    {
+      "eng": "blur",
+      "kk": "blɜr",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使模糊不清",
+          "使朦朧"
+        ]
+      ],
+      "analysis": "此字源自日耳曼語源，與 blear（模糊不清的）相關，在中古晚期英語中出現。作及物動詞時，指讓視線、影像或界線變得模糊不清。",
+      "definition": "1. Make or become unclear or less distinct.",
+      "example": [
+        {
+          "eng": "Heavy tears blurred her vision as she read the letter.",
+          "ch": "當她讀那封信時，沉重的淚水模糊了她的視線。"
+        }
+      ]
+    },
+    {
+      "eng": "blush",
+      "kk": "blʌʃ",
+      "tense": "vi.",
+      "ch": [
+        [
+          "臉紅",
+          "羞愧"
+        ]
+      ],
+      "analysis": "此字源自日耳曼語源的古英語 blypsian（臉紅），與古諾斯語blessa相關。作為不及物動詞，指人因害羞、尷尬或不好意思而臉部泛紅。",
+      "definition": "1. Show shyness, embarrassment, or shame by becoming red in the face.",
+      "example": [
+        {
+          "eng": "She blushed when everyone started singing 'Happy Birthday' to her.",
+          "ch": "當大家開始為她唱《生日快樂》時，她臉紅了。"
+        }
+      ]
+    },
+    {
+      "eng": "bodyguard",
+      "kk": "ˈbɑdiˌɡɑrd",
+      "tense": "n.",
+      "ch": [
+        [
+          "保鑣",
+          "貼身警衛"
+        ]
+      ],
+      "analysis": "現代透明複合詞，由 body（身體、本身）與 guard（守衛、保衛）結合而成。指專門負責保護重要人物安全的貼身保鑣。",
+      "definition": "1. A person or group of people employed to protect someone from attack or injury.",
+      "example": [
+        {
+          "eng": "The celebrity was surrounded by a team of armed bodyguards.",
+          "ch": "這位名人被一群身穿武裝的保鑣包圍著。"
+        }
+      ]
+    },
+    {
+      "eng": "bolt",
+      "kk": "boʊlt",
+      "tense": "n.",
+      "ch": [
+        [
+          "螺栓",
+          "插銷"
+        ],
+        [
+          "閃電"
+        ]
+      ],
+      "analysis": "此字為日耳曼語源的繼承詞（古英語 bolt，指短而粗的箭或門栓），與多種日耳曼語中的發射物同源。現代主要指機械螺栓、門窗插銷，以及閃電（bolt of lightning）。",
+      "definition": "1. A metal pin or bar with a thread used to fasten things together, or a door lock; 2. A flash of lightning.",
+      "example": [
+        {
+          "eng": "He tightened the loose bolt on the bicycle wheel.",
+          "ch": "他轉緊了自行車輪子上鬆動的螺栓。"
+        },
+        {
+          "eng": "A sudden bolt of lightning lit up the dark night sky.",
+          "ch": "一道突如其來的閃電照亮了黑暗的夜空。"
+        }
+      ]
+    },
+    {
+      "eng": "bonus",
+      "kk": "ˈboʊnəs",
+      "tense": "n.",
+      "ch": [
+        [
+          "獎金",
+          "紅利",
+          "額外的好處"
+        ]
+      ],
+      "analysis": "此字最初是19世紀初美國金融界的拉丁語俚語，由拉丁語 bonus（好的）直接借用而來。原本指公司分發給股東或員工的額外紅利，後泛指額外的好處或贈品。",
+      "definition": "1. A sum of money added to someone's wages as a reward for good performance; 2. A thing given as an extra reward or advantage.",
+      "example": [
+        {
+          "eng": "All employees received a Christmas bonus at the end of the year.",
+          "ch": "所有員工在年底都領到了聖誕獎金。"
+        },
+        {
+          "eng": "Free breakfast is a great bonus at this hotel.",
+          "ch": "免費早餐是這家飯店的一大額外好處。"
+        }
+      ]
+    },
+    {
+      "eng": "boom",
+      "kk": "bum",
+      "tense": "vi.",
+      "ch": [
+        [
+          "急速繁榮",
+          "迅速發展"
+        ],
+        [
+          "發出低沉宏大的聲響"
+        ]
+      ],
+      "analysis": "此字為擬聲詞（模仿低沉的雷鳴聲或重砲聲），在近代英語中演變出經濟上的「急速繁榮、景氣大好」之意。作為不及物動詞，指商業活動或城市蓬勃發展。",
+      "definition": "1. Experience a period of rapid economic growth; 2. Make a loud, deep, resonant sound.",
+      "example": [
+        {
+          "eng": "The city's real estate market began to boom in the 1990s.",
+          "ch": "這座城市的房地產市場在1990年代開始蓬勃發展。"
+        },
+        {
+          "eng": "Thunder boomed across the valley during the storm.",
+          "ch": "暴風雨期間，低沉的雷聲在山谷中迴盪。"
+        }
+      ]
+    },
+    {
+      "eng": "boost",
+      "kk": "bust",
+      "tense": "vt.",
+      "ch": [
+        [
+          "提高",
+          "促進",
+          "增強"
+        ]
+      ],
+      "analysis": "此字起源於19世紀美國的方言俚語，最初可能與推擠（bost）或抬高有關。作為及物動詞，指提振信心、增加銷量或提高功率。",
+      "definition": "1. Help or encourage something to increase or improve.",
+      "example": [
+        {
+          "eng": "Drinking green tea can help boost your metabolism.",
+          "ch": "喝綠茶可以幫助提高你的新陳代謝。"
+        }
+      ]
+    }
+  ]
+}

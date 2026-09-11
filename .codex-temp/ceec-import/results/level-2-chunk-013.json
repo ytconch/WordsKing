@@ -1,0 +1,1394 @@
+{
+  "level": 2,
+  "chunkIndex": 13,
+  "inputs": [
+    "neighbor",
+    "neither",
+    "nephew",
+    "nerve",
+    "nervous",
+    "network",
+    "niece",
+    "nod",
+    "none",
+    "noodle",
+    "nor",
+    "northern",
+    "notebook",
+    "novel",
+    "nut",
+    "obey",
+    "object",
+    "obvious",
+    "occur",
+    "ocean",
+    "offer",
+    "official",
+    "operate",
+    "operator",
+    "opinion",
+    "ordinary",
+    "organ",
+    "organization",
+    "origin",
+    "owner",
+    "pain",
+    "painful",
+    "painting",
+    "pajamas",
+    "pale",
+    "pan",
+    "panda",
+    "papaya",
+    "pardon",
+    "participate",
+    "particular",
+    "partner",
+    "password",
+    "paste",
+    "path",
+    "patient",
+    "pattern",
+    "peace",
+    "peaceful",
+    "peach"
+  ],
+  "rows": [
+    {
+      "eng": "neighbor",
+      "kk": "ˈneɪbɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "鄰居",
+          "鄰人"
+        ],
+        [
+          "鄰近地區的人",
+          "旁人"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古英語單字 nāgebūr，由 nāh（意為 near，近的）與 gebūr（意為 dweller、peasant，居民、農夫）組合而成，字面義為「住在附近的人」。經由中古英語 neihbour 演變為現代英文 neighbor，其語意從原始日耳曼語的「居住在附近的農居者」演變成現代泛指「住在隔壁或鄰近的人」。",
+      "definition": "1. a person living near or next door to another; 2. a person or thing located near another.",
+      "example": [
+        {
+          "eng": "My neighbor helps me water the plants when I am away.",
+          "ch": "當我不在時，我的鄰居幫我澆花。"
+        },
+        {
+          "eng": "Treat your neighbor with the same respect you expect.",
+          "ch": "以你所期望的尊重來對待你身邊的人。"
+        }
+      ]
+    },
+    {
+      "eng": "neighbor",
+      "kk": "ˈneɪbɚ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "與……為鄰",
+          "鄰接"
+        ]
+      ],
+      "analysis": "此字為及物動詞，由名詞 neighbor 轉品而來。指地理位置或範圍上與某人或某地相鄰、接壤，語意由「居住在附近」延伸為動態的「與……相鄰接」。",
+      "definition": "1. to be situated next to or very close to something.",
+      "example": [
+        {
+          "eng": "Our property neighbors a large national park.",
+          "ch": "我們的房產與一座大型國家公園相鄰。"
+        }
+      ]
+    },
+    {
+      "eng": "neither",
+      "kk": "ˈniðɚ",
+      "tense": "conj.",
+      "ch": [
+        [
+          "也不",
+          "亦不"
+        ]
+      ],
+      "analysis": "此字為連接詞，常與 nor 搭配構成 neither... nor... 句型，或單獨用於句首表示對前述否定句的順承呼應，意為「也不」。",
+      "definition": "1. used to introduce a similar negative statement after another negative statement.",
+      "example": [
+        {
+          "eng": "She didn't want to go, and neither did I.",
+          "ch": "她不想去，我也不想去。"
+        }
+      ]
+    },
+    {
+      "eng": "neither",
+      "kk": "ˈniðɚ",
+      "tense": "pron.",
+      "ch": [
+        [
+          "兩者都不"
+        ]
+      ],
+      "analysis": "此字為代名詞，用法與限定詞同源，直接代替兩個名詞或子句中的雙重否定主體，表示「兩者之中沒有任何一個」。",
+      "definition": "1. not either one or the other.",
+      "example": [
+        {
+          "eng": "Neither of the two applicants had the required experience.",
+          "ch": "兩位應徵者都沒有所需的經驗。"
+        }
+      ]
+    },
+    {
+      "eng": "neither",
+      "kk": "ˈniðɚ",
+      "tense": "det.",
+      "ch": [
+        [
+          "兩者都不",
+          "各不"
+        ]
+      ],
+      "analysis": "此字為限定詞，源自古英語 næhtwæðer，由 ne（不）與 hwæðer（兩者中的哪一個）結合而成，經中古英語 neither 演變而來。語意始終維持在「提及的兩者中沒有一個」的否定選擇概念。",
+      "definition": "1. not either; not the one or the other of two things or people.",
+      "example": [
+        {
+          "eng": "Neither restaurant was open late on Sunday.",
+          "ch": "這兩家餐廳星期天都沒有營業到很晚。"
+        }
+      ]
+    },
+    {
+      "eng": "nephew",
+      "kk": "ˈnɛfju",
+      "tense": "n.",
+      "ch": [
+        [
+          "姪子",
+          "外甥"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古法語 neveu，其上源可追溯至拉丁語 nepōs（意為 grandson、nephew，孫子或姪外甥），再上溯至原始印歐語 *nepōts。經由諾曼征服傳入英語後，拼字逐漸調整為 nephew，語意指兄弟姊妹或姻親所生的兒子。",
+      "definition": "1. a son of one's brother or sister, or of one's brother-in-law or sister-in-law.",
+      "example": [
+        {
+          "eng": "My nephew loves playing video games on weekends.",
+          "ch": "我姪子喜歡在週末打電動遊戲。"
+        }
+      ]
+    },
+    {
+      "eng": "nerve",
+      "kk": "nɝv",
+      "tense": "n.",
+      "ch": [
+        [
+          "神經",
+          "神經纖維"
+        ],
+        [
+          "勇氣",
+          "膽量"
+        ]
+      ],
+      "analysis": "此字為名詞，源自拉丁語 nervus（意為 tendon、sinew、string，腱、筋、弦），經由中古法語進入英語。拉丁語原義指身體的肌腱或弦索，後因古人認為神經如同體內的纖細筋線而引申出「神經」之義；再由神經緊張或激動時的生理反應，進一步演變出「勇氣、膽量」或「厚顏」等心理與行為義項。",
+      "definition": "1. whitish fiber that transmits impulses of sensation between the brain or spinal cord and other parts of the body; 2. courage or confidence in a difficult situation.",
+      "example": [
+        {
+          "eng": "Damage to the spinal cord can affect sensory nerves.",
+          "ch": "脊髓受損會影響感覺神經。"
+        },
+        {
+          "eng": "It takes a lot of nerve to speak in front of a large crowd.",
+          "ch": "在大群眾面前演說需要很大的勇氣。"
+        }
+      ]
+    },
+    {
+      "eng": "nervous",
+      "kk": "ˈnɝvəs",
+      "tense": "adj.",
+      "ch": [
+        [
+          "緊張的",
+          "神經質的"
+        ],
+        [
+          "神經系統的"
+        ]
+      ],
+      "analysis": "此字為形容詞，由名詞 nerve 加上形容詞字尾 -ous（具有……特質的）構成。字面義原指「多筋的、強健的」，後轉為形容與神經系統有關的醫學狀態，或因神經緊繃而產生的「緊張、焦慮」之現代心理義項。",
+      "definition": "1. easily agitated or alarmed; anxious or apprehensive; 2. relating to or affecting the nerves.",
+      "example": [
+        {
+          "eng": "He felt very nervous before the job interview.",
+          "ch": "他在面試前感到非常緊張。"
+        },
+        {
+          "eng": "The nervous system controls all bodily movements.",
+          "ch": "神經系統控制所有的身體動作。"
+        }
+      ]
+    },
+    {
+      "eng": "network",
+      "kk": "ˈnɛtˌwɝk",
+      "tense": "n.",
+      "ch": [
+        [
+          "網絡",
+          "網狀系統"
+        ],
+        [
+          "廣播網",
+          "電視網"
+        ],
+        [
+          "人際關係網"
+        ]
+      ],
+      "analysis": "此字為複合名詞，由 net（網）與 work（工作、結構物）結合而成。最初指網狀的織物或結構，隨著科技與社會發展，語意擴展至交通路線網、電腦通訊網、廣播電視聯播網以及人際與專業交流的社會網絡。",
+      "definition": "1. an arrangement of intersecting horizontal and vertical lines or interconnected systems; 2. a group of broadcasting stations connected for the simultaneous broadcast of a program; 3. a socially interconnected group of people.",
+      "example": [
+        {
+          "eng": "The company relies on a secure computer network to share data.",
+          "ch": "該公司依靠安全的電腦網絡來共享資料。"
+        },
+        {
+          "eng": "Several major TV networks broadcasted the election results.",
+          "ch": "數家主要電視網播出了選舉結果。"
+        },
+        {
+          "eng": "Building a strong professional network is crucial for career growth.",
+          "ch": "建立強大的人脈網對職涯發展至關重要。"
+        }
+      ]
+    },
+    {
+      "eng": "niece",
+      "kk": "nis",
+      "tense": "n.",
+      "ch": [
+        [
+          "姪女",
+          "外甥女"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古法語 niece，其上源為通俗拉丁語 *neptia（源自古典拉丁語 neptis，意為 grand-daughter、niece）。經由法語傳入英語，語意對應 nephew，專指兄弟姊妹或姻親所生的女兒。",
+      "definition": "1. a daughter of one's brother or sister, or of one's brother-in-law or sister-in-law.",
+      "example": [
+        {
+          "eng": "My niece is learning how to play the violin.",
+          "ch": "我的姪女正在學習拉小提琴。"
+        }
+      ]
+    },
+    {
+      "eng": "nod",
+      "kk": "nɑd",
+      "tense": "vt.",
+      "ch": [
+        [
+          "點頭表示"
+        ]
+      ],
+      "analysis": "此字為及物動詞，由 nod 的自動詞用法衍生出及物用法，直接接受詞（如 assent、approval 或 greeting），表示透過點頭的動作傳達某種意圖或打招呼。",
+      "definition": "1. indicate or express something by lowering and raising the head.",
+      "example": [
+        {
+          "eng": "He nodded a greeting before walking past me.",
+          "ch": "他在走過我身旁前點頭打了個招呼。"
+        }
+      ]
+    },
+    {
+      "eng": "nod",
+      "kk": "nɑd",
+      "tense": "vi.",
+      "ch": [
+        [
+          "點頭"
+        ],
+        [
+          "打瞌睡"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，源自早期日耳曼語源（類似中古荷蘭語 notten 或北歐語言中表示搖晃的詞根），在中古英語中以 nodden 的形式出現。基本動作為頭部的上下微動，引申出表示同意或因疲倦而「打瞌睡」的動作。",
+      "definition": "1. lower and raise one's head slightly, especially to show agreement, assent, or greeting; 2. drop the head forward when sleepy.",
+      "example": [
+        {
+          "eng": "She nodded in agreement as the speaker explained the plan.",
+          "ch": "當講者解釋計畫時，她點頭表示同意。"
+        },
+        {
+          "eng": "He began to nod during the long afternoon lecture.",
+          "ch": "在漫長的下午講座中，他開始打瞌睡。"
+        }
+      ]
+    },
+    {
+      "eng": "none",
+      "kk": "nʌn",
+      "tense": "pron.",
+      "ch": [
+        [
+          "沒有一個",
+          "毫無"
+        ]
+      ],
+      "analysis": "此字為代名詞，源自古英語 ān（一）加上否定前綴 ne，即 nāne（意為 not one，沒有一個）。經由中古英語 none 演變至今，專門用來指稱數量為零的代名詞主體。",
+      "definition": "1. not one; not any of a group of people or things.",
+      "example": [
+        {
+          "eng": "None of the tickets were left for the evening show.",
+          "ch": "晚場的票一張也沒有剩下了。"
+        }
+      ]
+    },
+    {
+      "eng": "noodle",
+      "kk": "ˈnudəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "麵條"
+        ]
+      ],
+      "analysis": "此字為名詞，源自德語 Nudel（意為麵條），其語源可追溯至拉丁語 nodus（意為 knot，結），因麵團揉製或捲曲的形狀像結而得名。透過德語借入英語後，成為指代各類條狀麵食的標準稱呼。",
+      "definition": "1. a strip, ring, or tube of starchy dough, typically made from flour and water, cooked and served in various ways.",
+      "example": [
+        {
+          "eng": "I ordered a bowl of spicy beef noodles for lunch.",
+          "ch": "我午餐點了一碗紅燒牛肉麵。"
+        }
+      ]
+    },
+    {
+      "eng": "nor",
+      "kk": "nɔr",
+      "tense": "conj.",
+      "ch": [
+        [
+          "也不",
+          "亦非"
+        ]
+      ],
+      "analysis": "此字為連接詞，源自古英語 nor，為 ne（不）與 other（其他相關否定詞）的結合或與 neither 相呼應的縮寫形式。用於否定句之後，連接另一個否定分句，表示「也不」。",
+      "definition": "1. and not; used to introduce a further negative statement.",
+      "example": [
+        {
+          "eng": "He does not eat meat, nor does he consume dairy products.",
+          "ch": "他不吃肉，也不食用乳製品。"
+        }
+      ]
+    },
+    {
+      "eng": "northern",
+      "kk": "ˈnɔrðɚn",
+      "tense": "adj.",
+      "ch": [
+        [
+          "北方的",
+          "朝北的"
+        ]
+      ],
+      "analysis": "此字為形容詞，由古英語 nōrð（北方）加上形容詞字尾 -ern（表示方向或方位的後綴）組合而成。用來修飾位於北方或來自北方的地理區域與風土。",
+      "definition": "1. situated in or directed toward the north.",
+      "example": [
+        {
+          "eng": "We planned a road trip through the northern part of the country.",
+          "ch": "我們計畫了一趟穿過該國北部地區的公路旅行。"
+        }
+      ]
+    },
+    {
+      "eng": "notebook",
+      "kk": "ˈnotˌbʊk",
+      "tense": "n.",
+      "ch": [
+        [
+          "筆記本"
+        ],
+        [
+          "筆記型電腦"
+        ]
+      ],
+      "analysis": "此字為複合名詞，由 note（筆記、記錄）與 book（書本）結合而成。最初指供書寫筆記的空白紙張本子；隨著科技發展，筆記型電腦因外形開合如筆記本而衍生出 notebook computer 的簡稱。",
+      "definition": "1. a book with blank pages for writing notes in; 2. a portable computer; a laptop.",
+      "example": [
+        {
+          "eng": "She wrote down the lecture summary in her notebook.",
+          "ch": "她在筆記本上寫下講座摘要。"
+        },
+        {
+          "eng": "He carries his notebook to every business meeting.",
+          "ch": "他帶著筆記型電腦參加每一次商業會議。"
+        }
+      ]
+    },
+    {
+      "eng": "novel",
+      "kk": "ˈnɑvəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "小說"
+        ]
+      ],
+      "analysis": "此字為名詞，源自義大利語 novella（意為 new story、tale，新奇的故事），其字源來自拉丁語 novus（新的）。經由中古法語 novelle 傳入英語。最初指短篇的新鮮故事或軼聞，後在文學發展中演變為長篇虛構敘事作品「小說」的專稱。",
+      "definition": "1. a fictitious prose narrative of book length, typically representing character and action with some degree of realism.",
+      "example": [
+        {
+          "eng": "She spent her summer vacation reading a historical novel.",
+          "ch": "她度過了一個閱讀歷史小說的暑假。"
+        }
+      ]
+    },
+    {
+      "eng": "novel",
+      "kk": "ˈnɑvəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "新奇的",
+          "異常的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自拉丁語 novus（新的），經由中古法語進入英語。字面義即為「新穎的、前所未有的」，常用於形容方法、觀點或事物具有新意且少見。",
+      "definition": "1. new and not resembling something formerly known or used.",
+      "example": [
+        {
+          "eng": "The engineers proposed a novel solution to reduce energy consumption.",
+          "ch": "工程師們提出了一個減少能耗的新穎解決方案。"
+        }
+      ]
+    },
+    {
+      "eng": "nut",
+      "kk": "nʌt",
+      "tense": "n.",
+      "ch": [
+        [
+          "堅果",
+          "核桃"
+        ],
+        [
+          "螺帽",
+          "螺母"
+        ],
+        [
+          "狂熱愛好者"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古英語 hnutu（堅果），屬於日耳曼語源。原始義指帶硬殼的乾果；因機械螺帽形狀或搭配螺栓時與堅果相似而引申出「螺帽」義；後又因俚語中形容人腦筋像被堅果塞滿或瘋狂而衍生出「狂熱者、怪人」之意。",
+      "definition": "1. a fruit consisting of a hard or leathery shell enclosing a kernel; 2. a small piece of metal with a threaded hole used with a bolt; 3. an enthusiastic fan or an eccentric person.",
+      "example": [
+        {
+          "eng": "Almonds and walnuts are types of tree nuts rich in healthy fats.",
+          "ch": "杏仁和核桃是富含健康脂肪的樹堅果。"
+        },
+        {
+          "eng": "Tighten the bolt and nut securely before starting the machine.",
+          "ch": "在啟動機器前，將螺栓和螺帽確實鎖緊。"
+        },
+        {
+          "eng": "He is a total computer nut who builds his own systems.",
+          "ch": "他是一個完全的電腦狂熱者，自己組裝系統。"
+        }
+      ]
+    },
+    {
+      "eng": "obey",
+      "kk": "oˈbe",
+      "tense": "vt.",
+      "ch": [
+        [
+          "服從",
+          "遵守"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自古法語 obëir，其上源為拉丁語 oboedīre（由 ob- 朝向 + audīre 傾聽、聽從組成），字面義為「傾聽並遵行」。經由法語進入英語後，專指聽從權威、命令或法律的規範。",
+      "definition": "1. comply with the command, direction, or law of a person or institution.",
+      "example": [
+        {
+          "eng": "Drivers must obey the speed limit signs on the highway.",
+          "ch": "駕駛必須遵守高速公路上的速限標誌。"
+        }
+      ]
+    },
+    {
+      "eng": "object",
+      "kk": "ˈɑbdʒɪkt",
+      "tense": "n.",
+      "ch": [
+        [
+          "物體",
+          "實物"
+        ],
+        [
+          "目標",
+          "目的"
+        ],
+        [
+          "受詞",
+          "賓語"
+        ]
+      ],
+      "analysis": "此字為名詞，源自中世紀拉丁語 obiectum（由 ob- 面對、向著 + iacere 拋擲、放置組成），字面義為「擺在面前的東西」。經由中古法語進入英語，演變出實體「物體」、行動的「目標」、以及文法中動作承受者的「受詞」等義項。",
+      "definition": "1. a material thing that can be seen and touched; 2. a goal or purpose of an effort; 3. a noun or pronoun governed by a verb or preposition.",
+      "example": [
+        {
+          "eng": "A strange metallic object was found in the field.",
+          "ch": "田裡發現了一個奇怪的金屬物體。"
+        },
+        {
+          "eng": "The main object of the meeting is to discuss budget cuts.",
+          "ch": "會議的主要目的是討論預算刪減。"
+        },
+        {
+          "eng": "In the sentence 'She read a book,' 'book' is the direct object.",
+          "ch": "在句子「她讀了一本書」中，「book」是直接受詞。"
+        }
+      ]
+    },
+    {
+      "eng": "object",
+      "kk": "əbˈdʒɛkt",
+      "tense": "vi.",
+      "ch": [
+        [
+          "反對",
+          "抗議"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，源自中世紀拉丁語 obiectāre（反對、提出異議）。名詞與動詞在英語中透過重音位置區分（名詞重音在前，動詞重音在後），語意指對某事提出反對意見或不贊同。",
+      "definition": "1. say something to express one's disapproval of or disagreement with something.",
+      "example": [
+        {
+          "eng": "No one objected to the proposal during the discussion.",
+          "ch": "在討論過程中沒有人反對這項提案。"
+        }
+      ]
+    },
+    {
+      "eng": "obvious",
+      "kk": "ˈɑbviəs",
+      "tense": "adj.",
+      "ch": [
+        [
+          "顯而易見的",
+          "明顯的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自拉丁語 obvius（由 ob- 在途中、迎面 + viam 路徑組成），字面義為「迎面擋在路上的、容易碰見的」。經由英語吸收後，語意演變為事物極其清晰、不需要過多推理即可看出的「顯而易見的」。",
+      "definition": "1. easily perceived or understood; clear, apparent, or plain.",
+      "example": [
+        {
+          "eng": "It was obvious that she had spent hours preparing the presentation.",
+          "ch": "很明顯她花了好幾個小時準備簡報。"
+        }
+      ]
+    },
+    {
+      "eng": "occur",
+      "kk": "əˈkɝ",
+      "tense": "vi.",
+      "ch": [
+        [
+          "發生",
+          "出現"
+        ],
+        [
+          "想起",
+          "湧現"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，源自拉丁語 occurrere（由 ob- 面對、迎著 + currere 奔跑組成），字面義為「跑出來迎面相遇」。在英語中演變為事件的「發生」或想法在腦海中「浮現、想起」（常與 to 連用）。",
+      "definition": "1. happen or take place; 2. come to mind; suggest itself.",
+      "example": [
+        {
+          "eng": "The earthquake occurred in the middle of the night.",
+          "ch": "地震發生在半夜。"
+        },
+        {
+          "eng": "A brilliant idea occurred to her while she was jogging.",
+          "ch": "她在慢跑時突然想出了一個絕妙的主意。"
+        }
+      ]
+    },
+    {
+      "eng": "ocean",
+      "kk": "ˈoʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "海洋",
+          "洋"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古希臘語 ōkeanós（環繞世界的大河流或大海），經由拉丁語 ōceanus 與中古法語 occean 傳入英語。最初指環繞陸地的巨大水體，現代專指地球上面積最廣闊的幾大洋。",
+      "definition": "1. a very large expanse of sea, in particular, each of the main areas into which the sea is divided.",
+      "example": [
+        {
+          "eng": "Blue whales are the largest animals known to inhabit the ocean.",
+          "ch": "藍鯨是已知棲息在海洋中的最大動物。"
+        }
+      ]
+    },
+    {
+      "eng": "offer",
+      "kk": "ˈɔfɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "提議",
+          "出價",
+          "優惠"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 offer 轉品而來，指主動提出的幫助、交易價格、條件或特惠方案。",
+      "definition": "1. an expression of readiness to do something or a proposal that can be accepted or rejected.",
+      "example": [
+        {
+          "eng": "She accepted the job offer after careful consideration.",
+          "ch": "她在仔細考慮後接受了工作錄取提議。"
+        }
+      ]
+    },
+    {
+      "eng": "offer",
+      "kk": "ˈɔfɚ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "提供",
+          "給予"
+        ],
+        [
+          "出價",
+          "提議"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自拉丁語 offerre（由 ob- 朝向 + ferre 帶領、攜帶組成），字面義為「帶到某人面前呈現」。經由中古法語 offerren 進入英語，語意演變為物資的「提供」或條件、方案的「提議與出價」。",
+      "definition": "1. present or proffer something for someone to accept or reject; 2. express a readiness to do something or state a price willing to pay.",
+      "example": [
+        {
+          "eng": "The company offered her a higher salary to join the team.",
+          "ch": "公司向她提供更高的薪資以加入團隊。"
+        },
+        {
+          "eng": "He offered to help me carry the heavy boxes upstairs.",
+          "ch": "他主動提出幫我把重箱子搬上樓。"
+        }
+      ]
+    },
+    {
+      "eng": "official",
+      "kk": "əˈfɪʃəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "官員",
+          "高級職員"
+        ]
+      ],
+      "analysis": "此字為名詞，由形容詞 official 轉化而來，指在政府或大型組織中擔任公職或管理職務的人員。",
+      "definition": "1. a person holding public office or having official duties in an organization.",
+      "example": [
+        {
+          "eng": "Local officials inspected the construction site to ensure safety.",
+          "ch": "地方官員視察了施工現場以確保安全。"
+        }
+      ]
+    },
+    {
+      "eng": "official",
+      "kk": "əˈfɪʃəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "官方的",
+          "公務的",
+          "正式的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自拉丁語 officialis（與職責或官職有關，源自 officium 職責、辦公室）。經由中古法語進入英語，用來形容獲得政府、組織或權威機構批准、認可的「正式與官方」狀態。",
+      "definition": "1. relating to an authority or public body and its public duties; authorized or formal.",
+      "example": [
+        {
+          "eng": "The government released an official statement regarding the new policy.",
+          "ch": "政府就這項新政策發表了官方聲明。"
+        }
+      ]
+    },
+    {
+      "eng": "operate",
+      "kk": "ˈɑpəˌret",
+      "tense": "vt.",
+      "ch": [
+        [
+          "操作",
+          "運作"
+        ]
+      ],
+      "analysis": "此字為及物動詞，由 operate 的自動詞演變而來，直接接機器、設備或車輛等受詞，表示親自操控或使之運作。",
+      "definition": "1. control the functioning of a machine, apparatus, or system.",
+      "example": [
+        {
+          "eng": "All employees must be trained before they operate heavy machinery.",
+          "ch": "所有員工在操作重型機械之前必須受過培訓。"
+        }
+      ]
+    },
+    {
+      "eng": "operate",
+      "kk": "ˈɑpəˌret",
+      "tense": "vi.",
+      "ch": [
+        [
+          "運作",
+          "運轉"
+        ],
+        [
+          "動手術"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，源自拉丁語 operātus（過去分詞，源自 opus 勞動、工作）。經由 16 世紀學術英語借入，最初指機械的運轉或機構的運作，後來也延伸出外科醫師進行「動手術」的醫學用法。",
+      "definition": "1. function in a proper or particular way; 2. perform a surgical operation.",
+      "example": [
+        {
+          "eng": "The factory continues to operate twenty-four hours a day.",
+          "ch": "這家工廠持續一天二十四小時運作。"
+        },
+        {
+          "eng": "The surgeon had to operate immediately to save the patient's life.",
+          "ch": "外科醫師必須立即動手術以拯救病人的生命。"
+        }
+      ]
+    },
+    {
+      "eng": "operator",
+      "kk": "ˈɑpəˌretɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "操作員",
+          "接線生",
+          "經營者"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 operate 加上表示人的名詞字尾 -or 構成。指操作機器的人、電話接線生，或商業設施、交通系統的經營與營運者。",
+      "definition": "1. a person who operates equipment, a machine, or a business system.",
+      "example": [
+        {
+          "eng": "She works as a customer service operator for a telecom company.",
+          "ch": "她在一家電信公司擔任客服接線生。"
+        }
+      ]
+    },
+    {
+      "eng": "opinion",
+      "kk": "əˈpɪnjən",
+      "tense": "n.",
+      "ch": [
+        [
+          "意見",
+          "看法",
+          "評價"
+        ]
+      ],
+      "analysis": "此字為名詞，源自拉丁語 opīniō（觀點、信念，源自 opīnārī 認為、猜想）。經由中古法語 opinion 進入英語，指個人或群體對某事的主觀看法、評價或專業判斷。",
+      "definition": "1. a view, judgment, or appraisal formed in the mind about a particular matter.",
+      "example": [
+        {
+          "eng": "Everyone in the meeting was encouraged to share their opinion.",
+          "ch": "會議中的每個人都被鼓勵分享他們的看法。"
+        }
+      ]
+    },
+    {
+      "eng": "ordinary",
+      "kk": "ˈɔrdnˌɛri",
+      "tense": "adj.",
+      "ch": [
+        [
+          "普通的",
+          "平常的",
+          "平凡的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自拉丁語 ōrdinārius（有秩序的、通常的，源自 ōrdō 順序、階級）。經由中古英語進入英語，字面義為「按照常規次序的」，演變為現代指不特殊、平淡無奇的「普通、平常」之義。",
+      "definition": "1. with no special or distinctive features; normal, usual, or commonplace.",
+      "example": [
+        {
+          "eng": "It was just an ordinary Tuesday until something unexpected happened.",
+          "ch": "直到發生意想不到的事之前，這只是一個平常的星期二。"
+        }
+      ]
+    },
+    {
+      "eng": "organ",
+      "kk": "ˈɔrɡən",
+      "tense": "n.",
+      "ch": [
+        [
+          "器官",
+          "機構"
+        ],
+        [
+          "風琴"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古希臘語 órganon（工具、樂器），經由拉丁語 organum 傳入英語。最初泛指各種工具或樂器，後來在生物學上指執行特定功能的身體「器官」，在音樂上則專指大型鍵盤樂器「風琴」，亦可引申指宣傳機關或組織。",
+      "definition": "1. a part of an organism that is typical of self-contained function; 2. a large keyboard musical instrument.",
+      "example": [
+        {
+          "eng": "The heart is a vital organ responsible for pumping blood.",
+          "ch": "心臟是負責泵血的重要器官。"
+        },
+        {
+          "eng": "The church features a magnificent pipe organ built centuries ago.",
+          "ch": "這座教堂有一個幾個世紀前建造的宏偉管風琴。"
+        }
+      ]
+    },
+    {
+      "eng": "organization",
+      "kk": "ˌɔrɡənəˈzeʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "組織",
+          "機構",
+          "團體"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 organize 加上名詞字尾 -ation 構成（其詞根可追溯至希臘語 órganon）。指為了特定目標而將人員與資源系統化配置的過程，或指具體建立起來的法人「組織、機構」。",
+      "definition": "1. an organized body of people with a particular purpose, such as a business, society, or government department.",
+      "example": [
+        {
+          "eng": "She joined a non-profit organization dedicated to environmental protection.",
+          "ch": "她加入了一個致力於環境保護的非營利組織。"
+        }
+      ]
+    },
+    {
+      "eng": "origin",
+      "kk": "ˈɔrədʒɪn",
+      "tense": "n.",
+      "ch": [
+        [
+          "起源",
+          "起因",
+          "出身"
+        ]
+      ],
+      "analysis": "此字為名詞，源自拉丁語 orīgō（開始、來源、出身，源自 orīrī升起、開始）。經由中古法語或直接借自拉丁語進入英語，用來指事物開始的地方、發端或人的血統出身。",
+      "definition": "1. the point or place where something begins, arises, or is derived.",
+      "example": [
+        {
+          "eng": "Scientists are still investigating the origin of the ancient manuscript.",
+          "ch": "科學家們仍在調查這份古代手稿的起源。"
+        }
+      ]
+    },
+    {
+      "eng": "owner",
+      "kk": "ˈonɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "物主",
+          "所有人"
+        ]
+      ],
+      "analysis": "此字為名詞，由古英語動詞 āgan（擁有）演變而來的 owen 加上表示人的名詞字尾 -er 構成。指合法擁有某個財產、物品或事業的「所有人、物主」。",
+      "definition": "1. a person who owns something.",
+      "example": [
+        {
+          "eng": "The restaurant owner greeted every guest at the door.",
+          "ch": "餐廳老闆在門口迎接每一位客人。"
+        }
+      ]
+    },
+    {
+      "eng": "pain",
+      "kk": "pen",
+      "tense": "n.",
+      "ch": [
+        [
+          "疼痛",
+          "痛楚"
+        ],
+        [
+          "痛苦",
+          "煩惱"
+        ]
+      ],
+      "analysis": "此字為名詞，源自拉丁語 poena（懲罰、痛苦），經由古法語 peine 傳入英語。最初法語中保留了「刑罰、懲罰」之義，在進入英語後逐漸演變成肉體上的「疼痛」以及精神上的「痛苦、煩惱」。",
+      "definition": "1. highly unpleasant physical sensation caused by illness or injury; 2. mental suffering or distress.",
+      "example": [
+        {
+          "eng": "He felt a sharp pain in his back after lifting the heavy box.",
+          "ch": "他搬起重箱子後感到背部一陣劇痛。"
+        },
+        {
+          "eng": "She expressed deep pain over the loss of her beloved pet.",
+          "ch": "她對失去心愛的寵物表達了深深的痛苦。"
+        }
+      ]
+    },
+    {
+      "eng": "painful",
+      "kk": "ˈpenfəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "疼痛的",
+          "痛苦的",
+          "令人頭痛的"
+        ]
+      ],
+      "analysis": "此字為形容詞，由名詞 pain 加上形容詞字尾 -ful（充滿……的）構成。字面義為「充滿疼痛或痛苦的」，用以形容會引起肉體創傷或心理折磨的事物。",
+      "definition": "1. causing physical pain or mental suffering.",
+      "example": [
+        {
+          "eng": "It was a painful injury that required months of physical therapy.",
+          "ch": "這是一個需要幾個月物理治療的痛苦傷勢。"
+        }
+      ]
+    },
+    {
+      "eng": "painting",
+      "kk": "ˈpentɪŋ",
+      "tense": "n.",
+      "ch": [
+        [
+          "繪畫",
+          "油畫",
+          "畫作"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 paint（畫畫）加上動名詞字尾 -ing 構成。既可指繪畫這種藝術活動或工藝，也可指具體完成的「畫作、油畫」作品。",
+      "definition": "1. the process or art of using paint; 2. a painted work of art.",
+      "example": [
+        {
+          "eng": "The museum exhibits a famous landscape painting by a local artist.",
+          "ch": "博物館展出了一幅當地藝術家的著名風景畫。"
+        }
+      ]
+    },
+    {
+      "eng": "pajamas",
+      "kk": "pəˈdʒɑməz",
+      "tense": "n.",
+      "ch": [
+        [
+          "睡衣",
+          "寬鬆褲"
+        ]
+      ],
+      "analysis": "此字為複數名詞，借自波斯語 pāy-jāma（由 pāy 腿 + jāma 衣物組成），原意為穿在下半身的寬鬆長褲。經由大英帝國殖民時期從印度引入英語世界，現代演變為整套的夜間睡眠衣物「睡衣」。",
+      "definition": "1. a loose-fitting jacket and trousers worn for sleeping or lounging in bed.",
+      "example": [
+        {
+          "eng": "The children changed into their pajamas before brushing their teeth.",
+          "ch": "孩子們在刷牙前換上了睡衣。"
+        }
+      ]
+    },
+    {
+      "eng": "pale",
+      "kk": "pel",
+      "tense": "adj.",
+      "ch": [
+        [
+          "蒼白的",
+          "淡色的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自拉丁語 pallidus（蒼白的），經由古法語 pale 進入英語。用來形容人因生病、驚恐或疲憊而失去血色的「蒼白」，或指顏色濃度較低的「淡色」。",
+      "definition": "1. (of a person's face) having little color; 2. (of a color) light in shade.",
+      "example": [
+        {
+          "eng": "Her face turned pale when she heard the shocking news.",
+          "ch": "當她聽到這個令人震驚的消息時，她的臉色變得蒼白。"
+        },
+        {
+          "eng": "He painted the bedroom walls in a pale blue color.",
+          "ch": "他將臥室牆壁漆成了淡藍色。"
+        }
+      ]
+    },
+    {
+      "eng": "pan",
+      "kk": "pæn",
+      "tense": "n.",
+      "ch": [
+        [
+          "平底鍋",
+          "盤子"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古英語 panne（平底鍋），屬於日耳曼語源。指用於烹飪煎炒的金屬平底淺鍋，或形狀扁平類似鍋子的盛器。",
+      "definition": "1. a shallow, broad metal container used for cooking.",
+      "example": [
+        {
+          "eng": "Heat a little oil in a frying pan before adding the eggs.",
+          "ch": "在平底鍋裡加熱一點油，然後加入雞蛋。"
+        }
+      ]
+    },
+    {
+      "eng": "panda",
+      "kk": "ˈpændə",
+      "tense": "n.",
+      "ch": [
+        [
+          "貓熊",
+          "大貓熊"
+        ]
+      ],
+      "analysis": "此字為名詞，源自尼泊爾語 panjya（意指食竹的動物，指小貓熊），後來西方探險家將此名稱應用於黑白相間的大貓熊。經由歐洲語言引入英語，成為這種珍稀動物的國際通用名稱。",
+      "definition": "1. a large bear-like mammal with characteristic black and white patches, native to forests of China.",
+      "example": [
+        {
+          "eng": "Giant pandas feed almost exclusively on bamboo shoots and leaves.",
+          "ch": "大貓熊幾乎完全以竹筍和竹葉為主食。"
+        }
+      ]
+    },
+    {
+      "eng": "papaya",
+      "kk": "pəˈpɑjə",
+      "tense": "n.",
+      "ch": [
+        [
+          "木瓜"
+        ]
+      ],
+      "analysis": "此字為名詞，源自加勒比海印地安語族語言中的 abalayi，經由西班牙語 papaya 傳入英語世界。指熱帶地區常見的木瓜樹及其果實。",
+      "definition": "1. the large, oval, yellowish-orange tropical fruit with edible black seeds.",
+      "example": [
+        {
+          "eng": "Fresh papaya with a squeeze of lime makes a refreshing dessert.",
+          "ch": "擠上一點青檸汁的新鮮木瓜是一道清爽的甜點。"
+        }
+      ]
+    },
+    {
+      "eng": "pardon",
+      "kk": "ˈpɑrdn",
+      "tense": "n.",
+      "ch": [
+        [
+          "原諒",
+          "赦免"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古法語 pardoun（動詞 pardoner 的名詞化，由 per- 完全 + donare給予、贈送組成），字面義為「完全給予的寬恕」。經由法語進入英語，指對過失的寬恕或法律上的特赦。",
+      "definition": "1. the action of forgiving or being forgiven for an error or offense.",
+      "example": [
+        {
+          "eng": "He asked for pardon after realizing his mistake.",
+          "ch": "他在意識到自己的錯誤後請求原諒。"
+        }
+      ]
+    },
+    {
+      "eng": "pardon",
+      "kk": "ˈpɑrdn",
+      "tense": "vt.",
+      "ch": [
+        [
+          "原諒",
+          "寬恕",
+          "赦免"
+        ]
+      ],
+      "analysis": "此字為及物動詞，源自古法語 pardoner。用來表示原諒某人的過錯，或在法律語境下給予罪犯特赦、免除刑罰。",
+      "definition": "1. forgive or excuse a person for an offense; 2. officially forgive someone of a crime and cancel their punishment.",
+      "example": [
+        {
+          "eng": "Please pardon my interruption; I have an urgent question.",
+          "ch": "請原諒我的打斷，我有一個緊急問題。"
+        }
+      ]
+    },
+    {
+      "eng": "participate",
+      "kk": "pɑrˈtɪsəˌpet",
+      "tense": "vi.",
+      "ch": [
+        [
+          "參加",
+          "參與"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，源自拉丁語 participātus（過去分詞，由 pars 部分 + capere 拿取、取得組成），字面義為「取得其中的一部分、分有一份」。經由拉丁語進入英語，演變為現代積極「參與、參加」某項活動的動詞。",
+      "definition": "1. take part in an action or endeavor.",
+      "example": [
+        {
+          "eng": "All students are encouraged to participate in extracurricular activities.",
+          "ch": "學校鼓勵所有學生參加課外活動。"
+        }
+      ]
+    },
+    {
+      "eng": "particular",
+      "kk": "pɚˈtɪkjəlɚ",
+      "tense": "adj.",
+      "ch": [
+        [
+          "特定的",
+          "特別的",
+          "講究的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自拉丁語 prticulāris（屬於部分的，源自 particula 小部分）。經由中古法語進入英語，字面義為「針對某個小部分或細節的」，引申出「特定的」事物、程度「特別的」或個人對品質極為「挑剔、講究」的義項。",
+      "definition": "1. used to single out an individual item or person; 2. specific or special; 3. hard to please; fussy.",
+      "example": [
+        {
+          "eng": "Is there any particular topic you would like to discuss today?",
+          "ch": "你有什麼特別想在今天討論的主題嗎？"
+        },
+        {
+          "eng": "He is very particular about the quality of coffee he drinks.",
+          "ch": "他對自己喝的咖啡品質非常講究。"
+        }
+      ]
+    },
+    {
+      "eng": "partner",
+      "kk": "ˈpɑrtnɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "夥伴",
+          "合夥人",
+          "配偶"
+        ]
+      ],
+      "analysis": "此字為名詞，源自中古英語 partener，其上源為古法語 parconnier（共同分享部分的人，源自拉丁語 partitio）。字面義為「在某項事業或活動中分享權益的人」，演變為商業「合夥人」、舞蹈或遊戲「搭檔」以及生活「伴侶、配偶」。",
+      "definition": "1. a person who takes part in an undertaking with another or others; 2. either of a couple in a marriage or established relationship.",
+      "example": [
+        {
+          "eng": "They became business partners after working together for five years.",
+          "ch": "他們共同工作五年後成為了事業合夥人。"
+        },
+        {
+          "eng": "She attended the gala with her life partner.",
+          "ch": "她與生活伴侶一同出席了盛會。"
+        }
+      ]
+    },
+    {
+      "eng": "password",
+      "kk": "ˈpæsˌwɝd",
+      "tense": "n.",
+      "ch": [
+        [
+          "密碼",
+          "口令"
+        ]
+      ],
+      "analysis": "此字為複合名詞，由 pass（通行、通過）與 word（字詞）結合而成。最初軍事用語指哨兵允許通行所必須核對的口令；現代科技語境下則演變為電腦與帳戶登入時使用的「密碼」。",
+      "definition": "1. a secret word or phrase that must be used to gain admission or access to a place or system.",
+      "example": [
+        {
+          "eng": "Please create a strong password containing letters, numbers, and symbols.",
+          "ch": "請建立一個包含字母、數字和符號的強密碼。"
+        }
+      ]
+    },
+    {
+      "eng": "paste",
+      "kk": "pest",
+      "tense": "n.",
+      "ch": [
+        [
+          "糊",
+          "漿糊",
+          "膏狀物"
+        ]
+      ],
+      "analysis": "此字為名詞，源自晚期拉丁語 pasta（麵團、黏土），其上源為古希臘語 pastē（拌有汁液的麥粥）。經由古法語 paste 進入英語，指將粉末與液體混合而成的「漿糊」或醫療、美容用的「膏狀物」。",
+      "definition": "1. a thick, soft, moist mixture of a substance and a liquid.",
+      "example": [
+        {
+          "eng": "Use a brush to apply a thin layer of glue paste on the paper.",
+          "ch": "用刷子在紙上塗上一層薄薄的膠水漿糊。"
+        }
+      ]
+    },
+    {
+      "eng": "paste",
+      "kk": "pest",
+      "tense": "vt.",
+      "ch": [
+        [
+          "黏貼",
+          "貼上"
+        ]
+      ],
+      "analysis": "此字為及物動詞，由名詞 paste 轉品而來，指用漿糊將紙張或其他物品「黏貼」在某處；在現代電腦軟體中則引申為將剪貼簿內容「貼上」的動作。",
+      "definition": "1. attach or fix something to something else with paste or glue; 2. insert copied text into a document.",
+      "example": [
+        {
+          "eng": "Cut out the pictures and paste them onto your poster board.",
+          "ch": "把圖片剪下來並貼在海報板上。"
+        }
+      ]
+    },
+    {
+      "eng": "path",
+      "kk": "pæθ",
+      "tense": "n.",
+      "ch": [
+        [
+          "小徑",
+          "小路"
+        ],
+        [
+          "路線",
+          "軌道"
+        ]
+      ],
+      "analysis": "此字為名詞，源自古英語 pæð（小徑、道路），屬於日耳曼語源。基本義為行人在草地或田野間踩踏出來的「小徑」，後引申出抽象的發展「路線」或物體運行的軌道。此字複數形式發音為 paths /pæðz/。",
+      "definition": "1. a track made for walking or trodden by people; 2. a way or track laid down for travel or the course along which something moves.",
+      "example": [
+        {
+          "eng": "We followed a narrow stone path leading through the botanical garden.",
+          "ch": "我們沿著一條穿過植物園的狹窄石徑前進。"
+        },
+        {
+          "eng": "Hard work and dedication are the surest path to success.",
+          "ch": "努力與奉獻是通往成功的確切道路。"
+        }
+      ]
+    },
+    {
+      "eng": "patient",
+      "kk": "ˈpeʃənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "病人",
+          "患者"
+        ]
+      ],
+      "analysis": "此字為名詞，由拉丁語 patiēns（承受痛苦者）的名詞化用法演變而來。專指在醫院或診所接受醫師診治與照護的「病人、患者」。",
+      "definition": "1. a person receiving or registered to receive medical treatment.",
+      "example": [
+        {
+          "eng": "The doctor examined the patient and prescribed some medicine.",
+          "ch": "醫生檢查了病人並開了一些藥。"
+        }
+      ]
+    },
+    {
+      "eng": "patient",
+      "kk": "ˈpeʃənt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "有耐心的",
+          "能忍耐的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自拉丁語 patiēns（現在分詞，源自 patī 承受、忍受）。經由中古法語進入英語，字面義為「能夠承受苦難或等待而不浮躁的」，演變為現代的「有耐心的」。",
+      "definition": "1. able to accept or tolerate delays, problems, or suffering without becoming annoyed or anxious.",
+      "example": [
+        {
+          "eng": "Please be patient while our technical team resolves the issue.",
+          "ch": "在我們的技術團隊解決問題時，請耐心等待。"
+        }
+      ]
+    },
+    {
+      "eng": "pattern",
+      "kk": "ˈpætɚn",
+      "tense": "n.",
+      "ch": [
+        [
+          "模式",
+          "圖案",
+          "範例"
+        ]
+      ],
+      "analysis": "此字為名詞，源自中古法語 patron（守護神、老闆、模範，源自拉丁語 patrōnus）。經由法語傳入英國後，最初指製作衣服的「紙樣、模型」，隨後語意擴展至裝飾的「圖案」以及規律的行為「模式、規律」。",
+      "definition": "1. a repeated decorative design; 2. a regular and intelligible form or sequence in which something happens or is done.",
+      "example": [
+        {
+          "eng": "The curtains have a beautiful floral pattern printed on them.",
+          "ch": "窗簾上印有美麗的花卉圖案。"
+        },
+        {
+          "eng": "Meteorologists study weather patterns to predict future storms.",
+          "ch": "氣象學家研究氣象模式以預測未來的風暴。"
+        }
+      ]
+    },
+    {
+      "eng": "peace",
+      "kk": "pis",
+      "tense": "n.",
+      "ch": [
+        [
+          "和平",
+          "和睦",
+          "平靜"
+        ]
+      ],
+      "analysis": "此字為名詞，源自拉丁語 pāx（和平、協定），經由古法語 pais 進入英語。原義指停止戰爭狀態的「和平」，後延伸出人際間的「和睦」以及心靈上的「平靜、安寧」。",
+      "definition": "1. freedom from disturbance; tranquility; 2. a state or period in which there is no war or a country is not fighting any wars.",
+      "example": [
+        {
+          "eng": "Delegates met to negotiate a lasting peace treaty between the two nations.",
+          "ch": "代表們會面以談判兩國之間的持久和平條約。"
+        },
+        {
+          "eng": "She enjoys sitting by the lake in the morning for some peace and quiet.",
+          "ch": "她喜歡早上坐在湖邊享受平靜與安寧。"
+        }
+      ]
+    },
+    {
+      "eng": "peaceful",
+      "kk": "ˈpisfəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "和平的",
+          "安寧的",
+          "溫和的"
+        ]
+      ],
+      "analysis": "此字為形容詞，由名詞 peace 加上形容詞字尾 -ful（充滿……的）構成。用以形容不具暴力、充滿和平氣氛的環境，或個性溫和、不喜爭執的人事物。",
+      "definition": "1. free from disturbance; tranquil; 2. not involving war or violence.",
+      "example": [
+        {
+          "eng": "They spent a peaceful weekend at a small cabin in the mountains.",
+          "ch": "他們在山裡的小木屋度過了一個安寧的週末。"
+        }
+      ]
+    },
+    {
+      "eng": "peach",
+      "kk": "pitʃ",
+      "tense": "n.",
+      "ch": [
+        [
+          "桃子",
+          "桃樹"
+        ]
+      ],
+      "analysis": "此字為名詞，源自拉丁語 persicum mālum（波斯蘋果），因桃子原產自中國並透過波斯傳入地中海地區而得名。經由古法語 pesche 演變為中古英語 peche，最後成為現代英文 peach，指桃樹及其多汁的果實。",
+      "definition": "1. a round stone fruit with juicy yellow flesh and pinkish-yellow skin, borne on a small tree.",
+      "example": [
+        {
+          "eng": "Ripe peaches taste sweet and juicy during the summer harvest.",
+          "ch": "成熟的桃子在夏天收成時吃起來香甜多汁。"
+        }
+      ]
+    }
+  ]
+}

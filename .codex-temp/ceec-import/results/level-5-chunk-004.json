@@ -1,0 +1,1173 @@
+{
+  "level": 5,
+  "chunkIndex": 4,
+  "inputs": [
+    "cocaine",
+    "coffin",
+    "cognitive",
+    "coherent",
+    "coincidence",
+    "collaboration",
+    "collective",
+    "collector",
+    "colonial",
+    "columnist",
+    "combat",
+    "comedian",
+    "commentary",
+    "commentator",
+    "commission",
+    "commitment",
+    "commodity",
+    "communism",
+    "communist",
+    "commute",
+    "commuter",
+    "compact",
+    "comparable",
+    "compassion",
+    "compassionate",
+    "compatible",
+    "compel",
+    "compensate",
+    "compensation",
+    "competence",
+    "competent",
+    "complexity",
+    "compliance",
+    "complication",
+    "compliment",
+    "comply",
+    "component",
+    "compound",
+    "comprehend",
+    "comprehension",
+    "comprise",
+    "compromise",
+    "compulsory",
+    "conceal",
+    "concede",
+    "conceive",
+    "conception",
+    "condemn",
+    "conduct",
+    "confession"
+  ],
+  "rows": [
+    {
+      "eng": "cocaine",
+      "kk": "/koʊˈkeɪn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "古柯鹼",
+          "可卡因"
+        ]
+      ],
+      "analysis": "此字為現代醫學與化學名詞，由古柯樹名 coca 加上化學鹼類字尾 -ine 構成。源自奇楚瓦語 coca，經西班牙語進入英語，指從古柯葉中提煉出的強效中樞神經興奮劑。",
+      "definition": "1. A powerful and addictive stimulant drug made from the leaves of the coca plant.",
+      "example": [
+        {
+          "eng": "The police seized a large shipment of cocaine at the port.",
+          "ch": "警方在港口查獲了一大批古柯鹼。"
+        }
+      ]
+    },
+    {
+      "eng": "coffin",
+      "kk": "/ˈkɔfɪn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "棺材",
+          "靈柩"
+        ]
+      ],
+      "analysis": "此字經由中古英語直接借自古法語 cofin，最終源自拉丁語 cophinus（意為籃子、箱子），其希臘語原義為編織的籃子。歷史上語義從「籃子」轉變為「裝屍體的容器」。",
+      "definition": "1. A long, narrow box in which a dead body is buried or cremated.",
+      "example": [
+        {
+          "eng": "The wooden coffin was lowered slowly into the grave.",
+          "ch": "木製棺材緩緩降入墓穴中。"
+        }
+      ]
+    },
+    {
+      "eng": "cognitive",
+      "kk": "/ˈkɑːɡnətɪv/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "認知的",
+          "感知的"
+        ]
+      ],
+      "analysis": "由拉丁語 cognitus（動詞 cognoscere「知道、認識」的過去分詞）加上形容詞字尾 -ive 構成。現代主要用於心理學與醫學領域，指與思考、記憶、理解等心智活動有關的。",
+      "definition": "1. Connected with mental processes of understanding, learning, and remembering.",
+      "example": [
+        {
+          "eng": "Readiness for school involves developing basic cognitive skills.",
+          "ch": "入學準備包括發展基本的認知能力。"
+        }
+      ]
+    },
+    {
+      "eng": "coherent",
+      "kk": "/koʊˈhɪrənt/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "條理清晰的",
+          "連貫的"
+        ],
+        [
+          "一致的",
+          "協調的"
+        ]
+      ],
+      "analysis": "由拉丁語 co-（共同）加上 haerere（黏在一起）形成的動詞短語，再轉為現在分詞性質的形容詞。基本義為「黏合在一起的」，引申出邏輯連貫、條理分明或前後一致的現代義。",
+      "definition": "1. Logical and well-organized, making it easy to understand; 2. United and working together effectively.",
+      "example": [
+        {
+          "eng": "She was able to present a coherent argument for the new policy.",
+          "ch": "她能夠就這項新政策提出條理清晰的論點。"
+        },
+        {
+          "eng": "The various departments must form a coherent team.",
+          "ch": "各個部門必須組成一個協調一致的團隊。"
+        }
+      ]
+    },
+    {
+      "eng": "coincidence",
+      "kk": "/koʊˈɪnsɪdəns/",
+      "tense": "n.",
+      "ch": [
+        [
+          "巧合",
+          "巧合的事"
+        ]
+      ],
+      "analysis": "由字首 con-（共同）加上動詞 incidere（偶然發生、落下，由 in- 加 cadere「落下」複合而成），再加上名詞字尾 -ence 構成。原意為「同時發生」，演變為指事情巧合地同時碰在一起。",
+      "definition": "1. A situation in which striking things happen at the same time by chance, without any causal connection.",
+      "example": [
+        {
+          "eng": "It was pure coincidence that we met in Paris.",
+          "ch": "我們在巴黎相遇純粹是個巧合。"
+        }
+      ]
+    },
+    {
+      "eng": "collaboration",
+      "kk": "/kəˌlæbəˈreɪʃn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "合作",
+          "協力"
+        ],
+        [
+          "通敵",
+          "叛國合作"
+        ]
+      ],
+      "analysis": "由動詞 collaborate 加上名詞字尾 -ion 構成。collaborate 源自拉丁語 com-（共同）加上 laborare（工作）。指共同參與一項工作或計畫，在特定政治語境下也指與敵對勢力合作。",
+      "definition": "1. The action of working with someone to produce something; 2. Traitorous cooperation with an enemy.",
+      "example": [
+        {
+          "eng": "The book was written in close collaboration with his colleagues.",
+          "ch": "這本書是在與同事的密切合作下寫成的。"
+        },
+        {
+          "eng": "He was accused of collaboration with the occupying forces.",
+          "ch": "他被指控與佔領軍通敵。"
+        }
+      ]
+    },
+    {
+      "eng": "collective",
+      "kk": "/kəˈlektɪv/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "集體的",
+          "共同的"
+        ]
+      ],
+      "analysis": "由動詞 collect 的拉丁語源 colligere（com- + legere「收集」）衍生出 collective，再加上形容詞字尾。指由群體共同擁有、進行或產生的特質。",
+      "definition": "1. Done or shared by all members of a group of people.",
+      "example": [
+        {
+          "eng": "The decision was the result of a collective effort.",
+          "ch": "這個決定是集體努力的結果。"
+        }
+      ]
+    },
+    {
+      "eng": "collector",
+      "kk": "/kəˈlektər/",
+      "tense": "n.",
+      "ch": [
+        [
+          "收藏家",
+          "收集者"
+        ],
+        [
+          "收稅員",
+          "收費員"
+        ]
+      ],
+      "analysis": "由動詞 collect 加上表示人的名詞字尾 -or 構成。指從事收集物品（如藝術品、郵票）的人，或負責收取款項、稅金的人員。",
+      "definition": "1. A person who collects things of a particular type as a hobby or job; 2. A person whose job is to collect money, taxes, or tickets.",
+      "example": [
+        {
+          "eng": "He is a famous collector of antique clocks.",
+          "ch": "他是著名的古董鐘錶收藏家。"
+        },
+        {
+          "eng": "The ticket collector checked our passes before we boarded.",
+          "ch": "驗票員在我們上車前檢查了我們的通行證。"
+        }
+      ]
+    },
+    {
+      "eng": "colonial",
+      "kk": "/kəˈloʊniəl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "殖民地的",
+          "殖民時代的"
+        ]
+      ],
+      "analysis": "由名詞 colony（源自拉丁語 colonia「農場、聚居地」）加上形容詞字尾 -al 構成。指與殖民地、殖民統治或殖民時期歷史相關的。",
+      "definition": "1. Connected with or belonging to a country that controls another country.",
+      "example": [
+        {
+          "eng": "Many African nations gained independence from colonial rule in the 20th century.",
+          "ch": "許多非洲國家在20世紀贏得了擺脫殖民統治的獨立。"
+        }
+      ]
+    },
+    {
+      "eng": "columnist",
+      "kk": "/ˈkɑːləmnɪst/",
+      "tense": "n.",
+      "ch": [
+        [
+          "專欄作家"
+        ]
+      ],
+      "analysis": "由名詞 column（報紙專欄、柱子）加上表示從事某職業者的字尾 -ist 構成。指在報紙或雜誌上定期撰寫固定專欄文章的作家。",
+      "definition": "1. A journalist who writes a regular column for a newspaper or magazine.",
+      "example": [
+        {
+          "eng": "She is a political columnist for a major daily newspaper.",
+          "ch": "她是一家主要日報的政治專欄作家。"
+        }
+      ]
+    },
+    {
+      "eng": "combat",
+      "kk": "/ˈkɑːmbæt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "戰鬥",
+          "格鬥",
+          "爭鬥"
+        ]
+      ],
+      "analysis": "源自中古法語 combat，動詞為 combatre，由拉丁語 com-（共同）加上 battuere（打、擊）。作為名詞時指武裝衝突、軍事交戰或激烈的爭鬥。",
+      "definition": "1. Fighting between armed forces or a struggle against something.",
+      "example": [
+        {
+          "eng": "Several soldiers were wounded in combat.",
+          "ch": "幾名士兵在戰鬥中受傷。"
+        }
+      ]
+    },
+    {
+      "eng": "comedian",
+      "kk": "/kəˈmiːdiən/",
+      "tense": "n.",
+      "ch": [
+        [
+          "喜劇演員",
+          "滑稽人物"
+        ]
+      ],
+      "analysis": "由希臘語 kōmōidia（喜劇）經拉丁語演變為 comedy，再結合名詞字尾 -an 構成。指以逗樂觀眾、表演喜劇或脫口秀為職業的人。",
+      "definition": "1. An entertainer whose job is to make people laugh by telling jokes or funny stories.",
+      "example": [
+        {
+          "eng": "The stand-up comedian had the audience in stitches.",
+          "ch": "這位單口喜劇演員逗得觀眾捧腹大笑。"
+        }
+      ]
+    },
+    {
+      "eng": "commentary",
+      "kk": "/ˈkɑːmənteri/",
+      "tense": "n.",
+      "ch": [
+        [
+          "實況轉播解說",
+          "評述"
+        ],
+        [
+          "評論",
+          "注釋"
+        ]
+      ],
+      "analysis": "由動詞 comment（評論、解說）加上名詞字尾 -ary 構成。原意為對文本的解釋或註釋，現代廣泛用於體育賽事的實況解說或對社會時事的分析評論。",
+      "definition": "1. A spoken or written description of an event as it happens; 2. Expressed opinions or critical explanations on an event or text.",
+      "example": [
+        {
+          "eng": "The football match had brilliant commentary by the veteran broadcaster.",
+          "ch": "這場足球賽由資深主播進行了精彩的實況轉播解說。"
+        },
+        {
+          "eng": "His latest book offers a sharp commentary on modern politics.",
+          "ch": "他的最新著作對現代政治提出了犀利的評論。"
+        }
+      ]
+    },
+    {
+      "eng": "commentator",
+      "kk": "/ˈkɑːmənteɪtər/",
+      "tense": "n.",
+      "ch": [
+        [
+          "評論員",
+          "實況轉播員"
+        ]
+      ],
+      "analysis": "由動詞 commentate（發表評論、擔任解說）加上表示人的字尾 -or 構成。指專門負責體育賽事、新聞事件實況解說或撰寫時事評論的人。",
+      "definition": "1. A person who describes a sports event live on TV or radio, or who writes analytical news articles.",
+      "example": [
+        {
+          "eng": "The sports commentator predicted that the home team would win.",
+          "ch": "體育評論員預測主隊會獲勝。"
+        }
+      ]
+    },
+    {
+      "eng": "commission",
+      "kk": "/kəˈmɪʃn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "委員會"
+        ],
+        [
+          "佣金",
+          "提成"
+        ],
+        [
+          "委託",
+          "委任"
+        ]
+      ],
+      "analysis": "由拉丁語 commissio（committere 的名詞形式，意為委託、送交），由 com-（共同、加強）與 mittere（送出）複合而成。引申出官方授權的委員會、商業上的仲介佣金及委託製作工作等義。",
+      "definition": "1. An official group of people given a specific responsibility; 2. A payment given to an agent for selling goods; 3. An instruction or request to do something.",
+      "example": [
+        {
+          "eng": "The government has set up a commission to investigate the accident.",
+          "ch": "政府已成立一個委員會來調查這起事故。"
+        },
+        {
+          "eng": "She earns a high commission on every house she sells.",
+          "ch": "她每賣出一棟房子就能賺取高額佣金。"
+        },
+        {
+          "eng": "The artist received a commission to paint a mural.",
+          "ch": "這位藝術家接到了一份繪製壁畫的委託。"
+        }
+      ]
+    },
+    {
+      "eng": "commitment",
+      "kk": "/kəˈmɪtmənt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "承諾",
+          "保證"
+        ],
+        [
+          "投入",
+          "奉獻"
+        ]
+      ],
+      "analysis": "由動詞 commit 加上名詞字尾 -ment 構成。commit 源自拉丁語 committere（託付、交付）。名詞指對某項工作、組織或關係的莊嚴承諾、責任，或全心全意的投入。",
+      "definition": "1. A promise or firm decision to do something; 2. The state of being dedicated to a cause or activity.",
+      "example": [
+        {
+          "eng": "I cannot make any financial commitments right now.",
+          "ch": "我目前無法做出任何財務承諾。"
+        },
+        {
+          "eng": "Her success is due to her hard work and total commitment.",
+          "ch": "她的成功歸功於她的努力工作與全心投入。"
+        }
+      ]
+    },
+    {
+      "eng": "commodity",
+      "kk": "/kəˈmɑːdəti/",
+      "tense": "n.",
+      "ch": [
+        [
+          "商品",
+          "貨品"
+        ],
+        [
+          "有用的物品",
+          "日用品"
+        ]
+      ],
+      "analysis": "源自中古法語 commodité，最終源自拉丁語 commoditas（便利、合適、利益），由 commodus（方便的、合適的）衍生而來。在經濟學中演變為指可自由買賣的基礎商品或農工原料。",
+      "definition": "1. A raw material or primary agricultural product that can be bought and sold; 2. A useful thing.",
+      "example": [
+        {
+          "eng": "Crude oil is a vital global commodity.",
+          "ch": "原油是至關重要的全球大宗商品。"
+        },
+        {
+          "eng": "In a drought, clean water becomes a precious commodity.",
+          "ch": "乾旱期間，乾淨的水成了珍貴的資源。"
+        }
+      ]
+    },
+    {
+      "eng": "communism",
+      "kk": "/ˈkɑːmjənɪzəm/",
+      "tense": "n.",
+      "ch": [
+        [
+          "共產主義"
+        ]
+      ],
+      "analysis": "由形容詞 common（共同的）的法語同源詞 commun，加上表示主義、學說的字尾 -ism 構成。指主張生產資料歸全社會公有、取消私有財產的政治與經濟思想體系。",
+      "definition": "1. A political and economic system in which major property is publicly owned and each person works and is paid according to their abilities and needs.",
+      "example": [
+        {
+          "eng": "The collapse of the Soviet Union marked a major turning point for communism.",
+          "ch": "蘇聯的解體標誌著共產主義的一個重大轉折點。"
+        }
+      ]
+    },
+    {
+      "eng": "communist",
+      "kk": "/ˈkɑːmjənɪst/",
+      "tense": "n.",
+      "ch": [
+        [
+          "共產主義者",
+          "共產黨員"
+        ]
+      ],
+      "analysis": "由 communism 詞根加上表示人的字尾 -ist 構成，指信仰共產主義或加入共產黨的人。",
+      "definition": "1. A supporter or member of a communist party or political system.",
+      "example": [
+        {
+          "eng": "He joined the communist party in his youth.",
+          "ch": "他在年輕時加入了共產黨。"
+        }
+      ]
+    },
+    {
+      "eng": "commute",
+      "kk": "/kəˈmjuːt/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "通勤",
+          "上下班往返"
+        ]
+      ],
+      "analysis": "源自拉丁語 commutare（徹底改變、交換），由 com- 與 mutare（改變）複合而成。原意為交換或減輕刑罰，後來在美國鐵路語境中引申出「定期購買月票交換乘車」，最終演變為現代的「通勤」義。",
+      "definition": "1. To travel some distance between one's home and place of work on a regular basis.",
+      "example": [
+        {
+          "eng": "He commutes to work by train every day.",
+          "ch": "他每天搭火車通勤上班。"
+        }
+      ]
+    },
+    {
+      "eng": "commuter",
+      "kk": "/kəˈmjuːtər/",
+      "tense": "n.",
+      "ch": [
+        [
+          "通勤者"
+        ]
+      ],
+      "analysis": "由動詞 commute 加上表示人的名詞字尾 -or 構成，指每天固定往返於居住地與工作地點之間的人。",
+      "definition": "1. A person who travels some distance to work on a regular basis.",
+      "example": [
+        {
+          "eng": "The morning train was packed with tired commuters.",
+          "ch": "早上的火車擠滿了疲憊的通勤族。"
+        }
+      ]
+    },
+    {
+      "eng": "compact",
+      "kk": "/kəmˈpækt/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "緊湊的",
+          "小巧的"
+        ],
+        [
+          "結實的",
+          "密集的"
+        ]
+      ],
+      "analysis": "源自拉丁語 compactus（compingere 的過去分詞，意為緊密結合），由 com-（共同）與 pangere（緊閉、固定）複合而成。形容物體結構緊密、節省空間或短小精幹。",
+      "definition": "1. Closely and neatly packed together; smaller than normal; 2. Dense or solid.",
+      "example": [
+        {
+          "eng": "The apartment is small, but its layout is very compact.",
+          "ch": "這間公寓很小，但佈局非常緊湊。"
+        },
+        {
+          "eng": "Soil that is too compact can prevent roots from growing.",
+          "ch": "過於緊實的土壤會阻礙根系生長。"
+        }
+      ]
+    },
+    {
+      "eng": "comparable",
+      "kk": "/ˈkɑːmpərəbl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "可比較的",
+          "類似的"
+        ]
+      ],
+      "analysis": "由動詞 compare（比較）加上形容詞字尾 -able（可……的）構成。指性質相似、規模相當，因而能夠拿來互相比較的。",
+      "definition": "1. Able to be likened to another; similar in size, amount, or quality.",
+      "example": [
+        {
+          "eng": "The two situations are not really comparable.",
+          "ch": "這兩種情況其實不具可比性。"
+        }
+      ]
+    },
+    {
+      "eng": "compassion",
+      "kk": "/kəmˈpæʃn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "同情",
+          "憐憫",
+          "關懷"
+        ]
+      ],
+      "analysis": "由拉丁語 compassio，由 com-（共同）與 pati（承受、受苦，即 suffer）複合而成。字面義為「共同受苦」，引申為對他人痛苦感同身受並試圖給予幫助的同情心。",
+      "definition": "1. Sympathetic pity and concern for the sufferings or misfortunes of others.",
+      "example": [
+        {
+          "eng": "The nurse treated the sick patients with great compassion.",
+          "ch": "護士以極大的同情心照料生病的患者。"
+        }
+      ]
+    },
+    {
+      "eng": "compassionate",
+      "kk": "/kəmˈpæʃənət/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "具同情心的",
+          "慈悲的"
+        ]
+      ],
+      "analysis": "由名詞 compassion 加上形容詞字尾 -ate 構成，用來形容人富有同情心、體諒並關懷他人痛苦的特質。",
+      "definition": "1. Feeling or showing sympathy and concern for others.",
+      "example": [
+        {
+          "eng": "She is a compassionate leader who always listens to her staff.",
+          "ch": "她是一位富有同情心的領導者，總是傾聽員工的心聲。"
+        }
+      ]
+    },
+    {
+      "eng": "compatible",
+      "kk": "/kəmˈpætəbl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "相容的",
+          "合得來的"
+        ],
+        [
+          "協調的",
+          "能共存的"
+        ]
+      ],
+      "analysis": "源自中古拉丁語 compatibilis，由 com-（共同）與 pati（承受、忍受）結合而成。原意為「能共受痛苦的」，現代引申為理念契合、軟硬體相容或能和平共處的。",
+      "definition": "1. Able to exist or occur together without conflict; 2. Able to be used together, especially in computers.",
+      "example": [
+        {
+          "eng": "Their personalities are not compatible, so they often argue.",
+          "ch": "他們的個性不合，所以經常爭吵。"
+        },
+        {
+          "eng": "This software is not compatible with your operating system.",
+          "ch": "這個軟體與你的作業系統不相容。"
+        }
+      ]
+    },
+    {
+      "eng": "compel",
+      "kk": "/kəmˈpel/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "強迫",
+          "迫使"
+        ]
+      ],
+      "analysis": "由拉丁語 compellere，由 com-（加強語氣）與 pellere（推、驅趕）複合而成。字面義為「強力驅使」，現代指法律、情勢或壓力迫使某人不得不做某事。",
+      "definition": "1. To force someone to do something; to bring about by force.",
+      "example": [
+        {
+          "eng": "The bad weather compelled us to cancel the trip.",
+          "ch": "惡劣的天氣迫使我們取消了行程。"
+        }
+      ]
+    },
+    {
+      "eng": "compensate",
+      "kk": "/ˈkɑːmpenˌseɪt/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "補償",
+          "賠償",
+          "彌補"
+        ]
+      ],
+      "analysis": "源自拉丁語 compensatus（compensare 的過去分詞），由 com-（共同）與 pensare（稱重、衡量）複合而成。原意為「秤平、平衡」，現代演變為給予金錢補償或以其他優點彌補不足。",
+      "definition": "1. To give something, usually money, to someone in recognition of loss, suffering, or injury; 2. To make up for something unwelcome.",
+      "example": [
+        {
+          "eng": "The airline compensated passengers for the delayed flight.",
+          "ch": "航空公司就航班延誤對乘客進行了賠償。"
+        },
+        {
+          "eng": "Hard work can compensate for a lack of natural talent.",
+          "ch": "努力工作可以彌補天賦的不足。"
+        }
+      ]
+    },
+    {
+      "eng": "compensation",
+      "kk": "/ˌkɑːmpenˈseɪʃn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "補償金",
+          "賠償金"
+        ],
+        [
+          "報酬",
+          "薪酬"
+        ]
+      ],
+      "analysis": "由動詞 compensate 加上名詞字尾 -ion 構成。指因損失、受傷或工作勞動而獲得的金錢補償、賠償金或員工薪資福利報酬。",
+      "definition": "1. Something, typically money, awarded to someone in recognition of loss or suffering; 2. Remuneration received for working.",
+      "example": [
+        {
+          "eng": "He demanded financial compensation for the damage to his car.",
+          "ch": "他要求對汽車損壞給予經濟賠償。"
+        },
+        {
+          "eng": "The job offers a competitive salary and excellent compensation.",
+          "ch": "這份工作提供具競爭力的薪資與優渥的福利報酬。"
+        }
+      ]
+    },
+    {
+      "eng": "competence",
+      "kk": "/ˈkɑːmpɪtəns/",
+      "tense": "n.",
+      "ch": [
+        [
+          "能力",
+          "勝任",
+          "技能"
+        ]
+      ],
+      "analysis": "由形容詞 competent 的拉丁語源 competentia（適合、對應）演變而來。指一個人勝任某項工作或處理特定事務的知識、技能與專業能力。",
+      "definition": "1. The ability to do something successfully or efficiently.",
+      "example": [
+        {
+          "eng": "The test is designed to measure linguistic competence.",
+          "ch": "這項測試旨在衡量語言能力。"
+        }
+      ]
+    },
+    {
+      "eng": "competent",
+      "kk": "/ˈkɑːmpɪtənt/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "有能力的",
+          "勝任的",
+          "稱職的"
+        ]
+      ],
+      "analysis": "源自拉丁語 competens（competere 的現在分詞，意為相稱、符合、有能力），由 com- 與 petere（追求、到達）複合而成。形容人具備足夠的技能與資格來把事情做好。",
+      "definition": "1. Having the necessary ability, knowledge, or skills to do something successfully.",
+      "example": [
+        {
+          "eng": "She is a highly competent manager who handles crises well.",
+          "ch": "她是一位能力極強的經理，能妥善處理危機。"
+        }
+      ]
+    },
+    {
+      "eng": "complexity",
+      "kk": "/kəmˈpleksəti/",
+      "tense": "n.",
+      "ch": [
+        [
+          "複雜性",
+          "錯綜複雜"
+        ]
+      ],
+      "analysis": "由形容詞 complex（複雜的，源自拉丁 complectere「編織在一起」）加上名詞字尾 -ity 構成。指事物因包含眾多互相交織的元素而產生的複雜狀態或特性。",
+      "definition": "1. The state of being difficult to understand because of many involved parts.",
+      "example": [
+        {
+          "eng": "We must not underestimate the complexity of the problem.",
+          "ch": "我們絕不能低估這個問題的複雜性。"
+        }
+      ]
+    },
+    {
+      "eng": "compliance",
+      "kk": "/kəmˈplaɪəns/",
+      "tense": "n.",
+      "ch": [
+        [
+          "遵守",
+          "服從",
+          "依從"
+        ]
+      ],
+      "analysis": "由動詞 comply 加上名詞字尾 -ance 構成。指依從法規、命令、標準或他人要求的行為與狀態。",
+      "definition": "1. The act of obeying an order, rule, or request.",
+      "example": [
+        {
+          "eng": "The company was fined for non-compliance with environmental laws.",
+          "ch": "該公司因未遵守環保法規而被罰款。"
+        }
+      ]
+    },
+    {
+      "eng": "complication",
+      "kk": "/ˌkɑːmplɪˈkeɪʃn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "複雜化",
+          "使人頭疼的難題"
+        ],
+        [
+          "併發症"
+        ]
+      ],
+      "analysis": "由動詞 complicate（使複雜）加上名詞字尾 -ion 構成。原意為使事情糾結在一起的狀態，引申為突發的麻煩、難題，或醫學上的病情併發症。",
+      "definition": "1. A circumstance that makes a situation more complex or difficult; 2. A secondary disease or condition aggravating an existing one.",
+      "example": [
+        {
+          "eng": "Unforeseen financial complications delayed the project.",
+          "ch": "未預見的財務難題耽誤了該專案。"
+        },
+        {
+          "eng": "He developed serious lung complications after the surgery.",
+          "ch": "他在手術後出現了嚴重的肺部併發症。"
+        }
+      ]
+    },
+    {
+      "eng": "compliment",
+      "kk": "/ˈkɑːmplɪmənt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "讚美",
+          "恭維"
+        ]
+      ],
+      "analysis": "源自義大利語 complimento 或法語 compliment，最終源自拉丁語 complere（填滿、完成）。原意為禮節性的致意或禮物，現代專指對他人的外表、能力或表現給予的讚賞詞句。",
+      "definition": "1. A polite expression of praise or admiration.",
+      "example": [
+        {
+          "eng": "Thank you for the compliment on my cooking.",
+          "ch": "謝謝你誇獎我的手藝。"
+        }
+      ]
+    },
+    {
+      "eng": "comply",
+      "kk": "/kəmˈplaɪ/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "遵守",
+          "依從",
+          "服從"
+        ]
+      ],
+      "analysis": "源自十六世紀義大利語 complire 或拉丁語 complere（圓滿完成、使滿足）。歷史上語義轉為「迎合他人意願」或「符合規章制度」，現代固定搭配介系詞 with 使用。",
+      "definition": "1. To act in accordance with a wish, command, or rule.",
+      "example": [
+        {
+          "eng": "All employees must comply with company safety regulations.",
+          "ch": "所有員工都必須遵守公司的安全規章。"
+        }
+      ]
+    },
+    {
+      "eng": "component",
+      "kk": "/kəmˈpoʊnənt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "零件",
+          "組件",
+          "成分"
+        ]
+      ],
+      "analysis": "源自拉丁語 componens（componere 的現在分詞，意為組裝、組合），由 com- 與 ponere（放置）複合而成。字面義為「放在一起的東西」，指構成機械、系統或化學混合物的各個組成部分或零件。",
+      "definition": "1. A part or element of a larger whole, especially in a machine or system.",
+      "example": [
+        {
+          "eng": "Microchips are a crucial component of modern computers.",
+          "ch": "微晶片是現代電腦至關重要的組件。"
+        }
+      ]
+    },
+    {
+      "eng": "compound",
+      "kk": "/ˈkɑːmpaʊnd/",
+      "tense": "n.",
+      "ch": [
+        [
+          "化合物"
+        ],
+        [
+          "混合物",
+          "複合詞"
+        ],
+        [
+          "圍場",
+          "大院"
+        ]
+      ],
+      "analysis": "源自中古英語 compounen，源於古法語 compondre，最終源自拉丁語 componere（組合）。名詞指化學上的化合物、語言學中的複合詞，或是東亞殖民語境中被圍牆圈起來的住宅大院（可能受馬來語 kampong 影響）。",
+      "definition": "1. A substance formed by chemical union of two or more elements; 2. A thing made up of two or more parts; 3. An enclosed area containing a group of buildings.",
+      "example": [
+        {
+          "eng": "Water is a chemical compound of hydrogen and oxygen.",
+          "ch": "水是氫和氧的化合物。"
+        },
+        {
+          "eng": "The embassy staff live inside a secure compound.",
+          "ch": "大使館員工住在一個安全的圍場大院內。"
+        }
+      ]
+    },
+    {
+      "eng": "comprehend",
+      "kk": "/ˌkɑːmprɪˈhend/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "理解",
+          "領會",
+          "懂"
+        ]
+      ],
+      "analysis": "由拉丁語 comprehendere，由 com-（加強語氣）與 prehendere（抓住、握住）複合而成。字面義為「心智上完全抓牢」，引申為徹底理解、懂某個概念或狀況。",
+      "definition": "1. To understand something fully; to grasp mentally.",
+      "example": [
+        {
+          "eng": "She could not comprehend the full scale of the disaster.",
+          "ch": "她無法理解這場災難的全部規模。"
+        }
+      ]
+    },
+    {
+      "eng": "comprehension",
+      "kk": "/ˌkɑːmprɪˈhenʃn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "理解力",
+          "領悟力"
+        ]
+      ],
+      "analysis": "由動詞 comprehend 透過其過去分詞詞幹加上名詞字尾 -ion 構成。指心智上理解、吸收複雜資訊或語言文字的能力。",
+      "definition": "1. The ability to understand something; complete understanding.",
+      "example": [
+        {
+          "eng": "Reading comprehension is a vital skill for language learners.",
+          "ch": "閱讀理解能力對語言學習者至關重要。"
+        }
+      ]
+    },
+    {
+      "eng": "comprise",
+      "kk": "/kəmˈpraɪz/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "包含",
+          "包括",
+          "由……組成"
+        ]
+      ],
+      "analysis": "源自中古法語 compris（comprendre 的過去分詞，意為包含），最終源自拉丁語 comprehendere。指某個整體包含或由特定的部分所組成。",
+      "definition": "1. To consist of; to be made up of; to include.",
+      "example": [
+        {
+          "eng": "The committee is comprised of five experts from various fields.",
+          "ch": "該委員會由來自各領域的五位專家組成。"
+        }
+      ]
+    },
+    {
+      "eng": "compromise",
+      "kk": "/ˈkɑːmprəmaɪz/",
+      "tense": "n.",
+      "ch": [
+        [
+          "妥協",
+          "折中",
+          "互讓"
+        ]
+      ],
+      "analysis": "源自拉丁語 compromissum（雙方同意提交仲裁的裁決），由 com-（共同）與 promittere（承諾）複合而成。歷史上指雙方互相讓步以達成協議，現代指解決紛爭的妥協方案。",
+      "definition": "1. An agreement or settlement of a dispute that is reached by each side making concessions.",
+      "example": [
+        {
+          "eng": "Neither side is willing to make a compromise.",
+          "ch": "雙方都不願意做出妥協。"
+        }
+      ]
+    },
+    {
+      "eng": "compulsory",
+      "kk": "/kəmˈpʌlsəri/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "義務性的",
+          "強制的",
+          "必修的"
+        ]
+      ],
+      "analysis": "由名詞 compulsion（強迫，源自 compellere）衍生出的形容詞字尾 -ory 構成。指依法律、法規或規定非做不可、不得抗拒的。",
+      "definition": "1. Required by law or a rule; mandatory.",
+      "example": [
+        {
+          "eng": "Education is compulsory for children up to the age of sixteen in this country.",
+          "ch": "在這個國家，十六歲以下的兒童接受教育是義務性的。"
+        }
+      ]
+    },
+    {
+      "eng": "conceal",
+      "kk": "/kənˈsiːl/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "隱藏",
+          "隱瞞",
+          "掩飾"
+        ]
+      ],
+      "analysis": "源自中古英語 concelen，借自古法語 conceler，最終源自拉丁語 concelare，由 con-（加強語氣）與 celare（隱藏、藏匿）複合而成。指將物體藏起或將真相隱瞞不讓人知。",
+      "definition": "1. To hide something carefully; to keep secret.",
+      "example": [
+        {
+          "eng": "He tried to conceal his disappointment behind a smile.",
+          "ch": "他試圖用微笑掩飾心中的失望。"
+        }
+      ]
+    },
+    {
+      "eng": "concede",
+      "kk": "/kənˈsiːd/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "承認",
+          "認輸"
+        ],
+        [
+          "讓步",
+          "割讓"
+        ]
+      ],
+      "analysis": "源自拉丁語 concedere，由 con-（加強語氣）與 cedere（退讓、走開）複合而成。字面義為「完全退讓」，演變為勉強承認事實、選舉中認輸，或在談判中讓步。",
+      "definition": "1. To admit that something is true after first denying or resisting it; 2. To surrender or yield something.",
+      "example": [
+        {
+          "eng": "She finally conceded that she had made a mistake.",
+          "ch": "她終於承認自己犯了錯。"
+        },
+        {
+          "eng": "The candidate conceded the election to his opponent.",
+          "ch": "這名候選人向對手承認競選失敗。"
+        }
+      ]
+    },
+    {
+      "eng": "conceive",
+      "kk": "/kənˈsiːv/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "構想",
+          "想像",
+          "懷孕"
+        ]
+      ],
+      "analysis": "源自古法語 concevoir，最終源自拉丁語 concipere，由 con-（共同、加強）與 capere（抓取、容納）複合而成。原意為「在心中抓住、孕育」，演變為構思計畫、想像情境或女性受孕。",
+      "definition": "1. To form a plan or idea in the mind; 2. To become pregnant.",
+      "example": [
+        {
+          "eng": "Engineers conceived a brilliant plan to build the bridge.",
+          "ch": "工程師們構思出一個建造這座橋樑的絕妙計畫。"
+        },
+        {
+          "eng": "She found it difficult to conceive a child.",
+          "ch": "她發現自己很難懷孕。"
+        }
+      ]
+    },
+    {
+      "eng": "conception",
+      "kk": "/kənˈsepʃn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "觀念",
+          "構想",
+          "概念"
+        ],
+        [
+          "受孕"
+        ]
+      ],
+      "analysis": "由動詞 conceive 的拉丁語源 conceptio 演變而來。指心中形成的觀念、計畫的最初構思，或生物學上的受孕成胎過程。",
+      "definition": "1. A mental plan or idea; an understanding of something; 2. The action of conceiving a child.",
+      "example": [
+        {
+          "eng": "People have different conceptions of freedom.",
+          "ch": "人們對自由有不同的觀念。"
+        },
+        {
+          "eng": "Alcohol can harm the fetus at the moment of conception.",
+          "ch": "酒精在受孕那一刻就可能對胎兒造成傷害。"
+        }
+      ]
+    },
+    {
+      "eng": "condemn",
+      "kk": "/kənˈdem/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "譴責",
+          "指責"
+        ],
+        [
+          "判刑",
+          "宣告有罪"
+        ]
+      ],
+      "analysis": "源自拉丁語 condemnare，由 con-（加強語氣）與 damnare（宣判罪名、處罰）複合而成。原意為法律上的宣判定罪，現代廣泛用於公開嚴厲譴責某人或某事，或判定建築物危險不能居住。",
+      "definition": "1. To express complete disapproval of, typically in public; 2. To sentence someone to a punishment, especially death.",
+      "example": [
+        {
+          "eng": "World leaders strongly condemned the terrorist attack.",
+          "ch": "世界各國領導人強烈譴責這起恐怖襲擊。"
+        },
+        {
+          "eng": "The criminal was condemned to life imprisonment.",
+          "ch": "這名罪犯被判處無期徒刑。"
+        }
+      ]
+    },
+    {
+      "eng": "conduct",
+      "kk": "/kənˈdʌkt/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "引導",
+          "帶領"
+        ],
+        [
+          "執行",
+          "處理",
+          "指揮"
+        ]
+      ],
+      "analysis": "源自拉丁語 conducere，由 con-（共同）與 ducere（引導）複合而成。動詞指引導方向、執行實驗調查、指揮樂團或管理業務；名詞則重音在前（/ˈkɑːndʌkt/），指品行行為（在此處依合約為動詞 row）。",
+      "definition": "1. To guide or lead someone through a place; 2. To organize and carry out a particular activity.",
+      "example": [
+        {
+          "eng": "The guide will conduct us through the ancient museum.",
+          "ch": "導遊將帶領我們參觀這座古老的博物館。"
+        },
+        {
+          "eng": "Scientists are conducting research on renewable energy.",
+          "ch": "科學家們正在進行有關renewable energy的研究。"
+        }
+      ]
+    },
+    {
+      "eng": "confession",
+      "kk": "/kənˈfeʃn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "招供",
+          "坦白"
+        ],
+        [
+          "告解",
+          "告發"
+        ]
+      ],
+      "analysis": "由動詞 confess（源自拉丁語 confiteri，con- + fateri「坦白、承認」）加上名詞字尾 -ion 構成。指罪犯向警方招供罪行、個人坦承祕密，或天主教中的神聖告解。",
+      "definition": "1. A formal statement admitting that one is guilty of a crime; 2. An admission of something one is ashamed of.",
+      "example": [
+        {
+          "eng": "The police obtained a signed confession from the suspect.",
+          "ch": "警方取得了嫌疑人簽字的招供書。"
+        },
+        {
+          "eng": "He made a confession that he had lost all the money.",
+          "ch": "他坦白自己把所有的錢都輸光了。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1321 @@
+{
+  "level": 3,
+  "chunkIndex": 1,
+  "inputs": [
+    "aboard",
+    "acceptable",
+    "accurate",
+    "ache",
+    "achieve",
+    "achievement",
+    "additional",
+    "admire",
+    "advanced",
+    "advantage",
+    "adventure",
+    "advertise",
+    "advertisement",
+    "ad",
+    "advise",
+    "adviser",
+    "advisor",
+    "afford",
+    "afterward",
+    "afterwards",
+    "agriculture",
+    "airline",
+    "alley",
+    "almond",
+    "alphabet",
+    "amaze",
+    "amazement",
+    "ambassador",
+    "ambition",
+    "ambulance",
+    "angel",
+    "announce",
+    "announcement",
+    "anxious",
+    "anyhow",
+    "apart",
+    "apologize",
+    "appeal",
+    "approve",
+    "apron",
+    "armed",
+    "arrest",
+    "ash",
+    "aside",
+    "assist",
+    "assistant",
+    "assume",
+    "athlete",
+    "attitude",
+    "attract"
+  ],
+  "rows": [
+    {
+      "eng": "aboard",
+      "kk": "əˈbɔrd",
+      "tense": "adv.",
+      "ch": [
+        [
+          "在船上",
+          "在車上",
+          "在飛機上"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由字首 a-（源自古英語 on，意為「在……之上」）與名詞 board（船側、板子）結合而成，原意為「在船舷之上」，隨後語義擴大至火車、飛機等載具上。",
+      "definition": "1. On or onto a ship, train, aircraft, or other vehicle.",
+      "example": [
+        {
+          "eng": "All passengers must go aboard before the ship departs.",
+          "ch": "所有乘客必須在船開走前上船。"
+        }
+      ]
+    },
+    {
+      "eng": "aboard",
+      "kk": "əˈbɔrd",
+      "tense": "prep.",
+      "ch": [
+        [
+          "在……上",
+          "上（船、車、飛機等）"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由字首 a-（源自古英語 on，意為「在……之上」）與名詞 board 結合而成的介系詞用法，表示在交通工具內部或登上交通工具。",
+      "definition": "1. On or into a ship, train, aircraft, or vehicle.",
+      "example": [
+        {
+          "eng": "They welcomed all the guests aboard the yacht.",
+          "ch": "他們歡迎所有賓客登上遊艇。"
+        }
+      ]
+    },
+    {
+      "eng": "acceptable",
+      "kk": "ækˈsɛptəbəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "可接受的",
+          "令人滿意的"
+        ],
+        [
+          "合適的",
+          "合格的"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由動詞 accept 加上形容詞字尾 -able（表示「能夠……的、可被……的」）。字尾使動詞轉化為形容詞，表示某事物達到可以被接受或容忍的標準。",
+      "definition": "1. Able to be accepted; satisfactory or permissible.; 2. Adequate or meeting required standards.",
+      "example": [
+        {
+          "eng": "His apology was considered acceptable by the committee.",
+          "ch": "他的道歉被委員會認為是可以接受的。"
+        },
+        {
+          "eng": "The quality of the product is barely acceptable.",
+          "ch": "這項產品的品質勉強合格。"
+        }
+      ]
+    },
+    {
+      "eng": "accurate",
+      "kk": "ˈækjərət",
+      "tense": "adj.",
+      "ch": [
+        [
+          "準確的",
+          "精確的"
+        ],
+        [
+          "正確無誤的"
+        ]
+      ],
+      "analysis": "歷史詞源借自拉丁語 accuratus（意思是「做得很細心的、精確的」），由前綴 ad-（向）與 curare（照料、關注，源自 cura 照顧）的過去分詞詞幹組合而成。原始義為「經過精心照料和打磨的」，透過語意演變，現代用來指資訊、測量或計算「符合事實、沒有錯誤」。",
+      "definition": "1. Correct in all details; exact.; 2. Free from error or mistakes.",
+      "example": [
+        {
+          "eng": "We need accurate data to support our research.",
+          "ch": "我們需要準確的數據來支持我們的研究。"
+        },
+        {
+          "eng": "Her translation of the document was extremely accurate.",
+          "ch": "她對這份文件的翻譯極為精確無誤。"
+        }
+      ]
+    },
+    {
+      "eng": "ache",
+      "kk": "eɪk",
+      "tense": "n.",
+      "ch": [
+        [
+          "疼痛",
+          "隱痛"
+        ]
+      ],
+      "analysis": "此字源自古英語名詞 æce（疼痛），與動詞同形，在歷史演變中保持了指身體某部位持續性鈍痛的詞義。",
+      "definition": "1. A continuous or prolonged dull pain in a part of one's body.",
+      "example": [
+        {
+          "eng": "A warm bath can help relieve the muscle ache.",
+          "ch": "洗個熱水澡有助於緩解肌肉痠痛。"
+        }
+      ]
+    },
+    {
+      "eng": "ache",
+      "kk": "eɪk",
+      "tense": "vi.",
+      "ch": [
+        [
+          "疼痛",
+          "隱隱作痛"
+        ],
+        [
+          "渴望",
+          "嚮往"
+        ]
+      ],
+      "analysis": "此字源自古英語動詞 acan（疼痛）。原意指身體器官的持續鈍痛，後來引申出情感上的強烈渴望或想念（如 ache for）。",
+      "definition": "1. To suffer from a continuous or prolonged dull pain.; 2. To feel an intense desire or longing for someone or something.",
+      "example": [
+        {
+          "eng": "My legs began to ache after walking for hours.",
+          "ch": "走了幾個小時後，我的腿開始隱隱作痛。"
+        },
+        {
+          "eng": "He aches to return to his hometown.",
+          "ch": "他渴望回到自己的家鄉。"
+        }
+      ]
+    },
+    {
+      "eng": "achieve",
+      "kk": "əˈtʃiv",
+      "tense": "vt.",
+      "ch": [
+        [
+          "實現",
+          "達成"
+        ],
+        [
+          "贏得",
+          "取得"
+        ]
+      ],
+      "analysis": "源自中古法語 achever（完成、達到），由拉丁語片語 ad caput venire（到達頂點／抵達頭部，由 ad 到 + caput 頭）演變而來。經由中世紀法語進入英語，核心義從「達到終點或目標」演變成現代的「透過努力實現目標或取得成就」。",
+      "definition": "1. To successfully bring about or reach a desired objective, level, or result by effort.; 2. To successfully gain or attain something through one's actions.",
+      "example": [
+        {
+          "eng": "She worked hard to achieve her career goals.",
+          "ch": "她努力實現她的職業目標。"
+        },
+        {
+          "eng": "The company achieved remarkable success this year.",
+          "ch": "這家公司今年取得了卓越的成功。"
+        }
+      ]
+    },
+    {
+      "eng": "achievement",
+      "kk": "əˈtʃivmənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "成就",
+          "成績"
+        ],
+        [
+          "達成",
+          "實現"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由動詞 achieve 加上名詞字尾 -ment（表示行為過程或結果）構成。用來指努力達成目標後所獲得的成果或成就本身。",
+      "definition": "1. A thing done successfully, typically by effort, courage, or skill.; 2. The process of achieving something.",
+      "example": [
+        {
+          "eng": "Winning the science prize was a great achievement for him.",
+          "ch": "贏得科學獎對他來說是一項偉大的成就。"
+        },
+        {
+          "eng": "The achievement of peace requires cooperation from all sides.",
+          "ch": "和平的實現需要各方的合作。"
+        }
+      ]
+    },
+    {
+      "eng": "additional",
+      "kk": "əˈdɪʃənəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "額外的",
+          "附加的"
+        ]
+      ],
+      "analysis": "此字由名詞 addition（加上、增加，源自拉丁語 additio）再加上形容詞字尾 -al 構成。用來形容在原有基礎上增加或補充的事物。",
+      "definition": "1. Added, extra, or more than what is already present or available.",
+      "example": [
+        {
+          "eng": "Please contact us if you need additional information.",
+          "ch": "如果您需要額外的資訊，請與我們聯繫。"
+        }
+      ]
+    },
+    {
+      "eng": "admire",
+      "kk": "ədˈmaɪr",
+      "tense": "vt.",
+      "ch": [
+        [
+          "欣賞",
+          "佩服"
+        ],
+        [
+          "讚賞",
+          "仰慕"
+        ]
+      ],
+      "analysis": "源自拉丁語 admirari（ad- 向 + mirari 驚奇、讚嘆，源自 mirus 奇妙的）。經由中古法語 admirer 進入英語。原意為「對某事感到驚奇或注視」，後演變為現代對人或物的正面讚賞、尊敬與喜愛。",
+      "definition": "1. To regard an object, quality, or person with respect and warm approval.; 2. To look at something with pleasure.",
+      "example": [
+        {
+          "eng": "I deeply admire her dedication to public service.",
+          "ch": "我深深佩服她對公共服務的奉獻精神。"
+        },
+        {
+          "eng": "We stood for a while to admire the beautiful sunset.",
+          "ch": "我們站了一會兒，欣賞美麗的日落。"
+        }
+      ]
+    },
+    {
+      "eng": "advanced",
+      "kk": "ədˈvænst",
+      "tense": "adj.",
+      "ch": [
+        [
+          "先進的",
+          "高階的"
+        ],
+        [
+          "高齡的",
+          "年邁的"
+        ]
+      ],
+      "analysis": "為動詞 advance（前進、推進，源自拉丁語 ab- + ante 前面，經古法語 avancer 傳入）的過去分詞轉化而來的形容詞。原意為「向前推進的」，引申出技術或水準的「先進、高深」，以及指年紀時的「年事已高的」。",
+      "definition": "1. Modern and well-developed; far on in progress or complexity.; 2. Advanced in age (elderly).",
+      "example": [
+        {
+          "eng": "The factory uses advanced technology to improve efficiency.",
+          "ch": "該工廠使用先進的技術來提高效率。"
+        },
+        {
+          "eng": "Despite his advanced age, he still reads every day.",
+          "ch": "儘管他年事已高，他仍然每天閱讀。"
+        }
+      ]
+    },
+    {
+      "eng": "advantage",
+      "kk": "ədˈvæntɪdʒ",
+      "tense": "n.",
+      "ch": [
+        [
+          "優勢",
+          "有利條件"
+        ],
+        [
+          "好處",
+          "益處"
+        ]
+      ],
+      "analysis": "源自古法語 avantage（優越、利益，源自 avant 在前面）。字根源自拉丁語 ab ante（在前面）。原意為「處於領先或前面的地位」，後演變為現代的「優勢、有利於成功的條件或好處」。",
+      "definition": "1. A condition or circumstance that puts one in a favorable or superior position.; 2. A benefit or profit gained from something.",
+      "example": [
+        {
+          "eng": "Speaking two languages gives her a great advantage in the job market.",
+          "ch": "會說兩種語言為她在求職市場上帶來了極大的優勢。"
+        },
+        {
+          "eng": "Take full advantage of the training opportunities.",
+          "ch": "充分利用這些培訓機會的好處。"
+        }
+      ]
+    },
+    {
+      "eng": "adventure",
+      "kk": "ədˈvɛntʃər",
+      "tense": "n.",
+      "ch": [
+        [
+          "冒險",
+          "奇遇"
+        ],
+        [
+          "冒險活動"
+        ]
+      ],
+      "analysis": "源自拉丁語 adventura（即將發生之事、奇遇，源自 advenire 到來、發生，由 ad- + venire 來）。經由古法語 aventure 進入英語。原意為「命運安排的偶發事件或遭遇」，後來演變成現代具有刺激性、探索性的「冒險活動或奇遇」。",
+      "definition": "1. An unusual and exciting, typically hazardous, experience or activity.; 2. The engagement in risky or daring activities.",
+      "example": [
+        {
+          "eng": "They set off on a dangerous adventure across the jungle.",
+          "ch": "他們出發展開一場穿越叢林的危險冒險。"
+        },
+        {
+          "eng": "Traveling alone in foreign countries is a true adventure.",
+          "ch": "在異國獨自旅行是一場真正的奇遇。"
+        }
+      ]
+    },
+    {
+      "eng": "advertise",
+      "kk": "ˈædvərˌtaɪz",
+      "tense": "vt.",
+      "ch": [
+        [
+          "為……做廣告",
+          "登廣告宣傳"
+        ],
+        [
+          "公告",
+          "公佈"
+        ]
+      ],
+      "analysis": "源自拉丁語 advertere（注意，由 ad- + vertere 轉動），經古法語 advertir，再演變出中世紀英語的 advertizen。原意是「使某人注意某事」，後在近代演變成專門指「透過大眾媒體為商品、服務或職缺做廣告宣傳或發布公告」。",
+      "definition": "1. To make the public aware of a product, service, or event in order to sell or encourage it.; 2. To publicize a job opening or notice.",
+      "example": [
+        {
+          "eng": "The company decided to advertise their new product on television.",
+          "ch": "該公司決定在電視上為他們的新產品做廣告。"
+        },
+        {
+          "eng": "They plan to advertise the vacant position next week.",
+          "ch": "他們計畫在下週公佈空缺職位。"
+        }
+      ]
+    },
+    {
+      "eng": "advertisement",
+      "kk": "ˌædvərˈtaɪzmənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "廣告",
+          "宣傳"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由動詞 advertise 加上名詞字尾 -ment（表行為結果）構成，用來指宣傳用的廣告內容或公告。",
+      "definition": "1. A notice or announcement in a public medium promoting a product, service, or event.",
+      "example": [
+        {
+          "eng": "I saw an advertisement for a cheap flight online.",
+          "ch": "我在網路上看到一張便宜機票的廣告。"
+        }
+      ]
+    },
+    {
+      "eng": "ad",
+      "kk": "æd",
+      "tense": "n.",
+      "ch": [
+        [
+          "廣告"
+        ]
+      ],
+      "analysis": "此字為單字 advertisement 的現代截短形式（clipping），在日常溝通與商業中被廣泛作為「廣告」的簡稱使用。",
+      "definition": "1. An advertisement.",
+      "example": [
+        {
+          "eng": "She spotted a job ad in the local newspaper.",
+          "ch": "她在當地報紙上發現了一則工作廣告。"
+        }
+      ]
+    },
+    {
+      "eng": "advise",
+      "kk": "ədˈvaɪz",
+      "tense": "vt.",
+      "ch": [
+        [
+          "建議",
+          "勸告"
+        ],
+        [
+          "向……提供專業意見",
+          "忠告"
+        ]
+      ],
+      "analysis": "源自拉丁語 ad-（向）與 visare（看、審視，videre 的頻動詞形式），經由古法語 aviser（形成意見、考慮）進入英語。字面義為「針對情況審視後給予意見」，演變為現代的「建議、勸告或提供專業諮詢」。",
+      "definition": "1. To offer suggestions about the best course of action to someone.; 2. To give professional or expert opinion or counsel.",
+      "example": [
+        {
+          "eng": "I advise you to consult a doctor about your symptoms.",
+          "ch": "我建議你針對你的症狀去諮詢醫生。"
+        },
+        {
+          "eng": "She advises the board on financial matters.",
+          "ch": "她就財務事項向董事會提供專業諮詢。"
+        }
+      ]
+    },
+    {
+      "eng": "adviser",
+      "kk": "ədˈvaɪzər",
+      "tense": "n.",
+      "ch": [
+        [
+          "顧問",
+          "指導者"
+        ]
+      ],
+      "analysis": "此字由動詞 advise 加上表示人的名詞字尾 -er 構成。拼法上與 advisor 共存，指提供建議或指導的專家。",
+      "definition": "1. A person who gives expert advice, typically in a particular field.",
+      "example": [
+        {
+          "eng": "He works as a financial adviser for a major bank.",
+          "ch": "他是一家大銀行的高級財務顧問。"
+        }
+      ]
+    },
+    {
+      "eng": "advisor",
+      "kk": "ədˈvaɪzər",
+      "tense": "n.",
+      "ch": [
+        [
+          "顧問",
+          "導師"
+        ]
+      ],
+      "analysis": "此字由動詞 advise 加上拉丁來源的代理人字尾 -or 構成（與 adviser 同義且拼法常見），用來指提供專業諮詢或學術指導的顧問。",
+      "definition": "1. A person who gives advice, especially someone who is an expert in a particular field.",
+      "example": [
+        {
+          "eng": "My academic advisor helped me choose my courses for the semester.",
+          "ch": "我的學業導師幫我選擇了這學期的課程。"
+        }
+      ]
+    },
+    {
+      "eng": "afford",
+      "kk": "əˈfɔrd",
+      "tense": "vt.",
+      "ch": [
+        [
+          "負擔得起",
+          "買得起"
+        ],
+        [
+          "抽得出（時間、金錢等）",
+          "承受得起"
+        ]
+      ],
+      "analysis": "源自古英語 geforthian（推進、完成、提供），前綴 ge- 逐漸脫落，演變成 forthian。中古英語轉變為 afforfen / afford，原意為「提供、出產」，後引申出「有能力支付費用或時間」的現代核心義。",
+      "definition": "1. To have enough money or time to buy or do something.; 2. To be able to bear the consequence of something without serious harm.",
+      "example": [
+        {
+          "eng": "We can't afford to buy a new car right now.",
+          "ch": "我們現在買不起新車。"
+        },
+        {
+          "eng": "She can't afford to make any more mistakes on this project.",
+          "ch": "她承擔不起在這個專案上再犯任何錯誤的後果。"
+        }
+      ]
+    },
+    {
+      "eng": "afterward",
+      "kk": "ˈæftərwərd",
+      "tense": "adv.",
+      "ch": [
+        [
+          "後來",
+          "隨後"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由古英語 æfter（在……之後）與副詞字尾 -ward（表示方向，源自 weard）結合而成。字面義為「朝著後面的時間方向」，即後來、隨後。",
+      "definition": "1. At a later time; subsequently.",
+      "example": [
+        {
+          "eng": "We had dinner first and went to the cinema afterward.",
+          "ch": "我們先吃晚餐，後來去了電影院。"
+        }
+      ]
+    },
+    {
+      "eng": "afterwards",
+      "kk": "ˈæftərwərdz",
+      "tense": "adv.",
+      "ch": [
+        [
+          "後來",
+          "隨後"
+        ]
+      ],
+      "analysis": "此字為 afterward 的複數/所有格副詞形式（帶有 -s 副詞字尾，在英語中很常見），意義與 afterward 完全相同，指在某個時間點之後發生的事。",
+      "definition": "1. At a later time; subsequently.",
+      "example": [
+        {
+          "eng": "The rain stopped, and the sun came out shortly afterwards.",
+          "ch": "雨停了，不久之後太陽就出來了。"
+        }
+      ]
+    },
+    {
+      "eng": "agriculture",
+      "kk": "ˈægrɪˌkʌltʃər",
+      "tense": "n.",
+      "ch": [
+        [
+          "農業",
+          "農藝"
+        ]
+      ],
+      "analysis": "源自拉丁語 agricultura（ager 田地 + cultura 耕種、栽培，源自 colere 耕種）。經由中古法語進入英語。字面意思是「田地的耕種」，演變成現代專門指「農業、農耕及相關產業」。",
+      "definition": "1. The science or practice of farming, including cultivation of the soil for the growing of crops and the rearing of animals.",
+      "example": [
+        {
+          "eng": "The country's economy relies heavily on agriculture.",
+          "ch": "該國的經濟高度依賴農業。"
+        }
+      ]
+    },
+    {
+      "eng": "airline",
+      "kk": "ˈɛrˌlaɪn",
+      "tense": "n.",
+      "ch": [
+        [
+          "航空公司"
+        ]
+      ],
+      "analysis": "此字為現代複合詞，由 air（空中、航空）與 line（線路、航線）組合而成。原指空中航線，後引申為經營空中運輸業務的「航空公司」。",
+      "definition": "1. A company providing regular services for the transport of passengers and goods by aircraft.",
+      "example": [
+        {
+          "eng": "Which airline are you flying with to Japan?",
+          "ch": "你搭乘哪家航空公司的班機去日本？"
+        }
+      ]
+    },
+    {
+      "eng": "alley",
+      "kk": "ˈæli",
+      "tense": "n.",
+      "ch": [
+        [
+          "小巷",
+          "胡同"
+        ],
+        [
+          "球道（如保齡球道）"
+        ]
+      ],
+      "analysis": "源自古法語 alee（行走、通道，源自 aller 去）。經由法語進入英語。原意為「走道或小路」，後來演變成城市中的「狹窄小巷」或特定運動的「球道」。",
+      "definition": "1. A narrow street or passageway between or behind buildings.; 2. A long, narrow lane used for bowling or other games.",
+      "example": [
+        {
+          "eng": "The stray cat ran down a dark alley.",
+          "ch": "那隻流浪貓跑進了一條黑暗的小巷。"
+        },
+        {
+          "eng": "He rolled a strike on the bowling alley.",
+          "ch": "他在保齡球道上投出了一個全倒。"
+        }
+      ]
+    },
+    {
+      "eng": "almond",
+      "kk": "ˈɑmənd",
+      "tense": "n.",
+      "ch": [
+        [
+          "杏仁",
+          "杏樹"
+        ]
+      ],
+      "analysis": "源自拉丁語 amygdala（源自古希臘語 ἀμυγδαλῆ 杏樹），經由俗拉丁語 amandula，再透過古法語 almande 進入英語（早期拼法有 l，後受法語影響固定）。指杏樹的果實或其可食用的杏仁。",
+      "definition": "1. The oval-shaped edible seed of the almond tree, growing in a woody shell.",
+      "example": [
+        {
+          "eng": "She added some chopped almonds to the cake.",
+          "ch": "她在蛋糕裡加了一些切碎的杏仁。"
+        }
+      ]
+    },
+    {
+      "eng": "alphabet",
+      "kk": "ˈælfəˌbɛt",
+      "tense": "n.",
+      "ch": [
+        [
+          "字母表",
+          "字母系統"
+        ]
+      ],
+      "analysis": "源自拉丁語 alphabetum，由希臘語前兩個字母 ἄλφα (alpha) 與 βῆτα (beta) 組合而成。原意為「希臘字母表的前兩個字母」，後泛指任何語言的「字母系統」。",
+      "definition": "1. A set of letters or symbols in a fixed order, used to represent the basic sounds of a language.",
+      "example": [
+        {
+          "eng": "Children learn the English alphabet in kindergarten.",
+          "ch": "小孩子在幼稚園學習英文字母表。"
+        }
+      ]
+    },
+    {
+      "eng": "amaze",
+      "kk": "əˈmeɪz",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使驚奇",
+          "使驚嘆"
+        ]
+      ],
+      "analysis": "源自中古法語 amaser 或古英語 amasian（使陷入迷惘、使震驚），由字首 a- 加上 mase（困惑、迷惘，源自 maze 迷宮）。原意為「使陷入迷宮般的困惑或驚愕」，後演變成現代的「使人感到非常驚奇或驚嘆」。",
+      "definition": "1. To surprise someone greatly; to fill with wonder.",
+      "example": [
+        {
+          "eng": "His magical performance never fails to amaze the audience.",
+          "ch": "他的魔術表演總是能讓觀眾驚嘆不已。"
+        }
+      ]
+    },
+    {
+      "eng": "amazement",
+      "kk": "əˈmeɪzmənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "驚奇",
+          "驚愕"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由動詞 amaze 加上名詞字尾 -ment（表心理狀態或結果）構成，用來指感到極度驚奇的狀態。",
+      "definition": "1. A feeling of great surprise and wonder.",
+      "example": [
+        {
+          "eng": "To our amazement, she solved the complex problem in seconds.",
+          "ch": "讓我們大為驚奇的是，她在幾秒鐘內就解開了這道複雜的難題。"
+        }
+      ]
+    },
+    {
+      "eng": "ambassador",
+      "kk": "æmˈbæsədər",
+      "tense": "n.",
+      "ch": [
+        [
+          "大使",
+          "使節"
+        ],
+        [
+          "代表",
+          "使者"
+        ]
+      ],
+      "analysis": "源自拉丁語 ambactus（僕人、使者，源自凱爾特語族），經義大利語 ambasciatore、中古法語 embassadeur 進入英語。原指國與國之間的官方使節，後引申為代表某個國家或組織的「大使或代言人」。",
+      "definition": "1. An accredited diplomat sent by a country as its official representative to a foreign country.; 2. A person who acts as a representative or promoter of a specified activity.",
+      "example": [
+        {
+          "eng": "The American ambassador to France hosted a grand reception.",
+          "ch": "美國駐法國大使舉辦了一場盛大的招待會。"
+        },
+        {
+          "eng": "She serves as a cultural ambassador for her country.",
+          "ch": "她擔任她國家的文化大使。"
+        }
+      ]
+    },
+    {
+      "eng": "ambition",
+      "kk": "æmˈbɪʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "雄心",
+          "抱負"
+        ],
+        [
+          "野心",
+          "追求的目標"
+        ]
+      ],
+      "analysis": "源自拉丁語 ambitio（拉票、尋求權力，源自 ambire 周圍走動，由 ambi- 周圍 + ire 走）。在古羅馬指候選人四處奔走拉票以求獲得權力，後演變成現代的「企圖心、抱負、野心或宏大目標」。",
+      "definition": "1. A strong desire to do or to achieve something, typically requiring determination and hard work.; 2. Desire for success, power, or wealth.",
+      "example": [
+        {
+          "eng": "His lifelong ambition is to become a successful novelist.",
+          "ch": "他一生的抱負是成為一名成功的小說家。"
+        },
+        {
+          "eng": "She has the ambition and talent to run a large company.",
+          "ch": "她有經營大公司的野心和才華。"
+        }
+      ]
+    },
+    {
+      "eng": "ambulance",
+      "kk": "ˈæmbjələns",
+      "tense": "n.",
+      "ch": [
+        [
+          "救護車"
+        ]
+      ],
+      "analysis": "源自拉丁語 ambulare（走動、移動）的動名詞形式（ambulans 移動的）。原指戰場上移動式的野戰醫院（ambulance volante），後來在近代轉變為專門指運送傷病患的「救護車」。",
+      "definition": "1. A vehicle equipped for taking sick or injured people to and from a hospital.",
+      "example": [
+        {
+          "eng": "Call an ambulance immediately! There has been a severe accident.",
+          "ch": "馬上叫救護車！發生了一起嚴重的事故。"
+        }
+      ]
+    },
+    {
+      "eng": "angel",
+      "kk": "ˈeɪndʒəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "天使",
+          "善良可愛的人"
+        ]
+      ],
+      "analysis": "源自拉丁語 angelus，源自希臘語 ἄγγελος (angelos，意為「信使」）。在基督教傳統中專門用來指神的信使或天神的「天使」，後也引申用來形容心地善良、品格高尚的人。",
+      "definition": "1. A spiritual being acting as a divine messenger, typically depicted with wings.; 2. A very kind, helpful, or beautiful person.",
+      "example": [
+        {
+          "eng": "In paintings, angels are often portrayed with white wings.",
+          "ch": "在繪畫中，天使常被描繪成帶著白色的翅膀。"
+        },
+        {
+          "eng": "You're an absolute angel for helping me with this report.",
+          "ch": "你幫我做這份報告，真是個好心的小天使。"
+        }
+      ]
+    },
+    {
+      "eng": "announce",
+      "kk": "əˈnaʊns",
+      "tense": "vt.",
+      "ch": [
+        [
+          "宣布",
+          "宣告"
+        ],
+        [
+          "廣播通知"
+        ]
+      ],
+      "analysis": "源自拉丁語 annuntiare（ad- 向 + nuntiare 報告、告知，源自 nuntius 信使）。經由中古法語 anuncier 進入英語。原意為「向眾人報告消息」，演變成現代公開「宣布、宣告或通知」某事。",
+      "definition": "1. To make a public and formal declaration about something.; 2. To make known by a public statement.",
+      "example": [
+        {
+          "eng": "The government announced a new plan to reduce carbon emissions.",
+          "ch": "政府宣布了一項減少碳排放的新計畫。"
+        },
+        {
+          "eng": "The flight attendant announced that the plane was ready for boarding.",
+          "ch": "空服員廣播宣佈飛機已經準備好登機。"
+        }
+      ]
+    },
+    {
+      "eng": "announcement",
+      "kk": "əˈnaʊnsmənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "公告",
+          "宣布"
+        ],
+        [
+          "聲明"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由動詞 announce 加上名詞字尾 -ment（表結果或行動）構成，用來指公開宣布的消息或公告。",
+      "definition": "1. A public and formal statement about a fact, occurrence, or intention.",
+      "example": [
+        {
+          "eng": "We are waiting for the official announcement of the exam results.",
+          "ch": "我們在等待考試成績的官方公告。"
+        }
+      ]
+    },
+    {
+      "eng": "anxious",
+      "kk": "ˈæŋʃəs",
+      "tense": "adj.",
+      "ch": [
+        [
+          "焦慮的",
+          "擔心的"
+        ],
+        [
+          "渴望的",
+          "急切的"
+        ]
+      ],
+      "analysis": "源自拉丁語 anxius（局促不安的、憂慮的，源自 angere 勒緊、使窒息）。原意指身體被掐住或心神不安的窒息感，演變為現代心理上的「焦慮不安」或「急切渴望」。",
+      "definition": "1. Experiencing worry, unease, or nervousness, typically about an imminent event or something with an uncertain outcome.; 2. Extremely desirous of something; eager.",
+      "example": [
+        {
+          "eng": "She felt anxious before the job interview.",
+          "ch": "面試前她感到很焦慮。"
+        },
+        {
+          "eng": "The children are anxious to open their birthday presents.",
+          "ch": "孩子們急切地想打開他們的生日禮物。"
+        }
+      ]
+    },
+    {
+      "eng": "anyhow",
+      "kk": "ˈɛniˌhaʊ",
+      "tense": "adv.",
+      "ch": [
+        [
+          "無論如何",
+          "反正"
+        ],
+        [
+          "不管怎樣"
+        ]
+      ],
+      "analysis": "此字為現代複合詞，由不定代詞 any 與名詞/副詞 how（如何、用甚麼方式）組合而成。原意為「以任何方式」，後引申為口語中經常用於轉換話題或表示「不管怎樣、反正」的副詞。",
+      "definition": "1. Used to indicate that a statement applies regardless of what has just been said; anyway.; 2. In any way whatever.",
+      "example": [
+        {
+          "eng": "I didn't really like the movie, but I went to see it anyhow.",
+          "ch": "我其實不怎麼喜歡那部電影，但不管怎樣我還是去看了。"
+        }
+      ]
+    },
+    {
+      "eng": "apart",
+      "kk": "əˈpɑrt",
+      "tense": "adv.",
+      "ch": [
+        [
+          "分開地",
+          "相隔"
+        ],
+        [
+          "碎裂",
+          "成碎片"
+        ]
+      ],
+      "analysis": "源自古法語 a parte（一邊、分開，源自拉丁語 ad partem）。字面意思是「在側邊或分成部分」，在歷史演變中固定為表示空間距離的「相隔」、物體解體的「破碎」或概念上的「除外」。",
+      "definition": "1. Separated by a distance in space or time.; 2. Into pieces or fragments.",
+      "example": [
+        {
+          "eng": "The two houses are only a few yards apart.",
+          "ch": "這兩棟房子僅相隔幾碼的距離。"
+        },
+        {
+          "eng": "The old toy fell apart in his hands.",
+          "ch": "那件舊玩具在他手中碎裂開來。"
+        }
+      ]
+    },
+    {
+      "eng": "apologize",
+      "kk": "əˈpɑləˌdʒaɪz",
+      "tense": "vi.",
+      "ch": [
+        [
+          "道歉",
+          "認錯"
+        ]
+      ],
+      "analysis": "源自希臘語 ἀπολογία (apologia，辯護、為自己辯解，由 ἀπό apo- 離開 + λόγος logos 言詞)。早期在英語中意為「辯護」，後在18世紀演變出「為過錯承認並道歉」的現代核心義。",
+      "definition": "1. To express regret for something that one has done wrong.",
+      "example": [
+        {
+          "eng": "He had to apologize to his colleague for being rude.",
+          "ch": "他必須為自己的無禮向同事道歉。"
+        }
+      ]
+    },
+    {
+      "eng": "appeal",
+      "kk": "əˈpil",
+      "tense": "n.",
+      "ch": [
+        [
+          "吸引力",
+          "感染力"
+        ],
+        [
+          "呼籲",
+          "懇求"
+        ],
+        [
+          "上訴"
+        ]
+      ],
+      "analysis": "源自拉丁語 appellare（向法庭起訴、呼喚，源自 ad- + pellere 推）。經由古法語 appeler 進入英語。原意為「向權威或法庭申訴」，後引申出「強烈的吸引力」以及大眾層面的「呼籲、懇求」。",
+      "definition": "1. The quality of being attractive or interesting.; 2. An earnest or urgent request, typically to the public.; 3. An application to a higher court for a decision to be reversed.",
+      "example": [
+        {
+          "eng": "The vintage design of the car has a wide appeal.",
+          "ch": "這輛車的復古設計具有廣泛的吸引力。"
+        },
+        {
+          "eng": "The charity made an urgent appeal for food and clothing.",
+          "ch": "該慈善機構發出了一項關於食物和衣物的緊急呼籲。"
+        },
+        {
+          "eng": "His lawyers filed an appeal against the court's decision.",
+          "ch": "他的律師對法院的判決提出了上訴。"
+        }
+      ]
+    },
+    {
+      "eng": "appeal",
+      "kk": "əˈpil",
+      "tense": "vi.",
+      "ch": [
+        [
+          "對……有吸引力",
+          "迎合喜好"
+        ],
+        [
+          "呼籲",
+          "懇求"
+        ],
+        [
+          "上訴"
+        ]
+      ],
+      "analysis": "源自拉丁語 appellare（向法庭起訴、呼喚，源自 ad- + pellere 推）。作為動詞使用時，指事物在心理上「吸引人」、向大眾「發出呼籲」或向法院提出「上訴」。",
+      "definition": "1. To be attractive or interesting to someone.; 2. To make a serious or urgent request, typically to the public.; 3. To apply to a higher court for a legal decision to be reviewed.",
+      "example": [
+        {
+          "eng": "Science fiction movies appeal strongly to teenagers.",
+          "ch": "科幻電影對青少年非常有吸引力。"
+        },
+        {
+          "eng": "The leaders appealed to the citizens to stay calm.",
+          "ch": "領袖們呼籲公民保持冷靜。"
+        },
+        {
+          "eng": "He decided to appeal to a higher court.",
+          "ch": "他決定向更高階的法院上訴。"
+        }
+      ]
+    },
+    {
+      "eng": "approve",
+      "kk": "əˈpruv",
+      "tense": "vt.",
+      "ch": [
+        [
+          "批准",
+          "正式核准"
+        ],
+        [
+          "贊成",
+          "認可"
+        ]
+      ],
+      "analysis": "源自拉丁語 approbare（證明、贊同，源自 ad- + probare 檢驗、證明優秀，源自 probus 誠實、優秀的）。經由中古法語 approuver 進入英語。原意為「透過檢驗而認為其優秀或正確」，演變為官方的「批准、核准」與個人意見的「贊成」。",
+      "definition": "1. To officially agree to or accept as satisfactory.; 2. To officially sanction or ratify.",
+      "example": [
+        {
+          "eng": "The city council approved the new building project.",
+          "ch": "市議會批准了這項新的建築計畫。"
+        },
+        {
+          "eng": "Parents do not always approve of their children's choices.",
+          "ch": "父母並不總是贊成他們孩子的選擇。"
+        }
+      ]
+    },
+    {
+      "eng": "apron",
+      "kk": "ˈeɪprən",
+      "tense": "n.",
+      "ch": [
+        [
+          "圍裙"
+        ]
+      ],
+      "analysis": "源自中古英語 naperon（源自古法語 nappe 桌布，源自拉丁語 mappa 巾、布）。由於字首的 n 被誤認為是不定冠詞 a（發生了語音重切分，即 metanalysis：a naperon 變成了 an apron），演變成了現代的 apron。原義為衣服前面穿戴的保護布料，即圍裙。",
+      "definition": "1. A protective garment worn over the front of one's clothes and tied at the waist.",
+      "example": [
+        {
+          "eng": "She wore a clean white apron while cooking dinner.",
+          "ch": "她在煮晚餐時戴著一條乾淨的白色圍裙。"
+        }
+      ]
+    },
+    {
+      "eng": "armed",
+      "kk": "ɑrmd",
+      "tense": "adj.",
+      "ch": [
+        [
+          "武裝的",
+          "備有武器的"
+        ]
+      ],
+      "analysis": "為名詞/動詞 arm（武器、武裝，源自拉丁語 arma 武器）的過去分詞轉化而來的形容詞。用來形容人或部隊攜帶武器、處於武裝狀態的。",
+      "definition": "1. Equipped with or carrying weapons.",
+      "example": [
+        {
+          "eng": "The guards were armed to protect the high-security facility.",
+          "ch": "警衛們配備了武器以保護高度安全設施。"
+        }
+      ]
+    },
+    {
+      "eng": "arrest",
+      "kk": "əˈrɛst",
+      "tense": "n.",
+      "ch": [
+        [
+          "逮捕",
+          "拘捕"
+        ],
+        [
+          "停止",
+          "心搏停止（醫學）"
+        ]
+      ],
+      "analysis": "源自拉丁語 adrestare（使停留，由 ad- + restare 停止、停留）。經由古法語 arester 進入英語。原意為「使停下、扣押」，在現代演變成法律上的「逮捕」或醫學上的「心搏停止（cardiac arrest）」。",
+      "definition": "1. The action of seizing someone by legal authority and taking them into custody.; 2. A stoppage or suspension of a process or function.",
+      "example": [
+        {
+          "eng": "The police made several arrests after the protest.",
+          "ch": "抗議活動後，警方進行了多次逮捕。"
+        },
+        {
+          "eng": "The patient suffered a sudden cardiac arrest.",
+          "ch": "這名病人突發心臟驟停。"
+        }
+      ]
+    },
+    {
+      "eng": "arrest",
+      "kk": "əˈrɛst",
+      "tense": "vt.",
+      "ch": [
+        [
+          "逮捕",
+          "拘留"
+        ],
+        [
+          "阻止",
+          "抑制"
+        ]
+      ],
+      "analysis": "源自拉丁語 adrestare（使停止），經古法語進入英語。字面意思是「攔下或扣押」，演變成現代法律上的「逮捕嫌犯」或抽象意義上的「阻止、抑制某事的發展（如抑制疾病或衰退）」。",
+      "definition": "1. To seize someone by legal authority and take them into custody.; 2. To stop or inhibit a process, disease, or motion.",
+      "example": [
+        {
+          "eng": "The police officers arrived quickly and arrested the thief.",
+          "ch": "警員迅速趕到並逮捕了小偷。"
+        },
+        {
+          "eng": "New medicines can help arrest the spread of the disease.",
+          "ch": "新藥物可以協助抑制該疾病的擴散。"
+        }
+      ]
+    },
+    {
+      "eng": "ash",
+      "kk": "æʃ",
+      "tense": "n.",
+      "ch": [
+        [
+          "灰",
+          "灰燼"
+        ],
+        [
+          "骨灰"
+        ]
+      ],
+      "analysis": "源自古英語 æsce（木灰、灰燼），屬於日耳曼語族繼承詞。原意指燃燒物質後殘留的粉末殘渣，後也引申指逝者的骨灰。",
+      "definition": "1. The powdery residue left after the burning of a substance.; 2. The cremated remains of a human body.",
+      "example": [
+        {
+          "eng": "The fireplace was full of grey ash after the fire.",
+          "ch": "大火過後，壁爐裡滿是灰色的灰燼。"
+        },
+        {
+          "eng": "They scattered his ashes in his favorite mountain.",
+          "ch": "他們將他的骨灰撒在他最喜歡的山裡。"
+        }
+      ]
+    },
+    {
+      "eng": "aside",
+      "kk": "əˈsaɪd",
+      "tense": "adv.",
+      "ch": [
+        [
+          "在旁邊",
+          "留出",
+          "撇開不談"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由字首 a-（源自古英語 on）與名詞 side（邊、側）結合而成。原意為「在側邊或移到一旁」，在現代常與動詞連用（如 put aside），表示暫時擱置或留出空間/時間。",
+      "definition": "1. To one side; out of the way.; 2. Reserved for a particular purpose.",
+      "example": [
+        {
+          "eng": "She pulled the curtain aside to look out the window.",
+          "ch": "她把窗簾拉到一旁以便向窗外看去。"
+        },
+        {
+          "eng": "Please set some money aside for emergencies.",
+          "ch": "請留出一些錢以備不時之需。"
+        }
+      ]
+    },
+    {
+      "eng": "assist",
+      "kk": "əˈsɪst",
+      "tense": "vt.",
+      "ch": [
+        [
+          "協助",
+          "幫助"
+        ]
+      ],
+      "analysis": "源自拉丁語 assistere（站在旁邊、協助，由 ad- + sistere 站立）。經由中古法語 assister 進入英語。原意是「站在旁邊幫忙」，演變成現代的「協助、幫助某人完成工作」。",
+      "definition": "1. To help someone, typically by doing a share of the work.",
+      "example": [
+        {
+          "eng": "The young lawyer was hired to assist the senior partner.",
+          "ch": "這位年輕律師被僱用來協助資深合夥人。"
+        }
+      ]
+    },
+    {
+      "eng": "assistant",
+      "kk": "əˈsɪstənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "助手",
+          "助理"
+        ],
+        [
+          "店員",
+          "售貨員"
+        ]
+      ],
+      "analysis": "為動詞 assist 的現在分詞轉化而來的名詞（字尾 -ant 表示人或物）。原意為「在旁協助的人」，演變成現代各種職場與商店中的「助理、助手或店員」。",
+      "definition": "1. A person who ranks below a senior person, whose job is to assist them.; 2. A shop assistant (store clerk).",
+      "example": [
+        {
+          "eng": "She works as a personal assistant to the director.",
+          "ch": "她擔任主任的私人助理。"
+        },
+        {
+          "eng": "A polite shop assistant helped me find the right size.",
+          "ch": "一位禮貌的店員幫我找到了合適的尺寸。"
+        }
+      ]
+    },
+    {
+      "eng": "assume",
+      "kk": "əˈsum",
+      "tense": "vt.",
+      "ch": [
+        [
+          "假設",
+          "認為"
+        ],
+        [
+          "承擔（責任等）",
+          "取得（權力、角色等）"
+        ]
+      ],
+      "analysis": "源自拉丁語 assumere（拿取、承擔，由 ad- + sumere 拿起、取用）。經由中古法語 assumer 進入英語。原意為「把某物拿過來或承擔在自己身上」，後來在歷史演變中分化出「在心智中將某事拿來當作前提（即假設）」與「承擔責任或職位」的雙重核心義。",
+      "definition": "1. To accept something as true without proof, or as a starting point for reasoning.; 2. To take on power, responsibility, or a role.",
+      "example": [
+        {
+          "eng": "I assume that you have already read the instructions.",
+          "ch": "我假設你已經讀過說明了。"
+        },
+        {
+          "eng": "The newly elected president will assume office next month.",
+          "ch": "新當選的總統將於下個月就職（承擔職務）。"
+        }
+      ]
+    },
+    {
+      "eng": "athlete",
+      "kk": "ˈæθlit",
+      "tense": "n.",
+      "ch": [
+        [
+          "運動員",
+          "田徑選手"
+        ]
+      ],
+      "analysis": "源自拉丁語 athleta，源自希臘語 ἀθλητής (athletes，競技者、競賽者，源自 ἆθλον athlon 競賽、獎品)。原指參加體育競技的選手，現代泛指各類運動員或擅長體育的人。",
+      "definition": "1. A person who is proficient in sports and physical exercises, especially track and field.",
+      "example": [
+        {
+          "eng": "Olympic athletes train for years to compete at the highest level.",
+          "ch": "奧林匹克運動員訓練多年，以在最高水準的賽事中競技。"
+        }
+      ]
+    },
+    {
+      "eng": "attitude",
+      "kk": "ˈætəˌtud",
+      "tense": "n.",
+      "ch": [
+        [
+          "態度",
+          "看法"
+        ],
+        [
+          "姿勢",
+          "體態"
+        ]
+      ],
+      "analysis": "源自義大利語 attitudine（適宜性、姿勢），源自晚期拉丁語 aptitudo（適合、適應，源自 aptus 合適的）。在文藝復興時期透過藝術術語引入，原指身體的「姿勢、姿態」，後來在心理學和日常語言中引申為對某事的「心態、態度或看法」。",
+      "definition": "1. A settled way of thinking or feeling about someone or something, typically reflected in a person's behavior.; 2. A position of the body.",
+      "example": [
+        {
+          "eng": "You need to change your negative attitude toward work.",
+          "ch": "你需要改變你對工作的消極態度。"
+        },
+        {
+          "eng": "The statue depicts a dancer in a graceful attitude.",
+          "ch": "這座雕像描繪了一位優美姿勢的舞者。"
+        }
+      ]
+    },
+    {
+      "eng": "attract",
+      "kk": "əˈtrækt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "吸引",
+          "引起（注意、興趣等）"
+        ]
+      ],
+      "analysis": "源自拉丁語 attractus，是 attrahere 的過去分詞（由 ad- 向 + trahere 拉、拖）。字面意思是「往自己這邊拉」，演變成現代抽象與具體層面的「吸引、誘發注意或興趣」。",
+      "definition": "1. To cause someone to choose to visit or get involved in something; to evoke interest or pleasure in someone.",
+      "example": [
+        {
+          "eng": "The new exhibition is expected to attract thousands of visitors.",
+          "ch": "預期這場新展覽將吸引數千名參觀者。"
+        }
+      ]
+    }
+  ]
+}

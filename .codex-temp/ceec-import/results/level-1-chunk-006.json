@@ -1,0 +1,1762 @@
+{
+  "level": 1,
+  "chunkIndex": 6,
+  "inputs": [
+    "drive",
+    "driver",
+    "drop",
+    "drum",
+    "dry",
+    "duck",
+    "during",
+    "each",
+    "ear",
+    "early",
+    "earth",
+    "east",
+    "easy",
+    "eat",
+    "egg",
+    "either",
+    "elephant",
+    "else",
+    "email",
+    "end",
+    "engineer",
+    "enjoy",
+    "enjoyment",
+    "enough",
+    "enter",
+    "envelope",
+    "eraser",
+    "error",
+    "even",
+    "evening",
+    "ever",
+    "every",
+    "everyone",
+    "everybody",
+    "everything",
+    "example",
+    "excellent",
+    "except",
+    "excited",
+    "exciting",
+    "exercise",
+    "expect",
+    "expensive",
+    "experience",
+    "explain",
+    "eye",
+    "face",
+    "fact",
+    "factory",
+    "fail"
+  ],
+  "rows": [
+    {
+      "eng": "drive",
+      "kk": "draɪv",
+      "tense": "n.",
+      "ch": [
+        [
+          "車程",
+          "乘車旅行"
+        ],
+        [
+          "驅動力",
+          "幹勁"
+        ],
+        [
+          "硬碟",
+          "驅動器"
+        ]
+      ],
+      "analysis": "由動詞 drive 轉品而成的名詞。語意從「開車的行動」延伸為「一段車程」，再引申為心理上的「驅動力、積極性」，在計算機領域中則指「讀取資料的裝置（硬碟/驅動器）」。",
+      "definition": "1. a trip made in a motor vehicle; 2. a strong natural motivation, drive, or energy; 3. a device that reads and writes data on a computer disk.",
+      "example": [
+        {
+          "eng": "It is a long drive from the city to the countryside.",
+          "ch": "從市區到鄉下是一段漫長的車程。"
+        },
+        {
+          "eng": "Her strong drive and dedication led to her promotion.",
+          "ch": "她強烈的積極心與奉獻精神促成了她的晉升。"
+        },
+        {
+          "eng": "I need to save these backup files to my external hard drive.",
+          "ch": "我需要將這些備份檔案儲存到我的外接硬碟。"
+        }
+      ]
+    },
+    {
+      "eng": "drive",
+      "kk": "draɪv",
+      "tense": "vt.",
+      "ch": [
+        [
+          "駕駛",
+          "開車"
+        ],
+        [
+          "驅使",
+          "迫使"
+        ],
+        [
+          "推進",
+          "推動"
+        ]
+      ],
+      "analysis": "此字為古英語繼承詞 drīfan（意為驅趕、推動），屬於不規則動詞（drive, drove, driven）。vt. 的語意從最初的「驅趕牲畜」演變出「駕駛車輛」，進而引申出心理上的「驅使某人做某事」以及抽象的「推動計畫或進展」。",
+      "definition": "1. to operate and control a motor vehicle; 2. to force someone or something to move or be in a particular state; 3. to propel or carry along forcefully.",
+      "example": [
+        {
+          "eng": "She learned how to drive a car when she was eighteen.",
+          "ch": "她十八歲時學會了開車。"
+        },
+        {
+          "eng": "The harsh weather drove them to seek shelter immediately.",
+          "ch": "惡劣的天氣迫使他們立即尋找避難所。"
+        },
+        {
+          "eng": "Strong leadership drove the company to achieve record profits.",
+          "ch": "強而有力的領導推動公司創造了創紀錄的利潤。"
+        }
+      ]
+    },
+    {
+      "eng": "drive",
+      "kk": "draɪv",
+      "tense": "vi.",
+      "ch": [
+        [
+          "開車",
+          "駕駛汽車"
+        ]
+      ],
+      "analysis": "此字為古英語繼承詞 drīfan 的不及物用法，指進行駕駛車輛的動作或行為，常見於描述行車狀態或能力。",
+      "definition": "1. to operate a motor vehicle and direct its course.",
+      "example": [
+        {
+          "eng": "He prefers to drive rather than take the train.",
+          "ch": "他比較喜歡開車而不喜歡坐火車。"
+        }
+      ]
+    },
+    {
+      "eng": "driver",
+      "kk": "ˈdraɪvər",
+      "tense": "n.",
+      "ch": [
+        [
+          "駕駛員",
+          "司機"
+        ],
+        [
+          "驅動程式"
+        ]
+      ],
+      "analysis": "由動詞 drive 加上表示人的名詞字尾 -er 構成（drive + -er）。基本義為「從事駕駛的人」，在計算機科學中借用此概念指稱控制硬體設備的「驅動程式」。",
+      "definition": "1. a person who operates a motor vehicle; 2. a software program that enables the computer to communicate with hardware.",
+      "example": [
+        {
+          "eng": "The bus driver greeted all the passengers as they boarded.",
+          "ch": "公車司機在乘客上車時向大家問好。"
+        },
+        {
+          "eng": "You need to update your graphics card driver for better performance.",
+          "ch": "你需要更新顯示卡驅動程式以獲得更好的效能。"
+        }
+      ]
+    },
+    {
+      "eng": "drop",
+      "kk": "drɑp",
+      "tense": "n.",
+      "ch": [
+        [
+          "滴",
+          "水滴"
+        ],
+        [
+          "落下",
+          "下降"
+        ],
+        [
+          "微量",
+          "少許"
+        ]
+      ],
+      "analysis": "由動詞 drop 同形轉品或繼承古英語同源名詞。原意指液體的「一滴」，引申為數值或高度的「下降」，以及表示極少量的修飾用法。",
+      "definition": "1. a small, rounded mass of liquid; 2. an act of falling or a downward movement; 3. a very small amount of something.",
+      "example": [
+        {
+          "eng": "A single drop of rain fell on her cheek.",
+          "ch": "一滴雨水落在了她的臉頰上。"
+        },
+        {
+          "eng": "There was a sudden drop in the stock market today.",
+          "ch": "今天股市出現了急遽下跌。"
+        },
+        {
+          "eng": "Add just a drop of vanilla extract to the batter.",
+          "ch": "在麵糊裡加一小滴香草精即可。"
+        }
+      ]
+    },
+    {
+      "eng": "drop",
+      "kk": "drɑp",
+      "tense": "vt.",
+      "ch": [
+        [
+          "落下",
+          "掉落"
+        ],
+        [
+          "放棄",
+          "中止"
+        ],
+        [
+          "降低",
+          "減少"
+        ]
+      ],
+      "analysis": "此字源自古英語 droppian（意為滴落）與Old Norse的 droppa，屬於規則動詞（drop, dropped, dropping）。vt. 常用於物體因重力而落下、放棄某個想法或習慣，以及使價格或數量降低。",
+      "definition": "1. to let or cause something to fall down; 2. to stop discussing, pursuing, or maintaining something; 3. to cause something to fall to a lower level or amount.",
+      "example": [
+        {
+          "eng": "She accidentally dropped her coffee cup on the floor.",
+          "ch": "她不小心把咖啡杯掉在地上。"
+        },
+        {
+          "eng": "They decided to drop the legal charges against him.",
+          "ch": "他們決定撤銷對他的法律指控。"
+        },
+        {
+          "eng": "The supermarket decided to drop its prices for the weekend.",
+          "ch": "這家超市決定在週末降低價格。"
+        }
+      ]
+    },
+    {
+      "eng": "drop",
+      "kk": "drɑp",
+      "tense": "vi.",
+      "ch": [
+        [
+          "落下",
+          "下跌"
+        ],
+        [
+          "下降",
+          "減弱"
+        ]
+      ],
+      "analysis": "源自古英語 droppian 的不及物用法，指物體自然落下，或數值、溫度、聲音等向下降低或減弱。",
+      "definition": "1. to fall downward; 2. to decrease in amount, degree, or intensity.",
+      "example": [
+        {
+          "eng": "Autumn leaves begin to drop from the trees in October.",
+          "ch": "秋天的樹葉在十月開始從樹上落下。"
+        },
+        {
+          "eng": "Temperatures usually drop sharply at night during winter.",
+          "ch": "冬天的夜晚氣溫通常會急劇下降。"
+        }
+      ]
+    },
+    {
+      "eng": "drum",
+      "kk": "drʌm",
+      "tense": "n.",
+      "ch": [
+        [
+          "鼓"
+        ],
+        [
+          "圓桶狀物"
+        ]
+      ],
+      "analysis": "此字為擬聲詞（或經由日耳曼語族傳入，如中荷蘭語 trommela），指打擊樂器「鼓」，因外形相似也延伸指各種圓桶狀容器（如油桶）。",
+      "definition": "1. a musical percussion instrument played by beating with sticks or hands; 2. a cylindrical container shaped like a drum.",
+      "example": [
+        {
+          "eng": "He plays the drum in a local rock band.",
+          "ch": "他在一個當地搖滾樂團裡打鼓。"
+        },
+        {
+          "eng": "The factory stored chemicals in large metal drums.",
+          "ch": "工廠將化學品儲存在大型金屬圓桶中。"
+        }
+      ]
+    },
+    {
+      "eng": "drum",
+      "kk": "drʌm",
+      "tense": "vi.",
+      "ch": [
+        [
+          "擊鼓",
+          "敲擊"
+        ]
+      ],
+      "analysis": "由名詞 drum 轉化而來的動詞，專指敲擊鼓或用手指等拍擊出節奏的動作。",
+      "definition": "1. to play a drum or tap rhythmically on a surface.",
+      "example": [
+        {
+          "eng": "She began to drum her fingers impatiently on the desk.",
+          "ch": "她開始不耐煩地在桌上用手指敲擊著。"
+        }
+      ]
+    },
+    {
+      "eng": "dry",
+      "kk": "draɪ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "弄乾",
+          "擦乾"
+        ]
+      ],
+      "analysis": "由形容詞 dry 轉化而來的及物動詞，指去除物體表面的水分或使其變乾。",
+      "definition": "1. to make something free from moisture or liquid.",
+      "example": [
+        {
+          "eng": "He used a fluffy towel to dry his hair after swimming.",
+          "ch": "他游泳後用蓬鬆的毛巾擦乾頭髮。"
+        }
+      ]
+    },
+    {
+      "eng": "dry",
+      "kk": "draɪ",
+      "tense": "vi.",
+      "ch": [
+        [
+          "變乾",
+          "乾透"
+        ]
+      ],
+      "analysis": "由形容詞 dry 轉化而來的不及物動詞，指水分蒸發或物體自行變乾的過程。",
+      "definition": "1. to become free from moisture or dry out.",
+      "example": [
+        {
+          "eng": "The paint will take about two hours to dry completely.",
+          "ch": "這漆大約需要兩小時才能完全乾透。"
+        }
+      ]
+    },
+    {
+      "eng": "dry",
+      "kk": "draɪ",
+      "tense": "adj.",
+      "ch": [
+        [
+          "乾的",
+          "乾燥的"
+        ],
+        [
+          "枯燥的",
+          "乏味的"
+        ]
+      ],
+      "analysis": "此字為古英語繼承詞 drȳge（意為乾燥的），形容詞用法指缺乏水分或雨水，引申可形容文章、演講等枯燥乏味。",
+      "definition": "1. free from moisture or liquid; 2. boring and uninteresting.",
+      "example": [
+        {
+          "eng": "Please hang the wet laundry outside so it can dry.",
+          "ch": "請把濕衣服掛在外面晾乾。"
+        },
+        {
+          "eng": "The lecture on tax law was extremely dry and technical.",
+          "ch": "那場關於稅法的講座非常枯燥且充滿專業術語。"
+        }
+      ]
+    },
+    {
+      "eng": "duck",
+      "kk": "dʌk",
+      "tense": "n.",
+      "ch": [
+        [
+          "鴨",
+          "鴨子"
+        ]
+      ],
+      "analysis": "此字為古英語繼承詞 duce（源自動詞 dūcan，意為潛水、低下頭），因鴨子常在水中潛水而得名。",
+      "definition": "1. a waterbird with a broad blunt bill, short legs, and webbed feet.",
+      "example": [
+        {
+          "eng": "Several ducks were swimming peacefully in the pond.",
+          "ch": "幾隻鴨子正平靜地在池塘裡游泳。"
+        }
+      ]
+    },
+    {
+      "eng": "duck",
+      "kk": "dʌk",
+      "tense": "vi.",
+      "ch": [
+        [
+          "低頭閃避",
+          "迅速蹲下"
+        ]
+      ],
+      "analysis": "源自古英語動詞 dūcan（潛水、彎身），引申為迅速低下頭或蹲下以閃避物體或危險的動作。",
+      "definition": "1. to lower the head or body quickly to avoid being hit or seen.",
+      "example": [
+        {
+          "eng": "He had to duck when the baseball flew close to his head.",
+          "ch": "當棒球從他頭頂飛過時，他不得不趕快低頭閃避。"
+        }
+      ]
+    },
+    {
+      "eng": "during",
+      "kk": "ˈdʊrɪŋ",
+      "tense": "prep.",
+      "ch": [
+        [
+          "在……期間"
+        ]
+      ],
+      "analysis": "源自中古英語 during（原為現在分詞 during 輸入自古法語 durer，源自拉丁語 durare「持續」），演變為純介系詞，表示某個事件或時間段持續的過程中。",
+      "definition": "1. throughout the entire course or duration of a period of time.",
+      "example": [
+        {
+          "eng": "Many tourists visit the coastal towns during the summer.",
+          "ch": "許多遊客在夏天期間造訪沿海城鎮。"
+        }
+      ]
+    },
+    {
+      "eng": "each",
+      "kk": "itʃ",
+      "tense": "det.",
+      "ch": [
+        [
+          "每個",
+          "各個"
+        ]
+      ],
+      "analysis": "此字為古英語繼承詞 ǣlc（由 ǣ「永恆、每一個」與 glīch「像」複合而成），作為限定詞時用來指群體中的每一個個體（強調個別考量）。",
+      "definition": "1. every one of two or more people or things, regarded and identified separately.",
+      "example": [
+        {
+          "eng": "Each student in the classroom received a textbook.",
+          "ch": "教室裡的每個學生都拿到了一本教科書。"
+        }
+      ]
+    },
+    {
+      "eng": "ear",
+      "kk": "ɪr",
+      "tense": "n.",
+      "ch": [
+        [
+          "耳朵",
+          "聽力"
+        ],
+        [
+          "穗",
+          "穀穗"
+        ]
+      ],
+      "analysis": "此字為古英語繼承詞 ēare（源自日耳曼語族），指聽覺器官「耳朵」，另外「玉米穗」則是歷史上同形異義的另一古英語詞 ēare（源自日耳曼語 *ahaz），在現代英語中合流為同形詞。",
+      "definition": "1. the organ of hearing and balance in humans and animals; 2. the seed-bearing head of a cereal plant such as corn.",
+      "example": [
+        {
+          "eng": "She whispered something softly into his ear.",
+          "ch": "她輕輕在他耳邊呢喃了一些話。"
+        },
+        {
+          "eng": "The farmer harvested fields of golden corn ears in autumn.",
+          "ch": "農夫在秋天收割了一田金黃的玉米穗。"
+        }
+      ]
+    },
+    {
+      "eng": "early",
+      "kk": "ˈɜrli",
+      "tense": "adj.",
+      "ch": [
+        [
+          "早的",
+          "初期的"
+        ]
+      ],
+      "analysis": "此字源自古英語 ǣrlīce（由 ǣr「之前、早」與 -līce「副詞/形容詞字尾」結合），指時間上在起初、正常時間之前或發展的早期階段。",
+      "definition": "1. happening or done before the usual or expected time; 2. situated near the beginning of a period or process.",
+      "example": [
+        {
+          "eng": "We caught an early flight to avoid airport traffic.",
+          "ch": "我們搭乘了早班機以避開機場交通尖峰。"
+        },
+        {
+          "eng": "Scientists are studying the early stages of the disease.",
+          "ch": "科學家們正在研究該疾病的初期階段。"
+        }
+      ]
+    },
+    {
+      "eng": "early",
+      "kk": "ˈɜrli",
+      "tense": "adv.",
+      "ch": [
+        [
+          "早地",
+          "提早"
+        ]
+      ],
+      "analysis": "由古英語同源副詞形式演變而來，用以修飾動詞，表示在預定或平常時間之前發生。",
+      "definition": "1. at or near the beginning of a period of time, or before the usual time.",
+      "example": [
+        {
+          "eng": "She always wakes up early to exercise before work.",
+          "ch": "她總是起得很早，在上班前運動。"
+        }
+      ]
+    },
+    {
+      "eng": "earth",
+      "kk": "ɜrθ",
+      "tense": "n.",
+      "ch": [
+        [
+          "地球"
+        ],
+        [
+          "泥土",
+          "地面"
+        ]
+      ],
+      "analysis": "此字為古英語繼承詞 eorðe（源自日耳曼語族），大寫時指我們居住的行星「地球」，小寫時則指地表土壤或泥土。",
+      "definition": "1. the planet on which we live, the third planet from the sun; 2. the soft substance of the ground; soil or dirt.",
+      "example": [
+        {
+          "eng": "Astronauts can see the beauty of the Earth from space.",
+          "ch": "太空人從太空中可以看到地球的美麗。"
+        },
+        {
+          "eng": "He dug a hole in the damp earth to plant the sapling.",
+          "ch": "他在潮濕的泥土裡挖了一個洞來種樹苗。"
+        }
+      ]
+    },
+    {
+      "eng": "east",
+      "kk": "iːst",
+      "tense": "n.",
+      "ch": [
+        [
+          "東方",
+          "東部"
+        ]
+      ],
+      "analysis": "此字為古英語繼承詞 ēast（源自日耳曼語族），指太陽升起的方向或地理上的東方。",
+      "definition": "1. the cardinal point of the compass opposite to west, where the sun rises.",
+      "example": [
+        {
+          "eng": "The sun rises in the east and sets in the west.",
+          "ch": "太陽從東方升起，在西方落下。"
+        }
+      ]
+    },
+    {
+      "eng": "east",
+      "kk": "iːst",
+      "tense": "adj.",
+      "ch": [
+        [
+          "東方的",
+          "東部的"
+        ]
+      ],
+      "analysis": "由名詞 east 直接轉用為形容詞，用以修飾位於東方的位置或方向。",
+      "definition": "1. lying toward or facing the east.",
+      "example": [
+        {
+          "eng": "They live in a quiet suburb on the east side of town.",
+          "ch": "他們住在鎮東邊一個安靜的郊區。"
+        }
+      ]
+    },
+    {
+      "eng": "east",
+      "kk": "iːst",
+      "tense": "adv.",
+      "ch": [
+        [
+          "向東",
+          "往東方"
+        ]
+      ],
+      "analysis": "副詞用法，用以修飾移動方向為東方。",
+      "definition": "1. toward the east.",
+      "example": [
+        {
+          "eng": "Drive straight down this highway, then turn east.",
+          "ch": "沿著這條高速公路直開，然後向東轉。"
+        }
+      ]
+    },
+    {
+      "eng": "easy",
+      "kk": "ˈiːzi",
+      "tense": "adj.",
+      "ch": [
+        [
+          "容易的",
+          "簡單的"
+        ],
+        [
+          "舒適的",
+          "安逸的"
+        ]
+      ],
+      "analysis": "源自中古英語 eisi（借自古法語 aisi「舒適的、寬裕的」，源自通俗拉丁語），進入英語後語義從「舒適、不費力的」擴大為「容易辦到的」。",
+      "definition": "1. achieved without great effort; not difficult; 2. free from worry, pain, or trouble.",
+      "example": [
+        {
+          "eng": "The math test was surprisingly easy for all the students.",
+          "ch": "對所有學生來說，這次數學考試出奇地簡單。"
+        },
+        {
+          "eng": "After years of hard work, he is finally enjoying an easy life.",
+          "ch": "經過多年的辛勤工作，他終於過著舒適安逸的生活。"
+        }
+      ]
+    },
+    {
+      "eng": "eat",
+      "kk": "iːt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "吃",
+          "進食"
+        ]
+      ],
+      "analysis": "此字為古英語繼承詞 etan（意為吃），屬於不規則動詞（eat, ate, eaten），為日耳曼語族的共同核心詞彙。",
+      "definition": "1. to put food into the mouth, chew it, and swallow it.",
+      "example": [
+        {
+          "eng": "The children love to eat fresh strawberries with cream.",
+          "ch": "孩子們喜歡吃加了鮮奶油的新鮮草莓。"
+        }
+      ]
+    },
+    {
+      "eng": "eat",
+      "kk": "iːt",
+      "tense": "vi.",
+      "ch": [
+        [
+          "吃飯",
+          "進食"
+        ]
+      ],
+      "analysis": "源自古英語 etan 的不及物用法，指進行吃東西或用餐的動作。",
+      "definition": "1. to take food into the body; have a meal.",
+      "example": [
+        {
+          "eng": "We usually eat around seven o'clock in the evening.",
+          "ch": "我們通常在晚上七點左右吃飯。"
+        }
+      ]
+    },
+    {
+      "eng": "egg",
+      "kk": "ɛɡ",
+      "tense": "n.",
+      "ch": [
+        [
+          "蛋",
+          "雞蛋"
+        ],
+        [
+          "卵"
+        ]
+      ],
+      "analysis": "此字源自古英語 ǣġ（源自日耳曼語族），指鳥類或爬蟲類等產下的蛋，亦可指生物學上的卵細胞。",
+      "definition": "1. an oval or round object laid by a female bird, reptile, or fish, containing a developing embryo; 2. a female reproductive cell.",
+      "example": [
+        {
+          "eng": "She fried two eggs and some bacon for breakfast.",
+          "ch": "她煎了兩個蛋和一些培根當早餐。"
+        },
+        {
+          "eng": "Female frogs lay thousands of eggs in the water.",
+          "ch": "雌蛙在水中產下數千顆卵。"
+        }
+      ]
+    },
+    {
+      "eng": "either",
+      "kk": "ˈiːðər",
+      "tense": "det.",
+      "ch": [
+        [
+          "任何一個",
+          "各方"
+        ]
+      ],
+      "analysis": "此字為古英語繼承詞 ǣġðer（意為兩者之一或兩者皆是），作為限定詞時指兩者當中的任一個。",
+      "definition": "1. one or the other of two people or things.",
+      "example": [
+        {
+          "eng": "You can park on either side of the narrow street.",
+          "ch": "你可以把車停在這條狹窄街道的任何一側。"
+        }
+      ]
+    },
+    {
+      "eng": "elephant",
+      "kk": "ˈɛləfənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "大象"
+        ]
+      ],
+      "analysis": "源自中古英語 elephant，經由古法語與拉丁語 elephantus，最終源自希臘語 elephas（象、象牙）。",
+      "definition": "1. a very large plant-eating mammal with a trunk, native to Africa and Asia.",
+      "example": [
+        {
+          "eng": "The majestic elephant used its long trunk to spray water.",
+          "ch": "雄偉的大象用它長長的鼻子噴水。"
+        }
+      ]
+    },
+    {
+      "eng": "else",
+      "kk": "ɛls",
+      "tense": "adv.",
+      "ch": [
+        [
+          "其他",
+          "另外"
+        ]
+      ],
+      "analysis": "此字為古英語繼承詞 elles（意為在其他情況下、另外），常接在疑問代名詞或不定代名詞之後表示「另外的、別的」。",
+      "definition": "1. in addition; besides; other than that.",
+      "example": [
+        {
+          "eng": "Would you like anything else to drink with your meal?",
+          "ch": "你的餐點還需要搭配其他喝的東西嗎？"
+        }
+      ]
+    },
+    {
+      "eng": "email",
+      "kk": "ˈiːˌmeɪl",
+      "tense": "n.",
+      "ch": [
+        [
+          "電子郵件"
+        ]
+      ],
+      "analysis": "現代複合詞，由 electronic（電子的）縮寫為 e- 加上 mail（郵件）組合而成，於 20 世紀末網際網路普及後廣泛使用。",
+      "definition": "1. messages distributed by electronic means from one computer user to one or more recipients via a network.",
+      "example": [
+        {
+          "eng": "I sent an important email to my boss this morning.",
+          "ch": "我今天早上寄了一封重要電子郵件給我的老闆。"
+        }
+      ]
+    },
+    {
+      "eng": "email",
+      "kk": "ˈiːˌmeɪl",
+      "tense": "vt.",
+      "ch": [
+        [
+          "發送電子郵件"
+        ]
+      ],
+      "analysis": "由名詞 email 轉化而來的及物動詞，指透過電子郵件系統傳送訊息。",
+      "definition": "1. to send a message by email.",
+      "example": [
+        {
+          "eng": "Please email me the completed report by Friday afternoon.",
+          "ch": "請在星期五下午前將完成的報告用電子郵件寄給我。"
+        }
+      ]
+    },
+    {
+      "eng": "end",
+      "kk": "ɛnd",
+      "tense": "n.",
+      "ch": [
+        [
+          "結尾",
+          "結束"
+        ],
+        [
+          "盡頭",
+          "末端"
+        ]
+      ],
+      "analysis": "此字為古英語繼承詞 ende（源自日耳曼語族），基本義為空間或時間的極限、終點或圓滿的結束。",
+      "definition": "1. the final part of something, or the point at which it stops; 2. the furthest part or extreme limit of an object or area.",
+      "example": [
+        {
+          "eng": "We all cried at the sad end of the movie.",
+          "ch": "我們都在電影悲傷的結尾哭了。"
+        },
+        {
+          "eng": "He stood waiting patiently at the far end of the hallway.",
+          "ch": "他耐心地站在走廊的盡頭等候。"
+        }
+      ]
+    },
+    {
+      "eng": "end",
+      "kk": "ɛnd",
+      "tense": "vt.",
+      "ch": [
+        [
+          "結束",
+          "終止"
+        ]
+      ],
+      "analysis": "由古英語動詞 endian（意為終止、結束）繼承而來，作為及物動詞指使某個動作、過程或狀態劃上句點。",
+      "definition": "1. to bring to a final point; cause to finish.",
+      "example": [
+        {
+          "eng": "The manager decided to end the meeting early.",
+          "ch": "經理決定提早結束會議。"
+        }
+      ]
+    },
+    {
+      "eng": "end",
+      "kk": "ɛnd",
+      "tense": "vi.",
+      "ch": [
+        [
+          "結束",
+          "終結"
+        ]
+      ],
+      "analysis": "由古英語動詞 endian 的不及物用法演變而來，指事件或過程自然走到終點。",
+      "definition": "1. to come to a final point or conclusion.",
+      "example": [
+        {
+          "eng": "The contract will officially end in December.",
+          "ch": "合約將於十二月正式結束。"
+        }
+      ]
+    },
+    {
+      "eng": "engineer",
+      "kk": "ˌɛndʒəˈnɪr",
+      "tense": "n.",
+      "ch": [
+        [
+          "工程師"
+        ],
+        [
+          "火車司機"
+        ]
+      ],
+      "analysis": "源自中古英語 enginour，借自古法語 engigneor，源自拉丁語 ingenium（才能、發明），加上表示職業的名詞字尾。原意指設計或操作機械（如攻城器械、火車）的人，現代多指科學工程專業人員。",
+      "definition": "1. a person who designs, builds, or maintains engines, machines, or structures; 2. a person who operates a railway locomotive.",
+      "example": [
+        {
+          "eng": "Software engineers develop applications for mobile devices.",
+          "ch": "軟體工程師為行動裝置開發應用程式。"
+        },
+        {
+          "eng": "The train engineer blew the whistle as it approached the station.",
+          "ch": "火車司機在接近車站時鳴響了汽笛。"
+        }
+      ]
+    },
+    {
+      "eng": "enjoy",
+      "kk": "ɪnˈdʒɔɪ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "喜歡",
+          "享受"
+        ],
+        [
+          "享有",
+          "擁有"
+        ]
+      ],
+      "analysis": "源自中古英語 enjoien，借自古法語 enjoier（由 en-「使成為」加 joie「快樂、joy」構成）。字面義為「使之充滿快樂」，引申為從某事物中獲得樂趣或享有某種權利與優勢。",
+      "definition": "1. to take delight or pleasure in an activity or occasion; 2. to possess and benefit from something good.",
+      "example": [
+        {
+          "eng": "I really enjoy reading historical novels on rainy afternoons.",
+          "ch": "我真的很喜歡在雨後下午閱讀歷史小說。"
+        },
+        {
+          "eng": "Citizens of this country enjoy freedom of speech.",
+          "ch": "這個國家的公民享有言論自由。"
+        }
+      ]
+    },
+    {
+      "eng": "enjoyment",
+      "kk": "ɪnˈdʒɔɪmənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "享受",
+          "樂趣"
+        ]
+      ],
+      "analysis": "現代透明構詞，由動詞 enjoy 加上名詞字尾 -ment 構成（enjoy + -ment），指獲得快樂、樂趣或喜悅的狀態。",
+      "definition": "1. the state or process of taking pleasure in something.",
+      "example": [
+        {
+          "eng": "Listening to classical music brings her endless enjoyment.",
+          "ch": "聆聽古典音樂為她帶來無盡的樂趣。"
+        }
+      ]
+    },
+    {
+      "eng": "enough",
+      "kk": "ɪˈnʌf",
+      "tense": "adv.",
+      "ch": [
+        [
+          "足夠地",
+          "十分"
+        ]
+      ],
+      "analysis": "作為副詞修飾形容詞、副詞或動詞，表示達到滿意的程度。",
+      "definition": "1. to the necessary degree or extent.",
+      "example": [
+        {
+          "eng": "The weather is warm enough to go swimming today.",
+          "ch": "今天天氣夠暖和，可以去游泳。"
+        }
+      ]
+    },
+    {
+      "eng": "enough",
+      "kk": "ɪˈnʌf",
+      "tense": "pron.",
+      "ch": [
+        [
+          "足夠",
+          "充分"
+        ]
+      ],
+      "analysis": "由古英語 ġenōh 獨立作為代名詞使用的延續，指滿足需求的份量或數量。",
+      "definition": "1. an adequate quantity or amount.",
+      "example": [
+        {
+          "eng": "I have had enough to eat, thank you.",
+          "ch": "我已經吃飽了，謝謝你。"
+        }
+      ]
+    },
+    {
+      "eng": "enough",
+      "kk": "ɪˈnʌf",
+      "tense": "det.",
+      "ch": [
+        [
+          "足夠的",
+          "充分的"
+        ]
+      ],
+      "analysis": "此字為古英語繼承詞 ġenōh（源自日耳曼語族，原意為充足的），作為限定詞時放在名詞前表示數量充足。",
+      "definition": "1. as much or as many as needed; adequate.",
+      "example": [
+        {
+          "eng": "We have enough time to finish the project before the deadline.",
+          "ch": "我們有足夠的時間在期限前完成專案。"
+        }
+      ]
+    },
+    {
+      "eng": "enter",
+      "kk": "ˈɛntər",
+      "tense": "vt.",
+      "ch": [
+        [
+          "進入"
+        ],
+        [
+          "參加"
+        ],
+        [
+          "登錄"
+        ]
+      ],
+      "analysis": "源自中古英語 entren，借自古法語 entrer，源自拉丁語 intrare（進入，源自 intra「在內部」）。及物動詞用法指進入某個空間、參加比賽或將資料輸入系統。",
+      "definition": "1. to come or go into a place; 2. to become a participant in a contest or activity; 3. to put data into a computer or record.",
+      "example": [
+        {
+          "eng": "Please knock on the door before you enter the office.",
+          "ch": "進入辦公室前請先敲門。"
+        },
+        {
+          "eng": "She decided to enter the annual science competition.",
+          "ch": "她決定參加年度科學競賽。"
+        },
+        {
+          "eng": "Enter your password to unlock the computer screen.",
+          "ch": "輸入你的密碼來解鎖電腦螢幕。"
+        }
+      ]
+    },
+    {
+      "eng": "enter",
+      "kk": "ˈɛntər",
+      "tense": "vi.",
+      "ch": [
+        [
+          "進入",
+          "登台"
+        ]
+      ],
+      "analysis": "源自拉丁語 intrare 的不及物用法，指走進某個範圍或在戲劇中登場。",
+      "definition": "1. to go or come in.",
+      "example": [
+        {
+          "eng": "The actor waited in the wings before he was scheduled to enter.",
+          "ch": "那名演員在側台等待，準備依排程登場。"
+        }
+      ]
+    },
+    {
+      "eng": "envelope",
+      "kk": "ˈɛnvəˌloʊp",
+      "tense": "n.",
+      "ch": [
+        [
+          "信封"
+        ],
+        [
+          "封套"
+        ]
+      ],
+      "analysis": "源自中古法語 enveloppe（動詞 enveloppler 的衍生名詞，由 en- 加veloppe「包裹、捲起」構成），進入英語後專指裝信件的紙質信封或包裹外殼。",
+      "definition": "1. a flat paper container used for enclosing a letter or document.",
+      "example": [
+        {
+          "eng": "She slipped the handwritten letter inside a white envelope.",
+          "ch": "她把手寫信件塞進一個白色信封裡。"
+        }
+      ]
+    },
+    {
+      "eng": "eraser",
+      "kk": "ɪˈreɪsər",
+      "tense": "n.",
+      "ch": [
+        [
+          "橡皮擦",
+          "黑板擦"
+        ]
+      ],
+      "analysis": "由動詞 erase（源自拉丁語 eradere「刮除、擦掉」）加上名詞字尾 -er 構成（erase + -er），指用於擦除鉛筆字跡或黑板粉筆字的小工具。",
+      "definition": "1. an object, typically made of rubber, used for rubbing out pencil marks; 2. a pad for wiping chalk off a blackboard.",
+      "example": [
+        {
+          "eng": "He made a mistake in his drawing and used an eraser to fix it.",
+          "ch": "他在畫畫時犯了一個錯，並用橡皮擦來修正它。"
+        }
+      ]
+    },
+    {
+      "eng": "error",
+      "kk": "ˈɛrər",
+      "tense": "n.",
+      "ch": [
+        [
+          "錯誤",
+          "失誤"
+        ]
+      ],
+      "analysis": "源自中古英語 error，借自古法語 erreor，源自拉丁語 error（源自 errare「漫遊、犯錯」）。指行為、計算或判斷上的偏差或錯誤。",
+      "definition": "1. a mistake, incorrect action, or miscalculation.",
+      "example": [
+        {
+          "eng": "The accountant found a small financial error in the balance sheet.",
+          "ch": "會計師在資產負債表中發現了一個小的財務錯誤。"
+        }
+      ]
+    },
+    {
+      "eng": "even",
+      "kk": "ˈiːvən",
+      "tense": "adj.",
+      "ch": [
+        [
+          "平坦的",
+          "平的"
+        ],
+        [
+          "偶數的"
+        ],
+        [
+          "均勻的",
+          "相等的"
+        ]
+      ],
+      "analysis": "此字為古英語繼承詞 ǣfn(e)（意為平坦的、平等的），形容詞用法涵蓋表面平整、數字可被 2 整除（偶數），或分配均勻。",
+      "definition": "1. flat and smooth; without bumps or lumps; 2. divisible by two without a remainder; 3. equal in number, amount, or degree.",
+      "example": [
+        {
+          "eng": "They paved the soil to make the playground surface even.",
+          "ch": "他們鋪平土壤，使遊樂場表面平坦。"
+        },
+        {
+          "eng": "Four is an even number, while three is odd.",
+          "ch": "四是偶數，而三是奇數。"
+        },
+        {
+          "eng": "The two teams played a very close game with an even score.",
+          "ch": "這兩支球隊打了一場比分相等的膠著比賽。"
+        }
+      ]
+    },
+    {
+      "eng": "even",
+      "kk": "ˈiːvən",
+      "tense": "adv.",
+      "ch": [
+        [
+          "甚至"
+        ]
+      ],
+      "analysis": "由古英語副詞用法演變而來，用以加強語氣，表示超越預期或極端的程度（甚至）。",
+      "definition": "1. used to emphasize something surprising, extreme, or unlikely.",
+      "example": [
+        {
+          "eng": "It was so cold that even the small lake froze over.",
+          "ch": "天氣太冷了，甚至連小湖都結冰了。"
+        }
+      ]
+    },
+    {
+      "eng": "evening",
+      "kk": "ˈivnɪŋ",
+      "tense": "n.",
+      "ch": [
+        [
+          "傍晚",
+          "晚上"
+        ]
+      ],
+      "analysis": "由古英語 ēfen（傍晚）加上後綴 -ing 演變而來（ēfnung），指白天結束、夜幕初降的傍晚時段。",
+      "definition": "1. the period of time at the end of the day, usually from late afternoon until night.",
+      "example": [
+        {
+          "eng": "They like to take a quiet walk in the park every evening.",
+          "ch": "他們喜歡每天晚上在公園裡安靜散步。"
+        }
+      ]
+    },
+    {
+      "eng": "ever",
+      "kk": "ˈɛvər",
+      "tense": "adv.",
+      "ch": [
+        [
+          "曾經"
+        ],
+        [
+          "總是"
+        ],
+        [
+          "究竟"
+        ]
+      ],
+      "analysis": "此字為古英語繼承詞 ǣfre（意為永遠、總是），在現代英語中常用於完成式表示「曾經」，或在疑問句中表示「究竟、到底」。",
+      "definition": "1. at any time; 2. always or at all times; 3. in any way or under any circumstances.",
+      "example": [
+        {
+          "eng": "Have you ever traveled outside of your home country?",
+          "ch": "你曾經去過你的祖國以外的地方旅行嗎？"
+        },
+        {
+          "eng": "Nothing will ever change my deep love for music.",
+          "ch": "沒有什麼能永遠改變我對音樂的深愛。"
+        },
+        {
+          "eng": "How can we ever finish this task on time?",
+          "ch": "我們到底要怎麼才能按時完成這項任務呢？"
+        }
+      ]
+    },
+    {
+      "eng": "every",
+      "kk": "ˈɛvri",
+      "tense": "det.",
+      "ch": [
+        [
+          "每",
+          "每個"
+        ]
+      ],
+      "analysis": "源自中古英語 everich（由 ever「永遠」與 each「每個」複合而成，原意為各個皆是），作為限定詞用來指群體中的每一個體。",
+      "definition": "1. used to refer to all the individual members of a set or group without exception.",
+      "example": [
+        {
+          "eng": "Every child deserves to receive a quality education.",
+          "ch": "每個孩子都值得接受優質的教育。"
+        }
+      ]
+    },
+    {
+      "eng": "everyone",
+      "kk": "ˈɛvriˌwʌn",
+      "tense": "pron.",
+      "ch": [
+        [
+          "每個人",
+          "各人"
+        ]
+      ],
+      "analysis": "現代複合代名詞，由 every（每個）與 one（一個、人）結合而成，指群體中的每一個人。",
+      "definition": "1. every person; everybody.",
+      "example": [
+        {
+          "eng": "Everyone in the room stood up to applaud the speaker.",
+          "ch": "房間裡的每個人都站起來為演講者鼓掌。"
+        }
+      ]
+    },
+    {
+      "eng": "everybody",
+      "kk": "ˈɛvriˌbɑdi",
+      "tense": "pron.",
+      "ch": [
+        [
+          "每個人",
+          "人人"
+        ]
+      ],
+      "analysis": "現代複合代名詞，由 every（每個）與 body（身體、人）結合而成，與 everyone 意思完全相同，多用於口語。",
+      "definition": "1. every person; everyone.",
+      "example": [
+        {
+          "eng": "Everybody enjoyed the delicious food at the party.",
+          "ch": "派對上的每個人都享受了美味的食物。"
+        }
+      ]
+    },
+    {
+      "eng": "everything",
+      "kk": "ˈɛvriˌθɪŋ",
+      "tense": "pron.",
+      "ch": [
+        [
+          "每件事",
+          "一切"
+        ]
+      ],
+      "analysis": "現代複合代名詞，由 every（每個）與 thing（事物）結合而成，指所有的事物或狀況。",
+      "definition": "1. all things; all the things in a situation or in existence.",
+      "example": [
+        {
+          "eng": "She packed everything she needed into a single suitcase.",
+          "ch": "她把需要的一切東西都打包進了一個行李箱裡。"
+        }
+      ]
+    },
+    {
+      "eng": "example",
+      "kk": "ɪɡˈzæmpəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "例子",
+          "範例"
+        ],
+        [
+          "榜樣",
+          "模範"
+        ]
+      ],
+      "analysis": "源自中古英語 example，借自古法語 exemple，源自拉丁語 exemplum（樣品、樣本，源自 eximere「選出、取出」）。指用以說明的具體例證或值得效法的模範。",
+      "definition": "1. a thing characteristic of its kind or illustrating a general rule; 2. a person or thing regarded as a standard to be imitated.",
+      "example": [
+        {
+          "eng": "Can you give me a clear example to explain this grammar rule?",
+          "ch": "你能給我一個清楚的例子來解釋這個文法規則嗎？"
+        },
+        {
+          "eng": "Parents should set a good example for their young children.",
+          "ch": "父母應該為幼小的孩子樹立良好的榜樣。"
+        }
+      ]
+    },
+    {
+      "eng": "excellent",
+      "kk": "ˈɛksələnt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "優秀的",
+          "傑出的"
+        ],
+        [
+          "極好的"
+        ]
+      ],
+      "analysis": "源自中古英語 excellent，借自拉丁語 excellentem（excellere 的現在分詞，由 ex-「出」與 excellere「高聳、勝過」構成）。意指極為傑出、超越常人的優異品質。",
+      "definition": "1. extremely good; 2. outstanding.",
+      "example": [
+        {
+          "eng": "She received an excellent grade on her final research paper.",
+          "ch": "她在期末研究報告中獲得了優秀的成績。"
+        }
+      ]
+    },
+    {
+      "eng": "except",
+      "kk": "ɪkˈsɛpt",
+      "tense": "prep.",
+      "ch": [
+        [
+          "除了……之外"
+        ]
+      ],
+      "analysis": "源自中古英語 excepten，經由古法語借自拉丁語 exceptus（exceptere 的過去分詞，由 ex-「出」與 capere「拿取」構成，字面義為「被除外的」）。用作介系詞時表示排除在外。",
+      "definition": "1. not including; other than.",
+      "example": [
+        {
+          "eng": "Everyone attended the meeting except John, who was sick.",
+          "ch": "除了生病的約翰外，大家都出席了會議。"
+        }
+      ]
+    },
+    {
+      "eng": "excited",
+      "kk": "ɪkˈsaɪtɪd",
+      "tense": "adj.",
+      "ch": [
+        [
+          "興奮的",
+          "激動的"
+        ]
+      ],
+      "analysis": "由動詞 excite（源自拉丁語 excitare「喚起、激發」）加上形容詞化分詞字尾 -ed 構成。用來形容人感到情緒高昂或興奮的狀態。",
+      "definition": "1. feeling or showing enthusiasm and eagerness.",
+      "example": [
+        {
+          "eng": "The children were very excited about opening their birthday presents.",
+          "ch": "孩子們對於打開生日禮物感到非常興奮。"
+        }
+      ]
+    },
+    {
+      "eng": "exciting",
+      "kk": "ɪkˈsaɪtɪŋ",
+      "tense": "adj.",
+      "ch": [
+        [
+          "令人興奮的",
+          "刺激的"
+        ]
+      ],
+      "analysis": "由動詞 excite 加上現在分詞字尾 -ing 轉化而來的形容詞，用以形容事物具有激發熱情或令人情緒高漲的特質。",
+      "definition": "1. causing great enthusiasm and eagerness; thrilling.",
+      "example": [
+        {
+          "eng": "We watched an exciting football match that ended in a tie.",
+          "ch": "我們觀看了一場以平局收場且令人興奮的足球賽。"
+        }
+      ]
+    },
+    {
+      "eng": "exercise",
+      "kk": "ˈɛksərˌsaɪz",
+      "tense": "n.",
+      "ch": [
+        [
+          "運動",
+          "鍛鍊"
+        ],
+        [
+          "練習題"
+        ]
+      ],
+      "analysis": "源自中古英語 exercise，借自拉丁語 exercitium（源自 exercere「訓練、鍛鍊」，由 ex- 與 arcere「防衛、驅使」複合）。指身體的體能鍛鍊或書本中的練習題。",
+      "definition": "1. activity requiring physical effort, carried out to sustain or improve health and fitness; 2. a task or activity designed to practice a skill.",
+      "example": [
+        {
+          "eng": "Regular exercise is essential for maintaining good physical health.",
+          "ch": "規律運動對於維持良好的身體健康至關重要。"
+        },
+        {
+          "eng": "Complete the grammar exercises at the end of Chapter Three.",
+          "ch": "完成第三章結尾處的文法練習題。"
+        }
+      ]
+    },
+    {
+      "eng": "exercise",
+      "kk": "ˈɛksərˌsaɪz",
+      "tense": "vt.",
+      "ch": [
+        [
+          "行使",
+          "發揮"
+        ]
+      ],
+      "analysis": "由名詞 exercise 轉化而來的及物動詞，指行使權力、職責或發揮影響力。",
+      "definition": "1. to use or apply a faculty, right, or method.",
+      "example": [
+        {
+          "eng": "It is important to exercise caution when walking on icy roads.",
+          "ch": "在結冰道路上行走時，小心謹慎是很重要的。"
+        }
+      ]
+    },
+    {
+      "eng": "exercise",
+      "kk": "ˈɛksərˌsaɪz",
+      "tense": "vi.",
+      "ch": [
+        [
+          "運動",
+          "健身"
+        ]
+      ],
+      "analysis": "動詞 exercise 的不及物用法，指進行體能鍛鍊以保持健康。",
+      "definition": "1. to engage in physical activity to stay healthy.",
+      "example": [
+        {
+          "eng": "He likes to exercise at the local gym every morning.",
+          "ch": "他喜歡每天早上在當地健身房運動。"
+        }
+      ]
+    },
+    {
+      "eng": "expect",
+      "kk": "ɪkˈspɛkt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "期待",
+          "預料"
+        ],
+        [
+          "要求"
+        ]
+      ],
+      "analysis": "源自拉丁語 exspectare（由 ex-「出」與 spectare「看、觀望」構成，字面義為「向外觀望以等待」）。及物動詞用法指心中預期某事的發生或對他人有所要求。",
+      "definition": "1. to regard something as likely to happen; 2. to demand something as due or right.",
+      "example": [
+        {
+          "eng": "We expect that the new train service will start next month.",
+          "ch": "我們預料新的火車服務將於下個月開始。"
+        },
+        {
+          "eng": "Teachers expect students to complete their homework on time.",
+          "ch": "老師們要求學生按時完成家庭作業。"
+        }
+      ]
+    },
+    {
+      "eng": "expensive",
+      "kk": "ɪkˈspɛnsɪv",
+      "tense": "adj.",
+      "ch": [
+        [
+          "昂貴的",
+          "花費大的"
+        ]
+      ],
+      "analysis": "源自中古英語 expensive，借自中世紀拉丁語 expensivus（源自 expensa「花費」）。由 ex-「出」與 pendere「支付」構成，指需要花費大量金錢的。",
+      "definition": "1. costing a lot of money.",
+      "example": [
+        {
+          "eng": "She decided not to buy the expensive leather handbag.",
+          "ch": "她決定不買那個昂貴的皮革手提包。"
+        }
+      ]
+    },
+    {
+      "eng": "experience",
+      "kk": "ɪkˈspɪriəns",
+      "tense": "n.",
+      "ch": [
+        [
+          "經驗",
+          "經歷"
+        ],
+        [
+          "體驗"
+        ]
+      ],
+      "analysis": "源自中古英語 experience，借自古法語 experience，源自拉丁語 experientia（源自 experiri「試驗、經歷」）。指親身經歷所得的知識或事件。",
+      "definition": "1. practical contact with and observation of facts or events; 2. an event or occurrence that leaves an impression.",
+      "example": [
+        {
+          "eng": "The job opening requires at least three years of working experience.",
+          "ch": "這個職缺要求至少三年的工作經驗。"
+        },
+        {
+          "eng": "Studying abroad was a truly life-changing experience for him.",
+          "ch": "出國留學對他來說是一次真正改變人生的體驗。"
+        }
+      ]
+    },
+    {
+      "eng": "experience",
+      "kk": "ɪkˈspɪriəns",
+      "tense": "vt.",
+      "ch": [
+        [
+          "體驗",
+          "經歷"
+        ]
+      ],
+      "analysis": "由名詞 experience 轉化而來的及物動詞，指親身遭受、感受或經歷某種情境。",
+      "definition": "1. to encounter or undergo an event or feeling.",
+      "example": [
+        {
+          "eng": "Residents in the coastal area experienced severe storms last night.",
+          "ch": "沿海地區的居民昨晚經歷了強烈的風暴。"
+        }
+      ]
+    },
+    {
+      "eng": "explain",
+      "kk": "ɪkˈspleɪn",
+      "tense": "vt.",
+      "ch": [
+        [
+          "解釋",
+          "說明"
+        ]
+      ],
+      "analysis": "源自中古英語 explainen，借自拉丁語 explanare（由 ex-「出」與 planus「平坦的、清楚的」構成，字面義為「使之平坦、使之清晰易懂」）。",
+      "definition": "1. to make something clear or easy to understand by describing it in detail.",
+      "example": [
+        {
+          "eng": "The teacher took extra time to explain the complex math formula.",
+          "ch": "老師花費額外時間來解釋複雜的數學公式。"
+        }
+      ]
+    },
+    {
+      "eng": "explain",
+      "kk": "ɪkˈspleɪn",
+      "tense": "vi.",
+      "ch": [
+        [
+          "作解釋",
+          "說明原因"
+        ]
+      ],
+      "analysis": "源自拉丁語 explanare 的不及物用法，指進行說明或為某事辯解。",
+      "definition": "1. to give a reason or make something clear through elaboration.",
+      "example": [
+        {
+          "eng": "He tried to explain why he was late, but nobody listened.",
+          "ch": "他試圖解釋他為什麼遲到，但沒有人聽。"
+        }
+      ]
+    },
+    {
+      "eng": "eye",
+      "kk": "aɪ",
+      "tense": "n.",
+      "ch": [
+        [
+          "眼睛",
+          "視力"
+        ]
+      ],
+      "analysis": "此字為古英語繼承詞 ēage（源自日耳曼語族），指視覺器官「眼睛」或視力與觀看能力。",
+      "definition": "1. the organ of sight in humans and animals.",
+      "example": [
+        {
+          "eng": "She has bright green eyes that sparkle in the sunlight.",
+          "ch": "她有一雙在陽光下閃閃發亮的明亮綠眼睛。"
+        }
+      ]
+    },
+    {
+      "eng": "eye",
+      "kk": "aɪ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "注視",
+          "凝視"
+        ]
+      ],
+      "analysis": "由名詞 eye 轉化而來的及物動詞，指用眼睛仔細打量或注視某人或某物。",
+      "definition": "1. to look at someone or something closely, typically with suspicion or interest.",
+      "example": [
+        {
+          "eng": "The cat began to eye the small bird sitting on the branch.",
+          "ch": "貓開始注視著停在樹枝上的小鳥。"
+        }
+      ]
+    },
+    {
+      "eng": "face",
+      "kk": "feɪs",
+      "tense": "n.",
+      "ch": [
+        [
+          "臉",
+          "面容"
+        ],
+        [
+          "表面",
+          "正面"
+        ]
+      ],
+      "analysis": "源自中古英語 face，借自古法語 face，源自通俗拉丁語 facia（源自拉丁語 facies「外表、面容」）。指人的臉部表情或物體的表面、正面。",
+      "definition": "1. the front part of a person's head from the forehead to the chin; 2. the flat surface of an object.",
+      "example": [
+        {
+          "eng": "A gentle breeze blew across her face as she walked.",
+          "ch": "微風在她走路時吹拂著她的臉龐。"
+        },
+        {
+          "eng": "The numbers on the clock face are clearly visible in the dark.",
+          "ch": "時鐘表面的數字在黑暗中清晰可見。"
+        }
+      ]
+    },
+    {
+      "eng": "face",
+      "kk": "feɪs",
+      "tense": "vt.",
+      "ch": [
+        [
+          "面對",
+          "面臨"
+        ]
+      ],
+      "analysis": "由名詞 face 轉化而來的及物動詞，原意為將臉轉向某個方向，引申為勇敢地迎向困難或挑戰。",
+      "definition": "1. to confront and deal with a difficult situation or person bravely.",
+      "example": [
+        {
+          "eng": "We must face our fears if we want to grow and succeed.",
+          "ch": "如果我們想要成長並成功，我們必須勇敢面對恐懼。"
+        }
+      ]
+    },
+    {
+      "eng": "face",
+      "kk": "feɪs",
+      "tense": "vi.",
+      "ch": [
+        [
+          "朝向",
+          "面向"
+        ]
+      ],
+      "analysis": "動詞 face 的不及物用法，指建築物或物體面向某個方位。",
+      "definition": "1. to be positioned with the front facing a particular direction.",
+      "example": [
+        {
+          "eng": "Their living room windows face south to get maximum sunlight.",
+          "ch": "他們的客廳窗戶朝南，以獲取最大量的陽光。"
+        }
+      ]
+    },
+    {
+      "eng": "fact",
+      "kk": "fækt",
+      "tense": "n.",
+      "ch": [
+        [
+          "事實",
+          "真相"
+        ]
+      ],
+      "analysis": "源自中古英語 fact，借自拉丁語 factum（做過的事、真實的事情，facere「做」的過去分詞中性形）。指確實存在或已被證實的事情。",
+      "definition": "1. a thing that is known or proved to be true.",
+      "example": [
+        {
+          "eng": "It is a well-known scientific fact that water boils at 100°C.",
+          "ch": "水在攝氏 100 度沸騰是個眾所周知的科學事實。"
+        }
+      ]
+    },
+    {
+      "eng": "factory",
+      "kk": "ˈfæktəri",
+      "tense": "n.",
+      "ch": [
+        [
+          "工廠",
+          "製造廠"
+        ]
+      ],
+      "analysis": "源自中古英語 factorie，借自拉丁語 factorium（製造場所，源自 factor「製造者」），演變為現代大量生產的「工廠」。",
+      "definition": "1. a building or group of buildings where goods are manufactured or assembled chiefly by machine.",
+      "example": [
+        {
+          "eng": "Hundreds of workers are employed in this automotive factory.",
+          "ch": "這家汽車工廠僱用了數百名工人。"
+        }
+      ]
+    },
+    {
+      "eng": "fail",
+      "kk": "feɪl",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使失望",
+          "未能給予支援"
+        ],
+        [
+          "考試使……不及格"
+        ]
+      ],
+      "analysis": "源自拉丁語 fallere 的及物動詞用法，指未能滿足某人的期望，或由考官判定學生考試成績不及格。",
+      "definition": "1. to disappoint or let someone down; 2. to judge a student's performance as inadequate in an exam.",
+      "example": [
+        {
+          "eng": "His memory failed him when he tried to recall her name.",
+          "ch": "當他試圖回憶她的名字時，他的記憶力辜負了他。"
+        },
+        {
+          "eng": "The strict professor had to fail several students who didn't submit work.",
+          "ch": "那位嚴格的教授不得不讓幾位沒繳交作業的學生不及格。"
+        }
+      ]
+    },
+    {
+      "eng": "fail",
+      "kk": "feɪl",
+      "tense": "vi.",
+      "ch": [
+        [
+          "失敗",
+          "不及格"
+        ],
+        [
+          "衰退",
+          "失靈"
+        ]
+      ],
+      "analysis": "源自中古英語 faillen，借自古法語 faillir，源自拉丁語 fallere（欺騙、使失望、落空）。不及物動詞用法指未能達成目標、考試不及格或機器設備故障失靈。",
+      "definition": "1. to be unsuccessful in achieving one's goal; 2. to stop working properly or become deficient.",
+      "example": [
+        {
+          "eng": "He studied hard so that he would not fail the driving test.",
+          "ch": "他努力K書，以免駕駛考試不及格。"
+        },
+        {
+          "eng": "The car's brakes began to fail as they drove down the steep hill.",
+          "ch": "當他們開車下陡坡時，汽車的煞車開始失靈。"
+        }
+      ]
+    }
+  ]
+}

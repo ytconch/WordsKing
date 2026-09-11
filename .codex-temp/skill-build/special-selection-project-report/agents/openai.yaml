@@ -1,0 +1,4 @@
+interface:
+  display_name: "特殊選才專案報告"
+  short_description: "製作具作者口吻、證據與反思的特殊選才作品報告"
+  default_prompt: "Use $special-selection-project-report to turn my project materials into a concise special-selection admissions report."

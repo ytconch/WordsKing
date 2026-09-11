@@ -1,4 +1,4 @@
-﻿const AdminPage = (() => {
+const AdminPage = (() => {
   const { api, refreshUser, enforcePageAccess, showMessage, state: appState } = window.WordsApp;
 
   const state = {
@@ -10,7 +10,6 @@
     textDraftBatches: [],
     sourceNames: [],
     catalogSources: [],
-    examMeaningEditor: null,
     activityUsers: [],
     selectedActivityUserId: "",
     selectedRefreshSourceId: "",
@@ -51,7 +50,7 @@
 
   function formatDateTime(value) {
     if (!value) return "未提供";
-    const date = new Date(value);
+    const date = new Date(/^\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}$/.test(value) ? value.replace(" ", "T") + "Z" : value);
     if (Number.isNaN(date.getTime())) return value;
     return new Intl.DateTimeFormat("zh-TW", {
       timeZone: "Asia/Taipei",
@@ -82,12 +81,10 @@
 
   function formatDurationCompact(seconds) {
     const safeSeconds = Math.max(0, Math.round(Number(seconds || 0)));
-    if (!safeSeconds) return "0 分";
     const hours = Math.floor(safeSeconds / 3600);
     const minutes = Math.floor((safeSeconds % 3600) / 60);
-    if (hours && minutes) return `${hours} 小時 ${minutes} 分`;
-    if (hours) return `${hours} 小時`;
-    return `${Math.max(1, minutes)} 分`;
+    const remainder = safeSeconds % 60;
+    return [hours ? `${hours} 小時` : "", minutes ? `${minutes} 分` : "", `${remainder} 秒`].filter(Boolean).join(" ");
   }
 
   function getPageLabel(pageKey) {
@@ -748,7 +745,6 @@
                         <strong>${escapeHtml(unit.name)}</strong>
                         <div class="muted small-text">
                           ${Number(unit.word_count || 0)} 單字
-                          · 已標 ${Number(unit.exam_word_count || 0)} 詞 / ${Number(unit.exam_meaning_count || 0)} 項考試字義
                         </div>
                       </div>
                       <div class="catalog-inline-actions">
@@ -771,9 +767,6 @@
                               .join("")}
                           </select>
                         </label>
-                        <button type="button" class="ghost-btn edit-exam-meanings-btn" data-unit-id="${unit.id}">
-                          考試字義
-                        </button>
                         <button type="button" class="ghost-btn rename-unit-btn" data-unit-id="${unit.id}">
                           更新
                         </button>
@@ -811,12 +804,6 @@
       });
     });
 
-    document.querySelectorAll(".edit-exam-meanings-btn").forEach((button) => {
-      button.addEventListener("click", async () => {
-        await openExamMeaningEditor(button.dataset.unitId);
-      });
-    });
-
     document.querySelectorAll(".rename-unit-btn").forEach((button) => {
       button.addEventListener("click", async () => {
         const unitId = button.dataset.unitId;
@@ -836,9 +823,6 @@
         });
         showMessage("單元資料已更新。");
         await loadCatalog();
-        if (state.examMeaningEditor?.unitId === Number(unitId)) {
-          await openExamMeaningEditor(unitId);
-        }
       });
     });
 
@@ -849,110 +833,109 @@
         if (!ok) return;
         await api(`/api/import/units/${unitId}`, { method: "DELETE" });
         showMessage("單元已刪除。");
-        if (state.examMeaningEditor?.unitId === Number(unitId)) {
-          closeExamMeaningPanel();
-        }
         await loadCatalog();
       });
     });
   }
 
-  function buildExamMeaningWordCard(word) {
-    const entries = Array.isArray(word.chEntries) ? word.chEntries : [];
-    const selectedIndexes = new Set((word.examMeaningIndexes || []).map((item) => Number(item)));
-    return `
-      <article class="list-item exam-meaning-word-card" data-word-ref="${escapeHtml(word.wordRef)}">
-        <div class="word-topline">
-          <div>
-            <strong>${escapeHtml(word.eng)}</strong>
-            <div class="muted small-text">${escapeHtml(word.tense || "未分類")} · ${entries.length} 項義項</div>
-          </div>
-          <span class="muted small-text">${escapeHtml(word.kk || "未提供 KK")}</span>
-        </div>
-        <div class="exam-meaning-chip-list">
-          ${entries.length
-            ? entries
-                .map(
-                  (entry, index) => `
-                    <label class="exam-meaning-chip">
-                      <input type="checkbox" data-meaning-index="${index}" ${selectedIndexes.has(index) ? "checked" : ""} />
-                      <span>${index + 1}. ${escapeHtml(entry)}</span>
-                    </label>
-                  `
-                )
-                .join("")
-            : `<div class="muted small-text">此單字目前沒有可切分的中文義項。</div>`}
-        </div>
-      </article>
-    `;
-  }
-
-  function renderVisitTrendChart(trend) {
-    const wrap = document.getElementById("visitActivityChart");
+  function renderVisitTrendChart(trend, pages = []) {
+    const target = document.getElementById("visitActivityChart");
     if (!trend.length) {
-      wrap.innerHTML = `<div class="list-item">目前沒有造訪資料。</div>`;
+      target.innerHTML = '<p class="muted">目前沒有趨勢資料。</p>';
       return;
     }
-
-    const width = 620;
-    const height = 220;
-    const padding = { top: 20, right: 22, bottom: 30, left: 36 };
-    const maxVisits = Math.max(...trend.map((item) => item.visits), 1);
-    const maxDurationSeconds = Math.max(...trend.map((item) => item.durationSeconds), 1);
-    const yScaleVisits = (height - padding.top - padding.bottom) / maxVisits;
-    const yScaleDuration = (height - padding.top - padding.bottom) / maxDurationSeconds;
-    const xStep = trend.length > 1 ? (width - padding.left - padding.right) / (trend.length - 1) : 0;
-
-    const visitPoints = trend
-      .map((item, index) => {
-        const x = padding.left + index * xStep;
-        const y = height - padding.bottom - item.visits * yScaleVisits;
-        return `${x},${y}`;
-      })
-      .join(" ");
-
-    const durationPoints = trend
-      .map((item, index) => {
-        const x = padding.left + index * xStep;
-        const y = height - padding.bottom - item.durationSeconds * yScaleDuration;
-        return `${x},${y}`;
-      })
-      .join(" ");
-
-    const bars = trend
-      .map((item, index) => {
-        const x = padding.left + index * xStep - 8;
-        const barHeight = item.visits * yScaleVisits;
-        return `<rect class="visit-bar" x="${x}" y="${height - padding.bottom - barHeight}" width="16" height="${Math.max(barHeight, 2)}" rx="8"></rect>`;
-      })
-      .join("");
-
-    const labels = trend
-      .map((item, index) => {
-        const x = padding.left + index * xStep;
-        return `<text x="${x}" y="${height - 8}" text-anchor="middle">${escapeHtml(formatShortDate(item.visitDate))}</text>`;
-      })
-      .join("");
-
-    wrap.innerHTML = `
-      <div class="chart-legend visit-chart-legend">
-        <span><i class="legend-swatch visits"></i> 造訪次數</span>
-        <span><i class="legend-swatch users"></i> 停留時長</span>
+    const number = value => Number(value || 0).toLocaleString("zh-TW");
+    const maximum = Math.max(1, ...trend.map(item => item.visits), ...trend.map(item => item.uniqueUsers));
+    const axis = max => {
+      const magnitude = 10 ** Math.floor(Math.log10(Math.max(1, max / 4)));
+      const tick = [1, 2, 5, 10].map(n => n * magnitude).find(n => n >= max / 4) || magnitude * 10;
+      return Math.max(1, tick) * 4;
+    };
+    const countMax = axis(maximum);
+    const durationMax = axis(Math.max(1, ...trend.map(item => item.durationSeconds / 60)));
+    const left = 64, step = 50, width = left + trend.length * step + 20;
+    const x = index => left + (index + .5) * step;
+    const countY = value => 174 - value / countMax * 130;
+    const durationY = value => 290 - value / 60 / durationMax * 70;
+    const grids = [
+      { ceiling: countMax, base: 174, height: 130 },
+      { ceiling: durationMax, base: 290, height: 70 }
+    ].map(({ ceiling, base, height }) => Array.from({ length: 5 }, (_, i) => {
+      const y = base - i * height / 4;
+      return `<line x1="${left}" x2="${width - 20}" y1="${y}" y2="${y}"/><text x="${left - 10}" y="${y + 4}" text-anchor="end">${number(ceiling * i / 4)}</text>`;
+    }).join("")).join("");
+    const days = trend.map((item, index) => {
+      const isToday = index === trend.length - 1;
+      return `<g class="visit-day" data-day="${index}" tabindex="0" role="button" aria-label="${escapeHtml(item.visitDate)}，${number(item.visits)} 個時段，${number(item.uniqueUsers)} 個帳號，點選查看明細">
+        <rect class="visit-day-hit" x="${x(index) - 24}" y="28" width="48" height="296"/>
+        <rect class="visit-count-bar" x="${x(index) - 14}" y="${countY(item.visits)}" width="28" height="${174 - countY(item.visits)}"/>
+        <text class="visit-value" x="${x(index)}" y="${countY(item.visits) - 7}" text-anchor="middle">${number(item.visits)}</text>
+        <circle class="visit-account-dot" cx="${x(index)}" cy="${countY(item.uniqueUsers)}" r="4"/>
+        <rect class="visit-duration-bar" x="${x(index) - 14}" y="${durationY(item.durationSeconds)}" width="28" height="${290 - durationY(item.durationSeconds)}"/>
+        <text x="${x(index)}" y="310" text-anchor="middle">${escapeHtml(item.visitDate.slice(5).replace("-", "/"))}</text>
+        ${isToday ? `<text x="${x(index)}" y="326" text-anchor="middle">今日*</text>` : ""}
+      </g>`;
+    }).join("");
+    const ranked = [...pages].sort((a, b) => b.visits - a.visits);
+    const total = ranked.reduce((sum, item) => sum + item.visits, 0);
+    const peak = Math.max(1, ...ranked.map(item => item.visits));
+    target.innerHTML = `<div class="visit-analysis-layout">
+      <div class="visit-analysis-main">
+        <div class="visit-legend"><strong>每日使用趨勢</strong><span>▰ 可見時段</span><span class="visit-account-key">● 不重複帳號</span><span class="muted">上圖共用計數刻度</span></div>
+        <div class="activity-table-scroll"><svg class="visit-dense-svg" viewBox="0 0 ${width} 338" aria-label="每日時段、帳號與停留時間；可用 Tab 選取日期" role="group">
+          <g class="visit-trend-grid">${grids}</g>
+          <text x="${left}" y="18">時段／帳號</text><text x="${left}" y="204">估計總停留（分鐘）</text>
+          <polyline class="visit-account-line" points="${trend.map((item, index) => `${x(index)},${countY(item.uniqueUsers)}`).join(" ")}"/>
+          ${days}
+        </svg></div>
+        <div class="visit-day-detail" aria-live="polite"></div>
+        <p class="muted small-text">點選日期或使用 Tab、方向鍵查閱數值。* 今日未結束；下圖使用獨立時間刻度。</p>
       </div>
-      <svg viewBox="0 0 ${width} ${height}" class="activity-line-chart visit-activity-chart" role="img" aria-label="近十四天造訪活躍圖">
-        <g class="activity-line-grid">
-          <line x1="${padding.left}" y1="${height - padding.bottom}" x2="${width - padding.right}" y2="${height - padding.bottom}"></line>
-          <line x1="${padding.left}" y1="${padding.top}" x2="${padding.left}" y2="${height - padding.bottom}"></line>
-        </g>
-        <g class="visit-bars">${bars}</g>
-        <polyline class="visit-user-path" points="${durationPoints}"></polyline>
-        <polyline class="activity-line-path" points="${visitPoints}"></polyline>
-        <g class="activity-line-labels">${labels}</g>
-      </svg>
-    `;
+      <div class="visit-ranking"><h4>頁面使用排名 <span class="muted small-text">按時段數</span></h4>
+        ${ranked.length ? ranked.map((item, index) => `<div class="visit-ranking-row">
+          <div><strong>${index + 1}. ${escapeHtml(getPageLabel(item.pageKey))}</strong><span>${number(item.visits)} <small>時段 · ${total ? (item.visits / total * 100).toFixed(1) : "0.0"}%</small></span></div>
+          <div class="visit-rank-track"><span style="width:${item.visits / peak * 100}%"></span></div>
+          <div class="muted small-text"><span>${number(item.uniqueUsers)} 個帳號</span><span>均時 ${escapeHtml(formatDurationCompact(item.avgDurationSeconds))}</span></div>
+        </div>`).join("") : '<p class="muted">期間內沒有頁面紀錄。</p>'}
+      </div></div>`;
+    const showDay = index => {
+      const item = trend[index];
+      target.querySelectorAll('[data-day]').forEach(element => element.setAttribute('aria-pressed', String(Number(element.dataset.day) === index)));
+      const previous = trend[index - 1];
+      const change = previous ? item.visits - previous.visits : null;
+      target.querySelector('.visit-day-detail').innerHTML = `<strong>${escapeHtml(item.visitDate)}${index === trend.length - 1 ? ' · 今日尚未結束' : ''}</strong>
+        <span>時段 <b>${number(item.visits)}</b></span><span>帳號 <b>${number(item.uniqueUsers)}</b></span>
+        <span>總停留 <b>${escapeHtml(formatDurationCompact(item.durationSeconds))}</b></span>
+        <span>每時段 <b>${item.visits ? escapeHtml(formatDurationCompact(item.durationSeconds / item.visits)) : '—'}</b></span>
+        <span>較前日 <b>${change === null ? '—' : `${change > 0 ? '+' : ''}${number(change)} 時段`}</b></span>`;
+    };
+    target.querySelectorAll('[data-day]').forEach(element => {
+      const index = Number(element.dataset.day);
+      element.addEventListener('click', () => showDay(index));
+      element.addEventListener('focus', () => showDay(index));
+      element.addEventListener('keydown', event => {
+        if (['ArrowLeft', 'ArrowRight', 'Home', 'End'].includes(event.key)) {
+          event.preventDefault();
+          const next = event.key === 'Home' ? 0 : event.key === 'End' ? trend.length - 1 : Math.max(0, Math.min(trend.length - 1, index + (event.key === 'ArrowRight' ? 1 : -1)));
+          target.querySelector(`[data-day="${next}"]`).focus();
+        } else if (event.key === 'Enter' || event.key === ' ') {
+          event.preventDefault(); showDay(index);
+        }
+      });
+    });
+    showDay(trend.length - 1);
   }
 
-  function renderVisitBreakdown(pages) {
+  function renderVisitDailyTable(trend) {
+    document.getElementById("visitDailyTable").innerHTML = `
+      <div class="activity-table-scroll"><table class="activity-table">
+        <caption>每日明細 · 台灣時間，今日尚未結束</caption>
+        <thead><tr><th scope="col">日期</th><th scope="col">可見時段數</th><th scope="col">不重複帳號</th><th scope="col">估計總停留</th><th scope="col">每時段平均</th></tr></thead>
+        <tbody>${trend.map(item => `<tr><th scope="row">${escapeHtml(item.visitDate)}</th><td>${item.visits}</td><td>${item.uniqueUsers}</td><td>${escapeHtml(formatDurationCompact(item.durationSeconds))}</td><td>${item.visits ? escapeHtml(formatDurationCompact(item.durationSeconds / item.visits)) : "—"}</td></tr>`).join("")}</tbody>
+      </table></div>`;
+  }
+
+  function renderVisitBreakdown(pages, summary) {
     const target = document.getElementById("visitBreakdownTable");
     if (!pages.length) {
       target.innerHTML = `<div class="list-item">目前沒有頁面分佈資料。</div>`;
@@ -965,11 +948,11 @@
           <thead>
             <tr>
               <th>頁面</th>
-              <th>造訪次數</th>
-              <th>造訪人數</th>
-              <th>總停留</th>
-              <th>平均停留</th>
-              <th>最近造訪</th>
+              <th scope="col">可見時段數</th><th scope="col">時段占比</th>
+              <th scope="col">不重複帳號</th>
+              <th scope="col">估計總停留</th>
+              <th scope="col">每時段平均</th>
+              <th scope="col">最近開始（台灣）</th>
             </tr>
           </thead>
           <tbody>
@@ -978,7 +961,7 @@
                 (item) => `
                   <tr>
                     <td>${escapeHtml(getPageLabel(item.pageKey))}</td>
-                    <td>${Number(item.visits || 0)}</td>
+                    <td>${Number(item.visits || 0).toLocaleString("zh-TW")}</td><td>${summary.totalVisits ? (item.visits / summary.totalVisits * 100).toFixed(1) : "0.0"}%</td>
                     <td>${Number(item.uniqueUsers || 0)}</td>
                     <td>${escapeHtml(formatDurationCompact(item.durationSeconds || 0))}</td>
                     <td>${escapeHtml(formatDurationCompact(item.avgDurationSeconds || 0))}</td>
@@ -1019,115 +1002,19 @@
   async function loadVisitActivity() {
     const data = await api("/api/admin/activity/visits");
     document.getElementById("visitActivitySummary").innerHTML = `
-      <div class="leaderboard-metric"><strong>14 天造訪</strong><span>${Number(data.summary.totalVisits || 0)}</span></div>
-      <div class="leaderboard-metric"><strong>造訪人數</strong><span>${Number(data.summary.uniqueVisitors || 0)}</span></div>
-      <div class="leaderboard-metric"><strong>今日造訪</strong><span>${Number(data.summary.todayVisits || 0)}</span></div>
-      <div class="leaderboard-metric"><strong>總停留</strong><span>${escapeHtml(formatDurationCompact(data.summary.totalDurationSeconds || 0))}</span></div>
-      <div class="leaderboard-metric"><strong>平均停留</strong><span>${escapeHtml(formatDurationCompact(data.summary.averageDurationSeconds || 0))}</span></div>
-      <div class="leaderboard-metric"><strong>今日停留</strong><span>${escapeHtml(formatDurationCompact(data.summary.todayDurationSeconds || 0))}</span></div>
+      <div class="leaderboard-metric"><strong>14 天可見時段</strong><span>${Number(data.summary.totalVisits || 0)}</span></div>
+      <div class="leaderboard-metric"><strong>不重複帳號</strong><span>${Number(data.summary.uniqueVisitors || 0)}</span></div>
+      <div class="leaderboard-metric"><strong>今日時段</strong><span>${Number(data.summary.todayVisits || 0)}</span></div>
+      <div class="leaderboard-metric"><strong>估計總停留</strong><span>${escapeHtml(formatDurationCompact(data.summary.totalDurationSeconds || 0))}</span></div>
+      <div class="leaderboard-metric"><strong>每時段平均</strong><span>${escapeHtml(formatDurationCompact(data.summary.averageDurationSeconds || 0))}</span></div>
+      <div class="leaderboard-metric"><strong>今日估計停留</strong><span>${escapeHtml(formatDurationCompact(data.summary.todayDurationSeconds || 0))}</span></div>
       <div class="leaderboard-metric"><strong>單日峰值</strong><span>${Number(data.summary.peakVisits || 0)}</span></div>
     `;
-    renderVisitTrendChart(data.trend || []);
-    renderVisitBreakdown(data.pages || []);
+    renderVisitTrendChart(data.trend || [], data.pages || []);
+    renderVisitDailyTable(data.trend || []);
+    renderVisitBreakdown(data.pages || [], data.summary);
+    document.getElementById("visitActivityPeriod").textContent = `${data.trend?.[0]?.visitDate || "—"} 至 ${data.trend?.at(-1)?.visitDate || "—"} · 依時段數排序 · 更新於 ${new Date().toLocaleString("zh-TW", { timeZone: "Asia/Taipei" })}`;
     renderRecentVisits(data.recentVisits || []);
-  }
-
-  function syncExamMeaningSummaryFromDom() {
-    if (!state.examMeaningEditor) {
-      return;
-    }
-
-    const cards = [...document.querySelectorAll(".exam-meaning-word-card")];
-    const selectedMeaningCount = cards.reduce(
-      (sum, card) => sum + card.querySelectorAll('input[type="checkbox"]:checked').length,
-      0
-    );
-    const summary = document.getElementById("examMeaningPanelSummary");
-    if (summary) {
-      summary.textContent = `共 ${cards.length} 個單字，目前標記 ${selectedMeaningCount} 項考試字義。`;
-    }
-  }
-
-  function attachExamMeaningEvents() {
-    document.querySelectorAll('.exam-meaning-chip input[type="checkbox"]').forEach((input) => {
-      input.addEventListener("change", () => {
-        const chip = input.closest(".exam-meaning-chip");
-        chip?.classList.toggle("is-active", input.checked);
-        syncExamMeaningSummaryFromDom();
-      });
-    });
-  }
-
-  function renderExamMeaningPanel() {
-    const panel = document.getElementById("examMeaningPanel");
-    const title = document.getElementById("examMeaningPanelTitle");
-    const summary = document.getElementById("examMeaningPanelSummary");
-    const editor = document.getElementById("examMeaningEditor");
-    const current = state.examMeaningEditor;
-
-    if (!current) {
-      panel.classList.add("hidden");
-      title.textContent = "尚未選擇單元";
-      summary.textContent = "請先從上方單元管理選擇一個單元。";
-      editor.innerHTML = "";
-      return;
-    }
-
-    const selectedMeaningCount = current.words.reduce(
-      (sum, word) => sum + (Array.isArray(word.examMeaningIndexes) ? word.examMeaningIndexes.length : 0),
-      0
-    );
-
-    panel.classList.remove("hidden");
-    title.textContent = `${current.sourceName} / ${current.unitName}`;
-    summary.textContent = `共 ${current.words.length} 個單字，目前標記 ${selectedMeaningCount} 項考試字義。`;
-    editor.innerHTML = current.words.length
-      ? current.words.map(buildExamMeaningWordCard).join("")
-      : `<div class="list-item">這個單元目前沒有單字。</div>`;
-    attachExamMeaningEvents();
-  }
-
-  async function openExamMeaningEditor(unitId) {
-    const response = await api(`/api/import/units/${unitId}/exam-meanings`);
-    state.examMeaningEditor = {
-      unitId: Number(response.unit.id),
-      unitName: response.unit.name,
-      sourceName: response.unit.sourceName,
-      words: response.words || []
-    };
-    renderExamMeaningPanel();
-    document.getElementById("examMeaningPanel").scrollIntoView({ behavior: "smooth", block: "start" });
-  }
-
-  function readExamMeaningSelections() {
-    return [...document.querySelectorAll(".exam-meaning-word-card")].map((card) => ({
-      wordRef: card.dataset.wordRef || "",
-      meaningIndexes: [...card.querySelectorAll('input[type="checkbox"]:checked')].map((input) =>
-        Number(input.dataset.meaningIndex)
-      )
-    }));
-  }
-
-  async function saveExamMeaningSelections() {
-    if (!state.examMeaningEditor?.unitId) {
-      showMessage("請先選擇單元。");
-      return;
-    }
-
-    const response = await api(`/api/import/units/${state.examMeaningEditor.unitId}/exam-meanings`, {
-      method: "PUT",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ selections: readExamMeaningSelections() })
-    });
-
-    showMessage(response.message || "考試字義設定已更新。");
-    await loadCatalog();
-    await openExamMeaningEditor(state.examMeaningEditor.unitId);
-  }
-
-  function closeExamMeaningPanel() {
-    state.examMeaningEditor = null;
-    renderExamMeaningPanel();
   }
 
   async function loadCatalog() {
@@ -1987,10 +1874,6 @@
     document.getElementById("reloadCatalogBtn").addEventListener("click", () => {
       loadCatalog().catch((error) => showMessage(error.message));
     });
-    document.getElementById("saveExamMeaningBtn").addEventListener("click", () => {
-      saveExamMeaningSelections().catch((error) => showMessage(error.message));
-    });
-    document.getElementById("closeExamMeaningBtn").addEventListener("click", closeExamMeaningPanel);
     document.getElementById("toggleUsersBtn").addEventListener("click", () => {
       handleToggleUsers().catch((error) => showMessage(error.message));
     });
@@ -2002,7 +1885,6 @@
     });
 
     renderTextDraftBatches();
-    renderExamMeaningPanel();
     await loadNotificationRecipients();
     await loadActivity();
     await loadServerLogs();

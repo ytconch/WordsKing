@@ -1,0 +1,1577 @@
+{
+  "level": 4,
+  "chunkIndex": 4,
+  "inputs": [
+    "civilian",
+    "civilization",
+    "clarify",
+    "clash",
+    "classification",
+    "classify",
+    "claw",
+    "cliff",
+    "clumsy",
+    "coarse",
+    "code",
+    "collapse",
+    "colleague",
+    "combination",
+    "comedy",
+    "commander",
+    "comment",
+    "commerce",
+    "commit",
+    "communication",
+    "community",
+    "companion",
+    "competition",
+    "competitive",
+    "competitor",
+    "complicate",
+    "compose",
+    "composer",
+    "composition",
+    "concentrate",
+    "concentration",
+    "concept",
+    "concerning",
+    "concrete",
+    "conductor",
+    "conference",
+    "confess",
+    "confidence",
+    "confusion",
+    "congratulate",
+    "congress",
+    "conquer",
+    "conscience",
+    "consequence",
+    "consequent",
+    "conservative",
+    "consist",
+    "consistent",
+    "constitute",
+    "constitution"
+  ],
+  "rows": [
+    {
+      "eng": "civilian",
+      "kk": "səˈvɪljən",
+      "tense": "n.",
+      "ch": [
+        [
+          "平民",
+          "百姓"
+        ],
+        [
+          "文職人員",
+          "非軍職人員"
+        ]
+      ],
+      "analysis": "此字由名詞字根 civis（意為公民、市民）加上形容詞與名詞字尾 -ian 構成，經由拉丁語與法語進入英語。語意從「與公民有關的」演變為「相對於軍警等武裝人員的平民百姓」，後也引申指機關中的「文職人員」。",
+      "definition": "1. a person not in the armed services or the police force; 2. a person who is not a member of a particular profession or organization, especially the military.",
+      "example": [
+        {
+          "eng": "The conflict resulted in the tragic deaths of many innocent civilians.",
+          "ch": "這場衝突造成許多無辜平民的不幸死傷。"
+        },
+        {
+          "eng": "The department employs both military personnel and civilians.",
+          "ch": "該部門同時雇用軍職人員與文職人員。"
+        }
+      ]
+    },
+    {
+      "eng": "civilian",
+      "kk": "səˈvɪljən",
+      "tense": "adj.",
+      "ch": [
+        [
+          "平民的",
+          "民用的"
+        ],
+        [
+          "文職的"
+        ]
+      ],
+      "analysis": "作為形容詞時，保有名詞 civis（公民）的基礎，指不屬於軍事或武裝部隊性質的事物，如平民生活或民用設施。",
+      "definition": "1. relating to civilians rather than the military or police; 2. of or relating to non-military life or duties.",
+      "example": [
+        {
+          "eng": "He is trying to adjust to civilian life after years in the army.",
+          "ch": "他在軍中待了多年後，正試圖適應平民生活。"
+        },
+        {
+          "eng": "The factory shifted from military production to civilian goods.",
+          "ch": "這家工廠從軍事生產轉為民用商品生產。"
+        }
+      ]
+    },
+    {
+      "eng": "civilization",
+      "kk": "ˌsɪvələˈzeʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "文明",
+          "文化"
+        ],
+        [
+          "文明社會",
+          "人類現代文明"
+        ]
+      ],
+      "analysis": "此字由動詞 civilize 加上名詞字尾 -ation 形成。核心概念源自拉丁語 civilis（公民的、有禮貌的），演變指人類社會達到高度文化、制度與科學發展的狀態。",
+      "definition": "1. a society that has developed a high level of culture, science, industry, and government; 2. the human social development and organization that is considered most advanced.",
+      "example": [
+        {
+          "eng": "Archaeologists have uncovered traces of an ancient civilization.",
+          "ch": "考古學家發掘出了古代文明的遺跡。"
+        },
+        {
+          "eng": "Modern civilization depends heavily on reliable energy sources.",
+          "ch": "現代文明極度依賴可靠的能源。"
+        }
+      ]
+    },
+    {
+      "eng": "clarify",
+      "kk": "ˈklærəˌfaɪ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "澄清",
+          "闡明",
+          "使清楚"
+        ],
+        [
+          "淨化",
+          "使清澈"
+        ]
+      ],
+      "analysis": "此字由拉丁語 clarus（清楚的、明亮的）加上動詞字尾 -fy（使……）組合而成，經由中古法語進入英語。語意從物質上的「使液體清澈」延伸出抽象的「使觀念或言論清楚明白」。",
+      "definition": "1. to make a statement or situation less confused and more comprehensible; 2. to make a liquid clear or pure by heating or filtering.",
+      "example": [
+        {
+          "eng": "Could you please clarify your position on this issue?",
+          "ch": "你能否澄清一下你在這個問題上的立場？"
+        },
+        {
+          "eng": "Melt the butter over low heat and clarify it by removing the foam.",
+          "ch": "用小火融化奶油，並撈去浮沫來使其淨化。"
+        }
+      ]
+    },
+    {
+      "eng": "clash",
+      "kk": "klæʃ",
+      "tense": "n.",
+      "ch": [
+        [
+          "衝突",
+          "交鋒"
+        ],
+        [
+          "不一致",
+          "衝突（時間或顏色等）"
+        ]
+      ],
+      "analysis": "此字為擬聲詞（onomatopoeia），模仿金屬撞擊或物品猛烈相交的聲音。語意從實體的金屬碰撞聲，引申為意見、利益的激烈衝突，以及行程或色彩上的不協調。",
+      "definition": "1. a violent confrontation or a serious disagreement; 2. a mismatch between colors, or a conflict between dates and times.",
+      "example": [
+        {
+          "eng": "Clashes broke out between protesters and the police.",
+          "ch": "抗議者與警方之間爆發了衝突。"
+        },
+        {
+          "eng": "I can't attend the meeting due to a scheduling clash.",
+          "ch": "由於行程衝突，我無法出席會議。"
+        }
+      ]
+    },
+    {
+      "eng": "clash",
+      "kk": "klæʃ",
+      "tense": "vi.",
+      "ch": [
+        [
+          "衝突",
+          "交鋒"
+        ],
+        [
+          "不協調",
+          "相克（指顏色或時間）"
+        ]
+      ],
+      "analysis": "作為動詞使用時，保留擬聲字根的動態意涵，指雙方發生爭執對立，或指事物在視覺或時間安排上互相排斥、不相容。",
+      "definition": "1. to come into violent conflict or a serious disagreement; 2. to look ugly or unpleasing together, or to happen at the same time and prevent someone from attending both.",
+      "example": [
+        {
+          "eng": "The two teams will clash in the championship final tomorrow.",
+          "ch": "兩支球隊明天將在冠軍賽中交鋒。"
+        },
+        {
+          "eng": "Red and pink generally clash when worn together.",
+          "ch": "紅色和粉紅色穿在一起通常很不協調。"
+        }
+      ]
+    },
+    {
+      "eng": "classification",
+      "kk": "ˌklæsəfəˈkeʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "分類",
+          "分級"
+        ],
+        [
+          "類別",
+          "門類"
+        ]
+      ],
+      "analysis": "由動詞 classify 加上名詞字尾 -ation 構成。源自拉丁語 classis（階級、組別）結合 facere（做），表示將事物按照特徵進行分組或分級的行為與結果。",
+      "definition": "1. the action or process of classifying something according to shared qualities or characteristics; 2. a category or division into which something is put.",
+      "example": [
+        {
+          "eng": "The library uses a complex system of book classification.",
+          "ch": "該圖書館採用複雜的圖書分類系統。"
+        },
+        {
+          "eng": "Scientists have proposed a new classification for these species.",
+          "ch": "科學家們為這些物種提出了新的分類。"
+        }
+      ]
+    },
+    {
+      "eng": "classify",
+      "kk": "ˈklæsəˌfaɪ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "分類",
+          "歸類"
+        ],
+        [
+          "把……列為機密"
+        ]
+      ],
+      "analysis": "由拉丁語 classis（部隊、階級、組別）與 facere（製作）結合而成的複合動詞。語意從「按等級或類別編排」引申出現代的「將文件或資訊列為機密」。",
+      "definition": "1. to arrange things in groups or categories according to shared qualities; 2. to officially designate documents or information as secret.",
+      "example": [
+        {
+          "eng": "Biologists classify organisms based on their genetic traits.",
+          "ch": "生物學家根據生物的遺傳特徵對其進行分類。"
+        },
+        {
+          "eng": "The government decided to classify the defense documents.",
+          "ch": "政府決定將這些國防文件列為機密。"
+        }
+      ]
+    },
+    {
+      "eng": "claw",
+      "kk": "klɔ",
+      "tense": "n.",
+      "ch": [
+        [
+          "爪",
+          "鉤爪"
+        ],
+        [
+          "蟹螯",
+          "鉗"
+        ]
+      ],
+      "analysis": "源自日耳曼語族（古英語 clāw），指鳥獸或爬行動物趾端尖銳的角質爪。亦可用來指甲殼類動物（如螃蟹、龍蝦）的鉗子。",
+      "definition": "1. a curved pointed horny nail on each digit of the foot in birds, lizards, and some mammals; 2. the pincer of a crab, lobster, or similar crustacean.",
+      "example": [
+        {
+          "eng": "The cat dug its claws into the sofa fabric.",
+          "ch": "貓把爪子抓進了沙發布料裡。"
+        },
+        {
+          "eng": "The lobster has powerful claws to catch its prey.",
+          "ch": "龍蝦擁有強大的鉗子來捕捉獵物。"
+        }
+      ]
+    },
+    {
+      "eng": "claw",
+      "kk": "klɔ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "抓傷",
+          "撕抓"
+        ],
+        [
+          "艱難地爬行或搜刮"
+        ]
+      ],
+      "analysis": "由名詞 claw 轉品而來的動詞，指用爪子抓、刮，或引申為用手拼命抓取、艱難地向前移動（常與副詞如 up、out 搭配）。",
+      "definition": "1. to scratch or tear something with claws or fingernails; 2. to move or climb with difficulty using hands and feet.",
+      "example": [
+        {
+          "eng": "The frightened animal tried to claw its way out of the cage.",
+          "ch": "那隻受驚的動物試圖用爪子抓開籠子逃出去。"
+        },
+        {
+          "eng": "He managed to claw his way back to financial stability.",
+          "ch": "他設法艱難地恢復了財務穩定。"
+        }
+      ]
+    },
+    {
+      "eng": "cliff",
+      "kk": "klɪf",
+      "tense": "n.",
+      "ch": [
+        [
+          "懸崖",
+          "峭壁"
+        ]
+      ],
+      "analysis": "源自日耳曼語族（古英語 clīf），與動詞 cleave（劈開）同源，本義指被劈開或陡峭立起的岩壁地形。",
+      "definition": "1. a steep cliff, rock face, or high precipice, especially one standing on the coast.",
+      "example": [
+        {
+          "eng": "The path runs dangerously close to the edge of the cliff.",
+          "ch": "這條小路危險地緊鄰著懸崖邊緣。"
+        }
+      ]
+    },
+    {
+      "eng": "clumsy",
+      "kk": "ˈklʌmzi",
+      "tense": "adj.",
+      "ch": [
+        [
+          "笨拙的",
+          "不靈巧的"
+        ],
+        [
+          "笨重的",
+          "設計不佳的"
+        ]
+      ],
+      "analysis": "源自中古英語 clumsen（意為因寒冷而麻木僵硬），演變出動作不靈活、笨拙的意思，後也延伸指物品笨重或處理方式不得體。",
+      "definition": "1. done with a lack of skill or coordination, tending to drop or break things; 2. awkward in shape or design, making it difficult to use.",
+      "example": [
+        {
+          "eng": "I felt clumsy and dropped the fragile vase.",
+          "ch": "我覺得很笨拙，把易碎的花瓶摔碎了。"
+        },
+        {
+          "eng": "The software has a clumsy interface that is hard to navigate.",
+          "ch": "這套軟體的介面很笨拙，很難操作。"
+        }
+      ]
+    },
+    {
+      "eng": "coarse",
+      "kk": "kɔrs",
+      "tense": "adj.",
+      "ch": [
+        [
+          "粗糙的",
+          "粗質的"
+        ],
+        [
+          "粗俗的",
+          "下流的"
+        ]
+      ],
+      "analysis": "起源不完全確定，可能與中古英語中表示質地不細緻的詞彙有關。用來形容物質表面粗糙不平滑，或引申指言語、行為粗俗無禮。",
+      "definition": "1. rough or loose in texture or grain; 2. rude, offensive, or vulgar in manners or speech.",
+      "example": [
+        {
+          "eng": "The jacket was made of a coarse woolen fabric.",
+          "ch": "這件夾克是由粗糙的羊毛織物製成的。"
+        },
+        {
+          "eng": "He was reprimanded for using coarse language in the office.",
+          "ch": "他因在辦公室使用粗俗的語言而遭到訓斥。"
+        }
+      ]
+    },
+    {
+      "eng": "code",
+      "kk": "kod",
+      "tense": "n.",
+      "ch": [
+        [
+          "密碼",
+          "代碼"
+        ],
+        [
+          "法規",
+          "規範"
+        ],
+        [
+          "程式碼"
+        ]
+      ],
+      "analysis": "源自拉丁語 codex（木板書、法典），原指古代寫在木板或紙草上的法律彙編。後來因密寫與電腦發展，引申出「密碼」、「程式碼」與行為「規範」等義項。",
+      "definition": "1. a system of words, letters, or numbers substituted for other words; 2. a set of moral principles or rules of behavior; 3. instructions written in a computer programming language.",
+      "example": [
+        {
+          "eng": "Spies used a secret code to communicate with headquarters.",
+          "ch": "間諜使用密碼與總部通訊。"
+        },
+        {
+          "eng": "Doctors must adhere to a strict ethical code.",
+          "ch": "醫生必須遵守嚴格的倫理規範。"
+        },
+        {
+          "eng": "The programmer spent hours debugging the code.",
+          "ch": "程式設計師花了數小時除錯程式碼。"
+        }
+      ]
+    },
+    {
+      "eng": "code",
+      "kk": "kod",
+      "tense": "vt.",
+      "ch": [
+        [
+          "把……編碼",
+          "加密"
+        ],
+        [
+          "編寫程式碼"
+        ]
+      ],
+      "analysis": "由名詞 code 轉品而成的動詞，指將明文轉換成密碼或代碼，或指使用電腦程式語言撰寫指令。",
+      "definition": "1. to convert a message or information into a code or cipher; 2. to write instructions for a computer.",
+      "example": [
+        {
+          "eng": "All sensitive data must be coded before transmission.",
+          "ch": "所有機敏資料在傳輸前都必須加密。"
+        },
+        {
+          "eng": "She learned how to code when she was twelve years old.",
+          "ch": "她在十二歲時就學會了寫程式。"
+        }
+      ]
+    },
+    {
+      "eng": "collapse",
+      "kk": "kəˈlæps",
+      "tense": "n.",
+      "ch": [
+        [
+          "倒塌",
+          "崩塌"
+        ],
+        [
+          "崩潰",
+          "癱瘓"
+        ]
+      ],
+      "analysis": "由動詞 collapse 轉品而成的名詞，指建築物突然塌陷，或指經濟、系統、健康等突發性的崩潰與失敗。",
+      "definition": "1. a sudden failure, breakdown, or falling down of a structure, system, or organization; 2. a sudden physical or mental breakdown.",
+      "example": [
+        {
+          "eng": "The sudden collapse of the financial market shocked investors.",
+          "ch": "金融市場的突然崩盤震驚了投資者。"
+        },
+        {
+          "eng": "Rescue workers searched the ruins after the building collapse.",
+          "ch": "在建築物倒塌後，救援人員搜尋了廢墟。"
+        }
+      ]
+    },
+    {
+      "eng": "collapse",
+      "kk": "kəˈlæps",
+      "tense": "vi.",
+      "ch": [
+        [
+          "倒塌",
+          "崩塌"
+        ],
+        [
+          "癱瘓",
+          "崩潰"
+        ],
+        [
+          "昏倒",
+          "虛脫倒下"
+        ]
+      ],
+      "analysis": "由拉丁語字首 com-（加強語氣）加上 labi（滑落、倒下）組合而成，經由法語進入英語。原義為整個結構滑落瓦解，引申出建築物倒塌、經濟崩潰或人因過度疲勞而虛脫倒下。",
+      "definition": "1. to fall down or cave in suddenly; 2. to fail suddenly and completely; 3. to fall down unconscious or exhausted.",
+      "example": [
+        {
+          "eng": "The old bridge threatened to collapse under the heavy snow.",
+          "ch": "那座老舊的橋樑在厚重積雪下隨時有崩塌的危險。"
+        },
+        {
+          "eng": "The peace talks collapsed after both sides refused to compromise.",
+          "ch": "雙方拒絕妥協後，和平談判宣告破裂。"
+        },
+        {
+          "eng": "He collapsed from exhaustion after working for 20 hours straight.",
+          "ch": "連續工作二十小時後，他因精疲力竭而虛脫倒地。"
+        }
+      ]
+    },
+    {
+      "eng": "colleague",
+      "kk": "ˈkɑlig",
+      "tense": "n.",
+      "ch": [
+        [
+          "同事",
+          "同僚"
+        ]
+      ],
+      "analysis": "由拉丁語 com-（共同）與 collega（同僚，源自 legare 委任、挑選）組合而成，經由法語進入英語。本義指共同受委任共事的人。",
+      "definition": "1. a person with whom one works, especially in a profession or business.",
+      "example": [
+        {
+          "eng": "She discussed the new research project with her colleagues.",
+          "ch": "她和同事們討論了這項新的研究計畫。"
+        }
+      ]
+    },
+    {
+      "eng": "combination",
+      "kk": "ˌkɑmbəˈneʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "結合",
+          "組合"
+        ],
+        [
+          "密碼鎖的密碼",
+          "組合數字"
+        ]
+      ],
+      "analysis": "由動詞 combine 加上名詞字尾 -ation 構成。源自拉丁語 com-（共同）與 bini（雙數、成對）。本義為將事物結合成一體，後引申出鎖頭的「組合數字（密碼）」。",
+      "definition": "1. the action or process of combining two or more things; 2. a sequence of numbers or letters used to open a combination lock.",
+      "example": [
+        {
+          "eng": "Success is a combination of hard work and good luck.",
+          "ch": "成功是努力工作與好運的結合。"
+        },
+        {
+          "eng": "I forgot the combination to my bicycle lock.",
+          "ch": "我忘記了我腳踏車鎖的密碼。"
+        }
+      ]
+    },
+    {
+      "eng": "comedy",
+      "kk": "ˈkɑmədi",
+      "tense": "n.",
+      "ch": [
+        [
+          "喜劇"
+        ],
+        [
+          "喜劇事件",
+          "滑稽場面"
+        ]
+      ],
+      "analysis": "源自希臘語 kōmōidia（kōmos 歡樂遊行 + ōidē 歌曲），經由拉丁語與法語進入英語。原指古希臘慶典中的歌舞劇，後演變為泛指以娛樂、引人發笑或結局圓滿為主文藝作品或真實事件。",
+      "definition": "1. a professional entertainment consisting of jokes and sketches intended to make an audience laugh; a play or movie with a happy ending; 2. an event or situation that is amusingly absurd.",
+      "example": [
+        {
+          "eng": "We went to the theater to watch a romantic comedy.",
+          "ch": "我們去戲院看了一部浪漫喜劇。"
+        },
+        {
+          "eng": "The entire planning process turned into a comedy of errors.",
+          "ch": "整個企劃過程變成了一場失誤連連的滑稽鬧劇。"
+        }
+      ]
+    },
+    {
+      "eng": "commander",
+      "kk": "kəˈmændɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "指揮官",
+          "長官"
+        ],
+        [
+          "海軍中校"
+        ]
+      ],
+      "analysis": "由動詞 command（命令、指揮）加上名詞字尾 -er 構成。源自拉丁語 commendare。指擁有指揮權的軍事長官，在海軍中亦為特定的軍階（中校）。",
+      "definition": "1. a person in authority, especially an officer in command of a military force or operation; 2. a naval rank intermediate between lieutenant commander and captain.",
+      "example": [
+        {
+          "eng": "The commander ordered the troops to hold their position.",
+          "ch": "指揮官命令部隊堅守陣地。"
+        },
+        {
+          "eng": "He was promoted to the rank of commander last year.",
+          "ch": "他去年晉升為中校軍階。"
+        }
+      ]
+    },
+    {
+      "eng": "comment",
+      "kk": "ˈkɑmɛnt",
+      "tense": "n.",
+      "ch": [
+        [
+          "評論",
+          "意見"
+        ],
+        [
+          "評語",
+          "註解"
+        ]
+      ],
+      "analysis": "源自拉丁語 commentum（發明、解釋、評論，源自 comminisci 沉思、構思），經由法語進入英語。指對某事發表的意見、解釋或文字註解。",
+      "definition": "1. a verbal or written remark expressing an opinion or reaction; 2. an explanatory note or annotation in a text.",
+      "example": [
+        {
+          "eng": "The politician refused to make any further comments to the press.",
+          "ch": "該政治人物拒絕向媒體發表進一步評論。"
+        },
+        {
+          "eng": "The teacher wrote helpful comments on my essay.",
+          "ch": "老師在我的短文上寫了很有幫助的評語。"
+        }
+      ]
+    },
+    {
+      "eng": "comment",
+      "kk": "ˈkɑmɛnt",
+      "tense": "vi.",
+      "ch": [
+        [
+          "發表評論",
+          "發表意見"
+        ]
+      ],
+      "analysis": "由名詞 comment 轉品而來的動詞，指針對特定事件、言論或文章表達看法與意見。",
+      "definition": "1. to express an opinion or reaction in speech or writing.",
+      "example": [
+        {
+          "eng": "Several experts declined to comment on the new economic policy.",
+          "ch": "幾位專家拒絕對這項新的經濟政策發表評論。"
+        }
+      ]
+    },
+    {
+      "eng": "commerce",
+      "kk": "ˈkɑmɚs",
+      "tense": "n.",
+      "ch": [
+        [
+          "商業",
+          "貿易"
+        ]
+      ],
+      "analysis": "由拉丁語 com-（共同）與 merx（商品、貨物，源自 mercari 買賣）組合而成，經由法語進入英語。指大規模的商品買賣與商業活動。",
+      "definition": "1. the activity of buying and selling, especially on a large scale.",
+      "example": [
+        {
+          "eng": "Downtown is the center of local finance and commerce.",
+          "ch": "市中心是當地金融與商業的中心。"
+        }
+      ]
+    },
+    {
+      "eng": "commit",
+      "kk": "kəˈmɪt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "犯（罪）",
+          "做（錯事等）"
+        ],
+        [
+          "承諾",
+          "使自己投入",
+          "撥出（資金、時間等）"
+        ],
+        [
+          "送交",
+          "把……交給"
+        ]
+      ],
+      "analysis": "由拉丁語 con-（加強語氣）與 mittere（派遣、送出）組合而成，經由法語進入英語。本義為「交付、託付」，引申出「犯罪（將自己交給罪行）」、「承諾投入」與「撥出資源」等義項。",
+      "definition": "1. to carry out or perpetrate a mistake, crime, or evil act; 2. to pledge or bind a person or oneself to a certain course or policy, or to allocate resources; 3. to send someone to prison or a mental institution.",
+      "example": [
+        {
+          "eng": "He was arrested for committing a serious crime.",
+          "ch": "他因犯下重罪而被捕。"
+        },
+        {
+          "eng": "Both parties agreed to commit more resources to the project.",
+          "ch": "雙方同意為該專案投入更多資源。"
+        },
+        {
+          "eng": "The judge threatened to commit him for contempt of court.",
+          "ch": "法官威脅要以藐視法庭罪將他收押。"
+        }
+      ]
+    },
+    {
+      "eng": "communication",
+      "kk": "kəˌmjunəˈkeʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "溝通",
+          "交流"
+        ],
+        [
+          "通訊",
+          "傳遞訊息"
+        ],
+        [
+          "通訊聯絡系統",
+          "信件/訊息"
+        ]
+      ],
+      "analysis": "由動詞 communicate 加上名詞字尾 -ation 構成。源自拉丁語 communicare（分享、使共有，源自 communis 共同的）。指訊息、思想或情感的傳遞與交流，或指通訊的管道與傳遞的訊息本身。",
+      "definition": "1. the imparting or exchanging of information or news; 2. the successful conveying or sharing of ideas and feelings; 3. a letter or message, or means of connection.",
+      "example": [
+        {
+          "eng": "Good communication is essential for a healthy relationship.",
+          "ch": "良好的溝通對於健康的關係至關重要。"
+        },
+        {
+          "eng": "All forms of electronic communication were cut off during the storm.",
+          "ch": "暴風雨期間，所有電子通訊形式都被切斷了。"
+        },
+        {
+          "eng": "I received an official communication from the university.",
+          "ch": "我收到了來自大學的官方通知。"
+        }
+      ]
+    },
+    {
+      "eng": "community",
+      "kk": "kəˈmjunəti",
+      "tense": "n.",
+      "ch": [
+        [
+          "社區",
+          "社群"
+        ],
+        [
+          "共同體",
+          "體系（具共同利益或特徵的群體）"
+        ]
+      ],
+      "analysis": "由拉丁語 communis（共同的）加上名詞字尾 -itas 構成，經由中古法語進入英語。指居住在同一地區的人民群體，或指擁有共同利益、職業或特徵的社會群體。",
+      "definition": "1. a group of people living in the same place or having a particular characteristic in common; 2. a feeling of fellowship with others, as a result of sharing common attitudes, interests, and goals.",
+      "example": [
+        {
+          "eng": "The local community rallied together to help the victims.",
+          "ch": "當地社區團結起來幫助受災者。"
+        },
+        {
+          "eng": "The scientific community is excited about the new discovery.",
+          "ch": "科學界對這項新發現感到振奮。"
+        }
+      ]
+    },
+    {
+      "eng": "companion",
+      "kk": "kəmˈpænjən",
+      "tense": "n.",
+      "ch": [
+        [
+          "同伴",
+          "夥伴"
+        ],
+        [
+          "伴侶",
+          "隨行物"
+        ]
+      ],
+      "analysis": "由拉丁語 com-（共同）與 panis（麵包）組合而成的 panis 衍生詞（com-panion 意為「一起吃麵包的人」），經由古法語進入英語。本義為共食同伴，後演變為泛指陪伴左右的人或動物。",
+      "definition": "1. a person or animal with whom one spends a lot of time or goes somewhere; 2. one of a pair of things that match or belong together.",
+      "example": [
+        {
+          "eng": "His dog has been a loyal companion for over ten years.",
+          "ch": "他的狗十多年來一直是一隻忠實的夥伴。"
+        },
+        {
+          "eng": "This dictionary is an ideal companion for language learners.",
+          "ch": "這本字典是語言學習者的理想隨身夥伴。"
+        }
+      ]
+    },
+    {
+      "eng": "competition",
+      "kk": "ˌkɑmpəˈtɪʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "競爭",
+          "角逐"
+        ],
+        [
+          "比賽",
+          "競賽"
+        ]
+      ],
+      "analysis": "由動詞 compete 加上名詞字尾 -ition 構成。源自拉丁語 com-（共同）與 petere（追求、尋求、爭奪）。指雙方或多方為了爭奪同一目標、獎項或市場而進行的較量。",
+      "definition": "1. the activity or condition of striving to gain or win something by defeating or establishing superiority over others; 2. an event or contest in which people compete.",
+      "example": [
+        {
+          "eng": "Competition in the smartphone market is fierce.",
+          "ch": "智慧型手機市場的競爭非常激烈。"
+        },
+        {
+          "eng": "She won first prize in the national piano competition.",
+          "ch": "她在全國鋼琴比賽中獲得了第一名。"
+        }
+      ]
+    },
+    {
+      "eng": "competitive",
+      "kk": "kəmˈpɛtətɪv",
+      "tense": "adj.",
+      "ch": [
+        [
+          "競爭的",
+          "有競爭力的"
+        ],
+        [
+          "好勝的"
+        ]
+      ],
+      "analysis": "由名詞 competition 或動詞 compete 加上形容詞字尾 -itive 構成。用來形容市場或情境充滿競爭，或是價格、產品具有優勢，亦可指人的好勝性格。",
+      "definition": "1. relating to or characterized by competition; as good as or better than others; 2. having or showing a strong desire to win or be successful.",
+      "example": [
+        {
+          "eng": "Our company offers high-quality products at competitive prices.",
+          "ch": "我們公司以具競爭力的價格提供高品質的產品。"
+        },
+        {
+          "eng": "He has a very competitive nature and hates to lose.",
+          "ch": "他有非常強烈的好勝心，最討厭輸。"
+        }
+      ]
+    },
+    {
+      "eng": "competitor",
+      "kk": "kəmˈpɛtətɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "競爭者",
+          "對手"
+        ]
+      ],
+      "analysis": "由動詞 compete 加上名詞字尾 -or 構成，指在商業、體育或其他領域中與他人競爭的對手或公司。",
+      "definition": "1. a person, team, or company that is competing against others.",
+      "example": [
+        {
+          "eng": "We must analyze our main competitors to stay ahead in the market.",
+          "ch": "我們必須分析主要競爭對手，才能在市場上保持領先。"
+        }
+      ]
+    },
+    {
+      "eng": "complicate",
+      "kk": "ˈkɑmpləˌket",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使複雜化",
+          "使繁瑣"
+        ]
+      ],
+      "analysis": "由拉丁語 con-（共同）與 complexus（纏結、卷在一起，源自 plectere 編織、纏繞）組合而成的動詞。本義為將線或事物纏繞在一起，引申為使情勢或問題變得複雜。",
+      "definition": "1. to make something more difficult or complex than it was.",
+      "example": [
+        {
+          "eng": "Don't complicate the matter with unnecessary details.",
+          "ch": "不要用不必要的細節把事情搞複雜了。"
+        }
+      ]
+    },
+    {
+      "eng": "compose",
+      "kk": "kəmˈpoz",
+      "tense": "vt.",
+      "ch": [
+        [
+          "組成",
+          "構成"
+        ],
+        [
+          "創作（音樂、文學等）"
+        ],
+        [
+          "使平靜",
+          "使鎮定"
+        ]
+      ],
+      "analysis": "由拉丁語 com-（共同）與 ponere（放置、擺放）組合而成，經由古法語（composer）進入英語。本義為把各部分擺放在一起組成整體，引申出創作樂曲或文章，以及使情緒平靜（把心緒整理好）的意思。",
+      "definition": "1. to constitute or make up a whole; 2. to write or create a work of art, especially music or poetry; 3. to calm or steady oneself.",
+      "example": [
+        {
+          "eng": "Water is composed of hydrogen and oxygen.",
+          "ch": "水是由氫和氧組成的。"
+        },
+        {
+          "eng": "Beethoven composed his famous Ninth Symphony late in life.",
+          "ch": "貝多芬在晚年創作了他的著名第九號交響曲。"
+        },
+        {
+          "eng": "She took a deep breath to compose herself before the interview.",
+          "ch": "她在面試前深吸了一口氣，好讓自己平靜下來。"
+        }
+      ]
+    },
+    {
+      "eng": "composer",
+      "kk": "kəmˈpozɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "作曲家",
+          "創作者"
+        ]
+      ],
+      "analysis": "由動詞 compose 加上名詞字尾 -er 構成，專指創作音樂作品的作曲家。",
+      "definition": "1. a person who writes music, especially as a professional occupation.",
+      "example": [
+        {
+          "eng": "Mozart is widely regarded as one of history's greatest composers.",
+          "ch": "莫札特被普遍認為是歷史上最偉大的作曲家之一。"
+        }
+      ]
+    },
+    {
+      "eng": "composition",
+      "kk": "ˌkɑmpəˈzɪʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "構成",
+          "成分結構"
+        ],
+        [
+          "作品（音樂、文學等）"
+        ],
+        [
+          "作文"
+        ]
+      ],
+      "analysis": "由動詞 compose 加上名詞字尾 -ition 構成。指事物組成的成分與結構、藝術或音樂的創作結晶，或是學生寫的作文。",
+      "definition": "1. the nature of something's ingredients or constituents; the way in which a whole is made up; 2. a work of music, literature, or art; 3. a short essay written as a school exercise.",
+      "example": [
+        {
+          "eng": "Scientists analyzed the chemical composition of the rock sample.",
+          "ch": "科學家分析了岩石樣本的化學成分。"
+        },
+        {
+          "eng": "The students were asked to write a composition about their summer vacation.",
+          "ch": "學生們被要求寫一篇關於暑假的作文。"
+        }
+      ]
+    },
+    {
+      "eng": "concentrate",
+      "kk": "ˈkɑnsənˌstret",
+      "tense": "vt.",
+      "ch": [
+        [
+          "集中（注意力、力量、資源等）"
+        ],
+        [
+          "濃縮（液體等）"
+        ]
+      ],
+      "analysis": "作為及物動詞時，指將注意力、兵力、資金等集中於某處，或指將溶液蒸發濃縮。",
+      "definition": "1. to bring attention, efforts, or resources to a central point or common objective; 2. to make a liquid or substance stronger and denser by removing water.",
+      "example": [
+        {
+          "eng": "The government plans to concentrate its efforts on improving public education.",
+          "ch": "政府計畫將心力集中在改善公共教育上。"
+        },
+        {
+          "eng": "Boil the juice until it concentrates into a thick syrup.",
+          "ch": "將果汁煮沸直到濃縮成濃稠的糖漿。"
+        }
+      ]
+    },
+    {
+      "eng": "concentrate",
+      "kk": "ˈkɑnsənˌstret",
+      "tense": "vi.",
+      "ch": [
+        [
+          "專心",
+          "全神貫注"
+        ]
+      ],
+      "analysis": "由拉丁語 com-（共同、聚集）與 centrum（中心，源自希臘語 kentron 尖端、圓心）組合而成的動詞。原義為「使聚集到中心」，引申出將精神與注意力集中在某一點上。",
+      "definition": "1. to focus all one's attention on a particular object or activity.",
+      "example": [
+        {
+          "eng": "It is hard to concentrate with all that noise outside.",
+          "ch": "外面有那麼多噪音，很難專心。"
+        }
+      ]
+    },
+    {
+      "eng": "concentration",
+      "kk": "ˌkɑnsənˈtreʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "專心",
+          "注意力"
+        ],
+        [
+          "集中",
+          "聚集"
+        ],
+        [
+          "濃度"
+        ]
+      ],
+      "analysis": "由動詞 concentrate 加上名詞字尾 -ation 構成。指精神集中的狀態、人或事物的聚集，或是化學溶液的濃度。",
+      "definition": "1. the action or power of focusing one's attention; 2. a close gathering of people or things; 3. the relative amount of a substance in a particular volume or solution.",
+      "example": [
+        {
+          "eng": "Yoga and meditation can help improve your concentration.",
+          "ch": "瑜伽和冥想有助於改善你的注意力。"
+        },
+        {
+          "eng": "High concentrations of toxic chemicals were found in the water.",
+          "ch": "水中發現了高濃度的有毒化學物質。"
+        }
+      ]
+    },
+    {
+      "eng": "concept",
+      "kk": "ˈkɑnsɛpt",
+      "tense": "n.",
+      "ch": [
+        [
+          "概念",
+          "觀念"
+        ]
+      ],
+      "analysis": "由拉丁語 con-（共同）與 capere（抓取、容納）組合而成的 conceptus（已構想出的事物），經由法語或直接進入英語。本義為腦海中「抓取」並形成的抽象觀念。",
+      "definition": "1. an abstract idea or a general notion formed in the mind.",
+      "example": [
+        {
+          "eng": "The basic concept of democracy is rule by the people.",
+          "ch": "民主的基本概念是人民當家作主。"
+        }
+      ]
+    },
+    {
+      "eng": "concerning",
+      "kk": "kənˈsɝnɪŋ",
+      "tense": "prep.",
+      "ch": [
+        [
+          "關於",
+          "事關"
+        ]
+      ],
+      "analysis": "由動詞 concern（涉及、關係到）加上現在分詞字尾 -ing 演變而來的介系詞，源自拉丁語 concernere。用來引出所談論的主題或對象。",
+      "definition": "1. about; regarding; with reference to.",
+      "example": [
+        {
+          "eng": "We received several inquiries concerning the new tax policy.",
+          "ch": "我們收到了幾起關於新稅收政策的詢問。"
+        }
+      ]
+    },
+    {
+      "eng": "concrete",
+      "kk": "ˈkɑŋkrit",
+      "tense": "n.",
+      "ch": [
+        [
+          "混凝土"
+        ]
+      ],
+      "analysis": "由拉丁語 con-（共同）與 crescere（生長、結合）組合而成的 concretus（凝結的、固體的），經由法語進入英語。原為形容詞，後來名詞化專指將水泥、砂石與水混合凝固而成的建築材料「混凝土」。",
+      "definition": "1. a heavy, rough building material made from a mixture of broken stone or gravel, sand, cement, and water.",
+      "example": [
+        {
+          "eng": "The foundations of the building are made of poured concrete.",
+          "ch": "該建築物的地基是由灌漿混凝土製成的。"
+        }
+      ]
+    },
+    {
+      "eng": "concrete",
+      "kk": "ˈkɑŋkrit",
+      "tense": "adj.",
+      "ch": [
+        [
+          "具體的",
+          "有形的"
+        ],
+        [
+          "確實的",
+          "有根據的"
+        ]
+      ],
+      "analysis": "保留拉丁語 concretus（結成一體的、固體的）的形容詞義，相對於 abstract（抽象的），指看得見摸得到的具體事物，或指證據確鑿、確實可行的方案。",
+      "definition": "1. existing in a material or physical form; real and solid rather than abstract; 2. specific and definite; based on clear evidence.",
+      "example": [
+        {
+          "eng": "The police need concrete evidence before making an arrest.",
+          "ch": "警方在逮捕嫌犯之前需要具體證據。"
+        },
+        {
+          "eng": "Do you have any concrete suggestions for solving this problem?",
+          "ch": "你對解決這個問題有什麼具體的建議嗎？"
+        }
+      ]
+    },
+    {
+      "eng": "conductor",
+      "kk": "kənˈdʌktɚ",
+      "tense": "n.",
+      "ch": [
+        [
+          "（樂隊、合唱團等的）指揮"
+        ],
+        [
+          "（火車等的）列車長",
+          "售票員"
+        ],
+        [
+          "導體（傳導熱或電的物質）"
+        ]
+      ],
+      "analysis": "由動詞 conduct（引導、帶領、傳導）加上名詞字尾 -or 構成。源自拉丁語 conducere。本義為引導者，引申出樂團指揮、火車車長，以及物理學上的導體。",
+      "definition": "1. a person who directs the performance of an orchestra or choir; 2. an official on a train who collects fares and assists passengers; 3. a material or device that conducts heat, electricity, or sound.",
+      "example": [
+        {
+          "eng": "The conductor raised his baton and the orchestra began to play.",
+          "ch": "指揮舉起指揮棒，管弦樂團開始演奏。"
+        },
+        {
+          "eng": "The train conductor checked our tickets shortly after departure.",
+          "ch": "火車長在發車後不久查驗了我們的車票。"
+        },
+        {
+          "eng": "Copper is an excellent conductor of electricity.",
+          "ch": "銅是優良的導電體。"
+        }
+      ]
+    },
+    {
+      "eng": "conference",
+      "kk": "ˈkɑnfərəns",
+      "tense": "n.",
+      "ch": [
+        [
+          "會議",
+          "研討會"
+        ]
+      ],
+      "analysis": "由動詞 confer（商議、授予，源自 con- 共同 + ferre 帶來）加上名詞字尾 -ence 構成。指人們聚集在一起正式討論或交換意見的會議。",
+      "definition": "1. a formal meeting for discussion, feedback, or consultation, especially a structured series of meetings on a particular subject.",
+      "example": [
+        {
+          "eng": "She is attending an international conference on climate change.",
+          "ch": "她正在參加一個關於氣候變遷的國際研討會。"
+        }
+      ]
+    },
+    {
+      "eng": "confess",
+      "kk": "kənˈfɛs",
+      "tense": "vt.",
+      "ch": [
+        [
+          "坦白",
+          "承認（過錯或罪行）"
+        ],
+        [
+          "告解",
+          "向神父辦告解"
+        ]
+      ],
+      "analysis": "由拉丁語 con-（加強語氣）與 fateri（坦白、承認）組合而成，經由中古法語進入英語。原義為坦承隱瞞的事情或罪行，亦指天主教徒向神父告解罪過。",
+      "definition": "1. to admit or state that one has committed a crime or done something wrong; 2. to disclose sins to a priest in the sacrament of reconciliation.",
+      "example": [
+        {
+          "eng": "The suspect eventually confessed to the robbery during interrogation.",
+          "ch": "嫌疑人在審訊期間最終坦承了搶劫罪行。"
+        },
+        {
+          "eng": "He went to church to confess his sins.",
+          "ch": "他去教堂向神父告解自己的罪過。"
+        }
+      ]
+    },
+    {
+      "eng": "confidence",
+      "kk": "ˈkɑnfədəns",
+      "tense": "n.",
+      "ch": [
+        [
+          "信心",
+          "自信"
+        ],
+        [
+          "信任",
+          "信賴"
+        ],
+        [
+          "機密",
+          "私房話"
+        ]
+      ],
+      "analysis": "由拉丁語 confidentia（源自 confidere 完全相信，con- 加強 + fidere 相信）經由法語進入英語。本義為全心信任或對自身能力的確信，後引申出吐露的秘密（in confidence）。",
+      "definition": "1. the feeling or belief that one can rely on someone or something; firm trust; 2. a state of feeling certain about one's ability or success; 3. a secret entrusted to someone.",
+      "example": [
+        {
+          "eng": "Winning the match gave the team a huge boost in confidence.",
+          "ch": "贏得比賽給了全隊極大的信心。"
+        },
+        {
+          "eng": "I have complete confidence in her professional judgment.",
+          "ch": "我對她的專業判斷充滿信心。"
+        },
+        {
+          "eng": "He told me about his financial troubles in strict confidence.",
+          "ch": "他向我嚴守祕密地訴說了他的財務困境。"
+        }
+      ]
+    },
+    {
+      "eng": "confusion",
+      "kk": "kənˈfjuzən",
+      "tense": "n.",
+      "ch": [
+        [
+          "困惑",
+          "混亂"
+        ],
+        [
+          "混淆",
+          "搞混"
+        ]
+      ],
+      "analysis": "由動詞 confuse 加上名詞字尾 -sion 構成。源自拉丁語 confundere（倒在一起、混淆，con- 共同 + fundere 傾倒）。指思緒混亂、局勢混雜不清，或是將兩個不同事物搞混的狀態。",
+      "definition": "1. uncertainty about what is happening, intended, or required; a state of bewilderment; 2. the action of mistaking one thing for another.",
+      "example": [
+        {
+          "eng": "There was some confusion about the exact time of the meeting.",
+          "ch": "對於會議的確切時間有些混亂與誤解。"
+        },
+        {
+          "eng": "The similarity of their names led to much confusion.",
+          "ch": "他們名字的相似性導致了許多混淆。"
+        }
+      ]
+    },
+    {
+      "eng": "congratulate",
+      "kk": "kənˈɡrætʃəˌlet",
+      "tense": "vt.",
+      "ch": [
+        [
+          "向……道賀",
+          "恭喜"
+        ]
+      ],
+      "analysis": "由拉丁語 con-（共同）與 gratulari（向人道喜、感激，源自 gratus 受歡迎的、高興的）組合而成的動詞。意為與他人一同分享喜悅並向其道賀。",
+      "definition": "1. to express praise and good wishes to someone for a special achievement or good fortune.",
+      "example": [
+        {
+          "eng": "I called to congratulate her on passing the bar exam.",
+          "ch": "我打電話向她通過律師考試表達祝賀。"
+        }
+      ]
+    },
+    {
+      "eng": "congress",
+      "kk": "ˈkɑŋɡrəs",
+      "tense": "n.",
+      "ch": [
+        [
+          "國會",
+          "議會（尤指美國國會）"
+        ],
+        [
+          "代表大會",
+          "學術會議"
+        ]
+      ],
+      "analysis": "由拉丁語 con-（共同）與 gradi（行走、前進，過去分詞為 gressus）組合而成。本義為「聚集、會面」，後來專指國家立法機關（如美國國會）或大型專業團體的代表大會。",
+      "definition": "1. the national legislative body of a country, especially the US; 2. a formal meeting or assembly of delegates for discussion.",
+      "example": [
+        {
+          "eng": "The bill must be approved by Congress before it becomes law.",
+          "ch": "該法案必須獲得國會批准才能成為法律。"
+        },
+        {
+          "eng": "She presented her research paper at the annual medical congress.",
+          "ch": "她在年度醫學代表大會上發表了她的研究論文。"
+        }
+      ]
+    },
+    {
+      "eng": "conquer",
+      "kk": "ˈkɑŋkɚ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "征服",
+          "佔領"
+        ],
+        [
+          "克服（困難、恐懼等）"
+        ]
+      ],
+      "analysis": "由拉丁語 con-（加強語氣）與 quaerere（尋求、獲取）演變出的 conquirere，經由中古法語 conquerrer 進入英語。本義為藉由武力攻取、獲取土地，後引申為在精神或意志上克服難關或恐懼。",
+      "definition": "1. to overcome and take control of a place or people by use of military force; 2. to successfully overcome a problem, fear, or difficulty.",
+      "example": [
+        {
+          "eng": "The Roman Empire conquered vast territories across Europe and Asia.",
+          "ch": "羅馬帝國征服了橫跨歐亞的廣大領土。"
+        },
+        {
+          "eng": "With therapy, she finally managed to conquer her fear of flying.",
+          "ch": "經過治療，她終於克服了對搭飛機的恐懼。"
+        }
+      ]
+    },
+    {
+      "eng": "conscience",
+      "kk": "ˈkɑnʃəns",
+      "tense": "n.",
+      "ch": [
+        [
+          "良心",
+          "道德心"
+        ]
+      ],
+      "analysis": "由拉丁語 con-（共同、徹底）與 scire（知道）組合而成的 conscientia（知情、內心察覺），經由法語進入英語。本義為內心深處對是非善惡的知覺與自我省察。",
+      "definition": "1. an inner feeling or voice viewed as acting as a guide to the rightness or wrongness of one's behavior.",
+      "example": [
+        {
+          "eng": "He had a guilty conscience after lying to his parents.",
+          "ch": "向父母撒謊後，他感到良心不安。"
+        }
+      ]
+    },
+    {
+      "eng": "consequence",
+      "kk": "ˈkɑnsəkwɛns",
+      "tense": "n.",
+      "ch": [
+        [
+          "結果",
+          "後果"
+        ],
+        [
+          "重要性"
+        ]
+      ],
+      "analysis": "由拉丁語 con-（共同）與 sequi（跟隨）組合而成的 consequentia，經由法語進入英語。本義為「隨之而跟隨發生的事物」，引申為行為或事件帶來的後果，或指事情的重要性（of consequence）。",
+      "definition": "1. a result or effect of an action or condition, typically one that is unwelcome or unpleasant; 2. importance or significance.",
+      "example": [
+        {
+          "eng": "You must be prepared to accept the consequences of your actions.",
+          "ch": "你必須準備好承擔自己行為的後果。"
+        },
+        {
+          "eng": "His decision is of great consequence to the future of the company.",
+          "ch": "他的決定對公司的未來具有重大影響。"
+        }
+      ]
+    },
+    {
+      "eng": "consequent",
+      "kk": "ˈkɑnsəkwənt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "隨之而來的",
+          "作為結果的"
+        ]
+      ],
+      "analysis": "由拉丁語 con-（共同）與 sequi（跟隨）組合而成的 consequent-（隨後跟著的）直接演變而來。用來形容某事發生後必然隨之產生的情況。",
+      "definition": "1. following as a result or effect.",
+      "example": [
+        {
+          "eng": "The factory shutdown and consequent loss of jobs devastated the town.",
+          "ch": "工廠關閉以及隨之而來的失業潮摧毀了這個小鎮。"
+        }
+      ]
+    },
+    {
+      "eng": "conservative",
+      "kk": "kənˈsɝvətɪv",
+      "tense": "n.",
+      "ch": [
+        [
+          "保守主義者",
+          "保守派人士"
+        ]
+      ],
+      "analysis": "由保守的形容詞轉品而來的名詞，指在政治、社會或宗教信仰上主張維持傳統、反對急劇變革的人。",
+      "definition": "1. a person who is averse to change and holds traditional values and politics.",
+      "example": [
+        {
+          "eng": "He has always been a staunch conservative throughout his political career.",
+          "ch": "在他的從政生涯中，他一直是一位堅定的保守派人士。"
+        }
+      ]
+    },
+    {
+      "eng": "conservative",
+      "kk": "kənˈsɝvətɪv",
+      "tense": "adj.",
+      "ch": [
+        [
+          "保守的",
+          "守舊的"
+        ],
+        [
+          "適度的（估計或設計等）"
+        ]
+      ],
+      "analysis": "由動詞 conserve（保護、保存，源自 con- 共同 + servare 保持）加上形容詞字尾 -ative 構成。本義為傾向於保持現狀、保護傳統，引申出政治上的保守派，或在估計數字、設計時採取保守、穩健的態度。",
+      "definition": "1. holding to traditional attitudes and values and cautious about change or innovation; 2. moderate or cautious in estimation, design, or style.",
+      "example": [
+        {
+          "eng": "Elderly voters tend to be more conservative in their political views.",
+          "ch": "年長的選民在政治觀點上往往較為保守。"
+        },
+        {
+          "eng": "That is a very conservative estimate of the repair costs.",
+          "ch": "那是對修理費用非常保守（偏低）的估計。"
+        }
+      ]
+    },
+    {
+      "eng": "consist",
+      "kk": "kənˈsɪst",
+      "tense": "vi.",
+      "ch": [
+        [
+          "由……組成",
+          "構成"
+        ],
+        [
+          "在於",
+          "存在於"
+        ]
+      ],
+      "analysis": "由拉丁語 con-（共同）與 sistere（站立、放置）組合而成，經由法語進入英語。本義為各部分站立結合在一起，現代通常與介系詞 of 搭配表示組成，或與 in 搭配表示本質在於。",
+      "definition": "1. to be composed or made up of; 2. to have its essential feature or nature in something.",
+      "example": [
+        {
+          "eng": "A balanced diet should consist of various food groups.",
+          "ch": "均衡的飲食應該由各種食物類別組成。"
+        },
+        {
+          "eng": "True happiness does not consist in material wealth.",
+          "ch": "真正的幸福不在於物質財富。"
+        }
+      ]
+    },
+    {
+      "eng": "consistent",
+      "kk": "kənˈsɪstənt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "一致的",
+          "連貫的"
+        ],
+        [
+          "一貫的",
+          "始終如一的"
+        ]
+      ],
+      "analysis": "由動詞 consist 的現在分詞形式演變而來（con- 共同 + sistere 站立）。本義為站在一起、不互相矛盾，引申出行為、標準或陳述前後一致、穩定不變的特性。",
+      "definition": "1. acting or done in the same way over time, especially so as to be fair or accurate; 2. compatible or in agreement with something.",
+      "example": [
+        {
+          "eng": "Her performance has been remarkably consistent throughout the season.",
+          "ch": "她在整個賽季中的表現一直非常穩定連貫。"
+        },
+        {
+          "eng": "His statement was not consistent with the evidence found at the scene.",
+          "ch": "他的陳述與現場發現的證據不一致。"
+        }
+      ]
+    },
+    {
+      "eng": "constitute",
+      "kk": "ˈkɑnstəˌtut",
+      "tense": "vt.",
+      "ch": [
+        [
+          "組成",
+          "構成"
+        ],
+        [
+          "設立",
+          "建立"
+        ]
+      ],
+      "analysis": "由拉丁語 con-（共同）與 statuere（設立、使站立，源自 stare 站立）組合而成。本義為使各部分站在一起成為整體，引申出構成某事物或由法律等正式設立機構。",
+      "definition": "1. to be the elements or parts of something; to make up; 2. to establish or create an organization, law, or institution.",
+      "example": [
+        {
+          "eng": "Twelve judges constitute a full panel for the supreme court.",
+          "ch": "十二名法官構成最高法院的完整合議庭。"
+        },
+        {
+          "eng": "The committee was constituted to investigate public corruption.",
+          "ch": "該委員會的成立是為了調查公職腐敗。"
+        }
+      ]
+    },
+    {
+      "eng": "constitution",
+      "kk": "ˌkɑnstəˈtuʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "憲法",
+          "章程"
+        ],
+        [
+          "體質",
+          "身體狀況"
+        ],
+        [
+          "構成",
+          "構造"
+        ]
+      ],
+      "analysis": "由動詞 constitute 加上名詞字尾 -ation 構成。原義為機構或國家的建立與法律條文，演變出國家的根本大法「憲法」、個人的身體「體質」，以及事物的構造方式。",
+      "definition": "1. a body of fundamental principles or established precedents according to which a state is governed; 2. a person's physical state and health; 3. the composition of something.",
+      "example": [
+        {
+          "eng": "Freedom of speech is guaranteed by the country's constitution.",
+          "ch": "言論自由受該國憲法的保障。"
+        },
+        {
+          "eng": "He has a strong constitution and rarely gets sick.",
+          "ch": "他體質強健，很少生病。"
+        },
+        {
+          "eng": "The genetic constitution of an organism determines its traits.",
+          "ch": "生物體的基因組成決定了它的特徵。"
+        }
+      ]
+    }
+  ]
+}

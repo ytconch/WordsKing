@@ -1,0 +1,219 @@
+{
+  "level": 1,
+  "chunkIndex": 22,
+  "inputs": [
+    "yours",
+    "yourself",
+    "yourselves",
+    "young",
+    "zero",
+    "zoo"
+  ],
+  "rows": [
+    {
+      "eng": "yours",
+      "kk": "jʊrz",
+      "tense": "pron.",
+      "ch": [
+        [
+          "你的",
+          "妳的",
+          "你們的",
+          "您的"
+        ],
+        [
+          "屬於你的東西",
+          "屬於你們的東西"
+        ]
+      ],
+      "analysis": "此字為所有格代名詞，為代名詞 your 的獨立所有格形式，在句中可獨立作主詞、受詞或補語，其後不需接名詞。歷史上由中古英語 eower 等演變而來，最終繼承自古英語。",
+      "definition": "1. belonging to or associated with the person or persons previously mentioned; 2. things or people belonging to you.",
+      "example": [
+        {
+          "eng": "This book is yours, not mine.",
+          "ch": "這本書是你的，不是我的。"
+        },
+        {
+          "eng": "My shoes are cleaner than yours.",
+          "ch": "我的鞋子比你的乾淨。"
+        }
+      ]
+    },
+    {
+      "eng": "yourself",
+      "kk": "jɔrˈsɛlf",
+      "tense": "pron.",
+      "ch": [
+        [
+          "你自己",
+          "妳自己",
+          "您自己"
+        ],
+        [
+          "你親自",
+          "妳親自"
+        ]
+      ],
+      "analysis": "此字為反身代名詞與強調代名詞，由所有格 your 與名詞 self 複合而成。用作反身代名詞時，指動作的受者與主詞為同一人；用作強調代名詞時，用以加強語氣，表示親自、本人。",
+      "definition": "1. used as the object of a verb or preposition when the person addressed is the subject; 2. used to emphasize the person addressed.",
+      "example": [
+        {
+          "eng": "You should take care of yourself.",
+          "ch": "你應該照顧好你自己。"
+        },
+        {
+          "eng": "You can do this job yourself.",
+          "ch": "你可以親自做這項工作。"
+        }
+      ]
+    },
+    {
+      "eng": "yourselves",
+      "kk": "jɔrˈsɛlvz",
+      "tense": "pron.",
+      "ch": [
+        [
+          "你們自己",
+          "您們自己"
+        ]
+      ],
+      "analysis": "此字為 yourself 的複數形反身代名詞與強調代名詞，由所有格 your 與複數名詞 selves 複合而成。在句中指代複數的「你們」或「您們」。",
+      "definition": "1. used as the object of a verb or preposition when the persons addressed are the subject, or to emphasize them.",
+      "example": [
+        {
+          "eng": "Children, please behave yourselves.",
+          "ch": "孩子們，請守規矩。"
+        }
+      ]
+    },
+    {
+      "eng": "young",
+      "kk": "jʌŋ",
+      "tense": "n.",
+      "ch": [
+        [
+          "幼獸",
+          "幼鳥"
+        ]
+      ],
+      "analysis": "此字為名詞，由形容詞 young 轉品而來（零轉品），專門用來指動物生下的幼小後代。",
+      "definition": "1. the offspring of animals, especially when newly born or hatched.",
+      "example": [
+        {
+          "eng": "The mother bird brought food for her young.",
+          "ch": "母鳥帶食物來餵牠們的幼鳥。"
+        }
+      ]
+    },
+    {
+      "eng": "young",
+      "kk": "jʌŋ",
+      "tense": "adj.",
+      "ch": [
+        [
+          "年輕的",
+          "幼小的"
+        ],
+        [
+          "初期的",
+          "沒經驗的"
+        ]
+      ],
+      "analysis": "此字為形容詞，源自古英語 geong（意為年輕的、新近的），屬於日耳曼語族的繼承詞。現代英語中主要用來形容生物處在生命早期、尚未成熟，或引申指事物剛開始發展、處於初期階段。",
+      "definition": "1. having lived or existed for only a short time; 2. being in an early stage of development.",
+      "example": [
+        {
+          "eng": "She has two young children.",
+          "ch": "她有兩個幼小的孩子。"
+        },
+        {
+          "eng": "He is a young writer with great potential.",
+          "ch": "他是一位很有潛力的年輕作家。"
+        }
+      ]
+    },
+    {
+      "eng": "zero",
+      "kk": "ˈzɪroʊ",
+      "tense": "n.",
+      "ch": [
+        [
+          "零",
+          "數字零"
+        ],
+        [
+          "零點",
+          "最低點"
+        ]
+      ],
+      "analysis": "此字為名詞，經由義大利語 zero、中世紀拉丁語 zephirum，最終源自阿拉伯語 sifr（意為空的、零）。在現代英語中主要用來表示數學上的數字 0，或引申為溫度、計量等的基準零點。",
+      "definition": "1. the numerical symbol 0, meaning nothing; 2. the lowest point or the point from which measurements are made.",
+      "example": [
+        {
+          "eng": "The temperature dropped to zero last night.",
+          "ch": "昨晚的氣溫降到了零度。"
+        },
+        {
+          "eng": "Support for the proposal was reduced to zero.",
+          "ch": "對這項提案的支持度降到了最低點。"
+        }
+      ]
+    },
+    {
+      "eng": "zero",
+      "kk": "ˈzɪroʊ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "把...歸零",
+          "將...對準零位"
+        ]
+      ],
+      "analysis": "此字為及物動詞，由名詞 zero 衍生而來，常與副詞 in 結合（如 zero in on），表示將儀器歸零或將注意力、瞄準點集中於某個目標。",
+      "definition": "1. to adjust an instrument or device to zero; to focus attention or aim precisely.",
+      "example": [
+        {
+          "eng": "The police zeroed in on the suspect's location.",
+          "ch": "警方鎖定了嫌疑人的位置。"
+        }
+      ]
+    },
+    {
+      "eng": "zero",
+      "kk": "ˈzɪroʊ",
+      "tense": "adj.",
+      "ch": [
+        [
+          "零的",
+          "為零的"
+        ]
+      ],
+      "analysis": "此字為形容詞，由名詞 zero 直接轉用，用來修飾數量或數值為零的名詞。",
+      "definition": "1. amounting to no quantity or number.",
+      "example": [
+        {
+          "eng": "There is a zero tolerance policy for cheating.",
+          "ch": "對於作弊採取零容忍政策。"
+        }
+      ]
+    },
+    {
+      "eng": "zoo",
+      "kk": "zu",
+      "tense": "n.",
+      "ch": [
+        [
+          "動物園"
+        ]
+      ],
+      "analysis": "此字為名詞，是英文單字 zoological garden 的口語縮寫（截短詞），其中 zoological 源自希臘語 zōion（意為動物）。在現代英語中作為獨立詞彙使用，指飼養野生動物供公眾參觀的場所。",
+      "definition": "1. a facility where live animals are kept on public exhibition.",
+      "example": [
+        {
+          "eng": "We went to the zoo to see the pandas.",
+          "ch": "我們去動物園看熊貓。"
+        }
+      ]
+    }
+  ]
+}

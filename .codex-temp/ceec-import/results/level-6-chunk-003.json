@@ -1,0 +1,1147 @@
+{
+  "level": 6,
+  "chunkIndex": 3,
+  "inputs": [
+    "brassiere",
+    "bra",
+    "breadth",
+    "breakdown",
+    "breakup",
+    "bribe",
+    "brink",
+    "broaden",
+    "brochure",
+    "broil",
+    "brook",
+    "broth",
+    "brotherhood",
+    "bulky",
+    "bureaucrat",
+    "bypass",
+    "caffeine",
+    "calculator",
+    "calligraphy",
+    "cape",
+    "capsule",
+    "caption",
+    "captive",
+    "captivity",
+    "cardboard",
+    "cardinal",
+    "carefree",
+    "caretaker",
+    "carton",
+    "cashier",
+    "casualty",
+    "catastrophe",
+    "cater",
+    "caterpillar",
+    "cavity",
+    "celery",
+    "cellular",
+    "Celsius",
+    "cement",
+    "census",
+    "ceramic",
+    "certify",
+    "chairperson",
+    "chair",
+    "chairman",
+    "chairwoman",
+    "champagne",
+    "chant",
+    "charitable",
+    "checkup"
+  ],
+  "rows": [
+    {
+      "eng": "brassiere",
+      "kk": "brəˈzɪr",
+      "tense": "n.",
+      "ch": [
+        [
+          "胸罩",
+          "女性內衣"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 brassiere。歷史上經由法語借自中古法語 brassière（原義為保護臂部的護甲或緊身衣），源自古法語 bras（臂，源自拉丁語 bracchio- / brachium），加上指具體的陰性字尾 -ière。現代英語專指女性胸罩，通常簡稱為 bra。",
+      "definition": "1. an undergarment worn by women to support the breasts.",
+      "example": [
+        {
+          "eng": "She bought a new lace brassiere.",
+          "ch": "她買了一件新的蕾絲胸罩。"
+        }
+      ]
+    },
+    {
+      "eng": "bra",
+      "kk": "brɑ",
+      "tense": "n.",
+      "ch": [
+        [
+          "胸罩",
+          "內衣"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 bra。它是由 brassiere 透過截短法（clipping）形成的高頻現代日常簡稱，指女性胸罩。",
+      "definition": "1. a short form of brassiere, worn to support the breasts.",
+      "example": [
+        {
+          "eng": "She preferred a sports bra for running.",
+          "ch": "跑步時她偏好穿運動胸罩。"
+        }
+      ]
+    },
+    {
+      "eng": "breadth",
+      "kk": "brɛdθ",
+      "tense": "n.",
+      "ch": [
+        [
+          "寬度",
+          "闊度"
+        ],
+        [
+          "廣度",
+          "範圍"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 breadth。由形容詞 broad 加上名詞化抽象字尾 -th 構成（古英語 brǣdu，源自日耳曼語族）。語義從具體的實體空間橫向寬度，引申抽象知識、興趣或經驗的廣泛程度。",
+      "definition": "1. the distance from one side to the other; width; 2. a wide range or extent of something such as knowledge or experience.",
+      "example": [
+        {
+          "eng": "The river measures twenty feet in breadth.",
+          "ch": "這條河的寬度為二十英尺。"
+        },
+        {
+          "eng": "Her breadth of knowledge amazed the interviewers.",
+          "ch": "她知識的廣博讓面試官大為驚嘆。"
+        }
+      ]
+    },
+    {
+      "eng": "breakdown",
+      "kk": "ˈbreɪkˌdaʊn",
+      "tense": "n.",
+      "ch": [
+        [
+          "故障",
+          "損壞"
+        ],
+        [
+          "崩潰",
+          "精神崩潰"
+        ],
+        [
+          "詳細分析",
+          "細目分類"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 breakdown，由動詞片語 break down 複合轉品而成。語義從實體機械故障、精神或體力崩潰，延伸至將資料或數據進行細項分解與分析。",
+      "definition": "1. a failure of a machine or vehicle to work properly; 2. a failure of a relationship or a mental collapse; 3. a detailed analysis or classification of something into smaller components.",
+      "example": [
+        {
+          "eng": "We experienced a sudden car breakdown on the highway.",
+          "ch": "我們的車子在高速公路上突然拋錨。"
+        },
+        {
+          "eng": "He suffered a nervous breakdown due to work stress.",
+          "ch": "他因工作壓力而精神崩潰。"
+        },
+        {
+          "eng": "Can you provide a cost breakdown for the project?",
+          "ch": "你能提供這個專案的費用明細嗎？"
+        }
+      ]
+    },
+    {
+      "eng": "breakup",
+      "kk": "ˈbreɪkˌʌp",
+      "tense": "n.",
+      "ch": [
+        [
+          "分手",
+          "關係破裂"
+        ],
+        [
+          "解散",
+          "瓦解"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 breakup，由動詞片語 break up 複合轉品而來。主要指戀愛或婚姻關係的終止，亦可指團體、組織或帝國的解散與瓦解。",
+      "definition": "1. the ending of a romantic relationship or marriage; 2. the splitting or dissolving of a group, organization, or country.",
+      "example": [
+        {
+          "eng": "She was deeply depressed after her breakup.",
+          "ch": "她在分手後陷入深深的沮喪。"
+        },
+        {
+          "eng": "The breakup of the band saddened their fans worldwide.",
+          "ch": "樂團的解散讓全球歌迷感到難過。"
+        }
+      ]
+    },
+    {
+      "eng": "bribe",
+      "kk": "braɪb",
+      "tense": "vt.",
+      "ch": [
+        [
+          "賄賂",
+          "收買"
+        ]
+      ],
+      "analysis": "此字為及物動詞，表面詞形與 lemma 相同為 bribe（亦可作名詞）。源自中古法語 bribe（原義指塊狀物、乞討的碎屑或勒索物），其歷史演變與古法語動詞 briber 相關，進入英語後固定為以財物不正當收買或行賄之意。",
+      "definition": "1. to persuade someone to act in one's favor, typically illegally or dishonestly, by a gift of money or other inducements.",
+      "example": [
+        {
+          "eng": "He tried to bribe the official to avoid the fine.",
+          "ch": "他試圖賄賂官員以避免罰款。"
+        }
+      ]
+    },
+    {
+      "eng": "brink",
+      "kk": "brɪŋk",
+      "tense": "n.",
+      "ch": [
+        [
+          "邊緣",
+          "緊要關頭"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 brink。源自日耳曼語源（比較中古荷蘭語 brink 草地、邊緣），在英語中演變為指峭壁、懸崖或水邊的極邊緣，常引申為危機或重大轉折的緊要關頭。",
+      "definition": "1. the extreme edge of land before a steep slope or drop, or a point very close to a major change or disaster.",
+      "example": [
+        {
+          "eng": "The two countries were on the brink of war.",
+          "ch": "兩國當時處於戰爭的邊緣。"
+        }
+      ]
+    },
+    {
+      "eng": "broaden",
+      "kk": "ˈbrɔdən",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使變寬",
+          "擴大"
+        ]
+      ],
+      "analysis": "此字為及物動詞，表面詞形與 lemma 相同為 broaden。由形容詞 broad 加上動詞化字尾 -en 構成，表示使某物變寬或使視野、經驗、知識等範圍擴大。",
+      "definition": "1. to become or cause something to become wider or more extensive.",
+      "example": [
+        {
+          "eng": "Traveling helps to broaden your mind.",
+          "ch": "旅行有助於開闊你的心胸。"
+        }
+      ]
+    },
+    {
+      "eng": "brochure",
+      "kk": "broʊˈʃʊr",
+      "tense": "n.",
+      "ch": [
+        [
+          "小冊子",
+          "說明書"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 brochure。借自法語 brochure（原義為釘在一起的小書），源自動詞 brocher（縫合、釘起，源自古法語 broche 針），現代英語專指用於宣傳或介紹的精美紙質小冊子。",
+      "definition": "1. a small book or magazine containing pictures and information about a product or service.",
+      "example": [
+        {
+          "eng": "Please send me a travel brochure for Hawaii.",
+          "ch": "請寄給我一本夏威夷的旅遊小冊子。"
+        }
+      ]
+    },
+    {
+      "eng": "broil",
+      "kk": "brɔɪl",
+      "tense": "vt.",
+      "ch": [
+        [
+          "烤",
+          "炙燒"
+        ]
+      ],
+      "analysis": "此字為及物動詞，表面詞形與 lemma 相同為 broil（亦可作不及物動詞或名詞）。源自中古法語 bruiller（烤、煎），其上源可能與日耳曼語族有關。現代英語指用直火或烤箱上火炙烤肉類等食物。",
+      "definition": "1. to cook food by direct exposure to radiant heat, typically under a grill or over an open fire.",
+      "example": [
+        {
+          "eng": "He likes to broil steaks on the barbecue.",
+          "ch": "他喜歡在烤肉架上烤牛排。"
+        }
+      ]
+    },
+    {
+      "eng": "brook",
+      "kk": "brʊk",
+      "tense": "n.",
+      "ch": [
+        [
+          "小溪",
+          "溪流"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 brook。源自古英語 brōc（小溪），屬於日耳曼語繼承詞，指自然流動的小型清澈水流。",
+      "definition": "1. a small natural stream of fresh water.",
+      "example": [
+        {
+          "eng": "Clear water flows down the small brook.",
+          "ch": "清澈的水流淌著穿過小溪。"
+        }
+      ]
+    },
+    {
+      "eng": "broth",
+      "kk": "brɔθ",
+      "tense": "n.",
+      "ch": [
+        [
+          "肉湯",
+          "清湯"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 broth。源自古英語 broð（湯、肉湯），由日耳曼語動詞詞根發展而來，指用肉、魚或蔬菜熬煮出的清湯。",
+      "definition": "1. thin meat, fish, or vegetable soup.",
+      "example": [
+        {
+          "eng": "She drank a bowl of warm chicken broth when she had a cold.",
+          "ch": "她感冒時喝了一碗溫熱的雞湯。"
+        }
+      ]
+    },
+    {
+      "eng": "brotherhood",
+      "kk": "ˈbrʌðərˌhʊd",
+      "tense": "n.",
+      "ch": [
+        [
+          "手足情誼",
+          "兄弟關係"
+        ],
+        [
+          "同行組織",
+          "會社"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 brotherhood。由 brother（兄弟）加上抽象名詞字尾 -hood（表示狀態或群體）構成。語義從實際的兄弟關係，引申為志同道合者之間的手足情誼，或同業工會、兄弟會等組織。",
+      "definition": "1. the relationship between brothers or a feeling of kinship among people; 2. an association, society, or community of men linked by a common interest or trade.",
+      "example": [
+        {
+          "eng": "The speech emphasized global peace and human brotherhood.",
+          "ch": "這場演說強調了世界和平與人類的手足情誼。"
+        },
+        {
+          "eng": "He joined a carpenters' brotherhood to find better support.",
+          "ch": "他加入了一個木工工會以尋求更好的支持。"
+        }
+      ]
+    },
+    {
+      "eng": "bulky",
+      "kk": "ˈbʌlki",
+      "tense": "adj.",
+      "ch": [
+        [
+          "龐大的",
+          "笨重的"
+        ]
+      ],
+      "analysis": "此字為形容詞，表面詞形與 lemma 相同為 bulky。由名詞 bulk（大塊、體積）加上形容詞字尾 -y 構成，用以形容物品體積過大、笨重而不便攜帶。",
+      "definition": "1. taking up much space; large and unwieldy.",
+      "example": [
+        {
+          "eng": "He packed a bulky winter coat into his small suitcase.",
+          "ch": "他把一件笨重的冬衣塞進他的小行李箱裡。"
+        }
+      ]
+    },
+    {
+      "eng": "bureaucrat",
+      "kk": "ˈbjʊrəˌkræt",
+      "tense": "n.",
+      "ch": [
+        [
+          "官僚",
+          "官僚主義者"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 bureaucrat。由法語 bureau（辦公桌、局，源自古法語 bure 粗毛呢）加上希臘語字根 -kratēs（統治者、權力，源自 kratein）結合而成（融合法語與希臘語成分的現代混合詞），指政府機關中墨守成規或死守規章的官僚人員。",
+      "definition": "1. an official in a government department, typically one perceived as being bogged down in routine operation and petty rules.",
+      "example": [
+        {
+          "eng": "The project was delayed by cautious bureaucrats.",
+          "ch": "該專案因謹小慎微的官僚而延誤了。"
+        }
+      ]
+    },
+    {
+      "eng": "bypass",
+      "kk": "ˈbaɪˌpæs",
+      "tense": "vt.",
+      "ch": [
+        [
+          "繞過",
+          "避開"
+        ],
+        [
+          "越級",
+          "不經由"
+        ]
+      ],
+      "analysis": "此字為及物動詞（亦可作名詞），表面詞形與 lemma 相同為 bypass。由副詞／介系詞 by（在旁、經由）與動詞 pass（通過）複合而成。語義從實際開路繞過城鎮或障礙物，引申為在行政程序上越級、不經由常規管道直接處理。",
+      "definition": "1. to go past or round an obstacle or town instead of passing through it; 2. to ignore a system or official channel and deal with someone directly.",
+      "example": [
+        {
+          "eng": "The new highway allows drivers to bypass the city center.",
+          "ch": "這條新高速公路讓駕駛人可以繞過市中心。"
+        },
+        {
+          "eng": "She decided to bypass her immediate boss and speak to the director.",
+          "ch": "她決定越過直屬主管，直接跟主任談。"
+        }
+      ]
+    },
+    {
+      "eng": "caffeine",
+      "kk": "ˈkæfiːn",
+      "tense": "n.",
+      "ch": [
+        [
+          "咖啡因"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 caffeine。源自德語 Kaffee（咖啡）加上化學物質字尾 -ine（由法語 -ine 演變而來），於 19 世紀被化學家命名並引入英語，指咖啡、茶等植物中含有的中樞神經興奮劑成分。",
+      "definition": "1. a crystalline compound that is found in tea and coffee plants and is a stimulant of the central nervous system.",
+      "example": [
+        {
+          "eng": "Too much caffeine can disrupt your sleep.",
+          "ch": "過多的咖啡因會打亂你的睡眠。"
+        }
+      ]
+    },
+    {
+      "eng": "calculator",
+      "kk": "ˈkælkjuˌleɪtər",
+      "tense": "n.",
+      "ch": [
+        [
+          "計算機",
+          "計算器"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 calculator。由拉丁語動詞 calculare（計算，源自 calculus 小石子）加上 agent noun 名詞字尾 -or 構成，指執行數學計算的電子裝置或工具。",
+      "definition": "1. a small electronic device used for making mathematical calculations.",
+      "example": [
+        {
+          "eng": "Students are allowed to use a calculator during the math test.",
+          "ch": "學生在數學考試中可以使用計算機。"
+        }
+      ]
+    },
+    {
+      "eng": "calligraphy",
+      "kk": "kəˈlɪɡrəfi",
+      "tense": "n.",
+      "ch": [
+        [
+          "書法",
+          "精美書寫藝術"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 calligraphy。由希臘語 kallos（美麗，源自 kalos）與 graphein（書寫）結合，再加上名詞字尾 -y 構成。指優美、藝術化的手寫字體或書法藝術。",
+      "definition": "1. decorative handwriting or handwritten lettering.",
+      "example": [
+        {
+          "eng": "She wrote the wedding invitations using traditional calligraphy.",
+          "ch": "她用傳統書法寫了婚禮喜帖。"
+        }
+      ]
+    },
+    {
+      "eng": "cape",
+      "kk": "keɪp",
+      "tense": "n.",
+      "ch": [
+        [
+          "披肩",
+          "短斗篷"
+        ],
+        [
+          "海角",
+          "岬"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 cape。歷史上源自兩個同形但不同源的詞：一為古普羅旺斯語 cap 與拉丁語 caput（頭），指突入海中的陸地「海角」；另一源自拉丁語 cappa（頭巾、斗篷），指無袖的短披肩。兩個義項在歷史演變中合流於同一拼寫。",
+      "definition": "1. a sleeveless piece of clothing that fastens at the neck and hangs over the shoulders; 2. a large piece of land jutting into the sea; a headland.",
+      "example": [
+        {
+          "eng": "The superhero wore a red cape in the movie.",
+          "ch": "電影中的超級英雄戴著紅色披肩。"
+        },
+        {
+          "eng": "Their ship sailed around the southern cape of the continent.",
+          "ch": "他們的船航行繞過了該大陸的南端海角。"
+        }
+      ]
+    },
+    {
+      "eng": "capsule",
+      "kk": "ˈkæpsəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "膠囊"
+        ],
+        [
+          "太空艙",
+          "密封艙"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 capsule。源自拉丁語 capsula（小盒、小箱），為 capsa（箱子）的指小詞。現代英語語義從植物的果囊或醫藥膠囊，擴大延伸至太空船的密封座艙（太空艙）。",
+      "definition": "1. a small plastic container that holds a dose of medicine to be swallowed; 2. a spacecraft or the section of it designed to house astronauts or equipment.",
+      "example": [
+        {
+          "eng": "The doctor told him to take two medicine capsules daily.",
+          "ch": "醫生告訴他每天服用兩顆藥用膠囊。"
+        },
+        {
+          "eng": "The space capsule successfully re-entered the Earth's atmosphere.",
+          "ch": "太空艙成功重新進入地球大氣層。"
+        }
+      ]
+    },
+    {
+      "eng": "caption",
+      "kk": "ˈkæpʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "說明文字",
+          "標題"
+        ],
+        [
+          "字幕"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 caption。源自拉丁語 captiōn- / captiō（捕捉、法律上的逮捕），源自 capere（去抓）。在印刷術發展中，其義演變為「冠於圖表或插圖上方的標題或說明文字」，現代亦泛指影音節目的對白字幕。",
+      "definition": "1. a title or brief explanation printed under an illustration or photograph; 2. subtitles or text displayed on a screen for a film or television program.",
+      "example": [
+        {
+          "eng": "The caption beneath the photo explained who the people were.",
+          "ch": "照片下方的說明文字解釋了這些人是誰。"
+        },
+        {
+          "eng": "Foreign films are usually shown with English captions.",
+          "ch": "外國電影通常會配上英文字幕播映。"
+        }
+      ]
+    },
+    {
+      "eng": "captive",
+      "kk": "ˈkæptɪv",
+      "tense": "n.",
+      "ch": [
+        [
+          "俘虜",
+          "囚徒"
+        ]
+      ],
+      "analysis": "此字為名詞（亦可作形容詞），表面詞形與 lemma 相同為 captive。源自拉丁語 captīvus（被俘的），源自 capere（捕獲）。指在戰爭或禁錮中被抓的人或動物。",
+      "definition": "1. a person who has been taken prisoner or an animal kept in confinement.",
+      "example": [
+        {
+          "eng": "The captives were set free after the peace treaty was signed.",
+          "ch": "和平條約簽署後，俘虜們獲得了自由。"
+        }
+      ]
+    },
+    {
+      "eng": "captivity",
+      "kk": "kæpˈtɪvəti",
+      "tense": "n.",
+      "ch": [
+        [
+          "囚禁",
+          "拘留狀態"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 captivity。由形容詞 captive 加上名詞抽象字尾 -ity 構成。指人或動物被關押、失去自由的狀態。",
+      "definition": "1. the state of being imprisoned, confined, or kept in a cage.",
+      "example": [
+        {
+          "eng": "Many wild animals do not breed well in captivity.",
+          "ch": "許多野生動物在囚禁狀態下繁殖情況不佳。"
+        }
+      ]
+    },
+    {
+      "eng": "cardboard",
+      "kk": "ˈkɑrdˌbɔrd",
+      "tense": "n.",
+      "ch": [
+        [
+          "硬紙板",
+          "紙箱板"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 cardboard。由 card（硬紙，源自拉丁語 charta 紙莎草紙／紙）與 board（木板、厚片）複合而成，指質地堅硬厚實的紙板材質。",
+      "definition": "1. stiff, thick heavy paper used for making boxes and packaging.",
+      "example": [
+        {
+          "eng": "They packed all their books into cardboard boxes.",
+          "ch": "他們把所有的書都裝進了紙箱裡。"
+        }
+      ]
+    },
+    {
+      "eng": "cardinal",
+      "kk": "ˈkɑrdənəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "樞機主教",
+          "紅衣主教"
+        ],
+        [
+          "北美紅雀"
+        ]
+      ],
+      "analysis": "此字為名詞（亦可作形容詞表示「主要的」），表面詞形與 lemma 相同為 cardinal。源自拉丁語 cardinālis（門樞的、主要的），源自 cardo（門樞）。在羅馬天主教中，指輔佐教宗的高階樞機主教（因穿著紅色法衣）；後來亦借用此名稱呼羽毛鮮紅的北美紅雀。",
+      "definition": "1. a leading Catholic dignitary of the highest rank below the Pope; 2. a bright red North American songbird.",
+      "example": [
+        {
+          "eng": "The conclave of cardinals gathered to elect a new Pope.",
+          "ch": "樞機主教團聚集選舉新教宗。"
+        },
+        {
+          "eng": "A bright red cardinal sat on the snowy branch.",
+          "ch": "一隻色彩鮮豔的紅雀停在積雪的樹枝上。"
+        }
+      ]
+    },
+    {
+      "eng": "carefree",
+      "kk": "ˈkɛrˌfri",
+      "tense": "adj.",
+      "ch": [
+        [
+          "無憂無慮的",
+          "輕鬆愉快的"
+        ]
+      ],
+      "analysis": "此字為形容詞，表面詞形與 lemma 相同為 carefree。由 care（憂慮、擔心，源自古英語 caru）與 free（自由的、免除的）複合構成，表示不受煩惱或責任拘束的狀態。",
+      "definition": "1. free from worry, responsibility, or anxiety.",
+      "example": [
+        {
+          "eng": "They spent a carefree summer vacation by the beach.",
+          "ch": "他們在海灘度過了一個無憂無慮的暑假。"
+        }
+      ]
+    },
+    {
+      "eng": "caretaker",
+      "kk": "ˈkɛrˌteɪkər",
+      "tense": "n.",
+      "ch": [
+        [
+          "看管人",
+          "管理員"
+        ],
+        [
+          "暫代職務者",
+          "臨時代理人"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 caretaker。由 care（照料）與 taker（拿取者、承擔者）複合而成。字面義為「照顧、看管的人」，常指負責建築物日常維護的看守人，或在政府過渡期間擔任臨時代理的官員。",
+      "definition": "1. a person whose job is to look after a building or land; 2. a person temporarily fulfilling the duties of an office.",
+      "example": [
+        {
+          "eng": "The school caretaker locked the gates at night.",
+          "ch": "學校管理員在晚上鎖上了大門。"
+        },
+        {
+          "eng": "The government acted as a caretaker administration until the election.",
+          "ch": "該政府在選舉前擔任看守內閣。"
+        }
+      ]
+    },
+    {
+      "eng": "carton",
+      "kk": "ˈkɑrtn",
+      "tense": "n.",
+      "ch": [
+        [
+          "紙盒",
+          "紙箱",
+          "塑膠盒"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 carton。借自義大利語 cartone（大紙張，源自 carta 紙），經由法語傳入英語。現代專指用厚紙板或塑膠製成的盛裝牛奶、果汁或商品的容器。",
+      "definition": "1. a light box or container usually made of cardboard or plastic, used for holding food or liquid.",
+      "example": [
+        {
+          "eng": "He bought a carton of milk from the supermarket.",
+          "ch": "他在超級市場買了一盒牛奶。"
+        }
+      ]
+    },
+    {
+      "eng": "cashier",
+      "kk": "kæˈʃɪr",
+      "tense": "n.",
+      "ch": [
+        [
+          "收銀員",
+          "出納員"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 cashier。源自法語 caissier，源自 caisse（箱子、金庫，源自義大利語 cassa）。指在商店、銀行或餐廳負責收取款項及找零的服務人員。",
+      "definition": "1. a person whose job is to receive and pay out money in a store, bank, or business.",
+      "example": [
+        {
+          "eng": "Please pay for your items at the cash desk with the cashier.",
+          "ch": "請到櫃檯向收銀員結帳。"
+        }
+      ]
+    },
+    {
+      "eng": "casualty",
+      "kk": "ˈkæʒuəlti",
+      "tense": "n.",
+      "ch": [
+        [
+          "傷亡人員",
+          "死傷者"
+        ],
+        [
+          "犧牲品",
+          "受害者"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 casualty。源自中古法語 casualité，源自拉丁語 cāsus（意外、事故，源自 cadere 落下）。原義指「偶然發生的事故」，後來在軍事與日常中專指「因戰爭或意外而死傷的人員」，亦可引申為某政策或情勢下的「犧牲品」。",
+      "definition": "1. a person killed or injured in a war or accident; 2. a person or thing adversely affected by an event or situation.",
+      "example": [
+        {
+          "eng": "The accident resulted in multiple highway casualties.",
+          "ch": "這場車禍造成了多起高速公路死傷事故。"
+        },
+        {
+          "eng": "Small local shops are often casualties of large supermarket chains.",
+          "ch": "小型在地商店往往是大型連鎖超市下的犧牲品。"
+        }
+      ]
+    },
+    {
+      "eng": "catastrophe",
+      "kk": "kəˈtæstrəfi",
+      "tense": "n.",
+      "ch": [
+        [
+          "大災難",
+          "慘禍"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 catastrophe。源自希臘語 katastrophē（翻轉、終結），由 kata-（向下）與 strephein（轉動）複合而成。原意為戲劇的結局，後來演變為指造成巨大破壞和痛苦的重大災難。",
+      "definition": "1. an event causing great and often sudden damage or suffering; a disaster.",
+      "example": [
+        {
+          "eng": "The earthquake was an environmental catastrophe for the region.",
+          "ch": "這場地震是該地區的一場環境大災難。"
+        }
+      ]
+    },
+    {
+      "eng": "cater",
+      "kk": "ˈkeɪtər",
+      "tense": "vi.",
+      "ch": [
+        [
+          "迎合",
+          "投合"
+        ],
+        [
+          "承辦外燴",
+          "提供餐飲服務"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，表面詞形與 lemma 相同為 cater。源自中古英語 catour（採買食物者，源自古法語 achate 購買，源自拉丁語 captāre）。原意為買菜，後來演變為專門提供餐飲（外燴）服務，或引申為迎合特定族群的需求（常與 to 搭配）。",
+      "definition": "1. to provide food and drink, typically at social events and as a professional service; 2. to provide what is needed or desired by a particular group (usually used with 'to').",
+      "example": [
+        {
+          "eng": "They hired a company to cater their wedding reception.",
+          "ch": "他們僱了一家公司來承辦婚禮宴席的外燴。"
+        },
+        {
+          "eng": "Television shows should cater to diverse audience tastes.",
+          "ch": "電視節目應該迎合不同觀眾的口味。"
+        }
+      ]
+    },
+    {
+      "eng": "caterpillar",
+      "kk": "ˈkætərˌpɪlər",
+      "tense": "n.",
+      "ch": [
+        [
+          "毛毛蟲"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 caterpillar。中古英語作 catelpelor，可能源自古法語 *chatepelose（直譯為「多毛的貓」，由 chate 貓 + pelose 多毛的演變而來）。現代專指蝴蝶或蛾類的幼蟲（毛毛蟲）。",
+      "definition": "1. the larva of a butterfly or moth, which has a long, wormlike body with many legs.",
+      "example": [
+        {
+          "eng": "A green caterpillar was eating the leaves in the garden.",
+          "ch": "一隻綠色的毛毛蟲正在吃花園裡的葉子。"
+        }
+      ]
+    },
+    {
+      "eng": "cavity",
+      "kk": "ˈkævəti",
+      "tense": "n.",
+      "ch": [
+        [
+          "蛀牙",
+          "齲齒"
+        ],
+        [
+          "腔",
+          "洞"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 cavity。源自拉丁語 cavitās，源自 cavus（空的）。原意指身體內的空腔或物體內的洞，現代生活英語中亦高頻專指牙齒因蛀蝕形成的蛀洞（蛀牙）。",
+      "definition": "1. a decayed area in a tooth; 2. an empty space or hollow area inside a solid object or the body.",
+      "example": [
+        {
+          "eng": "The dentist found two cavities during my routine checkup.",
+          "ch": "牙醫在我的例行檢查中發現了兩處蛀牙。"
+        },
+        {
+          "eng": "The heart is located in the chest cavity.",
+          "ch": "心臟位於胸腔內。"
+        }
+      ]
+    },
+    {
+      "eng": "celery",
+      "kk": "ˈsɛləri",
+      "tense": "n.",
+      "ch": [
+        [
+          "芹菜"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 celery。源自法語 céleri，經由義大利語 seleri（源自古希臘語 selinon 芹菜）。指具有爽脆長莖可供食用的蔬菜芹菜。",
+      "definition": "1. a cultivated plant of the parsley family, with crisp edible stems that are eaten raw or cooked.",
+      "example": [
+        {
+          "eng": "She chopped some celery and carrots for the soup.",
+          "ch": "她切了一些芹菜和胡蘿蔔來煮湯。"
+        }
+      ]
+    },
+    {
+      "eng": "cellular",
+      "kk": "ˈsɛljələr",
+      "tense": "adj.",
+      "ch": [
+        [
+          "細胞的"
+        ],
+        [
+          "行動通訊的",
+          "蜂窩式的"
+        ]
+      ],
+      "analysis": "此字為形容詞，表面詞形與 lemma 相同為 cellular。由拉丁語 cellula（小房間、細胞，cella 的指小詞）加上形容詞字尾 -ar 構成。原意指生物學上由細胞組成的，現代高頻引申為電信領域的蜂窩式行動通訊（cellular phone 的簡稱）。",
+      "definition": "1. relating to or consisting of cells in a living organism; 2. relating to a mobile phone system that uses radio cells.",
+      "example": [
+        {
+          "eng": "Biologists study cellular structures under a microscope.",
+          "ch": "生物學家在顯微鏡下研究細胞結構。"
+        },
+        {
+          "eng": "He received a cellular call while driving.",
+          "ch": "他開車時接到了一通行動電話。"
+        }
+      ]
+    },
+    {
+      "eng": "Celsius",
+      "kk": "ˈsɛlsiəs",
+      "tense": "adj.",
+      "ch": [
+        [
+          "攝氏的"
+        ]
+      ],
+      "analysis": "此字為形容詞（亦可作名詞），表面詞形與 lemma 相同為 Celsius。源自 18 世紀瑞典天文學家安德斯·攝爾修斯（Anders Celsius）的姓氏。用以命名攝氏溫度溫標。",
+      "definition": "1. denoting a scale of temperature in which water freezes at 0° and boils at 100°.",
+      "example": [
+        {
+          "eng": "The temperature dropped below zero degrees Celsius last night.",
+          "ch": "昨晚氣溫降到了攝氏零度以下。"
+        }
+      ]
+    },
+    {
+      "eng": "cement",
+      "kk": "sɪˈmɛnt",
+      "tense": "n.",
+      "ch": [
+        [
+          "水泥"
+        ],
+        [
+          "接合劑",
+          "黏著劑"
+        ]
+      ],
+      "analysis": "此字為名詞（亦可作及物動詞），表面詞形與 lemma 相同為 cement。源自拉丁語 caementum（碎石、建築用石料），源自 caedere（切、鑿）。在建築中演變成指將石料黏合的水泥，亦可引申為鞏固人際關係的黏著劑。",
+      "definition": "1. a powdery substance made by calcining lime and clay, mixed with water to form mortar or concrete; 2. a substance used for sticking things together.",
+      "example": [
+        {
+          "eng": "Workers mixed sand and cement to build the wall.",
+          "ch": "工人們混合沙子和水泥來建造牆壁。"
+        },
+        {
+          "eng": "Their shared struggles served to cement their friendship.",
+          "ch": "他們共同的奮鬥鞏固了彼此的友誼。"
+        }
+      ]
+    },
+    {
+      "eng": "census",
+      "kk": "ˈsɛnsəs",
+      "tense": "n.",
+      "ch": [
+        [
+          "人口普查",
+          "統計調查"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 census。源自拉丁語 cēnsus（資產登記、古羅馬的人口與財產普查），源自 cēnsēre（評定、估價）。現代專指國家定期對全體居民進行的人口普查或統計調查。",
+      "definition": "1. an official count or survey of a population, typically recording various details of individuals.",
+      "example": [
+        {
+          "eng": "The government conducts a national census every ten years.",
+          "ch": "政府每十年舉辦一次全國人口普查。"
+        }
+      ]
+    },
+    {
+      "eng": "ceramic",
+      "kk": "səˈræmɪk",
+      "tense": "adj.",
+      "ch": [
+        [
+          "陶瓷的"
+        ]
+      ],
+      "analysis": "此字為形容詞（亦常作名詞複數 ceramics），表面詞形與 lemma 相同為 ceramic。源自希臘語 keramikos（由陶土製成的），源自 keramos（陶土、陶器）。指以陶土或其他無機非金屬材料高溫燒製而成的材質或製品。",
+      "definition": "1. made of clay and permanently hardened by heat; relating to ceramics.",
+      "example": [
+        {
+          "eng": "She bought a beautiful ceramic vase at the art market.",
+          "ch": "她在藝術市集買了一個美麗的陶瓷花瓶。"
+        }
+      ]
+    },
+    {
+      "eng": "certify",
+      "kk": "ˈsɜrtəˌfaɪ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "證明",
+          "發給證書"
+        ]
+      ],
+      "analysis": "此字為及物動詞，表面詞形與 lemma 相同為 certify。由拉丁語 certus（確定的）與 facere（做）複合演變而來，經由中古法語 certifier 進入英語。意指以官方或正式文件確認某事屬實或授予專業資格證書。",
+      "definition": "1. to attest or confirm in a formal statement; to officially guarantee or give a certificate of qualification.",
+      "example": [
+        {
+          "eng": "The laboratory will certify the safety of the drinking water.",
+          "ch": "實驗室將會證明飲用水的安全性。"
+        }
+      ]
+    },
+    {
+      "eng": "chairperson",
+      "kk": "ˈʧɛrˌpɜrsən",
+      "tense": "n.",
+      "ch": [
+        [
+          "主席",
+          "主持人",
+          "董事長"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 chairperson。由 chair（主持席位、椅子）與 person（人）複合而成，是現代英語中為了性別中立（gender-neutral）而廣泛使用的詞彙，用以取代傳統的 chairman 或 chairwoman。",
+      "definition": "1. the person who presides over the meetings of an organization, committee, or board.",
+      "example": [
+        {
+          "eng": "The chairperson opened the board meeting with a brief speech.",
+          "ch": "主席以簡短的致詞開啟了董事會議。"
+        }
+      ]
+    },
+    {
+      "eng": "chair",
+      "kk": "ʧɛr",
+      "tense": "n.",
+      "ch": [
+        [
+          "椅子",
+          "座位"
+        ],
+        [
+          "教授職位",
+          "講座"
+        ]
+      ],
+      "analysis": "此字為名詞（亦可作及物動詞表「主持」），表面詞形與 lemma 相同為 chair。源自拉丁語 cathedra（長椅、教皇或主教的寶座，源自希臘語 kathedra）。原意為座椅，在學術界引申指大學裡的「講座或教授職位」。",
+      "definition": "1. a separate seat for one person, typically with a back and four legs; 2. a professorship at a university.",
+      "example": [
+        {
+          "eng": "Please pull up a chair and join our discussion.",
+          "ch": "請搬張椅子過來加入我們的討論。"
+        },
+        {
+          "eng": "She was appointed to the chair of history at the university.",
+          "ch": "她被任命為該大學的歷史學講座教授。"
+        }
+      ]
+    },
+    {
+      "eng": "chairman",
+      "kk": "ˈʧɛrˌmæn",
+      "tense": "n.",
+      "ch": [
+        [
+          "男主席",
+          "董事長"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 chairman。由 chair（主持席位）與 man（男性、人）複合而成，傳統上指會議或公司的男性主席或董事長（現今亦常使用性別中立的 chairperson 代替）。",
+      "definition": "1. a male person chosen to preside over a meeting or an organization.",
+      "example": [
+        {
+          "eng": "The chairman announced the company's annual profits.",
+          "ch": "董事長公布了公司的年度利潤。"
+        }
+      ]
+    },
+    {
+      "eng": "chairwoman",
+      "kk": "ˈʧɛrˌwʊmən",
+      "tense": "n.",
+      "ch": [
+        [
+          "女主席",
+          "女董事長"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 chairwoman。由 chair（主持席位）與 woman（女性）複合而成，特指女性的主席、主持人或董事長。",
+      "definition": "1. a female person chosen to preside over a meeting or an organization.",
+      "example": [
+        {
+          "eng": "She was elected as the first female chairwoman of the committee.",
+          "ch": "她被選為該委員會的第一位女性主席。"
+        }
+      ]
+    },
+    {
+      "eng": "champagne",
+      "kk": "ʃæmˈpeɪn",
+      "tense": "n.",
+      "ch": [
+        [
+          "香檳酒"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 champagne。源自法國北部地名 Champagne（香檳省），該地區出產的氣泡白葡萄酒聞名世界，後來成為此類氣泡酒的專稱。",
+      "definition": "1. a white sparkling wine made in the Champagne region of France.",
+      "example": [
+        {
+          "eng": "They popped a bottle of champagne to celebrate the victory.",
+          "ch": "他們開了一瓶香檳來慶祝勝利。"
+        }
+      ]
+    },
+    {
+      "eng": "chant",
+      "kk": "ʧænt",
+      "tense": "n.",
+      "ch": [
+        [
+          "聖歌",
+          "吟唱"
+        ],
+        [
+          "口號",
+          "呼喊聲"
+        ]
+      ],
+      "analysis": "此字為名詞（亦可作動詞），表面詞形與 lemma 相同為 chant。源自拉丁語 cantāre（唱歌、吟唱，canere 的頻動詞），經由中古法語 chanter 進入英語。原意指宗教的吟誦聖歌，後來也引申為示威或群眾遊行時喊出的重複口號。",
+      "definition": "1. a repetitive song or phrase sung or spoken in a monotone or rhythmic cadence; 2. a slogan or phrase shouted repeatedly by a crowd.",
+      "example": [
+        {
+          "eng": "The monks performed their morning religious chants.",
+          "ch": "修士們進行了早晨的宗教聖歌吟唱。"
+        },
+        {
+          "eng": "The protesters raised shouts and chants outside the building.",
+          "ch": "抗議者在大樓外發出吶喊與口號聲。"
+        }
+      ]
+    },
+    {
+      "eng": "charitable",
+      "kk": "ˈʧɛrətəbəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "慈善的",
+          "仁慈的"
+        ]
+      ],
+      "analysis": "此字為形容詞，表面詞形與 lemma 相同為 charitable。由 charity（慈善，源自拉丁語 caritās 仁愛）加上形容詞字尾 -able 構成。指對貧困者慷慨施捨或對他人抱持寬容、仁慈態度的。",
+      "definition": "1. relating to the assistance of those in need; generous in donations; 2. forgiving or lenient in judging others.",
+      "example": [
+        {
+          "eng": "The billionaire made large charitable donations to local hospitals.",
+          "ch": "這位億萬富翁向當地醫院做了大筆慈善捐款。"
+        },
+        {
+          "eng": "Try to be more charitable in your judgment of his mistakes.",
+          "ch": "在評判他的錯誤時，試著寬容一點。"
+        }
+      ]
+    },
+    {
+      "eng": "checkup",
+      "kk": "ˈʧɛkˌʌp",
+      "tense": "n.",
+      "ch": [
+        [
+          "健康檢查",
+          "例行檢查"
+        ]
+      ],
+      "analysis": "此字為名詞，表面詞形與 lemma 相同為 checkup，由動詞片語 check up（檢查）複合轉品而成。最常專指個人的定期身體健康檢查。",
+      "definition": "1. a thorough general medical examination taken to evaluate one's state of health.",
+      "example": [
+        {
+          "eng": "My doctor advised me to have an annual physical checkup.",
+          "ch": "我的醫生建議我每年做一次身體健康檢查。"
+        }
+      ]
+    }
+  ]
+}

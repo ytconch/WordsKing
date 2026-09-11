@@ -1,0 +1,1278 @@
+{
+  "level": 4,
+  "chunkIndex": 2,
+  "inputs": [
+    "application",
+    "appoint",
+    "appointment",
+    "appreciation",
+    "appropriate",
+    "approval",
+    "aquarium",
+    "arch",
+    "arise",
+    "arms",
+    "artificial",
+    "artistic",
+    "ashamed",
+    "aspect",
+    "aspirin",
+    "assemble",
+    "assembly",
+    "assign",
+    "assignment",
+    "assistance",
+    "associate",
+    "association",
+    "assurance",
+    "assure",
+    "athletic",
+    "atmosphere",
+    "atom",
+    "atomic",
+    "attach",
+    "attachment",
+    "attraction",
+    "audio",
+    "authentic",
+    "authority",
+    "autobiography",
+    "autograph",
+    "await",
+    "bald",
+    "ballet",
+    "bandage",
+    "bankrupt",
+    "bargain",
+    "barrier",
+    "basin",
+    "battery",
+    "beggar",
+    "behavior",
+    "bin",
+    "biography",
+    "biology"
+  ],
+  "rows": [
+    {
+      "eng": "application",
+      "kk": "ˌæplɪˈkeʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "申請",
+          "應徵"
+        ],
+        [
+          "應用",
+          "運用"
+        ],
+        [
+          "應用程式",
+          "軟體"
+        ],
+        [
+          "敷用",
+          "塗抹"
+        ]
+      ],
+      "analysis": "由動詞 apply 加上名詞字尾 -cation 構成。源自拉丁語 applicatio（意為投入、加入、導向），由 ad-（向）與 plicare（摺疊、緊貼）結合而成。語意從「將某物摺疊或緊貼於某處」演變為「將心力或方法投入某事（應用）」，進而指「正式提出要求（申請）」，並在現代科技中引申出「軟體程式（應用程式）」之義。",
+      "definition": "1. a formal request for something, such as a job or admission; 2. the action of putting something to a special use or purpose; 3. a computer program designed for a specific task; 4. the action of applying a substance such as medicine or cream.",
+      "example": [
+        {
+          "eng": "She submitted her job application yesterday.",
+          "ch": "她昨天提交了求職申請。"
+        },
+        {
+          "eng": "This theory has practical application in modern medicine.",
+          "ch": "這個理論在現代醫學中有實際應用。"
+        },
+        {
+          "eng": "You can download this application on your smartphone.",
+          "ch": "你可以在智慧型手機上下載這個應用程式。"
+        },
+        {
+          "eng": "The application of this ointment will soothe the pain.",
+          "ch": "塗抹這種藥膏可以緩解疼痛。"
+        }
+      ]
+    },
+    {
+      "eng": "appoint",
+      "kk": "əˈpɔɪnt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "任命",
+          "指派"
+        ],
+        [
+          "確定",
+          "指定（時間、地點等）"
+        ]
+      ],
+      "analysis": "源自古法語 appointier，最終源自拉丁語 ad-（向）與 punctum（點、位置），本義為「將某人安置在特定位置或點上」。在現代英語中保留了「指派職務」與「決定時間 or 地點」兩個核心及物動詞用法。",
+      "definition": "1. to choose someone officially for a job or position; 2. to decide on a time or place for something.",
+      "example": [
+        {
+          "eng": "The board appointed a new director.",
+          "ch": "董事會任命了一位新董事。"
+        },
+        {
+          "eng": "They appointed a date for the meeting.",
+          "ch": "他們指定了開會的日期。"
+        }
+      ]
+    },
+    {
+      "eng": "appointment",
+      "kk": "əˈpɔɪntmənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "約會",
+          "預約"
+        ],
+        [
+          "任命",
+          "委任"
+        ]
+      ],
+      "analysis": "由動詞 appoint 加上名詞字尾 -ment 構成。歷史上由古法語演變而來，核心義從「被指定的動作或狀態」延伸出「經安排的會面（約會）」以及「官職的任命」。",
+      "definition": "1. an arrangement to meet someone at a particular time and place; 2. the act of appointing someone to a job or position.",
+      "example": [
+        {
+          "eng": "I have a dentist appointment this afternoon.",
+          "ch": "我今天下午有一個牙醫預約。"
+        },
+        {
+          "eng": "Her appointment as manager was announced today.",
+          "ch": "她被任命為經理的消息今天宣佈了。"
+        }
+      ]
+    },
+    {
+      "eng": "appreciation",
+      "kk": "əˌpriʃiˈeʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "欣賞",
+          "賞識"
+        ],
+        [
+          "感激",
+          "感謝"
+        ],
+        [
+          "增值",
+          "漲價"
+        ]
+      ],
+      "analysis": "由動詞 appreciate 轉變而來，源自拉丁語 appretiare（ad- 加強 + pretium 價值），本義為「給予價值評估」。語意從「對價值的理解與評估」演變出「藝術欣賞」、「心存感激」以及經濟上的「資產增值」。",
+      "definition": "1. pleasure that you have when you recognize the worth of something; 2. a feeling of gratitude; 3. an increase in the value of something over time.",
+      "example": [
+        {
+          "eng": "She has a deep appreciation for classical music.",
+          "ch": "她對古典音樂有很深的欣賞力。"
+        },
+        {
+          "eng": "Please accept this gift in appreciation of your help.",
+          "ch": "請接受這份禮物以表達對您協助的感謝。"
+        },
+        {
+          "eng": "Property values have shown rapid appreciation this year.",
+          "ch": "今年房地產價值顯現出快速增值。"
+        }
+      ]
+    },
+    {
+      "eng": "appropriate",
+      "kk": "əˈpropriˌet",
+      "tense": "vt.",
+      "ch": [
+        [
+          "撥款",
+          "挪用"
+        ],
+        [
+          "佔用",
+          "私占"
+        ]
+      ],
+      "analysis": "為同形異源的動詞用法，源自相同的拉丁語源 proprius（自己的）。動詞義保留了「將公款撥出作特定用途」或「擅自佔有他人財產」的歷史演變。",
+      "definition": "1. to set apart money for a specific purpose; 2. to take something for your own use, often without permission.",
+      "example": [
+        {
+          "eng": "The government appropriated funds for the new road.",
+          "ch": "政府為新修道路撥了款。"
+        },
+        {
+          "eng": "He was accused of appropriating company funds.",
+          "ch": "他被指控挪用公司資金。"
+        }
+      ]
+    },
+    {
+      "eng": "appropriate",
+      "kk": "əˈpropriət",
+      "tense": "adj.",
+      "ch": [
+        [
+          "合適的",
+          "恰當的"
+        ]
+      ],
+      "analysis": "源自中世紀拉丁語 appropriatus（過去分詞），由 ad-（向）與 proprius（自己的、特有的）組成，本義為「據為己有」或「使適合」。形容詞用法固定表示「符合特定情境或需求的、恰當的」。",
+      "definition": "1. suitable or right for a particular situation or occasion.",
+      "example": [
+        {
+          "eng": "Wear appropriate clothing for the interview.",
+          "ch": "面試時請穿著合適的衣服。"
+        }
+      ]
+    },
+    {
+      "eng": "approval",
+      "kk": "əˈpruvəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "批准",
+          "同意"
+        ],
+        [
+          "讚許",
+          "贊成"
+        ]
+      ],
+      "analysis": "由動詞 approve 加上名詞字尾 -al 構成。源自拉丁語 approbare（ad- 加強 + probare 證明、檢驗、認為好）。語意從「經檢驗後認為合格或滿意」演變為「批准」與「讚許」。",
+      "definition": "1. official permission or agreement; 2. a feeling or showing that you like or think well of someone or something.",
+      "example": [
+        {
+          "eng": "The project is waiting for final approval.",
+          "ch": "這個專案正在等待最後批准。"
+        },
+        {
+          "eng": "She smiled with approval.",
+          "ch": "她帶著讚許的微笑點了點頭。"
+        }
+      ]
+    },
+    {
+      "eng": "aquarium",
+      "kk": "əˈkwɛriəm",
+      "tense": "n.",
+      "ch": [
+        [
+          "水族館"
+        ],
+        [
+          "養魚缸"
+        ]
+      ],
+      "analysis": "由拉丁語 aqua（水）加上具處所或容器義的字尾 -arium 構成。現代科技與休閒語境中，用以指展示水生生物的大型場所或家中養魚的玻璃容器。",
+      "definition": "1. a building where live fish and other water animals are kept and shown; 2. a glass container in which fish and other water creatures are kept.",
+      "example": [
+        {
+          "eng": "We visited the city aquarium and saw dolphins.",
+          "ch": "我們參觀了城市水族館並看到了海豚。"
+        },
+        {
+          "eng": "He keeps goldfish in a small glass aquarium.",
+          "ch": "他在一個小型玻璃魚缸裡養金魚。"
+        }
+      ]
+    },
+    {
+      "eng": "arch",
+      "kk": "ɑrtʃ",
+      "tense": "n.",
+      "ch": [
+        [
+          "拱門",
+          "拱形"
+        ],
+        [
+          "足弓"
+        ]
+      ],
+      "analysis": "源自拉丁語 arcus（弓、彎曲之物），經古法語進入英語。字面本義為「彎曲的形狀」，在建築上指「拱形結構」，在人體解剖學上指「足弓」。",
+      "definition": "1. a curved structure supporting the weight of something above it; 2. the curved inner part of the bottom of your foot.",
+      "example": [
+        {
+          "eng": "The ancient stone arch still stands in the square.",
+          "ch": "那座古老的石拱門依然矗立在廣場上。"
+        },
+        {
+          "eng": "Good shoes provide proper support for your arches.",
+          "ch": "好的鞋子能為你的足弓提供適當的支撐。"
+        }
+      ]
+    },
+    {
+      "eng": "arise",
+      "kk": "əˈraɪz",
+      "tense": "vi.",
+      "ch": [
+        [
+          "發生",
+          "出現"
+        ],
+        [
+          "起身",
+          "升起"
+        ]
+      ],
+      "analysis": "為日耳曼語源的繼承詞，由古英語 ārīsan（ā- 離開 + rīsan 上升）演變而來。作為不及物動詞，其核心義為「向上升起」，在現代英語中廣泛用於抽象事物（如問題、機會）的「發生或產生」。",
+      "definition": "1. to happen, or to start to exist; 2. to get out of bed, or to stand up.",
+      "example": [
+        {
+          "eng": "New problems may arise during the project.",
+          "ch": "專案進行期間可能會出現新問題。"
+        },
+        {
+          "eng": "She likes to arise early in the morning.",
+          "ch": "她喜歡清晨早起。"
+        }
+      ]
+    },
+    {
+      "eng": "arms",
+      "kk": "ɑrmz",
+      "tense": "n.",
+      "ch": [
+        [
+          "武器",
+          "軍火"
+        ]
+      ],
+      "analysis": "源自拉丁語 arma（工具、防具、武器），經古法語進入英語。雖然單數形 arm 指手臂，但複數形 arms 在歷史語境中專門演變為「武器、軍火」之義，常見於軍事與條約用語。",
+      "definition": "1. weapons and ammunition.",
+      "example": [
+        {
+          "eng": "The two countries agreed to limit their arms.",
+          "ch": "兩國同意限制武器裝備。"
+        }
+      ]
+    },
+    {
+      "eng": "artificial",
+      "kk": "ˌɑrtəˈfɪʃəl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "人工的",
+          "人造的"
+        ],
+        [
+          "假的",
+          "做作的"
+        ]
+      ],
+      "analysis": "由拉丁語 artificium（藝術、手工藝，由 ars 技藝 + facere 做成）衍生出的形容詞 artificialis。字面本義為「由人工技藝製造的」，在現代引申為「非天然的（人工的）」以及「不自然的（做作的）」。",
+      "definition": "1. made or produced by human beings rather than occurring naturally; 2. not sincere or natural; fake.",
+      "example": [
+        {
+          "eng": "The flowers in the vase are artificial.",
+          "ch": "花瓶裡的花是人造的。"
+        },
+        {
+          "eng": "His polite smile felt completely artificial.",
+          "ch": "他那禮貌的微笑讓人感覺非常做作。"
+        }
+      ]
+    },
+    {
+      "eng": "artistic",
+      "kk": "ɑrˈtɪstɪk",
+      "tense": "adj.",
+      "ch": [
+        [
+          "藝術的",
+          "具藝術天份的"
+        ]
+      ],
+      "analysis": "由法語 artiste（藝術家）結合形容詞字尾 -ic 構成。指與美術、音樂等藝術領域相關，或形容一個人具有美感與創作天份。",
+      "definition": "1. relating to art or artists; 2. having or showing a natural creative skill in art.",
+      "example": [
+        {
+          "eng": "The city has a rich artistic heritage.",
+          "ch": "這座城市擁有豐富的藝術遺產。"
+        },
+        {
+          "eng": "She comes from an artistic family.",
+          "ch": "她出身於一個藝術世家。"
+        }
+      ]
+    },
+    {
+      "eng": "ashamed",
+      "kk": "əˈʃemd",
+      "tense": "adj.",
+      "ch": [
+        [
+          "感到羞恥的",
+          "感到慚愧的"
+        ]
+      ],
+      "analysis": "源自古英語 āscamian（ā-加強 + scamian 感到羞恥）。字面本義即為「感到羞恥、尷尬或慚愧的」，在現代英語中主要作敘述形容詞使用。",
+      "definition": "1. feeling shame or guilt because of something you have done or are connected with.",
+      "example": [
+        {
+          "eng": "He was ashamed of his rude behavior.",
+          "ch": "他為自己粗魯的行為感到慚愧。"
+        }
+      ]
+    },
+    {
+      "eng": "aspect",
+      "kk": "ˈæspɛkt",
+      "tense": "n.",
+      "ch": [
+        [
+          "方面",
+          "層面"
+        ],
+        [
+          "外觀",
+          "方向"
+        ]
+      ],
+      "analysis": "源自拉丁語 aspectus（由 ad- 向 + specere 看），本義為「看的方向、視角、外貌」。在現代英語中抽象化為事物或問題的「一個方面或層面」。",
+      "definition": "1. a particular part or feature of something; 2. the appearance of a place or thing.",
+      "example": [
+        {
+          "eng": "We must consider every aspect of the plan.",
+          "ch": "我們必須考慮這個計劃的每一個面向。"
+        },
+        {
+          "eng": "The house has a southern aspect.",
+          "ch": "這棟房子朝南。"
+        }
+      ]
+    },
+    {
+      "eng": "aspirin",
+      "kk": "ˈæspərɪn",
+      "tense": "n.",
+      "ch": [
+        [
+          "阿斯匹靈"
+        ]
+      ],
+      "analysis": "由化學命名組合而成：a-（源自乙醯基 acetyl）加上 spirea（繡線菊屬植物的學名，因該植物含有水楊酸成分），字尾 -in 為化學藥品常見字尾。為知名的解熱鎮痛藥品商標轉通用名詞。",
+      "definition": "1. a common drug used to reduce pain, fever, or swelling.",
+      "example": [
+        {
+          "eng": "Take an aspirin if you have a headache.",
+          "ch": "如果你頭痛，吃顆阿斯匹靈吧。"
+        }
+      ]
+    },
+    {
+      "eng": "assemble",
+      "kk": "əˈsɛmbəl",
+      "tense": "vt.",
+      "ch": [
+        [
+          "組合",
+          "組裝"
+        ],
+        [
+          "聚集",
+          "召集"
+        ]
+      ],
+      "analysis": "源自拉丁語 assimulare，經古法語 asembler 演變而來，由 ad-（向）與 simul（在一起）結合。字面本義為「聚集在一起」，在工業與日常生活中延伸出「將零件組裝起來」及「聚集人員」之義。",
+      "definition": "1. to fit together the separate parts of something; 2. to gather together in one place for a common purpose.",
+      "example": [
+        {
+          "eng": "It took me an hour to assemble the desk.",
+          "ch": "我花了一個小時才把這張書桌組裝好。"
+        },
+        {
+          "eng": "The students assembled in the main hall.",
+          "ch": "學生們在大禮堂集合。"
+        }
+      ]
+    },
+    {
+      "eng": "assembly",
+      "kk": "əˈsɛmbli",
+      "tense": "n.",
+      "ch": [
+        [
+          "集會",
+          "議會"
+        ],
+        [
+          "組裝",
+          "裝配"
+        ]
+      ],
+      "analysis": "由動詞 assemble 加上名詞字尾 -y 構成。歷史上指「人群的聚集與立法議會」，在現代工業中也指「零件的裝配過程或組裝線」。",
+      "definition": "1. a group of people gathered together in one place for a common purpose, or a legislative body; 2. the process of putting together parts to make a machine.",
+      "example": [
+        {
+          "eng": "The school holds a morning assembly every Monday.",
+          "ch": "學校每週一舉行早會。"
+        },
+        {
+          "eng": "The car parts are ready for final assembly.",
+          "ch": "汽車零件已準備好進行最終組裝。"
+        }
+      ]
+    },
+    {
+      "eng": "assign",
+      "kk": "əˈsaɪn",
+      "tense": "vt.",
+      "ch": [
+        [
+          "分配",
+          "指派"
+        ],
+        [
+          "分派（任務、功課）"
+        ]
+      ],
+      "analysis": "源自拉丁語 assignare（ad- 向 + signare 做記號、標示），本義為「在某物上做記號以標明其歸屬」。在現代英語中演變為及物動詞「分派任務、指派職務或分配作業」。",
+      "definition": "1. to give someone a particular job or task; 2. to send someone to a particular place or task.",
+      "example": [
+        {
+          "eng": "The teacher assigned a new reading task.",
+          "ch": "老師指派了一項新的閱讀作業。"
+        },
+        {
+          "eng": "He was assigned to the New York office.",
+          "ch": "他被調派到紐約辦事處。"
+        }
+      ]
+    },
+    {
+      "eng": "assignment",
+      "kk": "əˈsaɪnmənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "作業",
+          "任務"
+        ],
+        [
+          "分派",
+          "委派"
+        ]
+      ],
+      "analysis": "由動詞 assign 加上名詞字尾 -ment 構成。在教育與工作語境中，專指被指派的「課業作業、任務或工作專案」。",
+      "definition": "1. a piece of work or job that you are given to do; 2. the act of giving someone a particular task.",
+      "example": [
+        {
+          "eng": "Please submit your history assignment by Friday.",
+          "ch": "請在星期五前繳交歷史作業。"
+        },
+        {
+          "eng": "She accepted the dangerous assignment.",
+          "ch": "她接受了這項危險的任務。"
+        }
+      ]
+    },
+    {
+      "eng": "assistance",
+      "kk": "əˈsɪstəns",
+      "tense": "n.",
+      "ch": [
+        [
+          "協助",
+          "援助"
+        ]
+      ],
+      "analysis": "由動詞 assist 演變而來，源自拉丁語 assistere（ad- 在旁 + sistere 站立），本義為「站在旁邊幫忙」。字尾 -nce 構成抽象名詞，表示協助與援助的行為。",
+      "definition": "1. the help or support that is given to someone.",
+      "example": [
+        {
+          "eng": "Thank you for your kind assistance.",
+          "ch": "謝謝你的親切協助。"
+        }
+      ]
+    },
+    {
+      "eng": "associate",
+      "kk": "əˈsoʊʃiˌet",
+      "tense": "vt.",
+      "ch": [
+        [
+          "聯想",
+          "聯繫"
+        ],
+        [
+          "結交",
+          "交往"
+        ]
+      ],
+      "analysis": "源自拉丁語 associare（ad- 向 + socius 夥伴），本義為「使成為夥伴」。及物動詞用法表示「將兩事物在腦海中聯想在一起」或「與某人交往」。",
+      "definition": "1. to connect someone or something in your mind with someone or something else; 2. to spend time with someone, especially someone disreputable.",
+      "example": [
+        {
+          "eng": "Most people associate red roses with romance.",
+          "ch": "大多數人都將紅玫瑰與浪漫聯想在一起。"
+        },
+        {
+          "eng": "He was warned not to associate with bad company.",
+          "ch": "他被警告不要與壞朋友交往。"
+        }
+      ]
+    },
+    {
+      "eng": "association",
+      "kk": "əˌsoʊsiˈeʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "協會",
+          "社團"
+        ],
+        [
+          "聯想",
+          "聯繫"
+        ]
+      ],
+      "analysis": "由動詞 associate 加上名詞字尾 -ation 構成。本義為「結為夥伴的狀態」，引申為「民間團體、協會」以及「心理學上的聯想」。",
+      "definition": "1. an organized group of people who have the same interest, job, etc.; 2. a connection or relationship between things or people in your mind.",
+      "example": [
+        {
+          "eng": "She joined the teachers' association.",
+          "ch": "她加入了教師協會。"
+        },
+        {
+          "eng": "The name of the brand has a strong luxury association.",
+          "ch": "這個品牌的名稱具有強烈的奢華聯想。"
+        }
+      ]
+    },
+    {
+      "eng": "assurance",
+      "kk": "əˈʃʊrəns",
+      "tense": "n.",
+      "ch": [
+        [
+          "保證",
+          "承諾"
+        ],
+        [
+          "自信",
+          "確信"
+        ]
+      ],
+      "analysis": "由動詞 assure 加上名詞字尾 -ance 構成。源自古法語 asseurance，本義為「使人安心、消除疑慮」，引申為正式的「保證」以及心理上的「自信」。",
+      "definition": "1. a promise or statement that is intended to give confidence; 2. a feeling of calm confidence in your own abilities.",
+      "example": [
+        {
+          "eng": "He gave me his assurance that the work would be done.",
+          "ch": "他向我保證工作一定會完成。"
+        },
+        {
+          "eng": "She spoke with quiet assurance.",
+          "ch": "她說話時帶著沉著的自信。"
+        }
+      ]
+    },
+    {
+      "eng": "assure",
+      "kk": "əˈʃʊr",
+      "tense": "vt.",
+      "ch": [
+        [
+          "向...保證",
+          "使確信"
+        ]
+      ],
+      "analysis": "源自古法語 asseurer，最終源自拉丁語 ad-（使成為）與 securus（安全的、確定的）。及物動詞用法表示「向某人掛保證以消除其疑慮」。",
+      "definition": "1. to tell someone confidently that something is true so that they will not worry.",
+      "example": [
+        {
+          "eng": "I can assure you that everything is under control.",
+          "ch": "我向你保證一切都在掌控之中。"
+        }
+      ]
+    },
+    {
+      "eng": "athletic",
+      "kk": "æθˈlɛtɪk",
+      "tense": "adj.",
+      "ch": [
+        [
+          "運動的",
+          "體育的"
+        ],
+        [
+          "體格健壯的"
+        ]
+      ],
+      "analysis": "源自古希臘語 athletikos（源自 athlon 競賽、獎品）。經拉丁語進入英語，形容與田徑、體育相關，或形容人身材健美、擅長運動。",
+      "definition": "1. connected with sports or athletics; 2. physically strong, active, and good at sports.",
+      "example": [
+        {
+          "eng": "She has won several athletic scholarships.",
+          "ch": "她贏得了幾項體育獎學金。"
+        },
+        {
+          "eng": "He is tall and athletic.",
+          "ch": "他身材高大且體格健壯。"
+        }
+      ]
+    },
+    {
+      "eng": "atmosphere",
+      "kk": "ˈætməsˌfɪr",
+      "tense": "n.",
+      "ch": [
+        [
+          "大氣層",
+          "大氣"
+        ],
+        [
+          "氣氛",
+          "氛圍"
+        ]
+      ],
+      "analysis": "由希臘語 atmos（蒸氣、氣體）與 sphaira（球體）組合而成的近代科學新詞。本義為「包圍地球的氣體球層（大氣層）」，後引申為場所或環境的「氣氛與氛圍」。",
+      "definition": "1. the mixture of gases surrounding the earth or another planet; 2. the character, feeling, or mood of a place or situation.",
+      "example": [
+        {
+          "eng": "The Earth's atmosphere protects us from harmful radiation.",
+          "ch": "地球的大氣層保護我們免受有害輻射的侵害。"
+        },
+        {
+          "eng": "The restaurant has a warm and romantic atmosphere.",
+          "ch": "這家餐廳有一種溫馨而浪漫的氣氛。"
+        }
+      ]
+    },
+    {
+      "eng": "atom",
+      "kk": "ˈætəm",
+      "tense": "n.",
+      "ch": [
+        [
+          "原子"
+        ]
+      ],
+      "analysis": "源自希臘語 atomos（a- 不 + tomos 切割），字面本義為「不可分割之物」。古希臘哲學家用此詞指物質的最小微粒，現代科學則用以指化學元素的最小基本單位「原子」。",
+      "definition": "1. the smallest unit of a chemical element, consisting of a nucleus and electrons.",
+      "example": [
+        {
+          "eng": "Water is made of hydrogen and oxygen atoms.",
+          "ch": "水是由氫原子和氧原子組成的。"
+        }
+      ]
+    },
+    {
+      "eng": "atomic",
+      "kk": "əˈtɑmɪk",
+      "tense": "adj.",
+      "ch": [
+        [
+          "原子的",
+          "核能的"
+        ]
+      ],
+      "analysis": "由名詞 atom 加上形容詞字尾 -ic 構成。在現代科學與國際政治語境中，主要指涉與「原子」或「核子彈、核能」相關的事物。",
+      "definition": "1. relating to atoms; 2. using the energy produced by splitting atoms.",
+      "example": [
+        {
+          "eng": "Scientists study atomic structure in physics.",
+          "ch": "科學家在物理學中研究原子結構。"
+        },
+        {
+          "eng": "The city was destroyed by an atomic bomb.",
+          "ch": "這座城市被原子彈毀壞了。"
+        }
+      ]
+    },
+    {
+      "eng": "attach",
+      "kk": "əˈtætʃ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "貼上",
+          "繫上"
+        ],
+        [
+          "附加",
+          "附上（檔案等）"
+        ]
+      ],
+      "analysis": "源自古法語 attachier（結合 ad- 與一日耳曼語源如 taca 釘子、固定）。及物動詞本義為「將某物釘牢或固定在另一物上」，在現代生活中引申為「在信件或郵件中附上檔案」。",
+      "definition": "1. to fasten, join, or connect something to something else; 2. to send a document or file along with an email.",
+      "example": [
+        {
+          "eng": "Attach a recent photo to your application form.",
+          "ch": "在你的申請表上貼一張近期照片。"
+        },
+        {
+          "eng": "Please find the report attached to this email.",
+          "ch": "請查收本郵件附加的報告。"
+        }
+      ]
+    },
+    {
+      "eng": "attachment",
+      "kk": "əˈtætʃmənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "附件",
+          "附加檔案"
+        ],
+        [
+          "依戀",
+          "愛慕"
+        ]
+      ],
+      "analysis": "由動詞 attach 加上名詞字尾 -ment 構成。在數位科技中專指電子郵件的「附件」，在心理學與日常生活中則指對人或物的「情感依戀」。",
+      "definition": "1. a document or file sent with an email; 2. a strong feeling of affection for someone or something.",
+      "example": [
+        {
+          "eng": "Don't forget to check the email attachment.",
+          "ch": "別忘了檢查電子郵件的附件。"
+        },
+        {
+          "eng": "She has a deep attachment to her hometown.",
+          "ch": "她對家鄉有著深厚的情感依戀。"
+        }
+      ]
+    },
+    {
+      "eng": "attraction",
+      "kk": "əˈtrækʃən",
+      "tense": "n.",
+      "ch": [
+        [
+          "吸引力",
+          "引力"
+        ],
+        [
+          "具有吸引力的景點或事物"
+        ]
+      ],
+      "analysis": "由動詞 attract 加上名詞字尾 -ion 構成。源自拉丁語 attrahere（ad- 向 + trahere 拉），本義為「向內拉扯」。在物理學中指「引力」，在日常中指「吸引力」或觀光「景點」。",
+      "definition": "1. the feeling of liking someone or something, or a physical force pulling things together; 2. a place or thing that is interesting to see or do.",
+      "example": [
+        {
+          "eng": "Gravity is the force of attraction between objects.",
+          "ch": "重力是物體之間的吸引力。"
+        },
+        {
+          "eng": "The old castle is the main tourist attraction in the town.",
+          "ch": "這座古城堡是鎮上的主要觀光景點。"
+        }
+      ]
+    },
+    {
+      "eng": "audio",
+      "kk": "ˈɔdioʊ",
+      "tense": "adj.",
+      "ch": [
+        [
+          "聲音的",
+          "音響的"
+        ]
+      ],
+      "analysis": "源自拉丁語 audire（聆聽）的詞幹 audio-，作為前綴或獨立形容詞使用，專門指涉與聲音傳播、錄製或播放相關的技術或設備。",
+      "definition": "1. connected with the recording, transmission, or reproduction of sound.",
+      "example": [
+        {
+          "eng": "The classroom is equipped with advanced audio equipment.",
+          "ch": "這間教室配備了先進的音響設備。"
+        }
+      ]
+    },
+    {
+      "eng": "authentic",
+      "kk": "ɔˈθɛntɪk",
+      "tense": "adj.",
+      "ch": [
+        [
+          "真實的",
+          "地道的"
+        ],
+        [
+          "正宗的",
+          "可靠的"
+        ]
+      ],
+      "analysis": "源自希臘語 authentikos（源自 authentes 主權者、一手創造者），本義為「具有原權威的、真實無誤的」。在現代英語中用來形容物品、文件或食物是「正宗的、地道的、真實的」。",
+      "definition": "1. true to what is said; genuine and original; 2. made or done in the traditional or original way.",
+      "example": [
+        {
+          "eng": "The painting was proven to be an authentic Picasso.",
+          "ch": "這幅畫被證明是畢卡索的真跡。"
+        },
+        {
+          "eng": "We ate delicious and authentic Italian food.",
+          "ch": "我們吃了美味又地道的義大利菜。"
+        }
+      ]
+    },
+    {
+      "eng": "authority",
+      "kk": "əˈθɔrəti",
+      "tense": "n.",
+      "ch": [
+        [
+          "權力",
+          "權威"
+        ],
+        [
+          "官方",
+          "當局（常用複數）"
+        ]
+      ],
+      "analysis": "源自拉丁語 auctoritas（由 auctor 創作者、發起人衍生而來）。本義為「創作者的信用、主導權或影響力」，引申為統治的「權力」、學術上的「權威」以及政府機構「當局」。",
+      "definition": "1. the power or right to give orders and make decisions; 2. people in power who have the right to enforce laws (often used as authorities).",
+      "example": [
+        {
+          "eng": "She has the authority to sign the contract.",
+          "ch": "她有權簽署這份合約。"
+        },
+        {
+          "eng": "Local authorities are investigating the accident.",
+          "ch": "當局正在調查這起事故。"
+        }
+      ]
+    },
+    {
+      "eng": "autobiography",
+      "kk": "ˌɔtəbaɪˈɑgrəfi",
+      "tense": "n.",
+      "ch": [
+        [
+          "自傳"
+        ]
+      ],
+      "analysis": "由三個希臘語成分組合而成：auto-（自己）+ bios（生命）+ graphia（書寫）。字面本義即為「自己寫自己的生平故事」。",
+      "definition": "1. the story of a person's life written by that person.",
+      "example": [
+        {
+          "eng": "He published his autobiography last year.",
+          "ch": "他去年出版了自傳。"
+        }
+      ]
+    },
+    {
+      "eng": "autograph",
+      "kk": "ˈɔtəˌɡræf",
+      "tense": "n.",
+      "ch": [
+        [
+          "親筆簽名"
+        ]
+      ],
+      "analysis": "由希臘語 auto-（自己）與 graphē（書寫、字跡）組合而成。本義為「親筆手稿或簽名」，在現代通俗語境中專指名人、明星的「親筆簽名」。",
+      "definition": "1. a signature of a famous person written by themselves for an admirer.",
+      "example": [
+        {
+          "eng": "Fans waited outside for the singer's autograph.",
+          "ch": "歌迷們在外面等候歌手的簽名。"
+        }
+      ]
+    },
+    {
+      "eng": "await",
+      "kk": "əˈwet",
+      "tense": "vt.",
+      "ch": [
+        [
+          "等待",
+          "期待"
+        ]
+      ],
+      "analysis": "源自古法語 awaitier（由 a- 加強 + waitier 等待，源自日耳曼語族）。及物動詞用法表示「等待某人或某事的到來」，常帶有一種期待的語氣。",
+      "definition": "1. to wait for something or someone.",
+      "example": [
+        {
+          "eng": "We are eagerly awaiting the final results.",
+          "ch": "我們正急切地等待最終結果。"
+        }
+      ]
+    },
+    {
+      "eng": "bald",
+      "kk": "bɔld",
+      "tense": "adj.",
+      "ch": [
+        [
+          "禿頭的",
+          "光禿的"
+        ]
+      ],
+      "analysis": "源自中古英語 balled，可能源自凱爾特語族（意為白色的或斑白的）。本義為「頭頂沒有頭髮的」或「表面光禿無遮蔽的（如禿山、光胎）」。",
+      "definition": "1. having little or no hair on the head; 2. smooth and without any covering.",
+      "example": [
+        {
+          "eng": "He started going bald in his thirties.",
+          "ch": "他在三十多歲時開始禿頭。"
+        },
+        {
+          "eng": "The car's tires are completely bald.",
+          "ch": "這輛車的輪胎完全磨平了。"
+        }
+      ]
+    },
+    {
+      "eng": "ballet",
+      "kk": "bæˈle",
+      "tense": "n.",
+      "ch": [
+        [
+          "芭蕾舞",
+          "芭蕾舞劇"
+        ]
+      ],
+      "analysis": "經法語從義大利語 balletto（ballo 舞蹈的指小詞，源自拉丁語 ballare 跳舞）借入英語。專指源於文藝復興時期義大利宮廷、在法國發展成熟的古典舞蹈藝術形式。",
+      "definition": "1. an artistic dance form using music and scenery to convey a story or theme.",
+      "example": [
+        {
+          "eng": "She has been taking ballet lessons since she was five.",
+          "ch": "她從五歲起就一直在上芭蕾舞課。"
+        }
+      ]
+    },
+    {
+      "eng": "bandage",
+      "kk": "ˈbændɪdʒ",
+      "tense": "n.",
+      "ch": [
+        [
+          "繃帶"
+        ]
+      ],
+      "analysis": "由古法語 bande（帶子、布條）加上名詞字尾 -age 構成。本義為「用於包裹傷口的布條（繃帶）」。",
+      "definition": "1. a strip of woven material used to bind up a wound or protect an injured body part.",
+      "example": [
+        {
+          "eng": "The nurse wrapped a clean bandage around his wrist.",
+          "ch": "護士在他的手腕上纏上了一塊乾淨的繃帶。"
+        }
+      ]
+    },
+    {
+      "eng": "bankrupt",
+      "kk": "ˈbæŋkrʌpt",
+      "tense": "adj.",
+      "ch": [
+        [
+          "破產的"
+        ]
+      ],
+      "analysis": "源自義大利語 banca rotta（破裂的長凳，banca 櫃台/長凳 + rotta 斷裂）。中世紀義大利錢商若無力償債，債權人會砸碎其營業用的長凳。此詞經法語進入英語，形容個人或企業財務破產。",
+      "definition": "1. legally declared unable to pay debts.",
+      "example": [
+        {
+          "eng": "The company went bankrupt after a bad year.",
+          "ch": "這家公司在經歷了糟糕的一年後宣告破產。"
+        }
+      ]
+    },
+    {
+      "eng": "bargain",
+      "kk": "ˈbɑrɡən",
+      "tense": "n.",
+      "ch": [
+        [
+          "特價品",
+          "便宜貨"
+        ],
+        [
+          "協議",
+          "交易"
+        ]
+      ],
+      "analysis": "源自古法語 bargaigner（討價還價），最終源自日耳曼語源。語意從「買賣雙方的討價還價（協議）」演變為「物超所值的便宜貨（特價品）」。",
+      "definition": "1. something bought or offered for sale much more cheaply than usual; 2. an agreement between two people or groups.",
+      "example": [
+        {
+          "eng": "This coat was a real bargain at half price.",
+          "ch": "這件大衣半價出售，真是一件便宜貨。"
+        },
+        {
+          "eng": "They struck a bargain on the price of the house.",
+          "ch": "他們就房子的價格達成了一項協議。"
+        }
+      ]
+    },
+    {
+      "eng": "barrier",
+      "kk": "ˈbæriər",
+      "tense": "n.",
+      "ch": [
+        [
+          "障礙",
+          "屏障"
+        ],
+        [
+          "分界線",
+          "關卡"
+        ]
+      ],
+      "analysis": "源自古法語 barriere（由 barre 柵欄、門栓衍生而來）。本義為「阻擋通行的柵欄或路障」，在現代廣泛引申為抽象的「障礙（如語言障礙、階級障礙）」。",
+      "definition": "1. a fence or other obstacle that prevents movement or access; 2. a circumstance or obstacle that keeps people from communicating or achieving something.",
+      "example": [
+        {
+          "eng": "Language is often a major barrier for immigrants.",
+          "ch": "語言往往是移民的一大障礙。"
+        },
+        {
+          "eng": "Police set up a security barrier around the building.",
+          "ch": "警方在建築物周圍設置了安全護欄。"
+        }
+      ]
+    },
+    {
+      "eng": "basin",
+      "kk": "ˈbeɪsən",
+      "tense": "n.",
+      "ch": [
+        [
+          "洗臉盆",
+          "盆地"
+        ],
+        [
+          "流域"
+        ]
+      ],
+      "analysis": "源自古法語 bacin，最終源自拉丁語 bacchius 或日耳曼語源，指盛水的大型圓形器皿。在地理學中引申為四面環山低窪的「盆地」或河流的「流域」。",
+      "definition": "1. a bowl for washing, or a natural depression in the surface of the land; 2. an area of land drained by a river and its tributaries.",
+      "example": [
+        {
+          "eng": "He filled the basin with warm water to wash his face.",
+          "ch": "他用溫水裝滿臉盆來洗臉。"
+        },
+        {
+          "eng": "The Amazon basin is home to rich wildlife.",
+          "ch": "亞馬遜流域是豐富野生動物的家園。"
+        }
+      ]
+    },
+    {
+      "eng": "battery",
+      "kk": "ˈbætəri",
+      "tense": "n.",
+      "ch": [
+        [
+          "電池"
+        ],
+        [
+          "砲兵連",
+          "連發"
+        ]
+      ],
+      "analysis": "由動詞 batter（連續猛擊）加上名詞字尾 -y 構成。原意指「軍事上的砲台、連續攻擊」，後因班傑明·富蘭克林用此詞形容多個萊頓瓶串聯放電的裝置（類似砲台發射威力），而轉為現代電力「電池」之義。",
+      "definition": "1. a device that produces electricity to power a device; 2. a group of heavy guns or artillery.",
+      "example": [
+        {
+          "eng": "My phone battery is running low.",
+          "ch": "我的手機電池快沒電了。"
+        },
+        {
+          "eng": "The enemy artillery battery fired continuously.",
+          "ch": "敵軍砲兵連不斷開火。"
+        }
+      ]
+    },
+    {
+      "eng": "beggar",
+      "kk": "ˈbɛɡər",
+      "tense": "n.",
+      "ch": [
+        [
+          "乞丐"
+        ]
+      ],
+      "analysis": "源自盎格魯-諾曼語 begard（源自中世紀拉丁語 begardus，一種宗教苦行團體成員，後被指稱為乞討者）。英文中加上名詞字尾 -ar 指稱以乞討為生的人。",
+      "definition": "1. a person, typically a homeless one, who lives by asking for money or food.",
+      "example": [
+        {
+          "eng": "He gave some coins to the beggar on the street corner.",
+          "ch": "他給了街角乞丐幾個硬幣。"
+        }
+      ]
+    },
+    {
+      "eng": "behavior",
+      "kk": "bɪˈheɪvjər",
+      "tense": "n.",
+      "ch": [
+        [
+          "行為",
+          "舉止"
+        ]
+      ],
+      "analysis": "由動詞 behave（be- 前綴 + have 表現，模仿法語 se contenir）加上名詞字尾 -(i)or 構成。指一個人或動物在特定情境下的整體表現與舉止。",
+      "definition": "1. the way that someone behaves, acts, or reacts.",
+      "example": [
+        {
+          "eng": "The teacher praised the children for their good behavior.",
+          "ch": "老師稱讚孩子們表現乖巧。"
+        }
+      ]
+    },
+    {
+      "eng": "bin",
+      "kk": "bɪn",
+      "tense": "n.",
+      "ch": [
+        [
+          "垃圾桶",
+          "箱子"
+        ]
+      ],
+      "analysis": "為日耳曼語源的繼承詞，源自古英語 binned（盛穀物的箱子），最終源自凱爾特語。本義為「儲藏穀物或物品的箱櫃」，在現代英語中常指「垃圾箱（dustbin）」。",
+      "definition": "1. a container for storing things or throwing away garbage.",
+      "example": [
+        {
+          "eng": "Please throw the empty bottle into the recycling bin.",
+          "ch": "請把空瓶子丟進回收桶裡。"
+        }
+      ]
+    },
+    {
+      "eng": "biography",
+      "kk": "baɪˈɑgrəfi",
+      "tense": "n.",
+      "ch": [
+        [
+          "傳記"
+        ]
+      ],
+      "analysis": "由兩個希臘語成分組合而成：bios（生命）+ graphia（書寫）。字面本義即為「記載他人一生生平的故事」。",
+      "definition": "1. an account of someone's life written by someone else.",
+      "example": [
+        {
+          "eng": "She is reading a biography of Steve Jobs.",
+          "ch": "她正在讀一本關於賈伯斯的傳記。"
+        }
+      ]
+    },
+    {
+      "eng": "biology",
+      "kk": "baɪˈɑlədʒi",
+      "tense": "n.",
+      "ch": [
+        [
+          "生物學"
+        ]
+      ],
+      "analysis": "由近代科學拉丁語結合而成：bios（生命）+ logia（學問、學科）。本義為「研究生命與生物現象的科學（生物學）」。",
+      "definition": "1. the scientific study of living organisms and life processes.",
+      "example": [
+        {
+          "eng": "He is majoring in biology at university.",
+          "ch": "他在大學主修生物學。"
+        }
+      ]
+    }
+  ]
+}

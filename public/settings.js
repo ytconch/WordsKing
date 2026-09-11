@@ -3,7 +3,7 @@ const SettingsPage = (() => {
     window.WordsApp;
 
   async function loadProfile() {
-    const { user } = await api("/api/auth/me");
+    const user = state.user?.isGuest ? state.user : (await api("/api/auth/me")).user;
     document.getElementById("displayName").value = user.displayName || "";
     document.getElementById("theme").value = user.theme || "sage";
     document.getElementById("leaderboardVisible").checked = user.leaderboardVisible !== false;
@@ -41,24 +41,27 @@ const SettingsPage = (() => {
           "practiceTypingTimeLimitSeconds",
           "手寫與克漏字倒數"
         );
-        const response = await api("/api/auth/me/profile", {
-          method: "PATCH",
-          headers: { "Content-Type": "application/json" },
-          body: JSON.stringify({
-            displayName: document.getElementById("displayName").value.trim(),
-            theme: document.getElementById("theme").value,
-            leaderboardVisible: document.getElementById("leaderboardVisible").checked,
-            practiceNextQuestionDelayMs: Number(
-              document.getElementById("practiceNextQuestionDelayMs").value
-            ),
-            practiceChoiceTimeLimitSeconds,
-            practiceTypingTimeLimitSeconds
-          })
-        });
+        const profile = {
+          displayName: document.getElementById("displayName").value.trim(),
+          theme: document.getElementById("theme").value,
+          leaderboardVisible: document.getElementById("leaderboardVisible").checked,
+          practiceNextQuestionDelayMs: Number(
+            document.getElementById("practiceNextQuestionDelayMs").value
+          ),
+          practiceChoiceTimeLimitSeconds,
+          practiceTypingTimeLimitSeconds
+        };
+        const response = state.user?.isGuest
+          ? { user: { ...state.user, ...profile } }
+          : await api("/api/auth/me/profile", {
+              method: "PATCH",
+              headers: { "Content-Type": "application/json" },
+              body: JSON.stringify(profile)
+            });
 
         setAuth({ token: state.token, user: response.user });
         renderHeader();
-        showMessage("設定已更新。");
+        showMessage(state.user?.isGuest ? "訪客設定已暫存於本次瀏覽。" : "設定已更新。");
       } catch (error) {
         showMessage(error.message);
       }
@@ -126,10 +129,23 @@ const SettingsPage = (() => {
     await refreshUser();
     if (!enforcePageAccess()) return;
 
+    if (state.user?.isGuest) {
+      document.getElementById("passwordForm").hidden = true;
+      document.getElementById("deleteAccountForm").hidden = true;
+      const title = document.querySelector("#profileForm h2");
+      title.textContent = "訪客設定";
+      title.insertAdjacentHTML(
+        "afterend",
+        '<p class="muted small-text">設定只暫存於本次瀏覽，關閉後自動清除。</p>'
+      );
+    }
+
     await loadProfile();
     bindProfileForm();
-    bindPasswordForm();
-    bindDeleteAccountForm();
+    if (!state.user?.isGuest) {
+      bindPasswordForm();
+      bindDeleteAccountForm();
+    }
   }
 
   return { init };

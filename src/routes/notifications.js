@@ -19,6 +19,10 @@ function mapNotificationRow(row) {
 
 router.get("/inbox", requireAuth, async (req, res, next) => {
   try {
+    if (req.user.isGuest) {
+      return res.json({ unreadCount: 0, notifications: [] });
+    }
+
     const rows = await clientDb.all(
       `SELECT
          n.id,
@@ -71,6 +75,10 @@ router.get("/inbox", requireAuth, async (req, res, next) => {
 
 router.patch("/read-all", requireAuth, async (req, res, next) => {
   try {
+    if (req.user.isGuest) {
+      return res.json({ message: "訪客模式沒有通知紀錄。" });
+    }
+
     const unreadRows = await clientDb.all(
       `SELECT n.id
        FROM notifications n
@@ -103,6 +111,10 @@ router.patch("/read-all", requireAuth, async (req, res, next) => {
 
 router.patch("/:id/read", requireAuth, async (req, res, next) => {
   try {
+    if (req.user.isGuest) {
+      return res.json({ message: "訪客模式沒有通知紀錄。" });
+    }
+
     const notificationId = Number(req.params.id);
     const notification = await clientDb.get(
       `SELECT id
@@ -131,6 +143,10 @@ router.patch("/:id/read", requireAuth, async (req, res, next) => {
 
 router.delete("/:id", requireAuth, async (req, res, next) => {
   try {
+    if (req.user.isGuest) {
+      return res.json({ message: "訪客模式沒有通知紀錄。" });
+    }
+
     const notificationId = Number(req.params.id);
     const notification = await clientDb.get(
       `SELECT id

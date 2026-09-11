@@ -1,0 +1,940 @@
+{
+  "level": 6,
+  "chunkIndex": 21,
+  "inputs": [
+    "villa",
+    "villain",
+    "vine",
+    "vineyard",
+    "violinist",
+    "virgin",
+    "vitality",
+    "vocation",
+    "vocational",
+    "vowel",
+    "wag",
+    "walnut",
+    "ward",
+    "wardrobe",
+    "warrant",
+    "warranty",
+    "waterproof",
+    "weary",
+    "wharf",
+    "whiskey",
+    "whisky",
+    "wholesale",
+    "wholesome",
+    "widow",
+    "widower",
+    "withhold",
+    "woe",
+    "woodpecker",
+    "workforce",
+    "wrestle",
+    "wrinkle",
+    "yearn",
+    "yoga",
+    "yogurt",
+    "zoom"
+  ],
+  "rows": [
+    {
+      "eng": "villa",
+      "kk": "ˈvɪlə",
+      "tense": "n.",
+      "ch": [
+        [
+          "別墅",
+          "度假別墅"
+        ],
+        [
+          "莊園",
+          "鄉間大宅"
+        ]
+      ],
+      "analysis": "此字為名詞。源自拉丁語 villa（鄉間農莊、莊園），經由義大利語引入英語。現代指郊區或度假勝地的豪華住宅，或是指歐美供度假出租的獨立別墅。語義從古代的農業莊園演變為現代的休閒度假住宅。",
+      "definition": "1. A large and luxurious country house, often used for vacations or situated in a holiday resort.; 2. A large house with a garden, typically one built in a suburban area.",
+      "example": [
+        {
+          "eng": "They rented a luxury villa by the Mediterranean Sea for their summer vacation.",
+          "ch": "他們在地中海邊租了一棟豪華別墅度過暑假。"
+        },
+        {
+          "eng": "The Spanish-style villa features a spacious courtyard and red-tiled roof.",
+          "ch": "這棟西班牙風格的別墅有著寬敞的庭院和紅瓦屋頂。"
+        }
+      ]
+    },
+    {
+      "eng": "villain",
+      "kk": "ˈvɪlən",
+      "tense": "n.",
+      "ch": [
+        [
+          "反派角色",
+          "惡棍"
+        ],
+        [
+          "罪魁禍首",
+          "害人精"
+        ]
+      ],
+      "analysis": "此字為名詞。源自古法語 vilain，其源頭為拉丁語 villanus（農奴、莊園佃農），源自 villa（莊園）。在中世紀晚期，此詞的社會階級貶義逐漸轉化為道德貶義，用來指稱粗俗、卑劣之人，最終演變成現代文學與戲劇中的「反派」或社會上的「惡棍、罪魁禍首」。",
+      "definition": "1. A character in a story, movie, etc., who does bad things; a wicked person.; 2. The cause of trouble, harm, or a particular negative situation.",
+      "example": [
+        {
+          "eng": "The hero finally defeated the villain in the dramatic final scene.",
+          "ch": "英雄在戲劇性的最後一幕中終於擊敗了反派。"
+        },
+        {
+          "eng": "Unhealthy diet and lack of exercise are the main villains in heart disease.",
+          "ch": "不健康的飲食與缺乏運動是導致心臟病的罪魁禍首。"
+        }
+      ]
+    },
+    {
+      "eng": "vine",
+      "kk": "vaɪn",
+      "tense": "n.",
+      "ch": [
+        [
+          "藤蔓",
+          "攀緣植物"
+        ],
+        [
+          "葡萄藤"
+        ]
+      ],
+      "analysis": "此字為名詞。源自古法語 vine，最終源自拉丁語 vīnea（葡萄園、葡萄藤），與 vīnum（酒）同源。在現代英語中，除了專指葡萄藤外，也廣泛泛指所有攀緣或匍匐生長的木本或草本藤本植物。",
+      "definition": "1. A plant with a long, thin stem that grows along the ground or climbs up trees and walls.; 2. A climbing plant that bears grapes.",
+      "example": [
+        {
+          "eng": "Green ivy vines climbed up the old stone wall of the castle.",
+          "ch": "綠色的長春藤攀爬在城堡的古老石牆上。"
+        },
+        {
+          "eng": "The farmer carefully pruned the grape vines to ensure a good harvest.",
+          "ch": "農夫仔細修剪葡萄藤以確保豐收。"
+        }
+      ]
+    },
+    {
+      "eng": "vineyard",
+      "kk": "ˈvɪnjərd",
+      "tense": "n.",
+      "ch": [
+        [
+          "葡萄園"
+        ]
+      ],
+      "analysis": "此字為名詞。由現代透明構詞組成：vine（葡萄藤、藤）加上古英語字尾 -geard（庭院、圍場，現代 yard）。指大面積種植葡萄藤以釀酒的園地。",
+      "definition": "1. A plantation of grapevines, typically used for winemaking.",
+      "example": [
+        {
+          "eng": "The family-owned vineyard produces some of the finest red wine in the region.",
+          "ch": "這個家族經營的葡萄園生產該地區最優質的紅酒之一。"
+        }
+      ]
+    },
+    {
+      "eng": "violinist",
+      "kk": "ˌvaɪəˈlɪnɪst",
+      "tense": "n.",
+      "ch": [
+        [
+          "小提琴手",
+          "小提琴家"
+        ]
+      ],
+      "analysis": "此字為名詞。由現代透明構詞組成：violin（小提琴）加上表示人的名詞字尾 -ist。指專業或業餘演奏小提琴的音樂家。",
+      "definition": "1. A person who plays the violin, especially as a profession.",
+      "example": [
+        {
+          "eng": "The talented violinist performed a breathtaking solo with the symphony orchestra.",
+          "ch": "這位才華橫溢的小提琴家與交響樂團合作演出了令人屏息的獨奏。"
+        }
+      ]
+    },
+    {
+      "eng": "virgin",
+      "kk": "ˈvɜːrdʒɪn",
+      "tense": "n.",
+      "ch": [
+        [
+          "處女",
+          "童男童女"
+        ]
+      ],
+      "analysis": "此字為名詞。源自古法語 virgine，源自拉丁語 virgō（處女、少女）。在宗教或一般語境中，指未曾有過性經驗的人；亦可作形容詞使用（如 virgin wool 原毛、virgin olive oil 初榨橄欖油）。在此處列出其最核心的名詞詞性與意義。",
+      "definition": "1. A person who has never had sexual intercourse.",
+      "example": [
+        {
+          "eng": "In ancient times, the priestess was expected to remain a virgin.",
+          "ch": "在古代，女祭司被期望保持童貞。"
+        }
+      ]
+    },
+    {
+      "eng": "vitality",
+      "kk": "vaɪˈtæləti",
+      "tense": "n.",
+      "ch": [
+        [
+          "活力",
+          "生命力"
+        ],
+        [
+          "持久力",
+          "生機"
+        ]
+      ],
+      "analysis": "此字為名詞。源自拉丁語 vītalitās，由 vītālis（生命的，源自 vīta 生命）加上抽象名詞字尾 -tās。用以描述生物或系統充滿精力、生生不息的狀態。",
+      "definition": "1. The state of being strong and active; energy.; 2. The capacity to continue to exist or develop as a living being or system.",
+      "example": [
+        {
+          "eng": "Regular exercise and a healthy diet can help restore your youth and vitality.",
+          "ch": "規律運動與健康飲食有助於恢復你的青春與活力。"
+        },
+        {
+          "eng": "The cultural vitality of the city attracts artists and creators from all over the world.",
+          "ch": "這座城市的文化生機吸引了來自世界各地的藝術家與創作者。"
+        }
+      ]
+    },
+    {
+      "eng": "vocation",
+      "kk": "voʊˈkeɪʃn",
+      "tense": "n.",
+      "ch": [
+        [
+          "天職",
+          "使命感"
+        ],
+        [
+          "職業",
+          "行業"
+        ]
+      ],
+      "analysis": "此字為名詞。源自拉丁語 vocātiō（呼喚、召喚），源自 vocāre（呼喊、呼叫）。其歷史本義為神的「呼召」，引申為個人對某種生活方式或工作具有強烈的使命感（天職），現代亦常指一般的職業或專業工作。",
+      "definition": "1. A strong feeling of suitability for a particular career or occupation, especially a spiritual calling.; 2. A trade or profession.",
+      "example": [
+        {
+          "eng": "She found her true vocation in nursing and caring for the elderly.",
+          "ch": "她在護理和照顧老人中找到了真正的天職。"
+        },
+        {
+          "eng": "Vocational schools prepare students for a specific trade or vocation.",
+          "ch": "職業學校為學生從事特定的行業做好準備。"
+        }
+      ]
+    },
+    {
+      "eng": "vocational",
+      "kk": "voʊˈkeɪʃənl",
+      "tense": "adj.",
+      "ch": [
+        [
+          "職業的",
+          "技職的"
+        ]
+      ],
+      "analysis": "此字為形容詞。由名詞 vocation（職業、天職）加上形容詞字尾 -al 構成。專門用來修飾與實用技能、職業訓練相關的教育或學校體系。",
+      "definition": "1. Relating to an occupation or employment; providing skills and education that prepare you for a job.",
+      "example": [
+        {
+          "eng": "He decided to attend a vocational college to learn automotive repair.",
+          "ch": "他決定去讀一所職校學習汽車修理。"
+        }
+      ]
+    },
+    {
+      "eng": "vowel",
+      "kk": "ˈvaʊəl",
+      "tense": "n.",
+      "ch": [
+        [
+          "母音",
+          "元音"
+        ]
+      ],
+      "analysis": "此字為名詞。源自古法語 vouel，源自拉丁語 vōcālis（有聲的、發聲的），源自 vōx（聲音）。在語音學中指發音時氣流不受阻礙發出的聲音或代表該音的字母（如 a, e, i, o, u）。",
+      "definition": "1. A speech sound produced without significant constriction of the air flowing from the lungs, or a letter representing such a sound.",
+      "example": [
+        {
+          "eng": "The English alphabet has five standard vowels: a, e, i, o, and u.",
+          "ch": "英語字母表中有五個標準母音：a、e、i、o 和 u。"
+        }
+      ]
+    },
+    {
+      "eng": "wag",
+      "kk": "wæɡ",
+      "tense": "vt.",
+      "ch": [
+        [
+          "搖擺",
+          "擺動"
+        ]
+      ],
+      "analysis": "此字為及物動詞。源自日耳曼語源（類似古諾斯語 vagga 搖晃），屬日耳曼繼承詞。通常指動物（如狗）快速地左右或上下搖晃尾巴，或人晃動身體某部分。",
+      "definition": "1. (Of a tail or animal) to move or cause to move rapidly from side to side or up and down.",
+      "example": [
+        {
+          "eng": "The friendly puppy began to wag its tail happily when it saw its owner.",
+          "ch": "友善的小狗看到主人時，高興地搖起了尾巴。"
+        }
+      ]
+    },
+    {
+      "eng": "wag",
+      "kk": "wæɡ",
+      "tense": "vi.",
+      "ch": [
+        [
+          "搖擺",
+          "擺動"
+        ]
+      ],
+      "analysis": "此字為不及物動詞。為 wag 的自動詞用法，指尾巴或類似部位自行或持續擺動。",
+      "definition": "1. To move rapidly to and fro.",
+      "example": [
+        {
+          "eng": "The dog's tail wagged excitedly as the treat was brought out.",
+          "ch": "當零食被拿出來時，狗狗的尾巴興奮地搖晃著。"
+        }
+      ]
+    },
+    {
+      "eng": "walnut",
+      "kk": "ˈwɔːlnʌt",
+      "tense": "n.",
+      "ch": [
+        [
+          "核桃",
+          "胡桃",
+          "胡桃木"
+        ]
+      ],
+      "analysis": "此字為名詞。源自古英語 wealhhnutu，字面意思是「外國的堅果」（wealh 指外國人、凱爾特人，源於日耳曼人對羅馬化或凱爾特語族群的稱呼）。現代指胡桃樹的堅果及其堅硬珍貴的木材。",
+      "definition": "1. The nut of a tree of the walnut family, consisting of an edible kernel divided into two halves inside a hard shell; also, the wood of this tree.",
+      "example": [
+        {
+          "eng": "Eating a handful of walnuts every day is beneficial for heart health.",
+          "ch": "每天吃一把核桃對心臟健康有益。"
+        },
+        {
+          "eng": "The dining table is crafted from solid dark walnut wood.",
+          "ch": "這張餐桌是用厚實的深色胡桃木手工製作的。"
+        }
+      ]
+    },
+    {
+      "eng": "ward",
+      "kk": "wɔːrd",
+      "tense": "n.",
+      "ch": [
+        [
+          "病房"
+        ],
+        [
+          "行政區",
+          "選區"
+        ],
+        [
+          "受監護人",
+          "被保護人"
+        ]
+      ],
+      "analysis": "此字為名詞。源自古英語 weard（防守、守衛、監護），與 guard 同源（g- 與 w- 的日耳曼／法語音變對應）。語義從「防衛、看守」演變出「醫院病房」（受看護的區域）、「行政選區」（受管理的區域）以及「受監護的未成年人」。",
+      "definition": "1. A separate room in a hospital, typically one allocated to a particular type of patient.; 2. An administrative division of a city or local government area.; 3. A minor or other person under the care of a guardian or a court.",
+      "example": [
+        {
+          "eng": "The children's ward of the hospital was decorated with colorful drawings.",
+          "ch": "醫院的兒童病房裝飾著色彩繽紛的圖畫。"
+        },
+        {
+          "eng": "He is running for city councilman in our local ward.",
+          "ch": "他正在我們當地的選區競選市議員。"
+        },
+        {
+          "eng": "The orphan was placed as a ward of the state.",
+          "ch": "這名孤兒被安置為由國家監護的受保護人。"
+        }
+      ]
+    },
+    {
+      "eng": "wardrobe",
+      "kk": "ˈwɔːrdroʊb",
+      "tense": "n.",
+      "ch": [
+        [
+          "衣櫃",
+          "衣櫥"
+        ],
+        [
+          "全套戲服",
+          "個人全部衣物"
+        ]
+      ],
+      "analysis": "此字為名詞。由古法語 warder（防守、保護，源自日耳曼語根）加上 robe（衣服、袍子）複合而成。本義是存放和保護衣服的房間或櫃子，現代引申指衣櫃或一個人擁有的全部衣服。",
+      "definition": "1. A large, tall cabinet in which clothes may be hung or stored.; 2. A person's entire collection of clothes.",
+      "example": [
+        {
+          "eng": "She hung her winter coats neatly inside the wooden wardrobe.",
+          "ch": "她把冬天的外套整齊地掛在木製衣櫃裡。"
+        },
+        {
+          "eng": "He decided to update his winter wardrobe with some stylish new jackets.",
+          "ch": "他決定添購幾件時尚的新夾克來更新他的冬季衣物。"
+        }
+      ]
+    },
+    {
+      "eng": "warrant",
+      "kk": "ˈwɔːrənt",
+      "tense": "n.",
+      "ch": [
+        [
+          "搜索票",
+          "逮捕令"
+        ],
+        [
+          "正當理由",
+          "授權"
+        ]
+      ],
+      "analysis": "此字為名詞。為 warrant 的名詞用法，指法律授權文件（如逮捕令、搜索票）或許可與依據。",
+      "definition": "1. A legal document issued by a judge authorizing police to make an arrest, search premises, or carry out some other action.; 2. Justification or authority for an action, belief, or feeling.",
+      "example": [
+        {
+          "eng": "The police officers entered the house only after obtaining a search warrant.",
+          "ch": "警官在取得搜索票後才進入屋內。"
+        },
+        {
+          "eng": "There is no warrant for such pessimistic assumptions.",
+          "ch": "沒有理由做出如此悲觀的假設。"
+        }
+      ]
+    },
+    {
+      "eng": "warrant",
+      "kk": "ˈwɔːrənt",
+      "tense": "vt.",
+      "ch": [
+        [
+          "擔保",
+          "保證"
+        ],
+        [
+          "使有正當理由",
+          "值得"
+        ]
+      ],
+      "analysis": "此字為及物動詞。源自古法語 warant（保證人、防禦），源自日耳曼語源。本義為提供安全保障、授權或擔保，現代常用於法律上的「搜索票、逮捕令」，作動詞時則指「使有必要、正當化」。",
+      "definition": "1. To officially affirm or guarantee something; to promise.; 2. To make a particular attitude or response legally or practically necessary or appropriate.",
+      "example": [
+        {
+          "eng": "The quality of this appliance warrants a two-year manufacturer guarantee.",
+          "ch": "這款家電的品質享有兩年的製造商保固。"
+        },
+        {
+          "eng": "The situation is serious, but it does not warrant such extreme measures.",
+          "ch": "情況確實嚴重，但還不至於需要採取如此極端的手段。"
+        }
+      ]
+    },
+    {
+      "eng": "warranty",
+      "kk": "ˈwɔːrənti",
+      "tense": "n.",
+      "ch": [
+        [
+          "保固",
+          "保證書"
+        ]
+      ],
+      "analysis": "此字為名詞。源自古法語 warrantie，由 warrant 加上名詞字尾 -y 構成。指商品製造商或銷售商對產品品質與維修提供的正式書面保證。",
+      "definition": "1. A written guarantee, issued to the purchaser of an article by its manufacturer, promising to repair or replace it if necessary within a specified period.",
+      "example": [
+        {
+          "eng": "Make sure to keep your receipt and warranty card in a safe place.",
+          "ch": "請務必將收據和保固卡妥善保管在安全的地方。"
+        }
+      ]
+    },
+    {
+      "eng": "waterproof",
+      "kk": "ˈwɔːtərpruːf",
+      "tense": "adj.",
+      "ch": [
+        [
+          "防水的",
+          "不透水的"
+        ]
+      ],
+      "analysis": "此字為形容詞。由現代透明構詞組成：water（水）加上 proof（防禦的、能抵禦的）。指能夠防止水分滲透的材質或物品。",
+      "definition": "1. Impervious to water; designed to prevent water from entering.",
+      "example": [
+        {
+          "eng": "He bought a waterproof jacket to keep dry during heavy rainstorms.",
+          "ch": "他買了一件防水夾克以便在大暴雨中保持乾爽。"
+        }
+      ]
+    },
+    {
+      "eng": "weary",
+      "kk": "ˈwɪri",
+      "tense": "adj.",
+      "ch": [
+        [
+          "疲憊的",
+          "筋疲力盡的"
+        ],
+        [
+          "厭倦的",
+          "失去耐心的"
+        ]
+      ],
+      "analysis": "此字為形容詞。源自古英語 wērig（疲倦的），屬日耳曼繼承詞。本義為體力或精神耗盡的疲勞，引申為對某事感到厭煩、失去興趣。",
+      "definition": "1. Feeling or showing tiredness, especially as a result of excessive effort or lack of sleep.; 2. Reluctant to see or experience any more of; tired of.",
+      "example": [
+        {
+          "eng": "The weary travelers finally arrived at the cozy mountain inn after a long hike.",
+          "ch": "疲憊的旅客在長途跋涉後終於抵達了舒適的山林客棧。"
+        },
+        {
+          "eng": "She grew weary of making endless excuses for his behavior.",
+          "ch": "她對不斷為他的行為找藉口感到厭倦了。"
+        }
+      ]
+    },
+    {
+      "eng": "wharf",
+      "kk": "hwɔːrf",
+      "tense": "n.",
+      "ch": [
+        [
+          "碼頭",
+          "岸壁"
+        ]
+      ],
+      "analysis": "此字為名詞。源自古英語 hweorf（堤防、岸邊），屬日耳曼繼承詞。指沿著水邊建造、供船隻停泊並裝卸貨物或乘客的平台或結構物。",
+      "definition": "1. A level quayside area at which a ship may be moored to load and unload.",
+      "example": [
+        {
+          "eng": "Fishermen unloaded their fresh morning catch right at the busy wooden wharf.",
+          "ch": "漁夫們在繁忙的木造碼頭上卸下清晨捕獲的新鮮漁獲。"
+        }
+      ]
+    },
+    {
+      "eng": "whiskey",
+      "kk": "ˈhwɪski",
+      "tense": "n.",
+      "ch": [
+        [
+          "威士忌（尤指愛爾蘭或美國產）"
+        ]
+      ],
+      "analysis": "此字為名詞。源自蓋爾語 uisce beatha（意為「生命之水」，拉丁語 aqua vitae 的蓋爾語翻譯）。蘇格蘭與加拿大拼為 whisky，而愛爾蘭與美國通常拼為 whiskey。",
+      "definition": "1. A spirit distilled from malted grain, especially barley, rye, or maize (chiefly used in spelling for Irish and American varieties).",
+      "example": [
+        {
+          "eng": "He ordered a glass of aged whiskey on the rocks at the bar.",
+          "ch": "他在酒吧點了一杯加冰塊的陳年威士忌。"
+        }
+      ]
+    },
+    {
+      "eng": "whisky",
+      "kk": "ˈhwɪski",
+      "tense": "n.",
+      "ch": [
+        [
+          "威士忌（尤指蘇格蘭產）"
+        ]
+      ],
+      "analysis": "此字為名詞。whiskey 的拼寫變體，主要用於蘇格蘭威士忌（Scotch whisky）及加拿大威士忌的拼法，詞源相同。",
+      "definition": "1. A spirit distilled from malted grain, especially barley, rye, or maize (chiefly used in spelling for Scottish and Canadian varieties).",
+      "example": [
+        {
+          "eng": "Scotch whisky is famous worldwide for its distinctive smoky flavor.",
+          "ch": "蘇格蘭威士忌以其獨特的煙燻風味聞名於世。"
+        }
+      ]
+    },
+    {
+      "eng": "wholesale",
+      "kk": "ˈhoʊlseɪl",
+      "tense": "n.",
+      "ch": [
+        [
+          "批發"
+        ]
+      ],
+      "analysis": "此字為名詞。由 whole（全部的）加上 sale（銷售）複合而成。本義是按整批或大量出售商品給零售商而非最終消費者。",
+      "definition": "1. The selling of goods in large quantities to be retailed by others.",
+      "example": [
+        {
+          "eng": "The company specializes in the wholesale of imported electronic components.",
+          "ch": "這家公司專門從事進口電子零件的批發。"
+        }
+      ]
+    },
+    {
+      "eng": "wholesome",
+      "kk": "ˈhoʊlsəm",
+      "tense": "adj.",
+      "ch": [
+        [
+          "有益健康的",
+          "健康的"
+        ],
+        [
+          "健全的",
+          "淳樸的"
+        ]
+      ],
+      "analysis": "此字為形容詞。由古英語 hāl（完整的、健康的，現代 whole）加上形容詞字尾 -sum（具有某種特質的）構成。本義為促進或保持身體健康的，引申為對心靈或道德有益、純潔健全的。",
+      "definition": "1. Conducive to or indicative of good health and physical well-being.; 2. Promoting moral well-being or healthfulness.",
+      "example": [
+        {
+          "eng": "A balanced diet and regular sleep are essential for a wholesome lifestyle.",
+          "ch": "均衡的飲食與規律的睡眠是健康生活方式的根本。"
+        },
+        {
+          "eng": "The animated film is a wholesome family entertainment suitable for all ages.",
+          "ch": "這部動畫片是適合全家老小觀賞的健康家庭娛樂。"
+        }
+      ]
+    },
+    {
+      "eng": "widow",
+      "kk": "ˈwɪdoʊ",
+      "tense": "n.",
+      "ch": [
+        [
+          "寡婦",
+          "遺孀"
+        ]
+      ],
+      "analysis": "此字為名詞。源自古英語 wīdwe，源自原始日耳曼語 *widwō（意為「孤獨的、失去配偶的」），與拉丁語 vidua 同源。指配偶去世而未再婚的女性。",
+      "definition": "1. A woman who has lost her spouse by death and has not remarried.",
+      "example": [
+        {
+          "eng": "The elderly widow lives quietly in a small cottage near the coast.",
+          "ch": "這位年邁的寡婦安靜地住在海邊的一棟小別墅裡。"
+        }
+      ]
+    },
+    {
+      "eng": "widower",
+      "kk": "ˈwɪdoʊər",
+      "tense": "n.",
+      "ch": [
+        [
+          "鰥夫",
+          "喪妻者"
+        ]
+      ],
+      "analysis": "此字為名詞。在古英語 widow 的基礎上加上陽性／動作者字尾 -er 形成（或由中世紀英語類推衍生）。指妻子去世而未再婚的男性。",
+      "definition": "1. A man who has lost his wife by death and has not remarried.",
+      "example": [
+        {
+          "eng": "After becoming a widower, he dedicated all his time to raising his children.",
+          "ch": "成為鰥夫後，他把所有的時間都奉獻給了撫養孩子。"
+        }
+      ]
+    },
+    {
+      "eng": "withhold",
+      "kk": "wɪðˈhoʊld",
+      "tense": "vt.",
+      "ch": [
+        [
+          "扣留",
+          "保留",
+          "拒絕給予"
+        ]
+      ],
+      "analysis": "此字為及物動詞。由古英語 with-（反抗、向後，現代 with）加上 hold（握住、拿著）複合而成。字面意思是「往後抓著不放」，引申為扣下物品、隱瞞資訊或拒絕提供某物。",
+      "definition": "1. To refuse to give, or to keep back something due or requested.",
+      "example": [
+        {
+          "eng": "The company decided to withhold payment until the project was completed.",
+          "ch": "公司決定扣留款項，直到該專案完工為止。"
+        }
+      ]
+    },
+    {
+      "eng": "woe",
+      "kk": "woʊ",
+      "tense": "n.",
+      "ch": [
+        [
+          "悲傷",
+          "痛苦",
+          "災難"
+        ]
+      ],
+      "analysis": "此字為名詞。源自古英語 wā（表達痛苦的嘆詞或名詞），屬日耳曼繼承詞。通常指極大的悲痛、苦難或不幸的境遇（常與 troubles 連用或成對偶詞 woes）。",
+      "definition": "1. Great sorrow or distress; troubles or afflictions.",
+      "example": [
+        {
+          "eng": "He listened patiently as his friend poured out all his woes.",
+          "ch": "他耐心地聽著朋友傾訴所有的苦楚與不幸。"
+        }
+      ]
+    },
+    {
+      "eng": "woodpecker",
+      "kk": "ˈwʊdpekər",
+      "tense": "n.",
+      "ch": [
+        [
+          "啄木鳥"
+        ]
+      ],
+      "analysis": "此字為名詞。由 wood（木頭、森林）加上 pecker（啄食者，源自 peck 啄）複合而成。形象地指以樹木為家、用尖銳鳥喙啄樹找蟲吃的鳥類。",
+      "definition": "1. A bird that uses its strong bill to peck holes in tree trunks to find insects.",
+      "example": [
+        {
+          "eng": "We heard the rapid tapping sound of a woodpecker high up in the oak tree.",
+          "ch": "我們聽到橡樹高處傳來啄木鳥急促的叩擊聲。"
+        }
+      ]
+    },
+    {
+      "eng": "workforce",
+      "kk": "ˈwɜːrkfɔːrs",
+      "tense": "n.",
+      "ch": [
+        [
+          "勞動力",
+          "全體員工"
+        ]
+      ],
+      "analysis": "此字為名詞。由 work（工作）加上 force（力量、武力，引申為群體與力量）複合而成。指某個國家、地區或企業所擁有的全部勞動人口或全體在職員工。",
+      "definition": "1. The people engaged in or available for work, either in a country or area or in a particular company or industry.",
+      "example": [
+        {
+          "eng": "The factory expanded its workforce to meet the growing demand for production.",
+          "ch": "工廠擴大了勞動力（員工規模），以滿足不斷增長的生產需求。"
+        }
+      ]
+    },
+    {
+      "eng": "wrestle",
+      "kk": "ˈresl",
+      "tense": "vt.",
+      "ch": [
+        [
+          "摔倒",
+          "全力搏鬥克服"
+        ]
+      ],
+      "analysis": "此字為及物動詞。為 wrestle 的及物用法，指將對手摔倒在地或透過艱苦努力來制服、處理某事物。",
+      "definition": "1. To throw or force someone or something by wrestling.",
+      "example": [
+        {
+          "eng": "He managed to wrestle the heavy suitcase shut despite it being overstuffed.",
+          "ch": "儘管行李箱塞得太滿，他還是設法把沉重的箱子給壓合上了。"
+        }
+      ]
+    },
+    {
+      "eng": "wrestle",
+      "kk": "ˈresl",
+      "tense": "vi.",
+      "ch": [
+        [
+          "摔跤",
+          "角力"
+        ],
+        [
+          "努力掙扎",
+          "搏鬥"
+        ]
+      ],
+      "analysis": "此字為不及物動詞。源自古英語 wræstlian（扭動、摔跤），源自 wrāstan（扭曲）。本義為兩人互相抓住並試圖摔倒對方的體育運動，引申為心理或行動上「艱難地對抗、掙扎」。",
+      "definition": "1. To fight with someone by grappling and attempting to throw them to the ground, as a sport.; 2. To struggle hard with a difficulty or problem.",
+      "example": [
+        {
+          "eng": "The two athletes began to wrestle for control in the center of the ring.",
+          "ch": "兩名運動員在擂台中央開始角力爭奪控制權。"
+        },
+        {
+          "eng": "She had to wrestle with a difficult ethical dilemma before making her decision.",
+          "ch": "在做出決定之前，她必須與艱難的倫理困境進行掙扎。"
+        }
+      ]
+    },
+    {
+      "eng": "wrinkle",
+      "kk": "ˈrɪŋkl",
+      "tense": "n.",
+      "ch": [
+        [
+          "皺紋",
+          "褶皺"
+        ]
+      ],
+      "analysis": "此字為名詞。源自古英語 wrincle（起皺），屬日耳曼繼承詞。指皮膚因老化、表情或衣物因擠壓而產生的摺痕或紋路。",
+      "definition": "1. A small line or fold that appears on the skin, fabric, or other surfaces as a result of aging, folding, or damage.",
+      "example": [
+        {
+          "eng": "He smiled warmly, causing fine wrinkles to form around his eyes.",
+          "ch": "他溫暖地笑了笑，眼角泛起了細細的皺紋。"
+        }
+      ]
+    },
+    {
+      "eng": "wrinkle",
+      "kk": "ˈrɪŋkl",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使起皺紋",
+          "皺起（鼻子、額頭等）"
+        ]
+      ],
+      "analysis": "此字為及物動詞。為 wrinkle 的動詞用法，指使某物表面出現皺褶，或因不悅或思考而收縮臉部肌肉（如皺鼻子、皺眉頭）。",
+      "definition": "1. To make or cause to make slight lines or folds on a surface; to contract facial features into lines.",
+      "example": [
+        {
+          "eng": "She wrinkled her nose in disgust when she smelled the spoiled milk.",
+          "ch": "她聞到壞掉的牛奶時，厭惡地皺起了鼻子。"
+        }
+      ]
+    },
+    {
+      "eng": "wrinkle",
+      "kk": "ˈrɪŋkl",
+      "tense": "vi.",
+      "ch": [
+        [
+          "起皺紋",
+          "起褶子"
+        ]
+      ],
+      "analysis": "此字為不及物動詞。為 wrinkle 的自動詞用法，指衣物或皮膚自然變得有皺紋。",
+      "definition": "1. To become creased or form lines.",
+      "example": [
+        {
+          "eng": "Pure cotton clothes tend to wrinkle easily if left crumpled in the dryer.",
+          "ch": "純棉衣服如果揉成一團留在烘乾機裡，很容易起皺。"
+        }
+      ]
+    },
+    {
+      "eng": "yearn",
+      "kk": "jɜːrn",
+      "tense": "vi.",
+      "ch": [
+        [
+          "渴望",
+          "思念",
+          "嚮往"
+        ]
+      ],
+      "analysis": "此字為不及物動詞。源自古英語 giearnian（渴望、熱心），屬日耳曼繼承詞。指內心深處充滿強烈的渴望、思念或對某種理想生活的向往（通常與 for 或 to 連用）。",
+      "definition": "1. To have an intense feeling of longing for something, typically something that has been lost or is absent.",
+      "example": [
+        {
+          "eng": "After living abroad for many years, he began to yearn for his hometown food.",
+          "ch": "在國外生活多年後，他開始渴望家鄉的食物。"
+        }
+      ]
+    },
+    {
+      "eng": "yoga",
+      "kk": "ˈjoʊɡə",
+      "tense": "n.",
+      "ch": [
+        [
+          "瑜伽"
+        ]
+      ],
+      "analysis": "此字為名詞。源自梵語 yoga（本義為「連結、結合、軛」），源自詞根 yuj（連接）。原指印度傳統的身心靈修練體系，現代西方與國際社會則普遍指結合體位法（asanas）、呼吸法與冥想的現代健身與放鬆運動。",
+      "definition": "1. A Hindu spiritual and ascetic discipline, a part of which, including breath control, simple meditation, and the adoption of specific bodily postures, is widely practiced for health and relaxation.",
+      "example": [
+        {
+          "eng": "She practices yoga every morning to improve her flexibility and reduce stress.",
+          "ch": "她每天早晨練習瑜伽，以提高柔韌度並減輕壓力。"
+        }
+      ]
+    },
+    {
+      "eng": "yogurt",
+      "kk": "ˈjoʊɡərt",
+      "tense": "n.",
+      "ch": [
+        [
+          "優格",
+          "酸奶"
+        ]
+      ],
+      "analysis": "此字為名詞。借自土耳其語 yoğurt（發酵乳製品），經由中東與歐陸語言引入英語。指將牛奶經由乳酸菌發酵而成的濃稠酸味乳製品。",
+      "definition": "1. A thick, semisolid, sourish food prepared from milk fermented by added bacteria.",
+      "example": [
+        {
+          "eng": "He likes to eat a bowl of plain Greek yogurt with fresh berries for breakfast.",
+          "ch": "他喜歡早餐吃一碗加了新鮮莓果的原味希臘優格。"
+        }
+      ]
+    },
+    {
+      "eng": "zoom",
+      "kk": "zuːm",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使急升",
+          "使快速移動"
+        ]
+      ],
+      "analysis": "此字為及物動詞。為 zoom 的及物用法，通常與副詞連用（如 zoom the camera in/out），指操作鏡頭變焦或使某物急速推移。",
+      "definition": "1. To cause to move swiftly; to operate a camera lens to alter the apparent size of an image.",
+      "example": [
+        {
+          "eng": "She zoomed the lens in to capture the details of the distant mountain peak.",
+          "ch": "她拉近鏡頭以捕捉遠處山峰的細節。"
+        }
+      ]
+    },
+    {
+      "eng": "zoom",
+      "kk": "zuːm",
+      "tense": "vi.",
+      "ch": [
+        [
+          "急速移動",
+          "呼嘯而過"
+        ],
+        [
+          "（價格、數量等）急遽飆升"
+        ],
+        [
+          "（相機鏡頭）拉近或拉遠（zoom in/out）"
+        ]
+      ],
+      "analysis": "此字為不及物動詞。為模擬聲音的擬聲詞（onomatopoeia），最初指飛機快速爬升或飛行時發出的低沉嗡嗡聲或呼嘯聲。現代引申泛指任何事物「飛速移動」、數據或價格「暴漲」，以及光學或數位相機鏡頭的「變焦拉近拉遠」。",
+      "definition": "1. To move quickly with a low-pitched humming or buzzing sound; to travel very fast.; 2. (Of a price, value, or quantity) to rise sharply and suddenly.; 3. (Of a camera lens) to change the focal length to make the subject appear closer or further away.",
+      "example": [
+        {
+          "eng": "A sports car zoomed past us on the highway at an incredible speed.",
+          "ch": "一輛跑車以驚人的速度在高速公路上呼嘯而過。"
+        },
+        {
+          "eng": "House prices in the downtown area continue to zoom upward.",
+          "ch": "市中心的房價持續急遽飆升。"
+        },
+        {
+          "eng": "The photographer zoomed in on the bird's nest to get a clear shot.",
+          "ch": "攝影師將鏡頭拉近鳥巢以便拍出清晰的照片。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1339 @@
+{
+  "level": 5,
+  "chunkIndex": 1,
+  "inputs": [
+    "abnormal",
+    "abolish",
+    "abortion",
+    "abrupt",
+    "absurd",
+    "abundant",
+    "abuse",
+    "accelerate",
+    "accessible",
+    "accommodate",
+    "accommodation",
+    "accord",
+    "accounting",
+    "acknowledge",
+    "acknowledgement",
+    "acquaint",
+    "acquisition",
+    "activist",
+    "acute",
+    "administration",
+    "administrative",
+    "administrator",
+    "adolescent",
+    "adore",
+    "adverse",
+    "advocate",
+    "affection",
+    "agenda",
+    "aggression",
+    "agony",
+    "agricultural",
+    "aisle",
+    "alcoholic",
+    "alien",
+    "allergic",
+    "allergy",
+    "alliance",
+    "allocate",
+    "ally",
+    "alongside",
+    "alter",
+    "alternate",
+    "amend",
+    "ample",
+    "analyst",
+    "anonymous",
+    "anticipate",
+    "antique",
+    "applause",
+    "appliance"
+  ],
+  "rows": [
+    {
+      "eng": "abnormal",
+      "kk": "/æbˈnɔːrməl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "不正常的",
+          "異常的"
+        ],
+        [
+          "畸形的",
+          "變態的"
+        ]
+      ],
+      "analysis": "此字為現代透明構詞，由否定字首 ab-（離開、偏離）結合形容詞 normal（正常的，源自拉丁語 normalis，本義指合乎矩尺的）組成。字面意即「偏離正常的」，語意自原始的「離開常態」演變為現代泛指各種行為、狀態或數據偏離一般標準的意義。",
+      "definition": "1. deviating from what is normal, typical, or expected; 2. not conforming to standard or natural types, often in a way that is worrisome or unhealthy.",
+      "example": [
+        {
+          "eng": "The test results showed abnormal levels of sugar in his blood.",
+          "ch": "檢測結果顯示他血液中的糖分含量異常。"
+        },
+        {
+          "eng": "The infant was born with an abnormal spinal development.",
+          "ch": "這名嬰兒出生時脊椎發育畸形。"
+        }
+      ]
+    },
+    {
+      "eng": "abolish",
+      "kk": "/əˈbɑːlɪʃ/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "廢除",
+          "廢止",
+          "取消"
+        ]
+      ],
+      "analysis": "此字源自拉丁語 abolere（毀壞、消滅、廢除），由字首 ab-（遠離、剝離）與 olere（生長、發出氣味，引申為繁衍或存在）複合而成。字面本義為「使其停止生長或存在」，歷史演變至現代專門指正式且永久地廢除法律、制度、習俗或組織。",
+      "definition": "1. to officially end or stop a law, system, practice, or institution.",
+      "example": [
+        {
+          "eng": "The government decided to abolish the outdated tax law.",
+          "ch": "政府決定廢除這項過時的稅法。"
+        }
+      ]
+    },
+    {
+      "eng": "abortion",
+      "kk": "/əˈbɔːrʃn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "人工流產",
+          "墮胎"
+        ],
+        [
+          "失敗",
+          "夭折"
+        ]
+      ],
+      "analysis": "源自拉丁語 abortio（流產、早產），由動詞 aboriri（流產、夭折，由 ab- 離開 + oriri 升起、誕生）衍生而來。語意從古典拉丁語的廣義「夭折、流產」演變出兩大現代用法：一是醫療與法律脈絡下的人工流產或自然流產；二是比喻計畫、方案等中途流產或宣告失敗。",
+      "definition": "1. the deliberate termination of a human pregnancy, most often performed during the first 28 weeks of pregnancy; 2. the premature cessation or failure of a plan or process.",
+      "example": [
+        {
+          "eng": "The clinic provides safe and legal abortion services.",
+          "ch": "這家診所提供安全且合法的墮胎服務。"
+        },
+        {
+          "eng": "Technical difficulties led to the abortion of the rocket launch.",
+          "ch": "技術困難導致火箭發射計畫夭折。"
+        }
+      ]
+    },
+    {
+      "eng": "abrupt",
+      "kk": "/əˈbrʌpt/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "突然的",
+          "意外的"
+        ],
+        [
+          "生硬的",
+          "唐突的"
+        ]
+      ],
+      "analysis": "源自拉丁語 abruptus（陡峭的、斷開的），為動詞 abrumpere（折斷、扯開）的過去分詞，由 ab-（離開、加強）與 rumpere（打破、折斷）複合而成。字面本義為「被斷開的」，引申出地形上的「陡峭如斷崖」，再進一步演變出時間或行為上的「毫無預警、突然的」，以及語氣態度上的「生硬、唐突」。",
+      "definition": "1. sudden and unexpected, often unpleasant; 2. speaking or acting in a hurried, ungracious, and overly blunt manner.",
+      "example": [
+        {
+          "eng": "The bus came to an abrupt stop, throwing passengers forward.",
+          "ch": "公車突然急煞，把乘客向前拋去。"
+        },
+        {
+          "eng": "His abrupt reply left everyone at the table feeling awkward.",
+          "ch": "他生硬的回答讓桌上的每個人都感到尷尬。"
+        }
+      ]
+    },
+    {
+      "eng": "absurd",
+      "kk": "/əbˈsɜːrd/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "荒謬的",
+          "荒唐的",
+          "不合理的"
+        ]
+      ],
+      "analysis": "源自拉丁語 absurdus（不合調的、刺耳的、荒謬的），由 ab-（加強語氣或偏離）與 surdus（聾的、沉悶的、聽不見的）複合而成。字面本義為「聲音不和諧或走音」，在拉丁語中逐漸引申為「不合邏輯的、荒謬的」，透過文藝復興時期進入英語，保留了現代指違背常理或荒唐可笑的語意。",
+      "definition": "1. wildly unreasonable, illogical, or inappropriate, to the point of being ridiculous.",
+      "example": [
+        {
+          "eng": "It is absurd to expect everyone to agree on such a complex issue.",
+          "ch": "期望每個人對如此複雜的議題都達成一致是荒謬的。"
+        }
+      ]
+    },
+    {
+      "eng": "abundant",
+      "kk": "/əˈbʌndənt/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "豐富的",
+          "大量的",
+          "充裕的"
+        ]
+      ],
+      "analysis": "源自拉丁語 abundans（現分詞），源自動詞 abundare（滔滔不絕、溢出），由 ab-（加強語氣）與 undare（波浪起伏、湧現，源自 unda 波浪）複合而成。字面本義為「如波濤般湧出、滿溢」，演變為現代指資源、供應或特質極其豐富、充裕。",
+      "definition": "1. existing or available in large quantities; overflowing.",
+      "example": [
+        {
+          "eng": "The region has abundant natural resources, including oil and gas.",
+          "ch": "該地區擁有豐富的自然資源，包括石油和天然氣。"
+        }
+      ]
+    },
+    {
+      "eng": "abuse",
+      "kk": "/əˈbjuːs/",
+      "tense": "n.",
+      "ch": [
+        [
+          "濫用",
+          "妄用"
+        ],
+        [
+          "虐待",
+          "暴力相向"
+        ],
+        [
+          "辱罵",
+          "惡言"
+        ]
+      ],
+      "analysis": "源自拉丁語 abusus（使用不當），由 ab-（錯誤、反向）與 uti（使用）複合而成的名詞。與動詞 abuse 同形，但在名詞脈絡下發展出具體的三大現代語義：權力或資源的濫用、對人身或精神的虐待，以及言語上的辱罵。",
+      "definition": "1. the improper use of something, such as power or substances; 2. cruel and violent treatment of a person or animal; 3. extremely insulting or abusive language.",
+      "example": [
+        {
+          "eng": "The investigation uncovered systemic corruption and abuse of power.",
+          "ch": "調查揭露了系統性腐敗與濫用權力。"
+        },
+        {
+          "eng": "She suffered years of physical and emotional abuse from her partner.",
+          "ch": "她遭受伴侶多年來的身體與精神虐待。"
+        },
+        {
+          "eng": "The referee faced verbal abuse from angry fans after the match.",
+          "ch": "裁判在賽後遭到憤怒球迷的言語辱罵。"
+        }
+      ]
+    },
+    {
+      "eng": "abuse",
+      "kk": "/əˈbjuːz/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "濫用",
+          "妄用"
+        ],
+        [
+          "虐待",
+          "傷害"
+        ],
+        [
+          "辱罵",
+          "惡言相向"
+        ]
+      ],
+      "analysis": "源自拉丁語 abusus（動詞 abuti 的過去分詞，意為誤用、濫用），由 ab-（錯誤、不當）與 uti（使用）結合而成。動詞用法對應名詞，同樣涵蓋實質使用錯誤、對生物施以虐待以及言語攻擊等行為。",
+      "definition": "1. to use something to bad effect or for a bad purpose; 2. to treat with cruelty or violence, especially regularly or repeatedly; 3. to speak to someone with rude, offensive, or insulting words.",
+      "example": [
+        {
+          "eng": "Officials who abuse their authority will be prosecuted.",
+          "ch": "濫用職權的官員將遭到起訴。"
+        },
+        {
+          "eng": "The suspect admitted to neglecting and abusing his pets.",
+          "ch": "嫌犯坦承疏忽並虐待他的寵物。"
+        },
+        {
+          "eng": "The disgruntled customer began to threaten and abuse the staff.",
+          "ch": "這名不滿的顧客開始恐嚇並辱罵員工。"
+        }
+      ]
+    },
+    {
+      "eng": "accelerate",
+      "kk": "/ækˈseləreɪt/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "加速",
+          "促進",
+          "使加快"
+        ]
+      ],
+      "analysis": "源自拉丁語 acceleratus（過去分詞），動詞源自 accelerare，由 ad-（朝向、加強，因同化變為 ac-）與 celerare（使快，源自 celer 迅速的）複合而成。字面意思是「使速度朝更快發展」，現代用作及物動詞，指使進程、速度或物理移動加快。",
+      "definition": "1. to cause to move faster or happen sooner; to increase the speed or rate of something.",
+      "example": [
+        {
+          "eng": "The government adopted new measures to accelerate economic growth.",
+          "ch": "政府採取了新措施以加速經濟成長。"
+        }
+      ]
+    },
+    {
+      "eng": "accessible",
+      "kk": "/əkˈsesəbl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "易接近的",
+          "可進入的"
+        ],
+        [
+          "易懂的",
+          "平易近人的"
+        ]
+      ],
+      "analysis": "源自中世紀拉丁語 accessibilis，由拉丁語 accedere（接近、進入，由 ad- + cedere 行走）結合形容詞字尾 -ibilis（可…的）構成。字面意即「可以接近或進入的」，引申出物理空間的無障礙與易到達，以及資訊或藝術作品的平易近人、容易理解。",
+      "definition": "1. able to be reached or entered; easy to obtain or use; 2. easy to understand, appreciate, or interact with.",
+      "example": [
+        {
+          "eng": "The museum is fully accessible to wheelchair users.",
+          "ch": "這家博物館對輪椅使用者完全無障礙。"
+        },
+        {
+          "eng": "The author writes about complex philosophy in an accessible style.",
+          "ch": "這位作家以平易近人的筆調寫作複雜的哲學。"
+        }
+      ]
+    },
+    {
+      "eng": "accommodate",
+      "kk": "/əˈkɑːmədeɪt/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "容納",
+          "為…提供住所"
+        ],
+        [
+          "順應",
+          "迎合",
+          "提供方便"
+        ]
+      ],
+      "analysis": "源自拉丁語 accommodatus（過去分詞），源自動詞 accommodare，由 ad-（朝向、加強，變為 ac-）與 commodus（適當的、便利的，源自 modus 尺度、方式）複合而成。字面意思是「使之合適、調整以適應」，演變出提供空間以「容納」人員，以及在行為或條件上「順應、迎合、提供協助」的語義。",
+      "definition": "1. to provide lodging or sufficient space for; 2. to fit in with the wishes or needs of; to adapt oneself to a new situation.",
+      "example": [
+        {
+          "eng": "The new convention center can accommodate up to 5,000 delegates.",
+          "ch": "這座新會議中心最多可容納 5,000 名代表。"
+        },
+        {
+          "eng": "The hotel went out of its way to accommodate our special requests.",
+          "ch": "這家飯店想方設法滿足我們的特殊要求。"
+        }
+      ]
+    },
+    {
+      "eng": "accommodation",
+      "kk": "/əˌkɑːməˈdeɪʃn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "住宿",
+          "膳宿"
+        ],
+        [
+          "協議",
+          "調解",
+          "妥協"
+        ]
+      ],
+      "analysis": "由動詞 accommodate 加上名詞字尾 -ion 構成。在語義上發展出兩大方向：一是提供給旅客居住的旅館、房間等「住宿」設施（複數形常見）；二是雙方或多方透過退讓與協調達成的「妥協」或「協議」。",
+      "definition": "1. a place to live, work, or stay in; lodging; 2. a convenient arrangement; a formal settlement or compromise between conflicting parties.",
+      "example": [
+        {
+          "eng": "The tour price includes flights, meals, and hotel accommodation.",
+          "ch": "團費包含機票、餐食與飯店住宿。"
+        },
+        {
+          "eng": "The two countries finally reached an accommodation over the border dispute.",
+          "ch": "兩國終於就邊界爭端達成妥協協議。"
+        }
+      ]
+    },
+    {
+      "eng": "accord",
+      "kk": "/əˈkɔːrd/",
+      "tense": "n.",
+      "ch": [
+        [
+          "協議",
+          "條約"
+        ],
+        [
+          "一致",
+          "調和"
+        ]
+      ],
+      "analysis": "源自古法語 accorder，最終源自拉丁語 ad-（朝向）與 cor（心臟），字面本義為「心心相印、心意相通」。名詞用法主要指雙方達成的正式「協議」或意見的「一致、符合」。",
+      "definition": "1. an official treaty or agreement between countries or groups; 2. harmony or agreement of opinions, or actions.",
+      "example": [
+        {
+          "eng": "The two rival nations signed a historic peace accord.",
+          "ch": "這兩個敵對國家簽署了歷史性的和平協議。"
+        },
+        {
+          "eng": "Her actions were in full accord with company policy.",
+          "ch": "她的行為完全符合公司政策。"
+        }
+      ]
+    },
+    {
+      "eng": "accounting",
+      "kk": "/əˈkaʊntɪŋ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "會計學",
+          "會計工作"
+        ],
+        [
+          "說明",
+          "結算",
+          "責任交代"
+        ]
+      ],
+      "analysis": "由動詞 account（計算、說明，源自拉丁語 computare，經古法語演變）加上動名詞字尾 -ing 構成。指記錄、分類及彙總財務交易的專業領域（會計學），亦可引申為對某事物的交代或說明。",
+      "definition": "1. the profession or system of keeping, auditing, and inspecting financial records; 2. an act of giving an account or explanation of one's actions.",
+      "example": [
+        {
+          "eng": "She is studying accounting at the university.",
+          "ch": "她正在大學修讀會計學。"
+        },
+        {
+          "eng": "Politicians must give a public accounting of how they spend taxpayers' money.",
+          "ch": "政治人物必須公開交代他們如何花納稅人的錢。"
+        }
+      ]
+    },
+    {
+      "eng": "acknowledge",
+      "kk": "/əkˈnɑːlɪdʒ/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "承認",
+          "認可"
+        ],
+        [
+          "致謝",
+          "對…表示感謝"
+        ],
+        [
+          "告知收到"
+        ]
+      ],
+      "analysis": "由中古英語 acknowledge 複合而成，結合字首 a-（受 acknowledge 前身 Middle English acknowen 的影響）與 knowledge（知識、認知，源自古英語 cnāwan 知道）。字面意思是「使其進入認知中」，演變出現代承認事實、對貢獻或信件表示感謝與確認收到的用法。",
+      "definition": "1. to accept or admit the existence, truth, or validity of something; 2. to express gratitude or appreciation for; 3. to report the receipt of something.",
+      "example": [
+        {
+          "eng": "The politician refused to acknowledge his mistakes during the interview.",
+          "ch": "這位政治人物在採訪中拒絕承認自己的錯誤。"
+        },
+        {
+          "eng": "The author took a moment to acknowledge the help of his editors.",
+          "ch": "作者花了一些時間感謝編輯們的協助。"
+        },
+        {
+          "eng": "Please reply to this email to acknowledge receipt.",
+          "ch": "請回覆這封電子郵件以確認收到。"
+        }
+      ]
+    },
+    {
+      "eng": "acknowledgement",
+      "kk": "/əkˈnɑːlɪdʒmənt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "承認",
+          "認可"
+        ],
+        [
+          "感謝",
+          "致謝"
+        ],
+        [
+          "回音",
+          "收到之確認"
+        ]
+      ],
+      "analysis": "由動詞 acknowledge 加上名詞字尾 -ment 構成。拼字上常見 acknowledge 變體或省略 e。對應動詞的語義，指對事實的承認、對他人付出的謝意，或對信件、檔案收到的回條與確認。",
+      "definition": "1. the act of accepting or admitting that something is true or exists; 2. a gesture or expression of gratitude; 3. a message confirming receipt of something.",
+      "example": [
+        {
+          "eng": "His resignation was seen as an acknowledgement of failure.",
+          "ch": "他的辭職被視為對失敗的承認。"
+        },
+        {
+          "eng": "The book includes an acknowledgement section thanking his family.",
+          "ch": "該書包含致謝專區，感謝他的家人。"
+        },
+        {
+          "eng": "We received an acknowledgement of our application within minutes.",
+          "ch": "我們在幾分鐘內就收到了申請受理確認。"
+        }
+      ]
+    },
+    {
+      "eng": "acquaint",
+      "kk": "/əˈkweɪnt/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使熟悉",
+          "使了解",
+          "使認識"
+        ]
+      ],
+      "analysis": "源自中古英語 acointen，經由古法語 acointier，最終源自拉丁語 adcognitare（使知道），由 ad-（朝向）與 cognoscere（知道、認識）複合而成。字面意思是「使某人與某事物相識或建立認知」，現代常用於片語 acquaint oneself with（熟悉、了解）。",
+      "definition": "1. to make someone or oneself familiar with or aware of something.",
+      "example": [
+        {
+          "eng": "New employees are given time to acquaint themselves with company policies.",
+          "ch": "新進員工有時間讓自己熟悉公司的政策。"
+        }
+      ]
+    },
+    {
+      "eng": "acquisition",
+      "kk": "/ˌækwɪˈzɪʃn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "獲得",
+          "取得"
+        ],
+        [
+          "收購（的公司或物）"
+        ]
+      ],
+      "analysis": "源自拉丁語 acquisitio，由動詞 acquirere（獲得、取得，由 ad- + quaerere 尋找、獲取）的過去分詞詞幹衍生出名詞字尾 -itio。字面意思是「獲得的行動或成果」，現代廣泛應用於知識、語言技能的習得，以及商業領域中公司對其他企業的「收購」。",
+      "definition": "1. the learning or developing of a skill, habit, or quality; 2. an asset or object bought or obtained, or the corporate action of buying another company.",
+      "example": [
+        {
+          "eng": "Early childhood is a critical period for language acquisition.",
+          "ch": "幼兒期是語言習得的關鍵期。"
+        },
+        {
+          "eng": "The tech giant announced a major acquisition of a smaller software startup.",
+          "ch": "這家科技巨頭宣布收購一家小型軟體新創公司。"
+        }
+      ]
+    },
+    {
+      "eng": "activist",
+      "kk": "/ˈæktɪvɪst/",
+      "tense": "n.",
+      "ch": [
+        [
+          "激進主義分子",
+          "行動主義者",
+          "社會運動者"
+        ]
+      ],
+      "analysis": "由形容詞 active（積極的，源自拉丁語 activus，源自 actus 行動）加上名詞字尾 -ist（從事…者）複合而成。20 世紀初開始流行，指積極投入社會或政治運動、推動變革的人士。",
+      "definition": "1. a person who campaigns to bring about political or social change, especially by active public protest.",
+      "example": [
+        {
+          "eng": "Environmental activists protested outside the summit venue.",
+          "ch": "環保激進分子在高峰會場外抗議。"
+        }
+      ]
+    },
+    {
+      "eng": "acute",
+      "kk": "/əˈkjuːt/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "嚴重的",
+          "劇烈的"
+        ],
+        [
+          "急性的（醫療）"
+        ],
+        [
+          "敏銳的",
+          "精明的"
+        ]
+      ],
+      "analysis": "源自拉丁語 acutus（尖銳的、鋒利的），為 acuere（磨尖，源自 acus 針）的過去分詞。字面意思是「尖的、銳利的」，在歷史演變中延伸出多個隱喻用法：物理上的尖銳、醫學上的「急性病」（與慢性相對）、感官或智力的「敏銳、精明」，以及情勢的「嚴重、緊迫」。",
+      "definition": "1. (of a situation or problem) present or experienced to a severe or intense degree; 2. (of a medical condition) severe and sudden in onset; 3. having or showing a perceptive understanding or insight.",
+      "example": [
+        {
+          "eng": "The country is facing an acute shortage of clean water.",
+          "ch": "該國正面臨嚴重的淨水短缺。"
+        },
+        {
+          "eng": "She was rushed to the hospital with acute appendicitis.",
+          "ch": "她因急性闌尾炎被緊急送往醫院。"
+        },
+        {
+          "eng": "He has an acute eye for detail in graphic design.",
+          "ch": "他在平面設計上有敏銳的細節觀察力。"
+        }
+      ]
+    },
+    {
+      "eng": "administration",
+      "kk": "/ədˌmɪnɪˈstreɪʃn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "管理",
+          "行政"
+        ],
+        [
+          "政府（執政團隊）"
+        ],
+        [
+          "施行",
+          "執行（藥物或司法）"
+        ]
+      ],
+      "analysis": "源自拉丁語 administratio，由 administrare（管理、執行，由 ad- + ministrare 服務、照料，源自 minister 僕人）演變而來。字面意思是「服侍、管理、執行」，現代演變為三大核心語義：組織或企業的管理與行政工作、國家政權的執政政府，以及醫療上的給藥或法律上的執行。",
+      "definition": "1. the process or activity of running a business, organization, or country; 2. the government in power; 3. the dispensing or application of something, such as medicine or justice.",
+      "example": [
+        {
+          "eng": "She works in human resources and business administration.",
+          "ch": "她從事人力資源與企業管理工作。"
+        },
+        {
+          "eng": "The new presidential administration announced tax cuts for the middle class.",
+          "ch": "新總統執政團隊宣布為中產階級減稅。"
+        },
+        {
+          "eng": "The administration of the vaccine requires trained medical staff.",
+          "ch": "施打疫苗需要受過訓練的醫療人員。"
+        }
+      ]
+    },
+    {
+      "eng": "administrative",
+      "kk": "/ədˈmɪnəstreɪtɪv/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "行政的",
+          "管理的"
+        ]
+      ],
+      "analysis": "由名詞 administration（或動詞 administrate）加上形容詞字尾 -ive 構成。專門用來修飾與組織、政府或機構內部日常運作、文書及管理相關的事務。",
+      "definition": "1. relating to the running of a business, organization, or nation; management-oriented.",
+      "example": [
+        {
+          "eng": "She spends most of her morning dealing with administrative tasks and emails.",
+          "ch": "她的大部分早晨都在處理行政工作和電子郵件。"
+        }
+      ]
+    },
+    {
+      "eng": "administrator",
+      "kk": "/ədˈmɪnəstreɪtər/",
+      "tense": "n.",
+      "ch": [
+        [
+          "行政人員",
+          "管理者",
+          "主管"
+        ]
+      ],
+      "analysis": "源自拉丁語 administrator（管理者、執行者），由動詞 administrare 加上表示主事者的拉丁語尾 -or 構成。指在機構、學校或政府部門中負責管理、監督或行政運作的人員。",
+      "definition": "1. a person responsible for running a business, organization, or institution.",
+      "example": [
+        {
+          "eng": "Hospital administrators are working to improve emergency room efficiency.",
+          "ch": "醫院行政主管正努力提升急診室的效率。"
+        }
+      ]
+    },
+    {
+      "eng": "adolescent",
+      "kk": "/ˌædəˈlesnt/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "青春期的",
+          "青少年時期的"
+        ]
+      ],
+      "analysis": "源自拉丁語 adolescens（現分詞，意為正在成長的青年），源自 adolescere（長大成人，由 ad- + olescere 生長、發育，與 alere 養育同源）。字面意思是「正走向成年的人」，現代用作形容詞，指介於兒童期與成年期之間的青春期狀態。",
+      "definition": "1. in the process of developing from a child into an adult; characteristic of teenagers.",
+      "example": [
+        {
+          "eng": "The study examines adolescent behavior and social media habits.",
+          "ch": "該研究檢視青少年的行為與社群媒體習慣。"
+        }
+      ]
+    },
+    {
+      "eng": "adore",
+      "kk": "/əˈdɔːr/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "愛慕",
+          "崇拜",
+          "非常喜歡"
+        ]
+      ],
+      "analysis": "源自古法語 adorer，最終源自拉丁語 adorare（向…祈禱、崇拜），由 ad-（朝向）與 orare（祈禱、發言，源自 os 口）複合而成。字面意思是「向神明開口祈禱或頂禮膜拜」，在中世紀及近代英語中語義逐漸擴大，除宗教崇拜外，也廣泛用於日常生活中對人或物的強烈喜愛與愛慕。",
+      "definition": "1. to love and respect someone deeply; 2. to regard with the utmost love and affection, or to like something immensely.",
+      "example": [
+        {
+          "eng": "She simply adores her grandchildren and spoils them rotten.",
+          "ch": "她非常疼愛她的孫子孫女，把他們寵壞了。"
+        },
+        {
+          "eng": "I absolutely adore Italian cuisine, especially homemade pasta.",
+          "ch": "我非常喜歡義大利菜，特別是手工義大利麵。"
+        }
+      ]
+    },
+    {
+      "eng": "adverse",
+      "kk": "/ˈædvɜːrs/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "不利的",
+          "有害的",
+          "反對的"
+        ]
+      ],
+      "analysis": "源自拉丁語 adversus（面對著的、相反的、敵對的），為 advertere（轉向迎面，由 ad- + vertere 轉動）的過去分詞。字面意思是「轉向迎面而來、形成阻礙的」，演變出現代指環境、條件或影響對主體不利、有害，或指反對的立場。",
+      "definition": "1. preventing success or development; harmful; 2. acting against or in opposition to something.",
+      "example": [
+        {
+          "eng": "The flight was delayed due to adverse weather conditions.",
+          "ch": "班機因惡劣的天氣條件而延誤。"
+        },
+        {
+          "eng": "Some patients experienced adverse side effects from the new medication.",
+          "ch": "部分病患對新藥產生了不良副作用。"
+        }
+      ]
+    },
+    {
+      "eng": "advocate",
+      "kk": "/ˈædvəkeɪt/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "擁護",
+          "主張",
+          "提倡"
+        ]
+      ],
+      "analysis": "源自拉丁語 advocatus（被請來協助的人、律師），為動詞 advocare（呼叫前來協助，由 ad- + vocare 呼叫）的過去分詞。字面意思是「被呼喚來代為發聲的人」，動詞用法演變為公開支持、主張或提倡某項政策、理念或權益。",
+      "definition": "1. to publicly support or recommend a particular cause or policy.",
+      "example": [
+        {
+          "eng": "Health experts advocate a diet low in sugar and processed foods.",
+          "ch": "健康專家提倡低糖、低加工食品的飲食。"
+        }
+      ]
+    },
+    {
+      "eng": "affection",
+      "kk": "/əˈfekʃn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "愛",
+          "喜愛",
+          "溫情"
+        ]
+      ],
+      "analysis": "源自拉丁語 affectio（心境、情感、愛慕），源自動詞 afficere（對…產生影響、使動心，由 ad- + facere 做）。在中世紀與早期現代英語中，affection 曾指各種心理狀態（包括疾病或情緒波動），現代則專門收窄為對他人溫暖、深厚的愛意與喜愛之情。",
+      "definition": "1. a gentle feeling of fondness, caring, or love for someone.",
+      "example": [
+        {
+          "eng": "The rescue dog showed deep affection to its new owners.",
+          "ch": "這隻救難犬對新主人表現出深厚的喜愛。"
+        }
+      ]
+    },
+    {
+      "eng": "agenda",
+      "kk": "/əˈdʒendə/",
+      "tense": "n.",
+      "ch": [
+        [
+          "議程",
+          "待辦事項"
+        ],
+        [
+          "政治意圖",
+          "隱藏目的"
+        ]
+      ],
+      "analysis": "源自拉丁語 agenda（中性複數形式，意為「必須去做的事項」），源自動詞 agere（做、驅使）。原本在拉丁語中是複數，但在現代英語中被當作單數名詞使用，指會議中要討論的清單（議程），或引申為某人、政黨背後推動的政治目的或意圖。",
+      "definition": "1. a list of items to be discussed at a formal meeting; 2. the underlying intentions or motives of a person or group.",
+      "example": [
+        {
+          "eng": "The primary item on the meeting agenda is budget allocation for next year.",
+          "ch": "會議議程的第一要務是明年的預算分配。"
+        },
+        {
+          "eng": "Critics claim the policy has a hidden political agenda.",
+          "ch": "批評者聲稱該政策背後有隱藏的政治意圖。"
+        }
+      ]
+    },
+    {
+      "eng": "aggression",
+      "kk": "/əˈɡreʃn/",
+      "tense": "n.",
+      "ch": [
+        [
+          "侵略",
+          "攻擊（行為）"
+        ]
+      ],
+      "analysis": "源自拉丁語 aggressio（進攻、襲擊），由動詞 aggredi（前進、攻擊，由 ad- + gradi 步行、邁進）衍生而來。字面意思是「向對方邁步進逼」，現代演變為心理學或國際關係中的攻擊行為、侵略行動或敵意。",
+      "definition": "1. hostile or violent behavior or feelings toward another; assertive encroachment or military attack.",
+      "example": [
+        {
+          "eng": "The sports coach warned players against any acts of physical aggression.",
+          "ch": "體育教練警告球員不得有任何肢體攻擊行為。"
+        },
+        {
+          "eng": "The international community condemned the unprovoked military aggression.",
+          "ch": "國際社會譴責了這場無端挑起的軍事侵略。"
+        }
+      ]
+    },
+    {
+      "eng": "agony",
+      "kk": "/ˈæɡəni/",
+      "tense": "n.",
+      "ch": [
+        [
+          "極度痛苦",
+          "煎熬"
+        ]
+      ],
+      "analysis": "源自古希臘語 agōn（競技場上的比賽、爭鬥、掙扎），經由拉丁語 agonia 進入英語。希臘語原義指運動員在賽場上的全力奮鬥與掙扎，後在基督教語境中演變為耶穌在客西馬尼園的痛苦掙扎，最終在近代英語中固定為身體或精神上的極度痛苦與煎熬。",
+      "definition": "1. extreme physical or mental suffering.",
+      "example": [
+        {
+          "eng": "She writhed in agony after breaking her leg on the ski slope.",
+          "ch": "她在滑雪場摔斷腿後痛苦得蜷縮扭動。"
+        }
+      ]
+    },
+    {
+      "eng": "agricultural",
+      "kk": "/ˌæɡrɪˈkʌltʃərəl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "農業的"
+        ]
+      ],
+      "analysis": "由名詞 agriculture（農業，由拉丁語 ager 田地 + cultura 耕種、培植複合而成）加上形容詞字尾 -al 構成。專門用來修飾與農耕、農作物生產及農村經濟相關的事物。",
+      "definition": "1. relating to agriculture, farming, or the cultivation of land.",
+      "example": [
+        {
+          "eng": "The region's economy relies heavily on agricultural exports like coffee and fruit.",
+          "ch": "該地區的經濟極大程度地依賴咖啡和水果等農業出口。"
+        }
+      ]
+    },
+    {
+      "eng": "aisle",
+      "kk": "/aɪl/",
+      "tense": "n.",
+      "ch": [
+        [
+          "走道",
+          "通道"
+        ]
+      ],
+      "analysis": "源自中古英語 ile，經由古法語 aisle，最終源自拉丁語 ala（翅膀、側翼）。字面本義原本指建築物的「側廊」（因像鳥的翅膀般附在中央大廳兩側），在近代英語中因發音受 island 影響被加上了不發音的字母 s，語義也從教堂或劇院的側廊擴大到飛機、火車、超市貨架間的任何「走道、通道」。",
+      "definition": "1. a passage between rows of seats in a building such as a church or theater, or between shelves in a supermarket.",
+      "example": [
+        {
+          "eng": "Please remain in your seat and keep the aisle clear during the flight.",
+          "ch": "飛行途中請留在座位上，並保持走道暢通。"
+        },
+        {
+          "eng": "Baking supplies can be found in aisle four of the grocery store.",
+          "ch": "烘焙用品可以在雜貨店的第四走道找到。"
+        }
+      ]
+    },
+    {
+      "eng": "alcoholic",
+      "kk": "/ˌælkəˈhɑːlɪk/",
+      "tense": "n.",
+      "ch": [
+        [
+          "酒鬼",
+          "酗酒者",
+          "酒精成癮者"
+        ]
+      ],
+      "analysis": "由形容詞 alcoholic 轉用為名詞，指長期且無法控制地過量飲酒、對酒精產生生理與心理依賴的人。",
+      "definition": "1. a person suffering from alcoholism; a chronic, compulsive drinker.",
+      "example": [
+        {
+          "eng": "He joined a support group to help him recover as a recovering alcoholic.",
+          "ch": "他加入支持團體，以協助自己作為一名康復中的酗酒者重獲新生。"
+        }
+      ]
+    },
+    {
+      "eng": "alien",
+      "kk": "/ˈeɪliən/",
+      "tense": "n.",
+      "ch": [
+        [
+          "外國人",
+          "僑民"
+        ],
+        [
+          "外星人"
+        ]
+      ],
+      "analysis": "由形容詞 alien 轉用為名詞。在法律與官方語境中指非本國籍的居民或僑民（alien resident），在流行文化中則專門指來自外太空的智慧生物（外星人）。",
+      "definition": "1. a foreigner, especially one who is not a citizen of the country in which they are living; 2. a hypothetical or fictional being from another world.",
+      "example": [
+        {
+          "eng": "The immigration law sets clear guidelines for resident aliens.",
+          "ch": "移民法對外籍居民訂定了明確的指導方針。"
+        },
+        {
+          "eng": "The spaceship in the movie carried a hostile alien.",
+          "ch": "電影中的太空船載著一個帶有敵意的外星人。"
+        }
+      ]
+    },
+    {
+      "eng": "alien",
+      "kk": "/ˈeɪliən/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "外國的",
+          "異國的"
+        ],
+        [
+          "異質的",
+          "格格不入的"
+        ],
+        [
+          "外星的"
+        ]
+      ],
+      "analysis": "源自古法語 alien，最終源自拉丁語 alienus（屬於別人的、陌生的），源自 alius（其他的）。字面意思是「屬於他人的、不屬於這裡的」，歷史演變出法律上的「外國的/非本國公民的」、文化或心理上的「格格不入、陌生異質的」，以及科幻脈絡下的「外星的」。",
+      "definition": "1. belonging to a foreign country or nation; 2. unfamiliar and disturbing or distasteful; 3. relating to creatures from another planet.",
+      "example": [
+        {
+          "eng": "Moving to a new continent felt like adapting to an alien culture.",
+          "ch": "搬到新大陸感覺就像是在適應一種異國文化。"
+        },
+        {
+          "eng": "The strict corporate rules felt completely alien to the creative team.",
+          "ch": "嚴格的公司規章讓創意團隊感到格格不入。"
+        },
+        {
+          "eng": "Sci-fi movies often depict humanity encountering alien life forms.",
+          "ch": "科幻電影經常描繪人類遭遇外星生命形式。"
+        }
+      ]
+    },
+    {
+      "eng": "allergic",
+      "kk": "/əˈlɜːrdʒɪk/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "過敏的"
+        ],
+        [
+          "對…極度反感的（比喻）"
+        ]
+      ],
+      "analysis": "由名詞 allergy 加上形容詞字尾 -ic 構成。醫學上指身體對特定物質（如花粉、花生、藥物）產生過敏反應的狀態，日常生活中也常以比喻義表示「極度討厭、避之唯恐不及」。",
+      "definition": "1. having an allergy or hypersensitivity to a particular substance; 2. (informal) showing a strong dislike or aversion to something.",
+      "example": [
+        {
+          "eng": "He is severely allergic to peanuts and carries an epipen.",
+          "ch": "他對花生嚴重過敏，隨身攜帶自動注射器。"
+        },
+        {
+          "eng": "She is allergic to hard work and tries to avoid overtime whenever possible.",
+          "ch": "她對辛苦工作極度反感，只要有可能就盡量避免加班。"
+        }
+      ]
+    },
+    {
+      "eng": "allergy",
+      "kk": "/ˈælərdʒi/",
+      "tense": "n.",
+      "ch": [
+        [
+          "過敏",
+          "過敏反應"
+        ]
+      ],
+      "analysis": "現代人工合成詞，由奧地利小兒科醫師克萊門斯·馮·皮爾凱（Clemens von Pirquet）於 1906 年創造，結合古希臘語 allos（其他的、不同的）與 ergon（工作、反應）組合而成。本義指免疫系統對外來物質產生異常的過敏反應。",
+      "definition": "1. a damaging immune response by the body to a particular substance, such as pollen, fur, ragweed, or certain foods.",
+      "example": [
+        {
+          "eng": "Springtime often triggers severe allergies for people with hay fever.",
+          "ch": "春季經常會引發花粉熱患者的嚴重過敏。"
+        }
+      ]
+    },
+    {
+      "eng": "alliance",
+      "kk": "/əˈlaɪəns/",
+      "tense": "n.",
+      "ch": [
+        [
+          "同盟",
+          "結盟",
+          "聯盟"
+        ]
+      ],
+      "analysis": "由動詞 ally 加上名詞字尾 -ance 構成，經由中古英語與古法語演變而來。指國家、政黨、企業或個人為了共同利益而建立的正式結盟與合作關係。",
+      "definition": "1. a union or association formed for mutual benefit, especially between countries or organizations.",
+      "example": [
+        {
+          "eng": "The two retail giants formed a strategic alliance to boost online sales.",
+          "ch": "這兩家零售巨頭結成戰略聯盟以推動線上銷售。"
+        }
+      ]
+    },
+    {
+      "eng": "allocate",
+      "kk": "/ˈæləkeɪt/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "分配",
+          "分派",
+          "撥出（資金、資源）"
+        ]
+      ],
+      "analysis": "源自中世紀拉丁語 allocat-（分派、指定），動詞源自 allocare，由 ad-（朝向）與 locare（放置、安置，源自 locus 地方）複合而成。字面意思是「將某物放置在特定地方或指定給某人」，演變出現代分派任務、撥發預算或分配資源的專業用詞。",
+      "definition": "1. to distribute resources or duties for a particular purpose.",
+      "example": [
+        {
+          "eng": "The city council voted to allocate more funds for public park maintenance.",
+          "ch": "市議會投票決定撥發更多資金用於公園維護。"
+        }
+      ]
+    },
+    {
+      "eng": "ally",
+      "kk": "/ˈælaɪ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "盟友",
+          "同盟國",
+          "支持者"
+        ]
+      ],
+      "analysis": "源自古法語 alier，最終源自拉丁語 alligare（綁在一起，由 ad- + ligare 捆綁）。名詞指在戰爭、政治或商業合作中結成的盟友、同盟國或堅定支持者。",
+      "definition": "1. a state, organization, or person formally cooperating with another for a military or other purpose.",
+      "example": [
+        {
+          "eng": "During the war, the country fought alongside its traditional allies.",
+          "ch": "戰爭期間，該國與其傳統盟友並肩作戰。"
+        }
+      ]
+    },
+    {
+      "eng": "ally",
+      "kk": "/əˈlaɪ/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使結盟",
+          "與…聯合"
+        ]
+      ],
+      "analysis": "動詞用法同樣源自拉丁語 alligare（捆綁）。指國家、團體或個人使自己與另一方結成同盟或加入陣營（常與 with 併用）。",
+      "definition": "1. to combine or unite a group or oneself with another for a common purpose.",
+      "example": [
+        {
+          "eng": "The smaller political party decided to ally with the major opposition.",
+          "ch": "小黨決定與主要反對黨結盟。"
+        }
+      ]
+    },
+    {
+      "eng": "alongside",
+      "kk": "/əˌlɔːŋˈsaɪd/",
+      "tense": "prep.",
+      "ch": [
+        [
+          "在…旁邊",
+          "與…並肩",
+          "與…同時並存"
+        ]
+      ],
+      "analysis": "現代透明複合詞，由介系詞 along（沿著）與名詞 side（旁邊）組合而成。字面意思是「沿著邊緣」，演變出實體空間的「在…旁邊／並排」，以及抽象層面的「與…並肩合作」或「與…並存」。",
+      "definition": "1. close to the side of; right next to; 2. together with or at the same time as.",
+      "example": [
+        {
+          "eng": "The cruise ship docked securely alongside the pier.",
+          "ch": "遊輪平穩地停泊在碼頭旁。"
+        },
+        {
+          "eng": "She worked alongside experienced engineers to design the new software.",
+          "ch": "她與經驗豐富的工程師並肩合作設計新軟體。"
+        }
+      ]
+    },
+    {
+      "eng": "alter",
+      "kk": "/ˈɔːltər/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "改變",
+          "修改",
+          "變更"
+        ]
+      ],
+      "analysis": "源自中古英語 alteren，經由中世紀拉丁語 alterare，最終源自拉丁語 alter（另外一個、兩個中的一個）。字面意思是「變成另一個樣子」，演變出現代指外貌、計劃、衣服尺寸或性質的改變與修改。",
+      "definition": "1. to change or cause to change in character, composition, size, or structure.",
+      "example": [
+        {
+          "eng": "The tailor had to alter the wedding dress to fit her perfectly.",
+          "ch": "裁縫師不得不修改這件婚紗，好讓它完美合身。"
+        }
+      ]
+    },
+    {
+      "eng": "alternate",
+      "kk": "/ˈɔːltərneɪt/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "使交替",
+          "使輪流"
+        ]
+      ],
+      "analysis": "源自拉丁語 alternatus（過去分詞），源自動詞 alternare，源自 alter（另一個）。字面意思是「在兩個事物之間輪流切換」，動詞用來指兩件事物或活動交替進行。",
+      "definition": "1. to cause two things to happen or appear in turn repeatedly.",
+      "example": [
+        {
+          "eng": "The instructor advised us to alternate between high-intensity running and walking.",
+          "ch": "教練建議我們在高強度跑步與走路之間交替進行。"
+        }
+      ]
+    },
+    {
+      "eng": "alternate",
+      "kk": "/ˈɔːltərnət/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "交替的",
+          "輪流的"
+        ],
+        [
+          "替代的",
+          "備用的"
+        ]
+      ],
+      "analysis": "源自同一拉丁語源的形容詞形式。在現代英語中除了解釋為「交替發生的」（如 alternate days 隔日），也廣泛引申為常規方案之外的「替代方案、備用的」。",
+      "definition": "1. occurring in turn; successive; 2. (of one of two things) available as another possibility or choice; alternative.",
+      "example": [
+        {
+          "eng": "The committee proposed an alternate plan in case the budget is rejected.",
+          "ch": "委員會提出了萬一預算遭否決的備用計畫。"
+        }
+      ]
+    },
+    {
+      "eng": "amend",
+      "kk": "/əˈmend/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "修正",
+          "修改",
+          "修訂（法律、法案）"
+        ]
+      ],
+      "analysis": "源自古法語 amender，最終源自拉丁語 emendare（糾正缺點、去除瑕疵），由 ex-（出、移除）與 mendum（缺點、錯誤）複合而成。字面意思是「去除錯誤與瑕疵」，在現代英語中專門用於正式文本、法律條文或合約的修改與增補。",
+      "definition": "1. to make minor changes to a text, law, or document in order to make it fairer or more accurate.",
+      "example": [
+        {
+          "eng": "Parliament voted to amend the constitution to protect consumer rights.",
+          "ch": "國會投票通過修改憲法以保障消費者權益。"
+        }
+      ]
+    },
+    {
+      "eng": "ample",
+      "kk": "/ˈæmpl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "充足的",
+          "豐富的",
+          "寬敞的"
+        ]
+      ],
+      "analysis": "源自古法語 ample，最終源自拉丁語 amplus（寬廣的、豐盛的）。字面意思是「空間廣闊的或數量充裕的」，現代泛指時間、空間或資源充裕有餘。",
+      "definition": "1. enough or more than enough; plentiful; 2. large in size, capacity, or extent.",
+      "example": [
+        {
+          "eng": "We arrived early, so we had ample time to look around the museum.",
+          "ch": "我們到得很早，所以有充裕的時間參觀博物館。"
+        }
+      ]
+    },
+    {
+      "eng": "analyst",
+      "kk": "/ˈænəlɪst/",
+      "tense": "n.",
+      "ch": [
+        [
+          "分析師",
+          "分析家"
+        ]
+      ],
+      "analysis": "現代透明構詞，由名詞 analysis（分析，源自古希臘語 analysis 解構）加上表示人的字尾 -ist 構成。專門指在金融、情報、政治或商業領域中從事數據收集與分析的專家。",
+      "definition": "1. a person who breaks down complex data or situations to provide professional analysis or advice.",
+      "example": [
+        {
+          "eng": "Financial analysts predict a steady rise in stock prices next quarter.",
+          "ch": "金融分析師預測下季股價將穩步上升。"
+        }
+      ]
+    },
+    {
+      "eng": "anonymous",
+      "kk": "/əˈnɑːnɪməs/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "匿名的",
+          "不知名的"
+        ]
+      ],
+      "analysis": "源自晚期拉丁語 anonymus，借自古希臘語 anonymos，由 a-（否定字首，無、不）與 onyma（ionic 希臘語方言中的 onoma，意為名字）複合而成。字面意思是「沒有名字的」，歷經數世紀保留至今，專指作者或捐贈者身分不公開的匿名狀態。",
+      "definition": "1. (of a person or written work) not identified by name; of unknown authorship.",
+      "example": [
+        {
+          "eng": "A generous anonymous donor contributed millions of dollars to the hospital.",
+          "ch": "一位慷慨的匿名捐款者向醫院捐贈了數百萬美元。"
+        }
+      ]
+    },
+    {
+      "eng": "anticipate",
+      "kk": "/ænˈtɪsɪpeɪt/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "預料",
+          "預期"
+        ],
+        [
+          "預先做準備",
+          "先發制人"
+        ]
+      ],
+      "analysis": "源自拉丁語 anticipatus（過去分詞），源自動詞 anticipare，由 ante-（在…之前）與 capere（拿取、抓住）複合而成。字面意思是「提前抓取或搶先一步」，歷史演變出「預先料想、預期未來發生之事」，以及「預先採取行動因應」的語義。",
+      "definition": "1. to regard as probable; to expect or predict; 2. to act before someone else to prevent or prepare for something.",
+      "example": [
+        {
+          "eng": "We do not anticipate any major delays in completing the construction project.",
+          "ch": "我們預期完成該營建專案不會有任何重大延誤。"
+        },
+        {
+          "eng": "She anticipated her boss's needs and prepared the report in advance.",
+          "ch": "她預先料到老闆的需求並提前準備好了報告。"
+        }
+      ]
+    },
+    {
+      "eng": "antique",
+      "kk": "/ænˈtiːk/",
+      "tense": "n.",
+      "ch": [
+        [
+          "古董",
+          "古玩"
+        ]
+      ],
+      "analysis": "由形容詞 antique 轉用為名詞，指歷史悠久、具備藝術或收藏價值的器物、家具或藝術品。",
+      "definition": "1. a collectible object such as a piece of furniture or work of art that has a high value because of its considerable age.",
+      "example": [
+        {
+          "eng": "She loves visiting weekend flea markets to hunt for rare antiques.",
+          "ch": "她喜歡逛週末跳蚤市場尋找稀有古董。"
+        }
+      ]
+    },
+    {
+      "eng": "applause",
+      "kk": "/əˈplɔːz/",
+      "tense": "n.",
+      "ch": [
+        [
+          "掌聲",
+          "喝彩",
+          "讚許"
+        ]
+      ],
+      "analysis": "源自拉丁語 applausus（鼓掌、喝彩），由動詞 applaudere（拍手喝彩，由 ad- + plaudere 鼓掌、拍手）衍生而來。字面意思是「拍手表示讚賞」，演變為演說、表演結束時觀眾熱烈的掌聲或公開讚許。",
+      "definition": "1. approval or praise expressed by clapping hands.",
+      "example": [
+        {
+          "eng": "The final curtain fell to a thunderous round of applause from the audience.",
+          "ch": "在大幕落下時，觀眾響起如雷的掌聲。"
+        }
+      ]
+    },
+    {
+      "eng": "appliance",
+      "kk": "/əˈplaɪəns/",
+      "tense": "n.",
+      "ch": [
+        [
+          "器具",
+          "裝置",
+          "（家用）家電"
+        ]
+      ],
+      "analysis": "由動詞 apply（應用，源自拉丁語 applicare 把…貼在…上）加上名詞字尾 -ance 構成。字面意思是「被應用於特定功能的工具或裝置」，現代日常英語中最常與 household（家用）結合，專指冰箱、洗衣機等大型或小型家用電器。",
+      "definition": "1. a device or instrument designed to perform a specific function, especially an electrical device for household use.",
+      "example": [
+        {
+          "eng": "Modern kitchen appliances like dishwashers and blenders save hours of housework.",
+          "ch": "洗碗機和果汁機等現代廚房家電節省了數小時的家務時間。"
+        }
+      ]
+    }
+  ]
+}

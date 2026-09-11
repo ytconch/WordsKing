@@ -1,0 +1,831 @@
+{
+  "level": 4,
+  "chunkIndex": 21,
+  "inputs": [
+    "vacancy",
+    "vain",
+    "vast",
+    "vegetarian",
+    "vessel",
+    "violate",
+    "violation",
+    "virtue",
+    "virus",
+    "visual",
+    "vital",
+    "voluntary",
+    "volunteer",
+    "voyage",
+    "waken",
+    "website",
+    "welfare",
+    "wink",
+    "wit",
+    "witch",
+    "wizard",
+    "withdraw",
+    "witness",
+    "workout",
+    "workplace",
+    "wreck",
+    "yawn",
+    "youthful"
+  ],
+  "rows": [
+    {
+      "eng": "vacancy",
+      "kk": "/ˈveɪkənsi/",
+      "tense": "n.",
+      "ch": [
+        [
+          "空缺",
+          "職缺",
+          "缺額"
+        ],
+        [
+          "房間空置",
+          "空房"
+        ],
+        [
+          "空白",
+          "空虛"
+        ]
+      ],
+      "analysis": "此字為名詞，對應形容詞 vacant 的抽象名詞形式。源自中古英語 vacance，透過古法語源自拉丁語 vacantia（意為空著的狀態），由拉丁語詞根 vacare（意為空出、未被佔用）加上名詞字尾 -ancy 構成。語意演變從「空無一人的狀態」延伸出「工作職缺」、「旅館空房」以及抽象的心智空虛。",
+      "definition": "1. An available job, position, or opening.; 2. An unoccupied room or accommodation in a hotel.; 3. A state of emptiness or lack of thought.",
+      "example": [
+        {
+          "eng": "There is a vacancy for an assistant manager in our department.",
+          "ch": "我們部門目前有一個助理經理的空缺。"
+        },
+        {
+          "eng": "The hotel has no vacancies left for the weekend.",
+          "ch": "這家飯店週末已經沒有空房了。"
+        },
+        {
+          "eng": "She stared into space with a look of vacant vacancy.",
+          "ch": "她茫然地看著遠方，神情空洞。"
+        }
+      ]
+    },
+    {
+      "eng": "vain",
+      "kk": "/veɪn/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "自負的",
+          "愛慕虛榮的"
+        ],
+        [
+          "徒勞的",
+          "無結果的"
+        ]
+      ],
+      "analysis": "此字為形容詞。源自古法語 vain，最終源自拉丁語 vanus（意為空的、虛無的、無價值的）。語意演變分化為兩大支：一是指對自己外表或成就過度自負的「虛榮」；二是指毫無實際效果的「徒勞」（常見於片語 in vain）。",
+      "definition": "1. Having or showing an excessively high opinion of one's appearance, abilities, or worth.; 2. Producing no result; useless or futile.",
+      "example": [
+        {
+          "eng": "He is too vain to wear reading glasses in public.",
+          "ch": "他太愛面子了，不肯在公眾面前戴老花眼鏡。"
+        },
+        {
+          "eng": "All her vain attempts to persuade him ended in failure.",
+          "ch": "她所有試圖說服他的徒勞嘗試都以失敗告終。"
+        }
+      ]
+    },
+    {
+      "eng": "vast",
+      "kk": "/væst/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "廣闊的",
+          "巨大的",
+          "浩瀚的"
+        ]
+      ],
+      "analysis": "此字為形容詞。源自拉丁語 vastus（意為空曠的、荒蕪的、巨大的），經由中古法語 vast 進入英語。核心語意為空間、面積或數量上極其巨大或廣闊。",
+      "definition": "1. Of very great extent or quantity; immense.",
+      "example": [
+        {
+          "eng": "A vast desert stretched out before the travelers.",
+          "ch": "一片浩瀚的沙漠展現在旅行者眼前。"
+        }
+      ]
+    },
+    {
+      "eng": "vegetarian",
+      "kk": "/ˌvɛdʒəˈtɛriən/",
+      "tense": "n.",
+      "ch": [
+        [
+          "素食者"
+        ]
+      ],
+      "analysis": "此字為名詞。現代透明構詞，由 vegetable（蔬菜）加上名詞字尾 -ian（表示人）結合而成，約於 19 世紀出現。指不吃肉類、僅食用植物性食物的人。",
+      "definition": "1. A person who does not eat meat, fish, or other animal products.",
+      "example": [
+        {
+          "eng": "Being a vegetarian, she always checks the ingredients on food labels.",
+          "ch": "身為素食者，她總是查看食品標籤上的成分。"
+        }
+      ]
+    },
+    {
+      "eng": "vegetarian",
+      "kk": "/ˌvɛdʒəˈtɛriən/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "素食的"
+        ]
+      ],
+      "analysis": "此字為形容詞，由名詞 vegetarian 轉用，指與素食相關的食物或飲食方式。",
+      "definition": "1. Consisting of, or relating to vegetables and foods without meat.",
+      "example": [
+        {
+          "eng": "The restaurant offers a wide selection of vegetarian dishes.",
+          "ch": "這家餐廳提供多種素食餐點選擇。"
+        }
+      ]
+    },
+    {
+      "eng": "vessel",
+      "kk": "/ˈvɛsəl/",
+      "tense": "n.",
+      "ch": [
+        [
+          "船隻",
+          "艦艇"
+        ],
+        [
+          "血管",
+          "導管"
+        ],
+        [
+          "器皿",
+          "容器"
+        ]
+      ],
+      "analysis": "此字為名詞。源自古法語 vaissel，最終源自拉丁語 vasiculum（vas「容器」的小稱形式）。語意經由「盛裝液體的容器」向外延伸，在生物學上指輸送血液的「血管」，在航海中則指大型「船隻」。",
+      "definition": "1. A ship or large boat.; 2. A tube in which a body fluid such as blood circulates.; 3. A hollow container used for holding liquids.",
+      "example": [
+        {
+          "eng": "The cargo vessel safely navigated through the stormy waters.",
+          "ch": "貨船安全地航行通過風暴海域。"
+        },
+        {
+          "eng": "Regular exercise helps keep your blood vessels clear and healthy.",
+          "ch": "規律運動有助於保持血管暢通與健康。"
+        },
+        {
+          "eng": "Ancient clay vessels were discovered at the archaeological site.",
+          "ch": "在考古遺址中發現了古代陶製器皿。"
+        }
+      ]
+    },
+    {
+      "eng": "violate",
+      "kk": "/ˈvaɪəˌleɪt/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "違反",
+          "違背",
+          "觸犯"
+        ],
+        [
+          "侵犯",
+          "擾亂"
+        ]
+      ],
+      "analysis": "此字為及物動詞。源自拉丁語 violatus（動詞 violare「侵害、強暴」的過去分詞），源自 vis（力量、暴力）。語意從「以暴力侵害」引申為「違反法律、規則」或「侵犯隱私、領域」。",
+      "definition": "1. To break or fail to comply with a law, rule, or agreement.; 2. To infringe upon or disturb someone's privacy or peace.",
+      "example": [
+        {
+          "eng": "Drivers who violate the speed limit will face heavy fines.",
+          "ch": "違反速限的駕駛將面臨重罰。"
+        },
+        {
+          "eng": "Protesters claimed that the new law would violate their civil rights.",
+          "ch": "抗議者聲稱這項新法律將侵犯他們的公民權利。"
+        }
+      ]
+    },
+    {
+      "eng": "violation",
+      "kk": "/ˌvaɪəˈleɪʃən/",
+      "tense": "n.",
+      "ch": [
+        [
+          "違反",
+          "違背"
+        ],
+        [
+          "侵犯",
+          "違法行為"
+        ]
+      ],
+      "analysis": "此字為名詞，由動詞 violate 加上名詞字尾 -ion 構成。指違反規則、法律或侵犯他人權益的行為。",
+      "definition": "1. The action of violating someone or something, or of breaking a law or rule.; 2. An instance of breaking the law or an agreement.",
+      "example": [
+        {
+          "eng": "Parking in front of a fire hydrant is a direct violation of traffic laws.",
+          "ch": "把車停在消防栓前是直接違反交通法規的行為。"
+        },
+        {
+          "eng": "She considered the invasion of her privacy to be a serious violation.",
+          "ch": "她認為侵犯她的隱私是嚴重的違法侵權行為。"
+        }
+      ]
+    },
+    {
+      "eng": "virtue",
+      "kk": "/ˈvɜːrtʃu/",
+      "tense": "n.",
+      "ch": [
+        [
+          "美德",
+          "德行"
+        ],
+        [
+          "優點",
+          "長處"
+        ],
+        [
+          "效力",
+          "憑藉"
+        ]
+      ],
+      "analysis": "此字為名詞。源自古法語 vertu，源自拉丁語 virtus（意為力量、勇氣、美德），根源於 vir（男子）。語意從古典拉丁語的「男子氣概、力量」演變為基督教倫理中的「道德美德」，再引申出事物的「優點」或介系詞片語 by virtue of 中的「憑藉」。",
+      "definition": "1. Behavior showing high moral standards; a good and moral quality.; 2. A good or useful quality of a thing or person.; 3. (In phrase 'by virtue of') Because or as a result of.",
+      "example": [
+        {
+          "eng": "Patience is considered a great virtue in teaching.",
+          "ch": "在教學中，耐心被認為是一種巨大的美德。"
+        },
+        {
+          "eng": "Every material has its own virtues and flaws.",
+          "ch": "每種材料都有其優點與缺點。"
+        },
+        {
+          "eng": "He got the position by virtue of his extensive experience.",
+          "ch": "他憑藉著豐富的經驗得到了這個職位。"
+        }
+      ]
+    },
+    {
+      "eng": "virus",
+      "kk": "/ˈvaɪrəs/",
+      "tense": "n.",
+      "ch": [
+        [
+          "病毒"
+        ],
+        [
+          "電腦病毒"
+        ]
+      ],
+      "analysis": "此字為名詞。源自拉丁語 virus（意為毒液、黏液、惡臭）。最初在英語中指傳染病的致病原，隨著科技發展，20世紀後半葉引申出「電腦病毒」的意義。",
+      "definition": "1. An infective agent that typically consists of a nucleic acid molecule in a protein coat, able to multiply only within the living cells of a host.; 2. A piece of code that is capable of copying itself and typically has a detrimental effect, such as corrupting the system or destroying data.",
+      "example": [
+        {
+          "eng": "The flu virus spreads easily during the winter months.",
+          "ch": "流感病毒在冬季容易傳播。"
+        },
+        {
+          "eng": "His computer crashed because it was infected with a malicious virus.",
+          "ch": "他的電腦因為感染惡意病毒而當機了。"
+        }
+      ]
+    },
+    {
+      "eng": "visual",
+      "kk": "/ˈvɪʒuəl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "視覺的",
+          "視力的"
+        ],
+        [
+          "形象化的",
+          "直觀的"
+        ]
+      ],
+      "analysis": "此字為形容詞。源自中世紀拉丁語 visualis，源自拉丁語 videre（意為看）。指與眼睛、視覺相關的事物，或透過圖像、影像呈現以協助理解的直觀方式。",
+      "definition": "1. Relating to seeing or sight.; 2. Done or existing in the form of a picture, diagram, or other visible image.",
+      "example": [
+        {
+          "eng": "The presentation included impressive visual effects.",
+          "ch": "簡報包含了令人印象深刻的視覺效果。"
+        },
+        {
+          "eng": "A chart provides a useful visual aid for explaining complex data.",
+          "ch": "圖表為解釋複雜數據提供了實用的視覺輔助工具。"
+        }
+      ]
+    },
+    {
+      "eng": "vital",
+      "kk": "/ˈvaɪtəl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "極重要的",
+          "至關重要的"
+        ],
+        [
+          "維持生命所必需的",
+          "充滿活力的"
+        ]
+      ],
+      "analysis": "此字為形容詞。源自拉丁語 vitalis，源自 vita（意為生命）。語意從「生命不可或缺的」引申為任何情境中「不可或缺、至關重要」的事物。",
+      "definition": "1. Absolutely necessary or important; essential.; 2. Essential to the maintenance of life.",
+      "example": [
+        {
+          "eng": "Teamwork is vital to the success of the project.",
+          "ch": "團隊合作對於專案的成功至關重要。"
+        },
+        {
+          "eng": "The heart and brain are vital organs of the human body.",
+          "ch": "心臟和腦是人體維持生命的關鍵器官。"
+        }
+      ]
+    },
+    {
+      "eng": "voluntary",
+      "kk": "/ˈvɑːlənˌtɛri/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "自願的",
+          "主動的"
+        ],
+        [
+          "志願性的"
+        ]
+      ],
+      "analysis": "此字為形容詞。源自拉丁語 voluntarius，源自 voluntas（意為意志、意願）。指由個人自由意志決定、非受迫或非強制執行的行為。",
+      "definition": "1. Done, given, or acting of one's own free will.; 2. Working or done without payment as a volunteer.",
+      "example": [
+        {
+          "eng": "Participation in the after-school club is completely voluntary.",
+          "ch": "參加課後社團完全是自願的。"
+        },
+        {
+          "eng": "He made a voluntary donation to the local charity.",
+          "ch": "他向當地慈善機構做了自願捐款。"
+        }
+      ]
+    },
+    {
+      "eng": "volunteer",
+      "kk": "/ˌvɑːlənˈtɪr/",
+      "tense": "n.",
+      "ch": [
+        [
+          "志工",
+          "義工"
+        ]
+      ],
+      "analysis": "此字為名詞。源自法語 volontaire，源自拉丁語 voluntarius。指自願無償提供服務或參與某項工作的人。",
+      "definition": "1. A person who freely offers to take part in an enterprise or undertake a task without being paid.",
+      "example": [
+        {
+          "eng": "The museum relies heavily on volunteers to guide visitors.",
+          "ch": "這座博物館極度依賴志工來引導參觀者。"
+        }
+      ]
+    },
+    {
+      "eng": "volunteer",
+      "kk": "/ˌvɑːlənˈtɪr/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "自願提供",
+          "主動提出"
+        ]
+      ],
+      "analysis": "此字為及物動詞，由名詞 volunteer 轉用。指主動開口提供協助、意見或訊息。",
+      "definition": "1. To freely offer to do something or offer information without being asked.",
+      "example": [
+        {
+          "eng": "She volunteered her time to help clean up the neighborhood park.",
+          "ch": "她自願貢獻時間協助清理社區公園。"
+        }
+      ]
+    },
+    {
+      "eng": "volunteer",
+      "kk": "/ˌvɑːlənˈtɪr/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "自願做",
+          "當志工"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，指主動自告奮勇從事某項工作或擔任志工。",
+      "definition": "1. To offer oneself for a particular service or undertaking.",
+      "example": [
+        {
+          "eng": "Many students volunteered to work at the animal shelter during the holidays.",
+          "ch": "許多學生假期時自願去動物收容所工作。"
+        }
+      ]
+    },
+    {
+      "eng": "voyage",
+      "kk": "/ˈvɔɪɪdʒ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "航海",
+          "航行",
+          "旅程"
+        ]
+      ],
+      "analysis": "此字為名詞。源自古法語 voyage，源自拉丁語 viaticum（旅費、行資），源自 via（道路）。原指長途旅行，現代多指乘船或太空船的漫長旅程。",
+      "definition": "1. A long journey involving travel by sea or in space.",
+      "example": [
+        {
+          "eng": "The historic voyage across the Atlantic took several weeks.",
+          "ch": "那次橫越大西洋的歷史性航行花了好幾週。"
+        }
+      ]
+    },
+    {
+      "eng": "waken",
+      "kk": "/ˈweɪkən/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "叫醒",
+          "喚醒"
+        ]
+      ],
+      "analysis": "此字為及物動詞。由古英語動詞 wæcnan 或形容詞 wake 加上動詞使役字尾 -en 構成的現代透明構詞。指使某人從睡眠中醒來。",
+      "definition": "1. To rouse from sleep; awake.",
+      "example": [
+        {
+          "eng": "The loud noise outside the window began to waken the sleeping baby.",
+          "ch": "窗外的巨響開始吵醒了睡著的嬰兒。"
+        }
+      ]
+    },
+    {
+      "eng": "waken",
+      "kk": "/ˈweɪkən/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "醒來",
+          "覺醒"
+        ]
+      ],
+      "analysis": "此字為不及物動詞，指自行從睡眠中醒來或意識到某事。",
+      "definition": "1. To become awake or conscious.",
+      "example": [
+        {
+          "eng": "He slowly began to waken as the morning sun shone into his room.",
+          "ch": "隨著早晨的陽光照進房間，他慢慢醒了過來。"
+        }
+      ]
+    },
+    {
+      "eng": "website",
+      "kk": "/ˈwɛbˌsaɪt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "網站"
+        ]
+      ],
+      "analysis": "此字為名詞。由 web（全球資訊網）與 site（地點、場所）結合而成的現代複合詞，隨著網際網路興起而出現的標準現代詞彙。",
+      "definition": "1. A set of related web pages located under a single domain name.",
+      "example": [
+        {
+          "eng": "You can find more product details on our official website.",
+          "ch": "您可以在我們的官方網站上找到更多產品詳情。"
+        }
+      ]
+    },
+    {
+      "eng": "welfare",
+      "kk": "/ˈwɛlˌfɛr/",
+      "tense": "n.",
+      "ch": [
+        [
+          "福祉",
+          "安康",
+          "幸福"
+        ],
+        [
+          "社會福利",
+          "救濟金"
+        ]
+      ],
+      "analysis": "此字為名詞。由副詞 well（好）與名詞 fare（過日子、行進，源自古英語 faran「去、旅行」）複合而成。字面義為「過得好」，引申為個人的整體健康幸福，或政府提供的社會福利制度與救濟。",
+      "definition": "1. The health, happiness, and fortunes of a person or group.; 2. Statutory procedure or social effort designed to promote the basic physical and material well-being of people in need.",
+      "example": [
+        {
+          "eng": "The teacher is deeply concerned about the welfare of her students.",
+          "ch": "這位老師十分關心學生的身心福祉。"
+        },
+        {
+          "eng": "Many families depend on government welfare to make ends meet.",
+          "ch": "許多家庭依靠政府的社會福利救濟來維持生計。"
+        }
+      ]
+    },
+    {
+      "eng": "wink",
+      "kk": "/wɪŋk/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "眨眼",
+          "使眼色"
+        ]
+      ],
+      "analysis": "此字為不及物動詞。源自古英語 wincian（眨眼、閉眼），具日耳曼語源。指單側眼睛短暫閉開以傳遞訊號或表示幽默。",
+      "definition": "1. To close and open one eye quickly, typically as a private signal, a hint, or a joke.",
+      "example": [
+        {
+          "eng": "She smiled and gave me a friendly wink.",
+          "ch": "她微笑着向我親切地眨了眨眼。"
+        }
+      ]
+    },
+    {
+      "eng": "wit",
+      "kk": "/wɪt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "機智",
+          "才智"
+        ],
+        [
+          "機智幽默的人"
+        ]
+      ],
+      "analysis": "此字為名詞。源自古英語 witt（知覺、理解、智慧），源自印歐語根 *weid-（看、知道）。字面義為「見識與理解力」，現代多指語言上的機智、反應敏捷與幽默感。",
+      "definition": "1. Mental sharpness and inventiveness; keen intelligence.; 2. A person with a natural talent for using words in a clever and funny way.",
+      "example": [
+        {
+          "eng": "She is a woman of quick wit and sharp humor.",
+          "ch": "她是一位機智敏捷、風趣幽默的女性。"
+        },
+        {
+          "eng": "He was known as the wit of the dinner party.",
+          "ch": "他被認為是晚宴上的妙語如珠人物。"
+        }
+      ]
+    },
+    {
+      "eng": "witch",
+      "kk": "/wɪtʃ/",
+      "tense": "n.",
+      "ch": [
+        [
+          "女巫",
+          "巫婆"
+        ]
+      ],
+      "analysis": "此字為名詞。源自古英語 wicce（女巫），與 wit（智慧、知覺）同源，原意可能指「精通巫術、知曉神祕力量的人」。傳統 folklore 中指施展魔法的女性。",
+      "definition": "1. A woman thought to have magic powers, especially evil ones, popularly depicted as wearing a black cloak and pointed hat.",
+      "example": [
+        {
+          "eng": "In the fairy tale, the wicked witch cast a spell on the prince.",
+          "ch": "童話故事中，邪惡的女巫對王子施了咒語。"
+        }
+      ]
+    },
+    {
+      "eng": "wizard",
+      "kk": "/ˈwɪzərd/",
+      "tense": "n.",
+      "ch": [
+        [
+          "男巫",
+          "術士"
+        ],
+        [
+          "行家",
+          "高手"
+        ]
+      ],
+      "analysis": "此字為名詞。由中古英語 wischard 演變而來，由 wit（智慧）加上表人的形容詞／名詞字尾 -ard 構成。原意為「智者、博學的人」，後轉化為「精通魔法的男巫」，現代亦可引申為某領域的「電腦高手、行家」。",
+      "definition": "1. A man who has magical powers, especially in legends and fairy tales.; 2. A person who is particularly good at something.",
+      "example": [
+        {
+          "eng": "Gandalf is a powerful wizard in The Lord of the Rings.",
+          "ch": "甘道夫是《魔戒》中強大的巫師。"
+        },
+        {
+          "eng": "He is a computer wizard who can fix any technical glitch.",
+          "ch": "他是一位電腦高手，能修復任何技術故障。"
+        }
+      ]
+    },
+    {
+      "eng": "withdraw",
+      "kk": "/wɪðˈdrɔː/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "撤回",
+          "收回",
+          "提取（金錢）"
+        ]
+      ],
+      "analysis": "此字為及物動詞。由表「向後、反抗」的日耳曼語源字首 with- 與動詞 draw（拉、拖）複合而成。字面義為「向後拉」，引申為將軍隊或支持撤回、將說過的話收回，或從銀行帳戶中「提取」存款。",
+      "definition": "1. To remove or take away something from a place or position.; 2. To take money out of a bank account.",
+      "example": [
+        {
+          "eng": "The company decided to withdraw its sponsorship from the event.",
+          "ch": "公司決定撤回對該活動的贊助。"
+        },
+        {
+          "eng": "I need to go to the ATM to withdraw some cash.",
+          "ch": "我需要去自動櫃員機提領一些現金。"
+        }
+      ]
+    },
+    {
+      "eng": "witness",
+      "kk": "/ˈwɪtnəs/",
+      "tense": "n.",
+      "ch": [
+        [
+          "目擊者",
+          "證人"
+        ],
+        [
+          "證詞",
+          "證據"
+        ]
+      ],
+      "analysis": "此字為名詞。源自古英語 witniss（知識、見證），由 wit（見識、知曉）加上名詞抽象字尾 -ness 構成。指親眼看見事件發生的人，或法庭上的證人與證詞。",
+      "definition": "1. A person who sees an event, typically a crime or accident, take place.; 2. Evidence or proof of something.",
+      "example": [
+        {
+          "eng": "Police are appealing for witnesses to come forward with information.",
+          "ch": "警方呼籲目擊者出面提供消息。"
+        },
+        {
+          "eng": "His success is a witness to his hard work and dedication.",
+          "ch": "他的成功證明了他的努力與奉獻。"
+        }
+      ]
+    },
+    {
+      "eng": "witness",
+      "kk": "/ˈwɪtnəs/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "目擊",
+          "親眼看見",
+          "見證"
+        ]
+      ],
+      "analysis": "此字為及物動詞，由名詞 witness 轉用。指親眼見證某個事件、歷史時刻或犯罪過程發生。",
+      "definition": "1. To see an event happen, typically a crime or other accident.",
+      "example": [
+        {
+          "eng": "Several people walking on the street witnessed the car crash.",
+          "ch": "幾名走在街上的路人目擊了這起車禍。"
+        }
+      ]
+    },
+    {
+      "eng": "workout",
+      "kk": "/ˈwɜːrˌkaʊt/",
+      "tense": "n.",
+      "ch": [
+        [
+          "健身",
+          "體能鍛鍊",
+          "訓練"
+        ]
+      ],
+      "analysis": "此字為名詞。由動詞片語 work out（鍛鍊、解決）轉化而來的複合名詞。指為了保持健康或增強體能而進行的體育鍛鍊。",
+      "definition": "1. A session of vigorous physical exercise or training.",
+      "example": [
+        {
+          "eng": "He goes to the gym every morning for a rigorous workout.",
+          "ch": "他每天早上都去健身房進行嚴格的體能鍛鍊。"
+        }
+      ]
+    },
+    {
+      "eng": "workplace",
+      "kk": "/ˈwɜːrkˌpleɪs/",
+      "tense": "n.",
+      "ch": [
+        [
+          "工作場所",
+          "職場"
+        ]
+      ],
+      "analysis": "此字為名詞。由 work（工作）與 place（地方）結合而成的現代複合詞。指人們上班、工作的辦公室、工廠或其他場所。",
+      "definition": "1. A place where people work, such as an office or factory.",
+      "example": [
+        {
+          "eng": "Diversity and inclusion are crucial for a healthy workplace.",
+          "ch": "多元與包容對健康的職場環境至關重要。"
+        }
+      ]
+    },
+    {
+      "eng": "wreck",
+      "kk": "/rɛk/",
+      "tense": "n.",
+      "ch": [
+        [
+          "殘骸",
+          "失事船隻"
+        ],
+        [
+          "破敗的人",
+          "精神崩潰者"
+        ]
+      ],
+      "analysis": "此字為名詞。源自盎格魯-諾曼語 wrec 或古諾斯語 rek（漂流物）。原指船隻失事後的殘骸，後引申為因壓力或疾病而精神、身體極度垮掉的人。",
+      "definition": "1. The remains of a ship that has been sunk or broken up.; 2. A person who is in a very bad physical or mental condition.",
+      "example": [
+        {
+          "eng": "Divers explored the sunken wreck off the coast.",
+          "ch": "潛水員探索了海岸附近的沉船殘骸。"
+        },
+        {
+          "eng": "After working for 36 hours straight, he was a physical wreck.",
+          "ch": "連續工作36小時後，他整個人體力崩潰。"
+        }
+      ]
+    },
+    {
+      "eng": "wreck",
+      "kk": "/rɛk/",
+      "tense": "vt.",
+      "ch": [
+        [
+          "破壞",
+          "毀壞",
+          "使失事"
+        ]
+      ],
+      "analysis": "此字為及物動詞。源自日耳曼語族，指破壞船隻或蓄意摧毀計畫、建築與物品。",
+      "definition": "1. To destroy or badly damage something.",
+      "example": [
+        {
+          "eng": "The storm completely wrecked several houses along the coastline.",
+          "ch": "風暴徹底摧毀了海岸線旁的幾棟房屋。"
+        }
+      ]
+    },
+    {
+      "eng": "yawn",
+      "kk": "/jɔːn/",
+      "tense": "vi.",
+      "ch": [
+        [
+          "打哈欠"
+        ]
+      ],
+      "analysis": "此字為不及物動詞。源自古英語 gēonian（打哈欠），源自印歐語根，具日耳曼語源。指因疲倦或無聊而不自主地張大嘴巴呼吸。",
+      "definition": "1. To involuntarily open one's mouth wide and take a deep breath due to tiredness or boredom.",
+      "example": [
+        {
+          "eng": "He could not stop yawning during the long boring lecture.",
+          "ch": "在這場漫長而無聊的講座中，他忍不住一直打哈欠。"
+        }
+      ]
+    },
+    {
+      "eng": "youthful",
+      "kk": "/ˈjuːθfəl/",
+      "tense": "adj.",
+      "ch": [
+        [
+          "年輕的",
+          "富有青春活力的"
+        ]
+      ],
+      "analysis": "此字為形容詞。由名詞 youth（青年）加上形容詞字尾 -ful（充滿……的）構成的現代透明構詞。指具有年輕人的特質、外貌或充滿朝氣與活力。",
+      "definition": "1. Remaining young and energetic; characteristic of youth.",
+      "example": [
+        {
+          "eng": "Despite his age, he maintains a youthful appearance and energy.",
+          "ch": "儘管上了年紀，他依然保持著年輕的外貌與活力。"
+        }
+      ]
+    }
+  ]
+}

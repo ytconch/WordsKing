@@ -17,6 +17,18 @@ async function requireAuth(req, res, next) {
     return res.status(401).json({ message: "Invalid or expired token." });
   }
 
+  if (payload.guest === true) {
+    req.user = {
+      id: null,
+      username: "guest",
+      role: "guest",
+      isGuest: true
+    };
+    req.__skipAuditLog = true;
+    next();
+    return;
+  }
+
   try {
     const user = await clientDb.get(
       `SELECT id, username, role, token_version AS tokenVersion
@@ -52,7 +64,55 @@ function requireAdmin(req, res, next) {
   next();
 }
 
+async function optionalAuth(req, res, next) {
+  const authHeader = req.headers.authorization || "";
+  const token = authHeader.startsWith("Bearer ") ? authHeader.slice(7) : null;
+  if (!token) {
+    return next();
+  }
+
+  let payload;
+  try {
+    payload = jwt.verify(token, jwtSecret);
+  } catch {
+    return next();
+  }
+
+  if (payload.guest === true) {
+    req.user = {
+      id: null,
+      username: "guest",
+      role: "guest",
+      isGuest: true
+    };
+    return next();
+  }
+
+  try {
+    const user = await clientDb.get(
+      `SELECT id, username, role, token_version AS tokenVersion
+       FROM users
+       WHERE id = ?`,
+      [payload.id]
+    );
+
+    if (user && Number(user.tokenVersion || 0) === Number(payload.tokenVersion)) {
+      req.user = {
+        id: user.id,
+        username: user.username,
+        role: user.role,
+        tokenVersion: Number(user.tokenVersion || 0)
+      };
+    }
+    next();
+  } catch {
+    next();
+  }
+}
+
 module.exports = {
   requireAuth,
-  requireAdmin
+  requireAdmin,
+  optionalAuth
 };
+
